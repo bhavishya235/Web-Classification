@@ -1,0 +1,828 @@
+<topic r:id="Top/Computers/Hardware/Components">
+<catid>381387</catid>
+<link r:resource="http://www.intel.com/" />
+<link r:resource="http://www.conres.com/" />
+<link r:resource="http://www.maxim-ic.com/" />
+<link r:resource="http://www.macbattery.com/" />
+<link r:resource="http://www.southgatecomputers.com/" />
+<link r:resource="http://www.totalcontrolsolutions.com/" />
+<link r:resource="http://www.econram.com/" />
+<link r:resource="http://www.ibselectronics.com/" />
+<link r:resource="http://www.kingli.com/" />
+<link r:resource="http://www.nidec.com/" />
+<link r:resource="http://www.fmjpadlock.com/" />
+<link r:resource="http://www.nyquist-solutions.co.uk/" />
+<link r:resource="http://www.payless411.com/" />
+<link r:resource="http://www.leadman.com/" />
+<link r:resource="http://www.pctechguide.com/" />
+<link r:resource="http://www.frontx.com/" />
+<link r:resource="http://www.compucase-hec.co.uk/" />
+<link r:resource="http://www.spectron.net/" />
+<link r:resource="http://www.tribecaexpress.com/" />
+<link r:resource="http://www.computergoodies.ca/" />
+<link r:resource="http://www.cpuprices.com/" />
+<link r:resource="http://www.andersonpc.com/" />
+<link r:resource="http://www.directron.com/" />
+<link r:resource="http://www.omassociates.com/" />
+<link r:resource="http://www.kamcom.com/" />
+<link r:resource="http://www.bellmicro.com/" />
+<link r:resource="http://www.cobracomputer.com/" />
+<link r:resource="http://www.pcupgrade.co.uk/" />
+<link r:resource="http://www.pcassist.co.uk/" />
+<link r:resource="http://www.dymatec.com/index.htm" />
+<link r:resource="http://www.targetcomponents.co.uk/" />
+<link r:resource="http://www.9thtee.com/" />
+<link r:resource="http://www.compusaveinc.net/" />
+<link r:resource="http://www.cmicomputer.com/" />
+<link r:resource="http://www.dandh.com/" />
+<link r:resource="http://www.barebonespckits.com/" />
+<link r:resource="http://www.villagegeek.com/" />
+<link r:resource="http://www.aria.co.uk/" />
+<link r:resource="http://www.amamax.com/" />
+<link r:resource="http://www.ktscomputers.co.uk/" />
+<link r:resource="http://www.centerprise.co.uk/" />
+<link r:resource="http://www.elmag.co.il/" />
+<link r:resource="http://www.isecure.com/" />
+<link r:resource="http://www.sundialmicro.com/" />
+<link r:resource="http://www.connecttech.com/" />
+<link r:resource="http://global.acer.com/" />
+<link r:resource="http://www.diycomputers.com.au/" />
+<link r:resource="http://www.computersonics.com/" />
+<link r:resource="http://www.bridgeview.com/" />
+<link r:resource="http://www.koutech.com/" />
+<link r:resource="http://www.computerpowersolutions.com/" />
+<link r:resource="http://www.devatec.co.uk/" />
+<link r:resource="http://sphinxcomputers.co.uk/" />
+<link r:resource="http://www.topmicrousa.com/" />
+<link r:resource="http://www.users.qwest.net/~bcrpc/" />
+<link r:resource="http://www.jncs.com/" />
+<link r:resource="http://www.silverpcs.com/" />
+<link r:resource="http://www.intproducts.com/industrial.html" />
+<link r:resource="http://www.coolermaster.com/" />
+<link r:resource="http://www.ashdistribution.co.uk/" />
+<link r:resource="http://www.concord-electronics.com/" />
+<link r:resource="http://www.thermaltakeusa.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/ASICs_and_Chips">
+<catid>381397</catid>
+<link r:resource="http://www.sitronix.com.tw/" />
+<link r:resource="http://www.id-mos.com/" />
+<link r:resource="http://www.s3group.com/" />
+<link r:resource="http://www.rficdesign.com/" />
+<link r:resource="http://www.ezchip.com/" />
+<link r:resource="http://www.einfochips.com/" />
+<link r:resource="http://www.rambus.com/" />
+<link r:resource="http://www.chipsupply.com/" />
+<link r:resource="http://www.legendsilicon.com/" />
+<link r:resource="http://www.cportcorp.com/" />
+<link r:resource="http://www.faqs.org/faqs/pc-hardware-faq/chiplist/part1/" />
+<link r:resource="http://www.system-to-asic.com/" />
+<link r:resource="http://www.lateralsands.com/" />
+<link r:resource="http://www.ftdichip.com/index.html" />
+<link r:resource="http://www.usbphone.com/" />
+<link r:resource="http://www.comport-data.com/" />
+<link r:resource="http://www.sonicsinc.com/" />
+<link r:resource="http://www.rfel.com/" />
+<link r:resource="http://www.icoding.com/" />
+<link r:resource="http://www.asic.co.za/" />
+<link r:resource="http://www.heliontech.com/" />
+<link r:resource="http://www.jennic.com/" />
+<link r:resource="http://www.perfisans.com/" />
+<link r:resource="http://www.advancedsilicon.com/" />
+<link r:resource="http://www.barco.com/subcontracting/en/designservices" />
+<link r:resource="http://www.siliconinterfaces.com/" />
+<link r:resource="http://www.freewebs.com/ccenterprises/index.htm" />
+<link r:resource="http://www.forzasilicon.com/" />
+<link r:resource="http://brighteyesconsulting.com/" />
+<link r:resource="http://www.icmaskdesign.com/" />
+<link r:resource="http://www.jmicron.com/" />
+<link r:resource="http://www.easic.com/" />
+<link r:resource="http://www.stargatesemiconductor.com/" />
+<link r:resource="http://www.clearspeed.com/" />
+<link r:resource="http://www.bitsim.com/" />
+<link r:resource="http://www.micronas.com/" />
+<link r:resource="http://tahoerf.com/" />
+<link r:resource="http://www.flowgic.com/" />
+<link r:resource="http://www.floridamicro.com/" />
+<link r:resource="http://www.alma-tech.com/" />
+<link r:resource="http://www.chiphit.com/" />
+<link r:resource="http://www.coreworks-sa.com/" />
+<link r:resource="http://www.maxictech.com/" />
+<link r:resource="http://pulsedge.com/" />
+<link r:resource="http://www.broadpak.com/" />
+<link r:resource="http://www.eyelytics.com/" />
+<link r:resource="http://www.tctechnologies.tc/" />
+<link r:resource="http://www.intopix.com/" />
+<link r:resource="http://www.aizyc.com/" />
+<link r:resource="http://www.rivermarktech.com/" />
+<link r:resource="http://www.ipcores.com/" />
+<link r:resource="http://www.raio.com.tw/" />
+<link r:resource="http://www.vedic-vlsi.com/" />
+<link r:resource="http://www.toshiba-components.com/ASIC/" />
+<link r:resource="http://www.sibridgetech.com/" />
+<link r:resource="http://www.microdul.com/" />
+<link r:resource="http://www.scl.gov.in/" />
+<link r:resource="http://www.accent-soc.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/BIOS">
+<catid>381440</catid>
+<link r:resource="http://www.ami.com/" />
+<link r:resource="http://www.phoenix.com/" />
+<link r:resource="http://www.driverforum.com/bios/" />
+<link r:resource="http://www.sonal.co.uk/y2k10120.htm" />
+<link r:resource="http://www.badflash.com/" />
+<link r:resource="http://hardwarehell.com/bioscomp.htm" />
+<link r:resource="http://www.flashbios.org/" />
+<link r:resource="http://www.wimsbios.com/" />
+<link r:resource="http://www.recoverybios.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Cases">
+<catid>381389</catid>
+<link r:resource="http://qubeinc.com/" />
+<link r:resource="http://casemod.tripod.com/" />
+<link r:resource="http://www.calpc.com/" />
+<link r:resource="http://www.kricomputer.com/" />
+<link r:resource="http://www.coolcases.com/" />
+<link r:resource="http://www.mypccase.com/" />
+<link r:resource="http://www.brian1.net/computers/" />
+<link r:resource="http://www.ricon.com.au/" />
+<link r:resource="http://www.yeongyang.com/" />
+<link r:resource="http://www.rackrelease.com/" />
+<link r:resource="http://www.cybertec.bc.ca/" />
+<link r:resource="http://www.apextechusa.com/" />
+<link r:resource="http://linear1.org/mods/" />
+<link r:resource="http://www.acmetech.co.uk/" />
+<link r:resource="http://www.g-news.ch/articles/nhp200nc/" />
+<link r:resource="http://www.ocmodshop.com/" />
+<link r:resource="http://www.sunlink.com.tw/" />
+<link r:resource="http://www.epowerhousepc.com/" />
+<link r:resource="http://www.clearcomputercase.com/" />
+<link r:resource="http://www.pc-look.com/boutik/default.php?language=en" />
+<link r:resource="http://www.smooth-creations.com/" />
+<link r:resource="http://www.plinkusa.net/" />
+<link r:resource="http://www.colorwarepc.com/" />
+<link r:resource="http://www.computerplug.com/" />
+<link r:resource="http://metku.net/" />
+<link r:resource="http://www.rackmountmaster.com/" />
+<link r:resource="http://www.coolcomputercases.com/" />
+<link r:resource="http://www.clearpc.ca/" />
+<link r:resource="http://www.chenbro.com/" />
+<link r:resource="http://www.supernotebook.com/" />
+<link r:resource="http://www.orientcase.com/" />
+<link r:resource="http://www.lian-li.com.tw/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Fans_and_Cooling_Devices">
+<catid>381445</catid>
+<link r:resource="http://www.2cooltek.com/" />
+<link r:resource="http://www.crazypc.com/" />
+<link r:resource="http://www.quietpc.com/" />
+<link r:resource="http://www.coolerguys.com/" />
+<link r:resource="http://www.wakefield.com/" />
+<link r:resource="http://www.nengtyi.com.tw/" />
+<link r:resource="http://www.chenghome.com.tw/" />
+<link r:resource="http://www.globalwin.com.tw/" />
+<link r:resource="http://www.2coolpc.com/" />
+<link r:resource="http://www.vbd.com/" />
+<link1 r:resource="http://www.heatsink-guide.com/"></link1>
+<link r:resource="http://www.circuittest.com/" />
+<link r:resource="http://www.sunonusa.com/" />
+<link r:resource="http://www.frozencpu.com/" />
+<link r:resource="http://www.thermocoolcorp.com/" />
+<link r:resource="http://www.everythingconnected.com/" />
+<link r:resource="http://www.sinwan.com/" />
+<link r:resource="http://www.coolinnovations.com/" />
+<link r:resource="http://www.heatsink.com/" />
+<link r:resource="http://www.bisonic.com.tw/" />
+<link r:resource="http://www.dynatron-corp.com/" />
+<link r:resource="http://www.jab-tech.com/" />
+<link r:resource="http://www.sidewindercomputers.com/" />
+<link r:resource="http://www.jmcproducts.com/" />
+<link r:resource="http://pccasegear.com/" />
+<link r:resource="http://www.evercool.com.tw/" />
+<link r:resource="http://www.accelthermal.com/" />
+<link r:resource="http://www.coolercases.co.uk/" />
+<link r:resource="http://www.chiefly-choice.com.tw/" />
+<link r:resource="http://www.globalwinusa.com/" />
+<link r:resource="http://www.acousticpc.com/" />
+<link r:resource="http://www.jarothermal.com/" />
+<link r:resource="http://www.heatsinkfactory.com/" />
+<link r:resource="http://www.industrial-fan-manufacturer.com/" />
+<link r:resource="http://www.sems.com.my/" />
+<link r:resource="http://www.pcpower.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Fans_and_Cooling_Devices/Watercooling">
+<catid>381446</catid>
+<link r:resource="http://www.benchtest.com/" />
+<link r:resource="http://www.swiftnets.com/" />
+<link r:resource="http://www.tekheads.co.uk/" />
+<link r:resource="http://www.nyx.net/~smanley/watercool" />
+<link r:resource="http://www.wc101.com/" />
+<link r:resource="http://www.highspeedpc.com/" />
+<link r:resource="http://www.petrastechshop.com/" />
+<link r:resource="http://computer.howstuffworks.com/liquid-cooled-pc1.htm" />
+<link r:resource="http://www.candccentral.co.uk/" />
+<link r:resource="http://www.hwlabs.com/" />
+<link r:resource="http://www.watercoolinguk.co.uk/" />
+<link r:resource="http://www.xspc.biz/" />
+<link r:resource="http://www.pc-water-cooling.com/" />
+<link r:resource="http://koolance.com/" />
+<link r:resource="http://www.aqua-computer.de/e_index" />
+<link r:resource="http://www.asetek.com/" />
+<link r:resource="http://www.dangerden.com/" />
+<link r:resource="http://www.alphacool.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Memory">
+<catid>381388</catid>
+<link r:resource="http://www.dataram.com/" />
+<link r:resource="http://www.datamemorysystems.com/" />
+<link r:resource="http://www.kingston.com/" />
+<link r:resource="http://www.pcpartscollection.com/" />
+<link r:resource="http://www.kahlon.com/" />
+<link r:resource="http://www.simpletech.com/" />
+<link r:resource="http://www.nextwarehouse.com/" />
+<link r:resource="http://www.macseek.com/" />
+<link r:resource="http://www.thechipmerchant.com/" />
+<link r:resource="http://www.crucial.com/" />
+<link r:resource="http://www.advantagememory.com/" />
+<link r:resource="http://www.minnesotamemory.com/" />
+<link r:resource="http://cpu4u.com/" />
+<link r:resource="http://www.bisoncomponents.com/" />
+<link r:resource="http://www.orcalogic.co.uk/" />
+<link r:resource="http://www.wintecind.com/" />
+<link r:resource="http://www.memman.com/" />
+<link r:resource="http://www.smartm.com/" />
+<link r:resource="http://www.mushkin.com/" />
+<link r:resource="http://www.memory-express.co.uk/" />
+<link r:resource="http://www.datec-group.com/" />
+<link r:resource="http://www.18004memory.com/" />
+<link r:resource="http://www.mustangmemory.com/" />
+<link r:resource="http://www.2020.ie/" />
+<link r:resource="http://www.memoryx.net/" />
+<link r:resource="http://www.majormemory.com/" />
+<link r:resource="http://www.memory4less.com/" />
+<link r:resource="http://www.simmtec.com/" />
+<link r:resource="http://www.simpleuk.com/" />
+<link r:resource="http://www.questek.com.sg/" />
+<link r:resource="http://www.shop4memory.com/" />
+<link r:resource="http://www.micron.com/" />
+<link r:resource="http://www.satech.com/" />
+<link r:resource="http://www.memorygalaxy.com/" />
+<link r:resource="http://www.ocztechnology.com/" />
+<link r:resource="http://www.rambus.com/" />
+<link r:resource="http://www.memorybank.com/" />
+<link r:resource="http://www.memorydealers.com/" />
+<link r:resource="http://www.sweetmemory.com/" />
+<link r:resource="http://www.vikingcomponents.com/" />
+<link r:resource="http://www.memorystock.com/" />
+<link r:resource="http://www.tidalink.com/" />
+<link r:resource="http://www.unigen.com/" />
+<link r:resource="http://www.shopmemory.net/" />
+<link r:resource="http://www.atpinc.com/" />
+<link r:resource="http://www.elixir-memory.com/" />
+<link r:resource="http://www.centon.com/" />
+<link r:resource="http://www.oempcworld.com/" />
+<link r:resource="http://www.asatechnology.com/" />
+<link r:resource="http://www.ram-it.com/" />
+<link r:resource="http://www.offtek.co.uk/" />
+<link r:resource="http://www.geil.com.tw/" />
+<link r:resource="http://www.gigaram.com/" />
+<link r:resource="http://www.upgradememory.com/" />
+<link r:resource="http://www.archmemory.com/" />
+<link r:resource="http://www.edgetechcorp.com/" />
+<link r:resource="http://www.upgradeable.com.au/" />
+<link r:resource="http://www.swissbit.com/" />
+<link r:resource="http://wct.com/index.php" />
+<link r:resource="http://www.memory-up.com/" />
+<link r:resource="http://www.pctechguide.com/14Memory.htm" />
+<link r:resource="http://www.teamgroup.com.tw/" />
+<link r:resource="http://www.theupgradeplace.com/" />
+<link r:resource="http://www.globalcomponentsolutions.com/" />
+<link r:resource="http://www.dane-elec.fr/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Motherboards">
+<catid>381441</catid>
+<link r:resource="http://www.asus.com/" />
+<link r:resource="http://www.tyan.com/" />
+<link r:resource="http://www.supermicro.com/" />
+<link r:resource="http://www.fic.com.tw/" />
+<link r:resource="http://www.bcmcom.com/" />
+<link r:resource="http://www.ecs.com.tw/" />
+<link r:resource="http://www.dfi.com.tw/" />
+<link r:resource="http://www.mainboard.cz/" />
+<link r:resource="http://www.nvidia.com/page/mobo.html" />
+<link r:resource="http://www.asrock.com/" />
+<link r:resource="http://www.hitechglobal.com/" />
+<link r:resource="http://www.intelforums.net/" />
+<link r:resource="http://www.foxconn.com/" />
+<link r:resource="http://www.biostar.com.tw/" />
+<link r:resource="http://www.jetwaycomputer.com/" />
+<link r:resource="http://www.sapphiretech.com/" />
+<link r:resource="http://www.pcpartner.com/" />
+<link r:resource="http://www.via.com.tw/en/index.jsp" />
+<link r:resource="http://global.shuttle.com/" />
+<link r:resource="http://www.corvalent.com/" />
+<link r:resource="http://www.tcommate.com.tw/" />
+<link r:resource="http://www.esapcsolutions.com/" />
+<link r:resource="http://www.megatrends.com/" />
+<link r:resource="http://www.gigabyte.com.tw/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Motherboards/Accessories">
+<catid>381443</catid>
+<link r:resource="http://www.thecapking.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Motherboards/FAQs,_Help,_and_Tutorials">
+<catid>381442</catid>
+<link r:resource="http://motherboards.mbarron.net/" />
+<link r:resource="http://www.elhvb.com/" />
+<link r:resource="http://computer.howstuffworks.com/motherboard.htm" />
+<link r:resource="http://www.pctechguide.com/11Motherboards.htm" />
+<link r:resource="http://www.acme.com/build_a_pc/boardfinder/" />
+<link r:resource="http://discussions.hardwarecentral.com/forumdisplay.php?f=7" />
+<link r:resource="http://www.neoseeker.com/forums/4/" />
+<link r:resource="http://www.motherboardpoint.com/" />
+<link r:resource="http://www.laptopmotherboard.org/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Motherboards/Magazines_and_E-zines">
+<catid>381444</catid>
+<link r:resource="http://www.mini-itx.com/" />
+<link r:resource="http://active-hardware.com/english/reviews/mainboard/mainboard.htm" />
+<link r:resource="http://www.anandtech.com/mb/" />
+<link r:resource="http://www.motherboards.org/" />
+<link r:resource="http://mobospecs.blogspot.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Power_Supply_Units">
+<catid>381438</catid>
+<link r:resource="http://www.zalman.co.kr/" />
+<link r:resource="http://www.enermax.com.tw/" />
+<link r:resource="http://www.nexustek.nl/" />
+<link r:resource="http://www.hipergroup.com/" />
+<link r:resource="http://www.antec.com/" />
+<link r:resource="http://www.akasa.com.tw/" />
+<link r:resource="http://www.enhanceusa.com/" />
+<link r:resource="http://www.n2power.com/" />
+<link r:resource="http://www.seasonic.com/" />
+<link r:resource="http://www.helly.com.cn/" />
+<link r:resource="http://compreviews.about.com/od/cases/bb/PSU.htm" />
+<link r:resource="http://www.leeer.com/" />
+<link r:resource="http://www.tagan.com.tw/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Power_Supply_Units/Reviews">
+<catid>381439</catid>
+<link r:resource="http://www.extremeoverclocking.com/articles.php#13" />
+<link r:resource="http://techreport.com/reviews/2004q4/psus/index.x?pg=1" />
+<link r:resource="http://www.silentpcreview.com/section4.html" />
+<link r:resource="http://www.devhardware.com/c/b/Power-Supply-Units/" />
+<link r:resource="http://www.jonnyguru.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors">
+<catid>381399</catid>
+<link r:resource="http://www.idt.com/" />
+<link r:resource="http://pages.cs.wisc.edu/~arch/www/" />
+<link r:resource="http://www.clearspeed.com/" />
+<link r:resource="http://www.mdronline.com/" />
+<link r:resource="http://www.powerleap.com/" />
+<link r:resource="http://www.amberwave.com/" />
+<link r:resource="http://www.cs.ucr.edu/~vahid/sproj/lc2/index.html" />
+<link r:resource="http://www.mitsubishichips.com/" />
+<link r:resource="http://en.wikipedia.org/wiki/Central_processing_unit" />
+<link r:resource="http://domino.research.ibm.com/comm/research.nsf/pages/r.arch.html" />
+<link r:resource="http://caps.cs.binghamton.edu/" />
+<link r:resource="http://www.newscientist.com/article/dn2954" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/65xx">
+<catid>381417</catid>
+<link r:resource="http://en.wikipedia.org/wiki/MOS_Technology_6502" />
+<link r:resource="http://en.wikipedia.org/wiki/MOS_Technology" />
+<link r:resource="http://www.cpu-world.com/CPUs/650x/" />
+<link r:resource="http://www.cpu-collection.de/?tn=1&amp;l0=cl&amp;l1=650x" />
+<link1 r:resource="http://www.6502.org/"></link1>
+<link1 r:resource="http://www.westerndesigncenter.com/"></link1>
+<link r:resource="http://www.wiz-worx.com/resume/byte8010.htm" />
+<link r:resource="http://www.6502asm.com/" />
+<link r:resource="http://atarihq.com/danb/6502.shtml" />
+<link r:resource="http://www.zophar.net/6502.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/68k">
+<catid>381424</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Motorola_68000" />
+<link r:resource="http://en.wikipedia.org/wiki/68k" />
+<link r:resource="http://www.esacademy.com/automation/faq/m68k/" />
+<link r:resource="http://www.freescale.com/webapp/sps/site/homepage.jsp?nodeId=0162468rH3YTLC" />
+<link r:resource="http://www.cpu-collection.de/?tn=1&amp;l0=cl&amp;l1=68000" />
+<link r:resource="http://sca.uwaterloo.ca/coldfire/gcc-doc/docs.htm" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Alpha">
+<catid>381431</catid>
+<link r:resource="http://www.hp.com/products1/evolution/alpha_retaintrust/" />
+<link r:resource="http://en.wikipedia.org/wiki/DEC_Alpha" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/ARM">
+<catid>381434</catid>
+<link r:resource="http://www.arm.com/" />
+<link r:resource="http://www.cirruslogic.com/design/products/index.cfm?DivisionID=6" />
+<link r:resource="http://www.bluewatersys.com/" />
+<link r:resource="http://en.wikipedia.org/wiki/ARM_architecture" />
+<link r:resource="http://www.inf.u-szeged.hu/gcc-arm/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Asynchronous">
+<catid>381420</catid>
+<link r:resource="http://www.fulcrummicro.com/" />
+<link r:resource="http://www.async.caltech.edu/" />
+<link r:resource="http://www.win.tue.nl/async-bib/" />
+<link r:resource="http://www.trnmag.com/Stories/2003/042303/Nanocomputer_skips_clock_042303.html" />
+<link r:resource="http://www.spacedaily.com/news/time-02b.html" />
+<link r:resource="http://dataweek.co.za/article.aspx?pklArticleId=2277" />
+<link r:resource="http://www.computerworld.com/s/article/76931/Computer_Clocks_Wind_Down?taxonomyId=012" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/AVR">
+<catid>381433</catid>
+<link r:resource="http://www.avr-asm-tutorial.net/" />
+<link r:resource="http://winavr.sourceforge.net/" />
+<link r:resource="http://www.hpinfotech.ro/" />
+<link r:resource="http://avr-asm.tripod.com/" />
+<link r:resource="http://www.nongnu.org/avr-libc/" />
+<link r:resource="http://www.smileymicros.com/" />
+<link r:resource="http://retrodan.tripod.com/" />
+<link r:resource="http://tech.groups.yahoo.com/group/avrbutterfly/" />
+<link r:resource="http://en.wikipedia.org/wiki/Atmel_AVR" />
+<link r:resource="http://www.mcselec.com/" />
+<link r:resource="http://instruct1.cit.cornell.edu/courses/ee476/FinalProjects/" />
+<link r:resource="http://www.scienceprog.com/" />
+<link r:resource="http://www.avrfreaks.net/" />
+<link r:resource="http://www.myplace.nu/avr/" />
+<link r:resource="http://www.avrprojects.net/" />
+<link r:resource="http://www.theiling.de/avr.html" />
+<link r:resource="http://cappels.org/dproj/Home.htm" />
+<link r:resource="http://www.riccibitti.com/" />
+<link1 r:resource="http://www.atmel.com/products/AVR/"></link1>
+<link r:resource="http://www.webring.org/hub?ring=avr" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Barrel">
+<catid>381411</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Barrel_processor" />
+<link r:resource="http://www.cs.clemson.edu/~mark/g60.html" />
+<link r:resource="http://febcm.club.fr/english/gamma_60.htm" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Bit_Slice">
+<catid>381427</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Bit_slicing" />
+<link r:resource="http://smithsonianchips.si.edu/augarten/p46.htm" />
+<link r:resource="http://www.cs.binghamton.edu/~lowpower/koolchips00.pdf" />
+<link r:resource="http://www.cpu-world.com/CPUs/2901/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Cellular_Automata">
+<catid>381428</catid>
+<link r:resource="http://www.nd.edu/~qcahome/" />
+<link r:resource="http://www.cse.nd.edu/~cse_proj/qca_design/" />
+<link r:resource="http://www.mitre.org/tech/nanotech/quantum_dot_cell.html" />
+<link r:resource="http://www.moshesipper.com/pcm/" />
+<link r:resource="http://www.wired.com/science/discoveries/news/2006/02/70190" />
+<link r:resource="http://www.mina.ubc.ca/qcadesigner" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/CISC">
+<catid>381435</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Complex_instruction_set_computer" />
+<link r:resource="http://www.webopedia.com/term/c/cisc.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/DLX">
+<catid>381432</catid>
+<link r:resource="http://en.wikipedia.org/wiki/DLX" />
+<link r:resource="http://www.csee.umbc.edu/courses/undergraduate/411/spring96/dlx.html" />
+<link r:resource="http://www.eng.tau.ac.il/~guy/Computer_Structure03/slides/instructions.pdf" />
+<link r:resource="http://www.ece.neu.edu/faculty/kaeli.html" />
+<link r:resource="http://portal.acm.org/citation.cfm?id=546884" />
+<link r:resource="http://heather.cs.ucdavis.edu/~matloff/dlx.html" />
+<link r:resource="http://www.hpc.msstate.edu/mpl/education/docs/dlx/" />
+<link r:resource="http://www.ece.umd.edu/class/enee350h.F2005/dlx.html" />
+<link r:resource="http://www.ics.forth.gr/carv/aspida/" />
+<link r:resource="http://www.soe.ucsc.edu/~sbrandt/courses/Spring02/111/dlxos.html" />
+<link r:resource="http://www.rs.tu-darmstadt.de/downloads/docu/dlxdocu/SuperscalarDLX.html" />
+<link r:resource="http://www.cse.lehigh.edu/~caar/lou/dlx.html" />
+<link r:resource="http://www.kroening.com/diplom/" />
+<link r:resource="http://www.erc.msstate.edu/mpl/distributions/scmos/html/dlx.html" />
+<link r:resource="http://www.cs.umd.edu/class/fall2001/cmsc411/proj01/DLX/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Education">
+<catid>381430</catid>
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/iAPX-432">
+<catid>381416</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Intel_iAPX_432" />
+<link r:resource="http://www.brouhaha.com/~eric/retrocomputing/intel/iapx432/" />
+<link r:resource="http://www.cs.washington.edu/homes/lazowska/eden.html" />
+<link r:resource="http://www.cs.clemson.edu/~mark/432.html" />
+<link r:resource="http://www.cs.washington.edu/homes/levy/capabook/Chapter9.pdf" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Minimal">
+<catid>381404</catid>
+<link r:resource="http://www.newmicros.com/" />
+<link r:resource="http://www.jopdesign.com/" />
+<link r:resource="http://www.ultratechnology.com/chips.htm" />
+<link r:resource="http://www.ultratechnology.com/misc.html" />
+<link r:resource="http://www.sandpipers.com/" />
+<link r:resource="http://www.ptsc.com/" />
+<link r:resource="http://www.zetetics.com/recursiv/capabil.htm#Hardware" />
+<link r:resource="http://www.triangledigital.com/" />
+<link r:resource="http://www.ece.cmu.edu/~koopman/stack.html" />
+<link r:resource="http://www.ece.cmu.edu/~koopman/stack_computers/" />
+<link r:resource="http://www.cs.uiowa.edu/~jones/arch/risc/" />
+<link r:resource="http://www.cse.cuhk.edu.hk/~phwl/mt/public/archives/old/msl16/msl16.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Transport_Triggered_Architectures" />
+<link r:resource="http://www.ics.ele.tue.nl/~heco/documents/TTAbook/TTAbook.html" />
+<link r:resource="http://en.wikipedia.org/wiki/One_instruction_set_computer" />
+<link r:resource="http://www.sccs.swarthmore.edu/users/06/adem/engin/e25/finale/" />
+<link r:resource="http://mozaika.com.au/oleg/subleq/" />
+<link r:resource="http://www.cowlark.com/nisc/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/MIPS">
+<catid>381413</catid>
+<link r:resource="http://en.wikipedia.org/wiki/MIPS_architecture" />
+<link r:resource="http://www.mips.com/" />
+<link r:resource="http://ertos.nicta.com.au/software/sulima/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/MIPS/Emotion_Engine">
+<catid>381414</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Emotion_Engine" />
+<link r:resource="http://news.bbc.co.uk/1/hi/technology/2940422.stm" />
+<link r:resource="http://www.toshiba.com/taec/news/press_releases/2000/to-062.jsp" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Multiprocessors">
+<catid>381415</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Multiprocessing" />
+<link r:resource="http://www.eecg.toronto.edu/parallel/parallel/NUMA.Welcome.html" />
+<link r:resource="http://www.technologyreview.com/read_article.aspx?id=17076&amp;ch=infotech" />
+<link r:resource="http://www.anandtech.com/cpuchipsets/showdoc.aspx?i=2925" />
+<link r:resource="http://arstechnica.com/articles/paedia/cpu/terascale.ars" />
+<link r:resource="http://groups.csail.mit.edu/cag/alewife/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Nios">
+<catid>381423</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Nios_II" />
+<link r:resource="http://www.altera.com/products/ip/processors/nios/nio-index.html" />
+<link r:resource="http://instruct1.cit.cornell.edu/courses/ece576/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Open_Source">
+<catid>381405</catid>
+<link r:resource="http://f-cpu.seul.org/" />
+<link r:resource="http://www.ddj.com/linux-open-source/197800817/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/PA-RISC">
+<catid>381437</catid>
+<link r:resource="http://en.wikipedia.org/wiki/PA-RISC_family" />
+<link r:resource="http://www.openpa.net/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Parallel">
+<catid>381412</catid>
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/PIC">
+<catid>381406</catid>
+<link r:resource="http://www.picbasic.org/" />
+<link r:resource="http://www.microchip.com/" />
+<link r:resource="http://en.wikipedia.org/wiki/PIC_microcontroller" />
+<link r:resource="http://sourceforge.net/projects/picmicrosim/" />
+<link r:resource="http://www.oshonsoft.com/" />
+<link r:resource="http://piklab.sourceforge.net/" />
+<link r:resource="http://www.microchipc.com/" />
+<link r:resource="http://www.voti.nl/pic/" />
+<link r:resource="http://www.vermontficks.org/pic.htm" />
+<link r:resource="http://sourceforge.net/projects/microdev/" />
+<link r:resource="http://jb.fullenwarth.free.fr/" />
+<link r:resource="http://www.pic-resource.com/" />
+<link r:resource="http://www.pictutorials.com/" />
+<link r:resource="http://picprojects.org.uk/" />
+<link r:resource="http://www.kerhuel.eu/wiki/Simulink_-_Embedded_Target_for_PIC" />
+<link r:resource="http://www.ccsinfo.com/content.php?page=compilers&amp;navcode=/picc" />
+<link r:resource="http://www.webring.org/hub?ring=picmicro" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/PIC/Jal">
+<catid>381407</catid>
+<link r:resource="http://www.voti.nl/jal/" />
+<link1 r:resource="http://jal.sourceforge.net/"></link1>
+<link r:resource="http://groups.yahoo.com/group/Jal_developers/" />
+<link r:resource="http://tech.groups.yahoo.com/group/jallist/" />
+<link r:resource="http://www.piclist.com/techref/piclist/jal/" />
+<link r:resource="http://jalethernet.sourceforge.net/" />
+<link r:resource="http://www.seiz.ch/Jallist/content_html" />
+<link r:resource="http://www.webring.org/hub?ring=jal" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/POWER">
+<catid>381402</catid>
+<link1 r:resource="http://www.power.org/"></link1>
+<link r:resource="http://en.wikipedia.org/wiki/IBM_POWER" />
+<link r:resource="http://en.wikipedia.org/wiki/PowerPC" />
+<link r:resource="http://www.dailytech.com/article.aspx?newsid=7384" />
+<link r:resource="http://www.ibm.com/developerworks/power/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/POWER/Cell">
+<catid>381403</catid>
+<link r:resource="http://cell.scei.co.jp/" />
+<link r:resource="http://en.wikipedia.org/wiki/Cell_(microprocessor)" />
+<link r:resource="http://www.sci-tech-today.com/sttinnv/story.xhtml?story_id=32127" />
+<link r:resource="http://www.economist.com/science/displayStory.cfm?story_id=3644254" />
+<link r:resource="http://www.businessweek.com/technology/content/feb2005/tc2005023_2461_tc024.htm" />
+<link r:resource="http://www.businessweek.com/technology/content/jun2005/tc20050624_4088_tc024.htm" />
+<link r:resource="http://www.alphaworks.ibm.com/topics/cell/" />
+<link r:resource="http://www.forbes.com/forbes/2006/0130/076.html" />
+<link r:resource="http://arstechnica.com/articles/paedia/cpu/cell-1.ars" />
+<link r:resource="http://arstechnica.com/articles/paedia/cpu/cell-2.ars" />
+<link r:resource="http://arstechnica.com/news.ars/post/20060225-6265.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Reconfigurable">
+<catid>381426</catid>
+<link r:resource="http://www.ccm.ece.vt.edu/" />
+<link r:resource="http://www.ece.wisc.edu/~kati/research.html" />
+<link r:resource="http://xputers.informatik.uni-kl.de/" />
+<link r:resource="http://en.wikipedia.org/wiki/Reconfigurable_computing" />
+<link r:resource="http://anti-machine.org/" />
+<link r:resource="http://brass.cs.berkeley.edu/" />
+<link r:resource="http://www.klabs.org/" />
+<link r:resource="http://www.ittc.ku.edu/hybridthreads/" />
+<link r:resource="http://www.mil-embedded.com/news/db/?5784/" />
+<link r:resource="http://ramp.eecs.berkeley.edu/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Reversible">
+<catid>381419</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Reversible_computing" />
+<link r:resource="http://www.cise.ufl.edu/research/revcomp/" />
+<link r:resource="http://www.zyvex.com/nanotech/reversible.html" />
+<link r:resource="http://bwrc.eecs.berkeley.edu/People/Grad_Students/mjammer/projects.htm" />
+<link r:resource="http://www.wisegeek.com/what-is-reversible-computing.htm" />
+<link r:resource="http://www.kuro5hin.org/story/2003/9/8/14125/70302/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/RISC">
+<catid>381408</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Reduced_instruction_set_computer" />
+<link r:resource="http://www.cse.msu.edu/~enbody/postrisc/postrisc2.htm" />
+<link r:resource="http://userpages.umbc.edu/~vijay/mashey.on.risc.html" />
+<link r:resource="http://www.webopedia.com/term/r/risc.html" />
+<link r:resource="http://foldoc.org/index.cgi?Reduced+Instruction+Set+Computer" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/SPARC">
+<catid>381421</catid>
+<link r:resource="http://www.sparc.org/" />
+<link r:resource="http://www.sparcproductdirectory.com/" />
+<link r:resource="http://en.wikipedia.org/wiki/SPARC" />
+<link1 r:resource="http://www.sun.com/processors/"></link1>
+<link r:resource="http://www.cs.clemson.edu/~mark/sparc_assembly.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/SPARC/Open_Source">
+<catid>381422</catid>
+<link r:resource="http://microelectronics.esa.int/core/ipdoc/leon2ft_notes.txt" />
+<link1 r:resource="http://www.opensparc.net/"></link1>
+<link r:resource="http://www.srisc.com/" />
+<link r:resource="http://groups.google.com/group/comp.arch.fpga/msg/e9000f25e6a53c58" />
+<link r:resource="http://www.sun.com/processors/opensparc/" />
+<link r:resource="http://news.cnet.com/2100-1040-215335.html" />
+<link r:resource="http://sun.systemnews.com/fullsource?article=1502" />
+<link r:resource="http://www.gaisler.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/SuperH">
+<catid>381436</catid>
+<link r:resource="http://en.wikipedia.org/wiki/SuperH" />
+<link r:resource="http://www.st.com/mcu/" />
+<link r:resource="http://www.renesas.com/products/mpumcu/superh/superh_landing.jsp" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Transmeta">
+<catid>381425</catid>
+<link r:resource="http://www.transmetazone.com/" />
+<link r:resource="http://en.wikipedia.org/wiki/Transmeta" />
+<link r:resource="http://news.cnet.com/2100-1040-230822.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Transputer">
+<catid>381410</catid>
+<link r:resource="http://en.wikipedia.org/wiki/INMOS_transputer" />
+<link r:resource="http://spirit.lboro.ac.uk/emulator.html" />
+<link r:resource="http://www.classiccmp.org/transputer/" />
+<link r:resource="http://www.wotug.org/" />
+<link r:resource="http://www.michaelp.org/transputer/" />
+<link r:resource="http://www.hacker-technology.com/3387/27635.html" />
+<link r:resource="http://www.wizzy.com/wizzy/transputer.html" />
+<link r:resource="http://www.atarimuseum.com/computers/16bits/transputer.html" />
+<link r:resource="http://liinwww.ira.uka.de/bibliography/Parallel/transputer.html" />
+<link r:resource="http://www.xs4all.nl/~ganswijk/chipdir/fam/transput/" />
+<link r:resource="http://maven.smith.edu/~thiebaut/transputer/descript.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/TRON">
+<catid>381409</catid>
+<link r:resource="http://tronweb.super-nova.co.jp/tronvlsicpu.html" />
+<link r:resource="http://csdl2.computer.org/persagen/DLAbsToc.jsp?resourcePath=/dl/mags/mi/&amp;toc=comp/mags/mi/1989/03/m3toc.xml&amp;DOI=10.1109/40.31476" />
+<link r:resource="http://csdl2.computer.org/persagen/DLAbsToc.jsp?resourcePath=/dl/mags/mi/&amp;toc=comp/mags/mi/1991/04/m4toc.xml&amp;DOI=10.1109/40.85722" />
+<link r:resource="http://csdl2.computer.org/persagen/DLAbsToc.jsp?resourcePath=/dl/mags/mi/&amp;toc=comp/mags/mi/1993/05/m5toc.xml&amp;DOI=10.1109/40.237998" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/VLIW">
+<catid>381418</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Very_long_instruction_word" />
+<link r:resource="http://www.vliw.org/" />
+<link r:resource="http://www.cs.utah.edu/~mbinu/coursework/686_vliw/" />
+<link r:resource="http://researchweb.watson.ibm.com/vliw/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/x86">
+<catid>381429</catid>
+<link r:resource="http://www.amd.com/" />
+<link r:resource="http://www.intel.com/" />
+<link r:resource="http://www.dalsoft.com/" />
+<link r:resource="http://www.sandpile.org/" />
+<link r:resource="http://www.elbrus.ru/" />
+<link r:resource="http://www.centtech.com/" />
+<link r:resource="http://www.3dnow.net/" />
+<link r:resource="http://arstechnica.com/articles/paedia/cpu/pentium-1.ars" />
+<link r:resource="http://arstechnica.com/articles/paedia/cpu/pentium-2.ars" />
+<link r:resource="http://en.wikipedia.org/wiki/X86_architecture" />
+<link r:resource="http://www.pctechguide.com/22Pentium.htm" />
+<link r:resource="http://www.wired.com/science/discoveries/news/2001/03/42581" />
+<link r:resource="http://www.tomshardware.com/charts/processors,6.html" />
+<link r:resource="http://www.tweak3d.net/articles/x86/" />
+<link r:resource="http://www.hardwarecentral.com/hardwarecentral/reports/article.php/3875016/Intels-Spectacular-New-Server-CPU.htm" />
+<link r:resource="http://www.itnews.com.au/News/168589,ibm-claims-x86-server-breakthrough.aspx" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/Z80">
+<catid>381400</catid>
+<link r:resource="http://www.z80.info/" />
+<link r:resource="http://www.zilog.com/" />
+<link r:resource="http://en.wikipedia.org/wiki/Zilog_Z80" />
+<link r:resource="http://en.wikipedia.org/wiki/ZiLOG" />
+<link r:resource="http://www.cpu-world.com/CPUs/Z80/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Processors/ZISC">
+<catid>381401</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Zero_Instruction_Set_Computer" />
+<link r:resource="http://www.lsmarketing.com/LSMFiles/9809-ai1.htm" />
+<link r:resource="http://www.general-vision.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Resources">
+<catid>381398</catid>
+<link r:resource="http://pinouts.ru/" />
+<link r:resource="http://www.techfest.com/" />
+<link r:resource="http://hardwarehell.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Sound_Cards">
+<catid>381390</catid>
+<link r:resource="http://www.digitalaudio.com/" />
+<link r:resource="http://www.creative.com/" />
+<link r:resource="http://www.esstech.com/" />
+<link r:resource="http://www.lynxstudio.com/" />
+<link r:resource="http://www.esi-pro.com/" />
+<link r:resource="http://www.echoaudio.com/" />
+<link r:resource="http://www.pctechguide.com/44SoundCards.htm" />
+<link r:resource="http://www.audiotrak.net/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Video_Cards">
+<catid>381391</catid>
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Video_Cards/3D_Accelerators">
+<catid>381396</catid>
+<link r:resource="http://www.3dchip.de/" />
+<link r:resource="http://www.cadnetwork.de/" />
+<link r:resource="http://www.guru3d.com/" />
+<link r:resource="http://www.bjorn3d.com/" />
+<link r:resource="http://www.speedy3d.com/reviews/hardindex.shtml#graphicsboards" />
+<link r:resource="http://www.ve3d.com/" />
+<link r:resource="http://www.techspot.com/" />
+<link r:resource="http://www.gpureview.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Video_Cards/Graphics_Board_Vendors">
+<catid>381395</catid>
+<link r:resource="http://www.quantum3d.com/" />
+<link r:resource="http://www.diamondmm.com/" />
+<link r:resource="http://www.3dlabs.com/" />
+<link r:resource="http://www.hercules.com/" />
+<link r:resource="http://www.spectrah.com/" />
+<link r:resource="http://www.multiscreenvideo.com/" />
+<link r:resource="http://www.salientsys.com/" />
+<link r:resource="http://www.matrox.com/mga/" />
+<link r:resource="http://www.microlabs.com/" />
+<link r:resource="http://www.datapath.co.uk/" />
+<link r:resource="http://www.x-micro.com/" />
+<link r:resource="http://www.dektec.com/" />
+<link r:resource="http://www.sparkle.com.tw/" />
+<link r:resource="ftp://ftp.mb3.tu-chemnitz.de/mirrors/ftp.elsa.de/pub/FILES/GRAPHICS/" />
+<link r:resource="http://www.althon.com/" />
+<link r:resource="http://www.americas.creative.com/" />
+<link r:resource="http://www.prolink.com.tw/" />
+<link r:resource="http://www.pixelsmart.com/" />
+<link r:resource="http://www.lmahd.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Video_Cards/Graphics_Chip_Vendors">
+<catid>381393</catid>
+<link r:resource="http://www.nvidia.com/" />
+<link r:resource="http://www.matrox.com/" />
+<link r:resource="http://www.intel.com/products/graphics/" />
+<link r:resource="http://www.s3graphics.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Video_Cards/Performance_Tuning">
+<catid>381394</catid>
+<link r:resource="http://www.tomshardware.com/" />
+<link r:resource="http://www.overclockers.com/" />
+<link r:resource="http://www.hardocp.com/" />
+<link r:resource="http://www.ocinside.de/index_e.html" />
+<link r:resource="http://www.chillblast.com/" />
+<link r:resource="http://www.aoaforums.com/" />
+<link r:resource="http://www.entechtaiwan.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Components/Video_Cards/User_Sites">
+<catid>381392</catid>
+<link r:resource="http://www.rage3d.com/" />
+<link r:resource="http://www.bjorn3d.com/" />
+<link r:resource="http://kentwell.net/rendition/" />
+<link r:resource="http://www.pctechguide.com/41GraphicsCards.htm" />
+</topic>

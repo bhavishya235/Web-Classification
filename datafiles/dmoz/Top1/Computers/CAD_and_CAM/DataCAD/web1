@@ -1,0 +1,599 @@
+====================<http://www.datacad.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta content="1324462936" property="fb:admins" />
+<meta content="CADD Software" name="keywords" />
+<meta content="DATACAD Home Page" name="description" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="http://www.datacad.com/favicon.ico" rel="shortcut icon" />
+<link href="datacad.css" rel="stylesheet" type="text/css" media="all" />
+<title>datacad.com -- Software for AEC Professionals Since 1984</title>
+</head>
+
+<body id="home">
+ï»¿<table>
+	<tr>
+		<td class="dcbanner">
+		<form action="http://www.google.com/search" class="style1" method="get" style="text-align: right; float: right; vertical-align: text-bottom">
+			<input name="domains" type="hidden" value="datacad.com" />
+			<input name="ie" type="hidden" value="UTF-8" />
+			<input name="oe" type="hidden" value="UTF-8" />
+			<input name="sitesearch" type="hidden" value="datacad.com" />
+			<input maxlength="255" name="q" size="24" />
+			<input name="btnG" type="submit" value="Search" /></form>
+		</td>
+	</tr>
+	<tr>
+		<td class="td-nav">
+		<ul id="ul-nav">
+		<li id="li-nav"><a class="a-nav" href="/index.html" id="homenav">Home</a></li> 
+		<li id="li-nav"><a class="a-nav" href="/products/index.html" id="productsnav">DataCAD</a></li> 
+		<li id="li-nav"><a class="a-nav" href="/support/index.html" id="supportnav">Support</a></li>
+		<li id="li-nav"><a class="a-nav" href="/demo/index.php" id="demonav">Free Trial</a></li>
+		<li id="li-nav"><a class="a-nav" href="/cgi-bin/commerce.cgi?display=home" id="storenav">Buy</a></li>
+		<li id="li-nav"><a class="a-nav" href="http://forum.datacad.com/index.php" target="_blank">Community</a></li>
+		<li id="li-nav"><a class="a-nav-icon" href="http://forum.datacad.com/feed.php" target="_blank">
+		<img alt="DataCAD Feed" src="/images/rss32.png" height="24" width="24" /></a></li>
+		<li id="li-nav"><a class="a-nav-icon" href="http://www.linkedin.com/groups/DataCAD-Users-Group-1847367/about" target="_blank">
+		<img alt="DataCAD on LinkedIn" src="/images/linkedin32.png" height="24" width="24" /></a></li>
+		<li id="li-nav"><a class="a-nav-icon" href="http://www.facebook.com/datacad" target="_blank">
+		<img alt="DataCAD on Facebook" src="/images/facebook32.png" height="24" width="24" /></a></li>
+		<li id="li-nav"><a class="a-nav-icon" href="http://www.youtube.com/datacadvideo" target="_blank">
+		<img alt="DataCAD on YouTube" src="/images/youtube32.png" height="24" width="24" /></a></li>
+		</ul>
+		</td>
+	</tr>
+	<tr><td class="bg-mango"></td></tr>
+</table>
+<table>
+	<tr><th colspan="3"></th></tr>
+	<tr>	
+		<td class="bg-banana" valign="top" style="width: 160px">
+		<a href="demo/index.php">Free Trial</a><br />
+		<a href="products/datacad_sysreq.html">System Requirements</a><br />
+		<a href="update/index.html">Product Updates</a><br />
+		<a href="products/Whats_New_16.html">What&#39;s New?</a><br />
+		<a href="products/dc_compare.html">Comparison Chart</a><br />
+		<a href="ddn/index.html" target="_blank">Developers</a><br />
+		<a href="http://www.datacad.com/bbs/viewforum.php?f=52">Classifieds</a><br />
+		<a href="resources.html">AEC Resources</a><br />
+		<a href="contact/contctdm.html">Contact Us</a><br />
+		<a href="about_us.html">About Us</a><br />
+		<br />
+		<p><a href="demo/index.php">
+		<img alt="New! DataCAD 16" height="128" src="images/DC16_DVD_Case-128.png" width="128" /></a><br />
+		<span class="bold"><a href="demo/index.php">DataCAD 16</a><br />
+		</span>Test drive DataCAD 16.<br />
+		<a href="demo/index.php">More ...</a></p>
+		</td>
+		<td valign="top" style="width: 384px">
+		<p>
+		<img alt="New! DataCAD 16" src="images/DC16_DVD_Case-384.png" /><br />
+		<br />
+		<a href="products/Whats_New_16.html">New! DataCAD 16</a><br />
+		New features in DataCAD 16 combine 2D productivity enhancements, 3D 
+		modeling tools, changes to the Sun Shader, and a collection of program 
+		optimizations which help to make DataCAD 16 faster than previous 
+		versions.<br />
+		<a href="products/Whats_New_16.html">More...</a><br />
+		<br />
+		<a href="time_machine/index.html">
+		<img alt="DataCAD Time Machine" src="time_machine/DataCAD-948-384.png" /></a><br />
+		<a href="time_machine/index.html">DataCAD Time Machine</a><br />
+		<br />
+		In honor of DataCADâ€™s 25th anniversary, we put together 
+		a <a href="time_machine/index.html">DataCAD Time Machine</a> with links 
+		to rare documents and videos from the early Microtecture days, through the 
+		Cadkey era, up to and including DATACAD LLC.&nbsp; This is a work-in-progress 
+		as there are still many items for us to add.&nbsp; We hope you enjoy this 
+		trip down memory lane.<br />
+		</p>
+		</td>
+		<td class="bg-white" valign="top" style="width: 256px">
+		<img alt="Happy 29th Anniversary DataCAD!" src="images/29_Year_Logo-128.png" height="128" width="128" /><br />
+		<strong><br />
+		DataCAD&#39;s 29th Anniversary<br />
+		</strong>DataCAD celebrated its 29th anniversary on Tuesday, April 2, 2013.&nbsp; 
+		Thanks to all of our customers and collegues who have helped us reach this 
+		milestone.<br />
+		<br />
+		<strong><a href="training/index.html">DataCAD Training</a><br />
+		</strong>Are you keeping pace with the latest advancements in DataCAD? Are 
+		you taking advantage of Smart Entities? Are you familiar with DataCAD&#39;s 
+		3D modeling and built-in rendering tools? If you answered &quot;no&quot; 
+		to any of these questions, we can help. <a href="training/index.html">More...</a><br />
+		<br />
+		<span class="bold"><a href="http://forum.datacad.com/index.php">forum.datacad.com</a></span><br />
+		The DataCAD Message Board has grown to include more than 60,000 articles 
+		since its debut in 2005.
+		</td>
+	</tr>
+</table>
+<br />
+<a href="/index.html">
+<img alt="DATACAD Home" border="0" height="50" src="/images/blue_home.gif" width="50"></a><br />
+<br />
+Revised: Saturday, 18 January 2014<br />
+&#169;2014 by DATACAD LLC. All rights reserved.<br />
+Please send all questions and comments<br />
+regarding this site to <a href="mailto:webmaster@datacad.com">webmaster@datacad.com</a>.<br />
+<a href="/Disclaimer.htm">General Disclaimer</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-215573-1");
+pageTracker._trackPageview();
+</script>
+
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.world.std.com/~eshu/cheap.htm>====================
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.77 [en] (Windows NT 5.0; U) [Netscape]">
+   <title>Cheap Tricks Newsletter for DataCAD users</title>
+</head>
+<body background="http://world.std.com/~eshu/planback.gif">
+
+<center><img SRC="http://world.std.com/~eshu/cheap/cheaplog.gif" height=109 width=98></center>
+
+<center>
+<h1>
+<b><i><u>Cheap Tricks</u></i></b></h1></center>
+
+<center>
+<h2>
+<b><i>The Monthly Resource For the DataCAD Architect</i></b></h2></center>
+
+<center>
+<hr></center>
+
+<center><table>
+<tr>
+<td>
+<center>
+<h3>
+<i><a href="http://world.std.com/~eshu/cheap/sample.htm">Cheap Tricks Newsletter<br>
+Sample &amp; Reprints<br>
+<img SRC="http://world.std.com/~eshu/cheap/rabbit.gif" height=175 width=130 align=CENTER><br>
+</a><a href="http://world.std.com/~eshu/cheap/issues.htm">Back Issues List
+&amp; Indexes&nbsp;</a></i></h3></center>
+</td>
+
+<td>
+<center><i>Published By:</i>
+<br><i>Shu Associates, Inc.</i>
+<br><i>120 Trenton St.&nbsp;</i>
+<br><i>Melrose, MA 02176-3714</i>
+<br><i>(781)662-0020 (FAX Same)&nbsp;</i>
+<br><i><a href="mailto:eshu@world.std.com">eshu@world.std.com</a></i></center>
+</td>
+
+<td>
+<h3>
+<img SRC="http://world.std.com/~eshu/ctw/ctw.gif"  align=CENTER><a href="http://world.std.com/~eshu/ctw/ctw.htm">
+<i>CTW Disk Listings&nbsp;</i></a></h3>
+</td>
+</tr>
+</table></center>
+
+<center>
+<hr></center>
+
+<p>We assume that you have recently purchased the DataCAD program -- or
+maybe you've just been fine on your own up until now. In any case, your
+excellent judgement in using DataCAD makes you an ideal candidate for another
+excellent judgement: <i>subscribing to <b>Cheap Tricks</b>, the monthly
+newsletter and resource for DataCAD users.</i>
+<p>"Why is it called <i>Cheap Tricks</i>?" you are probably asking. We
+started our newsletter way back in 1990 under that banner because we wanted
+to show you how to make the most "magic" out of your use of computers and
+DataCAD <i><u>without</u></i> constantly telling you that you need to go
+out and buy more hardware and software — a refreshing change from most
+computer publications, you may agree.
+<p>At <i>Cheap Tricks</i>, we concentrate on the <i>bottom line</i>: giving
+you straight tips and tricks, describing methods of working productively,
+answering your questions -- be they simple or complex, and suggesting creative
+ways of using your computer and DataCAD. And you will find <i>Cheap Tricks</i>
+easy to read, "user friendly" and often quite humorous. Each month's issue
+includes the following: a column about a major time-saving technique (our
+<i>Cheap Trick of the Month</i>); a featured <i>Computerese</i> term defined
+and explained; a specific feature of the DataCAD program explored in <i>DataCAD
+Tutor</i>; <i>Quick Tips</i> with 5 or 6 immediate shortcuts or tips to
+use in DataCAD; <i>Dr. OPS,</i> giving you a chance to find out that you
+<i>really can</i> learn to deal with Win95 &amp; DOS and other operating
+systems and even enjoy it; <i>Architips, </i>exploring a use of CAD and
+computers particularly applicable to those of us in the construction industry;
+and finally, our <i>Editorial</i> column, which gives you news and views
+from the DataCAD front as well as from other DataCAD users such as yourselves
+from around the world.
+<p>As an extraordinary added bonus, your yearly subscription to <i>Cheap
+Tricks</i> automatically comes with <a href="http://world.std.com/~eshu/ctw/ctw.htm"><i>Cheap
+Tricks Ware</i>,</a> the amazing quarterly listing of hundreds of available
+shareware details, macros and add-on utilities, all which can be purchased
+at downright inexpensive — no, make that <i>cheap</i> prices!
+<p>Our regular subscription fee (12 issues) is $35 per year ($40US for
+Canadians &amp; $50US for International). You can send us your check (US
+bank), or international money order to the address listed above and we
+will start you subscription right away, or to charge your subscription
+to MasterCARD or VISA, <a href="http://world.std.com/~eshu/cheap/cheapcc.htm">Plastic
+Accepted Here.</a> For a look right now at some sample columns, click <a href="http://world.std.com/~eshu/cheap/sample.htm">Cheap
+Tricks sample pages.</a> Or if you would like a sample of one of our back
+issues sent to you by mail to see what our newsletter is like, E-mail us
+your mailing address by clicking here:<a href="mailto:eshu@world.std.com">
+to send us your Postal Address.</a>
+<p><RP>
+<h3>
+<b><i>Here's a sampling of what our readers tell us:</i></b></h3>
+
+<center><i>"I get at least one idea I never thought of out of each issue,
+and I've been using DataCAD for four years!"</i>
+<p><b><i>M.M., Tacoma, Washington</i></b>
+<p><i>"Any firm not taking advantage of this great (and affordable) resource
+is wasting their time and money."</i>
+<p><b><i>R.F., Dallas, Texas</i></b>
+<p><i>"I enjoy reading your publication. It has helped tremendously. You
+guys are funny."</i>
+<p><b><i>M.Z., Bethlehem, Pennsylvania.</i></b>
+<p><i>"I eagerly await each issue and all else stops while I read it cover
+to cover. I have learned much from the valuable information it contains
+and trust that it continues to grow beyond your expectations."</i>
+<p><b><i>K.C., Auckland, New Zealand</i></b>
+<p><b><a href="http://world.std.com/~eshu/cheap/cheapcc.htm">How to Subscribe
+to <i>Cheap Tricks</i></a></b>
+<br><i>Now accepting VISA, MasterCard or American Express Payment</i>
+<p><b>For other handy DataCAD related <a href="http://world.std.com/~eshu/links.htm">Links,
+Click Here</a></b></center>
+
+<hr>
+<center>
+<address>
+<b>Shu Associates Inc.</b></address></center>
+
+<center>
+<br>120 Trenton St.
+<br>Melrose, MA 02176-3714
+<br>(781)662-0020 Tel &amp; Fax
+<p>You can E-mail us by clicking here: <a href="mailto:eshu@world.std.com">eshu@world.std.com</a>
+<br>&nbsp;
+<br>&nbsp;
+<p>Copyright &copy; 2010, Shu Associates Inc.
+<br><img SRC="http://world.std.com/cgi-bin/Count.cgi?df=eshu.dat"  align=ABSCENTER>
+<p>&nbsp;URL: http://CheapTricksNews.com</center>
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.capcad.com/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<TITLE>Connecticut Advanced Products, Inc.- CAP - www.capcad.com </TITLE>
+<META NAME="Keywords" CONTENT="capcad, cap, connecticut, products, global, international, distributor, dealer, cadkey, cad/cam, cad cam, mechanical cadd, mechanical engineering, engineering, engineer, cnc, datacad, cadd, cad, architecture, architectural, architect, construction, aec, design, drafting, render, rendering, dcrender, dc render, 3d view, 3dview, construct, construction, Chief Architect, build, builder, building, decks, kitchens, bathrooms, model, modeling, modeler, 3d model, software, viewer, spinfire, web viewer, sunguard, sungard, heat shields, sun visors, windscreens, pilots, aircraft windshields, boats, cars, homes, rv's, kongscut">
+<META NAME="Description" CONTENT="CONNECTICUT ADVANCED PRODUCTS, Inc. provides affordable productivity enhancing tools for the Architectural, Building, Contracting and Remodeling, Manufacturing and Mechanical Design Markets.">
+<META NAME="Author" CONTENT="Gary N Segal">
+<LINK href="capcad.css" 
+type=text/css rel=stylesheet>
+
+<SCRIPT LANGUAGE = "JavaScript">
+<!--
+        if (document.images) {
+img1on = new Image();          
+img1on.src = "but1_on.gif";       // Active Images (Orange)
+img2on = new Image(); 
+img2on.src = "but2_on.gif";
+img3on =  new Image();
+img3on.src = "but3_on.gif";
+img4on = new Image();
+img4on.src = "but5_on.gif";
+img5on = new Image();
+img5on.src = "but6_on.gif";
+img6on = new Image();
+img6on.src = "but7_on.gif";
+img7on = new Image();
+img7on.src = "but8_on.gif";
+img8on = new Image();
+img8on.src = "home_on.gif";
+img9on = new Image();
+img9on.src = "about_on.gif";
+img10on = new Image();
+img10on.src = "contact_on.gif";
+img11on = new Image();
+img11on.src = "architect_on.gif";
+img12on = new Image();
+img12on.src = "builder_on.gif";
+img13on = new Image();
+img13on.src = "engineer_on.gif";
+
+
+               
+img1off = new Image();         
+img1off.src = "but1_off.gif";   // Inactive Images (Purple)
+img2off = new Image(); 
+img2off.src = "but2_off.gif"; 
+img3off =  new Image();
+img3off.src = "but3_off.gif";
+img4off = new Image();
+img4off.src = "but5_off.gif";
+img5off = new Image();
+img5off.src = "but6_off.gif";
+img6off = new Image();
+img6off.src = "but7_off.gif";
+img7off = new Image();
+img7off.src = "but8_off.gif";
+img8off = new Image();
+img8off.src = "home_off.gif";
+img9off = new Image();
+img9off.src = "about_off.gif";
+img10off = new Image();
+img10off.src = "contact_off.gif";
+img11off = new Image();
+img11off.src = "architect_off.gif";
+img12off = new Image();
+img12off.src = "builder_off.gif";
+img13off = new Image();
+img13off.src = "engineer_off.gif";
+
+
+
+
+img1ad = new Image();         
+img1ad.src = "cadkeyinfo.gif";      
+img2ad = new Image();
+img2ad.src = "spiritinfo.gif";
+img3ad = new Image();
+img3ad.src = "dcinfo.jpg";
+img4ad = new Image();
+img4ad.src = "sfinfo.gif";
+img5ad = new Image(); 
+img5ad.src = "sunguardinfo.gif";
+img6ad = new Image();
+img6ad.src = "capinfo.gif";
+img7ad = new Image();
+img7ad.src = "capinfo.gif";
+img8ad = new Image();
+img8ad.src = "capinfo.gif";
+img9ad = new Image(); 
+img9ad.src = "capinfo.gif";
+img10ad = new Image();
+img10ad.src = "capinfo.gif";
+img11ad = new Image();
+img11ad.src = "capinfo.gif";
+img12ad = new Image();
+img12ad.src = "capinfo.gif";
+img13ad = new Image();
+img13ad.src = "capinfo.gif";
+
+
+
+}
+// Function to 'activate' images. Below, menu_top.gif is the default menu_top image.
+function imgOn(imgName) {
+        if (document.images) {
+            document[imgName].src = eval(imgName + "on.src");
+                document["holder"].src = eval(imgName + "ad.src");
+        }
+}
+
+// Function to 'deactivate' images.
+function imgOff(imgName) {
+        if (document.images) {
+            document[imgName].src = eval(imgName + "off.src");
+                document["holder"].src = "capinfo.gif";
+        }
+        }
+// Function to 'activate' menu item.
+function menuOn(imgName) {
+        if (document.images) {
+            document[imgName].src = eval(imgName + "on.src");
+            }
+            }
+//Function to 'deactivate' menu item.
+function menuOff(imgName) {
+        if (document.images) {
+            document[imgName].src = eval(imgName + "off.src");
+            }
+}
+// --></SCRIPT>
+<style fprolloverstyle>A:hover {color: #FF0000; font-family: Verdana}
+</style>
+
+
+</HEAD>
+
+<BODY>
+<DIV id=menu 
+style="z-index: 4; left: 2; visibility: visible; width: 132; position: absolute; top: 207; height: 142">
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0 height="1">
+  <TBODY>
+  <TR>
+    <TD align=left width="100%" height="47">
+      <p class="address">275 Weir Street Glastonbury, CT 06033 USA</P></TD></TR>
+  <TR>
+    <TD align=left width="100%" height="32">
+    <p class="address">Tel: 1.860.659 2260<br>
+    Fax: 1.860.633 8234 </p>
+    </TD></TR>
+  <TR>
+    <TD width="100%" height="21">
+    </TD></TR>
+  <TR>
+    <TD width="100%" height="1"><p class="address">&nbsp;&nbsp;<FORM>
+        <p>&nbsp;</p>
+              </FORM>
+    </TD></TR>
+  </TBODY></TABLE></DIV>
+  
+ 
+  
+<DIV id=tel_date 
+style="z-index: 12; left: 143; visibility: visible; width: 620; position: absolute; top: 99; height: 22">
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <TR>
+    <TD width="51">
+    <a href="index.htm" onmouseout="imgOff('img5')" onmouseover="imgOn('img5')">
+      <img name="img8" border="0" src="home_on.gif" alt="Home page" width="51" height="16"></a></TD>
+      
+    <TD width="1">
+      <IMG height=15 src="about.htm" width=1 border=0></TD>
+      
+    <TD width="36"><a href="about.htm" onmouseout="imgOff('img9')" onmouseover="imgOn('img9')">
+      <img name="img9" border="0" src="about_off.gif" alt="About CAP" width="36" height="16"></a></TD>
+      
+    <TD width="1">
+      <IMG height=15 src="about.htm" width=1 border=0></TD>
+      
+    <TD width="44"><a href="contact.htm" onmouseout="imgOff('img10')" onmouseover="imgOn('img10')">
+      <img name="img10" border="0" src="contact_off.gif" alt="Contact Us" width="44" height="16"></a></TD>
+      
+    <TD width="1">
+      <IMG height=15 src="about.htm" width=1 border=0></TD>
+      
+    <TD width="200">
+      <img border="0" src="call.gif" width="200" height="16"></TD>
+      
+    <TD width="80">
+      <img border="0" src="topright.gif" width="79" height="16"></TD>
+      
+    <TD width="155">
+    </TD>
+    
+    <TD width="50" align="right"><p class=address>
+    <script language="JavaScript"><!--
+var date = new Date();
+var d  = date.getDate();
+var day = (d < 10) ? '0' + d : d;
+var m = date.getMonth() + 1;
+var month = (m < 10) ? '0' + m : m;
+var yy = date.getYear();
+var year = (yy < 1000) ? yy + 1900 : yy;
+
+document.write(month + "/" + day + "/" + year);
+//--></script></p>
+</TD></TR></TBODY></TABLE></DIV>
+
+
+<DIV id=navigation 
+style="z-index: 12; left: 123; visibility: visible; width: 431; position: absolute; top: 198; height: 30">
+
+<TABLE cellSpacing=0 cellPadding=0 width="140" border=0>
+  <TBODY>
+  <TR>
+    <TD width="49" align="left" >
+    </TD>
+    
+    <TD width="1" align="left">
+    <IMG height=17 src="about.htm" width=1 border=0>
+    </TD>
+    
+    <TD width="82" align="left">
+    <a href="http://www.softtech.com" onmouseout="imgOff('img2')" onmouseover="imgOn('img2')"><img name="img2" border="0" src="but2_off.gif" alt="SPIRIT 11 Architectural CAD products" width="35" height="16"></a></TD>
+    
+    <TD width="1" align="left">
+    </TD> 
+    
+    <TD width="56" align="left">
+    </TD> 
+    
+    <TD width="3" align="left">
+    </TD>  
+    
+    <TD width="44" align="left">
+    </TD>
+    
+    <TD width="1" align="left">
+    <IMG height=15 src="about.htm" width=1 border=0>
+    </TD>
+    
+    <TD width="50" align="left">
+    <a href="sunguard/sunguard.htm" onmouseout="imgOff('img5')" onmouseover="imgOn('img5')">
+    <img name="img5" border="0" src="but6_off.gif" alt="Sunguard Protection from Glare!" width="55" height="16"></a></TD>
+    
+    <TD width="1" align="left">
+    <IMG height=15 src="about.htm" width=1 border=0>
+    </TD>
+    
+    <TD width="55" align="left">
+    <a href="products.htm" onmouseout="imgOff('img6')" onmouseover="imgOn('img6')">
+    <img name="img6" border="0" src="but7_off.gif" alt="All Products" width="46" height="16"></a></TD>
+    
+    <TD width="1" align="left">
+    <IMG height=15 src="about.htm" width=1 border=0>
+    </TD>
+    
+    <TD width="54" align="left">
+    
+    <img name="img7" border="0" src="but8_off.gif" alt="" width="244" height="16"></TD>
+    
+    <TD width="1" align="left"><IMG height=15 src="about.htm" width=1 border=0>
+    </TD>
+    
+    <TD width="8" align="left"><img border="0" src="endrnd.gif" width="8" height="16"></TD>
+  </TR></TBODY></TABLE></DIV>
+
+  
+  
+<DIV id=content
+style="z-index: 2; left: 146; visibility: visible; width: 633; position: absolute; top: 254; height: 264">
+<table border="0" width="582" cellspacing="0" cellpadding="0" height="1">
+  <tr>
+    <td width="350" height="1" colspan="2"><img border="0" src="capinfo.gif" name="holder" width="350" height="84">
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="350" height="21" colspan="2"></td>
+  </tr>
+  
+  <tr>
+    <td width="36" height="5"><a href="http://www.softtech.com"><img border="0" src="arch_on.gif" width="56" height="53"></a></td>
+    <td width="364" height="5"><a href="http://www.softtech.com"><font color="#29146B" face="Verdana" size="5">Architect/Interior
+      Designer</font></a></td>
+  </tr>
+  
+  <tr>
+    <td width="36" height="15"></td>
+    <td width="364" height="15"></td>
+  </tr>
+  
+  <tr>
+    <td width="36" height="4">
+      <p align="center"><a href="sunguard/index.htm"><img border="0" src="sunguard/logo.gif" width="67" height="63" alt="SUNGUARD logo"></a></p>
+    </td>
+    <td width="364" height="4"><a href="sunguard/index.htm"><font color="#29146B" face="Verdana" size="5">Sunguard</font></a></td>
+  </tr>
+  
+  <tr>
+    <td width="36" height="4"></td>
+    <td width="364" height="15"></td>
+  </tr>
+  
+  <tr>
+    <td width="36" height="4"><a href="bugaway/index.htm"><img border="0" src="/bugaway/logo.jpg" width="57" height="58" align="center" alt="bugAWAY! Logo"></a></td>
+    <td width="364" height="4"><a href="bugaway/index.htm"><font color="#29146B" face="Verdana" size="5">BugAway</font></a></td>
+  </tr>
+  
+</table>
+</DIV>
+
+    
+    <span style="position: absolute; left: 15; top: 11"></span>
+    </HTML>
+
+
+
+
+
+
+++++++++++++++++++++<Over>++++++++++++++++++++

@@ -1,0 +1,422 @@
+<topic r:id="Top/Computers/Computer_Science/Theoretical">
+<catid>374237</catid>
+<link r:resource="http://www.cs.bu.edu/fac/lnd/toc/" />
+<link r:resource="http://en.wikipedia.org/wiki/Church-Turing_thesis" />
+<link r:resource="http://en.wikipedia.org/wiki/Computability_theory" />
+<link r:resource="http://en.wikipedia.org/wiki/Interactive_computation" />
+<link r:resource="http://www.cis.upenn.edu/~giorgi/cl.html" />
+<link1 r:resource="http://ai.stanford.edu/~suresh/theory/theory-home.html"></link1>
+<link r:resource="http://www.cs.washington.edu/education/courses/322/06sp/" />
+<link r:resource="http://www.cs.brown.edu/courses/csci0510/" />
+<link r:resource="http://www.jn.inf.ethz.ch/education/index.html" />
+<link r:resource="http://www.rustyspigot.com/Computer_Science/" />
+<link r:resource="http://sites.google.com/site/searchtcs/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Asynchronous_Computability">
+<catid>374254</catid>
+<link r:resource="http://www.cs.brown.edu/people/mph/topology.html" />
+<link r:resource="http://apotheca.hpl.hp.com/ftp/gatekeeper/pub/DEC/SRC/research-reports/abstracts/src-rr-049.html" />
+<link r:resource="http://asynlog.balticom.lv/Content/EN/about.html" />
+<link r:resource="http://inf.ug.edu.pl/~stefan/AlgTop/index.html" />
+<link r:resource="http://www.scientificamerican.com/article.cfm?id=computers-without-clocks-2002-08" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Automata_Theory">
+<catid>374244</catid>
+<link r:resource="http://cscs.umich.edu/~crshalizi/notebooks/computation.html" />
+<link r:resource="http://www.kornai.com/MatLing/aut.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Finite_state_machine" />
+<link r:resource="http://www.cs.uky.edu/~lewis/texts/theory/automata/autointr.pdf" />
+<link r:resource="http://carlstrom.com/stanford/comps/Automata-and-Formal-Languages.txt" />
+<link r:resource='http://www.cs.princeton.edu/courses/archive/spr01/cs126/lectures/T2-4up.pdf#search="linear bounded automata"' />
+<link r:resource="http://en.wikipedia.org/wiki/Automata_theory" />
+<link r:resource="http://osteele.com/tools/reanimator/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Automata_Theory/Finite_State_Automata">
+<catid>374245</catid>
+<link r:resource="http://www.eti.pg.gda.pl/katedry/kiw/pracownicy/Jan.Daciuk/personal/thesis/node12.html" />
+<link r:resource="http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk-twose3.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Nondeterministic_finite_automaton" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Automata_Theory/Finite_State_Transducers">
+<catid>374246</catid>
+<link r:resource="http://www.eti.pg.gda.pl/katedry/kiw/pracownicy/Jan.Daciuk/personal/thesis/node13.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Finite_state_transducer" />
+<link r:resource='http://www2.parc.com/istl/members/karttune/publications/ciaa-2000/fst-in-nlp.pdf#search="finite state transducers"' />
+<link r:resource="http://www.merl.com/reports/docs/TR96-30.pdf" />
+<link r:resource='http://www.cs.sfu.ca/~anoop/courses/MACM-300-Spring-2006/fst.pdf#search="finite state transducers"' />
+<link r:resource="http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Automata_Theory/Linear_Bounded_Automata">
+<catid>374249</catid>
+<pdf r:resource="http://www.cs.uky.edu/~lewis/texts/theory/automata/lb-auto.pdf"></pdf>
+<link r:resource="http://en.wikipedia.org/wiki/Linear_bounded_automaton" />
+<link r:resource="http://www.cs.uiowa.edu/~fleck/PartIIIxpar/sld006.htm" />
+<link r:resource="http://www.everything2.com/index.pl?node_id=1394039" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Automata_Theory/Mealy_and_Moore_Machines">
+<catid>374250</catid>
+<link r:resource="http://www.cs.umd.edu/class/spring2003/cmsc311/Notes/Seq/impl.html" />
+<link r:resource="http://www.cs.umd.edu/class/spring2003/cmsc311/Notes/Seq/fsm.html" />
+<link r:resource='http://www.cs.ucla.edu/Logic_Design/SLPDF/ch7.pdf#search="moore machines"' />
+<link r:resource="http://en.wikipedia.org/wiki/Mealy_machine" />
+<link r:resource="http://en.wikipedia.org/wiki/Moore_machine" />
+<link r:resource="http://inst.eecs.berkeley.edu/~cs150/fa05/Lectures/07-SeqLogicIIIx2.pdf" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Automata_Theory/Pushdown_Automata">
+<catid>374248</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Pushdown_automaton" />
+<link r:resource='http://users.comlab.ox.ac.uk/luke.ong/teaching/moc/pda2up.pdf#search="pushdown automata"' />
+<link r:resource="http://www.cs.nott.ac.uk/~txa/g51mal.2001/notes/node29.html" />
+<link r:resource="http://web.uvic.ca/~ling48x/ling484/notes/pda.html" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Automata_Theory/Turing_Machines">
+<catid>374247</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Turing_machine" />
+<link r:resource="http://plato.stanford.edu/entries/turing-machine/" />
+<link r:resource="http://www.augustana.ab.ca/~mohrj/courses/1998.fall/csc110/lecture_notes/turing_machines.html" />
+<link r:resource="http://ironphoenix.org/tril/tm/" />
+<link r:resource="http://www.turing.org.uk/turing/scrapbook/machine.html" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Complexity_Theory">
+<catid>374264</catid>
+<link r:resource="http://eccc.hpi-web.de/" />
+<link r:resource="http://www.nada.kth.se/~viggo/problemlist/compendium.html" />
+<link r:resource="http://www.satlive.org/" />
+<link r:resource="http://www.csc.liv.ac.uk/~ped/teachadmin/algor/comput_complete.html" />
+<link r:resource="http://www.ibc-research.org/" />
+<link r:resource="http://www.cs.mun.ca/~harold/W_hier/W_hier.html" />
+<link r:resource="http://www-cse.ucsd.edu/users/mihir/pcp.html" />
+<link r:resource="http://artemis.cs.yale.edu/classes/cs460/Spring98/contents.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Computational_complexity_theory" />
+<link r:resource="http://www.cis.syr.edu/people/royer/talks.html" />
+<link r:resource="http://www.cs.umass.edu/~immerman/complexity_theory.html" />
+<link r:resource="http://www.wisdom.weizmann.ac.il/~oded/cc.html" />
+<link r:resource="http://www.nlsde.buaa.edu.cn/~kexu/benchmarks/benchmarks.htm" />
+<link r:resource="http://www.satlib.org/" />
+<link r:resource="http://www.cs.rutgers.edu/~allender/lecture.notes/" />
+<link r:resource="http://domino.research.ibm.com/comm/research.nsf/pages/r.algorithms.html" />
+<link r:resource="http://www-inst.eecs.berkeley.edu/~cs170/fa06/" />
+<link r:resource="http://www.cs.bris.ac.uk/Teaching/Resources/COMS30126/" />
+<link r:resource="http://www.comlab.ox.ac.uk/activities/constraints/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Complexity_Theory/Conferences">
+<catid>374266</catid>
+<link r:resource="http://computationalcomplexity.org/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Complexity_Theory/Conferences/Past">
+<catid>374267</catid>
+<link r:resource="http://www.brics.dk/Complexity2003/" />
+<link r:resource="http://www.cs.umass.edu/~barring/ccc2004/" />
+<link r:resource="http://dimacs.rutgers.edu/Workshops/Faster/" />
+<link r:resource="http://dimacs.rutgers.edu/SpecialYears/1999_2000/" />
+<link r:resource="http://www.ece.uc.edu/~franco/Sat-workshop/sat-workshop.html" />
+<link r:resource="http://www.satisfiability.org/SAT04/" />
+<link r:resource="http://www.dagstuhl.de/programm/kalender/semhp/?semnr=03181" />
+<link r:resource="http://www.cis.syr.edu/~royer/icc/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Complexity_Theory/People">
+<catid>374268</catid>
+<link r:resource="http://people.csail.mit.edu/rivest/" />
+<link r:resource="http://www.tecn.upf.es/~hchen/" />
+<link r:resource="http://www.dcs.ed.ac.uk/home/mrj/" />
+<link r:resource="http://www.cs.berkeley.edu/~christos/" />
+<link r:resource="http://www.cs.caltech.edu/~schulman/" />
+<link r:resource="http://www.cs.yale.edu/homes/spielman/" />
+<link r:resource="http://people.csail.mit.edu/madhu/" />
+<link r:resource="http://www.cs.rutgers.edu/~allender/" />
+<link r:resource="http://www.cs.princeton.edu/~arora/" />
+<link r:resource="http://www.cs.washington.edu/homes/beame/beame.html" />
+<link r:resource="http://www.cse.ucsd.edu/users/mihir/" />
+<link r:resource="http://www.cs.huji.ac.il/~benor/" />
+<link r:resource="http://ls2-www.cs.uni-dortmund.de/~bollig/" />
+<link r:resource="http://euclid.ucsd.edu/~sbuss/" />
+<link r:resource="http://www.cs.auckland.ac.nz/~cristian/" />
+<link r:resource="http://www.csee.umbc.edu/~chang/" />
+<link r:resource="http://www.cs.princeton.edu/~chazelle/" />
+<link r:resource="http://faculty.cs.tamu.edu/chen/" />
+<link r:resource="http://wwwcs.upb.de/cs/artur.html" />
+<link r:resource="http://cs.roosevelt.edu/~dantsin/" />
+<link r:resource="http://www.cse.psu.edu/~furer/" />
+<link r:resource="http://www.almaden.ibm.com/cs/people/fagin/" />
+<link r:resource="http://www.cs.utexas.edu/users/panni/" />
+<link r:resource="http://aleph0.clarku.edu/~fgreen/home.html" />
+<link r:resource="http://www.mathcs.emory.edu/~mic/" />
+<link r:resource="http://www.mit.edu/~hajiagha/" />
+<link r:resource="http://www.nada.kth.se/~johanh/" />
+<link r:resource="http://www.cs.rochester.edu/u/lane/" />
+<link r:resource="http://www.lix.polytechnique.fr/~hermann/" />
+<link r:resource="http://logic.pdmi.ras.ru/~hirsch/index.html" />
+<link r:resource="http://www.cs.uwyo.edu/~jhitchco/" />
+<link r:resource="http://www.cs.bu.edu/faculty/homer/" />
+<link r:resource="http://www.tcs.informatik.uni-muenchen.de/~jjohanns/" />
+<link r:resource="http://www.thi.informatik.uni-frankfurt.de/~jukna/" />
+<link r:resource="http://www.nada.kth.se/~viggo/index-en.html" />
+<link r:resource="http://theory.cs.uni-bonn.de/~marek/" />
+<link r:resource="http://www.cs.sfu.ca/~kabanets/" />
+<link r:resource="http://www.cs.umd.edu/users/samir/index.html" />
+<link r:resource="http://www.dim.uchile.cl/~mkiwi/" />
+<link r:resource="http://www.informatik.uni-giessen.de/staff/kutrib.html" />
+<link r:resource="http://www.cs.technion.ac.il/~eyalk/" />
+<link r:resource="http://kolmogorov.com/" />
+<link r:resource="http://www.cs.indiana.edu/~leivant/" />
+<link r:resource="http://www.icsi.berkeley.edu/~luby/" />
+<link r:resource="http://www.cs.iastate.edu/~lutz/" />
+<link r:resource="http://logic.pdmi.ras.ru/~yumat/" />
+<link r:resource="http://math.uni-heidelberg.de/logic/merkle/merkle.html" />
+<link r:resource="http://www.santafe.edu/~moore/" />
+<link r:resource="http://www.mi.ras.ru/~razborov/" />
+<link r:resource="http://www.cs.toronto.edu/~fpitt/" />
+<link r:resource="http://www.cs.sjsu.edu/faculty/pollett/" />
+<link r:resource="http://www.math.cas.cz/~pudlak/" />
+<link r:resource="http://www.wisdom.weizmann.ac.il/~ranraz/" />
+<link r:resource="http://www-fs.informatik.uni-tuebingen.de/~reinhard/" />
+<link r:resource="http://facweb.cs.depaul.edu/jrogers/" />
+<link r:resource="http://www.cse.uconn.edu/~acr/" />
+<link r:resource="http://boris.ryabko.net/" />
+<link r:resource="http://ls2-www.informatik.uni-dortmund.de/~sauerhof/" />
+<link r:resource="http://www.cse.buffalo.edu/~selman/" />
+<link r:resource="http://www.math.cas.cz/~sgall/" />
+<link r:resource="http://www.shoup.net/" />
+<link r:resource="http://ls2-www.cs.uni-dortmund.de/~sieling/" />
+<link r:resource="http://www.ruhr-uni-bochum.de/lmi/simon/index.html" />
+<link r:resource="http://www.cise.ufl.edu/~sitharam/" />
+<link r:resource="http://www.cs.washington.edu/homes/tompa/" />
+<link r:resource="http://lpcs.math.msu.su/~ver/" />
+<link r:resource="http://homepages.cwi.nl/~paulv/index.html" />
+<link r:resource="http://www.math.ias.edu/~avi/" />
+<link r:resource="http://orion.math.uwaterloo.ca/~hwolkowi/" />
+<link r:resource="http://www.nlsde.buaa.edu.cn/~kexu/" />
+<link r:resource="http://www-sst.informatik.tu-cottbus.de/~wwwti/zheng/" />
+<link r:resource="http://www.cs.utexas.edu/users/diz/" />
+<link r:resource="http://www.cs.cmu.edu/~rudich/" />
+<link r:resource="http://www.cs.princeton.edu/~boaz/" />
+<link r:resource="http://www.model.in.tum.de/~veith/" />
+<link r:resource="http://user.informatik.uni-goettingen.de/~waack/" />
+<link r:resource="http://www.cs.uwaterloo.ca/~jfbuss/" />
+<link r:resource="http://www.cse.yorku.ca/~jeff/" />
+<link r:resource="http://www.cs.technion.ac.il/~eli/" />
+<link1 r:resource="http://eccc.hpi-web.de/eccc/info/people.html"></link1>
+<link r:resource="http://www-users.cs.york.ac.uk/~frisch/" />
+<link r:resource="http://www.cs.toronto.edu/~hector/" />
+<link r:resource="http://www.ece.uc.edu/~franco/" />
+<link r:resource="http://www.cs.rice.edu/~vardi/" />
+<link r:resource="http://www.eng.unt.edu/ian/" />
+<link r:resource="http://pages.cs.wisc.edu/~dieter/" />
+<link r:resource="http://www.inf.uni-konstanz.de/~kosub/" />
+<link r:resource="http://people.csail.mit.edu/shafi/" />
+<link r:resource="http://theinf1.informatik.uni-jena.de/~niedermr/" />
+<link r:resource="http://www.hpi.uni-potsdam.de/meinel/chair.html" />
+<link r:resource="http://www.cs.cas.cz/~savicky/" />
+<link r:resource="http://www.cs.ucr.edu/~jiang/" />
+<link r:resource="http://www.castu.tsinghua.edu.cn/yao/" />
+<link r:resource="http://www2.cs.uni-paderborn.de/cs/ag-madh/WWW/english/Kuty.html" />
+<link r:resource="http://home.ubalt.edu/ntsbarsh/" />
+<link r:resource="http://www.eecis.udel.edu/~case/" />
+<link r:resource="http://people.seas.harvard.edu/~salil/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Complexity_Theory/Publications">
+<catid>374265</catid>
+<link r:resource="http://bruce.edmonds.name/combib/" />
+<link r:resource="http://www.nada.kth.se/~viggo/approxbook/" />
+<link r:resource="http://www.springerlink.com/content/1420-8954/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Conferences">
+<catid>374243</catid>
+<link r:resource="http://www2.informatik.hu-berlin.de/lics/" />
+<link r:resource="http://facweb.cs.depaul.edu/jrogers/complexity/" />
+<link r:resource="http://facweb.cs.depaul.edu/jrogers/MTD/" />
+<link r:resource="http://ai.stanford.edu/~suresh/theory/conf/conf-home.html" />
+<link r:resource="http://www.sigact.org/stoc.html" />
+<link r:resource="http://gandalf.dia.unisa.it/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Formal_Language_Theory">
+<catid>374238</catid>
+<pdf r:resource="http://www.inf.unibz.it/~artale/Compiler/slide2.pdf"></pdf>
+<link r:resource="http://everything2.com/index.pl?node_id=113762" />
+<link r:resource='http://web.cecs.pdx.edu/~jhein/lectures/Section.14.2.pdf#search="context sensitive languages"' />
+<link r:resource="http://www.spectrum.uni-bielefeld.de/Classes/Winter97/IntroCompPhon/compphon/node66.html" />
+<link r:resource='http://www.cs.princeton.edu/courses/archive/fall2000/cs126/lectures/T3-4up.pdf#search="context sensitive languages compilers"' />
+<link r:resource="http://www.antlr.org/wiki/display/CS652/CS652+Home" />
+<link r:resource="http://www.helsinki.fi/esslli/courses/readers/K10.pdf" />
+<link r:resource="http://www.cse.unsw.edu.au/~billw/cs9414/notes/notes.html" />
+<link r:resource="http://www.ling.upenn.edu/courses/Fall_2006/ling106/Ling106.htm" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Formal_Language_Theory/Context_Free_Languages">
+<catid>374241</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Context-free_grammar" />
+<link r:resource='http://people.umass.edu/partee/726_04/lectures/Lecture%2014%20PDAs%20and%20CFGs.pdf#search="pushdown automata"' />
+<link r:resource='http://www.cs.ucr.edu/~jiang/cs215/tao-new.pdf#search="context sensitive languages compilers"' />
+<link r:resource="http://shekel.jct.ac.il/~rafi/formcomp.pdf" />
+<link r:resource="http://eli-project.sourceforge.net/elionline/syntax_1.html" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Formal_Language_Theory/Context_Sensitive_Languages">
+<catid>374240</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Context-sensitive_language" />
+<link r:resource="http://www.cs.uiowa.edu/~fleck/PartIIIxpar/index.htm" />
+<link r:resource="http://www.cs.uiowa.edu/~fleck/taylor.pdf" />
+<link r:resource="http://www.inf.ed.ac.uk/teaching/courses/inf2a/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Formal_Language_Theory/Recursively_Enumerable_Languages">
+<catid>374239</catid>
+<link r:resource='http://www.cis.upenn.edu/~cis511/Spring04/cis51104sl13pdf.pdf#search="context sensitive languages"' />
+<link r:resource="http://www.cse.ohio-state.edu/~gurari/theory-bk/theory-bk-fourse6.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Recursively_enumerable_language" />
+<link r:resource="http://www.seas.upenn.edu/~cit596/notes/dave/relang0.html" />
+<link r:resource='http://www.cs.duke.edu/courses/cps140/spring03/lects/sectRecEnumH.pdf#search="recursively enumerable languages"' />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Formal_Language_Theory/Regular_Languages">
+<catid>374242</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Regular_language" />
+<link r:resource="http://dingo.sbs.arizona.edu/~langendoen/LING501/LING501regular.htm" />
+<link r:resource="http://www.dcs.napier.ac.uk/~andrew/co42010/kentucky/languages/reg-lang.pdf" />
+<link r:resource="http://www.seas.upenn.edu/~cit596/notes/dave/reggram1.html" />
+<link r:resource="http://mathworld.wolfram.com/RegularExpression.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Regular_expression" />
+<link r:resource="http://regexpr.com/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Forums_and_Networks">
+<catid>374263</catid>
+<link r:resource="http://lists.seas.upenn.edu/mailman/listinfo/types-list" />
+<link r:resource="http://www1.cs.columbia.edu/~agw/ibc/" />
+<link r:resource="http://www.cs.uml.edu/~wang/acc-forum/" />
+<link r:resource="http://cca-net.de/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Journals">
+<catid>374262</catid>
+<link1 r:resource="http://cjtcs.cs.uchicago.edu/"></link1>
+<link r:resource="http://www.elsevier.com/locate/tcs" />
+<link r:resource="http://eccc.hpi-web.de/" />
+<link r:resource="http://journals.cambridge.org/action/displayJournal?jid=TLP" />
+<link r:resource="http://projects.csail.mit.edu/iandc/" />
+<link r:resource="http://www.combinatorics.org/" />
+<link r:resource="http://www.jea.acm.org/" />
+<link r:resource="http://www.wiley-vch.de/publish/en/journals/alphabeticIndex/2256/" />
+<link r:resource="http://www.informatik.uni-trier.de/~ley/db/journals/jlp/" />
+<link r:resource="http://www.dmtcs.org/" />
+<link r:resource="http://theoryofcomputing.org/" />
+<link r:resource="http://tocl.acm.org/" />
+<link r:resource="http://jgaa.info/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Organizations">
+<catid>374259</catid>
+<link r:resource="http://www.eatcs.org/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/People">
+<catid>374251</catid>
+<link r:resource="http://people.csail.mit.edu/rivest/" />
+<link r:resource="http://theory.stanford.edu/~rajeev/" />
+<link r:resource="http://www.cs.berkeley.edu/~christos/" />
+<link r:resource="http://www.cs.caltech.edu/~schulman/" />
+<link r:resource="http://www.csc.villanova.edu/~japaridz/" />
+<link r:resource="http://www.cs.yale.edu/homes/spielman/" />
+<link r:resource="http://www.cs.uwaterloo.ca/~alopez-o/" />
+<link r:resource="http://people.csail.mit.edu/madhu/" />
+<link r:resource="http://people.csail.mit.edu/meyer/" />
+<link r:resource="http://people.csail.mit.edu/karger/" />
+<link r:resource="http://people.csail.mit.edu/ftl/" />
+<link r:resource="http://jacqueminb.free.fr/" />
+<link r:resource="http://www.gabbay.org.uk/" />
+<link r:resource="http://www.math.purdue.edu/~sbasu/" />
+<link r:resource="http://www.cse.psu.edu/~asmith/" />
+<link r:resource="http://formale-sprachen.informatik.uni-oldenburg.de/persons/karl-heinz.pennemann/" />
+<link r:resource="http://www.pps.jussieu.fr/~perdrix/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/People/Mailing_Lists_and_Name_Directories">
+<catid>374252</catid>
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/People/Students">
+<catid>374253</catid>
+<link r:resource="http://www.nada.kth.se/~johnny/" />
+<link r:resource="http://l1.lamsade.dauphine.fr/~hugot" />
+<link r:resource="http://www.lix.polytechnique.fr/~xu/" />
+<link r:resource="http://www.dcs.warwick.ac.uk/~trivedi/" />
+<link r:resource="http://www.thomasgross.net/" />
+<link r:resource="http://www.cs.technion.ac.il/~shpilka/" />
+<link r:resource="http://hjiang.net/" />
+<link r:resource="http://mahdi.cheraghchi.info/" />
+<link r:resource="http://www.cse.iitb.ac.in/%7Eawk/" />
+<link r:resource="http://www.cl.cam.ac.uk/~rs456/" />
+<link r:resource="http://www.fabiomogavero.com/" />
+<link r:resource="http://www.uoguelph.ca/~jernst/" />
+<link r:resource="http://ics.upjs.sk/~gursky/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Quantum_Computing">
+<catid>374255</catid>
+<link r:resource="http://www.idquantique.com/" />
+<link r:resource="http://www.magiqtech.com/" />
+<link r:resource="http://www.dwavesys.com/" />
+<link r:resource="http://qualgorithms.blogspot.com/" />
+<link r:resource="http://qi.cs.msu.su/" />
+<link r:resource="http://www.csa.com/discoveryguides/crypt/overview.php" />
+<link r:resource="http://www.quantiki.org/" />
+<link r:resource="http://people.ccmr.cornell.edu/~mermin/qcomp/CS483.html" />
+<link r:resource="http://www.qurope.net/" />
+<link r:resource="http://www-users.cs.york.ac.uk/~schmuel/comp/comp.html" />
+<link r:resource="http://arxiv.org/abs/quant-ph/0207059" />
+<link r:resource="http://math.nist.gov/quantum/zoo/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Quantum_Computing/People">
+<catid>374257</catid>
+<link r:resource="http://sites.google.com/site/tsomokos/" />
+<link r:resource="http://www.arturekert.org/" />
+<link r:resource="http://www.cft.edu.pl/~karol/" />
+<link r:resource="http://www.physik.uni-leipzig.de/~uhlmann/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Quantum_Computing/Research_Groups">
+<catid>374258</catid>
+<link r:resource="http://www.qubit.org/" />
+<link r:resource="http://www.iqc.ca/" />
+<link r:resource="http://www.iqi.caltech.edu/" />
+<link r:resource="http://www.iro.umontreal.ca/labs/theorique/" />
+<link r:resource="http://www.cki.au.dk/" />
+<link r:resource="http://www.hpl.hp.com/research/qip/" />
+<link r:resource="http://www.quniverse.sk/" />
+<link r:resource="http://www.tampa.phys.ucl.ac.uk/quinfo/" />
+<link r:resource="http://ramses.thphy.uni-duesseldorf.de/~ls3/" />
+<link r:resource="http://www.quantumlah.org/" />
+<link r:resource="http://www.am.qub.ac.uk/qo/" />
+<link r:resource="http://zksi.iitis.gliwice.pl/" />
+<link r:resource="http://www.quantum.at/" />
+<link r:resource="http://www.uibk.ac.at/th-physik/qig/" />
+<link r:resource="http://www.iet.ntnu.no/groups/optics/qcr/" />
+<link r:resource="http://www.cs.mcgill.ca/research/profile?id=32" />
+<link r:resource="http://vlsicad.eecs.umich.edu/Quantum/" />
+<link r:resource="http://www.physics.siu.edu/qc/" />
+<link r:resource="http://marc.ph.unimelb.edu.au/" />
+<link r:resource="http://www.qi.leeds.ac.uk/" />
+<link r:resource="http://www.mpq.mpg.de/Theorygroup/CIRAC/wiki/index.php/Theory_Division.html" />
+<link r:resource="http://www.qig.amu.edu.pl/" />
+<link r:resource="http://www.kcik.univ.gda.pl/" />
+<link r:resource="http://cam.qubit.org/" />
+<link r:resource="http://gcc.ls.fi.upm.es/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Quantum_Computing/Simulators_and_Programming_Languages">
+<catid>374256</catid>
+<link r:resource="http://tph.tuwien.ac.at/~oemer/qcl.html" />
+<link r:resource="http://www.ar-tiste.com/" />
+<link r:resource="http://www.dcs.gla.ac.uk/~simon/quantum/" />
+<link r:resource="http://crypto.cs.mcgill.ca/QuCalc/" />
+<link r:resource="http://lanq.sourceforge.net/" />
+<link r:resource="http://www.libquantum.de/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Research_Groups">
+<catid>374260</catid>
+<link r:resource="http://www.comlab.ox.ac.uk/" />
+<link r:resource="http://dimacs.rutgers.edu/" />
+<link r:resource="http://www.ics.uci.edu/~theory/" />
+<link r:resource="http://theory.stanford.edu/" />
+<link r:resource="http://www.luc.ac.be/theocomp/" />
+<link r:resource="http://www.bcs-facs.org/" />
+<link r:resource="http://sigact.acm.org/" />
+<link r:resource="http://www.damtp.cam.ac.uk/user/na/FoCM/" />
+<link r:resource="http://crypto.stanford.edu/portia/" />
+<link r:resource="http://algcomp.uwaterloo.ca/" />
+<link r:resource="http://www.cl.cam.ac.uk/Research/TSG/" />
+<link r:resource="http://theory.csail.mit.edu/" />
+<link r:resource="http://www.cs.swan.ac.uk/~csetzer/logic-server/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Theoretical/Software">
+<catid>374261</catid>
+<link r:resource="http://sourceforge.net/projects/turing-machine/" />
+<link r:resource="http://www.cs.nuim.ie/~tnaughton/turing/" />
+</topic>

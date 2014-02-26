@@ -1,0 +1,845 @@
+<topic r:id="Top/Computers/Systems/RISC_OS">
+<catid>373798</catid>
+<link r:resource="http://www.arcsite.de/" />
+<link r:resource="http://www.castle-technology.co.uk/" />
+<link r:resource="http://www.acornusers.org/" />
+<link r:resource="http://www.myriscos.co.uk/" />
+<link1 r:resource="http://www.riscos.com/"></link1>
+<link r:resource="http://filebase.acornusers.org/" />
+<link r:resource="http://www.acornusers.org/rc5/" />
+<link r:resource="http://www.vigay.com/cgi-bin/webring?ring=riscos" />
+<link r:resource="http://www.acornusers.org/charity-projects/" />
+<link r:resource="http://nutshells.anjackson.net/" />
+<link r:resource="http://www.virtualacorn.co.uk/" />
+<link1 r:resource="http://www.drobe.co.uk/"></link1>
+<link r:resource="http://www.advantagesix.co.uk/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Bulletin_Board_Systems">
+<catid>373809</catid>
+<link r:resource="http://arcade.demon.co.uk/" />
+<link r:resource="http://www.ccl4.org/" />
+<link r:resource="http://www.halium.com/bbs/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Dealers">
+<catid>373810</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Dealers/Australia">
+<catid>373818</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Dealers/Finland">
+<catid>373815</catid>
+<link r:resource="http://www.personal.eunet.fi/pp/fastcut/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Dealers/Germany">
+<catid>373817</catid>
+<link r:resource="http://www.topsys.net/" />
+<link r:resource="http://www.a4com.de/" />
+<link r:resource="http://www.ucs.de/" />
+<link r:resource="http://www.exgra.de/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Dealers/Italy">
+<catid>373813</catid>
+<link r:resource="http://www.axes.it/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Dealers/Japan">
+<catid>373812</catid>
+<link r:resource="http://www.mptech.co.jp/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Dealers/Netherlands">
+<catid>373816</catid>
+<link r:resource="http://www.deskvof.nl/riscos/" />
+<link r:resource="http://www.xat.nl/" />
+<link r:resource="http://www.datawave.nl/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Dealers/New_Zealand">
+<catid>373814</catid>
+<link r:resource="http://www.webmonster.co.nz/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Dealers/United_Kingdom">
+<catid>373811</catid>
+<link r:resource="http://www.explan.co.uk/" />
+<link r:resource="http://www.wardlaw.demon.co.uk/" />
+<link r:resource="http://www.futurecomputers.co.uk/acorn/index.html" />
+<link r:resource="http://www.cjemicros.co.uk/" />
+<link r:resource="http://www.apdl.co.uk/" />
+<link1 r:resource="http://www.castle-technology.co.uk/"></link1>
+<link r:resource="http://www.genesys.org.uk/" />
+<link r:resource="http://www.rcomp.co.uk/" />
+<link1 r:resource="http://www.stdevel.com/"></link1>
+<link r:resource="http://www.precedence.co.uk/products/legacy/" />
+<link r:resource="http://www.etcsystems.co.uk/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Developers">
+<catid>373819</catid>
+<link r:resource="http://www.explan.co.uk/" />
+<link r:resource="http://www.castle-technology.co.uk/" />
+<link r:resource="http://www.xat.nl/" />
+<link r:resource="http://www.iota.co.uk/" />
+<link r:resource="http://www.apdl.co.uk/isv/index.htm" />
+<link r:resource="http://www.artexsoft.com/" />
+<link r:resource="http://www.octosys.co.uk/" />
+<link r:resource="http://www.sherston.com/" />
+<link r:resource="http://www.aleph1.co.uk/" />
+<link r:resource="http://www.surftec.com/" />
+<link r:resource="http://www.windfall.nl/" />
+<link r:resource="http://www.simtec.co.uk/" />
+<link r:resource="http://www.yellowstone.co.uk/" />
+<link r:resource="http://www.borcherds.co.uk/" />
+<link r:resource="http://www.eff.co.uk/Acorn.htm" />
+<link r:resource="http://www.mw-software.com/" />
+<link r:resource="http://www.dwwg.demon.co.uk/" />
+<link r:resource="http://www.microlib.co.uk/" />
+<link r:resource="http://www.angelsoft.co.uk/" />
+<link r:resource="http://www.dsnell.zynet.co.uk/" />
+<link r:resource="http://www.pennine.demon.co.uk/Home.htm" />
+<link r:resource="http://www.wardlaw.demon.co.uk/products.html" />
+<link r:resource="http://www.torty.org.uk/SRA/home.html" />
+<link r:resource="http://www.hssoftware.co.uk/" />
+<link r:resource="http://www.aspexsoftware.com/" />
+<link r:resource="http://www.digitalphenomena.co.uk/" />
+<link r:resource="http://www.clicsoft.co.uk/" />
+<link r:resource="http://www.partis.org/" />
+<link r:resource="http://www.espmusic.co.uk/" />
+<link r:resource="http://www.flying-snail.de/" />
+<link r:resource="http://www.4mation.co.uk/" />
+<link r:resource="http://www.intellegit.com/" />
+<link r:resource="http://lym.iconbar.com/" />
+<link r:resource="http://www.co-comp.co.uk/" />
+<link r:resource="http://www.armware.dk/" />
+<link r:resource="http://www.oregan.net/" />
+<link r:resource="http://www.arsvcs.demon.co.uk/" />
+<link r:resource="http://www.taglearning.com/" />
+<link r:resource="http://www.tematic.com/" />
+<link r:resource="http://cjemicros.co.uk/4d/" />
+<link r:resource="http://kasoft.info/" />
+<link r:resource="http://www.stdevel.co.uk/" />
+<link r:resource="http://fortran.orpheusweb.co.uk/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Documentation">
+<catid>373801</catid>
+<link r:resource="http://www.faqs.org/faqs/acorn/" />
+<link r:resource="http://www.monesi.com/sergio/mapexpl.html" />
+<link r:resource="http://www.heyrick.co.uk/assembler/" />
+<link r:resource="http://homepages.caverock.net.nz/~monster/mercuters/riscos.html" />
+<link r:resource="http://www.arcsite.de/hp/ccdoc/" />
+<link r:resource="http://www.vigay.com/inet/index.html" />
+<link r:resource="http://prowl.org/overclocking/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Documentation/Advice">
+<catid>373802</catid>
+<link r:resource="http://www.apdl.co.uk/hints.htm" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Documentation/API">
+<catid>373806</catid>
+<link r:resource="http://www.vigay.com/inet/inet_dns.html" />
+<link r:resource="http://www.vigay.com/inet/inet_url.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Documentation/Applications">
+<catid>373805</catid>
+<link r:resource="http://www.goatly.pwp.blueyonder.co.uk/DTPbook/" />
+<link r:resource="http://www.photodesk.iconbar.com/" />
+<link r:resource="http://www.vigay.com/voyager/index.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Documentation/Collections">
+<catid>373804</catid>
+<link r:resource="http://www.dnd.utwente.nl/topix/texts/index.html" />
+<link r:resource="http://www.archivemag.co.uk/gloss/" />
+<link r:resource="http://www.tofla.iconbar.com/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Documentation/StrongHelp">
+<catid>373803</catid>
+<link r:resource="http://www.vinc17.org/acorn/riscpc_eng.html" />
+<link r:resource="http://www.users.zetnet.co.uk/kappa/strong.htm" />
+<link r:resource="http://www.users.zetnet.co.uk/kappa/basic.htm" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/FTP_Sites">
+<catid>373799</catid>
+<link r:resource="ftp://ftp.uni-stuttgart.de/pub/systems/acorn/" />
+<link r:resource="ftp://ftp.acornusers.org/pub/emulators/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Hardware">
+<catid>373903</catid>
+<link r:resource="http://www.apdl.co.uk/turbo.htm" />
+<link r:resource="http://www.octosys.co.uk/ttx.html" />
+<link r:resource="http://www.advantage6.com/" />
+<link r:resource="http://www.khantazi.org/Archives/MachineLst.html" />
+<link r:resource="http://oww.sourceforge.net/oww.html" />
+<link r:resource="http://www.classicacorn.freeuk.com/" />
+<link r:resource="http://www.cjemicros.co.uk/4d/other/pocket.html" />
+<link r:resource="http://www.advantagesix.com/Thea75.html" />
+<link r:resource="http://www.mcmordie.co.uk/acornhistory/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Hardware/Audio">
+<catid>373904</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Hardware/Comms">
+<catid>373907</catid>
+<link r:resource="http://www.riscos-usb.com/" />
+<link r:resource="http://www.simtec.co.uk/products/AUNET100/" />
+<link r:resource="http://www.simtec.co.uk/products/AUUSB11POD/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Hardware/Games_Related">
+<catid>373911</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Hardware/Monitors">
+<catid>373908</catid>
+<link r:resource="http://www.chiark.greenend.org.uk/~theom/riscos/a4/lcd.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Hardware/Network_Computers">
+<catid>373909</catid>
+<link r:resource="http://www.precedence.co.uk/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Hardware/PC_Card">
+<catid>373905</catid>
+<link1 r:resource="http://www.aleph1.co.uk/"></link1>
+<link r:resource="http://www.chiark.greenend.org.uk/~theom/riscos/pccardug.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Hardware/Printers">
+<catid>373906</catid>
+<link r:resource="http://www.mw-software.com/software/gimp-print/gimp-print.html" />
+<link r:resource="http://www.arsvcs.demon.co.uk/rci/index.html" />
+<link r:resource="http://www.cconcepts.co.uk/products/printing.htm" />
+<link r:resource="http://www.arsvcs.demon.co.uk/rci/uniprint/index.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Hardware/Video">
+<catid>373910</catid>
+<link r:resource="http://web.inter.nl.net/users/J.Kortink/viewfinder.htm" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/News_and_Media">
+<catid>373800</catid>
+<link r:resource="http://www.studio32.net/" />
+<link r:resource="http://www.acornarcade.com/" />
+<link r:resource="http://www.riscworld.co.uk/" />
+<link r:resource="http://www.iconbar.com/" />
+<link r:resource="http://www.acorn-gaming.org.uk/index.php3?p=News/index" />
+<link r:resource="http://www.gag.de/gag/newsinfo.html" />
+<link r:resource="http://www.ans.org.uk/" />
+<link r:resource="http://foundation.riscos.com/" />
+<link r:resource="http://www.archivemag.co.uk/" />
+<link r:resource="http://www.drobe.co.uk/index.php#riscos" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/PD_Libraries">
+<catid>373829</catid>
+<link r:resource="http://www.apdl.co.uk/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/RISC_OS_Friendly_ISPs">
+<catid>373808</catid>
+<link r:resource="http://www.markettos.org.uk/riscos/ntlworld.html" />
+<link r:resource="http://www.orpheusinternet.co.uk/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Showcase">
+<catid>373820</catid>
+<link r:resource="http://www.xat.nl/" />
+<link r:resource="http://www.oregan.net/" />
+<link r:resource="http://www.downlandvets.co.uk/" />
+<link r:resource="http://www.morgo.co.uk/" />
+<link r:resource="http://www.highpath.co.uk/" />
+<link r:resource="http://www.arcania.co.uk/" />
+<link r:resource="http://www.astutegraphics.co.uk/" />
+<link r:resource="http://www.houseofmabel.com/" />
+<link r:resource="http://www.smoothartist.com/" />
+<link r:resource="http://www.annerykiln.co.uk/" />
+<link r:resource="http://www.photophysics.com/" />
+<link r:resource="http://www.timebus.co.uk/" />
+<link r:resource="http://myweb.tiscali.co.uk/davecooper/compo.html" />
+<link r:resource="http://www.khantazi.org/Power/Acorn/RISCOS.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Shows">
+<catid>373807</catid>
+<link r:resource="http://www.bigbenclub.nl/" />
+<link r:resource="http://www.wakefieldshow.org.uk/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software">
+<catid>373830</catid>
+<link r:resource="http://www.studio32.net/RiscOS.html" />
+<link r:resource="http://www.riscos.net/zenta/" />
+<link r:resource="http://www.armclub.org.uk/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Audio">
+<catid>373832</catid>
+<link r:resource="http://www.doggysoft.co.uk/qtmplay/" />
+<link r:resource="http://www.mikejs.com/riscos/amplay.html" />
+<link r:resource="http://www.xlcus.co.uk/software/acorn/index.shtml#audiofs2" />
+<link r:resource="http://homepage.ntlworld.com/the.watsons/wmp3.html" />
+<link r:resource="http://www.pjdaniel.org.uk/software/" />
+<link r:resource="http://www.iol.ie/~djkoshea/" />
+<link r:resource="http://www.iol.ie/~djkoshea/audio/amp.html" />
+<link r:resource="http://www.atomicsoftware.org.uk/ShopDG.htm" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Audio/MIDI">
+<catid>373834</catid>
+<link r:resource="http://www.arsvcs.demon.co.uk/rci/sound/anthem/anthem.htm" />
+<link r:resource="http://www.doggysoft.co.uk/gaming/Features/Monol.html" />
+<link r:resource="http://www.amplitude.demon.nl/remidi.html" />
+<link r:resource="http://web.tiscali.it/leddit/abcMIDI/Index.html" />
+<link r:resource="http://www.melidi.co.uk/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Audio/MP3">
+<catid>373833</catid>
+<link r:resource="http://www.armware.dk/files/amplayer/" />
+<link r:resource="http://www.everett9981.freeserve.co.uk/pete.htm" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/CD_Related">
+<catid>373887</catid>
+<link r:resource="http://eh.org/~john/acorncd/" />
+<link r:resource="http://www.xlcus.co.uk/software/acorn/index.shtml#cdstatus" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Collections">
+<catid>373837</catid>
+<link r:resource="http://www.pjdaniel.org.uk/software/" />
+<link r:resource="http://www.armware.dk/files/" />
+<link r:resource="http://www.arcsite.de/hp/dragon/index.html" />
+<link r:resource="http://www.arcsite.de/hp/neoklis/index.htm" />
+<link r:resource="http://www.arcsite.de/hp/cms/software.html" />
+<link r:resource="http://www.arcsite.de/hp/bw/software.html" />
+<link r:resource="http://homepages.ihug.co.nz/~jamjars/michael/index.html" />
+<link r:resource="http://www.dnd.utwente.nl/topix/software/index.html" />
+<link r:resource="http://www.xs4all.nl/~erikgrnh/" />
+<link r:resource="http://www.niftysoftware.co.uk/ns/index.htm" />
+<link r:resource="http://www.precedence.co.uk/downloads/" />
+<link r:resource="http://www.avisoft.force9.co.uk/" />
+<link r:resource="http://homepage.eircom.net/~kmgaughan/software/riscos.html" />
+<link r:resource="http://www.vigay.com/software/" />
+<link r:resource="http://www.duffell.riscos.me.uk/" />
+<link r:resource="http://prowl.org/programs/" />
+<link r:resource="http://homepage.ntlworld.com/rik.griffin/" />
+<link r:resource="http://www.bracke.dk/" />
+<link r:resource="http://www.davidsharp.com/riscos/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Comms">
+<catid>373885</catid>
+<link r:resource="http://www.octosys.co.uk/cid.html" />
+<link r:resource="http://www.bigblue.demon.co.uk/VNC.html" />
+<link r:resource="http://www.arcsite.de/hp/neoklis/pages/gpsnav.htm" />
+<link r:resource="http://www.bigblue.demon.co.uk/smbclient.html" />
+<link r:resource="http://johnallen.com/soft/z88link.html" />
+<link r:resource="http://johnallen.com/soft/psionlink.html" />
+<link r:resource="http://www.niftysoftware.co.uk/ns/ngs/index.htm" />
+<link r:resource="http://web.inter.nl.net/users/J.Kortink/home/software/65link/index.htm" />
+<link r:resource="http://web.inter.nl.net/users/J.Kortink/home/software/zerilink/index.htm" />
+<link r:resource="http://www.strcprstskrzkrk.co.uk/autofinger" />
+<link r:resource="http://www.apdl.co.uk/isv/snet.htm" />
+<link r:resource="http://riscossmbserver.sourceforge.net/" />
+<link r:resource="http://prowl.org/programs/deskmorse/" />
+<link r:resource="http://prowl.org/programs/g0pscan/" />
+<link r:resource="http://prowl.org/programs/portmess/" />
+<link r:resource="http://prowl.org/programs/unixservices/" />
+<link r:resource="http://www.iol.ie/~djkoshea/audio/rio.html" />
+<link r:resource="http://www.iol.ie/~djkoshea/network/rlogin.html" />
+<link r:resource="http://www.iol.ie/~djkoshea/network/inetd.html" />
+<link r:resource="http://www.iol.ie/~djkoshea/network/pppserv.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Compression">
+<catid>373892</catid>
+<link r:resource="http://www.xlcus.co.uk/software/acorn/index.shtml#packager" />
+<link r:resource="http://web.inter.nl.net/users/J.Kortink/home/software/packdir/index.htm" />
+<link r:resource="http://tigger.orpheusweb.co.uk/KISS/lharc.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Databases">
+<catid>373901</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Demoscene">
+<catid>373881</catid>
+<link r:resource="http://xm-arts.de/era.html" />
+<link r:resource="http://xm-arts.de/phonology.html" />
+<link r:resource="http://xm-arts.de/blu.html" />
+<link r:resource="http://www.icebird.org/" />
+<link r:resource="http://www.dnd.utwente.nl/topix/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Design_Tools">
+<catid>373835</catid>
+<link r:resource="http://www.dsnell.zynet.co.uk/" />
+<link r:resource="http://www.idealist.demon.co.uk/" />
+<link r:resource="http://www.dsnell.zynet.co.uk/PS/ProSpur.html" />
+<link r:resource="http://www.apdl.co.uk/isv/fair.htm" />
+<link r:resource="http://www.apdl.co.uk/isv/xstitc.htm" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Disc_Rescue">
+<catid>373890</catid>
+<link r:resource="http://www.armclub.org.uk/products/discknight/" />
+<link r:resource="http://www.monesi.com/sergio/fsck.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/DTP">
+<catid>373891</catid>
+<link r:resource="http://www.winfield.demon.nl/" />
+<link r:resource="http://www.cconcepts.co.uk/products/dtp.htm" />
+<link r:resource="http://www.acornusers.org/ghostscript/" />
+<link r:resource="http://www.mw-software.com/software/xchars/xchars.html" />
+<link r:resource="http://www.starfighter.acornarcade.com/mysite/utilities.htm#fireimp" />
+<link r:resource="http://web.tiscali.it/leddit/Tab/" />
+<link r:resource="http://www.mw-software.com/software/gview/gview.html" />
+<link r:resource="http://www.xat.nl/en/cablenews/index.htm" />
+<link r:resource="http://www.pdf.iconbar.com/" />
+<link r:resource="http://www.bulldog.u-net.com/ovationpro/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Education">
+<catid>373898</catid>
+<link r:resource="http://www.sherston.com/" />
+<link r:resource="http://www.aspexsoftware.com/" />
+<link r:resource="http://www.clicsoft.co.uk/" />
+<link r:resource="http://www.acornusers.org/education/Software.html" />
+<link r:resource="http://www.explan.co.uk/bible/HolyB.html" />
+<link r:resource="http://www.acornusers.org/education/Chemistry.html" />
+<link r:resource="http://www.apdl.co.uk/isv/repgen.htm" />
+<link r:resource="http://www.acornusers.org/education/Maths.html" />
+<link r:resource="http://www.acornusers.org/education/Languages.html" />
+<link r:resource="http://www.hssoftware.co.uk/senstorearc.htm" />
+<link r:resource="http://www.hssoftware.co.uk/nstorearc.htm" />
+<link r:resource="http://www.hssoftware.co.uk/fungames.htm" />
+<link r:resource="http://homepage.eircom.net/~lrtc/computers/software/turtle/index.html" />
+<link r:resource="http://web.inter.nl.net/users/J.Kortink/home/software/earthmap/index.htm" />
+<link r:resource="http://www.strcprstskrzkrk.co.uk/earthdata" />
+<link r:resource="http://www.atomicsoftware.org.uk/Shop3D.htm" />
+<link r:resource="http://www.atomicsoftware.org.uk/ShopE.htm" />
+<link r:resource="http://www.atomicsoftware.org.uk/ShopN.htm" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Emulators">
+<catid>373883</catid>
+<link r:resource="http://www.acornemus.freeserve.co.uk/" />
+<link r:resource="http://www.thedeathzone.free-online.co.uk/" />
+<link r:resource="http://www.acornemus.freeserve.co.uk/risccps/risccps.htm" />
+<link r:resource="http://homepages.paradise.net.nz/mjfoot/bbc.htm" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Encryption">
+<catid>373882</catid>
+<link r:resource="http://www.sbellon.de/gnupg.html" />
+<link r:resource="http://www.xat.nl/enigma/" />
+<link r:resource="http://www.queen.clara.net/pgp/acorn.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Filing_Systems">
+<catid>373899</catid>
+<link r:resource="http://www.sinenomine.freeserve.co.uk/software/#CPMFS" />
+<link r:resource="http://www.armware.dk/files/filerpro.html" />
+<link r:resource="http://www.compton.nu/linkfs.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Filing_Systems/File_and_Disc_Utilities">
+<catid>373900</catid>
+<link r:resource="http://www.mw-software.com/software/discspace/discspace.html" />
+<link r:resource="http://www.mikejs.com/riscos/recurse.html" />
+<link r:resource="http://www.xs4all.nl/~erikgrnh/riscos/spin.html" />
+<link r:resource="http://www.avisoft.force9.co.uk/BackBoot.htm" />
+<link r:resource="http://www.davidsharp.com/riscos/" />
+<link r:resource="http://www.strcprstskrzkrk.co.uk/graphfree" />
+<link r:resource="http://www.stevefryatt.org.uk/software/locate/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Finance">
+<catid>373884</catid>
+<link r:resource="http://www.strcprstskrzkrk.co.uk/currency" />
+<link r:resource="http://www.envsoft.co.uk/riscos/utilities.html#EnCurr" />
+<link r:resource="http://www.accountz.com/" />
+<link r:resource="http://www.account2.co.uk/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Fonts">
+<catid>373836</catid>
+<link r:resource="http://www.eff.co.uk/Acorn.htm" />
+<link r:resource="http://utter.chaos.org.uk/~pdh/software/manyfont.htm" />
+<link r:resource="http://www.apdl.co.uk/isv/efpro.htm" />
+<link r:resource="http://www.apdl.co.uk/isv/ffiend.htm" />
+<link r:resource="http://www.apdl.co.uk/isv/drf.htm" />
+<link r:resource="http://www.apdl.co.uk/isv/typo.htm" />
+<link r:resource="http://www.netsurf-browser.org/projects/rufl/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Games">
+<catid>373888</catid>
+<link1 r:resource="http://www.acornarcade.com/"></link1>
+<link r:resource="http://www.stevefryatt.org.uk/software/" />
+<link r:resource="http://www.acorn-gaming.org.uk/" />
+<link r:resource="http://www.doggysoft.co.uk/cheat.html" />
+<link r:resource="http://www.interpages.co.uk/acorn/pccard/compat/gamecomp.html" />
+<link r:resource="http://www.doggysoft.co.uk/" />
+<link r:resource="http://www.exgra.de/pages/e_sorc.html" />
+<link r:resource="http://www.verelanthe.co.uk/musus/" />
+<link r:resource="http://elite.acornarcade.com/" />
+<link r:resource="http://www.finesse.demon.co.uk/steven/Bloxed/" />
+<link r:resource="http://www.xlcus.co.uk/software/acorn/index.shtml#cube" />
+<link r:resource="http://utter.chaos.org.uk/~pdh/software/autowars.htm" />
+<link r:resource="http://www.mikejs.com/riscos/fan.html" />
+<link r:resource="http://www.artexsoft.com/tek/" />
+<link r:resource="http://www.arsvcs.demon.co.uk/leisure/quake/Quake.html" />
+<link r:resource="http://www.arsvcs.demon.co.uk/leisure/doom/doom3.html" />
+<link r:resource="http://www.arsvcs.demon.co.uk/leisure/syndicate/synd.html" />
+<link r:resource="http://www.arsvcs.demon.co.uk/leisure/abuse/abuse.html" />
+<link r:resource="http://www.arsvcs.demon.co.uk/leisure/descent/descent.html" />
+<link r:resource="http://www.arsvcs.demon.co.uk/leisure/homm2/index.html" />
+<link r:resource="http://www.artexsoft.com/exodus/" />
+<link r:resource="http://www.artexsoft.com/ankh/" />
+<link r:resource="http://www.torty.org.uk/SRA/puzzler.html" />
+<link r:resource="http://www.arcsite.de/hp/dansgames/index.html#Tetris" />
+<link r:resource="http://www.starfighter.acornarcade.com/" />
+<link r:resource="http://homepages.paradise.net.nz/mjfoot/riscos.htm#chuckieegg" />
+<link r:resource="http://www.apdl.co.uk/isv/games/sg.htm" />
+<link r:resource="http://www.apdl.co.uk/isv/games/sf3000.htm" />
+<link r:resource="http://syndicate.acornarcade.com/" />
+<link r:resource="http://www.flypig.co.uk/ch.htm" />
+<link r:resource="http://www.reallysmall.co.uk/Pages/normal/software/games/jumpnbump/jumpnbump.html" />
+<link r:resource="http://www.reallysmall.co.uk/Pages/normal/software/games/lbreakout2/lbreakout2.html" />
+<link r:resource="http://tigger.orpheusweb.co.uk/KISS/pkiss.html" />
+<link r:resource="http://www.atomicsoftware.org.uk/ShopCn.htm" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Games/Utilities">
+<catid>373889</catid>
+<link r:resource="http://www.iol.ie/~djkoshea/games/qcc.html" />
+<link r:resource="http://www.iol.ie/~djkoshea/games/vsync.html" />
+<link r:resource="http://www.iol.ie/~djkoshea/games/packfs.html" />
+<link r:resource="http://www.iol.ie/~djkoshea/games/srdesign.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Genealogy">
+<catid>373902</catid>
+<link r:resource="http://www.pennine.demon.co.uk/family/armbasic.htm" />
+<link r:resource="http://www.apdl.co.uk/progs/ancest.htm" />
+<link r:resource="http://www.cp15.org/genealogy/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Graphics">
+<catid>373860</catid>
+<link r:resource="http://www.apdl.co.uk/isv/index.htm" />
+<link r:resource="http://www.renan.org/dl" />
+<link r:resource="http://www.photodesk.iconbar.com/res/prg/exi.shtml" />
+<link r:resource="http://www.keelhaul.demon.co.uk/acorn/#drawpl" />
+<link r:resource="http://www.cconcepts.co.uk/" />
+<link r:resource="http://www.precedence.co.uk/downloads/tinythumb/" />
+<link r:resource="http://web.inter.nl.net/users/J.Kortink/index.htm" />
+<link r:resource="http://users.skynet.be/Andre.Timmermans/image/nopaint/nopaint.htm" />
+<link r:resource="http://www.apdl.co.uk/isv/dworks.htm" />
+<link r:resource="http://www.apdl.co.uk/isv/vivid.htm" />
+<link1 r:resource="http://www.mw-software.com/software/artworks/artworks2.html"></link1>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Graphics/Animation">
+<catid>373866</catid>
+<link r:resource="http://tigger.orpheusweb.co.uk/KISS/kstool.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Graphics/Art_and_Design">
+<catid>373863</catid>
+<link r:resource="http://www.zynet.co.uk/dsnell/CADplus.html" />
+<link r:resource="http://www.wardlaw.demon.co.uk/daa/index.html" />
+<link r:resource="http://www.cconcepts.co.uk/products/artworks.htm" />
+<link r:resource="http://www.explan.co.uk/expect/index.shtml" />
+<link r:resource="http://www.aspexsoftware.com/spex.htm" />
+<link r:resource="http://www.keelhaul.demon.co.uk/4mation/vector.htm" />
+<link r:resource="http://www.keelhaul.demon.co.uk/4mation/gridpr.htm" />
+<link r:resource="http://www.apdl.co.uk/isv/artles.htm" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Graphics/Conversion">
+<catid>373868</catid>
+<link1 r:resource="http://utter.chaos.org.uk/~pdh/software/intergif.htm"></link1>
+<link r:resource="http://web.inter.nl.net/users/J.Kortink/home/software/translator/index.htm" />
+<link r:resource="http://web.inter.nl.net/users/J.Kortink/home/software/creator/index.htm" />
+<link r:resource="http://web.inter.nl.net/users/J.Kortink/home/software/greyedit/index.htm" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Graphics/Image_Processing">
+<catid>373861</catid>
+<link r:resource="http://www.sinenomine.freeserve.co.uk/software/index.html#graphics" />
+<link r:resource="http://www.armware.dk/files/mksprite.html" />
+<link r:resource="http://www.armware.dk/files/sfmerge.html" />
+<link r:resource="http://www.arcsite.de/hp/dapicture/indexuk.html" />
+<link r:resource="http://compo.iconbar.com/variation.htm" />
+<link r:resource="http://www.orac2.demon.co.uk/software/widget5/widget5.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Graphics/Plug-ins">
+<catid>373865</catid>
+<link r:resource="http://www.mw-software.com/software/awmodules/awmodules.html" />
+<link r:resource="http://www.mw-software.com/software/awmodules/awswitch.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Graphics/Presentation">
+<catid>373862</catid>
+<link r:resource="http://www.torty.org.uk/SRA/presntr.html" />
+<link r:resource="http://www.reallysmall.co.uk/Pages/normal/software/presentation/presentation.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Graphics/Scanning">
+<catid>373867</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Graphics/Viewers">
+<catid>373864</catid>
+<link r:resource="http://www.brighteyes.u-net.com/html/software.html" />
+<link r:resource="http://www.survex.com/" />
+<link r:resource="http://www.duncanmcpherson.com/VRML.html" />
+<link r:resource="http://www.armware.dk/files/easyview.html" />
+<link r:resource="http://www.apdl.co.uk/isv/mrc.htm" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Internet">
+<catid>373869</catid>
+<link r:resource="http://utter.chaos.org.uk/~pdh/software/intergif.htm" />
+<link r:resource="http://www.compton.nu/" />
+<link r:resource="http://www.brighteyes.u-net.com/" />
+<link r:resource="http://www.riscsearch.de/" />
+<link r:resource="http://www.mandala.co.uk/riscos/index.html" />
+<link r:resource="http://www.heyrick.co.uk/voyager/quickvoy/" />
+<link r:resource="http://nettle.sourceforge.net/" />
+<link r:resource="http://johnallen.com/soft/attacher.html" />
+<link r:resource="http://johnallen.com/soft/uucoder.html" />
+<link r:resource="http://www.tristone.co.uk/software/acorn/armtcp/" />
+<link r:resource="http://www.arsvcs.demon.co.uk/r-comp/www/siteseer/index.html" />
+<link r:resource="http://johnallen.com/soft/64coder.html" />
+<link r:resource="http://sourceforge.net/projects/acornicq/" />
+<link r:resource="http://www.xs4all.nl/~lsmiers/pdf/pdf.html" />
+<link r:resource="http://www.heenan.me.uk/acorn/newshound.html" />
+<link r:resource="http://www.strcprstskrzkrk.co.uk/curl" />
+<link r:resource="http://www.iol.ie/~djkoshea/network/cachefs.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Internet/Commercial">
+<catid>373876</catid>
+<link r:resource="http://www.arsvcs.demon.co.uk/" />
+<link r:resource="http://www.navaho.co.uk/" />
+<link r:resource="http://www.doggysoft.co.uk/termi.html" />
+<link r:resource="http://www.arsvcs.demon.co.uk/r-comp/messpro/index.html" />
+<link r:resource="http://www.avisoft.force9.co.uk/Pluto.htm" />
+<link r:resource="http://www.intellegit.com/software/messenger/" />
+<link r:resource="http://www.softrock.co.uk/products/webchange.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Internet/Commercial/FTP_Clients">
+<catid>373877</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Internet/Freeware_and_Shareware">
+<catid>373878</catid>
+<link r:resource="http://homepages.ihug.co.nz/~jamjars/michael/riscfree/" />
+<link r:resource="http://natter.iconbar.com/" />
+<link r:resource="http://www.flypig.co.uk/tapirmail/" />
+<link r:resource="http://prowl.org/programs/g0cam/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Internet/Freeware_and_Shareware/FTP_Clients">
+<catid>373880</catid>
+<link r:resource="http://www.ftpc.iconbar.com/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Internet/Freeware_and_Shareware/SSH">
+<catid>373879</catid>
+<link r:resource="http://www.markettos.org.uk/riscos/crypto/index.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Internet/FTP_Clients">
+<catid>373872</catid>
+<link r:resource="http://www.ftpc.iconbar.com/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Internet/HTML">
+<catid>373875</catid>
+<link r:resource="http://www.mandala.co.uk/riscos/htmlscan/index.html" />
+<link r:resource="http://www.houseofmabel.com/programs/html3/LinkSure.zip" />
+<link r:resource="http://www.arsvcs.demon.co.uk/r-comp/www/htmle3.htm" />
+<link r:resource="http://utter.chaos.org.uk/~pdh/software/checkweb.htm" />
+<link1 r:resource="http://www.webchange.co.uk/"></link1>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Internet/IRC">
+<catid>373873</catid>
+<link r:resource="http://prowl.org/programs/g0irc/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Internet/Plug_Ins">
+<catid>373871</catid>
+<link r:resource="http://themes.iconbar.com/cgi-bin/showpage?section=oregano" />
+<link r:resource="http://www.armware.dk/files/lirc.html" />
+<link r:resource="http://www.xs4all.nl/~lsmiers/flash/flash.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Internet/SSH">
+<catid>373870</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Internet/Web_Browsers">
+<catid>373874</catid>
+<link r:resource="http://www.arsvcs.demon.co.uk/webster/index.html" />
+<link r:resource="http://www.netsurf-browser.org/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Monitor_Definition_Files">
+<catid>373831</catid>
+<link r:resource="http://www.arcsite.de/hp/cms/emdf.html" />
+<link r:resource="http://www.armware.dk/files/customrpc.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Programming">
+<catid>373893</catid>
+<link r:resource="http://www.iyonix.com/32bit/" />
+<link r:resource="http://www.avisoft.force9.co.uk/ArmSort.htm" />
+<link r:resource="http://www.riscos.info/" />
+<link r:resource="http://acorncd.sourceforge.net/" />
+<link r:resource="http://www.wra1th.plus.com/awk/" />
+<link r:resource="http://www.wra1th.plus.com/lua/" />
+<link r:resource="http://www.wra1th.plus.com/bob/" />
+<link r:resource="http://www.wra1th.plus.com/gofer.html" />
+<link r:resource="http://www.drobe.co.uk/archives/?directory=/ftp.uni-stuttgart.de/pub/systems/acorn/acornet/long/development/hugs/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Programming/Compilers">
+<catid>373894</catid>
+<link r:resource="http://www.apdl.co.uk/prog.htm" />
+<link r:resource="http://www.riscos.info/index.php/GCCSDK" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Programming/Development_Tools">
+<catid>373897</catid>
+<link r:resource="http://www.compton.nu/wimpmon.html" />
+<link r:resource="http://stronged.iconbar.com/" />
+<link1 r:resource="http://zap.tartarus.org/"></link1>
+<link r:resource="http://www.xs4all.nl/~erikgrnh/riscos/tempted.html" />
+<link r:resource="http://www.xs4all.nl/~erikgrnh/riscos/difftb.html" />
+<link r:resource="http://www.xs4all.nl/~erikgrnh/riscos/rcsinfo/" />
+<link r:resource="http://www.sparse.net/vim.html" />
+<link r:resource="http://www.armclub.org.uk/free/" />
+<link r:resource="http://www.really.demon.co.uk/Pages/normal/software/development/sourcery/sourcery.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Programming/Libraries">
+<catid>373896</catid>
+<link r:resource="http://www.brighteyes.u-net.com/RiscXLib/RiscXLib.html" />
+<link r:resource="http://www.huber-net.de/adalin_e.htm" />
+<link r:resource="http://utter.chaos.org.uk/~pdh/software/extras.htm" />
+<link r:resource="http://www.xs4all.nl/~erikgrnh/riscos/malcheck.html" />
+<link r:resource="http://www.users.zetnet.co.uk/kappa/basil.htm" />
+<link r:resource="http://www.mw-software.com/software/32bitlib/32bitlib.html" />
+<link r:resource="http://www.boddie.org.uk/david/Projects/index.html" />
+<link r:resource="http://ro-oslib.sourceforge.net/" />
+<link r:resource="http://www.nedprod.com/programs/RISC-OS/Wimp2/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Programming/Utilities">
+<catid>373895</catid>
+<link r:resource="http://www.doggysoft.co.uk/" />
+<link r:resource="http://utter.chaos.org.uk/~pdh/software/enla.htm" />
+<link r:resource="http://www.xs4all.nl/~lsmiers/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Spreadsheets">
+<catid>373886</catid>
+<link r:resource="http://www.apdl.co.uk/isv/tcalc.htm" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities">
+<catid>373838</catid>
+<link r:resource="http://www.armware.dk/" />
+<link r:resource="http://www.bulldog.u-net.com/software/graph.html" />
+<link r:resource="http://www.softrock.co.uk/" />
+<link r:resource="http://www.jamesweb.org.uk/timezone/" />
+<link r:resource="http://members.tripod.com/~microsloth/c_util.htm" />
+<link r:resource="http://www.dune.demon.nl/tabsoft/iconizebar_uk.html" />
+<link r:resource="http://www.strcprstskrzkrk.co.uk/territories" />
+<link r:resource="http://www.flypig.co.uk/dnload.htm" />
+<link r:resource="http://www.flypig.co.uk/" />
+<link r:resource="http://www.strcprstskrzkrk.co.uk/currency" />
+<link r:resource="http://www.jochenlueg.freeuk.com/" />
+<link r:resource="http://tigger.orpheusweb.co.uk/" />
+<link r:resource="http://coleman.orpheusweb.co.uk/frames/software.html" />
+<link r:resource="http://coleman.orpheusweb.co.uk/" />
+<link r:resource="http://www.stevefryatt.org.uk/software/" />
+<link r:resource="http://melhuish.info/simon/projects/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Amateur_Radio">
+<catid>373848</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Animation">
+<catid>373856</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Backup">
+<catid>373847</catid>
+<link r:resource="http://www.chiark.greenend.org.uk/~theom/riscos/hardback/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/BBS_Utilities">
+<catid>373851</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Clocks,_Memory,_and_Status_Displays">
+<catid>373852</catid>
+<link r:resource="http://www.xlcus.co.uk/software/acorn/#keyclock" />
+<link r:resource="http://www.iol.ie/~djkoshea/misc/clock.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Desktop_Aids">
+<catid>373858</catid>
+<link r:resource="http://www.arsvcs.demon.co.uk/r-comp/utils/shorts.htm" />
+<link r:resource="http://minidisc.iconbar.com/" />
+<link r:resource="http://www.mw-software.com/software/appdock/appdock.html" />
+<link r:resource="http://director.sourceforge.net/" />
+<link r:resource="http://www.starfighter.acornarcade.com/mysite/utilities.htm#switch" />
+<link r:resource="http://homepage.eircom.net/~lrtc/computers/software/easifiler/index.html" />
+<link r:resource="http://www.apdl.co.uk/isv/dlock.htm" />
+<link r:resource="http://www.flypig.co.uk/dnload.htm#buttonbar" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Diaries_and_Almanacs">
+<catid>373846</catid>
+<link r:resource="http://www.mikejs.com/riscos/diary.html" />
+<link r:resource="http://www.explan.co.uk/Diary.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Dictionaries_and_Thesauri">
+<catid>373844</catid>
+<link r:resource="http://www.cconcepts.co.uk/products/wordw.htm" />
+<link r:resource="http://download.travlang.com/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Interactive_Help_Displays">
+<catid>373859</catid>
+<link r:resource="http://www.vigay.com/thirdparty/#bubblehelp" />
+<link r:resource="http://www.stevefryatt.org.uk/software/float/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Modems_and_Fax">
+<catid>373845</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Patches_and_Fixes">
+<catid>373841</catid>
+<link r:resource="http://www.iol.ie/~djkoshea/misc/patchcdfs.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Patches_and_Fixes/StrongARM">
+<catid>373842</catid>
+<link r:resource="http://www.iol.ie/~djkoshea/misc/compsa.html" />
+<link r:resource="http://www.iol.ie/~djkoshea/misc/ledcache.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/PC_Card">
+<catid>373839</catid>
+<link r:resource="http://www.arsvcs.demon.co.uk/rci/sound/pcsoundpro/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Printing">
+<catid>373850</catid>
+<link r:resource="http://www.arsvcs.demon.co.uk/rci/netprint/index.html" />
+<link r:resource="http://www.mw-software.com/software/gimp-print/gimp-print.html" />
+<link r:resource="http://www.iol.ie/~djkoshea/misc/djctrl.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Scanning">
+<catid>373857</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Scientific_Software">
+<catid>373843</catid>
+<link r:resource="http://www.mw-software.com/software/rasmol/rasmol.html" />
+<link r:resource="http://www.bulldog.u-net.com/software/graph.html" />
+<link r:resource="http://www.angelfire.com/mt/wumps/Aawo.html" />
+<link r:resource="http://www.angelfire.com/mt/wumps/Dnawo.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Sillies">
+<catid>373849</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Text_Manipulation">
+<catid>373855</catid>
+<link r:resource="http://www.arcsite.de/hp/mrb/index.html" />
+<link r:resource="http://www.bapfish.freeuk.com/soft.html#APPEND" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Virtual_Desktops">
+<catid>373853</catid>
+<link r:resource="http://www.iol.ie/~djkoshea/misc/vdesk.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Virus_Protection">
+<catid>373854</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/Software/Utilities/Zap_Modes">
+<catid>373840</catid>
+<link r:resource="http://www.iol.ie/~djkoshea/misc/zapman.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/User_Groups">
+<catid>373821</catid>
+<link r:resource="http://www.convergence.org/" />
+<link1 r:resource="http://www.aaug.net/"></link1>
+<link r:resource="http://www.aaug.net/discounts.html" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/User_Groups/Australia">
+<catid>373827</catid>
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/User_Groups/Belgium">
+<catid>373823</catid>
+<link r:resource="http://www.aaug.net/riscosbe/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/User_Groups/Germany">
+<catid>373826</catid>
+<link r:resource="http://www.gag.de/ukinfo.html" />
+<link r:resource="http://www.arcsite.de/arche/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/User_Groups/Netherlands">
+<catid>373825</catid>
+<link r:resource="http://www.bigbenclub.nl/" />
+<link r:resource="http://www.cuci.nl/~pscheele/ACorner/acornr.htm" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/User_Groups/New_Zealand">
+<catid>373824</catid>
+<link r:resource="http://homepages.ihug.co.nz/~snookums/" />
+<link r:resource="http://homepages.ihug.co.nz/~jamjars/AUW/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/User_Groups/Special_Interests">
+<catid>373828</catid>
+<link r:resource="http://fortran.orpheusweb.co.uk/" />
+</topic>
+<topic r:id="Top/Computers/Systems/RISC_OS/User_Groups/United_Kingdom">
+<catid>373822</catid>
+<link r:resource="http://www.poppyfields.net/sasaug/" />
+<link r:resource="http://users.powernet.co.uk/depson/MKAUG/home.html" />
+<link r:resource="http://www.aaug.net/rung/index.html" />
+<link r:resource="http://www.wrocc.org.uk/" />
+<link r:resource="http://www.hhrug.org/" />
+</topic>

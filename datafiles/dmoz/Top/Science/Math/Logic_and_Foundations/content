@@ -1,0 +1,894 @@
+<topic r:id="Top/Science/Math/Logic_and_Foundations">
+<catid>816489</catid>
+<link r:resource="http://www.cis.upenn.edu/~giorgi/cl.html" />
+<link r:resource="http://www.math.niu.edu/~rusin/known-math/index/03-XX.html" />
+<link r:resource="http://plato.stanford.edu/entries/logic-classical/" />
+<link r:resource="http://www.ltn.lv/~podnieks/mlog/ml.htm" />
+<link r:resource="http://www.settheory.net/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Computability">
+<catid>816532</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Interactive_computation" />
+<link r:resource="http://cca-net.de/" />
+<link r:resource="http://www.csc.liv.ac.uk/~ped/teachadmin/algor/comput_complete.html" />
+<link r:resource="http://www.nd.edu/~cholak/computability/computability.html" />
+<link r:resource="http://plato.stanford.edu/entries/church-turing/" />
+<link r:resource="http://www.nd.edu/~cholak/computability/bib/bib.html" />
+<link r:resource="http://www-cgi.cs.purdue.edu/cgi-bin/acc/pses.cgi" />
+<link r:resource="http://www.hypercomputation.net/" />
+<link r:resource="http://math.berkeley.edu/~slaman/qrt/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Computational_Logic">
+<catid>816555</catid>
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Computational_Logic/Automated_Reasoning">
+<catid>816556</catid>
+<link r:resource="http://plato.stanford.edu/entries/reasoning-automated/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Computational_Logic/Combinatory_Logic_and_Lambda_Calculus">
+<catid>816560</catid>
+<link r:resource="http://www.bu.edu/wcp/Papers/Logi/LogiBimb.htm" />
+<link r:resource="http://www.cwi.nl/~tromp/cl/cl.html" />
+<link r:resource="http://www.csse.monash.edu.au/~lloyd/tildeFP/Lambda/" />
+<link r:resource="http://perl.plover.com/lambda/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Computational_Logic/Combinatory_Logic_and_Lambda_Calculus/Formulae-as-Types_Correspondence">
+<catid>816561</catid>
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.47.246" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Computational_Logic/Combinatory_Logic_and_Lambda_Calculus/Formulae-as-Types_Correspondence/Classical_Logic">
+<catid>816563</catid>
+<link r:resource="http://citeseer.ist.psu.edu/did/91961" />
+<link r:resource="http://citeseer.ist.psu.edu/did/231416" />
+<link r:resource="http://citeseer.ist.psu.edu/did/4806" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.56.8271" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.49.3492" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.46.7451" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.56.2758" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Computational_Logic/Combinatory_Logic_and_Lambda_Calculus/Formulae-as-Types_Correspondence/Proofs_as_Processes">
+<catid>816562</catid>
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.54.1293" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.35.3024" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.8118" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Computational_Logic/Logical_Frameworks">
+<catid>816557</catid>
+<link r:resource="http://cvs.metaprl.org:12000/metaprl/" />
+<link r:resource="http://www.dcs.ed.ac.uk/home/lego/" />
+<link r:resource="http://www.cs.chalmers.se/~hallgren/Alfa/" />
+<link r:resource="http://www.cs.cornell.edu/Info/Projects/NuPrl/" />
+<link r:resource="http://zermelo.dcs.ed.ac.uk/~proofgen/" />
+<link r:resource="http://www.cs.ucsd.edu/groups/tatami/kumo/" />
+<link r:resource="http://www.lama.univ-savoie.fr/sitelama/Membres/pages_web/RAFFALLI/af2.html" />
+<link r:resource="http://isabelle.informatik.tu-muenchen.de/" />
+<link r:resource="http://hol.sourceforge.net/" />
+<link r:resource="http://www.cs.ru.nl/~janz/yarrow/" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.36.5128" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Computational_Logic/Logical_Frameworks/Coq">
+<catid>816558</catid>
+<link r:resource="http://www-sop.inria.fr/croap/ctcoq/ctcoq-eng.html" />
+<link1 r:resource="http://coq.inria.fr/"></link1>
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Computational_Logic/Logical_Frameworks/LF_Logical_Framework">
+<catid>816559</catid>
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.40.3910" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Directories">
+<catid>816495</catid>
+<link r:resource="http://dl.kr.org/" />
+<link r:resource="http://archives.math.utk.edu/topics/logic.html" />
+<link r:resource="http://logik.phl.univie.ac.at/~chris/logic.html" />
+<link r:resource="http://www.math.ucla.edu/~hbe/aslweb.html" />
+<link r:resource="http://www.mathguide.de/cgi-bin/ssgfi/anzeige.pl?db=math&amp;sc=03" />
+<link r:resource="http://www.cs.swan.ac.uk/~csetzer/logic-server/" />
+<link r:resource="http://world.logic.at/" />
+<link r:resource="http://gustavus.edu/academics/philosophy/llogic.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Education">
+<catid>816564</catid>
+<link r:resource="http://www.univnorthco.edu/philosophy/trans.html" />
+<link r:resource="http://www.math.usf.edu/~mccolm/RGintro.html" />
+<link r:resource="http://ugweb.cs.ualberta.ca/~c272/" />
+<link r:resource="http://www.sjsu.edu/faculty/carranza/" />
+<link r:resource="http://www.ltn.lv/~podnieks/" />
+<link r:resource="http://logic.tamu.edu/" />
+<link r:resource="http://www.cs.indiana.edu/formal-methods-education/" />
+<link r:resource="http://logictutorial.com/" />
+<link r:resource="http://www.oakland.edu/phil/cafe/" />
+<link r:resource="http://plato.stanford.edu/entries/disjunction/" />
+<link r:resource="http://sakharov.net/logic.html" />
+<link r:resource="http://www.inf.unibz.it/~franconi/dl/course/" />
+<link r:resource="http://www.ucalgary.ca/aslcle/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Foundations">
+<catid>816550</catid>
+<link r:resource="http://www.mizar.org/" />
+<link r:resource="http://www.cs.nyu.edu/mailman/listinfo/fom/" />
+<link r:resource="http://sakharov.net/foundation.html" />
+<link r:resource="http://www.qedeq.org/" />
+<link r:resource="http://www.cs.auckland.ac.nz/~chaitin/lowell.html" />
+<link r:resource="http://www.paultaylor.eu/~pt/prafm/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Game_Semantics">
+<catid>816514</catid>
+<link r:resource="http://www.csc.villanova.edu/~japaridz/CL/gsoll.html" />
+<link r:resource="http://plato.stanford.edu/entries/logic-games/" />
+<link r:resource="http://arxiv.org/abs/math.LO/9310211" />
+<link r:resource="http://en.wikipedia.org/wiki/Computability_logic" />
+<link r:resource="http://www.nationmaster.com/encyclopedia/Game-Theory" />
+<link r:resource="http://open-site.org/Science/Mathematics/Logic/Game_Semantics/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Game_Semantics/People">
+<catid>816515</catid>
+<link r:resource="http://www.comlab.ox.ac.uk/people/Luke.Ong/" />
+<link r:resource="http://www.csc.villanova.edu/~japaridz/" />
+<link r:resource="http://www.math.lsa.umich.edu/~ablass/" />
+<link r:resource="http://staff.science.uva.nl/~johan/" />
+<link r:resource="http://www.sci.brooklyn.cuny.edu/cis/parikh/" />
+<link r:resource="http://www.comlab.ox.ac.uk/people/samson.abramsky/" />
+<link r:resource="http://www.dpmms.cam.ac.uk/~martin/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History">
+<catid>816496</catid>
+<link r:resource="http://pvspade.com/Logic/" />
+<link r:resource="http://www.fordham.edu/gsas/phil/klima/Intro.htm" />
+<link r:resource="http://plato.stanford.edu/entries/analogy-medieval/" />
+<link r:resource="http://plato.stanford.edu/entries/modality-medieval/" />
+<link r:resource="http://www.nd.edu/Departments/Maritain/etext/perrier2.html" />
+<link r:resource="http://www.nd.edu/Departments/Maritain/etext/scholas1.htm" />
+<link r:resource="http://www.bu.edu/wcp/Papers/Anci/AnciBark.htm" />
+<link r:resource="http://plato.stanford.edu/entries/square/" />
+<link r:resource="http://www.newadvent.org/cathen/09324a.htm" />
+<link r:resource="http://www.philosophypages.com/hy/2n.htm" />
+<link r:resource="http://plato.stanford.edu/entries/peter-spain/" />
+<link r:resource="http://aristotelianlogic.glashoff.net/" />
+<link r:resource="http://www9.georgetown.edu/faculty/jod/texts/dialecticatrans.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/Ancient_and_Modern_Logic">
+<catid>816497</catid>
+<link r:resource="http://www.fordham.edu/gsas/phil/klima/freelog.htm" />
+<link r:resource="http://www.bu.edu/wcp/Papers/Logi/LogiBoge.htm" />
+<link r:resource="http://logic.glashoff.net/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People">
+<catid>816498</catid>
+<link r:resource="http://www.ucalgary.ca/~rzach/279/logicians.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People/Bernays,_Paul">
+<catid>816501</catid>
+<link r:resource="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Bernays.html" />
+<link r:resource="http://www.phil.cmu.edu/projects/bernays/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People/Boole,_George">
+<catid>816503</catid>
+<link r:resource="http://www.maths.tcd.ie/pub/HistMath/People/Boole/CalcLogic/" />
+<link r:resource="http://www-history.mcs.st-andrews.ac.uk/Mathematicians/Boole.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People/Cantor,_Georg">
+<catid>816507</catid>
+<link r:resource="http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Cantor.html" />
+<link r:resource="http://www.shu.edu/projects/reals/history/cantor.html" />
+<link r:resource="http://www-history.mcs.st-andrews.ac.uk/Biographies/Cantor.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People/Church,_Alonzo">
+<catid>816510</catid>
+<link r:resource="http://plato.stanford.edu/entries/church-turing/" />
+<link r:resource="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Church.html" />
+<link r:resource="http://www.ditext.com/church/nae.html" />
+<link r:resource="http://www.math.ucla.edu/~asl/bsl/0104-toc.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People/Frege,_Gottlob">
+<catid>816500</catid>
+<link r:resource="http://mally.stanford.edu/frege.html" />
+<link r:resource="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Frege.html" />
+<link r:resource="http://plato.stanford.edu/entries/frege-logic/" />
+<link r:resource="http://www.trincoll.edu/depts/phil/philo/phils/frege.html" />
+<link r:resource="http://plato.stanford.edu/entries/frege/" />
+<link r:resource="http://www.dif.unige.it/epi/hp/penco/pub/2th.htm" />
+<link r:resource="http://en.wikipedia.org/wiki/Frege" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People/Gödel,_Kurt">
+<catid>816502</catid>
+<link r:resource="http://www.stats.uwaterloo.ca/~cgsmall/ontology.html" />
+<link r:resource="http://www.earlham.edu/~peters/writing/godel.htm" />
+<link r:resource="http://www-history.mcs.st-andrews.ac.uk/history/Mathematicians/Godel.html" />
+<link r:resource="http://www.2think.org/godel.shtml" />
+<link r:resource="http://www.math.hawaii.edu/~dale/godel/godel.html" />
+<link r:resource="http://www.ncsu.edu/felder-public/kenny/papers/godel.html" />
+<link r:resource="http://www-gap.dcs.st-and.ac.uk/~history/PictDisplay/Godel.html" />
+<link r:resource="http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Godel.html" />
+<link r:resource="http://open-site.org/Science/Mathematics/Mathematicians/G%C3%B6del/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People/Hilbert,_David">
+<catid>816506</catid>
+<link r:resource="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Hilbert.html" />
+<link r:resource="http://aleph0.clarku.edu/~djoyce/hilbert/" />
+<link r:resource="http://faculty.evansville.edu/ck6/bstud/hilbert.html" />
+<link r:resource="http://www.mathacademy.com/pr/prime/articles/hilbert_prob/" />
+<link r:resource="http://plato.stanford.edu/entries/hilbert-program/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People/Lukasiewicz,_Jan">
+<catid>816505</catid>
+<link r:resource="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Lukasiewicz.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Jan_Lukasiewicz" />
+<link r:resource="http://www.calculator.org/Lukasiewicz.html" />
+<link r:resource="http://www.calculemus.org/LogBank/Meetings/Dublin96/index.html" />
+<link r:resource="http://evans-experientialism.freewebspace.com/ariannabetti.htm" />
+<link r:resource="http://www3.unifi.it/dpfilo/upload/sub/Materiali/Documenti/logic_determinism_lukasiewicz.pdf" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People/Peirce,_Charles_Sanders">
+<catid>816509</catid>
+<link r:resource="http://www.peirce.org/" />
+<link r:resource="http://www.cvm.qc.ca/encephi/contenu/philoso/peirce.htm" />
+<link r:resource="http://plato.stanford.edu/entries/peirce-logic/" />
+<link r:resource="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Peirce_Charles.html" />
+<link r:resource="http://plato.stanford.edu/entries/peirce/" />
+<link1 r:resource="http://www.iupui.edu/~peirce/index.htm"></link1>
+<link r:resource="http://www.peircesociety.org/transactions.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People/Post,_Emil_L.">
+<catid>816508</catid>
+<link r:resource="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Post.html" />
+<link r:resource="http://www.calculemus.org/MathUniversalis/7/09marci.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People/Skolem,_Thoralf">
+<catid>816499</catid>
+<link r:resource="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Skolem.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People/Tarski,_Alfred">
+<catid>816512</catid>
+<link r:resource="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Tarski.html" />
+<link r:resource="http://www.math.ucla.edu/~asl/bsl/0502-toc.htm" />
+<link r:resource="http://www.ditext.com/tarski/tarski.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People/Turing,_Alan_Mathison">
+<catid>816504</catid>
+<link r:resource="http://plato.stanford.edu/entries/church-turing/" />
+<link r:resource="http://ei.cs.vt.edu/~history/Turing.html" />
+<link r:resource="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Turing.html" />
+<link1 r:resource="http://www.turing.org.uk/"></link1>
+<link r:resource="http://www.alanturing.net/" />
+<link r:resource="http://www.abelard.org/turpap2/turpap2.htm" />
+<link r:resource="http://www.wired.com/wired/archive/people/alan_turing/" />
+<link r:resource="http://plato.stanford.edu/entries/turing/" />
+<link r:resource="http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD/GBR/0272/AMT" />
+<link r:resource="http://www.businessweek.com/magazine/content/04_19/b3882029_mz072.htm" />
+<link r:resource="http://en.wikipedia.org/wiki/Alan_Turing" />
+<link r:resource="http://foldoc.org/Alan+Turing" />
+<link r:resource="http://www.bbc.co.uk/news/science-environment-18561092" />
+<link r:resource="http://www.turingarchive.org/" />
+<link r:resource="http://alanturinglegacy.com/" />
+<link1 r:resource="http://www.turingcentenary.eu/"></link1>
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/History/People/Zermelo,_Ernst">
+<catid>816511</catid>
+<link r:resource="http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Zermelo.html" />
+<link r:resource="http://www.stetson.edu/~efriedma/periodictable/html/Zr.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Knowledge_Representation_and_Planning">
+<catid>816490</catid>
+<link r:resource="http://www.cs.utexas.edu/users/vl/tag/" />
+<link r:resource="http://en.wikipedia.org/wiki/Knowledge_representation" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Meetings">
+<catid>816533</catid>
+<link r:resource="http://www.maths.bris.ac.uk/events/meetings/meeting/index.php?meeting_id=113" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Meetings/BLC">
+<catid>816534</catid>
+<link r:resource="http://www.maths.leeds.ac.uk/Pure/logic/blc04.html" />
+<link r:resource="http://www.cl.cam.ac.uk/~ad260/blc99.html" />
+<link r:resource="http://www.uea.ac.uk/~h120/programme.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Meetings/Calendars">
+<catid>816539</catid>
+<link r:resource="http://www2.informatik.hu-berlin.de/lics/logic-confs/" />
+<link r:resource="http://www.csc.liv.ac.uk/~ped/bctcs/summary.html" />
+<link r:resource="http://www.pms.informatik.uni-muenchen.de/conferences/conferences.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Meetings/ESSLLI">
+<catid>816536</catid>
+<link r:resource="http://www.coli.uni-sb.de/esslli/" />
+<link r:resource="http://www.helsinki.fi/esslli/" />
+<link r:resource="http://www.lpl.univ-aix.fr/~esslli97/" />
+<link r:resource="http://esslli2004.loria.fr/" />
+<link r:resource="http://www.logic.at/esslli03/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Meetings/ISMVL">
+<catid>816541</catid>
+<link r:resource="http://www.cs.umb.edu/~ismvl02/" />
+<link r:resource="http://www.ipipan.waw.pl/~ismv" />
+<link r:resource="http://www.ee.pdx.edu/~mperkows/ISMVL/%3Dindex2000.html" />
+<link r:resource="http://science.icu.ac.jp/ismvl/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Meetings/Logic_Colloquium">
+<catid>816535</catid>
+<link r:resource="http://lc2004.unito.it/" />
+<link r:resource="http://www.amsta.leeds.ac.uk/events/logic97/" />
+<link r:resource="http://www.math.cas.cz/~lc98/" />
+<link r:resource="http://lc2000.logique.jussieu.fr/LC2000a.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Meetings/Past_Conferences">
+<catid>816538</catid>
+<link r:resource="http://gplsi.dlsi.ua.es/congresos/time07/" />
+<link r:resource="http://www.dcs.ed.ac.uk/csl02/" />
+<link r:resource="http://floc02.diku.dk/CADE/" />
+<link r:resource="http://www.math.cas.cz/~mfcs2001/" />
+<link r:resource="http://www.cs.uu.nl/deon2006/" />
+<link r:resource="http://www.newton.ac.uk/programmes/LAA/" />
+<link r:resource="http://www.dcs.ed.ac.uk/home/mxh/ICC01.html" />
+<link r:resource="http://math.boisestate.edu/~best/" />
+<link r:resource="http://www.cs.nmsu.edu/~complog/conferences/iclp99/" />
+<link r:resource="http://www.tcs.informatik.uni-muenchen.de/csl2000/" />
+<link r:resource="http://logic.pdmi.ras.ru/LogicDays" />
+<link r:resource="http://arp.anu.edu.au/lss/" />
+<link r:resource="http://www.ee.pdx.edu/~mperkows/ISMVL/=index2000.html" />
+<link r:resource="http://www.fi.muni.cz/~zlatuska/goedel96.html" />
+<link r:resource="http://www.informatik.uni-trier.de/~ley/db/conf/lpar/" />
+<link r:resource="http://logica.cle.unicamp.br/wcp/wcp2000.htm" />
+<link r:resource="http://www.cs.albany.edu/~nvm/tab99/" />
+<link r:resource="http://www.fi.muni.cz/mfcs98/" />
+<link r:resource="http://www.doc.ic.ac.uk/cl2000/" />
+<link r:resource="http://www.econ.ucdavis.edu/faculty/bonanno/loft4.html" />
+<link r:resource="http://www.ucl.ac.uk/~ucahcjm/stn/stn9.html" />
+<link r:resource="http://www.cs.cmu.edu/~cade/" />
+<link r:resource="http://www.cs.yorku.ca/pli-00/" />
+<link r:resource="http://www.cs.ucy.ac.cy/symposium/" />
+<link r:resource="http://www.math.bgu.ac.il/~bguconf/" />
+<link r:resource="http://www.math.berkeley.edu/~steel/martin.html" />
+<link r:resource="http://www.icsc-naiso.org/conferences/cima2001/fla2001/" />
+<link r:resource="http://www.irisa.fr/manifestations/2001/LACL2001/" />
+<link r:resource="http://www.ksl.stanford.edu/dl2001/" />
+<link r:resource="http://dl.kr.org/workshops/" />
+<link r:resource="http://www.cs.bu.edu/faculty/mairson/LICS01/" />
+<link r:resource="http://www.cs.nmsu.edu/~complog/shaker/" />
+<link r:resource="http://www.dsi.uniroma1.it/~labella/FICS.html" />
+<link r:resource="http://music.dsi.unifi.it/pli01/" />
+<link r:resource="http://www.fi.muni.cz/ilpnet2/LLL2001/" />
+<link r:resource="http://www.lsv.ens-cachan.fr/csl01/" />
+<link r:resource="http://www.kr.tuwien.ac.at/lpnmr01/" />
+<link r:resource="http://www.illc.uva.nl/Borjomi/" />
+<link r:resource="http://www.informatik.uni-kiel.de/~wflp2001/" />
+<link r:resource="http://www.math.uni-bonn.de/people/fotfs/III/" />
+<link r:resource="http://math.nsc.ru/conference/malmeet/goncharov/" />
+<link r:resource="http://www.imub.ub.es/events/wmt/" />
+<link r:resource="http://www.cs.ucy.ac.cy/iclp2001/" />
+<link r:resource="http://www.illc.uva.nl/AC2001/" />
+<link r:resource="http://www.dcs.kcl.ac.uk/research/groups/logic/ADMW01/" />
+<link r:resource="http://www.cs.nmsu.edu/~complog/conferences/iclp01/" />
+<link r:resource="http://www.orchid.inf.tu-dresden.de/gk-spezifikation/wata.html" />
+<link r:resource="http://www.cs.utexas.edu/users/moore/acl2/workshop-2002/" />
+<link r:resource="http://www-verimag.imag.fr/~maler/TPTS.html" />
+<link r:resource="http://www.mathematik.uni-muenchen.de/~gamma0" />
+<link r:resource="http://www.cs.uu.nl/people/henry/add02/add02.html" />
+<link r:resource="http://www.irit.fr/NMR2002/NMR2002.html" />
+<link r:resource="http://logic.pdmi.ras.ru/jaf21/" />
+<link r:resource="http://centria.di.fct.unl.pt/~jleite/clima02/" />
+<link r:resource="http://floc02.diku.dk/" />
+<link r:resource="http://floc02.diku.dk/ICLP/" />
+<link r:resource="http://floc02.diku.dk/TABLEAUX/" />
+<link r:resource="http://floc02.diku.dk/RTA/" />
+<link r:resource="http://www.fields.utoronto.ca/programs/scientific/02-03/set_theory/" />
+<link r:resource="http://www.cle.unicamp.br/wcp3/" />
+<link r:resource="http://www.cs.man.ac.uk/~voronkov/LPAR/2001/lpar2001.html" />
+<link r:resource="http://kr.org/KR2002/" />
+<link r:resource="http://logic.pdmi.ras.ru/june2004/" />
+<link r:resource="http://floc02.diku.dk/LICS/" />
+<link r:resource="http://centria.di.fct.unl.pt/~jelia2004/" />
+<link r:resource="http://www.math.uni-bonn.de/people/fotfs/V/" />
+<link r:resource="http://www.uni-log.org/" />
+<link r:resource="http://www.illc.uva.nl/CiE/" />
+<link r:resource="http://www.ims.nus.edu.sg/Programs/infinity/" />
+<link r:resource="http://www.univ-paris12.fr/lacl/LCCS2001/" />
+<link r:resource="http://floc99.itc.it/index.asp" />
+<link r:resource="http://www.msri.org/calendar/workshops/WorkshopInfo/94/show_workshop" />
+<link r:resource="http://www.newton.ac.uk/programmes/MAA/" />
+<link r:resource="http://www.dsic.upv.es/~rdp03/rta/" />
+<link r:resource="http://www.di.uminho.pt/mpc2000/" />
+<link r:resource="http://www.tark.org/cfp01.html" />
+<link r:resource="http://www.risc.jku.at/conferences/IJCAR-WS7/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Meetings/Series">
+<catid>816537</catid>
+<link r:resource="http://www.cs.man.ac.uk/~kung-kiu/lopstr/" />
+<link r:resource="http://www2.informatik.hu-berlin.de/lics/" />
+<link r:resource="http://www.cs.albany.edu/~nvm/cade.html" />
+<link r:resource="http://i12www.ira.uka.de/TABLEAUX/" />
+<link r:resource="http://www.ucl.ac.uk/~ucahcjm/stn.html" />
+<link r:resource="http://dblp.uni-trier.de/db/conf/fm/" />
+<link r:resource="http://www.kr.org/RelatedConferences.html" />
+<link r:resource="http://discotec08.ifi.uio.no/FMOODS08/HomePage" />
+<link r:resource="http://www.tark.org/" />
+<link r:resource="http://dauns.math.tulane.edu/~mfps/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Meetings/WoLLIC">
+<catid>816540</catid>
+<link1 r:resource="http://www.cin.ufpe.br/~wollic/"></link1>
+<link r:resource="http://www.di.ufpe.br/~wollic/wollic97/" />
+<link r:resource="http://www.cin.ufpe.br/~wollic/wollic2000/" />
+<link r:resource="http://www.cin.ufpe.br/~wollic/wollic2001/" />
+<link r:resource="http://www.cin.ufpe.br/~wollic/wollic2002/" />
+<link r:resource="http://www.di.ufpe.br/~wollic/wollic99/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Model_Theory">
+<catid>816553</catid>
+<link r:resource="http://www.cs.nott.ac.uk/~nza/MGS/MGS00/" />
+<link r:resource="http://www.ltn.lv/~podnieks/gta.html" />
+<link r:resource="http://www.math.uic.edu/~marker/mtf-reading.html" />
+<link r:resource="http://www-mgi.informatik.rwth-aachen.de/FMT/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Nonstandard_Logics_and_Extensions">
+<catid>816516</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Computability_logic" />
+<link r:resource="http://www.earlham.edu/~peters/courses/logsys/nonstbib.htm" />
+<link r:resource="http://plato.stanford.edu/entries/logic-infinitary/" />
+<link r:resource="http://www.cc.utah.edu/~nahaj/logic/structures/" />
+<link r:resource="http://www.univ-paris12.fr/lacl/jaf/html/wa.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Nonstandard_Logics_and_Extensions/Fuzzy_Logic">
+<catid>816528</catid>
+<link r:resource="http://www.austinlinks.com/Fuzzy/tutorial.html" />
+<link r:resource="http://plato.stanford.edu/entries/logic-fuzzy/" />
+<link r:resource="http://www.cse.dmu.ac.uk/~rij/fuzzy.html" />
+<link r:resource="http://www.austinlinks.com/Fuzzy/" />
+<link r:resource="http://open-site.org/Science/Mathematics/Logic/Fuzzy_Logic/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Nonstandard_Logics_and_Extensions/Fuzzy_Logic/People">
+<catid>816529</catid>
+<link r:resource="http://sipi.usc.edu/~mendel/" />
+<link r:resource="http://www.cs.berkeley.edu/~zadeh/" />
+<link r:resource="http://www.mein.nagoya-u.ac.jp/staff/fukuda-e.html" />
+<link r:resource="http://fuzzy.cs.uni-magdeburg.de/~kruse/" />
+<link r:resource="http://users.ugent.be/~ccorneli/" />
+<link r:resource="http://www.cwi.ugent.be/martine.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Nonstandard_Logics_and_Extensions/Intuitionistic_Logic">
+<catid>816526</catid>
+<link r:resource="http://plato.stanford.edu/entries/logic-intuitionistic/" />
+<link r:resource="http://www.math.fau.edu/Richman/html/Confess.htm" />
+<link r:resource="http://www.math.fau.edu/Richman/html/construc.htm" />
+<link r:resource="http://www.math.uu.se/~palmgren/biblio/bib.html" />
+<link r:resource="http://mathworld.wolfram.com/IntuitionisticLogic.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Intuitionistic_logic" />
+<link r:resource="http://www.fwaaldijk.nl/mathematics.html" />
+<link r:resource="http://people.cis.ksu.edu/~stough/porgi/" />
+<link r:resource="http://planetmath.org/encyclopedia/IntuitionisticLogic.html" />
+<link r:resource="http://www.philosophy.unimelb.edu.au/ajl/2004/2004_2.pdf" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Nonstandard_Logics_and_Extensions/Intuitionistic_Logic/Martin-Löf's_Type_Theory">
+<catid>816527</catid>
+<link r:resource="http://www.cs.chalmers.se/~coquand/Sem.html" />
+<link r:resource="http://www.math.uu.se/~setzer/research/researchprofile.html" />
+<link r:resource="http://www.dcs.ed.ac.uk/lfcsreps/EXPORT/95/ECS-LFCS-95-327/index.html" />
+<link r:resource="http://www.cs.cornell.edu/Info/Projects/NuPrl/html/publication.html" />
+<link r:resource="http://www.cs.cornell.edu/Info/Projects/NuPrl/book/doc.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Nonstandard_Logics_and_Extensions/Many-valued_Logic">
+<catid>816517</catid>
+<link r:resource="http://plato.stanford.edu/entries/logic-manyvalued/" />
+<link r:resource="http://www.ee.pdx.edu/~mperkows/ISMVL/=index.html" />
+<link r:resource="http://www.ternarylogic.com/" />
+<link r:resource="http://home.swipnet.se/~w-33552/logic/home/index.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Nonstandard_Logics_and_Extensions/Modal_Logic">
+<catid>816522</catid>
+<link r:resource="http://www.cs.man.ac.uk/~schmidt/tools/" />
+<link r:resource="http://plato.stanford.edu/entries/logic-modal/" />
+<link r:resource="http://www.clas.ufl.edu/users/jzeman/modallogic/" />
+<link r:resource="http://alessio.guglielmi.name/res/cos/ML/" />
+<link r:resource="http://plato.stanford.edu/entries/mally-deontic/" />
+<link r:resource="http://stinfwww.informatik.uni-leipzig.de/~duc/Thesis/node8.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Modal_logic" />
+<link r:resource="http://open-site.org/Science/Mathematics/Logic/Modal_Logic/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Nonstandard_Logics_and_Extensions/Modal_Logic/People">
+<catid>816524</catid>
+<link r:resource="http://web.cs.gc.cuny.edu/~sartemov/" />
+<link r:resource="http://www.csc.villanova.edu/~japaridz/" />
+<link r:resource="http://staff.science.uva.nl/~johan/" />
+<link r:resource="http://www.phil.uu.nl/~lev/" />
+<link r:resource="http://www.ai.rug.nl/~rineke/" />
+<link r:resource="http://en.wikipedia.org/wiki/George_Boolos" />
+<link r:resource="http://alessio.guglielmi.name/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Nonstandard_Logics_and_Extensions/Modal_Logic/Provability_and_Interpretability_Logics">
+<catid>816523</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Provability_logic" />
+<link r:resource="http://en.wikipedia.org/wiki/Interpretability_logic" />
+<link r:resource="http://en.wikipedia.org/wiki/Interpretability" />
+<link r:resource="http://open-site.org/Science/Mathematics/Logic/Proof_Theory/Provability_logic/" />
+<link r:resource="http://open-site.org/Science/Mathematics/Logic/Proof_Theory/Interpretability_logic/" />
+<link r:resource="http://en.wikipedia.org/wiki/Cointerpretability" />
+<link r:resource="http://en.wikipedia.org/wiki/Tolerance_(in_logic)" />
+<link r:resource="http://en.wikipedia.org/wiki/Cotolerance" />
+<link r:resource="http://www.csc.villanova.edu/~japaridz/study.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Nonstandard_Logics_and_Extensions/Substructural_Logics">
+<catid>816518</catid>
+<link r:resource="http://lgxserver.uniba.it/lei/logica/lglin_lo.htm" />
+<link r:resource="http://plato.stanford.edu/entries/logic-substructural/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Nonstandard_Logics_and_Extensions/Substructural_Logics/Linear_Logic">
+<catid>816520</catid>
+<link r:resource="http://www.csc.villanova.edu/~japaridz/CL/gsoll.html" />
+<link r:resource="http://www.cs.cmu.edu/~fp/courses/95-linear.html" />
+<link r:resource="http://cm.bell-labs.com/cm/cs/who/wadler/topics/linear-logic.html" />
+<link r:resource="http://www.dagstuhl.de/DATA/Reports/9535/node16.html" />
+<link r:resource="http://www.cis.upenn.edu/~bcpierce/types/archives/1992/msg00047.html" />
+<link r:resource="http://iml.univ-mrs.fr/~lafont/linear/" />
+<link r:resource="http://www.pps.jussieu.fr/~dicosmo/CourseNotes/LinLog/" />
+<link r:resource="http://www.math.lsa.umich.edu/~ablass/ll.html" />
+<link r:resource="http://www.univ-paris12.fr/lacl/lundi/kanovitch.html" />
+<link r:resource="http://iml.univ-mrs.fr/~girard/Articles.html" />
+<link r:resource="http://www.cs.cmu.edu/~carsten/linearbib/llb.html" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.48.2704" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Nonstandard_Logics_and_Extensions/Substructural_Logics/Linear_Logic/People">
+<catid>816521</catid>
+<link r:resource="http://users.dimi.uniud.it/~furio.honsell/" />
+<link r:resource="http://www.comlab.ox.ac.uk/people/Luke.Ong/" />
+<link r:resource="http://www.cl.cam.ac.uk/~amp12/" />
+<link r:resource="http://www.csc.villanova.edu/~japaridz/" />
+<link r:resource="http://www.comlab.ox.ac.uk/people/samson.abramsky/" />
+<link r:resource="http://www.cs.unibo.it/~asperti/" />
+<link r:resource="http://research.microsoft.com/~nick/" />
+<link r:resource="http://www.dat.ruc.dk/~torben/" />
+<link r:resource="http://theory.stanford.edu/~iliano/" />
+<link r:resource="http://www.disi.unige.it/person/DelzannoG/" />
+<link r:resource="http://pauillac.inria.fr/~fages/" />
+<link r:resource="http://www.cis.upenn.edu/~jean/" />
+<link r:resource="http://www.loria.fr/~galmiche/" />
+<link r:resource="http://www.doc.ic.ac.uk/~pg/" />
+<link r:resource="http://www.csl.sri.com/users/shankar/shankar.html" />
+<link r:resource="http://bach.istc.kobe-u.ac.jp/tamura.html" />
+<link r:resource="http://homepages.inf.ed.ac.uk/wadler/" />
+<link r:resource="http://goanna.cs.rmit.edu.au/~jah/" />
+<link r:resource="http://www.cs.bham.ac.uk/~vdp/" />
+<link r:resource="http://www.cs.hmc.edu/~hodas/" />
+<link r:resource="http://www.dpmms.cam.ac.uk/~martin/" />
+<link r:resource="http://www.csl.sri.com/users/lincoln/" />
+<link r:resource="http://www.loria.fr/~perrier/" />
+<link r:resource="http://www.cs.cmu.edu/~fp/" />
+<link r:resource="http://www.cl.cam.ac.uk/~gw104/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Nonstandard_Logics_and_Extensions/Substructural_Logics/Relevance_Logic">
+<catid>816519</catid>
+<link r:resource="http://www.dcs.ed.ac.uk/home/lfcsreps/EXPORT/90/ECS-LFCS-90-119/" />
+<link r:resource="http://plato.stanford.edu/entries/logic-relevance/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Nonstandard_Logics_and_Extensions/Temporal_Logic">
+<catid>816525</catid>
+<link r:resource="http://www.time-rover.com/" />
+<link r:resource="http://www.sei.cmu.edu/publications/documents/89.reports/89.tr.024.html" />
+<link r:resource="http://www.cs.uregina.ca/~temporal/" />
+<link r:resource="http://plato.stanford.edu/entries/logic-temporal/" />
+<link r:resource="http://lists.w3.org/Archives/Public/www-math/msg00496.html" />
+<link r:resource="http://lms.uni-mb.si/EST/" />
+<link r:resource="http://www.cse.dmu.ac.uk/~cau/itlhomepage/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Online_Discussion_Groups">
+<catid>816513</catid>
+<link r:resource="http://news.gmane.org/group/gmane.science.mathematics.frogs/" />
+<link r:resource="http://thatlogicblog.blogspot.com/" />
+<link r:resource="http://www.ucalgary.ca/~rzach/logblog/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Organizations">
+<catid>816549</catid>
+<link r:resource="http://www.kr.org/" />
+<link r:resource="http://www.di.ufpe.br/~igpl/" />
+<link r:resource="http://www.aslonline.org/" />
+<link r:resource="http://www.cs.bham.ac.uk/~exr/blc/" />
+<link r:resource="http://www.cs.nmsu.edu/~complog/" />
+<link r:resource="http://www.amsta.leeds.ac.uk/pure/staff/cooper/cie.html" />
+<link r:resource="http://cs3.el.gunma-u.ac.jp/MVL/" />
+<link r:resource="http://www.dvmlg.de/" />
+<link r:resource="http://faculty.umf.maine.edu/michael.molinsky/public.www/cshpm/" />
+<link r:resource="http://www.eacsl.org/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/People">
+<catid>816530</catid>
+<link r:resource="http://web.cs.gc.cuny.edu/~sartemov/" />
+<link r:resource="http://www.comlab.ox.ac.uk/people/Luke.Ong/" />
+<link r:resource="http://www.cs.technion.ac.il/~janos/index.html" />
+<link r:resource="http://www.cl.cam.ac.uk/~amp12/" />
+<link r:resource="http://www.csc.villanova.edu/~japaridz/" />
+<link r:resource="http://www.cs.indiana.edu/~leivant/" />
+<link r:resource="http://logic.pdmi.ras.ru/~yumat/" />
+<link r:resource="http://www.cs.sjsu.edu/faculty/pollett/" />
+<link r:resource="http://lpcs.math.msu.su/~ver/" />
+<link r:resource="http://www.cs.toronto.edu/~hector/" />
+<link r:resource="http://www.math.princeton.edu/~nelson/" />
+<link r:resource="http://www.math.lsa.umich.edu/~ablass/" />
+<link r:resource="http://staff.science.uva.nl/~johan/" />
+<link r:resource="http://www.sci.brooklyn.cuny.edu/cis/parikh/" />
+<link r:resource="http://www.dpmms.cam.ac.uk/~martin/" />
+<link r:resource="http://www.cs.cmu.edu/~fp/" />
+<link r:resource="http://www.phil.uu.nl/~lev/" />
+<link r:resource="http://www.cs.man.ac.uk/~petera/" />
+<link r:resource="http://www.andrew.cmu.edu/user/awodey/" />
+<link r:resource="http://www.math.uic.edu/~jbaldwin/" />
+<link r:resource="http://www.nd.edu/~steve/" />
+<link r:resource="http://www.thoralf.uwaterloo.ca/" />
+<link r:resource="http://math.ucsd.edu/~sbuss/" />
+<link r:resource="http://www.unicamp.br/cle/carniell.htm" />
+<link r:resource="http://www.math.cmu.edu/users/jcumming/" />
+<link r:resource="http://www.math.ucla.edu/~hbe/" />
+<link r:resource="http://math.stanford.edu/~feferman/" />
+<link r:resource="http://comet.lehman.cuny.edu/fitting/" />
+<link r:resource="http://logik.mathematik.uni-freiburg.de/personen/Flum.html" />
+<link r:resource="http://www.dpmms.cam.ac.uk/~tf/" />
+<link r:resource="http://www.dmi.unisa.it/people/gerla/www/" />
+<link r:resource="http://info.tuwien.ac.at/goldstern/" />
+<link r:resource="http://www.math.cmu.edu/users/rami/" />
+<link r:resource="http://www.math.ucla.edu/~greg/" />
+<link r:resource="http://www.maths.qmw.ac.uk/~wilfrid/" />
+<link r:resource="http://diamond.boisestate.edu/~holmes/" />
+<link r:resource="http://www.emunix.emich.edu/~phoward/" />
+<link r:resource="http://www.csc.liv.ac.uk/~ullrich/" />
+<link r:resource="http://www.math.psu.edu/jech/" />
+<link r:resource="http://www.math.uiuc.edu/~jockusch/" />
+<link r:resource="http://sunpool.mathematik.uni-freiburg.de/home/junker/Junker-eng.html" />
+<link r:resource="http://math.uh.edu/~klaus/" />
+<link r:resource="http://math.bu.edu/people/aki/" />
+<link r:resource="http://for.mat.bham.ac.uk/R.W.Kaye/" />
+<link r:resource="http://www.math.caltech.edu/people/kechris.html" />
+<link r:resource="http://www.math.wisc.edu/~kunen/" />
+<link r:resource="http://iml.univ-mrs.fr/~lafont/welcome.html" />
+<link r:resource="http://www.math.ufl.edu/~jal/" />
+<link r:resource="http://www.math.wisc.edu/~lempp/" />
+<link r:resource="http://www.math.uic.edu/~marker/" />
+<link r:resource="http://www.math.ucla.edu/~ynm/" />
+<link r:resource="http://www.math.cornell.edu/~anil/" />
+<link r:resource="http://www.iac.rm.cnr.it/~marco/html" />
+<link r:resource="http://www.amsta.leeds.ac.uk/Pure/staff/rathjen/rathjen.html" />
+<link r:resource="http://iml.univ-mrs.fr/~regnier/" />
+<link r:resource="http://www.cis.upenn.edu/~scedrov/" />
+<link r:resource="http://www.cs.man.ac.uk/~schmidt/" />
+<link r:resource="http://www.cs.cmu.edu/~scott/" />
+<link r:resource="http://www.math.uu.se/~setzer/" />
+<link r:resource="http://www.math.cornell.edu/~shore/" />
+<link r:resource="http://www-math.mit.edu/~sipser/index.html" />
+<link r:resource="http://www.math.berkeley.edu/~slaman/" />
+<link r:resource="http://www.cs.uchicago.edu/~soare/" />
+<link r:resource="http://www.math.berkeley.edu/~solovay/" />
+<link r:resource="http://www.maths.bris.ac.uk/~mapdw/" />
+<link r:resource="http://www.dcs.qmw.ac.uk/~graham/" />
+<link r:resource="http://www.ucalgary.ca/~rzach/" />
+<link r:resource="http://logik.mathematik.uni-freiburg.de/personen/Ziegler.html" />
+<link r:resource="http://math.univ-angers.fr/~darniere/home_uk.html" />
+<link r:resource="http://www.math.psu.edu/simpson/" />
+<link r:resource="http://alessio.guglielmi.name/" />
+<link r:resource="http://www.haverford.edu/cmsc/slindell/" />
+<link r:resource="http://www.jaist.ac.jp/is/labs/ono-ishihara-lab/members/ono.html" />
+<link r:resource="http://www.phil.uu.nl/~dvdalen/" />
+<link r:resource="http://www-i5.informatik.rwth-aachen.de/gerhard/" />
+<link r:resource="http://gtps.math.cmu.edu/andrews.html" />
+<link r:resource="http://www.cs.ru.nl/~henk/" />
+<link r:resource="http://www.lps.uci.edu/home/fac-staff/faculty/maddy/" />
+<link r:resource="http://www.andrew.cmu.edu/user/avigad/" />
+<link r:resource="http://www.hss.cmu.edu/philosophy/faculty-sieg.php" />
+<link r:resource="http://www.cs.rhul.ac.uk/~zhaohui/" />
+<link r:resource="http://www.logic.univie.ac.at/~sdf/" />
+<link r:resource="http://www.cs.bham.ac.uk/~sjv/" />
+<link r:resource="http://www.indiana.edu/~iulg/moss/" />
+<link r:resource="http://home.mathematik.uni-freiburg.de/herwig/" />
+<link r:resource="http://www.monad.me.uk/" />
+<link r:resource="http://www.lix.polytechnique.fr/Labo/Dale.Miller/" />
+<link r:resource="http://people.maths.ox.ac.uk/~zilber/" />
+<link r:resource="http://www.math.purdue.edu/~hrubin/JeanRubin/" />
+<link r:resource="http://home.mathematik.uni-freiburg.de/hde/Ebbinghaus.html" />
+<link r:resource="http://www.eecs.qmul.ac.uk/~edmundr/" />
+<link r:resource="http://serban_e_vlad.voila.net/" />
+<link r:resource="http://www.ruhr-uni-bochum.de/philosophy/logic/" />
+<link r:resource="https://sites.google.com/site/sequiturquodlibet/" />
+<link r:resource="http://www.maths.manchester.ac.uk/~mprest/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/People/Students_and_Independent_Scholars">
+<catid>816531</catid>
+<link r:resource="http://alixcomsi.com/index01.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Proof_Theory">
+<catid>816551</catid>
+<link r:resource="http://www.csc.villanova.edu/~japaridz/study.html" />
+<link r:resource="http://dream.dai.ed.ac.uk/" />
+<link r:resource="http://plato.stanford.edu/entries/epsilon-calculus/" />
+<link r:resource="http://alessio.guglielmi.name/res/cos/" />
+<link r:resource="http://open-site.org/Science/Mathematics/Logic/Proof_Theory/" />
+<link r:resource="http://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/ProofTheoryAsAlternative.html" />
+<link r:resource="http://cs.bath.ac.uk/ag/pt/" />
+<link r:resource="http://plato.stanford.edu/entries/proof-theory-development/" />
+<link r:resource="http://www.ihes.fr/~carbone/papers/proofsurveyFeferman2000.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Proof_Theory/People">
+<catid>816552</catid>
+<link r:resource="http://web.cs.gc.cuny.edu/~sartemov/" />
+<link r:resource="http://www.csc.villanova.edu/~japaridz/" />
+<link r:resource="http://www.phil.uu.nl/~lev/" />
+<link r:resource="http://math.ucsd.edu/~sbuss/" />
+<link r:resource="http://alessio.guglielmi.name/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Publications">
+<catid>816491</catid>
+<link r:resource="http://front.math.ucdavis.edu/math.LO" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Publications/Bibliographies">
+<catid>816493</catid>
+<link r:resource="http://math.rutgers.edu/~shelah/" />
+<link r:resource="http://math.boisestate.edu/~holmes/holmes/setbiblio.html" />
+<link r:resource="http://liinwww.ira.uka.de/bibliography/Misc/HBP/JLOGC.html" />
+<link r:resource="http://front.math.ucdavis.edu/math.LO" />
+<link r:resource="http://www.cs.cmu.edu/~carsten/linearbib/linearbib.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Publications/Books">
+<catid>816492</catid>
+<link r:resource="http://www.dcs.qmul.ac.uk/~pt/stable/Proofs+Types.html" />
+<link r:resource="http://www.paultaylor.eu/~pt/prafm/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Publications/Journals">
+<catid>816494</catid>
+<link r:resource="http://logcom.oxfordjournals.org/" />
+<link r:resource="http://www.wiley-vch.de/publish/en/journals/alphabeticIndex/2256/" />
+<link r:resource="http://tocl.acm.org/" />
+<link r:resource="http://www.springerlink.com/content/100291/" />
+<link r:resource="http://www.ma.huji.ac.il/~ijmath/" />
+<link r:resource="http://www.nd.edu/~ndjfl/" />
+<link r:resource="http://www.math.ucla.edu/~asl/bsltoc.htm" />
+<link r:resource="http://danae.uni-muenster.de/lehre/kuchen/JFLP/" />
+<link r:resource="http://www.aslonline.org/journals-journal.html" />
+<link r:resource="http://www.sciencedirect.com/science/journal/01680072" />
+<link r:resource="http://journals.impan.gov.pl/fm/" />
+<link r:resource="http://www.iphils.uj.edu.pl/rml/rml.htm" />
+<link r:resource="http://jigpal.oxfordjournals.org/" />
+<link r:resource="http://www.springer.com/math/journal/153" />
+<link r:resource="http://www.springer.com/philosophy/logic/journal/10992" />
+<link r:resource="http://www.tandfonline.com/toc/thpl20/current" />
+<link r:resource="http://www.worldscientific.com/worldscinet/jml" />
+<link r:resource="http://link.springer.com/journal/10817" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Research_Groups_and_Centers">
+<catid>816544</catid>
+<link r:resource="http://www.cs.bgu.ac.il/~kojman/BGULOGIC.html" />
+<link r:resource="http://kurt.scitec.kobe-u.ac.jp/" />
+<link r:resource="http://www.cs.technion.ac.il/~admlogic/ltechnion.html" />
+<link r:resource="http://logic.cecs.anu.edu.au/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Research_Groups_and_Centers/Europe">
+<catid>816545</catid>
+<link r:resource="http://www.logic.univie.ac.at/" />
+<link r:resource="http://www.logique.jussieu.fr/" />
+<link r:resource="http://www.loa-cnr.it/" />
+<link r:resource="http://www.ecor.uni-saarland.de/" />
+<link r:resource="http://www.illc.uva.nl/" />
+<link r:resource="http://www.logic.math.helsinki.fi/" />
+<link r:resource="http://www.logic.at/" />
+<link r:resource="http://www.math-inst.hu/pub/setop/setop.html" />
+<link r:resource="http://www.umh.ac.be/math/logic/" />
+<link r:resource="http://logic.pdmi.ras.ru/" />
+<link r:resource="http://www.flll.uni-linz.ac.at/" />
+<link r:resource="http://kti.ms.mff.cuni.cz/~bartak/clp/" />
+<link r:resource="http://www.clip.dia.fi.upm.es/" />
+<link r:resource="http://www.isti.cnr.it/" />
+<link r:resource="http://contraintes.inria.fr/~soliman/ercim/" />
+<link r:resource="http://www.cin.ufpe.br/~igpl/" />
+<link r:resource="http://logica.ugent.be/centrum/" />
+<link r:resource="http://www.math.ru.nl/~mgehrke/OzSL/OzSL.htm" />
+<link r:resource="http://irafm.osu.cz/" />
+<link r:resource="http://www.math.cas.cz/~thapen/seminar.html" />
+<link r:resource="http://www.mat.ub.edu/~logica/" />
+<link r:resource="http://www-philo.univ-paris1.fr/Joinet/NEW/SeminairesOrganises/LogiqueEnSorbonne/engsemP1.html" />
+<link r:resource="http://www2.math.uu.se/research/groups/logic.php" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Research_Groups_and_Centers/Europe/Germany">
+<catid>816547</catid>
+<link r:resource="http://www-mgi.informatik.rwth-aachen.de/" />
+<link r:resource="http://logik.mathematik.uni-freiburg.de/index_en.html" />
+<link r:resource="http://www.math.uni-heidelberg.de/logic/" />
+<link r:resource="http://www.math.uni-bonn.de/people/logic/" />
+<link r:resource="http://www.mathematik.uni-muenchen.de/~logik/" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Research_Groups_and_Centers/Europe/United_Kingdom">
+<catid>816546</catid>
+<link r:resource="http://www.amsta.leeds.ac.uk/Pure/logic/" />
+<link r:resource="http://www.dcs.st-and.ac.uk/~rd/logic.html" />
+<link r:resource="http://www.maths.ox.ac.uk/groups/logic" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Research_Groups_and_Centers/North_America">
+<catid>816548</catid>
+<link r:resource="http://logic.berkeley.edu/" />
+<link r:resource="http://www.cis.upenn.edu/~lc/" />
+<link r:resource="http://www.cs.nmsu.edu/lldap/" />
+<link r:resource="http://www.math.lsa.umich.edu/research/logic/" />
+<link r:resource="http://www.math.umn.edu/grad/areas/logic.html" />
+<link r:resource="http://www.csl.sri.com/" />
+<link r:resource="http://www.phil.ucalgary.ca/research/logic.html" />
+<link r:resource="http://www.math.uiuc.edu/ResearchAreas/logic/" />
+<link r:resource="http://nylogic.org/Workshop" />
+<link r:resource="http://www.cs.umd.edu/projects/active/" />
+<link r:resource="http://logic.cmu.edu/" />
+<link r:resource="http://www.indiana.edu/~iulg/" />
+<link r:resource="http://www.logic.ucla.edu/" />
+<link r:resource="http://logic.stanford.edu/overview.html" />
+<link r:resource="http://www.math.uci.edu/research/logic-and-foundations" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Set_Theory">
+<catid>816542</catid>
+<link r:resource="http://shelah.logic.at/" />
+<link r:resource="http://www.ii.com/math/ch/" />
+<link r:resource="http://math.vanderbilt.edu/~schectex/ccc/choice.html" />
+<link r:resource="http://www-groups.dcs.st-and.ac.uk/~history/HistTopics/Beginnings_of_set_theory.html" />
+<link r:resource="http://www.earlham.edu/~peters/writing/infapp.htm" />
+<link r:resource="http://math.boisestate.edu/~holmes/holmes/nf.html" />
+<link r:resource="http://www.botik.ru/~logic/bst/bst.html" />
+<link r:resource="http://www.cs.nmsu.edu/~complog/sets/" />
+<link r:resource="http://www.math.wvu.edu/~kcies/STA/STA.html" />
+<link r:resource="http://www.cs.elte.hu/~kope/setad" />
+<link r:resource="http://www.math.wvu.edu/~kcies/STbook.html" />
+<link r:resource="http://www.mathacademy.com/pr/prime/articles/cantor_theorem/" />
+<link r:resource="http://www.math.niu.edu/~rusin/known-math/index/03EXX.html" />
+<link r:resource="http://plato.stanford.edu/entries/set-theory/" />
+<link r:resource="http://db.uwaterloo.ca/~alopez-o/math-faq/mathtext/node34.html" />
+<link r:resource="http://front.math.ucdavis.edu/math.LO/0211397" />
+<link r:resource="http://web.mit.edu/dmytro/www/NewSetTheory.htm" />
+<link r:resource="http://hp.vector.co.jp/authors/VA011700/math/wardwww.htm" />
+<link r:resource="http://www.math.purdue.edu/~hrubin/JeanRubin/Papers/conseq.html" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Set_Theory/People">
+<catid>816543</catid>
+<link r:resource="http://www.math.unicaen.fr/~dehornoy/" />
+<link r:resource="http://www.renyi.hu/~csirmaz/" />
+<link r:resource="http://www.math.lsa.umich.edu/~ablass/" />
+<link r:resource="http://www.math.cmu.edu/users/jcumming/" />
+<link r:resource="http://www.math.ucla.edu/~hbe/" />
+<link r:resource="http://www.dpmms.cam.ac.uk/~tf/" />
+<link r:resource="http://info.tuwien.ac.at/goldstern/" />
+<link r:resource="http://www.math.cmu.edu/users/rami/" />
+<link r:resource="http://www.math.ufl.edu/~jal/" />
+<link r:resource="http://www.logic.univie.ac.at/~sdf/" />
+<link r:resource="http://www.cs.bgu.ac.il/~abraham/" />
+<link r:resource="http://www.math-inst.hu/~andreka/" />
+<link r:resource="http://faculty.baruch.cuny.edu/apter/" />
+<link r:resource="http://www.mscs.mu.edu/~paulb/" />
+<link r:resource="http://www.math.union.edu/people/faculty/barbanej.html" />
+<link r:resource="http://kurt.scitec.kobe-u.ac.jp/~brendle/" />
+<link r:resource="http://notch.mathstat.muohio.edu/" />
+<link r:resource="http://sun0.math.upei.ca/~burke/" />
+<link r:resource="http://www.maths.qmw.ac.uk/~pjc/" />
+<link r:resource="http://www.math.ufl.edu/~cenzer/" />
+<link r:resource="http://math.rutgers.edu/~cherlin/" />
+<link r:resource="http://www.math.wvu.edu/~kcies/" />
+<link r:resource="http://www.math.caltech.edu/people/clemens.html" />
+<link r:resource="http://www.stanford.edu/~kdevlin/" />
+<link r:resource="http://www.cs.luc.edu/~pld/" />
+<link r:resource="http://www.math.yorku.ca/~ifarah/" />
+<link r:resource="http://www.math.unt.edu/~sgao/" />
+<link r:resource="http://www.math.tau.ac.il/~gitik/" />
+<link r:resource="http://www.aleph1.info/" />
+<link r:resource="http://math.boisestate.edu/~caicedo/" />
+<link r:resource="http://www.uea.ac.uk/~h020/" />
+<link r:resource="http://sites.google.com/site/tomekbartoszynski/" />
+<link r:resource="http://www.math.uci.edu/people/matthew-foreman" />
+<link r:resource="http://www.icrea.cat/Web/ScientificStaff/Joan-Bagaria-i-Pigrau-119" />
+</topic>
+<topic r:id="Top/Science/Math/Logic_and_Foundations/Software">
+<catid>816554</catid>
+<link r:resource="http://www.cs.utexas.edu/users/moore/acl2/" />
+<link r:resource="http://www.lwb.unibe.ch/" />
+<link r:resource="http://www.logic.at/multseq/" />
+<link r:resource="http://www.logic.at/multlog/" />
+<link r:resource="http://www.cl.cam.ac.uk/Research/HVG/Isabelle/" />
+<link r:resource="http://www.lemma-one.com/ProofPower/index/" />
+<link r:resource="http://www.isi.edu/isd/LOOM/LOOM-HOME.html" />
+<link r:resource="http://pvs.csl.sri.com/" />
+<link r:resource="http://www.umsu.de/logik/trees" />
+<link r:resource="http://logik.phl.univie.ac.at/~chris/formular-uk.html" />
+<link r:resource="http://bach.scitec.kobe-u.ac.jp/llprover/" />
+<link r:resource="http://www.dcproof.com/" />
+<link r:resource="http://www.informatik.tu-darmstadt.de/pm/verifun/" />
+<link r:resource="http://proofgeneral.inf.ed.ac.uk/" />
+<link r:resource="http://www.alcyone.com/software/church/" />
+<link r:resource="http://staff.science.uva.nl/~ulle/WinKE/" />
+<link r:resource="http://www.uwosh.edu/faculty_staff/herzberg/Bertrand.html" />
+<link r:resource="http://www.functologic.com/logic/jImp.html" />
+</topic>

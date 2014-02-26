@@ -1,0 +1,55 @@
+<topic r:id="Top/Computers/Security/Advisories_and_Patches">
+<catid>374433</catid>
+<link r:resource="http://www.cert.org/" />
+<link1 r:resource="http://www.cerias.purdue.edu/"></link1>
+<link r:resource="http://www.patchmanagement.org/" />
+<link r:resource="http://www.auscert.org.au/" />
+<link r:resource="http://www.securityfocus.com/archive/1" />
+<link r:resource="http://www.patchadvisor.com/" />
+<link r:resource="http://secunia.com/" />
+<link1 r:resource="http://www.us-cert.gov/"></link1>
+<link r:resource="http://groups.yahoo.com/group/patchmgmt/" />
+<link r:resource="http://www.securityfocus.com/rss/vulnerabilities.xml" />
+<link r:resource="http://osvdb.org/" />
+<link r:resource="http://isc.sans.org/" />
+<link r:resource="http://www.symantec.com/Products/enterprise?c=prodinfo&amp;refId=988" />
+<link r:resource="http://www.oracle.com/technology/deploy/security/index.html" />
+<link r:resource="http://httpd.apache.org/security_report.html" />
+<link r:resource="http://www.vupen.com/english/" />
+</topic>
+<topic r:id="Top/Computers/Security/Advisories_and_Patches/Vendor_Alert_Subscriptions">
+<catid>374435</catid>
+<link r:resource="http://www.netbsd.org/cgi-bin/subscribe_list.pl?list=tech-security" />
+<link r:resource="http://www.openbsd.org/mail.html" />
+<link r:resource="http://lists.debian.org/debian-security-announce/" />
+<link r:resource="http://www.apacheweek.com/aw/email" />
+<link r:resource="http://www.microsoft.com/technet/security/bulletin/notify.mspx" />
+<link r:resource="http://www.gentoo.org/security/en/index.xml" />
+<link r:resource="http://www.redhat.com/security/updates/advisory/" />
+<link r:resource="http://www.oracle.com/technology/deploy/security/securityemail.html" />
+</topic>
+<topic r:id="Top/Computers/Security/Advisories_and_Patches/Vendor_Releases">
+<catid>374434</catid>
+<link r:resource="http://www.microsoft.com/security/" />
+<link r:resource="ftp://ftp.freebsd.org/pub/FreeBSD/CERT/" />
+<link r:resource="ftp://aix.boulder.ibm.com/aix/fixes/" />
+<link r:resource="ftp://aix.boulder.ibm.com/aix/tools/fixdist/" />
+<link r:resource="http://www.debian.org/security/" />
+<link r:resource="ftp://us-ffs.external.hp.com/export/patches/" />
+<link r:resource="http://www.openbsd.org/errata.html" />
+<link r:resource="ftp://ftp.kde.org/pub/kde/security_patches/" />
+<link r:resource="http://www.openbsd.org/security.html" />
+<link r:resource="http://www.freebsd.org/security/" />
+<link r:resource="http://www.netbsd.org/Security/index.html" />
+<link r:resource="http://support.citrix.com/latestsecurityall!execute.jspa" />
+<link r:resource="http://www.apacheweek.com/security/" />
+<link r:resource="ftp://ftp.sco.com/pub/security/sse/" />
+<link r:resource="http://www.redhat.com/security/" />
+<link r:resource="http://www1.itrc.hp.com/service/home/compaqMain.do" />
+<link r:resource="http://h30097.www3.hp.com/unix/security-download.html" />
+<link r:resource="http://www.cisco.com/en/US/products/products_security_advisories_listing.html" />
+<link r:resource="http://www.sgi.com/support/security/" />
+<link r:resource="http://www2.itrc.hp.com/" />
+<link r:resource="http://www.adobe.com/support/security/" />
+<link r:resource="http://www.microsoft.com/downloads/en/" />
+</topic>

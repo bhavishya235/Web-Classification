@@ -1,0 +1,146 @@
+PACKAGE = R
+VERSION = 3.0.2
+
+abs_top_srcdir = /home/tom/projects/UGP2/R-3.0.2
+abs_top_builddir = /home/tom/projects/UGP2/R-3.0.2
+
+include $(top_srcdir)/share/make/vars.mk
+
+AR = ar
+ACLOCAL = aclocal
+AUTOCONF = autoconf
+AUTOMAKE = automake
+AUTOHEADER = autoheader
+BLAS_LIBS = -L$(R_HOME)/lib$(R_ARCH) -lRblas
+BUILDDIR_IS_SRCDIR = yes
+CC = gcc -std=gnu99
+CFLAGS = -g -O2 
+CPICFLAGS = -fpic
+CPPFLAGS = -I/usr/local/include
+DEFS = -DHAVE_CONFIG_H 
+DISTDIR_TAR_EXCLUDE = --exclude=.svn --exclude=Makefile --exclude="*.o" --exclude="*$(SHLIB_EXT)" --exclude="*~"
+DYLIB_EXT = .so
+DYLIB_LD = $(CC)
+DYLIB_LDFLAGS = -shared -fopenmp# $(DYLIBS_LTO)
+DYLIB_LINK = $(DYLIB_LD) $(DYLIB_LDFLAGS) $(LDFLAGS)
+DYLIBS_LTO = $(CFLAGS) $(CPICFLAGS)
+ECHO = echo
+ECHO_C = 
+ECHO_N = -n
+ECHO_T = 
+FFLAGS = -g -O2 
+FLIBS =  -lgfortran -lm -lquadmath
+FLIBS_IN_SO =  -lgfortran -lm -lquadmath
+FPICFLAGS = -fpic
+F77 = gfortran
+GETWD = /bin/pwd
+GZIP = --best
+INSTALL = /usr/bin/install -c
+INSTALL_DATA = ${INSTALL} -m 644
+INSTALL_PROGRAM = ${INSTALL}
+INSTALL_SCRIPT = ${INSTALL}
+INSTALL_DIR = ${INSTALL} -d
+LDFLAGS = -L/usr/local/lib
+LIBINTL= 
+LIBM = -lm
+LIBR = 
+LIBS =  -lrt -ldl -lm
+LIBnn = lib
+LIBTOOL = $(SHELL) $(top_builddir)/libtool
+## AFAICS unused
+LN_S = ln -s
+MAIN_CFLAGS = 
+MAIN_FFLAGS = 
+MAIN_LD = $(CC)# $(CFLAGS)
+MAIN_LDFLAGS = -Wl,--export-dynamic -fopenmp  # -Wl,-bE:$(top_builddir)/etc/R.exp
+MAIN_LINK = $(MAIN_LD) $(MAIN_LDFLAGS) $(LDFLAGS)
+## need this for bootstrapping
+MKINSTALLDIRS = /bin/bash $(top_srcdir)/src/scripts/mkinstalldirs.in
+NOTANGLE = false
+R_ARCH = 
+R_FRAMEWORK_DIR = $(prefix)/R.framework
+R_GZIPCMD = /bin/gzip
+## needed for AIX only
+# R_HOME = $(top_builddir)
+R_OPENMP_CFLAGS = -fopenmp
+R_OPENMP_FFLAGS = -fopenmp
+R_OSTYPE = unix
+R_PKGS = $(R_PKGS_BASE)  $(R_PKGS_RECOMMENDED)
+R_PLATFORM = i686-pc-linux-gnu
+R_XTRA_CFLAGS =  
+R_XTRA_CPPFLAGS =  -I. -I$(top_builddir)/src/include -I$(top_srcdir)/src/include
+R_XTRA_FFLAGS = 
+R_XTRA_LIBS = 
+RANLIB = ranlib
+READLINE_LIBS = -lreadline 
+SED = /bin/sed
+SHELL = /bin/bash
+SHLIB_EXT = .so
+SHLIB_CFLAGS = 
+SHLIB_FFLAGS = 
+SHLIB_LD = $(CC)
+SHLIB_LDFLAGS = -shared# $(SHLIB_LTO)
+SHLIB_LINK = $(SHLIB_LD) $(SHLIB_LDFLAGS) $(LDFLAGS)
+SHLIB_LTO = $(CFLAGS) $(CPICFLAGS)
+STRIP_LIBS = strip --strip-unneeded
+STRIP_STATIC_LIBS = strip --strip-debug
+TAR = /bin/tar
+USE_NLS = yes
+X_CFLAGS = 
+X_LIBS =  -lX11 -lXt
+X_PRE_LIBS =  -lSM -lICE
+X_EXTRA_LIBS = 
+YACC = bison -y
+
+ALL_CFLAGS = $(R_XTRA_CFLAGS) $(R_OPENMP_CFLAGS) $(MAIN_CFLAGS) $(CFLAGS)
+ALL_CPPFLAGS = $(R_XTRA_CPPFLAGS) $(CPPFLAGS) $(DEFS)
+ALL_FFLAGS = $(R_XTRA_FFLAGS) $(R_OPENMP_FFLAGS) $(MAIN_FFLAGS) $(FFLAGS)
+ALL_CFLAGS_LO = $(R_XTRA_CFLAGS) $(R_OPENMP_CFLAGS) $(CPICFLAGS) $(SHLIB_CFLAGS) $(CFLAGS)
+ALL_FFLAGS_LO = $(R_XTRA_FFLAGS) $(R_OPENMP_FFLAGS) $(FPICFLAGS) $(SHLIB_FFLAGS) $(FFLAGS)
+
+.SUFFIXES:
+.SUFFIXES: .c .f .m .d .o
+
+.c.o:
+	$(CC) $(ALL_CPPFLAGS) $(ALL_CFLAGS) -c $< -o $@
+.c.d:
+	@echo "making $@ from $<"
+	@$(CC) -MM $(ALL_CPPFLAGS) $< > $@
+.m.d:
+	@echo > $@
+.f.o:
+	$(F77) $(ALL_FFLAGS) -c $< -o $@
+
+prefix = /usr/local
+exec_prefix = ${prefix}
+datarootdir = ${prefix}/share
+## only used for installing 'R'.
+bindir = ${exec_prefix}/bin
+## not used
+datadir = ${datarootdir}
+## used for 'rhome' and installation of standalone Rmath
+libdir = ${exec_prefix}/${LIBnn}
+## used for man page
+mandir = ${datarootdir}/man
+## used for installation of standalone Rmath headers
+includedir = ${prefix}/include
+
+rhome = ${libdir}/R
+rsharedir = ${rhome}/share
+rincludedir = ${rhome}/include
+rdocdir = ${rhome}/doc
+
+## Overrides for installing R as a framework (MacOS X).
+#FW_VERSION = 
+#rhome = $(R_FRAMEWORK_DIR)/Versions/$(FW_VERSION)/Resources
+#bindir = $(rhome)
+#mandir = $(rhome)
+
+Rexecbindir = $(rhome)/bin
+Rexecbindir2 = $(rhome)/bin/exec$(R_ARCH)
+Rexeclibdir = $(rhome)/lib$(R_ARCH)
+## FIXME:
+## Alternatively, we could try to set pkglibdir = $(rhome)/lib when
+## switching to automake.
+## </FIXME>
+Rexecmodulesdir = $(rhome)/modules$(R_ARCH)

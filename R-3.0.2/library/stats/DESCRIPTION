@@ -1,0 +1,9 @@
+Package: stats
+Version: 3.0.2
+Priority: base
+Title: The R Stats Package
+Author: R Core Team and contributors worldwide
+Maintainer: R Core Team <R-core@r-project.org>
+Description: R statistical functions
+License: Part of R 3.0.2
+Built: R 3.0.2; i686-pc-linux-gnu; 2014-01-27 10:20:33 UTC; unix

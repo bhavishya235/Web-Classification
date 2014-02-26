@@ -1,0 +1,2 @@
+randtable.o: randtable.c bzlib_private.h ../../../src/include/config.h \
+ bzlib.h

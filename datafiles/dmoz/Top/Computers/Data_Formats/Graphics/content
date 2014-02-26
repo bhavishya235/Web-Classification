@@ -1,0 +1,258 @@
+<topic r:id="Top/Computers/Data_Formats/Graphics">
+<catid>376837</catid>
+<link r:resource="http://www.w3.org/Graphics/" />
+<link r:resource="http://www.image-formats.com/" />
+<link r:resource="http://www.martinreddy.net/gfx/" />
+<link r:resource="http://silas.psfc.mit.edu/elec_fig/elec_figures.html" />
+<link r:resource="http://www.fileinfo.com/filetypes/image" />
+<link r:resource="http://www.graphicsacademy.com/format.php" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/2D">
+<catid>376845</catid>
+<link r:resource="http://www.webwitchery.com/articles/format/" />
+<link r:resource="http://www.martinreddy.net/gfx/2d-hi.html" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/2D/DjVu">
+<catid>376848</catid>
+<link r:resource="http://en.wikipedia.org/wiki/DjVu" />
+<link r:resource="http://assignments.uspto.gov/assignments/q?db=pat&amp;pat=6058214" />
+<link r:resource="http://windjview.sourceforge.net/" />
+<link r:resource="http://djvu.sourceforge.net/" />
+<link r:resource="http://djvu.org/" />
+<link r:resource="http://leon.bottou.org/papers/bottou-98" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/2D/GIF">
+<catid>376851</catid>
+<link r:resource="http://www.delphion.com/details?pn=US04558302__" />
+<link r:resource="http://www.cloanto.com/users/mcb/19950127giflzw.html" />
+<link r:resource="http://catb.org/~esr/gif2png/" />
+<link1 r:resource="http://www.w3.org/Graphics/GIF/spec-gif87.txt"></link1>
+<link r:resource="http://256.com/gray/docs/gifspecs/" />
+<link r:resource="http://phil.ipal.org/tc.html" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/2D/GIF/News_and_Media">
+<catid>376852</catid>
+<link r:resource="http://www.pigdog.org/auto/laughable_technology/link/855.html" />
+<link r:resource="http://slashdot.org/articles/99/08/31/0143246.shtml" />
+<link r:resource="http://www.drdobbs.com/webmasters-domain-fugitive-from-justice/184413873?pgno=3" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/2D/JPEG">
+<catid>376850</catid>
+<link r:resource="http://www.ijg.org/" />
+<link r:resource="http://www.faqs.org/faqs/jpeg-faq/" />
+<link r:resource="http://jpegclub.org/" />
+<link r:resource="http://www.chamisplace.com/jc/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/2D/JPEG2000">
+<catid>376846</catid>
+<link r:resource="http://www.ece.uvic.ca/~mdadams/jasper/" />
+<link r:resource="http://www.morgan-multimedia.com/JPEG2000/Package.htm" />
+<link r:resource="http://www.jpeg.org/jpeg2000/" />
+<link r:resource="http://www.leadtools.com/sdk/compression/jpeg2000.htm" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/2D/PNG">
+<catid>376847</catid>
+<link r:resource="http://www.w3.org/Graphics/PNG/" />
+<link r:resource="http://www.libpng.org/pub/png/" />
+<link1 r:resource="http://www.w3.org/TR/REC-png-multi.html"></link1>
+<link r:resource="http://www.libpng.org/pub/png/slashpng-1999.html" />
+<link r:resource="http://www.libpng.org/pub/png/pngmisc.html" />
+<link r:resource="http://www.mywebsite.force9.co.uk/png/" />
+<link r:resource="http://www.linuxtoday.com/news_story.php3?ltsn=1999-09-09-021-04-PS" />
+<link r:resource="http://wiki.mozilla.org/APNG_Specification" />
+<link r:resource="https://addons.mozilla.org/firefox/addon/5519" />
+<link r:resource="http://optipng.sourceforge.net/pngtech/" />
+<link r:resource="http://pmt.sourceforge.net/" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/ms532969(VS.85).aspx" />
+<link r:resource="https://hsivonen.fi/png-gamma/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/2D/X-Face">
+<catid>376849</catid>
+<link r:resource="http://www.xs4all.nl/~ace/X-Faces/" />
+<link r:resource="http://quimby.gnus.org/circus/face/" />
+<link r:resource="http://www.dairiki.org/xface/" />
+<link r:resource="http://en.wikipedia.org/wiki/X-Face" />
+<link r:resource="http://mnenhy.mozdev.org/" />
+<link r:resource="http://www.mythic-beasts.com/tools-toys/xface/" />
+<link r:resource="http://homepage.ntlworld.com/rik.griffin/xface.html" />
+<link r:resource="http://users.cecs.anu.edu.au/~jaa/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/3D">
+<catid>376853</catid>
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/3D/3DS">
+<catid>376863</catid>
+<link r:resource="http://code.google.com/p/lib3ds/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/3D/AC3D">
+<catid>376860</catid>
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/3D/ASE">
+<catid>376861</catid>
+<link r:resource="http://www.solosnake.com/main/app/asetot3d.htm" />
+<link r:resource="http://wiki.beyondunreal.com/Legacy:ASE_File_Format" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/3D/DXF">
+<catid>376862</catid>
+<link r:resource="http://www.bearcave.com/dxf/dxfintro.htm" />
+<link r:resource="http://www.sycode.com/products/dwg_dxf_converter/" />
+<link r:resource="http://usa.autodesk.com/adsk/servlet/item?siteID=123112&amp;id=12272454&amp;linkID=10809853" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/3D/Open_Inventor_File">
+<catid>376864</catid>
+<link r:resource="http://web.mit.edu/ivlib/www/iv.html" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/3D/VRML">
+<catid>376855</catid>
+<link r:resource="http://www.cortona3d.com/" />
+<link r:resource="http://www.web3d.org/" />
+<link r:resource="http://www.hanim.org/" />
+<link r:resource="http://www.bitmanagement.de/" />
+<link r:resource="http://www.ai.sri.com/geovrml/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/3D/VRML/Events">
+<catid>376856</catid>
+<link r:resource="http://www.eg.org/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/3D/VRML/FAQs,_Help,_and_Tutorials">
+<catid>376859</catid>
+<link r:resource="http://www.frerichs.net/vrml2/" />
+<link r:resource="http://www.smeenk.com/" />
+<link r:resource="http://www.aereal.com/faq/" />
+<link r:resource="http://accad.osu.edu/~pgerstma/protolib/" />
+<link r:resource="http://www.kahuna3d.com/VRML20.html" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/3D/VRML/Products_and_Tools">
+<catid>376858</catid>
+<link r:resource="http://openvrml.org/" />
+<link r:resource="http://create.ife.no/vr/tools/chisel/install.htm" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/3D/VRML/Web_Rings">
+<catid>376857</catid>
+<link r:resource="http://groups.yahoo.com/group/BlackSunFamily/" />
+<link r:resource="http://www.webring.org/hub?ring=blax97" />
+<link r:resource="http://www.webring.org/hub?ring=3dwebring" />
+<link r:resource="http://www.webring.org/hub?ring=vrmlgames" />
+<link r:resource="http://www.webring.org/hub?ring=vrml97" />
+<link r:resource="http://www.webring.org/hub?ring=vrmltutorials" />
+<link r:resource="http://www.webring.org/hub?ring=web3dring" />
+<link r:resource="http://www.webring.org/hub?ring=worldsavatarring" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/3D/X3D">
+<catid>376854</catid>
+<link r:resource="http://www.scintillatinggraphics.com.au/VRMLmagic/" />
+<link r:resource="http://www.web3d.org/x3d/" />
+<link r:resource="http://www.xj3d.org/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/Pixmap">
+<catid>376865</catid>
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/Pixmap/TIFF">
+<catid>376866</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2301" />
+<link r:resource="http://www.awaresystems.be/imaging/tiff/tml.html" />
+<link r:resource="http://www.remotesensing.org/libtiff/TIFFTechNote2.html" />
+<link1 r:resource="http://www.remotesensing.org/libtiff/index.html"></link1>
+<link r:resource="http://www.awaresystems.be/imaging/tiff/faq.html" />
+<link r:resource="http://partners.adobe.com/public/developer/tiff/index.html" />
+<link r:resource="http://partners.adobe.com/public/developer/en/tiff/TIFF6.pdf" />
+<link r:resource="http://partners.adobe.com/public/developer/en/tiff/TIFFPM6.pdf" />
+<link r:resource="http://partners.adobe.com/public/developer/en/tiff/TIFFphotoshop.pdf" />
+<link r:resource="http://www.awaresystems.be/imaging/tiff/tifftags.html" />
+<link r:resource="http://lists.maptools.org/mailman/listinfo/tiff" />
+<link r:resource="http://www.martinreddy.net/gfx/2d/TIFF-4.txt" />
+<link r:resource="http://www.martinreddy.net/gfx/2d/TIFF-5.txt" />
+<link r:resource="http://trac.osgeo.org/geotiff/" />
+<link r:resource="http://www.adobe.com/products/photoshop/extend.displayTab2.html" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/Vector">
+<catid>376838</catid>
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/Vector/SVF">
+<catid>376840</catid>
+<link r:resource="http://www.softsource.com/svf/" />
+<link r:resource="http://www.softsource.com/svf/spec.html" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/Vector/SVG">
+<catid>376841</catid>
+<link r:resource="http://hoffmann.bplaced.net/svgtest/" />
+<link r:resource="http://www.adobe.com/svg/" />
+<link r:resource="http://lists.w3.org/Archives/Public/www-svg/" />
+<link r:resource="http://zvon.org/xxl/svgReference/Output/index.html" />
+<link r:resource="http://homepage2.nifty.com/toshkish/" />
+<link1 r:resource="http://www.w3.org/Graphics/SVG/"></link1>
+<link1 r:resource="http://www.w3.org/TR/SVG11/"></link1>
+<link r:resource="http://lists.w3.org/Archives/Public/www-svg/feed.rss" />
+<link r:resource="http://en.wikipedia.org/wiki/Scalable_Vector_Graphics" />
+<link r:resource="http://www.carto.net/papers/svg/index_e.shtml" />
+<link r:resource="http://tavmjong.free.fr/INKSCAPE/MANUAL/web/svg_tests.php" />
+<link r:resource="http://www.svgopen.org/" />
+<link r:resource="http://www.w3.org/Graphics/SVG/WG/wiki/Test_Suite_Overview" />
+<link r:resource="http://www.alistapart.com/articles/using-svg-for-flexible-scalable-and-fun-backgrounds-part-i" />
+<link r:resource="http://hoffmann.bplaced.net/svgtext/" />
+<link r:resource="http://www.drdobbs.com/integrated-design-scalable-vector-graph/184413482?pgno=8" />
+<link r:resource="http://www.svgfoundation.org/" />
+<link r:resource="http://www.zuccaralloo.de/devgroup/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/Vector/SVG/FAQs,_Help,_and_Tutorials">
+<catid>376842</catid>
+<link r:resource="http://home.deds.nl/~svg/" />
+<link r:resource="http://www.dotuscomus.com/svg/" />
+<link r:resource="http://www.kevlindev.com/" />
+<link r:resource="http://www.learnsvg.com/" />
+<link r:resource="http://outer-court.com/goodies/index.htm" />
+<link r:resource="http://apike.ca/prog_svg.html" />
+<link r:resource="http://www.datenverdrahten.de/svglbc/" />
+<link r:resource="http://www.svgbasics.com/" />
+<link r:resource="http://www.svgelves.com/" />
+<link r:resource="http://pilatinfo.org/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/Vector/SVG/Software">
+<catid>376843</catid>
+<link r:resource="http://www.mozilla.org/projects/svg/" />
+<link r:resource="http://www.adobe.com/svg/viewer/install/" />
+<link r:resource="http://www.svgmaker.com/" />
+<link r:resource="http://www.kiyut.com/products/sketsa/index.html" />
+<link r:resource="http://www.tinyline.com/" />
+<link r:resource="http://www.w3.org/Amaya/" />
+<link r:resource="http://www.x-smiles.org/" />
+<link r:resource="http://sourceforge.net/projects/svgplugin" />
+<link r:resource="http://glipssvgeditor.sourceforge.net/" />
+<link r:resource="http://opensvgviewer.sourceforge.net/" />
+<link r:resource="http://www.carto.net/papers/svg/utils/SVGSwitch.shtml" />
+<link r:resource="http://delineate.sourceforge.net/" />
+<link r:resource="http://beez.sourceforge.net/" />
+<link r:resource="http://www.in-gmbh.de/en/Produkte/Visualisierung/sphinx%20open/SphinxOpen.html" />
+<link r:resource="http://www.renderx.com/demos/barcodes.html" />
+<link r:resource="http://www.perfectsvg.com/" />
+<link r:resource="http://www.dynalivery.com/products/saffron/saffron.html" />
+<link r:resource="http://www.adobe.com/products/flashlite/" />
+<link r:resource="http://xmlgraphics.apache.org/batik/tools/browser.html" />
+<link r:resource="http://www.3d2toy.com/swf2svg/" />
+<link r:resource="http://alt-soft.com/products_xml2pdf_svg.aspx" />
+<link r:resource="http://www.ecrion.com/" />
+<link r:resource="http://www.mgatelabs.com/wiki/SVGE" />
+<link r:resource="http://live.gnome.org/LibRsvg" />
+<link r:resource="http://www.pdftron.com/pdf2svg/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/Vector/VML">
+<catid>376844</catid>
+<link r:resource="http://www.w3.org/TR/NOTE-VML" />
+<link r:resource="http://www.vmlmaker.com/" />
+<link r:resource="http://en.wikipedia.org/wiki/Vector_Markup_Language" />
+<link r:resource="http://www.xml.com/pub/a/98/06/vector/vmlmain.html" />
+<link r:resource="http://www.grapl.com/vmlnotes/introduction/vml_and_svg_compared.htm" />
+<link r:resource="http://www.infoloom.com/gcaconfs/WEB/granada99/wu.HTM" />
+<link r:resource="http://www.xml.com/pub/a/98/06/vector/vmlpgml.html" />
+<link r:resource="http://zamov.online.fr/vml.html" />
+<link r:resource="http://www.htmlgoodies.com/beyond/xml/article.php/3473491" />
+<link r:resource="http://www.lutanho.net/svgvml3d/index.html" />
+<link r:resource="http://www.codeproject.com/KB/HTML/vml101.aspx" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/bb250524(VS.85).aspx" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/bb264280(VS.85).aspx" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Graphics/Vector/WebCGM">
+<catid>376839</catid>
+<link r:resource="http://www.w3.org/Graphics/WebCGM/" />
+<link r:resource="http://www.w3.org/TR/REC-WebCGM/" />
+</topic>

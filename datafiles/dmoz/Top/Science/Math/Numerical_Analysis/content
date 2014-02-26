@@ -1,0 +1,270 @@
+<topic r:id="Top/Science/Math/Numerical_Analysis">
+<catid>816080</catid>
+<link r:resource="http://tonic.physics.sunysb.edu/docs/num_meth.html" />
+<link r:resource="http://www.cs.utep.edu/interval-comp/" />
+<link r:resource="http://www.labyrinth.net.au/~ctrans/tomasz.html" />
+<link r:resource="http://www.netlib.org/na-net/na_home.html" />
+<link r:resource="http://www.math.berkeley.edu/~sethian" />
+<link r:resource="http://www.ddm.org/" />
+<link r:resource="http://numbers.computation.free.fr/Constants/Algorithms/newton.html" />
+<link r:resource="http://www.pedrofreire.com/sqrt/" />
+<link r:resource="http://www.mth.msu.edu/ipnet/" />
+<link r:resource="http://math.nist.gov/opsf/" />
+<link r:resource="http://www.focm.net/" />
+<link r:resource="http://numericalmethods.eng.usf.edu/" />
+<link r:resource="http://members.aceweb.com/patrussell/approximations/introduction.htm" />
+<link r:resource="http://www.mathcom.com/corpdir/techinfo.mdir/" />
+<link r:resource="http://www.lifelong-learners.com/pde" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Approximation_Theory">
+<catid>816097</catid>
+<link r:resource="http://www.damtp.cam.ac.uk/user/na/PartIIIat/at.html" />
+<link r:resource="http://www.uni-giessen.de/www-Numerische-Mathematik/at-net/" />
+<link r:resource="http://personal.bgsu.edu/~carother/Approx.html" />
+<link r:resource="http://www.math.technion.ac.il/hat/" />
+<link r:resource="http://www.math.auckland.ac.nz/~waldron/NZATG/" />
+<link r:resource="http://www.vendian.org/envelope/" />
+<link r:resource="http://www.univ-pau.fr/~cgout/app.htm" />
+<link r:resource="http://pages.cs.wisc.edu/~deboor/ma887.html" />
+<link r:resource="http://pages.cs.wisc.edu/~amos/atpeople.html" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Automatic_Differentiation">
+<catid>816095</catid>
+<link r:resource="http://www.autodiff.org/" />
+<link r:resource="http://www.fastopt.de/" />
+<link r:resource="http://www-fp.mcs.anl.gov/autodiff/" />
+<link r:resource="http://en.wikipedia.org/wiki/Automatic_differentiation" />
+<link r:resource="http://www.bt.pa.msu.edu/index_cosy.htm" />
+<link r:resource="http://www.coin-or.org/CppAD/" />
+<link r:resource="http://www-unix.mcs.anl.gov/~utke/OpenAD/" />
+<link r:resource="http://autodiff.com/tamc/" />
+<link r:resource="http://www.ti3.tu-harburg.de/rump/intlab/" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Companies">
+<catid>816093</catid>
+<link r:resource="http://aranz.com/" />
+<link r:resource="http://www.beasy.com/" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Events">
+<catid>816083</catid>
+<link r:resource="http://www.mis.mpg.de/conferences/gamm/" />
+<link r:resource="http://www.eccomas.org/" />
+<link r:resource="http://grandmaster.colorado.edu/~copper/index.html" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Events/Past_Events">
+<catid>816084</catid>
+<link r:resource="http://people.stfx.ca/lyang/activities/icpp01-hpseca.html" />
+<link r:resource="http://www.cs.utexas.edu/users/rvdg/stewart2000/" />
+<link r:resource="http://raphael.mit.edu/yosemite/" />
+<link r:resource="http://hkumath.hku.hk/~wmip2000/" />
+<link r:resource="http://personal.cityu.edu.hk/~maychon/conference/inverse2002/inverse2002.htm" />
+<link r:resource="http://www.science.uva.nl/events/ICCS2002/" />
+<link r:resource="http://lavica.fesb.hr/iwasep4/" />
+<link r:resource="http://www.enm.bris.ac.uk/anm/nmndb/" />
+<link r:resource="http://www.win.tue.nl/scee2002/" />
+<link r:resource="http://www.math.auckland.ac.nz/Conferences/NZATG-2-1999/" />
+<link r:resource="http://www.maths.dur.ac.uk/nass/" />
+<link r:resource="http://www.ima.umn.edu/digital-age/" />
+<link r:resource="http://www.cs.cas.cz/~milovy/" />
+<link r:resource="http://www.math.ntnu.no/conferences/sampta/sampta.html" />
+<link r:resource="http://www-kmadg.svf.stuba.sk/alg2002/" />
+<link r:resource="http://www.fields.utoronto.ca/programs/scientific/01-02/numerical/" />
+<link r:resource="http://atlas-conferences.com/cgi-bin/calendar/d/faat51" />
+<link r:resource="http://www.ipam.ucla.edu/programs/aip2003/" />
+<link r:resource="http://www.univie.ac.at/NuHAG/SampTA03/" />
+<link r:resource="http://www.math.ru.nl/prism01/" />
+<link r:resource="http://www.maths.dundee.ac.uk/naconf/" />
+<link r:resource="http://www.sf05.unican.es/" />
+<link r:resource="http://math.nist.gov/opsf/reports/brezinski01.html" />
+<link r:resource="http://www.symbolicnet.org/conferences/iamc2001.html" />
+<link r:resource="http://mamern11.ump.ma/" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Linear_Algebra">
+<catid>816085</catid>
+<link r:resource="http://liinwww.ira.uka.de/bibliography/Math/sparse.linear.systems.html" />
+<link r:resource="http://openlink.br.inter.net/sparse/main.html" />
+<link r:resource="http://math.nist.gov/MatrixMarket/" />
+<link r:resource="http://www.cise.ufl.edu/research/sparse/matrices/" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.53.8805" />
+<link r:resource="http://www.comlab.ox.ac.uk/projects/pseudospectra/" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/People">
+<catid>816094</catid>
+<link r:resource="http://www.ddm.org/people.html" />
+<link r:resource="http://www-math.mit.edu/~gs/" />
+<link r:resource="http://www.damtp.cam.ac.uk/user/na/people/Arieh/" />
+<link r:resource="http://www.ii.uib.no/~anto/" />
+<link r:resource="http://www.cs.uh.edu/~garbey/" />
+<link r:resource="http://www.math.psu.edu/xu/" />
+<link r:resource="http://ae-www.technion.ac.il/staff/pages/givoli.htm" />
+<link r:resource="http://pitagora.dm.uniba.it/~mazzia" />
+<link r:resource="http://math.lanl.gov/~lipnikov" />
+<link r:resource="http://oregonstate.edu/~peterseb/" />
+<link r:resource="http://www.ima.umn.edu/~arnold/" />
+<link r:resource="http://www-m3.ma.tum.de/m3/behrens/" />
+<link r:resource="http://www.ricam.oeaw.ac.at/people/page.cgi?firstn=Nicoleta;lastn=Bila" />
+<link r:resource="http://www.math.ntnu.no/~elenac/" />
+<link r:resource="http://staffweb.cms.gre.ac.uk/~C.H.Lai/" />
+<link r:resource="http://www.unavarra.es/personal/victor_dominguez/" />
+<link r:resource="http://www.comlab.ox.ac.uk/people/Ian.Sobey/" />
+<link r:resource="http://www.comlab.ox.ac.uk/people/David.Gavaghan/" />
+<link r:resource="http://people.maths.ox.ac.uk/~gilesm/" />
+<link r:resource="http://gbenthien.net/" />
+<link r:resource="http://www.maths.manchester.ac.uk/~higham/" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Publications">
+<catid>816081</catid>
+<link r:resource="http://www.nr.com/" />
+<link r:resource="http://front.math.ucdavis.edu/math.NA" />
+<link r:resource="http://www.lysator.liu.se/c/num-recipes-in-c.html" />
+<link r:resource="http://pages.cs.wisc.edu/~deboor/bib/bib.html" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Publications/Journals">
+<catid>816082</catid>
+<link r:resource="http://etna.mcs.kent.edu/" />
+<link r:resource="http://www.sscc.ru/SibJNM/" />
+<link r:resource="http://journals.cambridge.org/action/displayJournal?jid=ANU" />
+<link r:resource="http://www.siam.org/journals/sinum.php" />
+<link r:resource="http://www.worldscientific.com/worldscinet/ijwmip" />
+<link r:resource="http://imajna.oxfordjournals.org/" />
+<link r:resource="http://www.springer.com/mathematics/computational+science+%26+engineering/journal/365" />
+<link r:resource="http://www.springer.com/mathematics/computational+science+%26+engineering/journal/10092" />
+<link r:resource="http://www.springer.com/mathematics/computational+science+%26+engineering/journal/211" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Research_Groups">
+<catid>816096</catid>
+<link r:resource="http://www.wisdom.weizmann.ac.il/~achi/gaussctr.html" />
+<link r:resource="http://www.minet.uni-jena.de/~hermann/" />
+<link r:resource="http://www10.informatik.uni-erlangen.de/" />
+<link r:resource="http://www.numa.uni-linz.ac.at/" />
+<link r:resource="http://www.sfb013.uni-linz.ac.at/" />
+<link r:resource="http://www.iwr.uni-heidelberg.de/groups/" />
+<link r:resource="http://wwwbode.cs.tum.edu/Par/arch/cache/" />
+<link r:resource="http://www.cse.clrc.ac.uk/Group/CSENAG" />
+<link r:resource="http://math.nist.gov/mcsd/" />
+<link r:resource="http://www.damtp.cam.ac.uk/user/na/na.html" />
+<link r:resource="http://www.ime.usp.br/~roma/research/workgroup.htm" />
+<link r:resource="http://www.math.tamu.edu/research/numerical_analysis/" />
+<link r:resource="http://www.brighton.ac.uk/cmis/research/groups/cmg.php?PageId=230" />
+<link r:resource="http://www.lboro.ac.uk/departments/ma/research/cnlma/" />
+<link r:resource="http://www2.le.ac.uk/centres/mmc" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Software">
+<catid>816098</catid>
+<link r:resource="http://www.robertnz.net/nm_intro.htm" />
+<link r:resource="http://pitagora.dm.uniba.it/~testset/" />
+<link r:resource="http://plato.la.asu.edu/guide.html" />
+<link r:resource="http://www.boundary-element-method.com/" />
+<link r:resource="http://www.marschall-acoustics-instruments.com.au/MAI-IT/" />
+<link1 r:resource="http://www.netlib.org/"></link1>
+<link r:resource="http://raphael.mit.edu/haimes.html" />
+<link r:resource="http://www.isca-louis.com/" />
+<link r:resource="http://octave.sourceforge.net/" />
+<link r:resource="http://www.freefem.org/" />
+<link r:resource="http://www.math.niu.edu/~zettl/SL2/" />
+<link r:resource="http://www.netlib.org/utk/people/JackDongarra/la-sw.html" />
+<link r:resource="http://www.moshier.net/" />
+<link r:resource="http://www.numerical-methods.com/" />
+<link r:resource="http://www.uni-bayreuth.de/departments/math/~kschittkowski/easy_fit.htm" />
+<link r:resource="http://damato.light-speed.de/dessolver/" />
+<link r:resource="http://www.addix.com/products/spline/overview.html" />
+<link r:resource="http://www.octave.org/" />
+<link r:resource="http://www.cse.clrc.ac.uk/nag/lancelot/lancelot.shtml" />
+<link r:resource="http://www.willnaylor.com/wnlib.html" />
+<link r:resource="http://keithbriggs.info/xrc.html" />
+<link r:resource="http://pagesperso-orange.fr/jean-pierre.moreau/" />
+<link r:resource="http://glaros.dtc.umn.edu/gkhome/metis/metis/overview" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Software/Fast_Fourier_Transforms">
+<catid>816099</catid>
+<link r:resource="http://www.fftw.org/" />
+<link r:resource="http://www.jjj.de/fxt/" />
+<link r:resource="http://www.netlib.org/fftpack/" />
+<link r:resource="http://www.davis-inc.com/rmftl" />
+<link r:resource="http://www.sigview.com/" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Wavelets">
+<catid>816086</catid>
+<link r:resource="http://faculty.gvsu.edu/aboufade/web/dw.htm" />
+<link r:resource="http://www.wavelet.org/" />
+<link r:resource="http://liinwww.ira.uka.de/bibliography/Theory/Wavelets/" />
+<link r:resource="http://www.conceptualwavelets.com/" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Wavelets/Commercial_Sites">
+<catid>816088</catid>
+<link r:resource="http://www.aware.com/" />
+<link r:resource="http://www.pegasusimaging.com/" />
+<link r:resource="http://www.mathworks.com/products/wavelet/" />
+<link r:resource="http://www.wolfram.com/products/applications/wavelet/" />
+<link r:resource="http://www.fmah.com/" />
+<link r:resource="http://thames.cs.rhul.ac.uk/~multires/" />
+<link r:resource="http://www.aticourses.com/wavelets_conceptual_practical_approach.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Wavelets/Directories">
+<catid>816087</catid>
+<link r:resource="http://people.csail.mit.edu/fredo/Book/vision.html" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Wavelets/FAQs,_Help,_and_Tutorials">
+<catid>816089</catid>
+<link r:resource="http://cas.ensmp.fr/~chaplais/Wavetour_presentation/Wavetour_presentation_US.html" />
+<link r:resource="http://www.faqs.org/faqs/compression-faq/part2/section-3.html" />
+<link r:resource="http://faculty.gvsu.edu/aboufade/web/dw.htm" />
+<link r:resource="http://users.rowan.edu/~polikar/WAVELETS/WTtutorial.html" />
+<link1 r:resource="http://pagesperso-orange.fr/polyvalens/clemens/wavelets/wavelets.html"></link1>
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Wavelets/Researchers">
+<catid>816092</catid>
+<link r:resource="http://www.cns.nyu.edu/~eero/" />
+<link r:resource="http://www-video.eecs.berkeley.edu/~avz/" />
+<link r:resource="http://www.stats.bris.ac.uk/~guy/" />
+<link1 r:resource="http://www-stat.stanford.edu/~donoho/"></link1>
+<link r:resource="http://www.cmap.polytechnique.fr/~mallat/mallat.html" />
+<link r:resource="http://www.ece.umn.edu/users/tewfik/" />
+<link r:resource="http://www.math.tau.ac.il/~felix/" />
+<link r:resource="http://hocine.bekkouche.free.fr/" />
+<link r:resource="http://www.isye.gatech.edu/~brani/wavelet.html" />
+<link r:resource="http://math.bu.edu/people/kolaczyk/" />
+<link r:resource="http://www.math.uiowa.edu/~jorgen/" />
+<link r:resource="http://www.math.ucdavis.edu/~saito/" />
+<link r:resource="http://www.mayhu.com/" />
+<link r:resource="http://www.wavelets.com/" />
+<link r:resource="http://bigwww.epfl.ch/unser/" />
+<link r:resource="http://users.math.uni-potsdam.de/~mkulesh/eng/" />
+<link r:resource="http://www.andrew.cmu.edu/user/jelenak/" />
+<link r:resource="http://www.stats.ox.ac.uk/~silverma/" />
+<link r:resource="http://www.columbia.edu/~to166/" />
+<link r:resource="http://www-syscom.univ-mlv.fr/~pesquet/" />
+<link r:resource="http://lena.tamu.edu/" />
+<link r:resource="http://www.laurent-duval.eu/" />
+<link r:resource="http://code.ucsd.edu/~pcosman/" />
+<link r:resource="http://cm.bell-labs.com/who/wim/" />
+<link r:resource="http://www.daniel-lemire.com/en/" />
+<link r:resource="http://faculty.washington.edu/dbp/" />
+<link r:resource="http://amath.colorado.edu/faculty/beylkin/" />
+<link r:resource="http://www.univie.ac.at/nuhag-php/home/fei.php" />
+<link r:resource="http://www.rle.mit.edu/rleonline/People/VivekKGoyal.html" />
+<link r:resource="http://www.ee.cuhk.edu.hk/~tblu" />
+<link r:resource="http://bernardcena.com/" />
+<link r:resource="http://www2.ucy.ac.cy/~fanis/" />
+<link r:resource="http://ecee.colorado.edu/~fmeyer/" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Wavelets/Research_Groups">
+<catid>816090</catid>
+<link1 r:resource="http://multires.caltech.edu/"></link1>
+<link r:resource="http://imsc.usc.edu/" />
+<link r:resource="http://www-db.stanford.edu/~wangz/project/imsearch/" />
+<link r:resource="http://www.maths.mq.edu.au/" />
+<link r:resource="http://www.math.yale.edu/wavelets/" />
+<link r:resource="http://www.waveletidr.org/" />
+<link r:resource="http://bigwww.epfl.ch/" />
+<link r:resource="http://www.math.uiowa.edu/~jorgen/waveletFRG.html" />
+<link r:resource="http://www.cwp.mines.edu/" />
+</topic>
+<topic r:id="Top/Science/Math/Numerical_Analysis/Wavelets/Software">
+<catid>816091</catid>
+<link r:resource="http://jsci.sourceforge.net/" />
+<link r:resource="http://blitzwave.sourceforge.net/" />
+<link r:resource="http://www.curvelet.org/" />
+<link r:resource="http://www.pybytes.com/pywavelets/" />
+<link r:resource="http://nalag.cs.kuleuven.be/research/software/wavelets/" />
+</topic>

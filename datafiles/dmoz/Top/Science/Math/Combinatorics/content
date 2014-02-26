@@ -1,0 +1,451 @@
+<topic r:id="Top/Science/Math/Combinatorics">
+<catid>816124</catid>
+<link r:resource="http://www.combinatorics.net/" />
+<link r:resource="http://front.math.ucdavis.edu/math.CO" />
+<link r:resource="http://ulcar.uml.edu/~iag/CS/Catalan.html" />
+<link r:resource="http://www.theory.csc.uvic.ca/~cos/" />
+<link r:resource="http://archives.math.utk.edu/topics/combinatorics.html" />
+<link r:resource="http://www.thi.informatik.uni-frankfurt.de/~jukna/EC_Book/" />
+<link r:resource="http://algo.inria.fr/encyclopedia/" />
+<link r:resource="http://www.mathe2.uni-bayreuth.de/frib/html/book/hyl00.html" />
+<link r:resource="http://cs.anu.edu.au/~bdm/data/" />
+<link r:resource="http://mathforum.org/library/topics/combinatorics/" />
+<link r:resource="http://www.cut-the-knot.org/blue/GeneratingFunctions.shtml" />
+<link r:resource="http://www.ms.unimelb.edu.au/~iwan/Series.html" />
+<link r:resource="http://www.freewebs.com/desargues/combinatorics.htm" />
+<link r:resource="http://mathworld.wolfram.com/Combinatorics.html" />
+<link r:resource="http://www.mathreference.com/cmb-gf,pet.html" />
+<link r:resource="http://www.squaring.net/" />
+<link r:resource="http://www.uwgb.edu/dutchs/symmetry/polynum0.htm" />
+<link r:resource="http://www.math.upenn.edu/~wilf/AeqB.html" />
+<link r:resource="http://vladimir_ladma.sweb.cz/english/music/articles/dide99.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Combinatorial_Game_Theory">
+<catid>816125</catid>
+<link r:resource="http://psych.hanover.edu/JavaTest/Play/Life.html" />
+<link r:resource="http://math.berkeley.edu/~berlek/cgt/index.html" />
+<link r:resource="http://www.wisdom.weizmann.ac.il/~fraenkel" />
+<link r:resource="http://www.ics.uci.edu/~eppstein/cgt/" />
+<link r:resource="http://compgeom.cs.uiuc.edu/~jeffe/mathgames.html" />
+<link r:resource="http://www.hermetic.ch/misc/dice/dice1.htm" />
+<link r:resource="http://sps.nus.edu.sg/%7Elimchuwe/cgt/" />
+<link r:resource="http://www.mathpuzzle.com/Fairdice.htm" />
+<link r:resource="http://www.msri.org/publications/books/Book42/files/dephut.pdf" />
+<link r:resource="http://www.msri.org/publications/books/Book42/files/grossman.pdf" />
+<link r:resource="http://erikdemaine.org/games/" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Combinatorial_Game_Theory/Software">
+<catid>816126</catid>
+<link r:resource="http://www.cs.berkeley.edu/~ddgarcia/software/gamesman/" />
+<link r:resource="http://www.cut-the-knot.org/Curriculum/index.shtml#games" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Design_Theory">
+<catid>816130</catid>
+<link r:resource="http://www.distributed.net/OGR" />
+<link r:resource="http://www.uow.edu.au/~jennie/D-optimal.html" />
+<link r:resource="http://www.maths.qmw.ac.uk/~pjc/design/resources.html" />
+<link r:resource="http://www.maths.qmul.ac.uk/~pjc/design/notes.html" />
+<link r:resource="http://www.designtheory.org/" />
+<link r:resource="http://www.emba.uvm.edu/~dinitz/hcd.html" />
+<link r:resource="http://lib.stat.cmu.edu/designs/" />
+<link r:resource="http://www.maths.gla.ac.uk/~es/" />
+<link r:resource="http://www.ccrwest.org/cover.html" />
+<link r:resource="http://www.uow.edu.au/~jennie/SBIBD.html" />
+<link r:resource="http://www.mathi.uni-heidelberg.de/~yves/Matritzen/CAPs/CAPMatIndex.html" />
+<link r:resource="http://www.mathi.uni-heidelberg.de/~yves/Matritzen/CWCodes/CWCode.html" />
+<link r:resource="http://kissme.shinshu-u.ac.jp/as/" />
+<link r:resource="http://www.maths.qmw.ac.uk/~leonard/soma" />
+<link r:resource="http://www.indiana.edu/~maxdet" />
+<link r:resource="http://www.davidhywel.freeserve.co.uk/" />
+<link r:resource="http://www.win.tue.nl/statlab/designApplet.html" />
+<link r:resource="http://mathworld.wolfram.com/GolombRuler.html" />
+<link r:resource="http://cgm.cs.mcgill.ca/~athens/cs507/Projects/2003/JustinColannino/" />
+<link r:resource="http://www.cecm.sfu.ca/organics/papers/lam/paper/html/paper.html" />
+<link r:resource="http://support.sas.com/techsup/technote/ts723.html" />
+<link r:resource="http://researchweb.watson.ibm.com/people/s/shearer/grule.html" />
+<link r:resource="http://www.cs.st-andrews.ac.uk/~ianm/CSPLib/prob/prob006/" />
+<link r:resource="http://testcover.com/pub/background/cover.htm" />
+<link r:resource="http://neilsloane.com/oadir/" />
+<link r:resource="http://neilsloane.com/hadamard/" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Design_Theory/Matroids">
+<catid>816131</catid>
+<link r:resource="http://www.math.binghamton.edu/zaslav/Matroids/" />
+<link r:resource="http://mathworld.wolfram.com/Matroid.html" />
+<link r:resource="http://www.emis.de/monographs/md/" />
+<link r:resource="http://www.maths.manchester.ac.uk/~avb/pdf/exchange.pdf" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Design_Theory/Matroids/Software">
+<catid>816132</catid>
+<link r:resource="http://www.matroids.googlepages.com/software.html" />
+<link r:resource="http://www.fi.muni.cz/~hlineny/MACEK/" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Design_Theory/Software">
+<catid>816133</catid>
+<link r:resource="http://designtheory.org/software/gap_design/" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Events">
+<catid>816127</catid>
+<link r:resource="http://accota.math.cinvestav.mx/" />
+<link r:resource="http://wcm.open.ac.uk/" />
+<link r:resource="http://www.fpsac.org/" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Events/Calendars">
+<catid>816129</catid>
+<link r:resource="http://www.maths.qmw.ac.uk/~pjc/bcc/conferences.html" />
+<link r:resource="http://www.combinatorics.net/conf/" />
+<link r:resource="http://www.cdam.lse.ac.uk/conferences.html" />
+<link r:resource="http://www.math.uiuc.edu/~west/meetlist.html" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Events/Past_Events">
+<catid>816128</catid>
+<link r:resource="http://www.siam.org/meetings/analco04/" />
+<link r:resource="http://www.maths.qmw.ac.uk/~pjc/bcc/conf2000.html" />
+<link r:resource="http://www.pdmi.ras.ru/EIMI/2001/emschool/index.html" />
+<link r:resource="http://www.renyi.hu/~finf/" />
+<link r:resource="http://www.maths.qmw.ac.uk/~pjc/bcc16.html" />
+<link r:resource="http://www.math.vanderbilt.edu/~shanks/" />
+<link r:resource="http://www.dma.unina.it/~lunardon/" />
+<link r:resource="http://www.mathe2.uni-bayreuth.de/home/alcoma99.html" />
+<link r:resource="http://math.colgate.edu/~aaron/foata.html" />
+<link r:resource="http://www.math.lsa.umich.edu/~fomin/SF2001/" />
+<link r:resource="http://www.dia.unisa.it/COSSAC/" />
+<link r:resource="http://www.corc.ieor.columbia.edu/meetings/c1/c1.html" />
+<link r:resource="http://www.eccc.uni-trier.de/eccc/info/Conferences/comb_opt_day.html" />
+<link r:resource="http://www.maths.uq.edu.au/~ejb/conference.html" />
+<link r:resource="http://www.ucl.ac.uk/~ucahcjm/stn/stn11.html" />
+<link r:resource="http://www.math.bas.bg/~ALCCAL/" />
+<link r:resource="http://www.win.tue.nl/math/eidma/courses/minicourses/lovasz/lovasz.html" />
+<link r:resource="http://www.cs.appstate.edu/~aam/Conference2002/" />
+<link r:resource="http://www.siam.org/meetings/dm02/" />
+<link r:resource="http://www.idsia.ch/ecco2002/" />
+<link r:resource="http://www.maths.qmul.ac.uk/~pjc/design/shortcourse.html" />
+<link r:resource="http://www.isical.ac.in/~rcbose/" />
+<link r:resource="http://www.cs.otago.ac.nz/staffpriv/mike/PP2003/FirstAnnouncement.html" />
+<link r:resource="http://www.informatics.bangor.ac.uk/public/math/bcc2003/" />
+<link r:resource="http://www.mai.liu.se/fpsac/" />
+<link r:resource="http://www.math.uni-magdeburg.de/kolkom/" />
+<link r:resource="http://www.maths.uq.edu.au/~ejb/workshopJan04.html" />
+<link r:resource="http://www.maths.qmul.ac.uk/~rfb/pcc2004/" />
+<link r:resource="http://www.mtsu.edu/~sseo/Cumberland17.htm" />
+<link r:resource="http://www.siam.org/meetings/DM04/" />
+<link r:resource="http://www.math.ucsd.edu/~stanfest/" />
+<link r:resource="http://tclab.kaist.ac.kr/~cocoon04/" />
+<link r:resource="http://www.dii.uchile.cl/~lacga04/" />
+<link r:resource="http://umv.science.upjs.sk/c%26c/" />
+<link r:resource="http://dimacs.rutgers.edu/Workshops/Extremal2/" />
+<link r:resource="http://www.math.tu-berlin.de/~felsner/KolKom04/" />
+<link r:resource="http://www.msri.org/calendar/workshops/WorkshopInfo/269/show_workshop" />
+<link r:resource="http://ccc.ustc.edu.cn/" />
+<link r:resource="http://www.mat.univie.ac.at/~kratt/fpsac97.html" />
+<link r:resource="http://mcs.open.ac.uk/bcc2005/" />
+<link r:resource="http://ww2.unime.it/fpsac05/" />
+<link r:resource="http://www.maths.uq.edu.au/cdmc/30accmcc.html" />
+<link r:resource="http://www.maths.dundee.ac.uk/~kedwards/bcc/past.html" />
+<link r:resource="http://www.newton.ac.uk/programmes/SFM/" />
+<link r:resource="http://www.newton.ac.uk/programmes/CMP/" />
+<link r:resource="http://www.newton.ac.uk/programmes/CMP/cmpw02.html" />
+<link r:resource="http://www.math.tamu.edu/~cyan/combinatexas/" />
+<link r:resource="http://www.cse.buffalo.edu/cocoon2009/" />
+<link r:resource="http://math.illinoisstate.edu/saad/MCCCC.html" />
+<link r:resource="http://www.lia.ufc.br/symp2001/" />
+<link r:resource="http://www.ime.usp.br/graco2005/" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Graph_Theory">
+<catid>816142</catid>
+<link r:resource="http://www.dharwadker.org/" />
+<link r:resource="http://www.mathe2.uni-bayreuth.de/markus/reggraphs.html" />
+<link r:resource="http://www.math.gatech.edu/~thomas/FC/fourcolor.html" />
+<link r:resource="http://www.cs.wvu.edu/~angela/cs418a/cs418a.html" />
+<link r:resource="http://mat.gsia.cmu.edu/COLOR/color.html" />
+<link r:resource="http://www.math.binghamton.edu/zaslav/Bsg/" />
+<link r:resource="http://www.di.unipi.it/di/groups/optimize/Data/MMCF.html" />
+<link r:resource="http://listserv.nodak.edu/archives/graphnet.html" />
+<link r:resource="http://www.math.fau.edu/locke/graphoth.htm" />
+<link r:resource="http://www.di.unipi.it/~andrea/GETGRATS/" />
+<link r:resource="http://www.win.tue.nl/~amc/oz/dtg/survey.html" />
+<link r:resource="http://www.tri.org.au/knightframe.html" />
+<link r:resource="http://www.hot.ee/tewet/" />
+<link r:resource="http://homepages.cwi.nl/~aeb/math/dsrg/dsrg.html" />
+<link r:resource="http://www.tsp.gatech.edu/" />
+<link r:resource="http://switzernet.com/people/emin-gabrielyan/060124-capillary-aron-article/" />
+<link r:resource="http://www.iwriteiam.nl/counting.html" />
+<link r:resource="http://www.merlins-world.de/" />
+<link r:resource="http://www.maths.dundee.ac.uk/~kedwards/harmcol.html" />
+<link r:resource="http://www.sgt.pep.ufrj.br/" />
+<link r:resource="http://www.60feet6.com/research/usa_tsp_tech.html" />
+<link r:resource="http://www.hermetic.ch/misc/ts3/ts3demo.htm" />
+<link r:resource="http://www.bcpl.net/%7Esmkauffm/gtlawatersigned.pdf" />
+<link r:resource="http://www.mat2gra.info/" />
+<link r:resource="http://www.math.fau.edu/locke/LinearSp.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Graph_Theory/Books">
+<catid>816146</catid>
+<link r:resource="http://www.math.uiuc.edu/~west/" />
+<link r:resource="http://www.cs.rhul.ac.uk/books/dbook/" />
+<link r:resource="http://diestel-graph-theory.com/" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Graph_Theory/Events">
+<catid>816144</catid>
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Graph_Theory/Events/Past_Conferences">
+<catid>816145</catid>
+<link r:resource="http://www.math.sunysb.edu/patterns/" />
+<link r:resource="http://www.renyi.hu/~extremal/" />
+<link r:resource="http://www.siam.org/meetings/dm00/" />
+<link r:resource="http://www.cs.virginia.edu/~gd2000/" />
+<link r:resource="http://wwwteo.informatik.uni-rostock.de/wg2001/" />
+<link r:resource="http://www.zaik.uni-koeln.de/AFS/conferences/CTW2001/CTW2001.html" />
+<link r:resource="http://dimacs.rutgers.edu/dci/2001/rad.html" />
+<link r:resource="http://www.ads.tuwien.ac.at/gd2001/" />
+<link r:resource="http://www.math.admu.edu.ph/CGTDG2001/" />
+<link r:resource="http://dimacs.rutgers.edu/Workshops/Graph/" />
+<link r:resource="http://galaxy.uci.agh.edu.pl/~graphs/" />
+<link r:resource="http://dimacs.rutgers.edu/Workshops/GeometricGraph/" />
+<link r:resource="http://www.aimath.org/ARCC/workshops/perfectgraph.html" />
+<link r:resource="http://www.cs.uleth.ca/gtba/" />
+<link r:resource="http://www.renyi.hu/~extgr03/" />
+<link r:resource="http://www.cs.uu.nl/WG2003/" />
+<link r:resource="http://www.ipam.ucla.edu/programs/agg2004/" />
+<link r:resource="http://www.ecp6.jussieu.fr/GT04/GT04b.html" />
+<link r:resource="http://galaxy.uci.agh.edu.pl/~3in1/" />
+<link r:resource="http://www.inf.uni-konstanz.de/wg2000/" />
+<link r:resource="http://lita.sciences.univ-metz.fr/~wg2005/" />
+<link r:resource="http://www.math.science.cmu.ac.th/graph21st/" />
+<link r:resource="http://www.cid.uz.zgora.pl/" />
+<link r:resource="http://www-sop.inria.fr/mascotte/ICGT05/" />
+<link r:resource="http://www.mtsu.edu/~sseo/Mighty.html" />
+<link r:resource="http://home.agh.edu.pl/~3in1/" />
+<link r:resource="http://www.ims.nus.edu.sg/Programs/randomgraphs/" />
+<link r:resource="http://www.newton.ac.uk/programmes/AGA/" />
+<link r:resource="http://math.illinoisstate.edu/saad/mighty01.html" />
+<link r:resource="http://www.math.osu.edu/~maharry/MIGHTYXLII/" />
+<link r:resource="http://www.lia.ufc.br/~symp2001/" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Graph_Theory/Open_Problems">
+<catid>816147</catid>
+<link r:resource="http://www.math.uiuc.edu/~west/pcol/pcolink.html" />
+<link r:resource="http://dimacs.rutgers.edu/~hochberg/undopen/graphtheory/graphtheory.html" />
+<link r:resource="http://www.math.fau.edu/locke/unsolved.htm" />
+<link r:resource="http://www.vuse.vanderbilt.edu/~spin/open.html" />
+<link r:resource="http://www.c3.lanl.gov/mega-math/workbk/graph/grthree.html" />
+<link r:resource="http://www.eecs.umich.edu/~qstout/constantques.html" />
+<link r:resource="http://www.math.binghamton.edu/zaslav/Bsg/sgbgprobs.html" />
+<link r:resource="http://www.maths.qmw.ac.uk/~pjc/oldprob.html" />
+<link r:resource="http://www.emba.uvm.edu/~archdeac/newlist/problems.html" />
+<link r:resource="http://www.aimath.org/WWN/perfectgraph/" />
+<link r:resource="http://www.cs.concordia.ca/~chvatal/perfect/problems.html" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Graph_Theory/People">
+<catid>816148</catid>
+<link r:resource="http://www.emba.uvm.edu/~archdeac/" />
+<link r:resource="http://www.oakland.edu/enp/" />
+<link r:resource="http://www.math.fau.edu/locke/" />
+<link r:resource="http://home.wlu.edu/~whaleyt/" />
+<link r:resource="http://www.maths.dundee.ac.uk/~kedwards/" />
+<link r:resource="http://www.csse.uwa.edu.au/~gordon/" />
+<link r:resource="http://www1.cs.columbia.edu/~sanders/graphtheory/people/" />
+<link r:resource="http://www.liafa.jussieu.fr/~fm/" />
+<link r:resource="http://www.dharwadker.org/profile.html" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Graph_Theory/References">
+<catid>816143</catid>
+<link r:resource="http://www.math.fau.edu/locke/graphthe.htm" />
+<link r:resource="http://www.utm.edu/departments/math/graph/" />
+<link r:resource="http://www.personal.kent.edu/~rmuhamma/GraphTheory/graphTheory.htm" />
+<link r:resource="http://maite71.upc.es/grup_de_grafs/grafs/taula_delta_d.html" />
+<link r:resource="http://maite71.upc.es/grup_de_grafs/table_g.html" />
+<link r:resource="http://www.csse.uwa.edu.au/~gordon/remote/cubics/" />
+<link r:resource="http://www.csse.uwa.edu.au/~gordon/remote/graphs/" />
+<link r:resource="http://www.nlsde.buaa.edu.cn/~kexu/benchmarks/graph-benchmarks.htm" />
+<link r:resource="http://www.calude.net/andreea/4CT.pdf" />
+<link r:resource="http://www.improbable.com/airchives/classical/jstuff/v36/four-color-36-1.html" />
+<link r:resource="http://www.eprisner.de/WZK/WZK1.html" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Journals">
+<catid>816141</catid>
+<link r:resource="http://journals.cambridge.org/action/displayJournal?jid=CPC" />
+<link r:resource="http://www.combinatorics.org/" />
+<link r:resource="http://www.dmtcs.org/" />
+<link r:resource="http://www.combinatorics.net/aoc/" />
+<link r:resource="http://www.mat.univie.ac.at/~slc/" />
+<link r:resource="http://www.emba.uvm.edu/~jcd/" />
+<link r:resource="http://www.siam.org/journals/sidma/sidma.htm" />
+<link1 r:resource="http://www.combinatorics.net/journals/"></link1>
+<link r:resource="http://www.cdam.lse.ac.uk/BCB/" />
+<link r:resource="http://www.elsevier.com/locate/issn/0195-6698" />
+<link r:resource="http://www.elsevier.com/locate/issn/0097-3165" />
+<link r:resource="http://www.elsevier.com/locate/issn/0095-8956" />
+<link r:resource="http://www.elsevier.com/wps/find/journaldescription.cws_home/505610/description#description" />
+<link r:resource="http://www.springerlink.com/content/100324/" />
+<link r:resource="http://www.springerlink.com/content/100277/" />
+<link r:resource="http://www.springerlink.com/content/100256/" />
+<link r:resource="http://ajc.maths.uq.edu.au/" />
+<link r:resource="http://www.tarupublications.com/journals/jdmsc/jdmsc.htm" />
+<link r:resource="http://www.springer.com/birkhauser/mathematics/journal/26" />
+<link r:resource="http://www.springer.com/math/numbers/journal/10878" />
+<link r:resource="http://www.springer.com/new+%26+forthcoming+titles+(default)/journal/493" />
+<link r:resource="http://www.springer.com/new+%26+forthcoming+titles+(default)/journal/454" />
+<link r:resource="http://www.springer.com/new+%26+forthcoming+titles+(default)/journal/373" />
+<link r:resource="http://jgaa.info/" />
+<link r:resource="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6610" />
+<link r:resource="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0118" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Open_Problems">
+<catid>816134</catid>
+<link r:resource="http://dimacs.rutgers.edu/~hochberg/undopen/" />
+<link r:resource="http://www.math.uiuc.edu/~west/pcol/pcolink.html" />
+<link r:resource="http://www.math.binghamton.edu/zaslav/Matroids/matroidprobs.html" />
+<link r:resource="http://www.combinatorics.net/problems/" />
+<link r:resource="http://www.math.uiuc.edu/~west/openp/" />
+<link r:resource="http://www.jdawiseman.com/papers/easymath/open_questions.html" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/People">
+<catid>816135</catid>
+<link r:resource="http://www.eecs.umich.edu/~qstout/" />
+<link r:resource="http://people.csail.mit.edu/ftl/" />
+<link r:resource="http://erikdemaine.org/" />
+<link r:resource="http://www.maths.gla.ac.uk/~es/" />
+<link r:resource="http://www.maths.qmul.ac.uk/~rab/" />
+<link r:resource="http://www.math.yorku.ca/bergeron/" />
+<link r:resource="http://www.maths.qmul.ac.uk/~pjc/" />
+<link r:resource="http://www.math.cmu.edu/~af1p/" />
+<link r:resource="http://cs.anu.edu.au/~bdm/" />
+<link r:resource="http://www.research.att.com/~njas/" />
+<link r:resource="http://www.cs.rhbnc.ac.uk/home/gutin/" />
+<link r:resource="http://www.cis.upenn.edu/~wilf/" />
+<link r:resource="http://www.math.rutgers.edu/~zeilberg/" />
+<link r:resource="http://www.math.mtu.edu/~jbierbra/" />
+<link r:resource="http://www.maths.qmul.ac.uk/~leonard/" />
+<link r:resource="http://kam.mff.cuni.cz/~nesetril/" />
+<link r:resource="http://cims.nyu.edu/~cooper/" />
+<link r:resource="http://www.mmedia.is/esth/" />
+<link r:resource="http://math.ucsd.edu/~fan/" />
+<link r:resource="http://www.cs.concordia.ca/~chvatal/" />
+<link r:resource="http://igm.univ-mlv.fr/~jyt/index_en.html" />
+<link r:resource="http://people.cs.uchicago.edu/~wes" />
+<link r:resource="http://kam.mff.cuni.cz/~sereni/" />
+<link r:resource="http://home.lanet.lv/%7Ebuls/" />
+<link r:resource="http://www.math.pku.edu.cn/teachers/csong/" />
+<link r:resource="http://www.ma.huji.ac.il/~nkeller" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/People/Directories">
+<catid>816136</catid>
+<link r:resource="http://www.cdam.lse.ac.uk/BCB/partA.html" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Research_Groups">
+<catid>816137</catid>
+<link r:resource="http://algo.inria.fr/" />
+<link r:resource="http://infoshako.sk.tsukuba.ac.jp/jcca/" />
+<link r:resource="http://www.cs.auckland.ac.nz/CDMTCS/" />
+<link r:resource="http://www.math.chalmers.se/Math/Research/Combinatorics/" />
+<link r:resource="http://www.cgc.ethz.ch/" />
+<link r:resource="http://www.maths.qmul.ac.uk/~pjc/design/drg.html" />
+<link r:resource="http://phalanstere.univ-mlv.fr/" />
+<link r:resource="http://www.dmi.unict.it/~gquattro/ctcombinatoria/" />
+<link r:resource="http://www.maths.uq.edu.au/cdmc/" />
+<link r:resource="http://www.maths.uq.edu.au/~db/CMSA/cmsa.html" />
+<link r:resource="http://www.maths.qmw.ac.uk/~pjc/bcc/" />
+<link r:resource="http://www.win.tue.nl/wsk/eidma/" />
+<link r:resource="http://www.math.tamu.edu/research/algebra_combinatorics/" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Software">
+<catid>816138</catid>
+<link r:resource="http://goblin2.sourceforge.net/" />
+<link r:resource="http://www.graph-magics.com/" />
+<link r:resource="http://cs.anu.edu.au/~bdm/nauty/" />
+<link r:resource="http://cs.anu.edu.au/people/bdm/plantri/" />
+<link r:resource="http://www.cs.sandia.gov/CRF/chac.html" />
+<link r:resource="http://www.math.lsa.umich.edu/~jrs/maple.html" />
+<link r:resource="http://algo.inria.fr/libraries/software.html" />
+<link r:resource="http://graph.seul.org/" />
+<link r:resource="http://dimacs.rutgers.edu/~berryj/LINK.html" />
+<link r:resource="http://prolland.free.fr/works/research/dsatphp/dsat.html" />
+<link r:resource="http://www.maths.qmul.ac.uk/~leonard/grape/" />
+<link r:resource="http://phalanstere.univ-mlv.fr/~ace/ACE/3.0/ACE.html" />
+<link r:resource="http://www.cs.cmu.edu/~scandal/alg/separator.html" />
+<link r:resource="http://graph-utils.sourceforge.net/" />
+<link r:resource="http://www.math.rs/~zstanic/scl.htm" />
+<link r:resource="http://gato.sourceforge.net/" />
+<link r:resource="http://www.diku.dk/hjemmesider/ansatte/martinz/geosteiner/" />
+<link r:resource="http://www.itgi-algorithm.de/" />
+<link1 r:resource="http://www.mpi-inf.mpg.de/LEDA/leda.html"></link1>
+<link r:resource="http://glaros.dtc.umn.edu/gkhome/views/metis/" />
+<link r:resource="http://jgrapht.org/" />
+<link r:resource="http://networkx.github.io/" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Software/Graph_Drawing">
+<catid>816139</catid>
+<link r:resource="http://hypergraph.sourceforge.net/" />
+<link r:resource="http://www.jgraph.com/" />
+<link r:resource="http://www.servasoftware.com/" />
+<link r:resource="http://www.dia.uniroma3.it/~gdt/" />
+<link1 r:resource="http://graphdrawing.org/"></link1>
+<link r:resource="http://www.tomsawyer.com/" />
+<link r:resource="http://vlado.fmf.uni-lj.si/pub/networks/pajek/" />
+<link r:resource="http://www.aisee.com/" />
+<link r:resource="http://www.tulip-software.org/" />
+<link r:resource="http://pigale.sourceforge.net/" />
+<link r:resource="http://www.graphviz.org/" />
+<link r:resource="http://www.cs.brown.edu/people/rt/gd.html" />
+<link r:resource="http://www.oreas.com/" />
+<link r:resource="http://www-sop.inria.fr/mascotte/mascopt" />
+<link r:resource="http://www.informatik.uni-bremen.de/agbkb/graph-visualization/" />
+<link r:resource="http://www.caida.org/tools/visualization/walrus/" />
+<link r:resource="http://www.graph-magics.com/" />
+<link r:resource="http://www.nishiohirokazu.org/grinedit/" />
+<link r:resource="http://brainmaps.org/index.php?p=desktop-apps-nodes3d" />
+<link r:resource="http://www.nwoods.com/" />
+<link r:resource="http://graphexploration.cond.org/" />
+<link r:resource="http://code.google.com/p/gteditor/" />
+<link r:resource="http://www.ogdf.net/" />
+<link r:resource="http://www.graphsketcher.com/" />
+<link r:resource="http://www.babelgraph.org/" />
+<link r:resource="http://code.google.com/p/linloglayout/" />
+<link r:resource="http://abugraph.sourceforge.net/" />
+<link r:resource="http://www.graphdrawing.de/" />
+<link r:resource="http://www.chartgo.com/" />
+<link r:resource="http://code.google.com/p/annas/" />
+<link r:resource="http://www.sendung.de/graphvis/" />
+<link r:resource="http://ccvisu.sosy-lab.org/" />
+<link r:resource="http://www.yworks.com/en/products_yfiles_about.htm" />
+<link r:resource="http://www-01.ibm.com/software/integration/visualization/java/" />
+</topic>
+<topic r:id="Top/Science/Math/Combinatorics/Software/Linear_Programming_and_Optimization">
+<catid>816140</catid>
+<link r:resource="http://www.mat.univie.ac.at/~neum/glopt.html" />
+<link r:resource="http://sourceforge.net/projects/opbdp/" />
+<link r:resource="http://www.lindo.com/" />
+<link r:resource="http://www.gams.com/" />
+<link r:resource="http://www.dashoptimization.com/" />
+<link r:resource="http://www.ilog.com/products/optimization/" />
+<link r:resource="http://www.ilog.com/products/cplex/" />
+<link r:resource="http://www.eudoxus.com/" />
+<link r:resource="http://plato.asu.edu/guide.html" />
+<link r:resource="http://www.uni-graz.at/imawww/kuntsevich/solvopt/" />
+<link r:resource="http://rutcor.rutgers.edu/~pbo/" />
+<link r:resource="http://www.nlsde.buaa.edu.cn/~kexu/benchmarks/pb-benchmarks.htm" />
+<link r:resource="http://www.optimalon.com/" />
+<link r:resource="http://www.mosek.com/" />
+<link r:resource="http://home.ubalt.edu/ntsbarsh/Research/LpSolvers.htm" />
+<link r:resource="http://www.llamasoft.com/" />
+<link r:resource="http://www.applicationprogram.net/" />
+<link r:resource="http://www.zib.de/Optimization/Software/Soplex/" />
+<link r:resource="http://www.gnu.org/software/glpk/glpk.html" />
+<link r:resource="http://www.maths.ed.ac.uk/~gondzio/software/hopdm.html" />
+<link r:resource="http://www.ampl.com/" />
+<link r:resource="http://coral.ie.lehigh.edu/~minto/index.html" />
+<link r:resource="http://scip.zib.de/" />
+<link r:resource="http://www.coin-or.org/Cbc" />
+<link r:resource="http://www.cs.sunysb.edu/~algorith/implement/syslo/implement.shtml" />
+<link r:resource="http://www.aimms.com/" />
+<link r:resource="http://www.lionhrtpub.com/orms/orms-6-05/frsurvey.html" />
+<link r:resource="http://www.lionhrtpub.com/orms/orms-6-98/nlpss.html" />
+<link r:resource="http://www.esteco.com/" />
+<link r:resource="http://tomopt.com/" />
+<link r:resource="http://tomopt.com/tomnet/" />
+<link r:resource="http://www.informatik.uni-koeln.de/abacus/" />
+<link r:resource="http://www.logmip.ceride.gov.ar/" />
+<link r:resource="http://www.phpsimplex.com/en/" />
+<link r:resource="http://zimpl.zib.de/" />
+</topic>

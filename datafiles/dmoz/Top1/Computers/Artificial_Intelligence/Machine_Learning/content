@@ -1,0 +1,273 @@
+<topic r:id="Top/Computers/Artificial_Intelligence/Machine_Learning">
+<catid>376525</catid>
+<link r:resource="http://www.kernel-machines.org/" />
+<link r:resource="http://www.irisa.fr/Gowachin/" />
+<link r:resource="http://satirist.org/learn-game/" />
+<link r:resource="http://www.cs.iastate.edu/~honavar/gi/gi.html" />
+<link r:resource="http://cgm.cs.mcgill.ca/~godfried/teaching/pr-web.html" />
+<link r:resource="http://athos.rutgers.edu/ml4um/" />
+<link r:resource="http://www.proto-mind.com/" />
+<link r:resource="http://www.miislita.com/" />
+<link1 r:resource="http://home.earthlink.net/~dwaha/research/machine-learning.html"></link1>
+<link r:resource="http://www-anw.cs.umass.edu/rlr/" />
+<link r:resource="http://people.revoledu.com/kardi/tutorial/kMean/index.html" />
+<link r:resource="http://web.media.mit.edu/~lieber/PBE/index.html" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Machine_Learning/Case-Based_Reasoning">
+<catid>376538</catid>
+<link r:resource="http://www.cs.cmu.edu/afs/cs.cmu.edu/project/cadet/ftp/docs/CADET.html" />
+<link r:resource="http://www.iiia.csic.es/People/enric/AICom.html" />
+<link r:resource="http://www.merl.com/reports/TR94-19a/" />
+<link r:resource="http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/areas/reasonng/case_bsd/0.html" />
+<link r:resource="http://www.aiai.ed.ac.uk/links/cbr.html" />
+<link r:resource="http://www.cs.indiana.edu/hyplan/leake/papers/a-96-book.html" />
+<link r:resource="http://www.iiia.csic.es/Projects/cbr/" />
+<link r:resource="http://www.cs.umass.edu/~cbr/" />
+<link r:resource="http://www.kddresearch.org/Groups/AI-CBR" />
+<link r:resource="http://home.earthlink.net/~dwaha/ML-CBR-Home-Pages/people.html" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Machine_Learning/Companies">
+<catid>376535</catid>
+<link r:resource="http://www.cambo1.com/" />
+<link r:resource="http://www.rulequest.com/" />
+<link r:resource="http://www.pharmadm.com/" />
+<link r:resource="http://www.fiskesoftware.com/" />
+<link r:resource="http://www.textkernel.nl/" />
+<link r:resource="http://burning-glass.com/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Machine_Learning/Conferences">
+<catid>376534</catid>
+<link r:resource="http://www.comp.hkbu.edu.hk/IDEAL2003/" />
+<link r:resource="http://www-ai.ijs.si/SasoDzeroski/ICML99/main.html" />
+<link r:resource="http://www.ecn.purdue.edu/ICML2001/" />
+<link r:resource="http://www.cs.york.ac.uk/ILP-events/ILP-2000/" />
+<link r:resource="http://alt99.ims.u-tokyo.ac.jp/" />
+<link r:resource="http://centria.di.fct.unl.pt/ida01/" />
+<link r:resource="http://vinci.inesc.pt/icgi-2000/" />
+<link r:resource="http://www.cs.toronto.edu/uai2000/" />
+<link r:resource="http://uncertainty99.microsoft.com/" />
+<link r:resource="http://www.cse.cuhk.edu.hk/~ideal2k/" />
+<link r:resource="http://www.cs.unca.edu/~bruce/acl01/CoNLLsch.html" />
+<link r:resource="http://www.cs.cmu.edu/~conald/" />
+<link r:resource="http://www.informatik.uni-trier.de/~ley/db/conf/uai/uai2001.html" />
+<link r:resource="http://www.data-mining-forum.de/" />
+<link r:resource="http://ecmr05.univpm.it/" />
+<link r:resource="http://ling.ucsd.edu/~kehler/unsup-acl-99.html" />
+<link r:resource="http://www.cnts.ua.ac.be/benelearn2001/" />
+<link r:resource="http://www-alg.ist.hokudai.ac.jp/~thomas/ALTARCH/altarch.jhtml" />
+<link r:resource="http://www.icsc-naiso.org/" />
+<link r:resource="http://www.icsc-naiso.org/conferences/bics2006/bics06-cfp.html" />
+<link r:resource="http://www.cs.tufts.edu/~roni/ALT2001/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Machine_Learning/Datasets">
+<catid>376533</catid>
+<link r:resource="http://www.rcsb.org/pdb/" />
+<link r:resource="http://www.datgen.com/" />
+<link r:resource="http://www.cs.utoronto.ca/~delve/" />
+<link r:resource="http://www.ics.uci.edu/~mlearn/MLRepository.html" />
+<link r:resource="http://trec.nist.gov/data.html" />
+<link r:resource="http://nssdc.gsfc.nasa.gov/" />
+<link r:resource="http://lib.stat.cmu.edu/datasets/" />
+<link r:resource="http://www.cs.cmu.edu/afs/cs.cmu.edu/user/avrim/www/ML94/face_homework.html" />
+<link r:resource="http://www-personal.buseco.monash.edu.au/~hyndman/TSDL/" />
+<link r:resource="http://www.cis.upenn.edu/~treebank/" />
+<link r:resource="http://www.sci.unisannio.it/docenti/rampone/" />
+<link r:resource="http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-11/www/wwkb/" />
+<link r:resource="http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/wordsim353.html" />
+<link r:resource="http://www.isi.edu/info-agents/RISE/" />
+<link r:resource="http://www.daviddlewis.com/resources/testcollections/reuters21578/" />
+<link r:resource="http://techtc.cs.technion.ac.il/" />
+<link r:resource="http://www.ebi.ac.uk/arrayexpress/" />
+<link r:resource="http://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.html" />
+<link r:resource="http://www.inforum.umd.edu/econdata/econdata.html" />
+<link r:resource="http://www.nist.gov/srd/nistsd4.cfm" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Machine_Learning/Educational_Resources">
+<catid>376526</catid>
+<link r:resource="http://home.earthlink.net/~jdc24/curriculum.htm" />
+<link r:resource="http://www.cs.iastate.edu/~cs573x/homepage.html" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Machine_Learning/Mailing_Lists">
+<catid>376532</catid>
+<link r:resource="http://www.ics.uci.edu/~mlearn" />
+<link r:resource="http://groups.yahoo.com/group/recursive-partitioning/" />
+<link r:resource="http://groups.yahoo.com/group/machine-learning/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Machine_Learning/Publications">
+<catid>376527</catid>
+<link r:resource="http://www.kernel-methods.net/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Machine_Learning/Publications/Bibliographies">
+<catid>376529</catid>
+<link r:resource="http://www.informatik.uni-trier.de/~ley/db/conf/eurocolt/index.html" />
+<link r:resource="http://www.informatik.uni-trier.de/~ley/db/conf/icml/index.html" />
+<link r:resource="http://www.informatik.uni-trier.de/~ley/db/conf/alt/index.html" />
+<link r:resource="http://www.informatik.uni-trier.de/~ley/db/conf/colt/index.html" />
+<link r:resource="http://www.informatik.uni-trier.de/~ley/db/conf/ecml/index.html" />
+<link r:resource="http://www.informatik.uni-trier.de/~ley/db/conf/mldm/index.html" />
+<link r:resource="http://www.cis.hut.fi/research/refs/" />
+<link r:resource="http://liinwww.ira.uka.de/bibliography/Ai/automated.text.categorization.html" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Machine_Learning/Publications/Books">
+<catid>376528</catid>
+<link r:resource="http://www.cbs.dtu.dk/mitbook/mitbook.html" />
+<link r:resource="http://support-vector.ws/" />
+<link r:resource="http://www.amsta.leeds.ac.uk/~charles/statlog/" />
+<link r:resource="http://www.cs.cmu.edu/~tom/mlbook.html" />
+<link r:resource="http://ai.stanford.edu/people/nilsson/mlbook.html" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Machine_Learning/Publications/Journals">
+<catid>376531</catid>
+<link r:resource="http://www.jair.org/" />
+<link r:resource="http://link.springer.com/journal/10994" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Machine_Learning/Publications/Paper_Repositories">
+<catid>376530</catid>
+<link r:resource="http://www-cse.ucsd.edu/users/rik/MLIA.html" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Machine_Learning/Research_Groups">
+<catid>376536</catid>
+<link r:resource="http://wwwipr.ira.uka.de/" />
+<link r:resource="http://ti.arc.nasa.gov/" />
+<link r:resource="http://www.clrc.rhul.ac.uk/" />
+<link r:resource="http://www.cs.cmu.edu/~cald/" />
+<link r:resource="http://www.cs.waikato.ac.nz/~ml" />
+<link r:resource="http://www.cs.iastate.edu/~honavar/aigroup.html" />
+<link r:resource="http://l2r.cs.uiuc.edu/~cogcomp/" />
+<link r:resource="http://www.dsi.unifi.it/neural" />
+<link r:resource="http://www.cs.utexas.edu/users/ml/" />
+<link r:resource="http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-5/www/learning.html" />
+<link r:resource="http://www.di.unito.it/~mluser/" />
+<link r:resource="http://www.cs.huji.ac.il/labs/learning/lab_page.html" />
+<link r:resource="http://www.gatsby.ucl.ac.uk/" />
+<link r:resource="http://www.autonlab.org/" />
+<link r:resource="http://www.iro.umontreal.ca/~lisa/" />
+<link r:resource="http://www.cs.umass.edu/~lrn/" />
+<link r:resource="http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/Xavier/lab.html" />
+<link r:resource="http://lacam.di.uniba.it:8000/" />
+<link r:resource="http://www.dsv.su.se/ML/" />
+<link r:resource="http://www.cs.bris.ac.uk/Research/MachineLearning/" />
+<link r:resource="http://www.csi.uottawa.ca/dept/kaml/KAML.html" />
+<link r:resource="http://www.aber.ac.uk/~dcswww/Research/bio/" />
+<link r:resource="http://www.cis.hut.fi/projects/mi/" />
+<link r:resource="http://lmb.informatik.uni-freiburg.de/people/bahlmann/frog.en.html" />
+<link r:resource="http://www.gmdh.net/index.html" />
+<link r:resource="http://www.cse.msu.edu/rgroups/prip/" />
+<link r:resource="http://www.cs.ucl.ac.uk/intelligent_systems/" />
+<link r:resource="http://www.soe.ucsc.edu/programs/cs/graduate/research.html#ai" />
+<link r:resource="http://www.cild.iastate.edu/" />
+<link r:resource="http://www.enm.bris.ac.uk/ai/" />
+<link r:resource="http://www.psi.toronto.edu/" />
+<link r:resource="http://www.mli.gmu.edu/" />
+<link r:resource="http://www.ccls.columbia.edu/" />
+<link r:resource="http://www.cs.kuleuven.be/~dtai/ml/" />
+<link r:resource="http://pages.cs.wisc.edu/~shavlik/uwml.html" />
+<link r:resource="http://www.uofaweb.ualberta.ca/aicml/" />
+<link r:resource="http://gsic.tel.uva.es/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Machine_Learning/Software">
+<catid>376537</catid>
+<link r:resource="http://www.rulequest.com/Personal/" />
+<link r:resource="http://www.torch.ch/" />
+<link r:resource="http://lancet.mit.edu/ga/" />
+<link r:resource="http://www.ics.uci.edu/~mlearn/MLRepository.html" />
+<link r:resource="http://www.cs.cmu.edu/~mccallum/bow/" />
+<link r:resource="http://research.microsoft.com/~dmax/WinMine/tooldoc.htm" />
+<link r:resource="http://www.cs.cmu.edu/~psand/" />
+<link r:resource="http://www.cs.umass.edu/~lrn/iti/index.html" />
+<link r:resource="http://www.cs.waikato.ac.nz/~ml/weka/index.html" />
+<link r:resource="http://www.cs.utexas.edu/users/ml/neither.html" />
+<link r:resource="http://www.cs.cmu.edu/afs/cs.cmu.edu/project/prodigy/Web/prodigy-home.html" />
+<link r:resource="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/learning/systems/0.html" />
+<link r:resource="http://www.cs.utexas.edu/users/ml/chill.html" />
+<link r:resource="http://icarus.math.mcmaster.ca/peter/mix/mix.html" />
+<link r:resource="http://www.ai.mit.edu/~murphyk/Software/bnsoft.html" />
+<link r:resource="http://sourceforge.net/projects/ghmm" />
+<link r:resource="http://libbpfl.sourceforge.net/" />
+<link r:resource="http://sourceforge.net/projects/ebla" />
+<link r:resource="http://www.d.umn.edu/~tpederse/nsp.html" />
+<link r:resource="http://ilk.uvt.nl/software.html" />
+<link r:resource="http://edres.org/betsy" />
+<link r:resource="http://meme.sdsc.edu/meme/intro.html" />
+<link r:resource="http://homepages.inf.ed.ac.uk/s0450736/maxent_toolkit.html" />
+<link r:resource="http://cervisia.org/machine_learning_code.php" />
+<link r:resource="http://rapid-i.com/" />
+<link r:resource="http://sci2s.ugr.es/keel/" />
+<link r:resource="http://connex.lip6.fr/%7Ebinsztok/hhld.html" />
+<link r:resource="http://www.kyb.tuebingen.mpg.de/bs/people/spider/index.html" />
+<link r:resource="http://bayesclasses.sourceforge.net/Bayes++.html" />
+<link r:resource="http://www.alias-i.com/lingpipe/" />
+<link r:resource="http://www.csse.monash.edu.au/~lloyd/tildeAlgDS/Sort/" />
+<link r:resource="http://www.ailab.si/orange" />
+<link r:resource="http://www.opencyc.org/" />
+<link r:resource="http://www.mrc-bsu.cam.ac.uk/bugs/winbugs/contents.shtml" />
+<link r:resource="http://vibes.sourceforge.net/" />
+<link r:resource="http://mallet.cs.umass.edu/index.php/Main_Page" />
+<link r:resource="http://www.sgi.com/tech/mlc/trees.html" />
+<link r:resource="http://www.cs.ucr.edu/~stelo/pattern.html" />
+<link r:resource="http://senseclusters.sourceforge.net/" />
+<link r:resource="http://hmmer.janelia.org/" />
+<link r:resource="http://www.cs.utexas.edu/users/pclark/software/" />
+<link r:resource="http://www.ee.oulu.fi/~topiolli/cppdocs/" />
+<link r:resource="http://bioweb.pasteur.fr/seqanal/motif/sam-uk.html" />
+<link r:resource="http://www.paramind.net/pmscientificversion.html" />
+<link r:resource="http://www.optimaldesign.com/ArrayMiner/ClassMarker.htm" />
+<link r:resource="http://www.kanungo.com/software/software.html" />
+<link r:resource="http://www.cra.com/commercial-products-services/bnet-engine-kit.asp" />
+<link r:resource="http://pfam.janelia.org/" />
+<link r:resource="http://savannah.nongnu.org/projects/libml/" />
+<link r:resource="http://ailab.wsu.edu/subdue/" />
+<link r:resource="http://www.sciencemag.org/feature/data/compsci/machine_learning.dtl" />
+<link r:resource="http://www.dii.unisi.it/%7Efreno/JProGraM.html" />
+<link r:resource="http://alicebot.blogspot.com/" />
+<link r:resource="http://lisa.sourceforge.net/" />
+<link r:resource="http://www.utdallas.edu/~klaus/Leibnizprogram/leibnizmain.html" />
+<link r:resource="http://nieme.lip6.fr/" />
+<link r:resource="http://www.agt.net/public/bmarshal/aiparts/index.htm" />
+<link r:resource="http://code.google.com/p/thebeast/" />
+<link r:resource="http://sourceforge.net/projects/opencvlibrary/" />
+<link r:resource="http://swift.cmbi.ru.nl/servers/html/index.html" />
+<link r:resource="http://mloss.org/software/" />
+<link r:resource="http://www.alexa.com/topsites/category/Top/Computers/Artificial_Intelligence/Machine_Learning/Software" />
+<link r:resource="http://www.c-sharpcorner.com/UploadFile/rmcochran/AI_OOP_NeuralNet06192006090112AM/AI_OOP_NeuralNet.aspx" />
+<link r:resource="http://www.cs.princeton.edu/~schapire/boostexter.html" />
+<link r:resource="http://www.cs.utexas.edu/users/dml/Software/graclus.html" />
+<link r:resource="http://www.nec-labs.com/research/machine/ml_website/main/software.php?project=senna" />
+<link r:resource="http://www.nec-labs.com/research/machine/ml_website/main/software.php?project=lush" />
+<link r:resource="http://code.google.com/p/bnt/" />
+<link r:resource="http://code.google.com/p/mpoems-in-java/" />
+<link r:resource="http://www.blendedtechnologies.com/machine-learning-and-dragons-a-game/177" />
+<link r:resource="http://www.cs.cmu.edu/Groups/AI/areas/learning/systems/0.html" />
+<link r:resource="http://www.gmdhshell.com/" />
+<link r:resource="http://www.cambo-2010.com/" />
+<link r:resource="http://www.shogun-toolbox.org/" />
+<link r:resource="http://www3.ntu.edu.sg/home/egbhuang/" />
+<link r:resource="http://www.debellor.org/" />
+<link r:resource="http://ctuning.org/wiki/index.php/CTools:MilepostGCC" />
+<link r:resource="http://jmlr.csail.mit.edu/mloss/" />
+<link r:resource="http://mloss.org/software/view/66/" />
+<link r:resource="http://hunch.net/" />
+<link r:resource="http://chrisdonnan.com/blog/category/ai-machine-learning/" />
+<link r:resource="http://cogcomp.cs.illinois.edu/page/software_view/1" />
+<link r:resource="http://www.dmitry-kazakov.de/ada/fuzzy_ml_synopsis.htm" />
+<link r:resource="http://www.nec-labs.com/research/machine/ml_website/software.php" />
+<link r:resource="http://unlser1.unl.csi.cuny.edu/faqs/lisp-faq/part6/faq-doc-3.html" />
+<link r:resource="http://ti.arc.nasa.gov/tech/rse/synthesis-projects-applications/autoclass/" />
+<link r:resource="http://www.altredo.com/" />
+<link r:resource="http://www.esuli.it/mpboost" />
+<link r:resource="http://genie.sis.pitt.edu/" />
+<link r:resource="http://www.computerworld.com/s/article/108320/Self_Taught_Software_That_Learns_By_Doing?taxonomyId=018" />
+<link r:resource="http://meme.sdsc.edu/meme/metameme-intro.html" />
+<link r:resource="http://code.nasa.gov/" />
+<link r:resource="http://www.work.caltech.edu/~ling/lemga/index.html" />
+<link r:resource="http://zinnia.sourceforge.net/" />
+<link r:resource="http://www.mli.gmu.edu/integrated-learning-systems-for-education-and-research-emerald-sun-version" />
+<link r:resource="http://ptl.sys.virginia.edu/ptl/members/matthew-gerber/software" />
+<link r:resource="http://www.umiacs.umd.edu/labs/cvl/pirl/vikas/Current_research/scalable_machine_learning/scalable_machine_learning.html" />
+<link r:resource="http://sourceforge.net/directory/?q=Genetic+Algorithm" />
+<link r:resource="http://sourceforge.net/directory/?q=intelligent+software+agents" />
+<link r:resource="http://thinkaurelius.github.io/titan/" />
+<link r:resource="http://www.codeproject.com/Articles/14342/Designing-And-Implementing-A-Neural-Network-Librar" />
+<link r:resource="https://www.groksolutions.com/" />
+<link r:resource="http://qsmm.org/" />
+</topic>

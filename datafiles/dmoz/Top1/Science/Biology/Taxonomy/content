@@ -1,0 +1,85 @@
+<topic r:id="Top/Science/Biology/Taxonomy">
+<catid>805148</catid>
+<link r:resource="http://www.delta-intkey.com/" />
+<link r:resource="http://taxonomy.zoology.gla.ac.uk/" />
+<link r:resource="http://www.virtualherbarium.org/" />
+<link r:resource="http://www.bionet-intl.org/" />
+<link r:resource="http://www.naturalhistorymuseum.org.uk/science/" />
+<link r:resource="http://www.eti.uva.nl/" />
+<link r:resource="http://www.sel.barc.usda.gov/scalenet/glossary.htm" />
+<link r:resource="http://sn2000.taxonomy.nl/" />
+<link r:resource="http://www.ubio.org/" />
+<link r:resource="http://tolweb.org/tree/" />
+<link r:resource="http://www.itis.gov/" />
+<link r:resource="http://ontology.buffalo.edu/biomedical.htm" />
+<link r:resource="http://en.wikipedia.org/wiki/Taxonomy" />
+<link r:resource="http://news.nationalgeographic.com/news/2001/12/1204_hominin_id.html" />
+<link r:resource="http://www.ncbi.nlm.nih.gov/Taxonomy/" />
+<link r:resource="http://www.bernstein.naturkundemuseum-bw.de/odonata/glossary.htm" />
+<link r:resource="http://www.learnplantsnow.com/" />
+<link r:resource="http://projectlinnaeus.com/" />
+<link r:resource="http://www.ecbol.org/" />
+<link r:resource="http://www.aspt.net/" />
+</topic>
+<topic r:id="Top/Science/Biology/Taxonomy/Cladistics">
+<catid>805149</catid>
+<link r:resource="http://www.fossilnews.com/1996/cladistics.html" />
+<link r:resource="http://www.ucmp.berkeley.edu/clad/clad1.html" />
+<link r:resource="http://www.cladistics.org/" />
+<link r:resource="http://research.amnh.org/~siddall/methods/" />
+</topic>
+<topic r:id="Top/Science/Biology/Taxonomy/Cladistics/Publications">
+<catid>805150</catid>
+<pdf r:resource="http://www.amnh.org/learn/pd/fish_2/pdf/compleat_cladist.pdf"></pdf>
+</topic>
+<topic r:id="Top/Science/Biology/Taxonomy/Cladistics/Publications/Journals">
+<catid>805151</catid>
+<link r:resource="http://www.wiley.com/bw/journal.asp?ref=0748-3007" />
+</topic>
+<topic r:id="Top/Science/Biology/Taxonomy/Software">
+<catid>805152</catid>
+<link r:resource="http://taxonomy.zoology.gla.ac.uk/rod/treemap.html" />
+<link r:resource="http://taxonomy.zoology.gla.ac.uk/rod/treeview.html" />
+<link r:resource="http://taxonomy.zoology.gla.ac.uk/rod/cpw.html" />
+<link1 r:resource="http://evolution.genetics.washington.edu/phylip.html"></link1>
+<link r:resource="http://iubio.bio.indiana.edu/soft/molbio/java/apps/trees/" />
+<link r:resource="http://taxonomy.zoology.gla.ac.uk/rod/genetree/genetree.html" />
+<link r:resource="http://www.tree-puzzle.de/" />
+<link r:resource="http://www.gwu.edu/~clade/faculty/lipscomb/Nonadoc.html" />
+<link r:resource="http://pbil.univ-lyon1.fr/software/phylowin.html" />
+<link r:resource="http://abacus.gene.ucl.ac.uk/software/paml.html" />
+<link r:resource="http://mesquiteproject.org/mesquite/mesquite.html" />
+<link1 r:resource="http://paup.csit.fsu.edu/"></link1>
+<link r:resource="http://mrbayes.csit.fsu.edu/" />
+<link r:resource="http://www.cladistics.com/aboutNona.htm" />
+<link r:resource="http://ctap.inhs.uiuc.edu/dmitriev/" />
+<link r:resource="http://loco.biosci.arizona.edu/r8s/" />
+</topic>
+<topic r:id="Top/Science/Biology/Taxonomy/Software/Alignment_Software">
+<catid>805156</catid>
+<link r:resource="ftp://ncbi.nlm.nih.gov/pub/macaw/" />
+</topic>
+<topic r:id="Top/Science/Biology/Taxonomy/Software/Comparative_Methods">
+<catid>805155</catid>
+<link r:resource="http://www.bio.ic.ac.uk/evolve/software/macrocaic/index.html" />
+<link r:resource="http://www.bio.ic.ac.uk/evolve/software/caic/index.html" />
+</topic>
+<topic r:id="Top/Science/Biology/Taxonomy/Software/Directories">
+<catid>805154</catid>
+<link r:resource="http://ftp.bio.indiana.edu/IUBio-Software+Data/molbio/evolve/" />
+<link1 r:resource="http://evolution.genetics.washington.edu/phylip/software.html"></link1>
+<link r:resource="http://ftp.bio.indiana.edu/IUBio-Software+Data/molbio/mac/" />
+<link r:resource="http://www.pitt.edu/~csna/software.html" />
+<link r:resource="http://ib.berkeley.edu/labs/slatkin/software.html" />
+<link r:resource="http://www.cladistics.org/education.html" />
+</topic>
+<topic r:id="Top/Science/Biology/Taxonomy/Software/Taxonomic_Databases">
+<catid>805153</catid>
+<link r:resource="http://www.eti.uva.nl/" />
+<link r:resource="http://ds.dial.pipex.com/town/square/fd95/" />
+<link r:resource="http://www.paleotax.de/" />
+<link r:resource="http://www.zin.ru/projects/pickey" />
+<link r:resource="http://www.lucidcentral.com/" />
+<link r:resource="http://www.bgbm.fu-berlin.de/projects/DeltaAccess/" />
+<link r:resource="http://ucjeps.berkeley.edu/meacham/meka/" />
+</topic>

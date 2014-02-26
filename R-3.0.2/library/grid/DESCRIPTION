@@ -1,0 +1,12 @@
+Package: grid
+Version: 3.0.2
+Priority: base
+Title: The Grid Graphics Package
+Author: Paul Murrell <paul@stat.auckland.ac.nz>
+Maintainer: R Core Team <R-core@r-project.org>
+Description: A rewrite of the graphics layout capabilities, plus some
+  support for interaction
+Imports: grDevices
+Suggests: lattice
+License: Part of R 3.0.2
+Built: R 3.0.2; i686-pc-linux-gnu; 2014-01-27 10:21:31 UTC; unix

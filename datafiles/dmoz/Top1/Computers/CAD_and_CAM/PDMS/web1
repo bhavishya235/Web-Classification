@@ -1,0 +1,4122 @@
+====================<http://www.plantcon.dk/>====================
+<html><head><title>PDMS - Plant Design. Specialist in pdms. Macros for pdms</title>
+<META NAME="keywords" CONTENT="pdms, AVEVA Engineering, CAD Software, services, Plant Design, PEGS, Review, Design, cad, software, 3D, 2D, Plant, Process, Visualisation, Visualisation, Virtual, Reality Group, Virtual, Reality, Virtual, Reality, Centre Schematic, Intelligent, P&ID Diagram, Computer Widescreen, Integration, Consultancy Pipe Interface, program programming PWDS, translation graphics, exchange, CAD models program, EDB Teknik, Uddannelse, Training step, fun news gratis, download, 3d-plantdesign, data, computing, technical, support, drawing tegning, konstruktion, web search, websøgning, søgning, gratis, free downloads, PDMS pdms, review graphigs, free downloads, free macros, index webindex, Denmark, Danmark, plantcon, PLANTCON power, oil gas">
+<META NAME="description" CONTENT="Pdms - Plant design software specialist provide services, catalogue, specifications, macros and interface applications">
+<SCRIPT LANGUAGE="JavaScript" SRC="./dk/sogelib.js"></SCRIPT>
+</head>
+<!--
+PLANTCON is a pdms company, specialise in Plant Design software - pdms - from AVEVA Engineering Ltd.
+AVEVA Engineering is a world-leading developer and provider of process plant engineering IT solutions and services.
+The exploitation of IT as an enabler for business tools and consulting serimprovement is high on the agenda of many companies.
+AVEVA Engineering offers both the vices to enable its clients to maximise the
+efficiency of their engineering IT operations.
+We are AVEVA Engineering's partner for Denmark and responsible for product sales, consultancy services, PDMS training courses and integration services.
+We offer following services:
+Installation of Plant Design software and other AVEVA Engineering.
+Customisation and integration of AVEVA Engineering products in customer IT environments.
+Participation in project work together with PDMS customers - mainly for catalogue, specification and macro (programming) work.
+Internet task, e.g. building Search Functions in JavaScript
+Other general software and computer activities which do not conflict with our interests in AVEVA Engineering products
+PLANTCON A/S was founded on January 1st 1999 as a limited liability company.
+AVEVA Engineering, CAD, Software, services, Plant Design, PEGS, Review, Design, 3D, 2D, Plant, Process, Visualsation, Visualisation, Virtual Reality, Group Virtual Reality, Virtual, Reality, Centre, Schematic, Intelligent, P&ID, Diagram, Computer, Widescreen, Integration, Consultancy, Pipe, Interface, program, programming, PWDS, translation, graphics, exchange CAD models, program, EDB, Teknik, Uddannelse, Training, step, fun, news, gratis, download, 3d-plantdesign, data, computing, technical, support, drawing, tegning, konstruktion, web, search, websøgning, søgning, search, homepage, søg, søgemaskine, searchengine
+PDMS specialist provide services within process and power plant industry e.g. Catalogue, specifications, macros and interface applications
+-->
+<body bgcolor="#DDDDDD" link="#CC5500" vlink="#666666" text="#990001"  topmargin=0 leftmargin=0>
+<DIV ID="overDiv" STYLE="position:absolute; visibility:hide; z-index: 1;"></DIV>
+<SCRIPT LANGUAGE="JavaScript" SRC="./dk/overlib.js"></SCRIPT>
+<a name=top></a>
+<table border=0 cellspacing="0" cellpadding="0" >
+<tr>
+<td width=140 height=840 colspan=2 valign=top align=left>
+<map name="map391">
+<area shape="rect" coords="9,289,142,326" href="./uk/prodm.htm" TARGET="_top" onMouseOver="drc('We also offer some programs, catalogue and services. Some is for free - other for sales. Follow this link to see a list of products.','PLANTCON A/S sell software'); return true;" onMouseOut="nd(); return true;">
+<area shape="rect" coords="9,213,142,250" href="./de/index.htm" TARGET="_top" onMouseOver="drc('Wir erlauben uns, unsere dänische PDMS - Firma, PLANTCON A/S, zu präsentieren.','PLANTCON A/S'); return true;" onMouseOut="nd(); return true;">
+<area shape="rect" coords="9,115,142,152" href="./dk/index.htm" TARGET="_top" onMouseOver="drc('Den danske version af vor hjemmeside indeholder oplysninger om et af verdens absolut bedste systemer til at styre process-data og komponenter. ','PLANTCON A/S'); return true;" onMouseOut="nd(); return true;">
+<area shape="rect" coords="9,164,142,201" href="./uk/index.htm" TARGET="_top" onMouseOver="drc('PLANTCON A/S welcomes you on this homepage. PLANTCON is a company specialise in Plant Design software from AVEVA Engineering Ltd, Cambridge UK. We offer consultancy services, PDMS training courses and integration services.','PLANTCON A/S'); return true;" onMouseOut="nd(); return true;">
+</map>
+<img width=142 height=840 border=0 src="./img/forside.gif" usemap="#map391"></td>
+<td width="660" align="center" HEIGHT="840">
+<table BORDER=0 cellspacing="0" cellpadding="0" COLS=1 WIDTH="660" HEIGHT="144" >
+<tr><td align="center" HEIGHT="42">
+<font face="Georgia" color=#990001 size=1><br>
+<img width=660 height=3 border=0 src="./img/deli.jpg" ALT="Pdms AVEVA Engineering CAD Software services Plant Design PEGS Review Design 3D 2D Plant Process Visualisation Visualisation Virtual Reality Group Virtual Reality Virtual Reality Centre Schematic Intelligent P&ID Diagram Computer Widescreen Integration Consultancy Pipe Interface program programming PWDS translation graphics exchange CAD models program EDB Teknik Uddannelse Training step fun news gratis download 3d-plantdesign data computing technical support drawing tegning konstruktion web search websøgning søgning gratis free PDMS pdms">
+</td></tr><tr><td align="center" HEIGHT="29">
+<a class="menu" style="text-decoration:none" href="./dk/index.htm" TARGET="_top" onMouseOver="drc('PLANTCON A/S er specialister i 3D Plant Design software fra AVEVA Engineering Ltd, Cambridge UK og AVEVA Engineering Partner. Vi var i mere end 10 år (1998-2009)  Dansk salgsaagent, support- og tr&aelig;ningscenter for AVEVA Engineering Ltd.<p>PLANTCON is a company, specialise in Plant Design software - pdms - from AVEVA Engineering Ltd','Plant Design'); return true;" onMouseOut="nd(); return true;"><font face="Georgia" color=#990001 size=5><b>PLANTCON A/S</b></a>
+</td></tr><tr><td align="center" HEIGHT="3">
+<img width=660 height=3 border=0 src="./img/deli.jpg" ALT="Pdms AVEVA Engineering CAD Software services Plant Design PEGS Review Design 3D 2D Plant Process Visualisation Visualisation Virtual Reality Group Virtual Reality Virtual Reality Centre Schematic Intelligent P&ID Diagram Computer Widescreen Integration Consultancy Pipe Interface program programming PWDS translation graphics exchange CAD models program EDB Teknik Uddannelse Training step fun news gratis download 3d-plantdesign data computing technical support drawing tegning konstruktion web search websøgning søgning gratis free PDMS pdms">
+</td></tr><tr><td align="center" HEIGHT="67">
+<a class="menu" style="text-decoration:none" href="./dk/index.htm" TARGET="_top" onMouseOver="drc('PLANTCON A/S er specialister i 3D Plant Design software fra AVEVA Engineering Ltd, Cambridge UK og AVEVA Engineering Partner. Vi var i mere end 10 år (1998-2009)  Dansk salgsaagent, support- og tr&aelig;ningscenter for AVEVA Engineering Ltd.<p>PLANTCON is a company, specialise in Plant Design software - pdms - from AVEVA Engineering Ltd','Plant Design'); return true;" onMouseOut="nd(); return true;"><font face="Georgia" color=#990001 size=6><b>Plant Design</a></font></b>
+</td></tr><tr><td align="center" HEIGHT="526">
+<script language=javascript>
+var pnum = new Array ("vinter1.jpg", "vinter2.jpg", "vinter3.jpg", "vinter4.jpg",
+ "feb1.jpg", "feb2.jpg", "feb3.jpg", "feb4.jpg",
+ "mar1.jpg", "mar2.jpg", "mar3.jpg", "mar4.jpg",
+ "apr1.jpg", "apr2.jpg", "apr3.jpg", "apr4.jpg",
+ "maj1.jpg", "maj2.jpg", "maj3.jpg", "maj4.jpg",
+ "jun1.jpg", "jun2.jpg", "jun3.jpg", "jun4.jpg",
+ "jul1.jpg", "jul2.jpg", "jul3.jpg", "jul4.jpg",
+ "aug1.jpg", "aug2.jpg", "aug3.jpg", "aug4.jpg",
+ "sep1.jpg", "sep2.jpg", "sep3.jpg", "sep4.jpg",
+ "okt1.jpg", "okt2.jpg", "okt3.jpg", "okt4.jpg",
+ "nov1.jpg", "nov2.jpg", "nov3.jpg", "nov4.jpg",
+ "dec1.jpg", "dec2.jpg", "dec3.jpg", "dec4.jpg")
+
+var nu = new Date
+var nummerm = nu.getMonth()+1
+var nummer=Math.round(Math.random()*3)-4+nummerm*4
+
+if(nummer>47){ 
+nummer = 47 }
+
+var billede="<img src=./img/"+pnum[nummer]+" Alt='Pictures from Finland, our surroundings - and just something else than Plant Design.' width=480 height=320 border=0>" 
+
+document.write('<a href="./uk/prodm.htm" TARGET="_top" border="0">')
+document.write(billede)
+document.write("</a>")
+</script>
+<br><center>
+<p>
+<center>
+<table border=0 cellspacing=10 cols=2 width="580">
+<tr>
+<td bgcolor="#FFFFFF" width="250" height="26"><center><a class="menu" style="text-decoration:none" href="uk/platocatm.htm" webstripperlinkwas="./dk/custdkm.htm" target="_top" onmouseover="drc('<li>PLANTCON A/S tilbyder at udarbejde PDMS macroer og programmer. Som en smagsprøve kan en række macroer gratis downloades fra hjemmesiden.</li><li>We can offer lot of macros and you can find some for free on this homepage.</li>','Free Programs'); return true;" onmouseout="nd(); return true;"><font face="Georgia" color=#FF0000 size=4>PDMS Design to PARAGON</a></center></td>
+<td bgcolor="#FFFFFF" width="250" height="26"><center><a class="menu" style="text-decoration:none" href="uk/platocatm.htm" webstripperlinkwas="./uk/custdkm.htm" target="_top" onmouseover="drc('<li>PLANTCON A/S tilbyder at udarbejde PDMS macroer og programmer. Som en smagsprøve kan en række macroer gratis downloades fra hjemmesiden.</li><li>We can offer lot of macros and you can find some for free on this homepage.</li>','Free Programs'); return true;" onmouseout="nd(); return true;"><font face="Georgia" color=#FF0000 size=4>NEW! Convert to catalogue</a></center></td>
+</tr>
+<tr>
+<td bgcolor="#FFCC44" width="250" height="26"><center><a class="menu" style="text-decoration:none" href="dk/custdkm.htm" webstripperlinkwas="./dk/custdkm.htm" target="_top" onmouseover="drc('<li>PLANTCON A/S tilbyder at udarbejde PDMS macroer og programmer. Som en smagsprøve kan en række macroer gratis downloades fra hjemmesiden.</li><li>We can offer lot of macros and you can find some for free on this homepage.</li>','Free Programs'); return true;" onmouseout="nd(); return true;"><font face="Georgia" color=#990001 size=4>Gratis PDMS macroer</a></center></td>
+<td bgcolor="#FFCC44" width="250" height="26"><center><a class="menu" style="text-decoration:none" href="uk/custdkm.htm" webstripperlinkwas="./uk/custdkm.htm" target="_top" onmouseover="drc('<li>PLANTCON A/S tilbyder at udarbejde PDMS macroer og programmer. Som en smagsprøve kan en række macroer gratis downloades fra hjemmesiden.</li><li>We can offer lot of macros and you can find some for free on this homepage.</li>','Free Programs'); return true;" onmouseout="nd(); return true;"><font face="Georgia" color=#990001 size=4>   Free software   </a></center></td>
+</tr>
+<tr>
+<td bgcolor="#FFCC44" width="250" height="26"><center><a class="menu" style="text-decoration:none" href="dk/prodm.htm" webstripperlinkwas="./dk/prodm.htm" target="_top" onmouseover="drc('PLANTCON A/S tilbyder Plant design systemer samt egen udviklede programmer','Produkter'); return true;" onmouseout="nd(); return true;"><font face="Georgia" color=#990001 size=4>Plantcon produkter</a></center></td>
+<td bgcolor="#FFCC44" width="250" height="26"><center><a class="menu" style="text-decoration:none" href="uk/prodm.htm" webstripperlinkwas="./uk/prodm.htm" target="_top" onmouseover="drc('PLANTCON A/S offer building macros and programs for making PDMS even more efficient.','Products'); return true;" onmouseout="nd(); return true;"><font face="Georgia" color=#990001 size=4>Plantcon Products</a></center></td>
+</tr>
+<tr>
+<td bgcolor="#FFCC44" width="250" height="26"><center><a class="menu" style="text-decoration:none" href="http://www.aveva.com/en/Products_and_Services.aspx" webstripperlinkwas="http://www.aveva.com/en/Products_and_Services.aspx" target="_top" onmouseover="drc('AVEVA produkter'); return true;" onmouseout="nd(); return true;"><font face="Georgia" color=#990001 size=4>AVEVA Engineering software</a></center></td>
+<td bgcolor="#FFCC44" width="250" height="26"><center><a class="menu" style="text-decoration:none" href="http://www.aveva.com/en/Products_and_Services.aspx" webstripperlinkwas="http://www.aveva.com/en/Products_and_Services.aspx" target="_top" onmouseover="drc('AVEVA Plant Design software from AVEVA Engineering Ltd.','AVEVA Engineering software'); return true;" onmouseout="nd(); return true;"><font face="Georgia" color=#990001 size=4>AVEVA Engineering software</a></center></td>
+</tr>
+<tr>
+<td bgcolor="#FFCC44" width="250" height="26"><center><a class="menu" style="text-decoration:none" href="dk/nyhederm.htm" webstripperlinkwas="./dk/nyhederm.htm" target="_top" onmouseover="drc('Seneste nyt om PLANTCON og AVEVA Engineering','Nyheder'); return true;" onmouseout="nd(); return true;"><font face="Georgia" color=#990001 size=4>Nyheder</a></center></td>
+<td bgcolor="#FFCC44" width="250" height="26"><center><a class="menu" style="text-decoration:none" href="uk/newsm.htm" webstripperlinkwas="./uk/newsm.htm" target="_top" onmouseover="drc('Latest news about us and AVEVA Engineering','Free Programs'); return true;" onmouseout="nd(); return true;"><font face="Georgia" color=#990001 size=4>News</a></center></td>
+</tr>
+</table>
+</TD></TR><tr><td height="40">
+<center><font size="3"><b>PLANTCON A/S --- Adelvej 80 --- DK-7000 Fredericia</b></font><br><font size="3"><b>Tel: +45 7622 3000</b></font> --- <font size="3"><b>Fax: +45 7622 3001</b>
+</CENTER><p><center>
+<table border=0 cellspacing=10 cols=3 width="580">
+</td></tr><tr><td bgcolor="#DDDDDD" width="117" height="85"><center><a class="menu" style="text-decoration:none" href="uk/ffallm.htm" webstripperlinkwas="./uk/ffallm.htm" target="_top" onmouseover="drc('Advance Pipe Design Validation','Pipe validation'); return true;" onmouseout="nd(); return true;"><font face="Georgia" color=#990001 size=4><img src="img/pval.jpg" webstripperlinkwas="./img/pval.jpg" width="117" height"="85" border="0"></a>
+</td><td><td bgcolor="#DDDDDD" width="227" height="85" border=0><center><a class="menu" style="text-decoration:none" border=0 href="uk/sitem.htm" webstripperlinkwas="./uk/sitem.htm" target="_top" onmouseover="drc('Survey in PDMS','Survey'); return true;" onmouseout="nd(); return true;"><img src="img/smap0.jpg" webstripperlinkwas="./img/smap0.jpg" width="227" height"="85" border="0"></a>
+</td><td><td bgcolor="#DDDDDD" width="124" height="85"><center><a class="menu" style="text-decoration:none" href="uk/misom.htm" webstripperlinkwas="./uk/misom.htm" target="_top" onmouseover="drc('PLANTCON - Isometric piping Drawing','ISO'); return true;" onmouseout="nd(); return true;"><font face="Georgia" color=#990001 size=4><img src="img/isos.jpg" webstripperlinkwas="./img/isos.jpg" width="124" height"="85" border="0"></a>
+</td></tr></table></center></table></TR></td></table>
+</table>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.aveva.com/>====================
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <link rel="icon" type="image/png" href="/images/favicon.png" />
+	<title>AVEVA | Engineering software for the Plant and Marine industries</title>
+    <link rel="stylesheet" href="/css/layout.css" type="text/css" media="all" charset="utf-8" />
+<link rel="stylesheet" href="/css/tc.css" type="text/css" media="all" charset="utf-8" />
+<link rel="stylesheet" href="/css/jquery/jquery-ui-1.9.0.custom.css" type="text/css" media="all" charset="utf-8" />
+<link rel="stylesheet" href="/css/screen/flexslider.css" type="text/css" media="all" charset="utf-8" />
+
+<!--[if IE 6]><link rel="stylesheet" href="/css/ie6.css" type="text/css" media="all" charset="utf-8" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/css/ie7.css" type="text/css" media="all" charset="utf-8" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" href="/css/ie8.css" type="text/css" media="all" charset="utf-8" /><![endif]-->
+<!--link rel="stylesheet" href="/css/print/print_base.css" type="text/css" media="print" charset="utf-8" / -->
+
+<link href="http://www.aveva.com/rss_feeds/aveva_jobs_feed.aspx" rel="alternate" type="application/rss+xml" title="AVEVA Jobs RSS Feed" />
+<link href="http://www.aveva.com/rss_feeds/aveva_news_feed.aspx" rel="alternate" type="application/rss+xml" title="AVEVA News RSS Feed" />
+<link href="http://www.aveva.com/rss_feeds/aveva_events_feed.aspx" rel="alternate" type="application/rss+xml" title="AVEVA Events RSS Feed" />
+
+
+    <script type="text/javascript" charset="utf-8" src="/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="/js/easySlider1.7.js"></script>
+<script type="text/javascript" charset="utf-8" src="/js/jquery.fancybox.js"></script>
+<script type="text/javascript" charset="utf-8" src="/js/jquery.fancybox-media.js"></script>
+<script type="text/javascript" charset="utf-8" src="/js/jquery.masonry.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="/js/global.js"></script>
+<script type="text/javascript" charset="utf-8" src="/js/swfobject.js"></script>
+<!--[if IE 6]><script type="text/javascript" charset="utf-8" src="/js/ie6tabfix.js"></script><![endif]-->
+<!--[if IE 7]><script type="text/javascript" charset="utf-8" src="/js/ie7navifix.js"></script><![endif]-->
+<!-- Tracking internal pdf links and external link with GA -->
+<script type="text/javascript" src="/~/media/Microsites/LFM/Scripts/tracking-pdf-external-links/internal-pdf-downloads-gatag.ashx"></script>
+<!-- Google Analytics code -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1461597-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- End of Analytics code -->
+
+
+    <meta name="keywords" content="engineering software, design software, 3D design, IPE, OIM, PDMS" /><meta name="description" content="Engineering &amp; Design software solutions for process plant, power generation, shipbuilding and offshore industries." />
+    
+
+<script src="/js/jquery.bgiframe.js" type="text/javascript"></script>
+<script src="/js/jquery.cookies.js" type="text/javascript"></script>
+
+    <script type="text/javascript" charset="utf-8" src="/js/date.js"></script>
+    
+    <script type="text/javascript" charset="utf-8" src="/js/jquery.flexslider-min.js"></script>
+	<script type="text/javascript" charset="utf-8" src="/js/slides.min.jquery.js"></script>
+    <script type="text/javascript" charset="utf-8" src="/js/jquery-ui-1.9.0.custom.min.js"></script>
+    
+  
+    <link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css" />
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            if (window.addthis_config != null && window.addthis_config != undefined) {
+                window.addthis_config.data_use_cookies = false;
+            }
+            else {
+                window.addthis_config = { data_use_cookies: false };
+            }
+        });
+        
+        
+    </script>
+
+    
+    
+
+
+</head>
+<body>
+<form name="ctl06" method="post" action="/" id="ctl06">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODIyNjEwMzA1D2QWBgIEEGRkFgJmDxYCHgRUZXh0ZWQCBw9kFgJmD2QWAmYPZBYCAgEPFgIfAGVkAggQZGQWCAIBD2QWAmYPZBYCZg9kFgoCARAWAh4JU0l0ZW1HdWlkKClYU3lzdGVtLkd1aWQsIG1zY29ybGliLCBWZXJzaW9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OSQ0NjJiMzEzMS00YjYzLTQwMzYtYjBiNS0xZTA5M2QxZmY0NWJkZAIDEBYCHwEoKwQkNDYyYjMxMzEtNGI2My00MDM2LWIwYjUtMWUwOTNkMWZmNDViZGQCBQ8WAh8ABQVDbG9zZWQCBxAWAh8BKCsEJDQ2MmIzMTMxLTRiNjMtNDAzNi1iMGI1LTFlMDkzZDFmZjQ1YmRkAgkQFgIfASgrBCQ0NjJiMzEzMS00YjYzLTQwMzYtYjBiNS0xZTA5M2QxZmY0NWJkZAIFD2QWAmYPZBYCZhBkZBYGZg8WAh8ABQMyNDVkAgEPFgIeC18hSXRlbUNvdW50AgoWFGYPZBYEZg8VAQBkAgEQFgIfASgrBCRjNDhjN2NkYy01MTVhLTRiOTAtOGQ2ZC02OGNiZTQ1MTY5OGVkZAIBD2QWBGYPFQENZGlzcGxheTpub25lO2QCARAWAh8BKCsEJGI2Mzg5MWUwLTU5Y2YtNDZlOC05ZjE3LTBkZWZiODkwN2Q4ZmRkAgIPZBYEZg8VAQ1kaXNwbGF5Om5vbmU7ZAIBEBYCHwEoKwQkOTMzOWFlZWUtNjYxOS00ZmUzLWIwNTAtZWE5NWE3MmE5NmFkZGQCAw9kFgRmDxUBDWRpc3BsYXk6bm9uZTtkAgEQFgIfASgrBCRmZjQxYWRhMy02MTE0LTQwODAtOTcyNi02MGM0YzA1NThmOGNkZAIED2QWBGYPFQENZGlzcGxheTpub25lO2QCARAWAh8BKCsEJDkzNjVlZDBmLTRmOTQtNDZkMS04MDJhLTE1OTU0NjQyZjlmMWRkAgUPZBYEZg8VAQ1kaXNwbGF5Om5vbmU7ZAIBEBYCHwEoKwQkYTFjMjc3ZDUtYjI1ZS00ZmNjLTg4MTYtZDUxMWMwZDg4YjZkZGQCBg9kFgRmDxUBDWRpc3BsYXk6bm9uZTtkAgEQFgIfASgrBCQ5ZTQ3YjAzZi0yZmViLTRlZWYtOGE0Mi1iNzUyYWQxMmU1NmRkZAIHD2QWBGYPFQENZGlzcGxheTpub25lO2QCARAWAh8BKCsEJDBiOGIxNzM3LTdjZDQtNDFiZS05NTBkLWU0MjExN2E5YjBiOWRkAggPZBYEZg8VAQ1kaXNwbGF5Om5vbmU7ZAIBEBYCHwEoKwQkYjA0NDVkYWQtNjJiYi00NjgwLWE2YWYtYjM5MmRmZjhkNTZiZGQCCQ9kFgRmDxUBDWRpc3BsYXk6bm9uZTtkAgEQFgIfASgrBCQ4MmRiOTk5Ni0xN2NjLTRlNTMtOWJkZS0zOWY1NjcwODY5ZjlkZAICDxYCHgdWaXNpYmxlZxYEAgEPFgIfAgIBFgJmD2QWAgIBEBYCHwEoKwQkOGFiZWM4NzktMWViNi00Y2QwLTg0NjMtYjRiZTZmOTkwNTgxZBYCZg9kFgICARAWAh8BKCsEJDhhYmVjODc5LTFlYjYtNGNkMC04NDYzLWI0YmU2Zjk5MDU4MWRkAgIPFgIfAgIGFgwCAQ9kFgICARAWAh8BKCsEJDc1ZWVkNDkxLTYwZTctNDc5Ny1hZjFiLTc3Y2U0MTlkZDY3ZmQWAmYPZBYCZg9kFgICARAWAh8BKCsEJDc1ZWVkNDkxLTYwZTctNDc5Ny1hZjFiLTc3Y2U0MTlkZDY3ZmRkAgIPZBYCAgEQFgIfASgrBCQxZjI2ZTc3Yi02ZTkzLTQ5NzYtOWUzNi1iZDM2MWYzN2ZlMWVkFgJmD2QWAmYPZBYCAgEQFgIfASgrBCQxZjI2ZTc3Yi02ZTkzLTQ5NzYtOWUzNi1iZDM2MWYzN2ZlMWVkZAIDD2QWAgIBEBYCHwEoKwQkMDY2NzVjNjQtNDgwZS00ZTU0LWFiOWYtZTAwNzBjMjI5MWMwZBYCZg9kFgJmD2QWAgIBEBYCHwEoKwQkMDY2NzVjNjQtNDgwZS00ZTU0LWFiOWYtZTAwNzBjMjI5MWMwZGQCBA9kFgICARAWAh8BKCsEJDJjOGJhM2IzLTU3OWMtNDc5Yy1iNjcxLWMzNmY1MjVhZmZjOGQWAmYPZBYCZg9kFgICARAWAh8BKCsEJDJjOGJhM2IzLTU3OWMtNDc5Yy1iNjcxLWMzNmY1MjVhZmZjOGRkAgUPZBYCAgEQFgIfASgrBCQ1NTA3MmU5NS01NzJiLTQwZGItYTg5Ni00MDJlYTkzOTBhZmJkFgJmD2QWAmYPZBYCAgEQFgIfASgrBCQ1NTA3MmU5NS01NzJiLTQwZGItYTg5Ni00MDJlYTkzOTBhZmJkZAIGD2QWAgIBEBYCHwEoKwQkYTRkZmI2MGUtNDJkMS00YjQ0LWI2NDktODk2NmVkMjExNjg1ZBYCZg9kFgJmD2QWAgIBEBYCHwEoKwQkYTRkZmI2MGUtNDJkMS00YjQ0LWI2NDktODk2NmVkMjExNjg1ZGQCCQ9kFgJmD2QWAmYPZBYEAgEPFgIfAAUeY2xhc3M9ImNvbnRlbnQtbGluZXMgY2xlYXJmaXgiZAIHDxYCHwAFDGlkPSJsYW5kaW5nImQCDQ9kFgJmD2QWAmYPZBYGAgEPFgIfAAUTQ29va2llIFByZWZlcmVuY2VzOmQCAw8WAh8ABTdZb3UgYXJlIGN1cnJlbnRseSBhY2NlcHRpbmcgYWxsIGNvb2tpZXMgZnJvbSB0aGlzIHNpdGUuZAIFDw8WAh8ABSRDbGljayBoZXJlIHRvIHJlc2V0IHlvdXIgcHJlZmVyZW5jZXNkZGQEA383ShllFOZPCDR6BykGpkR62A==" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var shouldFade_c3e89e24cc324a9fbaa0678ea39869db = true
+    $(document).ready(function () {
+        var jSlides = $('.slides-c3e89e24cc324a9fbaa0678ea39869db');
+
+        if(jSlides.slides) {
+            jSlides.slides({
+                play: 5000, pause: 2500, generateNextPrev: true, hoverPause: true, effect: 'fade'
+            });
+        }
+    });
+                //]]>
+</script>
+
+<div class="page_margins">
+	<div class="page">
+        
+        
+    <div style="z-index: 10; position: relative;">
+    <div class="tcCookiesDialogWrapper" style="display: none;">
+		<div class="tcCookiesCtaText">
+            <h2 class="blue">Use of Cookies on this website</h2>
+            
+            <p>AVEVA would like to place cookies on your computer to help us make this website better. To find out more about the cookies, see our <a href="/en/Privacy_Policy.aspx">Privacy Policy</a> page.</p>
+        </div>
+
+        <div class="tcCookieCloseButtonWrapper nonjshidden">
+            <button class="tcCookiesCloseButton" onclick="jQuery('.tcCookiesDialogWrapper').hide(); return false;">Close</button>
+        </div>
+
+        
+	</div>
+	</div>
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            jQuery('.tcCookiesDialogWrapper').show();
+            jQuery('.tcCookiesDialogWrapper').bgiframe();
+        });
+    </script>
+    <noscript>
+
+        <div class="tcCookiesMessageWrapperTop"></div>
+        <div class="tcCookiesMessageWrapper">
+		    <div class="tcCookiesCtaText">
+                <h2 class="blue">Use of Cookies on this website</h2>
+            
+                <p>AVEVA would like to place cookies on your computer to help us make this website better. To find out more about the cookies, see our <a href="/en/Privacy_Policy.aspx">Privacy Policy</a> page.</p>
+            </div>
+
+            
+	    </div>
+        <div class="tcCookiesMessageWrapperBottom"></div>
+    </noscript>
+
+
+
+
+		<!-- begin: #header -->
+		
+
+<div id="countrys" class="clearfix">
+    <a title="AVEVA Global Home Page" class="global-home" href="/en.aspx?sc_lang=en">Global Home</a><div class="countrys-list"><ul id="items-1"><li><a title="English" href="/en.aspx?sc_lang=en">English (en-EN)</a></li><li><a title="Brazil (pt-BR)" href="/en.aspx?sc_lang=pt-BR">Portuguese (pt-BR)</a></li></ul><ul id="items-2"><li><a title="Chinese (zh-CN)" href="/en.aspx?sc_lang=zh-CN">Chinese (zh-CN)</a></li><li><a title="Latin America (es-MX)" href="/en.aspx?sc_lang=es-MX">Spanish (es-MX)</a></li></ul><ul id="items-3"><li><a title="French (fr-FR)" href="/en.aspx?sc_lang=fr-FR">French (fr-FR)</a></li><li><a title="German (de-DE)" href="/en.aspx?sc_lang=de-DE">German (de-DE)</a></li></ul><ul id="items-4"><li><a title="Spanish (es-ES)" href="/en.aspx?sc_lang=es-ES">Spanish (es-ES)</a></li><li><a title="Korean (ko-KR)" href="/en.aspx?sc_lang=ko-KR">Korean (ko-KR)</a></li></ul><ul id="items-5"><li><a title="Russian (ru-RU)" href="/en.aspx?sc_lang=ru-RU">Russian (ru-RU)</a></li></ul><div class="clear"></div><div class="clear"></div><div class="clear"></div><div class="clear"></div><div class="clear"></div></div>
+</div>
+<div id="header">
+    <div class="wrap">
+
+        <a href="http://www.aveva.com/en.aspx" id="logo">AVEVA</a>
+        <div class="print-logo"><img src="http://www.aveva.com/images/aveva_logo.png" /></div>
+                
+        <div id="login"><a title="AVEVA WORLD" class="aveva-world" href="/en/About_AVEVA/AVEVA_World.aspx">AVEVA WORLD</a><a class="aveva-countrys" href="#"><span><em>EN | </em>Change Language</span></a></div>
+                
+        
+
+<div id="quick-search">
+    <script>
+        (function () {
+            var cx = '004085358937423836264:vvapdvykqhw';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                '//www.google.com/cse/cse.js?&cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+        })();
+
+        $(document).ready(function () {
+            var searchStr = 'Search';
+
+            function pollSiteSearch(count) {
+                if ($('#gsc-i-id1')[0] === undefined && count < 100) {
+                    setTimeout(function(){ pollSiteSearch(++count) }, 100);
+                } else if (!$('#gsc-i-id1').is(":focus")){
+                    $('#gsc-i-id1').attr("value", searchStr);
+                    $('#gsc-i-id1').attr("title", searchStr);
+                }
+            } pollSiteSearch(0);
+
+            $('#quick-search').on('blur', '#gsc-i-id1', function () {
+                if ($('#gsc-i-id1').attr("value") == "") {
+                    $('#gsc-i-id1').attr("value", searchStr);
+                }
+            });
+            $('#quick-search').on('focus', '#gsc-i-id1', function () {
+                if ($('#gsc-i-id1').attr("value") == searchStr) {
+                    $('#gsc-i-id1').attr("value", "");
+                }
+            });
+            $('#quick-search').on('DOMSubtreeModified', function (e) {
+                if ($('.gsc-results-wrapper-overlay').css("visibility") == "visible") {
+                    $('input').blur();
+                }
+            });
+            
+        });
+    </script>
+    <style>
+        #header #quick-search .gsc-above-wrapper-area-container {
+            background: url(/~/media/4ACB2F8A45D14499AAEC9FB7DB903CB9.ashx?lang=en) no-repeat;
+            background-position: 50% 7px;
+            height: 55px;
+        }
+    </style>
+    <gcse:search linktarget="_parent"></gcse:search>
+</div><!--end: quick-search -->
+                
+        <ul id="nav" class="clearfix"><li><a href="/en/About_AVEVA.aspx">About AVEVA</a><div class="dd"><ul><li><a href="/en/About_AVEVA/Philosophy.aspx">Philosophy</a></li><li><a href="/en/About_AVEVA/AVEVA_World.aspx">AVEVA World</a></li><li><a href="/en/About_AVEVA/Careers.aspx">Careers</a></li><li><a href="/en/About_AVEVA/Graduates.aspx">Graduate Programme</a></li><li><a href="/en/About_AVEVA/Partners.aspx">Global Partner Network</a></li><li><a href="/en/About_AVEVA/Awards.aspx">AVEVA Awards</a></li><li><a href="/en/About_AVEVA/Industry_Affiliations.aspx">Industry Affiliations</a></li><li class="no-border"><a href="/en/About_AVEVA/History.aspx">AVEVA Milestones</a></li></ul></div></li><li><a href="/en/Products_and_Services.aspx">Products &amp; Services</a><div class="dd"><ul><li><a href="/en/Products_and_Services/AVEVA_for_Plant.aspx">Plant Solutions</a></li><li><a href="/en/Products_and_Services/AVEVA_for_Marine.aspx">Marine Solutions</a></li><li><a href="/en/Products_and_Services/Enterprise_Solutions.aspx">Enterprise Solutions</a></li><li><a href="/en/Products_and_Services/Product_Finder.aspx">Product Finder</a></li><li><a href="/en/Products_and_Services/Training.aspx">Product Training</a></li><li><a href="/en/Products_and_Services/Product_Support.aspx">Product Support</a></li><li class="no-border"><a href="/en/Products_and_Services/Product_Licensing.aspx">Product Licensing</a></li></ul></div></li><li><a href="/en/Industry_Sectors.aspx">Industry Sectors</a><div class="dd"><ul><li><a href="/en/Industry_Sectors/Oil_and_Gas.aspx">Oil & Gas</a></li><li><a href="/en/Industry_Sectors/Marine.aspx">Marine & Offshore</a></li><li><a href="/en/Industry_Sectors/Power.aspx">Power</a></li><li><a href="/en/Industry_Sectors/Chemical.aspx">Chemicals</a></li><li><a href="/en/Industry_Sectors/Mining.aspx">Mining & Minerals</a></li><li class="no-border"><a href="/en/Industry_Sectors/Pulp_and_Paper.aspx">Pulp & Paper</a></li></ul></div></li><li><a href="/en/News-Events.aspx">News &amp; Events</a><div class="dd"><ul><li><a href="/en/News-Events/Press-Releases.aspx">Press Releases</a></li><li><a href="/en/News-Events/Press_Contacts.aspx">Press Contacts</a></li><li class="no-border"><a href="/en/News-Events/Events.aspx">Events</a></li></ul></div></li><li><a href="/en/Media-Centre.aspx">Publications</a><div class="dd"><ul><li><a href="/en/Media-Centre/AWM.aspx">AVEVA World Magazine</a></li><li><a href="/en/Media-Centre/Brochures-Solution.aspx">Solution Brochures</a></li><li><a href="/en/Media-Centre/Brochures-Product.aspx">Product Brochures</a></li><li><a href="/en/Media-Centre/Business_Papers.aspx">Business Papers</a></li><li><a href="/en/Media-Centre/Case_Studies.aspx">Case Studies</a></li><li><a href="/en/Media-Centre/Videos.aspx">AVEVA Videos</a></li><li class="no-border"><a href="/en/Media-Centre/AVEVA_in_the_Media.aspx">AVEVA in the Media</a></li></ul></div></li><li><a href="/en/Investors.aspx">Investors</a><div class="dd"><ul><li><a href="/en/Investors/Investor-Overview.aspx">Investor Overview</a></li><li><a href="/en/Investors/Results-Centre.aspx">Results Centre</a></li><li><a href="/en/Investors/Key-Financial-Information.aspx">Key Financial Information</a></li><li><a href="/en/Investors/Financial-Reports.aspx">Financial Reports</a></li><li><a href="/en/Investors/Presentations.aspx">Presentations</a></li><li><a href="/en/Investors/Shareholder_Information.aspx">Share Information</a></li><li><a href="/en/Investors/Interactive-Factsheet.aspx">Interactive Factsheet</a></li><li><a href="/en/Investors/Upcoming-Events.aspx">Upcoming Events</a></li><li><a href="/en/Investors/Regulatory_News.aspx">Regulatory News</a></li><li><a href="/en/Investors/Corporate_Governance.aspx">Corporate Governance</a></li><li><a href="/en/Investors/Alerts.aspx">Alerts</a></li><li class="no-border"><a href="/en/Investors/Investor_Contacts.aspx">IR Contacts</a></li></ul></div></li><li><a href="/en/Contact.aspx">Contact</a><div class="dd"><ul><li class="no-border"><a href="/en/Contact/Worldwide_Offices.aspx">Worldwide Offices</a></li></ul></div></li></ul>
+    </div>
+</div>
+		<!-- end: #header -->
+		
+		<!-- begin: #main -->
+		<div id="main">
+            
+<script type="text/javascript">
+    $(document).ready(function () {
+        var slider = $('.slides-c3e89e24cc324a9fbaa0678ea39869db');
+
+        if (slider !== undefined && slider !== null) {
+
+            if (!($.browser.msie) || ($.browser.msie && parseInt($.browser.version) > 8)) {
+                /*fadeOutControls();*/
+                attachFadesc3e89e24cc324a9fbaa0678ea39869db(slider);
+            }
+            else {
+                attachHideShowc3e89e24cc324a9fbaa0678ea39869db(slider);
+                slider.mouseout();
+            }
+
+            $('.next, .prev').click(function () {
+                $(this).blur();
+            });
+
+            var intervalId = '';
+
+            var sliderOffset = slider.offset();
+
+            var sliderLeft = sliderOffset.left;
+
+            var sliderTop = sliderOffset.top;
+
+            var sliderWidth = slider.width();
+
+            var sliderRight = sliderLeft + sliderWidth;
+
+            var sliderHeight = slider.height();
+
+            var sliderBottom = sliderTop + sliderHeight;
+
+            var pause = false;
+
+            $(document).mousemove(function (event) {
+                if ((event.pageX > sliderLeft && event.pageX < sliderRight) && (event.pageY > sliderTop && event.pageY < sliderTop + sliderHeight)) {
+                    clearInterval(intervalId);
+                    clearInterval(slider.data('interval'));
+                    intervalId = setInterval(function () { clearInterval(slider.data('interval')); }, 500);
+                    pause = true;
+                }
+                else {
+                    if (pause) {
+                        pause = false;
+                        clearInterval(intervalId);
+                        $('.slides_control > div').mouseout();
+                    }
+                }
+            });
+
+            var overlay = $('.sliderOverlay');
+
+            /* Show navigation overlay if links not displayed */
+            if (overlay === undefined || overlay === null || !$(overlay).is(':visible')) {
+                var navOverlay = $('.navigationOverlay');
+                if (navOverlay !== undefined && !navOverlay !== null) {
+                    navOverlay.show();
+                }
+            }
+        }
+    });
+
+    function attachFadesc3e89e24cc324a9fbaa0678ea39869db(element) {
+        if (shouldFade_c3e89e24cc324a9fbaa0678ea39869db) {
+       
+            fadeOutControls(element);
+
+            element.hover(
+            function () { fadeInControls(element); },
+            function () { fadeOutControls(element); }
+        );
+       
+        }
+    }
+
+    function attachHideShowc3e89e24cc324a9fbaa0678ea39869db(element) {
+        if (shouldFade_c3e89e24cc324a9fbaa0678ea39869db) {
+        element.hover(
+            function () {
+                $('.prev', element).stop().show();
+                $('.next', element).stop().show();
+            },
+            function () {
+                $('.prev', element).hide();
+                $('.next', element).hide();
+            }
+        );
+        }
+    }
+
+    function fadeOutControls(element) {
+        var speed = 1000;
+
+        $('.prev', element).fadeOut(speed);
+        $('.next', element).fadeOut(speed);
+    }
+
+    function fadeInControls(element) {
+        var speed = 'medium';
+        
+        $('.prev', element).stop(true, true).fadeIn(speed);
+        $('.next', element).stop(true, true).fadeIn(speed);
+        return false;    
+    }
+</script>
+
+
+
+<style type="text/css">       
+.sliderOverlay,
+.navigationOverlay
+{
+    width:245px;
+}
+.htmlSlider
+{
+    position:relative;
+}
+</style>
+
+<div id="slides" class='htmlSlider slides-c3e89e24cc324a9fbaa0678ea39869db '>
+    <div class="slides_container">
+        
+                <div style=''>
+                    <img alt="AVEVA in the Oil &amp; Gas Industry" src="/~/media/Aveva/English/Images/Home_page_gallery/Plant1.ashx" />
+                </div>
+            
+                <div style='display:none;'>
+                    <img alt="AVEVA in the Mining & Minerals Industry" src="/~/media/Aveva/English/Images/Home_page_gallery/Mining1.ashx" />
+                </div>
+            
+                <div style='display:none;'>
+                    <p><img alt="AVEVA in the Power Industry" src="/~/media/Aveva/English/Images/Home_page_gallery/Paks2Turbine Room.ashx" /></p>
+                </div>
+            
+                <div style='display:none;'>
+                    <p><img alt="AVEVA in the Pulp & Paper Industry" src="/~/media/Aveva/English/Images/Home_page_gallery/Paper1.ashx" /></p>
+                </div>
+            
+                <div style='display:none;'>
+                    <img alt="AVEVA in the Shipbuilding Industry" src="/~/media/Aveva/English/Images/Home_page_gallery/Zeevaart-TSHD-GATEWAY-978px.ashx" />
+                </div>
+            
+                <div style='display:none;'>
+                    <img width="978" height="268" alt="AVEVA in the Oil & Gas Industry" src="/~/media/Aveva/English/Images/Home_page_gallery/Petrobras_refinery.ashx" />
+                </div>
+            
+                <div style='display:none;'>
+                    <img width="978" height="268" alt="AVEVA in the Shipbuilding Industry" src="/~/media/Aveva/English/Images/Home_page_gallery/Naval_rauma.ashx" />
+                </div>
+            
+                <div style='display:none;'>
+                    <img width="978" height="268" alt="AVEVA in the Chemical Industry" src="/~/media/Aveva/English/Images/Home_page_gallery/Plant2.ashx" />
+                </div>
+            
+                <div style='display:none;'>
+                    <img width="978" height="268" alt="AVEVA in the Process Plant Industry" src="/~/media/Aveva/English/Images/Home_page_gallery/Refining1.ashx" />
+                </div>
+            
+                <div style='display:none;'>
+                    <img width="978" height="268" alt="AVEVA in the Marine Industry" src="/~/media/Aveva/English/Images/Home_page_gallery/Waller-Marine-Barges-978px.ashx" />
+                </div>
+            
+    </div>
+    
+        <div class="sliderOverlay">
+            
+                    
+                            
+                                    <h3>
+                                AVEVA in your industry
+                                    </h3>
+                                
+                        
+                
+                    <ul>
+                
+                    <li>
+                        <a title="AVEVA Solutions for the Oil &amp; Gas Industry" href="http://www.aveva.com/en/Industry_Sectors/Oil_and_Gas.aspx">
+                                Oil & Gas
+                            </a>
+                    </li>
+                
+                    <li>
+                        <a title="AVEVA Solutions for the Marine &amp; Offshore Industry" href="http://www.aveva.com/en/Industry_Sectors/Marine.aspx">
+                                Marine & Offshore
+                            </a>
+                    </li>
+                
+                    <li>
+                        <a title="AVEVA Solutions for the Power Industry" href="http://www.aveva.com/en/Industry_Sectors/Power.aspx">
+                                Power
+                            </a>
+                    </li>
+                
+                    <li>
+                        <a title="AVEVA Solutions for the Chemicals Industry" href="http://www.aveva.com/en/Industry_Sectors/Chemical.aspx">
+                                Chemicals
+                            </a>
+                    </li>
+                
+                    <li>
+                        <a title="AVEVA Solutions for the Mining &amp; Minerals Processing Industry" href="http://www.aveva.com/en/Industry_Sectors/Mining.aspx">
+                                Mining & Minerals
+                            </a>
+                    </li>
+                
+                    <li>
+                        <a title="AVEVA Solutions for the Pulp &amp; Paper Industry" href="http://www.aveva.com/en/Industry_Sectors/Pulp_and_Paper.aspx">
+                                Pulp & Paper
+                            </a>
+                    </li>
+                
+                    </ul>
+			<script type="text/javascript">
+				$(function () {
+					$('.sliderOverlay li a').each(function () {
+						if ($(this).attr('rel') === 'external' && !$(this).attr('target')) {
+							$(this).attr('target', '_blank');
+						}
+					});
+				});
+			</script>
+        </div>
+    
+    <div class="navigationOverlay">
+        
+    </div>
+</div>
+<div style="clear: both;">
+</div>
+
+            
+            <!-- begin: #content -->
+            
+<div id="content" class="content-lines clearfix">
+    
+    <div class="sep-content"></div>
+    <div class="col-1">
+        <div class="box"><h2 class="blue">Worldwide Offices</h2><img src="/~/media/Aveva/English/Images/Thumbnails/General/world_map1.ashx" alt="AVEVA Worldwide Offices" width="207" height="101" /><a title="AVEVA Worldwide Offices" class="more" href="/en/Contact/Worldwide_Offices.aspx">AVEVA Worldwide Offices</a></div><div class="box"><h2 class="blue">AVEVA Careers</h2><img src="/~/media/Aveva/English/Images/Thumbnails/General/careers_bw2.ashx" alt="AVEVA Careers" width="200" height="132" /><a title="Job Vacancies at AVEVA" class="more" href="/en/About_AVEVA/Careers/Vacancies.aspx">Current Job Vacancies at AVEVA</a></div><div class="box"><h2 class="blue">Quick Product Details</h2>
+		<p>
+      <a title="AVEVA Product Finder" href="/Products_and_Services/Product_Finder.aspx">
+        <img style="WIDTH: 80px; HEIGHT: 80px" alt="AVEVA Product Finder" src="/~/media/Aveva/English/Images/Page Content/Home Page/banner_product_finder.ashx?w=80&amp;h=80&amp;as=1" align="left" border="0" /></a>
+    </p>
+    <p align="left">Looking for information about AVEVA's market-leading products?</p>
+<div style="CLEAR: both"><br /></div><a title="AVEVA Product Finder" class="more" href="/en/Products_and_Services/Product_Finder.aspx">AVEVA Product Finder</a></div><div class="box"><h2 class="blue">Follow AVEVA!</h2><div class="block_container" style="margin: 0px 0px 20px; width: 180px;">
+<div class="row2_container">
+<div class="row2_box1" style="padding-bottom: 0px; padding-left: 0px; width: 63px; padding-right: 0px; padding-top: 0px;"><a href="https://twitter.com/AVEVAGroup" title="Follow AVEVA on Twitter" target="_blank"><img style="width: 50px; height: 50px;border: 0px solid;" alt="Follow AVEVA on Twitter" src="/~/media/Aveva/English/Images/Icons/Twitter_128x128.ashx?h=60&amp;w=60&amp;as=1" /></a></div>
+<div class="row2_box1" style="padding-bottom: 0px; padding-left: 0px; width: 63px; padding-right: 0px; padding-top: 0px;"><a href="http://www.youtube.com/avevagroup" title="Follow AVEVA on YouTube" target="_blank"><img style="width: 50px; height: 50px;border: 0px solid;" alt="Follow AVEVA on YouTube" src="/~/media/Aveva/English/Images/Icons/Youtube_128x128.ashx?h=60&amp;w=60&amp;as=1" /></a></div>
+<div class="row2_box1" style="padding-bottom: 0px; padding-left: 0px; width: 63px; padding-right: 0px; padding-top: 0px;"><a href="http://www.linkedin.com/company/aveva" title="Follow AVEVA on LinkedIn" target="_blank"><img style="width: 50px; height: 50px;border: 0px solid;" alt="Follow AVEVA on LinkedIn" src="/~/media/Aveva/English/Images/Icons/linkedin_60x60.ashx" /></a></div>
+</div>
+<div style="clear: left;"></div>
+</div><a class="more" href="/en/Media-Centre/Videos.aspx">Featured AVEVA Videos</a></div><div class="box"><h2 class="blue">AVEVA Tweets</h2>
+<a class="twitter-timeline"  href="https://twitter.com/AVEVAGroup"  data-widget-id="349157331080212480">Tweets by @AVEVAGroup</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div><div class="box box-last"><div class="box">
+    <h2 class="blue">
+        Current Share Price</h2>
+    <p id="price" class="shareprice" style="float: left; font-weight:bold; font-size:17px; color:#5780AE">
+        Available shortly</p>
+    <p id="change" style="float: right">&nbsp;
+        </p>
+    <div style="clear: both;"></div>
+    <p style="float: left">
+    <a target="_parent" title="View Share Price Chart" href="http://www.aveva.com/sharepricegraph"><img class="thumb_chart" alt="Graph to show the AVEVA Group PLC share price over the last 3 months." border="0" src="http://hsprod.investis.com/ir/avv/images/avv_graph_3m.gif"></a>
+    </p>
+    <div style="clear: both;"></div>
+   <!-- <p id="exchange" style="float: left">&nbsp;
+        </p>
+    <p id="symbol" style="float: right">&nbsp;
+        </p>
+    <div style="clear: both;"></div>
+    <p id="date" style="float: left">&nbsp;
+        </p>
+    <p id="time" style="float: right">&nbsp;
+        </p>
+    <div style="clear: both;"></div>-->
+    <p style="font-size:9px">
+        (15 minute delayed prices from the London Stock Exchange provided by <a title="Open the Hemscott website in a new window"
+            href="http://www.hemscott.com" target="_blank" style="font-size:9px">Hemscott Group</a> Limited)</p>
+<p><a href="/Home/Investors.aspx" class="more" >Investor Information</a></p>
+</div>
+<script type="text/javascript" language="javascript">
+    //declare variables as nothing
+
+    var prices = '';
+    var change = '';
+    var dateddmmmmyyyy = '';
+    var positionat = '';
+    var symbol = '';
+    var exchange = '';
+</script>
+<script language="Javascript" type="text/javascript" src="http://hsprod.investis.com/ir/avv/feed.jsp?type=js"></script>
+<script type="text/javascript" language="javascript">
+
+    //write out the prices to the page
+    if (prices != '') {
+        document.getElementById('price').innerHTML = prices + 'p';
+
+        if (change > 0) {
+            document.getElementById('change').innerHTML = '<img src="http://hsprod.investis.com/ir/avv/images/up_arrow.gif" alt="up">' + change + 'p';
+        }
+
+        else {
+            document.getElementById("change").innerHTML = '<img src="http://hsprod.investis.com/ir/avv/images/down_arrow.gif" alt="down">' + change + 'p';
+        }
+
+        if (symbol) {
+            document.getElementById("symbol").innerHTML = symbol;
+        }
+
+        if (exchange) {
+            document.getElementById("exchange").innerHTML = exchange;
+        }
+
+        if (dateddmmmmyyyy) {
+            document.getElementById("date").innerHTML = dateddmmmmyyyy;
+        }
+
+        if (positionat) {
+            document.getElementById("time").innerHTML = positionat;
+        }
+
+    }
+
+    else {
+        document.getElementById("price").innerHTML = 'Unavailable';
+    }
+
+</script></div>
+    </div>
+    <div class="col-2" id="landing">
+		<div class="box"><h2 class="blue">Read AVEVA World Magazine</h2><p style="text-align: left;"><img style="width: 209px; float: left; height: 36px;border: 0px solid;" alt="AVEVA World Magazine" src="/~/media/Aveva/English/Images/Pipeline_articles/AWM-title-banner-2011.ashx?w=209&amp;h=36&amp;as=1" /> </p>
+<p>The latest developments and customer successes with AVEVA technology</p>
+<iframe width="450" height="345" class="mixedContent" src="http://aveva.uberflip.com/read/embed_mini/49796/248956?miniPop=false&amp;alwaysCover=false&amp;miniTitle=&amp;miniColor=&amp;miniLinkToTitle=false&amp;miniUrl=&amp;miniBg=FFFFFF&amp;hideBg=true&amp;width=450&amp;height=345&amp;sharing=false" border="0" frameborder="0" style="width: 450px; background: none transparent scroll repeat 0% 0%; height: 345px; overflow: hidden;border: 0px;" allowtransparency="allowtransparency" background="transparent"></iframe>
+<table style="width: 100%;">
+    <tbody>
+        <tr>
+            <td style="text-align: left; width: 50%; vertical-align: top;">
+            <h2>Cover story</h2>
+            <p><a href="http://aveva.uberflip.com/i/248956/3" title="Opens e-book in a new window" class="more fancy-document-948x750">KOSPO - AVEVA NET<br />
+            on Korean power projects</a></p>
+            </td>
+            <td style="text-align: left; vertical-align: top;">
+            <h2>Download the Magazine</h2>
+            <p><a href="/~/media/Aveva/English/Resources/Pipelines/AVEVA-World-Magazine-2014(1).ashx" title="Downloads pdf document in a new window" class="download" target="_blank">Download</a></p>
+            <p><a href="/en/Media-Centre/AWM.aspx" class="more">View all issues</a></p>
+            </td>
+        </tr>
+    </tbody>
+</table></div><div class="box"><h2 class="blue">AVEVA Spotlight</h2><h2>AVEVA E3D INSIGHT&trade; LAUNCHED</h2>
+<p><a href="/en/Products_and_Services/Product_Finder/AVEVA_E3D.aspx?tab=6" class="fancy" title="Information about AVEVA E3D Insight"><img style="margin-top: 0px; float: left; margin-bottom: 0px;border: 0px solid;" alt="AVEVA E3D Insight" src="/~/media/Aveva/English/Products/Images/E3D/insight_spotlight.ashx" /></a></p>
+<p>&nbsp;<br />
+We are proud to announce the launch of AVEVA&nbsp;E3D Insight&trade;, the Windows 8.1 app that enables&nbsp;project decision makers in the power, process plant and mining industries to view and approve AVEVA Everything 3D&trade; designs from a touch-enabled device such as a mobile tablet.</p>
+<div style="clear: both; text-align: center;">
+<h2 style="text-align: center;">VISUALISE&nbsp;-&nbsp;INSPECT - COMMENT&nbsp;-&nbsp;APPROVE</h2>
+<table style="width: 100%;" cellspacing="0" cellpadding="0" align="left">
+    <tbody>
+        <tr>
+            <td style="width: 25%;" valign="middle" align="left"><a href="/en/Products_and_Services/Product_Finder/AVEVA_E3D.aspx?tab=6" class="more fancy" title="Information about AVEVA E3D Insight">Information</a></td>
+            <td style="width: 25%;" valign="middle" align="left"><a href="/~/media/Aveva/English/Products/Literature/E3D/AVEVA_E3D_Insight.ashx" class="download" title="Downloads pdf document in a new window" target="_blank">Brochure</a></td>
+            <td style="width: 25%;" valign="middle" align="left"><a href="http://youtu.be/iayfHLVkCE4" class="more fancy-video-640x385" title="Plays video in a pop-up window">Video</a></td>
+            <td valign="middle" align="left"><a href="/en/News-Events/Press-Releases/Press-Releases-2013/Corporate/AVEVA-E3D-Insight-launched.aspx" class="more" title="Go to the Press Release page">Press Release</a></td>
+        </tr>
+    </tbody>
+</table>
+</div></div><div class="box box-last"><h2 class="blue">AVEVA Spotlight</h2><h2>AVEVA ACTIVITY VISUALISATION PLATFORM&trade;</h2>
+<p><a href="/en/Products_and_Services/Product_Finder/AVEVA_AVP.aspx" class="fancy"></a><strong><a href="/en/Products_and_Services/Product_Finder/AVEVA_AVP.aspx" class="fancy" title="Information about AVEVA AVP"><img style="float: right;  width: 150px;  height: 169px;border: 0px solid;" alt="AVEVA Activity Visualisation Platform" src="/~/media/Aveva/English/Products/Images/AVP/AVP-interaction-2-spotlight.ashx" /></a>Video Gaming gets serious!</strong></p>
+<p>We are proud to announce the release of the brand-new AVEVA Activity Visualisation Platform (AVEVA AVP&trade;). This powerful Industrial Gaming solution enables users to create immersive, realistic and interactive multi-player simulations directly from the 3D plant model.</p>
+<p>It brings a new level of capability to operator training and all aspects of safe and efficient asset management.</p>
+<h2 style="text-align: center;">ZERO RISK - MINIMUM COST - MAXIMUM EFFECTIVENESS</h2>
+<div style="clear: both; text-align: center;">
+<table style="width: 100%;" cellspacing="0" cellpadding="0" align="left">
+    <tbody>
+        <tr>
+            <td style="width: 25%;" valign="middle" align="left"><a href="/en/Products_and_Services/Product_Finder/AVEVA_AVP.aspx" class="more fancy" title="Information about AVEVA AVP">Information</a></td>
+            <td style="width: 25%;" valign="middle" align="left"><a href="/~/media/Aveva/English/Products/Literature/AVP/AVEVA_AVP.ashx" class="download" title="Downloads pdf document in a new window" target="_blank">Brochure</a></td>
+            <td style="width: 25%;" valign="middle" align="left"><a href="/en/Contact.aspx" class="more">Ask for a demo</a></td>
+            <td valign="middle" align="left"><a href="/en/News-Events/Press-Releases/Press-Releases-2013/Corporate/New-AVEVA-Activity-Visualisation-Platform.aspx" class="more">Press Release</a></td>
+        </tr>
+    </tbody>
+</table>
+</div></div>                         
+    </div>
+    <div class="col-3">
+        <div id="latest-news" class="box slider"><h2 class="blue">Latest News</h2><div id="slider-news"><ul><li><a class="title" href="/en/News-Events/Press-Releases/Press-Releases-2014/Corporate/NGLTech-chooses-AVEVA-Everything3D.aspx">NGLTech chooses AVEVA Everything3Dâ„¢</a><p class="news-archiv">AVEVA Everything3D software enables NGLTech to adopt the principles of Lean Construction</p><a title="Go to AVEVA Press Releases" class="more" href="/en/News-Events/Press-Releases.aspx">More news</a></li><li><a class="title" href="/en/News-Events/Press-Releases/Press-Releases-2014/Corporate/Sembawang Shipyard upgrades from Tribon to AVEVA Marine.aspx">Sembawang Shipyard upgrades from Tribon to AVEVA Marineâ„¢</a><p class="news-archiv">AVEVA Marine boosts shipbuilderâ€™s productivity by enabling powerful integration between disciplines while protecting legacy data.</p><a title="Go to AVEVA Press Releases" class="more" href="/en/News-Events/Press-Releases.aspx">More news</a></li><li><a class="title" href="/en/News-Events/Press-Releases/Press-Releases-2014/Corporate/AVEVA brings Step Change in Innovation to ARC World Industry Forum.aspx">AVEVA brings Step Change in Innovation to ARC World Industry Forum</a><p class="news-archiv">AVEVA showcases its new AVEVA E3D Insightâ„¢ and AVEVA Activity Visualisation Platformâ„¢ software </p><a title="Go to AVEVA Press Releases" class="more" href="/en/News-Events/Press-Releases.aspx">More news</a></li><li><a class="title" href="/en/News-Events/Press-Releases/Press-Releases-2014/Corporate/Industry leaders to speak at the AVEVA World UK User Meeting.aspx">Industry leaders to speak at the AVEVA World UK User Meeting </a><p class="news-archiv">Atkins and Foster Wheeler will share their experiences and the advantages of using AVEVAâ€™s best-in-class engineering and design software</p><a title="Go to AVEVA Press Releases" class="more" href="/en/News-Events/Press-Releases.aspx">More news</a></li></ul></div></div><div class="box slider"><h2 class="blue">Events</h2><div id="slider-events"><ul><li><a class="title" href="/en/News-Events/Events/Corporate/AVEVA_World_UK_User_Meeting_02_14.aspx">AVEVA World UK User Meeting 2014</a><p>Open to the entire UK AVEVA community the AVEVA World UK User Meeting will bring together a wealth of knowledge from the UKâ€™s Oil & Gas, Power, Marine and Plant industry sectors alongside product expertise from both AVEVA and our customer base.</p><a title="See all events" class="more" href="/en/News-Events/Events.aspx">More Events</a></li><li><a class="title" href="/en/News-Events/Events/Corporate/AVEVA-Integrated-Structural-Solutions-Showcase-India.aspx">AVEVA Integrated Structural Solutions Showcase India 2014</a><p>AVEVA is pleased to host our Integrated Structural Solution Showcase that will focus on the powerful AVEVA Bocad solutions.</p><a title="See all events" class="more" href="/en/News-Events/Events.aspx">More Events</a></li><li><a class="title" href="/en/News-Events/Events/Corporate/RussiaPower_2014.aspx">Russia Power 2014</a><p>AVEVA is taking part in the 12th exhibition and conference Russia Power 2014, that is held every year in Moscow. At AVEVA booth you will be able to learn detailed information on AVEVA Plant solutions including 2D, 3D and data management applications, and the company's integrated approach to project execution.</p><a title="See all events" class="more" href="/en/News-Events/Events.aspx">More Events</a></li><li><a class="title" href="/en/News-Events/Events/Corporate/LFM-User-Meeting-USA-2014.aspx">LFM User Meeting - USA 2014</a><p>LFM will be hosting the USA 2014 LFM User Meeting at Hotel Sorella in Houston, Texas on 4th March.</p><a title="See all events" class="more" href="/en/News-Events/Events.aspx">More Events</a></li></ul></div></div><div class="box"><h2 class="blue">An exciting future!</h2><p class="small"><img width="200" height="112" alt="Defining the future of plant design" src="~/media/13674F8668A4431097D55C21B5DC7A82.ashx" /></p>
+<p>AVEVA continues to expand capabilities in engineering and design. At last the key enablers of Lean Construction are here!</p><a title="Opens a new window on the future!" target="_blank" class="more" href="http://futureofplantdesign.aveva.com/">Discover the future now!</a></div><div class="box"><h2 class="blue">AVEVA Highlight Video</h2><p class="small"><a href="http://www.youtube.com/watch?v=fC-4f8C6tt4" class="fancy-video-640x385"><img title="Watch the Video" style="float: left;border: 0px solid;" alt="Watch the Video" src="~/media/3AFCB3B9998743DBBD80E9E12C27903E.ashx" /></a></p>
+<p>Take a minute to check out our latest video! This fast-paced overview features AVEVA&rsquo;s newest and most popular products. <br />
+<br />
+<a href="http://www.youtube.com/watch?v=fC-4f8C6tt4" title="Watch the Video" class="more fancy-video-640x385" target="_blank">Watch the Video</a></p></div><div class="box box-last"><h2 class="blue">Read what ARC Advisory say about AVEVA NET</h2><p class="small"><img width="200" height="123" alt="AVEVA NET" src="~/media/EFBC7A03E1A249E6BDCAF5D6373EAB64.ashx" /></p>
+<p>This latest White Paper from ARC Advisory explains how AVEVA NET accesses and manages the <br />
+Digital Asset</p>
+<p><a href="~/media/C15C27E1A4234F15A2C8770C57782CA1.ashx" class="download fancy-document-948x750" title="Downloads pdf document in a new window">Download the ARC White Paper</a></p><a title="More Business Papers" class="more" href="/en/Media-Centre/Business_Papers/Information_Mgmt.aspx">More Business Papers</a></div>
+    </div>
+                
+    <div class="sep-content"></div>
+                
+</div>
+            <!-- end: #content -->
+
+		</div>
+		<!-- end: #main -->
+		
+		<!-- begin: #footer -->
+		
+<div id="footer">
+    <div class="wrap clearfix">
+        <p style="width:100%;"><span class="left">Â© 2007 - 2014</span><span class="left">&nbsp;</span><span class="left">AVEVA Group plc, High Cross, Madingley Road, Cambridge, CB3 0HB, UK +44(0)1223 556655 Reg. No: 2937296</span><a title="Worldwide Offices information" class="worldwide" href="/en/Contact/Worldwide_Offices.aspx">Worldwide Offices</a></p>
+        
+    </div>
+</div>
+
+		<div id="footer-bottom"></div>
+		
+        
+		<!-- end: #footer -->
+        
+        <!-- begin: #meta-navi -->
+        
+<div id="meta-navi" class="clearfix">
+    <div class="wrap">
+        <script type="text/javascript">
+            var addthis_config =
+            {
+                ui_language: "en"
+            }
+        </script>
+        <div class="addthis_button button-share" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4d77853b335fc303">
+        </div>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4d77853b335fc303"></script>
+        <ul id="meta" class="clearfix"><li><a title="Home" href="/en.aspx">Home</a><span>|</span></li><li><a title="Website Terms of Use" href="/en/Terms_of_Use.aspx">Terms of Use</a><span>|</span></li><li><a title="AVEVA Privacy Policy" href="/en/Privacy_Policy.aspx">Privacy Policy</a><span>|</span></li><li><a title="Sitemap" href="/en/Sitemap.aspx">Sitemap</a><span>|</span></li><li><a title="Contact AVEVA" href="/en/Contact.aspx">Contact Us</a></li></ul>
+    </div>
+</div>
+
+        <!-- end: #meta-navi -->
+		
+	</div>
+</div>
+</form>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.pdms.dk/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<title>PlantWare A/S</title>
+	<!--
+	*******************************************
+	*******************************************
+
+	© 2000-2008 - sapper.dk
+	
+	sapper.dk
+	v/Tom Jensen
+	Rødkælkevej 184
+	DK-2600 Glostrup
+	Denmark 
+
+	Tlf.: 43 45 88 71
+	Fax: 43 45 88 73
+
+	www.sapper.dk
+
+	*******************************************
+	*******************************************
+	-->
+	
+	<!--
+	Added titlebar icon 22/10 - 08
+	
+	-->
+	<LINK rel="SHORTCUT ICON" HREF="pw_icon.ico"></link>
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+	<META NAME="keywords" content="PDMS, AVEVA PDMS, AVEVA MARINE, pipe spools, pipe isometrics">
+	<META NAME="description" content="PlantWare's website for PDMS">
+	<META NAME="Title" CONTENT="PlantWare A/S">
+	<META NAME="Robots" CONTENT="INDEX,NOFOLLOW">
+	<META NAME="Revisit-after" CONTENT="30">
+	<META NAME="Author" CONTENT="Christian Pallesen">
+	<LINK REV=made href="mailto:cp@plantware.dk">
+	<META HTTP-EQUIV="Reply-to" CONTENT="cp@plantware.dk">
+	<META NAME="Copyright" CONTENT="Copyright © 2008 ved PlantWare A/S">
+	<META HTTP-EQUIV="Expires" CONTENT="">
+	<META HTTP-EQUIV="Content-language" CONTENT="dan">
+	<META NAME="Rating" CONTENT="General">
+	<META NAME="Generator" CONTENT="goodspeed CMS">
+	<META HTTP-EQUIV="ObjectType" CONTENT="">
+	<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+	<META HTTP-EQUIV="Cache-Control" CONTENT="no-store">
+	<META NAME="DC.Title" CONTENT="PlantWare A/S">
+	<META NAME="DC.Description" CONTENT="PlantWare's website for PDMS">
+	<META NAME="DC.Subject" CONTENT="PDMS, AVEVA PDMS, AVEVA MARINE, pipe spools, pipe isometrics">
+	<META NAME="DC.Creator" CONTENT="Christian Pallesen">
+	<META NAME="DC.Contributor" CONTENT="">
+	<META NAME="DC.Rights" CONTENT="Copyright © 2008 ved PlantWare A/S">
+	<META NAME="DC.Identifier" CONTENT="http://www.pdms.dk/">
+	<META NAME="DC.Publisher" CONTENT="">
+	<META NAME="DC.Date" SCHEME="ISO8601" CONTENT="2008-04-21">
+	<META NAME="DC.Language" scheme="NISOZ39.50" CONTENT="dan">
+	<META NAME="DC.Type" CONTENT="">
+	<META NAME="DC.Format" SCHEME="MIME" CONTENT="text/html">
+<SCRIPT language=JavaScript>
+<!--
+function makeArray(n) {
+this.length = n
+return this
+}
+monthNames = new makeArray(12)
+monthNames[1] = "January"
+monthNames[2] = "February"
+monthNames[3] = "March"
+monthNames[4] = "April"
+monthNames[5] = "May"
+monthNames[6] = "June"
+monthNames[7] = "July"
+monthNames[8] = "August"
+monthNames[9] = "September"
+monthNames[10] = "October"
+monthNames[11] = "November"
+monthNames[12] = "December"
+function dateString(oneDate) {
+var theMonth = monthNames[oneDate.getMonth() + 1]
+var theYear = oneDate.getFullYear()
+return oneDate.getDate() + ". " + theMonth + " " + theYear
+}
+//-->
+</SCRIPT>
+<style type="text/css">
+<!--
+.menu1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #999999;
+	text-decoration: none;
+	font-variant: normal;
+	text-transform: none;
+	font-style: normal;
+}
+
+.menu2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	font-variant: normal;
+	text-transform: none;
+	font-style: normal;
+}
+
+.little {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+	text-decoration: none;
+}
+.titre {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.texte {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:link {
+	font-weight: normal;
+	color: #CCCCCC;
+}
+
+input {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+/* color: #437FB5; */
+
+a:link {
+	font-weight: normal;
+	color: #4040FF;
+	text-decoration: none;
+}
+a:visited {
+	font-weight: normal;
+	color: #4040FF;
+	text-decoration: none;
+}
+a:hover {
+	font-weight: normal;
+	color: #4040FF;
+	text-decoration: underline;
+}
+a:active {
+	font-weight: normal;
+	color: #4040FF;
+	text-decoration: none;
+}
+
+a.adminl:link {
+	font-weight: normal;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+a.adminl:visited {
+	font-weight: normal;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+a.adminl:hover {
+	font-weight: normal;
+	color: #CCCCCC;
+	text-decoration: underline;
+}
+a.adminl:active {
+	font-weight: normal;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+
+a.path:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #BBBBBB;
+	text-decoration: none;
+}
+a.path:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #BBBBBB;
+	text-decoration: none;
+}
+a.path:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;	
+	font-weight: normal;
+	color: #BBBBBB;
+	text-decoration: underline;
+}
+a.path:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #BBBBBB;
+	text-decoration: none;
+}
+
+A.newsText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+	text-decoration: none;
+}
+A.newsText:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+	text-decoration: underline;
+}
+A.newsText:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+	text-decoration: none;
+}
+A.newsText:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+	text-decoration: none;
+}
+
+
+.newsText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+	text-decoration: none;
+}
+.newsTitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+	text-decoration: none;
+	font-weight: bold;
+}
+.newsTitleSmall {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+	text-decoration: none;
+	font-weight: normal;
+}
+.comments {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #CCCCCC;
+}
+-->
+</style>
+<script type="text/javascript" language="JavaScript1.2" src="scripts/stm31.js"></script>
+
+</head>
+<body>
+<center>
+<table width="800" cellpadding="0" cellspacing="0" border="0">
+<tr height="70">
+<td colspan="2" background="images/pwe-logo.jpg" align="left" valign="middle"></td>
+</tr>
+<tr height="41">
+<td width="180" background="images/code4home.jpg" align="center" valign="middle"></td><td background="images/code4bg.jpg" align="left" valign="middle">
+
+<table cellpadding="0" cellspacing="0" border="0"><tr height="41"><td align="justify" valign="middle" background="images/code4home2.jpg" width="40"></td>
+<td align="center" valign="middle" width="580">
+<font size="2" face="Verdana, Arial" color="#999999">
+
+<script type="text/javascript" language="JavaScript1.2">
+<!--
+beginSTM("PipeSpools","static","0","0","left","false","true","310","1000","0","250","scripts/","blank.gif");
+beginSTMB("auto","0","0","horizontally","arrow_d.gif","7","7","0","5","","","tiled","#000000","0","solid","0","Normal","50","0","0","7","7","0","0","2","#7f7f7f","true","#000000","#000000","#000000","none");appendSTMI("false","Home","left","middle","","","-1","-1","0","normal","transparent","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=1","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","Home","","","tiled","tiled");appendSTMI("false","PDMS","left","middle","","","-1","-1","0","normal","transparent","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=2","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PDMS","","","tiled","tiled");beginSTMB("auto","0","0","vertically","arrow_d.gif","0","0","0","3","","","tiled","#000000","1","solid","0","Normal","50","0","0","0","0","0","0","0","#7f7f7f","false","#000000","#000000","#000000","none");	appendSTMI("false","PDMS Tricks","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=43","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PDMS Tricks","","","tiled","tiled");beginSTMB("auto","0","0","vertically","arrow_d.gif","0","0","0","3","","","tiled","#000000","1","solid","0","Normal","50","0","0","0","0","0","0","0","#7f7f7f","false","#000000","#000000","#000000","none");	appendSTMI("false","Tubi Length","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=44","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","Tubi Length","","","tiled","tiled");appendSTMI("false","Calculation of Length","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=45","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","Calculation of Length","","","tiled","tiled");appendSTMI("false","Changing default for checking spatial map","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=46","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","Changing default for checking spatial map","","","tiled","tiled");appendSTMI("false","SET Command","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=67","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","SET Command","","","tiled","tiled");endSTMB();appendSTMI("false","PDMS Training","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=48","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PDMS Training","","","tiled","tiled");appendSTMI("false","PDMS Items","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=52","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PDMS Items","","","tiled","tiled");beginSTMB("auto","0","0","vertically","arrow_d.gif","0","0","0","3","","","tiled","#000000","1","solid","0","Normal","50","0","0","0","0","0","0","0","#7f7f7f","false","#000000","#000000","#000000","none");	appendSTMI("false","VITAULIC Piping Cats&Spec","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=58","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","VITAULIC Piping Cats&Spec","","","tiled","tiled");appendSTMI("false","KEE Clamp Cats&Spec ","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=56","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","KEE Clamp Cats&Spec ","","","tiled","tiled");appendSTMI("false","WIBE KHZ Cable tray Cats&Spec","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=57","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","WIBE KHZ Cable tray Cats&Spec","","","tiled","tiled");appendSTMI("false","PDMS New PlantWare Stairs Module","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=49","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PDMS New PlantWare Stairs Module","","","tiled","tiled");appendSTMI("false","DIN PN10 pipes with TEFLON COATING - Flanged","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=53","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","DIN PN10 pipes with TEFLON COATING - Flanged","","","tiled","tiled");appendSTMI("false","PDMS Design Validation Tool ","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=63","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PDMS Design Validation Tool ","","","tiled","tiled");appendSTMI("false","WAVIN Drain Pipes (domestic use) ","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=54","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","WAVIN Drain Pipes (domestic use) ","","","tiled","tiled");appendSTMI("false","PDMS Add selection of database-elements by color","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=64","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PDMS Add selection of database-elements by color","","","tiled","tiled");appendSTMI("false","WAVIN PE80/PE100 pipe system ","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=55","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","WAVIN PE80/PE100 pipe system ","","","tiled","tiled");appendSTMI("false","LINDAB HVAC Program","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=59","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","LINDAB HVAC Program","","","tiled","tiled");appendSTMI("false","LISEGA Hangers & Support ","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=60","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","LISEGA Hangers & Support ","","","tiled","tiled");appendSTMI("false","PDMS MACRO: Howden Power Axial flowfan ","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=61","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PDMS MACRO: Howden Power Axial flowfan ","","","tiled","tiled");appendSTMI("false","ISOPLUS: Pre-insulated piping","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=62","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","ISOPLUS: Pre-insulated piping","","","tiled","tiled");endSTMB();appendSTMI("false","PDMS Downloads","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=65","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PDMS Downloads","","","tiled","tiled");beginSTMB("auto","0","0","vertically","arrow_d.gif","0","0","0","3","","","tiled","#000000","1","solid","0","Normal","50","0","0","0","0","0","0","0","#7f7f7f","false","#000000","#000000","#000000","none");	appendSTMI("false","PDMS Downlaod - FLS ATOX 25 Mill","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=66","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PDMS Downlaod - FLS ATOX 25 Mill","","","tiled","tiled");appendSTMI("false","PDMS Download - Centre Lathes","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=68","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PDMS Download - Centre Lathes","","","tiled","tiled");appendSTMI("false","PDMS Download - Pile of bags","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=69","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PDMS Download - Pile of bags","","","tiled","tiled");endSTMB();endSTMB();appendSTMI("false","Publications","left","middle","","","-1","-1","0","normal","transparent","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=4","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","Publications","","","tiled","tiled");beginSTMB("auto","0","0","vertically","arrow_d.gif","0","0","0","3","","","tiled","#000000","1","solid","0","Normal","50","0","0","0","0","0","0","0","#7f7f7f","false","#000000","#000000","#000000","none");	appendSTMI("false","PDMS publications","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=47","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PDMS publications","","","tiled","tiled");appendSTMI("false","PlantWare Newsletters","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=50","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PlantWare Newsletters","","","tiled","tiled");appendSTMI("false","PlantWare Press Release","left","middle","","","-1","-1","0","normal","#FFFFFF","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=51","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","PlantWare Press Release","","","tiled","tiled");endSTMB();appendSTMI("false","Contact","left","middle","","","-1","-1","0","normal","transparent","#999999","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.php?scr=1&id=5","_self","Arial","10pt","#000000","normal","normal","none","Arial","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","Contact","","","tiled","tiled");endSTMB();
+endSTM();
+//-->
+</script>
+</td></tr></table>
+</td>
+</tr>
+<tr height="35">
+<td background="images/code4ttop2.jpg" align="center" valign="top">
+<font size="1" face="Verdana, Arial" color="#999999">
+<br><SCRIPT language=JavaScript>document.write(dateString(new Date()))</SCRIPT>
+</font>
+</td>
+<td background="images/code4mainbg.jpg" align="left" valign="middle">
+<div align="right"><a class="path" href= 'index.php?id=1' ><span class=menu> &gt; Home </span></a></div>
+<table cellpadding="0" cellspacing="0" border="0">
+<td width="10" align="left" valign="top">&nbsp;</td>
+<td align="left" valign="top">
+
+	<font size="2" face="Verdana, Arial" color="#999999"><b><!-- START OVERSKRIFT -->Home<!-- SLUT OVERSKRIFT --></b></font>
+	
+</td></tr></table>
+
+</td>
+</tr>
+<tr height="380">
+<td width="180" background="images/code4ttd.jpg" align="left" valign="top">
+
+
+<!-- FORSØG -->
+<table cellpadding="0" cellspacing="0" border="0" height="100%">
+<tr>
+<td align="left" valign="top">
+
+<!-- START NYHEDER -->
+<table cellpadding="5" cellspacing="5" border="0">
+<tr>
+<td align="left" valign="top">
+
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr height="30">
+<td align="left" valign="center">
+<font size="2" face="Verdana, Arial" color="#999999"><b>NEWS:</b></font>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!-- news start here -->
+              <span class="newsTitle"> 
+              <u>PlantWare open in India</u>
+              </span><br>
+              <span class="newsTitleSmall">               
+              
+
+
+
+PlantWare opens office in Mumbai India&nbsp;together with a local partner - Mr. Ramon Kirpalaney of Kirpalaney &amp; Assisiates Private Limite...
+              <br>></span> <a href="index.php?id=70&scr=" class="newsText">Read the news...</a><br><br>
+              
+              <span class="newsTitle"> <u>Latest news</u>:</span><br>
+              <span class=newsTitleSmall>></span> <a class='newsText' href='index.php?id=70' > PlantWare open in India </a><span class=newsTitleSmall>  </span><br>              <br>
+ <!-- news end here -->
+</td>
+</tr>
+
+<tr height="30">
+<td align="left" valign="center">
+<font size="2" face="Verdana, Arial" color="#999999"><b>NEWSLETTER:</b></font>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!-- newsletter start here -->
+              <form name="newsletterRegistration" method="post" action="">
+              <span class="newsTitle"> <u>Request newsletter</u>:</span><br>
+              <input class="newsTitleSmall" onblur="if(this.value==''){this.value='E-mail1'}" onfocus="if(this.value=='E-mail1'){this.value=''}" name="mail" type="text" id="mail" value="E-mail" size="12">
+              <input type="submit" name="Submit" value="Ok"><br><span class=newsTitleSmall>
+              </span>
+              </span> 
+            </form>
+ <!-- news end here -->
+</td>
+</tr>
+
+</table>
+
+</td></tr></table>   
+<!-- SLUT NYHEDER -->
+
+</td></tr>
+<tr><td align="left" valign="bottom">
+
+<table cellpadding="5" cellspacing="5" border="0">
+<tr height="100%">
+<td align="left" valign="bottom">
+<font size="1" face="Verdana, Arial" color="#999999">
+
+<b>PlantWare A/S</b><br>
+Christian&nbsp;Pallesen<br><br>
+Gyden 6<br>
+5970 Ærøskøbing<br><br>
+
+<table cellpadding="0" cellspacing="0" border="0" class="newsTitleSmall">
+<tr><td>Tlf. 1:&nbsp;</td><td>+ 45 4547 5100</td></tr><tr><td>Tlf. 2:&nbsp;</td><td>+ 45 4547 5105</td></tr><tr><td>Mobil:&nbsp;</td><td>+ 45 2526 8805</td></tr><tr><td>Fax:&nbsp;</td><td>+ 45 4548 5101</td></tr><tr><td colspan="2">&nbsp;</td></tr>
+<tr><td><a href="vcard/cp.vcf"><img src="images/vcard.jpg" border="0" height="16" width="22"></a></td><td>vCard for Outlook</td></tr>
+</table>
+
+
+
+</font>
+</td></tr></table>
+
+
+</td></tr></table>
+
+
+</td>
+
+<td background="images/code4mainbg.jpg" align="left" valign="top">
+
+<!-- START INDHOLD -->
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="10" align="left" valign="top">&nbsp;</td>
+<td align="left" valign="top"><br>
+	<p>
+		<P><A href="http://www.pdms.dk">
+<TABLE width="100%" border=0>
+<TBODY>
+<TR>
+<TD>
+<P><FONT face=Verdana size=2>PlantWare has 10 years of experience within design af process plant etc.&nbsp;based on 3D AVEVA PDMS.</FONT></P>
+<P><FONT face=Verdana size=2>We hand these modules within DESIGN:</FONT></P>
+<UL>
+<LI><FONT face=Verdana size=2>PIPING</FONT>
+<LI><FONT face=Verdana size=2>STEEL WORK</FONT>
+<LI><FONT face=Verdana size=2>ACCESS STAIRS &amp; LADDERS</FONT>
+<LI><FONT face=Verdana size=2>HVAC</FONT>
+<LI><FONT face=Verdana size=2>CABLE TRAYS</FONT>
+<LI><FONT face=Verdana size=2>EQUIPMENT </FONT></LI></UL>
+<P><FONT face=Verdana size=2>Further more we handle </FONT></P>
+<UL>
+<LI><FONT face=Verdana size=2>DRAFT (User Application and Administration) </FONT>
+<LI><FONT face=Verdana size=2>ISODRAFT (User Application and Administration) </FONT>
+<LI><FONT face=Verdana size=2>PARAGON </FONT>
+<LI><FONT face=Verdana size=2>SPECON </FONT>
+<LI><FONT face=Verdana size=2>PROPCON</FONT></LI></UL>
+<P><FONT face=Verdana><FONT size=2>Please visit </FONT><A href="http://www.plantware.dk/" target=""><FONT size=2>www.plantware.dk </FONT></A><FONT size=2>for further information. See our reference list for more examples of PDMS design projects.</FONT></FONT></P>
+<P><FONT face=Verdana size=2></FONT>&nbsp;</P>
+<P><FONT face=Verdana></FONT>&nbsp;</P>
+<P>&nbsp;</P>
+<P><FONT face=Verdana></FONT>&nbsp;</P>
+<P><FONT face=Verdana></FONT>&nbsp;</P>
+<P><FONT face=Verdana></FONT>&nbsp;</P>
+<P><FONT face=Verdana></FONT>&nbsp;</P></TD>
+<TD>
+<P>&nbsp;<IMG height=409 hspace=0 src="http://www.pdms.dk/data/images/PDMS001.jpg" width=392 align=default border=0></P>
+<P><IMG height=430 hspace=0 src="http://www.pdms.dk/data/images/htas1.jpg" width=400 align=default border=0></P></TD></TR></TBODY></TABLE></A></P>
+<!-- søgeresultat start here -->   
+<!-- søgeresultat end here -->  
+	</p>
+
+</td></tr></table>
+<!-- SLUT INDHOLD -->
+
+</td>
+</tr>
+<tr height="80">
+<td width="180" background="images/code4foot.jpg" align="center" valign="top">
+<font size="1" face="Verdana, Arial" color="#999999"><br>
+<b><a class="adminl" href="admin.php?editid=1" target="_top">ADMIN</a></b>
+</font>
+</td>
+<td background="images/code4foot.jpg" align="right" valign="middle"><form name="searchmod" method="post" action="index.php?scr=1&id=17"><input onblur="if(this.value==''){this.value='Search...'}" onfocus="if(this.value=='Search...'){this.value=''}" type="text" name="term" value="Search..." size="11"><input type="hidden" name="check" value="search">&nbsp;&nbsp;<input type="submit" name="search" value="Search"></form></td>
+</tr>
+</table>
+</center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1390142-3");
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.pdmsworld.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" id="vbulletin_html">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.avevaworldforum.com/forum" />
+<base href="http://www.avevaworldforum.com/forum/" /><!--[if IE]></base><![endif]-->
+<meta name="generator" content="vBulletin 4.2.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+	<link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon" />
+
+
+		<meta name="keywords" content="PDMS,PDMS 12,Iso Draft,forum,model review,Plant Design,software" />
+		<meta name="description" content="Aveva World Forum is a PDMS forum for the discussion of PDMS." />
+
+
+
+
+
+	
+		<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.9.0/build/yuiloader-dom-event/yuiloader-dom-event.js&amp;2.9.0/build/connection/connection-min.js"></script>
+	
+
+<script type="text/javascript">
+<!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=421"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=421"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'http://yui.yahooapis.com/2.9.0/build';
+		var yuicombopath = 'http://yui.yahooapis.com/combo';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="http://yui.yahooapis.com/2.9.0/build/connection/connection-min.js?v=421"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=d0c250490dcc4e873242b55c9260ec71&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "421";
+	var BBURL = "http://www.avevaworldforum.com/forum";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "index";
+	var RELPATH = "";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.avevaworldforum.com/forum/";
+// -->
+</script>
+<script type="text/javascript" src="http://www.avevaworldforum.com/forum/clientscript/vbulletin-core.js?v=421"></script>
+
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=35&amp;langid=1&amp;d=1378770577&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css," />
+
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=35&amp;langid=1&amp;d=1378770577&amp;td=ltr&amp;sheet=popupmenu-ie.css,vbulletin-ie.css,vbulletin-chrome-ie.css,vbulletin-formcontrols-ie.css,editor-ie.css" />
+	<![endif]-->
+
+
+	<title>Aveva World Forum - PDMS Forum, PDMS 12, Plant Design Software</title>
+	<script type="text/javascript" src="clientscript/vbulletin_read_marker.js?v=421"></script>
+	
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=35&amp;langid=1&amp;d=1378770577&amp;td=ltr&amp;sheet=forumbits.css,forumhome.css,options.css" />
+        
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="css.php?styleid=35&amp;langid=1&amp;d=1378770577&amp;td=ltr&amp;sheet=forumbits-ie.css,options-ie.css" /><![endif]-->
+        
+        <link rel="stylesheet" type="text/css" href="css.php?styleid=35&amp;langid=1&amp;d=1378770577&amp;td=ltr&amp;sheet=sidebar.css,widgets.css,tagcloud.css" />
+        <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="css.php?styleid=35&amp;langid=1&amp;d=1378770577&amp;td=ltr&amp;sheet=sidebar-ie.css" /><![endif]-->
+	<script type="text/javascript">
+	<!--
+		document.write('<script type="text/javascript" src="' + yuipath + '/animation/animation-min.js?v=421"></script>');
+		var sidebar_align = 'right';
+		var content_container_margin = parseInt('290px');
+		var sidebar_width = parseInt('270px');
+	//-->
+	</script>
+	<script type="text/javascript" src="http://www.avevaworldforum.com/forum/clientscript/vbulletin-sidebar.js?v=421"></script>
+	
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=35&amp;langid=1&amp;d=1378770577&amp;td=ltr&amp;sheet=additional.css" />
+
+</head>
+	<body>
+
+	<center>
+<div style="text-align:center; background-color: #eeeeee; margin-top: 5px; margin-bottom: 5px; font-family: Arial; font-size: 11px">
+<a href="http://futureofplantdesign.aveva.com" target="_top">
+<img src="http://www.avevaworldforum.com/forum/banner/aveva_banner_ad_2013_e3d.gif" width="728" height="90" alt="Aveva E3D" border="0"/></a>
+</div>
+</center>
+<div class="above_body"> <!-- closing tag is in template navbar -->
+<div id="header" class="floatcontainer doc_header">
+	<div><a name="top" href="index.php?s=d0c250490dcc4e873242b55c9260ec71" class="logo-image"><img src="images/misc/awf.png" alt="Aveva World Forum - PDMS Forum, PDMS 12, Plant Design Software" /></a></div>
+	<div id="toplinks" class="toplinks">
+		
+			<ul class="nouser">
+			
+				<li><a href="register.php?s=d0c250490dcc4e873242b55c9260ec71" rel="nofollow">Register</a></li>
+			
+				<li><a rel="help" href="faq.php?s=d0c250490dcc4e873242b55c9260ec71">Help</a></li>
+				<li>
+			<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=421"></script>
+			<form id="navbar_loginform" action="login.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+				<fieldset id="logindetails" class="logindetails">
+					<div>
+						<div>
+					<input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" />
+					<input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
+					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;" />
+					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
+						</div>
+					</div>
+				</fieldset>
+				<div id="remember" class="remember">
+					<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /> Remember Me?</label>
+				</div>
+
+				<input type="hidden" name="s" value="d0c250490dcc4e873242b55c9260ec71" />
+				<input type="hidden" name="securitytoken" value="guest" />
+				<input type="hidden" name="do" value="login" />
+				<input type="hidden" name="vb_login_md5password" />
+				<input type="hidden" name="vb_login_md5password_utf" />
+			</form>
+			<script type="text/javascript">
+			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+			</script>
+				</li>
+				
+			</ul>
+		
+	</div>
+	<div class="ad_global_header">
+		 
+		 
+	</div>
+	<hr />
+</div>
+
+	<div id="navbar" class="navbar">
+	<ul id="navtabs" class="navtabs floatcontainer">
+		
+		
+	
+		<li class="selected" id="vbtab_forum">
+			<a class="navtab" href="index.php">Forum</a>
+		</li>
+		
+		
+			<ul class="floatcontainer">
+				
+					
+						
+							<li id="vbflink_faq"><a href="faq.php?s=d0c250490dcc4e873242b55c9260ec71">FAQ</a></li>
+						
+					
+				
+					
+						
+							<li id="vbflink_calendar"><a href="calendar.php?s=d0c250490dcc4e873242b55c9260ec71">Calendar</a></li>
+						
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_actions">
+							<a href="javascript://" class="popupctrl">Forum Actions</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbalink_mfr"><a href="forumdisplay.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=markread&amp;markreadhash=guest">Mark Forums Read</a></li>
+								
+							</ul>
+						</li>
+					
+				
+					
+						
+					
+				
+			</ul>
+		
+
+		
+	</ul>
+	
+		<div id="globalsearch" class="globalsearch">
+			<form action="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=process" method="post" id="navbar_search" class="navbar_search">
+				
+				<input type="hidden" name="securitytoken" value="guest" />
+				<input type="hidden" name="do" value="process" />
+				<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+				<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+			</form>
+			<ul class="navbar_advanced_search">
+				<li><a href="search.php?s=d0c250490dcc4e873242b55c9260ec71" accesskey="4">Advanced Search</a></li>
+				
+			</ul>
+		</div>
+	
+</div>
+</div><!-- closing div for above_body -->
+
+<div class="body_wrapper">
+<div id="breadcrumb" class="breadcrumb">
+	<ul class="floatcontainer">
+		<li class="navbithome"><a href="index.php?s=d0c250490dcc4e873242b55c9260ec71" accesskey="1"><img src="images/misc/navbit-home.png" alt="Home" /></a></li>
+		
+		
+	<li class="navbit lastnavbit"><span>Forum</span></li>
+
+	</ul>
+	<hr />
+</div>
+
+ 
+
+
+
+
+
+	<div id="pagetitle">
+		<h1>Aveva World Forum - PDMS Forum, PDMS 12, Plant Design Software</h1>
+		<p id="welcomemessage" class="description">Welcome to the Aveva World Forum - PDMS Forum, PDMS 12, Plant Design Software.</p>
+	</div>
+
+	
+	<div id="content_container" class=" ">
+		<div id="content" >
+	
+	<!-- main -->
+        
+	<ol id="forums" class="floatcontainer">
+		<li class="forumbit_nopost old L1" id="cat1">
+	<div class="forumhead foruminfo L1 collapse">
+		<h2>
+			<span class="forumtitle"><a href="forumdisplay.php?f=1&amp;s=d0c250490dcc4e873242b55c9260ec71">PDMS Forum</a></span>
+			<span class="forumthreadpost">Threads / Posts&nbsp;</span>
+			<span class="forumlastpost">Last PDMS Post</span>
+		
+			<a class="collapse" id="collapse_c_cat1" href="#top"><img src="images/buttons/collapse_40b.png" alt="" /></a>
+		
+		</h2>
+
+		
+	</div>
+	
+	<ol id="c_cat1" class="childforum">
+		<li id="forum8" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_8" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=8&amp;s=d0c250490dcc4e873242b55c9260ec71">News and Announcements</a></h2>
+						
+					</div>
+					<p class="forumdescription">Read and discuss all PDMS related news and announcements in this forum.</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 389</li>
+			<li>Posts: 847</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=11727&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'You’re invited to view the new AVEVA eSeminar Series: Introduction to AVEVA PDMS'">You’re invited to view the...</a>
+	<a href="showthread.php?t=11727&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86070#post86070"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=13295&amp;s=d0c250490dcc4e873242b55c9260ec71" title="kunalcjadhav is offline"><strong>kunalcjadhav</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=13295&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=13295&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">15 Hours Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum86" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_86" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=86&amp;s=d0c250490dcc4e873242b55c9260ec71">Events</a></h2>
+						
+					</div>
+					<p class="forumdescription">Get the latest info on upcoming events.</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 36</li>
+			<li>Posts: 53</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=11943&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'AVEVA World Summit 2012'">AVEVA World Summit 2012</a>
+	<a href="showthread.php?t=11943&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=77724#post77724"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=19095&amp;s=d0c250490dcc4e873242b55c9260ec71" title="KVA Orinox is offline"><strong>KVA Orinox</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=19095&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=19095&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">06-10-2013</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum84" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_84" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=84&amp;s=d0c250490dcc4e873242b55c9260ec71">UpComing Training</a></h2>
+						
+					</div>
+					<p class="forumdescription">Get the latest info on Aveva Product Training classes in your area.</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 4</li>
+			<li>Posts: 36</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=12809&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'PDMS PML .NET Customization - Houston, TX - December 10 – 12, 2012'">PDMS PML .NET Customization -...</a>
+	<a href="showthread.php?t=12809&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=71618#post71618"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=1&amp;s=d0c250490dcc4e873242b55c9260ec71" title="expert is offline"><strong>expert</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=1&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=1&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=newpm&amp;u=1" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">11-19-2012</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum70" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_70" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=70&amp;s=d0c250490dcc4e873242b55c9260ec71">PDMS 12</a></h2>
+						
+					</div>
+					<p class="forumdescription">Get the latest on the new Release of PDMS 12</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 613</li>
+			<li>Posts: 4,021</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=15272&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Tan sintax'">Tan sintax</a>
+	<a href="showthread.php?t=15272&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86110#post86110"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=27&amp;s=d0c250490dcc4e873242b55c9260ec71" title="pitch is offline"><strong>pitch</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=27&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=27&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=newpm&amp;u=27" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">3 Hours Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum82" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_82" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=82&amp;s=d0c250490dcc4e873242b55c9260ec71">PDMS Guides</a></h2>
+						
+					</div>
+					<p class="forumdescription">This area is for Guides created by forum members. All guides are original content only.</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 30</li>
+			<li>Posts: 330</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=11355&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Guide: create a symbol for ISODRAFT'">Guide: create a symbol for...</a>
+	<a href="showthread.php?t=11355&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=85916#post85916"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=19131&amp;s=d0c250490dcc4e873242b55c9260ec71" title="tuankiet99 is offline"><strong>tuankiet99</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=19131&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=19131&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">5 Days Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum66" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_66" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=66&amp;s=d0c250490dcc4e873242b55c9260ec71">Beginners</a></h2>
+						
+					</div>
+					<p class="forumdescription">If you are a new PDMS user and not sure where to post your question, put it here.</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 1,365</li>
+			<li>Posts: 8,299</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	<img src="/forum/images/icons/icon2.png" class="postimg" alt="Arrow" border="0" />
+	
+	<a href="showthread.php?t=15207&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Keyboard shortcut command for selecting current eleement members'">Keyboard shortcut command for...</a>
+	<a href="showthread.php?t=15207&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86055#post86055"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=20461&amp;s=d0c250490dcc4e873242b55c9260ec71" title="MarvinGonda1988 is offline"><strong>MarvinGonda1988</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=20461&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=20461&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">22 Hours Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum76" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_76" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=76&amp;s=d0c250490dcc4e873242b55c9260ec71">Modules</a></h2>
+						<span class="viewing">(4 Viewing)</span>
+					</div>
+					
+
+					
+
+					
+						<div class="subforums">
+	<h4 class="subforumlistlabel">Sub-Forums:</h4>
+	<ol class="subforumlist commalist">
+		
+			<li class="subforum">
+				
+					<img class="inlineimg" src="images/statusicon/subforum_old-48.png" alt="" border="0" id="forum_statusicon_9" /> 
+				
+				<a href="forumdisplay.php?f=9&amp;s=d0c250490dcc4e873242b55c9260ec71">Design Module</a>, 
+			</li>
+		
+			<li class="subforum">
+				
+					<img class="inlineimg" src="images/statusicon/subforum_old-48.png" alt="" border="0" id="forum_statusicon_10" /> 
+				
+				<a href="forumdisplay.php?f=10&amp;s=d0c250490dcc4e873242b55c9260ec71">Draft Module</a>, 
+			</li>
+		
+			<li class="subforum">
+				
+					<img class="inlineimg" src="images/statusicon/subforum_old-48.png" alt="" border="0" id="forum_statusicon_12" /> 
+				
+				<a href="forumdisplay.php?f=12&amp;s=d0c250490dcc4e873242b55c9260ec71">Specon Module</a>, 
+			</li>
+		
+			<li class="subforum">
+				
+					<img class="inlineimg" src="images/statusicon/subforum_old-48.png" alt="" border="0" id="forum_statusicon_13" /> 
+				
+				<a href="forumdisplay.php?f=13&amp;s=d0c250490dcc4e873242b55c9260ec71">Paragon Module</a>, 
+			</li>
+		
+			<li class="subforum">
+				
+					<img class="inlineimg" src="images/statusicon/subforum_old-48.png" alt="" border="0" id="forum_statusicon_67" /> 
+				
+				<a href="forumdisplay.php?f=67&amp;s=d0c250490dcc4e873242b55c9260ec71">Admin Module</a>, 
+			</li>
+		
+			<li class="subforum">
+				
+					<img class="inlineimg" src="images/statusicon/subforum_old-48.png" alt="" border="0" id="forum_statusicon_72" /> 
+				
+				<a href="forumdisplay.php?f=72&amp;s=d0c250490dcc4e873242b55c9260ec71">Global Module</a>, 
+			</li>
+		
+			<li class="subforum">
+				
+					<img class="inlineimg" src="images/statusicon/subforum_old-48.png" alt="" border="0" id="forum_statusicon_78" /> 
+				
+				<a href="forumdisplay.php?f=78&amp;s=d0c250490dcc4e873242b55c9260ec71">Bolting</a>
+			</li>
+		
+	</ol>
+</div>
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 5,759</li>
+			<li>Posts: 35,188</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=10215&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'PDMS Admin Content'">PDMS Admin Content</a>
+	<a href="showthread.php?t=10215&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86101#post86101"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=17992&amp;s=d0c250490dcc4e873242b55c9260ec71" title="pvaladares is offline"><strong>pvaladares</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=17992&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=17992&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">8 Hours Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum11" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_11" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=11&amp;s=d0c250490dcc4e873242b55c9260ec71">Iso Draft</a></h2>
+						
+					</div>
+					<p class="forumdescription">Iso Draft discussion goes Here!</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 1,161</li>
+			<li>Posts: 6,977</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=15269&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Converting isometrics into autocad file'">Converting isometrics into...</a>
+	<a href="showthread.php?t=15269&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86092#post86092"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=786&amp;s=d0c250490dcc4e873242b55c9260ec71" title="ykr is offline"><strong>ykr</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=786&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=786&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=newpm&amp;u=786" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		<li class="left">
+			<a href="http://WWW.GGO.RU" class="siteicon_homepage">
+				Visit Homepage
+			</a>
+		</li>
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">11 Hours Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum73" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_73" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=73&amp;s=d0c250490dcc4e873242b55c9260ec71">Pipe Support(MDS)</a></h2>
+						
+					</div>
+					<p class="forumdescription">Pipe Support(MDS) discussion goes Here!</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 216</li>
+			<li>Posts: 1,037</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	<img src="/forum/images/icons/icon4.png" class="postimg" alt="Exclamation" border="0" />
+	
+	<a href="showthread.php?t=9342&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Problem in opening MDS for my project'">Problem in opening MDS for my...</a>
+	<a href="showthread.php?t=9342&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86089#post86089"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=17992&amp;s=d0c250490dcc4e873242b55c9260ec71" title="pvaladares is offline"><strong>pvaladares</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=17992&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=17992&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">12 Hours Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum29" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_29" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=29&amp;s=d0c250490dcc4e873242b55c9260ec71">Model Review Software General</a></h2>
+						
+					</div>
+					<p class="forumdescription">General Model Review discussion goes Here!</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 269</li>
+			<li>Posts: 1,581</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=15271&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'User Defined Export Rules'">User Defined Export Rules</a>
+	<a href="showthread.php?t=15271&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86083#post86083"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=2746&amp;s=d0c250490dcc4e873242b55c9260ec71" title="vgopik is offline"><strong>vgopik</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=2746&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=2746&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">14 Hours Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum44" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_44" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=44&amp;s=d0c250490dcc4e873242b55c9260ec71">Laser Modelling Interface</a></h2>
+						
+					</div>
+					<p class="forumdescription">LMI discussion goes Here!</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 40</li>
+			<li>Posts: 306</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=14711&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'ptx format files'">ptx format files</a>
+	<a href="showthread.php?t=14711&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=85252#post85252"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=5055&amp;s=d0c250490dcc4e873242b55c9260ec71" title="corrado is offline"><strong>corrado</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=5055&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=5055&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">3 Weeks Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum61" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_61" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=61&amp;s=d0c250490dcc4e873242b55c9260ec71">PDMS "Lessons Learned"</a></h2>
+						
+					</div>
+					
+
+					
+
+					
+						<div class="subforums">
+	<h4 class="subforumlistlabel">Sub-Forums:</h4>
+	<ol class="subforumlist commalist">
+		
+			<li class="subforum">
+				
+					<img class="inlineimg" src="images/statusicon/subforum_old-48.png" alt="" border="0" id="forum_statusicon_4" /> 
+				
+				<a href="forumdisplay.php?f=4&amp;s=d0c250490dcc4e873242b55c9260ec71">Troubleshooting</a>, 
+			</li>
+		
+			<li class="subforum">
+				
+					<img class="inlineimg" src="images/statusicon/subforum_old-48.png" alt="" border="0" id="forum_statusicon_5" /> 
+				
+				<a href="forumdisplay.php?f=5&amp;s=d0c250490dcc4e873242b55c9260ec71">Installation &amp; Upgrades</a>, 
+			</li>
+		
+			<li class="subforum">
+				
+					<img class="inlineimg" src="images/statusicon/subforum_old-48.png" alt="" border="0" id="forum_statusicon_62" /> 
+				
+				<a href="forumdisplay.php?f=62&amp;s=d0c250490dcc4e873242b55c9260ec71">Error Codes</a>
+			</li>
+		
+	</ol>
+</div>
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 385</li>
+			<li>Posts: 2,714</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=15070&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Change in system for PDMS installation'">Change in system for PDMS...</a>
+	<a href="showthread.php?t=15070&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86099#post86099"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=10163&amp;s=d0c250490dcc4e873242b55c9260ec71" title="atish is offline"><strong>atish</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=10163&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=10163&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">9 Hours Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum6" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_6" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=6&amp;s=d0c250490dcc4e873242b55c9260ec71">Macros &amp; Tools</a></h2>
+						
+					</div>
+					<p class="forumdescription">Quick Macros and Tools for members.</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 270</li>
+			<li>Posts: 2,035</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=15270&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Batch Command to change encoding format to UTF-8 without BOM'">Batch Command to change...</a>
+	<a href="showthread.php?t=15270&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86102#post86102"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=10163&amp;s=d0c250490dcc4e873242b55c9260ec71" title="atish is offline"><strong>atish</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=10163&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=10163&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">6 Hours Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum28" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_28" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=28&amp;s=d0c250490dcc4e873242b55c9260ec71">PML and PML2</a></h2>
+						<span class="viewing">(1 Viewing)</span>
+					</div>
+					<p class="forumdescription">PML and PML2 discussion goes Here!</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 1,290</li>
+			<li>Posts: 8,361</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	<img src="/forum/images/icons/icon5.png" class="postimg" alt="Question" border="0" />
+	
+	<a href="showthread.php?t=8779&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'PML external events and callbacks'">PML external events and...</a>
+	<a href="showthread.php?t=8779&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86097#post86097"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=1894&amp;s=d0c250490dcc4e873242b55c9260ec71" title="shronaldo is offline"><strong>shronaldo</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=1894&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=1894&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">10 Hours Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum68" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_68" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=68&amp;s=d0c250490dcc4e873242b55c9260ec71">Exchange data with PDMS</a></h2>
+						
+					</div>
+					<p class="forumdescription">Please put your importing, exporting from PDMS questions/tips here</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 218</li>
+			<li>Posts: 1,473</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=15245&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Plate with Hole from Tekla to PDMS'">Plate with Hole from Tekla to...</a>
+	<a href="showthread.php?t=15245&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=85976#post85976"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=15528&amp;s=d0c250490dcc4e873242b55c9260ec71" title="n2pz is offline"><strong>n2pz</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=15528&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=15528&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">4 Days Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum3" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_3" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=3&amp;s=d0c250490dcc4e873242b55c9260ec71">PDMS Quick Tips &amp; Customizations</a></h2>
+						
+					</div>
+					<p class="forumdescription">Instructions for common questions regarding implementing features and changes in PDMS</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 111</li>
+			<li>Posts: 854</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	<img src="/forum/images/icons/icon3.png" class="postimg" alt="Lightbulb" border="0" />
+	
+	<a href="showthread.php?t=12868&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'creating a interface between pdmsver 12 to ceaser without using the PSI application'">creating a interface between...</a>
+	<a href="showthread.php?t=12868&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86050#post86050"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=5055&amp;s=d0c250490dcc4e873242b55c9260ec71" title="corrado is offline"><strong>corrado</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=5055&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=5055&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">1 Day Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+	</ol>
+	
+</li><li class="forumbit_nopost old L1" id="cat80">
+	<div class="forumhead foruminfo L1 collapse">
+		<h2>
+			<span class="forumtitle"><a href="forumdisplay.php?f=80&amp;s=d0c250490dcc4e873242b55c9260ec71">PDMS in Your Language</a></span>
+			<span class="forumthreadpost">Threads / Posts&nbsp;</span>
+			<span class="forumlastpost">Last PDMS Post</span>
+		
+			<a class="collapse" id="collapse_c_cat80" href="#top"><img src="images/buttons/collapse_40b.png" alt="" /></a>
+		
+		</h2>
+
+		
+	</div>
+	
+	<ol id="c_cat80" class="childforum">
+		<li id="forum85" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_85" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=85&amp;s=d0c250490dcc4e873242b55c9260ec71">PDMS en Français</a></h2>
+						
+					</div>
+					<p class="forumdescription">Vouz avez des questions en français? Posez-les ici.</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 12</li>
+			<li>Posts: 36</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=9687&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Configurer le noms des layers...'">Configurer le noms des...</a>
+	<a href="showthread.php?t=9687&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=84987#post84987"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=10473&amp;s=d0c250490dcc4e873242b55c9260ec71" title="Math38 is offline"><strong>Math38</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=10473&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=10473&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">4 Weeks Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum46" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_46" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=46&amp;s=d0c250490dcc4e873242b55c9260ec71">PDMS en Español</a></h2>
+						
+					</div>
+					<p class="forumdescription">¿Usted tiene una pregunta en español? Pregúntela aquí.</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 265</li>
+			<li>Posts: 1,174</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=15263&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'como guardar proyecto fuera del pc'">como guardar proyecto fuera...</a>
+	<a href="showthread.php?t=15263&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86098#post86098"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=17627&amp;s=d0c250490dcc4e873242b55c9260ec71" title="juansetien is offline"><strong>juansetien</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=17627&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=17627&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">10 Hours Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum81" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_81" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=81&amp;s=d0c250490dcc4e873242b55c9260ec71">PDMS em Português</a></h2>
+						
+					</div>
+					<p class="forumdescription">Tem uma pergunta em Português? Peça aqui.</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 196</li>
+			<li>Posts: 879</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=15266&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Alterar cor das tubagens'">Alterar cor das tubagens</a>
+	<a href="showthread.php?t=15266&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86049#post86049"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=20899&amp;s=d0c250490dcc4e873242b55c9260ec71" title="ACFERREIRA is offline"><strong>ACFERREIRA</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=20899&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=20899&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">1 Day Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum64" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_64" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=64&amp;s=d0c250490dcc4e873242b55c9260ec71">PDMS Deutsch</a></h2>
+						
+					</div>
+					<p class="forumdescription">Hast du eine Frage, stell sie hier in Deutsch</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 19</li>
+			<li>Posts: 106</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=13424&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'PDMS Report mit CSV'">PDMS Report mit CSV</a>
+	<a href="showthread.php?t=13424&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=75667#post75667"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=14866&amp;s=d0c250490dcc4e873242b55c9260ec71" title="Global is offline"><strong>Global</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=14866&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=14866&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">04-08-2013</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum79" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_79" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=79&amp;s=d0c250490dcc4e873242b55c9260ec71">PDMS &#1085;&#1072; &#1088;&#1091;&#1089;&#1089;&#1082;&#1086;&#1084;</a></h2>
+						
+					</div>
+					<p class="forumdescription">&#1045;&#1089;&#1090;&#1100; &#1074;&#1086;&#1087;&#1088;&#1086;&#1089;&#1099; &#1085;&#1072; &#1088;&#1091;&#1089;&#1089;&#1082;&#1086;&#1084; &#1103;&#1079;&#1099;&#1082;&#1077;? &#1054;&#1073;&#1089;&#1091;&#1078;&#1076;&#1072;&#1077;&#1084; &#1079;&#1076;&#1077;&#1089;&#1100;.</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 151</li>
+			<li>Posts: 1,970</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=15268&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread '&#1080;&#1097;&#1091; &#1083;&#1102;&#1076;&#1077;&#1081; &#1085;&#1072; &#1087;&#1086;&#1079;&#1080;&#1094;&#1080;&#1102; PDMS civil/structural designer'">&#1080;&#1097;&#1091; &#1083;&#1102;&#1076;&#1077;&#1081; &#1085;&#1072; &#1087;&#1086;&#1079;&#1080;&#1094;&#1080;&#1102; PDMS...</a>
+	<a href="showthread.php?t=15268&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86093#post86093"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=786&amp;s=d0c250490dcc4e873242b55c9260ec71" title="ykr is offline"><strong>ykr</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=786&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=786&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=newpm&amp;u=786" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		<li class="left">
+			<a href="http://WWW.GGO.RU" class="siteicon_homepage">
+				Visit Homepage
+			</a>
+		</li>
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">11 Hours Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+	</ol>
+	
+</li><li class="forumbit_nopost old L1" id="cat63">
+	<div class="forumhead foruminfo L1 collapse">
+		<h2>
+			<span class="forumtitle"><a href="forumdisplay.php?f=63&amp;s=d0c250490dcc4e873242b55c9260ec71">General</a></span>
+			<span class="forumthreadpost">Threads / Posts&nbsp;</span>
+			<span class="forumlastpost">Last PDMS Post</span>
+		
+			<a class="collapse" id="collapse_c_cat63" href="#top"><img src="images/buttons/collapse_40b.png" alt="" /></a>
+		
+		</h2>
+
+		
+	</div>
+	
+	<ol id="c_cat63" class="childforum">
+		<li id="forum15" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_15" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=15&amp;s=d0c250490dcc4e873242b55c9260ec71">Members Chat Area!</a></h2>
+						
+					</div>
+					<p class="forumdescription">We welcome all members to tell us about yourself or just chat about anything!</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 432</li>
+			<li>Posts: 2,625</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=7995&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'PDMSWORLD for smartphones'">PDMSWORLD for smartphones</a>
+	<a href="showthread.php?t=7995&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=85765#post85765"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=17992&amp;s=d0c250490dcc4e873242b55c9260ec71" title="pvaladares is offline"><strong>pvaladares</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=17992&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=17992&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">1 Week Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum26" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_26" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=26&amp;s=d0c250490dcc4e873242b55c9260ec71">PDMS Wish List</a></h2>
+						<span class="viewing">(1 Viewing)</span>
+					</div>
+					<p class="forumdescription">List features you would like in PDMS Plant Design Software</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 88</li>
+			<li>Posts: 593</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	
+	
+	<a href="showthread.php?t=14895&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Color each piping component individual'">Color each piping component...</a>
+	<a href="showthread.php?t=14895&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86023#post86023"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=1894&amp;s=d0c250490dcc4e873242b55c9260ec71" title="shronaldo is offline"><strong>shronaldo</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=1894&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=1894&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">1 Day Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li><li id="forum16" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_16" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?f=16&amp;s=d0c250490dcc4e873242b55c9260ec71">Show Off Your Work!</a></h2>
+						
+					</div>
+					<p class="forumdescription">Show off your latest PDMS work!</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<div class="forumactionlinks"></div>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 58</li>
+			<li>Posts: 627</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last PDMS Post:</h4>
+			<div>
+				
+	<p class="lastposttitle">
+	<img src="/forum/images/icons/icon3.png" class="postimg" alt="Lightbulb" border="0" />
+	
+	<a href="showthread.php?t=13953&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'IsoAlgo'">IsoAlgo</a>
+	<a href="showthread.php?t=13953&amp;s=d0c250490dcc4e873242b55c9260ec71&amp;p=86082#post86082"><img src="images/buttons/lastpost-right.png" alt="Go to last PDMS post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?u=10410&amp;s=d0c250490dcc4e873242b55c9260ec71" title="eryar is offline"><strong>eryar</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?u=10410&amp;s=d0c250490dcc4e873242b55c9260ec71" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=finduser&amp;userid=10410&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		<li class="left">
+			<a href="http://www.cppblog.com/eryar/" class="siteicon_homepage">
+				Visit Homepage
+			</a>
+		</li>
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+	
+	</div>
+	<p class="lastpostdate">14 Hours Ago</p>
+
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+	</ol>
+	
+</li>
+	</ol>
+        
+	<!-- /main -->
+
+        <div class="navlinks">
+        <a href="forumdisplay.php?s=d0c250490dcc4e873242b55c9260ec71&amp;do=markread&amp;markreadhash=guest" rel="nofollow">Mark PDMS Forums Read</a>
+	
+        </div>
+	 
+	<!-- what's going on box -->
+	<div id="wgo" class="collapse wgo_block block">
+		<h2 class="blockhead">What's Going On?</h2>
+		<div class="blockbody formcontrols floatcontainer">
+			
+			
+			<!-- logged-in users -->
+			<div id="wgo_onlineusers" class="wgo_subblock section">
+				<h3 class="blocksubhead"><img src="images/misc/users_online.png" alt="Currently Active PDMS Users" />Currently Active PDMS Users</h3>
+				<div>
+					<p>There are currently <a href="online.php?s=d0c250490dcc4e873242b55c9260ec71">36 users online</a>. <span class="shade">4 members and 32 guests</span></p>
+					<p>Most users ever online was 218, 08-05-2009 at <span class="time">04:32 AM</span>.</p>
+					
+					<ol class="commalist" id="wgo_onlineusers_list">
+						
+							<li><a class="username" href="member.php?u=20641&amp;s=d0c250490dcc4e873242b55c9260ec71">bellrey</a>, </li>
+						
+							<li><a class="username" href="member.php?u=8115&amp;s=d0c250490dcc4e873242b55c9260ec71">guru4life</a>, </li>
+						
+							<li><a class="username" href="member.php?u=12370&amp;s=d0c250490dcc4e873242b55c9260ec71">Paulobod</a>, </li>
+						
+							<li><a class="username" href="member.php?u=5944&amp;s=d0c250490dcc4e873242b55c9260ec71">shb_82</a></li>
+						
+					</ol>
+					
+				</div>
+			</div>
+			<!-- end logged-in users -->
+			
+			
+			<!-- Start Members Today -->
+			
+			<!-- End Members Today -->
+			
+			
+			
+			
+			
+			<div id="wgo_stats" class="wgo_subblock section">
+				<h3 class="blocksubhead"><img src="images/misc/forum_stats.png" alt="Aveva World Forum - PDMS Forum, PDMS 12, Plant Design Software Statistics" />Aveva World Forum - PDMS Forum, PDMS 12, Plant Design Software Statistics</h3>
+				<div>
+					<dl>
+						<dt>Threads</dt>
+							<dd>13,536</dd>
+						<dt>Posts</dt>
+							<dd>82,548</dd>
+						<dt>Members</dt>
+							<dd>19,553</dd>
+						
+					</dl>
+					<p>Welcome to our newest PDMS member, <a href="member.php?u=21076&amp;s=d0c250490dcc4e873242b55c9260ec71">VoLe</a></p>
+					
+				</div>
+			</div>
+			<div id="wgo_legend" class="wgo_subblock section">
+				<h3 class="blocksubhead"><img src="images/misc/legend.png" alt="Icon Legend" />Icon Legend</h3>
+				<div>
+					<dl id="icon_legends" class="icon_legends">
+						<dt><img src="images/statusicon/forum_new-16.png" alt="Contains unread forum posts" /></dt><dd>Contains unread forum posts</dd>
+						<dt><img src="images/statusicon/forum_old-16.png" alt="Contains no unread forum posts" /></dt><dd>Contains no unread forum posts</dd>
+						
+						<dt><img src="images/statusicon/category-16.png" alt="Forum is a category" /></dt><dd>Forum is a category</dd>
+						<dt><img src="images/statusicon/forum_link-16.png" alt="Forum is a Link" /></dt><dd>Forum is a Link</dd>
+					
+					</dl>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<!-- end what's going on box -->
+
+	 
+	
+		</div>
+	</div>
+
+	<div id="sidebar_container" class="">
+		<a id="sidebar_button_link" href="#">
+			
+			<img id="sidebar_button" src="images/misc/tab-collapsed.png" alt="" />
+			
+		</a>
+		<ul id="sidebar"  >
+			<li>
+	<div class="block smaller">
+		<div class="blocksubhead">
+			<a class="collapse" id="collapse_block_html_7" href="#top"><img alt="" src="images/buttons/collapse_40b.png" id="collapseimg_html_7"/></a>
+			<span class="blocktitle">UpComing Training</span>
+		</div>
+		<div class="widget_content blockbody floatcontainer">
+		<div id="block_html_7" class="blockrow">
+			<a href="http://avevaworldforum.com/forum/banner/AVEVA_2014_trainSched-1stquarter.pdf" title="AVEVA 2014 Training" target="_blank"><img src="http://www.avevaworldusergroup.com/forum/banner/aveva_training_2014.png" /></a>
+<br>
+<p>AVEVA will be holding various courses from Jan-Mar 2014. </p><br>
+<p>For more information about these classes, <a href="http://avevaworldforum.com/forum/banner/AVEVA_2014_trainSched-1stquarter.pdf">View 2014 Training Schedule.</a></p>
+<br>
+<p>Ready to pay for your training session? Click button below to pay easily! </p><br>
+<p><b>USA PAYMENTS</b></p>
+<center>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="VTNCSBSL7DTB4">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></center><br>
+
+<p><b>CANADIAN PAYMENTS</b></p>
+<center>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="QN5QK2VCALHCQ">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></center>
+		</div>
+		</div>
+	</div>
+	<div class="underblock"></div>
+</li><li>
+	<div class="block smaller">
+		<div class="blocksubhead">
+			<a class="collapse" id="collapse_block_html_11" href="#top"><img alt="" src="images/buttons/collapse_40b.png" id="collapseimg_html_11"/></a>
+			<span class="blocktitle">Follow Aveva</span>
+		</div>
+		<div class="widget_content blockbody floatcontainer">
+		<div id="block_html_11" class="blockrow">
+			<a href="http://twitter.com/#!/avevagroup" title="Follow AVEVA on Twitter" target="_blank"><img style="width: 50px; height: 50px;border: 0px solid;" alt="Follow AVEVA on Twitter" src="http://www.avevaworldforum.com/forum/images/misc/Twitter_128x128.png" /></a>
+
+<a href="http://www.youtube.com/avevagroup" title="Follow AVEVA on YouTube" target="_blank"><img style="width: 50px; height: 50px;border: 0px solid;" alt="Follow AVEVA on YouTube" src="http://www.avevaworldforum.com/forum/images/misc/Youtube_128x128.png" /></a>
+
+<a href="http://www.linkedin.com/company/aveva" title="Follow AVEVA on LinkedIn" target="_blank"><img style="width: 50px; height: 50px;border: 0px solid;" alt="Follow AVEVA on LinkedIn" src="http://www.avevaworldforum.com/forum/images/misc/linkedin_60x60.png" /></a>
+		</div>
+		</div>
+	</div>
+	<div class="underblock"></div>
+</li>
+		</ul>
+	</div>
+	
+	<script type="text/javascript">
+	<!--
+	vbphrase['doubleclick_forum_markread'] = "Double-click this icon to mark this forum and its contents as read";
+	init_forum_readmarker_system();
+	//-->
+	</script>
+	
+<div style="clear: left">
+   
+   
+</div>
+
+<div id="footer" class="floatcontainer footer">
+
+	<form action="index.php" method="get" id="footer_select" class="footer_select">
+
+		
+			<select name="styleid" onchange="switch_id(this, 'style')">
+				<optgroup label="Quick Style Chooser"><option class="hidden"></option></optgroup>
+				
+					
+					<optgroup label="&nbsp;Standard Styles">
+									
+					
+	<option value="35" class="" selected="selected">-- AvevaWorld 2012</option>
+
+					
+					</optgroup>
+										
+				
+				
+					
+					<optgroup label="&nbsp;Mobile Styles">
+					
+					
+	<option value="36" class="" >-- Aveva World Mobile 2012</option>
+
+					
+					</optgroup>
+										
+				
+			</select>	
+		
+		
+		
+			<select name="langid" onchange="switch_id(this, 'lang')">
+				<optgroup label="Quick Language Chooser">
+					
+	<option value="1" class="" selected="selected">-- English (US)</option>
+
+	<option value="7" class="" >-- New Spanish Language</option>
+
+	<option value="4" class="" >-- Portuguese</option>
+
+	<option value="2" class="" >-- Spanish</option>
+
+	<option value="3" class="" >-- Spanish 1</option>
+
+				</optgroup>
+			</select>
+		
+	</form>
+
+	<ul id="footer_links" class="footer_links">
+		<li><a href="sendmessage.php?s=d0c250490dcc4e873242b55c9260ec71" rel="nofollow" accesskey="9">Contact Us</a></li>
+		<li><a href="http://www.avevaworldforum.com">Aveva World Forum</a></li>
+		
+		
+		<li><a href="archive/index.php?s=d0c250490dcc4e873242b55c9260ec71">Archive</a></li>
+		
+		
+		<li><a href="http://www.avevaworldforum.com/forum/faq.php">Terms of Service</a></li>
+		<li><a href="#top" onclick="document.location.hash='top'; return false;">Top</a></li>
+	</ul>
+	
+	
+	
+	
+	<script type="text/javascript">
+	<!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+	</script>
+        
+</div>
+</div> <!-- closing div for body_wrapper -->
+
+<div class="below_body">
+<div id="footer_time" class="shade footer_time">All times are GMT -5. The time now is <span class="time">06:46 PM</span>.</div>
+
+<div id="footer_copyright" class="shade footer_copyright">
+	<!-- Do not remove this copyright notice -->
+	Powered by <a href="https://www.vbulletin.com" id="vbulletinlink">vBulletin&reg;</a> Version 4.2.1 <br />Copyright &copy; 2014 vBulletin Solutions, Inc. All rights reserved. 
+	<!-- Do not remove this copyright notice -->	
+</div>
+<div id="footer_morecopyright" class="shade footer_morecopyright">
+	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+	<img src="http://www.avevaworldforum.com/forum/cron.php?s=d0c250490dcc4e873242b55c9260ec71&amp;rand=1393371989" alt="" width="1" height="1" border="0" />
+	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+	This forum website is operated by the AVEVA Group Plc (“AVEVA”).
+	
+</div>
+  
+
+</div>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.iso15926.net/>====================
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ISO 15926 Browser</title>
+    <link href="/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/kendo/2012.3.1315/kendo.common.min.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/kendo/2012.3.1315/kendo.dataviz.min.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/kendo/2012.3.1315/kendo.uniform.min.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/kendo/2012.3.1315/kendo.dataviz.default.min.css" rel="stylesheet" type="text/css" />
+    <script src="/Scripts/kendo/2012.3.1315/jquery.min.js"></script>
+    <script src="/Scripts/kendo/2012.3.1315/kendo.all.min.js"></script>
+    <script src="/Scripts/kendo/2012.3.1315/kendo.aspnetmvc.min.js"></script>
+    <script src="/Scripts/kendo.modernizr.custom.js"></script>
+    <script type="text/jscript">
+
+        function ShowTab(targetUrl, title) {
+
+            var tabStrip = $("#tabstrip").data("kendoTabStrip");
+
+            // Get Tab Id
+            var tabId = title.replace(/\s/g, '').replace(':', '');
+
+            var innerText = title + " <img src='../../Content/images/close-12x12.png' style='padding-left: 10px;' onclick='DeleteTab(this);' /><span id='" + tabId + "'/>";
+            //var innerText = title + "<span id='" + tabId + "'/>";
+
+            var currentTab = $("#" + tabId).closest('.k-item');
+
+            if (currentTab.length) {
+                tabStrip.select(currentTab);
+            }
+            else {
+
+                tabStrip.append({ text: innerText, encoded: false, contentUrl: targetUrl });
+                tabStrip.select((tabStrip.tabGroup.children("li").length - 1));
+
+                resizeTabs();
+            }
+        }
+
+        function DeleteTab(imgObj) {
+
+            var tabStrip = $("#tabstrip").data("kendoTabStrip");
+
+            var deleteIndex = $(imgObj).closest("li").index();
+            tabStrip.remove(deleteIndex);
+
+            // Select next tab
+            if (deleteIndex > 0) {
+                var nextTab = tabStrip.select(deleteIndex);
+
+                if (nextTab.length) {
+                    tabStrip.select(deleteIndex);
+                }
+                else {
+                    tabStrip.select(deleteIndex - 1);
+                }
+            }
+            else {
+                tabStrip.select(0);
+            }
+        }
+
+    </script>
+    <style>
+        html, body
+        {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        #vertical
+        {
+            height: 550px;
+            border-width: 0;
+        }
+        #horizontal
+        {
+            width: 100%;
+            height: 100%;
+        }
+        #searchbar
+        {
+            border: 1px solid #ddd;
+            padding-top: 3px;
+            text-align: right;
+            display: block;
+        }
+        
+        #header, #footer
+        {
+            background-color: #878a72;
+            padding: 0px;
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        
+        
+        
+        <div id="vertical">
+            <div id="searchbar"><div>
+    
+    <input id="classes" name="classes" style="width: 350px;" type="text" /><script>
+	jQuery(function(){jQuery("#classes").kendoAutoComplete({"select":searchClassSelect,"change":searchClassChange,"dataSource":{"transport":{"prefix":"","read":{"url":"/Search/GetClasses","data":onAdditionalData}},"serverFiltering":true,"filter":[],"schema":{"errors":"Errors"}},"dataTextField":"id","minLength":2,"placeholder":"Search classes..."});});
+</script>
+    &nbsp;
+</div>
+<script>
+    function onAdditionalData() {
+        return {
+            text: $("#classes").val()
+        };
+    }
+
+    function searchClassChange() {
+        
+    };
+
+    function searchClassSelect(e) {
+        var dataItem = this.dataItem(e.item.index());
+        ShowTab('/View/Item?id=' + dataItem.id, dataItem.id)
+    };
+</script>
+<style scoped="scoped">
+    .k-autocomplete
+    {
+        width: 250px;
+    }
+</style>
+</div>
+            <div id="horizontal" style="height: 100%; width: 100%;">
+                <div>
+                    
+<style>
+    #explorer
+    {
+        height: 100%;
+        padding: 0px;
+        margin: 0px;
+    }
+</style>
+<div class="k-widget k-treeview k-reset" id="treeview"></div><script>
+	jQuery(function(){jQuery("#treeview").kendoTreeView({"select":onSelect,"dataSource":{"transport":{"prefix":"","read":{"url":"/Explorer/GetClasses"}},"schema":{"errors":"Errors"}},"dataTextField":"ClassName"});});
+</script>
+<script type="text/javascript">
+    var treeview;
+
+    function onSelect(e) {
+        ShowTab('/View/Item?id=' + treeview.text(e.node), treeview.text(e.node))
+    }
+
+    $(document).ready(function () {
+        treeview = $("#treeview").data("kendoTreeView");
+    });
+</script>
+
+                </div>
+                <div>
+                    <div id="tabstrip">
+                        <ul>
+                            <li class="k-state-active" style="padding-left: 6px;"><img src="../../Content/images/home2.png" height="14" /></li>
+                        </ul>
+                        <div>
+                            
+
+<h1>ISO 15926 Browser</h1>
+
+<p>This tool utilises the data of <a href="http://en.wikipedia.org/wiki/ISO_15926" title="ISO 15926 on Wikipedia"><b>ISO 15926</b></a>, a standard for data integration and
+exchange in the process plant industry such as oil and gas production facilities.</p>
+<p>The <b>ISO 15926 Browser</b> tool is based on the Reference Data of <b>ISO 15926</b>, comprising (within this tool) of <b>10,598 classes</b>.</p>
+<p>I have to claim I <i>am not</i> an expert on ISO 15926, although I do work in data management in the process plant industry. I have never encountered a realistic
+use of ISO 15926 other than as a buzz word. As a software engineer I have a greater interest in the managment of the copious amounts of data involved in the design
+and development of a process plant, how the data is structured, and how it is validated.</p>
+<p style="color: Red;"><b>Note:</b> Please be patient initially while classes load. This prototype parses all 10,598 classes, determines hierarchy, and merges duplicates, all during the initial delay you may experience. Considering the amount of processing required this is actually quite impressive. When I get time I'll stick it in a database instead which will be <i>superfast</i>.</p>
+<h2>Multiple Inheritance, or lack of</h2>
+
+<p>I've been a software engineer since the days of C and C++, back when <b>Multiple Inheritance</b> was as rife as the Black Death was in London, circa 1348.
+ISO 15926 uses multiple inheritance in a day and age where it's become a thing of the past. Multiple inheritance <i>smells</i>, mostly as it's done for <i>bad reasons</i>.</p>
+<p>The framework I've used to manipulate the ISO 15926 reference data is based on single inheritance. Yes, I could change the framework, but I won't. The caveat of this is where
+a class has more than one parent, only one is used in the hierarchy. I've created this ISO 15926 browser to provide a simple view of the reference data in a hierarchical format, and that's that.</p>
+<br />
+<p>If you want to contact me with any feedback or comments then please do so at <a href="mailto:info@iso15926.net">info@iso15926.net</a>.</p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+
+        function resizeTabs() {
+            var paneHeight = $("#tabstrip").closest(".k-pane").innerHeight();
+            var tabsHeight = $("#tabstrip > .k-tabstrip-items").outerHeight();
+            $("#tabstrip > div").height(paneHeight - tabsHeight - 14);
+        }
+
+        $("#vertical").kendoSplitter({
+            orientation: "vertical",
+            panes: [
+            //{ collapsible: false, scrollable: false, resizable: false, size: "80px" },
+        { collapsible: false, scrollable: false, resizable: false, size: "30px" },
+        { collapsible: false, scrollable: false }
+    ]
+        });
+
+        $("#horizontal").kendoSplitter({
+            panes: [
+        { collapsible: true, size: "270px" },
+        { collapsible: false, scrollable: true }
+    ],
+            resize: resizeTabs
+        });
+
+        $("#tabstrip").kendoTabStrip();
+
+        resizeTabs();
+
+//        $("#menu").kendoMenu({
+//            select: menuItemSelect
+//        });
+
+//        function menuItemSelect(e) {
+//            switch (e.item.id) {
+//                case "HomeMenuItem":
+//                    $("#tabstrip").data("kendoTabStrip").select(0);
+//                    break;
+//                case "AboutMenuItem":
+//                    ShowTab('/Home/About', 'About');
+//                    break;
+//            }
+//        }
+
+    </script>
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-11799450-21']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+</script>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

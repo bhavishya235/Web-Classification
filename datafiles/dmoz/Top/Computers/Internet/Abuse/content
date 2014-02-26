@@ -1,0 +1,103 @@
+<topic r:id="Top/Computers/Internet/Abuse">
+<catid>374849</catid>
+<link r:resource="http://www.webguardian.com/" />
+<link r:resource="http://www.abuse.net/" />
+<link r:resource="http://www.scambusters.org/" />
+<link r:resource="http://www.cyberlawenforcement.org/" />
+<link r:resource="http://www.faqs.org/faqs/net-abuse-faq/" />
+<link r:resource="http://www2.webmagic.com/abuse.com/" />
+<link r:resource="http://www.pirated-sites.com/" />
+<link r:resource="http://www.cyberbullying.ca/" />
+<link r:resource="http://www.cyberbullying.info/" />
+<link r:resource="http://blog.anta.net/blog/_archives/2007/4/19/2890672.html" />
+<link r:resource="http://www.secureworks.com/resources/articles/other_articles/proxies/" />
+<link r:resource="http://labs.umbrella.com/blog/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Abuse/CAPTCHA">
+<catid>374852</catid>
+<link r:resource="http://www.captcha.net/" />
+<link r:resource="http://en.wikipedia.org/wiki/CAPTCHA" />
+<link r:resource="http://jcaptcha.sourceforge.net/" />
+<link r:resource="http://www.captchacreator.com/" />
+<link r:resource="http://www.w3.org/TR/turingtest/" />
+<link r:resource="http://www.phpcaptcha.org/" />
+<link r:resource="http://www-personal.umich.edu/%7Emressl/3dcaptcha/" />
+<link r:resource="http://www.thecaptcha.com/" />
+<link r:resource="http://www.richgossweiler.com/projects/rotcaptcha/rotcaptcha.pdf" />
+<link r:resource="http://www.google.com/recaptcha" />
+</topic>
+<topic r:id="Top/Computers/Internet/Abuse/Comment_Spam">
+<catid>374853</catid>
+<link r:resource="http://antispam.typepad.com/" />
+<link r:resource="http://www.wired.com/culture/lifestyle/news/2002/10/56017" />
+<link r:resource="http://kalsey.com/2003/11/comment_spam_manifesto/" />
+<link r:resource="http://www.markcarey.com/spamdb/" />
+<link r:resource="http://www.nogbspam.com/" />
+<link r:resource="http://www.internetnews.com/dev-news/article.php/3331341" />
+<link r:resource="http://www.wired.com/wired/archive/12.03/google.html?pg=7" />
+<link r:resource="http://jeremy.zawodny.com/blog/archives/001000.html" />
+<link r:resource="http://news.bbc.co.uk/1/hi/technology/3210623.stm" />
+<link r:resource="http://jeremy.zawodny.com/blog/archives/003862.html" />
+<link r:resource="http://www.learningmovabletype.com/archives/000246concerning_spam.php" />
+<link r:resource="http://akismet.com/" />
+<link r:resource="http://www.msnbc.msn.com/?id=3475953" />
+<link r:resource="http://bad-behavior.ioerror.us/" />
+<link r:resource="http://www.stopforumspam.com/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Abuse/Cyberstalking">
+<catid>374854</catid>
+<link r:resource="http://www.haltabuse.org/" />
+<link r:resource="http://www.jahitchcock.com/cyberstalked/" />
+<link r:resource="http://www.cbsnews.com/stories/2000/03/24/48hours/main175860.shtml" />
+<link r:resource="http://www.karisable.com/crpcstalk.htm" />
+<link r:resource="http://firstmonday.org/issues/issue8_9/mcfarlane/index.html" />
+<link r:resource="http://www.wiredsafety.org/" />
+<link r:resource="http://www.wired.com/politics/law/news/1999/01/17504" />
+<link r:resource="http://www.wired.com/culture/lifestyle/news/2000/05/35943" />
+<link r:resource="http://www.wired.com/politics/law/news/2000/03/35022" />
+<link r:resource="http://www.wired.com/politics/law/news/2000/05/35728" />
+<link r:resource="http://www.fightcyberstalking.org/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Abuse/Denial_of_Service">
+<catid>374855</catid>
+<link r:resource="http://windowsupdate.microsoft.com/" />
+<link r:resource="http://www.blacklotus.net/" />
+<link r:resource="http://www.denialinfo.com/" />
+<link r:resource="http://www.irchelp.org/irchelp/nuke/" />
+<link r:resource="http://staff.washington.edu/dittrich/misc/ddos/" />
+<link r:resource="http://www.cert.org/advisories/CA-2000-01.html" />
+<link r:resource="http://staff.washington.edu/dittrich/misc/trinoo.analysis" />
+<link r:resource="http://staff.washington.edu/dittrich/misc/stacheldraht.analysis" />
+<link r:resource="http://whatis.techtarget.com/definition/0,289893,sid9_gci213591,00.html" />
+<link r:resource="http://www.cert.org/incident_notes/IN-2000-04.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Denial_of_service" />
+<link r:resource="http://www.us-cert.gov/cas/tips/ST04-015.html" />
+<link r:resource="http://www.bindview.com/Support/RAZOR/Utilities/Windows/ZombieZapper_form.cfm" />
+<link r:resource="http://www10.org/cdrom/papers/409/" />
+<link r:resource="http://www.pentics.net/denial-of-service/white-papers/smurf.cgi" />
+<link r:resource="http://tools.ietf.org/html/rfc2267" />
+<link r:resource="http://www.bitpipe.com/tlist/Denial-of-Service-Attacks.html" />
+<link r:resource="http://smurf.powertech.no/" />
+<link r:resource="http://www.cisco.com/en/US/tech/tk59/technologies_white_paper09186a0080174a5b.shtml" />
+</topic>
+<topic r:id="Top/Computers/Internet/Abuse/Referrer_Spam">
+<catid>374850</catid>
+<link r:resource="http://www.metafilter.com/comments.mefi/21063" />
+<link r:resource="http://www.kuro5hin.org/story/2001/5/30/22341/3757" />
+<link r:resource="http://www.komar.org/faq/scumbags/referrer-log-spamming/" />
+<link r:resource="http://www.intertwingly.net/blog/1649.html" />
+<link r:resource="http://www.capndesign.com/archives/2004/07/referrer_spam_is_out_of_control.php" />
+<link r:resource="http://angrypets.com/tools/rdos/" />
+<link r:resource="http://blog.codefront.net/2004/04/06/smarter-referrer-spam/" />
+<link r:resource="http://www.wired.com/culture/lifestyle/news/2002/10/56017" />
+<link r:resource="http://www.addedbytes.com/spam/block-referrer-spam/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Abuse/Usenet_and_Bulletin_Board_Abuse">
+<catid>374851</catid>
+<link r:resource="http://www.xs4all.nl/~rosalind/nocemreg/nocemreg.html" />
+<link r:resource="http://www.teamtechnology.co.uk/troll.htm" />
+<link r:resource="http://www.xs4all.nl/~rosalind/faq-care.html" />
+<link r:resource="http://www.cs.uu.nl/wais/html/na-dir/net-abuse-faq/troll-faq.html" />
+<link r:resource="http://www.angelfire.com/space/usenet/" />
+<link r:resource="http://hiro-tan.org/~ekoontz/IsDying/" />
+</topic>

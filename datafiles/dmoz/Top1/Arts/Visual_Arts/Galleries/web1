@@ -1,0 +1,2701 @@
+====================<http://www.africanartexpress.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>African Art by South African Artist Elga Rabe.</title> 
+<meta name="Description" content="South African Artist Elga Rabe, fine African Art, ethnic art, wildlife art capturing the heart of Africa." /> 
+<meta name="Keywords" content="african art, african artwork, african artworks, art galleries, art gallery, african art gallery, africa, south africa, ethnic art, wildlife art" /> 
+<link href="screen.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+<link rel="shortcut icon" href="favicon.ico" >
+<script src="js/prototype.js" type="text/javascript"></script>
+<script src="js/scriptaculous.js?load=effects,builder" type="text/javascript"></script>
+<script src="js/lightbox.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="wrapper">
+	<div id="banner">
+    <div id="navcontainer">
+    <ul id="navlist">
+    <li id="active"><a title="Home Page" href="http://www.elgarabe.co.za/index.php" id="current">Home Page</a></li>
+    <li><a title="About Me" href="http://www.elgarabe.co.za/aboutme.php">About Me</a></li>
+    <li><a title="Art Catalogue" href="http://www.elgarabe.co.za/product_listing.php?id=7">Art Catalogue</a></li>
+    <li><a title="New Artworks" href="http://www.elgarabe.co.za/new_listing.php?id=37">New Artworks</a></li>
+    <li><a title="News" href="http://www.elgarabe.co.za/news.php">News</a></li>
+    <li><a title="Contact Us" href="http://www.elgarabe.co.za/contactus.php">Contact Us</a></li>
+    </ul>
+	</div>
+    </div>
+	<div id="content_left">
+	<p align="center"><img src="/img/home_lion.jpg" alt="Oil painting by Elga Rabe" height="312" width="482" /></p>
+	<h2>South African Artist Elga Rabe </h2>
+	<p>Growing up on a farm in Mpumalanga, Elga developed her deep love and fascination for the cultural wealth and beauty of the people of Africa as well as the continents wildlife. as a farmers wife and mother of four, her talent deepened and expanded over the years as her innate understanding of love for the subjects she paints. <a title="Read More" href="http://www.elgarabe.co.za/aboutme.php">Read More</a> </p>
+	<br />
+	<h3>Elga Rabe's selective styles:</h3>
+	<img src="/img/index01.jpg" alt="Wild Life Artwork" class="thumb" height="70" width="70">
+	<h4>Wild Life Artwork</h4>
+	<p class="sub">Her experience has taught her that there is no room for error with her wildlife artwork. Her  clean images concentrate exclusively on the animal and convey the wide-open spaces of Africa. Wildlife is Elga's passion.</p>
+	<div class="divider">&nbsp;</div>
+	<img src="/img/index02.jpg" alt="Ethnic Artwork" class="thumb" height="70" width="70" />
+	<h4>Ethnic Artwork</h4>
+	<p class="sub">Elga's ethnic works speaks of the character and beauty of the African Tribes. The depth of emotion is expressed through the colour. The story of each portrait evokes conversation and reflects a myriad of emotions.</p><br />
+	<h2><img src="img/signature.jpg" alt="Elga Rabe Signature" width="482" height="101" /></h2>
+  </div>
+
+
+
+<div id="content_right">
+<div style="margin: 0 0 10px 0;"><a href="http://www.facebook.com/pages/Elga-Rabe/285850921496441" target="_blank"><img src="img/facebook.jpg" alt="Facebook" width="190" height="57" border="0" /></a></div>
+
+
+
+
+		  <h1>Artwork Search</h1>
+
+
+
+		  <form action="product_search.php" name="search" id="search">
+
+
+
+		  <select class="search" name="id">
+
+
+
+		  <option value="Elga Rabe">Elga Rabe</option><option value="New Elga Rabe Paintings">New Elga Rabe Paintings</option>
+
+
+		  </select>
+
+
+
+		  <select name="price" class="search">
+
+
+
+		  <option value="<= 1000">< R1000</option>
+
+
+
+		  <option value="<= 5000 and price >= 1000">R1,000 - R5,000</option>
+
+
+
+		  <option value="<= 15000 and price >= 5000">R5,000 - R15,000</option>
+
+
+
+		  <option value="<= 30000 and price >= 15000">R15,000 - R30,000</option>
+
+
+
+		  <option value="<= 100000 and price >= 30000">R30,000 - R100,000</option>
+
+
+
+		  <option selected="selected" value="> -1">No Price Limit</option>
+
+
+
+		  </select>
+
+
+
+		  <input type="submit" class="submit" value="Search" />
+
+
+
+		  </form>
+
+
+
+          <h1>Featured Artwork</h1><form name="feature" method="GET" action="product_detail.php"><input type="hidden" name="id" value="851"><div align="center">
+		  <img src="/includes/phpThumb/phpThumb.php?src=/ul/371103 14 wm1103-14-wm   Adorable Leopard Cub.jpg&amp;w=182" alt="Artwork" align="middle" style="border: 4px solid #ffffff" /><br/>
+		  <br/>
+		  <p class="underline"><b class="white">Artist: </b>NEW ELGA RABE PAINTINGS</p>
+		  <p class="underline"><b class="white">Title:</b> Adorable Leopard Cub</p>
+		  <p class="underline"><b class="white">Catalog Number: </b>1103 14 wm</p>
+		  <p class="underline"><b class="white">Medium: </b>Oil on Canvas</p>
+		  <p class="underline"><b class="white">Dimensions: </b>120&nbsp;cm x 90&nbsp;cm</p>
+		  <p class="underline"><b class="white">Price: </b>R 30000.00</p>
+		  <p class="underline"><b class="white">Framed: </b>No</p>
+		  <br/>                                                        
+		  <input name="Submit" type="submit" class="submit" value="View" />                                   
+		  </div>                                                    
+		  </form>
+      </div>
+</div>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.studioart.co.za/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>STUDIO ART - Natalia &amp; Alexander Kononov</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><style type="text/css">
+<!--
+body {
+	margin-top: 28px;
+}
+.style3 {
+	font-size: 12px;
+	color: #999999;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #CCCCCC;
+}
+a:link {
+	color: #CCCCCC;
+}
+a:visited {
+	color: #CCCCCC;
+}
+a:hover {
+	color: #CCCCCC;
+}
+a:active {
+	color: #CCCCCC;
+}
+-->
+</style></head>
+
+<body>
+<meta name="" content="portraits, watercolour portraits, watercolor, portraits from photo, art, paintings, stillife, landscape, Natalia Kononova, Alexander Kononov">
+<div align="center">
+  <p><img src="dop/index-new.jpg" width="719" height="332" border="0" usemap="#Map">
+    <map name="Map">
+      <area shape="rect" coords="347,308,419,332" href="index%20pages/index%20contacts.htm">
+      <area shape="rect" coords="282,307,342,331" href="index%20pages/index%20gallery.htm">
+      <area shape="rect" coords="157,307,214,331" href="index.htm">
+      <area shape="rect" coords="427,308,486,333" href="index%20pages/index%20orders.htm">
+      <area shape="rect" coords="492,308,558,331" href="index%20pages/index%20classes.htm">
+      <area shape="rect" coords="223,307,276,331" href="index%20pages/index%20artists.htm">
+      <area shape="rect" coords="129,148,239,286" href="index%20pages/index%20gallery.htm" target="_top">
+      <area shape="rect" coords="480,148,590,286" href="index%20pages/index%20design.htm" target="_top">
+      <area shape="rect" coords="363,148,473,287" href="index pages/index A.htm">
+      <area shape="rect" coords="246,148,356,286" href="index%20pages/index%20N.htm">
+      <area shape="rect" coords="13,148,122,286" href="nweb/pages/indexPortraits.htm" target="_top">
+      <area shape="rect" coords="597,147,707,286" href="decor/pages/list.html">
+    </map>
+    <br>  
+    <span class="style4"><br>
+    <a href="http://www.decor.studioart.co.za">decor.StudioArt</a></span></p>
+</div>
+<div align="center" class="style3">
+  <div align="right"></div>
+</div>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.shanghart.com/>====================
+<html>
+<head>
+<meta http-equiv="refresh" content="5;url=http://www.shanghartgallery.cn/galleryarchive/">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="pragma" content="no-cache" />
+<meta name="keywords" content="Zhou Tiehai, Zeng Fanzhi, Xu Zhen, Yang Fudong, Yang Zhenzhong, Ding Yi, Li Shan, Yu Youhan,  Zhang Enli, Feng Mengbo, Geng Jianyi, Hu Jieming, Liang Yue, Ji Wenyu, Lu Chunshen, Pu Jie, Shi Yong, Song Tao, Tang Maohong, Wang Guangyi, Wang Yousheng, Wei Guangqing, Xue Song, Zhao Bandi, Zhou Zixi ">
+<meta name="description" content="ShanghART is the first independent Gallery for Contemporary Chinese Art that opened in Shanghai. The gallery represents Chinese photo artists, Chinese video artists, oil painting artists and more. Our artist participate to shows as Documenta and the Venice Biennnale and ShanghART is the first and only gallery from China joining international events such as Art Basel and Fiac.">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.shanghartgallery.cn/galleryarchive/feeds/rss/rss.xml">
+<link rel="shortcut icon" href="favicon.ico" >
+<title>ShanghART Gallery Shanghai, é¦™æ ¼çº³ç”»å»Š ä¸Šæµ·</title>
+</head>
+
+<body bgcolor="#969696" text="#000000">
+
+<table border="0" cellpadding="4" cellspacing="4" width="100%" height="100%">
+  <tr>
+    <td width="100%" align="center" height="100%">
+    <table border="0" id="table1">
+    	<tr><td height="100"></td></tr>
+		<tr>
+			<td align="center">
+    <a href="http://www.shanghartgallery.cn/galleryarchive/">
+    <img border="0" src="images/newlogo.png" width="800" alt="ShanghART Gallery é¦™æ ¼çº³ç”»å»Š"></a></td>
+		</tr>
+	</table>
+&nbsp;</td>
+  </tr>
+</table>
+
+
+
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.courtyard-gallery.com/>====================
+<html>
+
+<head>
+<title>Courtyard Gallery | Beijing | Miami Beach</title>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="description" content="Lincoln Road Welcomes Courtyard Gallery to Miami Beach.">
+<link rel="stylesheet" type="text/css" href="styles.css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+
+<div id="container" class="centered">
+	<table border="0" width="800" cellspacing="0" cellpadding="0" class="authorBox">
+		<tr>
+			<td class="title" width="800" colspan="2">Courtyard Gallery</td>
+		</tr>
+		<tr>
+			<td height="25" class="bodytext">&nbsp;Coming 
+			soon to Lincoln Road in Miami Beach</td>
+			<td class="bodytext" align="right">
+			<img border="0" src="images/feeds.jpg" width="214" height="22" alt="Feed"></td>
+		</tr>
+	</table>
+	<a href="http://www.courtyard-gallery.com/">
+	<img class="header" src="images/courtyardgalleryheader798.jpg" width="798" height="288" alt="Courtyard Gallery"></a>
+	<table border="0" width="800" cellspacing="0" cellpadding="0" class="navBox" id="table2">
+		<tr>
+			<td><a class="topNav" href="artists/index.html">ARTIST INDEX</a>&nbsp;&nbsp;
+			<a class="topNav" href="events.html">EVENTS</a>&nbsp;&nbsp;
+			<a class="topNav" href="news.html">NEWS</a></td>
+		</tr>
+	</table>
+	<table border="0" width="800" cellspacing="0" cellpadding="0">
+		<tr>
+			<td valign="top" class="bodytext">
+			<table border="0" width="800" cellspacing="0" cellpadding="0" class="postTitleBox">
+				<tr>
+					<td class="bodytitle">Lincoln Road Welcomes Courtyard 
+					Gallery to Miami Beach</td>
+				</tr>
+			</table>
+			Inspired by record-breaking international crowds attending Miami art 
+			galleries and events such as Art Basel Miami Beach, Courtyard 
+			Gallery is announcing plans to expand into South Florida. The 
+			Chinese gallery will debut it&#39;s first location adjacent to Collins 
+			Avenue at
+			<a class="bodyLink" href="http://www.lincolnroadmall.info/">Lincoln 
+			Road Mall</a> in South Beach where support for the arts has proved 
+			financially beneficial for the entire South Florida community.<p>
+			During the first week of every December, thousands of wealthy 
+			patrons of the arts flock to Greater Miami and the Beaches to attend 
+			a series of Global Art Fairs including the flagship eventâ€”Art Basel 
+			Miami Beachâ€”hosted by the Miami Beach Convention Center on 
+			Washington Avenue. Attracting celebrities, fashion designers and 
+			well-heeled tourists, the city sparkles with champagne parties and 
+			late night soirees at area hotels and exhibition halls from the 
+			Wynwood Arts District to the Design District and all of South Beach.</p>
+			<p>Courtyard Gallery believes the high level of foot traffic from
+			<a class="bodyLink" href="http://www.oceandrivemiamibeach.com/">
+			Ocean Drive</a> and the
+			<a class="bodyLink" href="http://www.collinsavenuemagazine.com/collins-ave-hotels/">
+			luxury hotels along Collins Avenue</a> near Lincoln Road Mall 
+			provide the ideal demographic to support an upscale art gallery 
+			close to South Beach&#39;s Ritz Carlton Hotel. In the years before the 
+			renaissance of the pedestrian-friendly shopping mall, many retail 
+			storefronts were rented to artists and galleries which encouraged a 
+			rather Bohemian atmosphere. In recent years, the emergence of Miami 
+			as a top travel destination led to the most desirable Lincoln Road 
+			addresses being monopolized by giant global brands.</p>
+			<p>
+			<img border="0" src="images/artcentersouthflorida300.jpg" width="300" height="189" alt="Art Center/ South Florida" class="imageBorder alignright">South Beach is home to many high end retailers as well as two 
+			popular art museums, the BASS Museum of Art and The Wolfsonian-FIU 
+			Collection. Along busy Lincoln Road,
+			<a class="bodyLink" href="http://www.lincolnroadmall.info/category/art-galleries/">
+			Art Center/ South Florida</a> maintains an active work space for 
+			emerging artists and provides enrichment classes for local adults 
+			and area kids. The multi-use gallery space hosts monthly parties and 
+			encourages interested pedestrians to wander through the studio 
+			spaces to interact with every artist. The center is credited with 
+			keeping new art accessible to the public year round.</p>
+			<p>Courtyard Gallery specializes in contemporary and emerging 
+			Chinese art in all mediums. Dedicated to providing a platform for 
+			wider understanding and acceptance of non-traditional Asian art, the 
+			gallery enjoys global partnerships with a variety of highly regarded 
+			international collectors, fairs and biennales throughout the world. 
+			Courtyard South Beach will mark a milestone in the gallery&#39;s 
+			commitment to showcasing high quality artwork and extending the 
+			reach of the Asian artistic community.</td>
+		</tr>
+	</table>
+	<hr color="#a4cce5" width="800" size="1">
+	<div align="center" class="captiontext1">
+		Â© Copyright. All Rights Reserved</div>
+</div>
+
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.hanart.com/>====================
+ï»¿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="css/index.css" type="text/css" media="all" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="REFRESH" content="0; url=index.php">
+<title>Hanart TZ Gallery</title>
+</head>
+
+<body>
+</body>
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.pekinfinearts.com/>====================
+<html>
+<head>
+<style>
+BODY,TR,TD,DIV,P { font-size:10px; font-family: helvetica, arial }
+</style>
+<title>Pekin Fine Arts</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+</head>
+
+<link href="html/styles.css" charset="ISO-8859-1" rel="stylesheet" type="text/css" />
+
+<body>
+
+<table width="991" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width=60  height=60></td>
+    <td width=911 height=60></td>
+    <td width=20  height=60></td>
+  </tr>
+
+  <tr>
+    <td width=60 height=670></td>
+    <td width=911 height=670><a href="home.php"><img src="splash1.jpg" border=none></a></td>
+    <td width=20  height=670></td>
+  </tr>
+ 
+ 
+  <tr>
+    <td width=60 height=20></td>
+    <td width=911 height=20></td>
+    <td width=20  height=20><a href="home.php"><img src="namespacer.gif" height="5" width="5" border="none"></a></td>
+  </tr>
+</table>
+
+
+</body>
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.shineartspace.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>SHiNE Art Space</title>
+<style type="text/css">
+<!--
+body,td,th {
+	font-size: 13pt;
+	color: #000000;
+}
+body {
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+}
+a {
+	font-size: 13pt;
+	color: #000000;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	color: #FF0066;
+}
+a:active {
+	text-decoration: none;
+}
+.STYLE5 {color: #75003A}
+.STYLE11 {
+	font-size: 20px;
+	color: #990004;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onload="MM_preloadImages('christmas_card_2008_2.gif','image_public/index_logo_shadow.gif')">
+<table width="103%" height="504" border="0" align="center" cellpadding="0">
+  
+  <tr>
+    <td width="100%" height="500" colspan="2"><div align="center">
+      <p><a href="home.html"></a><a href="home.html"></a><a href="home.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','christmas_card_2008_2.gif',1)"></a><a href="home.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','christmas_card_2008_2.gif',1)"></a><a href="home.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','image_public/index_logo_shadow.gif',1)"><img src="image_public/index_logo.gif" name="Image1" width="319" height="149" border="0" id="Image1" /></a></p>
+      <p><img src="2012_autumn web.jpg" width="618" height="425" /> 
+       <div align="center">
+         <table width="133" border="0" cellspacing="0" cellpadding="3">
+           <tr>
+             <td align="center"><a href="http://www.website-hit-counters.com" target="_blank"></a></td>
+           </tr>
+           <tr>
+             <td align="center"><font style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 9px; color: #330006; text-decoration: none;"> <a href="http://www.website-hit-counters.com/search-engine-optimization.html" target="_blank" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 9px; color: #555556; text-decoration: none;" title="website-hit-counters.com optimization page">website-hit-counters.com optimization page</a> </font></td>
+           </tr>
+         </table>
+        </div>
+       <br />
+      </p>
+    </div>    </td>
+  </tr>
+</table>
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.artscenechina.com/>====================
+<html>
+<head>
+<title>Art Scene China - Contemporary Chinese Art - with Chinese art by Chinese artists</title>
+<meta NAME="description"
+CONTENT="Art Scene China - contemporary chinese art - specializes in cutting edge Chinese art work by both established and emerging Chinese contemporary artists.">
+<meta NAME="keywords" CONTENT="Chinese art, contemporary Chinese art, Chinese contemporary art, China art, Shanghai art, modern Chinese art, Chinese paintings, avant-garde, Chinese artists, art gallery, Asian art, Zhong Biao, Xue Jiye, Hung Liu, Liu Yan, Peng Wei, Pei Jing, Feng Feng, Lin Jingjing, Du Xinjian, Zhou Weihua, Hao Shiming">
+<meta NAME="robots" CONTENT="index,follow">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style>
+<meta name="verify-v1" content="d87RCeyfD5nKf0ZMiLo7UuVQ6YtD0bGX2/QhYDO0qaM=" >
+body {
+scrollbar-face-color: #cccccc; 
+scrollbar-highlight-color: #ffffff; 
+scrollbar-shadow-color: #999999; 
+scrollbar-3dlight-color: #999999; 
+scrollbar-arrow-color: #ffffff; 
+scrollbar-darkshadow-color: #ffffff; 
+scrollbar-base-color: #999999;
+scrollbar-track-color: #E3E3E3;
+}
+</style>
+<style TYPE="text/css">
+A {text-decoration: none; color: #888888;
+text-transform: none}
+a:hover {color: #FF0000}
+.style1 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #CCCCCC;
+	font-size: 12px;
+}
+.style2 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #999999;
+}
+.style6 {
+	font-size: 14px;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #CCCCCC;
+}
+.style18 {
+	font-size: 12px;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #666666;
+}
+.style26 {color: #666666; font-family: Geneva, Arial, Helvetica, sans-serif;}
+.style27 {font-size: 11px}
+.style28 {font-size: 11px; font-family: Geneva, Arial, Helvetica, sans-serif; color: #666666; }
+.style29 {color: #888888}
+.style31 {font-family: Geneva, Arial, Helvetica, sans-serif; color: #BBBBBB; font-size: 12px; }
+</style>
+<script language="JavaScript">
+<!-- Original:  CodeLifter.com (support@codelifter.com) -->
+<!-- Web Site:  http://www.codelifter.com -->
+function NewWindow(mypage, myname, w, h) {
+var winl = ((screen.width - w) / 2) - 5;
+var wint = 0;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+var slideShowSpeed = 3000;
+var crossFadeDuration = 4;
+var Pic = new Array();
+Pic[0] = 'chineseart/slideshow/1.jpg'
+Pic[1] = 'chineseart/slideshow/2.jpg'
+Pic[2] = 'chineseart/slideshow/3.jpg'
+Pic[3] = 'chineseart/slideshow/4.jpg'
+Pic[4] = 'chineseart/slideshow/5.jpg'
+Pic[5] = 'chineseart/slideshow/6.jpg'
+var t;
+var j = 0;
+var p = Pic.length;
+var preLoad = new Array();
+for (i = 0; i < p; i++) {
+preLoad[i] = new Image();
+preLoad[i].src = Pic[i];
+}
+function runChineseArt() {
+if (document.all) {
+document.images.ChineseArt.style.filter="blendTrans(duration=2)";
+document.images.ChineseArt.style.filter="blendTrans(duration=crossFadeDuration)";
+document.images.ChineseArt.filters.blendTrans.Apply();
+}
+document.images.ChineseArt.src = preLoad[j].src;
+if (document.all) {
+document.images.ChineseArt.filters.blendTrans.Play();
+}
+j = j + 1;
+if (j > (p - 1)) j = 0;
+t = setTimeout('runChineseArt()', slideShowSpeed);
+}
+
+
+</script>
+<script language="JavaScript">
+<!--
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_popupMsg(msg) { //v1.0
+  alert(msg);
+}
+//-->
+</script>
+</head>
+<body aLink="#666650" onLoad="runChineseArt();window.defaultStatus='Welcome to Art Scene China - contemporary chinese art';MM_preloadImages('top buttons/rlinks_refl.gif','top buttons/rlinks.gif','buttons/submitred.jpg','coverboxestext/artistsred.gif','coverboxestext/figurativered.gif','coverboxestext/abstractred.gif','coverboxestext/photographyred.gif','coverboxestext/sculpturesred.gif','coverboxestext/disclaimerred.gif','menutext/artistsred.gif','menutext/exhibitionsred.gif','menutext/aboutusred.gif','menutext/linksred.gif','coverboxestext/featuredred.gif')"" 
+ topMargin="0" vLink="#665000" marginwidth="0"
+marginheight="0" >
+<div align="center"></div>
+<div align="center">
+  <table width="650" border="0" cellspacing="0" cellpadding="0" valign = "top">
+    <tr>
+      <td><table width="650" border="0" cellspacing="0" cellpadding="0" valign = "top">
+        <tr>
+          <td><table width="650" border="0" cellspacing="0" cellpadding="0" valign = "top">
+            <tr>
+              <td height="3"></td>
+              <td height="8" valign="top"></td>
+            </tr>
+            <tr>
+              <td width="193" height="110" valign="top"><div align="justify">
+                <h1 align="center">
+                <h1><img src="artscenechina.gif" alt="Art Scene China - contemporary Chinese art" width="193" height="94" border="0" usemap="#Map"><br>
+                  <span class="style6">contemporary chinese art</span></h1>
+              </div></td>
+              <td valign="top"><div align="right"><a href="gallery.htm"><img src="menutext/artists.gif" alt="chinese contemporary artists" name="artists1" width="34" height="14" border="0" id="artists1" onMouseOver="MM_swapImage('artists1','','menutext/artistsred.gif',1)" onMouseOut="MM_swapImgRestore()"></a><img src="menutext/space.gif" width="16" height="14"><a href="exhibition.htm"><img src="menutext/exhibitions.gif" alt="chinese contemporary art exhibitions" name="exhibitions" width="60" height="14" border="0" id="exhibitions" onMouseOver="MM_swapImage('exhibitions','','menutext/exhibitionsred.gif',1)" onMouseOut="MM_swapImgRestore()"></a><img src="menutext/space.gif" width="16" height="14"><a href="aboutus.htm"><img src="menutext/aboutus.gif" alt="about our chinese art gallery" name="aboutus" width="49" height="14" border="0" id="aboutus" onMouseOver="MM_swapImage('aboutus','','menutext/aboutusred.gif',1)" onMouseOut="MM_swapImgRestore()"></a><img src="menutext/space.gif" width="16" height="14"><a href="links.htm"><img src="menutext/links.gif" alt="links to chinese art sites" name="links" width="25" height="14" border="0" id="links" onMouseOver="MM_swapImage('links','','menutext/linksred.gif',1)" onMouseOut="MM_swapImgRestore()"></a></div></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="8"></td>
+        </tr>
+        <tr>
+          <td><table width="650" border="0" cellspacing="0" cellpadding="0" valign = "top">
+            <tr>
+              <td width="250" valign ="top"><table width="250" height ="395" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="250" height="395" align="left" valign="top"><table width="250" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td height="300" align="left" valign="top"><table width="250" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td height="219"><div align="center"><img src="chineseart/slideshow/1.jpg" alt="Contemporary Chinese Art" name='ChineseArt' width="250" height="219" id="chineseart"></div></td>
+                        </tr>
+                        <tr>
+                          <td height="81" valign="bottom"><div align="center"><img src="c-rightshadow.jpg" width="226" height="81"></div></td>
+                        </tr>
+                      </table></td>
+                    </tr>
+                    <tr>
+                      <td height="10"></td>
+                    </tr>
+                    <tr>
+                      <td height="85" align="left" valign="bottom"><div align="left">
+                        <table width="240" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><h2><span class="style31">Art Scene China - Contemporary Chinese Art -
+                              is a
+                              China based Chinese art gallery 
+                              featuring  modern &amp;
+                              contemporary 
+                              Chinese art by more than 30 leading 
+                              contemporary Chinese artists. </span></h2></td>
+                          </tr>
+                        </table>
+                      </div></td>
+                    </tr>
+                  </table></td>
+                </tr>
+              </table>              <p class="style1">&nbsp;</p>                </td>
+              <td width="20">&nbsp;</td>
+              <td width="300" align="left" valign="top"><table width="380" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="100"><div align="right"><img src="coverboximages/artists.jpg" alt="chinese contemporary artists" width="100" height="100"></div></td>
+                  <td width="20">&nbsp;</td>
+                  <td width="100"><div align="left"><img src="coverboximages/fdk.jpg" alt="art scene warehouse" width="100" height="100"></div></td>
+                  <td width="20">&nbsp;</td>
+                  <td width="140" rowspan="8" valign="top"><img src="coverboxestext/popularartists.gif" width="107" height="16"><br>                      
+                    <img src="12height.gif" width="3" height="8"><br>
+                    <span class="style28"><a href="chineseart/artists/fengfeng.htm">Feng Feng</a><br>
+                    <a href="chineseart/artists/chenxinmao.htm">Chen Xinmao<br>
+                    </a><a href="chineseart/artists/zhongbiao.htm">Zhong Biao<br>
+                    </a><a href="chineseart/artists/hung-liu.htm">Hung Liu<br>
+                    </a><a href="chineseart/artists/duxinjian.htm">Du Xinjian<br>
+                    </a><a href="chineseart/artists/fananxiang.htm"></a>
+                      <a href="chineseart/artists/wangxiaojin.htm">Wang Xiaojin<br>
+                      </a> <a href="chineseart/artists/lijin.htm">Li Jin<br>
+                      </a> </span><span class="style27"><span class="style26"><a href="gallery.htm">more...</a></span></span><br>
+                    <p><img src="coverboxestext/gallerylocations.gif" alt="Contemporary Chinese Art Gallery Locations"><br>
+                      <img src="12height.gif" width="3" height="8"><br>
+                      <span class="style18"><img src="shanghai.gif" width="58" height="13"><br>
+                      <img src="12height.gif" width="3" height="5"><br>
+                      <span class="style27">- <a href="http://www.artscenewarehouse.com">M50 - Moganshan Rd/ Suzhou Creek Area</a><br>
+                      - <a href="#">Wu Jiao Chang </a></span></span><br>
+                      <img src="12height.gif" width="3" height="8"><br>
+                      <img src="beijing.gif" width="41" height="13"><br>
+                      <img src="12height.gif" width="1" height="5"><br>
+                      <span class="style28">- <a href="http://www.artscenebeijing.com">Art Scene Beijing at 798 </a> </span><br>
+                      <br>
+                      <a href="exhibition.htm"><img src="coverboxestext/currentexhibition.gif" alt="Current Exhibition of Contemporary Chinese Art" width="128" height="13" border="0"></a><br>
+                      <br>
+                      <a href="contact.htm"><img src="coverboxestext/contactus.gif" width="78" height="12" border="0"></a></p>
+                    </td>
+                </tr>
+                <tr>
+                  <td width="100"><div align="right"><a href="gallery.htm"><img src="coverboxestext/artists.gif" alt ="chinese artists" name="artists" width="100" height="17" border="0" id="artists" onMouseOver="MM_swapImage('artists','','coverboxestext/artistsred.gif',1)" onMouseOut="MM_swapImgRestore()"></a></div></td>
+                  <td width="20">&nbsp;</td>
+                  <td width="100"><div align="left"><a href="chineseart/artists/fengdakang.htm"><img src="coverboxestext/featured.gif" alt="featured artist" name="featured" width="62" height="13" border="0" id="featured" onMouseOver="MM_swapImage('featured','','coverboxestext/featuredred.gif',1)" onMouseOut="MM_swapImgRestore()"></a></div></td>
+                  <td width="20">&nbsp;</td>
+                  </tr>
+                <tr>
+                  <td width="100" height="20"><div align="right"></div></td>
+                  <td width="20"></td>
+                  <td width="100"><div align="left"></div></td>
+                  <td width="20"></td>
+                  </tr>
+                <tr>
+                  <td width="100"><div align="right"><img src="coverboximages/figurative.jpg" alt="chinese contemporary figurative art" width="100" height="100"></div></td>
+                  <td width="20">&nbsp;</td>
+                  <td width="100"><div align="left"><img src="coverboximages/abstract.jpg" alt="chinese contemporary abstract art" width="100" height="100"></div></td>
+                  <td width="20">&nbsp;</td>
+                  </tr>
+                <tr>
+                  <td width="100"><div align="right"><a href="figurative.htm"><img src="coverboxestext/figurative.gif" alt="chinese figurative art" name="figurative" width="100" height="17" border="0" id="figurative" onMouseOver="MM_swapImage('figurative','','coverboxestext/figurativered.gif',1)" onMouseOut="MM_swapImgRestore()"></a></div></td>
+                  <td width="20">&nbsp;</td>
+                  <td width="100"><div align="left"><a href="abstract.htm"><img src="coverboxestext/abstract.gif" alt="contemporary chinese abstract art" name="abstract" width="100" height="17" border="0" id="abstract" onMouseOver="MM_swapImage('abstract','','coverboxestext/abstractred.gif',1)" onMouseOut="MM_swapImgRestore()"></a></div></td>
+                  <td width="20">&nbsp;</td>
+                  </tr>
+                <tr>
+                  <td width="100" height="20"><div align="right"></div></td>
+                  <td width="20"></td>
+                  <td width="100" align="center" valign="bottom"><div align="left"><img src="coverboximages/sculpturestop.jpg" width="100" height="11"></div></td>
+                  <td width="20" align="center" valign="bottom">&nbsp;</td>
+                  </tr>
+                <tr>
+                  <td width="100"><div align="right"><img src="coverboximages/photography.jpg" alt="chinese contemporary photography" width="100" height="100"></div></td>
+                  <td width="20">&nbsp;</td>
+                  <td width="100"><div align="left"><img src="coverboximages/sculptures.jpg" alt="contemporary chinese sculptures" width="100" height="100"></div></td>
+                  <td width="20">&nbsp;</td>
+                  </tr>
+                <tr>
+                  <td width="100"><div align="right"><a href="photographers.htm"><img src="coverboxestext/photography.gif" alt="chinese contemporary photography" name="photography" width="100" height="17" border="0" id="photography" onMouseOver="MM_swapImage('photography','','coverboxestext/photographyred.gif',1)" onMouseOut="MM_swapImgRestore()"></a></div></td>
+                  <td width="20">&nbsp;</td>
+                  <td width="100"><div align="left"><a href="sculptors.htm"><img src="coverboxestext/sculptures.gif" alt="contemporary chinese sculptures" name="sculptures" width="100" height="17" border="0" id="sculptures" onMouseOver="MM_swapImage('sculptures','','coverboxestext/sculpturesred.gif',1)" onMouseOut="MM_swapImgRestore()"></a></div></td>
+                  <td width="20">&nbsp;</td>
+                  </tr>
+                
+              </table></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td height="20"><div align="center"><a href="disclaimer.html"><img src="coverboxestext/disclaimer.gif" name="Image1" width="108" height="11" border="0" id="Image1" onMouseOver="MM_swapImage('Image1','','coverboxestext/disclaimerred.gif',1)" onMouseOut="MM_swapImgRestore()"></a></div></td>
+        </tr>
+        <tr>
+          <td><div align="center" class="style2">
+            <p class="style29">&copy; Art Scene China Ltd 1997-2008. Images of <a href="gallery.htm">contemporary Chinese art</a> may not be reproduced without<br>
+              prior written
+              permission of Art Scene China or the Chinese artists.</p>
+            </div></td>
+        </tr>
+      </table></td>
+    </tr>
+  </table>
+</div>
+
+<map name="Map">
+<area shape="rect" coords="1,1,109,83" href="http://www.artscenechina.com">
+</map>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6679423-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.longyibang.com/>====================
+<html>
+<head>
+<title>Welcome to Amelie Gallery</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="mystyle.css" type="text/css">
+
+<meta name="keywords" content="Amelie gallery, Beijing, Chinese Contemporary art,China, Chinese art, oriental art, art promotion agency, painting, sculpture, sculptor, painter, collector, art collector, art collection, 
+
+China print art, china printmaking, wood cut, silkscreen, silk print, silk screener, woodcut artist, etching, lithography, limited edition, Amelie Gallery, Amelie Art Gallery, Beijing, china,Chinese traditional woodcut, Chinese printmaking, Chinese print art, print exhibition,printmaking artist, authentic print art,  China print art online, etchings, lithographs, Woodcut ,Wood engraving, Linocut, China fine art, Etching, woodcut, lithograph, silk-screen, Chinese graphic art, engravings, original fine art, Contemporary Chinese Print art">
+<meta name="description" content="Amelie Gallery">
+
+
+
+</head>
+
+<body bgcolor="#999999" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" >
+<div align="center">
+  <table width="750" border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
+    <tr> 
+      <td colspan="2"><a href="delightcn.htm" target="_blank"></a><a href="beyondwordcn.html" target="_blank"><img src="beyondword/index.png" width="490" height="257" border="0"></a></td>
+      <td><div align="left"><a href="beyondworden.html" target="_blank"><img src="beyondword/index1.png" width="287" height="257" border="0"></a></div></td>
+    </tr>
+    <tr> 
+      <td colspan="2">
+        <table width="489" border="0" cellspacing="0" cellpadding="0" height="82">
+          <tr>
+            <td bgcolor="#FFFFFF" width="232"><a href="http://www.longyibang.com/indexen.htm" target="_blank"><img src="logosmall.gif" width="100" height="77" hspace="5" vspace="1" border="0"></a></td>
+            <td align="right" width="230"><img src="lovesong/award.gif" width="233" height="78"></td>
+          </tr>
+        </table>
+      </td>
+      <td width="289" bgcolor="#CCCCCC">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td><a href="artists/lixinen.html" target="_blank"><img src="newhome/lixin.jpg" width="244" height="257" border="0"></a></td>
+      <td><a href="artists/chenqien.htm" target="_blank"><img src="newhome/chenqi1.jpg" width="245" height="257" border="0"></a></td>
+      <td><a href="artists/liangyankangen.htm" target="_blank"><img src="coldblood/liang.jpg" width="287" height="257" border="0"></a></td>
+    </tr>
+  </table>
+</div>
+
+<table width="900" border="0" align="center" cellpadding="0">
+  <tr>
+    <td align="center"><i class="bodytext"><font color="#FFFFFF">Amelie Gallery, 
+      Beijing PRC &copy;2004-2013 | <a href="beyondworden.html" target="_blank" class="bigLink">Current 
+      Exhibition | </a><a href="indexen.htm" target="_self" class="bigLink">Gallery 
+      Site</a> | <a href="beyondwordcn.html" target="_blank"><img src="newindexpage/1.gif" width="51" height="13" border="0" vspace="0" hspace="0"> 
+      |</a><a href="indexcn.html" target="_self"> <img src="newindexpage/2.gif" width="65" height="13" border="0"></a></font></i></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<p><br>
+</p>
+<p>&nbsp;</p>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.artplusshanghai.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+        <head>
+ 			            		
+			  <base href="http://www.artplusshanghai.com/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="art plus shanghai  asian chinese china shanghai contemporary art gallery buy sell collectors huang zhiyang chinese artists collection contemporary photography painting sculpture installation tamen cindy ng lui ren li wenfeng wang chuan fumin lu yan an lu" />
+  <meta name="rights" content="Art Plus Shanghai" />
+  <meta name="language" content="en-GB" />
+  <meta name="description" content="art plus shanghai  asian chinese china shanghai contemporary art gallery buy sell collectors huang zhiyang chinese artists collection contemporary photography painting sculpture installation tamen cindy ng lui ren li wenfeng wang chuan fumin lu yan an lu" />
+  <title>Home. Asian China Shanghai chinese contemporary art gallery - Art Plus Shanghai</title>
+  <link href="/templates/artplusshanghai/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="http://www.artplusshanghai.com/modules/mod_image_show_gk4/styles/gk_coffe/style.css" type="text/css" />
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="http://www.artplusshanghai.com/modules/mod_image_show_gk4/styles/gk_coffe/engine.js" type="text/javascript"></script>
+  <script type="text/javascript">
+try {$Gavick;}catch(e){$Gavick = {};};$Gavick["gkIs-gk-is-20"] = { "anim_speed": 500, "anim_interval": 5000, "autoanim": 1, "anim_type": "opacity", "slide_links": 1 };
+  </script>
+  <script type="text/javascript" src="http://www.artplusshanghai.com/modules/mod_swmenufree/transmenu_Packed.js"></script>
+<script type="text/javascript" src="http://www.artplusshanghai.com/modules/mod_swmenufree/jquery-1.2.6.pack.js"></script>
+  <style type='text/css'>
+<!--
+.transMenu {
+ position:absolute ; 
+ overflow:hidden; 
+ left:-1000px; 
+ top:-1000px; 
+}
+.transMenu .content {
+ position:absolute  ; 
+}
+.transMenu .items {
+ width: 200px; border: 0px none #FFFFFF ; 
+ position:relative ; 
+ left:0px; top:0px; 
+ z-index:2; 
+}
+.transMenu  td
+{
+ padding: 5px 10px 5px 26px  !important;  
+ font-size: 12px !important ; 
+ font-family: Geneva, Arial, Helvetica, sans-serif !important ; 
+ text-align: left !important ; 
+ font-weight: normal !important ; 
+ color: #FFFFFF !important ; 
+} 
+#subwrap 
+{ 
+ text-align: left ; 
+}
+.transMenu  .item.hover td
+{ 
+ color: #3C3C3C !important ; 
+}
+.transMenu .item { 
+ height: 20px; text-decoration: none ; 
+ cursor:pointer; 
+ cursor:hand; 
+}
+.transMenu .background {
+background-image:none; background-color: #3C3C3C !important ; 
+ position:absolute ; 
+ left:0px; top:0px; 
+ z-index:1; 
+ opacity:0.9; 
+ filter:alpha(opacity=90) 
+}
+.transMenu .shadowRight { 
+ position:absolute ; 
+ z-index:3; 
+ top:-3000px; width:2px; 
+ opacity:0.9; 
+ filter:alpha(opacity=90)
+}
+.transMenu .shadowBottom { 
+ position:absolute ; 
+ z-index:1; 
+ left:-3000px; height:2px; 
+ opacity:0.9; 
+ filter:alpha(opacity=90)
+}
+.transMenu .item.hover {
+background-image:none; background-color: #c4c4c4 !important ; 
+}
+.transMenu .item img { 
+ margin-left:10px !important ; 
+}
+table.swmenu {
+ top: 0px; 
+ left: 0px; 
+ position:relative ; 
+ margin:0px !important ; 
+ border: 0px solid #FFFFFF ; 
+ z-index: 1; 
+}
+table.swmenu a{
+ margin:0px !important ; 
+ padding: 2px 28px 2px 28px  !important ; 
+ display:block !important; 
+ position:relative !important ; 
+}
+div.swmenu a,
+div.swmenu a:visited,
+div.swmenu a:link {
+ font-size: 18px !important ; 
+ font-family: Geneva, Arial, Helvetica, sans-serif !important ; 
+ text-align: center !important ; 
+ font-weight: normal !important ; 
+ color: #FFFFFF !important ; 
+ text-decoration: none !important ; 
+ margin-bottom:0px !important ; 
+ display:block !important; 
+ white-space:nowrap ; 
+}
+div.swmenu td {
+ border-bottom: 0px solid #FFFFFF ; 
+ border-top: 0px solid #FFFFFF ; 
+ border-left: 0px solid #FFFFFF ; 
+background-image:none;} 
+div.swmenu td.last {
+ border-right: 0px solid #FFFFFF ; 
+} 
+#trans-active a{
+ color: #F37421 !important ; 
+background-image:none;} 
+#swmenu a.hover   { 
+background-image:none; color: #F37421 !important ; 
+}
+#swmenu span {
+ display:none; 
+}
+
+-->
+</style>
+
+            <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+            <link rel="stylesheet" href="/templates/artplusshanghai/css/style.css" type="text/css" />
+						<!--[if IE 7]>
+                    <link href="/templates/artplusshanghai/css/css/ie7only.css" rel="stylesheet" type="text/css" />
+            <![endif]-->
+        
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2844299-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+        <body>
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+ <tbody>
+    	<tr>
+        	<td align="center" valign="top" bgcolor="#626462">
+        		<h1>
+	        		<a href="/" title="go to the homepage of Art Plus Shanghai ">
+	        			<img src="/templates/artplusshanghai/img/common/art_log.png" alt="Art Plus Shanghai" width="97" height="133">
+	        		</a>
+        		</h1>
+        	</td>
+    	</tr>
+    	<tr>
+	    	<td>
+          <!-- MAIN MENU -->
+          <table height="39" border="0" align="center" cellpadding="0" cellspacing="0" id="nav">
+          	<tbody>
+            	<tr>
+            		<td align="center" >
+            			
+<!--swMenuFree6.3_J1.6 transmenu by http://www.swmenupro.com-->
+<div id="sw-wrap" class="swmenu" align="left">
+<table cellspacing="0" cellpadding="0" id="swmenu" class="swmenu" > 
+<tr> 
+<td> 
+<a id="menu101" href="/" >Home</a>
+</td> 
+<td> 
+<a id="menu102" href="/gallery/vision.html" >GALLERY</a>
+</td> 
+<td> 
+<a id="menu111" href="/collection/painting-sculpture.html" >Collection</a>
+</td> 
+<td> 
+<a id="menu108" href="/exhibition/current-exhibition.html" >EXHIBITION</a>
+</td> 
+<td> 
+<a id="menu115" href="http://artplusshanghaigallery.tumblr.com" >News / Event</a>
+</td> 
+<td> 
+<a id="menu117" href="/press.html" >Press</a>
+</td> 
+<td class="last"> 
+<a id="menu118" href="/private.html" >Private</a>
+</td> 
+</tr> 
+</table></div> 
+<div id="subwrap"> 
+<script type="text/javascript">
+<!--
+if (TransMenu.isSupported()) {
+var ms = new TransMenuSet(TransMenu.direction.down, 0,0, TransMenu.reference.bottomLeft);
+var menu102 = ms.addMenu(document.getElementById("menu102"));
+ menu102.addItem("Vision", "/gallery/vision.html", "0");
+menu102.addItem("Services", "/gallery/services.html", "0");
+menu102.addItem("Opening Hours", "/gallery/opening-hours.html", "0");
+menu102.addItem("Address", "/gallery/address.html", "0");
+menu102.addItem("Contact", "/gallery/contact.html", "0");
+var menu111 = ms.addMenu(document.getElementById("menu111"));
+ menu111.addItem("Painting-Sculpture", "/collection/painting-sculpture.html", "0");
+menu111.addItem("Photography", "/collection/photography.html", "0");
+menu111.addItem("Mixed Media", "/collection/mixed-media.html", "0");
+var menu108 = ms.addMenu(document.getElementById("menu108"));
+ menu108.addItem("Current Exhibition", "/exhibition/current-exhibition.html", "0");
+menu108.addItem("Past Exhibitions", "/exhibition/past-exhibition.html", "0");
+menu108.addItem("Upcoming Exhibitions", "/exhibition/upcoming-exhibitions.html", "0");
+function init() {
+if (TransMenu.isSupported()) {
+TransMenu.initialize();
+document.getElementById("menu101").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+}
+document.getElementById("menu101").onmouseout = function() { this.className = ""; }
+menu102.onactivate = function() {document.getElementById("menu102").className = "hover"; };
+ menu102.ondeactivate = function() {document.getElementById("menu102").className = ""; };
+ menu111.onactivate = function() {document.getElementById("menu111").className = "hover"; };
+ menu111.ondeactivate = function() {document.getElementById("menu111").className = ""; };
+ menu108.onactivate = function() {document.getElementById("menu108").className = "hover"; };
+ menu108.ondeactivate = function() {document.getElementById("menu108").className = ""; };
+ document.getElementById("menu115").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+}
+document.getElementById("menu115").onmouseout = function() { this.className = ""; }
+document.getElementById("menu117").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+}
+document.getElementById("menu117").onmouseout = function() { this.className = ""; }
+document.getElementById("menu118").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+}
+document.getElementById("menu118").onmouseout = function() { this.className = ""; }
+}}
+TransMenu.spacerGif = "http://www.artplusshanghai.com/modules/mod_swmenufree/images/transmenu/x.gif";
+TransMenu.dingbatOn = "http://www.artplusshanghai.com/modules/mod_swmenufree/images/transmenu/whiteleft-on.gif";
+TransMenu.dingbatOff = "http://www.artplusshanghai.com/modules/mod_swmenufree/images/transmenu/whiteleft-off.gif"; 
+TransMenu.sub_indicator = true; 
+TransMenu.menuPadding = 0;
+TransMenu.itemPadding = 0;
+TransMenu.shadowSize = 2;
+TransMenu.shadowOffset = 3;
+TransMenu.shadowColor = "#888";
+TransMenu.shadowPng = "http://www.artplusshanghai.com/modules/mod_swmenufree/images/transmenu/grey-40.png";
+TransMenu.backgroundColor = "#3C3C3C";
+TransMenu.backgroundPng = "http://www.artplusshanghai.com/modules/mod_swmenufree/images/transmenu/white-90.png";
+TransMenu.hideDelay = 600;
+TransMenu.slideTime = 300;
+TransMenu.selecthack = 0;
+TransMenu.autoposition = 0;
+TransMenu.renderAll();
+if ( typeof window.addEventListener != "undefined" )
+window.addEventListener( "load", init, false );
+else if ( typeof window.attachEvent != "undefined" ) {
+window.attachEvent( "onload", init);
+}else{
+if ( window.onload != null ) {
+var oldOnload = window.onload;
+window.onload = function ( e ) {
+oldOnload( e );
+init();
+}
+}else
+window.onload = init();
+}
+}
+-->
+</script>
+</div>
+<script type="text/javascript">
+<!--
+jQuery.noConflict();
+jQuery(document).ready(function($){
+$('#sw-wrap').parents().css('position','static');
+$('#sw-wrap').parents().css('z-index','100');
+$('#sw-wrap').css('z-index','101');
+});
+//--> 
+</script>  
+
+<!--End swMenuFree menu module-->
+
+								</td>
+							</tr>
+						</tbody>
+          </table>
+          <!-- MAIN MENU end -->
+			</td>
+		</tr>
+  	<tr>
+    	<td>
+				  
+			</td>
+		</tr>
+  	<tr>
+    	<td>
+    							<div id="galleryHomeContainer">
+					  
+<div id="gkIs-gk-is-20" class="gkIsWrapper-gk_coffe">
+	<div class="gkIsPreloader"></div>
+	
+	<div class="gkIsImage" style="width: 995px;height: 400px;">
+										
+			<div class="gkIsSlide" style="z-index: 1;" title="">http://www.artplusshanghai.com/modules/mod_image_show_gk4/cache/exhibition.homepage.main pagegk-is-20.jpg<a href="http://artplusshanghai.com/exhibition/current-exhibition.html">link</a></div>
+												
+			<div class="gkIsSlide" style="z-index: 2;" title="">http://www.artplusshanghai.com/modules/mod_image_show_gk4/cache/exhibition.homepage.between dsc02126_1sgk-is-20.jpg<a href="http://artplusshanghai.com/exhibition/current-exhibition.html">link</a></div>
+												
+			<div class="gkIsSlide" style="z-index: 3;" title="">http://www.artplusshanghai.com/modules/mod_image_show_gk4/cache/exhibition.homepage.between new dsc02156_1sgk-is-20.jpg<a href="http://artplusshanghai.com/exhibition/current-exhibition.html">link</a></div>
+												
+			<div class="gkIsSlide" style="z-index: 4;" title="">http://www.artplusshanghai.com/modules/mod_image_show_gk4/cache/exhibition.homepage.between dsc02167_1sgk-is-20.jpg<a href="http://artplusshanghai.com/exhibition/current-exhibition.html">link</a></div>
+												
+			<div class="gkIsSlide" style="z-index: 5;" title="">http://www.artplusshanghai.com/modules/mod_image_show_gk4/cache/exhibition.homepage.between dsc02187_1sgk-is-20.jpg<a href="http://artplusshanghai.com/exhibition/current-exhibition.html">link</a></div>
+												
+			<div class="gkIsSlide" style="z-index: 6;" title="">http://www.artplusshanghai.com/modules/mod_image_show_gk4/cache/exhibition.homepage.between dsc02158_1sgk-is-20.jpg<a href="http://artplusshanghai.com/exhibition/current-exhibition.html">link</a></div>
+												
+			<div class="gkIsSlide" style="z-index: 7;" title="">http://www.artplusshanghai.com/modules/mod_image_show_gk4/cache/exhibition.homepage.between dsc02194_1sgk-is-20.jpg<a href="/www.artplusshanghai.com/exhibition/current-exhibition.html">link</a></div>
+												
+			<div class="gkIsSlide" style="z-index: 8;" title="">http://www.artplusshanghai.com/modules/mod_image_show_gk4/cache/exhibition.homepage.between new dsc02228_1sgk-is-20.jpg<a href="http://www.artplusshanghai.com/exhibition/current-exhibition.html">link</a></div>
+												
+			<div class="gkIsSlide" style="z-index: 9;" title="">http://www.artplusshanghai.com/modules/mod_image_show_gk4/cache/exhibition.homepage.dsc02227gk-is-20.jpg<a href="/n/current-exhibition.html">link</a></div>
+												
+			<div class="gkIsSlide" style="z-index: 10;" title="">http://www.artplusshanghai.com/modules/mod_image_show_gk4/cache/exhibition.homepage.dsc02232gk-is-20.jpg<a href="/on/current-exhibition.html">link</a></div>
+												
+			<div class="gkIsSlide" style="z-index: 11;" title="">http://www.artplusshanghai.com/modules/mod_image_show_gk4/cache/exhibition.homepage.between new dsc02096_1sgk-is-20.jpg<a href="http://artplusshanghai.com/exhibition/current-exhibition.html">link</a></div>
+					</div>
+	
+		<div class="gkIsPrev"><span>&laquo;</span></div>
+	<div class="gkIsNext"><span>&raquo;</span></div>
+		
+		<div class="gkIsText">Loading&hellip;</div>
+	
+	<div class="gkIsTextData">
+						
+				
+		<div class="gkIsTextItem">
+							<a href="http://artplusshanghai.com/exhibition/current-exhibition.html"></a>
+					</div>
+								
+				
+		<div class="gkIsTextItem">
+							<a href="http://artplusshanghai.com/exhibition/current-exhibition.html"></a>
+					</div>
+								
+				
+		<div class="gkIsTextItem">
+							<a href="http://artplusshanghai.com/exhibition/current-exhibition.html"></a>
+					</div>
+								
+				
+		<div class="gkIsTextItem">
+							<a href="http://artplusshanghai.com/exhibition/current-exhibition.html"></a>
+					</div>
+								
+				
+		<div class="gkIsTextItem">
+							<a href="http://artplusshanghai.com/exhibition/current-exhibition.html"></a>
+					</div>
+								
+				
+		<div class="gkIsTextItem">
+							<a href="http://artplusshanghai.com/exhibition/current-exhibition.html"></a>
+					</div>
+								
+				
+		<div class="gkIsTextItem">
+							<a href="/www.artplusshanghai.com/exhibition/current-exhibition.html"></a>
+					</div>
+								
+				
+		<div class="gkIsTextItem">
+							<a href="http://www.artplusshanghai.com/exhibition/current-exhibition.html"></a>
+					</div>
+								
+				
+		<div class="gkIsTextItem">
+							<a href="/n/current-exhibition.html"></a>
+					</div>
+								
+				
+		<div class="gkIsTextItem">
+							<a href="/on/current-exhibition.html"></a>
+					</div>
+								
+				
+		<div class="gkIsTextItem">
+							<a href="http://artplusshanghai.com/exhibition/current-exhibition.html"></a>
+					</div>
+					</div>
+	</div>
+					</div>
+								
+			</td>
+		</tr>
+  	<tr>
+    	<td id="collection">
+						<div id="all">
+				        <div id="back">
+                <div id="header">
+                    <div id="line">
+                      
+                    </div> <!-- end line -->
+                </div><!-- end header -->
+                <div id="contentarea2">
+                                                                <div id="wrapper" >
+                                        <div id="main2">
+                                        
+                                                                                    <div class="blog-featured">
+
+
+
+
+</div>
+
+
+                                        </div><!-- end main -->
+                                </div><!-- end wrapper -->
+
+                                                  <div id="right">
+                            <a id="additional"></a>
+                            
+                            
+                          </div>
+                         	<!-- end right -->
+                                                
+																										<div class="wrap"></div>
+                    </div> <!-- end contentarea -->
+
+            </div><!-- back -->
+
+    		</div><!-- all -->
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+
+				<table width="1000" border="0" cellspacing="0" cellpadding="0" id="adress">
+
+					<tbody>
+                    	<tr>
+
+                           <td height="25" colspan="2" align="center" valign="middle"><h3 class="c_97 f_size_12">	Art+ Shanghai Gallery, Embankment Building, G/F 370, North Suzhou Lu, near North Sichuan Lu, 200080, Shanghai | Tel: +86 21 5608 6067 |  <a href="mailto:contact@artplusshanghai.com" title="Contact Art Plus Shanghai" class="c_97 f_size_12">contact@artplusshanghai.com</a></h3></td>
+                        
+                        </tr>
+
+                        <tr>
+
+                            <td height="25" colspan="2" align="center" valign="middle" class="c_orange f_size10 ct">
+
+
+						
+							<a href="https://www.facebook.com/pages/Artplusshanghai-Gallery/294215873922590?ref=ts" target="_blank"><img width="40" height="40" alt="Follow Art Plus Shanghai on Facebook" src="http://artplusshanghai.com/images/sns/facebook.png"> </a>
+					
+							<a href="https://twitter.com/#!/artplusshanghai" target="_blank"><img width="40" height="40" alt="Follow Art Plus Shanghai on Twitter" src="http://artplusshanghai.com/images/sns/twitter.png"> </a>
+				
+							<a href="http://www.linkedin.com/groups/Artplusshanghai-Gallery-4148072" target="_blank"><img width="40" height="40" alt="Follow Art Plus Shanghai on LinkedIn" src="http://artplusshanghai.com/images/sns/linked.png"> </a>
+					
+							<a href="http://www.flickr.com/photos/artplusshanghai/" target="_blank"><img width="40" height="40" alt="Follow Art Plus Shanghai on Flickr" src="http://artplusshanghai.com/images/sns/flickr.png"> </a>
+							
+
+									
+							<a href="http://www.tucho.com" target="_blank"><img width="40" height="40" alt="Visit Chai" src="http://artplusshanghai.com/images/sns/chai.jpg"> </a>
+
+
+							
+                                <div id="footer">
+                                	
+										
+<ul class="menu">
+<li id="item-121" class="parent"><a href="/sitemap.html" >Sitemap</a></li><li id="item-119"><a href="/legal-notices.html" >Legal notices</a></li><li id="item-150"><a href="/links.html" >Links</a></li><li id="item-123"><a href="/subscribe-to-our-mailing-list.html" >Subscribe to our mailing list</a></li></ul>
+
+
+
+
+
+
+
+														
+
+
+
+
+										<form method=get action="http://web.artprice.com/en/artistsearch.aspx" target="_blank">
+										<a href='http://web.artprice.com/in.aspx?idr=Mzc4NTUwNzU5MzkwMzg=&L=en' target="_blank"><img src="http://web.artprice.com/Img/B/artprice_140.gif" align="absmiddle" border="0" alt="artprice"></a>
+										<input type=text name=searcharti size=25>
+										<input type=submit value="Search this artist" style="CURSOR: hand">
+										<input type=hidden name=L value=en>
+										<input type=hidden name=idr value=Mzc4NTUwNzU5MzkwMzg=>
+										</form>
+
+                                </div>
+							</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td height="35" colspan="2" align="center" valign="top" class="c_999 f_size10">
+                            		Copyright Â© 2010 Artplussshanghai.com All rights reserved.  <br/>
+Designed&Developed by <a href="http://www.aiqidesign.cn">Aiqidesign</a>
+                            </td>
+
+                        </tr>
+
+                </tbody></table>
+
+
+            </td>
+
+        </tr>
+
+</tbody></table>
+<div id="footer-outer">
+        </div>
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://galleryespace.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="google-site-verification" content="P-GGpZaUv8iNhFLFpBxMjc7Zz7NFGtmPs8a4W3qnEts" />
+<title>Gallery Espace</title>
+ <link href="css/gallery.css" rel="stylesheet" type="text/css" />
+ <style>
+  #footer_link span
+  {
+    margin-left:9px; 	  
+  }
+  
+  .bannerimgcon a
+  {
+	color:white;   
+  }
+ </style>
+ <script type="text/javascript" src="js/jquery-1.3.1.min.js"></script>
+<script type="text/javascript" src="js/banner.js"></script>
+
+<script language="javascript">
+
+		$(document).ready(function() {
+
+
+
+			$.featureList(
+
+				$("#pic_tab2 li a"),
+
+				$("#output2 li "), {
+
+					start_item	:	0
+
+				}
+
+			);
+
+
+
+			/*
+
+			
+
+			// Alternative
+
+
+
+			
+
+			$('#tabs li a').featureList({
+
+				output			:	'#output li',
+
+				start_item		:	1
+
+			});
+
+
+
+			*/
+
+
+
+		});
+
+	</script>
+
+</head>
+
+<body>
+<!--main div  start-->
+<div id="main"> 
+  <!--header div start-->
+  <div id="header_div"> 
+    <div class="logo"><a href="http://galleryespace.com"><img src="images/logo.gif" alt="" width="392" height="96" /></a></div>
+    <div class="header_rt_div"> 
+      <ul class="search">
+        <li class="search_bg"></li>
+        <li class="go"> </li>
+      </ul>
+      <ul class="top_link">
+        <li><a href="#"> </a></li>
+        <li >&nbsp;</li>
+      </ul>
+    </div>
+    <!--main link div start-->
+    <div  id="shower" style="width:990px; float:left;  overflow:hidden;"> 
+      <!--main link div start-->
+      <div id="main_link_div"> 
+        <ul id="menu">
+          <li><a href="http://galleryespace.com/newsite/new_profile.php">GALLERY 
+            INFO</a></li>
+          <li><a href="http://galleryespace.com/newsite/new_shows.php">EXHIBITIONS</a></li>
+          <li><a href="http://galleryespace.com/newsite/new_artist.php">ARTISTS</a></li>
+          <li><a href="http://galleryespace.com/newsite/new_work_arrivals.php?collection=4">STOCK</a></li>
+          <li><a href="http://galleryespace.com/newsite/new_events.php">FAIRS</a></li>
+          <li><a href="http://galleryespace.com/newsite/new_publication.php">PUBLICATIONS</a></li>
+          <li><a href="http://galleryespace.com/newsite/new_videowednesday.php">OUTREACH</a></li>
+          <li><a href="http://galleryespace.com/newsite/new_news.php">NEWS & MEDIA</a></li>
+        </ul>
+      </div>
+      <!--main link div end-->
+      <div id="shoin"> 
+        <div class="firstlink"> 
+          <ul class="sub_link">
+            <li><a href="profile.html">Profile</a> </li>
+            <li>|</li>
+            <li><a href="contact.html">Contact</a></li>
+            <li>|</li>
+            <li><a href="gallery.html">Gallery View</a></li>
+          </ul>
+        </div>
+        <div class="secondlink"> 
+          <ul class="sub_link">
+            <li><a href="overview.html">Overview</a></li>
+            <li>|</li>
+            <li><a href="#">Board of Directors</a></li>
+            <li>|</li>
+            <li><a href="#">Services</a></li>
+            <li>|</li>
+            <li><a href="#">Media</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!--main link div end-->
+  </div>
+  <!--header div end-->
+  <!--banner div start-->
+  <div id="banner_div"> 
+    <ul id="output2">
+      <li> 
+        <div class="bannerimg"><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><img src="images/home_banner_img/zarina_1.jpg" width="700" height="425" border="0" /></a></div>
+        <div class="bannerimgcon"> <a href="http://galleryespace.com/newsite/new_current.php?collection=131"> 
+          <h1><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><font color="#FFFFFF" size="3" face="Arial, Helvetica, sans-serif">Zarina 
+            : Folding House<br />
+            </font><font color="#FFFFFF"><br />
+            </font></a></h1>
+          <font color="#000000" size="3" face="Arial, Helvetica, sans-serif"><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><font color="#FFFFFF">24 
+          January - 28 February, 2014</font></a></font> 
+          <h1>&nbsp;</h1>
+          <h1><font face="Arial, Helvetica, sans-serif"> <font size="3" face="Arial, Helvetica, sans-serif"> 
+            <p></p>
+            </font></font></h1></a>
+          </div>
+      </li>
+      <li> 
+        <div class="bannerimg"><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><img src="images/home_banner_img/zarina_2.jpg" width="700" height="425" border="0" /></a></div>
+        <div class="bannerimgcon"> <a href="http://galleryespace.com/newsite/new_current.php?collection=131"> 
+          <h1><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><font color="#FFFFFF" size="3" face="Arial, Helvetica, sans-serif">Zarina 
+            : Folding House<br />
+            </font><font color="#FFFFFF"><br />
+            </font></a></h1>
+          <font color="#000000" size="3" face="Arial, Helvetica, sans-serif"><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><font color="#FFFFFF">24 
+          January - 28 February, 2014</font></a></font> 
+          <h1><font face="Arial, Helvetica, sans-serif"><br/>
+            <font size="3" face="Arial, Helvetica, sans-serif"> </font></font></h1>
+          <h1><font face="Arial, Helvetica, sans-serif"><font size="3" face="Arial, Helvetica, sans-serif"> 
+            <p></p>
+            </font></font></h1></a>
+          </div>
+      </li>
+      <li> 
+        <div class="bannerimg"><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><img src="images/home_banner_img/zarina_3.jpg" width="700" height="425" border="0" /></a></div>
+        <div class="bannerimgcon"> <a href="http://galleryespace.com/newsite/new_current.php?collection=131"> 
+          <h1><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><font color="#FFFFFF" size="3" face="Arial, Helvetica, sans-serif">Zarina 
+            : Folding House<br />
+            </font><font color="#FFFFFF"><br />
+            </font></a></h1>
+          <font color="#000000" size="3" face="Arial, Helvetica, sans-serif"><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><font color="#FFFFFF">24 
+          January - 28 February, 2014</font></a></font> 
+          <h1><font face="Arial, Helvetica, sans-serif"><br/>
+            <font size="3" face="Arial, Helvetica, sans-serif"> </font></font></h1>
+          <h1><font face="Arial, Helvetica, sans-serif"><font size="3" face="Arial, Helvetica, sans-serif"> 
+            <p></p>
+            </font></font></h1></a>
+          </div>
+      </li>
+      <li> 
+        <div class="bannerimg"><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><img src="images/home_banner_img/zarina_4.jpg" width="700" height="425" border="0" /></a></div>
+        <div class="bannerimgcon"> <a href="http://galleryespace.com/newsite/new_current.php?collection=131"> 
+          <h1><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><font color="#FFFFFF" size="3" face="Arial, Helvetica, sans-serif">Zarina 
+            : Folding House<br />
+            </font><font color="#FFFFFF"><br />
+            </font></a></h1>
+          <font color="#000000" size="3" face="Arial, Helvetica, sans-serif"><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><font color="#FFFFFF">24 
+          January - 28 February, 2014</font></a></font> 
+          <h1>&nbsp; </h1>
+          <h1><font face="Arial, Helvetica, sans-serif"><br/>
+            <font size="3" face="Arial, Helvetica, sans-serif"> 
+            <p></p>
+            </font></font></h1></a>
+          </div>
+      </li>
+      <li> 
+        <div class="bannerimg"><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><img src="images/home_banner_img/zarina_5.jpg" width="700" height="425" border="0" /></a></div>
+        <div class="bannerimgcon"> <a href="http://galleryespace.com/newsite/new_current.php?collection=131"> 
+          <h1><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><font color="#000000" size="3" face="Arial, Helvetica, sans-serif"> 
+            <font color="#FFFFFF">Zarina : Folding House<br />
+            </font></font><font color="#FFFFFF"><br />
+            </font></a></h1>
+          <font color="#000000" size="3" face="Arial, Helvetica, sans-serif"><a href="http://galleryespace.com/newsite/new_current.php?collection=131"><font color="#FFFFFF">24 
+          January - 28 February, 2014</font></a></font> 
+          <h1><font face="Arial, Helvetica, sans-serif"><br/>
+            <font size="3" face="Arial, Helvetica, sans-serif"> 
+            <p></p>
+            </font></font></h1></a>
+          </div>
+      </li>
+    </ul>
+  </div>
+  <!--banner div end-->
+  <ul id="pic_tab2">
+    <li><a href="javascript:;">1</a></li>
+    <li><a href="javascript:;">2</a></li>
+    <li><a href="javascript:;">3</a></li>
+    <li><a href="javascript:;">4</a></li>
+    <li><a href="javascript:;">5</a></li>
+  </ul>
+  <!--body div start-->
+  <div align="center"><br />
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <br/>
+  </div>
+  <div id="body_div"> 
+    <!--news and media div start-->
+    <div class="news_media_container"> 
+      <h1>NEWS &amp; MEDIA </h1>
+      <ul>
+        <li><a href="newsite/news&media/Nilima_Sheikh _1.jpg" target="_blank">TimeOut 
+          retraces Nilima Sheikh's art practice â€˜(April 12-25,2013, Vol 7, issue 
+          2)â€™ I</a></li>
+        <li><a href="newsite/news&media/Nilima_Sheikh_ 2.jpg" target="_blank">TimeOut 
+          retraces Nilima Sheikh's art practice â€˜(April 12-25,2013, Vol 7, issue 
+          2)â€™ II</a></li>
+        <li><a href="newsite/news&media/waswo.JPG" target="_blank"> Waswo X Waswo 
+          @ Mori Art Museum</a></li>
+        <li><a href="http://www.facebook.com/pages/Gallery-Espace/128127974186474" target="_blank"> 
+          Paula Sengupta in news </a></li>
+        <li><a href=" http://www.facebook.com/photo.php?fbid=550146881684579&set=a.207676972598240.56292.128127974186474&type=1&theater" target="_blank">Conversation 
+          with Rina Banerjee by Herve Mikaeloff</a></li>
+        <li><a href="http://epaper.mailtoday.in/showstory.aspx?queryed=9&querypage=52&boxid=418734&parentid=76623&eddate=Jan%2026%202013%2012:00AM&issuedate=NaNundefinedundefined" target="_blank">Welcome 
+          to Indias Capital of Arts BY SANDEEP BAMZAI Editor, MAIL TODAY</a></li>
+        <li><a href="http://www.galleryespace.com/newsite/common_image/news/oct_12_3.jpg" target="_blank">Manisha 
+          Gera Baswani &quot;hope is the thing with feathers&quot; by Sonam Joshi 
+          Time Out, 15-25 October , 2012<strong> </strong></a></li>
+        <li><a href="http://www.galleryespace.com/newsite/common_image/news/oct_12_2.jpg" target="_blank">Manisha 
+          Gera Baswani &quot;hope is the thing with feathers&quot; by Poonam Goel 
+          The new Indian Express ,17 October, 2012 </a></li>
+        <li><a href="http://www.galleryespace.com/newsite/common_image/news/oct_12_1.jpg" target="_blank">Manisha 
+          Gera Baswani &quot;hope is the thing with feathers&quot;<strong> </strong>First 
+          City 12 October, 2012</a></li>
+        <li><a href="http://www.timeoutdelhi.net/client_coverstory/client_coverstory_details.asp?code=1150" target="_blank">The 
+          collectorâ€™s crib- Manisha Gera Baswani, timeoutdelhi.net</a></li>
+      </ul>
+    </div>
+    <!--news and media div end-->
+    <!--event div start-->
+    <div class="news_media_container"> 
+      <h1>EVENTS</h1>
+      <ul>
+        <li><a href="http://www.facebook.com/media/set/?set=a.551474128218521.1073741832.128127974186474&type=3" target="_blank">Book 
+          Lauch : TRACE RETRACE | Paintings, Nilima Sheikh<br/>
+          March 16, 2013 </a></li>
+        <li><a href="http://galleryespace.com/newsite/new_shows.php" target="_blank"> 
+          Kalam Patua: A Studio in Delhi<br/>
+          January 24, 2013 - March 01, 2013</a></li>
+        <li><a href="http://galleryespace.com/newsite/new_artworks_artfair.php?collection=116" target="_blank"> 
+          India Art Fair 2013<br/>
+          January 31, 2013 - Feb 03, 2013</a></li>
+      </ul>
+      <div class="event_img_div"> 
+        <div class="event_img"> <br />
+          <br />
+        </div>
+        <div class="event_con"></div>
+      </div>
+      <div class="event_bt_con"> <br />
+      </div>
+    </div>
+    <!--event div end-->
+    <!--how to reach us div start-->
+    <div id="map_container"> 
+      <h1>HOW To REACH US</h1>
+      <div class="map_area"><a href="http://galleryespace.com/newsite/new_contact.php"><img src="images/map_img.jpg" alt="" /></a></div>
+      <div class="map_area_bt_img"><img src="images/map_bt_img.jpg" alt="" /></div>
+    </div>
+    <!--how to reach us div end-->
+    <div class="home_bottom_spacer"></div>
+  </div>
+  <!--body div end-->
+</div>
+<!--main div end-->
+
+<!--footer div start-->   
+<div class="footer_div"> 
+  <div class="footer_div_container"> 
+    <div class="subscribe_container"> 
+      <div align="center"> 
+        <table width="160" border="0" cellpadding="2" cellspacing="0">
+          <tr> 
+            <td height="25" align="center"><div align="center"><a href="http://www.facebook.com/pages/Gallery-Espace/128127974186474" target="_blank"><img src="http://galleryespace.com/newsite/images/facebook.jpg" border="0" /></a></div></td>
+            <td><div align="center"><a href="http://www.linkedin.com/company/gallery-espace?trk=fc_badge" target="_blank"><img src="http://galleryespace.com/newsite/images/linked.jpg" border="0" /></a></div></td>
+            <td><div align="center"><a href="https://twitter.com/GalleryEspace" target="_blank"><img src="http://galleryespace.com/newsite/images/twitter.jpg" border="0" /></a></div></td>
+            <td><div align="center"><a href="http://galleryespace.com/newsite/youtube.php"><img src="http://galleryespace.com/newsite/images/youtube.jpg" border="0" /></a></div></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <div id="footer_link_div"> 
+      <div id="footer_link"><span><a href="newsite/new_profile.php">GALLERY INFO</a></span> 
+        <span><a href="newsite/new_shows.php">EXHIBITIONS</a></span> <span><a href="newsite/new_artist">ARTISTS</a></span> 
+        <span><a href="newsite/new_work_arrivals.php?collection=4">STOCK</a></span><span><a href="newsite/new_events.php">FAIRS</a></span> 
+        <span><a href="newsite//new_publication.php">PUBLICATIONS</a></span> <span><a href="newsite/new_videowednesday.php">OUTREACH</a></span><span><a href="newsite/new_news.php">NEWS 
+        & MEDIA</a></span> </div>
+    </div>
+  </div>
+  <div id="designed_by_div"> 
+    <div class="designed_lt">Disclaimer</div>
+    <div class="designed_rt">Â© Gallery Espace 2012. All rights reserved. </div>
+  </div>
+</div>   
+<!--footer div end-->
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.nihon-kogeikai.com/>====================
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta name="author" content="ŽÐ’c–@l“ú–{HŒ|‰ï,“ú–{HŒ|‰ïƒjƒ…[ƒX,“ú–{“`“HŒ|“W,lŠÔ‘•ó,lŠÔ‘•óƒMƒƒƒ‰ƒŠ[,d—v–³Œ`•¶‰»à•ÛŽŽÒ,“©Œ|,õD,Ž½Œ|,‹àH,–Ø’|H,lŒ`,”HŒ|,“`“HŒ|‚È‚¼‚È‚¼•S‰È,§ìFŠ”Ž®‰ïŽÐƒŒ[ƒ”,Šé‰æEƒfƒUƒCƒ“E•ÒWFˆÀ“c@³">
+<meta name="keywords" content="ŽÐ’c–@l“ú–{HŒ|‰ï,“ú–{HŒ|‰ïƒjƒ…[ƒX,“ú–{“`“HŒ|“W,lŠÔ‘•ó,lŠÔ‘•óƒMƒƒƒ‰ƒŠ[,d—v–³Œ`•¶‰»à•ÛŽŽÒ,“©Œ|,õD,Ž½Œ|,‹àH,–Ø’|H,lŒ`,”HŒ|,“`“HŒ|‚È‚¼‚È‚¼•S‰È,§ìFŠ”Ž®‰ïŽÐƒŒ[ƒ”,Šé‰æEƒfƒUƒCƒ“E•ÒWFˆÀ“c@³">
+<meta name="description" content="ŽÐ’c–@l“ú–{HŒ|‰ï,“ú–{HŒ|‰ïƒjƒ…[ƒX,“ú–{“`“HŒ|“W,lŠÔ‘•ó,lŠÔ‘•óƒMƒƒƒ‰ƒŠ[,d—v–³Œ`•¶‰»à•ÛŽŽÒ,“©Œ|,õD,Ž½Œ|,‹àH,–Ø’|H,lŒ`,”HŒ|,“`“HŒ|‚È‚¼‚È‚¼•S‰È,§ìFŠ”Ž®‰ïŽÐƒŒ[ƒ”,Šé‰æEƒfƒUƒCƒ“E•ÒWFˆÀ“c@³">
+
+<TITLE>“ú–{HŒ|‰ïƒz[ƒ€ƒy[ƒW</TITLE>
+
+<SCRIPT Language="JavaScript1.1">
+<!--
+        if (document.images) {
+            img1on = new Image();img1on.src = "GIF/0/00001-1.gif";
+            img2on = new Image();img2on.src = "GIF/0/00002-1.gif";
+            img3on = new Image();img3on.src = "GIF/0/00003-1.gif";
+            img4on = new Image();img4on.src = "GIF/0/00004-1.gif";
+            img5on = new Image();img5on.src = "GIF/0/00005-1.gif";
+            img6on = new Image();img6on.src = "GIF/0/00006-1.gif";
+            img9on = new Image();img9on.src = "GIF/0/00009-1.gif";
+            img10on = new Image();img10on.src = "http://www.reves-db.jp/NAZO-NAZO/GIF/000/NAZO-NAZO-LOGO-5.gif";
+             img11on = new Image();img11on.src = "GIF/0/00112-1.gif";
+            
+            img1off = new Image();img1off.src = "GIF/0/00001.gif";
+            img2off = new Image();img2off.src = "GIF/0/00002.gif";
+            img3off = new Image();img3off.src = "GIF/0/00003.gif";
+            img4off = new Image();img4off.src = "GIF/0/00004.gif";
+            img5off = new Image();img5off.src = "GIF/0/00005.gif";
+            img6off = new Image();img6off.src = "GIF/0/00006.gif";
+            img9off = new Image();img9off.src = "GIF/0/00009.gif";
+            img10off = new Image();img10off.src = "http://www.reves-db.jp/NAZO-NAZO/GIF/000/NAZO-NAZO-LOGO-S.gif";
+            img11off = new Image();img11off.src = "GIF/0/00112.gif";
+            
+        }
+function imgOn(imgName) {
+        if (document.images) {
+            document[imgName].src = eval(imgName + "on.src");
+        }
+}
+function imgOff(imgName) {
+        if (document.images) {
+            document[imgName].src = eval(imgName + "off.src");
+        }
+}
+//-->
+</SCRIPT>
+
+
+<!-- ‚±‚±‚©‚ç -->
+ <SCRIPT LANGUAGE="JavaScript">
+ <!--
+ var SRNheight=window.screen.height;
+ var SRNwidth=window.screen.width;
+ var SRNcolor=window.screen.colorDepth;
+ var Referrer=window.document.referrer;
+ var HostUrl=window.document.url
+ //-->
+ </SCRIPT>
+
+ <SCRIPT LANGUAGE="Javascript" SRC="/aspexe/Axs/js/lhs-acc.js">
+ </SCRIPT>
+
+<!-- ‚±‚±‚Ü‚Å -->
+
+
+</HEAD>
+<BODY BGCOLOR="#ffffff">
+<CENTER>
+<a HREF="index.html"><font size=2 color=#000000>NIHON KOGEIKAI</FONT></A>
+<P>
+<table WIDTH=850 BORDER=0 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<img SRC="GIF/0/NK-00001.gif"><img SRC="GIF/0/NK-00001.gif"><img SRC="GIF/0/NK-00001.gif"><img SRC="GIF/0/NK-00001.gif"><img SRC="GIF/0/NK-00001.gif"><img SRC="GIF/0/NK-00001.gif"><img SRC="GIF/0/NK-00000.gif"><img SRC="GIF/0/NK-00001.gif"><img SRC="GIF/0/NK-00001.gif"><img SRC="GIF/0/NK-00001.gif"><img SRC="GIF/0/NK-00001.gif"><img SRC="GIF/0/NK-00001.gif"><img SRC="GIF/0/NK-00001.gif">
+<BR>
+<font size=2 color=#000000>SINCE 1998</FONT>
+</td></TR>
+</table>
+<P>
+<HR WIDTH=30%>
+<P>
+<img SRC="GIF/0/N8.gif" BORDER="0"> <img SRC="GIF/0/N0.gif" BORDER="0"> <img SRC="GIF/0/N8.gif" BORDER="0">
+<P>
+<HR WIDTH=30%>
+<P>
+<font size=3 color=#000000>•½¬‚Q‚U”N@‚QŒŽ‚Q‚T“úXV</FONT>
+<P>
+<img SRC="GIF/0/1.gif" BORDER="0">
+<P>
+<table WIDTH=600 BORDER=0 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<table WIDTH=400 BORDER=0 CELLSPACING=0 CELLPADDING=2 BGCOLOR="FFFFFF">
+<tr><td WIDTH=120>
+<CENTER>
+<a HREF="index-E.html"><font size=2 color=#880044>ENGLISH</FONT></A>
+</td><td WIDTH=120>
+<CENTER>
+<a HREF="MOKUJI.html"><font size=2 color=#880044>‘–ÚŽŸ</FONT></A>
+</td><td WIDTH=120>
+<CENTER>
+<a HREF="KENSAKU.html"><font size=2 color=#880044>ì•iŒŸõ</FONT></A>
+</td></TR>
+<TR><td WIDTH=120>
+<CENTER>
+<a HREF="EXHIBIT.html"><font size=2 color=#880044>“W——‰ïî•ñ</FONT></A>
+</td><td WIDTH=120>
+<CENTER>
+<a HREF="VIDEO.html"><font size=2 color=#880044>ƒrƒfƒI‚Ì”Ð•z</FONT></A>
+</td><td WIDTH=120>
+<CENTER>
+<a HREF="DVD.html"><font size=2 color=#880044>‚c‚u‚c‚Ì”Ð•z</FONT></FONT></A>
+</td></TR>
+</table>
+<P>
+<table WIDTH=400 BORDER=0 CELLSPACING=0 CELLPADDING=2 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<a HREF="KEISAI.html"><font size=2 color=#880044>“ú–{“`“HŒ|“W“ü‘Iì•i‰æ‘œŒfÚƒVƒXƒeƒ€</FONT></A>
+</td></TR>
+<TR><td>
+<CENTER>
+<a HREF="HOMEPAGE.html"><font size=2 color=#880044>Œö‰vŽÐ’c–@l“ú–{HŒ|‰ï‚Ìƒz|ƒ€ƒy|ƒW‚É‚Â‚¢‚Ä</FONT></A>
+</td></TR>
+</table>
+<P>
+<img SRC="GIF/0/1.gif" BORDER="0">
+<P>
+
+<P>
+<table WIDTH=800 BORDER=0 CELLSPACING=0 CELLPADDING=20 BGCOLOR="CCCCCC">
+<tr><td>
+<CENTER>
+<P>
+<a HREF="KOGEITEN/KOGEITEN-060/KOGEITEN-060.html">
+
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF" width=60>
+<tr><td>
+<center>
+<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
+ WIDTH="180" HEIGHT="196" id="SWF/000-060-S-1" ALIGN=""> 
+<PARAM NAME=movie VALUE="SWF/000-060-S-1.swf"> 
+<PARAM NAME=quality VALUE=high> 
+<PARAM NAME=bgcolor VALUE=#FFFFFF> 
+<EMBED src="SWF/000-060-S-1.swf" 
+quality=high bgcolor=#FFFFFF  WIDTH="180" HEIGHT="196" 
+NAME="000-060-S-1" 
+ALIGN=""
+ TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED>
+</OBJECT>
+</td></tr>
+</TABLE>
+
+</A>
+
+<P>
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 BGCOLOR="CCCCCC" width=500>
+<tr><td><center>
+<a HREF="KOGEITEN/KOGEITEN-060/KOGEITEN-060-JUSYO.html"><font size=4 color=#880044>‘æ˜Z\‰ñ@“ú–{“`“HŒ|“W@ŽóÜì•iˆê——</FONT></A>
+</td></tr><tr><td><center>
+<a HREF="KOGEITEN/KOGEITEN-060/KOGEITEN-060-SYUPPIN.html"><font size=4 color=#880044>‘æ˜Z\‰ñ@“ú–{“`“HŒ|“W@“ü‘Iì•iˆê——</FONT></A>
+</td></tr>
+</TABLE>
+<P>
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 BGCOLOR="CCCCCC" width=500>
+<tr><td><center>
+<a HREF="BUKAITEN/SHITSUGEI/SHITSUGEI-031/SHITSUGEI-031-JUSYO.html"><font size=3 color=#880044>‘æ‚R‚P‰ñ@“ú–{“`“Ž½Œ|“W@ŽóÜì•iˆê——</FONT></A>
+</td></tr><tr><td><center>
+<a HREF="BUKAITEN/SHITSUGEI/SHITSUGEI-031/SHITSUGEI-031-SYUPPIN.html"><font size=3 color=#880044>‘æ‚R‚P‰ñ@“ú–{“`“Ž½Œ|“W@“ü‘Iì•iˆê——</FONT></A>
+</td></tr><tr><td><center>
+<a HREF="BUKAITEN/TOGEI/TOGEI-042/TOGEI-042-YOKO.html"><font size=3 color=#880044>‘æ‚S‚Q‰ñ@“`“HŒ|“©Œ|•”‰ï“W@o•i—v€</FONT></A>
+</td></tr><tr><td><center>
+<a HREF="BUKAITEN/TOGEI/TOGEI-042/TOGEI-042-SHINSAIN.html"><font size=3 color=#880044>‘æ‚S‚Q‰ñ@“`“HŒ|“©Œ|•”‰ï“W@R¸ˆÏˆõ</FONT></A>
+</td></tr><tr><td><center>
+<a HREF="BUKAITEN/KINKO/KINKO-043/KINKO-043-YOKO.html"><font size=3 color=#880044>‘æ‚S‚R‰ñ@“`“HŒ|“ú–{‹àH“W@ŠJÃ—v€</FONT></A>
+</td></tr><tr><td><center>
+<a HREF="BUKAITEN/NINGYO/NINGYO-027/NINGYO-027-YOKO.html"><font size=3 color=#880044>‘æ‚Q‚V‰ñ@“`“HŒ|lŒ`“W@ŠJÃ—v€</FONT></A>
+</td></tr><tr><td><center>
+<a HREF="SHIBUTEN/HIGASHINIHON/HIGASHINIHON-054/HIGASHINIHON-054-YOKO.html"><font size=3 color=#880044>“ú–{HŒ|‰ï“Œ“ú–{Žx•”@‘æŒÜ\Žl‰ñ@“Œ“ú–{“`“HŒ|“W@ŠJÃ—v€</FONT></A>
+</td></tr><tr><td><center>
+<a HREF="SHIBUTEN/KINKI/KINKI-043/KINKI-043-YOKO.html"><font size=3 color=#880044>‘æ‚S‚R‰ñ@“ú–{“`“HŒ|‹ß‹E“W@ŠJÃ—v€</FONT></A>
+</td></tr><tr><td><center>
+<a HREF="SHIBUTEN/KINKI/PDF/KINKI-043-JUSYO-PDF-3.pdf"><font size=3 color=#880044>‘æ‚S‚R‰ñ@“ú–{“`“HŒ|‹ß‹E“W@ŽóÜì•iˆê——i‚o‚c‚ej</FONT></A>
+</td></tr><tr><td><center>
+<a HREF="SHIBUTEN/CHUGOKU/CHUGOKU-057/PDF/CHUGOKU-057-BOSYUANNAI-1.pdf"><font size=3 color=#880044>‘æ‚T‚V‰ñ@“ú–{“`“HŒ|’†‘Žx•”“W@o•i•åW‚É‚Â‚¢‚Äi‚o‚c‚ej</FONT></A>
+</td></tr><tr><td><center>
+<a HREF="SHIBUTEN/CHUGOKU/CHUGOKU-057/PDF/CHUGOKU-057-SHINSAIN-3.pdf"><font size=3 color=#880044>‘æ‚T‚V‰ñ@“ú–{“`“HŒ|’†‘Žx•”“W@R¸ˆÏˆõi‚o‚c‚ej</FONT></A>
+</td></tr>
+</TABLE>
+</td></tr>
+</TABLE>
+
+</td></TR>
+</table>
+<P>
+<img SRC="GIF/0/1.gif" BORDER="0">
+<P>
+<table WIDTH=800 BORDER=0 CELLSPACING=0 CELLPADDING=20 BGCOLOR="CCCCCC">
+<tr><td>
+<CENTER>
+
+<B><font size=3 color=#880044>WEEKLY GALLERY</FONT></B>
+<P>
+<font size=2 color=#000000>lŠÔ‘•óid—v–³Œ`•¶‰»à•ÛŽŽÒj‚Ìì•i‚©‚ç</FONT>
+<BR>
+<font size=2 color=#000000># 808</FONT>
+<P>
+
+<table WIDTH=500 BORDER=0 CELLSPACING=0 CELLPADDING=20 BGCOLOR="FFFFFF" background="GIF/0/BASE-017.jpg">
+<tr><td>
+<CENTER>
+
+<a HREF="HOMEPAGE/20140224.html"><img SRC="GIF/3/3-10009-000-060-00337.jpg" BORDER="0"></A>
+<BR>
+<font size=2 color=#000000>àÜàî—†çí‰ÔŒ`‘g” </FONT>
+<BR>
+<font size=2 color=#000000>–k‘ººÖ</FONT>
+</td></TR>
+</table>
+<P>
+
+
+</td></tr>
+</table>
+
+
+<P>
+<img SRC="GIF/0/1.gif" BORDER="0">
+<P>
+<table BORDER=3 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<a HREF="NEWS.html" onMouseOver = "imgOn('img11')" onMouseOut = "imgOff('img11')"><img NAME= "img11" SRC="GIF/0/00112.gif" BORDER="0"></A>
+</CENTER>
+</td></TR>
+</table>
+<table WIDTH=410 BORDER=0 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<a HREF="NEWS.html"><font size=2 color=#880044>ÅV‚Ìƒjƒ…[ƒX‚ðA“®‰æiƒrƒfƒIj‚Å‚²——‚­‚¾‚³‚¢I</FONT></A>
+</CENTER>
+</td></TR>
+</table>
+<P>
+<table BORDER=3 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<a HREF="KOKUHO.html" onMouseOver = "imgOn('img4')" onMouseOut = "imgOff('img4')"><img NAME= "img4" SRC="GIF/0/00004.gif" BORDER="0"></A>
+</CENTER>
+</td></TR>
+</table>
+<table WIDTH=410 BORDER=0 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<a HREF="KOKUHO.html"><font size=2 color=#880044>d—v–³Œ`•¶‰»à•ÛŽŽÒ‚P‚S‚R–¼‚Ìì•i‚ð‚²——‚­‚¾‚³‚¢I</FONT></A>
+</CENTER>
+</td></TR>
+</table>
+<P>
+<table BORDER=3 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<a HREF="KOGEITEN.html" onMouseOver = "imgOn('img1')" onMouseOut = "imgOff('img1')"><img NAME= "img1" SRC="GIF/0/00001.gif" BORDER="0"></A>
+</CENTER>
+</td></TR>
+</table>
+<table WIDTH=410 BORDER=0 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<a HREF="KOGEITEN.html"><font size=2 color=#880044>‘æ‚P‰ñ“W‚©‚çA‘æ‚U‚O‰ñ“W‚Ü‚Å‚Ìî•ñ‚ðŒfÚ‚µ‚Ä‚¢‚Ü‚·I</FONT></A>
+</CENTER>
+</td></TR>
+</table>
+<P>
+<table BORDER=3 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<a HREF="BUKAITEN.html" onMouseOver = "imgOn('img3')" onMouseOut = "imgOff('img3')"><img NAME= "img3" SRC="GIF/0/00003.gif" BORDER="0"></A>
+</CENTER>
+</td><td>
+<CENTER>
+<a HREF="SHIBUTEN.html" onMouseOver = "imgOn('img2')" onMouseOut = "imgOff('img2')"><img NAME= "img2" SRC="GIF/0/00002.gif" BORDER="0"></A>
+</CENTER>
+</td></TR>
+</table>
+<table WIDTH=410 BORDER=0 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<font size=2 color=#880044><a HREF="BUKAITEN.html">Še•”‰ï</A>A<a HREF="SHIBUTEN.html">ŠeŽx•”</A>‚©‚ç‘—‚ç‚ê‚Ä‚«‚½î•ñ‚ðŒfÚ‚µ‚Ä‚¢‚Ü‚·I</FONT>
+</CENTER>
+</td></TR>
+</table>
+<P>
+<table BORDER=3 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<a HREF="NAZO-NAZO/index.html" onMouseOver = "imgOn('img10')" onMouseOut = "imgOff('img10')"><img NAME= "img10" SRC="http://www.reves-db.jp/NAZO-NAZO/GIF/000/NAZO-NAZO-LOGO-S.gif" BORDER="0"></A>
+</td></tr>
+</table>
+<table WIDTH=410 BORDER=0 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<a HREF="NAZO-NAZO/index.html"<font size=2 color=#880044><font size=2 color=#880044>‚È‚¼‚È‚¼‚ð‰ð‚«‚È‚ª‚çA“`“HŒ|‚Ì¢ŠE‚Ée‚µ‚Ý‚Ü‚µ‚å‚¤I</FONT></A>
+</CENTER>
+</td></TR>
+</table>
+<P>
+<table BORDER=3 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<a HREF="TSUTAERU.html" onMouseOver = "imgOn('img5')" onMouseOut = "imgOff('img5')"><img NAME= "img5" SRC="GIF/0/00005.gif" BORDER="0"></A>
+</CENTER>
+</td><TD>
+<CENTER>
+<a HREF="SASAERU.html" onMouseOver = "imgOn('img6')" onMouseOut = "imgOff('img6')"><img NAME= "img6" SRC="GIF/0/00006.gif" BORDER="0"></A>
+</CENTER>
+</td></TR>
+</table>
+<P>
+<a HREF="TEBIKI.html"><font size=2 color=#880044>ŠÓÜ‚ÌŽèˆø‚«</FONT></A>
+
+<P>
+<img SRC="GIF/0/1.gif" BORDER="0">
+<P>
+
+<table BORDER=3 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><TD>
+<a HREF="NIHON-KOGEIKAI.html" onMouseOver = "imgOn('img9')" onMouseOut = "imgOff('img9')"><img NAME= "img9" SRC="GIF/0/00009.gif" BORDER="0"></A>
+</td><td>
+</table>
+<table WIDTH=410 BORDER=0 CELLSPACING=0 CELLPADDING=0 BGCOLOR="FFFFFF">
+<tr><td>
+<CENTER>
+<a HREF="NIHON-KOGEIKAI.html"><font size=2 color=#880044>Œö‰vŽÐ’c–@l“ú–{HŒ|‰ï‚Ìî•ñ‚ðŠJŽ¦‚µ‚Ä‚¢‚Ü‚·B</FONT></A>
+</CENTER>
+</td></TR>
+</table>
+<P>
+<font size=2 color=#000000>»ì’˜ì</FONT>
+<br>
+<font size=3 color=#000000>Œö‰vŽÐ’c–@l“ú–{HŒ|‰ï</FONT>
+<br>
+<font size=2 color=#000000>2014</FONT>
+</CENTER>
+</BODY>
+</HTML>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.shouun.co.jp/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>å¤ç¾Žè¡“ ç¥¥é›²ã€€Shouun Oriental Art</title>
+<meta name="description" content="éŠ€åº§ã®ä¸¦æœ¨é€šã‚Šã«ã‚ã‚‹ã‚®ãƒ£ãƒ©ãƒªãƒ¼ã§ã€å¤ç¾Žè¡“å“ã‚’å±•ç¤ºã€ã”ç´¹ä»‹ã—ã¦ãŠã‚Šã¾ã™ã€‚â€å¤ãã¦ç¾Žã—ã„ã‚‚ã®â€ã¨ã®å‡ºä¼šã„ã®å ´ã«ãªã‚‹ã“ã¨ã‚’é¡˜ã£ã¦ãŠã‚Šã¾ã™ã€‚">
+<meta name="keywords" content="å¤ç¾Žè¡“,ç¥¥é›²,ã—ã‚‡ã†ã†ã‚“,Shouun Oriental Art,ç¾Žè¡“å“,éª¨è‘£å“,ç›¸è«‡,æŸ»å®š,è²·å–,æ±äº¬ç¾Žè¡“å€¶æ¥½éƒ¨">
+<link rel="shortcut icon" href="favicon.ico" >
+<link href="css/base.css" rel="stylesheet" type="text/css">
+<script src="js/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="js/AC_ActiveX.js" type="text/javascript"></script>
+<script type="text/JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) {
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+</head>
+<body>
+<script type="text/javascript">AC_FL_RunContent('codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0','width','100%','height','100%','src','swf/language','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','swf/language','id','main');</script><noscript>ãƒ–ãƒ©ã‚¦ã‚¶ã®è¨­å®šã§ã€JavaScriptã‚’æœ‰åŠ¹ã«ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚</noscript>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.tolmantokyo.com/>====================
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>Tolman Collection Gallery Tokyo: Modern Japanese woodblock prints, original paintings, and books</title>
+<meta name="Description" content="The Tolman Collection gallery specializes in contemporary Japanese prints, offering the largest selection in Japan.  Located in Shiba Daimon Minato-ku Tokyo. ">
+<meta name="Author-Corporate" content="The Tolman Collection">
+<meta name="Publisher" content="Norman Tolman">
+<meta name="Publisher-Email" content="tc@tolmantokyo.com">
+<meta name="Identifier-URL" content="http://www.tolmantokyo.com/">
+<meta name="keywords" content="ARAKI Shinko,ENDO Susumu, FUDEZUKA Toshihisa, GOJO Miki, GOTO Hidehiko, HAMANISHI Katsunori, HASEGAWA Yuichi, HIRATSUKA Yuji, IMAMURA Yoshio, KARHU Clifton, JONHSON Margaret, KINOSHITA Taika, KURODA Shigeki,MORIMURA Ray, NAGAI Kenji, NAKAZAWA Shin'ichi, ODA Mayumi, OKADA Marie, SAITO Noriko, SHINODA Toko, SHIOMI Nana,TAKAHASHI Hiromitsu, TAMEKANE Yoshikatsu, TANAKA Ryohei, TANIGUCHI Shigeru, TSUBOTA Masahiko, WAKO Shuji,YIN Xin,YOSHIMATSU Jun'ichiro,r–Ø VŽq,‰““¡ ‹,•M’Ë –«®,ŒÜžŠ ”üŽ÷,Œã“¡ ‰p•F,•l¼ Ÿ‘¥,’·’Jì —Yˆê,•½’Ë —Y“ñ,¡‘º —R’j,–Ø‰º ‘×‰Ã,•“c –ÎŽ÷,X‘º —æ,‰iˆä Œ¤Ž¡,¬“c ‚Ü‚ä‚Ý,‰ª“c ‚Ü‚è‚ï,ƒTƒCƒgƒE ƒmƒŠƒR,ŽÂ“c “g,‰–Œ© “ÞX,‚‹´ GŒõ,à¨‹à ‹`Ÿ,“c’† —Ç•½,’JŒû –Î,’Ø“c ­•F Žá¶ G“ñ,‹g¼ ‡ˆê˜Y">
+
+<meta http-equiv="content-script-type" content="text/javascript">
+<meta http-equiv="content-style-type" content="text/css">
+<link href="tolmantokyo.css" rel="stylesheet" type="text/css">
+
+<script language="JavaScript">
+<!--
+<!--
+function menuLink(linkLoc){
+ 		if (linkLoc != ""){
+ 		window. location=linkLoc;
+ 		}
+ }
+// -->
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+body,td,th {
+	color: #FF0606;
+}
+.style12 {
+	color: #000000;
+	font-size: 16px;
+}
+-->
+</style>
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('SHINODA BO_r1_c1_f2.gif','img/TOKO_BO_f3.jpg','img/TOKO_BO_f2.jpg','img/TOKO_BO_f4.jpg','img/KARHU_BO_f3.jpg','img/KARHU_BO_f2.jpg','img/KARHU_BO_f4.jpg')" >
+
+<center>
+  <table width="965" height="72" border="0" cellpadding="0" cellspacing="0">
+    <tr class="style1">
+      <td width="80">&nbsp;</td>
+      <td width="795"><div align="center"><a href="contact_us/index.html"><img src="head_logo.gif" alt="" width="770" height="91" border=0 /></a></div></td>
+      <td width="80"><a href="http://ja-jp.facebook.com/pages/The-Tolman-Collection-Tokyo/261214747307880"Target="_blank"><img src="facebook_logo.jpg" width="67" height="67" border="0"></a></td>
+    </tr>
+  </table>
+  <tr><td height="105" colspan="3" id="fs10"><center>
+  </center>
+
+</td></tr>
+  <table width="964" border="1" cellpadding="0" cellspacing="0" bordercolor="#cccccc" id="fs10">
+<tr bgcolor="#333333" ><td width="119" height="21" align="center" ><a href="index.html" target="_top" ><font color="IndianRed">Home</font></a></font></td>
+<td align="center" width="119"><a href="artists/index.html" target="_top" >Artists</a></td>
+<td align="center" width="119"><a href="exhibits/index.html" target="_top" >Exhibits</a></td>
+<td align="center" width="119"><a href="whats_new/index.html" target="_top">What's New</a></td>
+<td align="center" width="119"><a href="books/index.html" target="_top">Books</a></td>
+<td align="center" width="119" ><a href="map/index.html" target="_top">Map</a></td>
+<td align="center" width="119" ><a href="contact_us/index.html" target="_top">Contact Us</a></td>
+<td align="center" width="113" ><a href="about_us/index.html" target="_top">About Us</a></td>
+</tr>
+
+<tr valign="baseline" bgcolor="#999999"><td colspan="8" align="right" class="style2"><table width="7%" border="0" align="left" cellpadding="0" cellspacing="0">
+ 
+</table>
+    Join our mailing list. <a href="whats_new/sign_up.html"><img src="img/sign_up.gif" width="70" height="22" hspace="10" vspace="5" border="0" align="bottom"></a>
+    <select name="linkMenu" size="1" tabindex="1" onChange="menuLink(this.options[this.selectedIndex].value)">
+<option value="" selected>Select Artist</option>
+<option value="artists/araki/index.html">ARAKI Shinko</option>
+<option value="artists/endo/index.html">ENDO Susumu</option>
+<option value="artists/fudezuka/index.html">FUDEZUKA Toshihisa</option>
+<option value="artists/gojo/index.html">GOJO Miki</option>
+<option value="artists/goto/index.html">GOTO Hidehiko</option>
+<option value="artists/hamanishi/index.html">HAMANISHI Katsunori</option>
+<option value="artists/hasegawa/index.html">HASEGAWA Yuichi</option>
+<option value="artists/hiratsuka/index.html">HIRATSUKA Yuji</option>
+<option value="artists/ikegami/index.html">IKEGAMI Isao</option>
+<option value="artists/imamura/index.html">IMAMURA Yoshio</option>
+<option value="artists/johnson/index.html">Margaret JOHNSON</option>
+<option value="artists/karhu/index.html">Clifton KARHU</option>
+<option value="artists/kinoshita/index.html">KINOSHITA Taika</option>
+<option value="artists/kuroda/index.html">KURODA Shigeki</option>
+<option value="artists/morimura/index.html">MORIMURA Ray</option>
+<option value="artists/nagai/index.html">NAGAI Kenji</option>
+<option value="artists/nakazawa/index.html">NAKAZAWA Shin'ichi</option>
+<option value="artists/oda/index.html">ODA Mayumi</option>
+<option value="artists/okada/index.html">OKADA Marie</option>
+<option value="artists/saito/index.html">SAITO Noriko</option>
+<option value="artists/shinoda_print/index.html">SHINODA Toko, prints</option>
+<option value="artists/shinoda_painting/index.html">SHINODA Toko, paintings</option>
+<option value="artists/shiomi/index.html">SHIOMI Nana</option>
+<option value="artists/hiromitsu/index.html">TAKAHASHI Hiromitsu</option>
+<option value="artists/tamekane/index.html">TAMEKANE Yoshikatsu</option>
+<option value="artists/tanaka/index.html">TANAKA Ryohei</option>
+<option value="artists/taniguchi/index.html">TANIGUCHI Shigeru</option>
+<option value="artists/tsubota/index.html">TSUBOTA Masahiko</option>
+<option value="artists/wako/index.html">WAKO Shuji</option>
+<option value="artists/yoshimatsu/index.html">YOSHIMATSU Jun'ichiro</option>
+<option value="artists/iwami/index.html">IWAMI Reika</option>
+    </select></td>
+  </tr>
+</table>
+
+  <a href="artists/fudezuka/index.html"target="_blank"><img src="artists/fudezuka/img/Fudezuka3.jpg" width="687" height="798" border="0"></a>
+  <p>&nbsp;</p>
+  <p><a href="Tolman Private Collection/index.html" target="_blank"><img src="img/2013-11-13.jpg" width="595" height="757" border="0"></a></p>
+  <p><img src="Gallery-Info.png" width="860" height="614"></p>
+  <p>&nbsp;</p>
+<p><a href="Tolman Private Collection/index.html"Target="_blank"><img src="tcprivatecollection.jpg" width="467" height="117" border="0"></a></p>
+<table width="964" border="0" cellpadding="0" cellspacing="0" id="fs10">
+<tr bgcolor="#FFFFFF"><td width="964" align="center">
+<a href="index.html" target="_top" >Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="artists/index.html" target="_top">Artists</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="exhibits/index.html" target="_top">Exhibits</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="whats_new/index.html" target="_top">What's New</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="books/index.html" target="_top">Books</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="map/index.html" target="_top">Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="contact_us/index.html" target="_top">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="about_us/index.html" target="_top">About Us</a>
+</td>
+</tr>
+</table>
+
+</center>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4629031-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.kamakura-g.com/new_index/home-e.htm>====================
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<title>Kamakura Gallery</title>
+</head>
+
+<frameset rows="100,*" frameborder="no" border="0">
+    <frame src="menu-e.htm" name="menu" scrolling="no"
+    marginwidth="0" marginheight="0" noresize>
+    <frame src="main-e.htm" name="main" scrolling="auto" noresize>
+    <noframes>
+    <body bgcolor="#FFFFFF">
+    <p><font size="2">Look at it with a screen for a frame.</font></p>
+    </body>
+    </noframes>
+</frameset>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://huntgallery.homestead.com/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+	<head>
+		<!-- <hs:metatags> -->
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+		<meta name="description" content="Oil paintings, watercolors, illustrations, prints. Portraits and landscapes art.">
+		<meta name="keywords" content="Online gallery, paintings and prints. Oils, pastels, watercolors, illustrations. Portraits and landscapes. Japanese art.">
+		<meta name="generator" content="Homestead SiteBuilder">
+		<!-- </hs:metatags> -->
+		
+		<!-- <hs:title> -->
+		<title>HuntGallery</title>
+		<!-- </hs:title> -->
+		<script type="text/javascript">
+			<!--
+						function reDo() {
+						        top.location.reload();
+						}
+						if (navigator.appName == 'Netscape' && parseInt(navigator.appVersion) < 5) {
+						        top.onresize = reDo;
+						}
+						dom=document.getElementById
+					//-->
+		</script>
+		<script type="text/javascript">
+			<!--
+							var myimages=new Array();
+					function preloadImages(imageList)
+					{
+						if (document.images) 
+						{ 
+							for (i=0;i<imageList.length;i++)
+							{
+								myimages[i]=new Image();
+								myimages[i].src=imageList[i];
+							}
+						}
+					}
+						//-->
+		</script>
+		<link rel="stylesheet" href="http://www.homestead.com/~media/elements/Text/font_styles_ns4.css" type="text/css">
+		<style type="text/css">
+			@import url(http://www.homestead.com/~media/elements/Text/font_styles.css);
+			div.lpxcenterpageouter { text-align: center; position: absolute; top: 0px; left: 0px; width: 100% }
+			div.lpxcenterpageinner { position: relative; margin: 0 auto; text-align: left; width: 836px; }
+		</style>
+		
+		<meta property="og:title" content="Owen Hunt">
+		<meta property="og:url" content="http://www.huntgallery.com">
+		<meta property="og:type" content="company">
+		<meta property="og:site_name" content="">
+		<meta property="fb:admins" content="1060541968">
+	</head>
+	<body bgcolor="#F8F8F8" link="#E61D07" vlink="#B1507F" alink="#B1507F" onload="preloadImages(new Array('files/OwenHunt_r.jpg', 'files/KyokoHunt_r.jpg', 'files/ReikaHunt_r.jpg')); " id="element1" onunload="" scroll="auto">
+		<noscript>
+			<img height="40" width="373" border="0" alt="" src="http://www.homestead.com/~media/elements/shared/javascript_disabled.gif">
+		</noscript>
+		<div class="lpxcenterpageouter"><div class="lpxcenterpageinner"><!-- <hs:element54> --><div id="element54" style="position: absolute; top: 36px; left: 493px; width: 183px; height: 261px; z-index: 0;"><img height="261" width="183" alt="" src="files/Gallery_Logo_gray2.gif"></div><!-- </hs:element54> --><!-- <hs:element42> --><div id="element42" style="position: absolute; top: 164px; left: 181px; width: 475px; height: 99px; z-index: 1;"><img height="99" width="475" alt="" src="huntgallery_name.gif"></div><!-- </hs:element42> --><!-- <hs:element2> --><div id="element2" style="position: absolute; top: 316px; left: 48px; width: 786px; height: 106px; z-index: 2;"><div style="height: 106px; padding: 5; border-width: 0; border-color: #000000; border-style: solid; background-color: transparent;"><div align="left"><font face="'Palatino Linotype', serif" color="#000000" class="size14 PalatinoLinotype14">This is the online gallery of Owen &amp; Kyoko Hunt, and Reika Hunt.<br></font></div><div align="left"><font face="'Palatino Linotype', serif" color="#000000" class="size14 PalatinoLinotype14">All works are original, and many are inspired by the people and land of Japan. Often the works in this gallery are rotated so come back again soon! If you are interested in any of the work or wish to learn more please feel free to contact us at: </font><font face="'Palatino Linotype', serif" color="#000000" class="size14 PalatinoLinotype14"><a target="_self" href="mailto:info@huntgallery.com">info@huntgallery.com</a><br></font></div></div></div><!-- </hs:element2> --><!-- <hs:element4> --><div id="element4" style="position: absolute; top: 723px; left: 687px; width: 148px; height: 64px; z-index: 3;"><map name="MAP_15472809"><area target="_parent" shape="rect" coords="12,43,58,54" title="Submit" alt="Sign In" href="/~site/Scripts_NewGuest/NewGuest.dll?CMD=CMDGetSubmitForm&amp;STYLE=simple/&amp;FORWARDFLAG=true&amp;GBID=15472809&amp;DISPLAY=27&amp;TARGETURL=DEFAULT&amp;EMAILADDRESS=ENC__5b58fddbe764736899c4bbe48331089c6f6d&amp;EM=true&amp;CUSTOMVALUE=false&amp;H_H=9495287"><area target="_parent" shape="rect" coords="64,43,138,54" title="View Entries" alt="View Entries" href="/~site/Scripts_NewGuest/NewGuest.dll?CMD=CMDGetViewEntriesPage&amp;STYLE=simple/&amp;ENTRYID=&amp;FORWARDFLAG=true&amp;GBID=15472809&amp;DISPLAY=27&amp;TARGETURL=DEFAULT&amp;EMAILADDRESS=ENC__5b58fddbe764736899c4bbe48331089c6f6d&amp;EM=true&amp;CUSTOMVALUE=false&amp;H_H=9495287"><area shape="default" nohref alt=""></map><img height="64" width="148" border="0" usemap="#MAP_15472809" alt="" src="/~site/tool/Homestead/HC_Objects/Images/HCUser_Guestbook/simple/guestbook.gif"></div><!-- </hs:element4> --><!-- <hs:element12> --><div id="element12" style="position: absolute; top: 754px; left: 573px; width: 102px; height: 33px; z-index: 4;"><a name="ContactUsbyE-mail#2" href="#" onClick="window.open('/~site/Scripts_EmailManager/EmailManager.dll?CMD=CMDElementEmailMe&amp;HSID=9495287&amp;PARTNER_ID=1&amp;PEN=MailMailingList&amp;TO_ADDRESS=1a5b073dd7a9c2de5744839a938d04ad2e636f6d','Email_Me','toolbar=no,status=yes,menubar=no,scrollbars=yes,resizable=no,directories=no,location=no,width=600,height=600');"><img height="33" width="102" border="0" alt="email me" src="http://www.homestead.com/~media/elements/EmailMe/button1.gif"></a></div><!-- </hs:element12> --><!-- <hs:element47> --><div id="element47" style="position: absolute; top: 457px; left: 51px; width: 240px; height: 232px; z-index: 5;"><a target="_self" onMouseOver="if(document.images){document.x77x111x117x115x101x111x118x101x114x32x69x102x102x101x99x116x45x49.src='files/OwenHunt_r.jpg';}" onMouseOut="if(document.images){document.x77x111x117x115x101x111x118x101x114x32x69x102x102x101x99x116x45x49.src='files/OwenHunt_g.jpg';}" href="owenhunt.html"><img name="x77x111x117x115x101x111x118x101x114x32x69x102x102x101x99x116x45x49" height="232" width="240" border="0" alt="" src="files/OwenHunt_g.jpg"></a></div><!-- </hs:element47> --><!-- <hs:element48> --><div id="element48" style="position: absolute; top: 457px; left: 324px; width: 240px; height: 232px; z-index: 6;"><a target="_self" onMouseOver="if(document.images){document.x77x111x117x115x101x111x118x101x114x32x69x102x102x101x99x116x45x50.src='files/KyokoHunt_r.jpg';}" onMouseOut="if(document.images){document.x77x111x117x115x101x111x118x101x114x32x69x102x102x101x99x116x45x50.src='files/KyokoHunt_g.jpg';}" href="kyokohunt.html"><img name="x77x111x117x115x101x111x118x101x114x32x69x102x102x101x99x116x45x50" height="232" width="240" border="0" alt="" src="files/KyokoHunt_g.jpg"></a></div><!-- </hs:element48> --><!-- <hs:element49> --><div id="element49" style="position: absolute; top: 457px; left: 596px; width: 240px; height: 232px; z-index: 7;"><a target="_self" onMouseOver="if(document.images){document.x77x111x117x115x101x111x118x101x114x32x69x102x102x101x99x116x45x51.src='files/ReikaHunt_r.jpg';}" onMouseOut="if(document.images){document.x77x111x117x115x101x111x118x101x114x32x69x102x102x101x99x116x45x51.src='files/ReikaHunt_g.jpg';}" href="http://www.reikahunt.com"><img name="x77x111x117x115x101x111x118x101x114x32x69x102x102x101x99x116x45x51" height="232" width="240" border="0" alt="" src="files/ReikaHunt_g.jpg"></a></div><!-- </hs:element49> --><!-- <hs:element62> --><div id="element62" style="position: absolute; top: 429px; left: 56px; width: 778px; height: 1px; z-index: 8;"><table cellpadding="0" width="778" cellspacing="0" border="0"><tr><td bgcolor="#999999"><img height="1" width="778" border="0" alt="" src="http://www.homestead.com/~site/Scripts_Shapes/shapes.dll?CMD=GetRectangleGif&r=153&g=153&b=153"></td></tr></table></div><!-- </hs:element62> --></div></div>
+		<!-- <hs:realtracker> -->
+		<script type="text/javascript">
+			var user='9495287',pp='index',
+			to=-360,cl=1,id='',r='http://web4.realtracker.com/';
+		</script>
+		<script src="/~site/Scripts_ExternalRedirect/ExternalRedirect.dll?CMD=CMDGetJavaScript&amp;H_SITEID=RTK3&amp;H_AltURL=%2f%7esite%2fRealTracker%2fibc90006.js&amp;HSGOTOURL=http%3a%2f%2fweb4.realtracker.com%2fnetpoll%2fjs%2fibc90006.js" type="text/javascript">
+		</script>
+		<noscript>
+			<img height="1" width="1" border="0" alt="" src="/~site/Scripts_ExternalRedirect/ExternalRedirect.dll?CMD=CMDGetGif&amp;H_SITEID=RTK4&amp;H_AltURL=%2f%7esite%2ftp.gif&amp;H_HSGOTOURL=http%3a%2f%2fweb4.realtracker.com%2fnetpoll%2fimulti.asp%3fuser%3d9495287%26pn%3d90006%26pp%3dindex%26js%3d0%26b%3d0%26to%3d-360">
+		</noscript>
+		<!-- </hs:realtracker> -->
+	</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.indoxotic.com/wingaba/>====================
+<html>
+<head>
+<title>WINGABA ART GALLERY by indoXotic online with over 200 paintings from 5 different artists showroom Yangon union of myanmar asian arts asian art gallery asian collectibles asian art magazine asian antique furniture asian art dealers asian art galleries southeastasian art burmese art</title>
+<META http-equiv="content-type" content="text/html;charset=iso-8859-1">
+<META name="publisher" content="EURASIA - indoXotic : furniture & accessories">
+<META name="publisher-email" content="EURASIA@typeset.com">
+<META name="robots" content="index,follow">
+<META name="description" content="EURASIA indoXotic visit our WINGABA ART GALLERY online with over 200 paintings from 5 different artists showroom yangon union of myanmar asian arts asian art gallery asian collectibles asian art magazine asian antique furniture asian art dealers asian art galleries southeastasian art burmese art">
+<META name="keywords" content="asian arts asian art gallery asian collectibles asian art magazine asian antique furniture asian art dealers asian art galleries southeastasian art burmese art
+buddhist art buddha statues buddha images antique buddhas southeastasian art ancient buddhist art asian artifacts buddhist sculpture ancient artifacts burmese oriental art  tribal art collectable heart of asiaburma
+exhibition dealers asia asianart auctions collectors contemporary cultural 
+museum  artist modern art contemporary art twentieth-century art art collection painting">
+<META name="Content-Language" content="en">
+<link REL="STYLESHEET" HREF="sheet.css" TYPE="TEXT/CSS">
+<SCRIPT LANGUAGE="JavaScript"><!--
+function go(what) {
+  value = what.options[what.selectedIndex].value;
+  if (value == '') return;
+  window.location.href = value;
+}
+//--></SCRIPT>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+ <script language="JavaScript1.2"> if (document.all) document.body.style.cssText="background:white url(../BG.JPG) no-repeat fixed center center"</script>
+
+
+<div align="center">
+<!-- adsense image 728x90 leaderboard -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-8696736168614435";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "image";
+google_ad_channel ="3578841016";
+google_color_border = "FFFFFF";
+google_color_link = "000000";
+google_color_bg = "FFFFFF";
+google_color_text = "333333";
+google_color_url = "006666";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br>
+<br>
+<!-- adsense text image 728x90 leaderboard -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-8696736168614435";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel ="3578841016";
+google_color_border = "FFFFFF";
+google_color_link = "000000";
+google_color_bg = "FFFFFF";
+google_color_text = "333333";
+google_color_url = "006666";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br>
+<br>
+<!-- adsense linkblock 728x90 leaderboard -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-8696736168614435";
+google_ad_width = 728;
+google_ad_height = 15;
+google_ad_format = "728x15_0ads_al_s";
+google_ad_channel ="3578841016";
+google_color_border = "FFFFFF";
+google_color_link = "003366";
+google_color_bg = "FFFFFF";
+google_color_text = "333333";
+google_color_url = "006666";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br>
+<br>
+
+  <table border="0" cellpadding="5" cellspacing="0" width="100%">
+    <tr>
+      <td width="323" valign="bottom">
+        <p align="center"><big><B>WINGABA ART GALLERY</B><br>
+        Yangon - Union of Myanmar</BIG></p></td>
+      <td width="323">
+          <p align="center"><big><a href="../index.htm">back</a></big><br>
+          </b><a href="../index.htm"><img border="0" src="INDOXOTI.JPG" width="135" height="40"></a></p>
+               </td>
+    </tr>
+<tr>
+      <td align="CENTER" valign="TOP" width="323">
+ <big><br><B>74 NEW paintings</B></big> mostly oil on canvas from:<br><big><B><br>
+ <a href="newpaintings/newpaintings.htm">U Mann Zar Hein</A> &amp; <a href="newpaintings/newpaintings.htm">Soe Soe</A><br><br>
+ <a href="oiloncanvas/oiloncanvas.htm">Kyaw Kyaw</A> &amp; <a href="oiloncanvas/oiloncanvas.htm">Aung Kyaw Htet</A></B></big><BR>
+<br>
+        <p align="center">
+    
+ <a href="oiloncanvas/oiloncanvas.htm"><IMG SRC="displayAKH052.jpg" ALT="new paintings oil on canvas" HEIGHT=254 WIDTH=322 border="0"></A><BR>
+Aung Kyaw Htet "Kyaikame Beach"<br>
+      </td>
+      <td width="323"><br>
+        <p align="center"><big>Welcome at our<br>
+        <big>Wingaba Art Gallery</big></big></p>
+        <p align="center">8 artists from burma / myanmar<br>
+        exhibit over 250 paintings online</p>
+
+        <p align="center"><a href="hts/HTS.HTM"><big>U Han Tin Swe</big></a></p>      
+        <p align="center"><a href="uka/UKA.HTM"><big>U Kyaw Aung</big></a></p>
+        <p align="center"><a href="ms1/MS.HTM"><big>U Myint Swe</big></a><br>
+        <a href="ms1/INDEX.HTM">Collection I</A> &nbsp; <a href="ms2/INDEX.HTM">Collection II</A></p>
+        <p align="center"><a href="mzh/MZH.HTM"><big>U Mann Zar Hein</big></a></p>
+        <p align="center"><a href="twt/TWT.HTM"><big>U Than Win Tun</big></a></p>
+        <p align="center">&nbsp;
+
+ NEW paintings from:<br>
+        <p align="center"><big><a href="newpaintings/newpaintings.htm">U Mann Zar Hein</A></big></p>
+        <p align="center"><big><a href="newpaintings/newpaintings.htm">Soe Soe</A></big></p>
+        <p align="center"><big><a href="oiloncanvas/oiloncanvas.htm">Kyaw Kyaw</A></A></big></p>
+        <p align="center"><big><a href="oiloncanvas/oiloncanvas.htm">Aung Kyaw Htet</A></big></p>
+        <p align="center">
+
+
+     </td>
+    </tr>
+  </table>
+  
+</div>
+ <script language="JavaScript1.2"> if (document.all) document.body.style.cssText="background:white url(../BG.JPG) no-repeat fixed center center"</script>
+<p><font color="#FFFFFF">.</font></p>
+<p align="center">
+Site is for information &amp; entertainment only.
+<br><br>
+<a href="http://www.indoXotic.de/" target="_NEW">www.indoXotic.de</a> &nbsp;<sub>&#176;</sub>&nbsp; <a href="http://www.indoXotic.com/" target="_NEW">www.indoXotic.com</a><br><br>
+
+
+<br><br>
+&copy; Copyright <b><a href="../index.htm">IndoXotic</a></b> by <b><font color="#FF0000">i</font>nspire <font color="#FF0000">i</font>mports
+          pty ltd.</b> Wingaba Art Gallery.<br>
+29 Wingaba Road, Bahan Tsp., Yangon, Union of Myanmar. Tel: +95-1-549376, 724682<br><br>
+Email via <a href="http://www.indoXotic.com/en/kontakt.htm" target="_NEW">Contact form</a><br><br>
+E-Mail per <a href="http://www.indoXotic.com/de/kontakt.htm" target="_NEW">Kontakt-Formular</a><br><br>
+
+<br>
+
+Webpage above is for your entertainment &amp; information only:
+<br>
+<br>
+<br>
+<!-- adsense text image 728x90 leaderboard -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-8696736168614435";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel ="3578841016";
+google_color_border = "FFFFFF";
+google_color_link = "000000";
+google_color_bg = "FFFFFF";
+google_color_text = "333333";
+google_color_url = "006666";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br>
+<br>
+<TABLE BORDER="0">
+<TR>
+<TD>
+<script type="text/javascript"><!--
+google_ad_client = "pub-8696736168614435";
+google_ad_output = "textlink";
+google_ad_format = "ref_text";
+google_cpa_choice = "CAAQidTQgAIaCDFyD7PiBqtPKN2uuIEB";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</TD>
+<TD>
+<script type="text/javascript"><!--
+google_ad_client = "pub-8696736168614435";
+google_ad_output = "textlink";
+google_ad_format = "ref_text";
+google_cpa_choice = "CAAQwOSQ_QEaCHvEOvWROcS0KKjntoQB";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</TD>
+</TR>
+</TABLE>
+<br>
+<!-- Anfang - BUNTEBANK Spielgeld Euroscheine Spielgeldscheine personalisierte Dollarscheine Poker-Dollar D-Mark-Reproduktionen Theatergeld Requisiten Dekoration -->
+<table width="97%" border="1" BORDERCOLOR="#006633" cellpadding="2" cellspacing="2">
+<tr>
+<td ALIGN="CENTER" BACKGROUND="http://www.buntebank.com/geschenke/geschenk-gutschein-100.jpg"><font face="arial,sansserif">
+<small>Internet-Adressen von <b><a href="http://www.buntebank.de/">BUNTEBANK Spielgeld Euroscheine Geldscheine Reproduktionen</a></b>:<br>
+<a href="http://www.buntebank.de/index.htm">Spielgeld &amp; Geschenke von www.buntebank.de</a> &nbsp; 
+<a href="http://www.buntebank.com/index.htm">Personalisierte Spielgeldscheine &amp; Spielgeld-Dollars von www.buntebank.com</a> &nbsp; 
+<a href="http://www.spielgeld.com/index.htm">Spielgeld zum Spielen von www.spielgeld.com</a> &nbsp; 
+<a href="http://www.buntebank.org/">www.buntebank.org</a> &nbsp; 
+<a href="http://www.buntebank.net/">www.buntebank.net</a> &nbsp; 
+<a href="http://www.buntebank.biz/">www.buntebank.biz</a> &nbsp; 
+<a href="http://www.buntebank.info/">www.buntebank.info</a> &nbsp; 
+<a href="http://www.buntebank.eu/">www.buntebank.eu</a><br>
+Werbe-Seiten: &nbsp; 
+<a href="http://www.bankdirektor.info/" target="_blank">www.bankdirektor.info</a> &nbsp; 
+<a href="http://www.bankdirektor.cc/" target="_blank">www.bankdirektor.cc</a> &nbsp; 
+<a href="http://www.bankdirektor.org/" target="_blank">www.bankdirektor.org</a> &nbsp;
+<a href="http://www.buntebank.de/index.htm">Spielgeld &amp; Geschenke von www.buntebank.de</a> &nbsp; 
+<a href="http://www.spielgeld.com/index.htm">Spielgelddollars von www.spielgeld.com</a> &nbsp; 
+<a href="http://www.buntebank.com/index.htm">personalisiertes Spielgeld von www.buntebank.com</a> &nbsp; 
+<a href="http://www.spielgeld.com/">.<br>
+Wir produzieren Spielgeldscheine, Theatergeld, 125 % Euroschein-Reproduktionen einseitig, Geschenk-Gutscheine, personalisierte Dollar-Scheine, Poker-Dollars, Gutscheine und personalisierte Druckerzeugnisse jeglicher Art</a>. 
+<a href="http://buntebank.blog.de/" TARGET="_NEW">Lesen Sie zu Falschgeld und Sicherheitsmerkmalen den BUNTEBANK-Blog auf buntebank.blog.de</a> &nbsp; 
+<a href="http://buntebank.blogspot.com/" target="_blank">Read about counterfeit bills, banknotes and securitiy measurments at the BUNTEBANK blog at buntebank.blogspot.com</a><br></small>
+</font></td>
+</tr>
+</table>
+<br>
+<!-- Ende - BUNTEBANK Spielgeld Euroscheine Spielgeldscheine personalisierte Dollarscheine Poker-Dollar D-Mark-Reproduktionen Theatergeld Requisiten Dekoration -->
+<br>
+<br>
+      
+      
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3918072-5");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.hengartland.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>Heng Artland</title>
+		<meta http-equiv="refresh" content="0;url=http://www.hengartland.com/home">
+	</head>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.un-titledgallery.com/>====================
+<HTML>
+
+<HEAD>
+
+<TITLE>un-titled Art Gallery Singapore</TITLE>
+
+</HEAD>
+
+<BODY bgcolor="#25291E"  topmargin="0" rightmargin="0" bottommargin="0" leftmargin="0"  text="#ffffff">
+
+<table cellspacing="0" cellpadding="0" border="0">
+
+<tr>
+
+	<td valign="top" colspan="2" background="images/header_bg.gif"><img src="images/title_address.gif" alt="untitled Art Gallery. China Square Central, Marsh & McLennan Centre, 18 Cross Street #B1-21, Singapore 048423" width="284" height="53" border="0" align="right"><a href="http://www.un-titledgallery.com/" target="_top"><img src="images/logo.gif" alt="un-titled Art Gallery" width="337" height="53" border="0" align="top"></a>
+
+	</td>
+
+</tr>
+
+<tr>
+
+	<td valign="top" bgcolor="#14190E"><a href="about.html" target="_self"><img src="images/navigation_01.jpg" width="153" height="58" alt="the gallery" border="0" align="top"></a><br>
+
+<a href="exhibits_.html" target="_self"><img src="images/navigation_02.jpg" width="153" height="50" alt="exhibits" border="0" align="top"></a><br>
+					<a href="artists_.html" target="_self"><img src="images/navigation_03.jpg" width="153" height="47" alt="artists list" border="0" align="top"></a><br>
+					<!--- <img src="images/navigation_04.jpg" width="153" height="50" alt="art courses" border="0" align="top"><br ---><a href="contact.html" target="_self"><img src="images/navigation_05.jpg" width="153" height="48"  alt="contact us" border="0" align="top"></a></td>
+
+	<td align="center" valign="top"><table width="700" cellspacing="0" cellpadding="5" border="0">
+
+<tr>
+
+<td colspan="3">
+
+<font face="Verdana,Geneva,Arial,Helvetica,sans-serif,sans-serif" size="2"><b>Welcome to un-titled Art Gallery</b><p>
+
+The mission of  un-titled Art Gallery,  is to provide a venue for up and coming artists 
+
+from Singapore and around South East Asia, to showcase their work and to be an avenue 
+
+for visual art events and exhibitions in Singapore.
+
+</p></font></td>
+
+</tr>
+
+
+
+<tr>
+
+	<td valign="top"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif,sans-serif" size="2" color="#FFA200"><b>A Preview:<br>
+<font color="#FFE07B"><a href="aug07present.html">Eve Ong - The Present </a></font></b><br>
+									<font color="#FFFFFF">4<sup>th</sup> Aug 2007 till 7<sup>th</sup>   Aug 2007</font>
+
+</font>
+<p>
+<a href="aug07present.html"><img src="images/placeholder1.jpg" width="312" height="240" border="0" align="bottom"></a></td>
+<td width="60"> </td>
+	<td valign="top"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif,sans-serif" size="2" color="#FFA200"><b>un-titled Gallery Art Courses:<br>
+
+	<font color="#969A86"><li><i><a href="aappreciation.html" target="_self"><font color="#969A86">Art Appreciation</a><br>
+
+	<li><a href="aconcepts.html" target="_self"><font color="#969A86">Developing Intriguing Concepts</a></i></font><p>
+
+<img src="images/artcourse.jpg" width="312" height="240" border="0"></td>
+
+</tr>
+
+<tr>
+
+<td colspan="3" height="180">
+
+<font face="Verdana,Geneva,Arial,Helvetica,sans-serif,sans-serif" size="2" color="#50E2B3"><b>Featured Artists ~</b></font><p>
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="690" height="100" id="Untitled-2" align="middle">
+
+<param name="allowScriptAccess" value="sameDomain" />
+
+<param name="movie" value="artists.swf" />
+
+<param name="quality" value="high" />
+
+<param name="bgcolor" value="#25291e" />
+
+<embed src="artists.swf" quality="high" bgcolor="#25291e" width="690" height="100" name="artists" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+
+</object>
+
+</td></tr>
+
+</table></td>
+
+</tr>
+
+</table>
+
+</font>
+</BODY>
+
+</HTML>
+
+++++++++++++++++++++<Over>++++++++++++++++++++

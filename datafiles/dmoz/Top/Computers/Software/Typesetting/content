@@ -1,0 +1,485 @@
+<topic r:id="Top/Computers/Software/Typesetting">
+<catid>380797</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/Batch_Systems">
+<catid>380798</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX">
+<catid>380799</catid>
+<link r:resource="http://www.ams.org/tex/" />
+<link r:resource="http://www.tug.org/interest.html" />
+<link r:resource="http://www.ctan.org/" />
+<link r:resource="http://www-cs-faculty.stanford.edu/~knuth/cm.html" />
+<link r:resource="http://www.math.upenn.edu/TeX.html" />
+<link r:resource="http://truetex.com/knuthchk.htm" />
+<link r:resource="http://tex.loria.fr/english/" />
+<link r:resource="http://www.cs.cornell.edu/info/people/raman/aster/demo.html" />
+<link r:resource="http://www.dream.kn-bremen.de/tex/merchandising/" />
+<link r:resource="http://www.ctan.org/search/" />
+<link r:resource="http://texability.corlan.net/" />
+<link r:resource="http://www.tug.org/texshowcase/" />
+<link r:resource="http://www.mathematik.tu-darmstadt.de/~blumensath/Download.html" />
+<link r:resource="http://www.tsengbooks.com/" />
+<link r:resource="http://texblog.net/" />
+<link r:resource="http://www.texdev.net/" />
+<link r:resource="http://mirrors.rit.edu/CTAN/help/Catalogue/catalogue.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/BibTeX">
+<catid>380822</catid>
+<link r:resource="http://www.verzetteln.de/synapsen/" />
+<link r:resource="http://www.unix-ag.uni-kl.de/~fischer/kbibtex/" />
+<link r:resource="http://www.lecb.ncifcrf.gov/~toms/delila/medlinebib.html" />
+<link r:resource="http://www.geuz.org/directory/" />
+<link r:resource="http://gbib.seul.org/" />
+<link r:resource="http://www.nongnu.org/cl-bibtex/" />
+<link1 r:resource="http://www.ctan.org/tex-archive/biblio/bibtex/"></link1>
+<link r:resource="http://www.nongnu.org/bibulus/" />
+<link r:resource="http://allbib.sourceforge.net/" />
+<link r:resource="http://bibtexml.sourceforge.net/" />
+<link r:resource="http://jabref.sourceforge.net/" />
+<link r:resource="http://docdb.sourceforge.net/" />
+<link r:resource="http://iacweb.ethz.ch/staff/maeder/wos2bib.php" />
+<link r:resource="http://www.litech.org/~wkiri/bib2html/" />
+<link r:resource="http://www.spinellis.gr/sw/textproc/bib2xhtml/" />
+<link r:resource="http://docarc.sourceforge.net/" />
+<link r:resource="http://www.pybliographer.org/" />
+<link r:resource="http://dan.corlan.net/medbibtex.html" />
+<link r:resource="http://www.cis.udel.edu/~sprenkle/bibtex2html/" />
+<link r:resource="http://www.gerg.ca/software/btOOL/" />
+<link r:resource="http://www.chaaban.info/wordpress-plugin/bibtex/" />
+<link r:resource="http://w2.syronex.com/jmr/w3c-biblio" />
+<link r:resource="http://bib-it.sourceforge.net/" />
+<link r:resource="http://www.xandi.eu/bib2x/" />
+<link r:resource="http://ebib.sourceforge.net/" />
+<link r:resource="http://www-lab.imr.tohoku.ac.jp/%7Et-nissie/computer/software/isi/" />
+<link r:resource="http://www.math.washington.edu/~palmieri/bibweb.php" />
+<link r:resource="http://www.petercorke.com/tkbibtex.html" />
+<link r:resource="http://www.alari.ch/people/derino/Software/Bebop/index.php" />
+<link r:resource="http://sourceforge.net/projects/aigaion/" />
+<link r:resource="http://sourceforge.net/p/bibutils/home/Bibutils/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/BibTeX/FAQs,_Help,_and_Tutorials">
+<catid>380823</catid>
+<link r:resource="http://newton.ex.ac.uk/tex/pack/bibtex/btxdoc/btxdoc.html" />
+<link r:resource="http://nwalsh.com/tex/texhelp/BibTeX.html" />
+<link r:resource="http://www.bibtex.org/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Companies">
+<catid>380804</catid>
+<link r:resource="http://www.micropress-inc.com/" />
+<link r:resource="http://www.mackichan.com/" />
+<link r:resource="http://www.pctex.com/" />
+<link r:resource="http://truetex.com/" />
+<link r:resource="http://www.tug.org/interest.html#vendors" />
+<link r:resource="http://www.radicaleye.com/" />
+<link r:resource="http://www.ams.org/tex/commercial-tex-vendors.html" />
+<link r:resource="http://www.tug.org/consultants.html" />
+<link r:resource="http://www.sciword.demon.co.uk/" />
+<link r:resource="http://www.devaland.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Companies/Services">
+<catid>380805</catid>
+<link r:resource="http://www.edilatex.com/" />
+<link r:resource="http://www.inttype.com/" />
+<link r:resource="http://www.wexfordpress.com/" />
+<link r:resource="http://www.nar-associates.com/" />
+<link r:resource="http://www.texnology.com/" />
+<link r:resource="http://www.silmaril.ie/" />
+<link r:resource="http://www.sunrise-setting.co.uk/" />
+<link r:resource="http://www.olympus.co.in/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/ConTeXt">
+<catid>380824</catid>
+<link r:resource="http://www.fiee.net/texnique/" />
+<link r:resource="http://levana.de/emacs/" />
+<link r:resource="http://www.pragma-ade.com/" />
+<link r:resource="http://www.berenddeboer.net/tex/" />
+<link r:resource="http://www.ntg.nl/mailman/listinfo/ntg-context/" />
+<link r:resource="http://wiki.contextgarden.net/" />
+<link r:resource="http://www.leverkruid.eu/context/" />
+<link r:resource="http://getfo.org/context_xml/" />
+<link r:resource="http://watershade.net/wmcclain/context-help.html" />
+<link r:resource="http://meeting.contextgarden.net/" />
+<link r:resource="http://dl.contextgarden.net/websitesarchive/atl/tex/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Converters">
+<catid>380808</catid>
+<link r:resource="http://getfo.org/texml/" />
+<link r:resource="http://hutchinson.belmont.ma.us/tth/mml/" />
+<link r:resource="http://writer2latex.sourceforge.net/" />
+<link r:resource="http://www.cs.stir.ac.uk/~kjt/software/framemaker/" />
+<link r:resource="http://hutchinson.belmont.ma.us/tth/" />
+<link r:resource="http://www.penguin.cz/~fojtik/wp2latex/wp2latex.htm" />
+<link r:resource="http://html2latex.sourceforge.net/" />
+<link r:resource="http://tug.org/utilities/texconv/" />
+<link r:resource="http://web.lemoyne.edu/~millermj/mathinhtml/" />
+<link r:resource="http://www.fourmilab.ch/webtools/textogif/textogif.html" />
+<link r:resource="http://hermes.aei.mpg.de/" />
+<link r:resource="http://latex2slides.sourceforge.net/" />
+<link r:resource="http://www.cse.ohio-state.edu/~gurari/TeX4ht/" />
+<link r:resource="http://w2.syronex.com/jmr/latex-symbols-converter" />
+<link r:resource="http://pauillac.inria.fr/hevea/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Distributions">
+<catid>380806</catid>
+<link r:resource="http://www.tug.org/texlive/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/DVIware">
+<catid>380831</catid>
+<link r:resource="http://math.berkeley.edu/~vojta/gsftopk.html" />
+<link r:resource="http://www.macrotex.net/dvii/" />
+<link r:resource="http://www.astro.gla.ac.uk/users/norman/star/dvi2bitmap/" />
+<link1 r:resource="http://www.ctan.org/tex-archive/dviware/"></link1>
+<link r:resource="http://www.geom.uiuc.edu/java/idvi/" />
+<link r:resource="http://dvisvg.sourceforge.net/" />
+<link r:resource="http://dvisvgm.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Editors_and_IDEs">
+<catid>380826</catid>
+<link r:resource="http://vim-latex.sourceforge.net/" />
+<link r:resource="http://sourceforge.net/projects/dolatex" />
+<link r:resource="http://lahelper.sourceforge.net/" />
+<link r:resource="http://tcltexed.sourceforge.net/" />
+<link r:resource="http://www.michael-prokop.at/computer/latex_en.html" />
+<link r:resource="http://winefish.berlios.de/" />
+<link r:resource="http://euphoria.sourceforge.net/" />
+<link r:resource="http://www.xm1math.net/texmaker/" />
+<link r:resource="http://texmakerx.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Editors_and_IDEs/Eclipse">
+<catid>380827</catid>
+<link r:resource="http://texlipse.sourceforge.net/" />
+<link r:resource="http://etex.sourceforge.net/" />
+<link r:resource="http://eclipse-latex.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Editors_and_IDEs/LyX">
+<catid>380828</catid>
+<link1 r:resource="http://www.lyx.org/"></link1>
+<link r:resource="http://www.mail-archive.com/lyx-users@lists.lyx.org/index.html" />
+<link r:resource="http://wiki.lyx.org/Mac/Mac" />
+<link r:resource="http://wiki.lyx.org/LyX/Tutorials" />
+<link r:resource="http://members.tele2.nl/rareitsma/" />
+<link r:resource="http://www.thesis-template.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Extensions">
+<catid>380807</catid>
+<link1 r:resource="http://www.tug.org/applications/pdftex/"></link1>
+<link r:resource="http://sourceforge.net/projects/texlib/" />
+<link r:resource="http://www.math.uni.wroc.pl/~hebisch/tex/" />
+<link r:resource="http://www.farsitex.org/" />
+<link r:resource="http://arxiv.org/hypertex/" />
+<link r:resource="http://stexme.sourceforge.net/" />
+<link r:resource="http://qatex.sourceforge.net/" />
+<link r:resource="http://www.pytex.org/" />
+<link r:resource="http://www.luatex.org/" />
+<link r:resource="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=xetex" />
+<link r:resource="http://www.ccs.neu.edu/home/dorai/eval4tex/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/FAQs,_Help,_and_Tutorials">
+<catid>380809</catid>
+<link1 r:resource="http://www.tex.ac.uk/cgi-bin/texfaq2html?introduction=yes"></link1>
+<link r:resource="http://www.ams.org/tex/additional-sources.html" />
+<link r:resource="http://nwalsh.com/tex/" />
+<link r:resource="http://www.miwie.org/tex-refs/" />
+<link r:resource="http://eijkhout.net/texbytopic/texbytopic.html" />
+<link r:resource="http://www.umantec.nl/fontinst/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Fonts">
+<catid>380802</catid>
+<link r:resource="http://mirror.jmu.edu/pub/CTAN/info/Free_Math_Font_Survey/survey.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Fonts/Metafont">
+<catid>380803</catid>
+<link r:resource="http://www.math.utah.edu/~beebe/fonts/metafont.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Formats">
+<catid>380810</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/LaTeX">
+<catid>380813</catid>
+<link r:resource="http://www.latex-project.org/" />
+<link r:resource="http://www.latex-project.org/latex3.html" />
+<link r:resource="http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/" />
+<link r:resource="http://www.nhn.ou.edu/~morrison/LaTeX/index.shtml" />
+<link r:resource="http://www.macrotex.net/texbooks/" />
+<link r:resource="http://mirror.unl.edu/ctan/documentation/companion.errata" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/LaTeX/Advocacy">
+<catid>380819</catid>
+<link r:resource="http://ricardo.ecn.wfu.edu/~cottrell/wp.html" />
+<link r:resource="http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/latex_advocacy.html" />
+<link r:resource="http://www.mi.uib.no/~hansfn/tex/advocacydft.pdf" />
+<link r:resource="http://www.tug.org/TUGboat/Articles/tb22-1-2/tb70heff.pdf" />
+<link r:resource="http://nitens.org/taraborelli/latex" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/LaTeX/FAQs,_Help,_and_Tutorials">
+<catid>380814</catid>
+<link r:resource="http://latex.mschroeder.net/" />
+<link r:resource="http://members.tripod.com/charlesclayton/" />
+<link r:resource="http://www.cs.cornell.edu/Info/Misc/LaTeX-Tutorial/LaTeX-Home.html" />
+<link r:resource="http://web.mit.edu/olh/Latex/ess-latex.html" />
+<link r:resource="http://www.p-joeckel.de/pdflatex/" />
+<link r:resource="http://www.dd.chalmers.se/latex/index_e.html" />
+<link r:resource="http://www.eecs.harvard.edu/~mdw/proj/texslides/" />
+<link r:resource="http://www.tex.ac.uk/tex-archive/info/Type1fonts/fontinstallationguide/fontinstallationguide.pdf" />
+<link r:resource="http://www.mcnabbs.org/andrew/linux/latexres/" />
+<link r:resource="http://tex.loria.fr/graph-pack/grf/grf.htm" />
+<link r:resource="http://denethor.wlu.ca/latex/" />
+<link r:resource="http://theoval.cmp.uea.ac.uk/~nlct/latex/" />
+<link r:resource="http://www.minimalbeispiel.de/mini-en.html" />
+<link r:resource="http://www.linuxjournal.com/article/3387" />
+<link r:resource="http://www.cl.cam.ac.uk/~rf10/pstex/index.htm" />
+<link r:resource="http://dcwww.camd.dtu.dk/~schiotz/comp/LatexTips/LatexTips.html" />
+<link r:resource="http://www1.maths.lth.se/help/latex/" />
+<link1 r:resource="http://texnik.dante.de/"></link1>
+<link r:resource="http://www.latex-community.org/" />
+<link r:resource="http://www.panix.com/~elflord/unix/latex/no-bs.html" />
+<link r:resource="http://edafe.org/tag/latex/" />
+<link r:resource="http://kb.mit.edu/confluence/display/category/LaTeX" />
+<link r:resource="http://www.maths.adelaide.edu.au/anthony.roberts/LaTeX/" />
+<link r:resource="http://www.unc.edu/depts/econ/egsa/LaTeX.pdf" />
+<link r:resource="http://lindsaybradford.wordpress.com/research/latex/" />
+<link r:resource="http://www.logicmatters.net/latex-for-logicians/" />
+<link r:resource="http://www.mychemistry.eu/" />
+<link r:resource="http://www.gohappycup.com/personal/latex/" />
+<link r:resource="http://www.jmilne.org/not/CDGuide.html" />
+<link r:resource="http://qwone.com/~jason/latex/" />
+<link r:resource="http://www.andy-roberts.net/writing/latex" />
+<link r:resource="http://freecode.com/articles/making-presentations-with-latex-and-prosper" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/LaTeX/Macros">
+<catid>380815</catid>
+<link r:resource="http://www.math.uakron.edu/~dpstory/webeq.html" />
+<link r:resource="http://www.ams.org/tex/amslatex.html" />
+<link r:resource="http://www.ams.org/tex/amsfonts.html" />
+<link r:resource="http://www.ams.org/tex/amsrefs.html" />
+<link r:resource="http://texpower.sourceforge.net/" />
+<link r:resource="http://prosper.sourceforge.net/index.html" />
+<link r:resource="http://www.ams.org/tex/snapshot.html" />
+<link r:resource="http://www.tug.org/applications/Seminar/" />
+<link r:resource="http://www.tug.org/applications/hyperref/" />
+<link r:resource="http://jadetex.sourceforge.net/" />
+<link1 r:resource="http://www.ctan.org/tex-archive/macros/latex/contrib/"></link1>
+<link r:resource="http://www.lecb.ncifcrf.gov/~toms/latex.html" />
+<link r:resource="http://www.billauer.co.il/hitec.html" />
+<link r:resource="http://webperso.iut.univ-paris8.fr/~rosmord/Sesh/Sesh.html" />
+<link r:resource="http://www.tex.ac.uk/tex-archive/help/Catalogue/entries/foiltex.html" />
+<link r:resource="http://sarovar.org/projects/parano/" />
+<link r:resource="http://www.acrotex.net/" />
+<link r:resource="http://www.djdekker.net/ledmac/" />
+<link r:resource="http://www.ctan.org/tex-archive/macros/latex/contrib/booktabs/" />
+<link r:resource="http://www.lsv.ens-cachan.fr/~gastin/gastex/gastex.html" />
+<link r:resource="http://www.atscire.de/index.php?nav=products/listings" />
+<link r:resource="http://www.latex-project.org/code/experimental/" />
+<link r:resource="http://www.ieee.org/web/publications/authors/transjnl/index.html" />
+<link r:resource="http://www.uni-kiel.de/Pharmazie/chem/Prof_Beitz/biotex.html" />
+<link r:resource="http://bitbucket.org/rivanvx/beamer/" />
+<link r:resource="http://www.latextemplates.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/LaTeX/Macros/For_Specific_Publications">
+<catid>380816</catid>
+<link r:resource="http://www.math.ucla.edu/~asl/" />
+<link r:resource="ftp://ftp.agu.org/journals/latex/journals/" />
+<link r:resource="http://www.cimms.ou.edu/~lakshman/ametsoc/" />
+<link r:resource="http://journals.iucr.org/a/services/latexstyle.html" />
+<link r:resource="http://www.mumintroll.org/axel/sae-tex/" />
+<link r:resource="http://authors.aps.org/revtex4/" />
+<link r:resource="http://hornby.seos.uvic.ca/~jklymak/AmetsocJmk.html" />
+<link r:resource="http://authortools.aas.org/aastex/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/LaTeX/Reference">
+<catid>380818</catid>
+<link r:resource="http://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/" />
+<link r:resource="http://www.emerson.emory.edu/services/latex/latex_toc.html" />
+<link r:resource="http://www.ctan.org/tex-archive/info/symbols/comprehensive/" />
+<link r:resource="http://en.wikibooks.org/wiki/LaTeX" />
+<link r:resource="http://tex.loria.fr/ctan-doc/macros/latex/base/classes.pdf" />
+<link1 r:resource="http://www.giss.nasa.gov/tools/latex/"></link1>
+<link1 r:resource="http://tobi.oetiker.ch/lshort/"></link1>
+<link r:resource="http://latex.silmaril.ie/formattinginformation/" />
+<link r:resource="http://mirror.jmu.edu/pub/CTAN/macros/latex/doc/fntguide.pdf" />
+<link r:resource="http://mirror.math.ku.edu/tex-archive/info/latex2e-help-texinfo/latex2e.html" />
+<link r:resource="http://ctan.mackichan.com/macros/latex/doc/usrguide.pdf" />
+<link r:resource="http://carroll.aset.psu.edu/pub/CTAN/macros/latex/doc/modguide.pdf" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/LaTeX/Tools">
+<catid>380817</catid>
+<link r:resource="http://hyperlatex.sourceforge.net/" />
+<link r:resource="http://jpicedt.sourceforge.net/" />
+<link r:resource="http://kile.sourceforge.net/" />
+<link r:resource="http://www-sp.iti.informatik.tu-darmstadt.de/software/ppower4/" />
+<link r:resource="http://www.jam-software.com/freeware/index.shtml#excel2latex" />
+<link r:resource="http://www.phys.psu.edu/~collins/software/latexmk/" />
+<link r:resource="http://baruch.ev-en.org/proj/chktex/" />
+<link r:resource="http://www.xindy.org/" />
+<link r:resource="http://latexdraw.sourceforge.net/" />
+<link r:resource="http://calc2latex.sourceforge.net/" />
+<link r:resource="http://www-sop.inria.fr/apics/tralics/" />
+<link r:resource="http://dlmf.nist.gov/LaTeXML/" />
+<link r:resource="http://www.acoustics.hut.fi/u/mairas/UltimateLatexMakefile/" />
+<link r:resource="http://tpx.sourceforge.net/" />
+<link r:resource="http://tclab.kaist.ac.kr/ipe/" />
+<link r:resource="http://www.texify.com/" />
+<link r:resource="http://hevea.inria.fr/" />
+<link r:resource="http://www.ctan.org/tex-archive/support/latexdiff/" />
+<link r:resource="http://texomaker.les-domlols.com/" />
+<link r:resource="http://poincare.matf.bg.ac.rs/~janicic/gclc/" />
+<link r:resource="http://www.verbosus.com/" />
+<link r:resource="http://www.forkosh.com/mathtex.html" />
+<link r:resource="https://launchpad.net/rubber/" />
+<link r:resource="http://www.scribtex.com/" />
+<link r:resource="http://truben.no/latex/" />
+<link r:resource="http://www.sciweavers.org/free-online-latex-equation-editor" />
+<link r:resource="http://www.quicklatex.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Macros">
+<catid>380820</catid>
+<link r:resource="http://icking-music-archive.org/software/indexmt6.html" />
+<link r:resource="http://tug.org/PSTricks/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Meetings">
+<catid>380811</catid>
+<link1 r:resource="http://tug.org/calendar.html"></link1>
+<link r:resource="http://www.gust.org.pl/BachoTeX/" />
+<link1 r:resource="http://tug.org/meetings.html"></link1>
+<link r:resource="http://tug.org/tug2007/" />
+<link r:resource="http://www.gust.org.pl/BachoTeX/EuroBachoTeX2007/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Meetings/Past_Meetings">
+<catid>380812</catid>
+<link r:resource="http://www.tug.org/tug2001/" />
+<link r:resource="http://www.ntg.nl/eurotex/" />
+<link r:resource="http://www.documentengineering.org/" />
+<link r:resource="http://www.tug.org/tug2003/" />
+<link r:resource="http://tug.org/practicaltex2004/" />
+<link r:resource="http://tug.org/practicaltex2005/" />
+<link r:resource="http://tug.org/practicaltex2006/" />
+<link r:resource="http://www.ucam.ac.ma/fssm/tug2006/" />
+<link r:resource="http://tug.org/tug2005/" />
+<link r:resource="http://meeting.contextgarden.net/2007/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/MetaPost">
+<catid>380800</catid>
+<link r:resource="http://www.student.nada.kth.se/~f91-tek/cm_arrows.html" />
+<link r:resource="http://www.cs.ucc.ie/~dongen/mpost/mpost.html" />
+<link r:resource="http://matagalatlante.org/nobre/featpost/doc/featexamples.html" />
+<link r:resource="http://ect.bell-labs.com/who/hobby/MetaPost.html" />
+<link r:resource="http://www.tlhiv.org/mppreview/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Plain_TeX">
+<catid>380829</catid>
+<link1 r:resource="http://www.tug.org/utilities/plain/cseq.html"></link1>
+<link1 r:resource="http://nwalsh.com/tex/texhelp/Plain.html"></link1>
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Plain_TeX/Macros">
+<catid>380830</catid>
+<link r:resource="http://www.math.umn.edu/~olver/otex.html" />
+<link r:resource="http://tug.org/eplain/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Platform_Specific">
+<catid>380832</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Platform_Specific/DOS_and_Windows">
+<catid>380839</catid>
+<link r:resource="http://www.radamir.com/tex/ttf-tex.htm" />
+<link r:resource="http://www.math.vanderbilt.edu/~schectex/wincd/list_tex.htm" />
+<link r:resource="http://www.wfu.edu/economics/ftp/emtexgi.html" />
+<link r:resource="http://web.abo.fi/~viorel.preoteasa/tlatex/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Platform_Specific/DOS_and_Windows/BibTeX">
+<catid>380842</catid>
+<link r:resource="http://pub2bib.harvey-semester.de/" />
+<link r:resource="http://www.mackichan.com/index.html?bibdb/" />
+<link r:resource="http://bibedt.sourceforge.net/" />
+<link r:resource="http://www.latexsoft.com/bibtexmng.htm" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Platform_Specific/DOS_and_Windows/Converters">
+<catid>380841</catid>
+<link r:resource="http://texpoint.necula.org/" />
+<link r:resource="http://www.word2tex.com/" />
+<link r:resource="http://www.dessci.com/en/products/texaide/" />
+<link r:resource="http://www.mayer.dial.pipex.com/tex.htm" />
+<link r:resource="http://www.grindeq.com/" />
+<link r:resource="http://users.ecs.soton.ac.uk/srg/softwaretools/presentation/TeX4PPT/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Platform_Specific/DOS_and_Windows/Distributions">
+<catid>380840</catid>
+<link r:resource="http://www.miktex.org/" />
+<link r:resource="http://miktexthai.sourceforge.net/" />
+<link r:resource="http://tug.org/protext/" />
+<link r:resource="http://bakoma-tex.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Platform_Specific/DOS_and_Windows/Editors_and_IDEs">
+<catid>380843</catid>
+<link r:resource="http://www.winedt.com/" />
+<link r:resource="http://www.winshell.de/" />
+<link r:resource="http://www.projectory.de/texshell/" />
+<link r:resource="http://www.winedt.org/" />
+<link r:resource="http://www.latexsoft.com/" />
+<link r:resource="http://www.latexeditor.org/" />
+<link r:resource="http://www.texniccenter.org/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Platform_Specific/Macintosh">
+<catid>380833</catid>
+<link r:resource="http://www.kiffe.com/macghostview.html" />
+<link r:resource="http://itexmac.sourceforge.net/" />
+<link r:resource="http://bibdesk.sourceforge.net/" />
+<link r:resource="http://www.uoregon.edu/~koch/texshop/" />
+<link r:resource="http://pages.cs.wisc.edu/~ghost/macos/" />
+<link r:resource="http://excalibur.sourceforge.net/" />
+<link1 r:resource="http://mactex-wiki.tug.org/"></link1>
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Platform_Specific/Macintosh/Converters">
+<catid>380835</catid>
+<link r:resource="http://www.esm.psu.edu/mac-tex/tools.html#Converters" />
+<link r:resource="http://omlc.ogi.edu/software/tex_convert/" />
+<link r:resource="http://www.simpletex4ht.free.fr/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Platform_Specific/Macintosh/Distributions">
+<catid>380834</catid>
+<link r:resource="http://www.kiffe.com/cmactex.html" />
+<link r:resource="http://www.trevorrow.com/oztex/" />
+<link r:resource="http://www.sil.org/computing/texgx.html" />
+<link r:resource="http://tug.org/mactex/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Platform_Specific/Unix">
+<catid>380836</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Platform_Specific/Unix/Distributions">
+<catid>380837</catid>
+<link r:resource="http://www.tug.org/teTeX/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Platform_Specific/Unix/DVIware">
+<catid>380838</catid>
+<link r:resource="http://math.berkeley.edu/~vojta/xdvi.html" />
+<link r:resource="http://ricardo.ecn.wfu.edu/~cottrell/xdvi/" />
+<link r:resource="http://xdvi.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Publications">
+<catid>380801</catid>
+<link r:resource="http://www.tug.org/TUGboat/tugboat.html" />
+<link r:resource="http://www-cs-faculty.stanford.edu/~knuth/abcde.html" />
+<link r:resource="http://www.ams.org/tex/publications.html" />
+<link r:resource="http://makingtexwork.sourceforge.net/mtw/" />
+<link r:resource="http://www.ctan.org/tex-archive/usergrps/uktug/baskervi/" />
+<link r:resource="http://tug.org/pracjourn/" />
+<link r:resource="http://en.wikibooks.org/wiki/TeX" />
+<link r:resource="http://www.eutypon.gr/eutypon/#english" />
+<link r:resource="http://www.informit.com/store/product.aspx?isbn=0201134489" />
+<link r:resource="http://ajt.ktug.org/" />
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/Tools">
+<catid>380821</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Typesetting/TeX/User_Groups">
+<catid>380825</catid>
+<link r:resource="http://www.ntg.nl/" />
+<link r:resource="http://www.gust.org.pl/" />
+<link r:resource="http://www.eutypon.gr/" />
+<link1 r:resource="http://www.tug.org/"></link1>
+<link r:resource="http://uk.tug.org/" />
+<link1 r:resource="http://www.tug.org/lugs.html"></link1>
+<link r:resource="http://vlado.fmf.uni-lj.si/texceh/texceh.htm" />
+<link r:resource="http://heim.ifi.uio.no/~dag/ntug/" />
+<link r:resource="http://www.inf.unideb.hu/~matex/" />
+</topic>

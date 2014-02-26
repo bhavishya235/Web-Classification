@@ -1,0 +1,375 @@
+<topic r:id="Top/Computers/Software/Configuration_Management">
+<catid>380859</catid>
+<link r:resource="http://www.cmtoday.com/" />
+<link r:resource="http://liinwww.ira.uka.de/bibliography/SE/scm.html" />
+<link1 r:resource="http://www.faqs.org/faqs/sw-config-mgmt/"></link1>
+<link r:resource="http://www.cmpic.com/cmresourceguide.htm" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Bug_Tracking">
+<catid>380861</catid>
+<link r:resource="http://www.bugtrack.net/" />
+<link r:resource="http://www.websina.com/bugzero/" />
+<link r:resource="http://www.atlassian.com/software/jira/" />
+<link r:resource="http://www.problemtracker.com/" />
+<link r:resource="http://www.elsitech.com/" />
+<link r:resource="http://www.issueview.com/" />
+<link r:resource="http://www.tierasoft.com/" />
+<link r:resource="http://www.fogcreek.com/FogBUGZ/" />
+<link r:resource="http://www.excelsoftware.com/quickbugswin.html" />
+<link r:resource="http://www.bugaware.com/" />
+<link r:resource="http://www.borderwave.com/" />
+<link r:resource="http://www.omninet.de/english/OT_Ueberblick.shtml" />
+<link r:resource="http://www.visible.com/Products/Razor/" />
+<link r:resource="http://www.rmtrack.com/" />
+<link r:resource="http://www.softwareplanner.com/" />
+<link r:resource="http://www.solidgraphics.com/ITS/ITS-Overview.htm" />
+<link r:resource="http://www.e-spot.biz/index2.htm" />
+<link r:resource="http://www.bugopolis.com/" />
+<link r:resource="http://www.pointinsight.com/" />
+<link r:resource="http://www.prtracker.com/" />
+<link r:resource="http://www.ic-soft.com/products/ictracker.htm" />
+<link r:resource="http://www.rti-software.com/customerfirst.html" />
+<link r:resource="http://www.metaquest.com/" />
+<link r:resource="http://www-306.ibm.com/software/awdtools/clearquest/" />
+<link r:resource="http://www.extraview.com/" />
+<link r:resource="http://www.seapine.com/ttpro.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Bug_Tracking/Articles">
+<catid>380862</catid>
+<link r:resource="http://www.stickyminds.com/se/S2957.asp" />
+<link r:resource="http://www.stickyminds.com/se/S2993.asp" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Bug_Tracking/Directories">
+<catid>380863</catid>
+<link r:resource="http://linas.org/linux/pm.html" />
+<link r:resource="http://www.bug-tracking.info/" />
+<link r:resource="http://www.software-pointers.com/en-defecttracking-tools.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Bug_Tracking/Free">
+<catid>380864</catid>
+<link r:resource="http://www.mantisbt.org/" />
+<link r:resource="http://trac.edgewall.org/" />
+<link r:resource="http://www.stonekeep.com/" />
+<link r:resource="http://www.chiark.greenend.org.uk/~ian/debbugs/" />
+<link r:resource="http://www.teamatic.com/" />
+<link r:resource="http://roundup.sourceforge.net/" />
+<link r:resource="http://bugsonline.sourceforge.net/" />
+<link r:resource="http://btnet.sourceforge.net/" />
+<link r:resource="http://bkiss.free.fr/Gifft/" />
+<link r:resource="http://www.issuetrackerproduct.com/" />
+<link r:resource="http://www.bug-a-boo.org/" />
+<link r:resource="http://phpbt.sourceforge.net/" />
+<link r:resource="http://bestpractical.com/rt" />
+<link r:resource="http://www.bluestatic.org/software/bugdar/" />
+<link r:resource="http://www.vsbt.net/" />
+<link r:resource="http://www.flyspray.org/" />
+<link r:resource="http://www.bugnetproject.com/" />
+<link r:resource="https://www.etraxis.com/" />
+<link r:resource="http://directory.fsf.org/wiki/Bug-buddy" />
+<link r:resource="http://www.samba.org/cgi-bin/jitterbug" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Bug_Tracking/Free/Bugzilla">
+<catid>380865</catid>
+<link r:resource="http://www.bugzilla.org/" />
+<link r:resource="https://wiki.mozilla.org/Bugzilla:Addons" />
+<link r:resource="http://bugzillametrics.org/BugzillaMetrics/" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Bug_Tracking/Free/GNATS">
+<catid>380866</catid>
+<link r:resource="http://www.timshel.ca/tkgnats/" />
+<link r:resource="http://alumnus.caltech.edu/~dank/gnats.html" />
+<link1 r:resource="http://www.gnu.org/software/gnats/"></link1>
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Bug_Tracking/Hosted">
+<catid>380868</catid>
+<link r:resource="http://www.aceproject.com/" />
+<link r:resource="http://www.bughost.com/" />
+<link r:resource="http://www.adminitrack.com/" />
+<link r:resource="http://www.squishlist.com/" />
+<link r:resource="http://www.sourceaction.com/" />
+<link r:resource="http://www.elementool.com/" />
+<link r:resource="http://www.bug-track.com/" />
+<link r:resource="http://www.bugmonitor.com/" />
+<link r:resource="http://www.netresultstracker.com/pt_online.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Bug_Tracking/Java">
+<catid>380867</catid>
+<link r:resource="http://www.websina.com/bugzero/" />
+<link r:resource="http://scarab.tigris.org/" />
+<link r:resource="http://www.atlassian.com/software/jira/" />
+<link r:resource="http://www.trackstudio.com/" />
+<link r:resource="http://www.granpm.com/" />
+<link r:resource="http://www.gjt.org/pkg/bugrat/" />
+<link r:resource="http://bugtracker.sourceforge.net/bugtracker.html" />
+<link r:resource="http://www.agileedge.com/" />
+<link r:resource="http://www.tortuga.com.au/products/ozibug/" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Directories">
+<catid>380860</catid>
+<link r:resource="http://www.tantara.ab.ca/info.htm" />
+<link r:resource="http://www.rspa.com/spi/SCM.html" />
+<link r:resource="http://www.swtech.com/configm/" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools">
+<catid>380869</catid>
+<link r:resource="http://www.cmstat.com/" />
+<link r:resource="http://www.georgejames.com/" />
+<link r:resource="http://www.perforce.com/" />
+<link r:resource="http://www.bell-labs.com/project/sablime/" />
+<link r:resource="http://www.burtonsys.com/" />
+<link r:resource="http://www.plus-one.com/+1CM_fact_sheet.html" />
+<link r:resource="http://www.relisoft.com/co_op/" />
+<link r:resource="http://www.bitkeeper.com/" />
+<link r:resource="http://prcs.sourceforge.net/" />
+<link r:resource="http://www.neuma.com/" />
+<link r:resource="http://www.vestasys.org/" />
+<link r:resource="http://www.qumasoft.com/" />
+<link r:resource="http://www.seapine.com/surroundscm.html" />
+<link r:resource="http://www.prestosoft.com/" />
+<link r:resource="http://www.iet.co.uk/" />
+<link r:resource="http://www.winlib.com/" />
+<link r:resource="http://www.truebluesoftware.com/" />
+<link r:resource="http://www.hansky.com/" />
+<link r:resource="http://www.sourcejammer.org/" />
+<link r:resource="http://www.accurev.com/" />
+<link r:resource="http://www.incanica.com/tableaux.html" />
+<link r:resource="http://www.spectrumscm.com/" />
+<link r:resource="http://www.configurationkit.com/" />
+<link r:resource="http://www.mccabe.com/true.htm" />
+<link r:resource="http://www.ouraysoftware.com/" />
+<link r:resource="http://www.foxdata.com/" />
+<link r:resource="http://www.manageware.co.il/" />
+<link r:resource="http://www.sourcegear.com/vault/index.html" />
+<link r:resource="http://bazaar-ng.org/" />
+<link r:resource="http://www.purecm.com/" />
+<link r:resource="http://damonpoole.blogspot.com/" />
+<link r:resource="http://www.elite-is.com/cmHome.asp" />
+<link r:resource="http://www.arcadsoftware.com/" />
+<link r:resource="http://sourceforge.net/projects/ftpvcs/" />
+<link r:resource="http://mecasp.free.fr/" />
+<link r:resource="http://www.clearvision-cm.com/" />
+<link r:resource="http://jedivcs.sourceforge.net/" />
+<link r:resource="http://www.mks.com/products/source" />
+<link r:resource="http://darcs.net/" />
+<link r:resource="http://www.plasticscm.com/" />
+<link r:resource="http://monotone.ca/" />
+<link r:resource="http://scm.tigris.org/" />
+<link r:resource="http://www.daveeaton.com/scm/" />
+<link r:resource="http://smartbear.com/" />
+<link r:resource="http://www.dynamsoft.com/Products/SourceAnywhere-SourceSafe-VSS.aspx" />
+<link r:resource="http://www.qarks.com/" />
+<link r:resource="http://linuxmafia.com/faq/Apps/vcs.html" />
+<link r:resource="http://b4.vu/g/katie/" />
+<link r:resource="http://better-scm.shlomifish.org/" />
+<link r:resource="http://cloudforge.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools/Arch">
+<catid>380872</catid>
+<link r:resource="http://www.gnu.org/software/gnu-arch/" />
+<link r:resource="http://savannah.nongnu.org/projects/arx" />
+<link r:resource="http://mirrors.sourcecontrol.net/" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools/ClearCase">
+<catid>380881</catid>
+<link r:resource="http://www.clearvision-cm.com/" />
+<link r:resource="http://www.timefold.com/" />
+<link r:resource="ftp://ftp.wellfleet.com/netman/psmith/atria/" />
+<link r:resource="http://www.trinity-software.com/" />
+<link r:resource="http://www.jslsolutions.com/" />
+<link r:resource="http://www-cad.eecs.berkeley.edu/HomePages/fchan/research/clearcase.html" />
+<link r:resource="http://www.cm-logic.com/" />
+<link r:resource="http://www.inferdata.com/training/websphere/ClearCase.html" />
+<link r:resource="http://www.releaseteam.com/" />
+<link r:resource="http://www.ipnom.com/ClearCase-Commands/" />
+<link r:resource="http://www-306.ibm.com/software/awdtools/clearcase/" />
+<link r:resource="http://www.abs-consulting.com/" />
+<link r:resource="http://clearcase.weintraubworld.net/" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools/ClearCase/Emacs">
+<catid>380882</catid>
+<link r:resource="ftp://rtfm.mit.edu/pub/cc-vc/" />
+<link r:resource="http://vc-clearcase.sourceforge.net/" />
+<link r:resource="http://www.emacswiki.org/cgi-bin/wiki/ClearCase" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools/Concurrent_Versions_System">
+<catid>380874</catid>
+<link r:resource="https://www.freepository.com/" />
+<link r:resource="http://www.sourcehosting.net/" />
+<link r:resource="http://dccmn.com/cvsmvs/" />
+<link r:resource="http://www.projectlocker.com/" />
+<link r:resource="http://cvsgrab.sourceforge.net/" />
+<link r:resource="http://www.cvsnt.com/" />
+<link r:resource="http://durak.org/cvswebsites/" />
+<link r:resource="http://www.siber.com/cvs-via-ftp/" />
+<link r:resource="http://www.cvshome.org/" />
+<link r:resource="http://www.devguy.com/fp/cfgmgmt/cvs/cvs_admin_nt.htm#CVSWEBIIS" />
+<link r:resource="ftp://riemann.iam.uni-bonn.de/pub/users/roessler/cvslock/" />
+<link r:resource="http://cvsplot.sourceforge.net/" />
+<link r:resource="http://www.red-bean.com/cvs2cl/" />
+<link r:resource="http://www.componentsoftware.com/products/cvs/" />
+<link r:resource="https://sourceforge.net/projects/cvssupport/" />
+<link r:resource="http://phaseit.net/claird/comp.programming/cvs_index.html" />
+<link r:resource="http://www.red-bean.com/cvsutils/" />
+<link r:resource="http://www.badgers-in-foil.co.uk/projects/cvsspam/" />
+<link r:resource="http://cvsacl.sourceforge.net/" />
+<link r:resource="http://cvsknit.sourceforge.net/" />
+<link r:resource="http://www.cvstrac.org/" />
+<link r:resource="http://statcvs.sourceforge.net/" />
+<link r:resource="http://www-oss.fnal.gov/~mengel/Talks/cvs/orig.html" />
+<link r:resource="http://march-hare.com/cvspro" />
+<link r:resource="http://www.totalcmd.net/plugring/CVSBrowser_1.0.5.html" />
+<link r:resource="http://www.viewvc.org/" />
+<link r:resource="http://www.freebsd.org/projects/cvsweb.html" />
+<link r:resource="http://ximbiot.com/" />
+<link r:resource="http://cvssearch.sourceforge.net/" />
+<link r:resource="http://tech.groups.yahoo.com/group/info-cvs/" />
+<link r:resource="http://www.atlassian.com/software/fisheye/" />
+<link r:resource="http://www.nongnu.org/cvs/" />
+<link r:resource="https://developer.mozilla.org/en/Bonsai" />
+<link r:resource="http://efod.se/software/lyscvs/" />
+<link r:resource="http://laughingmeme.org/2003/02/26/cvs2rss-02/" />
+<link r:resource="http://cloudforge.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools/Concurrent_Versions_System/Books">
+<catid>380875</catid>
+<link r:resource="http://cvsbook.red-bean.com/" />
+<link r:resource="http://www.network-theory.co.uk/docs/cvsmanual/" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools/Concurrent_Versions_System/Clients">
+<catid>380876</catid>
+<link r:resource="http://www.jcvs.org/" />
+<link r:resource="http://www.maccvs.org/" />
+<link r:resource="http://www.heilancoo.net/MacCVSClient/" />
+<link r:resource="http://lincvs.com/" />
+<link r:resource="http://pharmacy.sourceforge.net/" />
+<link r:resource="http://javacvs.sourceforge.net/" />
+<link r:resource="http://www.jalindi.com/igloo/" />
+<link r:resource="http://tkcvs.sourceforge.net/" />
+<link r:resource="http://sourceforge.net/projects/conflicteditor/" />
+<link r:resource="http://borcvs.sourceforge.net/" />
+<link r:resource="http://www.tortoisecvs.org/" />
+<link r:resource="http://cvsgrab.sourceforge.net/" />
+<link r:resource="http://apotheke.berlios.de/" />
+<link r:resource="http://www.pushok.com/soft_cvs.php" />
+<link r:resource="http://sourceforge.net/projects/netcvslib/" />
+<link r:resource="http://openssh.free.fr/index.html.en" />
+<link r:resource="http://www.syntevo.com/smartcvs/" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools/Concurrent_Versions_System/FAQs,_Help,_and_Tutorials">
+<catid>380877</catid>
+<link r:resource="http://www.openbsd.org/anoncvs.html" />
+<link r:resource="http://www.badgertronics.com/writings/cvs/index.html" />
+<link r:resource="http://durak.org/cvswebsites/doc/cvs.php" />
+<link r:resource="http://vasc.ri.cmu.edu/old_help/Archiving/Cvs/cvs_tutorial.texinfo_toc.html" />
+<link r:resource="http://netfactory.dk/technology/cvs/" />
+<link r:resource="http://www.manual-translation-project.org/projects/mtpcvs/mtpcvs-en.html" />
+<link r:resource="http://ximbiot.com/cvs/manual/" />
+<link r:resource="http://www.linuxdevcenter.com/pub/a/linux/2002/01/03/cvs_intro.html" />
+<link r:resource="http://www.linuxdevcenter.com/pub/a/linux/2002/01/17/cvsadmin.html" />
+<link r:resource="http://better-scm.shlomifish.org/comparison/" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools/Fossil">
+<catid>1012818</catid>
+<link1 r:resource="http://www.fossil-scm.org/"></link1>
+<link r:resource="http://kott.fm/tomek/series/fossil/" />
+<link r:resource="http://www.fossil-scm.org/schimpf-book/home" />
+<link r:resource="http://chiselapp.com/" />
+<link r:resource="http://chiselapp.com/user/sti/repository/fossil-gui/" />
+<link r:resource="http://chiselapp.com/user/venks/repository/emacs-fossil/" />
+<link r:resource="http://code.google.com/p/jurassic-fossil/" />
+<link r:resource="http://cisx1.uma.maine.edu/~wbackman/bsdtalk/bsdtalk194.mp3" />
+<link r:resource="http://repository.mobile-developers.de/cgi-bin/ikoch/sharpfossil/" />
+<link r:resource="http://code.google.com/p/fuel-scm/" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools/Git">
+<catid>380873</catid>
+<link r:resource="https://github.com/" />
+<link1 r:resource="http://git-scm.com/"></link1>
+<link r:resource="http://en.wikipedia.org/wiki/Git_(software)" />
+<link r:resource="http://code.google.com/p/git-osx-installer/" />
+<link r:resource="http://www.gnome.org/~newren/eg/" />
+<link r:resource="http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way" />
+<link r:resource="http://gitready.com/" />
+<link r:resource="http://gitorious.org/" />
+<link r:resource="http://code.google.com/p/tortoisegit/" />
+<link r:resource="http://www-cs-students.stanford.edu/~blynn/gitmagic/" />
+<link r:resource="http://www.git-tower.com/" />
+<link r:resource="https://github.com/nvie/gitflow" />
+<link r:resource="https://git.wiki.kernel.org/index.php/GitProjects" />
+<link r:resource="http://rogerdudler.github.io/git-guide/" />
+<link r:resource="http://schacon.github.io/git/user-manual.html" />
+<link r:resource="http://msysgit.github.io/" />
+<link r:resource="http://www.vogella.com/articles/Git/article.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools/Mercurial">
+<catid>380879</catid>
+<link r:resource="http://hgbook.red-bean.com/" />
+<link r:resource="http://trac.edgewall.org/wiki/TracMercurial" />
+<link r:resource="http://wiki.netbeans.org/MercurialVersionControl" />
+<link r:resource="http://pypi.python.org/pypi/hgsvn/" />
+<link r:resource="http://www.bitbucket.org/" />
+<link r:resource="http://tortoisehg.bitbucket.org/" />
+<link r:resource="http://mercurial.selenic.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools/Revision_Control_System">
+<catid>380871</catid>
+<link r:resource="http://www.gnu.org/software/rcs/rcs.html" />
+<link r:resource="http://www.componentsoftware.com/csrcs/" />
+<link r:resource="http://www.cs.purdue.edu/homes/trinkle/RCS/" />
+<link r:resource="http://www.aicas.com/rce.html" />
+<link r:resource="http://ps.ipd.kit.edu/backend/index.php/MitDetails_en/items/102.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools/Source_Configuration_Management">
+<catid>380878</catid>
+<link r:resource="http://www.numarasoftware.com/" />
+<link r:resource="http://www.seapine.com/surroundscm.html" />
+<link r:resource="http://www.nxn-software.com/" />
+<link r:resource="http://aegis.sourceforge.net/" />
+<link r:resource="http://www.cigi.net/" />
+<link r:resource="http://www.emperex.com/" />
+<link r:resource="http://www.wandisco.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools/Subversion">
+<catid>380870</catid>
+<link r:resource="http://www.xsteve.at/prg/vc_svn/" />
+<link r:resource="http://svnkit.com/" />
+<link r:resource="http://svnbook.red-bean.com/" />
+<link r:resource="http://rapidsvn.tigris.org/" />
+<link r:resource="http://subclipse.tigris.org/" />
+<link r:resource="http://www.onlamp.com/pub/a/onlamp/2002/10/31/subversion.html" />
+<link r:resource="http://www.onlamp.com/pub/a/apache/2002/12/19/svn2.html" />
+<link r:resource="http://wush.net/" />
+<link r:resource="http://www.lachoseinteractive.net/en/community/subversion/svnx/" />
+<link r:resource="http://www.svnforum.org/" />
+<link r:resource="http://search.cpan.org/dist/SVN-Push/" />
+<link r:resource="http://svn.spears.at/" />
+<link r:resource="http://www.projxpert.com/" />
+<link r:resource="http://avlux.net/" />
+<link r:resource="http://tortoisesvn.tigris.org/" />
+<link r:resource="http://www.devguard.com/" />
+<link r:resource="http://www.visualsvn.com/" />
+<link r:resource="http://www.oxygenxml.com/subversion_client.html" />
+<link r:resource="http://www.pushok.com/soft_svn.php" />
+<link r:resource="http://www.versionshelf.com/" />
+<link r:resource="http://www.projectlocker.com/" />
+<link r:resource="http://jsvn.alternatecomputing.com/" />
+<link r:resource="http://www.core.com.pl/svn2log/" />
+<link r:resource="http://www.beanstalkapp.com/" />
+<link r:resource="http://www.syncrosvnclient.com/" />
+<link r:resource="http://ankhsvn.open.collab.net/" />
+<link r:resource="http://web-cpan.shlomifish.org/modules/SVN-RaWeb-Light/" />
+<link r:resource="http://www.smartsvn.com/" />
+<link r:resource="http://www.svnhostingcomparison.com/" />
+<link1 r:resource="http://subversion.apache.org/"></link1>
+</topic>
+<topic r:id="Top/Computers/Software/Configuration_Management/Tools/Visual_SourceSafe">
+<catid>380880</catid>
+<link r:resource="http://www.vssconnect.com/" />
+<link r:resource="http://www.sourceremoting.com/" />
+<link r:resource="http://www.neilstuff.com/vss/" />
+<link r:resource="http://www.appling.org/ss2xml/" />
+<link r:resource="http://www.source-safe.com/" />
+<link r:resource="http://www.windeveloper.com/vss2mdb/vss2mdb.htm" />
+<link r:resource="http://www.dynamsoft.com/Products/SAW_Overview.aspx" />
+<link r:resource="http://sourcegear.com/sos/" />
+</topic>

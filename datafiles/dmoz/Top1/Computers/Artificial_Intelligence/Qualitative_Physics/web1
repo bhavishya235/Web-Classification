@@ -1,0 +1,86 @@
+====================<http://www.cs.utexas.edu/users/qr/>====================
+<html>
+<head>
+<title>Qualitative Reasoning Research at UT Austin</title>
+<link rel=stylesheet href="/~kuipers/styles/bibliographies.css" type="text/css">
+</head>
+
+<body>
+
+
+<h1>Qualitative Reasoning Research at UTexas at Austin</h1>
+
+<P>The Qualitative Reasoning (QR) research group is supervised by
+Professor <A HREF="/users/kuipers/">Benjamin Kuipers</A> (<A
+HREF="mailto:kuipers@cs.utexas.edu">kuipers@cs.utexas.edu</A>).  
+
+<p>It is part of the <A HREF="/users/ai-lab/">Artificial Intelligence
+Lab</A> and the <A HREF="http://www.cs.utexas.edu/">Computer Science
+Department</A> at the <A HREF="http://www.utexas.edu">University of
+Texas at Austin</A>.
+
+<P>
+<HR>
+</P>
+
+<h2><a href="people.html">People</a></h2>
+
+<h2>Research</h2>
+
+<UL>
+	<LI><A HREF="robotics">Spatial Reasoning and Intelligent Robotics (TOUR and SSH)</A>
+	<UL>
+		<LI><A HREF="robotics/papers.html">Indexed bibliography</A>
+	</UL>
+	<P>
+
+	<LI><A HREF="/users/qr/algernon.html">Access-Limited Logic for Knowledge Representation (Algernon)</A>
+	<UL>
+		<LI><A HREF="/users/qr/algernon.html#learning">Indexed bibliography</A>
+	</UL>
+	<P>
+
+	<LI><A HREF="/users/qr/QR-overview.html">Qualitative Reasoning about the Physical World (QSIM)</A>
+	<UL>
+		<LI><A HREF="/users/qr/papers-QR.html">Indexed bibliography</A>
+	</UL>
+</UL>
+
+
+<h2>Publications</h2>
+
+<ul>
+
+ <li> <A HREF="robotics/papers.html">Spatial Reasoning and Robotics</A>
+ <li> <A HREF="/users/qr/algernon.html">Access-Limited Logic</a>
+ <li> <A HREF="/users/qr/papers-QR.html">Qualitative Simulation</A>
+<p>
+ <li> <A HREF="/users/qr/QR-software.html">Obtaining software</A> (QSIM, Algernon, and QPC)
+      <br> You can also visit our:
+  <ul>
+   <li><a href="ftp://ftp.cs.utexas.edu/pub/qsim/papers/">FTP directory for papers</A>
+   <li><a href="ftp://ftp.cs.utexas.edu/pub/qsim/">FTP directory for software and other documents</A>
+  </ul>
+
+</ul>
+
+
+<h2>Links</h2>
+
+<UL>
+	<li><A HREF="/users/qr/whats-new.html"><b>What's New</b>
+            (Recent papers and other information)</A>
+	<LI><A HREF="/users/kuipers/yellow-pages.html">Relevent/interesting links</A>
+</UL>
+
+<P>
+<HR>
+</P>
+
+<ADDRESS>Author: <A HREF="/users/kuipers">BJK</A><BR>
+Updated: <A HREF="/users/pbeeson">PFB<a></ADDRESS>
+
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

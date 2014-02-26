@@ -1,0 +1,136 @@
+<topic r:id="Top/Computers/Security/Authentication">
+<catid>374437</catid>
+<link r:resource="http://www.rsasecurity.com/" />
+<link r:resource="http://www.intertrust.com/" />
+<link r:resource="http://www.saflink.com/" />
+<link r:resource="http://www.biopassword.com/" />
+<link r:resource="http://srp.stanford.edu/" />
+<link r:resource="http://www.unisys.com/" />
+<link r:resource="http://www.vasco.com/" />
+<link r:resource="http://www.authenticationtutorial.com/" />
+<link r:resource="http://www.iisprotect.com/" />
+<link r:resource="http://library.smc.edu/rpa.htm" />
+<link r:resource="http://seclab.cs.ucdavis.edu/papers/mb91c.ps" />
+<link r:resource="http://seclab.cs.ucdavis.edu/papers/pdfs/mb-91.pdf" />
+<link r:resource="http://www.pdos.lcs.mit.edu/papers/webauth:sec10.pdf" />
+<link r:resource="http://mtechit.com/" />
+<link r:resource="http://www.nma.com/" />
+<link r:resource="http://www.finallysoftware.com/" />
+<link r:resource="http://www.sun.com/software/solaris/pam/" />
+<link r:resource="http://www.opengroup.org/idm/" />
+<link r:resource="http://www.projectliberty.org/" />
+<link r:resource="http://www.cosbatch.com/" />
+</topic>
+<topic r:id="Top/Computers/Security/Authentication/Access_Control_Hardware">
+<catid>374444</catid>
+<link r:resource="http://www.aladdin.com/" />
+</topic>
+<topic r:id="Top/Computers/Security/Authentication/Kerberos">
+<catid>374443</catid>
+<link1 r:resource="http://web.mit.edu/kerberos/www/"></link1>
+<link r:resource="http://gost.isi.edu/info/kerberos/" />
+<link r:resource="http://www.contrib.andrew.cmu.edu/~shadow/kerberos.html" />
+<link r:resource="http://www.pdc.kth.se/heimdal/" />
+<link r:resource="http://www.cybersafe.ltd.uk/" />
+<link r:resource="http://www.cert.org/advisories/CA-2002-29.html" />
+<link r:resource="http://gost.isi.edu/publications/kerberos-neuman-tso.html" />
+<link r:resource="http://www.ornl.gov/~jar/HowToKerb.html" />
+<link r:resource="http://www.gnu.org/software/shishi/" />
+<link r:resource="http://www.cmf.nrl.navy.mil/CCS/people/kenh/kerberos-faq.html" />
+<link r:resource="http://tools.ietf.org/html/rfc1510" />
+<link r:resource="http://www.kerberos.org/" />
+</topic>
+<topic r:id="Top/Computers/Security/Authentication/Multi-factor_Authentication">
+<catid>1029794</catid>
+<link r:resource="https://en.wikipedia.org/wiki/Multi-factor_authentication" />
+<link r:resource="http://netsecurity.about.com/od/quicktips/qt/twofactor.htm" />
+<link r:resource="http://www.computerworld.com/s/article/44257/Authentication" />
+<link r:resource="http://security.idlecircuits.com/twofactor.html" />
+<link r:resource="http://www.kunal-chowdhury.com/2013/05/what-is-two-factor-authentication.html" />
+<link r:resource="http://www.techrepublic.com/blog/it-security/implementing-multi-factor-authentication-what-to-consider/" />
+<link r:resource="http://www.darkreading.com/management/tech-insight-tips-for-implementing-two-f/230800168" />
+<link r:resource="http://venturebeat.com/2013/05/01/two-factor-authentication/" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/cc838351.aspx" />
+<link r:resource="http://www.fedtechmagazine.com/sites/default/files/109033-wp-two-factor_auth_df.pdf" />
+<link r:resource="http://www.ibm.com/developerworks/aix/library/au-security_auth/" />
+<link r:resource="https://lwn.net/Articles/470764/" />
+<link r:resource="http://www.schneier.com/blog/archives/2005/03/the_failure_of.html" />
+</topic>
+<topic r:id="Top/Computers/Security/Authentication/Multi-factor_Authentication/Vendor_Specific">
+<catid>1029809</catid>
+<link r:resource="http://www.google.com/landing/2step/" />
+<link r:resource="http://developer.yahoo.com/blogs/ydn/yahoo-introduces-stronger-user-authentication-second-sign-verification-52121.html" />
+<link r:resource="https://www.facebook.com/help/www/148233965247823" />
+<link r:resource="https://support.twitter.com/articles/20170388-using-login-verification" />
+<link r:resource="https://www.dropbox.com/help/363/en" />
+<link r:resource="https://support.apple.com/kb/HT5570" />
+<link r:resource="http://windows.microsoft.com/en-us/windows/two-step-verification-faq" />
+<link r:resource="https://www.paypal.com/us/cgi-bin?cmd=xpt/Marketing_CommandDriven/securitycenter/PayPalSecurityKey-outside&amp;bn_r=o" />
+</topic>
+<topic r:id="Top/Computers/Security/Authentication/One_Time_Passwords">
+<catid>374438</catid>
+<link r:resource="http://www.cryptocard.com/" />
+<link r:resource="http://www.clearview.co.uk/" />
+<link r:resource="http://www.cs.umd.edu/users/harry/jotp/" />
+<link r:resource="http://www.orange-carb.org/SkeyCalc/" />
+<link r:resource="http://palmkey.sourceforge.net/" />
+<link r:resource="http://www.basun.net/software/otpc/" />
+<link r:resource="http://www.dynapass.com/" />
+<link r:resource="http://pyotp.sourceforge.net/" />
+<link r:resource="http://killa.net/infosec/otpCalc/" />
+<link r:resource="http://tools.ietf.org/html/rfc2289" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.44.6790" />
+</topic>
+<topic r:id="Top/Computers/Security/Authentication/RADIUS">
+<catid>374439</catid>
+<link r:resource="http://www.cert.org/advisories/CA-2002-06.html" />
+<link r:resource="http://www.interlinknetworks.com/" />
+<link r:resource="http://www.tummy.com/Community/software/radiuscontext/" />
+</topic>
+<topic r:id="Top/Computers/Security/Authentication/RADIUS/Server">
+<catid>374440</catid>
+<link r:resource="http://www.radius.cistron.nl/" />
+<link r:resource="http://www.freeradius.org/" />
+<link r:resource="http://www.alepo.com/" />
+<link r:resource="http://www.cisco.com/go/acs" />
+<link r:resource="http://www.netutils.com/" />
+<link r:resource="http://www.xs4all.nl/~evbergen/e-advies.html" />
+<link r:resource="http://www.open.com.au/" />
+<link r:resource="http://xtradius.sourceforge.net/" />
+<link r:resource="http://www.pgregg.com/projects/radiusreport/index.php?cookiesarenotok=1&amp;q=001010171191LxhNPstCSfJopFF1Vpv3bBbwTEZj9nbUUtIKVcnOr6cQLRSHgoLs" />
+<link r:resource="http://www.evolynx.com/" />
+</topic>
+<topic r:id="Top/Computers/Security/Authentication/Single_Sign-On">
+<catid>374441</catid>
+<link r:resource="http://www.evidian.com/" />
+<link r:resource="http://www.ca.com/" />
+<link r:resource="http://shibboleth.internet2.edu/" />
+<link r:resource="http://www.okiok.com/" />
+<link r:resource="http://www.passlogix.com/" />
+<link r:resource="http://www.i3sp.com/" />
+<link r:resource="http://www.safestone.com/" />
+<link r:resource="http://www.inetsolution.com/products_cuprotect.asp" />
+<link r:resource="http://www.nenix.com/" />
+<link r:resource="http://www.cafesoft.com/" />
+<link r:resource="http://www.protocom.com/" />
+<link r:resource="http://docs.sun.com/source/816-6151-10/contents.htm" />
+<link r:resource="https://www.cosic.esat.kuleuven.be/sesame/" />
+<link r:resource="http://www.atlassian.com/software/crowd/" />
+<link r:resource="http://www.imprivata.com/" />
+<link r:resource="http://www.symplified.com/" />
+<link r:resource="http://www.pingidentity.com/" />
+<link r:resource="http://www.forgerock.com/openam.html" />
+</topic>
+<topic r:id="Top/Computers/Security/Authentication/Single_Sign-On/OpenID">
+<catid>374442</catid>
+<link r:resource="http://www.openidenabled.com/" />
+<link r:resource="http://en.wikipedia.org/wiki/OpenID" />
+<link1 r:resource="http://openid.net/"></link1>
+<link r:resource="https://www.myopenid.com/" />
+<link r:resource="http://intertwingly.net/blog/2007/01/03/OpenID-for-non-SuperUsers" />
+<link r:resource="http://wiki.splitbrain.org/plugin:openid" />
+<link r:resource="http://www.openiddirectory.com/" />
+<link r:resource="http://www.certifi.ca/" />
+<link r:resource="http://www.yiid.com/" />
+<link r:resource="http://www.zdnet.com/blog/digitalid/the-case-for-openid/78" />
+</topic>

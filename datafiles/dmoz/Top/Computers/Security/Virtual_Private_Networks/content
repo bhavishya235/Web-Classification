@@ -1,0 +1,75 @@
+<topic r:id="Top/Computers/Security/Virtual_Private_Networks">
+<catid>374409</catid>
+<link r:resource="http://www.vpnc.org/" />
+<link r:resource="http://www.howstuffworks.com/vpn.htm" />
+<link r:resource="http://compnetworking.about.com/cs/vpn/index.htm" />
+<link r:resource="http://www.corecom.com/external/vpn/vpnfaq.htm" />
+<link r:resource="http://www.csm.ornl.gov/~dunigan/vpn.html" />
+<link r:resource="http://www.vpnlabs.org/" />
+<link r:resource="http://www.networkworld.com/topics/firewalls.html" />
+</topic>
+<topic r:id="Top/Computers/Security/Virtual_Private_Networks/FAQs,_Help,_and_Tutorials">
+<catid>374410</catid>
+<link r:resource="http://www.ipsec-howto.org/" />
+<link r:resource="http://www.jacco2.dds.nl/networking/freeswan-l2tp.html" />
+<link r:resource="http://www.natecarlson.com/linux/ipsec-x509.php" />
+<link r:resource="http://www.fw-1.de/aerasec/index.html" />
+<link r:resource="http://www.tldp.org/HOWTO/VPN-HOWTO/" />
+<link r:resource="http://www.onlamp.com/pub/a/security/2004/10/21/vpns_and_pki.html" />
+<link r:resource="http://openvpn.net/howto.html" />
+<link r:resource="http://www.fw-1.de/aerasec/ng/vpn-freeswan/CPNG+Linux-FreeSWAN.html" />
+<link r:resource="http://www.johnleach.co.uk/documents/freeswan-pix/freeswan-pix.html" />
+<link r:resource="http://www.schneier.com/pptp-faq.html" />
+<link r:resource="http://poptop.sourceforge.net/dox/replacing-windows-pptp-with-linux-howto.phtml" />
+<link r:resource="http://www.members.optushome.com.au/~wskwok/poptop_ads_howto_1.htm" />
+</topic>
+<topic r:id="Top/Computers/Security/Virtual_Private_Networks/Products_and_Tools">
+<catid>374412</catid>
+<link r:resource="http://www.elabnet.de/" />
+<link r:resource="http://www.sonicwall.com/" />
+<link r:resource="http://www.juniper.net/products/integrated/" />
+<link r:resource="http://www.novell.com/products/bordermanager/" />
+<link r:resource="http://www.checkpoint.com/" />
+<link r:resource="http://www.infoexpress.com/" />
+<link r:resource="http://www.thegreenbow.com/" />
+<link r:resource="http://www.unixpac.com.au/" />
+<link r:resource="http://www.fortresstech.com/" />
+<link r:resource="http://www.ertgroup.com/" />
+<link r:resource="http://www.fiberlink.com/" />
+<link r:resource="http://www.solucom.com/" />
+<link r:resource="http://www.anx.com/" />
+<link r:resource="http://www.tbdnetworks.com/" />
+<link r:resource="http://www.wickhill.com/" />
+<link r:resource="http://www.bandwidth.com/" />
+<link r:resource="http://www.sequi.com/" />
+<link r:resource="http://www.enlightentech.net/" />
+<link r:resource="http://store.guardiandigital.com/html/eng/products/software/vpn_overview.shtml" />
+<link r:resource="http://www.aventail.com/" />
+<link r:resource="http://www.menlologic.com/" />
+<link r:resource="http://www.portwise.com/" />
+<link r:resource="http://www.ncp.de/" />
+<link r:resource="http://www.aepnetworks.com/" />
+<link r:resource="http://www.blueridgenetworks.com/" />
+</topic>
+<topic r:id="Top/Computers/Security/Virtual_Private_Networks/Products_and_Tools/Open_Source">
+<catid>374413</catid>
+<link r:resource="http://www.tldp.org/HOWTO/VPN-HOWTO/" />
+<link r:resource="http://pptpclient.sourceforge.net/" />
+<link r:resource="http://www.openbsd.org/" />
+<link r:resource="http://linas.org/linux/iptunnel.html" />
+<link r:resource="http://www.linux-sec.net/VPN" />
+<link r:resource="http://www.tinc-vpn.org/" />
+<link r:resource="http://pptp-gui.sourceforge.net/" />
+<link r:resource="http://www.tldp.org/HOWTO/VPN-Masquerade-HOWTO.html" />
+<link r:resource="http://openvpn.se/" />
+<link r:resource="http://openvpn.net/" />
+</topic>
+<topic r:id="Top/Computers/Security/Virtual_Private_Networks/Protocols">
+<catid>374411</catid>
+<link r:resource="http://www.stunnel.org/" />
+<link r:resource="http://pptpclient.sourceforge.net/" />
+<link r:resource="http://www.vpnc.org/vpn-standards.html" />
+<link r:resource="http://www.antd.nist.gov/tools/cerberus/" />
+<link r:resource="http://www.schneier.com/pptp.html" />
+<link r:resource="http://datatracker.ietf.org/wg/pppext/charter/" />
+</topic>

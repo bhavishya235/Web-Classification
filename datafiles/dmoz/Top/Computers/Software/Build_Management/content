@@ -1,0 +1,84 @@
+<topic r:id="Top/Computers/Software/Build_Management">
+<catid>380885</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Build_Management/Build_Management_Systems">
+<catid>380891</catid>
+<link r:resource="http://www.qef.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Build_Management/Build_Manager_Tools">
+<catid>380888</catid>
+<link r:resource="http://cruisecontrol.sourceforge.net/" />
+<link r:resource="http://buildbot.net/" />
+<link r:resource="http://www.kinook.com/" />
+<link r:resource="http://public.kitware.com/Dart/" />
+<link r:resource="http://sourceforge.net/projects/busyb" />
+<link r:resource="http://antelope.tigris.org/" />
+<link r:resource="http://www.scm4all.com/" />
+<link r:resource="http://gump.apache.org/" />
+<link r:resource="http://www.viewtier.com/products/parabuild/index.htm" />
+<link r:resource="http://luntbuild.javaforge.com/" />
+<link r:resource="http://www.pmease.com/" />
+<link r:resource="http://www.coderanger.com/products/buildit/index.shtml" />
+<link r:resource="http://maven.apache.org/" />
+<link r:resource="http://www.scada.ch/" />
+<link r:resource="http://www.finalbuilder.com/" />
+<link r:resource="http://www.autobuild.org/" />
+<link r:resource="http://jetbrains.com/teamcity" />
+<link r:resource="http://www-306.ibm.com/software/awdtools/buildforge/enterprise/" />
+<link r:resource="http://mavenizer.sourceforge.net/" />
+<link r:resource="http://www.nantbuilder.com/" />
+<link r:resource="http://www.zutubi.com/" />
+<link r:resource="http://www.atlassian.com/software/bamboo/" />
+<link r:resource="http://continuum.apache.org/" />
+</topic>
+<topic r:id="Top/Computers/Software/Build_Management/Makefile_Generators">
+<catid>380890</catid>
+<link r:resource="http://www.gnu.org/software/automake/" />
+<link r:resource="http://www.snake.net/software/imake-stuff/" />
+<link r:resource="http://www.kitebird.com/imake-book/" />
+<link r:resource="http://sourceforge.net/projects/makedep" />
+<link r:resource="http://www.ociweb.com/products/mpc" />
+<link r:resource="http://www.bakefile.org/" />
+</topic>
+<topic r:id="Top/Computers/Software/Build_Management/Make_Tools">
+<catid>380886</catid>
+<link r:resource="http://nant.sourceforge.net/" />
+<link r:resource="http://www.gnu.org/software/make/make.html" />
+<link r:resource="http://sourceforge.net/projects/jmk" />
+<link r:resource="http://www.bell-labs.com/project/nmake" />
+<link r:resource="http://www.opussoftware.com/" />
+<link r:resource="http://sourceforge.net/projects/pvmgmake" />
+<link r:resource="http://www.scons.org/" />
+<link r:resource="http://www.a-a-p.org/" />
+<link r:resource="http://www.electric-cloud.com/" />
+<link r:resource="http://boost.sourceforge.net/boost-build2/" />
+<link r:resource="http://kolpackov.net/projects/build/" />
+<link r:resource="http://home.gna.org/smk/" />
+<link r:resource="http://sham.sourceforge.net/" />
+<link r:resource="http://search.cpan.org/~nkh/" />
+<link r:resource="http://www.cs.bgu.ac.il/~orlovm/code/trmake/" />
+<link r:resource="http://miller.emu.id.au/pmiller/software/cook/" />
+<link r:resource="http://www.openmakesoftware.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Build_Management/Make_Tools/Ant">
+<catid>380887</catid>
+<link r:resource="http://cruisecontrol.sourceforge.net/" />
+<link r:resource="http://sourceforge.net/projects/ant-contrib/" />
+<link1 r:resource="http://ant.apache.org/"></link1>
+<link r:resource="http://www.ggtools.net/grand/" />
+<link r:resource="http://www.ant-tasks.com" />
+<link r:resource="http://antforms.sourceforge.net/" />
+<link r:resource="http://www.anthillpro.com/html/products/anthillos/default.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Build_Management/Resources">
+<catid>380889</catid>
+<link r:resource="http://www.bell-labs.com/project/nmake/faq/gmake.html" />
+<link r:resource="http://kolpackov.net/projects/build/benchmark.xhtml" />
+<link r:resource="http://distcc.samba.org/doc/lca2004/distcc-lca-2004.html" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.37.2173" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.25.6629" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.7058" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.60.5968" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.45.1398" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.22.7432" />
+</topic>

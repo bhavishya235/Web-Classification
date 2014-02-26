@@ -1,0 +1,26 @@
+<topic r:id="Top/Computers/Data_Formats/Archive">
+<catid>377065</catid>
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Archive/HDF">
+<catid>377066</catid>
+<link r:resource="http://www.hdfgroup.org/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Archive/RPM">
+<catid>377068</catid>
+<link1 r:resource="http://www.rpm.org/"></link1>
+<link r:resource="http://freshrpms.net/" />
+<link r:resource="http://rpm.pbone.net/" />
+<link r:resource="http://www.rpm.org/max-rpm/" />
+<link r:resource="http://www.rpmseek.com/" />
+<link r:resource="http://www.tldp.org/HOWTO/RPM-HOWTO/" />
+<link r:resource="http://www.rpmcenter.org/" />
+<link r:resource="http://tech.groups.yahoo.com/group/rpm-list/" />
+<link r:resource="http://www.ibm.com/developerworks/library/l-rpm2/" />
+<link r:resource="http://www.ibm.com/developerworks/library/l-rpm1/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Archive/tar">
+<catid>377067</catid>
+<link r:resource="http://www.mkssoftware.com/docs/man4/tar.4.asp" />
+<link r:resource="http://www.gnu.org/software/tar/" />
+<link r:resource="http://en.wikipedia.org/wiki/Tar_(file_format)" />
+</topic>

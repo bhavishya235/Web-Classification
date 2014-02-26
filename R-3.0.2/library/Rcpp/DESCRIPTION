@@ -1,0 +1,67 @@
+Package: Rcpp
+Title: Seamless R and C++ Integration
+Version: 0.10.6
+Date: $Date: 2013-10-27 17:19:22 -0500 (Sun, 27 Oct 2013) $
+Author: Dirk Eddelbuettel and Romain Francois, with contributions 
+ by Douglas Bates, John Chambers and JJ Allaire
+Maintainer: Dirk Eddelbuettel <edd@debian.org>
+Description: The Rcpp package provides R functions as well as a C++ library
+ which facilitate the integration of R and C++.
+ .
+    R data types (SEXP) are matched to C++ objects in a class hierarchy.  All R
+ types are supported (vectors, functions, environment, etc ...)  and each
+ type is mapped to a dedicated class. For example, numeric vectors are
+ represented as instances of the Rcpp::NumericVector class, environments are
+ represented as instances of Rcpp::Environment, functions are represented as
+ Rcpp::Function, etc ... The "Rcpp-introduction" vignette provides a good
+ entry point to Rcpp. 
+ .
+    Conversion from C++ to R and back is driven by the templates Rcpp::wrap 
+ and Rcpp::as which are highly flexible and extensible, as documented
+ in the "Rcpp-extending" vignette.
+ .
+    Rcpp also provides Rcpp modules, a framework that allows exposing 
+ C++ functions and classes to the R level. The "Rcpp-modules" vignette
+ details the current set of features of Rcpp-modules. 
+ .
+    Rcpp includes a concept called Rcpp sugar that brings many R functions
+ into C++. Sugar takes advantage of lazy evaluation and expression templates
+ to achieve great performance while exposing a syntax that is much nicer
+ to use than the equivalent low-level loop code. The "Rcpp-sugar" vignette
+ gives an overview of the feature.
+ .
+    Rcpp attributes provide a high-level syntax for declaring C++
+ functions as callable from R and automatically generating the code
+ required to invoke them.  Attributes are intended to facilitate both
+ interactive use of C++ within R sessions as well as to support R
+ package development. Attributes are built on top of Rcpp modules and
+ their implementation is based on previous work in the inline package.
+ .
+    Many examples are included, and around 872 unit tests in 422 unit
+ test functions provide additional usage examples.
+ .
+    An earlier version of Rcpp, containing what we now call the 'classic Rcpp
+ API' was written during 2005 and 2006 by Dominick Samperi.  This code has
+ been factored out of Rcpp into the package RcppClassic, and it is still
+ available for code relying on the older interface. New development should 
+ always use this Rcpp package instead.
+ .
+    Additional documentation is available via the paper by Eddelbuettel and
+ Francois (2011, JSS) paper and the book by Eddelbuettel (2013, Springer); 
+ see 'citation("Rcpp")' for details.
+Depends: R (>= 3.0.0)
+Imports: methods
+Suggests: RUnit, inline, rbenchmark, highlight
+VignetteBuilder: highlight
+URL: http://www.rcpp.org, http://dirk.eddelbuettel.com/code/rcpp.html,
+        http://blog.r-enthusiasts.com/tag/rcpp/
+License: GPL (>= 2)
+BugReports:
+        http://r-forge.r-project.org/tracker/?atid=637&group_id=155&func=browse
+MailingList: Please send questions and comments regarding Rcpp to
+        rcpp-devel@lists.r-forge.r-project.or
+Packaged: 2013-10-29 01:24:28.094525 UTC; edd
+NeedsCompilation: yes
+Repository: CRAN
+Date/Publication: 2013-10-29 15:11:49
+Built: R 3.0.2; i686-pc-linux-gnu; 2014-01-29 16:08:32 UTC; unix

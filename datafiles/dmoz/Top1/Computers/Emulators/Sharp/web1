@@ -1,0 +1,1157 @@
+====================<http://sourceforge.jp/projects/poems/>====================
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="Tue, 25 Feb 2014 23:34:52 GMT">
+<title>POEMS/Pokemun Project Top Page - SourceForge.JP</title>
+<meta name="description" content="Emulator or emulation system for SHARP's old pocket computers (シャープの古いポケコンのエミュレータ)">
+
+<!--[if lte IE 6]>
+<style type="text/css">body {behavior: url(/css/csshover.htc);}</style>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://static.sourceforge.jp/min/base-43d024e90ea96dff03e3b770bd0f343d.min.css">
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://static.sourceforge.jp/css/bootstrap-ie6.css?t=1331185220">
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://static.sourceforge.jp/css/FontAwesome/css/font-awesome-ie7.css?t=1371709527">
+<![endif]-->
+
+<link rev="MADE" href="mailto:webmaster@sourceforge.jp">
+<link rel="INDEX" href="http://sourceforge.jp/">
+<link rel="CONTENTS" href="http://sourceforge.jp/">
+<link rel="SHORTCUT ICON" href="http://static.sourceforge.jp/favicon.ico" type="image/x-icon">
+<link rel="alternate" hreflang="en" href="http://en.sourceforge.jp/projects/poems/" />
+<link rel="alternate" hreflang="zh" href="http://zh.sourceforge.jp/projects/poems/" />
+<link rel="alternate" hreflang="de" href="http://de.sourceforge.jp/projects/poems/" />
+<link rel="alternate" hreflang="fr" href="http://fr.sourceforge.jp/projects/poems/" />
+<link rel="alternate" hreflang="ko" href="http://ko.sourceforge.jp/projects/poems/" />
+<link rel="alternate" hreflang="es" href="http://es.sourceforge.jp/projects/poems/" />
+<link rel="alternate" hreflang="pt" href="http://pt.sourceforge.jp/projects/poems/" />
+<link rel="alternate" hreflang="x-default" href="http://sourceforge.jp/projects/poems/" />
+<link rel="stylesheet" type="text/css" href="http://static.sourceforge.jp/js/jquery.fancybox/jquery.fancybox.css">
+<link rel="stylesheet" type="text/css" href="http://static.sourceforge.jp/css/jquery-ui/smoothness/jquery-ui-1.7.2.custom.css?t=1260352297">
+<link rel="stylesheet" type="text/css" href="http://static.sourceforge.jp/css/wiki-compact.css?t=1365563911">
+<link rel="alternate" title="Recent project news" type="application/rss+xml" href="http://sourceforge.jp/projects/poems/news/rss">
+<link rel="alternate" title="Recent release" type="application/rss+xml" href="http://sourceforge.jp/projects/poems/releases/rss">
+<link rel="alternate" title="Project History" type="application/rss+xml" href="http://sourceforge.jp/projects/poems/history/rss">
+<meta property="og:type" content="website" />
+<meta property="og:title" content="POEMS/Pokemun Project Top Page - SourceForge.JP" />
+<meta property="fb:app_id" content="224902477537179" />
+<meta property="og:image" content="http://static.sourceforge.jp/default-photo.png" />
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:site" content="@sourceforgejp" />
+<meta property="twitter:domain" content="sourceforge.jp" />
+<meta property="og:description" content="Emulator or emulation system for SHARP's old pocket computers (シャープの古いポケコンのエミュレータ)" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://static.sourceforge.jp/min/base-302e64e8748392752bf651756e5097cb.min.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="http://static.sourceforge.jp/js/html5.js?t=1331178707"></script>
+<![endif]-->
+<!--[if lte IE 6]>
+<script type="text/javascript" src="http://static.sourceforge.jp/js/IE7.js?t=1331178707IE7_PNG_SUFFIX=".png";</script>
+<![endif]-->
+<script type="text/javascript" src="http://static.sourceforge.jp/js/jquery/flot/jquery.flot.js?t=1355285892"></script>
+<script type="text/javascript" src="http://static.sourceforge.jp/js/jquery/jquery.stats_graph.js?t=1355285892"></script>
+<script type="text/javascript" src="http://static.sourceforge.jp/js/jquery/jquery.easing.1.3.js?t=1260352297"></script>
+<script type="text/javascript" src="http://static.sourceforge.jp/js/jquery/jquery.slideviewer.1.1.js?t=1260352297"></script>
+<script type="text/javascript" src="http://static.sourceforge.jp/js/jquery.fancybox/jquery.fancybox-1.2.1.js?t=1250670339"></script>
+<script type="text/javascript" src="http://static.sourceforge.jp/js/jquery/jquery.scrollTo-min.js?t=1260352297"></script>
+<script type="text/javascript" src="http://static.sourceforge.jp/js/excanvas_r3.js?t=1265627412"></script>
+<script type="text/javascript" src="http://static.sourceforge.jp/js/image_gallery.js?t=1355285892"></script>
+<link rel="canonical" href="http://sourceforge.jp/projects/poems/">
+<!-- START: additional_headers -->
+<script type='text/javascript' src='//static.sourceforge.jp/js/ad_dfp_dev.js'></script>
+<style>
+#gpt-sf_dev_rec{margin-bottom:8px;}
+#docman_document{word-break:break-all;word-wrap:break-word;}
+#head-ad-text{max-width:666px;overflow:hidden;}
+</style><!-- END: additional_headers -->
+<script type="text/javascript">var sfjp_base_url = '//sourceforge.jp';var sfjp_static_base_url = '//static.sourceforge.jp/';var sfjp_i18n = {"apply":"Apply","cancel":"Cancel","update":"Update","delete":"Delete","yes":"Yes","no":"No","upload":"Upload","close":"Close","send":"Send","prev":"Prev","next":"Next","rank":" ","times":"times","points":"points","counts":" ","validate_sfjp_email":"Can not use SF.JP email address","validate_denied_email":"You can not use the email address by technicaly reasons.","validate_required":"This field is required.","validate_minlength":"Please enter at least {0} characters.","validate_maxlength":"Please enter at no more than {0} characters.","validate_email":"Please enter a valid email address.","validate_equalto":"Please enter the same value again.","validate_skill_name":"Skill name is duplicated","validate_dup_user":"The username is already used.","validate_dup_email":"The email address is already registered","validate_repos_name":"Number,Alphabet,- and _ . only start with Number or Alphabet","validate_sfjp_project_license_other":"Please describe more details of License","validate_sfjp_projectname_syntax":"Can use only Number,Alphabet and - only, start with Number or Alphabet","validate_sfjp_projectname_unique":"This project name is already registered","to_profile":"To Profile Edit","end_of_tutorial":"Next","no_file_selected":"No files are selected","upload_is_running":"File upload is still running.","file_select":"Select File"};</script><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(["_setAccount", "UA-739864-3"]);
+_gaq.push(["_trackPageview"]);
+(function() {
+	var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+	ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+	var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</head>
+<body>
+<div id="message-area">
+</div>
+<header id="main_header">
+  <div class="navbar navbar-inverse">
+    <div class="navbar-inner">
+      <div class="container-fluid">
+	<a class="brand" href="http://sourceforge.jp/"><img src="http://static.sourceforge.jp/sfjp_logo_h17.png" width="202" height="17" alt="SourceForge.JP -- Develop and Download Open Source Software"></a>
+
+	<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+	  <span class="icon-bar"></span>
+	  <span class="icon-bar"></span>
+	  <span class="icon-bar"></span>
+	</a>
+	<div class="nav-collapse">
+	  <ul class="nav">
+	    <li class="active">
+	      <a class="sfjp-nav-icon sfjp-nav-icon-download" href="/softwaremap/">Download</a>
+	    </li>
+	    <li >
+	      <a class="sfjp-nav-icon sfjp-nav-icon-magazine" href="http://sourceforge.jp/magazine/">Magazine</a>
+	    </li>
+	    <li >
+	      <a class="sfjp-nav-icon sfjp-nav-icon-devel" id="main_menu_develop_link" href="/develop/">Develop</a>
+	    </li>
+	    <li >
+	      <a class="sfjp-nav-icon sfjp-nav-icon-pastebin" id="main_menu_pastebin_link" href="/pastebin/">Pastebin</a>
+	    </li>
+	  </ul>
+	  <ul class="nav pull-right">
+  <li class="dropdown">
+    <a id="account-dropdown" class="dropdown-toggle" data-toggle="dropdown" href="#">Account<b class="caret"></b></a>
+    <ul class="dropdown-menu" role="menu">
+      <li role="presentation" id="sfjp-login-item" data-return_to="/projects/poems/">
+	<div role="menuitem" class="social-login-menu-wrap social-login-menu-gplus-wrap">
+	  <a class="btn social-login sfjp-login" data-toggle="modal" href="#loginbox"><i class="icon-circle"></i> <span>Login</span></a>
+
+	</div>
+      </li>
+      <li role="presentation">
+	<a role="menuitem" data-toggle="modal" data-remote="/ajax/account/forgetpw_inner.php" data-target="#forgetpwbox" href="#forgetpwbox">Forget Account/Password</a>
+      </li>
+      <li role="presentation">
+	<a role="menuitem" href="/account/register.php">Create Account</a>
+      </li>
+            <li role="presentation" class="divider"></li>
+      <li role="presentation" class="dropdown-submenu">
+	<a role="menuitem" tabindex="-1" href="#">Language</a>
+	<ul class="dropdown-menu" role="menu">
+	  <li role="presentation">
+	    <a role="menuitem" href="http://sourceforge.jp/projects/poems/" rel="tips" title="Auto select display language depend on browser setting" alt="auto" data-placement="bottom">
+	      <span class="spclass-float-left-nontext spimg-auto"></span>
+	      Automatic	    </a>
+	  </li>
+	  	  	  <li role="presentation">
+	    <a role="menuitem" href="http://en.sourceforge.jp/projects/poems/">
+	      <span class="spclass-float-left-nontext spimg-en"></span>
+	      English	    </a>
+	  </li>
+	  	  	  	  <li role="presentation">
+	    <a role="menuitem" href="http://zh.sourceforge.jp/projects/poems/">
+	      <span class="spclass-float-left-nontext spimg-zh"></span>
+	      中文	    </a>
+	  </li>
+	  	  	  <li role="presentation">
+	    <a role="menuitem" href="http://de.sourceforge.jp/projects/poems/">
+	      <span class="spclass-float-left-nontext spimg-de"></span>
+	      Deutsch	    </a>
+	  </li>
+	  	  	  <li role="presentation">
+	    <a role="menuitem" href="http://fr.sourceforge.jp/projects/poems/">
+	      <span class="spclass-float-left-nontext spimg-fr"></span>
+	      Français	    </a>
+	  </li>
+	  	  	  <li role="presentation">
+	    <a role="menuitem" href="http://ko.sourceforge.jp/projects/poems/">
+	      <span class="spclass-float-left-nontext spimg-ko"></span>
+	      한국말	    </a>
+	  </li>
+	  	  	  <li role="presentation">
+	    <a role="menuitem" href="http://es.sourceforge.jp/projects/poems/">
+	      <span class="spclass-float-left-nontext spimg-es"></span>
+	      Español	    </a>
+	  </li>
+	  	  	  <li role="presentation">
+	    <a role="menuitem" href="http://pt.sourceforge.jp/projects/poems/">
+	      <span class="spclass-float-left-nontext spimg-pt"></span>
+	      Português	    </a>
+	  </li>
+	  	</ul>
+      </li>
+          </ul>
+  </li>
+  <li>
+    <a href="/docs/FrontPage">Help</a>
+  </li>
+</ul><!-- .nav.pull-right -->
+
+<div id="loginbox" class="modal hide fade focus-on-shown">
+  <div class="modal-header">
+    <a class="close" data-dismiss="modal">×</a>
+    <h3>Login</h3>
+  </div><!-- .modal-header -->
+    <form id="loginform" method="post" action="https://sourceforge.jp/account/login.php" class="form-horizontal need-validate">
+      <div class="modal-body">
+	<input type="hidden" name="return_to" value="/projects/poems/" />
+	<input type="hidden" name="action" value="loginsubmit" />
+	<div class="control-group">
+	  <label class="control-label" for="loginform-login">Login Name</label>
+	  <div class="controls">
+	    <input id="loginform-login" type="text" name="form_loginname" class="required first-focus-on-shwon" />
+	  </div>
+	  <label class="control-label" for="loginform-password">Password</label>
+	  <div class="controls">
+	    <input id="loginform-password" type="password" name="form_pw" class="required" />
+	  </div>
+	</div>
+      </div><!-- .modal-body -->
+      <div class="modal-footer">
+	<button type="submit" class="btn btn-primary">Login</button>
+	<button type="button" class="btn" data-dismiss="modal">Cancel</button>
+      </div><!-- .modal-footer -->
+    </form>
+</div>
+
+<div id="forgetpwbox" class="modal hide fade focus-on-shown">
+  <div class="modal-header">
+    <a class="close" data-dismiss="modal">×</a>
+    <h3>Forget Account/Password</h3>
+  </div><!-- .modal-header -->
+  <form id="forgetpwform" method="post" action="/ajax/account/forgotpw.php" class="form-horizontal need-validate" data-ajax="1">
+    <div class="modal-body" data-remote="/ajax/account/forgetpw_inner.php"></div><!-- .modal-body -->
+    <div class="modal-footer">
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button type="button" class="btn" data-dismiss="modal">Cancel</button>
+    </div><!-- .modal-footer -->
+  </form>
+</div>
+
+<div id="login-openid-modal" class="modal hide fade focus-on-shown">
+  <div class="modal-header">
+    <a class="close" data-dismiss="modal">×</a>
+    Log in with OpenID  </div>
+  <form id="login-openid-form" method="post" action="/account/openid_login.php" class="form-horizontal openid-form">
+    <input type="hidden" name="return_to" value="/projects/poems/" />
+    <div class="modal-body" data-remote="/ajax/account/openid_login_inner.php"></div>
+    <div class="modal-footer">
+      <button type="button" class="btn" data-dismiss="modal">Close</button>
+    </div>
+  </form>
+</div>
+	</div><!-- .nav-collapse -->
+      </div><!-- .container-fluid -->
+      </div><!-- .navbar-inner -->
+    </div><!-- .navbar.navbar-fixed-top -->
+
+<div class="container-fluid">
+  <div id="ad-leaderboard">
+    <div id='gpt-sf_dev_728'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('gpt-sf_dev_728'); });
+</script>
+</div>
+
+
+  </div><!-- id="ad-leaderboard" -->
+</div>
+
+<!-- START: site_announce -->
+<!-- *DO NOT REMOVE THIS COMMENT LINE* --><!-- END: site_annouce -->
+</header><!-- #mian_header -->
+<table id="frame">
+<tbody>
+<tr>
+<td id="left-column">
+  <div id="top-nav-wrap">
+<div id="top-nav" class="topnav">
+    <div id="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                <a href="/" itemprop="url"><span itemprop="title">SourceForge.JP</span></a>
+         &gt;                 <a href="/softwaremap/" itemprop="url"><span itemprop="title">Find Software</span></a>
+         &gt;                 <a href="/softwaremap/trove_list.php?form_cat=136" itemprop="url"><span itemprop="title">System</span></a>
+         &gt;                 <a href="/softwaremap/trove_list.php?form_cat=74" itemprop="url"><span itemprop="title">Emulators</span></a>
+         &gt;                 <a href="/projects/poems/" itemprop="url"><span itemprop="title">POEMS/Pokemun</span></a>
+         &gt;         <b>        Summary        </b>      </div>
+    <h1>POEMS/Pokemun</h1>
+
+    <ul class="nav nav-tabs">
+    <li class="active dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Description<b class="caret"></b></a>
+  <ul class="dropdown-menu" role="menu">
+    <li role="presentation"><a role="menuitem" href="/projects/poems/simple/">Project Summary</a></li>
+<li role="presentation"><a role="menuitem" href="/projects/poems/devel/">Developer Dashboard</a></li>
+<li role="presentation"><a role="menuitem" href="http://poems.sourceforge.jp">Web Page</a></li>
+<li role="presentation"><a role="menuitem" href="/projects/poems/reviews/">Project Reviews</a></li>
+<li role="presentation"><a role="menuitem" href="/projects/poems/stats/">Statistics</a></li>
+<li role="presentation"><a role="menuitem" href="/projects/poems/history/">History</a></li>
+<li role="presentation"><a role="menuitem" href="/projects/poems/memberlist/">Developers</a></li>
+<li role="presentation"><a role="menuitem" href="/projects/poems/images/">Project Images</a></li>
+<li role="presentation"><a role="menuitem" href="/projects/poems/feeds/">Feed list</a></li>
+<li role="presentation"><a role="menuitem" href="/projects/poems/keywords/">Search Keywords</a></li>
+  </ul>
+</li>
+
+<li role="presentation" class="dropdown">
+  <a role="menuitem" href="/projects/poems/releases/">Downloads</a>
+</li>
+<li role="presentation" class="dropdown">
+  <a role="menuitem" href="#" class="dropdown-toggle" data-toggle="dropdown">Source Code<b class="caret"></b></a>
+  <ul class="dropdown-menu" role="menu">
+    <li role="presentation"><a role="menuitem" href="/projects/poems/scm/">Code Repository list</a></li>
+                            <li class="divider"></li>
+    <li role="menuitem" class="nav-header">CVS</li>
+    <li role="presentation"><a role="menuitem" href="/cvs/view/poems/">View Repository</a></li>
+      </ul>
+</li>
+
+<li role="presentation" class="dropdown">
+  <a role="menuitem" href="#" class="dropdown-toggle" data-toggle="dropdown">Ticket<b class="caret"></b></a>
+  <ul class="dropdown-menu" role="menu">
+    <li role="presentation"><a role="menuitem" href="/projects/poems/ticket/">Ticket List</a></li>
+    <li role="presentation"><a role="menuitem" href="/ticket/milestonelist.php?group_id=155">Milestones List</a></li>
+    <li role="presentation"><a role="menuitem" href="/ticket/types.php?group_id=155">Types List</a></li>
+    <li role="presentation"><a role="menuitem" href="/ticket/components.php?group_id=155">Components List</a></li>
+    <li role="presentation"><a role="menuitem" href="/ticket/link_list.php?group_id=155">Frequently use Ticket Lists/RSS</a></li>
+    <li role="presentation"><a role="menuitem" href="/ticket/newticket.php?group_id=155">Submit New Ticket</a></li>
+          </ul>
+</li>
+
+<li role="presentation" class="dropdown">
+  <a role="menuitem" href="/projects/poems/docman/">Documents</a>
+</li>
+
+<li role="presentation" class="dropdown">
+  <a role="menuitem" href="#" class="dropdown-toggle" data-toggle="dropdown">Communication<b class="caret"></b></a>
+  <ul class="dropdown-menu" role="menu">
+            <li role="menuitem" class="nav-header">Forum</li>
+        <li role="presentation"><a role="menuitem" href="/projects/poems/forums/">List Forums</a></li>
+<li role="presentation"><a role="menuitem" href="/projects/poems/forums/574/">Help (1)</a></li>
+<li role="presentation"><a role="menuitem" href="/projects/poems/forums/573/">Open Discussion (1)</a></li>
+                    <li class="divider"></li>
+    <li role="menuitem" class="nav-header">Mailing Lists</li>
+        <li role="presentation"><a role="menuitem" href="/projects/poems/lists/">list of ML</a></li>
+          </ul>
+</li>
+
+<li role="presentation" class=""><a role="menuitem" href="/projects/poems/news/">News</a></li>
+
+  </ul>
+  
+</div><!-- #top-nav .topnav -->
+</div><!-- #top-nav-wrap -->
+
+<div id="head-ad-text-wrap">
+  <div id="head-ad-text">
+    <div id='gpt-sf_dev_text'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('gpt-sf_dev_text'); });
+</script>
+</div>
+  </div><!-- #head-ad-text -->
+</div>
+<div itemscope itemtype="http://schema.org/SoftwareApplication">
+<h3 class="headline1">Project Description<a class="btn btn-mini pull-right" role="button" href="/projects/poems/devel/"><i class="icon-dashboard"></i> Development Info</a>
+<a class="btn btn-mini pull-right" role="button" href="http://poems.sourceforge.jp">Web Page</a>
+<a class="btn btn-mini btn-info rating-btn pull-right" data-toggle="modal" href="#review-dialog">Review this project</a>
+<div class="right-clear"></div>
+</h3>
+<div id="ptop-project-desc-wrap" class="more-toggle-wrap" data-inner="#ptop-project-desc">
+  <div class="ptop-tools-list-wrap pull-right">
+  <ul class="nav nav-tabs nav-stacked">
+        <li>
+      <a class="ptop-tool-ticket" href="/ticket/newticket.php?group_id=155"><i class="icon-tasks"></i> Report Bugs</a>
+    </li>
+        <li>
+      <a class="ptop-tool-forum" href="/projects/poems/forums/"><i class="icon-comments-alt"></i> Comment on Forums</a>
+    </li>
+        <li>
+      <a class="ptop-tool-rss" href="/projects/poems/feeds/"><i class="icon-rss"></i> Get RSS</a>
+    </li>
+        <li>
+      <a class="ptop-tool-install" href="/projects/poems/howto/install"> Write Howto Install</a>
+    </li>
+        <li>
+      <a class="ptop-tool-usage" href="/projects/poems/howto/usage"> Write Howto Use</a>
+    </li>
+      </ul>
+</div>
+  <div id="ptop-project-desc" class="well no-top-round no-background no-border ptop-item-wrap">
+    <div>
+      <div class="pull-left ptop-logo-wrap">
+	<a href="/projects/poems/images/">
+	  <img src="http://static.sourceforge.jp/default-photo.png" class="project-image-type-photo default-photo" border="0" alt="" width="150" height="150">	</a>
+      </div>
+      <p>Emulator or emulation system for SHARP's old pocket computers (シャープの古いポケコンのエミュレータ)</p>            <div class="both-clear"></div>
+    </div>
+          </div>
+</div>
+<div id="ptop-download-wrap" class="well no-background no-border no-padding-top">
+    <div class="ptop-download-item">
+    <h4 class="headline3">Download</h4>
+            <ul class="unstyled no-dot file-list">
+      <li>
+	Latest Files	<ul>
+	  	  <li>
+	    <a href="/projects/poems/downloads/898/poems-0.9.0-src.tar.gz/">poems-0.9.0-src.tar.gz</a> (Date: 2002-08-19, Size: 45.3 KB)
+	  </li>
+	  	  <li>
+	    <a href="/projects/poems/downloads/483/poems-0.1.0-src.tar.bz2/">poems-0.1.0-src.tar.bz2</a> (Date: 2002-06-08, Size: 56.6 KB)
+	  </li>
+	  	</ul>
+      </li>
+    </ul>
+      </div>
+    <div class="ptop-btn-large-wrap">
+    <a id="download-btn" class="btn btn-large btn-success" href="/projects/poems/releases/"><i class="icon-download"></i> <span>Download File List</span></a>
+  </div>
+</div>
+<span itemprop="downloadUrl" content="http://sourceforge.jp/projects/poems/releases/"></span>
+<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+  <meta itemprop="price" content="Free" />
+  <link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+<div id="ptop-gallery-wrap" class="well no-background no-border">
+    <div class="horizonal-image-gallery-placeholder">
+    No Image posted.    <a href="#image-upload-dialog" role="button" data-toggle="modal" class="btn pull-right"><i class="icon-plus-sign"></i> Post new screenshot</a>
+<div class="right-clear"></div>
+<div id="image-upload-dialog" class="hide modal fade">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal">×</button>
+    <h3>Post new screenshot</h3>
+  </div>
+  <form class="form-horizontal need-validate reset-on-success" method="post"​ action="/ajax/projects/image_upload.php" enctype="multipart/​form-data" data-ajax="1">
+  <div class="modal-body">
+    Submit screenshots to help people on getting use cases and features of the project software!        <p class="alert">
+      You are NOT logged-in! Images you post will be pending for approval.      <a class="btn btn-mini pull-right" data-dismiss="modal" data-toggle="modal" href="#loginbox">Login</a>
+    </p>
+        <div class="control-group">
+      <label class="control-label" for="image-title">Title</label>
+      <div class="controls">
+	<input type="text" id="image-title" name="title" />
+      </div>
+    </div>
+    <div class="control-group">
+      <label class="control-label" for="image-file">File</label>
+      <div class="controls">
+	<input type="file" name="newimage" class="required" />
+      </div>
+    </div>
+  </div>
+  <input type="hidden" name="group_id" value="155" />
+  <div class="modal-footer">
+    <button type="submit" class="btn btn-primary" name="submit" value="upload">Upload</button>
+    <button type="button" class="btn" data-dismiss="modal">Cancel</button>
+    </div>
+  </form>
+</div>
+  </div>
+  </div>
+<h3 class="headline1">
+Review<div class="pull-right">
+  <div class="star-rating-avg-label">Your rating</div>
+<div id="your_star_rating_ro" class="rating-stars stars-read-only" data-score="0"></div>
+<a class="btn btn-mini btn-info rating-btn" data-toggle="modal" href="#review-dialog">Review this project</a>
+</div>
+<div class="both-clear"></div>
+</h3>
+<div id="review-dialog" class="hide modal fade">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal">×</button>
+    <h3>Your rating for POEMS/Pokemun</h3>
+  </div>
+  <form id="f" method="post" class="form-horizontal need-validate" data-ajax-target="review/update.php" data-ajax="1" data-hook-id="project-review-update">
+    <div class="modal-body">
+      <div class="star-box-wrap">
+	<span class="star-box-label">Your rationg?</span>
+	<div id="star_box" class="rating-stars" data-star-size="24" data-score="3" data-stars-width="150"></div>
+      </div>
+            <div class="alert no-margin-bottom">
+	Your not logged in. You should input nick name for this post. Nickname is not unique, anyone can use same nickname.	<a href="https://sourceforge.jp/account/login.php?return_to=%2Fprojects%2Fpoems%2F">Login</a>
+      </div>
+      <div class="review-anonname-input">
+	<label for="anon_name">Nickname <input type="text" class="input-xlarge required" id="anon_name" name="anon_name" value="" placeholder="(Required, max 16chars)" /></label>
+      </div>
+            <div class="review-textarea-wrap review-textarea-wrap-margin-bottom">
+	<label for="rating-comment">
+          <div id="comment-count"></div>
+          <span class="label">General comment (Required)</span>
+	</label>
+	<textarea cols="50" rows="5" minlength="30" maxlength=2000 required id="rating-comment" name="comment"></textarea>
+      </div>
+      <div class="review-textarea-wrap review-textarea-wrap-margin-bottom">
+	<label for="rating-pros">
+          <div id="pros-count"></div>
+          <span class="label">Pros</span>
+	</label>
+	<textarea cols="50" rows="5" maxlength=2000 id="rating-pros" name="pros"></textarea>
+      </div>
+      <div class="review-textarea-wrap">
+	<label for="rating-cons">
+          <div id="cons-count"></div>
+          <span class="label">Cons</span>
+	</label>
+	<textarea cols="50" rows="5" maxlength=2000 id="rating-cons" name="cons"></textarea>
+      </div>
+      <input type="hidden" name="group_id" value="155" />
+            <input type="hidden" name="review_id" value="" />
+          </div>
+    <div class="modal-footer">
+      <button type="submit" class="btn btn-primary" name="submit" value="update">Submit</button>
+      <button type="submit" class="btn" name="submit" value="delete">Delete</button>
+      <button type="button" class="btn" data-dismiss="modal">Cancel</button>
+    </div>
+  </form>
+</div>
+<div id="ptop-graph-wrap">
+  <div id="ptop-mini-graph">
+    <div id="dashboard_graph" class="narrow thin"></div>
+<a id="btn-stats" class="btn btn-mini pull-right" href="/projects/poems/stats/"><i class="icon-signal"></i> Statistics</a>
+<div class="btn-group pull-left" id="graph_buttons">
+  <button class="btn btn-mini" id="page_view_b">PV</button>
+    <button class="btn btn-mini" id="download_b">Download</button>
+      <button class="btn btn-mini" id="ticket_b">Ticket</button>
+      <button class="btn btn-mini" id="vcs_b">SCM</button>
+    <button class="btn btn-mini" id="reviews_percentile_b">Review</button>
+</div>
+<script>
+jQuery(document).ready(function($) {
+$("#dashboard_graph").stats_graph("page_view", {"page_view":{"name":"page_view","color_offset":0,"title":"of PageViews","data":[{"label":"PageViews","data":[[1393286400000,19],[1393200000000,41],[1393113600000,56],[1393027200000,39],[1392940800000,29],[1392854400000,37],[1392768000000,32],[1392681600000,18],[1392595200000,22],[1392508800000,51],[1392422400000,39],[1392336000000,20],[1392249600000,165],[1392163200000,45],[1392076800000,170],[1391990400000,41],[1391904000000,51],[1391817600000,171],[1391731200000,23],[1391644800000,22],[1391558400000,25],[1391472000000,26],[1391385600000,20],[1391299200000,40],[1391212800000,21],[1391126400000,155],[1391040000000,15],[1390953600000,22],[1390867200000,13],[1390780800000,10]]}]},"download":{"name":"download","color_offset":4,"title":"of Downloads","data":[{"label":"Downloads","data":[[1393286400000,0],[1393200000000,0],[1393113600000,1],[1393027200000,0],[1392940800000,0],[1392854400000,2],[1392768000000,1],[1392681600000,0],[1392595200000,0],[1392508800000,2],[1392422400000,0],[1392336000000,0],[1392249600000,0],[1392163200000,0],[1392076800000,0],[1391990400000,1],[1391904000000,0],[1391817600000,1],[1391731200000,0],[1391644800000,0],[1391558400000,0],[1391472000000,0],[1391385600000,0],[1391299200000,0],[1391212800000,0],[1391126400000,0],[1391040000000,0],[1390953600000,0],[1390867200000,0],[1390780800000,0]]}]},"reviews_count":{"name":"reviews_count","color_offset":5,"title":"of Stars","data":[{"label":"Total","data":[[1393286400000,1],[1393200000000,1],[1393113600000,1],[1393027200000,1],[1392940800000,1],[1392854400000,1],[1392768000000,1],[1392681600000,1],[1392595200000,1],[1392508800000,1],[1392422400000,1],[1392336000000,1],[1392249600000,1],[1392163200000,1],[1392076800000,1],[1391990400000,1],[1391904000000,1],[1391817600000,1],[1391731200000,1],[1391644800000,1],[1391558400000,1],[1391472000000,1],[1391385600000,1],[1391299200000,1],[1391212800000,1],[1391126400000,1],[1391040000000,1],[1390953600000,1],[1390867200000,1],[1390780800000,1]]},{"label":"5 Stars","data":[[1393286400000,1],[1393200000000,1],[1393113600000,1],[1393027200000,1],[1392940800000,1],[1392854400000,1],[1392768000000,1],[1392681600000,1],[1392595200000,1],[1392508800000,1],[1392422400000,1],[1392336000000,1],[1392249600000,1],[1392163200000,1],[1392076800000,1],[1391990400000,1],[1391904000000,1],[1391817600000,1],[1391731200000,1],[1391644800000,1],[1391558400000,1],[1391472000000,1],[1391385600000,1],[1391299200000,1],[1391212800000,1],[1391126400000,1],[1391040000000,1],[1390953600000,1],[1390867200000,1],[1390780800000,1]]},{"label":"4 Stars","data":[[1393286400000,0],[1393200000000,0],[1393113600000,0],[1393027200000,0],[1392940800000,0],[1392854400000,0],[1392768000000,0],[1392681600000,0],[1392595200000,0],[1392508800000,0],[1392422400000,0],[1392336000000,0],[1392249600000,0],[1392163200000,0],[1392076800000,0],[1391990400000,0],[1391904000000,0],[1391817600000,0],[1391731200000,0],[1391644800000,0],[1391558400000,0],[1391472000000,0],[1391385600000,0],[1391299200000,0],[1391212800000,0],[1391126400000,0],[1391040000000,0],[1390953600000,0],[1390867200000,0],[1390780800000,0]]},{"label":"3 Stars","data":[[1393286400000,0],[1393200000000,0],[1393113600000,0],[1393027200000,0],[1392940800000,0],[1392854400000,0],[1392768000000,0],[1392681600000,0],[1392595200000,0],[1392508800000,0],[1392422400000,0],[1392336000000,0],[1392249600000,0],[1392163200000,0],[1392076800000,0],[1391990400000,0],[1391904000000,0],[1391817600000,0],[1391731200000,0],[1391644800000,0],[1391558400000,0],[1391472000000,0],[1391385600000,0],[1391299200000,0],[1391212800000,0],[1391126400000,0],[1391040000000,0],[1390953600000,0],[1390867200000,0],[1390780800000,0]]},{"label":"2 Stars","data":[[1393286400000,0],[1393200000000,0],[1393113600000,0],[1393027200000,0],[1392940800000,0],[1392854400000,0],[1392768000000,0],[1392681600000,0],[1392595200000,0],[1392508800000,0],[1392422400000,0],[1392336000000,0],[1392249600000,0],[1392163200000,0],[1392076800000,0],[1391990400000,0],[1391904000000,0],[1391817600000,0],[1391731200000,0],[1391644800000,0],[1391558400000,0],[1391472000000,0],[1391385600000,0],[1391299200000,0],[1391212800000,0],[1391126400000,0],[1391040000000,0],[1390953600000,0],[1390867200000,0],[1390780800000,0]]},{"label":"1 Star","data":[[1393286400000,0],[1393200000000,0],[1393113600000,0],[1393027200000,0],[1392940800000,0],[1392854400000,0],[1392768000000,0],[1392681600000,0],[1392595200000,0],[1392508800000,0],[1392422400000,0],[1392336000000,0],[1392249600000,0],[1392163200000,0],[1392076800000,0],[1391990400000,0],[1391904000000,0],[1391817600000,0],[1391731200000,0],[1391644800000,0],[1391558400000,0],[1391472000000,0],[1391385600000,0],[1391299200000,0],[1391212800000,0],[1391126400000,0],[1391040000000,0],[1390953600000,0],[1390867200000,0],[1390780800000,0]]}]},"reviews_percentile":{"name":"reviews_percentile","color_offset":6,"title":"of Review Average","data":[{"label":"Review Average","data":[[1393286400000,5],[1393200000000,5],[1393113600000,5],[1393027200000,5],[1392940800000,5],[1392854400000,5],[1392768000000,5],[1392681600000,5],[1392595200000,5],[1392508800000,5],[1392422400000,5],[1392336000000,5],[1392249600000,5],[1392163200000,5],[1392076800000,5],[1391990400000,5],[1391904000000,5],[1391817600000,5],[1391731200000,5],[1391644800000,5],[1391558400000,5],[1391472000000,5],[1391385600000,5],[1391299200000,5],[1391212800000,5],[1391126400000,5],[1391040000000,5],[1390953600000,5],[1390867200000,5],[1390780800000,5]]}]},"ticket":{"name":"ticket","color_offset":3,"title":"of Ticket","data":[{"label":"Ticket Opened","data":[[1393286400000,0],[1393200000000,0],[1393113600000,0],[1393027200000,0],[1392940800000,0],[1392854400000,0],[1392768000000,0],[1392681600000,0],[1392595200000,0],[1392508800000,0],[1392422400000,0],[1392336000000,0],[1392249600000,0],[1392163200000,0],[1392076800000,0],[1391990400000,0],[1391904000000,0],[1391817600000,0],[1391731200000,0],[1391644800000,0],[1391558400000,0],[1391472000000,0],[1391385600000,0],[1391299200000,0],[1391212800000,0],[1391126400000,0],[1391040000000,0],[1390953600000,0],[1390867200000,0],[1390780800000,0]]},{"label":"Ticket Closed","data":[[1393286400000,0],[1393200000000,0],[1393113600000,0],[1393027200000,0],[1392940800000,0],[1392854400000,0],[1392768000000,0],[1392681600000,0],[1392595200000,0],[1392508800000,0],[1392422400000,0],[1392336000000,0],[1392249600000,0],[1392163200000,0],[1392076800000,0],[1391990400000,0],[1391904000000,0],[1391817600000,0],[1391731200000,0],[1391644800000,0],[1391558400000,0],[1391472000000,0],[1391385600000,0],[1391299200000,0],[1391212800000,0],[1391126400000,0],[1391040000000,0],[1390953600000,0],[1390867200000,0],[1390780800000,0]]}]},"vcs":{"name":"vcs","color_offset":1,"title":"of CVS","data":[{"label":"SCM","data":[[1393286400000,0],[1393200000000,0],[1393113600000,0],[1393027200000,0],[1392940800000,0],[1392854400000,0],[1392768000000,0],[1392681600000,0],[1392595200000,0],[1392508800000,0],[1392422400000,0],[1392336000000,0],[1392249600000,0],[1392163200000,0],[1392076800000,0],[1391990400000,0],[1391904000000,0],[1391817600000,0],[1391731200000,0],[1391644800000,0],[1391558400000,0],[1391472000000,0],[1391385600000,0],[1391299200000,0],[1391212800000,0],[1391126400000,0],[1391040000000,0],[1390953600000,0],[1390867200000,0],[1390780800000,0]]}]}},{ xaxis: {mode: "time", timeformat: "%y-%m-%d", minTickSize: [1,"day"]} });});
+</script>
+    <div class="left-clear"></div>
+  </div>
+  <div class=" ptop-item-wrap">
+    <div class="project-review-summary-wrap">
+      <div class="well no-top-round no-background no-border review-overview-wrap">
+  <div class="review-overview">
+  <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+    <span itemprop="ratingValue" content="5.0"></span>
+    <span itemprop="bestRating" content="5"></span>
+    <span itemprop="worstRating" content="1"></span>
+    <span itemprop="ratingCount" content="1"></span>
+    <span itemprop="reviewCount" content="1"></span>
+  </div>
+  <a class="start-rating-summary-link" href="/projects/poems/reviews/">
+  <div class="star-rating-summary pull-left">
+    <span class="star-rating-avg-label">Average</span>
+    <div class="star-rating-average">5.0</div>
+    <div class="rating-stars stars-read-only" data-score="5.0"></div>
+    <div>
+      1 Reviews    </div>
+  </div>
+</a>
+  <table class="star-rating-chart pull-left">
+  <tbody>
+        <tr>
+      <th scope="row" class="nowrap"><a href="/projects/poems/reviews/?score[]=5">5 Stars</a></th>
+      <td class="star-rating-bar star-rating-bar-5">
+		<div style="width: 130px" class="star-rating-bar-in pull-left"></div>
+	<div class="star-rating-count pull-left">1</div>
+      </td>
+    </tr>
+        <tr>
+      <th scope="row" class="nowrap"><a href="/projects/poems/reviews/?score[]=4">4 Stars</a></th>
+      <td class="star-rating-bar star-rating-bar-4">
+		<div style="width: 0px" class="star-rating-bar-in pull-left"></div>
+	<div class="star-rating-count pull-left">0</div>
+      </td>
+    </tr>
+        <tr>
+      <th scope="row" class="nowrap"><a href="/projects/poems/reviews/?score[]=3">3 Stars</a></th>
+      <td class="star-rating-bar star-rating-bar-3">
+		<div style="width: 0px" class="star-rating-bar-in pull-left"></div>
+	<div class="star-rating-count pull-left">0</div>
+      </td>
+    </tr>
+        <tr>
+      <th scope="row" class="nowrap"><a href="/projects/poems/reviews/?score[]=2">2 Stars</a></th>
+      <td class="star-rating-bar star-rating-bar-2">
+		<div style="width: 0px" class="star-rating-bar-in pull-left"></div>
+	<div class="star-rating-count pull-left">0</div>
+      </td>
+    </tr>
+        <tr>
+      <th scope="row" class="nowrap"><a href="/projects/poems/reviews/?score[]=1">1 Star</a></th>
+      <td class="star-rating-bar star-rating-bar-1">
+		<div style="width: 0px" class="star-rating-bar-in pull-left"></div>
+	<div class="star-rating-count pull-left">0</div>
+      </td>
+    </tr>
+      </tbody>
+</table>
+</div>
+  <div class="left-clear"></div>
+</div>
+<div class="well no-top-round no-background no-border review-item-list-wrap">
+<div class="review-item" id="review-item-708">
+  <h4 class="headline3 review-item-title">
+    <div class="pull-right review-item-date">
+      2009-12-04 00:17    </div>
+        Review by <span class="reviewer"><i class="icon-male"></i> Anonymous</span>      </h4>
+  <div class="review-item-body">
+    <div class="star-rating-avg-label">Rating:</div>
+    <div class="rating-stars stars-read-only" data-score="5"></div>
+    <div class="review-item-op pull-right">
+      <div class="pull-right">
+	<form id="update-review-rating-form-708" class="form-inline thin" method="post" data-ajax-target="review/update_rating.php" data-ajax="1" data-hook-id="update-review-rating">
+	  <label>Was this review helpful for you?</label>
+	  <input type="hidden" name="review_id" value="708" />
+	  <button class="review-rating-yes btn btn-mini" type="submit" name="rating" value="1"> <i class="icon-thumbs-up"></i> Yes</button>
+	  <button class="review-rating-no btn btn-mini" type="submit" name="rating" value="0"> <i class="icon-thumbs-down"></i> No</button>
+	</form>
+	      </div>
+      <div class="right-clear"></div>
+      <div class="review-item-rating"> (0 of 0 people found this review helpful)</div>
+    </div>
+    <div class="both-clear"></div>
+    <div class="review-item-text-wrap">
+      <div class="review-item-comment">
+	i have a sharp pc e500.
+very good machine.      </div>
+                                  </div>
+  </div>
+  <div class="both-clear"></div>
+  <span content="2009-12-04"></span>
+</div>
+<div class="both-clear"></div>
+</div>
+    </div>
+    <a class="btn pull-right review-list-link" href="/projects/poems/reviews/">Review List</a>
+    <div class="both-clear"></div>
+  </div>
+</div>
+
+<h3 class="headline1">Recent Activities</h3>
+<div class="ptop-item-wrap ptop-history-wrap">
+<div class="headline-delimiter">2009-04-14</div><div class="timeline-item well event-cvs">
+  <div class="timeline-misc">
+    <div class="timeline-time">
+      20:23    </div>
+    <div class="timeline-name">
+      POEMS/Pokemun    </div>
+    <div class="timeline-user">
+      <a href="/users/tach/" class="user-link"><img width="12" height="12" src="http://static.sourceforge.jp/thumb/u/0/59/12x12_0.png" border="0" class="user-image user-image-type-icon" alt="">tach</a>    </div>
+  </div><!-- end of div.timeline-misc -->
+  <div class="timeline-detail">
+    [CVS] New commit  </div>
+</div>
+<div class="headline-delimiter">2007-01-14</div><div class="timeline-item well event-cvs">
+  <div class="timeline-misc">
+    <div class="timeline-time">
+      15:27    </div>
+    <div class="timeline-name">
+      POEMS/Pokemun    </div>
+    <div class="timeline-user">
+      <a href="/users/yagshi/" class="user-link">yagshi</a>    </div>
+  </div><!-- end of div.timeline-misc -->
+  <div class="timeline-detail">
+    [CVS] New commit  </div>
+</div>
+<div class="headline-delimiter">2006-01-20</div><div class="timeline-item well event-cvs">
+  <div class="timeline-misc">
+    <div class="timeline-time">
+      16:39    </div>
+    <div class="timeline-name">
+      POEMS/Pokemun    </div>
+    <div class="timeline-user">
+      <a href="/users/yagshi/" class="user-link">yagshi</a>    </div>
+  </div><!-- end of div.timeline-misc -->
+  <div class="timeline-detail">
+    [CVS] New commit  </div>
+</div>
+<div class="headline-delimiter">2006-01-16</div><div class="timeline-item well event-cvs">
+  <div class="timeline-misc">
+    <div class="timeline-time">
+      16:42    </div>
+    <div class="timeline-name">
+      POEMS/Pokemun    </div>
+    <div class="timeline-user">
+      <a href="/users/yagshi/" class="user-link">yagshi</a>    </div>
+  </div><!-- end of div.timeline-misc -->
+  <div class="timeline-detail">
+    [CVS] New commit  </div>
+</div>
+<div class="timeline-item well event-cvs">
+  <div class="timeline-misc">
+    <div class="timeline-time">
+      15:48    </div>
+    <div class="timeline-name">
+      POEMS/Pokemun    </div>
+    <div class="timeline-user">
+      <a href="/users/yagshi/" class="user-link">yagshi</a>    </div>
+  </div><!-- end of div.timeline-misc -->
+  <div class="timeline-detail">
+    [CVS] New commit  </div>
+</div>
+<a class="btn pull-right" href="/projects/poems/history/">Show history</a>
+<div class="both-clear"></div>
+</div>
+
+</div>
+<div id="ad_dev_footer">
+<div id='gpt-sf_dev_rec-footer-left' style='width:300px;float:left;margin-right:32px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('gpt-sf_dev_rec-footer-left'); });
+</script>
+</div>
+<div id='gpt-sf_dev_rec-footer-right' style='width:300px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('gpt-sf_dev_rec-footer-right'); });
+</script>
+</div>
+</div>
+<!-- ad_footer --></td>
+<!-- start ptop sidebar -->
+<td id="sidebar-column">
+    <form class="form-search form-horizontal" name="searchform" action="/search/" method="get" id="searchform">
+    <input type="hidden" name="ie" value="UTF-8" />
+    <label for="search-type-select">Category:</label>
+    <select id="search-type-select" class="span2" name="t" onChange="switch (this.options[this.selectedIndex].value) {
+								     case 'soft': case 'people': case 'personalforge': document.getElementById('searchform').action='/search/'; break;
+								     case 'magazine': document.getElementById('searchform').action='/magazine/search'; break;
+								     case 'wiki': document.getElementById('searchform').action='/wiki/!search'; break;
+								     }">
+      <option value="soft">Software</option>
+      <option value="people">People</option>
+      <option value="personalforge">PersonalForge</option>
+      <option value="magazine" >Magazine</option>
+      <option value="wiki" >Wiki</option>
+    </select>
+    <input type="hidden" name="scope" value="all" />
+    <input type="search" value="" id="searchbox" name="q" class="search-query" />
+    <button type="submit" class="btn"><i class="icon-search"></i> Search</button>
+  </form>
+  <div class="social-buttons">
+  <div id="fb-button" class="social-button-wrap">
+    <div class="fb-like" data-send="false" data-layout="button_count" data-show-faces="true"></div>
+  </div>
+  <div id="twitter-button" class="social-button-wrap"></div>
+  <div id="gplus-button" class="social-button-wrap">
+    <g:plusone size="medium"></g:plusone>
+  </div>
+  <div class="left-clear"></div>
+</div>
+  <div id='gpt-sf_dev_rec'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('gpt-sf_dev_rec'); });
+</script>
+</div>  <h4 class="headline1">
+  News</h4>
+<div class="well no-top-round  no-background no-border milestones">
+<div class="alert alert-info">No Data</div>
+</div>
+
+  <h4 class="headline1">
+Project Informations</h4>
+<div class="well no-top-round  no-background no-border">
+    <ul class="unstyled no-dot">
+    <li>
+      <span>Last Update</span>
+      <ul class="project-misc-item-wrap">
+	<li>
+	  2009-12-04 00:17	</li>
+      </ul>
+    </li>
+  </ul>
+    <ul class="unstyled no-dot">
+    <li>
+      <span>Registered</span>
+      <ul class="project-misc-item-wrap">
+	<li>
+	  2002-06-08 17:07	</li>
+      </ul>
+    </li>
+  </ul>
+    <ul class="unstyled no-dot">
+    <li>
+      <span>Project Ranking</span>
+      <ul class="project-misc-item-wrap">
+	<li>
+	  Activity Ranking: Out of ranking<br />Download Ranking: Out of ranking	</li>
+      </ul>
+    </li>
+  </ul>
+    <ul class="unstyled no-dot">
+    <li>
+      <span>Member</span>
+      <ul class="project-misc-item-wrap">
+	<li>
+	  <a href="/users/yagshi/" class="user-link admin-user" style="font-weight: bold;">yagshi</a><a class="btn btn-mini pull-right" href="/projects/poems/memberlist">Member List</a>	</li>
+      </ul>
+    </li>
+  </ul>
+  </div>
+  <h4 class="headline1">
+Software Map<div class="right-clear"></div>
+</h4>
+<div class="well no-top-round  no-background no-border">
+<ul class="trove_root_cat unstyled no-dot"><li>Development Status<ul class="trove_child_cat"><li><a href="/softwaremap/trove_list.php?form_cat=9">3 - Alpha</a></li></ul></li><li>License<ul class="trove_child_cat"><li><a href="/softwaremap/trove_list.php?form_cat=188">MIT/X Consortium License</a></li></ul></li><li>Natural Language<ul class="trove_child_cat"><li><a href="/softwaremap/trove_list.php?form_cat=275">English</a>, <a href="/softwaremap/trove_list.php?form_cat=278">Japanese</a></li></ul></li><li>Programming Language<ul class="trove_child_cat"><li><a href="/softwaremap/trove_list.php?form_cat=164">C</a>, <a href="/softwaremap/trove_list.php?form_cat=165">C++</a></li></ul></li><li>Topic<ul class="trove_child_cat"><li><a href="/softwaremap/trove_list.php?form_cat=74">Emulators</a></li></ul></li><li>User Interface<ul class="trove_child_cat"><li><a href="/softwaremap/trove_list.php?form_cat=229">X11 Applications</a></li></ul></li></ul></div>
+    <h4 class="headline1">Related Projects</h4>
+<div class="well no-top-round  no-background no-border">
+<div class="related-project-item-wrap"><h5 class="headline3"><a href="/projects/mikuinstaller/">MikuInstaller</a></h5><div class="pull-left related-project-logo-wrap"><img width="96" height="96" src="http://static.sourceforge.jp/thumb/g/3/496/96x96_0.png" border="0" class="group-logo group-logo-type-trovesnap" alt=""></div><a class="start-rating-summary-link" href="/projects/mikuinstaller/reviews/">
+  <div class="star-rating-summary pull-left">
+    <span class="star-rating-avg-label">Average</span>
+    <div class="star-rating-average">4.7</div>
+    <div class="rating-stars stars-read-only" data-score="4.7"></div>
+    <div>
+      116 Reviews    </div>
+  </div>
+</a>
+<div class="left-clear"></div></div><div class="related-project-item-wrap"><h5 class="headline3"><a href="/projects/gbemu/">GameboyVM</a></h5><div class="pull-left related-project-logo-wrap"><img src="http://static.sourceforge.jp/default-photo.png" class="project-image-type-photo default-photo" border="0" alt="" width="96" height="96"></div><a class="start-rating-summary-link" href="/projects/gbemu/reviews/">
+  <div class="star-rating-summary pull-left">
+    <span class="star-rating-avg-label">Average</span>
+    <div class="star-rating-average">5.0</div>
+    <div class="rating-stars stars-read-only" data-score="5.0"></div>
+    <div>
+      3 Reviews    </div>
+  </div>
+</a>
+<div class="left-clear"></div></div><div class="related-project-item-wrap"><h5 class="headline3"><a href="/projects/pc88va/">88VA Eternal Grafx</a></h5><div class="pull-left related-project-logo-wrap"><img width="96" height="96" src="http://static.sourceforge.jp/thumb/g/2/966/96x96_0.png" border="0" class="group-logo group-logo-type-trovesnap" alt=""></div><a class="start-rating-summary-link" href="/projects/pc88va/reviews/">
+  <div class="star-rating-summary pull-left">
+    <span class="star-rating-avg-label">Average</span>
+    <div class="star-rating-average">4.6</div>
+    <div class="rating-stars stars-read-only" data-score="4.6"></div>
+    <div>
+      15 Reviews    </div>
+  </div>
+</a>
+<div class="left-clear"></div></div><div class="related-project-item-wrap"><h5 class="headline3"><a href="/projects/oswan/">Oswan (WonderSwan emulator)</a></h5><div class="pull-left related-project-logo-wrap"><img width="96" height="96" src="http://static.sourceforge.jp/thumb/g/0/874/96x96_0.png" border="0" class="group-logo group-logo-type-trovesnap" alt=""></div><a class="start-rating-summary-link" href="/projects/oswan/reviews/">
+  <div class="star-rating-summary pull-left">
+    <span class="star-rating-avg-label">Average</span>
+    <div class="star-rating-average">4.8</div>
+    <div class="rating-stars stars-read-only" data-score="4.8"></div>
+    <div>
+      62 Reviews    </div>
+  </div>
+</a>
+<div class="left-clear"></div></div><div class="related-project-item-wrap"><h5 class="headline3"><a href="/projects/sfnet_desmume/">DeSmuME</a></h5><div class="pull-left related-project-logo-wrap"><img width="96" height="96" src="http://static.sourceforge.jp/thumb/gg/0/299/96x96_0.png" border="0" class="thumb" alt=""></div><a class="start-rating-summary-link" href="/projects/sfnet_desmume/reviews/">
+  <div class="star-rating-summary pull-left">
+    <span class="star-rating-avg-label">Average</span>
+    <div class="star-rating-average">4.5</div>
+    <div class="rating-stars stars-read-only" data-score="4.5"></div>
+    <div>
+      76 Reviews    </div>
+  </div>
+</a>
+<div class="left-clear"></div></div></div>
+  <h4 class="headline1"><a href="/projects/poems/keywords/">Search Keywords</a></h4>
+<div class="well no-top-round  no-background no-border">
+<div><strong>ポケコン</strong>, <strong>エミュレータ</strong>, <strong>android</strong>, <strong>エミュ</strong> ...</div></div>
+  </td> <!-- sidebar-column -->
+<!-- end ptop sidebar -->
+</tr>
+</tbody>
+</table><!-- #frame -->
+<div class="both-clear"></div>
+
+
+<!-- START: page_foot -->
+<footer id="osdnsitefooter">
+<div class="cols">
+<div class="col first">
+<span>About SourceForge.JP</span>
+<ul><li><a href="/docs/SourceForge.JP%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6">About SourceForge.JP</a></li>
+<li><a href="http://osdn.jp/about.shtml">About OSDN</a></li><li><a rel="nofollow" href="http://osdn.jp/privacy.shtml">Privacy</a></li>
+<li><a rel="nofollow" href="http://osdn.jp/pp.shtml">Protection of individual info policy</a></li>
+</ul>
+</div>
+<div class="col">
+<span>Find Software</span>
+<ul>
+<li><a href="/search/">Search</a></li>
+<li><a href="/softwaremap/">Find by Categories</a></li>
+<li><a href="/top/topdl.php?type=downloads_day">Download Ranking</a></li>
+<li><a href="/top/overview.php">Project Ranking</a></li>
+</ul>
+</div>
+<div class="col">
+<span>Develop Software</span>
+<ul>
+<li><a href="/develop/">Create Project</a></li>
+<li><a href="/people/">Project Help Wanted</a></li>
+<li><a href="/news/recent-approved.php">Recently Registered Project</a></li>
+</ul>
+</div>
+<div class="col">
+<span>Community</span>
+<ul>
+<li><a href="http://b.sourceforge.jp/">SourceForge.JP Blog</a></li><li>
+<li><a href="/news/?group_id=1">Site Announce</a></li>
+<li><a href="http://twitter.com/sourceforgejp">@sourceforgejp on Twitter</a></li>
+<li><a href="http://friendfeed.com/sourceforgejp">SF.JP on FriendFeed</a></li>
+<li><a href="http://slashdot.jp/">Slashdot.JP</a></li>
+</ul>
+</div>
+<div class="col">
+<span>Help</span>
+<ul>
+<li><a rel="nofollow" href="/tos.php">Term of Use</a></li>
+<li><a href="/docs/FrontPage">Help</a></li>
+<li><a rel="nofollow" href="/docs/SourceForge.JP%E3%81%AE%E9%80%A3%E7%B5%A1%E5%85%88">Contact to us</a></li>
+<li><a href="http://osdn.jp/advertise/">Advertisement publishing</a></li><li><a rel="nofollow" href="/reportspam.php">Report Abuse/spam</a></li>
+</ul>
+</div>
+<div class="spacer"></div>
+</div>
+<div style="width: 600px; margin-left: auto; margin-right: auto; margin-bottom: 10px;">
+SourceForge.JP is a Japanese version of SourceForge.net. For developments that are not related to Japan, we recommend you to use <a href="http://sourceforge.net">SourceForge.net</a>.
+</div>
+<div id="copyright">
+Copyright &copy;<a href="http://osdn.jp/">OSDN Corporation</a> All rights reserved.
+</div></footer><!-- #osdnsitefooter -->
+<div id="fb-root"></div>
+</body></html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.vx68k.org/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { var b=window,e="chrome",g="tick",h="wtsrt_",l="tbsd_",m="tbnd_",n="start",p="_wtsrt",q="_tbnd",r="CSI/";(function(){function k(a){this.t={};this.tick=function(a,d,c){this.t[a]=[void 0!=c?c:(new Date).getTime(),d];if(void 0==c)try{b.console.timeStamp(r+a)}catch(f){}};this[g](n,null,a)}var a;b.performance&&(a=b.performance.timing);var s=a?new k(a.responseStart):new k;b.jstiming={Timer:k,load:s};if(a){var d=a.navigationStart,f=a.responseStart;0<d&&f>=d&&(b.jstiming.srt=f-d)}if(a){var c=b.jstiming.load;0<d&&f>=d&&(c[g](p,void 0,d),c[g](h,p,f),c[g](l,h))}try{a=null,b[e]&&b[e].csi&&(a=Math.floor(b[e].csi().pageT),
+c&&0<d&&(c[g](q,void 0,b[e].csi().startE),c[g](m,q,d))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,c&&0<d&&(c[g](q,void 0,b.external.startE),c[g](m,q,d))),a&&(b.jstiming.pt=a)}catch(t){}})(); })()
+</script>
+<link rel="shortcut icon" href="/_/rsrc/1384140897076/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://www.gstatic.com/sites/p/0fe980/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { var d=window,e="length",h="",k="__duration__",l="function";function m(c){return document.getElementById(c)}d.byId=m;function n(c){return c.replace(/^\s+|\s+$/g,h)}d.trim=n;var p=[],q=0;d.JOT_addListener=function(c,a,b){var f=new String(q++);c={eventName:c,handler:a,compId:b,key:f};p.push(c);return f};d.JOT_removeListenerByKey=function(c){for(var a=0;a<p[e];a++)if(p[a].key==c){p.splice(a,1);break}};d.JOT_removeAllListenersForName=function(c){for(var a=0;a<p[e];a++)p[a].eventName==c&&p.splice(a,1)};
+d.JOT_postEvent=function(c,a,b){var f={eventName:c,eventSrc:a||{},payload:b||{}};if(d.JOT_fullyLoaded)for(a=p[e],b=0;b<a&&b<p[e];b++){var g=p[b];g&&g.eventName==c&&(f.listenerCompId=g.compId||h,(g=typeof g.handler==l?g.handler:d[g.handler])&&g(f))}else d.JOT_delayedEvents.push({eventName:c,eventSrc:a,payload:b})};d.JOT_delayedEvents=[];d.JOT_fullyLoaded=!1;
+d.JOT_formatRelativeToNow=function(c,a){var b=((new Date).getTime()-c)/6E4;if(1440<=b||0>b)return null;var f=0;60<=b&&(b/=60,f=2);2<=b&&f++;return a?d.JOT_siteRelTimeStrs[f].replace(k,Math.floor(b)):d.JOT_userRelTimeStrs[f].replace(k,Math.floor(b))}; })()
+</script>
+<script>
+
+
+var webspace = {"scottyUrl":"/_/upload","isConsumer":false,"canPublishScriptToAnyone":true,"serverFlags":{"cajaBaseUrl":"//www.gstatic.com/caja","cajaDebugMode":false},"sharingUrlPrefix":"/_/sharing","csiReportUri":"http://csi.gstatic.com/csi","sharingPolicy":"OPENED_WITH_INDICATOR","analyticsAccountId":"UA-41012574-10","baseUri":"","name":"www","domain":"vx68k.org","features":{"ritzSupport":true,"asyncPermanentDelete":false,"horizontalNavLayout":true,"folderEmbed":true,"moreBackgroundTweaks":true,"flipFolderUrls":true,"animateNavigation":true,"driveInFileCabinet":true,"skiThemeIsDefault":true,"pdfEmbedSupport":false,"animateToc":true,"siteChromeSidebarWidgetsEditDialog":true,"canonicalLinkTagInHead":true,"analyticsTrackingForCorp":false,"driveImageEmbed":true,"siteChromeSystemFooterDialog":true,"plusOneButtonOptions":true,"plusOneButton":true,"adSenseDeprecate":true,"photoAlbumsInOnePick":true,"docosHideNotificationSettings":true,"skiTheme":true,"siteChromeDialogsToolbar":true,"plusBadge":false,"siteChromeHorizontalNavigationDialog":true,"youTubeEmbedSize":true,"adSenseDeprecateMsg":true,"htmlEmbed":true,"plusPost":true,"siteChromeHeaderDialog":true,"photoAlbumsGPlusUrlSupport":true,"sitesLoveFixes":true},"adsensePublisherId":null,"gvizVersion":1,"siteTitle":"www.vx68k.org","pageSharingId":"jotspot_page","plusPageId":"","onepickBaseUrl":"https://docs.google.com","termsUrl":"http://sites.google.com/site/sites/system/app/pages/meta/terms?apps\u003d1","enableAnalytics":true,"isPublic":true,"plusPageUrl":"","homePath":"/","sharingId":"jotspot","isAdsenseEnabled":true,"adsensePromoClickedOrSiteIneligible":true,"isStartPageEnabled":true,"domainAnalyticsAccountId":""};
+
+
+
+webspace.gadgets = {"baseUri":"/system/app/pages/gadgets"};
+
+
+webspace.user = {"uid":"","renderMobile":false,"primaryEmail":"guest","sessionIndex":"","namespaceUser":false,"displayNameOrEmail":"guest","namespace":"","hasAdminAccess":false,"guest_":true,"keyboardShortcuts":true,"domain":"","hasWriteAccess":false,"dasherUser":false,"userName":"guest"};
+
+webspace.page = {"canDeleteWebspace":null,"locale":"en","state":"","wuid":"wuid:gx:2a6f8dad18c1e00f","pageInheritsPermissions":null,"timeZone":"America/Los_Angeles","properties":{},"type":"text","canChangePath":false,"parentWuid":null,"revision":38,"title":"Home","isRtlLocale":false,"bidiEnabled":false,"siteLocale":"en","name":"home","path":"/home","isSiteRtlLocale":false,"parentPath":null};
+webspace.page.breadcrumbs = [{"title":"Home","dir":"ltr","path":"/home","deleted":false}];
+
+
+webspace.editorResources = {
+  text: [
+    'http://www.gstatic.com/sites/p/0fe980/system/js/codemirror.js',
+    'http://www.gstatic.com/sites/p/0fe980/system/app/css/codemirror_css.css',
+    'http://www.gstatic.com/sites/p/0fe980/system/js/trog_edit__en.js',
+    'http://www.gstatic.com/sites/p/0fe980/system/app/css/trogedit.css',
+    '/_/rsrc/1392203398000/system/app/css/editor.css',
+    'http://www.gstatic.com/sites/p/0fe980/system/app/css/codeeditor.css',
+    '/_/rsrc/1392203398000/system/app/css/camelot/editor-jfk.css'
+  ],
+  sitelayout: [
+    'http://www.gstatic.com/sites/p/0fe980/system/app/css/sitelayouteditor.css'
+  ]
+};
+
+var JOT_clearDotPath = 'http://www.gstatic.com/sites/p/0fe980/system/app/images/cleardot.gif';
+
+
+var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+
+webspace.siteTemplateId = false;
+
+
+webspace.page.currentTemplate = {"title":"Web Page","path":"/system/app/pagetemplates/text"};
+
+
+
+var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<meta name="google-site-verification" content="XGFc9nocvh1c1vw0MfhH24oHpa-W4uxNWZTbyDQ-kmU" />
+<meta name="title" content="www.vx68k.org" />
+<meta itemprop="name" content="www.vx68k.org" />
+<meta property="og:title" content="www.vx68k.org" />
+<style type="text/css">
+</style>
+<link rel="stylesheet" type="text/css" href="http://www.gstatic.com/sites/p/0fe980/system/app/themes/default/standard-css-default-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/_/rsrc/1392203398000/system/app/css/overlay.css?cb=default15a%250160goog-ws-rightnone" />
+<link rel="stylesheet" type="text/css" href="/_/rsrc/1392203398000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>www.vx68k.org</title>
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" en            ">
+<script src="//www.gstatic.com/caja/5660/caja.js"> </script>
+<script src="http://www.gstatic.com/sites/p/0fe980/system/js/jot_caja.js"> </script>
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title" class="" style="height: 0px"><div class="sites-header-cell-buffer-wrapper"><h2><a href="http://www.vx68k.org/" dir="ltr" id="sites-chrome-userheader-title">www.vx68k.org</a></h2></div></td><td class="sites-layout-searchbox "><div class="sites-header-cell-buffer-wrapper"><form id="sites-searchbox-form" action="/system/app/pages/search"><input type="hidden" id="sites-searchbox-scope" name="scope" value="search-site" /><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="Search this site" /><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-search-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0">Search this site</div></div></form></div></td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container">
+<div class="sites-header-nav"><ul class="sites-header-nav-container-boxes"><li class="current"><a class="sites-navigation-link current" href="/home">Home</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/vx68k">Virtual X68000</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/xllmnrd">xllmnrd</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/system/app/pages/sitemap/hierarchy">Sitemap</a></li></ul><div style="clear: both;"></div></div>
+</td>
+</tr>
+</table> 
+</div> 
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="">
+</div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr">Home</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><p>This site is the home of VX68K.org.</p>
+<h2><a name="TOC-Projects"></a>Projects</h2>
+<ul><li><a href="http://www.vx68k.org/vx68k">Virtual X68000</a></li>
+<ul><li><a href="http://www.vx68k.org/vx68k-1">vx68k version 1</a></li>
+<li><a href="http://www.vx68k.org/libvm68k-1">libvm68k version 1</a></li></ul>
+</ul>
+<h3><a name="TOC-Subprojects"></a>Subprojects</h3>
+<ul><li><a href="http://www.vx68k.org/libfmsynth">libfmsynth</a></li>
+<li><a href="http://www.vx68k.org/human-bfd">Human-BFD</a></li></ul>
+<hr />
+<h2><a name="TOC-Miscellaneous-projects"></a>
+Miscellaneous projects</h2>
+<p>
+This section contains other software that is not related directly to the Virtual X68000 project.</p>
+<h3><a name="TOC-Free-software-for-POSIX-based-operating-systems"></a>Free software for POSIX-based operating systems</h3>
+<p>
+</p>
+<ul><li><a href="http://www.vx68k.org/xllmnrd">xllmnrd</a></li></ul>
+<h3><a name="TOC-Free-software-for-Microsoft-Windows"></a>Free software for Microsoft Windows</h3>
+<div>
+<ul>
+<li><a href="http://www.vx68k.org/hgbds">Mercurial Integration Plug-in for RAD Studio</a></li>
+<li><a href="http://www.vx68k.org/dmolist">DMOList</a>
+</li></ul>
+</div></div></td></tr></tbody></table>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-subpages"> </div>
+<a xmlns="http://www.w3.org/1999/xhtml" name="page-comments"></a>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-comments"><div class="sites-comment-docos-wrapper"><div class="sites-comment-docos"><div class="sites-comment-docos-background"></div><div class="sites-comment-docos-header"><div class="sites-comment-docos-header-title">Comments</div></div><div id="sites-comment-docos-pane" class="sites-comment-docos-pane"></div></div></div></div>
+</div>
+</div> 
+</td> 
+<td id="sites-chrome-sidebar-right" class="sites-layout-sidebar-right" style="width:160px">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_183040855438644" class="sites-sidebar-plusone-wrapper"><div class="g-plusone" data-count="true" data-size="standard" data-source="google:sites"></div></div>
+</td>
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter"><p><a class="sites-system-link" href="https://www.google.com/a/UniversalLogin?service=jotspot&amp;continue=http://sites.google.com/a/vx68k.org/www/home">Sign in</a>|<a class="sites-system-link" href="/system/app/pages/reportAbuse" target="_blank">Report Abuse</a>|<a class="sites-system-link" href="javascript:;" onclick="window.open(webspace.printUrl)">Print Page</a>|<a class="sites-system-link" href="/system/app/pages/removeAccess" target="_blank">Remove Access</a>|<span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com">Google Sites</a></b></p></div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-onebar-footer">
+</div>
+
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="http://www.gstatic.com/sites/p/0fe980/system/js/jot_min_view__en.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+    
+        sites.core.Analytics.createTracker();
+        sites.core.Analytics.trackPageview();
+      
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+                    sites.Searchbox.initialize(
+                        'sites-searchbox-search-button',
+                        {"object":[]}['object'],
+                        'search-site',
+                        {"label":"Configure search options...","url":"/system/app/pages/admin/settings"});
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+              new sites.CommentPane('//docs.google.com/comments/d/AAHRpnXuIuVRVh7KiRn_kLMESP6MJA9jzkWV5cATNTOpA13ZM8ihLTmL8xla3HDUa1eyTKW9PyY8ijMYo3JNX7Ft101kWS4hyIAs1Caak6suX-ZqslEjzFfM/api/js?anon=true', true, true,
+                  false, false);
+            </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+  setTimeout(function() {
+    var fingerprint = gsites.date.TimeZone.getFingerprint([]);
+    gsites.Xhr.send('http://www.vx68k.org/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+  }, 500);
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'http://csi.gstatic.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "en");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+ //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+              JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+            </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script>
+          window.jstiming.load.tick('render');
+        </script>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

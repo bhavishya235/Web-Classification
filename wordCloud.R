@@ -1,0 +1,21 @@
+library(tm)
+library(wordcloud)
+
+#Retrieving Text documents from Adelement
+ae.corpus<-Corpus(DirSource("datafiles/trainingCorpus"),readerControl=list(reader=readPlain))
+
+ae.corpus <- tm_map(ae.corpus, stripWhitespace)
+ae.corpus <- tm_map(ae.corpus, removePunctuation)
+ae.corpus <- tm_map(ae.corpus, removeNumbers)
+ae.corpus <- tm_map(ae.corpus, tolower)
+#ae.corpus <- tm_map(ae.corpus, stemDocument)
+ae.corpus <- tm_map(ae.corpus, removeWords, stopwords("english"))
+ae.tdm <- TermDocumentMatrix(ae.corpus)
+ae.m <- as.matrix(ae.tdm)
+ae.v <- sort(rowSums(ae.m),decreasing=TRUE)
+ae.d <- data.frame(word = names(ae.v),freq=ae.v)
+table(ae.d$freq)
+pal2 <- brewer.pal(8,"Dark2")
+png("0adelement.png", width=1280,height=800)
+wordcloud(ae.d$word,ae.d$freq, scale=c(8,.2),min.freq=3,max.words=Inf, random.order=FALSE, rot.per=.15, colors=pal2)
+dev.off()

@@ -1,0 +1,204 @@
+<topic r:id="Top/Computers/Hardware/Buses">
+<catid>381468</catid>
+<link r:resource="http://www.beyondlogic.org/" />
+<link r:resource="http://www.ata-atapi.com/" />
+<link r:resource="http://www.t13.org/" />
+<link r:resource="http://members.tripod.com/~newwave_2/index.htm" />
+<link r:resource="http://sophia.dtp.fmph.uniba.sk/pchardware/bus.html" />
+<link r:resource="http://www.bus-net.com/index_busnet.htm" />
+<link r:resource="http://www.pc104.com/" />
+<link r:resource="http://www.interfacebus.com/" />
+<link r:resource="http://www.theregister.co.uk/2001/03/07/the_open_pc_is_dead/" />
+<link r:resource="http://foldoc.org/Bus" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/AGP">
+<catid>381474</catid>
+<link r:resource="http://www.sysopt.com/agp.html" />
+<link r:resource="http://whatis.techtarget.com/definition/0,289893,sid9_gci213768,00.html" />
+<link r:resource="http://www.cs.umd.edu/class/fall2001/cmsc411/projects/agp/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/EIDE">
+<catid>381476</catid>
+<link r:resource="http://www.hwupgrade.com/cdrom/eide_comparison/" />
+<link r:resource="http://www.karbosguide.com/hardware/module5b1.htm" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/EISA">
+<catid>381493</catid>
+<link r:resource="http://www.techfest.com/hardware/bus/eisa.htm" />
+<link r:resource="http://www.ahinc.com/hhbus.htm" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/Fibre_Channel">
+<catid>381470</catid>
+<link r:resource="http://www.t11.org/" />
+<link r:resource="http://hsi.web.cern.ch/HSI/fcs/process/eisa.htm" />
+<link r:resource="http://hsi.web.cern.ch/HSI/fcs/fcs.html" />
+<link r:resource="http://hsi.web.cern.ch/HSI/fcs/process/gigaring.htm" />
+<link r:resource="http://hsi.web.cern.ch/HSI/fcs/process/pci.htm" />
+<link r:resource="http://hsi.web.cern.ch/HSI/fcs/process/sbus.htm" />
+<link r:resource="http://www.windowsitpro.com/Articles/Index.cfm?ArticleID=179" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/HIPPI">
+<catid>381490</catid>
+<link r:resource="http://hsi.web.cern.ch/HSI/hippi/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/I2C">
+<catid>381475</catid>
+<link r:resource="http://voxel.at/prj/i2c/" />
+<link r:resource="http://www.mcc-us.com/techsrc.htm" />
+<link r:resource="http://members.iinet.net.au/~daveb/downloads/i2c.html" />
+<link r:resource="http://users.tkk.fi/iisakkil/stuff.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/I2O">
+<catid>381471</catid>
+<link r:resource="http://www.uni-mainz.de/~neuffer/i2o/what_is_i20.html" />
+<link r:resource="http://webopedia.com/TERM/I/I2O.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/IEEE_1394">
+<catid>381473</catid>
+<link r:resource="http://www.1394ta.org/" />
+<link r:resource="http://skipstone.com/overview.html" />
+<link r:resource="http://www.vxm.com/21R.49.html" />
+<link r:resource="http://www.pwg.org/p1394/" />
+<link r:resource="http://www.igigroup.com/nl/pages/1394.html" />
+<link r:resource="http://www.vxm.com/21R.35.html" />
+<link r:resource="http://www.ednmag.com/reg/1997/070397/14cs.htm" />
+<link r:resource="http://www.skipstone.com/informat.html" />
+<link r:resource="http://focus.ti.com/analog/docs/microsite.tsp?familyId=361&amp;micrositeId=10&amp;sectionId=585&amp;tabId=2202" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/ISA">
+<catid>381486</catid>
+<link r:resource="http://www.boondog.com/" />
+<link r:resource="http://www.techfest.com/hardware/bus/isa.htm" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/MCA">
+<catid>381488</catid>
+<link r:resource="http://www.techfest.com/hardware/bus/mc.htm" />
+<link r:resource="http://kb.indiana.edu/data/acae.html" />
+<link r:resource="http://www.utdallas.edu/~swadlow/ps2linux/" />
+<link r:resource="http://www.tavi.co.uk/ps2pages/" />
+<link r:resource="http://www.mcamafia.de/mcapage0/mcaindex.htm" />
+<link r:resource="http://www.pcguide.com/ref/mbsys/buses/types/olderMCA-c.html" />
+<link r:resource="http://www.quatech.com/support/comm-over-mca.php" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/PCI">
+<catid>381491</catid>
+<link r:resource="http://www.pcisig.com/" />
+<link r:resource="http://www.pcisig.com/events/compliance_workshop" />
+<link r:resource="http://www.pcisig.com/specifications" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/PCI_Express">
+<catid>381469</catid>
+<link r:resource="http://www.pcisig.com/specifications/pciexpress/" />
+<link r:resource="http://developer.intel.com/technology/pciexpress/devnet/" />
+<link r:resource="http://www.neoseeker.com/Articles/Hardware/Features/pciexpresstech/" />
+<link r:resource="http://en.wikipedia.org/wiki/PCI-Express" />
+<link r:resource="http://www.interfacebus.com/Design_Connector_PCI_Express.html" />
+<link r:resource="http://www.eurekatech.com/products/pci/pcie_compliance.htm" />
+<link r:resource="http://www.anandtech.com/showdoc.aspx?i=1830" />
+<link r:resource="http://arstechnica.com/old/content/2004/07/pcie.ars" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/PCMCIA">
+<catid>381487</catid>
+<link r:resource="http://www.fapo.com/ieee1284.htm" />
+<link r:resource="http://www.irda.org/" />
+<link r:resource="http://www.synchrotech.com/support/install.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/RS-232">
+<catid>381492</catid>
+<link r:resource="http://www.sandman.com/rs232.html" />
+<link r:resource="http://www.rs485.com/rs485spec.html" />
+<link r:resource="http://www.camiresearch.com/Data_Com_Basics/RS232_standard.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/SCSI">
+<catid>381477</catid>
+<link r:resource="http://www.scsita.org/" />
+<link r:resource="http://www.ahinc.com/scsi.htm" />
+<link r:resource="http://www.t10.org/lists/1spc-lst.htm" />
+<link r:resource="http://www.t10.org/scsi-3.htm" />
+<link r:resource="http://www.ba-stuttgart.de/~schulte/htme/ebuss12.htm" />
+<link r:resource="http://www.uni-mainz.de/~neuffer/scsi/what_is_scsi.html" />
+<link r:resource="http://www.t10.org/" />
+<link r:resource="http://www.sparcproductdirectory.com/scsiscsi.html" />
+<link r:resource="http://www.hpl.hp.com/techreports/97/HPL-97-02.html" />
+<link r:resource="http://whatis.techtarget.com/definition/0,,sid9_gci750136,00.html" />
+<link r:resource="http://w3.ualg.pt/~dubuf/ipscsi.html" />
+<link r:resource="http://tldp.org/HOWTO/SCSI-Generic-HOWTO/" />
+<link r:resource="http://webopedia.com/TERM/S/SCSI.html" />
+<link r:resource="http://www.scsilibrary.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/SCSI/Expanders">
+<catid>381478</catid>
+<link r:resource="http://www.rancho.com/" />
+<link r:resource="http://www.paralan.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/SCSI/Expanders/Distribution">
+<catid>381479</catid>
+<link r:resource="http://www.cmp-rep.com/" />
+<link r:resource="http://intertechnology.ca/" />
+<link r:resource="http://www.datastor.co.nz/" />
+<link r:resource="http://www.easternsystems.com/" />
+<link r:resource="http://www.panatek.com/" />
+<link r:resource="http://www.ppitexas.com/" />
+<link r:resource="http://www.repmesa.com/linecard.html" />
+<link r:resource="http://www.sierratechnologies.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/SCSI/FAQs,_Help,_and_Tutorials">
+<catid>381482</catid>
+<link r:resource="http://www.macdisk.com/scsipben.php3" />
+<link r:resource="http://www.awardone.com.au/tech/scsi_faq.htm#SCSI vs IDE" />
+<link r:resource="http://www.cs.uu.nl/wais/html/na-dir/scsi-faq/part1.html" />
+<link r:resource="http://www.cs.uu.nl/wais/html/na-dir/scsi-faq/part2.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/SCSI/Host_Adapters">
+<catid>381483</catid>
+<link r:resource="http://www.pacificdata.com/" />
+<link r:resource="http://www.adaptec.com/" />
+<link r:resource="http://www.apcon.com/" />
+<link r:resource="http://www.attotech.com/" />
+<link r:resource="http://www.amitrix.com/scsi-tv-faq.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/SCSI/Host_Adapters/Distribution">
+<catid>381484</catid>
+<link r:resource="http://www.ingrammicro.com/" />
+<link r:resource="http://www.scsistuff.com/" />
+<link r:resource="http://www.msiinet.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/SCSI/Standards">
+<catid>381480</catid>
+<link r:resource="http://www.scsita.org/" />
+<link r:resource="http://www.t10.org/pubs.htm" />
+<link r:resource="http://savage.net.au/Ron/html/scsi-tutorial.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/SCSI/Technical">
+<catid>381481</catid>
+<link r:resource="http://www.xs4all.nl/~ganswijk/chipdir/cable/scsi.htm" />
+<link r:resource="http://www.paralan.com/sediff.html" />
+<link r:resource="http://www.paralan.com/glos.html" />
+<link r:resource="http://www.digitalprosound.com/Htm/TechStuff/June/SCSIvsIDE.htm#toc" />
+<link r:resource="http://scsi.radified.com/scsi_01.htm" />
+<link r:resource="http://www.ednmag.com/ednmag/reg/2000/07062000/14ms632.htm" />
+<link r:resource="http://www.digit-life.com/articles/cdrwscsi/" />
+<link r:resource="http://www.tweakheadz.com/surviving_scsi_hell.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/SCSI/Test_Equipment">
+<catid>381485</catid>
+<link r:resource="http://www.extremeprotocol.com/" />
+<link r:resource="http://www.futureplus.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/USB">
+<catid>381472</catid>
+<link r:resource="http://www.usb.org/developers/" />
+<link r:resource="http://www.lvr.com/usb.htm" />
+<link1 r:resource="http://www.usb.org/"></link1>
+<link r:resource="http://developer.apple.com/hardware/usb/" />
+<link r:resource="http://www.alanmacek.com/usb/index.html" />
+<link r:resource="http://www.macspeedzone.com/archive/5.0/usbcomparison.html" />
+<link r:resource="http://www.sss-mag.com/usb.html" />
+<link r:resource="http://www.everythingusb.com/" />
+<link r:resource="http://www.usbman.com/forum/UltraBoard.cgi?SID=10" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Buses/VME">
+<catid>381489</catid>
+<link r:resource="http://www.vita.com/" />
+<link r:resource="http://www-ese.fnal.gov/vipa/default.htm" />
+</topic>

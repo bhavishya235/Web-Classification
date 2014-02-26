@@ -1,0 +1,811 @@
+====================<http://www.e-budo.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ 
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+<meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.e-budo.com"/>
+<base href="http://www.e-budo.com/"/><!--[if IE]></base><![endif]-->
+<meta name="generator" content="vBulletin 4.2.1"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:{profile:false},oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok8v=02fcfa4f56/"},atok:"879e98d3b8e21ac54d6baf2ad76962bd",petok:"2c03dc2002e971f29823d43c452f9df90928d731-1393361416-1800",zone:"e-budo.com",rocket:"a",apps:{}}];document.write('<script type="text/javascript" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok8v=221574e73d/cloudflare.min.js"><'+'\/script>');}}catch(e){};
+//]]>
+</script>
+<link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon"/>
+<meta name="keywords" content=""/>
+<meta name="description" content="Home"/>
+<script type="text/rocketscript">
+<!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=421"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=421"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=421"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=355bd1a69dac2e59ce99499d149e5723&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images-ebudo/misc";
+	var IMGDIR_BUTTON = "images-ebudo/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "421";
+	var BBURL = "http://www.e-budo.com";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "vbcms";
+	var RELPATH = "content.php";
+	var PATHS = {
+		forum : "forum",
+		cms   : "",
+		blog  : "blog"
+	};
+	var AJAXBASEURL = "http://www.e-budo.com/";
+// -->
+</script>
+<script type="text/rocketscript" data-rocketsrc="http://www.e-budo.com/clientscript/vbulletin-core.js?v=421"></script>
+<script type="text/rocketscript">PATHS.blog = "blog";</script>
+<link rel="stylesheet" type="text/css" href="css.php?styleid=16&amp;langid=1&amp;d=1386237847&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css,"/>
+<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=16&amp;langid=1&amp;d=1386237847&amp;td=ltr&amp;sheet=popupmenu-ie.css,vbulletin-ie.css,vbulletin-chrome-ie.css,vbulletin-formcontrols-ie.css,editor-ie.css" />
+	<![endif]-->
+ 
+<title>E-Budo.com - Home</title>
+<link rel="stylesheet" type="text/css" href="css.php?styleid=16&amp;langid=1&amp;d=1386237847&amp;td=ltr&amp;sheet=widgets.css,vbcms.css,postbit-lite.css,postlist.css,lightbox.css,overlay.css,tagcloud.css,"/>
+<!--[if lt IE 8]>
+        <link rel="stylesheet" type="text/css" href="css.php?styleid=16&amp;langid=1&amp;d=1386237847&amp;td=ltr&amp;sheet=vbcms-ie.css,postbit-lite-ie.css,postlist-ie.css" />
+    <![endif]-->
+<!--[if lt IE 7]>
+	<script type="text/javascript">
+		window.LESS_THAN_IE7 = true;
+	</script>
+    <![endif]-->
+<script type="text/rocketscript" data-rocketsrc="clientscript/vbulletin_overlay.js?v=421"></script>
+<script type="text/rocketscript" data-rocketsrc="clientscript/vbulletin_cms.js?v=421"></script>
+<script type="text/rocketscript" data-rocketsrc="clientscript/vbulletin_ajax_htmlloader.js?v=421">
+    </script>
+ 
+<link rel="stylesheet" type="text/css" href="css.php?styleid=16&amp;langid=1&amp;d=1386237847&amp;td=ltr&amp;sheet=additional.css"/>
+ 
+</head>
+<body style="text-align:left">
+ 
+<div class="above_body">  
+<div id="header" class="floatcontainer doc_header">
+<div><a name="top" href="forum/forum.php?s=355bd1a69dac2e59ce99499d149e5723" class="logo-image"><img style="display:none;visibility:hidden;" data-cfsrc="images-ebudo/ebudologo.png" alt="E-Budo.com - Powered by vBulletin"/><noscript><img src="images-ebudo/ebudologo.png" alt="E-Budo.com - Powered by vBulletin"/></noscript></a></div>
+<div id="toplinks" class="toplinks">
+<ul class="nouser">
+<li><a href="register.php?s=355bd1a69dac2e59ce99499d149e5723" rel="nofollow">Register</a></li>
+<li><a rel="help" href="faq.php?s=355bd1a69dac2e59ce99499d149e5723">Help</a></li>
+<li>
+<script type="text/rocketscript" data-rocketsrc="clientscript/vbulletin_md5.js?v=421"></script>
+<form id="navbar_loginform" action="login.php?s=355bd1a69dac2e59ce99499d149e5723&amp;do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+<fieldset id="logindetails" class="logindetails">
+<div>
+<div>
+<input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name"/>
+<input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10"/>
+<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;"/>
+<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s"/>
+</div>
+</div>
+</fieldset>
+<div id="remember" class="remember">
+<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103"/> Remember Me?</label>
+</div>
+<input type="hidden" name="s" value="355bd1a69dac2e59ce99499d149e5723"/>
+<input type="hidden" name="securitytoken" value="guest"/>
+<input type="hidden" name="do" value="login"/>
+<input type="hidden" name="vb_login_md5password"/>
+<input type="hidden" name="vb_login_md5password_utf"/>
+</form>
+<script type="text/rocketscript">
+			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+			</script>
+</li>
+</ul>
+</div>
+<div class="ad_global_header">
+ 
+ 
+ 
+ 
+</div>
+<hr/>
+</div>
+ 
+ 
+<div id="navbar" class="navbar">
+<ul id="navtabs" class="navtabs floatcontainer">
+ 
+<li class="selected" id="vbtab_cms">
+<a class="navtab" href="content.php?s=355bd1a69dac2e59ce99499d149e5723">Home</a>
+</li>
+<ul class="floatcontainer">
+<li id=""><a href="http://www.e-budo.com/content.php?1-home&amp;s=355bd1a69dac2e59ce99499d149e5723">Home</a></li>
+</ul>
+<li id="vbtab_forum">
+<a class="navtab" href="forum.php?s=355bd1a69dac2e59ce99499d149e5723">Forum</a>
+</li>
+<li id="vbtab_blog">
+<a class="navtab" href="blog.php?s=355bd1a69dac2e59ce99499d149e5723">Blogs</a>
+</li>
+<li id="vbtab_whatsnew">
+<a class="navtab" href="activity.php?s=355bd1a69dac2e59ce99499d149e5723">What's New?</a>
+</li>
+ 
+</ul>
+<div id="globalsearch" class="globalsearch">
+<form action="search.php?s=355bd1a69dac2e59ce99499d149e5723&amp;do=process" method="post" id="navbar_search" class="navbar_search">
+<input type="hidden" name="securitytoken" value="guest"/>
+<input type="hidden" name="do" value="process"/>
+<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="images-ebudo/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+</form>
+<ul class="navbar_advanced_search">
+<li><a href="search.php?s=355bd1a69dac2e59ce99499d149e5723" accesskey="4">Advanced Search</a></li>
+</ul>
+</div>
+</div>
+</div> 
+<div class="body_wrapper">
+<div id="breadcrumb" class="breadcrumb">
+<ul class="floatcontainer">
+<li class="navbithome"><a href="index.php?s=355bd1a69dac2e59ce99499d149e5723" accesskey="1"><img style="display:none;visibility:hidden;" data-cfsrc="images-ebudo/misc/navbit-home.png" alt="Home"/><noscript><img src="images-ebudo/misc/navbit-home.png" alt="Home"/></noscript></a></li>
+ 
+<li class="navbit"><a href="content.php?s=355bd1a69dac2e59ce99499d149e5723">Home</a></li>
+ 
+ 
+<li class="navbit lastnavbit"><span>Home</span></li>
+ 
+</ul>
+<hr/>
+</div>
+ 
+ 
+ 
+ 
+<form action="profile.php?do=dismissnotice" method="post" id="notices" class="notices">
+<input type="hidden" name="do" value="dismissnotice"/>
+<input type="hidden" name="s" value="s=355bd1a69dac2e59ce99499d149e5723&amp;"/>
+<input type="hidden" name="securitytoken" value="guest"/>
+<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value=""/>
+<input type="hidden" name="url" value=""/>
+<ol>
+ 
+<li class="restore" id="navbar_notice_1">
+If this is your first visit, be sure to
+check out the <a href="faq.php?s=355bd1a69dac2e59ce99499d149e5723" target="_blank"><b>FAQ</b></a> by clicking the
+link above. You may have to <a href="register.php?s=355bd1a69dac2e59ce99499d149e5723" target="_blank"><b>register</b></a>
+before you can post: click the register link above to proceed. To start viewing messages,
+select the forum that you want to visit from the selection below.
+</li>
+ 
+</ol>
+</form>
+ 
+<div class="vbcms_content">
+ 
+<div id="doc3" class="yui-tvb-r3">
+<div id="bd">
+<div id="yui-main">
+<div class="yui-b">
+<div class="yui-gf">
+<div class="yui-u first yui-panel">
+<ul class="list_no_decoration widget_list" id="widgetlist_column1"></ul>
+</div>
+<div class="yui-u yui-panel">
+<ul class="list_no_decoration widget_list" id="widgetlist_column2"> 
+<li> 
+<div class="title">
+ 
+<h1 class="header">
+<span>Home</span>
+</h1>
+</div>
+ 
+<div id="section_content">
+ 
+<div class="fullwidth">
+ 
+ 
+ 
+ 
+<div class="article_preview">
+<div class="title">
+<h3 class="article_preview">
+<a href="http://www.e-budo.com/content.php?2-Welcome-to-E-budo&amp;s=355bd1a69dac2e59ce99499d149e5723"><span>Welcome to E-budo</span></a>&nbsp;
+</h3>
+</div>
+<div class="fullwidth article_preview_contents restore">
+<div>
+<br/>
+<div class="cms_article_txt_content postcontainer">
+<div style="text-align: center;"><img style="display:none;visibility:hidden;" data-cfsrc="http://www.e-budo.com/attachment.php?attachmentid=10673&amp;d=1375410218" border="0" alt="" data-cfstyle="float: CONFIG"/><noscript><img src="http://www.e-budo.com/attachment.php?attachmentid=10673&amp;d=1375410218" border="0" alt="" style="float: CONFIG"/></noscript></div>E-budo.com is the Internet's premier bulletin board dedicated to Japanese martial arts and culture. Our moderated forums allow our members to share their interest in the Japanese arts, while maintaining a friendly atmosphere.<br/>
+<br/>
+<div style="text-align: center;"><a href="http://www.e-budo.com/forum.php" target="_blank">Visit The Forums</a></div><br/>
+While you may visit our forums as a guest, you have to become a member to post messages. Membership is free, but we expect everyone to follow our basic rules of conduct.
+</div>
+</div>
+</div>
+<div class="fullwidth">
+</div>
+</div>
+ 
+</div>
+ 
+<hr class="none"/>
+</div>
+<script type="text/rocketscript" data-rocketsrc="clientscript/vbulletin_lightbox.js?v=421"></script>
+<script type="text/rocketscript">
+		<!--
+		vBulletin.register_control("vB_Lightbox_Container", "section_content", 1);
+		//-->
+		</script>
+ </li>
+ </ul>
+</div>
+</div>
+</div>
+</div>
+<div class="yui-b yui-sidebar">
+<ul class="list_no_decoration widget_list" id="widgetlist_column3"></ul>
+</div>
+</div>
+</div>
+ 
+</div>
+ 
+<div style="clear: left">
+ 
+ 
+ 
+ 
+</div>
+<div id="footer" class="floatcontainer footer">
+<form action="forum/forum.php" method="get" id="footer_select" class="footer_select">
+<select name="styleid" onchange="switch_id(this, 'style')">
+<optgroup label="Quick Style Chooser"><option class="hidden"></option></optgroup>
+<optgroup label="&nbsp;Standard Styles">
+ 
+<option value="16" class="" selected="selected">-- E-budo</option>
+ 
+</optgroup>
+<optgroup label="&nbsp;Mobile Styles">
+ 
+<option value="17" class="">-- E-budo Mobile Style</option>
+ 
+</optgroup>
+</select>
+</form>
+<ul id="footer_links" class="footer_links">
+<li><a href="sendmessage.php?s=355bd1a69dac2e59ce99499d149e5723" rel="nofollow" accesskey="9">Contact Us</a></li>
+<li><a href="http://www.e-budo.com">E-Budo.com</a></li>
+<li><a href="archive/index.php?s=355bd1a69dac2e59ce99499d149e5723">Archive</a></li>
+<li><a href="content.php#top" onclick="document.location.hash='top'; return false;">Top</a></li>
+</ul>
+<script type="text/rocketscript">
+	<!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+	</script>
+</div>
+</div>  
+<div class="below_body">
+<div id="footer_time" class="shade footer_time">All times are GMT. The time now is <span class="time">20:50</span>.</div>
+<div id="footer_copyright" class="shade footer_copyright">
+ 
+Powered by <a href="https://www.vbulletin.com" id="vbulletinlink">vBulletin&reg;</a> Version 4.2.1 <br/>Copyright &copy; 2014 vBulletin Solutions, Inc. All rights reserved.
+ 
+</div>
+<div id="footer_morecopyright" class="shade footer_morecopyright">
+ 
+<img style="display:none;visibility:hidden;" data-cfsrc="http://www.e-budo.com/cron.php?s=355bd1a69dac2e59ce99499d149e5723&amp;rand=1393361414" alt="" width="1" height="1" border="0"/><noscript><img src="http://www.e-budo.com/cron.php?s=355bd1a69dac2e59ce99499d149e5723&amp;rand=1393361414" alt="" width="1" height="1" border="0"/></noscript>
+ 
+</div>
+ 
+ 
+</div>
+ 
+</body>
+</html>
+ ++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.goshindosamurai.com/>====================
+<html>
+
+<head>
+<meta name="keywords" content="Goshindo, Jiu Jitsu, Ju Jitsu, Karate, Martial Arts, Kempo, Samurai, Pete Siringano, Staten Island, Soke">
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Goshindo Kempo Karate Samurai Jiu Jitsu Assoc.</title>
+</head>
+<script language="JavaScript"> <!--
+// No rightclick script v.2.5
+
+var message="All Materials Copyright: Goshindo Kempo Karate & Samurai Jiu Jitsu Association"; // Message for the alert box
+
+// Don't edit below!
+
+function click(e) {
+if (document.all) {
+if (event.button == 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which == 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> </script>
+
+<body bgproperties="fixed" background="images/goldpatches.jpg" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+
+<p align="center"><font size="1" face="Arial">&nbsp;Goshindo Kempo Karate Samurai Jiu 
+Jitsu Ju Jitsu Ju Jutsu Pete Siringano Sokeship Hanshi Judan Staten Island New 
+Yor</font></p>
+
+<p align="center">
+          <b><font color="#FF0000" face="Arial" size="5">
+          <span style="background-color: #FFFFFF">
+          <font color="#FF0000">&nbsp;<a href="dojovideo2.wmv" style="text-decoration: none"><font color="#FF0000"></font></a><font color="#FF0000">Click 
+          Play Button To View A Special Video Presentation</font></a><a href="main.html" style="text-decoration: none"> </a></font></span></font></b>
+          </p>
+
+<p align="center">
+      &nbsp;</p>
+
+<p align="center">
+      &nbsp;<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/T5o5ttL4hPk?hl=en_US&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param>
+        <embed src="//www.youtube.com/v/T5o5ttL4hPk?hl=en_US&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+
+<p align="center">
+      &nbsp;</p>
+
+<p align="center">
+          <a href="main.html">
+          <img border="0" src="samurai1.jpg" width="310" height="382" style="border: 2px solid #FF0000"></a></p>
+
+<p align="center">
+          <b><font color="#FF0000" face="Arial" size="5">
+          <span style="background-color: #FFFFFF">
+          &nbsp;<a href="main.html" style="text-decoration: none"><font color="#FF0000">Click Here To Enter Site</font></a> </span></font></b></p>
+
+</body>
+
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.dentokanhombu.com/>====================
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Dentokanhombu.com</title>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33200463-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body text="#FFFFFF" bgcolor="#000000">
+
+<p align="center">&nbsp;</p>
+<p align="center"><font face="Arial" size="6">Sekai Dentokan Bugei Renmei, Inc.</font></p>
+<p align="center"><a href="http://www.dentokanhombu.com/2.0">
+<img border="0" src="logoWface.jpg" width="372" height="375" alt="Click on Image to Enter"></a></p>
+<p align="center">&nbsp;</p>
+<p align="center"><font face="Arial" size="6">Welcome to Dentokan Hombu</font></p>
+<p align="center"><font face="Arial" size="1">Copyright 2002-2014 � Sekai Dentokan Bugei Renmei, Inc.
+				</font></p>
+<p class="MsoNormal">&nbsp;</p>
+
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.smaa-hq.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+    <meta name="description" content="The Shudokan Martial Arts Association (SMAA) is an international coalition of enthusiasts dedicated to promoting traditional Japanese budo and koryu bujutsu. The SMAA, a 501(c)(3) nonprofit corporation, is headed by an elite group of high-ranking Japanese and Western instructors whose backgrounds encompass many decades of studying and teaching the traditional martial arts and ways of Japan. 
+
+" />
+    <meta name="keywords" content="Shudokan, budo, koryu, bujutsu, martial arts, judo, karate, aikido, jujutsu, jiujitsu, jujitsu, iaido, kendo, suiei-jutsu, black belt, ki, aiki-jujutsu, aikijujutsu, aikijutsu, kobudo, kobujutsu, Muso Jikiden Eishin Ryu, Kodokan, Aikikai, Wado Ryu, SMAA, Yagyu Shinkage Ryu, Nakamura Ryu, Toyama Ryu, Takeuchi Ryu, Shinto Muso Ryu, Masaki Ryu, Shorin Ryu, Kobori Ryu, Sato Ryu, Nihon, Nippon, Japan, ikebana, Ikenobo, shodo, Ranseki Sho Juku, Donn Draeger, Dave Lowry, Wayne Muromoto, Nicklaus Suino" />
+    
+    <title>Shudokan Martial Arts Association</title>
+
+    <link rel='stylesheet' href='styles.css' type='text/css' />
+    <link rel='stylesheet' href='cms.css' type='text/css' />
+    <script type='text/javascript' src='jquery-1.3.2.min.js'></script>
+    <script type='text/javascript' src='menu.js'></script>
+    <script type='text/javascript' src='preview.js'></script>
+
+</head>
+
+<body>
+<div id='container'>
+
+<div id='content'>
+
+<div id='header'>
+  <img src='images/smaa-emblem.png' alt='SMAA' />
+  <img src='images/smaa-banner.png' alt='SMAA' />
+</div> <!-- header -->
+
+
+
+<h1 class='cms'>Shudokan Martial Arts Association Home Page</h1><img src='dbpix/smaacoloremblem.jpg' alt='' class='picture_body' /><h3>What is the SMAA?</h3>
+<p>The Shudokan Martial Arts Association (SMAA) is an international coalition of enthusiasts dedicated to promoting traditional Japanese budo and koryu bujutsu. The SMAA, a 501(c)(3) nonprofit corporation, is headed by an elite group of high-ranking Japanese and Western instructors whose backgrounds encompass many decades of studying and teaching the traditional martial arts and ways of Japan.</p>
+<h3>Who can join?</h3>
+<p>The SMAA invites all individuals who are interested in traditional Japanese budo and koryu bujutsu to apply for membership. There are two levels of membership in the SMAA: full members are eligible to apply for rank and teaching titles; associate members receive all the other benefits of membership, but do not receive rank or titles. All members are bound by the <a href="ethics.php">SMAA Code of Ethics</a>. For more information, see the <a href="membership.php">Membership page</a> and the <a href="faq.php">Frequently Asked Questions page</a>.</p><h1 class='cms'>Links:</h1><p><img class='icon' src='images/weblink-trans.png' alt='link'/><a href='payments.php'>Online Payments</a></p><a id='attachments'></a><h1 class='cms'>Attachments:</h1><p><img class='icon' src='images/pdf-trans.png' alt='Attachment' /><a href='attachments/NihongoSMAA.pdf'>日本語</a><br style='clear:both' />
+
+<br/>
+
+<div class='box_top'>
+    What's New?
+</div>
+
+<div class='box'>
+
+    
+    <div class='news'>
+        <strong>07/15/2013: </strong>
+        2013 SMAA Kentucky Seminar                <a href="dbpix/2008SMAASeminarHDPhotos054__.jpg"><img src="dbpix/tn_2008SMAASeminarHDPhotos054__.jpg" alt='' /></a>
+                <br/>
+        <span data-ft="{&quot;tn&quot;:&quot;K&quot;}" class="userContent">The   SMAA Kentucky Seminar will take place in Louisville, Kentucky on August   17 &ndash; 19, 2013. The featured instructors are Stephen Fabian Sensei and   Cyna Khalily Sensei. Fabian Sensei will teach Hontai Yoshin Ryu jujutsu   and related weapons, while Khalily Sensei will offer instruction in   Chito Ryu karate-do. This U.S. event is going to be a lot of fun, and it   offers our me<span class="text_exposed_show">mbers a chance to study  two martial traditions that are rarely taught outside of Japan. Read more in our Events section.<br />
+</span></span>                <br style='clear:both'/>
+    </div>
+
+    
+    <div class='news'>
+        <strong>06/04/2013: </strong>
+        Yamamoto Sensei Joins the SMAA Board of Advisors                <br/>
+        We would like to welcome Richard Yamamoto Sensei to the SMAA Board of Advisors! Yamamoto Sensei has been practicing classic Kodokan judo since he was a teenager. At over 90 years of age, Yamamoto Sensei is still a very active senior citizen and a seventh dan with the Kodokan Judo Insitute in Tokyo. One of the pioneers of judo in the Northwestern part of the US, Yamamoto Sensei was the chief instructor of Seikikan Judojo for many years. Seikikan was established in the 1930's.                <br style='clear:both'/>
+    </div>
+
+    
+    <div class='news'>
+        <strong>06/04/2013: </strong>
+        SMAA Europe Seminar                <br/>
+        The SMAA Europe Seminar will take place in England, with Paul and Lee Masters Sensei as the featured instructors. The subject will be Tenjin Shinyo Ryu jujutsu, an ancient martial art. Get more information in our Events section. Don't miss your chance to study a martial art that is rarely offered to the public.                <br/>
+        <a href='https://www.facebook.com/events/648644615149008/'>Click here for more information.</a>
+                <br style='clear:both'/>
+    </div>
+
+    
+    <div class='news'>
+        <strong>05/07/2013: </strong>
+        2013 SMAA Aikido Camp: June 3 - 8, USA                <a href="dbpix/image_.jpg"><img src="dbpix/tn_image_.jpg" alt='' /></a>
+                <br/>
+        The SMAA and the Aikikai HQ (Tokyo) are co-sponsors of a great aikido camp in Georgia. The instructor will be SMAA certified teacher Max Roach Sensei (aikido sandan and iaido yondan). 
+
+Practiced in a spirit of non-competition, Aikikai aikido is fun and practical self-defense. This camp will be beneficial for new and advanced students alike. Instruction will focus on basic and intermediate defensive techniques, including unbalancing and pinning techniques, arm bars, wrist techniques, sweeps, and hip throws. Participants will cultivate balance, coordination, concentration and self-awareness. 
+
+Pre-registered participants who sign up by May 24 will receive a free uniform. Please contact Mr. Roach with your height and weight for uniform pre-orders. Teacher and group discounts also available. Housing may be available if requested in advance.
+
+Questions? Send e-mail to roach.max@gmail.com. We hope to see everyone at this fun and exciting event. And don't forget to ask for your SMAA member discount.                <br style='clear:both'/>
+    </div>
+
+    
+    <div class='news'>
+        <strong>05/07/2013: </strong>
+        Masters Sensei Joins the SMAA                <a href="dbpix/image__.jpg"><img src="dbpix/tn_image__.jpg" alt='' /></a>
+                <br/>
+        Paul Masters Sensei has joined the SMAA. Masters Sensei lives in England, and he is a direct student of Kubota Toshihiro Sensei, who is widely acknowledged as the most senior teacher of Tenjin Shinyo Ryu jujutsu alive today. Kubota Sensei inherited this over 200 year old martial art, a discipline that was instrumental in the formation of Kodokan judo. Masters Sensei has received a menkyo kaiden, a certificate of full transmission, from Mr. Kubota, which makes him the highest ranking practitioner of Tenjin Shinyo Ryu in the world (aside from Kubota Sensei). Masters Sensei joins other prominent teachers of traditional jujutsu in the SMAA, along with his son Lee Masters, who is also a jujutsu expert. We are honored to welcome Paul and Lee Masters to the SMAA.                <br style='clear:both'/>
+    </div>
+
+    
+    <div class='news'>
+        <strong>11/13/2012: </strong>
+        SMAA 2013 Dues                <a href="dbpix/mushinimage__.png"><img src="dbpix/tn_mushinimage__.png" alt='' /></a>
+                <br/>
+        <div style="margin: 0in 0in 0pt" align="justify"><span style="font-size: 12pt"><font size="4" face="Times New Roman">Every year the SMAA collects dues on January 1. Please be sure to make your contribution on or before this date. You can send a check or money order directly to our headquarters, or you can pay conveniently with a credit card or PayPal at our website: </font><a href="http://smaa-hq.com/payments.php"><font color="#0000ff" size="4" face="Times New Roman">http://smaa-hq.com/payments.php</font></a><font size="4" face="Times New Roman">. </font></span></div>                <br style='clear:both'/>
+    </div>
+
+    
+    <div class='news'>
+        <strong>07/25/2012: </strong>
+        Donnelly Sensei                <a href="dbpix/Mike8.jpg"><img src="dbpix/tn_Mike8.jpg" alt='' /></a>
+                <br/>
+        <p align="justify"><font size="3" face="Times New Roman">On July 20, 2012 SMAA Senior Advisor Michael Donnelly passed away suddenly from heart-related issues. He was 61 years old. <br />
+<br />
+Donnelly Sensei was one of the first people to join the SMAA. He actually paid for our newsletters and partially funded the SMAA for the first couple years of its existence. He also hosted the first SMAA Seminar, bringing the late Walter Todd Sensei to his dojo to teach aikido. <br />
+<br />
+</font><span class="text_exposed_show"><font size="3" face="Times New Roman">He used his experience as an attorney to offer the SMAA free legal advice. He also helped with the design of the SMAA logo and patch. And at one point, when we really needed someone to take over as General Manager, he took on this role for about two years. (Nicklaus Suino Sensei succeeded Donnelly Sensei as SMAA General Manager.) Donnelly Sensei did all of this for free.<br />
+<br />
+Not every SMAA member knew Donnelly Sensei personally, but all of us have benefited from his contributions to the SMAA. The SMAA has lost one of its most devoted members, but his vision of a budo fraternity, a worldwide martial arts association without politics or conflict, will live on. In some ways, the SMAA is part of his legacy. Let's all work together to further this unique international organization that fosters friendship among budoka, regardless of martial arts style or nationality.</font></span></p>                <br style='clear:both'/>
+    </div>
+
+    
+    <div class='news'>
+        <strong>05/14/2012: </strong>
+        Sato Tadayuki &amp; John B. Gage U. S. Seminar                <a href="dbpix/tadayukisato3.jpg"><img src="dbpix/tn_tadayukisato3.jpg" alt='' /></a>
+                <br/>
+        <p align="justify">On August 17, 18 and 19 Sato Tadayuki Sensei and John Gage Sensei will teach a special seminar in the USA. The event will be hosted by Nicklaus Suino Sensei, SMAA Judo Division Director, and it will take place in Ann Arbor, Michigan. Instruction will be in the Kodokan judo of Kano Jigoro Sensei, the Shodokan aikido of Tomiki Kenji Sensei, and Sato Shizuya's system of modern Nihon jujutsu. Special discounts are offered to SMAA members. Go to the Events section of this website to learn how you can study with two of Japan's leading martial arts teachers.</p>                <br style='clear:both'/>
+    </div>
+
+    
+    <div class='news'>
+        <strong>03/01/2012: </strong>
+        Tax Deductible Donations                <a href="dbpix/GuyPower3.jpg"><img src="dbpix/tn_GuyPower3.jpg" alt='' /></a>
+                <br/>
+        <p style="text-align: justify; margin: 0in 0in 0pt" class="MsoNormal"><span style="font-family: &quot;Times New Roman&quot;; font-size: 12pt">The SMAA is a federally tax-exempt, nonprofit corporation. As such, your donations to our association are tax deductible. Send your donations, in the form of a check or money order (made out to SMAA), to our headquarters in </span><st1:state><st1:place><span style="font-family: &quot;Times New Roman&quot;; font-size: 12pt">Michigan</span></st1:place></st1:state><span style="font-family: &quot;Times New Roman&quot;; font-size: 12pt">. We&rsquo;ll send you a letter back acknowledging your contribution, which you can than use for tax purposes. We hope you&rsquo;ll support the SMAA in our goal to preserve and promote traditional budo and koryu bujutsu.<o:p></o:p></span></p>                <br style='clear:both'/>
+    </div>
+
+    
+    <div class='news'>
+        <strong>04/11/2011: </strong>
+        SMAA Europe Seminar with Suzuki Kunio Sensei                <a href="dbpix/SuzukiKunio3_.jpg"><img src="dbpix/tn_SuzukiKunio3_.jpg" alt='' /></a>
+                <br/>
+        Don't miss the 2011 SMAA Europe Seminar in England! Featuring Suzuki Kunio Sensei, direct from Japan, who will teach classic Nakamura Ryu swordsmanship.&nbsp;This is your chance to learn the art of the samurai sword from an eighth-degree black belt and a member of the SMAA Board of Advisors.<br />
+<br />
+Click on the link to learn more about this special event, which will be hosted by John Evans Sensei, SMAA Senior Advisor. But don't wait too long to register, as the number of students that can be accepted is limited to insure top quality instruction.                <br/>
+        <a href='http://shudokanmartialartsassociation.blogspot.com/2011/04/smaa-europe-seminar-with-suzuki-kunio.html'>Click here for more information.</a>
+                <br style='clear:both'/>
+    </div>
+
+    
+    <div class='news'>
+        <strong>08/05/2010: </strong>
+        Otsuka Yasuyuki Soke joins the SMAA                <a href="dbpix/otsukayasuyuki7.jpg"><img src="dbpix/tn_otsukayasuyuki7.jpg" alt='' /></a>
+                <br/>
+        Otsuka Yasuyuki Sensei, the current Soke (Headmaster) of Meifu-Shinkage Ryu, has joined the SMAA Board of Advisors. Meifu-Shinkage Ryu is based on Katori Shinto Ryu, one of Japan's oldest forms of koryu bujutsu. Meifu-Shinkage Ryu specializes in the use of shuriken (throwing stars and darts) and the fundo kusari, a weighted chain. Otsuka Sensei is one of the highest ranking martial artists in Japan and one of very few people in the world teaching an authentic system of shuriken-jutsu. His desire to join the SMAA points to the value of the work our group is doing internationally to promote and preserve genuine Japanese budo and koryu bujutsu.&nbsp;<br />
+<br />
+The SMAA is active throughout the world and lead by both Western and Japanese martial arts experts. Otsuka Sensei joins a number of prominent martial arts teachers in Japan, who actively support our association and validate the ranks issued by the SMAA. Their presence in the SMAA speaks volumes about the importance of our group and the&nbsp;degree to which it is respected in Japan, the birthplace of budo and koryu bujutsu.                <br style='clear:both'/>
+    </div>
+
+    
+    <div class='news'>
+        <strong>04/08/2010: </strong>
+        A Note to SMAA Members                <a href="dbpix/smaabanner.png"><img src="dbpix/tn_smaabanner.png" alt='' /></a>
+                <br/>
+        <div align="justify">We have recently become aware of at least one other martial arts group that uses the acronym &ldquo;SMAA.&rdquo; Please note that the Shudokan Martial Arts Association is not affiliated with any other group or organization that uses SMAA to identify itself. Though we do not believe any careful observer would confuse our thoughtful, traditional approach with that of another organization, we suggest that you be sure to type in &ldquo;Shudokan Martial Arts Association&rdquo; when seeking information about our association. Our website can be found at http://www.smaa-hq.com/, and our Facebook page at <a href="http://www.facebook.com/ShudokanMartialArtsAssociation">http://www.facebook.com/ShudokanMartialArtsAssociation</a>.</div>                <br style='clear:both'/>
+    </div>
+
+    
+    <div class='news'>
+        <strong>06/25/2009: </strong>
+        Cynthia Hayashi Sensei, Aikikai aikido sixth-degree black belt, has joined the SMAA                <a href="dbpix/HayashiSensei2.jpg"><img src="dbpix/tn_HayashiSensei2.jpg" alt='' /></a>
+                <br/>
+                        <br/>
+        <a href='http://shudokanmartialartsassociation.blogspot.com/2009/06/hayashi-sensei-joins-smaa.html'>Click here for more information.</a>
+                <br style='clear:both'/>
+    </div>
+
+    
+</div> <!-- box -->
+
+<div id='footer'>
+Copyright © 1997-2009 Shudokan Martial Arts Association.<br />
+All rights reserved.<br />
+Send feedback to: shudokan@smaa-hq.com<br />
+<a href='links.php'>Links</a>
+</div> <!-- footer -->
+
+</div> <!-- content -->
+
+
+
+
+<div id='left'>
+    <img src='images/mon1.png' alt='smaa logo' />
+  <div id='menu'>
+      <a href='index.php'>home</a><br />
+      <a href='about.php'>about the SMAA</a><br />
+      <a href='events.php'>events</a><br />
+      <a href='directors.php'>directors</a><br />
+      <a href='advisors.php'>advisors</a><br />
+      <a href='divisions.php'>divisions</a><br />
+      <a href='membership.php'>membership</a><br />
+      <a href='ranking.php'>ranking</a><br />
+      <a href='martial_arts_certificates.php'>certificates</a><br />
+      <a href='publications.php'>publications</a><br />
+      <a href='articles.php'>articles</a><br />
+      <a href='payments.php'>payments</a><br />
+      <a href='http://www.cafepress.com/shudokan/'>store</a><br />
+      <a href='faq.php'>faq</a><br />
+      <a href='http://shudokanmartialartsassociation.blogspot.com/'>
+         blog</a><br />
+  </div>
+
+<p>
+SMAA HQ<br />
+PO Box 6022<br />
+Ann Arbor, MI 48106-6022<br />
+USA<br />
+</p>
+
+<p>
+Phone:
+  1-734-645-6441<br />
+E-mail:
+  shudokan@smaa-hq.com 
+</p>
+
+<p>
+  <a href='http://www.facebook.com/ShudokanMartialArtsAssociation'>
+    <img class='nob' src='images/facebook.gif' alt='find us on facebook' />
+  </a>
+</p>
+
+</div> <!-- left -->
+
+</div> <!-- container -->
+
+</body>
+
+</html>
+
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.dnbk.org/>====================
+<html>
+  <head>
+    <title>Dai Nippon Butoku Kai</title>
+    <script language="JavaScript">
+      HistoryOff     = new Image(254,54);  HistoryOff.src     = "resources/images/Index_HistoryOff.gif"
+      HistoryOn      = new Image(254,54);  HistoryOn.src      = "resources/images/Index_HistoryOn.gif"
+      HEventsOff     = new Image(230,113); HEventsOff.src     = "resources/images/Index_heventsOff.gif"
+      HEventsOn      = new Image(230,113); HEventsOn.src      = "resources/images/Index_heventsOn.gif"
+      HonbuOff       = new Image(230,114); HonbuOff.src       = "resources/images/Index_honbuOff.gif"
+      HonbuOn        = new Image(230,114); HonbuOn.src        = "resources/images/Index_honbuOn.gif"
+      HOfficialsOff  = new Image(230,93);  HOfficialsOff.src  = "resources/images/Index_hofficialsOff.gif"
+      HOfficialsOn   = new Image(230,93);  HOfficialsOn.src   = "resources/images/Index_hofficialsOn.gif"
+      IEventsOff     = new Image(230,113); IEventsOff.src     = "resources/images/Index_ieventsOff.gif"
+      IEventsOn      = new Image(230,113); IEventsOn.src      = "resources/images/Index_ieventsOn.gif"
+      InternationalOff    = new Image(253,114); InternationalOff.src    = "resources/images/Index_internationalOff.gif"
+      InternationalOn     = new Image(253,114); InternationalOn.src     = "resources/images/Index_internationalOn.gif"
+      IRepresentativesOff = new Image(253,93);  IRepresentativesOff.src = "resources/images/Index_irepresentativesOff.gif"
+      IRepresentativesOn  = new Image(253,93);  IRepresentativesOn.src  = "resources/images/Index_irepresentativesOn.gif"
+    </SCRIPT>
+
+    <script language="JavaScript" type="text/javascript">
+      <!--
+        function click() {
+          if (event.button==2) {
+            alert('© 2003-2013 Dai Nippon Butoku Kai')
+          }
+        }
+        document.onmousedown=click
+ 
+        window.oncontextmenu = function () { 
+            alert('© 2003-2013 Dai Nippon Butoku Kai')
+            return false;
+         }
+      //-->
+    </script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <link href="default.css" rel="stylesheet" type="text/css">
+
+  </head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="resources/images/index_bg.gif"><center>
+<table border="0" cellpadding="0" cellspacing="0">
+
+  <tr><td colspan=3 align=center width=760><img src="resources/images/index_title.gif" border=0></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign=top align=right><a href="honbu.cfm" onMouseOver="Honbu.src = HonbuOn.src" onMouseOut ="Honbu.src = HonbuOff.src" title="Honbu, Kyoto."><img src="resources/images/index_honbuOff.gif" name="Honbu" border=0></a><br>
+            <a href="hofficials.cfm"
+                   onMouseOver="HOfficials.src = HOfficialsOn.src" onMouseOut ="HOfficials.src = HOfficialsOff.src" 
+                   title="DNBK Honbu Officials."
+            ><img src="resources/images/index_hofficialsOff.gif" name="HOfficials" border=0></a><br>
+            <a href="hevents.cfm"
+                   onMouseOver="HEvents.src = HEventsOn.src" onMouseOut ="HEvents.src = HEventsOff.src" 
+                   title="DNBK Honbu Events."
+            ><img src="resources/images/index_heventsOff.gif" name="HEvents" border=0></a></td>
+
+    <td valign=top align=center width=254><img src="resources/images/index_kanji.gif" border=0><br><img src="resources/images/index_logo.gif" border=0><br>
+            <a href="history.cfm"
+             onMouseOver="History.src = HistoryOn.src" onMouseOut ="History.src = HistoryOff.src" 
+                   title="DNBK History and Pholosophy."
+             ><img src="resources/images/index_HistoryOff.gif" name="History" border=0></a>
+    </td>
+
+    <td valign=top align=left><a href="international.cfm" onMouseOver="International.src = InternationalOn.src" onMouseOut ="International.src = InternationalOff.src" title="DNBK International Division."><img src="resources/images/index_internationalOff.gif" name=International border=0></a><br>
+            <a href="irepresentatives.cfm"
+                   onMouseOver="IRepresentatives.src = IRepresentativesOn.src" onMouseOut ="IRepresentatives.src = IRepresentativesOff.src" 
+                   title="DNBK International Representatives."
+            ><img src="resources/images/index_irepresentativesOff.gif" name="IRepresentatives" border=0></a><br>
+            <a href="ievents.cfm"
+                   onMouseOver="IEvents.src = IEventsOn.src" onMouseOut ="IEvents.src = IEventsOff.src" 
+                   title="DNBK International Events."
+            ><img src="resources/images/index_ieventsOff.gif" name="IEvents" border=0></a>
+    </td>
+  </tr>
+</table>
+<table width="760" border="0" cellpadding="0" cellspacing="0">
+  <tr><td colspan="3" align=center><img src="resources/images/index_dnbk.gif" width="760" height="65" border=0></td></tr>
+  <tr>
+    <td colspan="3"><p class="copyright" style="color:#999999">© Dai Nippon Butoku Kai. All rights reserved. No part of this publication may be copied, reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without written permission from Honbu Dai Nippon Butoku Kai, USA and International Division</p></td>
+  </tr>
+</table>
+</center></body></html>++++++++++++++++++++<Over>++++++++++++++++++++

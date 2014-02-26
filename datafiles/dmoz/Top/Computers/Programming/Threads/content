@@ -1,0 +1,81 @@
+<topic r:id="Top/Computers/Programming/Threads">
+<catid>378653</catid>
+<link r:resource="http://liinwww.ira.uka.de/bibliography/Os/threads.html" />
+<link r:resource="http://www.lambdacs.com/cpt/FAQ.html" />
+<link r:resource="http://state-threads.sourceforge.net/" />
+<link r:resource="http://www.gotw.ca/publications/guest-ed-200609.htm" />
+<link r:resource="http://www.gotw.ca/publications/concurrency-ddj.htm" />
+<link r:resource="http://www.computer.org/portal/site/computer/menuitem.5d61c1d591162e4b0ef1bd108bcd45f3/index.jsp?&amp;pName=computer_level1_article&amp;TheCat=1005&amp;path=computer/homepage/0506&amp;file=cover.xml&amp;xsl=article.xsl&amp;" />
+<link r:resource="http://www.serpentine.com/blog/threads-faq/" />
+<link r:resource="http://www.ciaranmchale.com/gsp/" />
+<link r:resource="http://www.codeguru.com/cpp/misc/misc/threadsprocesses/article.php/c15545/" />
+<link r:resource="http://www.pearsonhighered.com/educator/academic/product/0,,0201357526,00%2Ben-USS_01DBC.html" />
+<link r:resource="http://www.pearsonhighered.com/educator/academic/product/0,,0805300864,00%2Ben-USS_01DBC.html" />
+<link r:resource="http://broadcast.oreilly.com/2009/06/may-column-multithreaded-algor.html" />
+<link r:resource="http://www.devx.com/cplus/Article/42725" />
+<link r:resource="http://www.informit.com/articles/article.aspx?p=1609144" />
+<link r:resource="http://queue.acm.org/detail.cfm?id=1095421" />
+<link r:resource="http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html" />
+<link r:resource="http://www.1024cores.net/" />
+<link r:resource="http://herbsutter.com/welcome-to-the-jungle/" />
+<link r:resource="http://drdobbs.com/go-parallel/article/222301165" />
+<link r:resource="http://drdobbs.com/go-parallel/article/219500200" />
+<link r:resource="http://drdobbs.com/go-parallel/article/221601309" />
+<link r:resource="http://drdobbs.com/go-parallel/article/220600388" />
+<link r:resource="http://www.drdobbs.com/go-parallel/article/showArticle.jhtml?articleID=217801299" />
+<link r:resource="http://www.drdobbs.com/go-parallel/article/showArticle.jhtml?articleID=216500409" />
+<link r:resource="http://static.usenix.org/publications/library/proceedings/usenix-nt98/full_papers/zabatta/zabatta_html/zabatta.html" />
+<link r:resource="http://www.risc.jku.at/software/rt++/" />
+<link r:resource="http://dunkels.com/adam/pt/" />
+<link r:resource="http://www.drdobbs.com/parallel/apply-critical-sections-consistently/202401098" />
+<link r:resource="http://www.drdobbs.com/parallel/use-lock-hierarchies-to-avoid-deadlock/204801163" />
+<link r:resource="http://www.drdobbs.com/cpp/application-level-abstractions-for-lock-/205200452" />
+<link r:resource="http://www.drdobbs.com/cpp/lock-free-interprocess-communication/189401457" />
+<link r:resource="http://www.drdobbs.com/parallel/the-pillars-of-concurrency/200001985" />
+<link r:resource="http://www.drdobbs.com/cpp/multithreaded-debugging-techniques/199200938" />
+<link r:resource="http://www.drdobbs.com/cpp/volatile-the-multithreaded-programmers-b/184403766" />
+<link r:resource="http://www.drdobbs.com/parallel/maximize-locality-minimize-contention/208200273" />
+<link r:resource="http://www.drdobbs.com/parallel/the-many-faces-of-deadlock/209900973" />
+<link r:resource="http://www.drdobbs.com/parallel/writing-lock-free-code-a-corrected-queue/210604448" />
+<link r:resource="http://www.drdobbs.com/cpp/whats-new-in-boost-threads/211600441" />
+<link r:resource="http://www.drdobbs.com/parallel/understanding-parallel-performance/211800538" />
+<link r:resource="http://www.drdobbs.com/cpp/lock-options/212201754" />
+<link r:resource="http://www.drdobbs.com/parallel/measuring-parallel-performance-optimizin/212201163" />
+<link r:resource="http://www.drdobbs.com/parallel/multithreaded-file-io/220300055" />
+<link r:resource="http://www.drdobbs.com/architecture-and-design/sharing-is-the-root-of-all-contention/214100002" />
+<link r:resource="http://www.drdobbs.com/cpp/lock-free-code-a-false-sense-of-security/210600279" />
+<link r:resource="http://queue.acm.org/detail.cfm?id=1454462" />
+<link r:resource="http://www.drdobbs.com/parallel/fundamental-concepts-of-parallel-program/212002418" />
+<link r:resource="http://www.embedded.com/electronics-blogs/beginner-s-corner/4023947/Introduction-to-Priority-Inversion" />
+<link r:resource="http://www.drdobbs.com/cpp/its-not-always-nice-to-share/217600495" />
+<link r:resource="http://www.drdobbs.com/parallel/use-threads-correctly-isolation-asynch/215900465" />
+</topic>
+<topic r:id="Top/Computers/Programming/Threads/POSIX">
+<catid>378654</catid>
+<link r:resource="http://www.mit.edu/people/proven/IAP_2000/index.html" />
+<link r:resource="http://pauillac.inria.fr/~xleroy/linuxthreads/faq.html" />
+<link r:resource="http://www.gnu.org/software/pth/" />
+<link r:resource="http://lwn.net/Articles/10465/" />
+<link r:resource="http://www.laptev.org/doc/pthreads.html" />
+<link r:resource="http://users.actcom.co.il/~choo/lupg/tutorials/multi-thread/multi-thread.html" />
+<link r:resource="http://vergil.chemistry.gatech.edu/resources/programming/threads.html" />
+<link r:resource="http://www.linuxdevcenter.com/pub/a/linux/2007/05/24/semaphores-in-linux.html" />
+<link1 r:resource="http://www.opengroup.org/onlinepubs/009695399/functions/xsh_chap02_09.html"></link1>
+<link r:resource="http://www.ibm.com/developerworks/library/l-posix3/" />
+<link r:resource="http://www.ibm.com/developerworks/library/l-posix2/" />
+<link r:resource="http://www.ibm.com/developerworks/library/l-pthred.html" />
+<link r:resource="http://0pointer.de/blog/projects/mutrace.html" />
+<link r:resource="http://www.akkadia.org/drepper/nptl-design.pdf" />
+<link r:resource="https://computing.llnl.gov/tutorials/pthreads/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Threads/Win32">
+<catid>378656</catid>
+<link r:resource="http://www.amazon.com/exec/obidos/ASIN/0130109126" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/ms810427.aspx" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/ms810438.aspx" />
+<link r:resource="http://sourceforge.net/projects/pelt/" />
+<link r:resource="http://msdn.microsoft.com/en-us/magazine/cc163405.aspx" />
+<link r:resource="http://msdn.microsoft.com/en-us/magazine/gg232758.aspx" />
+<link r:resource="http://www.sourceware.org/pthreads-win32/" />
+<link r:resource="http://blogs.technet.com/b/markrussinovich/archive/2009/07/08/3261309.aspx" />
+</topic>

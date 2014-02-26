@@ -1,0 +1,570 @@
+====================<http://www.pasteur.fr/recherche/BNB/bnb-en.html>====================
+<?xml version="1.0" encoding="iso8859-15" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+  </head>
+  <body>
+    <h1>The BioNetbook has been discontinued</h1>
+  </body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.nextbio.com/>====================
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" class='HomePage'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="/b/s/css3-s/corp.css?20131029_133824" />
+<link rel="stylesheet" href="/b/include/script.nbs?type=css&name=autocomplete&apiKey=nextbio-test&v=1.0" />
+<!--[if lte IE 6]>
+<style type="text/css">/* <![CDATA[ */ @import url(/b/s/css3-s/cpie6.css?20131029_133824); /* ]]> */</style>
+<![endif]-->
+<link rel="shortcut icon" href="/b/s/img3/favicon.ico" type="image/x-icon" />
+<script type='text/javascript'>
+<!--
+var nb = {
+system:"PUBLIC",root:"/b",img:"/b/s/img3",js:"/b/s/js3-s",
+appContext:"b",
+userId: "",
+secure:"false",
+domainName: "PUBLIC"
+};
+//-->
+</script>
+<script type='text/javascript' src='/b/s/js3-s/3rd/prototype-1.7.1.js'></script>
+<script type='text/javascript' src='/b/s/js3-s/3rd/rsh0.6/rsh.js'></script>
+<script type='text/javascript' src='/b/s/js3-s/3rd/jquery/jquery-1.7.2.min.js?20131029_133824'></script>
+<script type="text/javascript" src="/b/s/js3-s/3rd/jquery.cycle.all.js?20131029_133824"></script>
+<script>
+var $j = jQuery.noConflict();
+</script>
+<script type='text/javascript' src='/b/s/js3-s/nb/nb.js?20131029_133824'></script>
+<script type='text/javascript' src='/b/include/script.nbs?type=js&name=autocomplete,effects,notips,popup&apiKey=nextbio-test&v=1.0'></script>
+<title>NextBio</title>
+</head>
+<body>
+<a id="ie7Test" href="#ie7Test" style="position:absolute; top: -1000px; left: -1000px;"></a>
+<div class="Wrapper ">
+<div class="Plate">
+<div class="PlateContent">
+<div class="PlateContentInner">
+<div class="HeaderWrap">
+<h1 class="HomeLogo"><strong><span>
+<a href="/b/" onclick='return chkAboutBox(event)'><img src="/b/s/img3/nextbio_ilmn.png" alt="NextBio" /></a>
+</span></strong></h1>
+<div class="HeaderSearch" style="visibility: hidden">
+<div class="SearchField">
+<form action="/b/search/ov.nb" onsubmit="return submitSearch()">
+<fieldset>
+<label for="q"></label>
+<input type="text"
+class="SearchFieldInput SearchFieldInputGray"
+id="q" name="q"
+value="Start your research here..."
+onblur="searchBlur()" onfocus="searchFocus()"
+autocomplete="off" />
+<input type="submit" class="SearchFieldSubmit" value="" />
+</fieldset>
+</form>
+</div>
+<p class="Eg">
+<span class="EgNew"><a href="/b/corp/products_basic.nb">New to NextBio?</a></span>
+<small>
+(e.g.
+<a href="/b/search/ov/Aspirin">Aspirin</a>,
+<a href="/b/search/ov/rs6983267">rs6983267</a>,
+<a href="/b/search/ov/VEGFA">VEGFA</a>,
+<a href="/b/search/ov/microtubule">microtubule</a>,
+<a href="/b/search/ov/Influenza">Influenza</a>,
+<a href="/b/search/ov/Stem%20cell">Stem cell</a>,
+<a href="/b/search/ov/Personalized%20medicine">Personalized medicine</a>)
+</small>
+</p>
+</div>
+<div class="HeaderLogin" style="width: 350px; margin-left: 620px;">
+<p class="UserLinks">
+<a href="/b/authentication/login.nb" class="GrayButton">
+<strong><span>Login to NextBio Research</span></strong>
+</a>
+</p>
+<p class="UserLinks" style="">
+Not a member? <a href="/b/register/register.nb">Sign up</a>
+</p>
+</div>
+<div class="announcementILMN" style=" ">
+<a href="http://investor.illumina.com/phoenix.zhtml?c=121127&p=irol-newsArticle&ID=1869001&highlight="><strong>Illumina, Inc. (NASDAQ:ILMN) Acquires NextBio</strong></a>
+</div>
+</div>
+</div>
+</div>
+<div class="PlateFoot"><div class="PlateFoot1"><div class="PlateFoot2"></div></div></div>
+</div>
+<div class="Nav">
+<ul>
+<li class="Selected"><a href="/b/nextbioCorp.nb"><strong><span class="NavHome">Home</span></strong></a></li>
+<li><a href="/b/corp/products.nb"><strong>Products</strong></a></li>
+<li><a href="/b/corp/customers.nb"><strong>Customers</strong></a></li>
+<li><a href="/b/corp/publications.nb"><strong>Resources</strong></a></li>
+<li><a href="/b/corp/pressReleases.nb"><strong>News &amp; Events</strong></a></li>
+<li><a href="/b/corp/management.nb"><strong>Company</strong></a></li>
+<li><a href="http://blog.nextbio.com/" target="nbBlog"><strong>Blog</strong></a></li>
+</ul>
+</div>
+<div class="HomeContent">
+<div class="Plate HomeMain">
+<div class="PlateHead"><div class="PlateHead1"><div class="PlateHead2"></div></div></div>
+<div class="PlateContent">
+<div class="PlateContentInner">
+<div style="padding:15px 0px 0px 30px;">
+<div class="Video">
+<div id="videoContainer" class="VideoContainer rotator" style="cursor: pointer;">
+<img src="/b/s/img3/illumina_notice.png" width="670" height="377"
+onclick="location='http://investor.illumina.com/phoenix.zhtml?c=121127&p=irol-newsArticle&ID=1869001&highlight='" class="slide" />
+<img src="/b/s/img3/video1.png" width="670" height="377" onclick="videoOnCllick('.slide');" class="slide" />
+</div>
+<!--
+<div class="VideoOverlay" onclick="videoOnCllick(this);">
+<div class="VideoButton"></div>
+<div class="TextOverlay"></div>
+</div>
+-->
+</div>
+<div id="slide_controls" style="margin:-10px 0px 5px 295px;">
+<a id="prev" href="#" style="margin-right:20px;">
+<img src="/b/s/img3/framed/back.png" />
+</a>
+<a id="next" href="#">
+<img src="/b/s/img3/framed/next.png" />
+</a>
+</div>
+</div>
+<div class="HomeText">
+<p>Modern medicine is quickly becoming an information-driven science. Improving patient care and developing personalized therapies depends increasingly on an organization’s ability to rapidly and intelligently leverage complex molecular and clinical data from a variety of internal, partner and public sources.</p>
+<p>NextBio's <a href="/b/corp/videos.nb"> big data technology </a>enables users to systematically integrate and interpret public and proprietary molecular data and clinical information from individual patients, population studies and model organisms, thus applying genomic data in novel and useful ways, both in research and in the clinic.</p>
+</div>
+<div class="HomeColumns">
+<div class="HomeLeftColumn">
+<div class="HomeTitle" style="height:40px;">
+<div class="PharmaIcon" style="float:left;"></div>
+<div style="padding-top: 17px;">Pharma / Biotech</div>
+</div>
+<ul>
+<li>Discover and assess drug targets in animal models and patient cohorts</li>
+<li>Explore large collection of molecular data to understand mechanisms of disease and drug action</li>
+<li>Discover biomarkers through retrospective analysis of large collections of patient data</li>
+<li>Optimize clinical trials by predicting patient responses to new and existing therapies</li>
+</ul>
+<a href="/b/corp/products_pharma_biotech.nb" class="BlueLink">
+<em></em>Learn more
+</a>
+</div>
+<div class="HomeRightColumn">
+<div class="HomeTitle" style="height:40px;">
+<div class="MedicalIcon" style="float:left;"></div>
+<div style="padding-top: 17px;">Medical / Academic</div>
+</div>
+<ul>
+<li>Interpret individual patient data for therapeutic guidance, prognostic and predictive information</li>
+<li>Discover novel biomarkers within the context of current and past clinical trials, both proprietary and published</li>
+<li>Explore disease mechanisms</li>
+<li>Understand gene function, role in disease and tissue development and differentiation</li>
+</ul>
+<a href="/b/corp/products_academic_medical.nb" class="BlueLink">
+<em></em>Learn more
+</a>
+</div>
+<div class="Clear"></div>
+</div>
+</div>
+</div>
+<div class="PlateFoot"><div class="PlateFoot1"><div class="PlateFoot2"></div></div></div>
+</div>
+<div class="Sidebar">
+<!--
+<div class="Plate">
+<div class="PlateHead"><div class="PlateHead1"><div class="PlateHead2"></div></div></div>
+<div class="PlateContent">
+<div class="PlateContentInner">
+<h3 class="WatchTitle">Watch the GUIDED TOURs</h3>
+<ul class="WatchList">
+</ul>
+</div>
+</div>
+<div class="PlateFoot"><div class="PlateFoot1"><div class="PlateFoot2"></div></div></div>
+</div>
+<br /><br />
+-->
+<h3 class="HomeTitle">Featured Customers</h3>
+<ul class="CustomersList">
+<li>Abbott</li>
+<li>Actelion</li>
+<li>Amgen</li>
+<li>Astellas</li>
+<li>Boehringer Ingelheim</li>
+<li>Bristol-Myers Squibb</li>
+<li>Brown University</li>
+<li>Celgene</li>
+<li>Centocor</li>
+<li>Daiichi Sankyo</li>
+<li>Dainippon Sumitomo</li>
+<li>Emory University</li>
+<li>Genzyme</li>
+<li>GlaxoSmithKline</li>
+<li>Harvard Medical School</li>
+<li>Health Canada</li>
+<li>Integrated Diagnostics</li>
+<li>InterMune</li>
+<li>International Medical Center of Japan</li>
+<li>Japan Tobacco</li>
+<li>Johnson & Johnson</li>
+<li>Keio University</li>
+<li>Kyoto University</li>
+<li>Kyowa Hakko Kirin</li>
+<li>MD Anderson Cancer Center</li>
+<li>MedImmune</li>
+<li>Merck</li>
+<li>National Cancer Center</li>
+<li>National Institute of Health</li>
+<li>Novartis</li>
+<li>Oklahoma State University</li>
+<li>Ono Pharmaceutical</li>
+<li>Osaka University</li>
+<li>Pfizer</li>
+<li>Philip Morris International</li>
+<li>Regeneron</li>
+<li>Sanford-Burnham</li>
+<li>Sanofi</li>
+<li>Stanford University</li>
+<li>Takeda</li>
+<li>Teijin</li>
+<li>TGEN</li>
+<li>The Scripps Research Institute</li>
+<li>Thomas Jefferson University</li>
+<li>UCB-Celltech</li>
+<li>University of Miami</li>
+<li>University of Utah</li>
+<li>Uppsala University Hospital</li>
+<li>USC</li>
+<li>Zeria Pharmaceutical</li>
+</ul>
+<div class="CustMore">
+<a href="/b/corp/customers.nb" class="BlueLink">
+<em></em>View customer testimonials
+</a>
+</div>
+</div>
+<div class='Clear'></div>
+</div>
+<script>
+function videoOnCllick(obj){
+$j('.rotator').cycle('stop');
+$j('#slide_controls').hide();
+$j(obj).hide();
+$('videoContainer').removeClassName("VideoContainerImg");
+$('videoContainer').innerHTML = '\x3cobject width=\x22670\x22 height=\x22370\x22>\x3cparam name=\x22movie\x22 value=\x22http://www.youtube.com/v/j79jW_Di5sk?version=3\&amp;hl=en_US\&amp;rel=0\x22>\x3c/param>\x3cparam name=\x22autoplay\x22 value=\x221\x22>\x3c/param>\x3cparam name=\x22allowFullScreen\x22 value=\x22true\x22>\x3c/param>\x3cparam name=\x22allowscriptaccess\x22 value=\x22always\x22>\x3c/param>\x3cembed src=\x22http://www.youtube.com/v/j79jW_Di5sk?autoplay=1\&amp;version=3\&amp;hl=en_US\&amp;rel=0\x22 type=\x22application/x-shockwave-flash\x22 width=\x22670\x22 height=\x22370\x22 allowscriptaccess=\x22always\x22 allowfullscreen=\x22true\x22>\x3c/embed>\x3c/object>';
+}
+$j(document).ready(function() {
+$j('.rotator').cycle({
+prev:   '#prev',
+next:   '#next',
+fx:     'fade'
+});
+});
+</script>
+<div class="SiteMap">
+<ul>
+<li>
+<strong><a href="/b/corp/products.nb">Products</a></strong>
+<ul>
+<li><a href="/b/corp/products.nb">Overview</a></li>
+<li><a href="/b/corp/products_pharma_biotech.nb">Products for Pharmaceutical / Biotech</a></li>
+<li><a href="/b/corp/products_academic_medical.nb">Products for Academia / Medicine</a></li>
+</ul>
+</li>
+<li>
+<strong><a href="/b/corp/customers.nb">Customers</a></strong>
+<ul>
+<li><a href="/b/corp/customers.nb">Customer Testimonials</a></li>
+</ul>
+</li>
+<li>
+<strong><a href="/b/corp/publications.nb">Resources</a></strong>
+<ul>
+<li><a href="/b/corp/publications.nb">Publications</a></li>
+<li><a href="/b/corp/useCases.nb">Presentations</a></li>
+<li><a href="/b/corp/faq.nb">FAQ</a></li>
+<li><a href="/b/corp/apis.nb">APIs</a></li>
+<li><a href="/b/corp/blog.nb">Blog</a></li>
+</ul>
+</li>
+<li>
+<strong><a href="/b/corp/pressReleases.nb">News &amp; Events</a></strong>
+<ul>
+<li><a href="/b/corp/pressReleases.nb">Press Releases</a></li>
+<li><a href="/b/corp/news.nb">News</a></li>
+<li><a href="/b/corp/events.nb">Events</a></li>
+<li><a href="/b/corp/grants.nb">Grants</a></li>
+<li><a href="/b/corp/videos.nb">Videos</a></li>
+</ul>
+</li>
+<li>
+<strong><a href="/b/corp/management.nb">Company</a></strong>
+<ul>
+<li><a href="/b/corp/management.nb">Management</a></li>
+<li><a href="/b/corp/advisors.nb">Advisors</a></li>
+<li><a href="/b/corp/jobs.nb">Careers</a></li>
+<li><a href="/b/corp/contact.nb">Contact us</a></li>
+<li><a href="/b/corp/nextnews.nb">Newsletter</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="Footer">
+<p>&copy; 2013 NextBio </p>
+<ul>
+<li>| <a href="/b/corp/privacy_statement.nb">Privacy Policy</a></li>
+<li>| <a href="/b/corp/terms_of_service.nb">Terms of Service</a></li>
+<li>| <a href="/b/sitemap/sitemap.nb">Site Map</a></li>
+</ul>
+</div>
+</div>
+<script type='text/javascript' src='/b/s/js3-s/nb/corp.js?20131029_133824'></script>
+<script type='text/javascript'>
+<!--
+Event.observe(self,'load',function() {
+nbApi.createAutocomplete({searchBoxId: 'q',defaultText:"Start your research here...",defaultTextClass:"SearchFieldInputGray",focus:true});
+});
+dwText('q', "Start your research here...", "SearchFieldInputGray");
+filterCategories = filterSource = openDetails = submitDiscFilters = function(){signInLink()};
+nb.anon=true;
+nbRsh.init();
+//-->
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3589787-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<script src='http://edge.quantserve.com/quant.js' type='text/javascript'></script>
+<script type="text/javascript">_qacct="p-21CfAi4Jestt2";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-21CfAi4Jestt2" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-21CfAi4Jestt2.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://vadlo.com/>====================
+<!DOCTYPE html>
+	<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+<title>VADLO</title>
+<link rel="shortcut icon" href='http://vadlo.com/VADLOicon.ico' />
+<meta name="description" content="Search engine for biology and biomedical methods, techniques, reagents, powerpoints and bioinformatics resources.">
+<meta name="keywords" content="Laboratory Procedures, Assays, Experiments, Molecular, Biochemical, Recipes, Lectures, Formulations, Presentations, Websites, Directories, Instruction Manuals, Product Guides">
+<meta name="verify-v1" content="2pz4Ukay1y+GpzsR5kK0O6lSqqWhV80r9bqZi7QAUJA=" />
+<meta name="msvalidate.01" content="BD5E3CCAD4CD4453A0A24287DE7ACE19" />
+<meta name="msvalidate.01" content="7D47C1E2E8A868AA47B855A3E4B587D7" />
+<META name="y_key" content="b4a7a4f13bcab017">
+
+<!-- Sharethis -->
+<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=e2d687d0-0075-4688-88b6-183f9058532b&amp;type=website&amp;post_services=email%2Cfacebook%2Ctwitter%2Cmyspace%2Cdigg%2Cdelicious%2Cstumbleupon%2Cblogger%2Ctechnorati%2Cfriendfeed%2Cgoogle_bmarks%2Cyahoo_bmarks&amp;headerTitle=Share%20this%20cartoon%20with%20your%20friends!&amp;button=false"></script>
+<style type="text/css"> 
+body {font-family:helvetica,sans-serif;font-size:12px;}
+a.stbar.chicklet img {border:0;height:16px;width:16px;margin-right:3px;vertical-align:middle;}
+a.stbar.chicklet {height:16px;line-height:16px;}
+</style>
+
+<!-- Adsense -->
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-3825875341830792");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-3825875341830792", "Homepage_Left_Skyscraper_160x600");
+GA_googleAddSlot("ca-pub-3825875341830792", "Homepage_Right_Skyscraper_160x600");
+GA_googleAddSlot("ca-pub-3825875341830792", "Homepage_Central_Rectangle_336x280");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+
+<link rel="stylesheet" type="text/css" media='screen,print' href="ipb_styles1.css"/>
+
+<!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" title='Main' media="screen" href="ipb_ie.css"/>
+<![endif]-->
+<!--[if lte IE 8]>
+	<style type='text/css'>
+		.ipb_table { table-layout: fixed; }
+		.ipsLayout_content { width: 99.5%; }
+	</style>
+<![endif]-->
+		
+</head>
+	<body id='ipboard_body'>
+
+					<div id='ipbwrapper'>
+					
+			<!-- ::: BRANDING STRIP: Logo and search box ::: -->
+			<div id='branding'>
+				<div class='main_width'>
+				<ul id='admin_bar' class='ipsList_inline left'>
+					<div id='logo'>
+						
+<a href='http://vadlo.com/' title='Go to Homepage' ><img src='http://vadlo.com/VADLO_small_logo.png' alt='Logo' /></a>
+						
+					</div></ul>	
+						</div>
+				</div>
+			</div>
+			<!-- ::: APPLICATION TABS ::: -->
+			<div id='primary_nav' class='clearfix'>
+				<div class='main_width'>
+					<ul class='ipsList_inline' id='community_app_menu'>
+						
+<li id='nav_home' class='left '><a href='http://vadlo.com' title='Go to Homepage'>Home</a></li>
+<li id='nav_discussion' class='left'><a href='http://vadlo.com/bioforum/' title='Go to Forums'>Forums</a></li>
+<li class='left'><a href='http://vadlo.com/cartoons.php?id=1' title='Enjoy Research Cartoons'>Cartoons</a></li>
+<li class='left'><a href='http://vadlo.com/Molecular_biology_Protocols_Search.html' title='Search for Protocols'>Protocols</a></li>
+<li class='left'><a href='http://vadlo.com/Bioinformatics_Tools_Search.html' title='Search for Bioinformatics Tools'>Tools</a></li>
+<li class='left'><a href='http://vadlo.com/Powerpoint_Search_Engine.html' title='Search for Powerpoints'>Powerpoints</a></li>
+<li class='left'><a href='http://vadlo.com/Life_Sciences_Products_Search.html' title='Search for Products'>Products</a></li>
+					</ul>	
+				</div>
+			</div>	
+			
+			<!-- ::: MAIN CONTENT AREA ::: -->
+			<div id='content' class='clearfix'>
+
+<!-- Homepage_Left_Skyscraper_160x600 -->
+<div id='lt_sidebar'>
+<script type='text/javascript'>
+GA_googleFillSlot("Homepage_Left_Skyscraper_160x600");
+</script>
+</div>
+
+<!-- Homepage_Right_Skyscraper_160x600 -->
+<div id='rt_sidebar'>
+<script type='text/javascript'>
+GA_googleFillSlot("Homepage_Right_Skyscraper_160x600");
+</script>
+</div>
+
+
+<div align="center">
+<div id='central_content'>
+Life Sciences Search Engine
+<br></br>
+<img border="0" src="http://www.vadlo.com/VADLO.gif" width="300" height="77">
+<br></br>
+<br></br>
+<form name="fbsearch" method="get" action="http://search.vadlo.com/b/q" style="margin:0;">
+
+  <input name="keys" size="45" style="background-color: #ECFEA5" value=Microarray>
+  <select name="related" size="1">
+    <option value="0">Protocols</option>
+    <option value="1">Tools</option>
+    <option value="2">Powerpoints</option>
+  </select>
+  <input type="submit" value="VADLO Search"></br>
+</form>
+<br></br>
+<br></br>
+
+<!-- Homepage_Central_Rectangle_336x280 -->
+<script type='text/javascript'>
+GA_googleFillSlot("Homepage_Central_Rectangle_336x280");
+</script>
+
+<br></br>
+
+
+<b>Share VADLO with your friends >> </b>
+<a id="ck_email" class="stbar chicklet" href="javascript:void(0);"><img src="http://w.sharethis.com/chicklets/email.gif" /></a>
+<a id="ck_facebook" class="stbar chicklet" href="javascript:void(0);"><img src="http://w.sharethis.com/chicklets/facebook.gif" /></a>
+<a id="ck_twitter" class="stbar chicklet" href="javascript:void(0);"><img src="http://w.sharethis.com/chicklets/twitter.gif" /></a>
+<a id="ck_sharethis" class="stbar chicklet" href="javascript:void(0);"><img src="http://w.sharethis.com/chicklets/sharethis.gif" />ShareThis</a>
+
+<script type="text/javascript"> 
+	var shared_object = SHARETHIS.addEntry({
+	title: document.title,
+	url: document.location.href
+});
+ 
+shared_object.attachButton(document.getElementById("ck_sharethis"));
+shared_object.attachChicklet("email", document.getElementById("ck_email"));
+shared_object.attachChicklet("facebook", document.getElementById("ck_facebook"));
+shared_object.attachChicklet("twitter", document.getElementById("ck_twitter"));
+</script>
+
+<br></br>
+
+<p style="text-align:justify">Search VADLO for techniques, recipes and commercial kits for genomics and SNP genotyping experiments, microRNA, tissue and expression microarrays; DNA subcloning, extraction and quantitation; proteomics, protein purification and amino acid analysis, monoclonal and polyclonal antibody generation, affinity purification, western blotting, immunoprecipitation, ELISA and other immunoassays, biomarkers, drug discovery and biotech high-throughput screening bioassays, clinical trials and R&D, RNA interference, microRNA, miRNA, shRNA, siRNA oligoneucleotide, real time multiplex PCR primers and peptide biosynthesis, transgenic and knockout mouse technology, apoptosis, angiogenesis, kinase assays and signaling pathways, stem cell culture media, serum, buffers, methods and transfection reagents, labware, laboratory equipment, histology lab, microbiology testing and immunohistochemistry, chromatin assays, chromatography, spectrophotometry, flow cytometry, gel electrophoresis, immunofluorescence staining, confocal imaging and optical microscopy, retroviral, lentiviral & adenoviral preparation etc.</p>
+
+<br></br>
+
+
+</div>
+</div>	
+</div>
+
+<!-- ::: FOOTER ::: -->
+			<div id='footer_utilities' class='main_width clearfix clear'>
+				
+				<ul class='ipsList_inline left'>
+			
+					<li><a href='http://vadlo.com/cartoons.php?id=1'>Research Cartoons</a></li>
+					<li><a href="http://vadlo.com/Molecular_Biology_Protocols.html" title='Best Protocols'>Best Protocols</a></li>						
+					<li><a href="http://vadlo.com/About_Vadlo.html" title='About VADLO'>About VADLO</a></li>				
+				</ul>
+				<!-- Copyright Information -->
+        				  <p id='copyright'>
+        				  	&copy;2008 Life in Research</p>
+
+		<!-- / Copyright -->
+			</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2870210-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+		
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.gopubmed.org/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>GoPubMed&reg;</title><meta http-equiv="X-UA-Compatible" content="IE=9" /><meta name="description" content="Semantic Search for the Life Sciences." /><meta name="robots" content="noindex, nofollow" /><meta name="google-site-verification" content="muYYDGmFbh6JX0ApKcYdutOAHWnUFFKB_desg2-jgXM" /><script type="text/javascript" src="www/crc/fqtlkt/framework/web/ajax/ajax.js"></script><link type="image/vnd.microsoft.icon" href="www/crc/5p4znf/com/transinsight/gopubmed/main/layout/favicon.ico" rel="icon" /><link type="text/css" rel="stylesheet" href="www/crc/i2m20q/framework/module/web/impl/gui/std/module.gui.css" /><link type="text/css" rel="stylesheet" href="null" /><!--[if gt IE 8]><!--><link type="text/css" rel="stylesheet" href="www/crc/1eojn17/com/transinsight/webapp/main/layout/layout.css" /><link type="text/css" rel="stylesheet" href="www/crc/11kc9l8/com/transinsight/webapp/main/layout/app.css" /><!--<![endif]--><!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="hack/ie8css/www/com/transinsight/webapp/main/layout/layout.css" /><link type="text/css" rel="stylesheet" href="www/crc/11kc9l8/com/transinsight/webapp/main/layout/app.css" /><![endif]--><link rel="search" type="application/opensearchdescription+xml" href="http://www.transinsight.com/media/BrowserPlugin/gopubmed.xml" title="GoPubMed" /><script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));
+		</script></head><body onload="inputFieldFocus('MainSearchInput');;" onkeydown="globalCloseHandler(event)"><script type="text/javascript" src="www/crc/pg8t8b/framework/module/web/impl/gui/std/module_gui.js">
+			</script><script>var relativeRootPath='';</script><script type="text/javascript" src="www/crc/1xiaii4/com/transinsight/gopubmed/main/layout/yggdrasil.js">
+	</script><div id="MainPageContent"><span id="00i"><div class="MainBodyWrapper">
+	
+<div class="gui_splitpane " id="00i0010101" style="display:block;margin:0px;border:none;padding:0px;overflow:hidden;"><div class="gui_splitpane_first_horz" style="display:block;margin:0px;padding:0px;z-index:10;left:0px;width:350px;"><div class="lefttree"><a class="TreeTopLogo" title="" href="16?WEB01jad9in97xutcI1I1I00i0010101040000"><img src="www/crc/1lkn772/com/transinsight/GoPubMed4/layout/gopubmed-small.png" usemap="#topLogoLinks" height="48" /></a><div class="toolLinks"></div><div id="00i00101010401"><div class="refineSearchImage"><img src="www/crc/skqfvu/com/transinsight/webapp/main/layout/images/refine_search.png" height="183" /></div><div class="refineSearchText">knowledge base</div><div class="lefttreeContent"><div id="00i001010104010010" class="leftTreeTable"><div id="00i0010101040100100000"><div class="treeTable"><div id="00i00101010401001000000010" class="gui_list_container"><div class="gui_tree"><span style="padding-right: 11px" class="gui_treeButtonLeaf">&#8205;</span><span class="ontoIcon ontoIconFavorites">&#8205;</span><a href="16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003011020a1" class="treelabelcount gui_breakout_no" title="Collect your favourite concepts here"><span class="treelabel">Favorite concepts</span></a></div><div class="gui_tree"><a style="padding-right: 11px" class="gui_treeButtonCollapsed" href="16?WEB01jad9in97xutcI1I1I00i00101010401001000000010030120101"  onclick="return fw_rfs(this);"  tabindex="-1">&#8205;</a><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003012020f0100&apos;,event);" class="treeTermClickItem  t_null"><span class="linkCursor ontoIcon ontoIconTopCategories" onmouseover="ygg_mt(this, &apos;null&apos;, &apos;ontoIcon ontoIconTopCategories&apos;)">&#160;<span>&#8205;</span></span><a href="16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003012020f01020" class="treelabelcount gui_breakout_no" onmouseover="gui_bo(this);"><span class="treelabel">Highly related concepts</span></a></span></div><div class="gui_tree"><span style="padding-right: 28px" class="gui_treeButtonLeaf">&#8205;</span><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003013020f0100&apos;,event);" class="treeTermClickItem advStateUnset t_11vd1"><span class="linkCursor ontoIcon ontoIconmesh" onmouseover="ygg_mt(this, &apos;11vd1&apos;, &apos;ontoIcon ontoIconmesh&apos;)">&#160;<span>&#8205;</span></span><span class="linkCursor treelabelcount t_11vd1 gui_breakout_no" onmouseover="gui_bo(this);ygg_mt(this, &apos;11vd1&apos;, &apos;ontoIcon ontoIconmesh&apos;)"><span class="treelabel">Humans</span> <span class="treecount">13.2 million</span></span><div class="treecounter"><div class="treecounter2" style="width:28px">&#160;</div></div></span><a class="rootPathOpen" href="16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003013020f020" onclick="return fw_rfs(this);" title="Open Concept In Tree">&#8205;</a></div><div class="gui_tree"><span style="padding-right: 28px" class="gui_treeButtonLeaf">&#8205;</span><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003014020f0100&apos;,event);" class="treeTermClickItem advStateUnset t_teyt"><span class="linkCursor ontoIcon ontoIconmesh" onmouseover="ygg_mt(this, &apos;teyt&apos;, &apos;ontoIcon ontoIconmesh&apos;)">&#160;<span>&#8205;</span></span><span class="linkCursor treelabelcount t_teyt gui_breakout_no" onmouseover="gui_bo(this);ygg_mt(this, &apos;teyt&apos;, &apos;ontoIcon ontoIconmesh&apos;)"><span class="treelabel">Female</span> <span class="treecount">6.5 million</span></span><div class="treecounter"><div class="treecounter2" style="width:13px">&#160;</div></div></span><a class="rootPathOpen" href="16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003014020f020" onclick="return fw_rfs(this);" title="Open Concept In Tree">&#8205;</a></div><div class="gui_tree"><span style="padding-right: 28px" class="gui_treeButtonLeaf">&#8205;</span><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003015020f0100&apos;,event);" class="treeTermClickItem advStateUnset t_1a2v9"><span class="linkCursor ontoIcon ontoIconmesh" onmouseover="ygg_mt(this, &apos;1a2v9&apos;, &apos;ontoIcon ontoIconmesh&apos;)">&#160;<span>&#8205;</span></span><span class="linkCursor treelabelcount t_1a2v9 gui_breakout_no" onmouseover="gui_bo(this);ygg_mt(this, &apos;1a2v9&apos;, &apos;ontoIcon ontoIconmesh&apos;)"><span class="treelabel">Male</span> <span class="treecount">6.5 million</span></span><div class="treecounter"><div class="treecounter2" style="width:13px">&#160;</div></div></span><a class="rootPathOpen" href="16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003015020f020" onclick="return fw_rfs(this);" title="Open Concept In Tree">&#8205;</a></div><div class="gui_tree"><span style="padding-right: 28px" class="gui_treeButtonLeaf">&#8205;</span><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003016020f0100&apos;,event);" class="treeTermClickItem advStateUnset t_1lekl"><span class="linkCursor ontoIcon ontoIconmesh" onmouseover="ygg_mt(this, &apos;1lekl&apos;, &apos;ontoIcon ontoIconmesh&apos;)">&#160;<span>&#8205;</span></span><span class="linkCursor treelabelcount t_1lekl gui_breakout_no" onmouseover="gui_bo(this);ygg_mt(this, &apos;1lekl&apos;, &apos;ontoIcon ontoIconmesh&apos;)"><span class="treelabel">Patients</span> <span class="treecount">4.6 million</span></span><div class="treecounter"><div class="treecounter2" style="width:9px">&#160;</div></div></span><a class="rootPathOpen" href="16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003016020f020" onclick="return fw_rfs(this);" title="Open Concept In Tree">&#8205;</a></div><div class="gui_tree"><span style="padding-right: 28px" class="gui_treeButtonLeaf">&#8205;</span><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003017020f0100&apos;,event);" class="treeTermClickItem advStateUnset t_2cqt"><span class="linkCursor ontoIcon ontoIconmesh" onmouseover="ygg_mt(this, &apos;2cqt&apos;, &apos;ontoIcon ontoIconmesh&apos;)">&#160;<span>&#8205;</span></span><span class="linkCursor treelabelcount t_2cqt gui_breakout_no" onmouseover="gui_bo(this);ygg_mt(this, &apos;2cqt&apos;, &apos;ontoIcon ontoIconmesh&apos;)"><span class="treelabel">Adult</span> <span class="treecount">5.8 million</span></span><div class="treecounter"><div class="treecounter2" style="width:12px">&#160;</div></div></span><a class="rootPathOpen" href="16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003017020f020" onclick="return fw_rfs(this);" title="Open Concept In Tree">&#8205;</a></div><div class="gui_tree"><span style="padding-right: 28px" class="gui_treeButtonLeaf">&#8205;</span><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003018020f0100&apos;,event);" class="treeTermClickItem advStateUnset t_1d91h"><span class="linkCursor ontoIcon ontoIconmesh" onmouseover="ygg_mt(this, &apos;1d91h&apos;, &apos;ontoIcon ontoIconmesh&apos;)">&#160;<span>&#8205;</span></span><span class="linkCursor treelabelcount t_1d91h gui_breakout_no" onmouseover="gui_bo(this);ygg_mt(this, &apos;1d91h&apos;, &apos;ontoIcon ontoIconmesh&apos;)"><span class="treelabel">Middle Aged</span> <span class="treecount">3.2 million</span></span><div class="treecounter"><div class="treecounter2" style="width:6px">&#160;</div></div></span><a class="rootPathOpen" href="16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003018020f020" onclick="return fw_rfs(this);" title="Open Concept In Tree">&#8205;</a></div><div class="gui_tree"><span style="padding-right: 28px" class="gui_treeButtonLeaf">&#8205;</span><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003019020f0100&apos;,event);" class="treeTermClickItem advStateUnset t_8uy9x"><span class="linkCursor ontoIcon ontoIconmesh" onmouseover="ygg_mt(this, &apos;8uy9x&apos;, &apos;ontoIcon ontoIconmesh&apos;)">&#160;<span>&#8205;</span></span><span class="linkCursor treelabelcount t_8uy9x gui_breakout_no" onmouseover="gui_bo(this);ygg_mt(this, &apos;8uy9x&apos;, &apos;ontoIcon ontoIconmesh&apos;)"><span class="treelabel">Research Report</span> <span class="treecount">2.5 million</span></span><div class="treecounter"><div class="treecounter2" style="width:5px">&#160;</div></div></span><a class="rootPathOpen" href="16?WEB01jad9in97xutcI1I1I00i0010101040100100000001003019020f020" onclick="return fw_rfs(this);" title="Open Concept In Tree">&#8205;</a></div><div class="gui_tree"><span style="padding-right: 28px" class="gui_treeButtonLeaf">&#8205;</span><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301a020f0100&apos;,event);" class="treeTermClickItem advStateUnset t_2kn9"><span class="linkCursor ontoIcon ontoIconmesh" onmouseover="ygg_mt(this, &apos;2kn9&apos;, &apos;ontoIcon ontoIconmesh&apos;)">&#160;<span>&#8205;</span></span><span class="linkCursor treelabelcount t_2kn9 gui_breakout_no" onmouseover="gui_bo(this);ygg_mt(this, &apos;2kn9&apos;, &apos;ontoIcon ontoIconmesh&apos;)"><span class="treelabel">Aged</span> <span class="treecount">2.3 million</span></span><div class="treecounter"><div class="treecounter2" style="width:4px">&#160;</div></div></span><a class="rootPathOpen" href="16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301a020f020" onclick="return fw_rfs(this);" title="Open Concept In Tree">&#8205;</a></div><div class="gui_tree"><span style="padding-right: 28px" class="gui_treeButtonLeaf">&#8205;</span><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301b020f0100&apos;,event);" class="treeTermClickItem advStateUnset t_sd8l"><span class="linkCursor ontoIcon ontoIconmesh" onmouseover="ygg_mt(this, &apos;sd8l&apos;, &apos;ontoIcon ontoIconmesh&apos;)">&#160;<span>&#8205;</span></span><span class="linkCursor treelabelcount t_sd8l gui_breakout_no" onmouseover="gui_bo(this);ygg_mt(this, &apos;sd8l&apos;, &apos;ontoIcon ontoIconmesh&apos;)"><span class="treelabel">Evaluation Studies as Topic</span> <span class="treecount">3.0 million</span></span><div class="treecounter"><div class="treecounter2" style="width:6px">&#160;</div></div></span><a class="rootPathOpen" href="16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301b020f020" onclick="return fw_rfs(this);" title="Open Concept In Tree">&#8205;</a></div><div class="gui_tree"><span style="padding-right: 28px" class="gui_treeButtonLeaf">&#8205;</span><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301c020f0100&apos;,event);" class="treeTermClickItem advStateUnset t_51j9"><span class="linkCursor ontoIcon ontoIconmesh" onmouseover="ygg_mt(this, &apos;51j9&apos;, &apos;ontoIcon ontoIconmesh&apos;)">&#160;<span>&#8205;</span></span><span class="linkCursor treelabelcount t_51j9 gui_breakout_no" onmouseover="gui_bo(this);ygg_mt(this, &apos;51j9&apos;, &apos;ontoIcon ontoIconmesh&apos;)"><span class="treelabel">Animals</span> <span class="treecount">17.4 million</span></span><div class="treecounter"><div class="treecounter2" style="width:36px">&#160;</div></div></span><a class="rootPathOpen" href="16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301c020f020" onclick="return fw_rfs(this);" title="Open Concept In Tree">&#8205;</a></div><div class="gui_tree"><span style="padding-right: 28px" class="gui_treeButtonLeaf">&#8205;</span><a class="moreNode" href="16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301d02030" onclick="return fw_rfs(this);"><span class="ontoIcon ontoIconMore">&#8205;</span><span class="treelabelcount gui_breakout_no" onmouseover="gui_bo(this)"><span class="treelabel">more</span></span></a></div><div class="gui_tree"><a style="padding-right: 11px" class="gui_treeButtonExpanded" href="16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301e0111"  onclick="return fw_rfs(this);"  tabindex="-1">&#8205;</a><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301e020f0100&apos;,event);" class="treeTermClickItem  t_null"><span class="linkCursor ontoIcon ontoIconRootTopCategories" onmouseover="ygg_mt(this, &apos;null&apos;, &apos;ontoIcon ontoIconRootTopCategories&apos;)">&#160;<span>&#8205;</span></span><a href="16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301e020f01020" class="treelabelcount gui_breakout_no" onmouseover="gui_bo(this);"><span class="treelabel">All related concepts</span></a></span></div><div class="gui_tree"><a style="padding-right: 11px" class="gui_treeButtonExpanded" href="16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301f0111"  onclick="return fw_rfs(this);"  tabindex="-1">&#8205;</a><span class="ontoIcon ontoIconauthorYellow">&#8205;</span><span class="treelabelcount gui_breakout_no" onmouseover="gui_bo(this)">Authors</span></div><div class="gui_tree"><a style="padding-right: 11px" class="gui_treeButtonExpanded" href="16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301g0111"  onclick="return fw_rfs(this);"  tabindex="-1">&#8205;</a><span class="ontoIcon ontoIcongeoYellow">&#8205;</span><span class="treelabelcount gui_breakout_no" onmouseover="gui_bo(this)">Locations</span></div><div class="gui_tree"><a style="padding-right: 11px" class="gui_treeButtonExpanded" href="16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301h0111"  onclick="return fw_rfs(this);"  tabindex="-1">&#8205;</a><span class="ontoIcon ontoIconjournalYellow">&#8205;</span><span class="treelabelcount gui_breakout_no" onmouseover="gui_bo(this)">Journals</span></div><div class="gui_tree"><a style="padding-right: 11px" class="gui_treeButtonExpanded" href="16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301i0111"  onclick="return fw_rfs(this);"  tabindex="-1">&#8205;</a><span class="ontoIcon ontoIcontimeYellow">&#8205;</span><span class="treelabelcount gui_breakout_no" onmouseover="gui_bo(this)">Publication Dates</span></div><div class="gui_tree"><a style="padding-right: 11px" class="gui_treeButtonExpanded" href="16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301j0111"  onclick="return fw_rfs(this);"  tabindex="-1">&#8205;</a><span class="ontoIcon ontoIconfilter">&#8205;</span><span class="treelabelcount gui_breakout_no" onmouseover="gui_bo(this)">Find concepts in Knowledge Base</span></div><div class="gui_tree"><span style="padding-right: 11px" class="gui_treeButtonLeaf">&#8205;</span><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301k020f0100&apos;,event);" class="treeTermClickItem  t_null"><span class="linkCursor ontoIcon ontoIconQuery" onmouseover="ygg_mt(this, &apos;null&apos;, &apos;ontoIcon ontoIconQuery&apos;)">&#160;<span>&#8205;</span></span><a href="16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301k020f01020" class="treelabelcount gui_breakout_no" onmouseover="gui_bo(this);"><span class="treelabel">Previous queries</span></a></span></div><div class="gui_tree"><a style="padding-right: 11px" class="gui_treeButtonExpanded" href="16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301l0111"  onclick="return fw_rfs(this);"  tabindex="-1">&#8205;</a><span class="ontoIcon ontoIconQuery">&#8205;</span><span class="treelabelcount gui_breakout_no" onmouseover="gui_bo(this)">Explore current query</span></div><div class="gui_tree"><span style="padding-right: 11px" class="gui_treeButtonLeaf">&#8205;</span><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301m020f0100&apos;,event);" class="treeTermClickItem advStateUnset t_9zkeo"><span class="linkCursor ontoIcon ontoIconjournal" onmouseover="ygg_mt(this, &apos;9zkeo&apos;, &apos;ontoIcon ontoIconjournal&apos;)">&#160;<span>&#8205;</span></span><span class="linkCursor treelabelcount t_9zkeo gui_breakout_no" onmouseover="gui_bo(this);ygg_mt(this, &apos;9zkeo&apos;, &apos;ontoIcon ontoIconjournal&apos;)"><span class="treelabel">Reviews only</span> <span class="treecount">1.9 million</span></span><div class="treecounter"><div class="treecounter2" style="width:3px">&#160;</div></div></span></div><div class="gui_tree"><span style="padding-right: 11px" class="gui_treeButtonLeaf">&#8205;</span><span id="myClick" onclick="onShowMouseClickElement(this, &apos;16?WEB01jad9in97xutcI1I1I00i001010104010010000000100301n020f0100&apos;,event);" class="treeTermClickItem advStateUnset t_9zk7k"><span class="linkCursor ontoIcon ontoIconjournal" onmouseover="ygg_mt(this, &apos;9zk7k&apos;, &apos;ontoIcon ontoIconjournal&apos;)">&#160;<span>&#8205;</span></span><span class="linkCursor treelabelcount t_9zk7k gui_breakout_no" onmouseover="gui_bo(this);ygg_mt(this, &apos;9zk7k&apos;, &apos;ontoIcon ontoIconjournal&apos;)"><span class="treelabel">Free fulltext only</span> <span class="treecount">4.2 million</span></span><div class="treecounter"><div class="treecounter2" style="width:9px">&#160;</div></div></span></div></div></div></div></div></div></div></div></div><div class="gui_splitpane_splitter_horz" onmousedown="return SplitPaneSeparator_mouseDownHandler(event, this, &apos;horz&apos;, &apos;16?WEB01jad9in97xutcI1I1I00i001010107&apos;);" ondblclick="SplitPaneSeparator_dblClickHandler(event, this, &apos;horz&apos;, &apos;first&apos;)" style="display:block;position:absolute;overflow:hidden;z-index:10;left:350px;-moz-user-select:none;-khtml-user-select:none;" unselectable="on"><div class="gui_splitpane_splitter_first_open"></div></div><div class="gui_splitpane_second_horz" style="display:block;margin:0px;padding:0px;right:0px;left:355px;"><div id="00i00101010e1" class="rightContentPostitioning"><div class="AdvertisementContainer"><div class="Supported"><div id="00i00101010e100000" class="gui_tg"><div class="gui_tg_title"><span class="gui_tg_title_text">innovations</span><div class="gui_tg_title_separator"></div></div><div class="gui_tg_content"><div class="SupportersList"><div id="Supporters0" class="Supporters"><span class="Supporter"><a href="redirect?url=http%3A%2F%2Fwww.gopubmed.org%2Fweb%2Fannotate&amp;type=SupporterLink" target="_blank" title="Semantic Annotator"><img src="www/crc/1u9ad8u/com/transinsight/gopubmed/main/images/advert/semanticannotator.png" alt="Semantic Annotator" class="ImgSupporter"  style="box-shadow: none" width="192" /></a></span><span class="Supporter"><a href="redirect?url=https%3A%2F%2Fwww.gopubmed.org%2Fweb%2Fgopubmed%2Ftagcloud&amp;type=SupporterLink" target="_blank" title="Concepts of the Month"><img src="www/crc/155xjl1/com/transinsight/yggdrasil/module/tagcloudthumbnail.png" alt="Concepts of the Month" class="ImgSupporter"  style="box-shadow: none; left: 3px; position: relative; " width="120" /></a></span><span class="Supporter"><a href="redirect?url=http%3A%2F%2Fwww.gopubmed.org%2Fweb%2Fannotate&amp;type=SupporterLink" target="_blank" title="Semantic Annotator"><img src="www/crc/1u9ad8u/com/transinsight/gopubmed/main/images/advert/semanticannotator.png" alt="Semantic Annotator" class="ImgSupporter"  style="box-shadow: none" width="192" /></a></span><script>window.setTimeout("supporterAnimation('Supporters0')", 100);</script></div><div id="Supporters1" class="Supporters"><span class="Supporter"><a href="redirect?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCk9QsIMsoHI&amp;type=SupporterLink" target="_blank" title="Semantic Annotator Video"><img src="www/crc/1giwiof/com/transinsight/gopubmed/main/images/advert/SemanticAnnotatorVideo.png" alt="Semantic Annotator Video" class="ImgSupporter"  width="124" /></a></span></div><div id="Supporters2" class="Supporters"><span class="Supporter"><a href="redirect?url=http%3A%2F%2Fwww.bioasq.org%2Fparticipate%2Fchallenges&amp;type=SupporterLink" target="_blank" title="BioASQ Challenges"><img src="www/crc/1xc0ssi/com/transinsight/gopubmed/main/images/advert/bioasq.png" alt="bioasq.org" class="ImgSupporter"  width="124" /></a></span></div></div></div></div></div></div><div class="ContentAdvertisement"><div id="00i00101010e10021" class="SearchContentFull"><img style="position: absolute; top: 8px; left: -2px; " height="16" src="www/crc/wngfyr/com/transinsight/webapp/main/layout/images/powered_by_transinsight.png" /><div class="TopLinks"><div class="MultiLinks"><a class="YggLink" href="http://help.gopubmed.com" target="_blank" title="Help"><img src="www/crc/1hz9z70/com/transinsight/webapp/main/layout/images/manual.png" width="24px" /><span class="text">Help</span></a></div><div class="MultiLinks"><a class="YggLink" href="16?WEB01jad9in97xutcI1I1I00i00101010e100210002101" title="Login"><img src="www/crc/p9pbi2/com/transinsight/webapp/main/layout/images/biologist2.png" width="24px" /><span class="text">Login</span></a></div></div><div class="initialSearch"><div class="Banner"><img src="www/crc/1bxqv8n/com/transinsight/GoPubMed4/layout/gopubmedLogo.png" width="291" alt="GoPubMed" /></div><form action="16?WEB01jad9in97xutcI1I1I00i00101010e10021000400.y"  method="post" onsubmit="return checkAjaxFormular();"><div class="searchformLayout"><span id="00i00101010e1002100040110"></span><div id="00i00101010e100210004012" class="SearchInputContainer"><input class="gui_textinput gui_dummystring MainSearchInput" type="text" name="00i00101010e100210004012000102" value="All" length="30" onkeyup="gui_kus(event, this, &apos;16?WEB01jad9in97xutcI1I1I00i00101010e100210004012000105&apos;)" onkeydown="return gui_kps(event,this);" onblur="gui_lqs(this)" autocomplete="off" onclick="gui_ofs(this)" /></div><a class="SearchFieldOperator ClearQueryImage" href="16?WEB01jad9in97xutcI1I1I00i00101010e1002100040130" onclick="return fw_rfs(this);" title="Resets the input text and the tree">
+				</a><div class="FindItButton"><button class="greenButtonFind" name="00i00101010e100210004015" value="x" onclick="return fw_rab(this);">find</button></div></div></form></div><div class="Footer"><div class="Banner"><form target="_blank" method="post" action="https://www.paypal.com/gb/cgi-bin/webscr"><input type="hidden" value="_s-xclick" name="cmd" /><input type="hidden" value="Y3BCXMCWSXMUN" name="hosted_button_id" /><input type="hidden" value="en_US" name="lc" /><input type="image" border="0" name="submit" src="www/crc/df3dq5/com/transinsight/GoPubMed4/layout/donate.png" width="65" alt="Donate" /></form></div><div class="FooterEntries"><div class="MultiLinks"><a class="YggLink" href="16?WEB01jad9in97xutcI1I1I00i00101010e10021000600010" target="_self">Help</a><div class="MultiLinkSeparator">
+				</div><a class="YggLink" href="16?WEB01jad9in97xutcI1I1I00i00101010e10021000601000" target="_self" title="Get in contact!">Contact</a><div class="MultiLinkSeparator">
+				</div><a class="YggLink" href="16?WEB01jad9in97xutcI1I1I00i00101010e10021000602010" target="_self">Imprint</a><div class="MultiLinkSeparator">
+				</div><a class="YggLink" href="16?WEB01jad9in97xutcI1I1I00i00101010e10021000603010" target="_blank">&copy; 2002-2014 Transinsight GmbH</a><div class="MultiLinkSeparator">
+				</div></div></div></div></div><div class="ContentAdvertisementRight"></div></div></div></div></div><div id="00i0010102" class="MainPageFreePositioner"></div></div><div style="position: absolute; top: 0px; left: 0px; " id="querySuggestWindows"></div><div style="position: absolute; top: 0px; left: 0px; " id="allTooltips"></div><div style="position: absolute; top: 0px; left: 0px; " id="globalTurlyWaitNode" class="invisibleTurlyNode"><div class="turlyWurly"></div></div><div style="position: absolute; top: 0px; left: 0px; " id="breakouts"></div>n 
+		<script type="text/javascript">window.setInterval(function() { var r=makeRequest('16?WEB01jad9in97xutcI1I1I00i00103&amp;st&amp;'+createUID()); r.onreadystatechange = function() { Dbg.pd('got session refresh at '+(new Date()).toLocaleString()); gotit(r, 'ignore'); }; },9*60*1000);</script></span></div><script type="text/javascript">
+		  try {
+		    var pageTracker = _gat._getTracker("UA-15928899-1");
+ 		    pageTracker._trackPageview();
+		  } catch(err) {
+		    logger.warn(err);
+		 }</script></body></html>++++++++++++++++++++<Over>++++++++++++++++++++

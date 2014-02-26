@@ -1,0 +1,900 @@
+====================<http://www.htsol.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>HTS - Extending your vision</title>
+<link rel="shortcut icon" href="images/favicon.ico" >
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+<LINK rel="stylesheet" type="text/css" href="css/MenuStyle.css">
+<script type="text/javascript" src="js/jqMenu.js"></script>
+
+<LINK rel="stylesheet" type="text/css" href="css/style.css">
+
+
+<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+<script type="text/javascript">
+x=1;
+function slideSwitch() {
+    var $active = $('#slideshow IMG.active');
+
+    if ( $active.length == 0 ) $active = $('#slideshow IMG:last');
+
+    // use this to pull the images in the order they appear in the markup
+    changeLinkColor(x);
+    x=x+1;
+    if (x==4){
+		x=1;
+    }
+    var $next =  $active.next().length ? $active.next()
+        : $('#slideshow IMG:first');
+
+    // uncomment the 3 lines below to pull the images in random order
+    
+    // var $sibs  = $active.siblings();
+    // var rndNum = Math.floor(Math.random() * $sibs.length );
+    // var $next  = $( $sibs[ rndNum ] );
+
+
+    $active.addClass('last-active');
+
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+        });
+}
+
+$(function() {
+    setInterval( "slideSwitch()", 8000 );
+});
+
+</script>
+
+
+	<script type="text/javascript" language="javascript">
+	function changeLinkColor(x){
+		document.getElementById('Link1').className='link2';
+		document.getElementById('Link2').className='link2';
+		document.getElementById('Link3').className='link2';
+		/*document.getElementById('iimag1').src='images/_.gif';
+		document.getElementById('iimag2').src='images/_.gif';
+		document.getElementById('iimag3').src='images/_.gif';*/
+		
+		x=x+1
+		if (x==4)
+			x=1
+		document.getElementById('Link' + x).className='link1';
+		//document.getElementById('iimag' + x).src='images/plus.gif';
+	}
+	</script>
+
+<style type="text/css">
+
+/*** set the width and height to match your images **/
+
+#slideshow {
+    position:relative;
+    height:350px;
+    //text-align: -moz-center;
+	text-align:center;
+	text-align:-moz-center;
+	margin-right: auto; 
+	margin-left:auto;
+	width:auto;
+	//border:1pt solid;
+}
+
+#slideshow IMG {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+    opacity:0.0;
+	margin-right: auto; 
+	margin-left:auto;    
+}
+
+#slideshow IMG.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#slideshow IMG.last-active {
+    z-index:9;
+}
+
+</style>
+
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#363E40">
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" background="images/bar_cont.gif">
+	<tr>
+		<td align=center>
+			<Table width=990 cellpadding=0 cellspacing=0 border=0 align=center>
+				<tr style="height:50px">
+					<td align=left>
+						<div id='header' style='z-index:2 ; position: relative;'><ul class='topnav'><li style='background-image:url(images/home.png);background-repeat:no-repeat;background-position:10px 10px; '><A href='default.asp'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</A></li><li style='padding-top:10px ; font-size:10pt ; color: #D5D5D5'>|</li><li><a href='#'>About</a><ul class='subnav'><li><a href='About.asp?id=12'>Company</a></li><li><a href='About.asp?id=11'>Values and Vision</a></li><li><a href='About.asp?id=10'>Leadership </a></li><li><a href='About.asp?id=9'>Worldwide Branches</a></li><li><a href='About.asp?id=141'>Partners</a></li><li><a href='About.asp?id=8'>Careers</a></li></ul></li><li style='padding-top:10px ; font-size:10pt ; color: #D5D5D5'>|</li><li><a href='#'>Solutions</a><ul class='subnav'><li><a href='Solutions.asp?id=16'>Vehicle Recognition Solutions - Security  </a></li><li><a href='Solutions.asp?id=156'>Vehicle Recognition Systems - Operations</a></li><li><a href='Solutions.asp?id=57'>Cargo Solutions</a></li><li><a href='Solutions.asp?id=15'>Specialized Systems and Services</a></li></ul></li><li style='padding-top:10px ; font-size:10pt ; color: #D5D5D5'>|</li><li><a href='#'>Products</a><ul class='subnav'><li><a href='Products.asp?id=19'>Vehicle Recognition Solutions</a></li><li><a href='Products.asp?id=18'>Cargo Systems </a></li><li><a href='Products.asp?id=17'>Specialized Systems & Services</a></li></ul></li><li style='padding-top:10px ; font-size:10pt ; color: #D5D5D5'>|</li><li><a href='#'>Reference Sites</a><ul class='subnav'><li><a href='Reference.asp?id=58'>Cargo Solutions - Gates and Cranes</a></li><li><a href='Reference.asp?id=97'>Cargo Solutions - Rail</a></li><li><a href='Reference.asp?id=99'>Cargo Solutions - Other</a></li><li><a href='Reference.asp?id=20'>Vehicle Identification </a></li></ul></li><li style='padding-top:10px ; font-size:10pt ; color: #D5D5D5'>|</li><li><a href='#'>News and Events</a><ul class='subnav'><li><a href='News.asp?id=63'>News</a></li><li><a href='News.asp?id=61'>In the Media</a></li><li><a href='News.asp?id=145'>Case Studies</a></li><li><a href='News.asp?id=62'>Events</a></li><li><a href='News.asp?id=60'>Company Newsletter</a></li><li><a href='News.asp?id=59'>Blogs </a></li><li><a href='News.asp?id=146'>Twitter</a></li></ul></li><li style='padding-top:10px ; font-size:10pt ; color: #D5D5D5'>|</li><li><a href='Support.asp'>Support</a></li><li style='padding-top:10px ; font-size:10pt ; color: #D5D5D5'>|</li><li><a href='Contact.asp'>Contact Us</a></li></ul></div>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+<table width="100%" height="34" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+	<tr>
+    	<td><img src="images/bar_shadow.jpg" width="985" height="34"></td>
+	</tr>
+</table>
+
+<table width="100%" height="69"  cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr> 
+    <td>&nbsp;</td>
+    <td width="990" height="50" align="left" valign="top">
+		<A href="default.asp" target="_self">
+			<img src="images/logo.gif" width="417" height="69" border=0 alt="HTS Extending Your Vision">
+		</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+
+<table height="362" align="center" width="100%" cellpadding="0" cellspacing="0" style="background-image: url('images/MainBG.jpg') ; background-position:center top" >
+	<tr>
+		<td align=center valign=bottom style="padding-bottom:12px">
+			<!--<div id="content" style="position:relative ; z-index:1; position: relative;" >-->
+			<Table cellpadding=0 cellspacing=0 align=center border=0 width=990>
+				<tr>
+					<td>
+						<div id="slideshow" align=center style="z-index:1;  "><!--position: relative;-->
+						    <img src="http://www.htsol.com/Images/uploaded/jpg/home1.jpg" alt="VEHICLE RECOGNITION SOLUTIONS" class="active" />
+						    <img src="http://www.htsol.com/Images/uploaded/jpg/home2.jpg" alt="CARGO SYSTEMS" />
+						    <img src="http://www.htsol.com/Images/uploaded/jpg/home3.jpg" alt="SPECIAL SYSTEMS & SERVICES" />
+						</div>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<table width="100%" height="58" border="0" cellpadding="0" cellspacing="0" background="images/mid_bar.jpg">
+  <tr> 
+    <td>&nbsp;</td>
+    <td width="910" height="58" align="center">
+		<table border=0 cellpadding=0 cellspacing=0 width=100% dir=ltr align=center>
+			<tr>
+				<td align=left style="padding-right:20px" nowrap>
+					<A href="Products.asp?id=19" id="Link1" class="link1">VEHICLE RECOGNITION SOLUTIONS</A>
+				</td>
+				<td align=left style="padding-right:40px" nowrap>
+					<A href="Products.asp?id=18" id="Link2" class="link2">CARGO SYSTEMS</A>
+				</td>
+				<td align=left style="padding-right:40px" nowrap>
+					<A href="Products.asp?id=17" id="Link3" class="link2">SPECIAL SYSTEMS & SERVICES</A>
+				</td>
+				<td></td>
+			</tr>
+		</table>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" height="58" border="0" cellpadding="0" cellspacing="0" background="images/back1.jpg">
+  <tr> 
+    <td>&nbsp;</td>
+    <td width="910" height="266" align="left" valign="top" style="padding-top:28px ; padding-bottom:25px">
+		<table border=0 cellpadding=0 cellspacing=0 width=100% dir=ltr align=center>
+			<tr>
+				<td width=66% align=left valign=top class="text1" style="padding-right:30px">
+					<p class="link2">Extending Your Vision</P>
+					HTS (Hi-Tech Solutions) is a recognized leader in the development and supply of optical character recognition (OCR) and advanced image processing solutions for a wide range of applications, providing value added data for vehicle and cargo recognition, identification, monitoring and management. <br><br>When our vision meets the world&#39;s<br><br>Driven by ever-increasing needs for security and automation, our products serve as core technology enablers for automation of traffic management, parking revenue systems and container handling operations, as well as for security, access control and other logistics systems. Our systems provide customers with the ability to monitor and control their operations, improve productivity and enhance security by providing real-time data solutions that can only be achieved through automation. Our rich set of products allows our customers to improve their operational efficiency with a measurable and sustainable return on investment.<br><br>
+				</td>
+				<td width=33% align=left valign=top class="text1" style="padding-left:30px">
+					<P class="link2">NEWS:</P>
+					<A class='link1' href='news.asp?id=63'>February 17, 2014</A><br><A class='text1' href='news.asp?id=63'>HTS to Exhibit at Intertraffic 2014 in Amsterdam Booth 3.316</A>
+							
+					<!--<span class="link1">April 7, 2011</span><br>
+					<span class="text1">HTS Exhibiting at TOC Europe 2011 - Antwerp, Belgium June 7-9 </span>
+					<br><br>
+					<span class="link1">June 27, 2011</span><br>
+					<span class="text1">HTS releases third generation OCR technology for port automation and security systems</span>-->
+					<br><br><A class='link1' href='news.asp?id=63'>October 06, 2013</A><br><A class='text1' href='news.asp?id=63'>OnSSI Collaborates with HTS to Deliver Integrated Solution for Improved Situational Awareness</A>
+							
+					<!--<span class="link1">April 7, 2011</span><br>
+					<span class="text1">HTS Exhibiting at TOC Europe 2011 - Antwerp, Belgium June 7-9 </span>
+					<br><br>
+					<span class="link1">June 27, 2011</span><br>
+					<span class="text1">HTS releases third generation OCR technology for port automation and security systems</span>-->
+					
+				</td>
+			</tr>
+		</table>
+		
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" height="79" border="0" cellpadding="0" cellspacing="0" background="images/buttom_1.gif">
+  <tr> 
+    <td>&nbsp;</td>
+    <td width=910 valign=top style="padding-top:20px">
+		<TABLE style="WIDTH: 100%; BORDER-COLLAPSE: collapse; BACKGROUND: rgb(54,62,64); HEIGHT: 100px; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous">
+<TBODY>
+<TR>
+<TD>
+<TABLE style="WIDTH: 100%; BORDER-COLLAPSE: collapse">
+<TBODY>
+<TR>
+<TD style="WIDTH: 710px"><SPAN style="FONT-FAMILY: Arial; COLOR: rgb(255,255,255); FONT-SIZE: 9pt">All rights reserved © HTS Hi- Tech Solutions Ltd.</SPAN></TD>
+<TD style="WIDTH: 200px"><SPAN style="FONT-FAMILY: Arial; COLOR: rgb(255,255,255); FONT-SIZE: 9pt">&nbsp; |&nbsp;&nbsp; Designed by:</SPAN><A style="FONT-SIZE: 8pt" class=text2 href="http://www.apricot360.com"><SPAN style="FONT-FAMILY: Arial; COLOR: rgb(255,255,255); FONT-SIZE: 9pt; TEXT-DECORATION: none">Apricot360.com</SPAN></A><SPAN style="FONT-FAMILY: Arial; COLOR: rgb(255,255,255); FONT-SIZE: 9pt"><BR>&nbsp;&nbsp;|&nbsp;&nbsp; Created by:</SPAN><A style="FONT-SIZE: 8pt" class=text2 href="http://www.DivAction.co.il"><SPAN style="FONT-FAMILY: Arial; COLOR: rgb(255,255,255); FONT-SIZE: 9pt; TEXT-DECORATION: none">DivAction</SPAN></A><SPAN style="FONT-FAMILY: Arial; COLOR: rgb(255,255,255); FONT-SIZE: 9pt; TEXT-DECORATION: none"></SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+
+
+
+
+
+
+<!--
+<table width="100%" height="79" border="0" cellpadding="0" cellspacing="0" background="images/buttom_1.gif">
+  <tr> 
+    <td>&nbsp;</td>
+    <td width="710" height="50" align="left" class="text2" valign="middel" style="font-size:8pt ; padding-top:50px">
+		All rights reserved &copy; HTS Hi- Tech Solutions
+    </td>
+    <td width="200" height="50" align="left" class="text2" valign="middel" style="font-size:8pt ; padding-top:45px ;">
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		Designed by:<A class="text2" style="font-size:8pt" href="http://www.apricot360.com">Apricot360.com</A>
+		<br>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		Created by:<A class="text2" style="font-size:8pt" href="http://www.DivAction.co.il">DivAction</A>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+-->
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<br>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.captcha.net/>====================
+<html>
+<head>
+<title>The Official CAPTCHA Site</title>
+<link rel="stylesheet" href="shared-media/styles.css" type="text/css" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+</head>
+
+<body>
+<table width="100%" cellspacing=0 cellpadding=0 border=0>
+
+<tr>
+<td rowspan=3 class=topbarTile>&nbsp;</td>
+<td height=39 width=544 valign="top" class="topbarTile">&nbsp;</td>
+<td rowspan=3 class=topbarTile>&nbsp;</td>
+</tr>
+
+<tr>
+
+<td width=544 align="left" valign="top" style="padding-top: 28px">
+<div class="normal" style="padding-top: 0px">
+
+<h1>CAPTCHA: Telling Humans and Computers Apart Automatically</h1>
+
+<p>A CAPTCHA is a program that protects websites against bots by generating and grading tests that humans can pass but
+current computer programs cannot.  For example, humans can read distorted text as the one shown below, but current computer programs can't:</p>   
+
+<center><a href="http://recaptcha.net/learnmore.html"><img src="images/recaptcha-example.gif" alt="CAPTCHA example" border="0" title="see a live demo of a CAPTCHA"></a></center>
+      
+<p>The term CAPTCHA (for Completely Automated Public Turing Test To Tell Computers and Humans Apart) was 
+coined in 2000 by Luis von Ahn, Manuel Blum,
+Nicholas Hopper and John Langford of Carnegie Mellon University.</p>
+
+<h1><a href="http://recaptcha.net/whyrecaptcha.html" 
+style="text-decoration:none; font-weight: bold">Get a Free CAPTCHA For 
+Your Site</a></h1>
+
+<p>A free, secure and accessible CAPTCHA implementation is available from the <a 
+href="http://recaptcha.net/whyrecaptcha.html"><b>reCAPTCHA project</b></a>. Easy to install plugins and controls are 
+available for <a href="http://recaptcha.net/plugins/wordpress/" title="WordPress CAPTCHA"> WordPress</a>, <a
+href="http://recaptcha.net/plugins/mediawiki/" title="MediaWiki CAPTCHA"> MediaWiki</a>, <a href="http://recaptcha.net/plugins/php/" title="PHP CAPTCHA">PHP</a>, 
+<a href="http://recaptcha.net/plugins/aspnet/" title="ASP CAPTCHA">ASP.NET</a>, 
+Perl, Python, Java, and many other
+environments. reCAPTCHA also comes with an audio test to ensure that blind users can freely navigate your site. reCAPTCHA is our officially recommended 
+CAPTCHA implementation. </p>
+
+<h1>Test Drive a CAPTCHA</h1>
+
+<ul>
+<li><p><a href="http://recaptcha.net/learnmore.html"><b>reCAPTCHA</b></a>. Stop spam and help digitize books at the same time! 
+The words shown come directly from old books that are being digitized.</p>
+
+<li><p><a href="http://server251.theory.cs.cmu.edu/cgi-bin/sq-pix"><b>SQUIGL-PIX</b></a>. Our newest CAPTCHA!
+</p> 
+
+<li><p><a href="http://server251.theory.cs.cmu.edu/cgi-bin/esp-pix/esp-pix"><b>ESP-PIX</b></a>. A CAPTCHA script that's close to our hearts. Instead of typing 
+letters, you authenticate yourself as a human
+by recognizing what object is common in a set of images. This was the first example of a CAPTCHA based on image recognition.</p> </ul>
+
+<h1> <a href="http://duolingo.com" style="text-decoration:none; font-weight: bold"> New: Learn Spanish, German or French for free while 
+translating the Web!</a></h1>
+
+<p>
+<table cellpadding=3 border=0>
+<tr>
+<td>
+<a href="http://duolingo.com"><img src="duo_logo.png" border="0" width="150"></a>
+</td>
+<td valign=top>
+<p>Our new site, <a href="http://duolingo.com/">duolingo.com</a> offers a way for you to learn languages 100% free while helping 
+to translate the Web.
+</p>
+</td>
+</tr>
+</table>
+</p>
+
+
+<h1>Applications of CAPTCHAs</h1>
+
+<p>CAPTCHAs have several applications for practical security, including (but not limited to):
+
+<UL>        
+   
+<li><p><b>Preventing Comment Spam in Blogs.</b> Most bloggers are familiar with programs that submit bogus comments, 
+usually for the purpose of
+raising search engine ranks of some website (e.g., "buy penny stocks here"). This is called comment spam. By using a CAPTCHA, only humans can enter
+comments on a blog. There is no need to make users sign up before they enter a comment, and no legitimate comments are 
+ever lost!</p>
+      
+<li><p><b>Protecting Website Registration.</b> Several companies (Yahoo!, Microsoft, etc.) offer free email services.  
+Up until a few years ago, most of these services suffered from a specific type of attack: "bots" that would sign up for
+thousands of email accounts every minute. The solution to this problem was to use CAPTCHAs to ensure that only humans
+obtain free accounts. In general, free services should be protected with a CAPTCHA in order to prevent abuse by
+automated scripts.</p>
+
+<li><p><b>Protecting Email Addresses From Scrapers.</b> Spammers crawl the Web in search of email addresses posted in clear text. CAPTCHAs provide an effective mechanism to hide your email address from Web scrapers. The idea is to require users to 
+solve a CAPTCHA before showing your email address. A free and secure implementation that uses CAPTCHAs to obfuscate an email address can be found at <a 
+href="http://mailhide.recaptcha.net/">reCAPTCHA 
+MailHide</a>.</p> 
+
+<li><p><b>Online Polls.</b> In November 1999, <i> http://www.slashdot.org</i> released an online poll asking which was
+the best graduate school in computer science (a dangerous question to ask over the web!). As is the case with most
+online polls, IP addresses of voters were recorded in order to prevent single users from voting more than once.  
+However, students at Carnegie Mellon found a way to stuff the ballots using programs that voted for CMU thousands of
+times. CMU's score started growing rapidly.  The next day, students at MIT wrote their own program and the poll became
+a contest between voting "bots." MIT finished with 21,156 votes, Carnegie Mellon with 21,032 and every other school
+with less than 1,000. Can the result of any online poll be trusted?  Not unless the poll ensures that only humans can
+vote.</p>
+
+<li><p><b>Preventing Dictionary Attacks.</b> CAPTCHAs can also be used to prevent dictionary attacks in password
+systems.  The idea is simple: prevent a computer from being able to iterate through the entire space of passwords by
+requiring it to solve a CAPTCHA after a certain number of unsuccessful logins. This is better than the classic approach of
+locking an account after a sequence of unsuccessful logins, since doing so allows an attacker to lock accounts at will. 
+</p>
+
+<li><p><b>Search Engine Bots.</b> It is sometimes desirable to keep webpages unindexed to prevent others from finding
+them easily.  There is an html tag to prevent search engine bots from reading web pages. The tag, however, doesn't
+guarantee that bots won't read a web page; it only serves to say "no bots, please." Search engine bots, since they
+usually belong to large companies, respect web pages that don't want to allow them in. However, in order to truly
+guarantee that bots won't enter a web site, CAPTCHAs are needed.</p>
+   
+<li><p><b>Worms and Spam.</b> CAPTCHAs also offer a plausible solution against email worms and spam:  "I will
+only accept an email if I know there is a human behind the other computer." A few companies are already marketing this idea.</p>
+
+</ul>
+
+<h1>Guidelines</h1>
+
+<p>If your website needs protection from abuse, it is recommended that you use a CAPTCHA. There are many CAPTCHA implementations, some better than
+others. The following guidelines are strongly recommended for any CAPTCHA code:</p>
+      
+<ul> 
+
+<li><p><b>Accessibility.</b> CAPTCHAs must be accessible.  CAPTCHAs based solely on reading text &#8212; or other
+visual-perception tasks &#8212; prevent visually impaired users from accessing the protected resource. Such CAPTCHAs
+may make a site incompatible with Section 508 in the United States. Any implementation of a CAPTCHA should allow blind
+users to get around the barrier, for example, by permitting users to opt for an audio or sound CAPTCHA.</p>
+        
+<li><p><b>Image Security.</b> CAPTCHA images of text should be distorted randomly before being presented to the user. Many
+implementations of CAPTCHAs use undistorted text, or text with only minor distortions. These implementations are
+vulnerable to simple automated attacks. </p>
+
+
+<li><p><b>Script Security.</b> Building a secure CAPTCHA code is not easy. In addition to making the images unreadable by
+computers, the system should ensure that there are no easy ways around it at the script level.  Common examples of
+insecurities in this respect include: (1) Systems that pass the answer to the CAPTCHA in plain text as part of the web
+form. (2) Systems where a solution to the same CAPTCHA can be used multiple times (this makes the CAPTCHA vulnerable to
+so-called "replay attacks"). Most CAPTCHA scripts found freely on the Web are vulnerable to these types of attacks. </p>
+
+<li><p><b>Security Even After Wide-Spread Adoption.</b> There are various "CAPTCHAs" that would be insecure if a
+significant number of sites started using them. An example of such a puzzle is asking text-based questions, such as a
+mathematical question ("what is 1+1"). Since a parser could easily be written that would allow bots to bypass this
+test, such "CAPTCHAs" rely on the fact that few sites use them, and thus that a bot author has no incentive to
+program their bot to solve that challenge. True CAPTCHAs should be secure even after a significant number of websites
+adopt them.</p>
+
+<li><p><b>Should I Make My Own CAPTCHA?</b> In general, making your own CAPTCHA script (e.g., using PHP, Perl or .Net) is a bad idea, as there are many failure 
+modes. We recommend that you use a 
+well-tested implementation such as <a href="http://recaptcha.net">reCAPTCHA</a>. 
+
+</ul>
+
+<h1>The "Pornography Attack" is Not a Concern</h1>
+
+<p> It is sometimes rumored that spammers are using pornographic sites to solve CAPTCHAs: the CAPTCHA images are sent to a porn site, and the porn site users are 
+asked
+to solve the CAPTCHA before being able to see a pornographic image. <b>This is not a security concern for CAPTCHAs</b>. While it might be the case that some 
+spammers use porn
+sites to attack CAPTCHAs, the amount of damage this can inflict is tiny (so tiny that we haven't even noticed a dent!). Whereas it is trivial to write a bot that 
+abuses an unprotected site millions of times a day, redirecting CAPTCHAs to be solved by humans viewing
+pornography would only allow spammers to abuse systems a few thousand times per day. The economics of this attack just don't add up:  every time a porn site shows
+a CAPTCHA before a porn image, they risk losing a customer to another site that doesn't do this.</p>
+
+<h1>Advancing Artificial Intelligence</h1>
+
+<p>CAPTCHA tests are based on open problems in artificial intelligence (AI): decoding images of distorted text, for instance, is well beyond the capabilities of 
+modern computers. 
+Therefore, CAPTCHAs also offer well-defined challenges for the AI community, and induce security
+researchers, as well as otherwise malicious programmers, to work on advancing the field of AI. CAPTCHAs are thus a win-win situation: either a CAPTCHA is not
+broken and there is a way to differentiate humans from computers, or the CAPTCHA is broken and an AI problem is solved. </p>
+
+<h1>Academic Publications and Presentations</h1>
+
+<ul> 
+
+<li><p>Luis von Ahn, Ben Maurer, Colin McMillen, David Abraham and Manuel Blum.
+<A HREF="http://www.cs.cmu.edu/~biglou/reCAPTCHA_Science.pdf">reCAPTCHA: Human-Based Character Recognition via Web Security Measures.</a>
+In <i>Science.</i></p>
+
+<li><p>Jennifer Tam, Jiri Simsa, Sean Hyde, and Luis von Ahn. <a href="Breaking_Audio_CAPTCHAs.pdf">Breaking Audio CAPTCHAs</a>. 
+In <i>Advances in Neural Information Processing Systems
+(NIPS).</i></p>
+
+<li><p>Luis von Ahn, Manuel Blum and John Langford.  <A HREF="captcha_cacm.pdf">Telling
+Humans and Computers Apart Automatically</A>.  In <i>Communications of the ACM</i>.</p>
+
+<li><p>Luis von Ahn, Manuel Blum, Nicholas Hopper, and John Langford.  <A
+HREF="captcha_crypt.pdf">CAPTCHA: Using Hard AI Problems for Security</A>.  In
+<i>Eurocrypt</i>.</p> 
+
+<li><p>Kumar Chellapilla and Patrice Y. Simard. <a href="http://research.microsoft.com/~kumarc/pubs/chellapilla_nips04.pdf">Using Machine Learning to Break Human 
+Interaction Proofs (HIPs)</a>. In <i>NIPS</i>. (Explains how to break the simple CAPTCHAs for which character segmentation is easy.)</p> 
+
+<li><p> Greg Mori and Jitendra Malik. <a href="http://www.cs.sfu.ca/~mori/research/gimpy/">Recognizing Objects in Adversarial Clutter: Breaking a Visual
+CAPTCHA.</a> In <i>CVPR</i>. (Explains how to break a simple CAPTCHA.) </p>
+
+<li><p><a href="http://video.google.com/videoplay?docid=-8246463980976635143">Google Tech Talk about CAPTCHAs and Human Computation</a>.</p>
+
+</ul>
+
+<h1>Selected Popular Press Pieces</h1>
+
+<ul>
+
+
+<li><p><a href="http://query.nytimes.com/gst/fullpage.html?sec=technology&res=9907E5DF163AF933A25751C1A9649C8B63">Human or Computer? Take This Test</a>, The New York Times.</p>
+
+<li><p><a href="http://radar.oreilly.com/archives/2007/05/recaptcha_stop.html">reCAPTCHA - Stop Spam, Read Books</a>, O'Reilly Radar.</p>
+
+<li><p><a href="http://www.wired.com/techbiz/it/magazine/15-07/ff_humancomp">For Certain Tasks, the Cortex Still Beats the CPU</a>, Wired Magazine. </p>
+
+</ul>
+
+</div>
+
+<p class="footer">&copy; 2000-2010 Carnegie Mellon University, all rights reserved.</p>
+
+</td></tr>
+</table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-372036-5";
+urchinTracker();
+</script>
+
+</body>
+</html>
+
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/reasonng/chem/congen/0.html>====================
+<TITLE>Package: areas/reasonng/chem/congen/</TITLE>
+<hr>
+<b>CMU Artificial Intelligence Repository</b><br>
+<tt><A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/air.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/home.gif" ALT="Home"></A>  <A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/rep_info.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/info.gif" ALT="INFO"></A>  <A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/keys/keysform.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/search.gif" ALT="Search"></A>  <A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/faqs/top.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/faqs.gif" ALT="FAQs"></A>  <A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/0.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/top.gif" ALT="Repository Root"></A>  </tt>
+<hr>
+<H2>DENDRAL and CONGEN: Molecular Structure Elucidation in 
+              Organic Chemistry</H2>
+<pre>
+<A HREF="./">areas/reasonng/chem/congen/</A>
+</pre>
+<listing>
+The DENDRAL Project was an application of computer science to the
+problem of molecular structure elucidation in organic chemistry: the
+determination of the topological structure of organic compounds from
+indirect observations of these compounds with the empirical procedures
+of modern chemistry such as mass spectrometry.  This problem is
+important because the chemical and physical properties of compounds
+are determined not just by their constituent atoms, but by the
+arrangement of these atoms as well.
+
+"DENDRAL" is the name of the research project, which was conducted at
+Stanford University from 1965-1980, under Joshua Lederberg, Edward
+Feigenbaum, Bruce Buchanan, and Carl Djerassi as principal
+investigators.  "DENDRAL" is also the name of the programs produced by
+the project.  DENDRAL originally stood for DENDRitic ALgorithm, a
+procedure for exhaustively and nonredundantly enumerating all the
+topologically distinct arrangements of any given set of atoms,
+consistent with the rules of chemical valence.
+
+The CONGEN program, the CONstrained GENerator, is one of the most
+important programs resulting from this research and embodies the
+general (acyclic and cyclic) generation algorithm in a system that
+allows a chemist to constrain its enumeration in a variety of ways.
+CONGEN is written in BCPL and is being made available to interested
+researchers as is, without any warranty or support.
+</listing>
+<hr>
+<listing>
+Requires:     BCPL
+
+CD-ROM:       Prime Time Freeware for AI, Issue 1-1
+
+Keywords:
+
+   Authors!Buchanan, Authors!Feigenbaum, Authors!Lederberg, 
+   Authors!Lindsay, BCPL!Code, CONGEN, Chemical Reasoning, 
+   DENDRAL, Molecular Structure, Organic Chemistry, 
+   Reasoning!Chemical Reasoning
+
+References:
+
+   Robert K. Lindsay, Bruce G. Buchanan, Edward A. Feigenbaum, and Joshua
+   Lederberg, "APPLICATIONS OF ARTIFICIAL INTELLIGENCE FOR ORGANIC
+   CHEMISTRY: The DENDRAL Project", McGraw-Hill Book Company, 1980.
+
+</listing><hr>
+<address>Last Web update on Mon Feb 13 10:27:47 1995 <br>
+<A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/air.html">AI.Repository@cs.cmu.edu</A></address>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/expert/systems/esfm/0.html>====================
+<TITLE>Package: areas/expert/systems/esfm/</TITLE>
+<hr>
+<b>CMU Artificial Intelligence Repository</b><br>
+<tt><A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/air.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/home.gif" ALT="Home"></A>  <A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/rep_info.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/info.gif" ALT="INFO"></A>  <A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/keys/keysform.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/search.gif" ALT="Search"></A>  <A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/faqs/top.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/faqs.gif" ALT="FAQs"></A>  <A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/0.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/top.gif" ALT="Repository Root"></A>  </tt>
+<hr>
+<H2>ESFM: Prolog Expert System for Forestry Management</H2>
+<pre>
+<A HREF="./">areas/expert/systems/esfm/</A>
+</pre>
+<listing>
+This directory contains a small expert system for forestry
+management, written in Prolog. The rules are stored as Prolog
+clauses, with inference occurring by Prolog executing the rules.
+Inference is depth-first, backward-chaining, with no explanations
+of why ESFM asked a question nor how it came to a conclusion.
+</listing>
+<pre>
+Origin:   
+
+   <A HREF="ftp://src.doc.ic.ac.uk/packages/prolog-pd-software/">src.doc.ic.ac.uk:packages/prolog-pd-software/ (146.169.2.1)</A>
+</pre>
+<hr>
+<listing>
+Version:      3-MAR-88
+
+Ports:        Edinburgh Prolog Compatible
+
+CD-ROM:       Prime Time Freeware for AI, Issue 1-1
+
+Author(s):    Steve Jones
+              Reading University
+
+Keywords:
+
+   Authors!Jones, ESFM, Expert System Shells, Prolog!Code
+
+References:   ?
+
+</listing><hr>
+<address>Last Web update on Mon Feb 13 10:21:39 1995 <br>
+<A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/air.html">AI.Repository@cs.cmu.edu</A></address>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/reasonng/medical/tmycin/0.html>====================
+<TITLE>Package: areas/reasonng/medical/tmycin/</TITLE>
+<hr>
+<b>CMU Artificial Intelligence Repository</b><br>
+<tt><A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/air.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/home.gif" ALT="Home"></A>  <A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/rep_info.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/info.gif" ALT="INFO"></A>  <A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/keys/keysform.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/search.gif" ALT="Search"></A>  <A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/faqs/top.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/faqs.gif" ALT="FAQs"></A>  <A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/0.html"><IMG ALIGN=MIDDLE SRC="/afs/cs.cmu.edu/project/ai-repository/ai/html/gif/top.gif" ALT="Repository Root"></A>  </tt>
+<hr>
+<H2>TMYCIN: Medical Reasoning System</H2>
+<pre>
+<A HREF="./">areas/reasonng/medical/tmycin/</A>
+</pre>
+<listing>
+This directory contains TMYCIN (Tiny EMYCIN), a simple expert
+system tool patterned after the EMYCIN tool developed at Stanford.
+</listing>
+<pre>
+Origin:   
+
+   Defunct.
+</pre>
+<hr>
+<listing>
+Version:      5-JAN-90
+
+Requires:     Common Lisp
+
+Ports:        Golden Common Lisp
+
+Copying:      Copyright (c) 1988 by Gordon S. Novak Jr.
+              Use, copying, modification and distribution permitted.
+
+CD-ROM:       Prime Time Freeware for AI, Issue 1-1
+
+Author(s):    Gordon Novak and Robert L. Causey
+              Computer Science Department
+              University of Texas at Austin
+              Austin, TX 78712
+
+Keywords:
+
+   Authors!Novak, Backward Chaining, 
+   Expert System Shells!Medical, Lisp!Code, Medical Reasoning, 
+   Reasoning!Medical Reasoning, TMYCIN
+
+References:
+
+   Shortliffe, E.H., "Computer Based Medical Consultations: MYCIN"
+   American Elsevier, 1976.
+   
+   W. Van Melle, A. C. Scott, J. S. Bennett, and M. Peairs, "The Emycin
+   Manual", Computer Science Dept., Stanford University, STAN-CS-81-885,
+   October 1981.
+
+</listing><hr>
+<address>Last Web update on Mon Feb 13 10:27:49 1995 <br>
+<A HREF="/afs/cs.cmu.edu/project/ai-repository/ai/html/air.html">AI.Repository@cs.cmu.edu</A></address>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://medg.lcs.mit.edu/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+
+<!--HEADER-->
+<html>
+<head>
+ 	<TITLE>MIT CSAIL Clinical Decision Making Group</TITLE>
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+//-->
+</script>
+<meta name="" content="Clinical Decision Making">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head>
+
+<BODY BGCOLOR="#FFFFCC" VLINK="#996699" link="#336699" onLoad="MM_preloadImages('images/articles%20rollover.jpg','images/classes%20rollover.jpg','images/demos%20rollover.jpg','images/internal%20rollover.jpg','images/people%20rollover.jpg','images/photos%20rollover.jpg','images/seminar%20rollover.jpg','images/training%20rollover.jpg','images/admission%20rollover.jpg')">
+<table border=0 cellpadding=0 cellspacing=0 width=688>
+  <tr>
+    <td rowspan=15 bgcolor=000000 width=11>
+    <img src="images/blank.gif" width=11 height=1 border=0 alt=""> 
+    </td>
+    
+    <td bgcolor=000000 align=center valign=top colspan=3>
+    <!--NAVBAR-->
+    <IMG SRC="images/blank.gif" USEMAP="#header" HEIGHT="26" WIDTH="600" border=0 hspace=0 vspace=0 alt="Image Map- text links at the bottom of the page">
+    <!--END NAVBAR-->
+
+    </td>
+  </tr>
+
+  <!--END HEADER-->
+  <!--SECTIONINFO-->
+  <tr>
+    <td colspan=3 height=108> <a href="http://www.csail.mit.edu/"
+    ><IMG SRC="images/csaillogosmall.gif" alt="MIT Computer Science and Artificial Intelligence Lab" name="CSAIL" WIDTH="107" HEIGHT="76" hspace=0
+    vspace=0 border=0 align=left id="CSAIL"> </a> <IMG width=129 height=93 align=right
+    alt="black bag"
+    border=0 hspace=0 vspace=0
+    SRC="images/medg-logo.gif"> 
+      <table
+      width=436 border=0 cellpadding=0 cellspacing=0>
+      <tr align=center valign=middle>
+          <td width="436" height=108 align=center  valign=middle> 
+            <h1><font color="#003399">Clinical Decision<font color="#336699"> 
+              </font>Making</font></h1>
+      </td>
+      </tr>
+    </table>    </td>
+  </tr>
+
+   <tr>
+    <td width=112 valign=top align=center> 
+      <p align="center"><img src="images/blank.gif" width=85 height=1 border=0 hspace=0 alt=""> 
+        <BR>
+        <br>
+        <br>
+        <a href="publications/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('articles','','images/articles%20rollover.jpg',1)"><img name="articles" border="0" src="images/articles%20nav%20button.jpg" width="100" height="32" vspace="3" hspace="3"></a> 
+        <a href="courses/courses.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('classes','','images/classes%20rollover.jpg',1)"><img name="classes" border="0" src="images/classes%20nav%20button.jpg" width="100" height="32" vspace="3" hspace="3"></a> 
+        <a href="demos/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('demos','','images/demos%20rollover.jpg',1)"><img name="demos" border="0" src="images/demos%20nav%20button.jpg" width="100" height="32" vspace="3" hspace="3"></a> 
+        <a href="people/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('people','','images/people%20rollover.jpg',1)"><img name="people" border="0" src="images/people%20nav%20button.jpg" width="100" height="32" vspace="3" hspace="3"></a> 
+        <a href="photos/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('photos','','images/photos%20rollover.jpg',1)"><img name="photos" border="0" src="images/photos%20nav%20button.jpg" width="100" height="32" vspace="3" hspace="3"></a> 
+        <a href="seminar%20series.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('seminars','','images/seminar%20rollover.jpg',1)"><img name="seminars" border="0" src="images/seminars%20nav%20button.jpg" width="100" height="32" vspace="3" hspace="3"><br>
+        </a> 
+        <a href="http://groups.csail.mit.edu/medg/GraduateAdmission.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('admission nav button','','images/admission%20rollover.jpg',1)"><img src="images/admission%20nav%20button.jpg" name="admission nav button" width="100" height="32" hspace="3" vspace="3" border="0"></a><a href="training/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('training','','images/training%20rollover.jpg',1)"><br>
+        <img name="training" border="0" src="images/training%20nav%20button.jpg" width="100" height="32" vspace="3" hspace="3"></a>
+        <a href="https://groups.csail.mit.edu/medg/restricted/README.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('internal (mit only)','','images/internal%20rollover.jpg',1)"><img name="internal (mit only)" border="0" src="images/internal%20nav%20button.jpg" width="100" height="32" vspace="3" hspace="3"></a> 
+        
+</p>     </td>
+
+     <td width=8><img src="images/blank.gif" width=8 height=1 border=0 alt=""></td>
+
+     <td width=557 valign=top>
+     <!--END SECTIONINFO-->
+     <!--BEGIN DOCUMENT CONTENT-->
+
+     <table width=500 border=0 cellpadding=5>
+<tr bgcolor="#FFFFCC"><td colspan=2 align=center>
+            <h2><font color="#FF6600">Group Information</font></h2>
+</td></tr>
+<tr><td valign=top align=right>
+<b>Director:</b>
+</td><td valign=top>
+<a href="./people/psz/index.html">Peter Szolovits</a>
+</td></tr>
+<tr><td valign=top align=right>
+<B>Mission:</B>
+</td>
+          <td> <strong>To provide better health care through applied artificial 
+            intelligence.</strong></td>
+        </tr>
+<tr><td valign=top align=right>
+<B>Description:</B>
+</td>
+          <td> The Clinical Decision Making Group at the MIT Laboratory for Computer 
+            Science is a research group dedicated to exploring and furthering 
+            the application of technology and artificial intelligence to clinical 
+            situations. Because of the vital and crucial nature of medical practice, 
+            and the need for accurate and timely information to support clinical 
+            decisions, the group is also focused on the gathering, availability, 
+            security and use of medical information throughout the human "life 
+            cycle" and beyond.<br>
+            <br>
+          </td>
+        </tr>
+<tr><td valign=top align=right>
+<B>Contact:</B>
+</td>
+          <td> <p> See also <a href="./people/">People </a><BR>
+              Phone: (617) 253-5860 <BR>
+              Fax: (617) 258-8682 <br>
+              The Stata Center (Bldg. 32)<BR>
+              32 Vassar St #250<br>
+              Cambridge MA 02139<br>
+              <a href="DirectionsToMEDG.html"><strong>Click here for detailed 
+              directions to our Lab.</strong></a></p>
+              Web: <a href="http://medg.lcs.mit.edu/"
+    >http://medg.csail.mit.edu/</a> </p>          </td>
+</tr>
+
+<tr><td valign=top align=right>
+</td><td>
+</td></tr>
+
+<tr><td colspan=2 align=center>
+            <h2>&nbsp;</h2>
+            <h2><font color="#003399"><b><font color="#FF6600">Projects</font><a name="projects"></a></b></font></h2>
+</td></tr>
+
+<tr>
+  <td valign=top align=right><a href="https://www.i2b2.org/"><strong>i2b2</strong></a>
+  </td><td> The i2b2 Center is developing a scalable informatics framework that will bridge clinical research data and the vast data banks arising from basic science research in order to better understand the genetic bases of complex diseases. This knowledge will facilitate the design of targeted therapies for individual patients with diseases having genetic origins. </td></tr>
+<tr>
+  <td valign=top align=right><strong><font color="#336699"><a href="http://mimic.mit.edu/index.html">ICU/MIMIC</a></font></strong></td>
+  <td> Develop and evaluate advanced ICU patient monitoring systems that will substantially improve the efficiency, accuracy and timeliness of clinical decision making in intensive care. </td>
+</tr>
+<tr>
+<td valign=top align=right><b><a href="./projects/fw">Fair Witness</a></b></td>
+<td>A well-organized, complete and accurate record of clinical encounters can form the bedrock of data on which both clinical care and clinical and biomedical research can rest. This project applies state of the art and novel technologies to &quot;listen&quot; to and interpret encounters between patients and health care providers to create such records. Its success should lead to better health care and greater possibilities for using clinical data in medical research.</td>
+</tr>
+<tr>
+  <td valign=top align=right><b><a href="./projects/text">Medical Text Analysis</a></b></td>
+  <td>Developing tools and techniques to &quot;read&quot; unstructured English descriptions of clinical data and knowledge.</td>
+</tr>
+<tr>
+  <td valign=top align=right><a href="http://nmesh.chip.org/"><strong>NMESH</strong></a> </td>
+  <td> The <font color="#336699">N</font>ational <font color="336699">M</font>ulti- <font color="336699">P</font>rotocol <font color="336699">E</font>nsemble for <font color="336699">S</font>elf-scaling systems for <font color="336699">H</font>ealth seeks to address  problems of scalability and preparedness in health care infrastructure at multiple levels by leveraging off of prior work on multi-institutional "on-the-fly" data integration, regional patient-controlled medical records, self-describing peer-to-peer networks, cryptographic health identification systems, and a GIS-based biosurveillance toolset. </td>
+</tr>
+<tr>
+  <td valign=top align=right><a href="http://www.indivohealth.org/"><strong>PING/IndivoHealth</strong></a>  </td>
+  <td> Indivo is a personally controlled health record system that enables patients to own complete, secure copies of their medical records. Indivo integrates health information across sites of care and over time. Indivo is built to public standards as an open-source application platform and is actively deployed in real-life settings. </td>
+</tr>
+<tr>
+  <td valign=top align=right><b><a href="projects/ga/"
+	  >Guardian Angel</a></b></td>
+  <td>Personal lifelong active medical assistants </td>
+</tr>
+<tr>
+  <td valign=top align=right> <b><a href="./projects/hdp"
+	  >Heart Disease</a></b> </td>
+  <td>Assisting the diagnosis and therapy of cardiovascular disease. Physicians can try the <a
+      href="./projects/hdp/hdp-demo-tab.html">diagnosis program</a>. </td>
+</tr>
+<tr>
+  <td valign=top align=right><b><a href="./projects/geninfer.html"
+	  >Geninfer</a></b> </td>
+  <td>Assisting clinical genetics counselors </td>
+</tr>
+<tr>
+  <td valign=top align=right><b><a href="./projects/share/">SHARE/ HIID-IT</a></b></td>
+  <td>Using cryptographic methods to encourage the protected sharing of data in clinical trials and other privacy-sensitive settings. </td>
+</tr>
+<tr>
+  <td valign=top align=right> <b><a href="./projects/maita/"
+	  >MAITA</a></b> </td>
+  <td>The Monitoring, Analysis, and Interpretation Tool Arsenal provides means for automated gathering, understanding, and reacting to important information in a broad range of application areas, including clinical, military, industrial, commercial, and scientific monitoring and surveillance. </td>
+</tr>
+<tr>
+  <td valign=top align=right> <b><a href="./projects/cbr.html"
+	  >Case-Based Reasoning</a></b> </td>
+  <td>Learning diagnostic expertise from experience </td>
+</tr>
+<tr>
+  <td valign=top align=right><b><a href="./projects/emrs/"
+	  ></a><a href="./projects/emrs/"
+	  ></a><a href="./projects/emrs/"
+	  >EMRS</a></b></td>
+  <td>The Electronic Medical Record System project demonstrated the feasibility of providing unified common medical record access via the world-wide web. </td>
+</tr>
+
+</table>
+
+<!--END DOCUMENT CONTENT-->
+<!--FOOTER--></td></tr>
+<tr>
+    <td align=center colspan=3> 
+      <p><font color="#003399"><a href="http://www.medg.lcs.mit.edu"><br>
+        <br>
+        <b>Back to Top</b></a></font><BR>
+        <br>
+        <br>
+        <font color="#336699">Questions, comments about this site? Email</font><font color="#0099CC"> 
+        </font><a href="mailto:webmaster@medg.lcs.mit.edu">webmaster@medg.csail.mit.edu</a> 
+      </p>
+    </td>
+  </tr></table>
+
+<br>
+<a href="http://www.mit.edu/"><img src="mit-greygrey-header2.gif" width="194" height="70" border="0"></a>
+</body>
+</html>
+<!--END FOOTER-->
+++++++++++++++++++++<Over>++++++++++++++++++++

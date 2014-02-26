@@ -1,0 +1,4 @@
+useDynLib(wordcloud)
+exportPattern("^[[:alpha:]]+")
+import( Rcpp )
+import( slam )

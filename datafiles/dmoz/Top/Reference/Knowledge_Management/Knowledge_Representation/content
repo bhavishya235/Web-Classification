@@ -1,0 +1,278 @@
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation">
+<catid>477730</catid>
+<link r:resource="http://www.kr.org/" />
+<link r:resource="http://logic.stanford.edu/kif/kif.html" />
+<link r:resource="http://www.jfsowa.com/" />
+<link r:resource="http://tockit.sourceforge.net/" />
+<link r:resource="http://www.cs.cofc.edu/~manaris/ai-education-repository/" />
+<link r:resource="http://www.webkb.org/" />
+<link r:resource="http://www.aaai.org/Papers/KR/2008/KR08-064.pdf" />
+<link r:resource="http://conceptualgraphs.org/" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Events">
+<catid>477733</catid>
+<link r:resource="http://www.aaai.org/Symposia/symposia.php" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Events/Past_Events">
+<catid>477734</catid>
+<link r:resource="http://www.cs.rmit.edu.au/fedconf/" />
+<link r:resource="http://www.loa-cnr.it/FOIS2004.html" />
+<link r:resource="http://www.cs.rmit.edu.au/fedconf/odbase/2003/" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Ontologies">
+<catid>477737</catid>
+<link r:resource="http://www.cs.utexas.edu/users/mfkb/related.html" />
+<link r:resource="http://ontology.buffalo.edu/" />
+<link r:resource="http://www.co-ode.org/" />
+<link r:resource="http://www.ecor.uni-saarland.de/" />
+<link r:resource="http://www.w3.org/TR/owl-ref/" />
+<link r:resource="http://www-ksl.stanford.edu/onto-std/mailarchive/0136.html" />
+<link r:resource="http://www.ksl.stanford.edu/people/dlm/papers/ontologies-come-of-age-mit-press-(with-citation).htm" />
+<link r:resource="http://tagsonomy.com/" />
+<link r:resource="http://shirky.com/writings/ontology_overrated.html" />
+<link r:resource="http://ontolog.cim3.net/" />
+<link r:resource="http://www.jfsowa.com/ontology/guided.htm" />
+<link r:resource="http://www-ksl.stanford.edu/kst/what-is-an-ontology.html" />
+<link r:resource="http://ontologyonline.org/" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Ontologies/Languages_and_Standards">
+<catid>477741</catid>
+<link r:resource="http://www.daml.org/2001/03/daml+oil-index.html" />
+<link r:resource="http://www.w3.org/TR/owl-guide/" />
+<link r:resource="http://www.w3.org/2001/sw/WebOnt/" />
+<link r:resource="http://suo.ieee.org/" />
+<link r:resource="http://www.w3.org/TR/owl-features/" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Ontologies/Published_Ontologies">
+<catid>477739</catid>
+<link r:resource="http://www.daml.org/ontologies/" />
+<link r:resource="http://www.aiai.ed.ac.uk/project/enterprise/enterprise/ontology.html" />
+<link r:resource="http://protege.stanford.edu/plugins/owl/owl-library/index.html" />
+<link r:resource="http://obo.sourceforge.net/" />
+<link r:resource="http://www.loa-cnr.it/DOLCE.html" />
+<link r:resource="http://www.aktors.org/publications/ontology/" />
+<link r:resource="http://sweet.jpl.nasa.gov/ontology" />
+<link r:resource="http://www.ontologyportal.org/" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Ontologies/Software_and_Tools">
+<catid>477738</catid>
+<link r:resource="http://www.opencyc.org/" />
+<link r:resource="http://protege.stanford.edu/" />
+<link r:resource="http://xml.coverpages.org/Denny-OntologyEditorSurveyText20021111.html" />
+<link r:resource="http://apollo.open.ac.uk/index.html" />
+<link r:resource="http://www.ksl.stanford.edu/software/ontolingua/" />
+<link r:resource="http://www.ontologyworks.com/" />
+<link r:resource="http://www.daml.org/2001/03/dumpont" />
+<link r:resource="http://km.aifb.uni-karlsruhe.de/eon2002" />
+<link r:resource="http://www.wordmap.com/" />
+<link r:resource="http://www.alphaworks.ibm.com/tech/snobase" />
+<link r:resource="http://www.sts.tu-harburg.de/~r.f.moeller/racer/" />
+<link r:resource="http://www.ksl.stanford.edu/software/chimaera/" />
+<link r:resource="http://fowl.sourceforge.net/" />
+<link r:resource="http://powl.sourceforge.net/" />
+<link r:resource="http://dome.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Ontologies/Tutorials">
+<catid>477740</catid>
+<link r:resource="http://protege.stanford.edu/publications/ontology_development/ontology101-noy-mcguinness.html" />
+<link r:resource="http://protege.stanford.edu/plugins/owl/" />
+<link r:resource="http://www.cs.man.ac.uk/~horrocks/ISWC2003/Tutorial/" />
+<link r:resource="http://www.cs.man.ac.uk/~horrocks/Slides/ecai-handout.pdf" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Publications">
+<catid>477731</catid>
+<link r:resource="http://medg.lcs.mit.edu/ftp/psz/k-rep.html" />
+<link r:resource="http://www.isi.edu/isd/KRSharing/vision/AIMag.html" />
+<link r:resource="http://www.jfsowa.com/krbook/" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Research_Groups">
+<catid>477736</catid>
+<link r:resource="http://www.forwiss.uni-passau.de/" />
+<link r:resource="http://www.ics.forth.gr/" />
+<link r:resource="http://www-ksl.stanford.edu/" />
+<link r:resource="http://www.cse.buffalo.edu/sneps/" />
+<link r:resource="http://www.loa-cnr.it/" />
+<link r:resource="http://www.cse.lehigh.edu/~heflin/research/" />
+<link r:resource="http://www.ie.inf.uc3m.es/" />
+<link r:resource="http://logic.stanford.edu/overview.html" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Semantic_Web">
+<catid>477732</catid>
+<link r:resource="http://www.semanticarts.com/" />
+<link r:resource="http://platypuswiki.sourceforge.net/" />
+<link r:resource="http://www.w3.org/2001/sw/Activity" />
+<link r:resource="http://www.w3.org/2001/Annotea/" />
+<link r:resource="http://www.w3.org/2001/11/IsaViz/" />
+<link r:resource="http://www.w3.org/DesignIssues/CG.html" />
+<link r:resource="http://www.ercim.org/publication/Ercim_News/enw51/berners-lee.html" />
+<link r:resource="http://www.cognitiveweb.org/" />
+<link r:resource="http://www.xml.com/lpt/a/2001/05/02/semanticwebsite.html" />
+<link r:resource="http://www.w3.org/People/Berners-Lee/Weaving/" />
+<link r:resource="http://www.oreillynet.com/pub/a/network/2002/04/19/platform.html" />
+<link r:resource="http://www.xml.com/pub/a/2000/11/01/semanticweb/" />
+<link r:resource="http://www.disobey.com/detergent/2002/sw123/" />
+<link r:resource="http://www.w3.org/DesignIssues/Semantic.html" />
+<link r:resource="http://139.91.183.30:9090/RDF/" />
+<link r:resource="http://www.rundom.com/semantic/" />
+<link r:resource="http://www.openshore.org/" />
+<link r:resource="http://www.cs.vu.nl/~frankh/postscript/IJCAI99-III.html" />
+<link r:resource="http://www.cse.lehigh.edu/~heflin/pubs/" />
+<link r:resource="http://www.gnowsis.com/" />
+<link r:resource="http://sw.nokia.com/uriqa/URIQA.html" />
+<link r:resource="http://www.agfa.com/w3c/euler/" />
+<link r:resource="http://bigfractaltangle.com/" />
+<link r:resource="http://www.w3.org/2000/10/swap/doc/cwm.html" />
+<link r:resource="http://sempl.net/" />
+<link r:resource="http://firstmonday.org/issues/issue7_7/masum/index.html" />
+<link r:resource="http://iw.stanford.edu/" />
+<link r:resource="http://ontoware.org/" />
+<link r:resource="http://www.sekt-project.com/" />
+<link r:resource="http://www.ilrt.bris.ac.uk/discovery/" />
+<link r:resource="http://km.aifb.uni-karlsruhe.de/projects/swsc" />
+<link r:resource="http://www.topquadrant.com/" />
+<link r:resource="http://www.sociosite.org/semantic.php" />
+<link r:resource="http://www.ddj.com/architect/184414544" />
+<link r:resource="http://www.scientificamerican.com/article.cfm?id=the-semantic-web" />
+<link r:resource="http://ontologyonline.org/" />
+<link r:resource="http://business.semanticweb.org/" />
+<link r:resource="http://www.semantic-web.at/" />
+<link r:resource="http://sswap.info/" />
+<link r:resource="http://www.gnoss.com/" />
+<link r:resource="http://www.linkeddatatools.com/" />
+<link r:resource="http://semantic-web-book.org/" />
+<link r:resource="http://bizsolutions.strands.com/" />
+<link r:resource="http://www.faviki.com/" />
+<link r:resource="http://www.semanticfocus.com/" />
+<link r:resource="http://www.semanticweb.com/" />
+<link r:resource="http://www.semanticsincorporated.com/" />
+<link r:resource="http://www.sti2.org/" />
+<link r:resource="http://pandora.tel.uva.es/ontoolsearch/" />
+<link r:resource="http://www.ip-super.org/" />
+<link r:resource="http://socialgraph.blogspot.com/" />
+<link r:resource="http://www.eyeplorer.com/" />
+<link r:resource="http://www.semanticweb.rs/" />
+<link r:resource="http://www.prescientsoftware.co.uk/" />
+<link r:resource="http://www.ulakha.com/concept-search-eswc2009.html" />
+<link r:resource="http://www.iswsa.org/" />
+<link r:resource="http://sig.ma/" />
+<link r:resource="http://www.semantic-web-journal.net/" />
+<link r:resource="http://www.semic.eu/" />
+<link r:resource="http://ontoba.com/" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Semantic_Web/Conferences">
+<catid>1006690</catid>
+<link r:resource="http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/" />
+<link r:resource="http://iswc2003.semanticweb.org/" />
+<link r:resource="http://iswc2010.semanticweb.org/" />
+<link r:resource="http://iswc2009.semanticweb.org/" />
+<link r:resource="http://iswc2011.semanticweb.org/" />
+<link r:resource="http://www.eswc2011.org/" />
+<link r:resource="http://www.eswc2010.org/" />
+<link r:resource="http://www.defeasible.org/ruleml2011/" />
+<link r:resource="http://www.csw.inf.fu-berlin.de/ruleml2010/" />
+<link r:resource="http://www.mediabistro.com/semanticwebsummit/" />
+<link r:resource="http://www.aswc2009.org/" />
+<link r:resource="http://km.aifb.kit.edu/ws/semsearch11" />
+<link r:resource="http://sssc2011.sti2.org/" />
+<link r:resource="http://events.linkeddata.org/ldow2011/" />
+<link r:resource="http://kcap11.stanford.edu/" />
+<link r:resource="http://www.ieee-icsc.org/" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Systems">
+<catid>477735</catid>
+<link r:resource="http://www.framerd.org/" />
+<link r:resource="http://www.chrisnaylor.co.uk/" />
+<link r:resource="http://www.bell-labs.com/project/classic/" />
+<link r:resource="http://www.daasolutions.com/" />
+<link r:resource="http://web.media.mit.edu/~hugo/omcsnet/" />
+<link r:resource="http://www.projecthalo.com/" />
+<link r:resource="http://cobra.umbc.edu/index.html" />
+<link r:resource="http://magic.it.uts.edu.au/systems/saten.html" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Topic_Maps">
+<catid>477742</catid>
+<link r:resource="http://www.topicmap.com/" />
+<link r:resource="http://www.topicmaps.net/" />
+<link r:resource="http://xml.coverpages.org/topicMaps.html" />
+<link r:resource="http://www.garshol.priv.no/download/tmlinks.html" />
+<link r:resource="http://www.ontopia.net/topicmaps/materials/tao.html" />
+<link r:resource="http://easytopicmaps.com/" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Topic_Maps/Examples_and_Use_Cases">
+<catid>477744</catid>
+<link r:resource="http://www.nyu.edu/its/humanities/ach_allc2001/papers/wittern/" />
+<link r:resource="http://www.astro.caltech.edu/~aam/science/topicmaps/" />
+<link r:resource="http://www.techquila.com/bcase.html" />
+<link r:resource="http://www.techquila.com/topicmaps/tmworld/" />
+<link r:resource="http://easytopicmaps.com/index.php?page=BeerTM" />
+<link r:resource="http://gcc.upb.de/www/WI/WI2/wi2_lit.nsf/62fc5eb0598e0181c1256ac40053fa74/dc7405eaf587bf7ec1256c78005498bd?OpenDocument" />
+<link r:resource="http://dret.net/glossary/" />
+<link r:resource="http://www.augmentingminds.com/xmlad-tm/" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Topic_Maps/Forums_and_Mailing_Lists">
+<catid>477748</catid>
+<link r:resource="http://lists.oasis-open.org/archives/topicmaps-comment/" />
+<link r:resource="http://www.infoloom.com/mailman/listinfo/topicmapmail" />
+<link r:resource="http://lists.oasis-open.org/archives/tm-pubsubj-comment/" />
+<link r:resource="http://lists.oasis-open.org/archives/geolang-comment/" />
+<link r:resource="http://lists.oasis-open.org/archives/xmlvoc-comment/" />
+<link r:resource="http://groups.yahoo.com/group/tmql-wg/" />
+<link r:resource="http://www.ontopia.net/topicmaps/irc/irclog/" />
+<link r:resource="http://isotopicmaps.org/mailman/listinfo/sc34wg3" />
+<link r:resource="http://www.isotopicmaps.org/mailman/listinfo/tmcl-wg" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Topic_Maps/Software_and_Tools">
+<catid>477743</catid>
+<link r:resource="http://www.moresophy.com/" />
+<link r:resource="http://www.ontopia.net/solutions/products.html" />
+<link r:resource="http://www.ontopia.net/omnigator/" />
+<link r:resource="http://tm4j.org/" />
+<link r:resource="http://www.techquila.com/tmtab.html" />
+<link r:resource="http://www.tmapi.org/" />
+<link r:resource="http://search.cpan.org/dist/XTM/" />
+<link r:resource="http://www.gooseworks.org/" />
+<link r:resource="http://www.mintert.com/topicmaps/xtm2xhtml/" />
+<link r:resource="http://www.topicmap-design.com/" />
+<link r:resource="http://www.ontopia.net/software/tmproc/" />
+<link r:resource="http://tinytim.sourceforge.net/" />
+<link r:resource="http://tm4j.org/tmnav.html" />
+<link r:resource="http://xsiteable.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Topic_Maps/Specifications_and_Standards">
+<catid>477749</catid>
+<link r:resource="http://www.isotopicmaps.org/sam/" />
+<link r:resource="http://www.topicmaps.org/xtm/1.0/" />
+<link r:resource="http://www.topicmaps.net/pmtm4.htm" />
+<link r:resource="http://psi.oasis-open.org/" />
+<link r:resource="http://www.isotopicmaps.org/rm4tm" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Topic_Maps/Technical_Papers">
+<catid>477746</catid>
+<link r:resource="http://www.xm.co.nz/op/tm.htm" />
+<link r:resource="http://www.cogx.com/kt2002/" />
+<link r:resource="http://www.xml.com/pub/a/2002/09/11/topicmaps.html" />
+<link r:resource="http://www.xml.com/pub/a/2002/08/21/topicmapb2b.html" />
+<link r:resource="http://www.ontopia.net/download/ltm.html" />
+<link r:resource="http://www.ontopia.net/topicmaps/materials/tmrdf.html" />
+<link r:resource="http://www.xml.com/pub/a/2003/03/05/tmrdb.html" />
+<link r:resource="http://www.ontopia.net/topicmaps/materials/identitycrisis.html" />
+<link r:resource="http://xml.coverpages.org/moore-topicmapsrdf200105.pdf" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Topic_Maps/Vendors_and_Consultants">
+<catid>477747</catid>
+<link r:resource="http://www.empolis.com/" />
+<link r:resource="http://www.mondeca.com/" />
+<link r:resource="http://www.infoloom.com/" />
+<link r:resource="http://www.ontopia.net/" />
+<link r:resource="http://www.techquila.com/" />
+<link r:resource="http://www.coolheads.com/" />
+<link r:resource="http://www.networkedplanet.com/" />
+</topic>
+<topic r:id="Top/Reference/Knowledge_Management/Knowledge_Representation/Topic_Maps/Working_Groups_and_Committees">
+<catid>477745</catid>
+<link r:resource="http://www.oasis-open.org/committees/geolang/" />
+<link r:resource="http://www.oasis-open.org/committees/tm-pubsubj/" />
+<link r:resource="http://www.oasis-open.org/committees/xmlvoc/" />
+<link r:resource="http://www.topicmaps.org/" />
+<link r:resource="http://www.isotopicmaps.org/" />
+</topic>

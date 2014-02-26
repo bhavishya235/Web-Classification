@@ -1,0 +1,12 @@
+<topic r:id="Top/News/Weather/Imagery">
+<catid>999050</catid>
+<link r:resource="http://www.weatherimages.org/" />
+<link r:resource="http://www.gowally.com/wx/radar.html" />
+<link r:resource="http://wxweb.meteostar.com/radar/radar_link.shtml?map=SYS_BASE_REFL.gif" />
+<link r:resource="http://radar.weather.gov/" />
+</topic>
+<topic r:id="Top/News/Weather/Imagery/Webcams">
+<catid>999051</catid>
+<link r:resource="http://www.weatherimages.org/weathercams.html" />
+<link r:resource="http://web.tiscali.it/napolicam/" />
+</topic>

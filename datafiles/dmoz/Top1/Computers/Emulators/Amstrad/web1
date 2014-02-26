@@ -1,0 +1,3933 @@
+====================<http://genesis8.free.fr/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html
+ xmlns="http://www.w3.org/1999/xhtml"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:sioc="http://rdfs.org/sioc/ns#"
+ xmlns:sioctype="http://rdfs.org/sioc/types#"
+ xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+ xml:lang="en"> 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Genesis8 Amstrad Page, news about Amstrad CPC, PCW, Notepad NC and PDA600, in english and french, and more</title>
+<meta name="robots" content="index,follow" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.genesis8bit.fr/news-en.rss" />
+<link rel="stylesheet" type="text/css" href="genesis8.css" />
+<link rel="home" title="Home" href="http://www.genesis8bit.fr/index.php" />
+<link rel="canonical" href="http://www.genesis8bit.fr/index.php" />
+<link rel="publisher" href="https://plus.google.com/114589068274966874852" />
+<link rel="alternate" hreflang="fr" href="http://www.genesis8bit.fr/indexf.php" />
+<link rel="alternate" hreflang="en" href="http://www.genesis8bit.fr/index.php" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+<meta name="DC.Creator" content="Emmanuel Roussin" />
+<meta name="DC.Language" scheme="RFC3066" content="en" />
+<meta name="DC.Date.created" scheme="W3CDTF" content="2004-07-01" />
+<meta name="DC.Date.modified" scheme="W3CDTF" content="2012-01-03" />
+<meta name="application-name" content="Genesis8 Amstrad Page" />
+<meta name="msapplication-task" content="name=Files;action-uri=http://www.genesis8bit.fr/frontend/index.php" />
+<meta name="msapplication-task" content="name=CSA8 newsgroup;action-uri=http://www.genesis8bit.fr/amstrad/faq/index.php" />
+<meta name="msapplication-task" content="name=Links;action-uri=http://www.genesis8bit.fr/amstrad/links/index.php" />
+<meta name="msapplication-task" content="name=Games;action-uri=http://www.genesis8bit.fr/amstrad/game-rom/index.php" />
+<meta name="msapplication-task" content="name=Archives;action-uri=http://www.genesis8bit.fr/archives/index.php" />
+<meta name="msapplication-task" content="name=Web site in french;action-uri=http://www.genesis8bit.fr/indexf.php" />
+<meta name="keywords" content="Amstrad CPC roms,Arnold,Schneider,464 664 6128 464+ 6128+,Z80,GX4000,PCW 8256 9512 9256 9512,NC100,NC150,NC200,PDA600,CP/M,emulator,comp.sys.amstrad.8bit,Alan Michael Sugar TRADing" />
+<meta name="description" content="Amstrad 8bit computers (Amstrad CPC, PCW, Notepad NC, PDA600) in english and french" />
+<meta name="verify-v1" content="3LeWcBmbdPJ806WXVPKYBCZgR9O2eO0H3hpHtzBpecQ=" />
+<meta name="google-site-verification" content="DSObHPK45SoyebEMO9RVedA-9rGVeWNXjTGSWDmcOW0" />
+<meta name="msvalidate.01" content="BC28D54F29D20C074D56C4DD30A6659B" />
+</head>
+
+<body id="top">
+<div id="conteneur">
+
+<div id="header">
+	<div class="menu">
+<a href="http://www.genesis8bit.fr/index.php" accesskey="1"><img src="/images/logoant5-80x50.png" alt="top of the main page, logo by Antoine Rozanski" width="80" height="50" /></a>
+&nbsp; | &nbsp;<a href="http://www.genesis8bit.fr/frontend/index.php">Files</a>
+&nbsp; | &nbsp;<a href="http://www.genesis8bit.fr/amstrad/faq/index.php">CSA8 &amp; FAQ</a>
+&nbsp; | &nbsp;<a href="http://www.genesis8bit.fr/amstrad/faq/amstrad.php#A11">Emulator</a>
+&nbsp; | &nbsp;<a href="http://www.genesis8bit.fr/amstrad/links/index.php">Links</a>
+&nbsp; | &nbsp;<a href="http://www.genesis8bit.fr/amstrad/game-rom/index.php">Games</a>
+&nbsp; | &nbsp;<a href="http://www.genesis8bit.fr/archives/index.php">Archives</a>
+&nbsp; | &nbsp;<a href="https://plus.google.com/113082477780677145580?rel=author" accesskey="7">Contact</a>
+&nbsp; | &nbsp;<a href="http://www.genesis8bit.fr/indexf.php" hreflang="fr"><img src="/images/frflag45x25.png" alt="Aller vers la version fran&ccedil;aise de ce site" width="45" height="25" /></a>
+</div>
+
+	<div id="logo"><img src="images/logoant5.jpg" alt="logo by Antoine Rozanski" width="320" height="200" /></div><br />
+	<p>Amstrad CPC : my first computer. That's why this site is dedicated to it and to the others <a href="http://www.amstrad.com/">Amstrad</a> computers : Amstrad PCW, Amstrad NC Notepad and Amstrad PDA600</p>
+</div>
+
+<div id="wrap">
+<div id="sidebar">
+
+<div id="dmenu">
+	<ul class="sidebar">
+	<li><a href="/frontend/index.php" title="Genesis8 Amstrad Page files">Files</a></li>
+	<li><a href="/amstrad/faq/index.php" title="comp.sys.amstrad.8bit FAQ">CSA8 &amp; FAQ</a></li>
+	<li><a href="/amstrad/faq/amstrad.php#A11" title="Amstrad CPC emulators">Emulator</a></li>
+	<li><a href="/amstrad/links/index.php" title="Genesis8 Amstrad Page links">Links</a></li>
+	<li><a href="/amstrad/game-rom/index.php" title="Genesis8 Amstrad Page database">Games</a></li>
+	<li><a href="/archives/index.php" title="Genesis8 Amstrad Page archives">Archives</a></li>
+	<li><a href="/email.php" title="contact webmaster">Contact</a></li>
+	</ul>
+	<p>
+	<a href="http://fusion.google.com/add?source=atgs&amp;feedurl=http://www.genesis8bit.fr/news-en.rss"><img src="http://gmodules.com/ig/images/plus_google.gif" alt="Add to Google" /></a>&nbsp;
+<!--	<div class="g-plusone" data-annotation="none" data-href="http://www.genesis8bit.fr/index.php"></div><br /><br />-->
+	</p>
+</div>
+&nbsp;
+
+<div id='screenshot'>
+<p>Game database</p>
+<p>Games - Summer Edition (the)<br />
+<a href="/amstrad/game-rom/amstrad-game.php?prog_id=1904&amp;title=Games%20-%20Summer%20Edition%20%28the%29&amp;creator=Us%20gold%20%2F%20epyx">
+<img src="/images/frontend/G/Games%20-%20Summer%20Edition%20%28E%29%2C%20The_1.png" width="160" height="100" alt="screenshot of the Amstrad CPC game Games - Summer Edition (the)" /></a>
+&copy; 1989 Us gold / epyx
+</p>
+</div>
+
+&nbsp;
+<div id="liens">
+<p>Links</p>
+<p>
+<a href="http://www.amstrad-esp.com/">Amstrad ESP</a><br />
+<a href="http://amstrad.cpc.free.fr/">Amstradeus</a><br />
+<a href="http://www.cpcgamereviews.com/">CPC games reviews</a><br />
+<a href="http://www.cpc-power.com/">CPC Power</a><br />
+<a href="http://cpcrulez.fr/">CPC Rulez</a><br />
+<a href="http://cpc-live.com/">CPC-Live</a><br />
+<a href="http://www.cpcwiki.eu/">CPC Wiki</a><br />
+<a href="http://www.cpc-power.com/gamebasecpc/">GameBase CPC</a><br />
+<a href="http://java.cpc-live.com/">JavaCPC</a><br />
+<a href="http://www.octoate.de/">Octoate</a><br />
+<a href="http://pushnpop.net/">Push'N'Pop</a><br />
+<a href="http://tacgr.emuunlim.com/">T.A.C.G.R.</a><br />
+<a href="http://www.ncus.org.uk/">Tim's Amstrad NC users'site</a><br />
+<a href="http://www.phenixinformatique.com/">Phenix informatique</a>
+</p>
+</div>
+
+&nbsp;
+<div id="forums">
+<p>English Forums</p>
+<p><a href="news:comp.sys.amstrad.8bit">CSA8 newsgroup</a><br />
+<a href="http://www.cpcwiki.eu/forum/">CPC Wiki</a></p>
+<p>French forums</p>
+<p><a href="http://cpcrulez.fr/forum/index.php">CPC Rulez</a><br />
+<a href="http://cmussaperetto3.free.fr/IMPACT/FORUM/index.php">Impact CPC</a><br />
+<a href="http://www.phenixinformatique.com/modules/newbb/">Phenix informatique</a></p>
+<p>German Forum</p>
+<p><a href="http://www.cpcwiki.eu/forum">CPC Wiki</a></p>
+<p>Spanish Forum</p>
+<p><a href="http://www.amstrad.es/forum/">Amstrad ESP</a></p>
+</div>
+
+&nbsp;
+<div id="other">
+<p>Other computers</p>
+<p><a href="http://www.c64.org/">C64</a><br />
+<a href="http://www.msx.org/">MSX</a><br />
+<a href="http://www.worldofspectrum.org/">ZX Spectrum</a></p>
+</div>
+
+</div>
+
+<div id="centre">
+
+<div id="genesis8-amstrad-page-moved" class="news" about="http://www.genesis8bit.fr/index.php"><br />
+<h3 property="dc:title"><em>Genesis8 Amstrad Page is moving to another domain</em></h3>
+<span property="dc:date" class="date" content="2013-12-31T23:50">Today</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p>Genesis8 Amstrad Page is moving to a new domain : <a href="http://www.genesis8bit.fr/index.php">www.genesis8bit.fr</a>, dont forget to update your bookmark. I will still update the news there from time to time though.</p>
+<p>Category : <a href="archives/index.php?news_category=news_web">web site</a></p>
+</div><br /></div><br />
+
+<div id="push-n-pop-vote-productions-2013" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=468"><br />
+<h3 property="dc:title"><em>Vote on Push'n'Pop for the best 2013 Amstrad CPC productions</em></h3>
+<span property="dc:date" class="date" content="2014-01-12T12:37">01/12/2014 - 12:37</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p>Vox populi,vox dei, so don't hesitate to go <a href="http://pushnpop.net/">vote on Push'n'Pop</a> about what you consider the best 2013 Amstrad CPC productions.</p>
+</div>
+<p>Source : <a href="http://www.octoate.de/wp/2014/01/11/pushnpop-demo-productions-charts-2013/">Octoate</a></p>
+<p>Categories : <a href="archives/index.php?news_category=news_demo">demo</a> - <a href="archives/index.php?news_category=news_game">game</a></p>
+<p><a href="http://twitter.com/home?status=Vote%20on%20Push%27n%27Pop%20for%20the%20best%202013%20Amstrad%20CPC%20productions+http://www.genesis8bit.fr/archives/index.php?news_id=468">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=468&amp;t=Vote%20on%20Push%27n%27Pop%20for%20the%20best%202013%20Amstrad%20CPC%20productions">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+<div id="barbarian-clone-death-sword-128-youtube" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=467"><br />
+<h3 property="dc:title"><em>Death Sword for Amstrad CPC(+) 128 Kb tested on Youtube</em></h3>
+<span property="dc:date" class="date" content="2014-01-12T11:46">01/12/2014 - 11:46</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p>Just after a few days that <a href="http://deathsword.cpc-live.com/">Death Sword</a> was available, and you can already find tests of this new Amstrad CPC game on Youtube :</p>
+<ul>
+<li><a href="http://www.youtube.com/watch?v=keJt_IBuCsk">test for the frogs of Death Sword on youtube</a></li>
+<li><a href="http://www.youtube.com/watch?v=voj7G8SJo0E">test in english of Death Sword on youtube</a> (see below)</li>
+</ul>
+</div>
+<p><object type="application/x-shockwave-flash" width="425" height="344" data="http://www.youtube.com/v/voj7G8SJo0E&amp;hl=fr&amp;fs=1"><param name="movie" value="http://www.youtube.com/v/voj7G8SJo0E&amp;hl=fr&amp;fs=1" /><param name="wmode" value="transparent" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /></object></p>
+
+<p>Category : <a href="archives/index.php?news_category=news_game">game</a></p>
+<p><a href="http://twitter.com/home?status=Death%20Sword%20for%20Amstrad%20CPC%28%2B%29%20128%20Kb%20tested%20on%20Youtube+http://www.genesis8bit.fr/archives/index.php?news_id=467">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=467&amp;t=Death%20Sword%20for%20Amstrad%20CPC%28%2B%29%20128%20Kb%20tested%20on%20Youtube">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+<div id="nowiki-totems-v11-esp-soft-artaburu-dos-mcklain-litos" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=466"><br />
+<h3 property="dc:title"><em>An update (v1.1) of TOTEMS Columns CPC 2, an Amstrad CPC game by  ESP Soft</em></h3>
+<span property="dc:date" class="date" content="2014-01-05T15:06">01/05/2014 - 15:06</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p>An update of <a href="http://amstrad.es/juegosamstrad/decargajuegos/totems.php">Totems</a> by <a href="http://www.amstrad.es/espsoft/">ESP Soft</a> is out.</p>
+<p>It's a columns like game for 1 or 2 players (coop or vs).</p>
+<p>You can play <a href="http://cpc.devilmarkus.de/game.php?id=-T-&amp;title=totems_cpc">Totems online with JavaCPC</a>.</p>
+</div>
+<p><object type="application/x-shockwave-flash" width="425" height="344" data="http://www.youtube.com/v/vsGAHYgiRrs&amp;hl=fr&amp;fs=1"><param name="movie" value="http://www.youtube.com/v/vsGAHYgiRrs&amp;hl=fr&amp;fs=1" /><param name="wmode" value="transparent" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /></object></p>
+
+<p>Source : <a href="http://espsoft.amstrad.es/?p=827">ESP Soft</a></p>
+<p>Category : <a href="archives/index.php?news_category=news_game">game</a></p>
+<p><a href="http://twitter.com/home?status=An%20update%20%28v1.1%29%20of%20TOTEMS%20Columns%20CPC%202%2C%20an%20Amstrad%20CPC%20game%20by%20%20ESP%20Soft+http://www.genesis8bit.fr/archives/index.php?news_id=466">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=466&amp;t=An%20update%20%28v1.1%29%20of%20TOTEMS%20Columns%20CPC%202%2C%20an%20Amstrad%20CPC%20game%20by%20%20ESP%20Soft">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+<div id="david-braben-kickstarter-elite-dangerous-2013" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=465"><br />
+<h3 property="dc:title"><em>An alpha version of Elite Dangerous, a kickstarter project by David Braben</em></h3>
+<span property="dc:date" class="date" content="2014-01-05T14:47">01/05/2014 - 14:47</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p>One year later, <a href="http://www.kickstarter.com/projects/1461411552/elite-dangerous">Elite dangerous</a> exists in alpha version, you can also pay to be able to play beta versions when they will be available.</p>
+<p>More informations on the <a href="http://elite.frontier.co.uk/">Elite Dangerous officiel web site</a>.</p>
+</div>
+<p><object type="application/x-shockwave-flash" width="425" height="344" data="http://www.youtube.com/v/VE8B4KptyVI&amp;hl=fr&amp;fs=1"><param name="movie" value="http://www.youtube.com/v/VE8B4KptyVI&amp;hl=fr&amp;fs=1" /><param name="wmode" value="transparent" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /></object></p>
+
+<p>Source : <a href="http://www.msx.org/news/en/elite-dangerous-capital-ship-battle-trailer">MSX Ressource Center</a></p>
+<p>Categories : <a href="archives/index.php?news_category=news_web">web site</a> - <a href="archives/index.php?news_category=news_game">game</a></p>
+<p><a href="http://twitter.com/home?status=An%20alpha%20version%20of%20Elite%20Dangerous%2C%20a%20kickstarter%20project%20by%20David%20Braben+http://www.genesis8bit.fr/archives/index.php?news_id=465">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=465&amp;t=An%20alpha%20version%20of%20Elite%20Dangerous%2C%20a%20kickstarter%20project%20by%20David%20Braben">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+<div id="cpcrslib-20181208-sdcc-esp-soft" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=464"><br />
+<h3 property="dc:title"><em>CPCRSLIB for SDCC, a development library in C for Amstrad CPC</em></h3>
+<span property="dc:date" class="date" content="2014-01-05T14:35">01/05/2014 - 14:35</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p>The library <a href="https://code.google.com/p/cpcrslib/">CPCRSLIB</a> for the <a href="http://sdcc.sourceforge.net/">SDCC compiler</a> has been updated :</p>
+<p>horizontal scroll sample (011 - Small Sprite Demo (Tile Map) - SCROLL) included. Some tilemap functions updated with minor changes improving the tile drawing speed. </p>
+</div>
+<p>Source : <a href="http://espsoft.amstrad.es/?p=837">ESP Soft</a></p>
+<p>Category : <a href="archives/index.php?news_category=news_development">development</a></p>
+<p><a href="http://twitter.com/home?status=CPCRSLIB%20for%20SDCC%2C%20a%20development%20library%20in%20C%20for%20Amstrad%20CPC+http://www.genesis8bit.fr/archives/index.php?news_id=464">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=464&amp;t=CPCRSLIB%20for%20SDCC%2C%20a%20development%20library%20in%20C%20for%20Amstrad%20CPC">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+<div id="nowiki-interview-elmsoft-egs-elmar-krieger" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=463"><br />
+<h3 property="dc:title"><em>An interview of Elmar Krieger (Elmsoft / EGS) by NoRecess</em></h3>
+<span property="dc:date" class="date" content="2014-01-03T18:36">01/03/2014 - 18:36</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p><a href="http://www.norecess.net/interview-elmsoft.html">NoRecess did interview Elmar Krieger</a>, the author of Amstrad CPC demos and programs (such as Prehistorik).</p>
+</div>
+<p>Source : <a href="http://www.norecess.net/interview-elmsoft.html">NoRecess</a></p>
+<p>Categories : <a href="archives/index.php?news_category=news_demo">demo</a> - <a href="archives/index.php?news_category=news_programming">programmation</a></p>
+<p><a href="http://twitter.com/home?status=An%20interview%20of%20Elmar%20Krieger%20%28Elmsoft%20%2F%20EGS%29%20by%20NoRecess+http://www.genesis8bit.fr/archives/index.php?news_id=463">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=463&amp;t=An%20interview%20of%20Elmar%20Krieger%20%28Elmsoft%20%2F%20EGS%29%20by%20NoRecess">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+<div id="javacpc-desktop-v23-amstrad-cpc-plus-emulator-java" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=462"><br />
+<h3 property="dc:title"><em>JavaCPC Desktop v2.3, an Amstrad CPC(+)  emulator in java by Markus Hohmann (Devilmarkus)</em></h3>
+<span property="dc:date" class="date" content="2014-01-03T18:26">01/03/2014 - 18:26</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p>A new version of the <a href="http://cpc-live.com/data/index.php">desktop JavaCPC</a> is available. It's an Amtsrad CPC(+) emulator written in Java by Markus Hohmann (DevilMarkus).</p>
+</div>
+<p>Source : <a href="http://cpcrulez.fr/forum/viewtopic.php?f=7&amp;t=4590&amp;start=15">CPC Rulez's forum</a></p>
+<p>Category : <a href="archives/index.php?news_category=news_emulator">emulator</a></p>
+<p><a href="http://twitter.com/home?status=JavaCPC%20Desktop%20v2.3%2C%20an%20Amstrad%20CPC%28%2B%29%20%20emulator%20in%20java%20by%20Markus%20Hohmann%20%28Devilmarkus%29+http://www.genesis8bit.fr/archives/index.php?news_id=462">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=462&amp;t=JavaCPC%20Desktop%20v2.3%2C%20an%20Amstrad%20CPC%28%2B%29%20%20emulator%20in%20java%20by%20Markus%20Hohmann%20%28Devilmarkus%29">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+<div id="loading-screen-saboteur-revenge-ninja-movie" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=461"><br />
+<h3 property="dc:title"><em>What is the link between Saboteur and the Revenge of the Ninja movie ?</em></h3>
+<span property="dc:date" class="date" content="2013-12-31T18:29">12/31/2013 - 18:29</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p>Well it's all about the poster's film which really looks like the Saboteur loading screen, I will let you judge.</p>
+<p><img src="/images/news-amstrad-cpc/saboteur-revenge-of-the-ninja-movie-poster.jpg" width="598" height="290" alt="loading screen of the Amstrad CPC game Saboteur and movie poster of Revenge of the Ninja" /></p>
+</div>
+<p>Source : <a href="https://twitter.com/MadPlanet69/status/416737166375391232">Twitter</a></p>
+<p>Category : <a href="archives/index.php?news_category=news_game">game</a></p>
+<p><a href="http://twitter.com/home?status=What%20is%20the%20link%20between%20Saboteur%20and%20the%20Revenge%20of%20the%20Ninja%20movie%20%3F+http://www.genesis8bit.fr/archives/index.php?news_id=461">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=461&amp;t=What%20is%20the%20link%20between%20Saboteur%20and%20the%20Revenge%20of%20the%20Ninja%20movie%20%3F">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+<div id="nowiki-happy-new-year-2014" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=460"><br />
+<h3 property="dc:title"><em>Happy new year 2014</em></h3>
+<span property="dc:date" class="date" content="2013-12-31T18:06">12/31/2013 - 18:06</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p>Happy new year 2014, I hope you will get what you wish for (for you and all those you love).</p>
+</div>
+<p>Category : <a href="archives/index.php?news_category=news_web">web site</a></p>
+<p><a href="http://twitter.com/home?status=Happy%20new%20year%202014+http://www.genesis8bit.fr/archives/index.php?news_id=460">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=460&amp;t=Happy%20new%20year%202014">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+<div id="barbarian-clone-death-sword-128" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=459"><br />
+<h3 property="dc:title"><em>Death Sword for Amstrad CPC(+) 128 Ko (Barbarian updated)</em></h3>
+<span property="dc:date" class="date" content="2013-12-26T23:05">12/26/2013 - 23:05</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p>As a Christmas gift, <a href="http://deathsword.cpc-live.com/">Death Sword</a> is an update of the Barbarian game for Amstrad CPC(+) 128 Kb by Devilmarkus (code), ToTO (Backgrounds Update), MacDeath (additional graphics) and CNGSoft (compression).</p>
+</div>
+<p>Source : <a href="http://cpcrulez.fr/forum/viewtopic.php?f=2&amp;t=5159">CPC Rulez's forum</a></p>
+<p>Category : <a href="archives/index.php?news_category=news_game">game</a></p>
+<p><a href="http://twitter.com/home?status=Death%20Sword%20for%20Amstrad%20CPC%28%2B%29%20128%20Ko%20%28Barbarian%20updated%29+http://www.genesis8bit.fr/archives/index.php?news_id=459">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=459&amp;t=Death%20Sword%20for%20Amstrad%20CPC%28%2B%29%20128%20Ko%20%28Barbarian%20updated%29">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+<div id="nowiki-happy-christmas-2013" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=458"><br />
+<h3 property="dc:title"><em>Happy Christmas</em></h3>
+<span property="dc:date" class="date" content="2013-12-25T20:45">12/25/2013 - 20:45</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p>It's a bit late to wish your a merry Christmas, I hope so that you received what you were asking for.</p>
+</div>
+<p>Category : <a href="archives/index.php?news_category=news_web">web site</a></p>
+<p><a href="http://twitter.com/home?status=Happy%20Christmas+http://www.genesis8bit.fr/archives/index.php?news_id=458">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=458&amp;t=Happy%20Christmas">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+<div id="hxc-floppy-drive-emulator-v2-0-18-4" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=457"><br />
+<h3 property="dc:title"><em>HxC Floppy Drive Emulator v2.0.18.4 available on Sourceforge</em></h3>
+<span property="dc:date" class="date" content="2013-12-16T23:10">12/16/2013 - 23:10</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p><a href="http://sourceforge.net/projects/hxcfloppyemu/">HxC Floppy Drive Emulator v2.0.18.4</a> is available on Sourceforge (source included of course).</p>
+<p>It's an utility to create images to be used by the <a href="http://hxc2001.free.fr/">SDCard HxC Floppy Emulator</a>, to replace the good old 3 inch disks drives of our Amstrad CPC.</p>
+</div>
+<p>Source : <a href="http://cpcrulez.fr/forum/viewtopic.php?p=24172">CPC Rulez's forum</a></p>
+<p>Categories : <a href="archives/index.php?news_category=news_hardware">hardware</a> - <a href="archives/index.php?news_category=news_utility">utility</a></p>
+<p><a href="http://twitter.com/home?status=HxC%20Floppy%20Drive%20Emulator%20v2.0.18.4%20available%20on%20Sourceforge+http://www.genesis8bit.fr/archives/index.php?news_id=457">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=457&amp;t=HxC%20Floppy%20Drive%20Emulator%20v2.0.18.4%20available%20on%20Sourceforge">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+<div id="barbarian-1987-remake-outrun-cpc" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=456"><br />
+<h3 property="dc:title"><em>A remake of Outrun for PC by Barbarian 1987 using basic (QB64)</em></h3>
+<span property="dc:date" class="date" content="2013-12-16T22:39">12/16/2013 - 22:39</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p>After a remake of <a href="http://barbarian.1987.free.fr/indexEN.htm">Barbarian</a> and <a href="http://crazycarscpc.free.fr/indexEN.htm">Crazy Cars</a>, F.L. is currently writing a remake of <a href="https://www.dropbox.com/s/d803ueu0l4cgk6k/outrunBETA.zip">Outrun (beta)</a></p>
+<p>F.L. did program it with in <a href="http://www.qb64.net/">basic (QB64)</a>, which is a windows compiler. You can get out your gwbasic or quick basic programs and still run them with QB64, or use the new features bringed by QB64 (like networking).</p>
+<p><img src="/images/frontend/O/Out%20Run%20(E)_1.png" width="768" height="512" alt="loading screen of the Outrun Amstrad CPC game" /></p>
+</div>
+<p>Source : <a href="http://cpcrulez.fr/forum/viewtopic.php?p=2417">CPC Rulez's forum</a></p>
+<p>Categories : <a href="archives/index.php?news_category=news_programming">programmation</a> - <a href="archives/index.php?news_category=news_game">game</a></p>
+<p><a href="http://twitter.com/home?status=A%20remake%20of%20Outrun%20for%20PC%20by%20Barbarian%201987%20using%20basic%20%28QB64%29+http://www.genesis8bit.fr/archives/index.php?news_id=456">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=456&amp;t=A%20remake%20of%20Outrun%20for%20PC%20by%20Barbarian%201987%20using%20basic%20%28QB64%29">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+<div id="billy-la-banlieu-billy-run-again-jean-philippe-biscay" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=455"><br />
+<h3 property="dc:title"><em>Billy Run Again by Jean Philippe Biscay (author of Billy la Banlieue and Billy 2)</em></h3>
+<span property="dc:date" class="date" content="2013-12-06T00:04">12/06/2013 - 00:04</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p><a href="http://www.billy-la-banlieue.com/">Jean Philippe Biscay</a> is the original developper of Billy La Banlieue (1986) and Billy 2 (1987), both of them published by Loriciels.</p>
+<p>He is programming with his son a new sequel : Billy Run Again for Android, IPhone, Web, Windows, Mac and Linux.</p>
+<p>You can subscribe on his web site to know of any advancement.</p>
+</div>
+<p><object type="application/x-shockwave-flash" width="425" height="344" data="http://www.youtube.com/v/p-Z75gIR99c&amp;hl=fr&amp;fs=1"><param name="movie" value="http://www.youtube.com/v/p-Z75gIR99c&amp;hl=fr&amp;fs=1" /><param name="wmode" value="transparent" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /></object></p>
+
+<p>Source : <a href="http://cpcrulez.fr/forum/viewtopic.php?f=6&amp;t=5145">CPCRulez's forum</a></p>
+<p>Categories : <a href="archives/index.php?news_category=news_development">development</a> - <a href="archives/index.php?news_category=news_game">game</a></p>
+<p><a href="http://twitter.com/home?status=Billy%20Run%20Again%20by%20Jean%20Philippe%20Biscay%20%28author%20of%20Billy%20la%20Banlieue%20and%20Billy%202%29+http://www.genesis8bit.fr/archives/index.php?news_id=455">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=455&amp;t=Billy%20Run%20Again%20by%20Jean%20Philippe%20Biscay%20%28author%20of%20Billy%20la%20Banlieue%20and%20Billy%202%29">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+<div id="double-dragon-nintendo-3ds" class="news" about="http://www.genesis8bit.fr/archives/index.php?news_id=454"><br />
+<h3 property="dc:title"><em>Double Dragon available on Nintendo 3DS</em></h3>
+<span property="dc:date" class="date" content="2013-12-05T23:42">12/05/2013 - 23:42</span><span property="dc:creator" class="date">Genesis8</span>
+<div property="dc:description">
+<p><a href="http://www.nintendo.fr/Jeux/Console-virtuelle-Nintendo-3DS-/Double-Dragon-275561.html">Double Dragon</a> is already available in the Nintendo 3DS Eshop (virtual console, black and white game).</p>
+</div>
+<p><object type="application/x-shockwave-flash" width="425" height="344" data="http://www.youtube.com/v/TLwMr3_tnmY&amp;hl=fr&amp;fs=1"><param name="movie" value="http://www.youtube.com/v/TLwMr3_tnmY&amp;hl=fr&amp;fs=1" /><param name="wmode" value="transparent" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /></object></p>
+
+<p>Source : <a href="http://www.jeuxvideo.com/news/2013/00069420-nintendo-les-telechargements-de-la-semaine.htm">JeuxVideo</a></p>
+<p>Category : <a href="archives/index.php?news_category=news_game">game</a></p>
+<p><a href="http://twitter.com/home?status=Double%20Dragon%20available%20on%20Nintendo%203DS+http://www.genesis8bit.fr/archives/index.php?news_id=454">
+<img src="/images/t_logo-a.png" height="36" width="36" alt="twitter" /></a>&nbsp;
+<a href="http://www.facebook.com/sharer.php?u=http://www.genesis8bit.fr/archives/index.php?news_id=454&amp;t=Double%20Dragon%20available%20on%20Nintendo%203DS">
+<img src="/images/fb36.png" height="36" width="36" alt="facebook" /></a>&nbsp;&nbsp;
+</p></div><br />
+
+
+<!--//div centre -->
+</div>
+
+<!--//div wrap -->
+</div>
+
+<div id="footer">
+	<p>Please follow this link to read the <a href="/archives/index.php" title="link to archives of this site">archives of the past months</a></p>
+	<a href="http://validator.w3.org/check?uri=referer"><img src="/images/valid-xhtml-rdfa.png" alt="Valid XHTML+RDFa" height="31" width="88" /></a>
+	<a href="http://validator.w3.org/feed/check.cgi?url=http%3A//www.genesis8bit.fr/news-en.rss"><img src="/images/valid-rss.png" alt="[Valid RSS]" title="Validate my RSS feed" height="31" width="88" /></a>
+	<a href="http://cpc-live.com/topsites/"><img src="http://cpc-live.com/topsites/button.php?u=genesis8" alt="CPC-Topsites" /></a>
+</div>
+
+<!--//div conteneur -->
+</div>
+<!--
+<script type="text/javascript">
+window.___gcfg = {lang: 'en-GB'};
+
+(function()
+{
+  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+  po.src = 'https://apis.google.com/js/plusone.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+-->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-9319513-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script></body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://bricerive.free.fr/cpc/cpcpp.html>====================
+<html><head>	<title>CPC++ - The Amstrad CPC emulator </title>	<META NAME="author" CONTENT="Brice Rive">	<META NAME="description" CONTENT="The home site of CPC++, the only Amstrad CPC emulator for MacOs and Solaris">	<META NAME="keywords" CONTENT="Amstrad, CPC, 464, 664, 6128, 8 bit, computer, game, emulator">	<META NAME="robots" CONTENT="ALL">	<META NAME="distribution" CONTENT="global"></head><body background="gifs/back_1200x25.gif" text="#FFFF00" bgcolor="#000099" link="#FF0000" vlink="#999900" alink="#999900"><img src="gifs/splash_390x70.gif" border=0 width=390 height=70 alt="CPC++ banner"><br><img src="gifs/dot_clear.gif" border=0 height=20 width=1><br><table width=540 border=0 cellpadding=0 cellspacing=0>  <tr>  	<td width=140></td>  	<td align="right"> <a href="cpcppCore.html" onFocus="if(this.blur)this.blur()"><img src="gifs/CorePointer_131x32.gif" alt="Click here for the core page" height=32 width="131" border=0></a>     </td>  </tr>  <tr>  	<td width=140></td>  	<td align="right"> <font size="1">Last modified 03/01/14</font> </td>  </tr>  <tr>	<td width=140></td>	<td width=400>	<b><font size=+1>	  <img src="gifs/dot_clear.gif" border=0 height=30 width=1><br>	  CPC++ is an extremely accurate emulator for the	  <font color="#FFFF99">Amstrad CPC</font>	  family of personal computers. It lets you do pretty much anything	  you could do with an actual CPC.<br>	  <img src="gifs/dot_clear.gif" border=0 height=12 width=1><br>	  It might seem odd to waste a powerfull modern computer to run old	  programs that would fit on a 64K 8bits computer from the 80's, but	  once you'll get back in touch with those	  <font color="#FFFF99">games</font>	  , you might reconsider.<br>	  <img src="gifs/dot_clear.gif" border=0 height=12 width=1><br>	  In addition to CPC++ itself, you will find here several	  <font color="#FFFF99">tools</font>	  to help you get (re)started on CPC computing.<br>	  <img src="gifs/dot_clear.gif" border=0 height=12 width=1><br>	  CPC++ was written in C++ (hence the name) to provide easy porting on	  different platforms. It is currently available for	  <font color="#FFFF99">	  Mac 68K, PowerMac, SunOs, Solaris and Linux	  </font>	  and will be progressively ported to the rest	  of the computing world, so stay in touch.<br>	</font></b>	</td>  </tr></table><br></body></html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://home.nordnet.fr/~ldeplanque/>====================
+<HTML>
+<HEAD>
+<TITLE>Page officielle d'AMI-CPC, un émulateur AMSTRAD CPC pour AMIGA. Version 0.46 disponnible ici.</TITLE>
+<META Name="description" content="AMI-CPC est un émulateur AMSTRAD CPC pour AMIGA.">
+<META Name="keywords" Content="amiga workbench commodore escom gateway ami-cpc amstrad cpc emulateur emulator deplanque emu emule ami cpc ami-cpc french france source free freeware gratuit">
+<META Name="author" Content="Ludovic DEPLANQUE - deplanque@chez.com">
+<META Name="machine" Content="Amiga">
+</HEAD>
+<BODY BGCOLOR=#B4AED2>
+<HR SIZE=16><BR><BR>
+<P ALIGN=CENTER><IMG SRC="images/titre.gif"><BR><BR>
+<P ALIGN=CENTER>-- V0.46 --<BR>
+<TABLE COLS=2 WIDTH="90%" BORDER=0 ALIGN=CENTER>
+<TR>
+<TD ALIGN=CENTER>
+<A HREF="index_fr.html"><IMG SRC="images/flag_fr.gif" ALT="Pages français" BORDER=0 WIDTH=120 HEIGHT=90></A>
+<BR><BR><STRONG><P ALIGN=CENTER>Cette page WEB est destinée à AMI-CPC, ainsi qu'à l'AMIGA en général. Vous trouverez ici la description d'AMI-CPC, ainsi que la dernière version à télécharger.</P></STRONG>
+<BR>
+<BR>
+<A HREF="index_fr.html">Pages en français</A>
+</TD>
+<TD ALIGN=CENTER>
+<A HREF="index_en.html"><IMG SRC="images/flag_en.gif" ALT="English pages" BORDER=0 WIDTH=120 HEIGHT=90></A>
+<BR><BR><STRONG><P ALIGN=CENTER>This WEB page is about AMI-CPC, and the AMIGA in general. You will find here the description of AMI-CPC, and the lastest version to download.</P></STRONG>
+<BR>
+<BR>
+<A HREF="index_en.html">English pages</A>
+</TD>
+</TR>
+</TABLE>
+<P ALIGN=CENTER VALIGN=MIDDLE><A HREF="http://software.pagecount.com/soft/map1/19233" ><IMG SRC="http://software.pagecount.com/soft/counter.gif?19233" ISMAP ></A>
+<!--#exec cgi="/cgi-bin/compteur/affiche_compteur.pl" -->
+<P ALIGN=CENTER VALIGN=MIDDLE>Depuis/Since 17/11/1997</P>
+<BR><BR>
+<P ALIGN=CENTER ><a href="http://www.cucug.org/amiga.html"><img src="http://www.cucug.org/amiga/images/awd50.jpg" border=0 alt="The Amiga Web Directory"></a></P>
+
+
+<HR SIZE=16> 
+</BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.bannister.org/software/arnold.htm>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Software: Arnold</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="../style.css" type="text/css" media="screen" charset="utf-8" />   
+    <script type="text/javascript" src="/external.js"></script>
+</head>
+<body>
+<div id="header">
+			<div class="wrapper">
+			<h1>Richard Bannister</h1>
+			<h3>Hocine bibo aut in eum digitos insero?</h3>
+			</div> <!-- END WRAPPER -->
+</div> <!-- END HEADER -->
+<div id="navbar">
+	<div class="wrapper">
+			<ul>
+            	<li><a href="../index.htm">About</a></li>
+            	<li><a href="../software/index.htm">Software</a></li>
+            	<li><a href="../coasters/index.htm">Coaster Trips</a></li>
+            	<li><a href="../photo/index.htm">Photo Gallery</a></li>
+            	<li><a href="../email/index.php">Contact</a></li>
+        	</ul>
+			</div> <!-- END WRAPPER -->
+	</div> <!-- END NAVBAR -->
+<div id="mainarea">
+	<div class="wrapper">
+        <div id="content">
+			<div class="story">
+				<div class="headline">
+					<h2>Arnold v1.7.8</h2>Amstrad CPC/CPC+ Emulator
+				</div>
+				<p class="text">Arnold emulates what was without question the best home computer available in Europe in the 1980s. It has developed over the last few years and now boasts almost perfect compatibility, with only a handful of demos that don't work properly.</p>
+				<p class="screenshot"><img src="../images/shots/arnold.jpg" width="394" height="299" alt="Arnold Screenshot" /></p>
+				<h4>Features</h4>
+				<ul>
+					<li>Support for CPC464, CPC664, CPC6128, 464 Plus, 6128 Plus, and KC Compact.</li>
+					<li>Support for five variants of CRTC.</li>
+					<li>Print-to-file support and Digiblaster emulation.</li>
+					<li>Optional Multiface II Emulation.</li>
+				</ul>
+				<h4>Download</h4>
+				<p>
+					<a href="/cgi-bin/download.cgi?arnold">Arnold (1.5MB)</a><br />
+				</p>
+				<p><i>Arnold has been downloaded 58154 times to date.</i></p>
+				<h4>Optional Extras</h4>
+				<p>
+					<a href="/cgi-bin/download.cgi?ee">Emulator Enhancer v2.4.0 (747K)</a><br />
+
+      
+				</p>
+			</div> <!-- END STORY -->
+			
+		</div> <!-- END CONTENT -->
+	    <div id="sidebar">
+	    	<h3>Software</h3>
+	    	<p><b>Emulators:</b></p>
+	    	<p><i>Note that the current releases of these projects all require Mac OS X 10.5 or later. Older releases are available from <a href="http://www.mac-emu.net/~bannister/filemirror/">the archive</a> but are strictly unsupported.</i></p>
+	    	<ul>
+	    		<li><a href="arnold.htm">Arnold v1.7.8</a></li>
+	    		<li><a href="ba.htm">Boycott Advance v0.4.0</a></li>
+	    		<li><a href="bsnes.htm">BSNES v0.6.8</a></li>
+	    		<li><a href="ee.htm">Emulator Enhancer v2.3.2</a></li>
+	    		<li><a href="fmsx.htm">fMSX v3.5.1</a></li>
+	    		<li><a href="frodo.htm">Frodo v4.4.0</a></li>
+	    		<li><a href="fuzzbug.htm">Fuzzbug v0.0.1</a></li>
+				<li><a href="generator.htm">Generator v0.4.4</a></li>
+				<li><a href="gplus.htm">Genesis Plus v1.3.1</a></li>
+				<li><a href="handy.htm">Handy v0.9.7</a></li>
+				<li><a href="horizon.htm">Horizon v1.3.9</a></li>
+				<li><a href="jum52.htm">Jum52 v1.1.0</a></li>
+				<li><a href="kigb.htm">KiGB v2.0.5</a></li>
+				<li><a href="mo5.htm">MO5 v2.6.3</a></li>
+				<li><a href="mugrat.htm">Mugrat v0.4.3</a></li>
+				<li><a href="neopocott.htm">Neopocott v0.5.1</a></li>
+				<li><a href="nestopia.htm">Nestopia v1.4.1</a></li>
+				<li><a href="o2em.htm">O2Em v1.1.1</a></li>
+				<li><a href="oric.htm">Oric v1.7.8</a></li>
+				<li><a href="oswan.htm">Oswan v0.8.1</a></li>
+				<li><a href="rainbow.htm">Rainbow v1.5.7</a></li>
+				<li><a href="simcoupe.htm">SimCoupe v0.8.3</a></li>
+				<li><a href="sms.htm">SMS Plus v1.3.3</a></li>
+				<li><a href="teo.htm">TEO v1.8.3</a></li>
+				<li><a href="tgemu.htm">TGEmu v0.3.4</a></li>
+				<li><a href="thom.htm">Thom v1.6.1</a></li>
+				<li><a href="vecx.htm">Vecx v0.1.6</a></li>
+				<li><a href="vibe.htm">ViBE v1.0b12</a></li>				
+	    	</ul>
+	    	<p><b>Video Game Music:</b></p>
+	    	<ul>
+ 	    		<li><a href="ao.htm">Audio Overload v2.0</a></li>
+ 	    		<li><a href="m1.htm">M1 v0.7.9a1</a></li>
+ 	    	</ul>
+ 	    	<p><b>Other:</b></p>
+ 	    	<ul>
+ 	    		<li><a href="bb.htm">Brain Box v0.3</a></li>
+ 	    		<li><a href="cacophony.htm">Cacophony v1.3.1</a></li>
+ 	    	</ul>
+	    </div> <!-- END SIDEBAR -->
+	</div> <!-- END WRAPPER -->
+	</div> <!-- MAIN AREA END -->
+	<div id="footer">
+    	<div class="wrapper">
+    		<ul id="sitemap">
+            	<li><a href="../index.htm">About</a></li>
+            	<li><a href="../software/index.htm">Software</a></li>
+            	<li><a href="../coasters/index.htm">Coaster Trips</a></li>
+            	<li><a href="../photo/index.htm">Photo Gallery</a></li>
+            	<li><a href="../email/index.php">Contact</a></li>
+        	</ul>
+        	<p class="copy">&copy; 1994-2012 Richard F. Bannister. All rights reserved.<br />27 user(s) online, 153574 visitors, since 1994.</p>
+    	</div> <!-- END WRAPPER -->
+	</div> <!-- END FOOTER -->
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://xcpc.emuunlim.com/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+  <head>
+    <title>Xcpc - Amstrad CPC Emulator :: Index</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="author"    content="Olivier Poncet">
+    <meta name="copyright" content="Copyright &copy; Copyright &copy; 2001, 2006, 2007 Olivier Poncet">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="alternate"  href="http://sourceforge.net/export/rss2_projnews.php?group_id=176134&rss_fulltext=1" title="Xcpc :: News" type="application/rss+xml">
+  </head>
+  <body>
+    <table border="0" cellspacing="2" cellpadding="4" width="100%">
+      <tr>
+        <td class="cell1" colspan="3" align="center" valign="top">
+ <!-- ** HEADER ****************************************************** {{{  -->
+          <div class="header"><center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-5760171659655704";
+google_alternate_ad_url = "http://www.ztnetstore.com/ad.html";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_color_border = "6699CC";
+google_color_bg = "003366";
+google_color_link = "FFFFFF";
+google_color_url = "AECCEB";
+google_color_text = "AECCEB";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<!-- BEGIN STANDARD TAG - popup or popunder - ROS: Run-of-site - DO NOT MODIFY -->
+<SCRIPT TYPE="text/javascript" SRC="http://content.cpxinteractive.com/rmtag3.js"></SCRIPT>
+<SCRIPT language="JavaScript">
+var rm_host = "http://adserving.cpxinteractive.com";
+var rm_section_id = 150736;
+var rm_banned_pop_types = 28;
+var rm_pop_times = 1;
+var rm_pop_frequency = 3600;
+
+rmShowPop();
+</SCRIPT>
+<!-- END TAG -->
+</div>
+          <div class="header"><img src="images/title.png" alt="Xcpc - Amstrad CPC Emulator">
+ <!-- **************************************************************** }}}  -->
+        </td>
+      </tr>
+      <tr>
+        <td class="cell2" colspan="1" align="center" valign="top">
+ <!-- ** MENU ******************************************************** {{{  -->
+          <img src="images/index.png" alt="Crocodile">
+          <table class="menupane">
+            <tr><td class="menuitem"><a href="index.html">Index</a></td></tr>
+            <tr><td class="menuitem"><a href="license.html">License</a></td></tr>
+            <tr><td class="menuitem"><a href="documents.html">Documents</a></td></tr>
+            <tr><td class="menuitem"><a href="screenshots.html">Screenshots</a></td></tr>
+            <tr><td class="menuitem"><a href="download.html">Download</a></td></tr>
+            <tr><td class="menuitem"><a href="contacts.html">Contacts</a></td></tr>
+            <tr><td class="menuitem"><a href="links.html">Links</a></td></tr>
+          </table>
+          &nbsp;<br>
+          <a href="http://sourceforge.net"><img src="http://sflogo.sourceforge.net/sflogo.php?group_id=176134&amp;type=1" style="border:0px;" alt="SourceForge.net Logo"></a>
+ <!-- **************************************************************** }}}  -->
+        </td>
+        <td class="cell3" colspan="1" align="center" valign="top">
+ <!-- ** CONTENT ***************************************************** {{{  -->
+          <div style="text-align: left;">
+            <h3>What is Xcpc ?</h3>
+            Xcpc is a portable Amstrad CPC464/CPC664/CPC6128 Emulator written in C.<br>&nbsp;<br>
+            It is designed to run on any POSIX system (Linux/BSD/UNIX-like OSes).<br>&nbsp;<br>
+            Xcpc has been successfully tested on:
+            <ul>
+              <li>Gentoo Linux</li>
+              <li>Mandriva Linux</li>
+              <li>Fedora Core Linux</li>
+              <li>SUN Solaris</li>
+              <li>HP Tru64</li>
+              <li>SGI IRIX</li>
+              <li>Mac OS X</li>
+            </ul>
+            <h3>Implemented Features</h3>
+            <ul>
+              <li>Athena GUI (selected at compilation time)</li>
+              <li>Motif* GUI (selected at compilation time)</li>
+              <li>Floppy disk images support (*.dsk)</li>
+              <li>Snapshot memory images support (*.sna)</li>
+              <li>Drag and Drop support (*.dsk, *.sna)</li>
+              <li>Keyboard emulation (QWERTY, AZERTY)</li>
+              <li>Joystick emulation (numeric keypad, numlock disabled)</li>
+              <li>Almost full CRTC-6845 / GateArray emulation</li>
+              <li>Adaptative frame-rate</li>
+            </ul>
+            <h3>Most Wanted Features</h3>
+            <ul>
+              <li>Gtk+ / Gnome GUI</li>
+              <li>Sound support</li>
+              <li>More ???</li>
+            </ul>
+            <h3>What is an Amstrad CPC ?</h3>
+            The Amstrad CPC is a 8-bit computer produced between the mid 80's and the early 90's by Amstrad plc.<br>&nbsp;<br>
+            It was declined in three versions:<br>
+            <ul><li>Amstrad CPC 464 (arnold v1, 1984)
+            <ul>
+              <li>CPU: Zilog Z80A @ 4Mhz</li>
+              <li>RAM: &nbsp;64Kb [ 4 x 16Kb ]</li>
+              <li>ROM: &nbsp;32Kb [ 4 x 16Kb ]</li>
+              <li>Audio: AY-3-8912, 3 channels + stereo</li>
+              <li>Video: CRTC-6845 + GateArray</li>
+              <li>Builtin Tape Recorder</li>
+            </ul>
+            </li></ul>
+            <ul><li>Amstrad CPC 664 (arnold v2, 1985)
+            <ul>
+              <li>CPU: Zilog Z80A @ 4Mhz</li>
+              <li>RAM: &nbsp;64Kb [ 4 x 16Kb ]</li>
+              <li>ROM: &nbsp;48Kb [ 3 x 16Kb ]</li>
+              <li>Audio: AY-3-8912, 3 channels + stereo</li>
+              <li>Video: CRTC-6845 + GateArray</li>
+              <li>Builtin 3 inches floppy disc</li>
+            </ul>
+            </li></ul>
+            <ul><li>Amstrad CPC 6128 (arnold v3, 1985)
+            <ul>
+              <li>CPU: Zilog Z80A @ 4Mhz</li>
+              <li>RAM: 128Kb [ 8 x 16Kb ]</li>
+              <li>ROM: &nbsp;48Kb [ 3 x 16Kb ]</li>
+              <li>Audio: AY-3-8912, 3 channels + stereo</li>
+              <li>Video: CRTC-6845 + GateArray</li>
+              <li>Builtin 3 inches floppy disc</li>
+            </ul>
+            </li></ul>
+            You can have more informations on <a href="http://www.wikipedia.org/wiki/Amstrad_CPC">Wikipedia</a>.
+          </div>
+ <!-- **************************************************************** }}}  -->
+        </td>
+        <td class="cell4" colspan="1" align="center" valign="top">
+ <!-- ** INFO ******************************************************** {{{  -->
+ <!-- **************************************************************** }}}  -->
+        </td>
+      </tr>
+      <tr>
+        <td class="cell5" colspan="3" align="center" valign="top">
+ <!-- ** FOOTER ****************************************************** {{{  -->
+          <div class="footer">Copyright &copy; 2001, 2006, 2007 <a href="mailto:ponceto@noos.fr">Olivier Poncet</a></div>
+ <!-- **************************************************************** }}}  -->
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://cpce.emuunlim.com/>====================
+<HTML><FRAMESET ROWS="*" FRAMEBORDER=NO BORDER=0 FRAMESPACING=0><FRAME NORESIZE FRAMEBORDER=NO SRC="cpc_ndx.htm"></FRAMESET><NOFRAMES><META HTTP-EQUIV="Refresh" CONTENT="1;URL=cpc_ndx.htm"><A HREF="cpc_ndx.htm">LOADING: please wait...</A></NOFRAMES></HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://cpc-em.emuunlim.com/>====================
+<!DOCTYPE HTML PUBLIC "-//SoftQuad//DTD HoTMetaL PRO 4.0::19971010::extensions to HTML 4.0//EN" "hmpro4.dtd"><center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-5760171659655704";
+google_alternate_ad_url = "http://www.ztnetstore.com/ad.html";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_color_border = "6699CC";
+google_color_bg = "003366";
+google_color_link = "FFFFFF";
+google_color_url = "AECCEB";
+google_color_text = "AECCEB";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<!-- BEGIN STANDARD TAG - popup or popunder - ROS: Run-of-site - DO NOT MODIFY -->
+<SCRIPT TYPE="text/javascript" SRC="http://content.cpxinteractive.com/rmtag3.js"></SCRIPT>
+<SCRIPT language="JavaScript">
+var rm_host = "http://adserving.cpxinteractive.com";
+var rm_section_id = 150736;
+var rm_banned_pop_types = 28;
+var rm_pop_times = 1;
+var rm_pop_frequency = 3600;
+
+rmShowPop();
+</SCRIPT>
+<!-- END TAG -->
+
+<HTML>    
+<HEAD>    
+<TITLE>CPC-em - An Amstrad CPC Emulator</TITLE>  </HEAD>    <BODY BGCOLOR="#00007F" TEXT="#FFFFFF">        <P ALIGN="CENTER"><FONT COLOR="#FFFF00" SIZE="+4">CPC-em</FONT> </P>        <P ALIGN="CENTER"><FONT COLOR="#FFFFFF">A freeware Amstrad CPC emulator</FONT>    </P>    <HR>        <P ALIGN="LEFT"><FONT COLOR="#FFFF00"></FONT></P>    <TABLE CELLSPACING="0" CELLPADDING="0" BGCOLOR="#00007F" WIDTH="100%">  <TR>        <TD WIDTH="173" VALIGN="TOP"><A HREF="index.htm"><FONT COLOR="#FFFF00"><B>Home</B></FONT></A><BR>        <A HREF="index.htm"><FONT COLOR="#FFFF00"><B></B></FONT></A><BR>        <A HREF="download.htm"><B><FONT COLOR="#FFFF00">Download</FONT></B></A><BR>        <A HREF="download.htm"><B><FONT COLOR="#FFFF00"></FONT></B></A><BR>        <A HREF="screenshots.htm"><B><FONT COLOR="#FFFF00">Screenshots</FONT></B></A><BR>         <BR>               <img src="/cgi-bin/count.pl">        </TD>        <TD WIDTH="813">
+        <B>8th June 2004</B><BR>
+        CPC-em version 0.4 released<BR>
+        Changes :<BR>
+	<UL>
+          <LI>CPC6128 emulation.</LI>
+          <LI>Improved FDC, CRTC, 8255 and sound.</LI>
+          <LI>Improved timing.</LI>
+        </UL>
+        Only DOS and source are available at the moment.
+<HR>
+	<B>22nd January 2004</B><BR>
+	CPC-em version 0.3 released<BR>
+        Changes :<BR>
+	<UL>
+	  <LI>New Z80 emulation.</LI>
+	  <LI>New video emulation, allowing several effects such as mid screen palette/mode changes, overscan, and rupture.</LI>
+	  <LI>Disc emulation.</LI>
+	  <LI>Sound emulation.</LI>
+          <LI>New GUI.</LI>
+	  <LI>Windows port.</LI>
+        </UL>
+	Also website is now blue.<BR>
+<HR>
+<FONT COLOR="#FFFFFF"><FONT COLOR="#FFFFFF"><B></B></FONT></FONT><B>9th        June 2001</B><BR>        CPC-em version 0.2 released<BR>        New features :<BR>        <UL>          <LI>New user interface <BR>            </LI>          <LI>SVGA mode </LI>          <LI>Joystick emulation </LI>        </UL>        I still need some help with emulating the FDC, if you can help then        please email me.<BR>        <HR><BR>        <FONT COLOR="#FFFFFF"><FONT COLOR="#FFFFFF"><B>23rd June 2001</B></FONT></FONT><BR>        <FONT COLOR="#FFFFFF"><FONT COLOR="#FFFFFF">I need some help with        emulating the FDC. I've looked through all the docs on Kevin Thacker's        site, and I can't think of where to start at all. If you can help me,        just e-mail me. Once there is some FDC emulation, I'll release version        0.2 (which at the moment has an SVGA mode and a GUI).</FONT></FONT><BR>        <HR><FONT COLOR="#FFFFFF"><FONT COLOR="#FFFFFF"></FONT></FONT><BR>        <FONT COLOR="#FFFFFF"><FONT COLOR="#FFFFFF"><B>22nd May 2001</B></FONT><BR>        <FONT COLOR="#FFFFFF">CPC-em version 0.1 released</FONT><BR>        <FONT COLOR="#FFFFFF"></FONT><FONT COLOR="#FFFFFF">Features :</FONT></FONT><BR>        <UL>          <LI><FONT COLOR="#FFFFFF">Emulates CPC 464 </FONT> </LI>          <LI><FONT COLOR="#FFFFFF">All video modes and keyboard emulated</FONT>          </LI>          <LI><FONT COLOR="#FFFFFF">Loads raw AMSDOS files</FONT> </LI>          <LI><FONT COLOR="#FFFFFF">Source code available</FONT></LI>        </UL></TD>      </TR>    </TABLE>        <P ALIGN="LEFT"><FONT COLOR="#FFFF00"></FONT></P>  </BODY></HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://arnold.emuunlim.com/>====================
+<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML//EN\">
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="arnold.css">
+<title>ARNOLD Emulator</title>
+<meta name="description" content="Arnold is an accurate Amstrad CPC/CPC+ and KC Compact emulation">
+<meta name="keywords" content="amstrad, cpc, arnold, cpc+, emulator">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+<!-- FASTCLICK.COM v1.2 for emuunlim.com -->
+<script language="Javascript"><!--
+{var a=b=c=d=e=h=i=j=l=n=p=s=t=u=v=w=x=y=z=dc='';
+var id=o=k=f=0;  var jar=new Date(); var f=jar.getSeconds() * jar.getMinutes();dc=document;  n=navigator;  v=parseFloat(n.appVersion);  e=escape(dc.referrer);dc.cookie='mc=y'; j=(n.javaEnabled()? 'Y':'N'); c=(dc.cookie.length>0?'Y':'N');if(v>=4){x=screen; } if(n.appName.indexOf('Mic')>=0) {o=1; } if(v>=4){ id=1044;if(o==1){s=x.colorDepth}w=x.width;h=x.height;}x='|';p=w+x+h+x+s+'||||'+j+x+c+x;u='ht'+'tp://media.fastclick.net/w'; c=' alt="Click"></a>'; x='/get.media?t=s';l=' width=468 height=60 border=0 ';t=l+'marginheight=0 marginwidth=';b='&sid=';i=u+x+b+id+'&m=1&f=a&v=1.2&c='+f+'&j='+p+'&r='+e;d='ameborder=0 scrolling=no>';u = '<a  hr'+'ef="'+u+'/cli'+'ck.here?sid='+id+'&m=1&c='+f+'"  target="_top">';dc.writeln('<ifr'+'ame src="'+i+'&d=f"'+t+'0 hspace=0 vspace=0 fr'+d);if(o!=1){dc.writeln(u+'<i'+'mg sr'+'c="'+i+'&d=n"'+l+c);}dc.writeln('</iframe>');}// --></script><noscript><a
+href="http://media.fastclick.net/w/click.here?sid=1044&m=1&c=1"  target="_top"><img src="http://media.fastclick.net/w/get.media?sid=1044&m=1&d=s&c=1&f=a&v=1.2" width=468 height=60 border=1></a>
+</noscript>
+<!-- FASTCLICK.COM v1.2 for emuunlim.com -->
+<!-- FASTCLICK.COM POP-UNDER CODE v1.5 for emuunlim.com -->
+<script language="JavaScript1.1"><!--
+{var doc=document;  var url=escape(doc.location.href); var date_ob=new Date(); doc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
+if(doc.cookie.indexOf('e=llo') <= 0 && doc.cookie.indexOf('2=o') > 0){
+doc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net'); doc.write('/w/pop.cgi?sid=1044&m=2&v=1.5&u='+url+'&c='+bust+'"></scr'+'ipt>'); doc.cookie='he=llo; path=/;';}} // -->
+</script>
+<!-- FASTCLICK.COM POP-UNDER CODE v1.5 for emuunlim.com -->
+<!-- FASTCLICK.COM POP-UNDER CODE v1.6 for emuunlim.com -->
+<script language="javascript"><!--
+var doc=document;  var url=escape(doc.location.href); var date_ob=new Date();
+doc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
+if(doc.cookie.indexOf('e=llo') <= 0 && doc.cookie.indexOf('2=o') > 0){
+doc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
+doc.write('/w/pop.cgi?sid=1044&m=2&v=1.6&u='+url+'&c='+bust+'"></scr'+'ipt>');
+doc.cookie='he=llo; path=/;';} // -->
+</script>
+<!-- FASTCLICK.COM POP-UNDER CODE v1.6 for emuunlim.com --> 
+<div align="CENTER">
+</div>
+<div align="CENTER">
+</div>
+<div align="CENTER">
+</div>
+<div align="CENTER">
+</div><table border="0" cellspacing="0" rowspacing="0" width="100%">
+<tr>
+<td rowspan="4" width="50%"><img src="arnlogo.gif"></td>
+<td width="8%"></td>
+<td class="linkcell" width="8%"><center><a href="faq.html">FAQ</a></center></td>
+<td width="8%"></td>
+<td class="linkcell" width="8%"><center><a href="index.html">News</a></center></td>
+<td width="8%"></td>
+<td class="linkcell" width="8%"><center><a href="download/index.html">Download</a></center></td>
+</tr>
+<tr>
+<td width="8%"></td>
+<td width="8%"></td>
+<td width="8%"></td>
+<td width="8%"></td>
+<td width="8%"></td>
+<td width="8%"></td>
+</tr>
+<tr>
+<td width="8%"></td>
+<td width="8%"></td>
+<td width="8%"></td>
+<td width="8%" class="linkcell"><center><a href="links.html">Links</a></center></td>
+<td width="8%"></td>
+<td width="8%" class="linkcell"><center><a href="mailto:amstrad@aiind.upv.es">Contact</a></center></td>
+</tr>
+<tr>
+<td width="8%"></td>
+<td width="8%"></td>
+<td width="8%"></td>
+<td width="8%"></td>
+<td width="8%"></td>
+<td width="8%"></td>
+</tr>
+</table>
+<table width="100%">
+<tr>
+<td class="news_date">11-January-2004</td>
+</tr>
+<tr>
+<td class="news_text">A source patch so you can build Unix/Linux version. </td>
+</tr>
+<tr>
+<td class="news_date">4-January-2004</td>
+</tr>
+<tr>
+<td class="news_text">A long time since I made a release, so here is a update with lots of changes, more useable and some UI improvements. Some bugs remain which I hope to fix soon.</td>
+</tr>
+<tr>
+<td class="news_date">27-January-2002</td>
+</tr>
+<tr>
+<td class="news_text">More bug fixes and included latest update from Andreas Micklei
+</td>
+</tr>
+<tr>
+<td class="news_date">20-October-2001</td>
+</tr>
+<tr>
+<td class="news_text">Fixed some bugs in the tape-image handling, and included the latest work from Andreas Micklei.
+</td>
+</tr>
+<tr>
+<td class="news_date">30-September-2001</td>
+</tr>
+<tr>
+<td class="news_text">Another source release. Fixed snapshot loading.
+</td>
+</tr>
+<tr>
+<td class="news_date">09-September-2001</td>
+</tr>
+<tr>
+<td class="news_text">First release of the Arnold source code. Source includes Unix and Windows versions. Go to the <a href="download/index.html">Downloads</a> to get it.
+</td>
+</tr>
+<tr>
+<td class="news_date">11-February-2001</td>
+</tr>
+<tr>
+<td class="news_text">The new Arnold website is finally up and running. Many thanks to emuunlim.com for hosting it.</td>
+</tr>
+</table>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.seasip.demon.co.uk/Unix/Joyce/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="HTML Tidy, see www.w3.org" />
+<title>JOYCE for UNIX</title>
+<link rel="stylesheet" href="../unix.css" type="text/css" />
+<link rel="top" href="http://www.seasip.demon.co.uk/" />
+<link rel="up" href="../index.html" />
+</head>
+<body>
+<div class="fixedbanner"><img src="../../Images/pcw.png" alt=""
+align="MIDDLE" width="32" height="32" /> Unix pages<br />
+<a href="../../index.html">Home</a> -&gt; <a
+href="../index.html">UNIX software</a> -&gt; JOYCE 
+</div>
+<div class="main">
+
+<h1>JOYCE</h1>
+
+<p>JOYCE emulates the Amstrad PCW on Unix, Windows and Mac OS X. Since it's
+written using <a href="http://www.libsdl.org/">SDL</a>, it
+shouldn't be too hard to port it to other platforms such as MacOS Classic
+or BeOS.</p>
+<p>The latest version of JOYCE (2.2.5) includes ANNE, which emulates the 
+PcW16. The older version (2.0.2) cannot emulate the PcW16.</p>
+
+<ul>
+<li><a href="download.html">Downloads</a></li>
+
+<li><a href="faq.html">Frequently Asked Questions</a></li>
+
+<li><a href="links.html">PCW links</a></li>
+
+<li><a href="screens.html">Screenshots of JOYCE</a></li>
+</ul>
+
+<h2>Update History</h2>
+
+<dl>
+<dt><dt>2012-10-24</dt>
+<dd>JOYCE v2.2.5 (stable) released, with compilation fixes for the latest 
+version of libpng, and a fix for a crash in the native VGA driver.</dd>
+
+<dt><dt>2010-11-03</dt>
+<dd>JOYCE v2.2.4 (stable) released. Improvements to keyboard emulation; 
+some compiler warnings removed, and an updated SDL.DLL included with the 
+Windows version.
+</dd>
+
+<dt><dt>2010-06-09</dt>
+<dd>JOYCE v2.2.3 (stable) released. This has a further correction to the 
+configuration script.
+</dd>
+
+<dt><dt>2009-11-08</dt>
+<dd>JOYCE v2.2.2 (stable) released. This corrects some compilation issues
+on recent Linux systems.
+</dd>
+
+<dt><dt>2009-01-14</dt>
+<dd>JOYCE v2.2.1 (stable) released. This corrects a bug which caused ANNE to
+crash when reinstalling the OS.
+</dd>
+
+<dt><dt>2007-12-28</dt>
+<dd>JOYCE v2.2.0 (stable) released. Apart from minor code cleanups, this is
+unchanged from the last development version, 2.1.11.
+</dd>
+
+<dt><dt>2007-02-04</dt>
+<dd>JOYCE v2.1.11 (development) released. A bug in the Z80 emulation which
+caused Starglider to hang has been fixed.
+</dd>
+
+<dt><dt>2006-04-23</dt>
+<dd>JOYCE v2.1.10 (development) released. A longstanding bug which 
+prevented the PCKEY utility working has been fixed.
+</dd>
+
+<dt><dt>2006-01-23</dt>
+<dd>JOYCE v2.1.9 (development) released. This includes a bugfix to the 
+new folder support in 2.1.8, and some changes to allow compilation on 
+Mac OS X.
+</dd>
+
+<dt><dt>2005-12-17</dt>
+<dd>JOYCE v2.1.8 (development) released. This allows folders on the host PC
+to be used as disc images, without the need for any changes to the software
+on the PCW.
+</dd>
+
+<dt><dt>2005-04-24</dt>
+<dd>JOYCE v2.1.7 (development) released. The native GSX and Logo drivers 
+(which went missing in JOYCE 2.0.0) have been brought back.</dd>
+
+<dt><dt>2005-01-31</dt>
+<dd>JOYCE v2.1.6 (development) released. This version improves support for
+some PCW games and disc protection schemes. The Windows version now 
+works if there are no printers set up.</dd>
+
+<dt>2004-02-21</dt>
+<dd>JOYCE v2.1.5 (development) released. This version adds support for 
+joystick emulation using the host PC's joystick(s).</dd>
+
+<dt>2004-01-26</dt>
+
+<dd>JOYCE v2.1.4 (development) released. Support for my proposed 
+<a href="http://groups.google.com/groups?hl=en&lr=&ie=UTF-8&oe=UTF-8&threadm=dmnptb.eei.ln%40seasip.demon.co.uk&rnum=1&prev=/groups%3Fq%3Ddsk%2Bdata%2Brate%26ie%3DUTF-8%26oe%3DUTF-8%26hl%3Den%26btnG%3DGoogle%2BSearch">extension to the DSK format</a> has been added; this allows the
+emulated PcW16 to load CP/M.</dd>
+
+<dt>2003-12-20</dt>
+
+<dd>JOYCE v2.1.3 (development) released. Various bug fixes in the 
+PcW16 acceleration code.</dd>
+
+<dt>2003-12-20</dt>
+
+<dd>JOYCE v2.1.2 (development) released. The bug fixed last year in
+2.0.2 is now fixed in the development version as well. This version
+also includes acceleration code in the PcW16 emulator, allowing slow
+operations such as the memory test to be skipped.</dd>
+
+<dt>2002-12-17</dt>
+
+<dd>JOYCE v2.0.2 (stable) released - bug fix in MYZ80 hard drive
+emulation.</dd>
+</dl>
+
+<h2>PCW Miscellany</h2>
+
+<p>These are here because I can't think of anywhere else among my
+pages to put them.</p>
+
+<h3>PCW hardware information</h3>
+<p>This is included in the JOYCE package, but it's here in case you want it
+as a separate download: <a href="hardware.pdf">PCW hardware information</a>.</p>
+
+<h4>The PCW Keyboard</h4>
+<p><a href="pcwkbd.html">Keyboard layout and wire protocol</a>.</p>
+
+<h3>Gem Drive hardware information</h3>
+
+<p>JOYCE does not emulate the Gem hard drive; its emulated hard drive does not
+match any real-world hardware. But I've <a href="gemdrive.html">documented</a>
+how the real thing works.</p>
+
+<p>(See also the installation instructions below)</p>
+
+<h3>Hardware installation instructions</h3>
+<ul>
+<li><a href="http://www.seasip.info/Unix/Joyce/gem.pdf">Cirtech GEM drive</a> (PDF 2.8Mb)</li>
+<li><a href="http://www.seasip.info/Unix/Joyce/gvl.pdf">GVL Microform external floppy drive</a> (PDF 3.4Mb)</li>
+<li><a href="http://www.seasip.info/Unix/Joyce/rampac.pdf">SCA RAMpac</a> (PDF 610k)</li>
+</ul>
+
+<h3>LocoScript 1 file format</h3>
+
+<p><a href="ls1frm.html">LocoScript 1 file format</a>.</p>
+
+<h3>PCW television output</h3>
+
+<p>This is a circuit diagram for a PCW-to-television converter,
+allowing a PCW screen to be displayed on one or more television
+sets. I redrew it from the original, published in the Crawley PCW
+Club magazine.</p>
+
+<p><a href="pcw_rf.pdf">PDF circuit diagram</a></p>
+
+<p><a href="pcw_rf.diagram2.tar.gz">Original Diagram2 file</a>
+(requires Diagram2 under NeXTStep or OpenStep).</p>
+
+<h3>PCW / PC Hybrid</h3>
+
+<div style="float:left"><a href="swift286.jpg">
+		<img src="swift286t.png" alt="[swift286.jpg, 91Kb]" /></a> 
+</div>
+<p>This advertisement is for a "Swift-286-PCW", a hybrid between a 286 PC 
+and a PCW. Apparently only fourteen of these were ever sold, so the chances
+of one still existing must be pretty slim.</p>
+
+<p>Though I've not seen one, I'd guess that the PCW compatible video card 
+was a monochrome card (probably MDA or Hercules). The PCW video system has a 
+command ('float video' - OUT 0xF8, 8) which stops the PCW video controller 
+trying to drive the monitor. The monitor signals are present on the PCW 
+expansion port (pin 44 for SYNC, 46 for VIDEO) so once the PCW video 
+controller has been disabled, the PC video card can drive the monitor using
+them.</p>
+
+<p>My thanks to David Rathbone, who owned Micro Surgeons, for information on
+this system.</p>
+
+<h3>8000 Plus / PCW Plus typeins</h3>
+<p><img src="../../Images/tarfile.png" alt="[TGZ]" width="25" height="32" />
+<a href="../../Cpm/software/typeins.tar.gz">typeins.tar.gz</a> (299k) 
+contains type-in listings from issues 1-124 of 8000 Plus / PCW Plus.</p>
+<hr />
+<a href="mailto:jce@seasip.demon.co.uk">John Elliott</a> 2012-10-24
+</div>
+</body>
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://copacabana.emuunlim.com/>====================
+<HTML>
+	<HEAD>
+		<TITLE>CoPaCabana</TITLE>
+	</HEAD>
+	<BODY bgColor="#ffffff">
+		<H1><B><FONT color="#006600">CoPaCabana</FONT></B> Home Page</H1>
+		This page is (still) under construction.<hr>
+		<P><H2>NEW: AYTools for Windows</H2><A href="http://copacabana.emuunlim.com/AYTools0.1.zip">Download v0.1 here</A> - Readme.txt included</P><HR>
+		<P><B><FONT color="#006600" size="4">CoPaCabana</FONT></B> is a new Amstrad CPC 
+			emulator.<BR>
+			<H3>Latest:</H3>
+			<UL>
+				<li>
+					<A href="http://copacabana.emuunlim.com/CoPaCabana0.74-Win32.zip">Version 0.74 for 
+						Windows (with Sound)</A>
+				<LI>
+					<A href="http://copacabana.emuunlim.com/CoPaCabana0.75-PalmOS.zip">
+						Version 0.75 for Palm OS</A></LI>
+			</UL>
+			<BR>
+			<STRONG>
+				<H3>
+				PalmOS</STRONG>
+		:</H3>
+		<P></P>
+		<P>
+			<TABLE id="Table1" height="196" cellSpacing="1" cellPadding="1" width="616" border="0">
+				<TR>
+					<TD width="140">
+						<A href="http://www.palmgear.com/index.cfm?fuseaction=software.showsoftware&amp;prodID=95007">
+							<img src="CoPaCabana160x160.jpg"></img> </A>
+					</TD>
+					<TD>Currently only the following devices are supported: Tungsten T, T2, T3, T5, TX, C, 
+						E, Treo 650, Zire71, 72, LifeDrive, a number of Clie devices: UX50, TJ35, NX70, 
+						NX73, NZ90, TG50, TJ25, TH55. On other devices, it will accept to run but no 
+						guarantee is provided that it works. It could even force a Reset. Use it at 
+						your own risk and don't forget to backup (HotSync) your data before using it. 
+						If you see the "Unsupported Device" dialog when starting, please let me know 
+						your Device ID and whether it works on it or not.</TD>
+				</TR>
+			</TABLE>
+		</P>
+		<P>
+			We are currently working on a MacOSX version and a PocketPC version. Details 
+			will be provided later.
+			<BR>
+			<BR>
+			<FONT Size="5" color="#cc0000">Please see Readme.txt in the archive for details / 
+				how to use.</FONT>
+			<BR>
+			<BR>
+			<FONT color="#009900"><STRONG><FONT size="4">SUPPORT, SPONSOR and REWARD FREEWARE</FONT></STRONG>
+				<BR>
+				CoPaCabana is free. Use it, distribute it, and have fun.<BR>
+				It's free for you but it still represents some work and effort for us.<BR>
+				If you had good time with it and want to support or encourage future versions, 
+				you can make a donation on PayPal (see URLs below). I don't expect a lot of 
+				money but if this pays a good restaurant to people who worked on it, that would 
+				be nice. Thanks in advance.
+				<BR>
+			</FONT><A href="https://www.paypal.com/"><FONT color="#009900">https://www.paypal.com/</FONT></A><BR>
+			<A href="https://www.paypal.com/fr/"><FONT color="#009900">https://www.paypal.com/fr/</FONT></A><BR>
+			<FONT color="#009900">Use email address: </FONT><A href="mailto:rni.dev@free.fr"><FONT color="#009900">
+					rni.dev@free.fr</FONT></A><FONT color="#009900">
+				<BR>
+			</FONT>
+			<br>
+			<STRONG>Disk images<BR>
+			</STRONG>You can find many games disk images on <A href="http://tacgr.emuunlim.com/downloads/downloads.php">
+				The Amstrad CPC Games Resource</A> on EmuUnlim.
+			<BR>
+		</P>
+		<HR>
+		Visit <A href="http://cpczone.emuunlim.com">CPCZone</A> for other emulators and 
+		great links about Amstrad CPC computers.
+		<BR>
+		<br>
+		Send any questions, suggestions, comments, congratulations :-) about CoPaCabana 
+		to <A href="mailto:rni.dev@free.fr">Régis Nicolas</A><BR>
+		(C)2002-2006 Régis Nicolas. All rights reserved.
+	</BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://sourceforge.net/projects/caprice32/>====================
+<!doctype html>
+<!-- Server: sfs-consume-20 -->
+
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]>--> <html lang="en" class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        
+        <meta id="webtracker" name="webtracker" content='{"event_id": "f0bae64c-9e75-11e3-8ca2-0200ac1d1da0", "project": "caprice32", "non_clicker": 0.7534682072477129, "active_tests": ["psp_redirect_immersion"], "clicker": 0.2492770558538536}'>
+
+        <meta name="description" content="An emulator of the Amstrad CPC 8bit home computer range.">
+        <meta name="keywords" content="Emulators,  Open Source, Open Source Software, Development, Community, Source Code, Secure,  Downloads, Free Software">
+
+
+<meta property="og:title" content="Caprice32"/>
+<meta property="og:type" content="product"/>
+<meta property="og:url" content="http://sourceforge.net/projects/caprice32/"/>
+<meta property="og:site_name" content="SourceForge"/>
+<meta property="og:description" content="An emulator of the Amstrad CPC 8bit home computer range."/>
+
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Caprice32 | Free System Administration software downloads at SourceForge.net</title>
+        <link rel="shortcut icon" href="http://a.fsdn.com/con/img/sftheme/favicon.ico">
+        <script type="text/javascript">
+            /*global unescape, window, console, jQuery, $, net, SF, COMSCORE, DD_belatedPNG */
+            // Setup our namespace
+            if (!window.SF) { window.SF = {}; }
+            if (!window.net) { window.net = {}; }
+            if (!window.net.sf) { window.net.sf = {}; }
+            SF.cdn = 'http://a.fsdn.com/con';
+            SF.deploy_time = '1393354590';
+        </script>
+        <script src="http://a.fsdn.com/con/js/min/sf.head.js?1393354590" type="text/javascript"></script>
+        
+<!--[if lt IE 7 ]>
+  <script src="http://a.fsdn.com/con/js/sftheme/dd_belatedpng.js"></script>
+  <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
+<![endif]-->
+
+<link href='//fonts.googleapis.com/css?family=Ubuntu:regular' rel='stylesheet' type='text/css'>
+<style type="text/css">
+    @font-face {
+        font-family: "Pictos";
+        src: url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.eot');
+        src: local("â˜º"), url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.woff') format('woff'), url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.ttf') format('truetype'), url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.svg') format('svg');
+    }
+</style>
+ <link rel="stylesheet" href="http://a.fsdn.com/con/css/sf.css?1393354590" type="text/css">
+
+
+    <style type="text/css" >.sfdl { width:250px;height:48px;padding:0;position:relative;font:bold 12px/1.17 sans-serif !important; border:1px solid #aaa;display:inline;float:left;text-decoration:none;-moz-box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;-webkit-box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;-o-box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;-moz-border-radius:4px;-webkit-border-radius:4px;-o-border-radius:4px;-ms-border-radius:4px;-khtml-border-radius:4px;border-radius:4px;background:no-repeat #e5e5e5 8px center url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC);background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC), -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #fff), color-stop(100%, #ccc));background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC), -moz-linear-gradient(top, #fff 0%, #ccc 100%);background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC), linear-gradient(top, #fff 0%, #ccc 100%);background-position:8px center, 0 0;margin:0 10px 0px 0;overflow:hidden;color:#555 !important;}.sfdl:hover { cursor:pointer;text-decoration:none;background:8px center no-repeat #eee url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC);}.sfdl-lite { background:0 center no-repeat #337733 none;color:white !important;height:auto;padding:0.5em 1em;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;-o-border-radius:4px;-ms-border-radius:4px;-khtml-border-radius:4px;border-radius:4px;background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #339933), color-stop(100%, #337733));background-image:-moz-linear-gradient(top, #339933 0%, #337733 100%);background-image:linear-gradient(top, #339933 0%, #337733 100%);}.sfdl-lite:hover { background:0 center no-repeat #339933;}.sfdl span { border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;display:block;margin:3px;margin-left:35px;padding:4px;text-align:left;color:#FFF;background:#363;background-image:-moz-linear-gradient(center top, #393 0%, #373 100%);background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0, #393),color-stop(1, #373));background-image:linear-gradient(top, #393 0%, #373 100%);overflow:hidden;height:34px;}.sfdl b { display:block;line-height:17.0px;}.sfdl small { display:block;line-height:17.0px;color:#ADC2AD; font-weight:normal;white-space:nowrap;overflow:hidden;font-size:77%;}.info-circle{ right:10px;bottom:16px;}.direct-dl{ font-size:10px;text-align:right;display:inline-block;width:100%;}</style>
+
+<style type="text/css">
+    .k087ac5d23afdad2a2270712f9b70dae996fd62fc { display: none !important; }
+</style>
+    <link rel="alternate" type="application/rss+xml" title="Caprice32&#8230;File Releases" href="/api/file/index/project-id/110791/mtime/desc/limit/20/rss" />
+    <link rel="canonical" href="http://sourceforge.net/projects/caprice32/">
+        
+<script type="text/javascript">
+    SF.adblock = true;
+    var immersion_adcode = "";
+</script>
+        <script type="text/javascript" src="http://a.fsdn.com/con/js/adframe.js?1393354590"></script>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+                _gaq.push(['1._setAccount', 'UA-32013-6']);
+                _gaq.push(['2._setAccount', 'UA-36130941-1']);
+                _gaq.push(['_setAccount', 'UA-36130941-1']);
+                _gaq.push(['1._trackPageview']);
+                _gaq.push(['2._trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </head>
+    <body id="pg_project" class="bluesteel user">
+        
+        <div id="busy-spinner"></div>
+        
+<header id="site-header">
+    <div class="wrapper">
+        <a href="/" class="logo">
+            <span>SourceForge</span>
+        </a>
+        <form method="get" action="/directory/">
+            <input type="text" id="words" name="q" placeholder="Search">
+        </form>
+        <!--Switch to {language}-->
+        <nav id="nav-site">
+            <a href="/directory/" title="Browse our software.">Browse</a>
+            <a href="/directory/enterprise" title="Browse our Enterprise software.">Enterprise</a>
+            <a href="/blog/" title="Read the latest news from the SF HQ.">Blog</a>
+            <a href="/support" title="Contact us for help and feedback.">Help</a>
+            <a href="/jobs?source=header" title="Search 80k+ tech jobs." class="featured-link">Jobs</a>
+        </nav>
+        <nav id="nav-account">
+            
+              <div class="logged_out">
+                <a href="https://sourceforge.net/account/login.php">Log In</a>
+                <span>or</span>
+                <a href="https://sourceforge.net/user/registration">Join</a>
+              </div>
+            
+        </nav>
+    </div>
+</header>
+<header id="site-sec-header">
+    <div class="wrapper">
+        <nav id="nav-hubs">
+            <h4>Solution Centers</h4>
+            <a href="http://goparallel.sourceforge.net/">Go Parallel</a>
+            <a href="http://ibmsmarteritservices.sourceforge.net/">Smarter IT</a>
+        </nav>
+        <nav id="nav-collateral">
+            
+            <a href="http://library.slashdotmedia.com/?source=sfnet_header">Resources</a>
+            
+            
+            <a href="https://sourceforge.net/user/registration">Newsletters</a>
+            
+        </nav>
+    </div>
+</header>
+
+        
+        <div id="messages">
+        </div>
+
+        <div id="page-body">
+<div id="banner-ads" class="ads">
+    
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_none_p1_leader;pg=%2Fprojects;psrch=0;logged_in=0;tpc=caprice32;tpc=cpp;tpc=c;tpc=emulators;tpc=system;aud=developers;aud=endusers;dcopt=ist;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fcaprice32%2F;tile=1;sz=728x90;u=e%3Af0bae64c-9e75-11e3-8ca2-0200ac1d1da0;ord=3790389697026268?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+    
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_pg_project_logo_sponsorship;pg=%2Fprojects;psrch=0;logged_in=0;tpc=caprice32;tpc=cpp;tpc=c;tpc=emulators;tpc=system;aud=developers;aud=endusers;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fcaprice32%2F;tile=2;sz=200x90;u=e%3Af0bae64c-9e75-11e3-8ca2-0200ac1d1da0;ord=3790389697026268?" width="200" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+</div>
+<nav id="breadcrumbs">
+    <ul>
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/">Home</a></li>
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/directory">Browse</a></li><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/directory/system/emulators/">Emulators</a></li><li class="project">Caprice32</li>
+    </ul>
+</nav>
+<div id="project-header">
+    
+<section id="project-title">
+    <h1 itemprop="name">
+            Caprice32</h1>
+            <span id="dev-status" class="alpha">alpha</span>
+    <h2>
+        
+    </h2>
+    <p id="maintainers" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    Brought to you by:
+    <a href="/users/udoewich" itemprop="url"><span itemprop="name">udoewich</span></a></p>
+    
+</section>
+</div>
+<article id="project" class="content-wrapper" itemscope itemtype="http://schema.org/SoftwareApplication">
+    <meta itemprop="image" content="http://c.fsdn.com/con/img/project_default.png"/>
+    <nav>
+        
+    <div class="firstwave">
+        <ul class="b-hornav">
+            
+            <li id="menu_consume_summary" class="selected">
+                <a href="/projects/caprice32/?source=navbar"><span><span>Summary</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_files" >
+                <a href="/projects/caprice32/files/?source=navbar"><span><span>Files</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_reviews" >
+                <a href="/projects/caprice32/reviews?source=navbar"><span><span>Reviews</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_support" >
+                <a href="/projects/caprice32/support?source=navbar"><span><span>Support</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_wiki" >
+                <a href="/p/caprice32/wiki/?source=navbar"><span><span>Wiki</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_mailing lists" >
+                <a href="/p/caprice32/mailman/?source=navbar"><span><span>Mailing Lists</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_tickets â–¾" >
+                <a href="/p/caprice32/_list/tickets?source=navbar"><span><span>Tickets â–¾</span></span></a>
+                
+                <ul>
+                    
+                    <li><a href="/p/caprice32/support-requests/?source=navbar">Support Requests</a></li>
+                    
+                    <li><a href="/p/caprice32/feature-requests/?source=navbar">Feature Requests</a></li>
+                    
+                </ul>
+                
+            </li>
+            
+            <li id="menu_consume_news" >
+                <a href="/p/caprice32/news/?source=navbar"><span><span>News</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_discussion" >
+                <a href="/p/caprice32/discussion/?source=navbar"><span><span>Discussion</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_code" >
+                <a href="/p/caprice32/code/?source=navbar"><span><span>Code</span></span></a>
+                
+            </li>
+            
+        </ul>
+    </div>
+    
+    </nav>
+    
+    <section id="main-content">
+        <section id="call-to-action">
+            <section id="counts-sharing">
+                <section class="project-info">
+                    <section class="content">
+                        <b data-icon="" class="ico" title="Star">&#9733;</b>
+                        <a href="/projects/caprice32/reviews/" title="Browse reviews" id="call-to-action-reviews">5.0 Stars</a>
+                        <span>(2)</span>
+                    </section>
+                </section>
+                <section id="download-stats" class="project-info">
+                    <section class="content">
+                        <b data-icon="}" class="ico ico-downarrow" title="Down"></b>
+                        <a href="/projects/caprice32/files/stats/timeline" title="Downloads This Week" id="call-to-action-stats">70 Downloads</a>
+                        <span>(This Week)</span>
+                    </section>
+                </section>
+                <section id="last-updated" class="project-info">
+                    <section class="content">
+                        <b data-icon="\" class="ico ico-calendar" title="Last Update"></b>
+                        Last Update:
+                        <time class="dateUpdated" datetime="2013-03-22">2013-03-22</time>
+                    </section>
+                </section>
+
+                
+<section class="social-sharing">
+    <!-- Twitter -->
+    <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+    <a href="https://twitter.com/share"
+       class="twitter-share-button"
+       data-count="horizontal"
+       data-url="http://sf.net/projects/caprice32/"
+       data-counturl="http://sourceforge.net/projects/caprice32/"
+       data-via="sourceforge"
+       data-text="Download Caprice32 for free! "></a>
+    <!-- Google +1 -->
+    <script type="text/javascript">
+        (function() {
+         var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+         po.src = '//apis.google.com/js/plusone.js';
+         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+         })();
+    </script>
+    
+    <div class="g-plusone"
+         data-size="medium"
+         data-annotation="bubble"
+         data-href="http://sourceforge.net/projects/caprice32/"></div>
+    <!-- Facebook -->
+    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fcaprice32%2F&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowTransparency="true"></iframe>
+</section>
+
+            </section>
+            <section id="download_button">
+                    
+                        
+                        
+<a href="/projects/caprice32/files/latest/download" title="Download /caprice32/v4.2.0/caprice32-4.2.0.zip from SourceForge  - 297.5 kB" class="sfdl">
+    <span>
+        <b>Download</b>
+        <small >caprice32-4.2.0.zip</small>
+        
+    </span>
+</a>
+
+                    <meta itemprop="fileSize" content="297481.0"/><meta itemprop="fileFormat" content="application/x-zip"/><div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                        <meta itemprop="price" content="Free"/>
+                        <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+                    <a href="/projects/caprice32/files/" id="files-link" title="Browse All Files">Browse All Files</a>
+                    <section class="project-info">
+                        
+                        <span class="platform-icon windows"><meta itemprop="operatingSystems" content="Windows"/>Windows</span>
+                        
+                        <span class="platform-icon bsd"><meta itemprop="operatingSystems" content="BSD"/>BSD</span>
+                        
+                        <span class="platform-icon linux"><meta itemprop="operatingSystems" content="Linux"/>Linux</span>
+                        
+                    </section>
+            </section>
+        </section>
+
+        <section id="project-description">
+            <header>
+                <h2>Description</h2>
+            </header>
+            <p id="description" itemprop="description">An emulator of the Amstrad CPC 8bit home computer range.</p>
+            <p>
+                <a id="homepage" class="pspbtn" href="http://www.caprice32.cybercube.com" title="Caprice32 Web Site">Caprice32 Web Site</a>
+            </p>
+        </section>
+
+        <section id="project-categories-and-license">
+            <div class="project-container">
+                <section>
+                    <header>
+                        <h4>Categories</h4>
+                    </header><a href="/directory/system/emulators/" itemprop="softwareApplicationSubCategory">Emulators</a></section>
+                <section>
+                    <section class="project-info">
+    <header>
+        <h3>License</h3>
+    </header>
+    <section class="content"><a href="/directory/license:gpl/">GNU General Public License version 2.0 (GPLv2)</a></section>
+</section>
+
+
+                </section>
+            </div>
+        </section><section id="notifications">
+            <header>
+                <h2>Update Notifications</h2>
+            </header>
+            <form action="subscribe" method="post" id="subscribe-form">
+                <section id="subscribe-form-container">
+                    
+                    <input type="email" id="subscriber-email" name="XgYk5dkjgwJbfzM73_gbB5MZi38o" placeholder="john.doe@example.org" value="" required>
+                    
+                    
+                    <button type="submit" id="subscriber-submit" class="subscriber-submit">
+                        <span>
+                            
+                            Subscribe to Updates
+                            
+                        </span>
+                    </button>
+                    <p id="subscriber-existing-email" style="display: none">
+                        Sent to <code></code>.
+                        
+                    </p>
+                </section>
+                <input type="hidden" name="_visit_cookie" value=""/>
+                <input type='hidden' name='timestamp' value='1393371514'/>
+                <input type='hidden' name='spinner' value='XhOxUFyGMwlRiONhrGOdvOySp0IQ'/>
+                <p class='k087ac5d23afdad2a2270712f9b70dae996fd62fc'><label for='Xg4Q7eUT18mRg:mWfDnuJ2op2Mk8'>You seem to have CSS turned off. Please don't fill out this field.</label><br/><input id='Xg4Q7eUT18mRg:mWfDnuJ2op2Mk8' name='XgoQ7eUT18laghSx9hAGOlftLG4s' type='text'/><br/></p>
+                <p class='k087ac5d23afdad2a2270712f9b70dae996fd62fc'><label for='Xg4Q7eUT18mVg:mWfDnuJ2op2Mk8'>You seem to have CSS turned off. Please don't fill out this field.</label><br/><input id='Xg4Q7eUT18mVg:mWfDnuJ2op2Mk8' name='XgoQ7eUT181aghSx9hAGOlftLG4s' type='text'/><br/></p>
+            </form>
+        </section>
+<section id="ratings">
+    <header>
+        
+
+        <h2>User Ratings</h2>
+    </header>
+
+    
+<section class="recommended-percentage item" itemscope itemtype="http://schema.org/AggregateRating" itemprop="aggregateRating">
+        <span class="rating">
+            <span class="average" itemprop="ratingValue">5.0</span>
+            <meta itemprop="bestRating" content="5"/>
+            <meta itemprop="worstRating" content="1"/>
+            <meta itemprop="ratingCount" content="5.0"/>
+            <span class="recommended">out of 5 stars</span>
+        </span>
+    </section>
+    <section class="stars">
+        <div class="star-text stars-5">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <div class="star-text stars-4">&#9733;&#9733;&#9733;&#9733;</div>
+        <div class="star-text stars-3">&#9733;&#9733;&#9733;</div>
+        <div class="star-text stars-2">&#9733;&#9733;</div>
+        <div class="star-text stars-1">&#9733;</div>
+    </section>
+    <section class="bargraph">
+        <div class="stars-5" style="border-left-width: 200px">
+            2
+        </div>
+        <div class="stars-4" style="border-left-width: 1px">
+            0
+        </div>
+        <div class="stars-3" style="border-left-width: 1px">
+            0
+        </div>
+        <div class="stars-2" style="border-left-width: 1px">
+            0
+        </div>
+        <div class="stars-1" style="border-left-width: 1px">
+            0
+        </div>
+    </section>
+
+    
+<div class="dimensional-ratings">
+    
+
+<div class="dimensional-rating">
+    
+    <span class="label">ease</span>
+    <span title="1 of 5" class="rating ">1 of 5</span>
+    <span title="2 of 5" class="rating ">2 of 5</span>
+    <span title="3 of 5" class="rating ">3 of 5</span>
+    <span title="4 of 5" class="rating ">4 of 5</span>
+    <span title="5 of 5" class="rating ">5 of 5</span>
+    <span class="rating-score">
+        <span class="dim-rate">0</span> / 5
+    </span>
+</div>
+
+    
+
+<div class="dimensional-rating">
+    
+    <span class="label">features</span>
+    <span title="1 of 5" class="rating ">1 of 5</span>
+    <span title="2 of 5" class="rating ">2 of 5</span>
+    <span title="3 of 5" class="rating ">3 of 5</span>
+    <span title="4 of 5" class="rating ">4 of 5</span>
+    <span title="5 of 5" class="rating ">5 of 5</span>
+    <span class="rating-score">
+        <span class="dim-rate">0</span> / 5
+    </span>
+</div>
+
+    
+
+<div class="dimensional-rating">
+    
+    <span class="label">design</span>
+    <span title="1 of 5" class="rating ">1 of 5</span>
+    <span title="2 of 5" class="rating ">2 of 5</span>
+    <span title="3 of 5" class="rating ">3 of 5</span>
+    <span title="4 of 5" class="rating ">4 of 5</span>
+    <span title="5 of 5" class="rating ">5 of 5</span>
+    <span class="rating-score">
+        <span class="dim-rate">0</span> / 5
+    </span>
+</div>
+
+    
+
+<div class="dimensional-rating">
+    
+    <span class="label">support</span>
+    <span title="1 of 5" class="rating ">1 of 5</span>
+    <span title="2 of 5" class="rating ">2 of 5</span>
+    <span title="3 of 5" class="rating ">3 of 5</span>
+    <span title="4 of 5" class="rating ">4 of 5</span>
+    <span title="5 of 5" class="rating ">5 of 5</span>
+    <span class="rating-score">
+        <span class="dim-rate">0</span> / 5
+    </span>
+</div>
+
+</div>
+
+
+
+</section>
+
+        <section id="reviews-n-ratings">
+            <header>
+                <a class="pspbtn" href="/projects/caprice32/reviews/new">Write a Review</a>
+                <h2>User Reviews</h2>
+            </header>
+            <div class="sorts-n-filters">
+                <div class="drop-down-menu">
+                    <div class="sort-options">
+                        <span>Filter</span>
+                        <div class="sort-drop-down">
+                            <a href="#">All</a>
+                        </div>
+                        <ul>
+                            <li><a href="/projects/caprice32/?stars=0#reviews-n-ratings" title="Show All" class=" active">All</a></li>
+                            <li><a href="/projects/caprice32/?stars=5#reviews-n-ratings" title="Show 5 Stars" class=" star-text">&#9733;&#9733;&#9733;&#9733;&#9733;</a></li>
+                            <li><a href="/projects/caprice32/?stars=4#reviews-n-ratings" title="Show 4 Stars" class=" star-text">&#9733;&#9733;&#9733;&#9733;</a></li>
+                            <li><a href="/projects/caprice32/?stars=3#reviews-n-ratings" title="Show 3 Stars" class=" star-text">&#9733;&#9733;&#9733;</a></li>
+                            <li><a href="/projects/caprice32/?stars=2#reviews-n-ratings" title="Show 2 Stars" class=" star-text">&#9733;&#9733;</a></li>
+                            <li><a href="/projects/caprice32/?stars=1#reviews-n-ratings" title="Show 1 Star" class=" star-text">&#9733;</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <section class="content">
+                    <ul id="project-reviews" class="reviews" itemprop="reviews">
+                            <li>
+
+
+<article class="review reviewed" data-helpful-count="0">
+    <footer>
+        <span class="author-name">thomasgonzales</span>
+    </footer>
+    
+
+
+<div class="review-rating">
+
+<span title="1 of 5" class="rating star">1 of 5</span>
+
+<span title="2 of 5" class="rating star">2 of 5</span>
+
+<span title="3 of 5" class="rating star">3 of 5</span>
+
+<span title="4 of 5" class="rating star">4 of 5</span>
+
+<span title="5 of 5" class="rating star">5 of 5</span>
+
+</div>
+
+    <p class="review-txt ">
+        very good program caprice32.
+    </p>
+    <div class="meta">
+        <span class="created-date">Posted 11/12/2012</span>
+    </div>
+</article>
+
+</li>
+                            <li>
+
+
+<article class="review reviewed" data-helpful-count="0">
+    <footer>
+        <span class="author-name">troelsk</span>
+    </footer>
+    
+
+
+<div class="review-rating">
+
+<span title="1 of 5" class="rating star">1 of 5</span>
+
+<span title="2 of 5" class="rating star">2 of 5</span>
+
+<span title="3 of 5" class="rating star">3 of 5</span>
+
+<span title="4 of 5" class="rating star">4 of 5</span>
+
+<span title="5 of 5" class="rating star">5 of 5</span>
+
+</div>
+
+    <p class="review-txt ">
+        Great emulator
+    </p>
+    <div class="meta">
+        <span class="created-date">Posted 04/08/2010</span>
+    </div>
+</article>
+
+</li>
+                    </ul>
+                    <a class="pspbtn" href="/projects/caprice32/reviews/?sort=created_date&amp;stars=0#reviews-n-ratings">Read more reviews</a>
+            </section>
+        </section>
+
+        <section id="project-additional-trove">
+            <header>
+                <h2>Additional Project Details</h2>
+            </header>
+            <div class="project-container">
+                <section class="project-info">
+    <header>
+        <h3>Languages</h3>
+    </header>
+    <section class="content"><a href="/directory/natlanguage:english/" itemprop=inLanguage>English</a></section>
+</section>
+
+
+                <section class="project-info">
+    <header>
+        <h3>Intended Audience</h3>
+    </header>
+    <section class="content"><a href="/directory/audience:developers/">Developers</a>, <a href="/directory/audience:endusers/">End Users/Desktop</a></section>
+</section>
+
+
+                <section class="project-info">
+    <header>
+        <h3>User Interface</h3>
+    </header>
+    <section class="content"><a href="/directory/environment:ui_sdl/">SDL</a></section>
+</section>
+
+
+                <section class="project-info">
+    <header>
+        <h3>Programming Language</h3>
+    </header>
+    <section class="content"><a href="/directory/language:c/">C</a>, <a href="/directory/language:cpp/">C++</a></section>
+</section>
+
+
+                <section class="project-info">
+                    <header>
+                        <h4>Registered</h4>
+                    </header>
+                    <section class="content">
+                        2004-05-30
+                    </section>
+                </section>
+            </div>
+        </section>
+        <section class="ads text">
+            
+
+
+    
+    <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              var wrapAd = false;
+                wrapAd = true;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                var scriptHtml = '<script type="text/javascript" src="http://ad.doubleclick.net/N4140/adj/ostg.sourceforge/cons_none_p71_text;pg=%2Fprojects;psrch=0;logged_in=0;tpc=caprice32;tpc=cpp;tpc=c;tpc=emulators;tpc=system;aud=developers;aud=endusers;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fcaprice32%2F;tile=3;sz=1x1;u=e%3Af0bae64c-9e75-11e3-8ca2-0200ac1d1da0;ord=3790389697026268?"></' + 'script>';
+                if (wrapAd){
+                    document.write('<div id="p71_text" class="ad text">' + scriptHtml + '</div>');
+                }
+                else
+                {
+                    document.write(scriptHtml);
+                }
+              }
+            })();
+       </script>
+            
+
+
+    
+    <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              var wrapAd = false;
+                wrapAd = true;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                var scriptHtml = '<script type="text/javascript" src="http://ad.doubleclick.net/N4140/adj/ostg.sourceforge/cons_none_p72_text;pg=%2Fprojects;psrch=0;logged_in=0;tpc=caprice32;tpc=cpp;tpc=c;tpc=emulators;tpc=system;aud=developers;aud=endusers;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fcaprice32%2F;tile=4;sz=1x1;u=e%3Af0bae64c-9e75-11e3-8ca2-0200ac1d1da0;ord=3790389697026268?"></' + 'script>';
+                if (wrapAd){
+                    document.write('<div id="p72_text" class="ad text">' + scriptHtml + '</div>');
+                }
+                else
+                {
+                    document.write(scriptHtml);
+                }
+              }
+            })();
+       </script>
+        </section>
+    </section>
+
+    <section id="sidebar">
+        <section class="ads">
+            
+
+
+    
+    
+    <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              var wrapAd = false;
+                wrapAd = true;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                var scriptHtml = '<script type="text/javascript" src="http://ad.doubleclick.net/N4140/adj/ostg.sourceforge/cons_none_p83_medrec;pg=%2Fprojects;psrch=0;logged_in=0;tpc=caprice32;tpc=cpp;tpc=c;tpc=emulators;tpc=system;aud=developers;aud=endusers;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fcaprice32%2F;tile=5;sz=300x250,300x600;u=e%3Af0bae64c-9e75-11e3-8ca2-0200ac1d1da0;ord=3790389697026268?"></' + 'script>';
+                if (wrapAd){
+                    document.write('<div id="p83_medrec" class="ad multisize">' + scriptHtml + '</div>');
+                }
+                else
+                {
+                    document.write(scriptHtml);
+                }
+              }
+            })();
+       </script>
+            
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_none_p84_medrec;pg=%2Fprojects;psrch=0;logged_in=0;tpc=caprice32;tpc=cpp;tpc=c;tpc=emulators;tpc=system;aud=developers;aud=endusers;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fcaprice32%2F;tile=6;sz=300x250;u=e%3Af0bae64c-9e75-11e3-8ca2-0200ac1d1da0;ord=3790389697026268?" width="300" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+        </section>
+        
+<aside class="sidebar-widget">
+	<header>
+        <h3>Recommended Projects</h3>
+	</header>
+    <ul>
+    
+        <li class="item odd">
+            <a href="/projects/arnold.berlios/?source=recommended" title="Arnold"><img alt="Icon" src="//c.fsdn.com/con/img/project_default.png" /></a>
+            <a href="/projects/arnold.berlios/?source=recommended" title="Learn more about Arnold ">Arnold</a>
+        </li>
+    
+        <li class="item even">
+            <a href="/projects/javacpc/?source=recommended" title="JavaCPC - Amstrad CPC emulator in JAVA"><img alt="Icon" src="//c.fsdn.com/con/img/project_default.png" /></a>
+            <a href="/projects/javacpc/?source=recommended" title="Learn more about JavaCPC - Amstrad CPC emulator in JAVA ">JavaCPC - Amstrad CPC emulator in JAVA</a>
+        </li>
+    
+        <li class="item odd last">
+            <a href="/projects/xcpc/?source=recommended" title="XCPC - Amstrad CPC Emulator"><img alt="Icon" src="//c.fsdn.com/con/img/project_default.png" /></a>
+            <a href="/projects/xcpc/?source=recommended" title="Learn more about XCPC - Amstrad CPC Emulator ">XCPC - Amstrad CPC Emulator</a>
+        </li>
+    
+    </ul>
+</aside>
+
+        
+<aside class="sidebar-widget jobs-widget">
+    <header>
+        <h3>
+            <span>
+                Powered by
+                <a href="http://www.dice.com/?CMPID=AF_SF_UP_JS_AV_OG_BN_&amp;utm_source=SourceForge&amp;utm_medium=Affiliate&amp;utm_content=&amp;utm_campaign=Advocacy_Ongoing"> <img src="http://a.fsdn.com/con/img/jobs/dice_logo.png" alt="Dice Logo" class="dice-logo"> </a>
+            </span>
+            Latest Tech Jobs
+        </h3>
+    </header>
+    <section>
+        <form action="/jobs/" method="get" id="job-search">
+            <input type="hidden" name="source" value="widget">
+            <input type="text" name="text" placeholder="Senior Java Developer (Job Title)" id="job-title" value="">
+            <input type="submit" name="submit" value="Find" id="job-search-button">
+        </form>
+    </section>
+    <ul id="job-listing">
+        <li class="item odd">
+            <span class="job-link"><a href="/jobs?source=widget">Loading...</a></span>
+            <span class="job-details">The latest tech jobs.</span>
+        </li>
+   </ul>
+   <section class="all-jobs" style="border: none;">
+        <a href="/jobs?source=widget">See All Jobs &rsaquo;&rsaquo;</a>
+    </section>
+</aside>
+
+<script type="text/javascript">
+    /*global Handlebars*/
+    jQuery(function($) {
+        var source = $('#jobwidget-template').html();
+        var template = Handlebars.compile(source);
+
+        Handlebars.registerHelper('stripe', function(array, display_count, random, fn) {
+            var buffer = "";
+            var max_iterations = Math.min(array.length,display_count);
+            for (var i = 0, len = array.length; i < max_iterations; i++) {
+                var item = null;
+                if (random === true) {
+                    var ri = Math.floor((Math.random()*array.length)+1);
+                    item = array[ri];
+                } else {
+                    item = array[i];
+                }
+                if (item) {
+                    item.css_class = (i % 2 === 0 ? 'even' : 'odd');
+                }
+                buffer += fn.fn(item);
+            }
+            return buffer;
+        });
+
+        function load_jobBoard() {
+            $.ajax({
+                url:'/jobs/json',
+                success: function(data) {
+                    $('#job-listing').html(template(data));
+                },
+                dataType: 'json'
+            });
+        }
+        load_jobBoard();
+    });
+</script>
+
+<script type="text/x-handlebars-template" id="jobwidget-template">
+    
+    {{#stripe data.jobs 5 true}}
+    <li class="item {{css_class}}">
+    <span class="job-link"><a href="{{ this.url }}">{{ this.title }}</a></span>
+        <span class="job-details">{{ this.company}} - {{ this.location}}</span>
+    </li>
+    {{/stripe}}
+    
+</script>
+
+        <section class="ads">
+            
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_none_p85_medrec;pg=%2Fprojects;psrch=0;logged_in=0;tpc=caprice32;tpc=cpp;tpc=c;tpc=emulators;tpc=system;aud=developers;aud=endusers;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fcaprice32%2F;tile=7;sz=300x250;u=e%3Af0bae64c-9e75-11e3-8ca2-0200ac1d1da0;ord=3790389697026268?" width="300" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+        </section>
+        
+        
+
+<aside class="sidebar-widget project-activity-widget" id="project-activity"></aside>
+
+<script type="text/x-handlebars-template" id="project-activity-template">
+    
+    <header>
+        <h3>
+            Project Activity
+            <a id="follow-action" href="{{followee.activity_url}}activity/follow" title="{{followee.activity_name}}"{{#if following}} class="active"{{/if}}>
+                <b data-icon="S" class="ico ico-star"></b>
+            </a>
+            <a href="{{followee.activity_url}}activity/feed" title="RSS"><b data-icon="f" class="ico ico-feed"></b></a>
+        </h3>
+    </header>
+    <ul>
+        {{#stripe timeline 5 false}}
+        <li class="item {{css_class}}">
+            <h4>
+                {{#ifTagged "release"}}
+                  {{ cap this.verb }}
+                {{else}}
+                  {{ icon this.actor.activity_extras.icon_url }}
+                  {{ activity_obj this.actor }}
+                  {{ this.verb }}
+                {{/ifTagged}}
+                {{ activity_obj this.obj }}
+                {{#if this.target.activity_name}} on {{ activity_obj this.target }}{{/if}}
+            </h4>
+            {{#if this.obj.activity_extras.summary}}
+              <p>{{ this.obj.activity_extras.summary }}</p>
+            {{/if}}
+            <time datetime="{{ this.published }}" title="{{ this.published }}">{{ ago this.published }}</time>
+        </li>
+        {{/stripe}}
+    </ul>
+    <a class="all-activities" href="{{followee.activity_url}}activity">See All Activities &rsaquo;&rsaquo;</a>
+    
+</script>
+
+        <a id="report-inappropriate" href="/projects/caprice32/report_inappropriate">Report inappropriate content</a>
+    </section>
+</article>
+        </div>
+
+        
+
+          
+<footer id="site-footer">
+    <div class="wrapper">
+        <nav>
+            <h5>SourceForge</h5>
+            <a href="/about">About</a>
+            <a href="/blog/category/sitestatus/">Site Status</a>
+            <a href="http://twitter.com/sfnet_ops">@sfnet_ops</a>
+            
+
+        </nav>
+        <nav>
+            <h5>Find and Develop Software</h5>
+            <a href="/create/">Create a Project</a>
+            <a href="/directory/">Software Directory</a>
+            <a href="/top">Top Downloaded Projects</a>
+        </nav>
+        <nav>
+            <h5>Community</h5>
+            <a href="/blog/">Blog</a>
+            <a href="http://twitter.com/sourceforge">@sourceforge</a>
+            <a href="/jobs?source=footer">Job Board</a>
+            <a href="http://library.slashdotmedia.com/?source=sfnet_footer">Resources</a>
+        </nav>
+        <nav>
+            <h5>Help</h5>
+            <a href="http://p.sf.net/sourceforge/docs">Site Documentation</a>
+            <a href="/support">Support Request</a>
+            <a href="http://p.sf.net/sourceforge/irc">Real-Time Support</a>
+        </nav>
+    </div>
+</footer>
+<footer id="site-copyright-footer">
+    <div class="wrapper">
+        <div id="copyright">
+            Copyright &copy; 2014 Dice. All Rights Reserved.<br />
+            SourceForge is a <a href="http://www.diceholdingsinc.com/phoenix.zhtml?c=211152&amp;p=irol-landing">Dice Holdings, Inc.</a> service.
+        </div>
+        <nav>
+            <a href="http://slashdotmedia.com/terms-of-use/">Terms</a>
+            <a href="http://slashdotmedia.com/privacy-statement/">Privacy</a>
+            <span id='teconsent'></span>
+            <a href="http://slashdotmedia.com/opt-out-choices/">Opt Out Choices</a>
+
+
+            <a href="http://slashdotmedia.com">Advertise</a>
+            <a href="http://sourceforge.jp/">SourceForge.JP</a>
+            <a href="http://apmsolutions.sourceforge.net/">Performance</a>
+        </nav>
+    </div>
+</footer>
+            <script src="http://a.fsdn.com/con/js/min/sf.js?1393354590" type="text/javascript"></script>
+        
+        <!-- Begin comScore Tag -->
+        <script src="http://b.scorecardresearch.com/beacon.js"></script>
+        <script type="text/javascript">
+            if (window.COMSCORE) {
+                COMSCORE.beacon({
+                    c1: 2,
+                    c2: 6035546,
+                    c3: "",
+                    c4: "",
+                    c5: "",
+                    c6: "",
+                    c15: ""
+                });
+            }
+        </script>
+        <noscript>
+            <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035546&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="comScore2" />
+        </noscript>
+        <!-- End comScore Tag -->
+
+<div id="screenshots-callout-content" class="callout">
+    <a href="/p/caprice32/admin/screenshots">Screenshots can attract more users to your project.</a>
+</div>
+<div id="features-callout-content" class="callout">
+    <a href="/projects/caprice32/edit">Features can attract more users to your project.</a>
+</div>
+<script src="http://a.fsdn.com/con/js/callouts.js?1393354590"></script>
+
+<div id="icon-dialog" title="Change the project icon">
+    <form action="/projects/caprice32/update" method="post" enctype="multipart/form-data">
+        <input type="hidden" name="_visit_cookie" value=""/>
+        <label for="icon">Upload a new icon</label>
+        <div class="field">
+            <input name="icon" id="icon" class="file" type="file"/>
+        </div>
+        <p class="help">Icons must be PNG, GIF, or JPEG and less than 1 MiB in size.  They will be displayed as 48x48 images.</p>
+    </form>
+</div>
+        <script type="text/javascript" src='//consent-st.truste.com/get?name=notice.js&domain=slashdot.org&c=teconsent&text=true'></script>
+<!--behavior='-->
+      </body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.arnimedes.de/>====================
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;
+      charset=ISO-8859-1">
+    <meta name="Author" content="Oliver Lenz">
+    <meta name="GENERATOR" content="Mozilla/4.51 [de]C-CCK-MCD QXW03200
+      (Win98; I) [Netscape]">
+    <title>Arnimedes - the CPC-Emulator</title>
+  </head>
+  <body style=" color: rgb(255, 255, 0); background-color: rgb(0, 0,
+    255);" alink="#ff0000" link="#33ff33" vlink="#00cc00">
+    <center><img src="title.gif" alt="Arnimedes" height="100"
+        width="640"> <br>
+      <img src="3zoll.gif" height="74" width="58"> <a href="index.html"><img
+          src="menu0.gif" alt="Home" border="0" height="30" width="116">
+      </a> <a href="download.html"><img src="menu1.gif" alt="Download"
+          border="0" height="30" width="116"> </a> <a
+        href="links.html"><img src="menu2.gif" alt="Links" border="0"
+          height="30" width="116"> </a> <a
+        href="mailto:toxic@arnimedes.de"><img src="menu3.gif"
+          alt="EMail" border="0" height="30" width="116"> </a> <img
+        src="3zoll.gif" border="0" height="74" width="58"> </center>
+    <hr width="100%">
+    <div style="text-align: center;">&nbsp; <br>
+    </div>
+    <center>
+      <p><img
+src="http://cgicounter.puretec.de/cgi-bin/cnt?clsid=58b42ce982e7e86e84f9f5e952280b461">visitors
+since
+
+
+
+        April 2000 </p>
+      <p><font size="+2">HOME</font> <br>
+      </p>
+    </center>
+    <br>
+    <a target="_blank"
+href="http://www.amazon.de/b?_encoding=UTF8&amp;camp=1638&amp;creative=6742&amp;linkCode=ur2&amp;node=340843031&amp;site-redirect=de&amp;tag=httpwwwarni04-21">Computerzubeh&ouml;r
+
+      auf Amazon</a><img
+src="http://www.assoc-amazon.de/e/ir?t=httpwwwarni04-21&amp;l=ur2&amp;o=3"
+      alt="" style="border:none !important; margin:0px !important;"
+      border="0" height="1" width="1"> <br>
+    <p>&nbsp;<u><font size="+1">What's new ?<br>
+        </font></u></p>
+    <p><b><font color="#33ff33">07.07.2012 &nbsp; </font></b>Goofed
+      around with The Bard's Tale. So i added two new features:
+      Unrealtime and "Hypertime".<br>
+      By pressing F1, you can toggle between standard 4 MHz realtime
+      mode and unlimited Z80-speed.<br>
+      So, Bard's Tale plays a lot faster in "unrealtime-mode". But
+      there's one more option. If you press F11 while<br>
+      in "unrealtime-mode", the 300 Hz ticker interrupt isn't realtime
+      anymore, too. For Bard's Tale it means<br>
+      real fast Spellpoint-recharges and lots of monster encounters.<br>
+      Get V1.02 now if you want to see a real fast CPC.<br>
+      You might also take a look at my (never finished) Bard's Tale
+      Clone for Windows <a href="http://arnimedes.de/rpgneu1.jpg">here</a>,&nbsp;<a
+        href="http://arnimedes.de/rpgneu2.jpg">here</a> and <a
+        href="http://arnimedes.de/rpgneu3.jpg">here</a>.<br>
+      If you are curious, you may even download the clone <a
+        href="http://arnimedes.de/BardsTale.zip">here.</a> You can only
+      step into the Guild and empty<br>
+      buildings. But you can build your own party and walk around in
+      Skara Brae. Use the cursor keys or<br>
+      J, K, L as in the CPC version. Press X to leave the game.<br>
+    </p>
+    <p><b><font color="#33ff33">01.01.2008 &nbsp; </font></b>Play&nbsp;<a
+        href="logd">LOGD</a> here :-)<br>
+    </p>
+    <p><b><font color="#33ff33">17.09.2006&nbsp;&nbsp; </font></b>Another
+update,
+
+
+
+
+
+
+
+
+      just to prove the last one wrong :-)<br>
+      I just browsed the sourcecode of arnimedes, and there i stumbled
+      across the sound timing problem<br>
+      completely by chance - fixed it in 2 minutes - and voila, the
+      sound output of the windows version is<br>
+      now much better. Also included in v1.01: experimental "raster
+      filter". This works only in mode 1 and<br>
+      replaces alternating pixels of different color with the color
+      between them. Some pictures get a whole<br>
+      new look this way.<br>
+      Get version 1.01 from the download section now.<br>
+    </p>
+    <p><b><font color="#33ff33">13.05.2006 &nbsp;</font></b> Hi! You
+      might have guessed it - There won't be another version of
+      Arnimedes anytime soon.<br>
+      My time is too limited to improve it. But have a look at my new,
+      improved <a href="http://www.arnimedes.de/cpc.jpg"><font
+          color="#33ff33">CPC</font></a><br>
+      Or, see the reason for not updating this site for almost 4 years -
+      my&nbsp;<a href="http://www.fotolia.de/p/72469/partner/72469"><font
+          color="#33ff33">portfolio</font></a> <font color="#33ff33"><font
+          color="#ffff00">at fotolia.com<br>
+        </font></font></p>
+    <p><font color="#33ff33"><font color="#ffff00"><font color="#33ff33"><b><font
+                color="#33ff33">18.07.2002</font></b> &nbsp; <font
+              color="#ffff00">The Windows version is finally here !<br>
+              It's a complete rewrite, and not all of the features of
+              the DOS version made it into v1.0, but it<br>
+              has a few new features.<br>
+            </font></font></font></font></p>
+    <p><font color="#33ff33"><font color="#ffff00"><font color="#33ff33"><font
+              color="#33ff33"><br>
+            </font></font></font></font></p>
+    <p><br>
+      <font color="#33ff33"><font color="#ffff00"><font color="#33ff33"><font
+              color="#33ff33"><u><font color="#ffff00"><font size="+1">New
+features
+
+
+
+
+
+
+
+
+                    of the windows version:</font></font></u></font></font></font></font></p>
+    <ul>
+      <font color="#33ff33"><font color="#ffff00"> <font
+            color="#33ff33"> <font color="#33ff33">
+              <li>Cycle exact emulation</li>
+              <li>New sound emulation</li>
+              <li>Digiblaster emulation</li>
+              <li>Can read digital tape files (CDT/TZX, WAV, VOC)</li>
+              <li>Improved CRTC emulation</li>
+              <li>Extended DSK support<br>
+              </li>
+            </font></font></font></font>
+    </ul>
+    <p><font color="#33ff33"><font color="#ffff00"><font color="#33ff33"><font
+              color="#33ff33"> </font></font></font></font></p>
+    <p><font color="#33ff33"><font color="#ffff00"><font color="#33ff33"><font
+              color="#33ff33"><br>
+            </font></font></font></font></p>
+    <p><font color="#33ff33"><font color="#ffff00"><font color="#33ff33"><font
+              color="#33ff33"><u><font color="#ffff00"><font size="+1">Missing
+or
+
+
+
+
+
+
+
+
+                    broken things:</font></font></u> </font></font></font></font></p>
+    <ul>
+      <font color="#33ff33"><font color="#ffff00"> <font
+            color="#33ff33"> <font color="#33ff33">
+              <li>CRTC emulation has some bugs</li>
+              <li>no debugger</li>
+            </font></font></font></font>
+    </ul>
+    <font color="#33ff33"><font color="#ffff00"><font color="#33ff33"><font
+            color="#33ff33">&nbsp; </font></font></font></font>
+    <p><font color="#33ff33"><font color="#ffff00"><font color="#33ff33"><font
+              color="#33ff33">&nbsp;<u><font color="#ffff00"><font
+                    size="+1">System requirements:</font></font></u> </font></font></font></font></p>
+    <ul>
+      <font color="#33ff33"><font color="#ffff00"> <font
+            color="#33ff33"> <font color="#33ff33">
+              <li> <font color="#ffff00">Pentium II or higher</font></li>
+              <li>Windows 95 or higher</li>
+              <li>DirectX 7<br>
+              </li>
+              <li>32 MB RAM</li>
+            </font></font></font></font>
+    </ul>
+    <font color="#33ff33"><font color="#ffff00"><font color="#33ff33"><font
+            color="#33ff33">&nbsp; </font></font></font></font>
+  </body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.winape.net/>====================
+<html>
+<head>
+<title>WinAPE : Windows Amstrad Plus Emulator</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#4F74B0" text="#000000" link="#000000">
+<table width="85%" border="1" cellspacing="0" cellpadding="0" align="center" bordercolor="#000000">
+  <tr>
+    <td bgcolor="#FFFFFF">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tr>
+          <td bgcolor="#FFFFFF">
+            <div align="center"><img src="images/winape-v1.png" width="532" height="167"></div>
+          </td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" height="28">
+        <tr>
+          <td background="images/background-3.gif" valign="middle">
+            <div align="center"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#666666">:</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+              <a href="index.jsp">News</a> </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#666666">:</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+              <a href="downloads.jsp">Downloads</a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#666666">
+              : </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="features.jsp">Full
+              Features</a> </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#666666">:</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+              <a href="workinprogress.jsp">WIP</a> </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#666666">:</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+              <a href="screens.jsp">Screenshots</a> </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#666666">:</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+              <a href="links.jsp">Links</a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#666666">
+              :</font></b></div>
+          </td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="4" cellpadding="0" bgcolor="#FFFFFF">
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+        <tr>
+          <td>
+            <table width="100%" border="0" cellspacing="10" cellpadding="0">
+              <tr>
+                <td width="23%" valign="top">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="11%" valign="top"><img src="images/news-left.gif" width="28" height="15"></td>
+                      <td background="images/newsfill.gif" width="72%" valign="middle">
+                        <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Menu</b></font></div>
+                      </td>
+                      <td background="images/newsfill.gif" width="17%" valign="middle">
+                        <div align="right"><img src="images/menu-right.gif" width="28" height="15"></div>
+                      </td>
+                    </tr>
+                  </table>
+                  <table width="100%" border="1" cellspacing="0" cellpadding="0" bgcolor="#E8ECF0" bordercolor="#D6DEEF">
+                    <tr>
+                      <td>
+                        <table width="100%" border="0" cellspacing="4" cellpadding="0">
+                          <tr>
+                            <td>
+                              <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="index.jsp">News</a></font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="downloads.jsp">Downloads</a></font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="features.jsp">Full
+                                Features</a></font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="wip.jsp">Work
+                                In Progress</a></font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="screens.jsp">Demo
+                                Screenshots</a></font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="screens-games.jsp">Game
+                                Screenshots</a></font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="links.jsp">Links</a></font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="contact.jsp">Contact
+                                Us</a></font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.cpczone.net/boards">Message
+                                Boards </a></font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>&nbsp;</td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <br><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="11%" valign="top"><img src="images/news-left.gif" width="28" height="15"></td>
+                      <td background="images/newsfill.gif" width="72%" valign="middle">
+                        <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Latest
+                          Release </b></font></div>
+                      </td>
+                      <td background="images/newsfill.gif" width="17%" valign="middle">
+                        <div align="right"><img src="images/menu-right.gif" width="28" height="15"></div>
+                      </td>
+                    </tr>
+                  </table>
+                  <table width="100%" border="1" cellspacing="0" cellpadding="0" bgcolor="#E8ECF0" bordercolor="#D6DEEF">
+                    <tr>
+                      <td>
+                        <table width="100%" border="0" cellspacing="4" cellpadding="0">
+                          <tr>
+                            <td width="64%">
+                              <div align="left"><a href="downloads.jsp"><img src="images/apedl3.gif" width="106" height="101" border="0"></a></div>
+                            </td>
+                            <td width="36%">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td>
+                                    <div align="center"><a href="downloads.jsp"><img src="images/newdl.gif" width="46" height="43" alt="Download!" border="0"></a></div>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td>
+                                    <div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003399"><b>Version</b></font></div>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td>
+                                    <div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><b><font color="#CC6633">2.0a18</font></b></font></div>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                        <table width="100%" border="0" cellspacing="4" cellpadding="0">
+                          <tr>
+                            <td>
+                              <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>::
+                                Download ::</b></font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>&nbsp;</td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <p>&nbsp;</p>
+                </td>
+                <td width="77%" valign="top">
+                
+
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="4%" valign="top"><img src="images/news-left.gif" width="28" height="15"></td>
+                      <td background="images/newsfill.gif" width="47%" valign="middle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Welcome
+                        to WinAPE32</b></font></td>
+                      <td background="images/newsfill.gif" width="44%" valign="middle">
+                        <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#D6DEEF">.</font></div>
+                      </td>
+                      <td background="images/newsfill.gif" width="5%" valign="top">
+                        <div align="right"><img src="images/menu-right.gif" width="28" height="15"></div>
+                      </td>
+                    </tr>
+                  </table>
+                  <table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#D6DEEF">
+                    <tr>
+                      <td>
+                        <table width="100%" border="0" cellspacing="4" cellpadding="0" bgcolor="#E8ECF0">
+                          <tr>
+                            <td bgcolor="#E8ECF0">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td bgcolor="#E8ECF0">
+                              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="images/winapemini.gif" width="194" height="156" align="right"><font size="1">Welcome
+                                to WinAPE, an Amstrad emulator for PCs running
+                                any 32-bit version of Windows. </font></font></p>
+                              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Featuring:</font></p>
+                              <ul>
+                                <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Highly
+                                  Accurate Emulation of all CPC models</font></li>
+                                <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">One
+                                  of the fastest CPC emulators for Windows</font></li>
+                                <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Built
+                                  in Debugger and Assembler</font></li>
+                                <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Support
+                                  for DSK/ESDK/ARC and DSC disc images</font></li>
+                                <li><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Automatic
+                                  Version Control</font></li>
+                              </ul>
+                              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">This
+                                is one Amstrad CPC emulator you Windows users
+                                cannot afford to be without and with more features
+                                than any other CPC emulator for your PC and at
+                                NO COST You'd be mad to miss it.</font></p>
+                              </td>
+                          </tr>
+                          <tr>
+                            <td bgcolor="#E8ECF0">&nbsp;</td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <br>
+<!-- News -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="1" valign="top"><img src="images/news-left.gif" width="28" height="15"></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>2.0 Alpha 18</b></font></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Posted by: Richard - Tuesday, Jul 26, 2011</b></font></div></td>
+    <td background="images/newsfill.gif" width="1" valign="top"><div align="right"><img src="images/menu-right.gif" width="28" height="15"></div></td>
+  </tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#D6DEEF">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="4" cellpadding="0" bgcolor="#E8ECF0">
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr>
+      <tr>
+        <td bgcolor="#E8ECF0"><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+          Major sound and emulation improvements. Full-sized AVI writing. Debugger enhancements.
+          A lot of other small fixes.
+          </font></p></td>
+      </tr>
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr></table>
+    </td>
+  </tr>
+</table>
+<hr size="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="1" valign="top"><img src="images/news-left.gif" width="28" height="15"></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>2.0 Alpha 17</b></font></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Posted by: Richard - Friday, Sep 9, 2008</b></font></div></td>
+    <td background="images/newsfill.gif" width="1" valign="top"><div align="right"><img src="images/menu-right.gif" width="28" height="15"></div></td>
+  </tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#D6DEEF">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="4" cellpadding="0" bgcolor="#E8ECF0">
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr>
+      <tr>
+        <td bgcolor="#E8ECF0"><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+          New PAL Emulation display modes, Rotate in graphics editor.
+          Other minor enhancements and bug fixes.
+          </font></p></td>
+      </tr>
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr></table>
+    </td>
+  </tr>
+</table>
+<hr size="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="1" valign="top"><img src="images/news-left.gif" width="28" height="15"></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>2.0 Alpha 16</b></font></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Posted by: Richard - Saturday, Aug 30, 2008</b></font></div></td>
+    <td background="images/newsfill.gif" width="1" valign="top"><div align="right"><img src="images/menu-right.gif" width="28" height="15"></div></td>
+  </tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#D6DEEF">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="4" cellpadding="0" bgcolor="#E8ECF0">
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr>
+      <tr>
+        <td bgcolor="#E8ECF0"><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+          New floppy controller and drive emulation. CPC Symbol fonts.
+          Stacks of minor enhancements and bug fixes.
+          </font></p></td>
+      </tr>
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr></table>
+    </td>
+  </tr>
+</table>
+<hr size="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="1" valign="top"><img src="images/news-left.gif" width="28" height="15"></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>2.0 Alpha 15</b></font></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Posted by: Richard - Monday, Oct 29, 2007</b></font></div></td>
+    <td background="images/newsfill.gif" width="1" valign="top"><div align="right"><img src="images/menu-right.gif" width="28" height="15"></div></td>
+  </tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#D6DEEF">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="4" cellpadding="0" bgcolor="#E8ECF0">
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr>
+      <tr>
+        <td bgcolor="#E8ECF0"><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+          Configuration Profiles, Improved Sprite emulation, assembler and debugger improvements.
+          Stacks of minor enhancements and bug fixes. <font color="#FF0000">
+          For those who downloaded this early and are getting Access Violations, please
+          re-download the current release and extract the new executable.
+          </font></font></p></td>
+      </tr>
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr></table>
+    </td>
+  </tr>
+</table>
+<hr size="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="1" valign="top"><img src="images/news-left.gif" width="28" height="15"></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>2.0 Alpha 14</b></font></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Posted by: Richard - Monday, Sep 17, 2007</b></font></div></td>
+    <td background="images/newsfill.gif" width="1" valign="top"><div align="right"><img src="images/menu-right.gif" width="28" height="15"></div></td>
+  </tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#D6DEEF">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="4" cellpadding="0" bgcolor="#E8ECF0">
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr>
+      <tr>
+        <td bgcolor="#E8ECF0"><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+          FDC emulation enhancements, minor debugger enhancements, various bugfixes.</font></p></td>
+      </tr>
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr></table>
+    </td>
+  </tr>
+</table>
+<hr size="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="1" valign="top"><img src="images/news-left.gif" width="28" height="15"></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>2.0 Alpha 13</b></font></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Posted by: Richard - Wednesday, Aug 8, 2007</b></font></div></td>
+    <td background="images/newsfill.gif" width="1" valign="top"><div align="right"><img src="images/menu-right.gif" width="28" height="15"></div></td>
+  </tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#D6DEEF">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="4" cellpadding="0" bgcolor="#E8ECF0">
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr>
+      <tr>
+        <td bgcolor="#E8ECF0"><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+          Assembler improvements, Amstrad Plus emulation improvements, Graphics editing and Session Recording just to name a few of the
+          new features and fixes in the latest release.</font></p></td>
+      </tr>
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr></table>
+    </td>
+  </tr>
+</table>
+<hr size="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="1" valign="top"><img src="images/news-left.gif" width="28" height="15"></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>2.0 Alpha 12</b></font></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Posted by: Richard - Sunday, Feb 18, 2007</b></font></div></td>
+    <td background="images/newsfill.gif" width="1" valign="top"><div align="right"><img src="images/menu-right.gif" width="28" height="15"></div></td>
+  </tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#D6DEEF">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="4" cellpadding="0" bgcolor="#E8ECF0">
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr>
+      <tr>
+        <td bgcolor="#E8ECF0"><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+          This release is mainly bug fixes for 2.0 Alpha 11. CPC Plus PPI emulation. CPC Plus Snaphsots.</font></p></td>
+      </tr>
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr></table>
+    </td>
+  </tr>
+</table>
+<hr size="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="1" valign="top"><img src="images/news-left.gif" width="28" height="15"></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>2.0 Alpha 11</b></font></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Posted by: Richard - Monday, Dec 11, 2006</b></font></div></td>
+    <td background="images/newsfill.gif" width="1" valign="top"><div align="right"><img src="images/menu-right.gif" width="28" height="15"></div></td>
+  </tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#D6DEEF">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="4" cellpadding="0" bgcolor="#E8ECF0">
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr>
+      <tr>
+        <td bgcolor="#E8ECF0"><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+          Enhanced Tape file support, debugger and assembler improvements. Emulation enhancements and minor bug fixes.</font></p></td>
+      </tr>
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr></table>
+    </td>
+  </tr>
+</table>
+<hr size="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="1" valign="top"><img src="images/news-left.gif" width="28" height="15"></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>2.0 Alpha 10</b></font></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Posted by: Richard - Tuesday, Sep 19, 2006</b></font></div></td>
+    <td background="images/newsfill.gif" width="1" valign="top"><div align="right"><img src="images/menu-right.gif" width="28" height="15"></div></td>
+  </tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#D6DEEF">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="4" cellpadding="0" bgcolor="#E8ECF0">
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr>
+      <tr>
+        <td bgcolor="#E8ECF0"><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+          Disc Editor, assembler and debugger improvements, YM and WAV file writing.</font></p></td>
+      </tr>
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr></table>
+    </td>
+  </tr>
+</table>
+<hr size="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="1" valign="top"><img src="images/news-left.gif" width="28" height="15"></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>What's happened to WinAPE</b></font></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Posted by: Richard - Wednesday, November 5, 2003</b></font></div></td>
+    <td background="images/newsfill.gif" width="1" valign="top"><div align="right"><img src="images/menu-right.gif" width="28" height="15"></div></td>
+  </tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#D6DEEF">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="4" cellpadding="0" bgcolor="#E8ECF0">
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr>
+      <tr><td bgcolor="#E8ECF0"><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+        I've been very busy the last 9 months or so working on my latest project
+        (<a href="http://www.tassiecars.com.au">http://www.tassiecars.com.au</a>). Hopefully, now that I've just about
+        finished the site, I'll get some time to work on WinAPE and JEMU. Lots of plans for the near future.</font></p></td>
+      </tr>
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr></table>
+    </td>
+  </tr>
+</table>
+<hr size="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr><td width="1" valign="top"><img src="images/news-left.gif" width="28" height="15"></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>New Site Design</b></font></td>
+    <td background="images/newsfill.gif" valign="middle" nowrap><div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Posted by: Richard - Sunday, February 9, 2003</b></font></div></td>
+    <td background="images/newsfill.gif" width="1" valign="top"><div align="right"><img src="images/menu-right.gif" width="28" height="15"></div></td>
+  </tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#D6DEEF">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="4" cellpadding="0" bgcolor="#E8ECF0">
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr>
+      <tr><td bgcolor="#E8ECF0"><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+        WinAPE now has a brand new site design. I hope you all like the new site, developed by Malc Jennings (of
+        <A HREF="http://cpczone.emuunlim.com">CPC Zone</A>). I personally think it is much nicer looking site now, and
+        should be easier for me to maintain in the future.<p>Many thanks to Malc for all his hard work.<br></font></p></td>
+      </tr>
+      <tr><td bgcolor="#E8ECF0">&nbsp;</td></tr></table>
+    </td>
+  </tr>
+</table>
+<hr size="0">
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <center>
+      <table border="0" cellspacing="4" cellpadding="0" bgcolor="#FFFFFF">
+        <tr>
+          <td><a href="http://cpc-live.com/topsites/"><img src="http://cpc-live.com/topsites/button.php?u=Executioner" alt="CPC-Topsites" border="0" /></a></td>
+          <td align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">WinAPE32 &copy; Richard Wilson 1994-2011.<br>
+                Web Site by <a href="http://www.cpczone.net">Malc Jennings</a> 2003.</font></td>
+        </tr>
+      </table>
+      </center>
+    </td>
+  </tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js"
+type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-451086-2";
+urchinTracker();
+</script>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.wincpc.ch/index.php?topic=projects-wincpc>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+<title>flynn's site</title>
+<link href="style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<center>
+<table width="878" border="0" cellpadding="10" cellspacing="0" class="maintable">
+<tr>
+<td colspan="2" class="header"><img src="flynntitle.gif" width="390" height="85" /></td>
+</tr>
+<tr>
+<td width="100" class="navigation">
+<div class="navigation">
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td height="200" valign="top">
+
+<p class="navigationtitle">MENU</p>
+<p class="navigation">
+<a href="index.php"  >home</a> <br />  
+<a href="index.php?topic=projects" class="navigationactive">projects</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?topic=projects-wincpc" class="navigationactive">WinCPC</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?topic=projects-wincpc-download" >download</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?topic=projects-wincpc-wip" >wip</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?topic=projects-wincpc-linux" >linux</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?topic=projects-wincpc-screenshots" >screenshots</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?topic=projects-wincpc-history" >history</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?topic=projects-maccpc" >MacCPC</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?topic=projects-hero" >H.E.R.O.</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?topic=projects-symdos" >SymDOS</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?topic=projects-maze" >MAZE</a><br />
+<a href="index.php?topic=documents" >documents</a><br />
+<a href="index.php?topic=links" >links</a><br />
+<a href="index.php?topic=contact" >contact flynn</a><br />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="bottom">
+<a target="_blank" href="http://www.vim.org"><img src="bilder/vim_created.png" alt="VIM" width="90" height="36" border="0" /></a>
+</td>
+</tr>
+
+</table>
+
+</div>
+</td>
+<td width="778" class="content">
+<div class="content">
+<p class="pagetitle">:: WinCPC - Amstrad CPC Emulator for Windows ::</p>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="titletable">
+    <tr>
+        <td width="387" class="titletablescreen"><a href="index.php?topic=projects-wincpc-screenshots"><img src="projects/wincpc/gfx/wincpc.gif" alt="WinCPC" width="386" height="308" border="0" /></a>(click to see more of WinCPC)<br />
+        </td>
+        <td width="10" class="titletable">&nbsp;</td>
+        <td class="titletable"><span class="text">WinCPC is the Borland Delphi port of my first Amstrad CPC emulator called vbCPC.<br />
+vbCPC was written entirely in Visual Basic 6.0. The first code line was written in 1999, the emulation loop of the Z80. In about four years, vbCPC growed up to an emulator with an excellent speed for a VB6 project.<br />
+<br />
+Then, in october 2004, I decided to discontinue vbCPC and began to rewrite the emulator in Delphi, which is much faster than Visual Basic. WinCPC offers much much more features than vbCPC, for example the integrated Z80 assembler...<br />
+<br />
+...and... WinCPC is multilingual, german, english and french.<br />
+<br />
+<br />
+<a href="index.php?topic=projects-wincpc-history">Have a look to the program history of WinCPC.</a> (only in german)<br />
+
+        </span></td>
+    </tr>
+</table>
+<p class="text"><br /><br /></p>
+<p class="texttitle">features:</p>
+<p class="text">
++ Z80 with all undocumented OP codes<br />
++ &micro;PD765-A FDC support for two drive assemblies (floppydisc controller)<br />
++ floppy drive noises<br />
++ RAM banking up to 576kb/expansion of ROM<br />
++ HD6845 CRT controller (type 0)<br />
++ AY-3-8912 PSG sound chip <br />
++ DSK and EDSK diskette images<br />
++ CDT and TZX tape/cassette image<br />
++ CDT to WAV converter<br />
++ Joystick support<br />
++ integrated debugger and periphery inspector <br />
++ integrated Zilog Z80 assembler<br />
++ integrated Intel 8080 assembler<br />
++ SYMBiFACE II emulation<br />
++ printer support into printer file <br />
++ digiblaster support (enables to hear sound via printer port)<br />
++ sound recorder<br />
++ color, green or grey tone monitor with brightness and contrast adjustment<br />
++ VDU emulation<br />
++ GUI in english, french and german<br />
++ 2-layer keyboard mapping<br />
++ windowed or fullscreen mode<br />
++ drag'n'drop of DSK/CDT and ZIP files<br />
+</p>
+<p class="text"><br /><br /></p>
+
+<p class="texttitle">some screenshots:<br />
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="778">
+    <tr>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/464.GIF" width="384" height="270" /><br />start screen of the CPC 464<br /><br /></td>
+        <td width="10" align="center" valign="top" class="scrnshottable">&nbsp;</td>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/664.GIF" width="384" height="270" /><br />start screen of the CPC 664<br /><br /></td>		
+    </tr>
+    <tr>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/6128.GIF" width="384" height="270" /><br />start screen of the CPC 6128<br /><br /></td>
+        <td width="10" align="center" valign="top" class="scrnshottable">&nbsp;</td>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/cpmplus.GIF" width="384" height="270" /><br />CP/M plus<br /><br /></td>		
+    </tr>
+    <tr>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/32demo.JPG" width="384" height="270" /><br />demo with 32k screen<br /><br /></td>
+        <td width="10" align="center" valign="top" class="scrnshottable">&nbsp;</td>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/32demo2.JPG" width="384" height="270" /><br />end scene with nice sound<br /><br /></td>		
+    </tr>
+    <tr>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/fhdemo.JPG" width="384" height="270" /><br /><a href="projects/wincpc/mp3/facehugg.mp3">face hugger's demo (without digiblaster!!!)</a></td>
+        <td width="10" align="center" valign="top" class="scrnshottable">&nbsp;</td>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/digit.JPG" width="384" height="270" /><br />digitalized pictures<br /><br /></td>		
+    </tr>
+    <tr>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/claudia.JPG" width="384" height="270" /><br />claudia, displayed in grey scale mode<br /><br /></td>
+        <td width="10" align="center" valign="top" class="scrnshottable">&nbsp;</td>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/sorcery.GIF" width="384" height="270" /><br />sorcery, what an amazing game<br /><br /></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/chuckie.GIF" width="384" height="270" /><br />what?? you don't know chuckie egg?<br /><br /></td>		
+        <td width="10" align="center" valign="top" class="scrnshottable">&nbsp;</td>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/crafxunx.JPG" width="384" height="270" /><br />get dexter<br /><br /></td>		
+    </tr>
+    <tr>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/futos_1.JPG" width="384" height="270" /><br />desktop of FutureOS<br /><br /></td>		
+        <td width="10" align="center" valign="top" class="scrnshottable">&nbsp;</td>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/futos_2.JPG" width="384" height="270" /><br /><a href="projects/wincpc/mp3/startrek.mp3">star trek demo using digiblaster<br /><br /></a></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/symbos1.JPG" width="384" height="270" /><br />sign on message of SymbOS</td>		
+        <td width="10" align="center" valign="top" class="scrnshottable">&nbsp;</td>
+        <td align="center" valign="top" class="scrnshottable"><img src="projects/wincpc/gfx/symbos2.JPG" width="384" height="270" /><br />SymbOS in action...</td>		
+    </tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="footer">&copy;1984 - 2009 by flynn</td>
+</tr>
+</table>
+</center>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://nocash.emubase.de/cpc.htm>====================
+<HTML><HEAD>
+  <TITLE>NO$CPC</TITLE>
+  <META NAME="GENERATOR" CONTENT="nocash XED editor">
+  <META NAME="Author" CONTENT="Nocash / Martin Korth">
+  <META NAME="Description" CONTENT="nocash amstrad cpc emulator">
+  <META NAME="KeyWords" CONTENT="amstrad,cpc,464,664,6128,plus,cpc+,cpc plus,464+,6128+,kx4000,kx 4000,console,schneider,emulator,emu,8-bit,8bit,8 bit,homecomputer,home computer,msdos,dos,windows,win95,win98,32bit,pc,ibm,clones,free,freeware,download,dsk,.dsk,*.dsk,disk image,cpr,.cpr,cartridge,games,no$cpc,no$cpc.zip,no$cpc.exe,cpcemu,cpe,nocash,emulation,emu,martin korth,update">
+</HEAD><BODY bgcolor="#ffffff" text="#000000" link="#0033cc" vlink="#0033cc" alink="#0033cc"><CENTER><TABLE WIDTH=615><TR><TD>
+<!----------------->
+<FONT SIZE=-1>
+<HR><CENTER><TABLE>
+ <TR><TD><IMG SRC="cpc-icon.gif" WIDTH=32 HEIGHT=32 ALT="CPC"></TD>
+ <TD><CENTER><FONT SIZE=+1>NO$CPC - version 1.8</FONT><FONT SIZE=+0><BR>
+ Nocash Amstrad/Schneider CPC Emulator/Debugger for DOS/Windows</FONT></CENTER></TD>
+ <TD><IMG SRC="cpc-amst.gif" WIDTH=32 HEIGHT=32 ALT="CPC"></TD></TR>
+</TABLE></CENTER><HR>
+<!----------------->
+<B>Hello to No$cpc</B><BR>
+This is my first emulator, worked on it since 1995, the features are:
+fastest CPC emulation worldwide, integrated debugger with
+graphics user interface, breakpoints, online assembler, various
+keyboard languages supported, popup-menues, full mouse control, supports
+arj/pkzip compressed DSK-files, adlib and digital sound support,
+video mode/color splitting, joystick support, disk copy
+protection emulation.<P>
+Written in memory of the golden age of 8bit computers,<BR>
+Martin<BR>
+<!----------------->
+<!----
+<HR><B>Need Help!!! Does anybody know this game?</B><BR>
+It's one of my favourite CPC shooter games, first because it's fun, and second
+because it's sized only 9 Kbytes, half written in BASIC, and half written in
+machine code. I would assume that it's been released in a german magazine
+sometimes around 1984-1987.<P>
+ <IMG SRC="starfig1.gif" WIDTH=300 HEIGHT=183 ALT="Starfight Title Screen">
+ <IMG SRC="starfig2.gif" WIDTH=300 HEIGHT=183 ALT="Starfight Game Screen"><P>
+The whole story is this: I liked it so much that I disassembled it, and ported
+it to Nintendo Gameboy, and released it as freeware game. Well, and the
+problem is that I don't know the authors name, and couldn't ask him for his
+permission and/or if he likes it. So, if anybody knows his name, or at least
+knows in which magazine the game has been released - please please email me!
+<!----------------->
+<HR><B>Downloading No$cpc</B><P>
+<U>CPC Plus versions</U><BR>
+<B>Advantages:</B> Supports CPC Plus functions, supports 'oversize' video
+modes, colors and resolution may be changed each scanline, slightly more
+accurate CPU emulation. <B>Disadvantages:</B> Very slow, requires at least a
+fast 66MHz computer, not supporting older HGC, CGA, EGA graphic cards.
+<BR>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%><TR><TD>
+ <TABLE>
+  <TR><TD><A HREF="no$cpc.zip"><IMG SRC="suck.gif" WIDTH=16 HEIGHT=16 ALT="SUCK"></A></TD><TD><FONT SIZE=-1><A HREF="no$cpc.zip"><B>CPC Plus Windows 32bit version</B></A></TD></TR>
+  <TR><TD><A HREF="no$cpc-p.zip"><IMG SRC="suck.gif" WIDTH=16 HEIGHT=16 ALT="SUCK"></A></TD><TD><FONT SIZE=-1><A HREF="no$cpc-p.zip"><B>CPC Plus DOS version</B></A></TD></TR>
+ </TABLE>
+</TD><TD>
+ <A HREF="donate.htm"><IMG SRC="donate.gif" WIDTH=62 HEIGHT=31></A>
+</TD></TR></TABLE>
+<BR>
+<U>Normal versions</U><BR>
+<B>Advantages:</B> Much faster (working smooth on 33MHz computers),
+supports VGA, EGA, CGA and Hercules graphics carts, separate versions
+available optimized for different CPUs, supports XTs and ATs.
+<B>Disadvantages:</B> No CPC Plus support, display may be split into 5
+sections of different colors/modes only, not supporting 'oversize' video modes.
+<BR><TABLE>
+ <TR><TD><A HREF="no$cpc-g.zip"><IMG SRC="suck.gif" WIDTH=16 HEIGHT=16 ALT="SUCK"></A></TD><TD><FONT SIZE=-1><A HREF="no$cpc-g.zip"><B>DOS 80486 Real Mode version</B></A></TD><TD><FONT SIZE=-1>Particulary optimized for 80486, but compatible with windows.</TD></TR>
+ <TR><TD><A HREF="no$cpc-i.zip"><IMG SRC="suck.gif" WIDTH=16 HEIGHT=16 ALT="SUCK"></A></TD><TD><FONT SIZE=-1><A HREF="no$cpc-i.zip"><B>DOS 80486 Protected Mode version</B></A></TD><TD><FONT SIZE=-1>Fully optimized for 80486, super fast.</TD></TR>
+ <TR><TD><A HREF="no$cpc-c.zip"><IMG SRC="suck.gif" WIDTH=16 HEIGHT=16 ALT="SUCK"></A></TD><TD><FONT SIZE=-1><A HREF="no$cpc-c.zip"><B>DOS 80386 Real Mode version</B></A></TD><TD><FONT SIZE=-1>Particulary optimized for 80386, but compatible with windows.</TD></TR>
+ <TR><TD><A HREF="no$cpc-e.zip"><IMG SRC="suck.gif" WIDTH=16 HEIGHT=16 ALT="SUCK"></A></TD><TD><FONT SIZE=-1><A HREF="no$cpc-e.zip"><B>DOS 80386 Protected Mode version</B></A></TD><TD><FONT SIZE=-1>Fully optimized for 80386, super fast.</TD></TR>
+ <TR><TD><A HREF="no$cpc-a.zip"><IMG SRC="suck.gif" WIDTH=16 HEIGHT=16 ALT="SUCK"></A></TD><TD><FONT SIZE=-1><A HREF="no$cpc-a.zip"><B>DOS XT/AT version</B></A></TD><TD><FONT SIZE=-1>Slow, but fully compatible to 8086..80286 and anything.</TD></TR>
+ <TR><TD><A HREF="no$cpc-b.zip"><IMG SRC="suck.gif" WIDTH=16 HEIGHT=16 ALT="SUCK"></A></TD><TD><FONT SIZE=-1><A HREF="no$cpc-b.zip"><B>DOS XT/AT Quick'n'Dirty version</B></A></TD><TD><FONT SIZE=-1>Same as above, but a bit faster - and less accurate.</TD></TR>
+</TABLE><BR>
+All versions include the required ROM images and are sized about 150 KBytes each.<BR>
+<!----------------->
+<HR><B>Games & Docs & Tools & Mail & Homepage</B><BR>
+<TABLE>
+ <TR><TD><A HREF="ftp://ftp.nvg.ntnu.no/pub/cpc/games/"><IMG SRC="link.gif" WIDTH=18 HEIGHT=18 ALT="LINK"></A></TD><TD><FONT SIZE=-1><A HREF="ftp://ftp.nvg.ntnu.no/pub/cpc/games/"><B>FTP.NVG - CPC Software Archive</B></A></TD><TD><FONT SIZE=-1>Hundreds of CPC Games, Tools, etc. (changed, new address!)</TD></TR>
+ <TR><TD><A HREF="http://www.terra.es/personal/rt95plus/plusroms.htm"><IMG SRC="link.gif" WIDTH=18 HEIGHT=18 ALT="LINK"></A></TD><TD><FONT SIZE=-1><A HREF="http://www.terra.es/personal/rt95plus/plusroms.htm"><B>Link to CPC Plus Games</B></A></TD><TD><FONT SIZE=-1>Some Games for the CPC Plus.</TD></TR>
+ <TR><TD><A HREF="no$cart.htm"><IMG SRC="suck.gif" WIDTH=18 HEIGHT=18 ALT="SUCK"></A></TD><TD><FONT SIZE=-1><A HREF="no$cart.htm"><B>NO$CART</B></A></TD><TD><FONT SIZE=-1>Tool that converts CPC Disk Images into CPC Plus/GX 4000 Cartridges.</TD></TR>
+ <TR><TD><A HREF="myrampos.zip"><IMG SRC="suck.gif" WIDTH=18 HEIGHT=18 ALT="SUCK"></A></TD><TD><FONT SIZE=-1><A HREF="myrampos.zip"><B>Myrampos</B></A></TD><TD><FONT SIZE=-1>A game that I've written back in 1990.</TD></TR>
+ <TR><TD><A HREF="tape2hdd.htm"><IMG SRC="suck.gif" WIDTH=18 HEIGHT=18 ALT="SUCK"></A></TD><TD><FONT SIZE=-1><A HREF="tape2hdd.htm"><B>TAPE2HDD</B></A></TD><TD><FONT SIZE=-1>Copies CPC cassettes to PC by using the soundcards line-in channel.</TD></TR>
+ <TR><TD><A HREF="cpcnew.htm" ><IMG SRC="suck.gif" WIDTH=18 HEIGHT=18 ALT="SUCK"></A></TD><TD><FONT SIZE=-1><A HREF="cpcnew.htm" ><B>No$cpc History</B></A></TD><TD><FONT SIZE=-1>Release notes, what's new, what's old?</TD></TR>
+ <TR><TD><A HREF="email.htm">  <IMG SRC="mail.gif" WIDTH=18 HEIGHT=18 ALT="MAIL"></A></TD><TD><FONT SIZE=-1><A HREF="email.htm"><B>Email</B></A></TD><TD><FONT SIZE=-1>Email.</TD></TR>
+ <TR><TD><A HREF="index.htm">  <IMG SRC="nope.gif" WIDTH=18 HEIGHT=18 ALT="BACK"></A></TD><TD><FONT SIZE=-1><A HREF="index.htm"><B>Back</B></A></TD><TD><FONT SIZE=-1>Back to Nocash Funware Overview.</TD></TR>
+</TABLE>
+<!----------------->
+</TD></TR></TABLE></CENTER></BODY></HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://users.otenet.gr/~sulfonic/cpc/>====================
+<HTML>
+
+<HEAD>
+<TITLE>VIRTUAL CPC Homepage</TITLE>
+<link rel="shortcut icon" href="favicon.ico">
+</HEAD>
+
+<FRAMESET cols="200, 100%">
+<FRAME name="FIXED" src="frame1.html" noresize frameborder=0>
+<FRAME name="DYNAMIC" src="home.html" noresize frameborder=0>
+</FRAMESET>
+
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cpcalive.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-46662241-1', 'cpcalive.com');
+ga('send', 'pageview');
+  </script>
+  
+  
+  
+  
+  
+  <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+{lang: 'fr'}
+  </script>
+  
+  
+  
+  
+  
+  <link rel="image_src" type="image/jpeg" href="http://www.cpcalive.com/docs/BackPages/CpcAlive.jpg">
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  <meta property="og:image" content="http://www.cpcalive.com/docs/BackPages/CpcAlive.jpg">
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+
+
+
+
+
+  
+  
+  
+  
+  
+  <title>CpcAlive est un environnement de programmation compatible Amstrad CPC pour cr&eacute;ation d'animations graphiques.</title>
+</head>
+
+
+<body style="background-image: url(BackPages/tree1366x4000.jpg);">
+
+
+
+
+
+
+<div style="text-align: left;">
+<div style="text-align: center;"><br>
+
+
+
+
+<br>
+
+
+
+
+<br>
+
+
+
+
+<br>
+
+
+
+
+<br>
+
+
+
+
+<br>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+<big>
+</big>
+<hr style="width: 100%; height: 2px; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+<embed style="left: 10px; width: 300px; top: 5999px; height: 45px;" src="http://www.cpcalive.com/STG-MSGB.mp3" autostart="true" height="45" width="300">
+<hr style="width: 100%; height: 2px; margin-left: auto; margin-right: auto;"></div>
+
+
+
+
+
+
+<br>
+
+
+
+<br>
+<br>
+
+
+
+<br>
+
+
+
+<img style="border: 0px solid ; width: 1000px; height: 375px;" alt="" src="http://www.virgoasis.com/images/Suaire/message.jpg"><br>
+
+
+
+
+
+
+<br>
+
+<br>
+<br>
+<br>
+
+
+<br>
+
+
+
+
+
+
+
+<div style="padding: 0.6em;">
+<table style="width: 100px; text-align: left; margin-left: auto; margin-right: auto;" border="1" cellpadding="2" cellspacing="2">
+
+
+
+
+
+
+  <tbody>
+
+
+
+
+
+
+    <tr align="center">
+
+
+
+
+
+
+      <td><iframe src="http://www.youtube.com/embed/zjBvnq4Oj3Q?rel=0&amp;autoplay=1" allowfullscreen="" frameborder="0" height="480" width="640"></iframe></td>
+
+
+
+
+
+
+    </tr>
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  </tbody>
+</table>
+
+
+<br>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="text-align: center;"><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<big style="color: rgb(255, 204, 255);"><big><big style="font-weight: bold; font-style: italic;"><big>256
+colors</big></big></big></big><br>
+
+
+
+
+
+
+<big style="font-weight: bold; font-style: italic;"><big>
+</big></big>
+<div style="text-align: center;"><big style="font-weight: bold; font-style: italic;"><big><img style="border: 0px solid ; width: 800px; height: 500px;" alt="" src="images/CpcAlive256colors2.gif"><br>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+<img style="border: 0px solid ; width: 800px; height: 500px;" alt="" src="images/CpcAlive256colors.gif"></big></big><br>
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+<big style="color: rgb(255, 204, 255);"><big><big style="font-weight: bold; font-style: italic;"><big>
+Ubuntu</big></big></big></big><br>
+
+
+
+
+
+
+<big style="font-weight: bold; font-style: italic;"><big>
+</big></big></div>
+
+
+
+
+
+
+<div style="text-align: center;">
+<div style="text-align: center;"><img style="border: 0px solid ; width: 1366px; height: 663px;" alt="" src="images/Ubuntu.jpg"><br>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+<table style="width: 100px; text-align: left; margin-left: auto; margin-right: auto;" border="1" cellpadding="2" cellspacing="2">
+
+
+
+
+
+
+  <tbody>
+
+
+
+
+
+
+    <tr>
+
+
+
+
+
+
+      <td align="left" nowrap="nowrap" valign="middle"><g:plusone size="tall" annotation="none"></g:plusone> <a href="https://twitter.com/share" class="twitter-share-button" data-lang="fr" data-count="none" data-size="large">Tweeter</a>
+      
+      
+      
+      
+      
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      
+      
+      
+      
+      
+      <script src="http://connect.facebook.net/fr_FR/all.js#xfbml=1" type="text/javascript"></script><fb:send expr:href="data:post.canonicalUrl" colorscheme="light"></fb:send></td>
+
+
+
+
+
+
+      <td align="left" nowrap="nowrap" valign="middle">
+      
+      
+      
+      
+      
+      <div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+
+
+
+
+
+
+      </td>
+
+
+
+
+
+
+    </tr>
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+
+<table style="width: 1px; text-align: left; margin-left: auto; margin-right: auto;" border="10" cellpadding="20" cellspacing="20">
+
+
+
+
+
+
+  <tbody>
+
+
+
+
+
+
+    <tr align="center">
+
+
+
+
+
+
+      <td style="text-align: center; white-space: nowrap; background-color: rgb(51, 204, 255);"><big><big><a href="cpcalive_fr.html"><big><span style="font-style: italic;"><span style="font-weight: bold;">CpcAlive
+est un environnement de
+programmation&nbsp;compatible<br>
+
+
+
+
+
+
+&nbsp;Amstrad CPC pour cr&eacute;ation d'animations graphiques.</span></span></big></a></big></big></td>
+
+
+
+
+
+
+    </tr>
+
+
+
+
+
+
+    <tr>
+
+
+
+
+
+
+      <td style="text-align: center; white-space: nowrap; background-color: rgb(255, 153, 255);"><big><big><a href="http://www.cpcalive.com/cpcalive_en.html"><big style="font-weight: bold; font-style: italic;">CpcAlive is a
+programming environment Amstrad CPC<br>
+
+
+
+
+
+
+compatible for graphics animations creation.</big></a></big></big></td>
+
+
+
+
+
+
+    </tr>
+
+
+
+
+
+
+    <tr>
+
+
+
+
+
+
+      <td style="text-align: center; white-space: nowrap; background-color: rgb(153, 153, 255);"><big><big><a href="http://www.cpcalive.com/cpcalive_sp.html"><big style="font-weight: bold;"><span style="font-style: italic;">CpcAlive
+es un sistema de
+programaci&oacute;n compatible<br>
+
+
+
+
+
+
+Amstrad CPC para la creaci&oacute;n de animaciones
+gr&aacute;ficas.</span></big></a></big></big></td>
+
+
+
+
+
+
+    </tr>
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+
+
+<big><span style="font-style: italic;"></span></big><br>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+<br>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+<table style="width: 100px; text-align: left; margin-left: auto; margin-right: auto;" border="1" cellpadding="2" cellspacing="2">
+
+
+
+
+
+
+  <tbody>
+
+
+
+
+
+
+    <tr>
+
+
+
+
+
+
+      <td align="left" nowrap="nowrap" valign="middle"><g:plusone size="tall" annotation="none"></g:plusone> <a href="https://twitter.com/share" class="twitter-share-button" data-lang="fr" data-count="none" data-size="large">Tweeter</a>
+      
+      
+      
+      
+      
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></td>
+
+
+
+
+
+
+      <td align="left" nowrap="nowrap" valign="middle">
+      
+      
+      
+      
+      
+      <div class="fb-like" data-send="true" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+
+
+
+
+
+
+      </td>
+
+
+
+
+
+
+    </tr>
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+<div style="text-align: center;"><span style="text-decoration: underline;"></span>
+<br>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<span style="text-decoration: underline;"></span><span style="background-color: rgb(51, 102, 255); color: rgb(255, 255, 255);"><img style="border: 0px solid ; width: 10px; height: 8px;" alt="" src="docs/BackPages/CpcAlive.jpg"></span><br>
+
+
+
+
+
+
+<big><big><br>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+</big></big>
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

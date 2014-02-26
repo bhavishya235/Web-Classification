@@ -1,0 +1,675 @@
+====================<http://www.currency.com.au/>====================
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+	Currency Press - The performing arts publisher
+</title><link rel="SHORTCUT ICON" href="/favicon.gif" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link href="templates/Currency/default.css" rel="stylesheet" text="text/css" /><link href="templates/Currency/print.css" rel="stylesheet" text="text/css" media="print" />
+<script language="JavaScript" src="templates/currency/layout.js" type="text/javascript"></script>
+<script src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="js/jquery.bxSlider.min.js" type="text/javascript"></script>
+<script src="js/jquery.easing.1.3.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-6355657-1']);
+    _gaq.push(['_trackPageview']);
+    setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])", 15000);
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<meta name="description" content="Australian performing arts publisher - plays/screenplays; auditioning books/actors' handbooks; books on Australian theatre, film, TV, music and opera; biographies and cultural studies; sheet music." /><style type="text/css">
+	.ctl00_placeholderMainMenu_DropDown_ctl00_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.ctl00_placeholderMainMenu_DropDown_ctl00_1 { text-decoration:none; }
+	.ctl00_placeholderMainMenu_DropDown_ctl00_2 { background-color:#EFDECD; }
+	.ctl00_placeholderMainMenu_DropDown_ctl00_3 { border-style:none; }
+	.ctl00_placeholderMainMenu_DropDown_ctl00_4 { background-color:#DD5337;padding:0px 0px 0px 0px; }
+	.ctl00_placeholderMainMenu_DropDown_ctl00_5 { border-style:none; }
+	.ctl00_placeholderMainMenu_DropDown_ctl00_6 { background-color:#DD5337;padding:0px 0px 0px 0px; }
+	.ctl00_placeholderMainMenu_DropDown_ctl00_7 {  }
+	.ctl00_placeholderMainMenu_DropDown_ctl00_8 { background-color:White; }
+	.ctl00_placeholderMainMenu_DropDown_ctl00_9 {  }
+	.ctl00_placeholderMainMenu_DropDown_ctl00_10 { background-color:White; }
+
+</style></head>
+<body id="home" onResize="resizer();">
+<div id="fb-root"></div>
+<script>    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));</script>
+
+<a accesskey="top"></a>
+<form name="aspnetForm" method="post" action="default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQ5NjUzMzYyNw9kFgJmD2QWAgIDD2QWEAIDD2QWAgIBD2QWBAIBDw9kFgIeB29uRm9jdXMFmAFkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfcGxhY2Vob2xkZXJTZWFyY2hfYnRuU2VhcmNoJykuZGlzYWJsZWQ9ZmFsc2U7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX3BsYWNlaG9sZGVyU2VhcmNoX2J0blNlYXJjaCcpLnZhbHVlPSdTZWFyY2gnO2QCAw8PZBYCHgdvbmNsaWNrBSx0aGlzLnZhbHVlPSdTZWFyY2hpbmcuLic7dGhpcy5kaXNhYmxlZD10cnVlO2QCBA9kFgQCAQ9kFgJmD2QWBAIBDw8WBB4LTmF2aWdhdGVVcmwFHXJlZ2lzdHJhdGlvbi5hc3B4P1JldHVyblVybD0vHgdWaXNpYmxlZ2RkAgMPDxYCHwIFFmxvZ2luLmFzcHg/UmV0dXJuVXJsPS9kZAIDDw8WAh8DaGRkAggPZBYCZg9kFgJmD2QWAgIFDzwrABECAA8WBh4MRGF0YVNvdXJjZUlEBQ5TcWxEYXRhU291cmNlMR4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudGZkARAWABYAFgBkAgsPFgIfBgIGFgxmD2QWAmYPFQQqaHR0cDovL3d3dy5jdXJyZW5jeS5jb20uYXUvbm90aW5wcmludC5hc3B4FE5vdCBpbiBQcmludCBwb2RjYXN0vgFDdXJyZW5jeeKAmXMgb3duIFRvYnkgTGVvbiBhbmQgRXJpbiBEZXdhciBoYXZlIHRlYW1lZCB1cCB0byBwcm9kdWNlIHRoaXMgdW5wYXJhbGxlbGVkIGludGVydmlldyBzZXJpZXMuIFRoZXkgYXJlIHNpdHRpbmcgZG93biB3aXRoIHJlc3BlY3RlZCBwbGF5d3JpZ2h0cyB0byB1bmNvdmVyIGFuc3dlcnMgYmVoaW5kIHRoZWlyIHdvcmsuJy9yZXNvdXJjZXMvMS9DUF9iYW5uZXJfbm90IGluIHByaW50LmpwZ2QCAQ9kFgJmDxUESGh0dHBzOi8vaXR1bmVzLmFwcGxlLmNvbS9hdS9hcHAvc3VtbWVyLXNldmVudGVlbnRoLWRvbGwvaWQ2MDgxMTE3MTc/bXQ9OCdTdW1tZXIgb2YgdGhlIFNldmVudGVlbnRoIERvbGwgaVBhZCBhcHAAJS9yZXNvdXJjZXMvMS9DUF9iYW5uZXJfc290MTdkIGFwcC5qcGdkAgIPZBYCZg8VBDRodHRwOi8vd3d3LmN1cnJlbmN5LmNvbS5hdS9uZXdhbmRyZWNlbnRyZWxlYXNlcy5hc3B4D1JlY2VudCBSZWxlYXNlc50BTmV3L3JlY2VudCB0aXRsZXMgZnJvbSBDdXJyZW5jeSBQcmVzcywgdGhlIHBlcmZvcm1pbmcgYXJ0cyBwdWJsaXNoZXIgLSBBdXN0cmFsaWFuIHBsYXkgc2NyaXB0cywgc2NyZWVucGxheXMsIHN0dWR5IGd1aWRlcywgcGx1cyBjcml0aWNhbCBhbmQgcmVmZXJlbmNlIHdvcmtzLikvcmVzb3VyY2VzLzEvQ1BfYmFubmVyX3JlY2VudCAtIHNtYWxsLmpwZ2QCAw9kFgJmDxUEL2h0dHA6Ly93d3cuY3VycmVuY3kuY29tLmF1L3ZlcmJhdGltdGhlYXRyZS5hc3B4EFZlcmJhdGltIFRoZWF0cmW+AUN1cnJlbmN5IFByZXNzIHZlcmJhdGltIHRoZWF0cmUgcGFnZS4gV2hhdCBpcyB2ZXJiYXRpbSB0aGVhdHJlPyBXaG8gYXJlIHNvbWUgbm90YWJsZSBBdXN0cmFsaWFuIHByYWN0aXRpb25lcnMgLSBkaXJlY3RvcnMsIGFjdG9ycywgcGxheXdyaWdodHMsIHNldCBkZXNpZ25lcnM/IFJlYWQgaW50ZXJ2aWV3cyB3aXRoIHRoZW0gaGVyZS4rL3Jlc291cmNlcy8xL0NQX2Jhbm5lcl9WZXJiYXRpbSAtIHNtYWxsLmpwZ2QCBA9kFgJmDxUEM2h0dHA6Ly93d3cuY3VycmVuY3kuY29tLmF1L29ubGluZS1zdHVkeS1ndWlkZXMuYXNweAxTdHVkeSBHdWlkZXOTAUN1cnJlbmN5IFByZXNzIFN0dWR5IEd1aWRlcyBhbmQgY3JpdGljYWwgZXNzYXlzIG9uIGEgcmFuZ2Ugb2YgQXVzdHJhbGlhbiBwbGF5cy4gSW5zaWdodHMgZm9yIHRlYWNoZXJzLCBzdHVkZW50cywgYWN0b3JzLCBkaXJlY3RvcnMgYW5kIHBsYXl3cmlnaHRzLigvcmVzb3VyY2VzLzEvQ1BfYmFubmVyX3N0dWR5IC0gc21hbGwuanBnZAIFD2QWAmYPFQQraHR0cDovL3d3dy5jdXJyZW5jeS5jb20uYXUvZW5ld3NsZXR0ZXIuYXNweAVlTmV3c6cBU2lnbiB1cCBmb3IgdGhlIGVuZXdzbGV0dGVyIGZyb20gQ3VycmVuY3kgUHJlc3MsIHRoZSBwZXJmb3JtaW5nIGFydHMgcHVibGlzaGVyIC0gQXVzdHJhbGlhbiBwbGF5IHNjcmlwdHMsIHNjcmVlbnBsYXlzLCBzdHVkeSBndWlkZXMsIHBsdXMgY3JpdGljYWwgYW5kIHJlZmVyZW5jZSB3b3Jrcy4oL3Jlc291cmNlcy8xL0NQX2Jhbm5lcl9lbmV3cyAtIHNtYWxsLmpwZ2QCDQ9kFgQCAQ9kFgQCBw8PZBYCHgVzdHlsZQUMZGlzcGxheTpub25lZAIJDw9kFgIfBwUMZGlzcGxheTpub25lZAIDDxYCHwYCCxYWAgEPZBYCZg8VBQQyODgzDTk3ODE5MjUwMDUwNDIbT25jZSBpbiBEYXZpZCdzIFJveWFsIENpdHkgG09uY2UgaW4gRGF2aWQncyBSb3lhbCBDaXR5IAtNaWNoYWVsIEdvd2QCAg9kFgJmDxUFBDI3ODcNOTc4MTkyNTAwNTAwNBFTZWNyZXQgUml2ZXIsIFRoZRFTZWNyZXQgUml2ZXIsIFRoZSlLYXRlIEdyZW52aWxsZSAoYWRhcHRlZCBieSBBbmRyZXcgQm92ZWxsKWQCAw9kFgJmDxUFBDI3ODgNOTc4MDg2ODE5OTgzMg5TdGFnaW5nIEFzeWx1bQ5TdGFnaW5nIEFzeWx1bRJFZGl0ZWQgYnkgRW1tYSBDb3hkAgQPZBYCZg8VBQQyODExDTk3ODA4NjgxOTk4NzAFS2VsbHkFS2VsbHkMTWF0dGhldyBSeWFuZAIFD2QWAmYPFQUEMjc0Mg05NzgwODY4MTk5ODQ5FEN5YmVyYmlsZSAvIEdyb3VuZGVkFEN5YmVyYmlsZSAvIEdyb3VuZGVkD0FsYW5hIFZhbGVudGluZWQCBg9kFgJmDxUFBDI3MDcNOTc4MDg2ODE5OTcwMgxUcmFuc3BhcmVuY3kMVHJhbnNwYXJlbmN5DFN1emllIE1pbGxlcmQCBw9kFgJmDxUFBDI3MTENOTc4MDg2ODE5OTc1NxNCYWNrIG9mIEJleW9uZCwgVGhlE0JhY2sgb2YgQmV5b25kLCBUaGUNU3lsdmlhIExhd3NvbmQCCA9kFgJmDxUFBDI4OTANOTc4MTkyNTAwNTA1OQ9KdW1wIGZvciBKb3JkYW4PSnVtcCBmb3IgSm9yZGFuC0Rvbm5hIEFiZWxhZAIJD2QWAmYPFQUEMjg4NQ05NzgxOTI1MDA1MDczGVZvaWNlcyBQcm9qZWN0IDIwMTQsIFRoZSAZVm9pY2VzIFByb2plY3QgMjAxNCwgVGhlIBJKYWtlIEJyYWluIGV0IGFsLiBkAgoPZBYCZg8VBQQyODU5DTk3ODE5MjUwMDUwMzUIVHJpcHR5Y2gIVHJpcHR5Y2guT2xpdmlhIEhld3Nvbi9KZXNzaWNhIEJlbGxhbXkvTGFjaGxhbiBQaGlscG90dGQCCw9kFgJmDxUFBDI4MDkNOTc4MTkyNTAwNTAxMQZSdXBlcnQGUnVwZXJ0EERhdmlkIFdpbGxpYW1zb25kAhMPZBYKAgEPFgIfA2gWAmYPZBYOAgEPDxYCHwNoZGQCAw8WAh8DaGQCBQ8PFgIfA2hkZAIHDw8WAh8DaGRkAgkPDxYCHwNoZGQCCw8PFgIfA2hkZAINDw8WBh4ISW1hZ2VVcmwFHXN5c3RlbXMvaW1hZ2VzL2J0blB1Ymxpc2guZ2lmHg1BbHRlcm5hdGVUZXh0BQdQdWJsaXNoHwNoZGQCAw9kFgICAg9kFgICAQ8PFgIeBFRleHQFC1dlYiBDb250ZW50ZGQCBQ9kFgICAg9kFggCAg8PFgIfA2hkZAIEDw8WAh8DaGRkAgYPDxYCHwNoZBYCAgUPDxYCHwIFDWFwcHJvdmFsLmFzcHhkZAIIDw8WAh8DaGQWAgIFDw8WAh8CBQ1hcHByb3ZhbC5hc3B4ZGQCBw9kFgICAg9kFgQCAQ8PFgIfCgUHR2VuZXJhbGRkAgMPDxYCHwNoZGQCCQ9kFgJmD2QWAgIBDw8WBB4NT25DbGllbnRDbGljawVPbW9kYWxEaWFsb2dTaG93KCdkaWFsb2dzL3BhZ2VfaGlzdG9yeS5hc3B4P2M9ZW4tQVUmcGc9MScsNzIwLDUwMCk7cmV0dXJuIGZhbHNlOx8DaGRkAhUPZBYKAgEPFgIfCmVkAg0PZBYCAg8PDxYCHwplZGQCDw9kFgQCBQ9kFgJmD2QWAgICD2QWAgIBDxBkZBYBZmQCBw88KwARAQEQFgAWABYAZAIRDxYCHwplZAIUD2QWAgIDDzwrABEBARAWABYAFgBkAhYPZBYIAgMPZBYIAgMPZBYCAgIPZBYCAgEPEGRkFgFmZAIPD2QWAgICD2QWBgIDDxBkZBYBZmQCBw8QZGQWAWZkAgsPEGRkFgECA2QCGQ9kFgJmD2QWAgIJDxBkZBYAZAIdD2QWAmYPZBYCAgEPZBYCAgMPEGRkFgFmZAILD2QWBgIFDzwrAAkBAA8WAh4NTmV2ZXJFeHBhbmRlZGdkZAIJDzwrAAkBAA8WAh8MZ2RkAg0PPCsACQEADxYCHwxnZGQCDQ9kFgICBw8QZGQWAGQCDw9kFgQCAQ8QZGQWAWZkAgMPEGRkFgFmZBgDBTFjdGwwMCRwbGFjZWhvbGRlclJpZ2h0Qm90dG9tJGN0bDAwJGdyaWR2aWV3RXZlbnRzDzwrAAwBCGZkBSNjdGwwMCRwbGFjZWhvbGRlckJvZHkkZ3JpZExpc3RQYWdlcw9nZAUnY3RsMDAkcGxhY2Vob2xkZXJCb2R5JGN0bDA2JHJlcGVhdGVyUnNzD2dkyc42ELN22cK68ZRqFWNpkZkyBbqzZMTrry8YaA1wgXk=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=TAGTCHN10_BRKqlhBZeVxz-LV8IRCFVuT7e98uYV_I8i7-XrAbd3r3lbEd7asLtzYHJCscoScV5E3WJqjQ6hHtopHh531Ys0QUF-yi-WE6g1&amp;t=634682757645741250" type="text/javascript"></script>
+
+
+<script src="dialogs/dialog.js" type="text/javascript"></script>
+<script src="/WebResource.axd?d=gkKfJz38s5tPl0f3nhGJzT2FPzVYxM71jXjfAriE-a-t1SHNlhdbXd1BoR5bkeDsF8KEcih1RJToI8TaKsIo_s6WiR0owq9hir9GcyUe6Bo1&amp;t=634682757645741250" type="text/javascript"></script>
+<script src="/WebResource.axd?d=9mbrGgC-8Vh_dQUk8c3eolw5v54_gyLK4bVhFs5Kbyf09uU753coS7gU91fj4sbLy5skms2XK8YrjmZNXrHEzakSMZ05_HcclOXoYglfgcI1&amp;t=634682757645741250" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+    <div id="header">
+        <div class="contain logo">
+	        <img src="images/logo-full.png" alt="Currency Press logo" border="0" />
+	        <div id="cartButtons">
+	            <span class="topmenu"><a  href="contact.aspx" class="topmenu">Contact Us</a>&nbsp;|&nbsp;<a  href="currency_info.aspx" class="topmenu">About Us</a>&nbsp;|&nbsp;<a  href="feedback.aspx" class="topmenu">Feedback</a></span>
+	        </div>
+        </div>
+        <div id="nav-bg">
+            <div id="nav" class="contain"><h1>Currency Press</h1><a href="#ctl00_placeholderMainMenu_DropDown_ctl00_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=yCs3s2kCMYRLmJsO4FIyxrY8DBCdooay_CTafsTfdL3fQii6PYhS_gxKVzOVerGenswNjxmNwAsbL21nv9psou9WqR4jNC5AJ-sIXbEhgJY1&amp;t=634682757645741250" width="0" height="0" style="border-width:0px;" /></a><table id="ctl00_placeholderMainMenu_DropDown_ctl00" class="ctl00_placeholderMainMenu_DropDown_ctl00_2" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n0"><table class="menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_3" href="default.aspx" style="border-style:none;font-size:1em;">Home</a></td>
+			</tr>
+		</table></td><td style="width:3px;"></td><td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n1"><table class="menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="white-space:nowrap;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_3" href="new_upcoming.aspx" style="border-style:none;font-size:1em;">The Latest</a></td>
+					</tr>
+				</table></td><td style="width:3px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n2"><table class="menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="white-space:nowrap;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_3" href="scripts.aspx" style="border-style:none;font-size:1em;">Scripts</a></td>
+					</tr>
+				</table></td><td style="width:3px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n3"><table class="menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="white-space:nowrap;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_3" href="books.aspx" style="border-style:none;font-size:1em;">Books</a></td>
+					</tr>
+				</table></td><td style="width:3px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n4"><table class="menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="white-space:nowrap;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_3" href="resources-audio-video-links.aspx" style="border-style:none;font-size:1em;">Resources</a></td>
+					</tr>
+				</table></td><td style="width:3px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n5"><table class="menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="white-space:nowrap;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_3" href="teachers-students.aspx" style="border-style:none;font-size:1em;">Teachers/Students</a></td>
+					</tr>
+				</table></td><td style="width:3px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n6"><table class="menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="white-space:nowrap;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_3" href="ordering.aspx" style="border-style:none;font-size:1em;">Orders</a></td>
+					</tr>
+				</table></td><td style="width:3px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n7"><table class="menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="white-space:nowrap;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_static ctl00_placeholderMainMenu_DropDown_ctl00_3" href="permissionsrightssubmissions.aspx" style="border-style:none;font-size:1em;">Apply for...</a></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table><div id="ctl00_placeholderMainMenu_DropDown_ctl00n1Items" class="ctl00_placeholderMainMenu_DropDown_ctl00_0">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n8">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="newandrecentreleases.aspx" style="border-style:none;font-size:1em;">Recent Releases</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n9">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="titles-coming-soon.aspx" style="border-style:none;font-size:1em;">Coming Soon</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n10">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="thedollapp.aspx" style="border-style:none;font-size:1em;">The Doll app</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n11">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="enewsletter.aspx" style="border-style:none;font-size:1em;">eNews</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n12">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="press-releases.aspx" style="border-style:none;font-size:1em;">Press Releases</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6 ctl00_placeholderMainMenu_DropDown_ctl00_0" id="ctl00_placeholderMainMenu_DropDown_ctl00n1ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=jkubv-ey3nMce-SOU3rdRB--BREVnljfnHb4Z9qlyNk0ltTPhng3NFvYzUiRp_UIDCkWMtI9mrUjO3i8uFdnM-Ow_rboRa2HTqBINxxjZNc1&amp;t=634682757645741250" alt="Scroll up" />
+			</div><div class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6 ctl00_placeholderMainMenu_DropDown_ctl00_0" id="ctl00_placeholderMainMenu_DropDown_ctl00n1ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=IcuemBuNnMVDrqBPrxTlyxteI4AwC0oYTa4I6vrRX60ojMwnygYJ6NSentkHUCK1oyaGk47CfIWoRP9Ja9SAaRfOA5VKBKkrLv1Vxb5ubBc1&amp;t=634682757645741250" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_placeholderMainMenu_DropDown_ctl00n2Items" class="ctl00_placeholderMainMenu_DropDown_ctl00_0">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n13">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="authors.aspx" style="border-style:none;font-size:1em;">By Author Surname</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n14">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="cast-size-gender.aspx" style="border-style:none;font-size:1em;">By Cast Size & Gender</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n15">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="bycategoryorgenre.aspx" style="border-style:none;font-size:1em;">By Category / Genre</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n16">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="playsbyera.aspx" style="border-style:none;font-size:1em;">By Era of Publication</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n17">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="plays-general.aspx" style="border-style:none;font-size:1em;">Scripts (all)</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6 ctl00_placeholderMainMenu_DropDown_ctl00_0" id="ctl00_placeholderMainMenu_DropDown_ctl00n2ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=jkubv-ey3nMce-SOU3rdRB--BREVnljfnHb4Z9qlyNk0ltTPhng3NFvYzUiRp_UIDCkWMtI9mrUjO3i8uFdnM-Ow_rboRa2HTqBINxxjZNc1&amp;t=634682757645741250" alt="Scroll up" />
+			</div><div class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6 ctl00_placeholderMainMenu_DropDown_ctl00_0" id="ctl00_placeholderMainMenu_DropDown_ctl00n2ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=IcuemBuNnMVDrqBPrxTlyxteI4AwC0oYTa4I6vrRX60ojMwnygYJ6NSentkHUCK1oyaGk47CfIWoRP9Ja9SAaRfOA5VKBKkrLv1Vxb5ubBc1&amp;t=634682757645741250" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_placeholderMainMenu_DropDown_ctl00n3Items" class="ctl00_placeholderMainMenu_DropDown_ctl00_0">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n18">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="byauthor2.aspx" style="border-style:none;font-size:1em;">By Author Surname</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n19">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="criticismreferenceautobiographymenu.aspx" style="border-style:none;font-size:1em;">Criticism, Reference and Auto/biography</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n20">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="filmtelevisionmusicmenu.aspx" style="border-style:none;font-size:1em;">Film, Television and Music</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n21">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="theatreandperformancemenu.aspx" style="border-style:none;font-size:1em;">Theatre / Performance</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n22">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="currencyhouse.aspx" style="border-style:none;font-size:1em;">Currency House</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n23">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="uktitlesnickhernbooksandoberonbooks.aspx" style="border-style:none;font-size:1em;">UK Titles</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6 ctl00_placeholderMainMenu_DropDown_ctl00_0" id="ctl00_placeholderMainMenu_DropDown_ctl00n3ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=jkubv-ey3nMce-SOU3rdRB--BREVnljfnHb4Z9qlyNk0ltTPhng3NFvYzUiRp_UIDCkWMtI9mrUjO3i8uFdnM-Ow_rboRa2HTqBINxxjZNc1&amp;t=634682757645741250" alt="Scroll up" />
+			</div><div class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6 ctl00_placeholderMainMenu_DropDown_ctl00_0" id="ctl00_placeholderMainMenu_DropDown_ctl00n3ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=IcuemBuNnMVDrqBPrxTlyxteI4AwC0oYTa4I6vrRX60ojMwnygYJ6NSentkHUCK1oyaGk47CfIWoRP9Ja9SAaRfOA5VKBKkrLv1Vxb5ubBc1&amp;t=634682757645741250" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_placeholderMainMenu_DropDown_ctl00n4Items" class="ctl00_placeholderMainMenu_DropDown_ctl00_0">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n24">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="notinprint.aspx" style="border-style:none;font-size:1em;">Not in Print podcast</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n25">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="author-playwright-interviews.aspx" style="border-style:none;font-size:1em;">Author / Playwright Interviews</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n26">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="verbatimtheatre.aspx" style="border-style:none;font-size:1em;">Verbatim Theatre: interviews</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n27">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="essays-speeches-online.aspx" style="border-style:none;font-size:1em;">Speeches Online: transcripts</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n28">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="external-links.aspx" style="border-style:none;font-size:1em;">Links</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6 ctl00_placeholderMainMenu_DropDown_ctl00_0" id="ctl00_placeholderMainMenu_DropDown_ctl00n4ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=jkubv-ey3nMce-SOU3rdRB--BREVnljfnHb4Z9qlyNk0ltTPhng3NFvYzUiRp_UIDCkWMtI9mrUjO3i8uFdnM-Ow_rboRa2HTqBINxxjZNc1&amp;t=634682757645741250" alt="Scroll up" />
+			</div><div class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6 ctl00_placeholderMainMenu_DropDown_ctl00_0" id="ctl00_placeholderMainMenu_DropDown_ctl00n4ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=IcuemBuNnMVDrqBPrxTlyxteI4AwC0oYTa4I6vrRX60ojMwnygYJ6NSentkHUCK1oyaGk47CfIWoRP9Ja9SAaRfOA5VKBKkrLv1Vxb5ubBc1&amp;t=634682757645741250" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_placeholderMainMenu_DropDown_ctl00n5Items" class="ctl00_placeholderMainMenu_DropDown_ctl00_0">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n29">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="syllabus.aspx" style="border-style:none;font-size:1em;">Syllabus Texts & Recommendations</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n30">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="teacher-resources.aspx" style="border-style:none;font-size:1em;">Teacher Resources</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n31">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="online-study-guides.aspx" style="border-style:none;font-size:1em;">Study Guides and Critical Essays</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6 ctl00_placeholderMainMenu_DropDown_ctl00_0" id="ctl00_placeholderMainMenu_DropDown_ctl00n5ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=jkubv-ey3nMce-SOU3rdRB--BREVnljfnHb4Z9qlyNk0ltTPhng3NFvYzUiRp_UIDCkWMtI9mrUjO3i8uFdnM-Ow_rboRa2HTqBINxxjZNc1&amp;t=634682757645741250" alt="Scroll up" />
+			</div><div class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6 ctl00_placeholderMainMenu_DropDown_ctl00_0" id="ctl00_placeholderMainMenu_DropDown_ctl00n5ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=IcuemBuNnMVDrqBPrxTlyxteI4AwC0oYTa4I6vrRX60ojMwnygYJ6NSentkHUCK1oyaGk47CfIWoRP9Ja9SAaRfOA5VKBKkrLv1Vxb5ubBc1&amp;t=634682757645741250" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_placeholderMainMenu_DropDown_ctl00n6Items" class="ctl00_placeholderMainMenu_DropDown_ctl00_0">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n32">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="agencies.aspx" style="border-style:none;font-size:1em;">Our Agencies</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n33">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="distribution-details.aspx" style="border-style:none;font-size:1em;">Suppliers & Stockists</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n34">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="price-list-catalogue.aspx" style="border-style:none;font-size:1em;">Price Lists and Catalogue</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n35">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="teacherorderformsandinspectioncopiesform.aspx" style="border-style:none;font-size:1em;">Inspection Copies</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6 ctl00_placeholderMainMenu_DropDown_ctl00_0" id="ctl00_placeholderMainMenu_DropDown_ctl00n6ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=jkubv-ey3nMce-SOU3rdRB--BREVnljfnHb4Z9qlyNk0ltTPhng3NFvYzUiRp_UIDCkWMtI9mrUjO3i8uFdnM-Ow_rboRa2HTqBINxxjZNc1&amp;t=634682757645741250" alt="Scroll up" />
+			</div><div class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6 ctl00_placeholderMainMenu_DropDown_ctl00_0" id="ctl00_placeholderMainMenu_DropDown_ctl00n6ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=IcuemBuNnMVDrqBPrxTlyxteI4AwC0oYTa4I6vrRX60ojMwnygYJ6NSentkHUCK1oyaGk47CfIWoRP9Ja9SAaRfOA5VKBKkrLv1Vxb5ubBc1&amp;t=634682757645741250" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_placeholderMainMenu_DropDown_ctl00n7Items" class="ctl00_placeholderMainMenu_DropDown_ctl00_0">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n36">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="permissionsoverview.aspx" style="border-style:none;font-size:1em;">Permissions</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n37">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="performancerights.aspx" style="border-style:none;font-size:1em;">Performance Rights</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_placeholderMainMenu_DropDown_ctl00n38">
+					<td><table class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="white-space:nowrap;width:100%;"><a class="ctl00_placeholderMainMenu_DropDown_ctl00_1 menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_5" href="submissionguidelines.aspx" style="border-style:none;font-size:1em;">Publication of your play / manuscript</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6 ctl00_placeholderMainMenu_DropDown_ctl00_0" id="ctl00_placeholderMainMenu_DropDown_ctl00n7ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=jkubv-ey3nMce-SOU3rdRB--BREVnljfnHb4Z9qlyNk0ltTPhng3NFvYzUiRp_UIDCkWMtI9mrUjO3i8uFdnM-Ow_rboRa2HTqBINxxjZNc1&amp;t=634682757645741250" alt="Scroll up" />
+			</div><div class="menuitem_dynamic ctl00_placeholderMainMenu_DropDown_ctl00_6 ctl00_placeholderMainMenu_DropDown_ctl00_0" id="ctl00_placeholderMainMenu_DropDown_ctl00n7ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=IcuemBuNnMVDrqBPrxTlyxteI4AwC0oYTa4I6vrRX60ojMwnygYJ6NSentkHUCK1oyaGk47CfIWoRP9Ja9SAaRfOA5VKBKkrLv1Vxb5ubBc1&amp;t=634682757645741250" alt="Scroll down" />
+			</div>
+		</div></td>
+	</tr>
+</table><a id="ctl00_placeholderMainMenu_DropDown_ctl00_SkipLink"></a></div>
+        </div>
+    </div>
+    <div id="vignette" class="contain" style="clear:both">
+        <img src="images/vignette2.gif" alt="The performing arts publisher" border="0" style="margin-top:6px;" />
+    </div>
+
+    <div class="contain">
+	    <div id="rightCol">
+            <div class="rightCol">
+	            <h1 style="padding:0px 0 10px 0;">Search</h1>
+                <div class="floatRight">quick | <a href="advanced-search.aspx" title="Advanced book and play search">advanced</a></div>
+	            <p style="margin:0 0 5px 0;">
+                
+    <div id="ctl00_placeholderSearch_panelSearchProduct" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_placeholderSearch_btnSearch&#39;)">
+	 
+        <div class="boxSearch">
+            <input name="ctl00$placeholderSearch$txtSearch" type="text" id="ctl00_placeholderSearch_txtSearch" class="txtSearch" onFocus="document.getElementById(&#39;ctl00_placeholderSearch_btnSearch&#39;).disabled=false;document.getElementById(&#39;ctl00_placeholderSearch_btnSearch&#39;).value=&#39;Search&#39;;" style="width:114px;" />
+            <input type="button" name="ctl00$placeholderSearch$btnSearch" value="GO" onclick="this.value=&#39;Searching..&#39;;this.disabled=true;WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$placeholderSearch$btnSearch&quot;, &quot;&quot;, true, &quot;SearchProduct&quot;, &quot;&quot;, false, true))" id="ctl00_placeholderSearch_btnSearch" class="btnSearch" />
+            <span id="ctl00_placeholderSearch_rfv11" style="color:Red;visibility:hidden;">*</span>
+        </div>
+    
+</div>
+</p>
+                <div id="login">
+            
+            <a id="ctl00_placeholderLogin_logoutView_lnkRegister" class="register" href="registration.aspx?ReturnUrl=/">&ndash;Register</a><br />
+            <a id="ctl00_placeholderLogin_logoutView_lnkLogin" class="login" href="login.aspx?ReturnUrl=/">&ndash;Login</a>
+        
+    <br /> 
+</div>
+	            <h1 style="padding:30px 0 10px 0;">My Cart</h1>
+                
+    <div id="ctl00_placeholderMyCart_panelMyCartSummary">
+	Items : 0<br />Sub total : $0.00<p style="margin-bottom:0px"><a href="shoppingcart.aspx">View Cart&nbsp;</a><br /><a href="postage.aspx">Shipping Policy</a></p>
+</div>
+
+                
+                
+    <div id="ctl00_placeholderRight_panelRight">
+	
+<p>&nbsp;</p>
+</div>
+<div class="fb-like-box" style="margin-top:20px;" data-href="http://www.facebook.com/currencypress" data-width="186" data-send="true" data-layout="button_count" data-height="90" data-show-faces="false" data-stream="false" data-header="false"></div><a href="https://twitter.com/CurrencyPress" class="twitter-follow-button" data-size="small" data-width="" data-show-count="true" data-lang="en">Follow @CurrencyPress</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                <div id="ctl00_placeholderRightBottom_ctl00_panelEventsPublic">
+	
+<table cellpadding="0" cellspacing="0" class="boxEvents">
+<tr>
+<td class="boxHeaderEvents">
+    
+</td>
+</tr>
+<tr>
+<td class="boxListEvents">
+    
+    <div>
+
+	</div>
+</td>
+</tr>
+
+</table>
+
+</div>
+
+            </div>
+            <div class="rightCol" style="display:none;">
+                            
+                
+            </div>         
+	    </div>
+	    
+        
+        
+	    <div id="container">
+	    
+            <div id="features" style="margin-top:10px;">
+            <ul id="banners">
+            
+                <li>
+                <a href="http://www.currency.com.au/notinprint.aspx" title="Not in Print podcast | Currency’s own Toby Leon and Erin Dewar have teamed up to produce this unparalleled interview series. They are sitting down with respected playwrights to uncover answers behind their work." style="background-image:url('/resources/1/CP_banner_not in print.jpg');">&nbsp;</a>
+                </li>
+            
+                <li>
+                <a href="https://itunes.apple.com/au/app/summer-seventeenth-doll/id608111717?mt=8" title="Summer of the Seventeenth Doll iPad app | " style="background-image:url('/resources/1/CP_banner_sot17d app.jpg');">&nbsp;</a>
+                </li>
+            
+                <li>
+                <a href="http://www.currency.com.au/newandrecentreleases.aspx" title="Recent Releases | New/recent titles from Currency Press, the performing arts publisher - Australian play scripts, screenplays, study guides, plus critical and reference works." style="background-image:url('/resources/1/CP_banner_recent - small.jpg');">&nbsp;</a>
+                </li>
+            
+                <li>
+                <a href="http://www.currency.com.au/verbatimtheatre.aspx" title="Verbatim Theatre | Currency Press verbatim theatre page. What is verbatim theatre? Who are some notable Australian practitioners - directors, actors, playwrights, set designers? Read interviews with them here." style="background-image:url('/resources/1/CP_banner_Verbatim - small.jpg');">&nbsp;</a>
+                </li>
+            
+                <li>
+                <a href="http://www.currency.com.au/online-study-guides.aspx" title="Study Guides | Currency Press Study Guides and critical essays on a range of Australian plays. Insights for teachers, students, actors, directors and playwrights." style="background-image:url('/resources/1/CP_banner_study - small.jpg');">&nbsp;</a>
+                </li>
+            
+                <li>
+                <a href="http://www.currency.com.au/enewsletter.aspx" title="eNews | Sign up for the enewsletter from Currency Press, the performing arts publisher - Australian play scripts, screenplays, study guides, plus critical and reference works." style="background-image:url('/resources/1/CP_banner_enews - small.jpg');">&nbsp;</a>
+                </li>
+            
+            </ul>
+            </div>
+
+            <div id="ctl00_panHome">
+	
+		    <h1 style="margin:0; padding:20px 0 0 0;">New Releases</h1>
+		    
+
+        
+    
+    <!-- SHOULD ALWAYS VISIBLE -->    
+    <script language="javascript" type="text/javascript">
+    <!--
+    document.getElementsByTagName('form')[0].action="";//For Login (url rewriting) 
+    function windowOpen(url,width,height)
+	    {
+	    window.open(url,"","width="+width+"px,height="+height+"px;toolbar=no,menubar=no,location=no,directories=no,status=yes")
+	    }
+    // -->
+    </script>
+
+    <!-- For Image Gallery -->
+    <input type="hidden" name="ctl00$placeholderTitle$hidCurrPage" id="ctl00_placeholderTitle_hidCurrPage" value="1" />               
+    <input type="hidden" name="ctl00$placeholderTitle$hidFileToDel" id="ctl00_placeholderTitle_hidFileToDel" />
+    <input type="submit" name="ctl00$placeholderTitle$btnShowImages" value="Show Images" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$placeholderTitle$btnShowImages&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_placeholderTitle_btnShowImages" style="display:none" />
+    <input type="submit" name="ctl00$placeholderTitle$btnDelImageFile" value="Delete" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$placeholderTitle$btnDelImageFile&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_placeholderTitle_btnDelImageFile" style="display:none" />
+    <!-- /SHOULD ALWAYS VISIBLE -->
+
+                <div id="newReleases"><ul id="nrBooks">
+                    <li>
+                        <div class="image">
+                            <a href="/product_detail.aspx?productid=2883"><img src="systems/image_thumbnail2.aspx?fixw=Y&size=150&file=../resources/products/9781925005042.jpg" class="ImgFrame" align="left" border="0" width="150" height="242" alt="Once in David's Royal City " /><h3>Once in David's Royal City <br />Michael Gow</h3></a>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <div class="image">
+                            <a href="/product_detail.aspx?productid=2787"><img src="systems/image_thumbnail2.aspx?fixw=Y&size=150&file=../resources/products/9781925005004.jpg" class="ImgFrame" align="left" border="0" width="150" height="242" alt="Secret River, The" /><h3>Secret River, The<br />Kate Grenville (adapted by Andrew Bovell)</h3></a>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <div class="image">
+                            <a href="/product_detail.aspx?productid=2788"><img src="systems/image_thumbnail2.aspx?fixw=Y&size=150&file=../resources/products/9780868199832.jpg" class="ImgFrame" align="left" border="0" width="150" height="242" alt="Staging Asylum" /><h3>Staging Asylum<br />Edited by Emma Cox</h3></a>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <div class="image">
+                            <a href="/product_detail.aspx?productid=2811"><img src="systems/image_thumbnail2.aspx?fixw=Y&size=150&file=../resources/products/9780868199870.jpg" class="ImgFrame" align="left" border="0" width="150" height="242" alt="Kelly" /><h3>Kelly<br />Matthew Ryan</h3></a>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <div class="image">
+                            <a href="/product_detail.aspx?productid=2742"><img src="systems/image_thumbnail2.aspx?fixw=Y&size=150&file=../resources/products/9780868199849.jpg" class="ImgFrame" align="left" border="0" width="150" height="242" alt="Cyberbile / Grounded" /><h3>Cyberbile / Grounded<br />Alana Valentine</h3></a>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <div class="image">
+                            <a href="/product_detail.aspx?productid=2707"><img src="systems/image_thumbnail2.aspx?fixw=Y&size=150&file=../resources/products/9780868199702.jpg" class="ImgFrame" align="left" border="0" width="150" height="242" alt="Transparency" /><h3>Transparency<br />Suzie Miller</h3></a>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <div class="image">
+                            <a href="/product_detail.aspx?productid=2711"><img src="systems/image_thumbnail2.aspx?fixw=Y&size=150&file=../resources/products/9780868199757.jpg" class="ImgFrame" align="left" border="0" width="150" height="242" alt="Back of Beyond, The" /><h3>Back of Beyond, The<br />Sylvia Lawson</h3></a>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <div class="image">
+                            <a href="/product_detail.aspx?productid=2890"><img src="systems/image_thumbnail2.aspx?fixw=Y&size=150&file=../resources/products/9781925005059.jpg" class="ImgFrame" align="left" border="0" width="150" height="242" alt="Jump for Jordan" /><h3>Jump for Jordan<br />Donna Abela</h3></a>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <div class="image">
+                            <a href="/product_detail.aspx?productid=2885"><img src="systems/image_thumbnail2.aspx?fixw=Y&size=150&file=../resources/products/9781925005073.jpg" class="ImgFrame" align="left" border="0" width="150" height="242" alt="Voices Project 2014, The " /><h3>Voices Project 2014, The <br />Jake Brain et al. </h3></a>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <div class="image">
+                            <a href="/product_detail.aspx?productid=2859"><img src="systems/image_thumbnail2.aspx?fixw=Y&size=150&file=../resources/products/9781925005035.jpg" class="ImgFrame" align="left" border="0" width="150" height="242" alt="Triptych" /><h3>Triptych<br />Olivia Hewson/Jessica Bellamy/Lachlan Philpott</h3></a>
+                        </div>
+                    </li>
+                
+                    <li>
+                        <div class="image">
+                            <a href="/product_detail.aspx?productid=2809"><img src="systems/image_thumbnail2.aspx?fixw=Y&size=150&file=../resources/products/9781925005011.jpg" class="ImgFrame" align="left" border="0" width="150" height="242" alt="Rupert" /><h3>Rupert<br />David Williamson</h3></a>
+                        </div>
+                    </li>
+                </ul></div>
+            
+</div>
+                      
+		    
+		    <div id="content">
+		        <div class="homeContainer">
+                    
+                </div>
+		        <!-- These placeholders are not used in this template, just set visible=false -->
+                    
+                     
+                      
+                
+                    
+                
+                
+                
+                
+                
+                
+                
+                
+		    </div>
+		    
+		    <div id="footer">
+                <span class="bottommenu"><a  href="sitemap.aspx" class="bottommenu">Site Map</a>&nbsp;|&nbsp;<a  href="disclaimer.aspx" class="bottommenu">Disclaimer</a>&nbsp;|&nbsp;<a  href="privacy-statement.aspx" class="bottommenu">Privacy Statement</a>&nbsp;|&nbsp;<a  href="advanced-search.aspx" class="bottommenu">Advanced Search</a></span>	
+                <div class="copyright" style="margin-bottom:200px">&copy; 2007 - 2014, Currency Press, All Right Reserved.</div>
+            </div>
+	    </div>
+    </div>
+
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_placeholderSearch_rfv11"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_placeholderSearch_rfv11 = document.all ? document.all["ctl00_placeholderSearch_rfv11"] : document.getElementById("ctl00_placeholderSearch_rfv11");
+ctl00_placeholderSearch_rfv11.controltovalidate = "ctl00_placeholderSearch_txtSearch";
+ctl00_placeholderSearch_rfv11.errormessage = "*";
+ctl00_placeholderSearch_rfv11.validationGroup = "SearchProduct";
+ctl00_placeholderSearch_rfv11.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_placeholderSearch_rfv11.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_placeholderMainMenu_DropDown_ctl00_Data = new Object();
+ctl00_placeholderMainMenu_DropDown_ctl00_Data.disappearAfter = 500;
+ctl00_placeholderMainMenu_DropDown_ctl00_Data.horizontalOffset = 0;
+ctl00_placeholderMainMenu_DropDown_ctl00_Data.verticalOffset = 0;
+ctl00_placeholderMainMenu_DropDown_ctl00_Data.hoverClass = 'ctl00_placeholderMainMenu_DropDown_ctl00_10';
+ctl00_placeholderMainMenu_DropDown_ctl00_Data.hoverHyperLinkClass = 'ctl00_placeholderMainMenu_DropDown_ctl00_9';
+ctl00_placeholderMainMenu_DropDown_ctl00_Data.staticHoverClass = 'ctl00_placeholderMainMenu_DropDown_ctl00_8';
+ctl00_placeholderMainMenu_DropDown_ctl00_Data.staticHoverHyperLinkClass = 'ctl00_placeholderMainMenu_DropDown_ctl00_7';
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+</form>
+<script type="text/javascript">
+    $(function () {
+        $('#banners').bxSlider({
+            auto: true,
+            pause: 5000,
+            pager: true
+        });
+        $('#nrBooks').bxSlider({
+            auto: false,
+            displaySlideQty: 4,
+            moveSlideQty: 4,
+            pager: true
+        });
+        $('#ctl00_placeholderMainMenu_DropDown_ctl00n0').hide();
+        $("h3").wrapInner("<span>")
+        $("h3 br").before("<span class='spacer'>").after("<span class='spacer'>");
+    });	
+</script>  
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

@@ -1,0 +1,2225 @@
+====================<http://www.netlib.org/utk/lsi/pcwLSI/text/>====================
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!Converted with LaTeX2HTML 0.7a2 (Fri Dec 2 1994) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds >
+<HEAD>
+<TITLE>Parallel Computing Works</TITLE>
+</HEAD>
+<BODY>
+<meta name="description" value="Parallel Computing Works">
+<meta name="keywords" value="BOOK">
+<meta name="resource-type" value="document">
+<meta name="distribution" value="global">
+<P>
+ <BR> <HR><A NAME=tex2html1392 HREF="node1.html"><IMG ALIGN=BOTTOM ALT="next" SRC="next_motif.gif"></A> <IMG ALIGN=BOTTOM ALT="up" SRC="up_motif_gr.gif"> <IMG ALIGN=BOTTOM ALT="previous" SRC="previous_motif_gr.gif"> <A NAME=tex2html1394 HREF="node1.html"><IMG ALIGN=BOTTOM ALT="contents" SRC="contents_motif.gif"></A> <A NAME=tex2html1395 HREF="node484.html"><IMG ALIGN=BOTTOM ALT="index" SRC="index_motif.gif"></A> <BR>
+<B> Next:</B> <A NAME=tex2html1393 HREF="node1.html">Contents</A>
+<BR> <HR> <P>
+<P>
+<H1>Parallel Computing Works</H1>
+
+This book describes work done at the Caltech Concurrent Computation Program
+, Pasadena, Califonia. This project ended in 1990 but the work has been
+updated in key areas until early 1994. The book also contains links to some
+current projects.
+<P>
+
+<li>
+<a href="http://www.npac.syr.edu/users/gcf/homepage/"> Geoffrey C. Fox </a>
+<li>
+<a href="http://www.ccsf.caltech.edu/~roy/"> Roy D. Williams </a>
+<li>
+<a href="http://www.ccsf.caltech.edu/~messina/"> Paul C. Messina </a>
+
+<P><STRONG>ISBN 1-55860-253-4 <a href="http://market.net/literary/mkp/pages/2534/index.html">Morgan Kaufmann Publishers</a>, Inc. 1994
+</STRONG>
+ 
+<a href="ordering_info.html"> ordering information </a>
+ 
+<p>
+<BR> <HR> <P>
+<P>
+<!DOCTYPE HTML PUBLIC "+//ISBN 82-7640-037::WWW//DTD HTML//EN//2.0" "html.dtd"
+>
+<HTML><HEAD><TITLE>What is Contained in Parallel Computing Works?</TITLE></HEAD>
+<BODY><H1>What is Contained in Parallel Computing Works?</H1><HR><P>We
+briefly describe the contents of this book</P><H2>Applications</H2><P>The
+heart of this work is a set of applications largely developed at Caltech
+from 1985-1990 by the Caltech Concurrent Computation Group. These are
+linked to a set of tables and Glossaries</P><UL>
+<LI><A HREF="http://www.npac.syr.edu/hpfa/paradigms.html">Application Paradigms in High Performance Fortran</A></LI>
+<LI><A HREF="http://www.npac.syr.edu/hpfa/applications.html">Algorithms and Applications in High Performance
+Fortran</A></LI>
+<LI><A HREF="http://www.npac.syr.edu/roadmap/petaflops/peta.html">Petaflop Application Categories</A>  developed at a <A
+HREF="http://www.npac.syr.edu/roadmap/petaflops/peta.html">workshop.
+</LI>
+<LI><A HREF="http://www.npac.syr.edu/roadmap/table.html">A table developed by Fox in 1991-1993 to categorize
+New York State Industrial Applications of HPCC</A></LI></UL><P>Applications
+are <A HREF="node21.html">classified </A>into 5 problem classes:</P><DL>
+<DT><A HREF="node30.html">Synchronous Applications</A>, more in <A
+HREF="node87.html">I</A> and <A HREF="node149.html">II</A></DT>
+<DD>Such applications tend to be regular and characterised by
+algorithms employing simultaneous identical updates to a set of points,
+more in <A
+HREF="node87.html">I</A> and <A HREF="node.html">II</A></DD>
+<DT><A HREF="node174.html">Loosely Synchronous Applications</A></DT>
+<DD>Such applications are iterative or time-stepped but unlike the
+synchronous case, employ different evolution(update) procedures which
+synchronize macroscopically, , more in <A
+HREF="node232.html">I</A> , <A HREF="node247.html">II</A> and <A HREF="node265.html">III</A></DD>
+<DT><A HREF="node131.html">Embarrassingly Parallel Applications</A></DT>
+<DD>Such applications can employ complex algorithms but can be
+parallelized because the evolution of different points is largely
+independent</DD>
+<DT><A HREF="node247.html">Asynchronous Problems</A></DT>
+<DD>These are hard to parallelize problems with no natural algorithmic
+synchronization between the evolution of linked irregular data points, more
+in <A HREF="node334.html">I</A></DD>
+<DT><A HREF="node441.html">Metaproblems</A></DT>
+<DD>Such problems are hybrid integration of several subproblems of the
+other four basic application classes</DD></DL><HR><H2>Overview</H2><P>This
+collection of over 40 succesful parallel applications is woven into a
+discussion of other key features of HPCC</P><UL>
+<LI><A HREF="H">History of Parallel Computing</A> as in pertained to
+work at Caltech</LI>
+<LI><A HREF="http://www.npac.syr.edu/nse/hpccsurvey/index.html">A survey of the evolution of
+parallel machines</A></LI>
+<LI><A HREF="CSEP Book Computer Architecture Chapter">Computer
+Architecture</A> is not discussed in Parallel Computing Works</LI>
+<LI><A HREF="http://www.npac.syr.edu/roadmap/education.html">Education</A> was an interesting feature of the
+Caltech work as it showed the relevance of interdisciplinary education
+of the type now called computational science</LI>
+<LI>Software Systems and Approachs described later</LI>
+<LI>Algorithmic Technologies described later</LI></UL><HR><H3>Software
+Systems and Tools
+</H3><P></P><UL>
+<LI><A HREF="OS">Operating Systems</A></LI>
+<LI><A HREF="http://www.npac.syr.edu/pub/by_module/presentations/fox/1993/93QQ-ProgramParadigm/index.html">
+Parallel Computing Programming Paradigms</A></LI>
+<LI><A HREF="MP">Message Passing Software</A> and its use in <A HREF="MPappl"
+>applications</A></LI>
+<LI><A HREF="DP">Data Parallel Programmimg</A> model. This approach
+advanced rapidly in the last 5 years and Parallel Computing Works has
+been kept uptodate in areas such as <A HREF="http://www.npac.syr.edu/hpfa/">High
+Performance Fortran</A> and <A HREF="http://www.erc.msstate.edu/hpff/home.html">High
+Performance Fortran Forum</LI>
+<LI><A HREF="SM">Shared Memory Programming Model</A></LI>
+<LI><A HREF="CM">Cache Management on sequential machines</A> and its
+relation to parallel computing where both cache and parallelism demand
+data locality.</LI>
+<LI><A HREF="ST">Software Tools</A> is an important area but covered
+incompletely in Parallel Computing works</LI>
+<LI><A HREF="node334.html">Asynchronous Software</A> i.e. what is needed for
+asynchronous problems including<A HREF="EDS">Event Driven Simulations</A></LI>
+<LI><A HREF="METAS">Metasoftware</A> which integrates the components
+of metaproblems</LI></UL>
+<HR><H3>Algorithmic Technologies</H3><P>Major topics include:</P><UL>
+<LI><A HREF="http://www.npac.syr.edu/hpfa/algorithms/DENSE.html">Full Matrix Algorithms</A></LI>
+<LI>The harder <A HREF="http://www.npac.syr.edu/hpfa/algorithms/SPARSE.html">Sparse matrix algorithms</A></LI>
+<LI><A HREF="node247.html">Load Balancing</A> or automatic data decomposition</LI>
+<LI><A HREF="">Grid Generation</A> for partial differential
+equations</LI>
+<LI><A HREF="O">Optimization</A></LI>
+<LI><A HREF="SA">Simulated Annealing</A></LI>
+<LI><A HREF="http://www.npac.syr.edu/hpfa/paradigms/searching.html">Sorting</A></LI>
+<LI><A HREF="BB">Branch and Bound</A></LI></UL></BODY></HTML>
+<BR> <HR>
+<UL> 
+<LI> <A NAME=tex2html1396 HREF="node1.html#SECTION00100000000000000000">Contents</A>
+<LI> <A NAME=tex2html1397 HREF="node2.html#SECTION00200000000000000000"> Foreword</A>
+<LI> <A NAME=tex2html1398 HREF="node3.html#SECTION00300000000000000000">1 Introduction</A>
+<UL> 
+<LI> <A NAME=tex2html1399 HREF="node4.html#SECTION00310000000000000000">1.1 Introduction</A>
+<LI> <A NAME=tex2html1400 HREF="node5.html#SECTION00320000000000000000">1.2 The National Vision 
+for ParallelComputation</A>
+<LI> <A NAME=tex2html1401 HREF="node6.html#SECTION00330000000000000000">1.3 Caltech Concurrent Computation Program</A>
+<LI> <A NAME=tex2html1402 HREF="node7.html#SECTION00340000000000000000">1.4 How Parallel Computing Works</A>
+</UL> 
+<LI> <A NAME=tex2html1403 HREF="node8.html#SECTION00400000000000000000">2 Technical Backdrop</A>
+<UL> 
+<LI> <A NAME=tex2html1404 HREF="node9.html#SECTION00410000000000000000">2.1 Introduction</A>
+<LI> <A NAME=tex2html1405 HREF="node10.html#SECTION00420000000000000000">2.2 Hardware Trends</A>
+<UL> 
+<LI> <A NAME=tex2html1406 HREF="node11.html#SECTION00421000000000000000">2.2.1 Parallel Scientific Computers Before 1980</A>
+<LI> <A NAME=tex2html1407 HREF="node12.html#SECTION00422000000000000000">2.2.2 Early 1980s</A>
+<LI> <A NAME=tex2html1408 HREF="node13.html#SECTION00423000000000000000">2.2.3 Birth of the Hypercube</A>
+<LI> <A NAME=tex2html1409 HREF="node14.html#SECTION00424000000000000000">2.2.4 Mid-1980s</A>
+<LI> <A NAME=tex2html1410 HREF="node15.html#SECTION00425000000000000000">2.2.5 Late 1980s</A>
+<LI> <A NAME=tex2html1411 HREF="node16.html#SECTION00426000000000000000">2.2.6 Parallel Systems-1992</A>
+</UL> 
+<LI> <A NAME=tex2html1412 HREF="node17.html#SECTION00430000000000000000">2.3 Software</A>
+<UL> 
+<LI> <A NAME=tex2html1413 HREF="node18.html#SECTION00431000000000000000">2.3.1 Languages and Compilers</A>
+<LI> <A NAME=tex2html1414 HREF="node19.html#SECTION00432000000000000000">2.3.2 Tools</A>
+</UL> 
+<LI> <A NAME=tex2html1415 HREF="node20.html#SECTION00440000000000000000">2.4 Summary</A>
+</UL> 
+<LI> <A NAME=tex2html1416 HREF="node21.html#SECTION00500000000000000000">3 A Methodology for Computation</A>
+<UL> 
+<LI> <A NAME=tex2html1417 HREF="node22.html#SECTION00510000000000000000">3.1 Introduction</A>
+<LI> <A NAME=tex2html1418 HREF="node23.html#SECTION00520000000000000000">3.2 The Process of Computation and ComplexSystems</A>
+<LI> <A NAME=tex2html1419 HREF="node24.html#SECTION00530000000000000000">3.3 Examples of Complex 
+Systems and TheirSpace-Time Structure</A>
+<LI> <A NAME=tex2html1420 HREF="node25.html#SECTION00540000000000000000">3.4 The Temporal Properties 
+of ComplexSystems</A>
+<LI> <A NAME=tex2html1421 HREF="node26.html#SECTION00550000000000000000">3.5 Spatial Properties of Complex Systems</A>
+<LI> <A NAME=tex2html1422 HREF="node27.html#SECTION00560000000000000000">3.6 Compound Complex Systems</A>
+<LI> <A NAME=tex2html1423 HREF="node28.html#SECTION00570000000000000000">3.7 Mapping Complex Systems</A>
+<LI> <A NAME=tex2html1424 HREF="node29.html#SECTION00580000000000000000">3.8 Parallel Computing Works?</A>
+</UL> 
+<LI> <A NAME=tex2html1425 HREF="node30.html#SECTION00600000000000000000">4 Synchronous Applications I</A>
+<UL> 
+<LI> <A NAME=tex2html1426 HREF="node31.html#SECTION00610000000000000000">4.1 QCD and the Beginning of CP</A>
+<LI> <A NAME=tex2html1427 HREF="node32.html#SECTION00620000000000000000">4.2 Synchronous Applications</A>
+<LI> <A NAME=tex2html1428 HREF="node33.html#SECTION00630000000000000000">4.3 Quantum Chromodynamics</A>
+<UL> 
+<LI> <A NAME=tex2html1429 HREF="node34.html#SECTION00631000000000000000">4.3.1 Introduction</A>
+<LI> <A NAME=tex2html1430 HREF="node35.html#SECTION00632000000000000000">4.3.2 Monte Carlo</A>
+<LI> <A NAME=tex2html1431 HREF="node36.html#SECTION00633000000000000000">4.3.3 QCD</A>
+<LI> <A NAME=tex2html1432 HREF="node37.html#SECTION00634000000000000000">4.3.4 Lattice QCD</A>
+<LI> <A NAME=tex2html1433 HREF="node38.html#SECTION00635000000000000000">4.3.5 Concurrent QCD Machines</A>
+<LI> <A NAME=tex2html1434 HREF="node39.html#SECTION00636000000000000000">4.3.6 QCD on the Caltech Hypercubes</A>
+<LI> <A NAME=tex2html1435 HREF="node40.html#SECTION00637000000000000000">4.3.7 QCD on the Connection Machine</A>
+<LI> <A NAME=tex2html1436 HREF="node41.html#SECTION00638000000000000000">4.3.8 Status and Prospects</A>
+</UL> 
+<LI> <A NAME=tex2html1437 HREF="node42.html#SECTION00640000000000000000">4.4 Spin Models</A>
+<UL> 
+<LI> <A NAME=tex2html1438 HREF="node43.html#SECTION00641000000000000000">4.4.1 Introduction</A>
+<LI> <A NAME=tex2html1439 HREF="node44.html#SECTION00642000000000000000">4.4.2 Ising Model</A>
+<LI> <A NAME=tex2html1440 HREF="node45.html#SECTION00643000000000000000">4.4.3 Potts Model</A>
+<LI> <A NAME=tex2html1441 HREF="node46.html#SECTION00644000000000000000">4.4.4 XY Model</A>
+<LI> <A NAME=tex2html1442 HREF="node47.html#SECTION00645000000000000000">4.4.5 O(3) Model</A>
+</UL> 
+<LI> <A NAME=tex2html1443 HREF="node48.html#SECTION00650000000000000000">4.5 An Automata Model of Granular Materials</A>
+<UL> 
+<LI> <A NAME=tex2html1444 HREF="node49.html#SECTION00651000000000000000">4.5.1 Introduction</A>
+<LI> <A NAME=tex2html1445 HREF="node50.html#SECTION00652000000000000000">4.5.2 Comparison to Particle Dynamics Models</A>
+<LI> <A NAME=tex2html1446 HREF="node51.html#SECTION00653000000000000000">4.5.3 Comparison to Lattice Gas Models</A>
+<LI> <A NAME=tex2html1447 HREF="node52.html#SECTION00654000000000000000">4.5.4 The Rules for the Lattice Grain Model</A>
+<LI> <A NAME=tex2html1448 HREF="node53.html#SECTION00655000000000000000">4.5.5 Implementation on a Parallel Computer</A>
+<LI> <A NAME=tex2html1449 HREF="node54.html#SECTION00656000000000000000">4.5.6 Simulations</A>
+<LI> <A NAME=tex2html1450 HREF="node55.html#SECTION00657000000000000000">4.5.7 Conclusion</A>
+</UL> 
+</UL> 
+<LI> <A NAME=tex2html1451 HREF="node56.html#SECTION00700000000000000000">5 Express and CrOS - Loosely Synchronous Message 
+Passing</A>
+<UL> 
+<LI> <A NAME=tex2html1452 HREF="node57.html#SECTION00710000000000000000">5.1 Multicomputer Operating Systems</A>
+<LI> <A NAME=tex2html1453 HREF="node58.html#SECTION00720000000000000000">5.2 A ``Packet'' 
+History of Message-passingSystems</A>
+<UL> 
+<LI> <A NAME=tex2html1454 HREF="node59.html#SECTION00721000000000000000">5.2.1 Prehistory</A>
+<LI> <A NAME=tex2html1455 HREF="node60.html#SECTION00722000000000000000">5.2.2 Application-driven Development</A>
+<LI> <A NAME=tex2html1456 HREF="node61.html#SECTION00723000000000000000">5.2.3 Collective Communication</A>
+<LI> <A NAME=tex2html1457 HREF="node62.html#SECTION00724000000000000000">5.2.4 Automated Decomposition-whoami</A>
+<LI> <A NAME=tex2html1458 HREF="node63.html#SECTION00725000000000000000">5.2.5 ``Melting''-a Non-crystalline Problem</A>
+<LI> <A NAME=tex2html1459 HREF="node64.html#SECTION00726000000000000000">5.2.6 The Mark III</A>
+<LI> <A NAME=tex2html1460 HREF="node65.html#SECTION00727000000000000000">5.2.7 Host Programs</A>
+<LI> <A NAME=tex2html1461 HREF="node66.html#SECTION00728000000000000000">5.2.8 A Ray Tracer-and an ``Operating System''</A>
+<LI> <A NAME=tex2html1462 HREF="node67.html#SECTION00729000000000000000">5.2.9 The Crystal Router</A>
+<LI> <A NAME=tex2html1463 HREF="node68.html#SECTION007210000000000000000">5.2.10 Portability</A>
+<LI> <A NAME=tex2html1464 HREF="node69.html#SECTION007211000000000000000">5.2.11 Express</A>
+<LI> <A NAME=tex2html1465 HREF="node70.html#SECTION007212000000000000000">5.2.12 Other Message-passing Systems</A>
+<LI> <A NAME=tex2html1466 HREF="node71.html#SECTION007213000000000000000">5.2.13 What Did We Learn?</A>
+<LI> <A NAME=tex2html1467 HREF="node72.html#SECTION007214000000000000000">5.2.14 Conclusions</A>
+</UL> 
+<LI> <A NAME=tex2html1468 HREF="node73.html#SECTION00730000000000000000">5.3 Parallel Debugging</A>
+<UL> 
+<LI> <A NAME=tex2html1469 HREF="node74.html#SECTION00731000000000000000">5.3.1 Introduction and History</A>
+<LI> <A NAME=tex2html1470 HREF="node75.html#SECTION00732000000000000000">5.3.2 Designing a Parallel Debugger</A>
+<LI> <A NAME=tex2html1471 HREF="node76.html#SECTION00733000000000000000">5.3.3 Conclusions</A>
+</UL> 
+<LI> <A NAME=tex2html1472 HREF="node77.html#SECTION00740000000000000000">5.4 Parallel Profiling</A>
+<UL> 
+<LI> <A NAME=tex2html1473 HREF="node78.html#SECTION00741000000000000000">5.4.1 Missing a Point</A>
+<LI> <A NAME=tex2html1474 HREF="node79.html#SECTION00742000000000000000">5.4.2 Visualization</A>
+<LI> <A NAME=tex2html1475 HREF="node80.html#SECTION00743000000000000000">5.4.3 Goals in Performance Analysis</A>
+<LI> <A NAME=tex2html1476 HREF="node81.html#SECTION00744000000000000000">5.4.4 Overhead Analysis</A>
+<LI> <A NAME=tex2html1477 HREF="node82.html#SECTION00745000000000000000">5.4.5 Event Tracing</A>
+<LI> <A NAME=tex2html1478 HREF="node83.html#SECTION00746000000000000000">5.4.6 Data Distribution Analysis</A>
+<LI> <A NAME=tex2html1479 HREF="node84.html#SECTION00747000000000000000">5.4.7 CPU Usage Analysis</A>
+<LI> <A NAME=tex2html1480 HREF="node85.html#SECTION00748000000000000000">5.4.8 Why So Many Separate Tools?</A>
+<LI> <A NAME=tex2html1481 HREF="node86.html#SECTION00749000000000000000">5.4.9 Conclusions</A>
+</UL> 
+</UL> 
+<LI> <A NAME=tex2html1482 HREF="node87.html#SECTION00800000000000000000">6 Synchronous Applications II</A>
+<UL> 
+<LI> <A NAME=tex2html1483 HREF="node88.html#SECTION00810000000000000000">6.1 Computational Issues 
+in SynchronousProblems</A>
+<LI> <A NAME=tex2html1484 HREF="node89.html#SECTION00820000000000000000">6.2 Convectively-Dominated Flows and
+theFlux-Corrected Transport Technique</A>
+<UL> 
+<LI> <A NAME=tex2html1485 HREF="node90.html#SECTION00821000000000000000">6.2.1 An Overview of the FCT Technique</A>
+<LI> <A NAME=tex2html1486 HREF="node91.html#SECTION00822000000000000000">6.2.2 Mathematics and the FCT Algorithm</A>
+<LI> <A NAME=tex2html1487 HREF="node92.html#SECTION00823000000000000000">6.2.3 Parallel Issues</A>
+<LI> <A NAME=tex2html1488 HREF="node93.html#SECTION00824000000000000000">6.2.4 Example Problem</A>
+<LI> <A NAME=tex2html1489 HREF="node94.html#SECTION00825000000000000000">6.2.5 Performance and Results</A>
+<LI> <A NAME=tex2html1490 HREF="node95.html#SECTION00826000000000000000">6.2.6 Summary</A>
+</UL> 
+<LI> <A NAME=tex2html1491 HREF="node96.html#SECTION00830000000000000000">6.3 Magnetism in the High-TemperatureSuperconductor Materials</A>
+<UL> 
+<LI> <A NAME=tex2html1492 HREF="node97.html#SECTION00831000000000000000">6.3.1 Introduction</A>
+<LI> <A NAME=tex2html1493 HREF="node98.html#SECTION00832000000000000000">6.3.2 The Computational Algorithm</A>
+<LI> <A NAME=tex2html1494 HREF="node99.html#SECTION00833000000000000000">6.3.3 Parallel Implementation and Performance</A>
+<LI> <A NAME=tex2html1495 HREF="node100.html#SECTION00834000000000000000">6.3.4 Physics Results</A>
+<LI> <A NAME=tex2html1496 HREF="node101.html#SECTION00835000000000000000">6.3.5 Conclusions</A>
+</UL> 
+<LI> <A NAME=tex2html1497 HREF="node102.html#SECTION00840000000000000000">6.4 Phase Transitions in Two-dimensionalQuantum Spin Systems</A>
+<UL> 
+<LI> <A NAME=tex2html1498 HREF="node103.html#SECTION00841000000000000000">6.4.1 The case of :  Antiferromagnetic Transitions</A>
+<UL> 
+<LI> <A NAME=tex2html1499 HREF="node104.html#SECTION00841100000000000000"> Origin of the Interaction</A>
+<LI> <A NAME=tex2html1500 HREF="node105.html#SECTION00841200000000000000"> Simulation Results</A>
+<LI> <A NAME=tex2html1501 HREF="node106.html#SECTION00841300000000000000"> Theoretical Interpretation</A>
+<LI> <A NAME=tex2html1502 HREF="node107.html#SECTION00841400000000000000"> Comparison with Experiments</A>
+</UL> 
+<LI> <A NAME=tex2html1503 HREF="node108.html#SECTION00842000000000000000">6.4.2 The Case of : Quantum XY Model and 
+theTopological Transition</A>
+<UL> 
+<LI> <A NAME=tex2html1504 HREF="node109.html#SECTION00842100000000000000"> A Brief History</A>
+<LI> <A NAME=tex2html1505 HREF="node110.html#SECTION00842200000000000000"> Evidence for the Transition</A>
+<LI> <A NAME=tex2html1506 HREF="node111.html#SECTION00842300000000000000"> Implications</A>
+</UL> 
+</UL> 
+<LI> <A NAME=tex2html1507 HREF="node112.html#SECTION00850000000000000000">6.5 A Hierarchical Scheme for 
+SurfaceReconstruction and Discontinuity Detection</A>
+<UL> 
+<LI> <A NAME=tex2html1508 HREF="node113.html#SECTION00851000000000000000">6.5.1 Multigrid Method with Discontinuities</A>
+<LI> <A NAME=tex2html1509 HREF="node114.html#SECTION00852000000000000000">6.5.2 Interacting Line Processes</A>
+<LI> <A NAME=tex2html1510 HREF="node115.html#SECTION00853000000000000000">6.5.3 Generic Look-up Table and Specific Parametrization</A>
+<LI> <A NAME=tex2html1511 HREF="node116.html#SECTION00854000000000000000">6.5.4 Pyramid on a Two-Dimensional 
+Mesh of Processors</A>
+<LI> <A NAME=tex2html1512 HREF="node117.html#SECTION00855000000000000000">6.5.5 Results for Orientation Constraints</A>
+<LI> <A NAME=tex2html1513 HREF="node118.html#SECTION00856000000000000000">6.5.6 Results for Depth Constraints</A>
+<LI> <A NAME=tex2html1514 HREF="node119.html#SECTION00857000000000000000">6.5.7 Conclusions</A>
+</UL> 
+<LI> <A NAME=tex2html1515 HREF="node120.html#SECTION00860000000000000000">6.6 Character Recognition by Neural Nets</A>
+<UL> 
+<LI> <A NAME=tex2html1516 HREF="node121.html#SECTION00861000000000000000">6.6.1 MLP in General</A>
+<LI> <A NAME=tex2html1517 HREF="node122.html#SECTION00862000000000000000">6.6.2 Character Recognition using MLP</A>
+<LI> <A NAME=tex2html1518 HREF="node123.html#SECTION00863000000000000000">6.6.3 The Multiscale Technique</A>
+<LI> <A NAME=tex2html1519 HREF="node124.html#SECTION00864000000000000000">6.6.4 Results</A>
+<LI> <A NAME=tex2html1520 HREF="node125.html#SECTION00865000000000000000">6.6.5 Comments and Variants on the Method</A>
+</UL> 
+<LI> <A NAME=tex2html1521 HREF="node126.html#SECTION00870000000000000000">6.7 An Adaptive Multiscale Scheme for 
+Real-Time Motion Field Estimation</A>
+<UL> 
+<LI> <A NAME=tex2html1522 HREF="node127.html#SECTION00871000000000000000">6.7.1 Errors in Computing the Motion Field</A>
+<LI> <A NAME=tex2html1523 HREF="node128.html#SECTION00872000000000000000">6.7.2 Adaptive Multiscale Scheme on a Multicomputer</A>
+<LI> <A NAME=tex2html1524 HREF="node129.html#SECTION00873000000000000000">6.7.3 Conclusions</A>
+</UL> 
+<LI> <A NAME=tex2html1525 HREF="node130.html#SECTION00880000000000000000">6.8 Collective Stereopsis</A>
+</UL> 
+<LI> <A NAME=tex2html1526 HREF="node131.html#SECTION00900000000000000000">7 Independent Parallelism</A>
+<UL> 
+<LI> <A NAME=tex2html1527 HREF="node132.html#SECTION00910000000000000000">7.1 Embarrassingly Parallel Problem Structure</A>
+<LI> <A NAME=tex2html1528 HREF="node133.html#SECTION00920000000000000000">7.2 Dynamically Triangulated Random Surfaces</A>
+<UL> 
+<LI> <A NAME=tex2html1529 HREF="node134.html#SECTION00921000000000000000">7.2.1 Introduction</A>
+<LI> <A NAME=tex2html1530 HREF="node135.html#SECTION00922000000000000000">7.2.2 Discretized Strings</A>
+<LI> <A NAME=tex2html1531 HREF="node136.html#SECTION00923000000000000000">7.2.3 Computational Aspects</A>
+<LI> <A NAME=tex2html1532 HREF="node137.html#SECTION00924000000000000000">7.2.4 Performance of String Program</A>
+<LI> <A NAME=tex2html1533 HREF="node138.html#SECTION00925000000000000000">7.2.5 Conclusion</A>
+</UL> 
+<LI> <A NAME=tex2html1534 HREF="node139.html#SECTION00930000000000000000">7.3 Numerical Study of High-T Spin Systems</A>
+<LI> <A NAME=tex2html1535 HREF="node140.html#SECTION00940000000000000000">7.4 Statistical Gravitational Lensing</A>
+<LI> <A NAME=tex2html1536 HREF="node141.html#SECTION00950000000000000000">7.5 Parallel Random Number Generators</A>
+<LI> <A NAME=tex2html1537 HREF="node142.html#SECTION00960000000000000000">7.6 Parallel Computing in Neurobiology: The GENESIS 
+Project</A>
+<UL> 
+<LI> <A NAME=tex2html1538 HREF="node143.html#SECTION00961000000000000000">7.6.1 What Is Computational Neurobiology?</A>
+<LI> <A NAME=tex2html1539 HREF="node144.html#SECTION00962000000000000000">7.6.2 Parallel Computers?</A>
+<LI> <A NAME=tex2html1540 HREF="node145.html#SECTION00963000000000000000">7.6.3 Problems with Most Present Day Parallel Computers</A>
+<LI> <A NAME=tex2html1541 HREF="node146.html#SECTION00964000000000000000">7.6.4 What is GENESIS?</A>
+<LI> <A NAME=tex2html1542 HREF="node147.html#SECTION00965000000000000000">7.6.5 Task Farming</A>
+<LI> <A NAME=tex2html1543 HREF="node148.html#SECTION00966000000000000000">7.6.6 Distributed Modelling via the Postmaster Element</A>
+</UL> 
+</UL> 
+<LI> <A NAME=tex2html1544 HREF="node149.html#SECTION001000000000000000000">8
+Full Matrix Algorithms and Their 
+Applications</A>
+<UL> 
+<LI> <A NAME=tex2html1545 HREF="node150.html#SECTION001010000000000000000">8.1 Full and Banded Matrix Algorithms</A>
+<UL> 
+<LI> <A NAME=tex2html1546 HREF="node151.html#SECTION001011000000000000000">8.1.1 Matrix Decomposition</A>
+<LI> <A NAME=tex2html1547 HREF="node152.html#SECTION001012000000000000000">8.1.2 Basic Matrix Arithmetic</A>
+<LI> <A NAME=tex2html1548 HREF="node153.html#SECTION001013000000000000000">8.1.3 Matrix Multiplication for Banded Matrices</A>
+<LI> <A NAME=tex2html1549 HREF="node154.html#SECTION001014000000000000000">8.1.4 Systems of Linear Equations</A>
+<LI> <A NAME=tex2html1550 HREF="node155.html#SECTION001015000000000000000">8.1.5 The Gauss-Jordan Method</A>
+<LI> <A NAME=tex2html1551 HREF="node156.html#SECTION001016000000000000000">8.1.6 Other Matrix Algorithms</A>
+<LI> <A NAME=tex2html1552 HREF="node157.html#SECTION001017000000000000000">8.1.7 Concurrent Linear Algebra Libraries</A>
+<LI> <A NAME=tex2html1553 HREF="node158.html#SECTION001018000000000000000">8.1.8 Problem Structure</A>
+<LI> <A NAME=tex2html1554 HREF="node159.html#SECTION001019000000000000000">8.1.9 Conclusions</A>
+</UL> 
+<LI> <A NAME=tex2html1555 HREF="node160.html#SECTION001020000000000000000">8.2 Quantum Mechanical Reactive 
+ScatteringUsing a High-Performance ParallelComputer</A>
+<UL> 
+<LI> <A NAME=tex2html1556 HREF="node161.html#SECTION001021000000000000000">8.2.1 Introduction</A>
+<LI> <A NAME=tex2html1557 HREF="node162.html#SECTION001022000000000000000">8.2.2 Methodology</A>
+<LI> <A NAME=tex2html1558 HREF="node163.html#SECTION001023000000000000000">8.2.3 Parallel Algorithm</A>
+<LI> <A NAME=tex2html1559 HREF="node164.html#SECTION001024000000000000000">8.2.4 Results and Discussion</A>
+</UL> 
+<LI> <A NAME=tex2html1560 HREF="node165.html#SECTION001030000000000000000">8.3 Studies of Electron-Molecule 
+Collisions onDistributed-Memory Parallel Computers</A>
+<UL> 
+<LI> <A NAME=tex2html1561 HREF="node166.html#SECTION001031000000000000000">8.3.1 Introduction</A>
+<LI> <A NAME=tex2html1562 HREF="node167.html#SECTION001032000000000000000">8.3.2 The SMC Method and Its Implementation</A>
+<LI> <A NAME=tex2html1563 HREF="node168.html#SECTION001033000000000000000">8.3.3 Parallel Implementation</A>
+<LI> <A NAME=tex2html1564 HREF="node169.html#SECTION001034000000000000000">8.3.4 Performance</A>
+<UL> 
+<LI> <A NAME=tex2html1565 HREF="node170.html#SECTION001034100000000000000"> Mark IIIfp</A>
+<LI> <A NAME=tex2html1566 HREF="node171.html#SECTION001034200000000000000"> Intel Machines</A>
+</UL> 
+<LI> <A NAME=tex2html1567 HREF="node172.html#SECTION001035000000000000000">8.3.5 Selected Results</A>
+<LI> <A NAME=tex2html1568 HREF="node173.html#SECTION001036000000000000000">8.3.6 Conclusion</A>
+</UL> 
+</UL> 
+<LI> <A NAME=tex2html1569 HREF="node174.html#SECTION001100000000000000000">9 Loosely Synchronous Problems</A>
+<UL> 
+<LI> <A NAME=tex2html1570 HREF="node175.html#SECTION001110000000000000000">9.1 Problem Structure</A>
+<LI> <A NAME=tex2html1571 HREF="node176.html#SECTION001120000000000000000">9.2 Geomorphology by Micromechanical
+Simulations</A>
+<LI> <A NAME=tex2html1572 HREF="node177.html#SECTION001130000000000000000">9.3 Plasma Particle-in-Cell 
+Simulation of anElectron Beam Plasma Instability</A>
+<UL> 
+<LI> <A NAME=tex2html1573 HREF="node178.html#SECTION001131000000000000000">9.3.1 Introduction</A>
+<LI> <A NAME=tex2html1574 HREF="node179.html#SECTION001132000000000000000">9.3.2 GCPIC Algorithm</A>
+<LI> <A NAME=tex2html1575 HREF="node180.html#SECTION001133000000000000000">9.3.3 Electron Beam Plasma Instability</A>
+<LI> <A NAME=tex2html1576 HREF="node181.html#SECTION001134000000000000000">9.3.4 Performance Results for One-DimensionalElectrostatic Code</A>
+<LI> <A NAME=tex2html1577 HREF="node182.html#SECTION001135000000000000000">9.3.5 One-Dimensional Electromagnetic Code </A>
+<LI> <A NAME=tex2html1578 HREF="node183.html#SECTION001136000000000000000">9.3.6 Dynamic Load Balancing</A>
+<LI> <A NAME=tex2html1579 HREF="node184.html#SECTION001137000000000000000">9.3.7 Summary</A>
+</UL> 
+<LI> <A NAME=tex2html1580 HREF="node185.html#SECTION001140000000000000000">9.4 Computational Electromagnetics</A>
+<LI> <A NAME=tex2html1581 HREF="node186.html#SECTION001150000000000000000">9.5 LU Factorization of Sparse, Unsymmetric
+Jacobian Matrices</A>
+<UL> 
+<LI> <A NAME=tex2html1582 HREF="node187.html#SECTION001151000000000000000">9.5.1 Introduction</A>
+<LI> <A NAME=tex2html1583 HREF="node188.html#SECTION001152000000000000000">9.5.2 Design Overview</A>
+<LI> <A NAME=tex2html1584 HREF="node189.html#SECTION001153000000000000000">9.5.3 Reduced-Communication Pivoting</A>
+<LI> <A NAME=tex2html1585 HREF="node190.html#SECTION001154000000000000000">9.5.4 New Data Distributions</A>
+<LI> <A NAME=tex2html1586 HREF="node191.html#SECTION001155000000000000000">9.5.5 Performance Versus Scattering</A>
+<LI> <A NAME=tex2html1587 HREF="node192.html#SECTION001156000000000000000">9.5.6 Performance</A>
+<UL> 
+<LI> <A NAME=tex2html1588 HREF="node193.html#SECTION001156100000000000000"> Order 13040 Example</A>
+<LI> <A NAME=tex2html1589 HREF="node194.html#SECTION001156200000000000000"> Order 2500 Example</A>
+</UL> 
+<LI> <A NAME=tex2html1590 HREF="node195.html#SECTION001157000000000000000">9.5.7 Conclusions</A>
+</UL> 
+<LI> <A NAME=tex2html1591 HREF="node196.html#SECTION001160000000000000000">9.6 Concurrent DASSL Applied to Dynamic
+Distillation Column Simulation</A>
+<UL> 
+<LI> <A NAME=tex2html1592 HREF="node197.html#SECTION001161000000000000000">9.6.1 Introduction</A>
+<LI> <A NAME=tex2html1593 HREF="node198.html#SECTION001162000000000000000">9.6.2 Mathematical Formulation</A>
+<LI> <A NAME=tex2html1594 HREF="node199.html#SECTION001163000000000000000">9.6.3 proto-Cdyn - Simulation Layer</A>
+<UL> 
+<LI> <A NAME=tex2html1595 HREF="node200.html#SECTION001163100000000000000"> Template Structure</A>
+<LI> <A NAME=tex2html1596 HREF="node201.html#SECTION001163200000000000000"> Problem Preformulation</A>
+</UL> 
+<LI> <A NAME=tex2html1597 HREF="node202.html#SECTION001164000000000000000">9.6.4 Concurrent Formulation</A>
+<UL> 
+<LI> <A NAME=tex2html1598 HREF="node203.html#SECTION001164100000000000000"> Overview</A>
+<LI> <A NAME=tex2html1599 HREF="node204.html#SECTION001164200000000000000"> Single Integration Step</A>
+</UL> 
+<LI> <A NAME=tex2html1600 HREF="node212.html#SECTION001165000000000000000">9.6.5 Chemical Engineering Example</A>
+<LI> <A NAME=tex2html1601 HREF="node213.html#SECTION001166000000000000000">9.6.6 Conclusions</A>
+</UL> 
+<LI> <A NAME=tex2html1602 HREF="node214.html#SECTION001170000000000000000">9.7 Adaptive Multigrid</A>
+<UL> 
+<LI> <A NAME=tex2html1603 HREF="node215.html#SECTION001171000000000000000">9.7.1 Introduction</A>
+<LI> <A NAME=tex2html1604 HREF="node216.html#SECTION001172000000000000000">9.7.2 The Basic Algorithm</A>
+<LI> <A NAME=tex2html1605 HREF="node217.html#SECTION001173000000000000000">9.7.3 The Adaptive Algorithm</A>
+<LI> <A NAME=tex2html1606 HREF="node218.html#SECTION001174000000000000000">9.7.4 The Concurrent Algorithm</A>
+<LI> <A NAME=tex2html1607 HREF="node219.html#SECTION001175000000000000000">9.7.5 Summary</A>
+</UL> 
+<LI> <A NAME=tex2html1608 HREF="node220.html#SECTION001180000000000000000">9.8 Munkres Algorithm for Assignment</A>
+<UL> 
+<LI> <A NAME=tex2html1609 HREF="node221.html#SECTION001181000000000000000">9.8.1 Introduction</A>
+<LI> <A NAME=tex2html1610 HREF="node222.html#SECTION001182000000000000000">9.8.2 The Sequential Algorithm</A>
+<LI> <A NAME=tex2html1611 HREF="node223.html#SECTION001183000000000000000">9.8.3 The Concurrent Algorithm</A>
+</UL> 
+<LI> <A NAME=tex2html1612 HREF="node224.html#SECTION001190000000000000000">9.9 Optimization Methods
+for Neural Nets:Automatic Parameter Tuning and 
+FasterConvergence</A>
+<UL> 
+<LI> <A NAME=tex2html1613 HREF="node225.html#SECTION001191000000000000000">9.9.1 Deficiencies of Steepest Descent</A>
+<LI> <A NAME=tex2html1614 HREF="node226.html#SECTION001192000000000000000">9.9.2 The ``Bold Driver'' Network</A>
+<LI> <A NAME=tex2html1615 HREF="node227.html#SECTION001193000000000000000">9.9.3 The Broyden-Fletcher-Goldfarb-Shanno
+One-StepMemoryless Quasi-Newton Method</A>
+<LI> <A NAME=tex2html1616 HREF="node228.html#SECTION001194000000000000000">9.9.4 Parallel Optimization</A>
+<LI> <A NAME=tex2html1617 HREF="node229.html#SECTION001195000000000000000">9.9.5 Experiment: the Dichotomy Problem</A>
+<LI> <A NAME=tex2html1618 HREF="node230.html#SECTION001196000000000000000">9.9.6 Experiment: Time Series Prediction</A>
+<LI> <A NAME=tex2html1619 HREF="node231.html#SECTION001197000000000000000">9.9.7 Summary</A>
+</UL> 
+</UL> 
+<LI> <A NAME=tex2html1620 HREF="node232.html#SECTION001200000000000000000">10 DIME Programming Environment</A>
+<UL> 
+<LI> <A NAME=tex2html1621 HREF="node233.html#SECTION001210000000000000000">10.1 DIME:  Portable Software for IrregularMeshes 
+for Parallel or SequentialComputers</A>
+<UL> 
+<LI> <A NAME=tex2html1622 HREF="node234.html#SECTION001211000000000000000">10.1.1 Applications and Extensions</A>
+<LI> <A NAME=tex2html1623 HREF="node235.html#SECTION001212000000000000000">10.1.2 The Components of DIME</A>
+<LI> <A NAME=tex2html1624 HREF="node236.html#SECTION001213000000000000000">10.1.3 Domain Definition</A>
+<LI> <A NAME=tex2html1625 HREF="node237.html#SECTION001214000000000000000">10.1.4 Mesh Structure</A>
+<LI> <A NAME=tex2html1626 HREF="node238.html#SECTION001215000000000000000">10.1.5 Refinement</A>
+<LI> <A NAME=tex2html1627 HREF="node239.html#SECTION001216000000000000000">10.1.6 Load Balancing</A>
+<LI> <A NAME=tex2html1628 HREF="node240.html#SECTION001217000000000000000">10.1.7 Summary</A>
+</UL> 
+<LI> <A NAME=tex2html1629 HREF="node241.html#SECTION001220000000000000000">10.2 DIMEFEM: High-level Portable Irregular-Mesh 
+Finite-Element Solver</A>
+<UL> 
+<LI> <A NAME=tex2html1630 HREF="node242.html#SECTION001221000000000000000">10.2.1 Memory Allocation</A>
+<LI> <A NAME=tex2html1631 HREF="node243.html#SECTION001222000000000000000">10.2.2 Operations and Elements</A>
+<LI> <A NAME=tex2html1632 HREF="node244.html#SECTION001223000000000000000">10.2.3 Navier-Stokes Solver</A>
+<LI> <A NAME=tex2html1633 HREF="node245.html#SECTION001224000000000000000">10.2.4 Results</A>
+<LI> <A NAME=tex2html1634 HREF="node246.html#SECTION001225000000000000000">10.2.5 Summary</A>
+</UL> 
+</UL> 
+<LI> <A NAME=tex2html1635 HREF="node247.html#SECTION001300000000000000000">11 Load Balancing and Optimization</A>
+<UL> 
+<LI> <A NAME=tex2html1636 HREF="node248.html#SECTION001310000000000000000">11.1 Load Balancing as an Optimization Problem</A>
+<UL> 
+<LI> <A NAME=tex2html1637 HREF="node249.html#SECTION001311000000000000000">11.1.1 Load Balancing a Finite-Element Mesh</A>
+<LI> <A NAME=tex2html1638 HREF="node250.html#SECTION001312000000000000000">11.1.2 The Optimization Problem and Physical Analogy</A>
+<LI> <A NAME=tex2html1639 HREF="node251.html#SECTION001313000000000000000">11.1.3 Algorithms for Load Balancing</A>
+<LI> <A NAME=tex2html1640 HREF="node252.html#SECTION001314000000000000000">11.1.4 Simulated Annealing</A>
+<LI> <A NAME=tex2html1641 HREF="node253.html#SECTION001315000000000000000">11.1.5 Recursive Bisection</A>
+<LI> <A NAME=tex2html1642 HREF="node254.html#SECTION001316000000000000000">11.1.6 Eigenvalue Recursive Bisection</A>
+<LI> <A NAME=tex2html1643 HREF="node255.html#SECTION001317000000000000000">11.1.7 Testing Procedure</A>
+<LI> <A NAME=tex2html1644 HREF="node256.html#SECTION001318000000000000000">11.1.8 Test Results</A>
+<LI> <A NAME=tex2html1645 HREF="node257.html#SECTION001319000000000000000">11.1.9 Conclusions</A>
+</UL> 
+<LI> <A NAME=tex2html1646 HREF="node258.html#SECTION001320000000000000000">11.2 Applications and Extensions of the Physical Analogy</A>
+<LI> <A NAME=tex2html1647 HREF="node259.html#SECTION001330000000000000000">11.3 Physical Optimization</A>
+<LI> <A NAME=tex2html1648 HREF="node260.html#SECTION001340000000000000000">11.3.1 An Improved Method for the 
+Travelling Salesman Problem</A>
+<UL> 
+<LI> <A NAME=tex2html1649 HREF="node261.html#SECTION001341000000000000000">11.4.1 Background on Local Search Heuristics</A>
+<LI> <A NAME=tex2html1650 HREF="node262.html#SECTION001342000000000000000">11.4.2 Background on Markov Chains and SimulatedAnnealing</A>
+<LI> <A NAME=tex2html1651 HREF="node263.html#SECTION001343000000000000000">11.4.3 The New Algorithm-Large-Step Markov Chains</A>
+<LI> <A NAME=tex2html1652 HREF="node264.html#SECTION001344000000000000000">11.4.4 Results</A>
+</UL> 
+</UL> 
+<LI> <A NAME=tex2html1653 HREF="node265.html#SECTION001400000000000000000">12 Irregular Loosely Synchronous Problems</A>
+<UL> 
+<LI> <A NAME=tex2html1654 HREF="node266.html#SECTION001410000000000000000">12.1 Irregular Loosely Synchronous Problems Are Hard</A>
+<LI> <A NAME=tex2html1655 HREF="node267.html#SECTION001420000000000000000">12.2 Simulation of the 
+Electrosensory System of the Fish Gnathonemus petersii</A>
+<UL> 
+<LI> <A NAME=tex2html1656 HREF="node268.html#SECTION001421000000000000000">12.2.1 Physical Model</A>
+<LI> <A NAME=tex2html1657 HREF="node269.html#SECTION001422000000000000000">12.2.2 Mathematical Theory</A>
+<LI> <A NAME=tex2html1658 HREF="node270.html#SECTION001423000000000000000">12.2.3 Results</A>
+<LI> <A NAME=tex2html1659 HREF="node271.html#SECTION001424000000000000000">12.2.4 Summary</A>
+</UL> 
+<LI> <A NAME=tex2html1660 HREF="node272.html#SECTION001430000000000000000">12.3 Transonic Flow</A>
+<UL> 
+<LI> <A NAME=tex2html1661 HREF="node273.html#SECTION001431000000000000000">12.3.1 Compressible Flow Algorithm</A>
+<LI> <A NAME=tex2html1662 HREF="node274.html#SECTION001432000000000000000">12.3.2 Adaptive Refinement</A>
+<LI> <A NAME=tex2html1663 HREF="node275.html#SECTION001433000000000000000">12.3.3 Examples</A>
+<LI> <A NAME=tex2html1664 HREF="node276.html#SECTION001434000000000000000">12.3.4 Performance</A>
+<LI> <A NAME=tex2html1665 HREF="node277.html#SECTION001435000000000000000">12.3.5 Summary</A>
+</UL> 
+<LI> <A NAME=tex2html1666 HREF="node278.html#SECTION001440000000000000000">12.4 Tree Codes for N-body Simulations</A>
+<UL> 
+<LI> <A NAME=tex2html1667 HREF="node279.html#SECTION001441000000000000000">12.4.1 Oct-Trees</A>
+<LI> <A NAME=tex2html1668 HREF="node280.html#SECTION001442000000000000000">12.4.2 Computing Forces</A>
+<LI> <A NAME=tex2html1669 HREF="node281.html#SECTION001443000000000000000">12.4.3 Parallelism in Tree Codes</A>
+<LI> <A NAME=tex2html1670 HREF="node282.html#SECTION001444000000000000000">12.4.4 Acquiring Locally Essential Data</A>
+<LI> <A NAME=tex2html1671 HREF="node283.html#SECTION001445000000000000000">12.4.5 Comments on Performance</A>
+</UL> 
+<LI> <A NAME=tex2html1672 HREF="node284.html#SECTION001450000000000000000">12.5 Fast Vortex Algorithm and ParallelComputing</A>
+<UL> 
+<LI> <A NAME=tex2html1673 HREF="node285.html#SECTION001451000000000000000">12.5.1 Vortex Methods</A>
+<LI> <A NAME=tex2html1674 HREF="node286.html#SECTION001452000000000000000">12.5.2 Fast Algorithms</A>
+<LI> <A NAME=tex2html1675 HREF="node287.html#SECTION001453000000000000000">12.5.3 Hypercube Implementation</A>
+<LI> <A NAME=tex2html1676 HREF="node288.html#SECTION001454000000000000000">12.5.4 Efficiency of Parallel Implementation</A>
+<LI> <A NAME=tex2html1677 HREF="node289.html#SECTION001455000000000000000">12.5.5 Results</A>
+</UL> 
+<LI> <A NAME=tex2html1678 HREF="node290.html#SECTION001460000000000000000">12.6 Cluster Algorithms for Spin Models</A>
+<UL> 
+<LI> <A NAME=tex2html1679 HREF="node291.html#SECTION001461000000000000000">12.6.1 Monte Carlo Calculations of Spin Models</A>
+<LI> <A NAME=tex2html1680 HREF="node292.html#SECTION001462000000000000000">12.6.2 Cluster Algorithms</A>
+<LI> <A NAME=tex2html1681 HREF="node293.html#SECTION001463000000000000000">12.6.3 Parallel Cluster Algorithms</A>
+<LI> <A NAME=tex2html1682 HREF="node294.html#SECTION001464000000000000000">12.6.4 Self-labelling</A>
+<LI> <A NAME=tex2html1683 HREF="node295.html#SECTION001465000000000000000">12.6.5 Global Equivalencing</A>
+<LI> <A NAME=tex2html1684 HREF="node296.html#SECTION001466000000000000000">12.6.6 Other Algorithms</A>
+<LI> <A NAME=tex2html1685 HREF="node297.html#SECTION001467000000000000000">12.6.7 Summary</A>
+</UL> 
+<LI> <A NAME=tex2html1686 HREF="node298.html#SECTION001470000000000000000">12.7 Sorting</A>
+<UL> 
+<LI> <A NAME=tex2html1687 HREF="node299.html#SECTION001471000000000000000">12.7.1 The Merge Strategy</A>
+<LI> <A NAME=tex2html1688 HREF="node300.html#SECTION001472000000000000000">12.7.2 The Bitonic Algorithm</A>
+<LI> <A NAME=tex2html1689 HREF="node301.html#SECTION001473000000000000000">12.7.3 Shellsort or Diminishing Increment Algorithm</A>
+<LI> <A NAME=tex2html1690 HREF="node302.html#SECTION001474000000000000000">12.7.4 Quicksort or Samplesort Algorithm</A>
+</UL> 
+<LI> <A NAME=tex2html1691 HREF="node303.html#SECTION001480000000000000000">12.8 Hierarchical Tree-Structures as 
+Adaptive Meshes</A>
+<UL> 
+<LI> <A NAME=tex2html1692 HREF="node304.html#SECTION001481000000000000000">12.8.1 Introduction</A>
+<LI> <A NAME=tex2html1693 HREF="node305.html#SECTION001482000000000000000">12.8.2 Adaptive Structures</A>
+<LI> <A NAME=tex2html1694 HREF="node306.html#SECTION001483000000000000000">12.8.3 Tree as Grid</A>
+<LI> <A NAME=tex2html1695 HREF="node307.html#SECTION001484000000000000000">12.8.4 Conclusion</A>
+</UL> 
+</UL> 
+<LI> <A NAME=tex2html1696 HREF="node308.html#SECTION001500000000000000000">13 Data Parallel C and Fortran</A>
+<UL> 
+<LI> <A NAME=tex2html1697 HREF="node309.html#SECTION001510000000000000000">13.1 High-Level Languages</A>
+<UL> 
+<LI> <A NAME=tex2html1698 HREF="node310.html#SECTION001511000000000000000">13.1.1 High Performance Fortran Perspective</A>
+<LI> <A NAME=tex2html1699 HREF="node311.html#SECTION001512000000000000000">13.1.2 Problem Architecture and Message-Passing Fortran</A>
+<LI> <A NAME=tex2html1700 HREF="node312.html#SECTION001513000000000000000">13.1.3 Problem Architecture and Fortran 77</A>
+</UL> 
+<LI> <A NAME=tex2html1701 HREF="node313.html#SECTION001520000000000000000">13.2 A Software Tool for Data Partitioning and 
+Distribution</A>
+<UL> 
+<LI> <A NAME=tex2html1702 HREF="node314.html#SECTION001521000000000000000">13.2.1 Is Any Assistance Really Needed?</A>
+<LI> <A NAME=tex2html1703 HREF="node315.html#SECTION001522000000000000000">13.2.2 Overview of the Tool</A>
+<LI> <A NAME=tex2html1704 HREF="node316.html#SECTION001523000000000000000">13.2.3 Dependence-based Data Partitioning</A>
+<LI> <A NAME=tex2html1705 HREF="node317.html#SECTION001524000000000000000">13.2.4 Mapping Data to Processors</A>
+<LI> <A NAME=tex2html1706 HREF="node318.html#SECTION001525000000000000000">13.2.5 Communication Analysis and Performance Improvement 
+Transformations</A>
+<LI> <A NAME=tex2html1707 HREF="node319.html#SECTION001526000000000000000">13.2.6 Communication Analysis Algorithm</A>
+<LI> <A NAME=tex2html1708 HREF="node320.html#SECTION001527000000000000000">13.2.7 Static Performance Estimator</A>
+<LI> <A NAME=tex2html1709 HREF="node321.html#SECTION001528000000000000000">13.2.8 Conclusion</A>
+</UL> 
+<LI> <A NAME=tex2html1710 HREF="node322.html#SECTION001530000000000000000">13.3 Fortran 90 Experiments</A>
+<LI> <A NAME=tex2html1711 HREF="node323.html#SECTION001540000000000000000">13.4 Optimizing Compilers by Neural Networks</A>
+<LI> <A NAME=tex2html1712 HREF="node324.html#SECTION001550000000000000000">13.5 ASPAR</A>
+<UL> 
+<LI> <A NAME=tex2html1713 HREF="node325.html#SECTION001551000000000000000">13.5.1 Degrees of Difficulty</A>
+<LI> <A NAME=tex2html1714 HREF="node326.html#SECTION001552000000000000000">13.5.2 Various Parallelizing Technologies</A>
+<LI> <A NAME=tex2html1715 HREF="node327.html#SECTION001553000000000000000">13.5.3 The Local View</A>
+<LI> <A NAME=tex2html1716 HREF="node328.html#SECTION001554000000000000000">13.5.4 The ``Global'' View</A>
+<LI> <A NAME=tex2html1717 HREF="node329.html#SECTION001555000000000000000">13.5.5 Global Strategies</A>
+<LI> <A NAME=tex2html1718 HREF="node330.html#SECTION001556000000000000000">13.5.6 Dynamic Data Distribution</A>
+<LI> <A NAME=tex2html1719 HREF="node331.html#SECTION001557000000000000000">13.5.7 Conclusions</A>
+</UL> 
+<LI> <A NAME=tex2html1720 HREF="node332.html#SECTION001560000000000000000">13.6 Coherent Parallel C</A>
+<LI> <A NAME=tex2html1721 HREF="node333.html#SECTION001570000000000000000">13.7 Hierarchical Memory</A>
+</UL> 
+<LI> <A NAME=tex2html1722 HREF="node334.html#SECTION001600000000000000000">14 Asynchronous Applications</A>
+<UL> 
+<LI> <A NAME=tex2html1723 HREF="node335.html#SECTION001610000000000000000">14.1 Asynchronous Problems and a Summary of Basic 
+Problem Classes</A>
+<LI> <A NAME=tex2html1724 HREF="node336.html#SECTION001620000000000000000">14.2 Melting in Two Dimensions</A>
+<UL> 
+<LI> <A NAME=tex2html1725 HREF="node337.html#SECTION001621000000000000000">14.2.1 Problem Description</A>
+<LI> <A NAME=tex2html1726 HREF="node338.html#SECTION001622000000000000000">14.2.2 Solution Method</A>
+<LI> <A NAME=tex2html1727 HREF="node339.html#SECTION001623000000000000000">14.2.3 Concurrent Update Procedure</A>
+<LI> <A NAME=tex2html1728 HREF="node340.html#SECTION001624000000000000000">14.2.4 Performance Analysis</A>
+</UL> 
+<LI> <A NAME=tex2html1729 HREF="node341.html#SECTION001630000000000000000">14.3 Computer Chess</A>
+<UL> 
+<LI> <A NAME=tex2html1730 HREF="node342.html#SECTION001631000000000000000">14.3.1 Sequential Computer Chess</A>
+<UL> 
+<LI> <A NAME=tex2html1731 HREF="node343.html#SECTION001631100000000000000"> The Evaluation Function</A>
+<LI> <A NAME=tex2html1732 HREF="node344.html#SECTION001631200000000000000"> Quiescence Searching</A>
+<LI> <A NAME=tex2html1733 HREF="node345.html#SECTION001631300000000000000"> Iterative Deepening</A>
+<LI> <A NAME=tex2html1734 HREF="node346.html#SECTION001631400000000000000"> The Hash Table</A>
+<LI> <A NAME=tex2html1735 HREF="node347.html#SECTION001631500000000000000"> The Opening</A>
+<LI> <A NAME=tex2html1736 HREF="node348.html#SECTION001631600000000000000"> The Endgame</A>
+</UL> 
+<LI> <A NAME=tex2html1737 HREF="node349.html#SECTION001632000000000000000">14.3.2 Parallel Computer Chess: The Hardware</A>
+<LI> <A NAME=tex2html1738 HREF="node350.html#SECTION001633000000000000000">14.3.3 Parallel Alpha-Beta Pruning</A>
+<UL> 
+<LI> <A NAME=tex2html1739 HREF="node351.html#SECTION001633100000000000000"> Analysis of Alpha-Beta Pruning</A>
+<LI> <A NAME=tex2html1740 HREF="node352.html#SECTION001633200000000000000"> Global Hash Table</A>
+</UL> 
+<LI> <A NAME=tex2html1741 HREF="node353.html#SECTION001634000000000000000">14.3.4 Load Balancing</A>
+<LI> <A NAME=tex2html1742 HREF="node354.html#SECTION001635000000000000000">14.3.5 Speedup Measurements</A>
+<LI> <A NAME=tex2html1743 HREF="node355.html#SECTION001636000000000000000">14.3.6 Real-time Graphical Performance Monitoring</A>
+<LI> <A NAME=tex2html1744 HREF="node356.html#SECTION001637000000000000000">14.3.7 Speculation</A>
+<LI> <A NAME=tex2html1745 HREF="node357.html#SECTION001638000000000000000">14.3.8 Summary</A>
+</UL> 
+</UL> 
+<LI> <A NAME=tex2html1746 HREF="node358.html#SECTION001700000000000000000">15 High-Level Asynchronous Software 
+Systems</A>
+<UL> 
+<LI> <A NAME=tex2html1747 HREF="node359.html#SECTION001710000000000000000">15.1 Asynchronous Software Paradigms</A>
+<LI> <A NAME=tex2html1748 HREF="node360.html#SECTION001720000000000000000">15.2 MOOS II: An Operating System forDynamic Load Balancing on the iPSC/1</A>
+<UL> 
+<LI> <A NAME=tex2html1749 HREF="node361.html#SECTION001721000000000000000">15.2.1 Design of MOOSE</A>
+<LI> <A NAME=tex2html1750 HREF="node362.html#SECTION001722000000000000000">15.2.2 Dynamic Load-Balancing Support</A>
+<LI> <A NAME=tex2html1751 HREF="node363.html#SECTION001723000000000000000">15.2.3 What We Learned</A>
+</UL> 
+<LI> <A NAME=tex2html1752 HREF="node364.html#SECTION001730000000000000000">15.3 Time Warp</A>
+</UL> 
+<LI> <A NAME=tex2html1753 HREF="node365.html#SECTION001800000000000000000">16 The Zipcode Message-Passing System</A>
+<UL> 
+<LI> <A NAME=tex2html1754 HREF="node366.html#SECTION001810000000000000000">16.1 Overview of Zipcode</A>
+<LI> <A NAME=tex2html1755 HREF="node367.html#SECTION001820000000000000000">16.2 Low-Level Primitives</A>
+<UL> 
+<LI> <A NAME=tex2html1756 HREF="node368.html#SECTION001821000000000000000">16.2.1 CE/RK Overview</A>
+<LI> <A NAME=tex2html1757 HREF="node369.html#SECTION001822000000000000000">16.2.2 Interface with the CE/RK system</A>
+<LI> <A NAME=tex2html1758 HREF="node370.html#SECTION001823000000000000000">16.2.3 CE Functions</A>
+<UL> 
+<LI> <A NAME=tex2html1759 HREF="node371.html#SECTION001823100000000000000"> CE Programs</A>
+</UL> 
+<LI> <A NAME=tex2html1760 HREF="node372.html#SECTION001824000000000000000">16.2.4 RK Calls</A>
+<LI> <A NAME=tex2html1761 HREF="node373.html#SECTION001825000000000000000">16.2.5 Zipcode Calls</A>
+<UL> 
+<LI> <A NAME=tex2html1762 HREF="node374.html#SECTION001825100000000000000"> Zipcode Class-Independent Calls</A>
+<LI> <A NAME=tex2html1763 HREF="node375.html#SECTION001825200000000000000"> Mailer Creation</A>
+<LI> <A NAME=tex2html1764 HREF="node376.html#SECTION001825300000000000000"> Predefined Mailer Classes</A>
+<LI> <A NAME=tex2html1765 HREF="node382.html#SECTION001825400000000000000"> Letter-Generating Primitives</A>
+<LI> <A NAME=tex2html1766 HREF="node383.html#SECTION001825500000000000000"> Letter-Consuming Primitives</A>
+</UL> 
+</UL> 
+<LI> <A NAME=tex2html1767 HREF="node385.html#SECTION001830000000000000000">16.3 High-Level Primitives</A>
+<UL> 
+<LI> <A NAME=tex2html1768 HREF="node386.html#SECTION001831000000000000000">16.3.1 Invoices</A>
+<LI> <A NAME=tex2html1769 HREF="node387.html#SECTION001832000000000000000">16.3.2 Packing and Unpacking</A>
+<LI> <A NAME=tex2html1770 HREF="node388.html#SECTION001833000000000000000">16.3.3 The Packed-Message Functions</A>
+<LI> <A NAME=tex2html1771 HREF="node389.html#SECTION001834000000000000000">16.3.4 Fortran Interface</A>
+</UL> 
+<LI> <A NAME=tex2html1772 HREF="node390.html#SECTION001840000000000000000">16.4 Details of Execution</A>
+<UL> 
+<LI> <A NAME=tex2html1773 HREF="node391.html#SECTION001841000000000000000">16.4.1 Initialization/Termination</A>
+<LI> <A NAME=tex2html1774 HREF="node392.html#SECTION001842000000000000000">16.4.2 Process Creation/Destruction</A>
+</UL> 
+<LI> <A NAME=tex2html1775 HREF="node393.html#SECTION001850000000000000000">16.5 Conclusions</A>
+</UL> 
+<LI> <A NAME=tex2html1776 HREF="node394.html#SECTION001900000000000000000">17 MOVIE - Multitasking Object-oriented Visual Interactive
+Environment</A>
+<UL> 
+<LI> <A NAME=tex2html1777 HREF="node395.html#SECTION001910000000000000000">17.1 Introduction</A>
+<UL> 
+<LI> <A NAME=tex2html1778 HREF="node396.html#SECTION001911000000000000000">17.1.1 The Beginning</A>
+<LI> <A NAME=tex2html1779 HREF="node397.html#SECTION001912000000000000000">17.1.2 Towards the MOVIE System</A>
+<LI> <A NAME=tex2html1780 HREF="node398.html#SECTION001913000000000000000">17.1.3 Current Status and Outlook</A>
+</UL> 
+<LI> <A NAME=tex2html1781 HREF="node399.html#SECTION001920000000000000000">17.2 System Overview</A>
+<UL> 
+<LI> <A NAME=tex2html1782 HREF="node400.html#SECTION001921000000000000000">17.2.1 The MOVIE System in a Nutshell</A>
+<LI> <A NAME=tex2html1783 HREF="node401.html#SECTION001922000000000000000">17.2.2 MovieScript as Virtual Machine Language</A>
+<LI> <A NAME=tex2html1784 HREF="node402.html#SECTION001923000000000000000">17.2.3 Data-Parallel Computing</A>
+<LI> <A NAME=tex2html1785 HREF="node403.html#SECTION001924000000000000000">17.2.4 Model for MIMD-parallelism</A>
+<LI> <A NAME=tex2html1786 HREF="node404.html#SECTION001925000000000000000">17.2.5 Distributed Computing</A>
+<LI> <A NAME=tex2html1787 HREF="node405.html#SECTION001926000000000000000">17.2.6 Object Orientation</A>
+<LI> <A NAME=tex2html1788 HREF="node406.html#SECTION001927000000000000000">17.2.7 Integrated Visualization Model</A>
+<UL> 
+<LI> <A NAME=tex2html1789 HREF="node407.html#SECTION001927100000000000000"> DPS/NeWS</A>
+<LI> <A NAME=tex2html1790 HREF="node408.html#SECTION001927200000000000000"> X/Motif/OpenLook</A>
+<LI> <A NAME=tex2html1791 HREF="node409.html#SECTION001927300000000000000"> AVS/Explorer</A>
+<LI> <A NAME=tex2html1792 HREF="node410.html#SECTION001927400000000000000"> 3D MOVIE</A>
+<LI> <A NAME=tex2html1793 HREF="node411.html#SECTION001927500000000000000"> Integration</A>
+</UL> 
+<LI> <A NAME=tex2html1794 HREF="node412.html#SECTION001928000000000000000">17.2.8 ``In Large'' Extensibility Model</A>
+<LI> <A NAME=tex2html1795 HREF="node413.html#SECTION001929000000000000000">17.2.9 CASE Tools</A>
+<UL> 
+<LI> <A NAME=tex2html1796 HREF="node414.html#SECTION001929100000000000000"> MetaDictionary</A>
+<LI> <A NAME=tex2html1797 HREF="node415.html#SECTION001929200000000000000"> C Language Naming Conventions</A>
+<LI> <A NAME=tex2html1798 HREF="node416.html#SECTION001929300000000000000"> MetaIndex</A>
+<LI> <A NAME=tex2html1799 HREF="node417.html#SECTION001929400000000000000"> Makefile Model</A>
+<LI> <A NAME=tex2html1800 HREF="node418.html#SECTION001929500000000000000"> Documentation Model</A>
+</UL> 
+<LI> <A NAME=tex2html1801 HREF="node419.html#SECTION0019210000000000000000">17.2.10 Planned MOVIE Applications</A>
+<UL> 
+<LI> <A NAME=tex2html1802 HREF="node420.html#SECTION0019210100000000000000"> Machine Vision</A>
+<LI> <A NAME=tex2html1803 HREF="node421.html#SECTION0019210200000000000000"> Neural Networks</A>
+<LI> <A NAME=tex2html1804 HREF="node422.html#SECTION0019210300000000000000"> Databases</A>
+<LI> <A NAME=tex2html1805 HREF="node423.html#SECTION0019210400000000000000"> Global Change</A>
+<LI> <A NAME=tex2html1806 HREF="node424.html#SECTION0019210500000000000000"> High Energy Physics Data Analysis</A>
+<LI> <A NAME=tex2html1807 HREF="node425.html#SECTION0019210600000000000000"> Expert Systems</A>
+<LI> <A NAME=tex2html1808 HREF="node426.html#SECTION0019210700000000000000"> Command and Control</A>
+<LI> <A NAME=tex2html1809 HREF="node427.html#SECTION0019210800000000000000"> Virtual Reality</A>
+</UL> 
+</UL> 
+<LI> <A NAME=tex2html1810 HREF="node428.html#SECTION001930000000000000000">17.3 Map Separates</A>
+<UL> 
+<LI> <A NAME=tex2html1811 HREF="node429.html#SECTION001931000000000000000">17.3.1 Problem Specification</A>
+<LI> <A NAME=tex2html1812 HREF="node430.html#SECTION001932000000000000000">17.3.2 Test Case</A>
+<LI> <A NAME=tex2html1813 HREF="node431.html#SECTION001933000000000000000">17.3.3 Segmentation via RGB Clustering</A>
+<LI> <A NAME=tex2html1814 HREF="node432.html#SECTION001934000000000000000">17.3.4 Comparison with JPL Neural Net Results</A>
+<LI> <A NAME=tex2html1815 HREF="node433.html#SECTION001935000000000000000">17.3.5 Edge Detection via Zero Crossing</A>
+<LI> <A NAME=tex2html1816 HREF="node434.html#SECTION001936000000000000000">17.3.6 Towards the Map Expert System</A>
+<LI> <A NAME=tex2html1817 HREF="node435.html#SECTION001937000000000000000">17.3.7 Summary</A>
+</UL> 
+<LI> <A NAME=tex2html1818 HREF="node436.html#SECTION001940000000000000000">17.4 The Ultimate User Interface: 
+VirtualReality</A>
+<UL> 
+<LI> <A NAME=tex2html1819 HREF="node437.html#SECTION001941000000000000000">17.4.1 Overall Assessment</A>
+<LI> <A NAME=tex2html1820 HREF="node438.html#SECTION001942000000000000000">17.4.2 Markets and Application Areas</A>
+<LI> <A NAME=tex2html1821 HREF="node439.html#SECTION001943000000000000000">17.4.3 VR at Syracuse University</A>
+<LI> <A NAME=tex2html1822 HREF="node440.html#SECTION001944000000000000000">17.4.4 MOVIE as VR Operating Shell</A>
+</UL> 
+</UL> 
+<LI> <A NAME=tex2html1823 HREF="node441.html#SECTION002000000000000000000">18 Complex System Simulation and Analysis</A>
+<UL> 
+<LI> <A NAME=tex2html1824 HREF="node442.html#SECTION002010000000000000000">18.1 MetaProblems and MetaSoftware</A>
+<UL> 
+<LI> <A NAME=tex2html1825 HREF="node443.html#SECTION002011000000000000000">18.1.1 Applications</A>
+<LI> <A NAME=tex2html1826 HREF="node444.html#SECTION002012000000000000000">18.1.2 Asynchronous versus Loosely Synchronous?</A>
+<LI> <A NAME=tex2html1827 HREF="node445.html#SECTION002013000000000000000">18.1.3 Software for Compound Problems</A>
+</UL> 
+<LI> <A NAME=tex2html1828 HREF="node446.html#SECTION002020000000000000000">18.2 ISIS: An 
+Interactive Seismic ImagingSystem</A>
+<UL> 
+<LI> <A NAME=tex2html1829 HREF="node447.html#SECTION002021000000000000000">18.2.1 Introduction</A>
+<LI> <A NAME=tex2html1830 HREF="node448.html#SECTION002022000000000000000">18.2.2 Concepts of Interactive Imaging</A>
+<LI> <A NAME=tex2html1831 HREF="node449.html#SECTION002023000000000000000">18.2.3 Geologist-As-Analyst</A>
+<LI> <A NAME=tex2html1832 HREF="node450.html#SECTION002024000000000000000">18.2.4 Why Interactive Imaging?</A>
+<LI> <A NAME=tex2html1833 HREF="node451.html#SECTION002025000000000000000">18.2.5 System Design</A>
+<LI> <A NAME=tex2html1834 HREF="node452.html#SECTION002026000000000000000">18.2.6 Performance Considerations</A>
+<LI> <A NAME=tex2html1835 HREF="node453.html#SECTION002027000000000000000">18.2.7 Trace Manager</A>
+<LI> <A NAME=tex2html1836 HREF="node454.html#SECTION002028000000000000000">18.2.8 Display Manager</A>
+<LI> <A NAME=tex2html1837 HREF="node455.html#SECTION002029000000000000000">18.2.9 User Interface</A>
+<LI> <A NAME=tex2html1838 HREF="node456.html#SECTION0020210000000000000000">18.2.10 Computation</A>
+<LI> <A NAME=tex2html1839 HREF="node457.html#SECTION0020211000000000000000">18.2.11 Prototype System</A>
+<LI> <A NAME=tex2html1840 HREF="node458.html#SECTION0020212000000000000000">18.2.12 Conclusions</A>
+</UL> 
+<LI> <A NAME=tex2html1841 HREF="node459.html#SECTION002030000000000000000">18.3 Parallel Simulations that Emulate Function</A>
+<UL> 
+<LI> <A NAME=tex2html1842 HREF="node460.html#SECTION002031000000000000000">18.3.1 The Basic Simulation Structure</A>
+<LI> <A NAME=tex2html1843 HREF="node461.html#SECTION002032000000000000000">18.3.2 The Run-Time Environment-the Centaur Operating 
+System</A>
+<LI> <A NAME=tex2html1844 HREF="node462.html#SECTION002033000000000000000">18.3.3 SDI Simulation Evolution</A>
+<LI> <A NAME=tex2html1845 HREF="node463.html#SECTION002034000000000000000">18.4 Simulation Framework and Synchronization Control</A>
+</UL> 
+<LI> <A NAME=tex2html1846 HREF="node464.html#SECTION002040000000000000000">18.4 Multitarget Tracking</A>
+<UL> 
+<LI> <A NAME=tex2html1847 HREF="node465.html#SECTION002041000000000000000">18.4.1 Nature of the Problem</A>
+<LI> <A NAME=tex2html1848 HREF="node466.html#SECTION002042000000000000000">18.4.2 Tracking Techniques</A>
+<UL> 
+<LI> <A NAME=tex2html1849 HREF="node467.html#SECTION002042100000000000000"> Single-Target Tracking</A>
+<LI> <A NAME=tex2html1850 HREF="node468.html#SECTION002042200000000000000"> Multitarget Tracking</A>
+</UL> 
+<LI> <A NAME=tex2html1851 HREF="node469.html#SECTION002043000000000000000">18.4.3 Algorithm Overview</A>
+<LI> <A NAME=tex2html1852 HREF="node470.html#SECTION002044000000000000000">18.4.4 Two-dimensional Mono Tracking</A>
+<UL> 
+<LI> <A NAME=tex2html1853 HREF="node471.html#SECTION002044100000000000000"> Two-dimensional Track Extensions</A>
+<LI> <A NAME=tex2html1854 HREF="node472.html#SECTION002044200000000000000"> Two-dimensional Report Formation</A>
+<LI> <A NAME=tex2html1855 HREF="node473.html#SECTION002044300000000000000"> Track Initialization</A>
+</UL> 
+<LI> <A NAME=tex2html1856 HREF="node474.html#SECTION002045000000000000000">18.4.5 Three-dimensional Tracking</A>
+<UL> 
+<LI> <A NAME=tex2html1857 HREF="node475.html#SECTION002045100000000000000"> Track Extension Associations</A>
+</UL> 
+</UL> 
+</UL> 
+<LI> <A NAME=tex2html1858 HREF="node476.html#SECTION002100000000000000000">19 Parallel Computing in Industry</A>
+<UL> 
+<LI> <A NAME=tex2html1859 HREF="node477.html#SECTION002110000000000000000">19.1 Motivation</A>
+<LI> <A NAME=tex2html1860 HREF="node478.html#SECTION002120000000000000000">19.2 Examples of Industrial Applications</A>
+</UL> 
+<LI> <A NAME=tex2html1861 HREF="node479.html#SECTION002200000000000000000">20 Computational Science</A>
+<UL> 
+<LI> <A NAME=tex2html1862 HREF="node480.html#SECTION002210000000000000000">20.1 Lessons</A>
+<LI> <A NAME=tex2html1863 HREF="node481.html#SECTION002220000000000000000">20.2 Computational Science</A>
+</UL> 
+<LI> <A NAME=tex2html1864 HREF="node482.html#SECTION002300000000000000000">A Selected Biographic Information</A>
+<LI> <A NAME=tex2html1865 HREF="node483.html#SECTION002400000000000000000">B
+References</A>
+<LI> <A NAME=tex2html1866 HREF="node484.html#SECTION002500000000000000000">Index</A>
+<LI> <A NAME=tex2html1867 HREF="node485.html#SECTION002600000000000000000">   About this document ... </A>
+</UL>
+<BR> <HR>
+<P><ADDRESS>
+<I> Guy Robinson <BR>
+Wed Mar  1 10:19:35 EST 1995</I>
+</ADDRESS>
+</BODY>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.usenix.org/publications/library/proceedings/als00/2000papers/papers/full_papers/bode/bode_html/>====================
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<TITLE>The Portable Batch Scheduler and the Maui Scheduler on Linux Clusters*</TITLE>
+</HEAD>
+
+<!--#include virtual="/test_images/static_mark.txt" -->
+
+<BODY BGCOLOR="#ffffff" TEXT="#000000" TOPMARGIN="0" LEFTMARGIN="0"
+RIGHTMARGIN="0" MARGINHEIGHT="0">
+<A href="/legacy/"><IMG src="../../als2000.gif" WIDTH="600" HEIGHT="88"
+ALT="4th Annual Linux Showcase and Conference, Atlanta" BORDER="0"></A>
+<p>
+
+
+<FONT SIZE=4><P ALIGN="CENTER">The Portable Batch Scheduler and the Maui Scheduler on Linux Clusters*</P>
+<P ALIGN="CENTER"></P>
+</FONT><FONT SIZE=2><P ALIGN="CENTER">Brett Bode, David M. Halstead, Ricky Kendall, and Zhou Lei</P>
+<P ALIGN="CENTER">Scalable Computing Laboratory, Ames Laboratory, DOE</P>
+<P ALIGN="CENTER">Wilhelm Hall, Ames, IA 50011, USA, help@scl.ameslab.gov</P>
+<P ALIGN="CENTER">David Jackson, Maui High Performance Computing Center</P>
+<P ALIGN="CENTER"></P>
+<P>&nbsp;</P>
+<P ALIGN="JUSTIFY"><B>Abstract</P>
+</B><P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">The motivation for a stable, efficient, backfill scheduler that runs in a consistent manner on multiple hardware platforms and operating systems is outlined and justified in this work.  The combination of the Maui Scheduler and the Portable Batch System (PBS), are evaluated on several cluster solutions of various size, performance and communications profiles.  The total job throughput is simulated in this work, with particular attention given to maximizing resource utilization and to the execution of large parallel jobs.</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><P ALIGN="JUSTIFY">1 Introduction</P>
+</B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">With the ever increasing size of cluster computers, and the associated demand for a production quality shared resource management system, the need for a policy based, parallel aware, batch scheduler is beyond dispute.  To this end the combination of a stable, portable resource management system, coupled to a flexible, extensible, scheduling policy engine will be presented and evaluated in this work.  Features, such as extensive advanced reservation, dynamic prioritization, aggressive backfill, consumable resource tracking and multiple fairness policies, will be defined and illustrated on commodity component cluster systems.  The increase in machine utilization and operational flexibility will be demonstrated for a non-trivial set of resource requests over a range of duration, and processor count tasks.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">We will use the term <I>large</I> to describe jobs that require a substantial portion (&gt;50%) of the available CPU resources of a parallel machine.  The duration of a job, is considered to be independent of its resource request, and for the purposes of this paper the term <I>long</I> will be used to identify jobs with an extended runtime of multiple hours.  The opposite terms of small and short will be used for the converse categories of jobs respectively.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"></P>
+<B><P ALIGN="JUSTIFY">2. Scheduling Terminology</P>
+</B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">To clarify the nomenclature used in the descriptive sections of this work we will now include a glossary of terms, together with a brief explanation of their meaning.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Utilization and turnaround</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The ultimate aim of any dynamic resource administration hierarchy is to maximize utilization and job throughput and minimize turnaround time.  The aim of improving utilization can be achieved by allocating tasks to idle processors, but the task of maximizing throughput is much more nefarious, involving complex fair access decisions based on machine stakeholder rights.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Prioritization and fairness</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">It is the goal of a schedule administrator to balance resource consumption amongst competing parties and implement policies that address a large number of political concerns.  One method of ensuring appropriate machine allocation is with system partitioning.  This approach, however, leads to fragmentation of the system, and a concomitant fall in utilization efficiency.  To be preferred is a method by which the true bureaucratic availability requirements can be met, without negatively impacting the utilization efficiency of the resource.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Fair share</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The tracking of historical resource utilization for each user results in the ability to modify job priority, ensuring a balance between appropriate access, and maximizing machine utilization.  Users can be given usage targets, floors and ceilings which can be configured to reflect the budgeted allocation request.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Reservation</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The concept of resource reservation is essential in constructing a flexible, policy based batch scheduling environment.  This is usually a data structure that defines not only the computational node count, but also the execution timeframe and the associated resources required by the job at the time of its execution.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Resource manager</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The resource manager coordinates the actions of all other components in the batch system by maintaining a database of all resources, submitted requests and running jobs.  It is essential that the user is able to request an appropriate computational node for a given task. Conversely, in a heterogeneous environment, it is important that the resource manager conserve its most powerful resources until last, unless they are specifically requested.  It also needs to provide some level of redundancy to deal with computational node failure and must scale to hundreds of jobs on thousands of nodes, and should support hooks for the aggregation of multiple machines at different sites.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Job scheduler/ Policy manager</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The job scheduler takes the node and job information from the resource manager and produces a list sorted by the job priority telling the resource manager when and where to run each job.  It is the task of the policy manager to have the flexibility to arbitrate a potentially complex set of parameters required to define a fare share environment, yet retain the simplicity of expression that will allow the system administrators to implement politically driven resource allocations.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Job execution daemon</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">Present on each node, the execution daemon is responsible for setting up the node, servicing the initiation request from the resource manager, reporting its progress, and cleaning up after the job termination, either upon completion or when the job is aborted.  It is important that this be a lightweight and portable daemon, allowing for rapid access to system and job status information and exhibit a low overhead of task initiation, to facilitate scalable startup on massively parallel systems.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Co-allocation</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">A requirement for an integrated computational service environment is that mobile resources, such as software licenses and remote data access authorizations, may be reserved and accessed with appropriate privileges at execution time.  These arbitrary resources need to be made transparently available to the user, and be managed centrally with an integrated resource request notification system.  </P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Meta-scheduling</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">A meta-scheduler is a technique of abstraction whereby complex co-allocation requests and advanced reservation capabilities can be defined and queried for availability before the controlling job begins execution.  This concept ties in naturally to the requirement for data pre-staging since this can be considered as merely another resource.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Pre-staging</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The problems of coordinating remote data pre-staging or access to hierarchical storage can be obviated by an intelligent advance reservation system.  This requires integration with the meta-scheduler and co-allocation systems to ensure that the initiation of the setup phase is appropriately timed to synchronize with the requested job execution.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Backfill scheduling</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The approach of backfill job allocation is a key component of the Maui scheduler.  It allows for the periodic analysis of the running queue and execution of lower priority jobs if it is determined that their running will not delay jobs higher in the queue.  This benefits short, small jobs the most, since they are able to pack into reserved, yet idle, nodes that are waiting for all of the requested resources to become available.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Shortpool policy</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The shortpool policy is a method for reserving a block of machines for expedited execution and turnaround.  This is usually implemented during workday hours and can predictively assign currently busy nodes to the shortpool if their task will finish within the required window (usually under two hours).</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Allocation bank</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The concept of an allocation bank is essential in a multi-institution shared resource environment [1].  It allows for a budgeted approach to resource access, based on a centralized user account database.  The user account is debited upon the execution of each job, with the individual being unable to run jobs once the account has been exhausted.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Reservation security</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">An essential area of research centers on authentication and security of remotely shared resources.  Issues such as secure interactive access and user authentication have been addressed and resolved to a large extent, but the issue of delayed authentication and inter-site trust are still subjects for research.  The important factor of non-repudiation needs to be addressed in order to validate the source of a submission.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Job expansion factor</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">This is a way of giving small time limit jobs a priority over larger jobs by calculating their priority from the sum of the current queue wait time and the requested wall time relative to the requested wall time.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Job Efficiency</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">This is the percent of the requested time actually used by the job.  For simple schedulers this factor has little effect on the overall scheduling performance.  However, for the backfill portion of the Maui Scheduler this factor has a much more significant influence, since low job efficiencies cause inaccurate predictions of holes in the reservation schedule.  The best ways to improve this factor are user education and resource monitoring.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Quality of service</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The Maui Scheduler allows administrators fine grain control over QOS levels on a per user, group and account basis.  Associated with each QOS is a starting priority, a target expansion factor, a billing rate and a list of special features and policy exemptions.  This can be used impose graduated access to a limited resource, while ensuring maximum utilization of idle computational assets.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">Downtime scheduling</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">One important advantage of a time based reservation system is that scheduling down-time for repair or upgrade of running components is easily performed.  This is convenient for the current clusters, but will become essential as the size and production nature of parallel clusters continues to increase.</P>
+<P ALIGN="JUSTIFY"></P>
+<I><P ALIGN="JUSTIFY">SMP aware queuing</P>
+</I><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The debate over the utility of multiple processors per computational node continues to rage.  It is clear, however, that the incremental cost of additional CPUs in a node is less than a concomitant increase in the total number of nodes.  The question is how to exploit the co-location advantage of data between SMP CPUs, and to expose this potential performance enhancement to the user in a consistent manner via the scheduling interface.  There are several different approaches available to exploit SMP communications (Pthreads, Shmem etc.), but this topic is beyond the purview of this work.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><P ALIGN="JUSTIFY">3. Testbed Hardware</P>
+</B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">3.1 Linux 64 node</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The largest test environment considered in this work is a cluster of 64 Pentium Pro machines with 256&nbsp;MBytes of RAM, connected by a flat 44&nbsp;Gbit/sec Fast Ethernet switch.  The cluster was constructed in accordance to the Scalable Cluster Model [2] with the file server and external gateway node utilizing a dedicated Gigabit Ethernet connection to the switch for improved performance.  The compute nodes are running a patched 2.2.13 Linux kernel with the server nodes providing both Fortran and C compilers with MPI and PVM message passing libraries.  Version 2.2p11 of the PBS server runs from the file server node, along with the Maui scheduler version 2.3.2.12.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">3.2 Compaq 25 node</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The other cluster from which results will be reported consists of 25 Compaq 667&nbsp;MHz Alpha XP1000 machines, 15 of which have 1024&nbsp;MB of RAM and 10 have 640&nbsp;MB of RAM.  One of the 25 nodes has reduced scratch disk space and is thus limited to small jobs.  These machines are connected by Fast Ethernet and run the Tru64 Unix operating system.  This configuration provides a fairly challenging test for the scheduler since there are three different node resource levels available for users to request.  Since we ported the Maui Scheduler PBS plugin to Tru64 Unix several months ago, the cluster has been running in production mode, executing parallel computational chemistry jobs using the GAMESS [3] code.  We will be using this cluster to illustrate the pitfalls of real-world environments, and to highlight some of the measures that can be taken to ameliorate certain user shortcomings.</P>
+<B><P ALIGN="JUSTIFY">4. Batch scheduler description</P>
+</B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">4.1 Background</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">Since clusters and cluster-like systems have been around for several years, there have been multiple queuing systems tried out and several are currently in wide use. Among these are the Distributed Queuing System (DQS), Load Sharing Facility (LSF), IBM's LoadLeveler, and most recently the Portable Batch System (PBS). Each of these systems has strengths and weaknesses. While each of these works adequately on some systems, none of them were designed to run on cluster computers.  Currently the system with the best cluster support is PBS. Thus we will consider PBS using its built-in scheduler compared with the addition of the plugin Maui scheduler. </P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">4.2 PBS</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">Portable Batch System is a POSIX compliant batch software processing system originally developed at NASA’s Ames research center for their large SMP parallel computers [4].  It has the advantage of being configurable over a wide range of high power computer architectures, from heterogeneous clusters of loosely coupled workstations, to massively parallel supercomputers.  It supports both interactive and batch mode, and has a user friendly graphical user interface.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">Recently the focus of development has shifted to clusters and basic parallel support has been added. In addition, the Maui scheduler has been ported to act as a plugin scheduler to the PBS system. This combination is proving successful at scheduling jobs on parallel systems. However, since PBS was not designed for a cluster-like computer, it lacks many important features. For instance, while the resource manager and scheduler are able to reserve multiple processors for a parallel job, the job startup, including the administrative scripts, is performed entirely on one node.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">PBS includes several built-in schedulers, each of which can be customized for the local site requirements. The default is the FIFO scheduler that, despite its name, is not strictly a FIFO scheduler. The behavior is to maximize the CPU utilization. That is, it loops through the queued job list and starts any job for which fits in the available resources. However, this effectively prevents large jobs from ever starting since the required resources are unlikely to ever available. To allow large jobs to start, this scheduler implements a &quot;starving jobs&quot; mechanism. This mechanism initiates when a job has been eligible to run (i.e. first in the queue) longer than some predefined time (the default is 24 hours). Once the mechanism kicks in, the scheduler halts starting of new jobs until the &quot;starving&quot; job can be started.  It should be noted that the scheduler will not even start jobs on nodes which do not meet the resource requirements for the &quot;starving job&quot;.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><IMG src="image2.gif" ></P>
+<P><B>Figure 1.</B>  Schematic of the interaction profile between PBS running the FIFO scheduler and the Maui Scheduler.</P>
+<P>4.3 Maui</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">Perhaps the most complete system currently available is the IBM LoadLeveler software developed originally for IBM’s SP machines, but now available on several platforms (Linux is not supported).  While LoadLeveler provides many useful features, its implementation leaves a lot to be desired.  For instance the scheduler was immediately recognized as inadequate, since its poor parallel scheduling resulted in low total machine usage due to many idle nodes waiting for future jobs.  To solve this problem the Maui Scheduler [5] was written principally by David&nbsp;Jackson for the Maui High Performance Computer Center. This scheduler has proven to be a dramatic success on the SP platform, so much so that it is now used in place of the default scheduler in LoadLeveler at many SP installations.  LoadLeveler is probably the only currently available package, which was designed for a parallel computer from the beginning and thus addresses many of the requirements listed above. Figure 1 illustrates the difference between the PBS FIFO and PBS with the Maui scheduler in place.  </P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The key to the Maui Scheduler is its wall-time based reservation system.  This system orders the queued jobs based upon priority (which in turn is derived from several configurable parameters), starts all the high priority jobs that it can, and then makes a reservation in the future for the next high priority job.  Once this is done, the backfill mechanism attempts to find lower priority jobs that will fit into time gaps in the reservation system.  This gives large jobs a guaranteed start time, while providing a quick turn around for small jobs.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><P ALIGN="JUSTIFY">5. Evaluation description</P>
+</B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">5.1 The Simulated Job Mix</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The right mix of jobs for any simulation is nebulous at best.  Nothing is better than a real job mix from the user community in question, but that is impossible to reproduce due to user dynamics.  User resource requests vary directly with their needs and cycle with external forces such as conference deadlines.  To this end we have defined a job mix that fits a rough average of what we have observed on our research clusters and on the MPP systems available at supercomputer centers such as NERSC [6].  </P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The job mix has Large, Medium, Small, Debug, and Failed jobs.  Each job has a randomized set of the number of processors (nproc), the time actually spend doing work (work time), the time requested from the resource management system (submit time) and a submission delay time (delay time).  Large, Medium, and Small jobs have a work time that is 70% or more of the submit time.  Submit time is always greater than or equal to the work time.  Large jobs are those that have nproc &gt; 50% of those available.  Medium jobs have nproc between 15% and 50% of the available nodes.  Small jobs are those with nproc between 30% and 15% of available nodes.  Debug jobs have a work time that is greater than 40% of the submit time but use less than 10% of the available processors.  Failed jobs are defined by a work time that is less than 20% of the submit time.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">Close inspection of these parameters will show that not all jobs generated by a randomized nproc, work time, and submit time, fall into these categories.  One further target constraint is that Large jobs are 30% of the total set of jobs, Medium jobs are 40%, Small jobs are 20%, Debug Jobs and Failed jobs are both 5%.  Jobs are randomly generated and then classified as Large, Medium, Small, Debug, Failed or  &quot;undefined&quot; jobs.  Undefined jobs are automatically rejected and others are added only if their addition will not increase their constrained classification above the limits outlined above.  </P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">In the 76 jobs of the job mix used in these simulations, 480 random jobs were generated.  The resultant mix from this defined job mix algorithm yielded 28.95% Large, 40.79% Medium, 19.74% Small, and 5.26% Debug and Failed jobs.  In actual numbers this corresponds to 22 Large, 31 Medium, 15 Small, 4 Debug, and 4 Failed jobs.  </P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The randomized delay time has the effect of jobs being submitted in a random order to the batch system.  The first job generated will not necessarily be the first job submitted.  All of the job mix data is available online [7].  The exact same job mix was used with each scheduler setup, PBS/FIFO, PBS/MAUI and PBS/MAUI with backfill turned off.  </P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">5.2 Users and the Job Mix.  </P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The defined job mix does not consider user interaction currently.  There are no automatic or post submitted jobs that fit any gaps in the system as the scheduler runs jobs, e.g., jobs to fit the backfill mechanism available in some schedulers.  Furthermore, it is quite typical for users to simply submit jobs with the maximum allowed time for the queue in question.  Our simulation assumes users can predict the resources needed with reasonable accuracy.  All jobs are submitted after 180 minutes from the start of the simulation.  This does not match the constant influx of jobs on our research cluster or at any supercomputer center.  </P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><P ALIGN="JUSTIFY">6. Test results</P>
+</B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">6.1 Simulation results</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">Perhaps the most significant result and the simplest are the total run time for each of the scheduler configurations as shown in Table 1.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">Table 1.</P>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=400>
+<TR><TD WIDTH="50%" VALIGN="TOP">
+<P ALIGN="JUSTIFY">Scheduler</TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<P ALIGN="JUSTIFY">Total run time (Hours)</TD>
+</TR>
+<TR><TD WIDTH="50%" VALIGN="TOP">
+<P ALIGN="JUSTIFY">PBS FIFO</TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<P ALIGN="JUSTIFY">71.1</TD>
+</TR>
+<TR><TD WIDTH="50%" VALIGN="TOP">
+<P ALIGN="JUSTIFY">Maui Scheduler</TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<P ALIGN="JUSTIFY">66.75</TD>
+</TR>
+<TR><TD WIDTH="50%" VALIGN="TOP">
+<P ALIGN="JUSTIFY">Maui without backfill</TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<P ALIGN="JUSTIFY">66.71</TD>
+</TR>
+<TR><TD WIDTH="50%" VALIGN="TOP">
+<P ALIGN="JUSTIFY">Theoretical Minimum</TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<P ALIGN="JUSTIFY">53.6</TD>
+</TR>
+<TR><TD WIDTH="50%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="JUSTIFY">Sequential Maximum</FONT></TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<FONT SIZE=2><P ALIGN="JUSTIFY">90.2</FONT></TD>
+</TR>
+</TABLE>
+
+<FONT SIZE=2><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">Table 1 includes a Theoretical Minimum time which is simply the total number of node-wall hours divided by 64 (the number of available CPUs). This is clearly not an achievable value since it ignores the packing efficiency of the jobs. Conversely the Sequential Maximum represents the maximum total time the tests would take if they were simply run in a FIFO fashion with no attempt to overlap jobs.</P>
+<P ALIGN="JUSTIFY"><IMG src="image3.gif" ></P>
+<P ALIGN="JUSTIFY"><B>Figure 2.</B> The execution profiles for the FIFO and Maui batch queues are presented in the left bar chart showing the submission delay, the wait time, and the run time respectively for each job.  The right panel shows the number of processors requested by each of these jobs when they execute.</P>
+<P ALIGN="JUSTIFY">Obviously both schedulers do substantially better than the Sequential Maximum, and the Maui scheduler does substantially better than the PBS FIFO scheduler.  It may, however, be surprising that the backfill scheduler is actually slower than Maui without backfill even if only by a small amount.  This can be explained by the job efficiencies, which for the test set of jobs had all but 5 jobs with an efficiency of 50% greater and 23 of the 76 jobs with an efficiency greater than 90%.  If all jobs had an efficiency of 100% then the backfill algorithm would always be faster.  However, since most jobs finish significantly before their scheduled end time it is possible that a backfilled job will keep a reservation from being started early.  It is important to note that backfilled jobs will never prevent a job reservation from starting on time, but it might prevent a job reservation from moving forward in time.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">Figure 2 illustrate the quite different ways in which the Maui Scheduler and the FIFO scheduler operate.  The upper frame shows time, in hours, on the x-axis and job sequence number on the y-axis for the FIFO scheduler.  The job sequence number represents the order in which the jobs were submitted to the system.  The lower half shows the same information for the Maui Scheduler.  Since the Maui Scheduler result without the backfill algorithm was so similar to the regular Maui Scheduler result, it was not plotted separately.</P>
+<P ALIGN="JUSTIFY"><IMG src="image4.gif" > </P>
+<P ALIGN="JUSTIFY"><B>Figure 3.</B> Cluster utilization comparison for PBS with FIFO, and with the Maui Scheduler active.<P>  
+<P ALIGN="JUSTIFY">For the FIFO scheduler the job profile shows that initially mainly small jobs were run up until the starving job state kicked in for the for the first large job in the queue.  Once in the starving job state FIFO became truly a first in first out scheduler.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The profile for the Maui scheduler is certainly anything but FIFO.  It shows a more uniform queue wait time that is driven more by the number of nodes requested than by the initial queue order.  This results in the smaller node requests being run along with the larger node requests rather than all at once as with the FIFO scheduler.  Because of this the Maui Scheduler is able to maintain higher average node utilization during the first portion of the test run, until it runs out of small node requests to backfill.  This effect is illustrated in Figure 2 that shows the node utilization over the test run for all three scheduler tests.  Figure 3 shows that Maui is able to maintain a more consistently high node utilization until about halfway through the test when it ran out of small jobs.  The FIFO scheduler started out high, but then suffered a large dip as it cleared out the small jobs to let a large job start.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">A further analysis of the data reveals that the FIFO scheduler starts all of the jobs with fewer than 10 nodes requested within 1 hour of submission.  On the other hand Maui starts the last job with fewer than 10 nodes after over 16 hours in the queue.  This difference is significant because it allows Maui to overlap the execution of more jobs during the test run, than does the FIFO scheduler.  Indeed while the FIFO scheduler produces queue wait times nearly independent of the number of processors, ignoring the small jobs, the queue wait times under Maui are more similar to a bell curve with the maximum wait times experienced by jobs with node requests of approximately half the number of available nodes.</P>
+<B><P ALIGN="JUSTIFY"></P>
+</B><P ALIGN="JUSTIFY">6.2 Theoretical Simulated Job Mix Results</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">In order to better evaluate the different schedulers performance for the evaluation job mix, a simulation routine was implemented that determined the first in first out (FIFO) execution of an ordered series of jobs.  All jobs are executed in the specified order filling the system to the maximum number of nodes (e.g., 64).  By running this routine with the submit order of the 76 simulation jobs, the FIFO execution time would be 69.63&nbsp;hrs.  Executing them in reverse order gives a FIFO execution time of 70.46&nbsp;hrs.  The jobs ordered as they were run in both the PBS/FIFO and PBS/MAUI simulations yields 69.16&nbsp;hrs and 65.99&nbsp;hrs, respectively. This demonstrates that the delayed submission does have an effect on how the jobs are eventually executed.  In theory, with this routine we could find the optimal order for this specific set of jobs.  Since there are 76 factorial (76!) possible orders, we did not pursue this.</P>
+<P ALIGN="JUSTIFY">6.3 Real Job Mix</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The alpha cluster, running under moderately loaded conditions, has averaged 78% node hour utilization over the past three months.  This was achieved while exceeding a total of over 1,200 jobs with node usage between 1 and 16 CPUs (Ave. of 4.3) and up to 2 wall days of time, the queue maximum.  Out of the 1,200 jobs only 65 experienced a queue wait time of more than one day and most, 880, waited less than one hour to start execution.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">This performance is despite the fact that the users are very poor at predicting the run time of their jobs.  In fact the vast majority, 1146, of the jobs simply requested the maximum queue run time (2 days).  The resulting job efficiencies were quite poor with only 140 jobs having an efficiency greater than 50% (i.e. using more than half of their requested time).  It is unlikely that the job efficiencies will improve unless the load on the cluster increases producing longer queue wait times.  Without long queue wait times users do not have much incentive to accurately predict the job run time or to attempt to fit a job into an existing hole in the job backfill window.</P>
+<B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<P ALIGN="JUSTIFY">7. Future Directions</P>
+</B><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">While we feel that the Maui Scheduler does an excellent job of scheduling jobs on flat interconnected clusters, a major area of on-going research is locality based scheduling.  That is, scheduling based upon the topology of the interconnect, which might include interconnects with a tree structure and will certainly include SMP building blocks.  This type of scheduling will become even more important in the near future since it becomes increasingly difficult and expensive to build a flat interconnect as the cluster size grows.  In addition, new interconnect technologies are appearing which use loop, mesh and torus topologies.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">There are of course many other areas of job resource management that need improvement on clusters.  For example, job startup, monitoring and cleanup should be done in a parallel fashion.  In addition the database of node and job status needs significant work to handle large clusters with large numbers of jobs effectively.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">We plan to augment the simulations here with several techniques.  First instead of a single pre-defined list of jobs randomly generated from a single source we will use "user-agents" that will submit jobs to the system.  Each user-agent will submit jobs randomly generated but from a sub-class of the overall job mix.  For example, a user-agent might represent a code developer submitting many debug jobs during normal working hours, a heavy user that submits long jobs, a greedy user that submits many jobs which fill gaps that a backfill mechanism might recognize, etc.  The second modification is to change the metric.  That will become the total number of active node hours in a given fixed time length.  The user-agents will stop submitting jobs only after the metric has been met.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><P ALIGN="JUSTIFY">8. Conclusions</P>
+<P ALIGN="JUSTIFY"></P>
+</B><P ALIGN="JUSTIFY">We have shown that the Maui Scheduler plugin to the PBS package provides a significant improvement in overall cluster utilization compared with the built-in FIFO scheduler.  The Maui Scheduler does this by combining an intelligent wall time based node reservation system with an efficient backfill algorithm.  The result is a flexible policy based scheduling system that provides guaranteed maximum start times while maintaining high total node utilization.</P>
+<P ALIGN="JUSTIFY">There are many issues that have yet to be addresses, such as cluster queue aggregation, inter-site trust and delayed authentication in addition to scalable system monitoring over a large distributed system.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><P>9. References</P>
+</B>
+<P>[1] S. M. Jackson "QBank, A Resource Allocaiton Management Package for Parallel Computers, Version 2.6" (1998), Pacific Northwest National Laboratory, Richland, Washington 99352-0999.</P>
+<P>[2]&nbsp;www.extremelinux.org/activities/usenix99/docs/ </P>
+<P>[3] M.&nbsp;W.&nbsp;Schmidt, K.&nbsp;K.&nbsp;Baldridge, J.&nbsp;A.&nbsp;Boatz, S.&nbsp;T.&nbsp;Elbert, M.&nbsp;S.&nbsp;Gordon, J.&nbsp;H.&nbsp;Jensen, S.&nbsp;Koseki, N.&nbsp;Matsunaga, K.&nbsp;A.&nbsp;Nguyen, S.&nbsp;J.&nbsp;Su, T.&nbsp;L.&nbsp;Windus, M.&nbsp;Dupuis, J.&nbsp;A.&nbsp;Montgomery J.Comput.Chem. <B>14</B>, 1347-1363(1993 )</P>
+<P>[4] PBS_1, http://www.pbspro.com/</P>
+<P>[5] http://www.mhpcc.edu/maui</P>
+<P>[6] NERSC, The National Energy Research Scientific Computing Center, 
+http:/www.nersc.gov<B> </P>
+</B><P>[7] This complete data set is provided to allow the reader to reproduce our simulations if desired: http://www.scl.ameslab.gov/Personnel/rickyk/jobmix.html</P></FONT>
+<br><br><br>
+<HR>
+<TABLE BORDER="0" WIDTH="600" CELLSPACING="0" CELLPADDING="0">
+<TR><TD VALIGN="TOP" WIDTH="40%">
+<ADDRESS>
+<FONT SIZE="2">This paper was originally published in the
+Proceedings of the 4th Annual Linux Showcase and Conference, Atlanta,  
+October 10-14, 2000, Atlanta, Georgia, USA
+</FONT><P>
+<!-- EDIT THE DATE AND YOUR LOGIN NAME BELOW -->
+<FONT SIZE="2">Last changed:  8 Sept. 2000 bleu</FONT><BR>
+</ADDRESS>
+</TD><TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="60%">
+
+<!-- Upwards Navigation Table -->
+<table border=0 cellspacing=0 cellpadding=0>
+<tr><td>
+
+<a href="../../../index.html"><img src="/legacy/graphics/blueball.gif" width=16 align="top"
+height=16 alt="" border=0><font size=1>Papers Index</font></a><br>
+</td></tr><tr><td>
+<a href="http://www.usenix.org"><img src="/legacy/graphics/blueball.gif" width=16 align="top"
+height=16 alt="" border=0><font size=1>USENIX home</font></a><br>
+</td></tr></table>
+<!-- End of Upwards Navigation Table -->
+</td></tr></table>
+</BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.crpc.rice.edu/newsletters/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html>	<head>		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">		<meta name="generator" content="Adobe GoLive 6">		<title>Parallel Computing Research Newsletter - CRPC</title>		<link href="../styles.css" rel="stylesheet" media="screen">		<script language="JavaScript">			<!-- Start Preload Script -->			<!--						img1 = new Image ()                        img1.src = "Images/left_navigation_images/sites_over.gif"                        img2 = new Image ()                        img2.src = "Images/left_navigation_images/leadership_over.gif"                        img3 = new Image ()                        img3.src = "Images/left_navigation_images/research_over.gif"                        img4 = new Image ()                        img4.src = "Images/left_navigation_images/accomplishments_over.gif"                        img5 = new Image ()                        img5.src = "Images/left_navigation_images/faq_over.gif"						img6 = new Image ()                        img6.src = "Images/left_navigation_images/knowledge_over.gif"                        img7 = new Image ()                        img7.src = "Images/left_navigation_images/calendar_over.gif"                        img8 = new Image ()                        img8.src = "Images/left_navigation_images/education_over.gif"                        img9 = new Image ()                        img9.src = "Images/left_navigation_images/media_over.gif"                        img10 = new Image ()                        img10.src = "Images/left_navigation_images/reports_publications_over.gif"                        img11 = new Image ()                        img11.src = "Images/left_navigation_images/parallel_over.gif"                        img12 = new Image ()                        img12.src = "Images/left_navigation_images/contact_over.gif"// --><!-- End Preload Script -->					<!--			//This credit must stay intact			//Script by http://www.java-Scripts.net and http://wsabstract.com 	function doClear(theText) {     	if (theText.value == theText.defaultValue) {         	theText.value = ""     } }//--><!-- End field clear script for search feature -->		</script>	</head>	<body bgcolor="#ffffff">		<table width="624" border="0" cellspacing="5" cellpadding="5">			<tr>				<td colspan="2" valign="top" width="644"><a name="top"></a><img src="images/newsletter_header.jpg" alt="" width="624" height="68" border="0">					<hr>				</td>			</tr>			<tr>				<td colspan="2" valign="top" width="644">					<div align="center">						<h4>Index of Parallel Computing Research</h4>						<table width="80%" border="0" cellspacing="5" cellpadding="5">							<tr>								<td colspan="2">									<h4>1999</h4>								</td>							</tr>							<tr>								<td><a href="sum99/index.html">Volume 7, Issue 1 - Spring/Summer 1999</a></td>								<td></td>							</tr>							<tr>								<td colspan="2">									<hr>									<h4>1998</h4>								</td>							</tr>							<tr>								<td><a href="fal98/index.html">Volume 6, Issue 3 - Fall 1998</a></td>								<td></td>							</tr>							<tr>								<td><a href="sum98/index.html">Volume 6, Issue 2 - Spring/Summer 1998</a></td>								<td><a href="win98/index.html">Volume 6, Issue 1 - Winter 1998</a></td>							</tr>							<tr>								<td colspan="2">									<hr>									<h4>1997</h4>								</td>							</tr>							<tr>								<td><a href="fal97/index.html">Volume 5, Issue 4 - Fall 1997</a></td>								<td><a href="spr97/index.html">Volume 5, Issue 2 - Spring 1997</a></td>							</tr>							<tr>								<td><a href="sum97/index.html">Volume 5, Issue 3 - Summer 1997</a></td>								<td><a href="win97/index.html">Volume 5, Issue 1 - Winter 1997</a></td>							</tr>							<tr>								<td colspan="2">									<hr>									<h4>1996</h4>								</td>							</tr>							<tr>								<td><a href="fal96/index.html">Volume 4, Issue 4 - Fall 1996</a></td>								<td><a href="spr96/index.html">Volume 4, Issue 2 - Spring 1996</a></td>							</tr>							<tr>								<td><a href="sum96/index.html">Volume 4, Issue 3 - Summer 1996</a></td>								<td><a href="win96/index.html">Volume 4, Issue 1 - Winter 1996</a></td>							</tr>							<tr>								<td colspan="2">									<hr>									<h4>1995</h4>								</td>							</tr>							<tr>								<td><a href="fal95/index.html">Volume 3, Issue 4 - Fall 1995</a></td>								<td><a href="spr95/index.html">Volume 3, Issue 2 - Spring 1995</a></td>							</tr>							<tr>								<td><a href="sum95/index.html">Volume 3, Issue 3 - Summer 1995</a></td>								<td><a href="jan95/index.html">Volume 3, Issue 1 - January 1995</a></td>							</tr>							<tr>								<td colspan="2">									<hr>									<h4>1994</h4>								</td>							</tr>							<tr>								<td><a href="oct94/index.html">Volume 2, Issue 4 - October 1994</a></td>								<td><a href="apr94/index.html">Volume 2, Issue 2 - April 1994</a></td>							</tr>							<tr>								<td><a href="jul94/index.html">Volume 2, Issue 3 - July 1994</a></td>								<td><a href="jan94/index.html">Volume 2, Issue 1 - January 1994</a></td>							</tr>							<tr>								<td colspan="2">									<hr>									<h4>1993</h4>								</td>							</tr>							<tr>								<td><a href="oct93/index.html">Volume 1, Issue 4 - October 1993</a></td>								<td><a href="apr93/index.html">Volume 1, Issue 2 - April 1993</a></td>							</tr>							<tr>								<td><a href="jul93/index.html">Volume 1, Issue 3 - July 1993</a></td>								<td><a href="jan93/index.html">Volume 1, Issue 1 - January 1993</a></td>							</tr>						</table>						<csobj occur="66" w="644" h="124" t="Component" csref="../../CRPCWeb.data/Components/footer.html">							<div align="center">								<hr>								<p><a href="../FAQ.html#Sites">Sites &amp; Affiliations</a> | <a href="../leadership.html">Leadership</a> | <a href="../research/index.html">Research &amp; Applications</a> | <a href="../FAQ.html#Accomplishments">Major Accomplishments</a> | <a href="../FAQ.html">FAQ</a> | <a href="http://www.crpc.rice.edu/Harvest/brokers/crpc/index.html">Search</a> | <a href="../transfer.html">Knowledge &amp; Technology Transfer</a> | <a href="ftp://softlib.rice.edu/pub/events/calendar99.html">Calendar of Events</a> | <a href="../education/index.html">Education &amp; Outreach</a> | <a href="../media_resources/index.html">Media Resources</a> | <a href="../pubs.html">Technical Reports &amp; Publications</a> | <a href="sum99/index.html">Parallel Computing Research Quarterly Newsletter</a> | <a href="../newsArchive/index.html">News Archives</a> | <a href="../contact.html">Contact Information</a></p>								<hr>								<table width="100%" border="0" cellspacing="5" cellpadding="0">									<tr>										<td><a title="Hipersoft" href="http://www.hipersoft.rice.edu">Hipersoft</a> | <a title="LACSI" href="http://www.crpc.rice.edu">CRPC</a></td>										<td>											<div align="right">												&copy; 2003 <a title="Rice University" href="http://www.rice.edu">Rice University</a></div>										</td>									</tr>								</table>								<p><a name="Anchor-49575"></a></p>							</div>						</csobj></div>				</td>			</tr>		</table>		<p></p>	</body></html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cloudbus.org/~raj/cluster/>====================
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="description" content="It provides cluster computing resources such as books, teaching presentation slides, links to   numerous cluster management systems, environments, software, links to cluster software repository, documents, conferences, announcements">
+   <meta name="keywords" content="cluster, clusters, compute farms, clustering, cluster computing, supercomputing, multithreading, Java, high performance computing, 
+IEEE,   Task Force on Cluster Computing, TFCC, Rajkumar, Buyya, Rajkumar Buyya, Internet, high availability, MPI, 
+PVM, Beowulf,   Linux Cluster, Solaris Cluster, NT Cluster, Clusters of Computers, Clusters of Workstations, 
+Networks of Workstations,   single system image, India, distributed computing, resume, software, metacomputing, 
+metacomputer, Computational grids, grid computing,   resource management, scheduling, load balancing, 
+algorithms, applications, weather modeling, networks, web   computing, globus, legion, HPVM, parallel 
+virtual machine, pvm, message passing interface, mpi, protocols, help, cluster systems,   process migration, 
+computer science, bioinformatics, computational science, simulation, genetic algorithms, metacomputing,
+high performance distributed computing, collaboration, C++, microporcessors, high performance networks, myrinet, 
+gigabit   ethernet, microkernel, parallel computing, concurrency, concurrent computing, parallelism, clustering, 
+image processing,   weather modeling, fault tolerant, reliability, reliable computing, stand-by servers, 
+servers, SP2, Cray, cluster resources,   prentice hall, online books, authors, presentation slides, book, web 
+servers, high performance distributed computing, conferences, distributed shared memory, distributed systems, 
+network RAM, RAID, parallel file system, cluster file system, parallel I/O,   scheduling algorithms, 
+static scheduling, dynamic scheduling, cluster operating system, cluster applications,   supercomputing, supercomputer, 
+automatic parallelisation, linda, performance monitoring, cluster management, cluster   administration, adpative parallel 
+computing, cycle stealing, resource sharing, computer architecture, grand challenge   applications, 
+computational fluid dynamics, cluster shell, network load balancing, commodity supercomputing, 
+low cost supercomputing, communcal multiprocessing, multicomputers, distributed operating systems, 
+parallel programming langauges,   parallel programs, parallel programming, parallel programming paradigms, 
+massive storage systems, PC clusters, SMP   clusters, clusters of clusters, wide-area computing, 
+active messages, fast messages, fast sockets, virtual interface architecture, parallel programming   environments, 
+problem solving environment, parallel software repository, cluster software repository, cluster in a box,
+superclusters, ultraclusters, cluster management systems, job management systems, queueing systems, 
+process management,   lsf, codine, Maui, condor, NOW, performance clustering, availability clustering, web server, 
+software exchange, instant   computing, scalabality, scalable server, scalable computing, scalable cluster, 
+threads, multithreading, multiprocessing,   extreme linux, scientific computing, scientific and high performance 
+computing, virtual computer, world-wide computer,   Bioinformatics, Informatics, cluster node cloning, 
+Computational Economy, high   performance network computing, grid computing, computational grids, data grid, 
+peer to peer computing, P2P">
+<meta name="GENERATOR" content="Mozilla/4.76 [en]C-CCK-MCD monwin/020  (WinNT; U) [Netscape]">
+<title>Cluster Computing Info Centre</title>
+</head>
+<body bgcolor="#FFFFFF">
+
+<center><img SRC="ccr_pic.gif" ALT="Browse it" BORDER=1 ></center>
+
+<center>
+<h1>
+<font face="Lithograph"><font color="#0000FF"></font></font></h1></center>
+
+<p><hr>
+<center>
+<h1>
+<font face="Lithograph"><font color="#0000FF">Cluster Computing Info Centre</font></font></h1></center>
+
+<p><hr>
+<p>Vol. 1 -- <a href="http://www.phptr.com/browse/product.asp?product_id={862AAD1C-9398-4358-B2A1-4628ECF44C9D}">High
+Performance Cluster Computing: Architectures and&nbsp; Systems</a>,&nbsp;
+Rajkumar Buyya (editor), ISBN 0-13-013784-7,
+<a href="http://www.phptr.com/">Prentice
+Hall PTR</a>, NJ, USA, 1999.
+<ul>
+<li>
+<a href="v1preface.ps.gz">Preface</a>
+(<a href="v1preface.pdf">pdf</a>)</li>
+
+<li>
+<a href="v1toc.ps.gz">Table of Contents</a> (<a href="v1toc.pdf">pdf</a>),
+(<a href="v1toc.html">html</a> brief contents)</li>
+
+<li>
+<a href="v1chap1.ps.gz">Sample
+Chapter</a> (<a href="v1chap1.pdf">pdf</a>)</li>
+
+<li>
+<a href="v1authors.ps.gz">Contributing
+Authors</a> (<a href="v1authors.pdf">pdf</a>)</li>
+
+<li>
+<a href="v1errata.html">Errata</a></li>
+</ul>
+
+<p><br>Vol. 2 -- <a href="http://www.phptr.com/browse/product.asp?product_id={DA8FC375-6C6B-41AA-9A80-907556682E5A}">High
+Performance Cluster Computing: Programming and Applications</a>, Rajkumar
+Buyya (editor), ISBN 0-13-013785-5, <a href="http://www.phptr.com/">Prentice
+Hall PTR</a>, NJ, USA, 1999.
+<ul>
+<li>
+<a href="v2preface.ps.gz">Preface</a>
+(<a href="v2preface.pdf">pdf</a>)</li>
+
+<li>
+<a href="v2toc.ps.gz">Table
+of Contents</a> (<a href="v2toc.pdf">pdf</a>),
+(<a href="v2toc.html">html</a>
+brief contents)</li>
+
+<li>
+<a href="v2chap1.ps.gz">Sample
+Chapter</a> (<a href="v2chap1.pdf">pdf</a>)</li>
+
+<li>
+<a href="v2authors.ps.gz">Contributing
+Authors</a> (<a href="v2authors.pdf">pdf</a>)</li>
+
+<li>
+<a href="v2errata.html">Errata</a></li>
+</ul>
+
+<h2>
+<font face="Lithograph"><font color="#FF0000">Some Sources</font></font></h2>
+
+<table CELLPADDING=10 >
+<tr>
+<td>
+<ul><a href="vol1pic_large.gif"><img SRC="vol1pic_large.gif" ALT="Get from any virtual book store" BORDER=0 height=282 width=214></a></ul>
+</td>
+
+<td>
+<ul>
+<li>
+<a href="http://www.mysimon.com/msrch/index.jhtml?c=bookisbn&format=&pgid=shop&ps=t&author=&title=cluster+computing&kw=&pid=0130137847&key=UC_20010401_004731_0194668942">mySimon.com:
+Buy from bookstore of your choice at competative rate!</a></li>
+
+<li>
+<a href="http://www.amazon.com/exec/obidos/ASIN/0130137847/clusterandgri-20"><img SRC="amzn-assoc2.gif" ALT="In Association with Amazon.com (USA)" BORDER=0 ></a>&nbsp;<a href="http://www.amazon.co.uk/exec/obidos/ASIN/0130137847/rajkumbuyyainass"><img SRC="uk_b_logo_small.gif" ALT="In Association with Amazon.co.uk (UK)" BORDER=0 ></a>&nbsp;<a href="http://www.amazon.de/exec/obidos/ASIN/0130137847/rajkumabuyyainpa"><img SRC="amazon_de.gif" ALT="In Association with Amazon.de (Germany)" BORDER=0 ></a></li>
+
+<li>
+<a href="http://shop.barnesandnoble.com/booksearch/isbnInquiry.asp?userid=3MOTYNREN5&mscssid=PV86LDL33WS12L7A00CGNDBPBA4X48K2&pcount=0&srefer=&isbn=0130137847">Barnes
+&amp; Nobel.com</a></li>
+
+<li>
+<a href="http://www.bookpool.com/.x/ahqroc9ow0/sm/0130137847">BookPool.com</a></li>
+
+<li>
+<a href="http://www.briansbooks.com/catalog/books/0130137847?V2sgmdL9;;17">Brian's
+Books</a></li>
+
+<li>
+<a href="http://www1.fatbrain.com/FindItNow/Services/home.cl?from=YWY225&store=1">Fat
+Brain</a></li>
+
+<li>
+<a href="http://www.softpro.com/softpro/0-13-013784-7.html">Softpro</a></li>
+
+<li>
+<a href="http://www.hotline.com.au/details.html?sku=0130137847">Hotline
+Books, Australia</a></li>
+
+<li>
+<a href="http://www.dadirect.com.au/cgi-bin/da.exe/dab013^4X0TRPX94X0TRZ1S0130137847">DA
+Online Bookshop, Australia &amp; New Zealand</a></li>
+
+<li>
+<a href="http://www.phptr.com/browse/product.asp?product_id={862AAD1C-9398-4358-B2A1-4628ECF44C9D}">Prentice Hall</a></li>
+</ul>
+</td>
+</tr>
+</table>
+
+<br>&nbsp;
+<table CELLPADDING=10 >
+<tr>
+<td>
+<ul><a href="vol2pic_large.gif"><img SRC="vol2pic_large.gif" ALT="Get from any virtual book store" BORDER=0 height=282 width=214></a></ul>
+</td>
+
+<td>
+<ul>
+<li>
+<a href="http://www.mysimon.com/msrch/index.jhtml?c=bookisbn&format=&pgid=shop&ps=t&author=&title=cluster+computing&kw=&pid=0130137855&key=UC_20010401_004332_0767655026">mySimon.com
+(buy from best source of your choice!)</a>&nbsp;</li>
+
+<li>
+<a href="http://www.amazon.com/exec/obidos/ASIN/0130137855/clusterandgri-20"><img SRC="amzn-assoc2.gif" ALT="In Association with Amazon.com (USA)" BORDER=0 ></a><a href="http://www.amazon.co.uk/exec/obidos/ASIN/0130137855/rajkumbuyyainass"><img SRC="uk_b_logo_small.gif" ALT="In Association with Amazon.co.uk (UK)" BORDER=0 ></a><a href="http://www.amazon.de/exec/obidos/ASIN/0130137855/rajkumabuyyainpa"><img SRC="amazon_de.gif" ALT="In Association with Amazon.de (Germany)" BORDER=0 ></a></li>
+
+<li>
+<a href="http://shop.barnesandnoble.com/booksearch/isbnInquiry.asp?userid=3MOTYNREN5&mscssid=PV86LDL33WS12L7A00CGNDBPBA4X48K2&pcount=0&srefer=&isbn=0130137855">Barnes
+&amp; Nobel.com</a></li>
+
+<li>
+<a href="http://www.bookpool.com/.x/ahqroc7s8i/sm/0130137855">BookPool.com</a></li>
+
+<li>
+<a href="http://www.briansbooks.com/catalog/books/0130137855?V2sgmdL9;;17">Brian's
+Books</a></li>
+
+<li>
+<a href="http://www1.fatbrain.com/FindItNow/Services/home.cl?from=YWY225&store=1">Fat
+Brain</a></li>
+
+<li>
+<a href="http://www.softpro.com/softpro/0-13-013785-5.html">Softpro</a></li>
+
+<li>
+<a href="http://www.hotline.com.au/details.html?sku=0130137855">Hotline
+Books, Australia</a></li>
+
+<li>
+<a href="http://www.dadirect.com.au/cgi-bin/da.exe/dab013^4X0TRPX94X0TRZ1S0130137855">DA
+Online Bookshop, Australia &amp; New Zealand</a></li>
+
+<li>
+<a href="http://www.phptr.com/browse/product.asp?session_id={2A0292BB-288C-401C-B00F-C5B9565FCE0D}&product_id={DA8FC375-6C6B-41AA-9A80-907556682E5A}">Prentice Hall</a></li>
+</ul>
+</td>
+</tr>
+</table>
+
+<table CELLPADDING=10 >
+<tr>
+<td>
+<ul><a href="chinese/"><img SRC="chinese/vol1cover.gif" height=212 width=149 align=CENTER></a></ul>
+</td>
+
+<td>
+<ul>
+<a href="../superstorage/"><img SRC="../superstorage/storage-io-book.jpg" height=218 width=162 align=CENTER></a></li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h2>
+<font face="Lithograph"><font color="#FF0000">In News!</font></font></h2>
+
+<ul>
+<li>
+<a href="pdcp-review.txt">review </a>in <a href="http://www.cs.okstate.edu/~pdcp">PDCP Journal</a></li>
+
+<li>
+<a href="http://www.computer.org/concurrency/pd2000/p1toc.htm"><img SRC="ieee_concurrency_journal.gif" BORDER=0 height=68 width=51 align=CENTER></a>
+The <a href="ieee_concurrency_review.pdf">review
+on the book</a> by Prof. Patnaik appeared in IEEE Concurrency, Jan.-March 2000.</li>
+
+<li><A href="Elsevier-MicroElectronic2000.pdf">Another review on the book</A> appeared in Microelectronics Reliability, Volume 40, Issue 1, 2000.
+<li>
+<a href="../papers/theagecluster.html"><img SRC="../photos/RajInAge.jpg" height=62 width=78 align=CENTER></a><a href="../papers/theagecluster.html">
+The Age, an Australian News Paper featured the book</a></li>
+
+<li>
+<a href="http://it.mycareer.com.au/cgi-bin/common/printArticle.pl?path=/news/2001/10/09/FFXMLM06JSC.html">Harnessing
+a global computer grid</a></li>
+</ul>
+
+<h1>
+<font face="Lithograph"><font color="#FF0000">Clustering Resources</font></font></h1>
+
+<h3>
+<b>Teaching Guidelines</b></h3>
+
+<ul><a href="../papers/CC-Edu.pdf">Cluster Computing in the Classroom</a></ul>
+
+<h3>
+<b>Related Cluster Books</b></h3>
+
+<ul>
+<li>
+<a href="books/"><img SRC="books/booksself.gif" ></a><a href="books/">
+books on cluster architecture, programming, deployement,...</a></li>
+</ul>
+
+<h3>
+<b>International Forum</b></h3>
+
+<ul>
+<li>
+<a href="http://www.ieeetfcc.org">IEEE Task Force on Cluster Computing</a></li>
+</ul>
+
+<h3>
+<b>Presentation Slides</b></h3>
+
+<ul>
+<li>
+<img SRC="new.gif" ALT="Browse it" BORDER=0 >
+<font color="#FF0000"><a href="CCBookV1Slides.zip">Book Chapters (available
+for chapters 1, 4, 7, 9, 10, 14, 16, 17, 18, 19, 20)</a></font></li>
+
+<li>
+<a href="ClusterSlides.ZIP">High
+Performance Cluser Computing</a> (used in tutorials presented at many international
+conferences and IEEE chapters)</li>
+
+<li>
+<a href="../papers/ssiArch.html">Single
+System Image</a></li>
+
+<li>
+<a href="LinuxClusters.ppt">Parallel
+Processing on Linux Clusters</a></li>
+
+<li>
+<a href="../tut/java.ppt">Java Programming</a></li>
+
+<li>
+<a href="../tut/multi-threading.ppt">Multithreading/Multithreaded
+Programming</a></li>
+
+<li>
+<a href="../tut/cliser.ppt">Introduction
+to Client/Server Computing</a></li>
+
+<li>
+<a href="../talks/PDCAppEcommerce/">Cluster-based
+Infrastructure for E-Commerce!</a></li>
+
+<li>
+<a href="../talks/PDCATKeynote/">Scalable
+Computing from Clusters to Computational Power Grids</a></li>
+
+<li>
+<a href="../ecogrid/">Computational
+Grids and Computional Economy</a></li>
+
+<li>
+<a href="../csc433">Parallel Systems
+and Clusters: Course page</a></li>
+</ul>
+
+<h3>
+<b>Free Software</b></h3>
+
+<ul>
+<li>
+User Level/Light Weight Communication Protocols</li>
+
+<dt>
+<a href="http://now.cs.berkeley.edu/AM/active_messages.html">Active Messages
+(AM)</a></dt>
+
+<dt>
+<a href="http://www.disi.unige.it/project/gamma/">Genoa Active Message
+MAchine (GAMMA)</a></dt>
+
+<dt>
+<a href="http://www2.cs.cornell.edu/U-Net/Default.html">U-net</a></dt>
+
+<dt>
+<a href="http://www.cs.duke.edu/ari/trapeze/">Trapeze: gigabit-per-second
+TCP</a></dt>
+
+<dt>
+<a href="http://www-csag.ucsd.edu/projects/comm/fm.html">Fast Messages
+(FM)</a></dt>
+
+<dt>
+<a href="http://rhdac.univ-lyon1.fr/bip.html">Basic Interface for Parallelism
+(BIP)</a></dt>
+
+<dt>
+<a href="http://www.viarch.org/">Virtual Interface Architecture (VIA) Initiative</a>,
+<a href="http://www.cs.berkeley.edu/~philipb/via/">Berkeley Implementation
+</a> and <A href="http://hpclab.cs.tsinghua.edu.cn/~chenyu/myvia.html">MyVIA from Tsinghua Univ.</A></dt>
+
+<li>
+<a href="http://www.infinibandta.com/">Infiniband Initiative: SAN and I/O</a></li>
+
+<li>
+<a href="http://www.epm.ornl.gov/pvm/">PVM</a></li>
+
+<li>
+<a href="http://elvis.rowan.edu/~pitman/pvmsync/index.shtml">pvmsync</a></li>
+
+<li>
+<a href="http://www-unix.mcs.anl.gov/mpi/mpich/">MPI</a></li>
+
+<li>
+<a href="http://www.lam-mpi.org/">LAM/MPI</a></li>
+
+<li>
+<a href="http://www.cs.wisc.edu/paradyn/">Paradyn- parallel performance
+tools</a></li>
+
+<li>
+<a href="../papers/jmpf.html">JMPF:
+A Message Passing Framework for Cluster Computing in Java</a></li>
+<li><A href="http://vip.6to23.com/jcluster/">Jcluster: A Java-based message-passing environment</A>
+
+<li>
+<a href="http://www.uni-paderborn.de/pc2/projects/mol/plus.htm">PLUS: MPI&amp;PVM
+integration</a></li>
+
+<li>
+<a href="http://www.criticalsoftware.com/hpc">WMPI (MPI for NT cluster)</a></li>
+
+<li>
+<a href="http://pdswww.rwcp.or.jp/lab/pdslab/dist/">SCore library, the
+SCore-D user-level parallel operating system and MPC++ parallel programming
+language and its runtime</a></li>
+
+<li>
+<a href="http://supertech.lcs.mit.edu/cilk/">Click, a language for multithreaded
+parallel programming</a></li>
+
+<li>
+<a href="http://www-fp.mcs.anl.gov/~lusk/upshot/">Profiler (Upshot/Nupshot)</a></li>
+
+<li>
+<a href="http://www.cs.utk.edu/netsolve/">NetSolve</a></li>
+
+<li>
+<a href="http://www.openmp.org/index.cgi?resources">OpenMP</a></li>
+
+<li>
+<a href="http://www.cs.rpi.edu/~nibhanum/arsdir/">BSP Library</a></li>
+
+<li>
+<a href="http://www.cs.umd.edu/~keleher/dsm.html">Distributed Shared Memory
+(DSM)</a></li>
+
+<li>
+<a href="http://www.parl.clemson.edu/pvfs/index.html">Parallel Virtual
+File System (PVFS)</a></li>
+
+<li>
+<a href="http://www.cs.huji.ac.il/labs/parallel/workload/">Parallel Workload
+Archive</a></li>
+
+<li>
+<a href="http://www.cs.dartmouth.edu/pario/">Parallel I/O Archive</a></li>
+
+<li>
+<a href="http://linux.msede.com/lvm/">Logical Volume Manager for Linux</a></li>
+
+<li>
+<a href="http://segfault.dhs.org/ProcessMigration/">Transparent Process
+Migration</a></li>
+
+
+<li>
+Cluster/Job/Resource Management Systems
+<ul>
+<li><A href="http://www.buyya.com/libra/">Liba Scheduler</A>
+<li><A href="http://supercluster.org/maui">Maui Scheduler</A>
+<li><a href="http://bioinfo.mbb.yale.edu/~wkrebs/queue.html">Queue: Load-balancing
+and local rsh replacement system</a></li>
+<li><A href="http://www.cs.wisc.edu/condor/">Condor</A>
+<li><A href="http://www.openpbs.com/">PBS (Portable Batch System)</A>
+<li><A href="http://gridengine.sunsource.net/">SGE (Sun Grid Engine)</A>
+<li><A href="http://www.platform.com/products/wm/LSF/">LSF (Load Sharing Facility)</A>
+
+<li>
+<a href="http://www.uni-paderborn.de/pc2/projects/ccs/">CCS: Computing
+Center Software</a></li>
+
+<li>
+<a href="http://wwwbode.informatik.tu-muenchen.de/~cocheck/">CoCheck</a></li>
+<li>
+<a href="http://www.infy.com/corporate/thought-papers/LoadbalancingUnixWin_Aug28.htm">XYALB:
+load balancing on small clusters</a></li>
+
+</ul>
+<li>
+<a href="http://wallybox.cei.net/dipc/">Distributed Inter-Process Communication
+(DIPC)</a></li>
+
+<li>
+<a href="http://strobe.weeg.uiowa.edu/~edhill/public/clsh/">Cluster Shell</a></li>
+
+<li>
+<a href="http://www.inficad.com/~garbled/clusterit.html">ClusterIt</a></li>
+
+<li>
+<a href="http://darwin.ee.iastate.edu/~srl/">Parallelisation Agent</a></li>
+
+<li>
+<a href="http://www.employees.org/~satch/ssh/faq/">Secure Shell (SSH)</a></li>
+
+<li>
+<a href="http://www.uk.research.att.com/vnc/">Virtual Network Computing
+(VNC)</a> 
+
+<li><a href="http://www.LinuxVirtualServer.org/">Linux Virtual Web Server</a>
+
+<li>
+Cluster Administration</li>
+
+<dt>
+<a href="http://www.cs.virginia.edu/~jdm2d/alert/">Alert</a></dt>
+
+<dt>
+<a href="http://smile.cpe.ku.ac.th/">SCMS</a></dt>
+
+<dt>
+<a href="../parmon/index.html">PARMON</a></dt>
+
+<dt>
+<a href="http://www.sci.usq.edu.au/staff/jacek/bWatch/">bWatch</a></dt>
+
+<dt>
+<a href="http://www.cs.inf.ethz.ch/CoPs/patagonia/">Cluster node Cloning
+and multi-boot instalation</a> (check dolly proram)</dt>
+
+<dt>
+<a href="http://www.informatik.uni-koeln.de/fai/">FAI (Fully Automatic
+Installation) of Linux on Clusters</a></dt>
+
+<dt>
+<a href="http://oss.software.ibm.com/developerworks/opensource/linux/projects/lui/">Linux
+Utility for cluster Install (LUI)</a></dt>
+
+<li>
+<a href="http://www.lac.uic.edu/LAC.html">Ptool: persistent object manager</a></li>
+
+<li>
+<a href="http://legion.virginia.edu/">Legion: Worldwide virtual computer</a></li>
+
+<li>
+<a href="http://www.computepower.com">Compute Power Market</a></li>
+
+<li>
+Scientific Algorithms, Libraries and Applications</li>
+
+<dt>
+<a href="cluster_computing_v2_ch3.tar">Parallelised
+Dijkstra and Floyd algorithm for Shortest Path Problem (in PVM and MPI)</a></dt>
+
+<dt>
+<a href="http://www.ee.duke.edu/research/SciComp/Docs/Dpmta/dpmta.html">Paralel
+Multipole Tree Algorithm (PMTA) (on PVM)</a></dt>
+
+<dt>
+<a href="http://www-mddsp.enel.ucalgary.ca/People/adilger/povray/">Ray
+Tracing (for PVM)</a></dt>
+
+<dt>
+<a href="http://www.swin.edu.au/astronomy/pbourke/povray/parallel/">Ray
+Tracing (for MPI)</a></dt>
+
+<dt>
+<a href="http://www.netlib.org/utk/people/JackDongarra/la-sw.html">Linear
+Algebra</a></dt>
+
+<dt>
+<a href="http://www.fftw.org/">Fast Fourier Transformation (FFT) library</a></dt>
+
+<dt>
+<a href="http://WWW.ERC.MsState.Edu/labs/hpcl/pmlp/">Parallel Mathematical
+Library</a></dt>
+
+<dt>
+<a href="http://www-fp.mcs.anl.gov/petsc/">PETSc (Partial Differential
+Equations Toolkit)</a></dt>
+
+<dt>
+<a href="http://www.cactuscode.org/">Cactus</a>, a parallel code for solving
+systems of partial differential equations</dt>
+
+<dt>
+<a href="http://www.ica3.uni-stuttgart.de/~ug/">Numerical solution of partial
+differential equations</a></dt>
+
+<dt>
+<a href="http://ab-initio.mit.edu/mpb/">MIT Photonic-Bands: electromagnetic
+eigenmodes and dispersion relations of arbitrary dielectric structures</a></dt>
+
+<dt>
+<a href="http://www-unix.mcs.anl.gov/sumaa3d/">Unstructured Mesh Computation</a></dt>
+
+<dt>
+<a href="http://www.ks.uiuc.edu/Research/namd/">Scalable Molecular Dynamics</a></dt>
+
+<dt>
+<a href="http://www.rwcp.or.jp/papia/">PAPIA: Parallel Protein Information
+Analysis system</a></dt>
+
+<dt>
+<a href="http://www.mol.biol.ethz.ch/wuthrich/software/dyana/">Dynamics
+Algorithm for NMR Applications></a></<dt></dt>
+
+<dt>
+<a href="http://www.mcell.cnl.salk.edu/">Cellular Microphysiology (Study
+of Brain Cell Activity)</a></dt>
+
+<dt>
+<a href="http://atmos.nmsu.edu/epic.html">The Explicit Planetary Isentropic
+Coordinate (EPIC) Atmospheric Model</a></dt>
+
+<dt>
+<a href="http://www-unix.mcs.anl.gov/~michalak/B/mpmm_index.html">Weather
+Modeling</a></dt>
+
+<dt>
+<a href="http://www.cs.berkeley.edu/~madams/prom_intro.html">Multigrid
+solver for Finite Element Analysis</a></dt>
+
+<dt>
+<a href="http://www.cs.princeton.edu/omnimedia/">Scalable Display Wall</a></dt>
+
+<li>
+Produced by Groups</li>
+
+<dd>
+<a href="http://pdswww.rwcp.or.jp/">RWCP Japan Cluster Software (for Unix)</a></dd>
+
+<dd>
+<a href="http://www.beowulf.org">Beowulf&nbsp; (for Linux)</a></dd>
+
+<dd>
+<a href="http://now.cs.berkeley.edu">Berkeley NOW (for Solaris)</a></dd>
+
+<dd>
+<a href="http://www.sun.com/software/solutions/hpc/communitysource/download.html">Sun
+HPC ClusterTools</a>, <a href="http://www.sun.com/gridware">Sun Grid Engine</a></dd>
+
+<dd>
+<a href="http://www-csag.ucsd.edu/projects/clusters.html">HPVM (for Windows
+NT)</a></dd>
+
+<dd><a href="http://www.mosix.cs.huji.ac.il/">MOSIX (for Linux)</a></dd>
+<dd><a href="http://clumpos.psoftware.org/">ClumpOS - A CD-based Linux/MOSIX mini-distribution 
+
+<dd>
+<a href="http://www.henge.com/~alanr/ha/">High-Availability Linux Project</a></dd>
+
+<dd>
+<a href="http://www.plasrc.qut.edu.au/Gardens/">Gardens Project</a></dd>
+
+<dd>
+<a href="http://www-gppd.inf.ufrgs.br/projects/mcluster/">MultiCluster
+Project</a></dd>
+
+<dd>
+<a href="http://www-fp.mcs.anl.gov/division/software/">ANL MCS Software
+(MPI, I/O, Globus, profilers,..)</a></dd>
+
+<dd>
+<a href="http://www.cs.vu.nl/das/">Distributed ASCI Supercomputer (DAS)</a>
+and <a href="http://www.cs.vu.nl/~versto/DAS/das-software.html">Software
+for programming DAS</a></dd>
+
+<dd>
+<a href="http://rocks.npaci.edu/">NPACI Rocks Cluster Software</a></dd>
+
+<dd>
+<a href="http://aggregate.org/">Aggregate - PAPERS hardware/software</a></dd>
+<li><A href="http://www.irb.hr/en/cir/projects/dcc/">Debian Cluster Components</A>
+
+<li>
+<a href="http://www.beowulf-underground.org/software.html">Beowulf-Underground
+Current Software</a></li>
+
+<li>
+<a href="http://www.di.unito.it/~mino/cluster/benchmarks/">Cluster Benchmarks</a></li>
+
+<li>
+<a href="http://liinwww.ira.uka.de/~skampi">Special Karlsruher MPI Benchmark</a></li>
+
+<li>
+<a href="http://www.acl.lanl.gov/cluster/benchmarks.html">Benchmarks (Linux
+clusters)</a></li>
+
+<li>
+<a href="http://www.nhse.org/">National HPCC Software Exchange</a> and
+<a href="http://www.nhse.org/rib/repositories/nhse/catalog/">Software
+Catalog</a></li>
+
+<dd>
+<a href="http://www.nhse.org/ptlib/">Parallel Tools Libray</a> and
+<a href="http://www.nhse.org/rib/repositories/ptlib/catalog/">Software
+Catalog</a></dd>
+
+<dd>
+<a href="http://www.nhse.org/hpc-netlib/">HPC-Netlib mathematical software</a>
+and
+<a href="http://www.nhse.org/rib/repositories/hpc-netlib/catalog/">Software
+Catalog</a></dd>
+
+<dd>
+<a href="http://www.csir.org/">Chemistry Software</a> and
+<a href="http://nhse.npac.syr.edu:8015/rib/repositories/csir/catalog/">Software
+Catalog</a></dd>
+
+<li>
+<a href="http://oscar.sourceforge.net/">OSCAR: Open Source Cluster Application
+Resource</a></li>
+
+<li>
+<a href="http://www.cs.sandia.gov/cplant/">Sandia C-Plant Software</a></li>
+
+<li>
+<a href="../ecogrid">Nimrod-G Grid
+Resource Broker and Computational Economy</a></li>
+
+<li>
+<a href="../gridsim">GridSim toolkit
+for Simulation of Application Scheduling</a></li>
+<li><A href="http://www.gridbus.org">Gridbus: Toolkit for service-oriented cluster and grid computing</A>
+</ul>
+
+<h3>
+<b>Commercial Software</b></h3>
+
+<ul>
+<li>
+<a href="http://www.scyld.com/">Scyld Beowulf Scalable Computing</a>:
+<a href="ftp://ftp.parl.clemson.edu/pub/beowulf-2/beowulf-2.0-preview.iso">Download
+Free</a> or <a href="http://linuxcentral.com/catalog/index.php3?prod_code=L000-089">Purchase
+CD</a></li>
+
+<li>
+<a href="http://www.cdac.org.in/html/ssdgblr/source/products.htm">C-DAC
+HPCC Software for Clusters</a></li>
+
+<li>
+<a href="http://www.sun.com/software/hpc/index.html">Sun HPC ClusterTools</a>,
+<a href="http://www.sunlabs.com/research/solaris-mc/">Solaris-MC</a>,
+<a href="http://www.sun.com/gridware">Sun Grid Engine</a></li>
+
+<li>
+<a href="http://www.haifa.il.ibm.com/projects/systech/cjvm.html">IBM cJVM:
+A Cluster-Aware Java Virtual Machine</a></li>
+
+<li>
+<a href="http://www.sco.com/products/clustering/nscwhtpaper/index.html">UnixWare</a></li>
+
+<li>
+<a href="http://www.openvms.digital.com/openvms/PRODUCTS/CLUSTERS/INDEX.HTML">OpenVMS
+Clustesr</a></li>
+
+<li>
+<a href="http://www.turbolinux.com/products/enf/">enFuzion (a commercial version of Nimrod)</a></li>
+
+<li>
+<a href="http://www.hoise.com/dynamite/">Dynamite</a></li>
+
+<li>
+<a href="http://www.mpi-softtech.com/">MPI Software Technology</a></li>
+
+<li>
+<a href="http://www.etnus.com/download/totalview/index.html">Total View
+Debugger</a></li>
+
+<li>
+<a href="../parmon/index.html">PARMON:
+A Portable and Scalable Monitoring System for Clusters</a></li>
+
+<li>
+<a href="http://www.xtreme-machines.com/">Xtreme Machines</a></li>
+
+<li>
+<a href="http://oss.sgi.com/projects/">SGI Open Source Project</a>,
+<a href="http://oss.sgi.com/projects/pcp/">Performance
+Co-Pilot</a></li>
+
+<li>
+<a href="http://www.plogic.com/bert.html">BERT 77: Automatic and Efficient
+Parallelizer for FORTRAN</a> (BERT Lite is free)</li>
+
+<li>
+<a href="http://www.scali.com/">Scali Software Platform(SSP)</a></li>
+
+<li>
+<a href="http://www.parastation.com/">Para Station</a></li>
+
+<li>
+<a href="http://www.microsoft.com/windows2000/hpc/">Microsoft</a></li>
+
+<li>
+<a href="http://www.atipa.com/store/clustering/">Atipa Turnkey Cluster
+solutions</a></li>
+
+<li>
+<a href="http://www.linuxnetworx.com/products/">Linux Networx Cluster solutions</a></li>
+
+<li>
+CriticalSoftware's <a href="http://www.criticalsoftware.com/hpc">Windows
+MPI (WMPI)</a> and <a href="http://www.criticalsoftware.com/hpc">PaTeNT
+(Parallel Tools for NT clusters)</a></li>
+
+<li>
+<a href="http://www.alphaworks.ibm.com/tech/clusterstarterkit">IBM Cluster
+Starter Kit</a></li>
+
+<li><A href="http://www.racksaver.com/clusters/index.asp">RackSaver Clusters</A>
+<li><A href="http://www.tsunamiresearch.com/">Tsunami Research Hive computing</A>
+</ul>
+
+<h3>
+<b>Documentation</b></h3>
+
+<ul>
+<li>
+<a href="http://www.coe.uncc.edu/~abw/parallel/links.html">TFCC Education
+Page</a></li>
+
+<li>
+<a href="http://www.scl.ameslab.gov/Projects/ClusterCookbook/">SCL Cluster
+Cookbook</a></li>
+
+<li>
+<a href="http://www.buyya.com/pdpta99/">Online Proceedings of CC-TEA'99</a></li>
+
+<li>
+<a href="http://personals.ac.upc.es/toni/CCTEA2000/index.html">Online Proceedings
+of CC-TEA 2000</a></li>
+
+<li>
+<a href="http://aggregate.org/PPLINUX/">Linux parallel procesing HOW to ?</a></li>
+
+<li>
+<a href="http://www.beowulf-underground.org/documentation.html">Beowulf-Underground
+Current Documentation</a></li>
+
+<li>
+<a href="http://www2.computerworld.com/home/features.nsf/all/981221qs">ComputerWorld
+QuickStudy</a></li>
+
+<li><A href="http://www.netspace.com.au/~morri/cct.html">Linux-based Cluster Computing</A>
+
+<li>
+<a href="http://www.linuxworld.com/linuxworld/lw-1999-02/lw-02-clustering.html">LinuxWorld</a></li>
+
+<li>
+<a href="http://www.windowsclusters.org/">Windows Clusters Resource Centre</a></li>
+
+<li>
+<a href="http://www.oac.ucla.edu/rts/clustering/">Clustering Linux/NT PC
+machines</a></li>
+
+<li>
+<a href="http://exodus.physics.ucla.edu/appleseed/appleseed.html">AppleSeed:
+Clustering Apple Macintosh machines</a></li>
+
+<li>
+<a href="http://www.windowstechedge.com/wte/wte-1999-07/wte-07-clustering.html">Clustering
+for NT</a></li>
+
+<li>
+<a href="http://www.windowstechedge.com/wte/wte-1999-07/wte-07-mwcluster.html">Taking
+parallel processing to a new level</a></li>
+
+<li>
+<a href="http://www.cris.com/~rjbono/html/pondermatic.html">Home Supercomputing
+with Linux</a></li>
+
+<li>
+<a href="http://www.netlib.org/pvm3/ncwn.html">Network Computing Working
+Notes</a></li>
+
+<li>
+<a href="http://linas.org/linux/">Linux Enterprise Computing</a></li>
+
+<li>
+<a href="http://linas.org/linux/mp.html">Linux MP and Clustering</a></li>
+
+<li>
+<a href="http://reno.cis.upenn.edu/">Eniac 2000</a></li>
+
+<li>
+<a href="http://www.xtreme-machines.com/x-cluster-qs.html">Cluster Quick
+Start</a></li>
+
+<li>
+<a href="http://www.iwr.uni-heidelberg.de/~Peter.Bastian/cluster/pile_of_pcs.html">How
+to Build a Pile of PCs Supercomputer</a></li>
+
+<li>
+<a href="http://metalab.unc.edu/LDP/HOWTO/Beowulf-HOWTO.html">Beowulf HOWTO</a></li>
+
+<li>
+<a href="http://www.cs.ualberta.ca/~rasit/dsmbiblio/index.html">Bibliography
+of DSM Systems</a></li>
+
+<li>
+<a href="http://www.genias.de/news/cluster-review.html">Cluster Computing
+Review</a></li>
+
+<li>
+<a href="http://www.comp.nus.edu.sg/~yuenck/review.html">Annual Review
+of Scalable Computing</a></li>
+
+<li>
+<a href="http://ringer.cs.utsa.edu/research/ParSim/">Parallel/Distributed
+Simulation</a></li>
+
+<li>
+<a href="http://www.hpl.hp.com/personal/John_Wilkes/papers/">HP Labs Storage
+Systems Program (public papers)</a></li>
+
+<li>
+<a href="http://linuxjournal.com:8080/cgi-bin/frames.pl/lj-issues/issue64/3247.html">A
+High-Availability Cluster for Linux</a></li>
+
+<li>
+<a href="http://www.interlog.com/~resnick/HA.htm">A Modern Taxonomy of
+High Availability</a></li>
+
+<li>
+<a href="http://www.ecst.csuchico.edu/~beej/guide/net/">A Guide to Network
+Programming</a></li>
+
+<li>
+<a href="http://cairns.cs.jcu.edu.au/~eoin/cp3000/syllabus.html">Internet
+Technologies</a></li>
+
+<li>
+<a href="http://www-106.ibm.com/developerworks/java/library/j-super.html">Build
+your own Java-based supercomputer</a></li>
+
+<li>
+<a href="http://docs.rinet.ru/NeHi/index.htm">High-Performance Networking
+Unleashed</a></li>
+
+<li>
+<a href="http://www.nd.edu/~markst/castaward/index.html">HPC: Are we just
+getting wrong answers faster ?</a></li>
+</ul>
+
+<h3>
+<b>Annoucements</b></h3>
+
+<ul>
+<li>
+<a href="../superstorage">Mass Storage
+and Parallel I/O Book</a></li>
+
+<li>
+<a href="http://www.TopClusters.org">Top(500)Clusters Project</a></li>
+
+<li>
+<a href="http://www.gridcomputing.com">Grid Computing Info Centre</a></li>
+
+<li><a href="clusters-au.html">Cluster Computing in Australia</a></li>
+
+<li>
+<a href="http://www.beowulf-underground.org/announcements.html">Beowulf-Underground
+Current Annoucements</a></li>
+
+<li>
+<a href="http://www.eg.bucknell.edu/~hyde/tfcc/">TFCC News Letter</a></li>
+
+<li>
+<a href="http://www.computer.org/channels/ds/Cluster/">IEEE DS Online--Cluster
+Computing</a></li>
+
+<li>
+<a href="http://www.genias.de/dpcnews/">DPC News Letter</a></li>
+
+<li>
+<a href="http://www.ccgrid.org">IEEE Intl. Symp. on Cluster Computing and
+the Grid (CCGrid 2001)</a></li>
+
+<li>
+<a href="http://www.gridcomputing.org">IEEE/ACM International Workshop
+on Grid Computing</a></li>
+
+<li>
+<a href="http://www.clustercomp.org">IEEE Task Force Cluster Computing
+Annual Conference</a></li>
+</ul>
+
+<h3>
+<b>Related Links</b></h3>
+
+<ul>
+
+<li>
+<a href="http://foundries.sourceforge.net/clusters/">Sourceforge.net Clustering
+Foundry</a></li>
+
+<li>
+<a href="http://www.microprocessor.sscc.ru">Microprocessors</a></li>
+
+<li>
+<a href="http://bwrc.eecs.berkeley.edu/CIC/">CPU Info Center</a></li>
+
+<li>
+<a href="http://www.cs.wisc.edu/~arch/www/">Computer Architecture</a></li>
+
+<li>
+<a href="http://SAL.KachinaTech.COM/index.shtml">Scientific Applications
+on Linux</a></li>
+
+<li>
+<a href="http://www.chem.arizona.edu/theochem/beowulf/">Beowulf Clusters
+for Chemists</a></li>
+
+<li>
+<a href="http://www.bighosts.com/top-operating-system-guide.php">Operating
+Systems</a></li>
+
+<li>
+<a href="http://www.compilerconnection.com/">Compilers</a></li>
+
+<li>
+<a href="http://www.enteract.com/~bradapp/links/prog-langs.html#Prog_Langs">Programming
+Languages</a> and <a href="http://www.enteract.com/~bradapp/links/prog-sys-projs.html#Prog_Sys_Projs">Systems</a></li>
+
+<li>
+<a href="http://www.phy.duke.edu/~rgb/linux.html">Very Best Linux Sites</a></li>
+
+<li>
+<a href="http://community.turbolinux.com/cluster/">TurboCluster Server</a></li>
+
+<li>
+<a href="http://www-ee.stanford.edu/soe/ieee/eesites.html">EE/CS Mother
+Sites</a></li>
+
+<li>
+<a href="http://www.crpc.rice.edu/CRPC/research/">CRPC Research Projects
+and Software</a></li>
+
+<li>
+<a href="http://www.tc.cornell.edu/AC3/Memberships/">Advanced Cluster Computing
+Consortium</a></li>
+
+<li>
+<a href="http://www.ptools.org/">Parallel Tools Consortium</a></li>
+
+<li>
+<a href="http://www.wins.uva.nl/~bjo/proj/dpvmmpi/links.html">Dynamic PVM</a></li>
+
+<li>
+<a href="http://www.cs.sandia.gov/cplant/">Computational Plant (CPlant
+)Cluster</a></li>
+
+<li>
+<a href="http://www.dgs.monash.edu.au/~jon/bqs.html">Distributed Systems
+Tools</a></li>
+
+<li>
+<a href="http://www.genetic-programming.com/">Genetic Programming</a></li>
+
+<li>
+<a href="http://www.parl.clemson.edu/pse/">Problem Solving Environments
+(PSEs)</a></li>
+
+<li>
+<a href="http://www.reactos.com/">ReactOS</a></li>
+
+<li>
+<a href="http://www.vmware.com/products/forlinux.html">VMWare for Linux:
+Run Windows applications like MS office on Linux</a></li>
+
+<li>
+<a href="http://computer.org/parascope/">IEEE ParaScope</a></li>
+
+<li>
+<a href="http://www.ornl.gov/TechResources/Human_Genome/">Human Genome
+Project</a></li>
+
+<li>
+<a href="http://vlmp.museophile.com/computing.html">The Virtual Museum
+of Computing</a></li>
+
+<li>
+<a href="http://www.computerworld.com/cwi/story/0,1199,NAV47_STO35573,00.html">Success
+Story: Linux gushes savings for oil giant (Clusters replaced IBM systems)</a></li>
+
+<li>
+<a href="http://www.computerworld.com/cwi/story/0,1199,NAV47_STO29421,00.html">Clusters
+power online book sales</a></li>
+
+<li>
+<a href="http://www.nasw.org/users/oliver/linux/linux1.htm">Human Genome
+Data processing on Linux Clusters</a></li>
+
+
+<li><a href="http://www.ipnsig.org/">InterPlaNetary Internet</a></li>
+
+<li>
+<a href="http://www.simputer.org/">Simputer:</a> a low cost portable alternative to PCs.</li>
+
+<li>
+<a href="http://americanhistory.si.edu/csr/comphist/montic/cray.htm">Cray's
+Imaginary Tour of a Biological Computer</a></li>
+
+<li>
+<a href="http://www.research.ibm.com/journal/">IBM Journal of Research and Development</a></li>
+<li> <a href="http://dlis.gseis.ucla.edu/people/pagre/network.html">Human Networking on the Network (by Phil Agre, UCLA)</a></li>
+<li><a href="http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html">Advice on Research and Writing</a>
+<li><A href="http://jite.org/documents/Vol3/v3p263-278-119.pdf">Cluster Computing in MIS and business school</A>
+<li><A href="http://www.clusterworld.com/">Cluster World Magazine</A>
+
+</ul>
+
+<h2>
+Adoption (<a href="adoption.html">only
+known links</a>!)</h2>
+
+<p><br>If you know any site providing cluster computing resources (like
+free software) for which I can give a link, please let me know. Also feel
+free to contact me for any other information concerning the book:
+
+<p><b><a href="http://www.buyya.com">Rajkumar Buyya</a></b>
+The Book and Information Centre Editor!
+
+<br>
+<hr>
+<h2>
+Stay Informed. Register Now!</h2>
+<form method=GET action="http://groups.yahoo.com/subscribe/clustercomputing">
+<table BORDER=0 CELLSPACING=0 CELLPADDING=2 BGCOLOR="#FFFFCC" >
+<tr>
+<td ALIGN=CENTER COLSPAN="2"><b>Subscribe to Cluster Computing Info Centre
+update Newsletter</b></td>
+</tr>
+
+<tr>
+<td><input type=text name="user" value="enter email address" size=20></td>
+
+<td><input type=image border=0 alt="Click here to join clustercomputing"
+                        name="Click here to join clustercomputing"        src="http://groups.yahoo.com/img/ui/join.gif"></td>
+</tr>
+
+<tr ALIGN=CENTER>
+<td COLSPAN="2">Browse <a href="http://groups.yahoo.com/group/clustercomputing/messages">Archive</a>
+for past messages.&nbsp;</td>
+</tr>
+</table>
+</form>
+<hr><img SRC="gear_anim.gif" ALT="Browse it" BORDER=0 >Always under construction.
+Copyright (c) Rajkumar Buyya, 1999-21st century. All rights reserved.
+<hr>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

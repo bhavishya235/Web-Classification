@@ -1,0 +1,23 @@
+<topic r:id="Top/Computers/Data_Formats/Personal_Information">
+<catid>377055</catid>
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Personal_Information/iCalendar">
+<catid>377058</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2446" />
+<link r:resource="http://tools.ietf.org/html/rfc2447" />
+<link r:resource="http://tools.ietf.org/html/rfc2445" />
+<link r:resource="http://en.wikipedia.org/wiki/ICalendar" />
+<link r:resource="http://icalvalid.cloudapp.net/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Personal_Information/vCalendar">
+<catid>377056</catid>
+<link r:resource="http://www.imc.org/pdi/vcaloverview.html" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Personal_Information/vCard">
+<catid>377057</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2425" />
+<link r:resource="http://tools.ietf.org/html/rfc2426" />
+<link r:resource="http://www.imc.org/pdi/vcardoverview.html" />
+<link r:resource="http://www.imc.org/pdi/vcardwhite.html" />
+<link r:resource="http://sourceforge.net/projects/mime-dir-j/" />
+</topic>

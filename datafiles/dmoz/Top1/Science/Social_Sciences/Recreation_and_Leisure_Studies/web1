@@ -1,0 +1,1139 @@
+====================<http://www.perconline.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <base href="http://www.perconline.com/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="joomla, Joomla" />
+  <meta name="description" content="Joomla! - the dynamic portal engine and content management system" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Welcome to PERC</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+<link href="/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+<link href="/templates/system/css/general.css" rel="stylesheet" type="text/css" />
+<link href="/templates/ol_kalter/css/template_css.css" rel="stylesheet" type="text/css" />
+<link href="/templates/ol_kalter/css/lytebox.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/templates/ol_kalter/scripts/lytebox.js"></script>
+<link rel="stylesheet" href="/templates/ol_kalter/css/colors/green.css" type="text/css" />
+<link href="/templates/ol_kalter/css/moomenu.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/templates/ol_kalter/scripts/moomenu.js"></script>
+<script type="text/javascript">
+window.addEvent('domready', function() {
+	new moomenu($E('ul.menutop '), {
+		bgiframe: false,
+		delay: 400,
+		animate: {
+			props: ['height', 'opacity'],
+			opts: {
+				duration: 400,
+				fps: 100,
+				transition: Fx.Transitions.Sine.easeIn			}
+		},
+		bg: {
+			enabled: true,
+			overEffect: {
+				duration: 700,
+				transition: Fx.Transitions.Expo.easeOut			},
+			outEffect: {
+				duration: 300,
+				transition: Fx.Transitions.Sine.easeIn			}
+		},
+		submenus: {
+			enabled: true,
+			overEffect: {
+				duration: 50,
+				transition: Fx.Transitions.Sine.easeIn			},
+			outEffect: {
+				duration: 600,
+				transition: Fx.Transitions.Sine.easeIn			},
+			offsets: {
+				top: 0,
+				right: 0,
+				bottom: 0,
+				left: 0			}
+		}
+	});
+});
+
+</script>
+<script language="javascript" type="text/javascript" src="/templates/ol_kalter/scripts/opacity.js"></script>
+<script language="javascript" type="text/javascript" src="/templates/ol_kalter/scripts/ol.script.js"></script><!--[if lte IE 6]>
+<link href="/templates/ol_kalter/css/ie6.php" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+var siteurl = '/'; window.addEvent ('load', makeTransBG); function makeTransBG() {
+makeTransBg($$('img'));
+}
+</script>
+<![endif]-->
+
+<!--[if gte IE 7.0]>
+<link href="/templates/ol_kalter/css/ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body  id="bd" class="wide font4">
+
+<div id="ol-base">
+<div id="ol-base-bg">
+
+<!-- BEGIN: tophead -->
+<div id="ol-tophead" class="conturfix">
+<!-- BEGIN: LOGO -->
+<div id="logo">
+<a href="/">
+<img src="/templates/ol_kalter/images/logo.png" alt="" />
+</a>
+</div>
+<!-- END: LOGO -->
+<!-- olsi Tool -->
+<div id="ol-topnavwrap" class="conturfix">
+<div id="stanhi-4">
+<div id="ol-extools">
+			<ul class="ol-extools-res">
+		    <li><img style="cursor: pointer;" title="Narrow screen" src="/templates/ol_kalter/images/tool-screen1.gif" alt="Narrow screen resolution" id="ol-tool-narrow" onclick="changeToolHilite(curtool, this);curtool=this;setScreenType('narrow');" /></li>
+		    <li><img style="cursor: pointer;" title="Wide screen" src="/templates/ol_kalter/images/tool-screen2-hilite.gif" alt="Wide screen resolution" id="ol-tool-wide" onclick="changeToolHilite(curtool, this);curtool=this;setScreenType('wide');" /></li>
+		    <li><img style="cursor: pointer;" title="Fluid screen" src="/templates/ol_kalter/images/tool-screen3.gif" alt="Wide screen resolution" id="ol-tool-auto" onclick="changeToolHilite(curtool, this);curtool=this;setScreenType('auto');" /></li>
+			</ul>
+			<script type="text/javascript">
+		var curtool = document.getElementById('ol-tool-wide');
+		var curcolor = document.getElementById('ol-tool-greencolor');
+		</script>
+					<ul class="ol-extools-font">
+	      <li><img style="cursor: pointer;" title="Increase font size" src="/templates/ol_kalter/images/tool-increase.gif" alt="Increase font size" id="ol-tool-increase" onclick="changeFontSize(1); return false;" /></li>
+		    <li><img style="cursor: pointer;" title="Default size" src="/templates/ol_kalter/images/tool-reset.gif" alt="Default font size" id="ol-tool-reset" onclick="revertStyles(4); return false;" /></li>
+		    <li><img style="cursor: pointer;" title="Decrease font size" src="/templates/ol_kalter/images/tool-decrease.gif" alt="Decrease font size" id="ol-tool-decrease" onclick="changeFontSize(-1); return false;" /></li>
+			</ul>
+			<script type="text/javascript">
+		var curtool = document.getElementById('ol-tool-wide');
+		var curcolor = document.getElementById('ol-tool-greencolor');
+		</script>
+		</div>
+</div>
+</div>
+<!-- /olsi Tool -->
+</div>
+<!-- END: tophead -->
+<div id="menu-mss-bar"><div id="menu-mss-bar2"><div id="menu-mss-bar3">
+<div id="menu-mss" class="moomenu">
+<ul class="menutop"><li id="current" class="active item1"><a href="http://perconline.com/"><span>Home</span></a></li><li class="parent  item2"><a href="/index.php/aboutperc" class="topdaddy"><span>About PERC</span></a><ul><li class="item10"><a href="/index.php/aboutperc/about"><span>About PERC</span></a></li><li class="item9"><a href="/index.php/aboutperc/update"><span>PERC Updates</span></a></li><li class="item28"><a href="/index.php/aboutperc/percsitemap"><span>Site Map</span></a></li></ul></li><li class="parent  item5"><a href="/index.php/percteam" class="topdaddy"><span>The PERC Team</span></a><ul><li class="item3"><a href="/index.php/percteam/brianjohnston"><span>Brian Johnston</span></a></li><li class="parent item8"><a href="/index.php/percteam/associates" class="daddy"><span>The Associates</span></a><ul><li class="item11"><a href="/index.php/percteam/associates/dalycebrandt"><span>Dalyce Brandt</span></a></li><li class="item13"><a href="/index.php/percteam/associates/monty-holding"><span>Monty Holding</span></a></li><li class="item12"><a href="/index.php/percteam/associates/don-hunter"><span>Don Hunter</span></a></li><li class="item14"><a href="/index.php/percteam/associates/erin-moore"><span>Erin Moore</span></a></li><li class="item15"><a href="/index.php/percteam/associates/greg-moore"><span>Greg Moore</span></a></li><li class="item16"><a href="/index.php/percteam/associates/kerm-pike"><span>Kevin Pike</span></a></li><li class="item18"><a href="/index.php/percteam/associates/barry-ried"><span>Barry Ried</span></a></li><li class="item17"><a href="/index.php/percteam/associates/kevan-tisshaw"><span>Kevan Tisshaw</span></a></li><li class="item29"><a href="/index.php/percteam/associates/ken-kreiger"><span>Ken Kreiger</span></a></li><li class="item30"><a href="/index.php/percteam/associates/josie-chuback"><span>Josie Chuback</span></a></li><li class="item31"><a href="/index.php/percteam/associates/john-mcmurchy"><span>John McMurchy</span></a></li><li class="item32"><a href="/index.php/percteam/associates/chrisholden-associate"><span>Chris Holden</span></a></li></ul></li></ul></li><li class="parent  item6"><a href="/index.php/percexperience" class="topdaddy"><span>PERC Experience</span></a><ul><li class="item19"><a href="/index.php/percexperience/long-range-planning"><span>Long Range Planning</span></a></li><li class="item20"><a href="/index.php/percexperience/feasibility-studies"><span>Feasibility Studies</span></a></li><li class="item21"><a href="/index.php/percexperience/market-research"><span>Market Research</span></a></li><li class="item27"><a href="/index.php/percexperience/needs-analysis-studies"><span>Needs Analysis Studies</span></a></li><li class="item22"><a href="/index.php/percexperience/management-consulting"><span>Management Consulting</span></a></li><li class="item23"><a href="/index.php/percexperience/parks-open-studies"><span>Parks Planning Studies</span></a></li><li class="item24"><a href="/index.php/percexperience/cultural-plans"><span>Cultural Plans</span></a></li><li class="item25"><a href="/index.php/percexperience/executive-search"><span>Executive Search</span></a></li></ul></li><li class="item7"><a href="/index.php/contactperc"><span>Contact PERC</span></a></li></ul></div>
+</div></div></div>
+<!-- BEGIN: flashheader -->
+<div id="ol-header2">
+<div id="ol-flashheader">
+<div id="date-format">
+<span class="day">Tuesday</span>
+<span class="dmy">25 Feb 2014</span>
+</div>
+
+
+
+
+
+
+<div style="position: relative; overflow: hidden; height: 250px">
+
+<div id="s5_iacf_outer" style="position: relative; max-height:250px; max-width:750px; overflow:hidden; background:#">
+
+<script type="text/javascript">
+var s5_iacf_inc = 15;
+</script>
+
+
+<div id="picture1_s5_iacf" style="padding:0px; display:none; height:250px; opacity:.0;  width:750px; overflow:hidden; background-image: url(/images/rotate/picture1.jpg); background-repeat: no-repeat">
+<a href="http://www.perconline.com" target="_top">
+<img alt="" id="picture1_blank_s5_iacf" style="border:none" src="/modules/mod_s5_image_and_content_fader/blank.gif" height="250px" width="750px"></img>
+</a>
+
+
+
+<div id="picture1text_bg_s5_iacf" style="position: relative; opacity:0.75;  background:#99CCFF">
+</div>
+
+<div id="picture1text_s5_iacf" style="height:auto; position: relative; padding:22px; color:#3333FF; font-weight:bold; font-size:3.1em">
+Recreational Needs Assessments</div>
+
+<script type="text/javascript">
+function set_picture1_loaders() {
+document.getElementById("picture1_blank_s5_iacf").style.height = "250px";
+window.setTimeout('picture1text_load_bg_s5_iacf()',0);
+window.setTimeout('picture1text_effect_big()',562.5);
+window.setTimeout('picture1text_effect_small()',6437.5);
+}
+
+function picture1text_load_bg_s5_iacf() {
+document.getElementById("picture1text_s5_iacf").style.marginTop = (document.getElementById("picture1text_s5_iacf").offsetHeight * -1) + "px";
+document.getElementById("picture1text_bg_s5_iacf").style.height = document.getElementById("picture1text_s5_iacf").offsetHeight + "px";
+}
+
+function picture1text_effect_big_timer() {
+window.setTimeout('picture1text_effect_big()',10);
+}
+
+function picture1text_effect_big() {
+var s5_outer_iacf = document.getElementById("s5_iacf_outer").offsetHeight;
+if (document.getElementById("picture1_blank_s5_iacf").offsetHeight > s5_outer_iacf - document.getElementById("picture1text_s5_iacf").offsetHeight + 7) {
+document.getElementById("picture1_blank_s5_iacf").style.height = document.getElementById("picture1_blank_s5_iacf").offsetHeight - s5_iacf_inc + "px";
+picture1text_effect_big_timer();
+}
+else {
+document.getElementById("picture1_blank_s5_iacf").style.height = document.getElementById("s5_iacf_outer").offsetHeight - document.getElementById("picture1text_s5_iacf").offsetHeight + "px";
+}
+}
+
+function picture1text_effect_small_timer() {
+window.setTimeout('picture1text_effect_small()',10);
+}
+
+</script>
+
+
+</div>
+
+
+
+<div id="picture2_s5_iacf" style="padding:0px; display:none; height:250px; opacity:.0;  width:750px; overflow:hidden; background-image: url(/images/rotate/picture2.jpg); background-repeat: no-repeat">
+
+<img alt="" style="border:none" id="picture2_blank_s5_iacf" src="/modules/mod_s5_image_and_content_fader/blank.gif" height="250px" width="750px"></img>
+
+
+<div id="picture2text_bg_s5_iacf" style="position: relative; opacity:0.65;  background:#99CCFF">
+</div>
+
+<div id="picture2text_s5_iacf" style="height:auto; position: relative; padding:12px; color:#3333FF; font-weight:bold; font-size:3.1em">
+Space Analysis & Feasibility Studies</div>
+
+<script type="text/javascript">
+function set_picture2_loaders() {
+document.getElementById("picture2_blank_s5_iacf").style.height = "250px";
+window.setTimeout('picture2text_load_bg_s5_iacf()',0);
+window.setTimeout('picture2text_effect_big()',562.5);
+window.setTimeout('picture2text_effect_small()',6437.5);
+}
+
+function picture2text_load_bg_s5_iacf() {
+document.getElementById("picture2text_s5_iacf").style.marginTop = (document.getElementById("picture2text_s5_iacf").offsetHeight * -1) + "px";
+document.getElementById("picture2text_bg_s5_iacf").style.height = document.getElementById("picture2text_s5_iacf").offsetHeight + "px";
+}
+
+function picture2text_effect_big_timer() {
+window.setTimeout('picture2text_effect_big()',10);
+}
+
+function picture2text_effect_big() {
+var s5_outer_iacf = document.getElementById("s5_iacf_outer").offsetHeight;
+if (document.getElementById("picture2_blank_s5_iacf").offsetHeight > s5_outer_iacf - document.getElementById("picture2text_s5_iacf").offsetHeight + 7) {
+document.getElementById("picture2_blank_s5_iacf").style.height = document.getElementById("picture2_blank_s5_iacf").offsetHeight - s5_iacf_inc + "px";
+picture2text_effect_big_timer();
+}
+else {
+document.getElementById("picture2_blank_s5_iacf").style.height = document.getElementById("s5_iacf_outer").offsetHeight - document.getElementById("picture2text_s5_iacf").offsetHeight + "px";
+}
+}
+
+function picture2text_effect_small_timer() {
+window.setTimeout('picture2text_effect_small()',10);
+}
+
+</script>
+
+
+</div>
+
+
+
+<div id="picture3_s5_iacf" style="padding:0px; display:none; height:250px; opacity:.0;  width:750px; overflow:hidden; background-image: url(/images/rotate/picture3.jpg); background-repeat: no-repeat">
+
+<img alt="" style="border:none" id="picture3_blank_s5_iacf" src="/modules/mod_s5_image_and_content_fader/blank.gif" height="250px" width="750px"></img>
+
+
+<div id="picture3text_bg_s5_iacf" style="position: relative; opacity:0.65;  background:#99CCFF">
+</div>
+
+<div id="picture3text_s5_iacf" style="height:auto; position: relative; padding:12px; color:#3333FF; font-weight:bold; font-size:3.1em">
+Long Term Planning / Master Planning</div>
+
+<script type="text/javascript">
+function set_picture3_loaders() {
+document.getElementById("picture3_blank_s5_iacf").style.height = "250px";
+window.setTimeout('picture3text_load_bg_s5_iacf()',0);
+window.setTimeout('picture3text_effect_big()',562.5);
+window.setTimeout('picture3text_effect_small()',6437.5);
+}
+
+function picture3text_load_bg_s5_iacf() {
+document.getElementById("picture3text_s5_iacf").style.marginTop = (document.getElementById("picture3text_s5_iacf").offsetHeight * -1) + "px";
+document.getElementById("picture3text_bg_s5_iacf").style.height = document.getElementById("picture3text_s5_iacf").offsetHeight + "px";
+}
+
+function picture3text_effect_big_timer() {
+window.setTimeout('picture3text_effect_big()',10);
+}
+
+function picture3text_effect_big() {
+var s5_outer_iacf = document.getElementById("s5_iacf_outer").offsetHeight;
+if (document.getElementById("picture3_blank_s5_iacf").offsetHeight > s5_outer_iacf - document.getElementById("picture3text_s5_iacf").offsetHeight + 7) {
+document.getElementById("picture3_blank_s5_iacf").style.height = document.getElementById("picture3_blank_s5_iacf").offsetHeight - s5_iacf_inc + "px";
+picture3text_effect_big_timer();
+}
+else {
+document.getElementById("picture3_blank_s5_iacf").style.height = document.getElementById("s5_iacf_outer").offsetHeight - document.getElementById("picture3text_s5_iacf").offsetHeight + "px";
+}
+}
+
+function picture3text_effect_small_timer() {
+window.setTimeout('picture3text_effect_small()',10);
+}
+
+</script>
+
+
+</div>
+
+
+
+<div id="picture4_s5_iacf" style="padding:0px; display:none; height:250px; opacity:.0;  width:750px; overflow:hidden; background-image: url(/images/rotate/picture4.jpg); background-repeat: no-repeat">
+
+<img alt="" style="border:none" id="picture4_blank_s5_iacf" src="/modules/mod_s5_image_and_content_fader/blank.gif" height="250px" width="750px"></img>
+
+
+<div id="picture4text_bg_s5_iacf" style="position: relative; opacity:0.65;  background:#99CCFF">
+</div>
+
+<div id="picture4text_s5_iacf" style="height:auto; position: relative; padding:12px; color:#3333FF; font-weight:bold; font-size:3.1em">
+Executive Search</div>
+
+<script type="text/javascript">
+function set_picture4_loaders() {
+document.getElementById("picture4_blank_s5_iacf").style.height = "250px";
+window.setTimeout('picture4text_load_bg_s5_iacf()',0);
+window.setTimeout('picture4text_effect_big()',562.5);
+window.setTimeout('picture4text_effect_small()',6437.5);
+}
+
+function picture4text_load_bg_s5_iacf() {
+document.getElementById("picture4text_s5_iacf").style.marginTop = (document.getElementById("picture4text_s5_iacf").offsetHeight * -1) + "px";
+document.getElementById("picture4text_bg_s5_iacf").style.height = document.getElementById("picture4text_s5_iacf").offsetHeight + "px";
+}
+
+function picture4text_effect_big_timer() {
+window.setTimeout('picture4text_effect_big()',10);
+}
+
+function picture4text_effect_big() {
+var s5_outer_iacf = document.getElementById("s5_iacf_outer").offsetHeight;
+if (document.getElementById("picture4_blank_s5_iacf").offsetHeight > s5_outer_iacf - document.getElementById("picture4text_s5_iacf").offsetHeight + 7) {
+document.getElementById("picture4_blank_s5_iacf").style.height = document.getElementById("picture4_blank_s5_iacf").offsetHeight - s5_iacf_inc + "px";
+picture4text_effect_big_timer();
+}
+else {
+document.getElementById("picture4_blank_s5_iacf").style.height = document.getElementById("s5_iacf_outer").offsetHeight - document.getElementById("picture4text_s5_iacf").offsetHeight + "px";
+}
+}
+
+function picture4text_effect_small_timer() {
+window.setTimeout('picture4text_effect_small()',10);
+}
+
+</script>
+
+
+</div>
+
+
+
+<div id="picture5_s5_iacf" style="padding:0px; display:none; height:250px; opacity:.0;  width:750px; overflow:hidden; background-image: url('/templates/ol_kalter/images/header/header05.jpg'); background-repeat: no-repeat">
+
+<img alt="" style="border:none" id="picture5_blank_s5_iacf" src="/modules/mod_s5_image_and_content_fader/blank.gif" height="250px" width="750px"></img>
+
+
+</div>
+
+
+
+
+
+
+
+
+</div>
+
+</div>
+
+<script language="javascript" type="text/javascript" src="/modules/mod_s5_image_and_content_fader/fader.js"></script>
+
+<script type="text/javascript">
+
+
+function picture1_s5_iacf(id_s5_iacf) {
+        document.getElementById(id_s5_iacf).style.display = "block";
+	opacity_s5_iacf(id_s5_iacf, 0, 100, 750);
+        window.setTimeout('picture1_done_s5_iacf()',7000);
+}
+
+function picture1_done_s5_iacf(){
+	picture1_doneload_s5_iacf('picture1_s5_iacf');
+}
+
+function picture1_doneload_s5_iacf(id_s5_iacf) {
+	opacity_s5_iacf(id_s5_iacf, 100, 0, 750);
+        window.setTimeout('picture1_next_s5_iacf()',750);
+}
+
+function picture1_next_s5_iacf(id_s5_iacf) {
+        document.getElementById('picture1_s5_iacf').style.display = "none";
+	if (document.getElementById('picture2_s5_iacf')) {
+		picture2_s5_iacf('picture2_s5_iacf');
+				set_picture2_loaders();
+			}
+	else {
+		picture1_s5_iacf('picture1_s5_iacf');
+				set_picture1_loaders();
+			}
+}
+
+
+function picture2_s5_iacf(id_s5_iacf) {
+        document.getElementById(id_s5_iacf).style.display = "block";
+	opacity_s5_iacf(id_s5_iacf, 0, 100, 750);
+        window.setTimeout('picture2_done_s5_iacf()',7000);
+}
+
+function picture2_done_s5_iacf(){
+	picture2_doneload_s5_iacf('picture2_s5_iacf');
+}
+
+function picture2_doneload_s5_iacf(id_s5_iacf) {
+	opacity_s5_iacf(id_s5_iacf, 100, 0, 750);
+        window.setTimeout('picture2_next_s5_iacf()',750);
+}
+
+function picture2_next_s5_iacf(id_s5_iacf) {
+        document.getElementById('picture2_s5_iacf').style.display = "none";
+	if (document.getElementById('picture3_s5_iacf')) {
+		picture3_s5_iacf('picture3_s5_iacf');
+				set_picture3_loaders();
+			}
+	else {
+		picture1_s5_iacf('picture1_s5_iacf');
+				set_picture1_loaders();
+			}
+}
+
+
+function picture3_s5_iacf(id_s5_iacf) {
+        document.getElementById(id_s5_iacf).style.display = "block";
+	opacity_s5_iacf(id_s5_iacf, 0, 100, 750);
+        window.setTimeout('picture3_done_s5_iacf()',7000);
+}
+
+function picture3_done_s5_iacf(){
+	picture3_doneload_s5_iacf('picture3_s5_iacf');
+}
+
+function picture3_doneload_s5_iacf(id_s5_iacf) {
+	opacity_s5_iacf(id_s5_iacf, 100, 0, 750);
+        window.setTimeout('picture3_next_s5_iacf()',750);
+}
+
+function picture3_next_s5_iacf(id_s5_iacf) {
+        document.getElementById('picture3_s5_iacf').style.display = "none";
+	if (document.getElementById('picture4_s5_iacf')) {
+		picture4_s5_iacf('picture4_s5_iacf');
+				set_picture4_loaders();
+			}
+	else {
+		picture1_s5_iacf('picture1_s5_iacf');
+				set_picture1_loaders();
+			}
+}
+
+
+function picture4_s5_iacf(id_s5_iacf) {
+        document.getElementById(id_s5_iacf).style.display = "block";
+	opacity_s5_iacf(id_s5_iacf, 0, 100, 750);
+        window.setTimeout('picture4_done_s5_iacf()',7000);
+}
+
+function picture4_done_s5_iacf(){
+	picture4_doneload_s5_iacf('picture4_s5_iacf');
+}
+
+function picture4_doneload_s5_iacf(id_s5_iacf) {
+	opacity_s5_iacf(id_s5_iacf, 100, 0, 750);
+        window.setTimeout('picture4_next_s5_iacf()',750);
+}
+
+function picture4_next_s5_iacf(id_s5_iacf) {
+        document.getElementById('picture4_s5_iacf').style.display = "none";
+	if (document.getElementById('picture5_s5_iacf')) {
+		picture5_s5_iacf('picture5_s5_iacf');
+			}
+	else {
+		picture1_s5_iacf('picture1_s5_iacf');
+				set_picture1_loaders();
+			}
+}
+
+
+function picture5_s5_iacf(id_s5_iacf) {
+        document.getElementById(id_s5_iacf).style.display = "block";
+	opacity_s5_iacf(id_s5_iacf, 0, 100, 750);
+        window.setTimeout('picture5_done_s5_iacf()',7000);
+}
+
+function picture5_done_s5_iacf(){
+	picture5_doneload_s5_iacf('picture5_s5_iacf');
+}
+
+function picture5_doneload_s5_iacf(id_s5_iacf) {
+	opacity_s5_iacf(id_s5_iacf, 100, 0, 750);
+        window.setTimeout('picture5_next_s5_iacf()',750);
+}
+
+function picture5_next_s5_iacf(id_s5_iacf) {
+        document.getElementById('picture5_s5_iacf').style.display = "none";
+	if (document.getElementById('picture6_s5_iacf')) {
+		picture6_s5_iacf('picture6_s5_iacf');
+			}
+	else {
+		picture1_s5_iacf('picture1_s5_iacf');
+				set_picture1_loaders();
+			}
+}
+
+
+function picture6_s5_iacf(id_s5_iacf) {
+        document.getElementById(id_s5_iacf).style.display = "block";
+	opacity_s5_iacf(id_s5_iacf, 0, 100, 750);
+        window.setTimeout('picture6_done_s5_iacf()',7000);
+}
+
+function picture6_done_s5_iacf(){
+	picture6_doneload_s5_iacf('picture6_s5_iacf');
+}
+
+function picture6_doneload_s5_iacf(id_s5_iacf) {
+	opacity_s5_iacf(id_s5_iacf, 100, 0, 750);
+        window.setTimeout('picture6_next_s5_iacf()',750);
+}
+
+function picture6_next_s5_iacf(id_s5_iacf) {
+        document.getElementById('picture6_s5_iacf').style.display = "none";
+	if (document.getElementById('picture7_s5_iacf')) {
+		picture7_s5_iacf('picture7_s5_iacf');
+			}
+	else {
+		picture1_s5_iacf('picture1_s5_iacf');
+				set_picture1_loaders();
+			}
+}
+
+
+function picture7_s5_iacf(id_s5_iacf) {
+        document.getElementById(id_s5_iacf).style.display = "block";
+	opacity_s5_iacf(id_s5_iacf, 0, 100, 750);
+        window.setTimeout('picture7_done_s5_iacf()',7000);
+}
+
+function picture7_done_s5_iacf(){
+	picture7_doneload_s5_iacf('picture7_s5_iacf');
+}
+
+function picture7_doneload_s5_iacf(id_s5_iacf) {
+	opacity_s5_iacf(id_s5_iacf, 100, 0, 750);
+        window.setTimeout('picture7_next_s5_iacf()',750);
+}
+
+function picture7_next_s5_iacf(id_s5_iacf) {
+        document.getElementById('picture7_s5_iacf').style.display = "none";
+	if (document.getElementById('picture8_s5_iacf')) {
+		picture8_s5_iacf('picture8_s5_iacf');
+			}
+	else {
+		picture1_s5_iacf('picture1_s5_iacf');
+				set_picture1_loaders();
+			}
+}
+
+
+function picture8_s5_iacf(id_s5_iacf) {
+        document.getElementById(id_s5_iacf).style.display = "block";
+	opacity_s5_iacf(id_s5_iacf, 0, 100, 750);
+        window.setTimeout('picture8_done_s5_iacf()',7000);
+}
+
+function picture8_done_s5_iacf(){
+	picture8_doneload_s5_iacf('picture8_s5_iacf');
+}
+
+function picture8_doneload_s5_iacf(id_s5_iacf) {
+	opacity_s5_iacf(id_s5_iacf, 100, 0, 750);
+        window.setTimeout('picture8_next_s5_iacf()',750);
+}
+
+function picture8_next_s5_iacf(id_s5_iacf) {
+        document.getElementById('picture8_s5_iacf').style.display = "none";
+	if (document.getElementById('picture9_s5_iacf')) {
+		picture9_s5_iacf('picture9_s5_iacf');
+			}
+	else {
+		picture1_s5_iacf('picture1_s5_iacf');
+				set_picture1_loaders();
+			}
+}
+
+
+function picture9_s5_iacf(id_s5_iacf) {
+        document.getElementById(id_s5_iacf).style.display = "block";
+	opacity_s5_iacf(id_s5_iacf, 0, 100, 750);
+        window.setTimeout('picture9_done_s5_iacf()',7000);
+}
+
+function picture9_done_s5_iacf(){
+	picture9_doneload_s5_iacf('picture9_s5_iacf');
+}
+
+function picture9_doneload_s5_iacf(id_s5_iacf) {
+	opacity_s5_iacf(id_s5_iacf, 100, 0, 750);
+        window.setTimeout('picture9_next_s5_iacf()',750);
+}
+
+function picture9_next_s5_iacf(id_s5_iacf) {
+        document.getElementById('picture9_s5_iacf').style.display = "none";
+	if (document.getElementById('picture10_s5_iacf')) {
+		picture10_s5_iacf('picture10_s5_iacf');
+			}
+	else {
+		picture1_s5_iacf('picture1_s5_iacf');
+				set_picture1_loaders();
+			}
+}
+
+
+function picture10_s5_iacf(id_s5_iacf) {
+        document.getElementById(id_s5_iacf).style.display = "block";
+	opacity_s5_iacf(id_s5_iacf, 0, 100, 750);
+        window.setTimeout('picture10_done_s5_iacf()',7000);
+}
+
+function picture10_done_s5_iacf(){
+	picture10_doneload_s5_iacf('picture10_s5_iacf');
+}
+
+function picture10_doneload_s5_iacf(id_s5_iacf) {
+	opacity_s5_iacf(id_s5_iacf, 100, 0, 750);
+        window.setTimeout('picture10_next_s5_iacf()',750);
+}
+
+function picture10_next_s5_iacf(id_s5_iacf) {
+    document.getElementById('picture10_s5_iacf').style.display = "none";
+	picture1_s5_iacf('picture1_s5_iacf');
+		set_picture1_loaders();
+	}
+
+picture1_s5_iacf('picture1_s5_iacf');
+set_picture1_loaders();
+
+</script>
+</div>
+</div>
+<!-- END: flashheader -->
+
+<!-- BEGIN: MAIN NAVIGATION -->
+<div id="ol-container" class="clearfix">
+
+<!-- BEGIN: CONTENT -->
+<div id="ol-mainbody">
+
+<div id="ol-contentwrap">
+<div id="ol-content">
+
+
+
+
+
+<div class="clearfix">
+
+<div id="ol_top" style="height:23px; float:left">
+			<div onclick="ol_tab1()" id="ol_tabs1" style="cursor:pointer; float:left;  margin-right:4px; padding-top:3px; padding-bottom:3px; padding-left:12px; padding-right:12px; background:url(/templates/ol_kalter/images/ol_tabr_linko.png); background-repeat:no-repeat; background-position:top right">
+			<a onclick="ol_tab1()" class="ol_tb" style="font-size: 12px; font-weight:bold; cursor:pointer">Professional Environmental Recreation Consultants - PERC</a>
+		</div>
+		
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+</div>
+
+</div>
+
+<div style="clear:both">
+
+<div id="ol_bottom" style="font-size:98%;; padding-bottom:0px">
+				<div style="display:none" class="ol_divs" id="ol_divs1">		<div class="moduletable">
+					<table class="moduletable">
+	<tr>
+			<td>
+			
+
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" ><p align="left">Professional Environmental Recreation Consultants Ltd. (PERC) was founded in 1975 in Calgary, Alberta and currently operates from its base in Vancouver, British Columbia. The firm deals with all aspects of the delivery of leisure services, including culture, sport, parks and open space.</p><p align="left">PERC is comprised of professionals with extensive and proven experience in Canada, Great Britain, and the United States. We have completed over 400 research, planning and consulting projects throughout Canada and the Pacific Northwest, making us more experienced in this specialized field of leisure services than any other firm in the country.</p></td>
+	</tr>
+	<tr>
+        <td valign="top" >
+
+       		</td>
+     </tr>
+</table>
+		</td>
+		</tr>
+</table>		</div>
+	</div>
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+</div>
+
+<div id="ol_bottom_wrapper" style="height:12px">
+
+</div>
+
+<script type="text/javascript">
+
+function ol_tab1() {
+ol_hide_divs();
+document.getElementById("ol_divs1").style.display = "block";
+document.getElementById("ol_tabs1").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_tab2() {
+ol_hide_divs();
+document.getElementById("ol_divs2").style.display = "block";
+document.getElementById("ol_tabs2").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_tab3() {
+ol_hide_divs();
+document.getElementById("ol_divs3").style.display = "block";
+document.getElementById("ol_tabs3").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_tab4() {
+ol_hide_divs();
+document.getElementById("ol_divs4").style.display = "block";
+document.getElementById("ol_tabs4").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_tab5() {
+ol_hide_divs();
+document.getElementById("ol_divs5").style.display = "block";
+document.getElementById("ol_tabs5").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_tab6() {
+ol_hide_divs();
+document.getElementById("ol_divs6").style.display = "block";
+document.getElementById("ol_tabs6").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_tab7() {
+ol_hide_divs();
+document.getElementById("ol_divs7").style.display = "block";
+document.getElementById("ol_tabs7").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_tab8() {
+ol_hide_divs();
+document.getElementById("ol_divs8").style.display = "block";
+document.getElementById("ol_tabs8").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_tab9() {
+ol_hide_divs();
+document.getElementById("ol_divs9").style.display = "block";
+document.getElementById("ol_tabs9").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_tab10() {
+ol_hide_divs();
+document.getElementById("ol_divs10").style.display = "block";
+document.getElementById("ol_tabs10").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_tab11() {
+ol_hide_divs();
+document.getElementById("ol_divs11").style.display = "block";
+document.getElementById("ol_tabs11").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_tab12() {
+ol_hide_divs();
+document.getElementById("ol_divs12").style.display = "block";
+document.getElementById("ol_tabs12").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_tab13() {
+ol_hide_divs();
+document.getElementById("ol_divs13").style.display = "block";
+document.getElementById("ol_tabs13").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_tab14() {
+ol_hide_divs();
+document.getElementById("ol_divs14").style.display = "block";
+document.getElementById("ol_tabs14").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_tab15() {
+ol_hide_divs();
+document.getElementById("ol_divs15").style.display = "block";
+document.getElementById("ol_tabs15").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+}
+
+function ol_hide_divs() {
+
+document.getElementById("ol_divs1").style.display = "none";
+document.getElementById("ol_tabs1").style.backgroundImage = "url(/templates/ol_kalter/images/ol_tabr_linko.png)";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+function ol_show_first() {
+
+document.getElementById("ol_divs1").style.display = "block";
+document.getElementById("ol_tabs1").style.backgroundImage = "url(/templates/ol_kalter/images/green/ol_tabr_link.png)";
+return false;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+ol_show_first();
+
+</script></div>
+
+<table class="blog" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="top">
+					<div>
+		
+<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+				<a href="/index.php/aboutperc/update/7-update" class="contentpagetitle">
+			PERC Update</a>
+			</td>
+	
+		<td align="right" width="100%" class="buttonheading">
+	<a href="/index.php?view=article&amp;catid=7:updte&amp;id=7:update&amp;format=pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/ol_kalter/images/pdf_button.png" alt="PDF"  /></a>	</td>
+	
+		<td align="right" width="100%" class="buttonheading">
+	<a href="/index.php?view=article&amp;catid=7:updte&amp;id=7:update&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/ol_kalter/images/printButton.png" alt="Print"  /></a>	</td>
+	
+		<td align="right" width="100%" class="buttonheading">
+	<a href="/index.php/component/mailto/?tmpl=component&amp;link=aHR0cDovL3d3dy5wZXJjb25saW5lLmNvbS9pbmRleC5waHAvYWJvdXRwZXJjL3VwZGF0ZS83LXVwZGF0ZQ%3D%3D" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/ol_kalter/images/emailButton.png" alt="E-mail"  /></a>	</td>
+		</tr>
+</table>
+<table class="contentpaneopen">
+
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<h2>CURRENT PROJECTS</h2>
+<p><span style="font-weight: bold; line-height: 1.5;">National Recreation Agenda Support Materials</span></p>
+<p>PERC has been retained to develop a Discussion Paper and other background materials for continued evolution of a National Recreation Agenda. The Discussion Paper will be used at the New Brunswick Recreation Round Table in May 2013.  PERC has also been retained to develop the Draft National Recreation Agenda subsequent to the Round Table.</p>
+<span style="font-weight: bold; line-height: 1.5;">Calgary Inner City PAMA Study</span>
+<p>The City has retained PERC to undertake a Recreation Program Amenity and Market Assessment for the Inner City neighbourhoods with a focus on two existing recreation facilities in the area. This needs assessment and market analysis will result in positioning for the long term densification of the Inner City area.</p>
+<span style="font-weight: bold; line-height: 1.5;">City of Trail Parks and Recreation Master Plan</span>
+<p>This long range comprehensive Master Plan covers the City as well as the surrounding contributing communities and rural areas.</p>
+<span style="font-weight: bold; line-height: 1.5;">Campbell River Recreation Review</span>
+<p>The City has retained PERC to review and comment on the organizational structure, staffing levels, fees and charges and operating effectiveness of the Recreation Department.</p>
+<span style="font-weight: bold; line-height: 1.5;">Coquitlam and Port Coquitlam Pool Study</span>
+<p>The two neighbouring communities in BC's Lower Mainland have joined together to retain PERC to complete a long term plan for indoor and outdoor aquatic facilities that will be needed in this fast growing area. &nbsp;John McMurchy will lead the PERC team which will include Kevan Tisshaw and Brian Johnston.</p>
+<p><strong>Chilliwack Parks, Recreation and Cultural Master Plan</strong></p>
+<p>PERC will prepare its fourth Master Plan for this growing community in BC's Fraser Valley. &nbsp;Over the past 35 years PERC has completed more than a dozen studies for this municipality, including three previous ten year Plans. This is the first time PERC has been retained for four consecutive ten year plans in any community. Brian and Don Hunter will work on this project together.</p>
+<p><strong>Sturgeon Partnership Recreation Master Plan</strong></p>
+<p>This consortium of six municipalities within the boundaries of the County of Sturgeon, just north of Edmonton, has retained Stantec and PERC to undertake a Recreation Master Plan for the region. The Plan will focus on a fair and equitable funding formula for financing recreation amenities, almost all of which are within the five incorporated communities within the County. Brian and Don Hunter will lead PERC efforts in support of Stantec for this project.</p>
+<p><strong>Whistler Cultural Plan</strong></p>
+<p>PERC has been retained to do the second Whistler Cultural Master Plan after completing the resort community's first 10 Year Cultural Plan in 2002. The challenge of this Plan is to find consensus between the three distinct and separate categories of stakeholders; namely the residents, the recreational property owners and the tourists. Margo Gram, PERC's newest Associate, will work with Brian on this project.</p>
+<p> </p></td>
+</tr>
+
+
+
+</table>
+<span class="article_separator">&nbsp;</span>
+		</div>
+		</td>
+</tr>
+
+
+</table>
+
+
+</div>
+</div>
+
+<!-- BEGIN: LEFT COLUMN -->
+<div id="ol-leftcol">
+		<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>Search PERC Online</h3>
+											<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="Search PERC Online"  onblur="if(this.value=='') this.value='Search PERC Online';" onfocus="if(this.value=='Search PERC Online') this.value='';" /><input type="submit" value="Search" class="button" onclick="this.form.searchword.focus();"/>	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="1" />
+</form>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module_menu">
+			<div>
+				<div>
+					<div>
+													<h3>Main Menu</h3>
+											<ul class="menu"><li id="current" class="active item1"><a href="http://perconline.com/"><span>Home</span></a></li><li class="parent  item2"><a href="/index.php/aboutperc" class="topdaddy"><span>About PERC</span></a></li><li class="parent  item5"><a href="/index.php/percteam" class="topdaddy"><span>The PERC Team</span></a></li><li class="parent  item6"><a href="/index.php/percexperience" class="topdaddy"><span>PERC Experience</span></a></li><li class="item7"><a href="/index.php/contactperc"><span>Contact PERC</span></a></li></ul>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>Latest News</h3>
+											<ul class="latestnews">
+	<li class="latestnews">
+		<a href="/index.php/aboutperc/update/7-update" class="latestnews">
+			PERC Update</a>
+	</li>
+	<li class="latestnews">
+		<a href="/index.php/percexperience/market-research" class="latestnews">
+			Market Research / Needs Analysis Studies</a>
+	</li>
+	<li class="latestnews">
+		<a href="/index.php/percexperience" class="latestnews">
+			PERC Experience</a>
+	</li>
+	<li class="latestnews">
+		<a href="/index.php/percteam" class="latestnews">
+			The PERC Team</a>
+	</li>
+	<li class="latestnews">
+		<a href="/index.php/percteam/associates/chrisholden-associate" class="latestnews">
+			Chris Holden, Associate</a>
+	</li>
+</ul>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>Popular Pages</h3>
+											<ul class="mostread">
+	<li class="mostread">
+		<a href="/index.php/component/content/article/9-special/9-perc-specializes-" class="mostread">
+			PERC Specializes </a>
+	</li>
+	<li class="mostread">
+		<a href="/index.php/aboutperc" class="mostread">
+			About PERC</a>
+	</li>
+	<li class="mostread">
+		<a href="/index.php/percexperience/feasibility-studies" class="mostread">
+			Feasibility Studies</a>
+	</li>
+	<li class="mostread">
+		<a href="/index.php/percteam" class="mostread">
+			The PERC Team</a>
+	</li>
+	<li class="mostread">
+		<a href="/index.php/percexperience/market-research" class="mostread">
+			Market Research / Needs Analysis Studies</a>
+	</li>
+</ul>					</div>
+				</div>
+			</div>
+		</div>
+	
+</div>
+<!-- END: LEFT COLUMN -->
+
+</div>
+<!-- END: CONTENT -->
+
+<!-- BEGIN: RIGHT COLUMN -->
+<div id="ol-rightcol">
+
+		<div class="module">
+			<div>
+				<div>
+					<div>
+											
+
+
+
+<table class="contentpaneopen">
+	<tr>
+		<td valign="top" ><h1>PERC Specializes in the following areas:</h1>
+<table border="0">
+<tbody>
+<tr>
+<td></td>
+<td><a href="/index.php/percexperience/long-range-planning">Long range parks &amp; recreational planning</a></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="/index.php/percexperience/feasibility-studies">Feasibility studies for new priorities</a></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="/index.php/percexperience/management-consulting">Management studies &amp; survey audit</a></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="/index.php/percexperience">Public participation &amp; consultation</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+	</tr>
+	<tr>
+        <td valign="top" >
+
+       		</td>
+     </tr>
+</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+</div>
+<br />
+<!-- END: RIGHT COLUMN -->
+</div>
+
+
+<!-- BEGIN: FOOTER -->
+<div id="ol-footerwrap">
+<div id="ol-footer">
+
+
+Copyright &copy; 2005 - 2014 PERC - Professional Environmental Recreation Consultants. 
+Designed by <a href="http://www.olwebdesign.com/" title="Visit olwebdesign.com!" target="blank">olwebdesign.com</a>
+<br />
+<!--   -->
+
+<div id="ol-cert">
+<div id="stanhi-1">
+<div id="ol-extools">
+			<ul class="ol-extools-color">
+			      <li><img style="cursor: pointer;" src="/templates/ol_kalter/images/default.gif" title="default style" alt="default style" id="ol-tool-defaultstyle" onclick="setActiveStyleSheet('default');return false;" /></li>
+			      <li><img style="cursor: pointer;" src="/templates/ol_kalter/images/green-hilite.gif" title="green style" alt="green style" id="ol-tool-greenstyle" onclick="setActiveStyleSheet('green');return false;" /></li>
+			      <li><img style="cursor: pointer;" src="/templates/ol_kalter/images/brown.gif" title="brown style" alt="brown style" id="ol-tool-brownstyle" onclick="setActiveStyleSheet('brown');return false;" /></li>
+				</ul>
+				<script type="text/javascript">
+		var curtool = document.getElementById('ol-tool-wide');
+		var curcolor = document.getElementById('ol-tool-greencolor');
+		</script>
+		<a href="javascript:void(0)" onclick="goto_top()"><img src="/templates/ol_kalter/images/totop.gif " title="Go to top" alt="" border="0" align="right" /></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- END: FOOTER -->
+</div>
+</div>
+<script type="text/javascript" src="/templates/ol_kalter/scripts/tips.js"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1181626-13");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.unc.edu/depts/recreate/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<meta http-equiv="Refresh" content="0;URL=http://getrealandheel.unc.edu/" />
+</head>
+
+<body>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

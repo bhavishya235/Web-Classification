@@ -1,0 +1,2368 @@
+====================<http://www.hpcportal.de/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>T-Systems SfR hpcPortal</title>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta name="Keywords" content="hpcportal,portal,hpc,high preformance computing,asp,asp dienst,T-Systems,cae,cae anwendungen,cae berechnung,cae applications,cae calculations,berechnung,abaqus,ls-dyna,medina,pegasus">
+<meta name="Description" content="hpcPortal ist der ASP Dienst von T-Systems f�r CAE Anwendungen wie Abaqus und LS-Dyna.">
+<link rel="stylesheet" type="text/css" href="http://www.hpcportal.de/Style/debis.css" title="debis-style">
+<script type="text/javascript" src="cookies.js"></script>
+<script type="text/javascript">
+<!--
+  function redirect() {
+    var settingsStr = GetCookie("hpcPortal settings java");
+    language = settingsStr;
+    if ( language != "eng" && language != "ger" ) language = "ger";
+    if ( document.all ) {
+      self.document.location.href = "http://www.hpcportal.de/redirect_user.php?language=" + language + "&browser=IE";
+    } else if ( document.layers ) {
+      self.document.location.href = "http://www.hpcportal.de/redirect_user.php?language=" + language + "&browser=NN";
+    } else if ( document.getElementByID ) {
+      self.document.location.href = "http://www.hpcportal.de/redirect_user.php?language=" + language + "&browser=NN_6";
+    } else {
+      self.document.location.href = "http://www.hpcportal.de/redirect_user.php?language=" + language + "&browser=UNKNOWN";
+    }
+  }
+//-->
+</script>
+</head>
+<body bgcolor="#d9d9dd" onload="javascript:dummy=setTimeout('redirect()',2000);">
+<table height="100%" width="100%">
+<tr><td width="100%" height="35%"></td></tr>
+<tr><td class="message" align="center" valign="middle" width="100%" height="15%">Please wait.<br><br>&nbsp;&nbsp;Loading...</td></tr>
+<tr><td class="message" align="center" valign="middle" width="100%" height="15%">This page will redirect in a few moments...<br><br>
+If it does not do so or if you would like to skip the login please <a href="http://www.hpcportal.de/index.shtml">click here</a>.</td></tr>
+<tr><td width="100%" height="35%"></td></tr>
+</table>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.sgi.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+ <title>SGI - The Trusted Leader in High Performance Computing: HPC, Big Data, Servers, Storage, Data Center Solutions, Cloud Computing</title>
+ <meta name="description" content="SGI is focused on helping customers solve their most demanding business and technology challenges by delivering technical computing, Big Data, and cloud computing solutions." />
+ <meta name="keywords" content="SGI, Technical Computing, High Performance Computing, HPC, Big Data, Servers, Storage, Data Center, Cloud Computing" />
+ <meta name="owner" content="Silicon Graphics International Corp." />
+ <meta name="google-site-verification" content="Zm1lPGtkiSwZPM_MdvNSAH2W8DEIXO22Gb-UEW0jbUo" />
+ <style type="text/css">@import url(/styles/new/homepage.css);</style>
+ <script type="text/javascript" src="/js/swfobject.js"></script>
+ <script type="text/javascript">
+  swfobject.registerObject("sgiHomepageHero", "9.0.0");
+ </script>
+ <script type="text/javascript" src="/js/redesign_style_sniffer.js"></script>
+ <script type="text/javascript" src="/js/gatag.js"></script>
+ <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1614576-2']);
+  _gaq.push(['_setDomainName', '.sgi.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ </script>
+ <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+ <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+</head>
+<body>
+
+<div id="topPageCorner">
+<div id="container"> 
+ <!-- Start Header -->
+ <div id="globalContainer">
+ <!-- Start Topsubnav -->
+  <div id="globalHeader">
+
+   <!-- this link is for no_style.css -->
+   <a href="/" class="logo">SGI</a>
+   <!-- end this link is for no_style.css -->
+
+   <!-- Start Logo -->
+   <div class="logodiv">
+    <a href="/"><img src="/images/main_template/topbar_logo.gif" alt="SGI" style="border:0px;" /></a>
+   </div>
+   <!-- End Logo -->
+
+   <!-- Start Tagline -->
+   <div class="taglinediv">
+	<img src="/images/main_template/topbar_tagline.jpg" alt="" border="0" />
+   </div>
+   <!-- End Tagline -->
+
+   <!-- Start Search -->
+   <div class="searchdiv">
+	<a href="smc.html"><img src="/images/dots/dot_clear.gif" width="100" height="20" alt="" border="0" /></a>
+	<a href="images/smc.png"><img src="/images/dots/dot_clear.gif" width="100" height="20" alt="" border="0" /></a>
+    <form action="/search/results.html" id="cse-search-box">
+     <input type="text" name="q" value="Search" onblur="if (this.value == '') {this.value = 'Search';}"  onfocus="if (this.value == 'Search') {this.value = '';}" size="25" class="box" />
+     <button type="submit" name="btnG" class="search"></button>
+     <input type="hidden" name="cx" value="014055117870193375856:xd_z7pteusu" />
+     <input type="hidden" name="cof" value="FORID:11;NB:1" />
+     <input type="hidden" name="ie" value="UTF-8" />
+     <input type="submit" name="sa" value="Search" class="hideButton" />
+    </form>
+   </div>
+   <!-- End Search -->
+  </div>
+
+  <!-- Start Topnav -->
+  <div id="nav">
+   <div id="nav-tagline">The Trusted Leader in High Performance Computing</div>
+   <div id="nav-subnav">
+    <a href="/company_info/">About Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="/global/">Worldwide</a>
+   </div>
+  </div>
+  <!-- End Topnav -->
+ <!-- End Header -->
+
+<table width="960" border="0" cellpadding="0" cellspacing="0" align="left" id="core">
+<tr>
+<td colspan="3">
+
+<!--- Do not remove the next four lines before the sidenav --->
+</td>
+</tr>
+<tr valign="TOP">
+	<td>
+
+<!-- Begin Left Separator -->
+
+<div id="contentAreaContainerFull">
+
+<!-- End Left Separator -->
+
+<!-- Content starts here -->
+
+<!-- BEGIN Feature -->
+<div style="float:left; margin-top:5px; clear:bottom;">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="700" height="350" id="sgiHomepageHero">
+<param name="movie" value="images/homepage/container.swf" />
+<!--[if !IE]>-->
+<object type="application/x-shockwave-flash" data="images/homepage/container.swf" width="700" height="350">
+<!--<![endif]-->
+<!-- BEGIN code for when user has no flash - displays a static image -->
+<a href="/company_info/newsroom/press_releases/2014/january/storage.html"><img src="/images/homepage/content/raid.jpg" border="0" alt="SGI Launches New Performance-Optimized Enterprise Storage Systems and New All-Flash Array for Big Data and HPC Workloads" /></a>
+
+<!-- END code for when user has no flash - displays a static image -->
+<!--[if !IE]>-->
+</object>
+<!--<![endif]-->
+</object>
+		</div>
+<!-- END Feature -->
+
+<!-- BEGIN Highlights -->
+<div id="hphighlights_box">
+<!-- ********** BEGIN Social Media Icons ********** -->
+<div id="hphighlights_icons">
+		<div style="float:left; margin-right:5px;">
+			<a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+		</div>
+		
+		<div style="float:left; margin-right:5px;">		
+			<!-- Place this tag where you want the +1 button to render. -->
+			<div class="g-plusone" data-size="medium" data-annotation="none"></div>
+			<!-- Place this tag after the last +1 button tag. -->
+			<script type="text/javascript">
+			  (function() {
+			    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			    po.src = 'https://apis.google.com/js/platform.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			  })();
+			</script>
+		</div>
+
+		<div style="float:left; margin-right:5px;">	
+<script src="//platform.linkedin.com/in.js" type="text/javascript">
+ lang: en_US
+</script>
+<script type="IN/Share"></script>		
+		</div>
+		
+		<div style="float:left; width:50px; overflow:hidden;">
+		<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+		<div class="fb-like" data-href="http://www.facebook.com/sgiglobal" data-send="false" data-layout="button_count" data-show-faces="false" data-font="arial" data-action="like"></div>
+		</div>
+</div>
+<!-- ********** END Social Media Icons ********** -->
+
+<div id="hphighlights_content">
+<!-- ********** NEWS to include 3 most recent press release ********** -->
+<div id="hphighlights_subhead"><b><a href="/company_info/newsroom/">Newsroom &rsaquo;&rsaquo;</a></b></div>
+<div id="hphighlights_listings">
+<b>Feb 24</b>: <a href="/company_info/newsroom/press_releases/2014/february/crn.html">Alison Ryan, Americas Sales Vice President of SGI Recognized as one of CRN's 2014 Channel Chiefs</a>
+<div class="modsep"></div>
+<b>Feb 12</b>: <a href="/company_info/newsroom/press_releases/2014/february/ceo_world_awards.html">Jorge Titinger Named by the CEO World Awards as 2013 CEO of the Year in the Operational Effective Category</a>
+</div>
+
+<!-- ********** EVENTS to include the next 2 events from Events page ********** -->
+<div id="hphighlights_subhead"><b><a href="/company_info/newsroom/events/">Upcoming Events &rsaquo;&rsaquo;</a></b></div>
+<div id="hphighlights_listings">
+<b>January - March 2014</b><br /><a href="http://info.sgi.com/BigDataU/" target="_blank">SGI Big Data U</a><br />Various Locations in US &amp; Europe 
+<div class="modsep"></div>
+<b>March 25-27</b><br /><a href="http://hpcc-usa.org/" target="_blank">HPCC</a> - Newport, RI
+<!--b>April 14-17</b><br /><a href="http://geoint2013.com/" target="_blank">GEOINT</a><br />Tampa, FL-->
+<!--div class="modsep"></div>
+<b>Apr 29</b>: <a href="http://www.bio-itworldexpo.com/" target="_blank">Bio-IT World</a> - Boston, MA-->
+</div>
+</div>
+</div>
+
+<!-- END Highlights -->
+
+<!-- BEGIN Links -->
+<div class="modB2 mod-top4" style="width:932px; float:left; background:#efefef;">
+
+<h3>
+<div class="hplinkbox1-header"><a href="/products/">Products</a></div>
+<div class="hplinkbox2-header"><a href="/solutions/">Solutions</a></div>
+<div class="hplinkbox3-header"><a href="/partners/">Partners</a></div>
+<div class="hplinkbox4-header"><a href="/services/">Services</a></div>
+<div class="hplinkbox5-header"><a href="/company_info/newsroom/">News</a></div>
+<div class="hplinkbox6-header"><a href="http://investors.sgi.com/">Investors</a></div>
+<div class="hplinkbox7-header"></div>
+</h3>
+
+<div class="hplinkbox1">
+<ul>
+<li><a href="/products/servers/">Servers</a></li>
+<li><a href="/products/storage/">Storage</a></li>
+<li><a href="/solutions/bigdata/">Big Data</a></li>
+<li><a href="/products/software/">Software</a></li>
+<li><a href="/products/remarketed/">Remarketed</a></li>
+</ul>
+</div>
+
+<div class="hplinkbox2">
+<ul>
+<!--li><a href="/solutions/bigdata/">Big Data</a></li-->
+<li><a href="/solutions/government/">Government</a></li>
+<li><a href="/solutions/genomics/">Genomics &amp; Life Sciences</a></li>
+<li><a href="/solutions/research/">Research &amp; Education</a></li>
+<li><a href="/solutions/manufacturing/">Manufacturing</a></li>
+<li><a href="/solutions/media/">Telco, Media &amp; Entertainment</a></li>
+</ul>
+</div>
+
+<div class="hplinkbox3">
+<ul>
+<li><a href="https://channels.sgi.com/">Channel Partners</a></li>
+<li><a href="https://channels.sgi.com/partnerLocator.aspx">Channel Partner Locator</a></li>
+<li><a href="/partners/technology/">Solution Partners</a></li>
+<li><a href="/partners/developers/">Developer Resources</a></li>
+<!--li><a href="/solutions/customers/">Customers</a></li-->
+</ul>
+</div>
+
+<div class="hplinkbox4">
+<ul>
+<li><a href="/services/professional/">Professional Services</a></li>
+<li><a href="/services/installation/">Installation Services</a></li>
+<li><a href="/services/support/">Support Services</a></li>
+<li><a href="/services/education/">Customer Education</a></li>
+<li><a href="/services/">Support</a></li>
+<li><a href="https://support.sgi.com/">Supportfolio</a></li>
+</ul>
+</div>
+
+<div class="hplinkbox5">
+<ul>
+<li><a href="/company_info/newsroom/press_releases/">Press Releases</a></li>
+<li><a href="/company_info/newsroom/media_coverage/">Media Coverage</a></li>
+<li><a href="/company_info/newsroom/events/">Events</a></li>
+<li><a href="/company_info/media/">Media Library</a></li>
+<li><a href="/pdfs/">Collateral</a></li>
+</ul>
+</div>
+
+<div class="hplinkbox6">
+<ul>
+<li><a href="http://investors.sgi.com/events.cfm">Company Events</a></li>
+<li><a href="http://investors.sgi.com/releases.cfm">Financial Press</a></li>
+<li><a href="http://investors.sgi.com/financials-KeyRatios.cfm">Financial Data</a></li>
+<li><a href="http://investors.sgi.com/results.cfm">Quarterly Results</a></li>
+<li><a href="http://investors.sgi.com/sec.cfm">SEC Filings</a></li>
+</ul>
+</div>
+
+<div class="hplinkbox7">
+<table border="0" cellspacing="0">
+<tr>
+<td>
+<a href="http://www.youtube.com/watch?v=k2ktE6SAiMI&list=PLT0g4VdghLMiadc29l627IabkypGqWh-U&index=1" target="_blank"><img src="/images/homepage/subfeat_gerry120.jpg" border="0" style="padding:1px; border:1px solid #cbcdcc;" /></a>
+<div style="margin:0px 0 0 5px;"><a href="http://www.youtube.com/watch?v=k2ktE6SAiMI&list=PLT0g4VdghLMiadc29l627IabkypGqWh-U&index=1" target="_blank">Learn How SGI &amp; FedCentric Deliver Real-Time Analytics for USPS</a> (YouTube)</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- END Links -->
+
+<!-- Content ends here -->
+
+<!-- Begin Right Separator -->
+</div>
+</td></tr>
+
+<!-- End Right Separator -->
+
+<!-- Begin Footer -->
+<tr>
+<td colspan="2" valign="bottom" align="center">
+<div id="footer-full">
+	<a href="/company_info/privacy.html">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/company_info/terms.html">Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/company_info/careers/">Careers</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://investors.sgi.com/">Investors</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/subscribe/">Subscribe</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/site_contents.html">Site Map</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/company_info/contact_us.html">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<div id="footer-close"><a href="mailto:a-trap@sgi.com">&nbsp;</a>&nbsp;&copy; 2009 - 2014 Silicon Graphics International Corp. All Rights Reserved. <a href="https://www.twitter.com/sgi_corp" target="_blank"><img src="/images/common/twitter-icon-17x17.gif" style="border:0;" /></a>&nbsp;<a href="https://www.facebook.com/sgiglobal" target="_blank"><img src="/images/common/facebook-icon-17x17.gif" style="border:0;" /></a>&nbsp;<a href="https://plus.google.com/+silicongraphics" target="_blank"><img src="/images/common/google-icon-17x17.gif" style="border:0;" /></a>&nbsp;<a href="http://www.youtube.com/sgicorp" target="_blank"><img src="/images/common/youtube-icon-17x17.gif" style="border:0;" /></a>&nbsp;<a href="http://www.linkedin.com/company/sgi" target="_blank"><img src="/images/common/linkedin-icon-17x17.gif" style="border:0;" /></a>&nbsp;<a href="/subscribe/rss.html"><img src="/images/common/feed-icon-17x17.gif" style="border:0;" /></a></div>
+</td>
+</tr>
+</table>
+<script language="javascript" type="text/javascript">
+    var mv_domain = location.protocol == "https:" ? "https://mv.treehousei.com" : "http://mv.treehousei.com";
+    document.write(unescape("%3Cscript src='" + mv_domain +"/Javascript/visitTracker.ashx?CompanyId=ED57VGIFQYGOD' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</div>
+</body>
+<!-- End Footer -->
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.epoka.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Home | Epoka IT Equipment</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="icon" href="http://www.epoka.com/media/favicon/default/Epoka_1.png" type="image/x-icon" />
+<link rel="shortcut icon" href="http://www.epoka.com/media/favicon/default/Epoka_1.png" type="image/x-icon" />
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.epoka.com/js/blank.html';
+    var BLANK_IMG = 'http://www.epoka.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.epoka.com/skin/frontend/epoka/default/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.epoka.com/skin/frontend/base/default/css/j2t/ajax_cart.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.epoka.com/skin/frontend/base/default/css/j2t/ajax_cart_template_squared.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.epoka.com/skin/frontend/epoka/default/css/reset.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.epoka.com/skin/frontend/epoka/default/css/jquery.fancybox.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.epoka.com/skin/frontend/epoka/default/css/jquery-ui-1.10.3.custom.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.epoka.com/skin/frontend/epoka/default/css/print.css" media="print" />
+<script type="text/javascript" src="http://www.epoka.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/js/varien/js.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/js/varien/form.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/skin/frontend/base/default/js/j2t/ajax_cart.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/skin/frontend/epoka/default/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/skin/frontend/epoka/default/js/jquery-ui-1.9.2.custom.min.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/skin/frontend/epoka/default/js/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/skin/frontend/epoka/default/js/jquery.multiselect.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/skin/frontend/epoka/default/js/spin.min.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/skin/frontend/epoka/default/js/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/skin/frontend/epoka/default/js/jquery.mousewheel-3.0.6.pack.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/skin/frontend/epoka/default/js/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/skin/frontend/epoka/default/js/jquery-custom-select.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/skin/frontend/epoka/default/js/script.js"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.epoka.com/skin/frontend/base/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://www.epoka.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.epoka.com/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://www.epoka.com/skin/frontend/epoka/default/css/ie.css" media="all" />
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.epoka.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["IE","PA","HK","MO"];
+//]]>
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><meta name="google-site-verification" content="HG6kFXFD80ppmrajktv-JDP8x0ZpSzaU8LjhgzcRmi0"/></head>
+<body class=" cms-index-index cms-">
+<!-- BEGIN GOOGLE ANALYTICS CODEs -->
+<script type="text/javascript">
+//<![CDATA[
+    var _gaq = _gaq || [];
+    
+_gaq.push(['_setAccount', 'UA-23816365-1']);
+_gaq.push(['_trackPageview']);
+    
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        <!-- -----------------------------------------------------------------------------
+Created and maintained by WEXO ApS www.wexo.dk
+Phone: +45 71 99 48 16
+----------------------------------------------------------------------------- -->
+<div class="header-container">
+    <div class="header">
+        <div class="login_wrap">	<!--
+<ul class="links">
+                                                        <li class=" last" ><a href="http://www.epoka.com/customer/account/login/referer/aHR0cDovL3d3dy5lcG9rYS5jb20vP19fX1NJRD1V/" title="Employee Login" >Employee Login</a></li>
+            </ul>
+-->
+</div>
+        
+    <div id="lang_switcher">
+                    <a title="English" href="http://www.epoka.com/?___store=english&amp;___from_store=english">
+                <img src="http://www.epoka.com/skin/frontend/epoka/default/images/flags/english.png" />
+            </a>
+                    <a title="German" href="http://www.epoka.com/about/?___store=german">
+                <img src="http://www.epoka.com/skin/frontend/epoka/default/images/flags/german.png" />
+            </a>
+                    <a title="French" href="http://www.epoka.com/about/?___store=france">
+                <img src="http://www.epoka.com/skin/frontend/epoka/default/images/flags/france.png" />
+            </a>
+                    <a title="Portuguese" href="http://www.epoka.com/about/?___store=portugal">
+                <img src="http://www.epoka.com/skin/frontend/epoka/default/images/flags/portugal.png" />
+            </a>
+                    <a title="Italian" href="http://www.epoka.com/about/?___store=italia">
+                <img src="http://www.epoka.com/skin/frontend/epoka/default/images/flags/italia.png" />
+            </a>
+                    <a title="Spanish" href="http://www.epoka.com/about/?___store=espanol">
+                <img src="http://www.epoka.com/skin/frontend/epoka/default/images/flags/espanol.png" />
+            </a>
+                    <a title="Polish" href="http://www.epoka.com/about/?___store=polski">
+                <img src="http://www.epoka.com/skin/frontend/epoka/default/images/flags/polski.png" />
+            </a>
+                    <a title="Bosnian" href="http://www.epoka.com/about/?___store=bosnia">
+                <img src="http://www.epoka.com/skin/frontend/epoka/default/images/flags/bosnia.png" />
+            </a>
+                    <a title="Croatian" href="http://www.epoka.com/about/?___store=hrvatska">
+                <img src="http://www.epoka.com/skin/frontend/epoka/default/images/flags/hrvatska.png" />
+            </a>
+                    <a title="Slovenian" href="http://www.epoka.com/about/?___store=slovenija">
+                <img src="http://www.epoka.com/skin/frontend/epoka/default/images/flags/slovenija.png" />
+            </a>
+                    <a title="Russian" href="http://www.epoka.com/about/?___store=russia">
+                <img src="http://www.epoka.com/skin/frontend/epoka/default/images/flags/russia.png" />
+            </a>
+                    <a title="Bulgarian" href="http://www.epoka.com/about/?___store=bulgaria">
+                <img src="http://www.epoka.com/skin/frontend/epoka/default/images/flags/bulgaria.png" />
+            </a>
+                    <a title="Romanian" href="http://www.epoka.com/about/?___store=romania">
+                <img src="http://www.epoka.com/skin/frontend/epoka/default/images/flags/romania.png" />
+            </a>
+            </div>
+
+
+<div class="block block-header block-header-top-line">
+  
+  <script type="text/javascript">
+
+          var url = "http://www.epoka.com/customer/account/login/";
+      var label = "Log in";
+      var isLogged = false;
+    
+    jQuery(function ($) {
+      var link = $('div.block-header-top-line li.item-login a');
+      if (link.length)
+      {
+        link
+          .text(label)
+          .attr('href', url);
+      }
+      if (isLogged)
+      {
+        $('div.block-header-top-line li.item-my-account').show();
+      }
+    });
+  </script>
+
+
+</div>
+      <div class="header-main">
+        <div class="header-logo">
+          <a href="http://www.epoka.com/" title="Epoka - IT equipment" class="logo"><img src="http://www.epoka.com/skin/frontend/epoka/default/images/logo.png" alt="Epoka - IT equipment" /></a>
+        </div>
+
+        <div class="hotline">
+          <div>
+            <span class="title">Call us if you need help</span>
+            <span class="hotline">+45 96 730 800 or <a href="mailto:quote@epoka.dk?subject=Epoka Support">quote@epoka.dk</a></span>
+          </div>
+                    <img src="http://www.epoka.com/skin/frontend/epoka/default/images/hotline_girls//hotline_girl4.png">
+        </div>
+        <div class="mini-cart">
+          
+
+
+<div class="block block-cart">
+
+            <a href="http://www.epoka.com/checkout/cart/">
+      <div class="basked">
+        <img class="icon" src="http://www.epoka.com/skin/frontend/epoka/default/images/basked_icon_header.png" />
+      </div>
+      <ul>
+                    <li class="count">
+                0 <span>products</span>
+            </li>
+                <li class="delivery">
+            Click to request a quote</a>
+        </li>
+      </ul>
+      <div class="arrow">
+        <img class="icon" src="http://www.epoka.com/skin/frontend/epoka/default/images/arrow_icon_header.png" />
+      </div>
+    </a>
+
+
+
+    <div class="block-content">
+      <span class="summary summary-left">
+
+      </span>
+      <span class="summary summary-right">
+        
+
+              </span>
+
+    </div>
+
+</div>
+        </div>
+      </div>
+
+
+            <div class="nav-container">
+        <ul id="nav">
+            <li class="level0 level-top">
+                <a class="level-top" href="/">
+                    <span>Home</span>
+                </a>
+            </li>
+
+            <li class="level0 level-top first parent">
+<a href="http://www.epoka.com/products/" class="level-top">
+<span>Products</span>
+</a>
+<ul class="level0">
+<li class="level1 first">
+<a href="http://www.epoka.com/products/brocade/">
+<span>Brocade</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/products/cisco/">
+<span>Cisco</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/products/emc/">
+<span>EMC</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/products/fujitsu/">
+<span>Fujitsu</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/products/hitachi-data-systems/">
+<span>Hitachi Data Systems</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/products/ibm/">
+<span>IBM</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/products/hp/">
+<span>HP</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/products/netapp/">
+<span>NetApp</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/products/storagetek/">
+<span>Storagetek</span>
+</a>
+</li><li class="level1 last">
+<a href="http://www.epoka.com/products/sun-microsystems/">
+<span>Sun Microsystems/ Oracle</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 level-top parent">
+<a href="http://www.epoka.com/about/" class="level-top">
+<span>About Epoka</span>
+</a>
+<ul class="level0">
+<li class="level1 first">
+<a href="http://www.epoka.com/about/history/">
+<span>History</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/about/mission/">
+<span>Mission and vision</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/about/company/">
+<span>Company details</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/about/film/">
+<span>Company presentation film</span>
+</a>
+</li><li class="level1 last">
+<a href="http://www.epoka.com/about/focus-areas/">
+<span>Focus areas</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 level-top">
+<a href="http://www.epoka.com/jobs/" class="level-top">
+<span>Job Openings</span>
+</a>
+</li><li class="level0 level-top parent">
+<a href="http://www.epoka.com/press/" class="level-top">
+<span>Press Room</span>
+</a>
+<ul class="level0">
+<li class="level1 first last">
+<a href="http://www.epoka.com/press/profilebrochure/">
+<span>Profile brochure</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 level-top parent">
+<a href="http://www.epoka.com/contact/" class="level-top">
+<span>Contact Us</span>
+</a>
+<ul class="level0">
+<li class="level1 first">
+<a href="http://www.epoka.com/contact/owner/">
+<span>Owner</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/contact/management/">
+<span>Management</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/contact/accounting/">
+<span>Accounting</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/contact/administration/">
+<span>Administration</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/contact/area-managers/">
+<span>Area Managers</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/contact/engineers/">
+<span>Engineers</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/contact/logistics/">
+<span>Logistics</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/contact/marketing/">
+<span>Marketing</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/contact/representation-offices/">
+<span>Representation Offices</span>
+</a>
+</li><li class="level1 last">
+<a href="http://www.epoka.com/contact/sales-purchasing/">
+<span>Sales &amp; Purchasing</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 level-top parent">
+<a href="http://www.epoka.com/support/" class="level-top">
+<span>Support</span>
+</a>
+<ul class="level0">
+<li class="level1 first">
+<a href="http://www.epoka.com/support/terms-and-conditions/">
+<span>Terms and conditions</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/support/supplier-information/">
+<span>Supplier information</span>
+</a>
+</li><li class="level1">
+<a href="http://www.epoka.com/support/track-and-trace/">
+<span>Track and trace</span>
+</a>
+</li><li class="level1 last">
+<a href="http://www.epoka.com/support/rma/">
+<span>RMA</span>
+</a>
+</li>
+</ul>
+</li>
+        </ul>
+    </div>
+
+
+
+        <div class="quick-access">
+            <form id="search_mini_form" action="http://www.epoka.com/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <label for="search"><img src="http://www.epoka.com/skin/frontend/epoka/default/images/search_icon.png"></label>
+        <input id="search" type="text" name="q" value="" placeholder="Search for partnumber or keywords" class="input-text" maxlength="128" />
+        <button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+
+        <script type="text/javascript">
+            jQuery(function ($) {
+              $("#search_autocomplete")
+                .appendTo("div.page");
+            });
+        </script>
+
+    </div>
+</form>
+            <div class="text-over-slider">
+<div>+10.000 part numbers in stock</div>
+<div>World wide delivery</div>
+<div>Extensive product range</div>
+</div>        </div>
+
+            </div>
+</div>
+
+<div id="slider-1" class="slide-container">
+  <script type="text/javascript" src="http://www.epoka.com/js/magestore/bannerslider/banner1.js"></script>
+  <div id="slide-images" class="slide-show" style="width:1020px; height:298px;">
+    <div id="pettabs" class="indentmenu">
+      <ul>
+                <li class="button-mini-white"><a href="#" rel="tab1" class="selected">1</a></li>
+                <li class="button-mini-white"><a href="#" rel="tab2" class="">2</a></li>
+                <li class="button-mini-white"><a href="#" rel="tab3" class="">3</a></li>
+                <li class="button-mini-white"><a href="#" rel="tab4" class="">4</a></li>
+              </ul>
+    </div>
+    <div class="banner-content-style1">
+            <div id="tab1" class="tabcontent">
+        <a href="/products/">
+          <img src="http://www.epoka.com/media/multibrand_black.jpg" title="Servers, Storage and networking" alt="Servers, Storage and networking" style="width:1020px; height:298px;"/>
+                    <div class="banner_content" style="width:1000px;"><p></p></div>
+                  </a>
+      </div>
+            <div id="tab2" class="tabcontent">
+        <a href="">
+          <img src="http://www.epoka.com/media/warranty.jpg" title="Tested and warranty" alt="Tested and warranty" style="width:1020px; height:298px;"/>
+                    <div class="banner_content" style="width:1000px;"><p></p></div>
+                  </a>
+      </div>
+            <div id="tab3" class="tabcontent">
+        <a href="/products/">
+          <img src="http://www.epoka.com/media/warehouse.jpg" title="Warehouse facts" alt="Warehouse facts" style="width:1020px; height:298px;"/>
+                    <div class="banner_content" style="width:1000px;"><p></p></div>
+                  </a>
+      </div>
+            <div id="tab4" class="tabcontent">
+        <a href="contact/sales-purchasing">
+          <img src="http://www.epoka.com/media/Cooperation-sh.jpg" title="Cooperation" alt="Cooperation" style="width:1020px; height:298px;"/>
+                    <div class="banner_content" style="width:1000px;"><p></p></div>
+                  </a>
+      </div>
+          </div>
+  </div>
+  <script type="text/javascript">
+      var delay = 6000;    var mypets=new ddtabcontent("pettabs");
+    mypets.setpersist(true);
+    mypets.setselectedClassTarget("link");
+    mypets.init(delay);
+  </script>
+</div>
+
+<div class="clear"></div>
+        <div class="main-container col1-layout">
+            <div class="main">
+                                <div class="col-main">
+                                        <div class="home-content">
+
+    <div class="middle">
+        <div class="middle_wrap brands">
+            <h3>Brands</h3>
+            <div class="nav-container">
+<ul class="level1" style="float: left;">
+<ul class="brands-grid" style="float: left; margin-right: 12px;">
+<li class="level2"><a href="/products/cisco"> <span>Cisco </span> </a></li>
+<li class="level2"><a href="/products/brocade"> <span>Brocade </span> </a></li>
+<li class="level2"><a href="/products/emc"> <span>EMC </span> </a></li>
+<li class="level2"><a href="/products/fujitsu"> <span>Fujitsu </span> </a></li>
+<li class="level2"><a href="/products/hitachi-data-systems"> <span>Hitachi Data Systems </span></a></li>
+<li class="level2"><a href="/products/hp"> <span>HP </span> </a></li>
+</ul>
+<ul class="brands-grid" style="float: left; margin-right: 12px;">
+<li class="level2"><a href="/products/ibm"> <span>IBM </span> </a></li>
+<li class="level2"><a href="/products/netapp"> <span>NetApp </span> </a></li>
+<li class="level2"><a href="/products/storagetek"> <span>Storagetek </span> </a></li>
+<li class="level2"><a href="/products/sun-microsystems"> <span>Sun Microsystems </span> </a></li>
+<li class="level2"><a href="/products"> <span>See more brands</span> </a></li>
+</ul>
+</ul>
+</div>        </div>
+        <div class="middle_wrap contact">
+            <h3>Contact</h3>
+            <p>Get in touch with one of our employees</p>
+            <div class="nav-container">
+                <ul class="level1">
+                    <li class="level2"><a href="http://www.epoka.com/contact/sales-purchasing"><span>Product team (sales and purchasing)</span></a></li>
+                    <li class="level2"><a href="http://www.epoka.com/contact/area-managers"><span>Area Managers</span></a></li>
+                    <li class="level2"><a href="http://www.epoka.com/contact/logistics"><span>Logistics</span></a></li>
+                </ul>
+            </div>
+
+            <form id="search_employee_form" action="/employees/search" method="get" style="position: relative;margin-top: 20px;">
+                <div class="form-search">
+                    <label style="position: absolute;left: 5px;top:9px;" for="search_employee"><img src="http://www.epoka.com/skin/frontend/epoka/default/images/search_icon.png"></label>
+                    <input style="width: 233px;padding-left:20px;" id="search_employee" type="text" name="emp" placeholder="Find an employee" class="input-text" maxlength="128" />
+                    <button style="position: absolute;right: 19px; top: 4px;" type="submit" title="Find an employee" class="button"><span><span>Search</span></span></button>
+                    <div id="search_employee_autocomplete" class="search-autocomplete"></div>
+                    <script type="text/javascript">
+                        //<![CDATA[
+                        var searchForm = new Varien.searchForm('search_employee_form', 'search_employee', 'Find an employee');
+                        searchForm.initAutocomplete('/', 'search_employee_autocomplete');
+
+                        jQuery(function ($) {
+                            $("#search_employee_autocomplete")
+                                .appendTo("div.page");
+                        });
+                        //]]>
+                    </script>
+                </div>
+            </form>
+
+        </div>
+        <div class="middle_wrap video">
+            <h3>Film</h3>
+            <p>See our company presentation film</p>
+
+                <p><a href="http://www.youtube.com/embed/GGBH_Nv-UsA?rel=0" target="_blank"><img src="http://www.epoka.com/media/wysiwyg/Video-afspildningsknap-epoka1.png" alt="" /></a></p>        </div>
+    </div>
+
+</div>
+
+<div class="std"><p>&nbsp;.</p></div>                </div>
+            </div>
+        </div>
+        <div class="footer-container">
+    <div class="spacer"></div>
+        <div class="block block-footer block-footer-top-line">
+  <div class="content">
+    <a href="#"><span>Back to the top</span></a>
+  </div>
+</div>    <div class="footer">
+      <ul class="inline-list">
+        <li class="inline-item first block-1">
+          <div class="item-content">
+            <h3><span>Epoka A/S</span></h3>
+            <ul class="epoka_as">
+<li>Hjulmagervej 21 <br /> DK-9490 Pandrup</li>
+</ul>
+<table style="float: right;" border="0">
+<tbody>
+<tr>
+<td>Phone</td>
+<td><strong>+45 96 730 800</strong></td>
+</tr>
+<tr>
+<td>Fax</td>
+<td><strong>+45 96 730 815</strong></td>
+</tr>
+<tr>
+<td>E-mail</td>
+<td><a href="mailto:epoka@epoka.com"><strong>epoka@epoka.com</strong></a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>          </div>
+        </li>
+        <li class="inline-item block-2">
+          <div class="item-content">
+            <h3><span>About Epoka</span></h3>
+            <p style="text-align: justify;">Epoka A/S is an independent reseller of high-end IT hardware such as servers, storage systems and networking equipment. Our head office is placed in Pandrup, Denmark. From here we service more than 90 countries every year with refurbished IT hardware.</p>          </div>
+        </li>
+      </ul>
+      <a id="soliditet" href="http://www.soliditet.dk/lang/en_GB/RatingGuideline" target="_blank" style="text-decoration: none;">
+    <img title="Our company is credit worthy according to Soliditet's credit assessment system that are based on a number of decision rules. This credit rating is updated on a daily basis, and always shows the current rating and date."
+         id="img_144_135_px"
+         oncontextmenu="return false"
+         alt="Our company is credit worthy according to Soliditet's credit assessment system that are based on a number of decision rules. This credit rating is updated on a daily basis, and always shows the current rating and date."
+         src="http://merit.soliditet.dk/merit/imageGenerator/display?lang=EN&amp;country=DK&amp;cId=eOeEz%2BGKKQqhhMKrS1815g%3D%3D&amp;cUid=zySSQMrP0KM%3D&amp;imgType=img_144_135_px"
+         style="border: 0px;"
+    />
+</a>
+
+<div class="block block-footer block-footer-bottom-line"  style="bottom: 56px;position: absolute;">
+  <img src="http://www.epoka.com/skin/frontend/epoka/default/images/footer_bottom_line.png">
+</div>    </div>
+  <div class="page-bottom-block">
+      <a class="wexo_signature" href="https://www.wexo.dk/dk/" target="_blank">Made by WEXO</a>
+  </div>
+</div>
+        </div><script type="text/javascript">
+//<![CDATA[    
+    String.prototype.j2ttrim = function() {
+      return this.replace(/^\s+|\s+$/g,"");
+    }
+    
+        
+        var cookie_available = false;
+        
+    var cookie_redirect = 1;
+    var enable_cookie_url = "http://www.epoka.com/enable-cookies/";
+    
+    var js_bundle_url = "http://www.epoka.com/skin/frontend/base/default/js/bundle.js";
+    var js_varien_product_url = "http://www.epoka.com/js/varien/product.js";
+    var js_varien_calendar_url = "http://www.epoka.com/js/calendar/calendar.js";
+    var js_varien_calendar_setup_url = "http://www.epoka.com/js/calendar/calendar-setup.js";
+    
+            var scp_on = false;
+        var js_scp_url = "";
+            
+            var on_product_page = false;
+        
+    var js_skin_js_url = "http://www.epoka.com/skin/frontend/epoka/default/js";
+    var js_skin_css_url = "http://www.epoka.com/skin/frontend/epoka/default/css";
+    
+    var j2t_ajax_cart_on_show_option = '';
+    var j2t_ajax_cart_on_show_confirm = '';
+    var j2t_ajax_cart_after_delete = '';
+    
+    var j2t_ajax_cart_appear_headercart = 'click';
+    
+    var j2t_ajax_cart_options_restrictions = 0;
+    var j2t_ajax_cart_countdown = 0;
+    
+    var j2t_ajax_cart_countdown_redirection = 0;
+    var j2t_cart_url = "http://www.epoka.com/checkout/cart/";
+    
+    var j2t_ajax_cart_show_headercart = 0;
+    var j2t_ajax_cart_fast_configuration_mode = 0;
+    
+    var j2t_ajax_cart_transparency = 0.8;
+    
+    var ajax_cart_show_popup = 1;
+    var ajax_cart_qty = 1;
+            
+    var j2t_custom_top_link = '';
+    var j2t_custom_cart = '';
+    var j2t_custom_mini_cart = 'block-cart';
+    
+    
+    //////////////////////////////
+    
+    var j2t_product_essentials = '';
+    var j2t_product_image = '';
+    var j2t_product_shop = '';
+    var j2t_product_options = '';
+    var j2t_product_bottom = '';
+    
+    if (j2t_ajax_cart_fast_configuration_mode == 1){
+        j2t_product_essentials = '';
+        j2t_product_image = '';
+        j2t_product_shop = '';
+        j2t_product_options = '';
+        j2t_product_bottom = '';
+    }
+
+    //////////////////////////////
+
+    var j2t_show_options = '1';
+    var j2t_show_close = false;
+    var j2t_blink = '';
+    j2t_blink = j2t_blink.j2ttrim();
+    
+    var j2t_ajax_cart_debug = '0';
+    
+    var j2t_ajax_cart_show_details = '0';
+    var j2t_current_store_id = '2';
+    
+
+    var loadingW = 320;
+    var loadingH = 50;
+    var confirmW = 450;
+    var confirmH = 134;
+            var use_template = true;
+    var box_width_height = 20;
+        var j2tajaxcart_url_check = "http://www.epoka.com/j2tajaxcheckout/index/productcheck/product/product_id/";
+    var j2tajaxcart_url_product_details = "http://www.epoka.com/j2tajaxcheckout/index/productdetails/product/product_id/";
+    var j2tajaxcart_url_product_fast_configuration = "http://www.epoka.com/j2tajaxcheckout/product/index/id/product_id/current_store_id/2/";
+    var j2tajaxcart_url_header_cart = "http://www.epoka.com/j2tajaxcheckout/product/topcart/";
+    //&current_store_id='+j2t_current_store_id
+    //]]>
+</script>
+
+<div class="j2t-overlay" id="j2t-overlay" style="display: none;">&nbsp;</div>
+
+<div class="j2t-loading-data" id="j2t-loading-data" style="display: none;">
+    <div class="j2t-ajax-child"> 
+                        <img alt="loading..." src="http://www.epoka.com/skin/frontend/base/default/images/j2t/ajax-loader-big-roller.gif"/>
+        <p>loading...</p>
+    </div>
+</div>
+
+<script type="text/javascript">
+    //<![CDATA[
+    var j_ajax_progess_box = '<div style="display: none; width: 320px; height: 50px; top: 550px;" class="j2tajax-progress" id="j2t_ajax_progress">&nbsp;</div>';
+    var j_ajax_confirm_box = '<div style="display: none; width: 450px; height: 134px; position: fixed; top: 496px;" class="j2tajax-confirm" id="j2t_ajax_confirm">&nbsp;</div>';
+    //]]>
+</script>
+
+
+<div id="j2t-temp-div" style="display:none;"></div>
+
+<div id="j2t-div-template" style="display:none;">
+        <div class="j2t-box-tl">&nbsp;</div>
+        <div class="j2t-box-tm">&nbsp;</div>
+        <div class="j2t-box-tr">&nbsp;</div>
+        <div class="j2t-box-cl">&nbsp;</div>
+        <div class="j2t-box-cm">&nbsp;</div>
+        <div class="j2t-box-cr">&nbsp;</div>
+        <div class="j2t-box-bl">&nbsp;</div>
+        <div class="j2t-box-bm">&nbsp;</div>
+        <div class="j2t-box-br">&nbsp;</div>
+</div>
+
+<div class="j2t_ajax_qty" id="j2t_ajax_qty" style="display:none;">
+    <div class="add-to-cart">
+        <label for="qty">Qty:</label>
+        <input type="text" name="qty" maxlength="12" value="1" title="Qty" class="input-text qty" />
+        <button type="button" title="Add to Cart" class="button btn-cart j2t-btn-cart"><span><span>Add to Cart</span></span></button>
+    </div>
+</div>
+
+<div id="j2t-product-details" style="display:none;"></div>
+    </div>
+</div>
+<script src="http://trk.enecto.com/epf.js"></script>
+<script>
+	var pftrk = new _epf.get('8a8484e53f99d995014052d54aa56af1','www.epoka.com');
+	pftrk.pageview();
+</script>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.psitech.com/>====================
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title></title><meta http-equiv="refresh" content="0;url= Psitech/Welcome.html" /></head><body></body></html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.pioneertechnology.com/>====================
+<HTML>
+<HEAD>
+
+
+<title>:: Pioneer Technology Services, Inc :: - Home</title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+<META HTTP-EQUIV="EXPIRES" CONTENT="0">
+<META NAME="RESOURCE-TYPE" CONTENT="DOCUMENT">
+<META NAME="DISTRIBUTION" CONTENT="GLOBAL">
+<META NAME="AUTHOR" CONTENT="Franklin Frith - www.frith.cc">
+<META NAME="COPYRIGHT" CONTENT="Copyright (c) 2004, 2005 by Pioneer Technology Services, Inc.">
+<META NAME="KEYWORDS" CONTENT="e-Security, esecurity, security, Managed Security Services, Managed services, Firewall, Security, Hacker, data warehouse, data warehousing, hosting, web development, web design, graphics, web services, engineering, financial, banking, ISP, ASP, government, Engineering, internet, protection, forensic, e-Forensics, Forensics, Digital Forensics, HPC, Clusters, R&D, Ipv6, artificial intelligence,  AI, fuzzy logic,  Neural Nets, smart agents, Expert System, honey net, honey pot, RCE, Data modeling, Data mining, CFE, CISM, Product Development, Testing Services, IDS, Intrusion Detection System, research and development, research & development, Advance Cyber Defense, supercomputer, super computer, Supercomputing, Test Management, custom engineering, SCADA, SOX, HIPAA, Embedded Processors, DSP">  
+<META NAME="DESCRIPTION" CONTENT="Pioneer Technology provides e-Security audits and intrusion protection, Managed e-Security services, in addition, to Data warehousing.">
+<meta name="googlebot" content="index, follow">
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+<META NAME="REVISIT-AFTER" CONTENT="1 DAYS">
+<META NAME="RATING" CONTENT="GENERAL">
+<META NAME="REPLY-TO" content="">
+<META NAME="DOCUMENT-STATE" content="Dynamic">
+<META NAME="ABSTRACT" content="">
+<META NAME="PUBLISHER-EMAIL" content="">
+<script type="text/javascript" src="pts_mainScript.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="pop_core.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="pop_data.js"></script>
+<link rel="stylesheet" type="text/css" href="pop_style.css">
+<link rel="stylesheet" type="text/css" href="pts_mainStyle.css">
+
+</HEAD>
+
+<BODY BGCOLOR=#FFFFFF background="images/pts_webBkg.gif" LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 onLoad="MM_preloadImages('images/pts_link_home_Ovr.gif','images/pts_link_about_Ovr.gif','images/pts_link_services_Ovr.gif','images/pts_link_products_Ovr.gif','images/pts_link_search_Ovr.gif','images/pts_link_contact_Ovr.gif','images/pts_link_library_Ovr.gif')">
+<script type="text/javascript" src="pop_events.js"></script>
+<br>
+<TABLE WIDTH=750 BORDER=0 CELLPADDING=0 CELLSPACING=0 bgcolor="#FFFFFF">
+  <TR> 
+    <TD COLSPAN=3> <a href="index.php"><IMG SRC="images/pts_header_01.jpg" ALT="" WIDTH=84 HEIGHT=84 border="0"></a></TD>
+    <TD> <a href="index.php"><IMG SRC="images/pts_header_02.jpg" ALT="" WIDTH=123 HEIGHT=84 border="0"></a></TD>
+    <TD> <a href="index.php"><IMG SRC="images/pts_header_03.jpg" ALT="" WIDTH=113 HEIGHT=84 border="0"></a></TD>
+    <TD COLSPAN=9 valign="top"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="430" height="84">
+        <param name="movie" value="pts_header_flash.swf">
+        <param name="quality" value="high">
+        <embed src="pts_header_flash.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="430" height="84"></embed></object></TD>
+    
+  </TR>
+  <TR> 
+    <TD COLSPAN=14> <IMG SRC="images/pts_header_silverBar.gif" WIDTH=750 HEIGHT=14 ALT=""></TD>
+  </TR>
+  <TR> 
+    <TD> <IMG SRC="images/pts_leftOf_links.gif" WIDTH=21 HEIGHT=21 ALT=""></TD>
+    <TD COLSPAN=2> <a href="index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('home','','images/pts_link_home_Ovr.gif',1)"><img src="images/pts_link_home_Up.gif" alt="Home" name="home" width="63" height="21" border="0"></a></TD>
+    <TD> <a href="index.php?ID=about_us" onMouseOut="MM_swapImgRestore(); pMenu.out('root', 1);" onMouseOver="MM_swapImage('about','','images/pts_link_about_Ovr.gif',1); pMenu.over('root', 1);"><img src="images/pts_link_about_Up.gif" alt="About Us" name="about" width="123" height="21" border="0"></a></TD>
+    <TD> <a href="index.php?ID=services" onMouseOut="MM_swapImgRestore(); pMenu.out('root', 2);" onMouseOver="MM_swapImage('services','','images/pts_link_services_Ovr.gif',1); pMenu.over('root', 2);"><img src="images/pts_link_services_Up.gif" alt="Services" name="services" width="113" height="21" border="0"></a></TD>
+    <TD COLSPAN=2> <a href="index.php?ID=contact" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','images/pts_link_contact_Ovr.gif',1)"><img src="images/pts_link_contact_Up.gif" alt="Contact Us" name="contact" width="112" height="21" border="0"></a></TD>
+    <TD COLSPAN=6> <IMG SRC="images/top-menu-bar-1.gif" WIDTH=292 HEIGHT=21 ALT=""></TD>
+    <TD> <IMG SRC="images/pts_rightOf_header.gif" WIDTH=26 HEIGHT=21 ALT=""></TD>
+  </TR>
+  <TR> 
+    <TD COLSPAN=14> <IMG SRC="images/pts_belowLinks.jpg" WIDTH=750 HEIGHT=8 ALT=""></TD>
+  </TR>
+  <TR> 
+    <TD COLSPAN=6> <IMG SRC="images/pts_leftOf_localBar.jpg" WIDTH=385 HEIGHT=18 ALT=""></TD>
+    <TD COLSPAN=2 align="center" background="images/pts_localBar.jpg" style="font: 9px Arial, Helvetica, sans_serif; color: white;">Home</TD>
+    <TD COLSPAN=2> <IMG SRC="images/pts_betweenBars.jpg" WIDTH=62 HEIGHT=18 ALT=""></TD>
+    <TD height="18" COLSPAN=2 align="center" valign="middle" background="images/pts_dateBar.gif" style="font: 9px Arial, Helvetica, sans_serif; color: white;">February 25, 2014</TD>
+    <TD COLSPAN=2> <IMG SRC="images/pts_rightOf_dateBar.gif" WIDTH=40 HEIGHT=18 ALT=""></TD>
+  </TR>
+  <TR> 
+    <TD COLSPAN=14> <IMG SRC="images/pts_aboveContent.jpg" WIDTH=750 HEIGHT=22 ALT=""></TD>
+  </TR>
+  <TR> 
+    <TD COLSPAN=2 valign="top" background="images/pts_content_leftXtnd.gif"> <IMG SRC="images/pts_leftContent.jpg" WIDTH=39 HEIGHT=258 ALT=""></TD>
+    <TD COLSPAN=10 valign="top"  style="background: url(images/pts_contentBkg.jpg) top no-repeat; padding-left: 5px; padding-right: 5px;">
+		
+     
+      <!--Include content for web pages-->
+      <link rel="stylesheet" type="text/css" href="../pts_mainStyle.css">
+
+<table width="661" border="0" cellspacing="0" cellpadding="0" class="mainTable">
+  <tr>
+    <td>
+	<span class="header2">
+	Welcome to Pioneer Technology Services, Inc.
+	</span>
+	<br>
+      <br>
+Since January 1987, Pioneer Technology has been providing a wide range of
+engineering, computing and network consulting services world wide.
+Pioneer Technology consultants provides you access to a pool of highly-trained,
+experienced engineering and computer professionals who can help you
+with all your engineering and computer consulting needs. Outsourcing some or all of
+your technical services and projects can both reduce your
+costs, while at the same time maintain, and even increase your competitiveness.<br>
+<br>
+Pioneer Technology consultants can take on a complete project (or sections) for a
+client, delivering the completed project as per the client
+specification and time line. In addition, we can provide a technical team to replace
+an ongoing function or provide value-added total project
+services as you need them.<br>
+<br>
+Many corporations turn to Pioneer Technology to assist their staff when project
+schedules or lack of experience or manpower will cause project
+delays. We have an outstanding record of doing excellent work and completing
+projects on time.<br>
+      <br> 
+  </td>
+  </tr>
+</table>
+    </TD>
+    <TD COLSPAN=2 valign="top" background="images/pts_content_rghtXtnd.gif"> <IMG SRC="images/pts_rightContent.jpg" WIDTH=40 HEIGHT=258 ALT=""></TD>
+  </TR>
+  <TR> 
+    <TD COLSPAN=14> <IMG SRC="images/pts_belowContent.gif" WIDTH=750 HEIGHT=20 ALT=""></TD>
+  </TR>
+  <TR> 
+    <TD  align="center" valign="middle" height="22" COLSPAN=14 background="images/pts_footerTop.gif" style="font: 9px Arial, Helvetica, sans_serif; color: white;"> 
+      &nbsp;<a href="index.php" class="footerLink">&nbsp;::&nbsp;&nbsp;Home&nbsp;&nbsp;::&nbsp;</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="index.php?ID=about_us"  class="footerLink">&nbsp;::&nbsp; 
+      About Us&nbsp;&nbsp;::&nbsp;</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="index.php?ID=services"  class="footerLink">&nbsp;::&nbsp;&nbsp;Services&nbsp; 
+      ::&nbsp;</a>&nbsp;|&nbsp;&nbsp;<a href="index.php?ID=contact" class="footerLink">&nbsp;::&nbsp;&nbsp;Contact 
+      Us&nbsp;&nbsp;::&nbsp;</a>&nbsp; </TD>
+  </TR>
+  <TR> 
+    <TD align="center" valign="middle" background="images/pts_footerBottom.gif" height="33" COLSPAN=14 style="font: 9px Arial, Helvetica, sans_serif; color: #666666;"><a href="http://www.frith.cc" target="_blank" class="frithLink">Developed 
+      By Frith</a>&nbsp; <a href="http://www.expertousa.com" target="_blank"><img src="images/pts_frithFooterlogo.gif" width="62" height="20" border="0" align="absmiddle"></a>&nbsp;&nbsp;|&nbsp;&nbsp;<em>&copy;</em>&nbsp;2004-2010 
+      Pioneer Technology Services, Inc. All Rights Reserved. &nbsp;|&nbsp;&nbsp;<a href="http://www.twinhelix.com" target="_blank" class="frithLink">DHTML 
+      / JavaScript Tree by TwinHelix Designs</a></TD>
+  </TR>
+  <TR> 
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=21 HEIGHT=1 ALT=""></TD>
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=18 HEIGHT=1 ALT=""></TD>
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=45 HEIGHT=1 ALT=""></TD>
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=123 HEIGHT=1 ALT=""></TD>
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=113 HEIGHT=1 ALT=""></TD>
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=65 HEIGHT=1 ALT=""></TD>
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=47 HEIGHT=1 ALT=""></TD>
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=82 HEIGHT=1 ALT=""></TD>
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=15 HEIGHT=1 ALT=""></TD>
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=47 HEIGHT=1 ALT=""></TD>
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=40 HEIGHT=1 ALT=""></TD>
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=94 HEIGHT=1 ALT=""></TD>
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=14 HEIGHT=1 ALT=""></TD>
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=26 HEIGHT=1 ALT=""></TD>
+  </TR>
+</TABLE>
+<br>
+
+</BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.linuxlabs.com/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+<!-- CHANGE THE NEXT THREE LINES -->
+
+<title>Linux Labs High Performance Computing</title>
+<META name="Description" content="Linux Labs high performance computing technology and software development for supercomputing applications.">
+<META name="KeyWords" content="HPC, supercomputing, software development, embedded systems, Myrinet, Infiniband, wireless applications, cluster computing, NimbusOS, Linux Bios.">
+
+<!-- CHANGE THE ABOVE THREE LINES -->
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="Copyright" content="Linux Labs International http://www.linuxlabs.com/">
+
+
+<link rel="StyleSheet" href="css/common-style.css" type="text/css">
+<link rel="StyleSheet" href="css/gray.css" type="text/css">
+<link rel="StyleSheet" href="css/gray-menu.css" type="text/css">
+
+
+<script language="JavaScript" type="text/javascript" src="css/css.js"></script>
+
+
+<script language="JavaScript" type="text/javascript" src="javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="pop-closeup.js"></script>
+
+
+</head>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+
+<!-- OUTER PAGE TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="header.js"></script>
+
+
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td background="picts/home.jpg" class="pictbackground">
+<img src="picts/home.jpg" border="0" width="750" height="80" alt="Image"><br>
+</td></tr><tr class="printhide"><td class="pagebars">
+<img src="picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+
+
+<!-- SPLIT TABLE-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr>
+<td align="left" valign="top" class="sidebar-background">
+
+
+
+<!-- LEFT SIDEBAR AREA -->
+
+<iframe name="Sidebar" src="sidebar.htm" width="187" height="600" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" class="sidebar-frame">
+</iframe>
+
+
+
+
+</td><td align="left" valign="top" width="40" class="pageheight">
+
+<div id="cornerimage">
+<img src="picts/spacer.gif" height="40" width="40" alt="image"><br>
+</div>
+
+<img src="picts/spacer.gif" height="200" width="10" border="0" alt="image"><br>
+
+</td><td align="center" valign="top" class="shadow-horizontal">
+
+
+
+<br><br>
+
+
+
+<!-- START CONTENT TABLE -->
+<table cellpadding="5" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top" class="just">
+
+
+
+
+
+<span class="title">
+Welcome:<br>
+</span>
+
+
+<br><br>
+
+
+
+<!-- PARAGRAPH 1 -->
+<span class="subtitle">
+High Performance Computing<br>
+</span>
+
+Linux Labs International is a hybrid engineering firm specializing in technologies that expand the field of high performance supercomputing. 
+
+<br><br>Linux Labs designs and builds high-performance supercomputers utilizing their proprietary NimbusOS�, optionally housing them in their own high-performance data center.<br>
+
+<br><br>The Linux Labs team is responsible for developing some of the most innovative Linux based technologies today and they remain on the forefront of secure operating systems, database development and search engine functions.</a><br>
+
+<hr class="page-splits">
+<br><br>
+<!-- PARAGRAPH 1 -->
+
+
+
+
+
+
+
+
+
+<!-- PARAGRAPH 2 -->
+<span class="subtitle">
+Next Steps<br>
+</span>
+
+Linux Labs is streamlining their HPC model to add high levels of security to their supercomputing solutions, further galvanizing their sales within Government, Military, and Biotech channels. Linux Labs is developing advanced networking technologies for delivering HPC solutions on a usage basis for small to medium sized companies.<br>
+
+<hr class="page-splits">
+<br><br>
+<!-- PARAGRAPH 2 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BOTTOM LINK -->
+
+<a href="contact.htm"><I>Contact us</I></a> | <a href="site_map.htm"><I>View site map</I></a><br>
+
+
+
+
+
+
+
+
+
+<br><br>
+
+<img src="picts/spacer.gif" width="310" height="10" alt="image"><br>
+
+<br><br>
+
+
+
+
+
+</td><td align="center" valign="top" width="5">
+
+<img src="picts/spacer.gif" width="5" height="5" alt="image"><br>
+
+</td><td align="center" valign="top" class="sidebarright-width">
+
+<!-- RIGHT SIDEBAR AREA -->
+
+<script language="JavaScript" type="text/javascript" src="sidebar-right.js"></script>
+
+</td></tr></table>
+<!-- CONTENT TABLE -->
+
+
+
+
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td>
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="6" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="copyright.js"></script>
+
+</td><td align="right" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="copyright-allwebco.js"></script>
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+
+
+
+</BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.graphstream.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<link href="inc/style.php" rel="stylesheet" type="text/css" />
+<title>
+GraphStream: Advanced scalable data infrastructure for organizations
+of all sizes
+</title>
+</head>
+<body>
+<table class="main" cellspacing=0>
+
+<tr class="banner0"><td><a href="index.php">
+<img alt="GraphStream logo" id="logo_gs_1" src="inc/logo_gs_1.gif" />
+<table>
+<tr><td> Free consultation and quotation: </td></tr>
+<tr><td> 650-595-5324, <a href="mailto:info@graphstream.com"> info@graphstream.com </a>
+</td></tr>
+</table>
+</a></td></tr>
+
+<tr class="banner1"><td><a href="index.php">
+<h1> Advanced scalable data infrastructure for organizations of all sizes</h1>
+</a></td></tr>
+
+<tr class="banner2"><td><a href="index.php"><ul>
+<li><img alt="Health application" src="inc/img_health5_1.jpg" /></li>
+<li><img alt="Government application" src="inc/img_gov1_1.jpg" /></li>
+<li><img alt="Business application" src="inc/img_biz0_1.jpg" /></li>
+<li><img alt="Manufacturing application" src="inc/img_mfg1_1.jpg" /></li>
+<li><img alt="Energy application" src="inc/img_energy0_1.jpg" /></li>
+<li><img alt="Health application" src="inc/img_health4_1.jpg" /></li>
+</ul></a></td></tr>
+
+<tr class="nav"><td>
+<a href="index.php"> Home </a>
+<a href="building_blocks.php"> Building Blocks </a>
+<a href="solutions.php"> Solutions </a>
+<a href="clients.php"> Clients </a>
+<a href="support.php"> Support </a>
+<a href="company.php"> Company </a>
+</td></tr>
+
+<tr class="main"><td>
+
+<p> GraphStream is a supplier of advanced scalable data
+infrastructure.  We deliver customized solution stacks that help solve
+specific business problems for our clients. Our offerings combine
+Commercial Off-The-Shelf (COTS) hardware and software building blocks
+with our own system design, integration, and support services, and
+include: </p>
+
+<ul>
+
+<li> Hardware and software that provides scalable data networking,
+processing, and storage capacity </li>
+
+<li> Supporting hardware and software that provides scalable power and
+cooling capacity </li>
+
+<li> Software that manages data infrastructure resources, including
+networking, processing, storage, power, and cooling capacity </li>
+
+</ul>
+
+<p> GraphStream's mission is to be the unique provider that you can go
+to for customized, integrated, and supported data infrastructure
+solutions at any scale, no matter how large or small. Because we
+operate independently from all developers of hardware and software
+components, we are completely free to choose best-fit building blocks
+from any set of suppliers when working together with our clients to
+design and deploy workload-optimized infrastructure. </p>
+
+<p> GraphStream's clients span a wide range of organization sizes and
+types, including commercial enterprises, healthcare providers,
+government agencies, and educational institutions. Our client
+engagements range in scale from very small single-site upgrades, up to
+complex multiple-year global deployment programs. </p>
+
+<h1> Upgrading Existing Data Infrastructure </h1>
+
+<p> Many of GraphStream's client engagements involve non-disruptive,
+incremental improvements that add value to existing infrastructure
+investments.  These enhancements may include software only, hardware
+only, or an integrated package of software and hardware. In many
+cases, the best-fit component selection includes building blocks from
+our client's existing suppliers. </p>
+
+<p> Thanks to ongoing rapid improvements in hardware and software
+component technologies, incrementally augmenting and/or replacing
+parts of your existing data infrastructure can yield an extremely
+compelling Return On Investment, via radical improvements in a number
+of dimensions including: </p>
+
+<ul>
+
+<li> Capacity </li>
+
+<li> Total lifecycle CAPEX and OPEX costs per unit of infrastructure
+capacity, including acquisition, maintenance, electricity, floor
+space, and system administration </li>
+
+<li> Functional capabilities, including managed, secured,
+collaborative, highly interactive access to shared applications and
+data simultaneously from any number of access devices in any set of
+locations worldwide </li>
+
+<li> Scalability </li>
+
+<li> Security </li>
+
+<li> Flexibility </li>
+
+<li> Usability </li>
+
+<li> Protection against data loss </li>
+
+<li> Reliability/Availability </li>
+
+<li> Maintainability </li>
+
+<li> Automation </li>
+
+<li> Environmental impact per unit of infrastructure capacity, including operational and embedded energy and water use </li>
+
+</ul>
+
+<h1> Working Together with Clients </h1>
+
+<p> In a typical client engagement, GraphStream will: </p>
+
+<ul>
+
+<li> First listen carefully, to understand what our client is fundamentally
+trying to achieve. </li>
+
+<li> Work together collaboratively and creatively with our client to
+develop a custom configuration of hardware and/or software
+infrastructure building blocks that meets our client's requirements
+more efficiently and effectively than competing solutions. </li>
+
+<li> Work together with our client's organization to integrate the new
+building blocks into existing infrastructure, including migration of
+applications and data where necessary. </li>
+
+<li> Provide a single point of accountability and ongoing support for
+the complete infrastructure upgrade. </li>
+
+</ul>
+
+<h1> Building Blocks <a href="building_blocks.php"> [more] </a> </h1>
+
+<p> GraphStream can integrate a wide range of COTS hardware and
+software infrastructure building blocks, including the following
+categories: </p>
+
+<ul>
+<li> Networking, processing, and storage capacity </li>
+<li> Power and cooling capacity </li>
+<li> Infrastructure resource management </li>
+<li> Storage resource management </li>
+<li> Application delivery </li>
+</ul>
+
+<h1> Solutions <a href="solutions.php"> [more] </a> </h1>
+
+<p> GraphStream's clients run application workload mixes that fit into
+one or more of the following broad categories: </p>
+
+<ul>
+<li> Technical
+<li> Scale-out
+<li> Enterprise
+</ul>
+
+<p> GraphStream provides optimized infrastructure to support these
+workload mixes, by starting with general-purpose hardware and software
+building blocks, and then integrating additional building blocks (in
+most cases software-only) that are specific to each of the categories
+listed above. </p>
+
+<h1> Clients <a href="clients.php"> [more] </a> </h1>
+
+<p> GraphStream's diverse client base spans many fields, including: </p>
+
+<ul>
+<li> Healthcare </li>
+<li> Energy </li> 
+<li> Manufacturing </li>
+<li> Government/Defense </li>
+<li> Financial Services </li>
+<li> Education/Research </li>
+</ul>
+
+<h1> Support <a href="support.php"> [more] </a> </h1>
+
+<p> GraphStream offers a range of support options for mission-critical
+data infrastructure. Highlights include: </p>
+
+<ul>
+
+<li> Every support request is dispatched directly to a highly
+qualified, USA-based systems engineer. </li>
+
+<li> Support options up to 24x365 4-hour on-site, available globally
+covering more than 50 countries. </li>
+
+</ul>
+
+<hr />
+
+<p> Free consultation and quotation: 650-595-5324,
+<a href="mailto:info@graphstream.com"> info@graphstream.com </a> </p>
+
+<hr />
+
+<p> Copyright &copy; GraphStream Incorporated. All rights
+reserved. </p>
+
+</td></tr>
+</table>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.vcompute.com/>====================
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>vCompute Home</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<META name="description" content="on-demand supercomputing and custom clusters">
+<META name="keywords" content="bioinformatics,Earth sciences, cloud Infratstructure on-demand, VMware, Cloud, high performance computing, cheminformatics,medical research,health sciences, Computational Biology, Genomics, Proteomics, Pharmacogenomics, Pharmacogenetics, Cheminformatics, Medical Informatics, Rational Drug Design,infiniband, clusters, networking, business continuity, hosting, outsourcing, Sun microsystems, HP, hewlett packard, PVFS, Luster, Storage Tek, Technology, advanced supercomputing, bioteam, nanotechnology, gene research, grid computing, oem, linux, unix, fpga, bio terrorism defense, government, CIA, FBI, SKunk works, area 51, storage, virtualization, NSF, monte carlo simulation, vmware, financial, data mining">
+<link href="style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.style4 {font-size: 9}
+.style9 {font-family: Arial, Helvetica, sans-serif; font-size: 9px; }
+.style10 {font-size: 11px}
+.style12 {
+	color: #0070A1;
+	font-size: 16px;
+}
+.style16 {font-size: 16px}
+.style22 {
+	color: #990033;
+	font-weight: bold;
+}
+.style23 {color: #990033}
+.style24 {
+	color: #0070A1;
+	font-size: 12px;
+	font-weight: bold;
+}
+.style25 {font-size: 10; }
+.style29 {color: #106198; font-weight: bold; }
+.style32 {
+	font-size: 11px;
+	font-weight: bold;
+	color: #205484;
+}
+.style34 {font-size: 11px; color: #C85F44; }
+.style35 {font-size: 11px; font-family: Arial, Helvetica, sans-serif; }
+.style36 {
+	color: #333333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.style38 {font-family: Arial, Helvetica, sans-serif}
+.style41 {color: #0070A1}
+.style43 {color: #0070A1; font-weight: bold; }
+.style45 {font-size: 11px; font-family: Tahoma; }
+.style47 {color: #0070A1; font-family: Tahoma; }
+.style78 {
+	color: #0070A1;
+	font-family: Tahoma;
+	font-weight: bold;
+	font-size: 16px;
+}
+.style79 {color: #333333}
+-->
+</style>
+</head>
+<body>
+
+<table cellpadding="0" cellspacing="0" border="0" style="width:100% ">
+	<tr>
+		<td valign="top" style="width:100% " height="750">
+			<table cellpadding="0" cellspacing="0" border="0" style="width:100%; height:100% ">
+				<tr>
+					<td valign="top" style="width:50%; height:100% ">
+						
+						<table border="0" cellpadding="0" cellspacing="0" style="width:100%; height:100% ">
+							<tr>
+								<td valign="top" style="width:100%; height:313px; 
+
+background-image:url(images/bg1.gif)"><p>&nbsp;</p>
+								  <p>&nbsp;</p>
+							    <p>&nbsp;</p></td>
+							</tr>
+							<tr>
+								<td valign="top" style="width:100%; height:100% "></td>
+							</tr>
+							<tr>
+								<td valign="top" style="width:100%; height:61px; background-image:url(images/bottom.gif) 
+
+"></td>
+							</tr>
+						</table>				  </td>
+					<td valign="top" style="width:766px; height:100% ">
+						<table cellpadding="0" cellspacing="0" border="0"  align="center" width="766" style="height:100% ">
+							<tr>	
+							  <td valign="top" width="766" style="height:100% ">
+								<table cellpadding="0" cellspacing="0" border="0" style="height:100% ">
+									<tr>
+										<td valign="top" width="766" height="106" 
+
+style="background-image:url(images/top1.jpg) "><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="766" height="106">
+    <param name="movie" value="flash/header_v7sil.swf">
+    <param name="quality" value="high">
+    <param name="menu" value="false">
+    <!--[if !IE]> <-->
+    <object data="flash/header_v7sil.swf"
+            width="766" height="106" type="application/x-shockwave-flash"> 
+     <param name="quality" value="high">
+     <param name="menu" value="false">
+     <param name="pluginurl" value="http://www.macromedia.com/go/getflashplayer">
+     FAIL (the browser should render some flash content, not this)
+    </object>
+    <!--> <![endif]-->
+  </object></td>
+									</tr>
+									<tr>
+										<td valign="top" width="766" height="207" 
+
+style="background-image:url(images/top1.gif) ">
+											<table cellpadding="0" cellspacing="0" border="0">
+												<tr>
+												  <td valign="top" width="238" height="207"><br 
+
+style="line-height:1px">
+												   <object 
+
+classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" 
+
+width="238" height="204">
+    <param name="movie" value="flash/menu_v7.swf?button=1">
+    <param name="quality" value="high">
+    <param name="menu" value="false">
+    <!--[if !IE]> <-->
+    <object data="flash/menu_v7.swf?button=1"
+            width="238" height="204" type="application/x-shockwave-flash"> 
+     <param name="quality" value="high">
+     <param name="menu" value="false">
+     <param name="pluginurl" value="http://www.macromedia.com/go/getflashplayer">
+     FAIL (the browser should render some flash content, not this)
+    </object>
+    <!--> <![endif]-->
+  </object></td>
+													<td valign="top" width="528" height="205">
+														<table cellpadding="0" cellspacing="0" 
+
+border="0">
+															<tr>
+																<td valign="top" width="259" 
+
+height="205" class="header">
+																<div style="margin:7 40 0 
+
+70px ">
+																  <p>&nbsp;</p>
+																  <p><b>vCompute adds 3000 cores 
+
+to vPOC (virtual point of compute) baseline. </b> Booking cycles now for new clients. <br>
+																    <br 
+
+style="line-height:11px">
+																    <b>vCompute's new vPOC</b> segments have the specialized features  needed to run complex hyperscale applications, while providing flexibility with open standards. <br>
+                                                                  </p>
+																</div></td>
+																<td valign="top" width="1" 
+
+height="205" style="background-image:url(images/li1.gif) "></td>
+																<td valign="top" width="268" 
+
+height="205" class="header">
+																<div style="margin:7 50 0 
+
+70px ">
+																  <p>&nbsp;</p>
+																  <p><b>vCompute vPOC includes </b>Intel® QuickPath Technology. up to 25.6 GB/s between <strong>vPOC </strong>components .<br>
+																    <br 
+
+style="line-height:11px">
+																    <b>vCompute expands with new vPOP  location . </b> New facility opened to support new projects and an additional <strong>vPOP </strong>in Houston Texas. <br>
+                                                                  </p>
+																</div></td>
+															</tr>
+														</table>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" width="766" style="height:100% " class="content">
+											<table cellpadding="0" cellspacing="0" border="0">
+												<tr>
+													<td valign="top" width="497" height="1033">
+														<table cellpadding="0" cellspacing="0" 
+
+border="0">
+															<tr>
+																<td valign="top" width="497" 
+
+height="177" bgcolor="#EEF7DD"><div style="margin:22 0 0 38px "><img src="images/1_w3.gif" style="margin-bottom:20px" alt="" border="0"><span 
+
+class="style10"><br>
+					                                            <img src="images/compute1.jpg" alt="" width="189" height="86" border="0" 
+
+align="left" style="margin-right:13px">
+															    </span>
+																  <P class="style10"><FONT 
+
+face=Arial><strong><FONT color=#4974a3>vCompute</FONT></strong> computing resources cost less than you think to utilize. vCompute takes a sensible approach 
+
+to pricing our services, No CPU hourly charges or other unpredictable price models. We work with clients to get them what they need to succeed.</FONT></P>
+																    <P 
+
+class="style10"><strong><FONT face=Arial color=#4974a3>vCompute's </FONT></strong><FONT face=Arial>team is committed to providing our clients the most 
+
+advanced compute resources on the planet. We lead the High Performance Computing industry in price, performance, availability and reliability.</FONT></P>
+															      <P class="style10"><FONT face=Arial><strong><FONT color=#4974a3>vCompute </FONT></strong>understands the technical computing needs in the various industries we 
+
+support. High performance compute requirements in energy, space sciences and life sciences are completely different. Our teams understand the differences and 
+
+can adapt our systems specifically to your unique computing needs.</FONT><FONT face=Arial></FONT></P>
+
+<P class="style35">
+<span class="style35"><strong><FONT color=#4974a3>v</FONT></strong></span><span class="style36"><strong><FONT color=#4974a3>Compute</FONT></strong></span><span class="style10"> is committed to providing the computing resources necessary for 
+
+critical medical research in fields such as Cheminformatics, Medical Research, Health Sciences, Computational Biology, Genomics, Proteomics, 
+
+Pharmacogenomics, Pharmacogenetics, Cheminformatics, Medical Informatics, Rational Drug Design and more.</span>
+<P class="style10"><span class="style38">Cancer research is first on our list of priorities and we welcome clients that need compute resources in this field. 
+
+Special pricing is available for projects such as these and in some cases <strong><FONT color=#4974a3>vCompute</FONT></strong> will donate 
+
+the compute cycles for this activity. Contact us to find out how your organization can utilize our services.</span></P>
+															      </div></td>
+															</tr>
+															<tr>
+																<td valign="top" width="497" 
+
+height="201">
+																	<table 
+
+cellpadding="0" cellspacing="0" border="0">
+																		<tr>
+																			<td 
+
+valign="top" width="365" height="201"><div style="margin:49 10 0 0px ">
+																			  
+
+<p align="left"><img 
+
+src="cloud2.jpg" width="131" height="86"><b class="style16"> <span class="style47">vCompute vPOC </span></b>
+<p align="left"> 
+<span class="style45">When your compute capacity has a sustained spike and you 
+
+need more compute our <span class="style41"><strong>vPOC (virtual point of compute)</strong></span> services will provide the additional infrastructure you need to complete your processing on time.</span>
+<p class="style45"> 
+  
+<span class="style41"><strong>vCompute</strong></span> provides Private Cloud Architecture (IaaS), consisting of thousands of Cores utilizing  hyper-scale building blocks at our <span class="style43">vPOP (virtual point of presence)</span> locations. The <span class="style41"><strong>vCompute vPOC</strong></span> architecture is designed to support high-performance cluster computing, Web 2.0 environments and cloud builders. Industries including Energy, Geosciences, Government Agencies, Universities, Software Developers, Chemical Companies, Manufacturers and others have used our <span class="style41"><strong>vPOC </strong></span>locations for many complex applications. </p>
+<p class="style45">&nbsp;</p>
+<ul 
+
+style="margin:0; padding:0; list-style:none; line-height:17px">
+	<li class="style34">NO NEED TO BUY MORE SERVERS </li>
+	<li class="style34">NO NEED TO EXPAND YOUR DATA CENTER </li>
+	<li class="style34">SCALE UP FOR FASTER COMPUTE </li>
+	<li class="style4"><span class="style34">SECURE ACCESS TO VPOC locations</span></li>
+	<li class="style34">USE OUR PRIVATE CLOUD AND VIRTUALIZED ENVIRONMENTS</li>
+</ul>
+																			  
+
+<br><br style="line-height:5px">
+</div></td>
+																		</tr>
+																	</table>
+																</td>
+															</tr>
+														</table>
+													<h1 align="center" class="style24"><img 
+
+src="images/1_line.gif" style="margin-bottom:18px" alt="" border="0"></h1>
+													<h1 align="left" class="style24"></h1>
+													<table width="387" border="0">
+                                                          <tr>
+                                                            <th width="174" scope="col"><p align="left" class="style10"><img src="images/compute6.jpg" 
+
+width="100" height="50" align="left"></p>
+                                                              <p align="left" class="style10"><span class="style23">vPOC Services </span></p>
+                                                              <p align="left" class="style10">&nbsp;</p>
+                                                              <ul>
+                                                                <li class="style10">
+                                                                  <div align="left">Quick Deployment </div>
+                                                                </li>
+                                                              <li class="style10">
+                                                                  <div align="left">Hyperscalable</div>
+                                                                </li>
+                                                                <li class="style10">
+                                                                <div align="left">Segmented Storage </div>
+                                                              </li>
+                                                              <li class="style10">
+                                                                <div align="left">Intel® QuickPath </div>
+                                                              </li>
+                                                              <li class="style10">
+                                                                <div align="left">24/7 Security</div>
+                                                              </li>
+                                                              </ul>                                                              
+                                                              <p>&nbsp; </p></th>
+                                                            <th width="178" scope="col"><p align="left" class="style10"><img src="images/compute6.jpg" 
+
+width="100" height="50" align="left"><span class="style22">Managed Services</span></p>
+                                                              <p align="left" class="style10">&nbsp;</p>
+                                                              <ul><li class="style10">
+                                                                <div align="left">HPC systems </div>
+                                                                </li>
+                                                                <li class="style10">
+                                                                  <div align="left">Cloud Architecture </div>
+                                                                </li>
+                                                                <li class="style10">
+                                                                  <div align="left">Server Farms </div>
+                                                                </li>
+                                                                <li class="style10">
+                                                                  <div align="left">Linux Clusters </div>
+                                                                </li>
+                                                              <li class="style10">
+                                                                <div align="left">Windows servers  </div>
+                                                              </li>
+                                                              </ul>
+                                                            <p>&nbsp;</p>                                                              </th>
+                                                        </tr>
+                                                      </table>
+											      <h4 align="left" class="style32"><a 
+
+href="templatestore/index.html"><img src="images/template.jpg" width="320" height="63" border="0"></a><a 
+
+href="http://www.dpbolvw.net/click-2539139-10384663">											      </h4>
+											      </td>
+									
+<td valign="top" width="269" height="1033" class="block"><div style="margin:22 30 0 27px ">
+													  <h3 align="center" class="style78">vCompute<span class="style79"> News Updates</span> </h3>
+<applet code="advnewsscroll.class" width="260" height="160">
+<param name="info" value="Applet by Gokhan Dagli,japplets.tripod.com">
+<param name="regcode" value="">
+
+<param name="input_text" value="from_parameters">
+<param name="text_file" value="">
+
+<param name="scroll_mode" value="scroll">
+
+<param name="bgimage" value="b16.jpg">
+<param name="image_xposition" value="0">
+<param name="image_yposition" value="0">
+
+<param name="bgcolor" value="000000">
+
+<param name="title_color" value="cccc33">
+<param name="text_color" value="ffffcc">
+<param name="highlight_title_color" value="80a0d0">
+<param name="highlight_text_color" value="50b5f0">
+
+<param name="title_align" value="left">
+<param name="text_align" value="left">
+
+<param name="title_font_type" value="Helvetica">
+<param name="title_font_size" value="12">
+<param name="title_font_style" value="1">
+
+<param name="text_font_type" value="Helvetica">
+<param name="text_font_size" value="11">
+<param name="text_font_style" value="0">
+
+<param name="title_underline" value="no">
+<param name="text_underline" value="no">
+
+<param name="scroll_delay" value="30">
+<param name="pause" value="3000">
+
+<param name="border_thickness" value="2">
+<param name="border_color" value="d0d0a0">
+
+<param name="left_margin" value="10">
+<param name="top_margin" value="10">
+<param name="right_margin" value="5">
+<param name="bottom_margin" value="10">
+
+<param name="vertical_space" value="20">
+<param name="title_linespace" value="0">
+<param name="text_linespace" value="0">
+
+<param name=title1 value="vPOC Services Implemented">
+<param name="text1" value="vCompute implements vPOC (Virtual Point of Compute) with 2 initial locations with additional vPOP locations planned for 1st Quarter 2012 .">
+<param name="link1" value="http://vcompute.com">
+<param name="target_frame1" value="_self">
+
+<param name="title2" value="vCompute adds an additional 3000 cores to vPOC cloud baseline.">
+<param name="text2" value="This new vPOC segment has the specialized features clients need to run your hyper scale applications, while providing flexibility with open standards.">
+<param name="link2" value="http://vcompute.com">
+<param name="target_frame2" value="_self">
+
+<param name=title3 value="Earth Sciences">
+<param name="text3" value="vCompute continues to plays key roll in oceanic condition predictive models for North Pacific and the Sagami-bay area in Japan. Client expands compute capacity and adds infiniband to support increased scope of predictive oceanic models.">
+<param name="link3" value="http://vcompute.com">
+<param name="target_frame3" value="_self">
+
+<param name=title4 value="Molecular Modeling">
+<param name="text4" value="vCompute completes 8 month complex molecular modeling effort with major chemical company.">
+<param name="link4" value="http://vcompute.com">
+<param name="target_frame4" value="_self">
+
+<param name=title5 value="New vPOP Location">
+<param name="text5" value="vCompute adds another Houston vPOP (virtual point of presence) location in partnership with Quasar Data Center.">
+<param name="link5" value="http://vcompute.com">
+<param name="target_frame5" value="_self">
+
+</applet>
+
+
+
+												  <h1 align="left" class="style10">What makes <strong><FONT color=#4b719e>vCompute</FONT></strong> different than the others?
+                                </h1>
+													  <DIV style="PADDING-LEFT: 0px; WIDTH: 321px; 
+
+PADDING-TOP: 5px; HEIGHT: 85px">
+												          <TABLE cellSpacing=0 cellPadding=0 width=306 
+
+border=0>
+                                                            <TBODY>
+                                                              <TR vAlign=center align=left>
+                                                                <TD width=9 class="style9"><IMG src="images/point_1.jpg" width="3" height="3"></TD>
+                                                                <TD width=297 class="style9"><strong><FONT color=#4b719e>Hyper scalable   64-bit and GPU  technology 
+
+</FONT></strong></TD>
+                                                              </TR>
+                                                              <TR vAlign=center align=left>
+                                                                <TD width=9 class="style9"><IMG src="images/point_1.jpg" width="3" height="3"></TD>
+                                                                <TD width=297 class="style9"><strong><FONT color=#4b719e>Global Cloud resources and hosting 
+
+of HPC systems.</FONT></strong></TD>
+                                                              </TR>
+                                                              <TR vAlign=center align=left>
+                                                                <TD width=9 class="style9"><IMG src="images/point_1.jpg" width="3" height="3" 
+border=0></TD>
+                                                                <TD width=297 class="style9"><strong><FONT color=#4b719e>120 class A data centers throughout 
+
+the world.</FONT></strong></TD>
+                                                              </TR>
+                                                              <TR vAlign=center align=left>
+                                                                <TD width=9 class="style9"><IMG src="images/point_1.jpg" width="3" height="3" 
+border=0></TD>
+                                                                <TD width=297 class="style9"><strong><FONT color=#4b719e>High speed global network 
+
+connections to our clients</FONT></strong></TD>
+                                                              </TR>
+                                                              <TR vAlign=center align=left>
+                                                                <TD width=9 class="style9"><IMG src="images/point_1.jpg" width="3" height="3" 
+border=0></TD>
+                                                                <TD width=297 class="style9"><FONT color=#4b719e><strong>Reasonable pricing 
+
+models</strong>.</FONT></TD>
+                                                              </TR>
+                                                              <TR vAlign=center align=left>
+                                                                <TD width=9 class="style9"><IMG src="images/point_1.jpg" width="3" height="3" 
+border=0></TD>
+                                                                <TD width=297 class="style9"><FONT color=#4b719e>I<strong>ndustry experts in the fields of 
+
+supercomputing</strong></FONT></TD>
+                                                              </TR>
+                                                              <TR vAlign=center align=left>
+                                                                <TD width=9 class="style9"><IMG src="images/point_1.jpg" width="3" height="3" 
+border=0></TD>
+                                                                <TD width=297 class="style9"><strong><FONT color=#4b719e>Best SLA standards in the 
+
+industry.</FONT></strong></TD>
+                                                              </TR>
+                                                              <TR vAlign=center align=left>
+                                                                <TD width=9 class="style9"><IMG src="images/point_1.jpg" width="3" height="3" 
+border=0></TD>
+                                                                <TD width=297 class="style9"><strong><FONT color=#4b719e>Advanced technology 
+
+partners</FONT></strong></TD>
+                                                              </TR>
+                                                            </TBODY>
+                                                          </TABLE>
+											          </DIV>
+												        <p>							
+
+					          <br style="line-height:19px">
+                                                      <img src="images/1_line.gif" style="margin-bottom:20px" alt="" border="0"></p>
+												        <p align="left"><strong><img 
+
+src="images/compute4.jpg" width="145" height="40"></strong></p>
+												        <p><strong><br style="line-height:2px">
+                                                        <span class="style12">vCompute</span><span class="style16"> Hosting </span></strong> </p>
+												        <TABLE cellSpacing=0 cellPadding=0 width=310 
+
+border=0>
+                                                          <TBODY>
+                                                            <TR vAlign=center align=left>
+                                                              <TD width=9 class="style9"><IMG src="images/point_1.jpg" width="3" height="3"></TD>
+                                                              <TD width=297 class="style9"><strong><FONT color=#4b719e>Self Managed <strong><FONT 
+
+color=#4b719e> Hosting Solutions</FONT></strong></FONT></strong></TD>
+                                                            </TR>
+                                                            <TR vAlign=center align=left>
+                                                              <TD width=9 class="style9"><IMG src="images/point_1.jpg" width="3" height="3"></TD>
+                                                              <TD width=297 class="style9"><strong><FONT color=#4b719e>Managed Hosting 
+
+Solutions</FONT></strong></TD>
+                                                            </TR>
+                                                            <TR vAlign=center align=left>
+                                                              <TD width=9 class="style9"><IMG src="images/point_1.jpg" width="3" height="3" 
+border=0></TD>
+                                                              <TD width=297 class="style9"><strong><FONT color=#4b719e>Specialized Hosting 
+
+Solutions</FONT></strong></TD>
+                                                            </TR>
+                                                            <TR vAlign=center align=left>
+                                                              <TD width=9 class="style9"><IMG src="images/point_1.jpg" width="3" height="3" 
+border=0></TD>
+                                                              <TD width=297 class="style9"><strong><FONT color=#4b719e>Cloud Hosting 
+
+Solutions</FONT></strong></TD>
+                                                            </TR>
+                                                          </TBODY>
+                                                        </TABLE>
+												        <p>&nbsp;</p>
+												        <p><img src="images/1_line.gif" 
+
+style="margin-bottom:20px" alt="" border="0"></p>
+												        <p> <strong><span class="style12">vCompute</span><span class="style16"> Support </span></strong></p>
+												        <p align="left"><img src="images/1_p4.jpg" 
+
+align="left" style="margin-right:10px" alt="" border="0"></p>
+												        <p class="style10">&nbsp;</p>
+												        <p class="style10">Our Technical Support provides complete hands on expertise for your hosted environment. vCompute support personnel 
+    
+are always available to help.
+                                </p>
+						        </p>
+												        <p class="style10">					              Our class A data centers are 
+    
+protected from natural disasters and have multiple redundant fibre routes in and out of our facilities, backup generators, UPS and fire protection are just a 
+    
+few of our centers features. 
+						              </p>
+					                                    </p>
+												        <p class="style10">vCompute  data centers are  
+      
+carrier grade hosting facilities and are always secure. 
+                                </p>
+												                                                                                                                            </p>
+												        <TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+                                                          <TR>
+                                                            <TD height=57 width=155>
+                                                                <div style='z-index:99;position:absolute;visibility:hidden;display:none;left:0;top:0'></div></TD>
+                                                          </TR>
+                                                        </TABLE>
+												        <p class="style25"><img src="images/1_line.gif" 
+
+style="margin-bottom:18px" alt="" border="0"></p>
+												        <table width="200" border="1">
+                                                          <tr>
+                                                            <th bordercolor="#FFFFFF" background="images/member_bg.gif" scope="col"><a 
+
+href="http://vcompute.com/enter.html"><img src="images/members.jpg" width="120" height="32" border="0"></a></th>
+                                                          </tr>
+                                                        </table>
+												        <p><SPAN class=style29><FONT 
+face=Arial>Not a Member?</FONT><FONT face=Arial></FONT><FONT face=Arial></FONT> </SPAN><A class=style2 
+href="http://vcompute.com/register.html"><FONT face=Arial><SPAN style="FONT-WEIGHT: 400">Register Now!</SPAN></FONT></A></p>
+												        <p>&nbsp;</p>
+												        <p>&nbsp;</p>
+											          <DIV style="PADDING-LEFT: 0px; PADDING-TOP: 10px">
+													  <p class="style3"><FONT face=Arial color=#000000 
+size=1>                  </FONT></p>
+													  <p class="style3"><FONT 
+
+face=Arial 
+color=#000000 size=1>  </FONT></p>
+													</DIV>
+											      </div></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" width="766" style="background-image:url(images/bottom1.gif) 
+
+">
+											<table cellpadding="0" cellspacing="0" border="0">
+												<tr>
+													<td valign="top" width="524" height="61" 
+
+class="footer"><div style="margin:17 0 0 39px "><a href="index.html">Company</a>  |  <a href="index-1.html">Services</a>  |  <a 
+
+href="index-2.html">Solutions</a>   |   <a href="index-3.html">Projects</a>   |   <a href="index-4.html">Support</a>   |   <a 
+
+href="index-5.html">Contacts</a><br>
+&copy; 2007 vCompute / <a href="index-6.html">Privacy Policy</a> / <a href="#">Terms of Use</a> </div></td>
+													<td valign="top" width="242" height="61"><img 
+
+src="images/w2.gif" style="margin-top:14px;" alt="" border="0"><a href="index.html"><img src="images/icon01.gif" width="35" height="25" border="0"></a><a 
+
+href="index-5.html"><img src="images/icon02.gif" width="31" height="25" border="0"></a></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							  </td>
+							</tr>
+						</table>
+					</td>
+					<td valign="top" style="width:50%; height:100% ">
+						<table cellpadding="0" cellspacing="0" border="0" style="width:100%; height:100% ">
+							<tr>
+								<td valign="top" style="width:100%; height:313px; background-image:url(images/top.gif)"></td>
+							</tr>
+							<tr>
+								<td valign="top" style="width:100%; height:100% "></td>
+							</tr>
+							<tr>
+								<td valign="top" style="width:100%; height:61px; background-image:url(images/bottom.gif) 
+
+"></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://h20311.www2.hp.com/HPC/cache/274276-0-0-0-121.html>====================
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+
+<meta http-equiv="REFRESH" content="0;url=http://h20311.www2.hp.com/hpc/us/en/hpc-index.html"></HEAD>
+<BODY>
+
+</BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++

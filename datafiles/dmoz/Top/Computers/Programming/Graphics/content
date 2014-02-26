@@ -1,0 +1,357 @@
+<topic r:id="Top/Computers/Programming/Graphics">
+<catid>377146</catid>
+<link r:resource="http://www.windesign.at/" />
+<link r:resource="http://www.theswapmeet.com/" />
+<link r:resource="http://gisar.sourceforge.net/ENG/Index.htm" />
+<link r:resource="http://www.softwareburner.de/softwareburner.htm" />
+<link r:resource="http://martincastaneda.htmlplanet.com/" />
+<link r:resource="http://graphics.idav.ucdavis.edu/education/GraphicsNotes/homepage.html" />
+<link r:resource="http://tog.acm.org/GraphicsGems/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Algorithms_and_Data_Structures">
+<catid>377148</catid>
+<link r:resource="http://www.resampling.narod.ru/" />
+<link r:resource="http://research.microsoft.com/~hoppe/" />
+<link r:resource="http://users.belgacom.net/gc610902/" />
+<link r:resource="http://www.cs.cmu.edu/~ph/shadow.html" />
+<link r:resource="http://www.llnl.gov/graphics/ROAM/" />
+<link r:resource="http://www.cise.ufl.edu/research/SurfLab/" />
+<link r:resource="http://www.red3d.com/cwr/npr/" />
+<link r:resource="http://www.fastgraph.com/fsm.html" />
+<link r:resource="http://www.faqs.org/faqs/graphics/algorithms-faq/" />
+<link r:resource="http://vdslib.virginia.edu/" />
+<link r:resource="http://www.colorado.edu/geography/gcraft/notes/mapproj/mapproj_f.html" />
+<link r:resource="http://www.terra.es/personal3/atoniman" />
+<link r:resource="http://www.edepot.com/algorithm.html" />
+<link r:resource="http://www.ibiblio.org/e-notes/Splines/Intro.htm" />
+<link r:resource="http://marg.nlm.nih.gov/index2.asp" />
+<link r:resource="http://r0k.us/graphics/pseudoGrey.html" />
+<link r:resource="http://www.andrijar.com/algorithms/algorithms.htm" />
+<link r:resource="http://www.techmind.org/stereo/stereo.html" />
+<link r:resource="http://dunnbypaul.net/perlin/" />
+<link r:resource="http://www.graficaobscura.com/texmap/" />
+<link r:resource="http://www.mrl.nyu.edu/~bregler/" />
+<link r:resource="http://www.hinjang.com/" />
+<link r:resource="http://mathworld.wolfram.com/MapProjection.html" />
+<link r:resource="http://tog.acm.org/resources/RTNews/html/rtn_index.html" />
+<link r:resource="http://tog.acm.org/resources/RTNews/html/" />
+<link r:resource="http://inferno.hildebrand.cz/" />
+<link r:resource="http://tog.acm.org/resources/GraphicsGems/" />
+<link r:resource="http://www.realtimerendering.com/intersections.html" />
+<link r:resource="http://www.irit.fr/~Loic.Barthe/" />
+<link r:resource="http://www.exaflop.org/" />
+<link r:resource="http://www.caffeineowl.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Algorithms_and_Data_Structures/Collision_Detection">
+<catid>377149</catid>
+<link r:resource="http://www.cs.unc.edu/~dm/collision.html" />
+<link r:resource="http://www.cosy.sbg.ac.at/~held/projects/collision/collision.html" />
+<link r:resource="http://i3d.inrialpes.fr/people/redon/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Algorithms_and_Data_Structures/Collision_Detection/Software">
+<catid>377150</catid>
+<link r:resource="http://www.cs.unc.edu/~geom/OBB/OBBT.html" />
+<link r:resource="http://www.merl.com/projects/vclip/" />
+<link r:resource="http://www.win.tue.nl/~gino/solid/" />
+<link r:resource="http://www.comlab.ox.ac.uk/people/stephen.cameron/distances/" />
+<link r:resource="http://gamma.cs.unc.edu/I-COLLIDE/" />
+<link r:resource="http://gamma.cs.unc.edu/V-COLLIDE/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Companies">
+<catid>377147</catid>
+<link r:resource="http://www.accusoft.com/" />
+<link r:resource="http://www.emdigo.com/" />
+<link r:resource="http://www.24x7.com.au/" />
+<link r:resource="http://www.matrox.com/imaging/products/software.cfm" />
+<link r:resource="http://www.sysdev.com/" />
+<link r:resource="http://www.winderup.com/" />
+<link r:resource="http://www.sciencegl.com/" />
+<link r:resource="http://www.tecplot.com/" />
+<link r:resource="http://www.markzware.com/" />
+<link r:resource="http://www.feelingsoftware.com/" />
+<link r:resource="http://www.ghost3d.com/" />
+<link r:resource="http://www.re-lion.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries">
+<catid>377151</catid>
+<link r:resource="http://www.levien.com/libart/" />
+<link r:resource="http://www.littlecms.com/" />
+<link r:resource="http://www.tutok.sk/fastgl/" />
+<link r:resource="http://www.fastgraph.com/" />
+<link r:resource="http://hem.spray.se/sinemaker/" />
+<link r:resource="http://www.cs.nmsu.edu/~joshagam/Solace/" />
+<link r:resource="http://g2.sourceforge.net/" />
+<link r:resource="http://glide.sourceforge.net/" />
+<link r:resource="http://spdg1.sci.shizuoka.ac.jp/grwinlib/english/" />
+<link r:resource="http://www.airzip.com/Accelerator.htm" />
+<link r:resource="http://www.mps.mpg.de/dislin/" />
+<link r:resource="http://www.thefreecountry.com/sourcecode/graphics.shtml" />
+<link r:resource="http://www.afterstep.org/afterimage/" />
+<link r:resource="http://www.libgd.org/" />
+<link r:resource="http://www.ms-technology.com/document-management/mst-sdk.html" />
+<link r:resource="http://wxnurbs.blogspot.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/3D">
+<catid>377154</catid>
+<link r:resource="http://www.virtools.com/" />
+<link r:resource="http://plib.sourceforge.net/" />
+<link r:resource="http://www.kotterink.com/expression/" />
+<link r:resource="http://pascal.leynaud.free.fr/" />
+<link r:resource="http://www.ogre3d.org/" />
+<link r:resource="http://www.gnu.org/software/gnu3dkit/gnu3dkit.html" />
+<link r:resource="http://old.zog.net.au/computers/obsidian/" />
+<link r:resource="http://www.gizmosdk.com/" />
+<link r:resource="http://www.gino-graphics.com/" />
+<link r:resource="http://vcg.sourceforge.net/" />
+<link r:resource="http://www.alasir.com/software/glide/" />
+<link r:resource="http://lightfeather.de/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/Companies">
+<catid>377153</catid>
+<link r:resource="http://www.data-tech.com/" />
+<link r:resource="http://www.albatrossdesign.com/" />
+<link r:resource="http://www.leadtools.com/" />
+<link r:resource="http://www.int.com/" />
+<link r:resource="http://www.snowbound.com/" />
+<link r:resource="http://www.pegasusimaging.com/" />
+<link r:resource="http://www.mcm-design.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/File_Formats">
+<catid>377155</catid>
+<link r:resource="http://www.catenary.com/" />
+<link r:resource="http://www.paintlib.de/paintlib/" />
+<link r:resource="http://freeimage.sourceforge.net/" />
+<link r:resource="http://www.skynet.ie/~caolan/Packages/libwmf.html" />
+<link r:resource="http://imebra.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/GGI">
+<catid>377152</catid>
+<link1 r:resource="http://www.ggi-project.org/"></link1>
+<link r:resource="http://www.elitecoders.de/mags/cscene/CS9/CS9-04.html" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL">
+<catid>377156</catid>
+<link1 r:resource="http://www.opengl.org/"></link1>
+<link1 r:resource="http://oss.sgi.com/projects/ogl-sample/registry/"></link1>
+<link r:resource="http://www.sgi.com/products/software/opengl/" />
+<link r:resource="http://developer.apple.com/graphicsimaging/opengl/" />
+<link r:resource="http://en.wikipedia.org/wiki/Opengl" />
+<link r:resource="http://glprogramming.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/3D_Engines">
+<catid>377172</catid>
+<link r:resource="http://ugs3d.sourceforge.net/" />
+<link r:resource="http://www.exocortex.org/3dengine" />
+<link r:resource="http://apocalyx.sourceforge.net/" />
+<link r:resource="http://www.bonzaisoftware.com/" />
+<link r:resource="http://www.devmaster.net/engines/" />
+<link r:resource="http://www.crystalspace3d.org/main/Main_Page" />
+<link r:resource="http://glscene.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/3D_Engines/Scene_Graphs">
+<catid>377173</catid>
+<link r:resource="http://www.gizmosdk.com/" />
+<link r:resource="http://www.r3vis.com/RM/" />
+<link r:resource="http://sgl.sourceforge.net/" />
+<link r:resource="http://www.openrm.org/" />
+<link r:resource="http://www.openscenegraph.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Add-on_Libraries">
+<catid>377159</catid>
+<link r:resource="http://www.mathies.com/cpw/" />
+<link r:resource="http://gltt.sourceforge.net/" />
+<link r:resource="http://www.geuz.org/gl2ps/" />
+<link r:resource="http://libufo.sourceforge.net/" />
+<link r:resource="http://brightideassoftware.com/gle32v2home.asp" />
+<link r:resource="http://www.nigels.com/glt/" />
+<link r:resource="http://linas.org/gle/" />
+<link r:resource="http://glow.sourceforge.net/" />
+<link r:resource="http://glew.sourceforge.net/" />
+<link r:resource="http://glgui.sourceforge.net/" />
+<link r:resource="http://globs.sourceforge.net/" />
+<link r:resource="https://sourceforge.net/projects/libspider/" />
+<link r:resource="http://glintercept.nutty.org/" />
+<link r:resource="http://www.glfw.org/" />
+<link r:resource="http://projects.gnome.org/gtkglext/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Add-on_Libraries/GLU">
+<catid>377163</catid>
+<link r:resource="ftp://sgigate.sgi.com/pub/opengl/doc/manglu.tar.Z" />
+<link r:resource="ftp://sgigate.sgi.com/pub/opengl/doc/opengl1.2/glu1.3.pdf" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Add-on_Libraries/GLUT">
+<catid>377160</catid>
+<link r:resource="http://www.xmission.com/~nate/glut.html" />
+<link r:resource="http://freeglut.sourceforge.net/" />
+<link r:resource="http://www.nigels.com/glt/glui/" />
+<link1 r:resource="http://www.opengl.org/resources/libraries/glut/spec3/spec3.html"></link1>
+<link r:resource="http://openglut.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Add-on_Libraries/GLX">
+<catid>377162</catid>
+<link r:resource="http://utah-glx.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Add-on_Libraries/Open_Inventor">
+<catid>377161</catid>
+<link r:resource="http://www.tgs.com/" />
+<link r:resource="http://www.coin3d.org/" />
+<link r:resource="http://www.mevislab.de/inventor/" />
+<link r:resource="http://studierstube.icg.tu-graz.ac.at/openinventor/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Benchmarks">
+<catid>377168</catid>
+<link r:resource="http://graphcomp.com/pogl.cgi?v=0111s3m3" />
+<link r:resource="http://globs.sourceforge.net/" />
+<link r:resource="http://glean.sourceforge.net/" />
+<link r:resource="http://www.spec.org/gpc/opc.static/overview.html" />
+<link r:resource="http://www.broadwell.org/dl/trislam" />
+<link r:resource="http://opengl.org/resources/benchmarks/" />
+<link r:resource="http://www.glbenchmark.com/index.jsp" />
+<link r:resource="http://homepage.virgin.net/roy.longbottom/opengl%20results.htm" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/ms537006(VS.85).aspx" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Books">
+<catid>377157</catid>
+<link r:resource="http://www.starstonesoftware.com/OpenGL/" />
+<link r:resource="ftp://ftp.sgi.com/sgi/opengl/opengl1_1.tar.Z" />
+<link r:resource="ftp://ftp.sgi.com/sgi/opengl/opengl.tar.Z" />
+<link1 r:resource="http://www.glprogramming.com/blue/"></link1>
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/FAQs,_Help,_and_Tutorials">
+<catid>377169</catid>
+<link1 r:resource="http://nehe.gamedev.net/"></link1>
+<link r:resource="http://www.berkelium.com/OpenGL/GDC99/index.html" />
+<link r:resource="http://www.berkelium.com/OpenGL/" />
+<link r:resource="http://www.gamasutra.com/php-bin/article_display.php" />
+<link r:resource="http://www.sulaco.co.za/" />
+<link1 r:resource="http://www.opengl.org/resources/faq/technical"></link1>
+<link r:resource="ftp://rtfm.mit.edu/pub/usenet/news.answers/graphics/opengl-faq/" />
+<link r:resource="http://www.mathies.com/glfaq/GLToolkitFAQ.html" />
+<link r:resource="http://www.nigels.com/research/" />
+<link r:resource="http://www.codeguru.com/Cpp/G-M/opengl/" />
+<link r:resource="http://www.flipcode.com/archives/" />
+<link r:resource="http://www.videotutorialsrock.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Forums">
+<catid>377167</catid>
+<link r:resource="http://www.gamedev.net/community/forums/forum.asp?forum_id=25" />
+<link r:resource="http://www.idevgames.com/forum/forumdisplay.php?f=12" />
+<link r:resource="http://www.khronos.org/message_boards/?category=3" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Mailing_Lists">
+<catid>377158</catid>
+<link r:resource="http://lists.apple.com/mailman/listinfo/mac-opengl" />
+<link r:resource="http://oss.sgi.com/projects/ogl-sample/mail.html" />
+<link r:resource="http://tech.groups.yahoo.com/group/opengl-gamedev-l/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Open_Source_Software">
+<catid>377164</catid>
+<link r:resource="http://www.bearcave.com/dxf/dxfintro.htm" />
+<link1 r:resource="http://www.blender.org/"></link1>
+<link r:resource="http://rss-glx.sourceforge.net/" />
+<link r:resource="http://desk3d.sourceforge.net/" />
+<link r:resource="http://openuniverse.sourceforge.net/" />
+<link r:resource="http://cellumat3d.sourceforge.net/" />
+<link r:resource="http://restoreinpaint.sourceforge.net/" />
+<link r:resource="http://www.stellarium.org/" />
+<link r:resource="http://sourceforge.net/projects/dsvideolib" />
+<link r:resource="http://www.opentk.com/" />
+<link r:resource="http://sourceforge.net/projects/ogl-es" />
+<link r:resource="http://prettypoly.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Open_Source_Software/Demos">
+<catid>377165</catid>
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Open_Source_Software/Games">
+<catid>377166</catid>
+<link r:resource="http://www.glest.org/" />
+<link r:resource="http://tuxracer.sourceforge.net/" />
+<link r:resource="http://dangerdeep.sourceforge.net/" />
+<link1 r:resource="http://www.flightgear.org/"></link1>
+<link1 r:resource="http://spaceinvadersgl.sourceforge.net/"></link1>
+<link r:resource="http://www.cs.virginia.edu/~mem5w/anichess/" />
+<link r:resource="http://bzflag.sourceforge.net/" />
+<link r:resource="http://cannonsmash.sourceforge.net/" />
+<link r:resource="http://www.ai.sri.com/~reddy/3dmines" />
+<link r:resource="http://legacy.newdoom.com/" />
+<link r:resource="http://prboom.sourceforge.net/" />
+<link r:resource="http://source.bungie.org/" />
+<link r:resource="http://www.doomsdayhq.com/" />
+<link r:resource="http://sc2.sourceforge.net/" />
+<link r:resource="http://vegastrike.sourceforge.net/" />
+<link r:resource="http://www.doomworld.com/doomgl/" />
+<link r:resource="http://possibleworlds.sourceforge.net/" />
+<link r:resource="http://mangoquest.sourceforge.net/index.php?lang=en" />
+<link r:resource="http://carworld.sourceforge.net/" />
+<link r:resource="http://tuxaqfh.sourceforge.net/" />
+<link r:resource="http://foobillard.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Platform_and_OS_Implementations">
+<catid>377174</catid>
+<link1 r:resource="http://www.mesa3d.org/"></link1>
+<link r:resource="http://oss.sgi.com/projects/ogl-sample/" />
+<link r:resource="http://www.realtech-vr.com/directx/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Platform_and_OS_Implementations/Embedded_Devices">
+<catid>377176</catid>
+<link1 r:resource="http://www.khronos.org/opengles/"></link1>
+<link r:resource="http://studierstube.icg.tu-graz.ac.at/klimt/" />
+<link r:resource="http://ogl-es.sourceforge.net/architecture.htm" />
+<link r:resource="http://www.dsbox.com/minigl.html" />
+<link r:resource="http://bellard.org/TinyGL/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Platform_and_OS_Implementations/Language_Bindings">
+<catid>377175</catid>
+<link r:resource="http://doris.sourceforge.net/" />
+<link r:resource="http://pyopengl.sourceforge.net/" />
+<link r:resource="http://www.lwjgl.org/" />
+<link r:resource="http://csgl.sourceforge.net/" />
+<link r:resource="http://gl4java.sourceforge.net/" />
+<link r:resource="http://www.weihenstephan.de/~syring/ActiveX/" />
+<link r:resource="http://ruby-opengl.rubyforge.org/" />
+<link r:resource="http://math.nist.gov/f90gl/" />
+<link r:resource="http://www.freebasic.net/" />
+<link r:resource="http://pike.ida.liu.se/about/pike/modules.xml" />
+<link r:resource="http://kenai.com/projects/jogl/pages/Home" />
+<link r:resource="http://graphcomp.com/pogl.cgi" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Platform_and_OS_Implementations/PC_or_Workstation_OS">
+<catid>377177</catid>
+<link r:resource="http://developer.apple.com/graphicsimaging/opengl/" />
+<link r:resource="http://www.nvidia.com/content/drivers/drivers.asp" />
+<link r:resource="ftp://ftp.microsoft.com/Softlib/MSLFILES/OPENGL95.EXE" />
+<link r:resource="http://www.sun.com/software/graphics/opengl/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Source_Code">
+<catid>377171</catid>
+<link r:resource="http://www.gldomain.com/" />
+<link r:resource="http://www.xmission.com/~nate/opengl.html" />
+<link r:resource="http://ablazespace.sourceforge.net/as-page/" />
+<link r:resource="http://www.ffconsultancy.com/products/ocaml_for_scientists/visualisation/" />
+<link r:resource="http://www.codeproject.com/KB/openGL/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Libraries/OpenGL/Tools">
+<catid>377170</catid>
+<link r:resource="http://www.fraps.com/" />
+<link r:resource="http://bugle.sourceforge.net/" />
+<link r:resource="http://www.gremedy.com/" />
+<link r:resource="http://www.vis.uni-stuttgart.de/glsldevil/" />
+<link r:resource="http://mr.myogl.org/" />
+<link r:resource="http://www.spheresite.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Graphics/Personal_Pages">
+<catid>377178</catid>
+<link r:resource="http://www.jasondoucette.com/" />
+<link r:resource="http://users.skynet.be/SwSh/" />
+<link r:resource="http://www.spontz.org/" />
+<link r:resource="http://www.2b3d.host.sk/" />
+<link r:resource="http://www.codesampler.com/" />
+<link r:resource="http://www.xs4all.nl/~reije081/" />
+<link r:resource="http://www.fundza.com/" />
+<link r:resource="http://eric.boissard.free.fr/" />
+<link r:resource="http://freespace.virgin.net/hugo.elias/" />
+<link r:resource="http://www.zeuscmd.com/" />
+<link r:resource="http://thekrf.com/" />
+<link r:resource="http://www.gruaz.net/" />
+<link r:resource="http://zanir.wz.cz/" />
+</topic>

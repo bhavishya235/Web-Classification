@@ -1,0 +1,828 @@
+<topic r:id="Top/Computers/Software/Globalization">
+<catid>379012</catid>
+<link r:resource="http://www.multilingual.com/" />
+<link r:resource="http://www.lisa.org/" />
+<link r:resource="http://www.clientsidenews.com/" />
+<link r:resource="http://developers.sun.com/global/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding">
+<catid>379053</catid>
+<link r:resource="http://www.iana.org/assignments/character-sets" />
+<link r:resource="http://www.unicodecharacter.com/" />
+<link r:resource="http://www.htmlhelp.com/tools/validator/charset.html" />
+<link r:resource="http://www.w3.org/TR/REC-html40/charset.html" />
+<link r:resource="http://www.w3.org/International/O-charset.html" />
+<link r:resource="http://www.eki.ee/letter/" />
+<link r:resource="http://www.xceedsoft.com/products/binEncod/" />
+<link r:resource="http://webreference.com/html/tutorial17/" />
+<link r:resource="http://www.cs.tut.fi/~jkorpela/chars/" />
+<link r:resource="http://xml.coverpages.org/iso639a.html" />
+<link r:resource="http://www.cs.tut.fi/~jkorpela/www/windows-chars.html" />
+<link1 r:resource="http://tronweb.super-nova.co.jp/characcodehist.html"></link1>
+<link r:resource="http://www.langbox.com/" />
+<link r:resource="http://www.dynamoo.com/technical/ascii-ebcdic.htm" />
+<link r:resource="http://www.ecma-international.org/publications/standards/ECMA-035.HTM" />
+<link r:resource="http://code.cside.com/3rdpage/" />
+<link r:resource="http://tlt.its.psu.edu/suggestions/international/" />
+<link r:resource="http://webtips.dan.info/char.html" />
+<link r:resource="http://www.basistech.com/knowledge-center/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/Arabic">
+<catid>379066</catid>
+<link r:resource="http://www.al-bab.com/arab/comp.htm" />
+<link r:resource="http://www.langbox.com/arabic/" />
+<link r:resource="http://www.uga.edu/islam/arabic_windows.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/Chinese">
+<catid>379058</catid>
+<link r:resource="http://tools.ietf.org/html/rfc1842" />
+<link r:resource="http://tools.ietf.org/html/rfc1922" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/CJKV">
+<catid>379063</catid>
+<link r:resource="http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/CJK.html" />
+<link r:resource="http://zsigri.tripod.com/fontboard/cjk/charsets.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/Cyrillic">
+<catid>379068</catid>
+<link r:resource="http://koi8.pp.ru/" />
+<link r:resource="http://2cyr.com/decode/" />
+<link r:resource="http://www.dimka.com/ru/cyrillic/" />
+<link r:resource="http://www.kostis.net/charsets/iso8859.5.htm" />
+<link r:resource="http://www.siber.com/sib/russify/" />
+<link r:resource="http://www.slovo.info/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/Greek">
+<catid>379067</catid>
+<link r:resource="http://www.hri.org/fonts/advanced/" />
+<link r:resource="http://www.microsoft.com/globaldev/reference/sbcs/1253.htm" />
+<link r:resource="http://www.stoa.org/unicode/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/Hangul">
+<catid>379054</catid>
+<link r:resource="http://tools.ietf.org/html/rfc1557" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/Hebrew">
+<catid>379064</catid>
+<link r:resource="http://www.uyip.org/" />
+<link r:resource="http://www.nirdagan.com/hebrew/characters/" />
+<link r:resource="http://www.cs.engr.uky.edu/~raphael/yiddish/unix.html" />
+<link r:resource="http://www.qsm.co.il/Hebrew/ab.htm" />
+<link r:resource="http://www.qsm.co.il/Hebrew/hebrew.htm" />
+<link r:resource="http://www.mechon-mamre.org/c/hr/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/Indic">
+<catid>379055</catid>
+<link r:resource="http://kannada.sampada.net/" />
+<link r:resource="http://www.langbox.com/codeset/tis620.html" />
+<link r:resource="http://www.cicc.or.jp/english/hyoujyunka/mlit4/7-3India/India.htm" />
+<link r:resource="http://www.bangla.name/isis/" />
+<link r:resource="http://padma.mozdev.org/" />
+<link r:resource="http://bhomiyo.wordpress.com/" />
+<link r:resource="http://smc.org.in/" />
+<link r:resource="http://sourceforge.net/apps/trac/indic-computing/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/Indic/Unicode">
+<catid>379056</catid>
+<link r:resource="http://devanaagarii.net/" />
+<link r:resource="http://www.evertype.com/standards/ch/ch.html" />
+<link r:resource="http://www.egt.ie/standards/si/si.html" />
+<link1 r:resource="http://www.unicode.org/faq/indic.html"></link1>
+<link r:resource="http://www.rediff.com/search/2002/jul/29blog.htm" />
+<link r:resource="http://www.softfonts.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/Japanese">
+<catid>379065</catid>
+<link r:resource="http://tools.ietf.org/html/rfc1468" />
+<link r:resource="http://tools.ietf.org/html/rfc2237" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/Latin">
+<catid>379060</catid>
+<link r:resource="http://www.htmlhelp.com/reference/html40/entities/latin1.html" />
+<link r:resource="http://www.december.com/html/spec/latin1.html" />
+<link r:resource="http://en.wikipedia.org/wiki/ISO_8859" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/Latin/ASCII">
+<catid>379061</catid>
+<link r:resource="http://www.jimprice.com/jim-asc.shtml" />
+<link r:resource="http://www.asciitable.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/Latin/Vietnamese">
+<catid>379062</catid>
+<link r:resource="http://vietime.sourceforge.net/" />
+<link r:resource="http://vietunicode.sourceforge.net/" />
+<link r:resource="http://vietunicode.sourceforge.net/forum/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/Native_American">
+<catid>379059</catid>
+<link r:resource="http://www.evertype.com/standards/jl/jalagi.html" />
+<link r:resource="http://www.tiro.com/syllabics/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Character_Encoding/Unicode">
+<catid>379057</catid>
+<link r:resource="http://www.utf8-chartable.de/" />
+<link1 r:resource="http://www.unicode.org/"></link1>
+<link r:resource="http://site.icu-project.org/" />
+<link r:resource="http://www.joelonsoftware.com/articles/Unicode.html" />
+<link r:resource="ftp://ftp.ilog.fr/pub/Users/haible/utf8/Unicode-HOWTO.html" />
+<link r:resource="http://www.cl.cam.ac.uk/~mgk25/unicode.html" />
+<link r:resource="http://titus.uni-frankfurt.de/unicode/unitest2.htm" />
+<link r:resource="http://www.columbia.edu/kermit/utf8.html" />
+<link r:resource="http://www.hastingsresearch.com/net/04-unicode-limitations.shtml" />
+<link r:resource="http://www.columbia.edu/kermit/unicode.html" />
+<link r:resource="http://www.unicode.org/unicode/conference/about-conf.html" />
+<link r:resource="http://www.zvon.org/xxl/characterReference/Output/index.html" />
+<link1 r:resource="http://www.alanwood.net/unicode/index.html"></link1>
+<link r:resource="http://www.i18nguy.com/unicode/unicode-example-intro.html" />
+<link r:resource="http://zsigri.tripod.com/fontboard/" />
+<link r:resource="http://code.cside.com/3rdpage/us/unicode/converter.html" />
+<link r:resource="http://www.unicodefonts.com/" />
+<link r:resource="http://www.cogsci.ed.ac.uk/~richard/utf-8.html" />
+<link r:resource="http://partners.adobe.com/asn/tech/type/unicodegn.jsp" />
+<link r:resource="http://en.wikipedia.org/wiki/Unicode" />
+<link r:resource="http://www.ascendercorp.com/unicodeblocks.html" />
+<link r:resource="http://www.evertype.com/standards/csur/" />
+<link r:resource="http://tbray.org/ongoing/When/200x/2003/04/06/Unicode" />
+<link r:resource="http://www.mymyanmar.net/" />
+<link r:resource="http://www.unicode.org/versions/Unicode4.1.0/" />
+<link r:resource="http://www.codeproject.com/KB/cpp/unicode.aspx" />
+<link r:resource="http://www.ibm.com/developerworks/java/library/u-secret.html" />
+<link r:resource="http://wazu.jp/" />
+<link r:resource="http://doc.cat-v.org/plan_9/4th_edition/papers/utf" />
+<link r:resource="http://doc.cat-v.org/bell_labs/utf-8_history" />
+<link r:resource="http://www.tbray.org/ongoing/When/200x/2003/04/26/UTF" />
+<link r:resource="http://www.unipad.org/" />
+<link r:resource="http://www.drdobbs.com/bookmarks-tackling-a-daunting-task-web/184413678" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Companies">
+<catid>379071</catid>
+<link r:resource="http://www.ilanguage.com/" />
+<link r:resource="http://www.inter-locale.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Companies/Localization_and_Internationalization">
+<catid>379074</catid>
+<link r:resource="http://www.bytetranslation.com/" />
+<link r:resource="http://www.global-syntax.de/" />
+<link r:resource="http://www.star-group.net/DEU/stram/stram.html" />
+<link r:resource="http://www.telelingua.com/" />
+<link r:resource="http://www.arabtrans.com/" />
+<link r:resource="http://www.beyondsoft.com/" />
+<link r:resource="http://www.sykes.com/" />
+<link r:resource="http://www.skandissystems.com/" />
+<link r:resource="http://www.fxtrans.com/" />
+<link r:resource="http://www.alsintl.com/" />
+<link r:resource="http://www.welocalize.com/" />
+<link r:resource="http://www.swlocalization.com/" />
+<link r:resource="http://www.xltrans.com/" />
+<link r:resource="http://www.isp.nl/" />
+<link r:resource="http://www.japantec.com/" />
+<link r:resource="http://www.lengua.com/localiz.htm" />
+<link r:resource="http://www.lionbridge.com/" />
+<link r:resource="http://www.salftrans.co.uk/" />
+<link r:resource="http://www.sdlintl.com/" />
+<link r:resource="http://www.simultrans.com/" />
+<link r:resource="http://www.alphacrc.com/" />
+<link r:resource="http://www.fornink.com/" />
+<link r:resource="http://www.tsd-int.com/" />
+<link r:resource="http://www.atranslate.com/" />
+<link r:resource="http://www.localizers.com/" />
+<link r:resource="http://www.langtech.co.uk/" />
+<link r:resource="http://www.interproinc.com/" />
+<link r:resource="http://www.translite.com.br/" />
+<link r:resource="http://www.ficorp.com/" />
+<link r:resource="http://www.multiling.com/" />
+<link r:resource="http://www.lingosys.com/" />
+<link r:resource="http://www.cabinetchampollion.com/" />
+<link r:resource="http://www.cedilla.nl/" />
+<link r:resource="http://www.advancedlanguage.com/" />
+<link r:resource="http://www.ststation.com/" />
+<link r:resource="http://www.globalvis.com/" />
+<link r:resource="http://www.wordhouse.nl/" />
+<link r:resource="http://www.transline.net/" />
+<link r:resource="http://www.eyron.com/" />
+<link r:resource="http://www.shentloc.com/" />
+<link r:resource="http://www.adamsglobalization.com/" />
+<link r:resource="http://www.net-translators.com/" />
+<link r:resource="http://www.gamelocalization.net/" />
+<link r:resource="http://www.translationperfect.com/" />
+<link r:resource="http://pagesperso-orange.fr/vertext/" />
+<link r:resource="http://www.alor-translations.com/" />
+<link r:resource="http://www.commonsenseadvisory.com/" />
+<link r:resource="http://www.whp.fr/" />
+<link r:resource="http://www.localizationcareers.net/" />
+<link r:resource="http://www.languagelocalist.com/" />
+<link r:resource="http://www.aloxmedia.com/" />
+<link r:resource="http://www.elanex.com/" />
+<link r:resource="http://andovar.com/" />
+<link r:resource="http://lztranslation.com/" />
+<link r:resource="http://translatic.pl/" />
+<link r:resource="http://www.rubric.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Companies/Localization_and_Internationalization/Single_Language_Vendors">
+<catid>379075</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Companies/Localization_and_Internationalization/Single_Language_Vendors/Chinese">
+<catid>379076</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Companies/Localization_and_Internationalization/Single_Language_Vendors/French">
+<catid>379077</catid>
+<link r:resource="http://www.lucyol.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Companies/Localization_and_Internationalization/Single_Language_Vendors/Japanese">
+<catid>379078</catid>
+<link r:resource="http://www.s4d.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Companies/Software_and_Tools">
+<catid>379072</catid>
+<link r:resource="http://www.trados.com/" />
+<link r:resource="http://www.unionway.com/" />
+<link r:resource="http://www.languagepartners.com/" />
+<link r:resource="http://www.smartny.com/" />
+<link r:resource="http://www.trueterm.com/" />
+<link r:resource="http://www.uniscape.com/" />
+<link r:resource="http://www.globalsight.com/" />
+<link r:resource="http://www.asiasoft.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Companies/Software_and_Tools/Foreign_Language_Enabled_Software">
+<catid>379073</catid>
+<link r:resource="http://www.twinbridge.com/" />
+<link r:resource="http://www.transparent.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Companies/Testing_and_QA">
+<catid>379079</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation">
+<catid>379081</catid>
+<link r:resource="http://www.babylon.com/" />
+<link r:resource="http://www.heartsome.net/" />
+<link r:resource="http://www.ttt.org/" />
+<link r:resource="http://translate.homepage.dk/" />
+<link r:resource="http://www.localizationworks.com/DRTOM/Localize.html" />
+<link r:resource="http://www.traduzioni-inglese.it/computer-aided-translation.html" />
+<link r:resource="http://www.metatexis.com/" />
+<link r:resource="http://www.deskshare.com/st.aspx" />
+<link r:resource="http://tech.groups.yahoo.com/group/catmt/" />
+<link r:resource="http://www.milesj.plus.com/" />
+<link r:resource="http://www.multicorpora.com/" />
+<link r:resource="http://tech.groups.yahoo.com/group/MetaTexis/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Machine_Translation">
+<catid>379097</catid>
+<link r:resource="http://www.eamt.org/" />
+<link r:resource="http://www.howstuffworks.com/universal-translator.htm" />
+<link r:resource="http://www.suparsit.com/" />
+<link r:resource="http://www.apptek.com/" />
+<link r:resource="http://shop.e-promt.com/" />
+<link r:resource="http://www.foreignword.com/Technology/mt/mt.htm" />
+<link r:resource="http://www.sdl.com/en/products/products-index/sdl-enterprise-translation-system.asp" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Machine_Translation/Software">
+<catid>379098</catid>
+<link r:resource="http://targumatik.tripod.com/" />
+<link r:resource="http://www.acetools.biz/" />
+<link r:resource="http://www.idiomax.com/" />
+<link r:resource="http://www.smartlinkcorp.com/" />
+<link r:resource="http://www.parstranslator.net/eng/index.htm" />
+<link r:resource="http://www.angelfire.com/ak2/langsoft/" />
+<link r:resource="http://www.zhangduo.com/" />
+<link r:resource="http://www.aramedia.com/catrans.htm" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Terminology_Management">
+<catid>379082</catid>
+<link r:resource="http://www.ttt.org/salt/" />
+<link r:resource="http://www.loria.fr/projets/SALT/" />
+<link r:resource="http://www.term-solutions.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Terminology_Management/Software">
+<catid>379083</catid>
+<link r:resource="http://www.chamblon.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Translation_Memory">
+<catid>379084</catid>
+<link r:resource="http://www.webbsnet.com/translation/thesis.html" />
+<link r:resource="http://www.chandos.ca/thesis.html" />
+<link r:resource="http://xml.sys-con.com/node/121957" />
+<link r:resource="http://www.ibm.com/developerworks/xml/library/x-localis3/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Translation_Memory/Software">
+<catid>379085</catid>
+<link r:resource="http://similis.fr/" />
+<link r:resource="http://www.catcount.com/" />
+<link r:resource="http://www.maxprograms.com/" />
+<link r:resource="http://www.across.net/" />
+<link r:resource="http://sourceforge.net/projects/frankenstein" />
+<link r:resource="http://www.republika.pl/cafetran/" />
+<link r:resource="http://finitefield.web.fc2.com/" />
+<link r:resource="http://www.xml-intl.com/" />
+<link r:resource="http://www.xtrf.eu/" />
+<link r:resource="http://felix-cat.com/" />
+<link r:resource="http://anaphraseus.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Translation_Memory/Software/Deja_Vu">
+<catid>379086</catid>
+<link r:resource="http://www.atril.com/" />
+<link r:resource="http://17slon.com/gp/cwf/index.htm" />
+<link r:resource="http://tech.groups.yahoo.com/group/dejavu-l/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Translation_Memory/Software/ForeignDesk">
+<catid>379095</catid>
+<link r:resource="http://www.foreigndesk.net/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Translation_Memory/Software/Heartsome">
+<catid>379096</catid>
+<link r:resource="http://www.heartsome.net/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Translation_Memory/Software/OmegaT">
+<catid>379093</catid>
+<link1 r:resource="http://www.omegat.org/"></link1>
+<link r:resource="http://tech.groups.yahoo.com/group/OmegaT/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Translation_Memory/Software/OmegaT+">
+<catid>379091</catid>
+<link r:resource="http://groups.google.com/group/omegatplus" />
+<link r:resource="http://omegatplus.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Translation_Memory/Software/SDLX">
+<catid>379088</catid>
+<link r:resource="http://www.sdl.com/products/" />
+<link r:resource="http://tech.groups.yahoo.com/group/sdlx/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Translation_Memory/Software/Trados_Translation_Solution">
+<catid>379089</catid>
+<link r:resource="http://www.trados.com/" />
+<link r:resource="http://lists.topica.com/lists/TW_Chat" />
+<link r:resource="http://tech.groups.yahoo.com/group/TW_users/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Translation_Memory/Software/Transit">
+<catid>379090</catid>
+<link r:resource="http://www.star-solutions.net/" />
+<link r:resource="http://groups.yahoo.com/group/transit_termstar/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Translation_Memory/Software/Trans_Suite_2000">
+<catid>379094</catid>
+<link r:resource="http://groups.yahoo.com/group/ts2000_users/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Translation_Memory/Software/Wordfast">
+<catid>379092</catid>
+<link1 r:resource="http://www.wordfast.net/"></link1>
+<link r:resource="http://www.wordfast.org/" />
+<link r:resource="http://wizardtrans.free.fr/Wordfast-intro.htm" />
+<link r:resource="http://www.you-name-it.com/Englishpages/wordfast.htm" />
+<link r:resource="http://www.your-translations.com/why_wordfast.php" />
+<link r:resource="http://tech.groups.yahoo.com/group/Wordfast/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Computer_Aided_Translation/Translation_Memory/Software/WordFisher">
+<catid>379087</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Conferences">
+<catid>379069</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Conferences/Past">
+<catid>379070</catid>
+<link r:resource="http://www.globalisation.org/gmsc-99/" />
+<link r:resource="http://www10.org/" />
+<link r:resource="http://www.unicode.org/iuc/iuc16/index.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Education">
+<catid>379137</catid>
+<link r:resource="http://www.localizationinstitute.com/" />
+<link r:resource="http://www.csis.ul.ie/software_localisation/default.htm" />
+<link r:resource="http://www2.austin.cc.tx.us/~taltaner/" />
+<link r:resource="http://www.i18n.ca/workshops/index.htm" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Employment">
+<catid>379136</catid>
+<link r:resource="http://finance.groups.yahoo.com/group/g11njobs/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/FAQs,_Help,_and_Tutorials">
+<catid>379080</catid>
+<link r:resource="http://www.angelfire.com/nv/fordito/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Fonts">
+<catid>379040</catid>
+<link r:resource="http://www.ogonki.com/" />
+<link1 r:resource="http://www.sil.org/computing/fonts/"></link1>
+<link r:resource="http://moorstation.org/typoasis/designers/DrBerlin/user.dtcc.edu/_berlin/fonts.html" />
+<link r:resource="http://www.microsoft.com/typography/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Industry_Glossaries">
+<catid>379134</catid>
+<link r:resource="http://www.mozilla.org/docs/refList/i18n/#definitions" />
+<link r:resource="http://www-4.ibm.com/software/developer/library/glossaries/unicode.html" />
+<link r:resource="http://www.microsoft.com/msj/1198/multilang/multilangsidebar.htm" />
+<link r:resource="http://www.microsoft.com/globaldev/reference/glossary.mspx" />
+<link r:resource="http://www.xtra-services.com/languages/Americas_UnitedStates-en/index.php?select=lev2_news_glossary_en" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Internationalization">
+<catid>379099</catid>
+<link r:resource="http://www.unicode.org/" />
+<link r:resource="http://www.w3.org/International/" />
+<link r:resource="http://www.opengroup.org/pubs/catalog/it.htm" />
+<link r:resource="http://www.opengroup.org/pubs/catalog/lo.htm" />
+<link r:resource="http://www.w3.org/International/www-international.html" />
+<link r:resource="http://www.isc.com.au/" />
+<link1 r:resource="http://www.i18ngurus.com/"></link1>
+<link r:resource="http://www.din.de/gremien/nas/nabd/iso3166ma/codlstp1/" />
+<link r:resource="http://www.microsoft.com/globaldev/DrIntl/faqs/Locales.mspx" />
+<link r:resource="http://www.ableinnovations.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Internationalization/FAQs,_Help,_and_Tutorials">
+<catid>379101</catid>
+<link r:resource="http://www.grcdi.nl/" />
+<link r:resource="http://www.bisharat.net/A12N" />
+<link r:resource="http://www.microsoft.com/globaldev/reference/keyboards.mspx" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Internationalization/Software_and_Tools">
+<catid>379100</catid>
+<link r:resource="http://site.icu-project.org/" />
+<link r:resource="http://www.multilizer.com/" />
+<link r:resource="http://www.skandissystems.com/En_US/globalsoft.html" />
+<link r:resource="http://www.pages.drexel.edu/~garfinkm/PictoIntro.html" />
+<link r:resource="http://www.opentag.com/xmli18nfaq.htm" />
+<link r:resource="http://www.pango.org/" />
+<link r:resource="http://www.xnetinc.com/" />
+<link r:resource="http://www.elgin.free-online.co.uk/" />
+<link r:resource="http://jchardet.sourceforge.net/" />
+<link r:resource="http://www.jollans.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Internet">
+<catid>379043</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Internet/Domain_Names">
+<catid>379050</catid>
+<link r:resource="http://www.i-dns.net/" />
+<link r:resource="http://www.cdnc.org/" />
+<link r:resource="http://www.icann.org/committees/idn/" />
+<link r:resource="http://forum.icann.org/idn1/" />
+<link r:resource="http://www.minc.org/" />
+<link r:resource="http://www.unicodedn.com/" />
+<link r:resource="http://www.idnnews.com/" />
+<link r:resource="http://www.motobit.com/util/punycode-decoder-encoder.asp" />
+<link r:resource="http://mct.verisign-grs.com/" />
+<link r:resource="http://www.asiwg.org/" />
+<link r:resource="http://www.icann.org/en/topics/idn/idn-glossary.htm" />
+<link r:resource="http://idntools.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Internet/Internet_Drafts">
+<catid>379052</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Internet/Internet_Standards">
+<catid>379051</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Internet/Servers">
+<catid>379044</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Internet/Servers/Web">
+<catid>379045</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Internet/Servers/Web/Apache">
+<catid>379047</catid>
+<link r:resource="http://www.apache.org/docs/mod/mod_mime.html#addcharset" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Internet/Servers/Web/Jigsaw">
+<catid>379046</catid>
+<link r:resource="http://www.w3.org/Jigsaw/RelNotes.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Internet/Web_Sites">
+<catid>379048</catid>
+<link r:resource="http://www.rws.com/" />
+<link r:resource="http://www.w3.org/International/" />
+<link r:resource="http://www.htmlhelp.com/faq/html/all.html" />
+<link r:resource="http://www.bizjournals.com/austin/stories/2002/07/01/smallb3.html" />
+<link r:resource="http://www.grcdi.nl/internet_not_paper.pdf" />
+<link r:resource="http://www.bytelevel.com/global/" />
+<link r:resource="http://www.bytelevel.com/beyondborders" />
+<link r:resource="http://www.ddj.com/architect/184413656" />
+<link r:resource="http://www.ddj.com/architect/184413663" />
+<link r:resource="http://www.drdobbs.com/the-home-page-close-to-home-web-techniq/184413670" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Internet/Web_Sites/Software_and_Tools">
+<catid>379049</catid>
+<link r:resource="http://www.webflow.sdlintl.com/" />
+<link r:resource="http://www.skandissystems.com/En_US/websoft.html" />
+<link r:resource="http://www.lai.com/products.html" />
+<link r:resource="http://www.sprawk.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific">
+<catid>379114</catid>
+<link r:resource="http://www.angelfire.com/empire/thamizh/1/" />
+<link r:resource="http://www.kuralsoft.com/" />
+<link r:resource="http://www.softwolves.pp.se/wolves/" />
+<link r:resource="http://www.ca.huji.ac.il/helpdesk/unix/unixheb.shtml" />
+<link r:resource="http://tech.groups.yahoo.com/group/saltmil/" />
+<link r:resource="http://www.borut.com/library/" />
+<link r:resource="http://www.azhagi.com/" />
+<link r:resource="http://www.tamil.sg/" />
+<link r:resource="http://kandupidi.com/editor/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/Bangla">
+<catid>379116</catid>
+<link r:resource="http://www.nongnu.org/freebangfont/" />
+<link r:resource="http://lekho.sourceforge.net/" />
+<link r:resource="http://sourceforge.net/projects/bengaliwriter/" />
+<link r:resource="http://www.isical.ac.in/~rc_bangla/proj_basic.html" />
+<link r:resource="http://www.unicode.org/charts/PDF/U0980.pdf" />
+<link r:resource="http://sourceforge.net/projects/openbangsee/" />
+<link r:resource="http://www.emille.lancs.ac.uk/lesal/bangla.pdf" />
+<link r:resource="http://www.bornosoft.com/" />
+<link r:resource="http://sourceforge.net/project/showfiles.php?group_id=43331" />
+<link r:resource="http://www.alanwood.net/unicode/bengali.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/Basque">
+<catid>379118</catid>
+<link1 r:resource="http://ixa.si.ehu.es/"></link1>
+<link r:resource="http://www.eizie.org/" />
+<link r:resource="http://www.uzei.com/" />
+<link r:resource="http://www.ametza.com/" />
+<link r:resource="http://www.codesyntax.com/en/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/CJKV">
+<catid>379120</catid>
+<link r:resource="http://www.newteq.com.tw/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/CJKV/Chinese">
+<catid>379121</catid>
+<link r:resource="http://xml.ascc.net/en/utf-8/faq.html" />
+<link r:resource="http://www.chinesecomputing.com/" />
+<link r:resource="http://www.mandarintools.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/CJKV/Japanese">
+<catid>379123</catid>
+<link r:resource="http://www.cjk.org/" />
+<link r:resource="http://www.enel.ucalgary.ca/People/far/howto/" />
+<link r:resource="http://www.w3.org/TR/japanese-xml/" />
+<link r:resource="http://japanese.about.com/library/weekly/aa021599.htm?once=true&amp;" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/CJKV/Japanese/Companies">
+<catid>379127</catid>
+<link r:resource="http://www.cij.co.jp/" />
+<link r:resource="http://www.cij.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/CJKV/Japanese/Handhelds">
+<catid>379125</catid>
+<link r:resource="http://www.enfour.co.jp/psion/index_e.html" />
+<link r:resource="http://www.hi-ho.ne.jp/ktkawabe/densha_e.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/CJKV/Japanese/Input_Methods">
+<catid>379130</catid>
+<link r:resource="http://tronweb.super-nova.co.jp/jpnimintro.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/CJKV/Japanese/Mailing_Lists">
+<catid>379124</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/CJKV/Japanese/Natural_Language_Processing">
+<catid>379126</catid>
+<link r:resource="http://chasen.aist-nara.ac.jp/" />
+<link r:resource="http://winnie.kuis.kyoto-u.ac.jp/dictation/" />
+<link r:resource="http://kakasi.namazu.org/index.html.en" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/CJKV/Japanese/Programming">
+<catid>379131</catid>
+<link r:resource="http://habilis.net/macjperl/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/CJKV/Japanese/Unix">
+<catid>379128</catid>
+<link r:resource="http://www.freebsd.org/ports/japanese.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/CJKV/Japanese/Windows">
+<catid>379129</catid>
+<link r:resource="http://www.physics.ucla.edu/~grosenth/c_main.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/CJKV/Korean">
+<catid>379122</catid>
+<link r:resource="http://www.prolangs.co.kr/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/Gaelic">
+<catid>379115</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/Russian">
+<catid>379117</catid>
+<link r:resource="http://www.promt.ru/" />
+<link r:resource="http://koi8.pp.ru/" />
+<link r:resource="http://www.proximasoftware.com/" />
+<link r:resource="http://www.siber.com/sib/russify/" />
+<link r:resource="http://www.cyrillic.com/" />
+<link r:resource="http://www.russianeditor.com/" />
+<link r:resource="http://zsigri.tripod.com/fontboard/cyrillic.html" />
+<link r:resource="http://www.starspb.ru/" />
+<link r:resource="http://www.ibiblio.org/sergei/Software/Software.html" />
+<link1 r:resource="http://winrus.com/"></link1>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/Spanish">
+<catid>379119</catid>
+<link r:resource="http://tuspain.com/lang/camihort.htm" />
+<link r:resource="http://www.netspanish.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/Thai">
+<catid>379132</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Language_Specific/Urdu">
+<catid>379133</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Localization">
+<catid>379027</catid>
+<link r:resource="http://www.syntaxtts.com/" />
+<link r:resource="http://www.sdl.com/" />
+<link r:resource="http://www.w3.org/International/O-HTML.html" />
+<link r:resource="http://www.wls.ie/" />
+<link r:resource="http://www.inaword.net/" />
+<link r:resource="http://www.localizationworks.com/" />
+<link r:resource="http://www.globalizationpartners.com/" />
+<link r:resource="http://www.theverybestofstuff.de/" />
+<link r:resource="http://www.localizationworld.com/" />
+<link r:resource="http://www.locteam.com/" />
+<link r:resource="http://www.i18nguy.com/" />
+<link r:resource="http://www.gala-global.org/" />
+<link r:resource="http://www.localizationinstitute.com/" />
+<link r:resource="http://tc.eserver.org/dir/Localization" />
+<link r:resource="http://www.freelocalization.com/" />
+<link r:resource="http://www.ramonortega.com/" />
+<link r:resource="http://www.winsoft-international.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Localization/FAQs,_Help,_and_Tutorials">
+<catid>379035</catid>
+<link r:resource="http://www.codeguru.com/misc/scribml.shtml" />
+<link r:resource="http://www.onlamp.com/pub/a/php/2002/06/13/php.html" />
+<link r:resource="http://www.joelonsoftware.com/articles/Unicode.html" />
+<link r:resource="http://www.project-open.com/whitepapers/localization/" />
+<link r:resource="http://www.localisation.ie/" />
+<link r:resource="http://www.lai.com/l10ninfo.html" />
+<link r:resource="http://www.ibm.com/developerworks/xml/library/x-localis/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Localization/Software_and_Tools">
+<catid>379028</catid>
+<link r:resource="http://www.passolo.com/" />
+<link r:resource="http://www.wizart.com/" />
+<link r:resource="http://rclocalizer.wz.cz/" />
+<link r:resource="http://www.lingobit.com/" />
+<link r:resource="http://www.alchemysoftware.ie/" />
+<link r:resource="http://www.skandissystems.com/" />
+<link r:resource="http://www.webbudget.com/" />
+<link r:resource="http://www.whippleware.com/vblm.htm" />
+<link r:resource="http://langagent.com/" />
+<link r:resource="http://www.apptranslator.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Localization/Software_and_Tools/Freeware">
+<catid>379033</catid>
+<link r:resource="http://www.poedit.net/" />
+<link r:resource="http://translate.sourceforge.net/" />
+<link r:resource="http://www.angusj.com/resourcehacker/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Localization/Software_and_Tools/HTML">
+<catid>379031</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Localization/Software_and_Tools/Quality_Assurance">
+<catid>379030</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Localization/Software_and_Tools/SGML">
+<catid>379034</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Localization/Software_and_Tools/Visual_Basic">
+<catid>379029</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Localization/Software_and_Tools/XML">
+<catid>379032</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Mailing_Lists">
+<catid>379042</catid>
+<link r:resource="http://groups.yahoo.com/group/nelocsig/" />
+<link r:resource="http://tech.groups.yahoo.com/group/term/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/News_and_Media">
+<catid>379041</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Open_Tag_Format">
+<catid>379113</catid>
+<link r:resource="http://www.opentag.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Operating_Systems">
+<catid>379102</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Operating_Systems/Mac_OS">
+<catid>379111</catid>
+<link r:resource="http://www.imug.org/" />
+<link r:resource="ftp://ftp.apple.com/developer/Tool_Chest/Localization_Tools/Apple_Intl_Glossaries/" />
+<link r:resource="ftp://ftp.apple.com/developer/Tool_Chest/Localization_Tools/cihui.sit.hqx" />
+<link r:resource="ftp://ftp.apple.com/developer/Tool_Chest/Localization_Tools/FMAT_Editor.sit.hqx" />
+<link r:resource="ftp://ftp.apple.com/developer/Tool_Chest/Localization_Tools/ScriptSwitcher.sit.hqx" />
+<link r:resource="ftp://ftp.apple.com/developer/Tool_Chest/Localization_Tools/HC_Stack_Localization_Navi.sit.hqx" />
+<link r:resource="ftp://ftp.apple.com/developer/Tool_Chest/Localization_Tools/ShowDialogBoxes_v2.1.sit.hqx" />
+<link r:resource="ftp://ftp.apple.com/developer/Tool_Chest/Localization_Tools/Verifier_1.0.sit.hqx" />
+<link r:resource="ftp://ftp.apple.com/developer/Tool_Chest/Localization_Tools/" />
+<link r:resource="http://www.alanwood.net/unicode/macbrowsers.html" />
+<link r:resource="http://free.abracode.com/cyclone/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Operating_Systems/Palm">
+<catid>379112</catid>
+<link r:resource="http://www.penreader.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Operating_Systems/Psion">
+<catid>379103</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Operating_Systems/Unix">
+<catid>379104</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Operating_Systems/Unix/Linux">
+<catid>379105</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Operating_Systems/Unix/Solaris">
+<catid>379106</catid>
+<link r:resource="http://www.sun.com/software/solaris/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Operating_Systems/Windows">
+<catid>379107</catid>
+<link r:resource="http://groups.yahoo.com/group/i18ndotnet/" />
+<link r:resource="http://www.microsoft.com/msj/0499/multilangunicode/multilangunicode.aspx" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Operating_Systems/Windows/Windows_2000">
+<catid>379109</catid>
+<link r:resource="http://www.microsoft.com/msj/1198/multilang/multilang.aspx" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Operating_Systems/Windows/Windows_CE">
+<catid>379108</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Operating_Systems/Windows/Windows_NT">
+<catid>379110</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Programming_Languages">
+<catid>379017</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Programming_Languages/C++">
+<catid>379019</catid>
+<link r:resource="http://www.codeguru.com/Cpp/misc/misc/article.php/c411" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Programming_Languages/CGI">
+<catid>379023</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Programming_Languages/Delphi">
+<catid>379020</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Programming_Languages/HTML">
+<catid>379021</catid>
+<link r:resource="http://www.w3.org/International/" />
+<link1 r:resource="http://www.webreference.com/dlab/books/html/39-0.html"></link1>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Programming_Languages/Java">
+<catid>379024</catid>
+<link r:resource="http://java.sun.com/docs/books/tutorial/i18n/index.html" />
+<link r:resource="http://www.servlets.com/jservlet2/examples/ch13/index.html" />
+<link r:resource="http://code.cside.com/3rdpage/us/javaUnicode/converter.html" />
+<link r:resource="http://www.drdobbs.com/javawork-parlez-vous-java-web-technique/184413666" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Programming_Languages/Java/Software_and_Tools">
+<catid>379025</catid>
+<link r:resource="http://java.sun.com/products/jilkit/" />
+<link r:resource="http://www.alphaworks.ibm.com/aw.nsf/frame?ReadForm&amp;/aw.nsf/techmain/EEEAD864EBEEBD778825671B00653382" />
+<link r:resource="http://prologia-i18n.sourceforge.net/" />
+<link r:resource="http://www.icu-project.org/apiref/icu4j/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Programming_Languages/SGML">
+<catid>379026</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Programming_Languages/Visual_Basic">
+<catid>379018</catid>
+<link r:resource="http://www.sourcedata.com/600/000731.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Programming_Languages/XML">
+<catid>379022</catid>
+<link r:resource="http://xmlhack.ru/" />
+<link r:resource="http://xml.ascc.net/en/utf-8/faq.html" />
+<link r:resource="http://www.w3.org/TR/unicode-xml/" />
+<link r:resource="http://groups.yahoo.com/group/datadefinition/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Publications">
+<catid>379036</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Publications/Books">
+<catid>379037</catid>
+<link r:resource="http://www.trigeminal.com/michka.asp" />
+<link r:resource="http://www.grcdi.nl/book2.htm" />
+<link r:resource="http://www.drdobbs.com/bookmarks-tackling-a-daunting-task-web/184413678" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Publications/Magazines_and_Journals">
+<catid>379039</catid>
+<link r:resource="http://www.multilingual.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Publications/Publishers">
+<catid>379038</catid>
+<link r:resource="http://www.benjamins.nl/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Software_and_Tools">
+<catid>379013</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Software_and_Tools/Foreign_Language_Enabled_Software">
+<catid>379016</catid>
+<link r:resource="http://www.njstar.com/" />
+<link r:resource="http://www.lpl.univ-aix.fr/projects/multext/MtScript/" />
+<link r:resource="http://www.twinbridge.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Software_and_Tools/Freeware">
+<catid>379015</catid>
+<link r:resource="http://www.unipad.org/" />
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Software_and_Tools/Workflow">
+<catid>379014</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Globalization/Testing_and_QA">
+<catid>379135</catid>
+</topic>

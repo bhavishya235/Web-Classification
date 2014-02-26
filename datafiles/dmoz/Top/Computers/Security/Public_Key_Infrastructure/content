@@ -1,0 +1,129 @@
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure">
+<catid>374518</catid>
+<link r:resource="http://www.dartmouth.edu/~pkilab/" />
+<link r:resource="http://csrc.nist.gov/pki/" />
+<link r:resource="http://www.cis.upenn.edu/~qcm/" />
+<link r:resource="http://www.cs.auckland.ac.nz/~pgut001/pubs/pkitutorial.pdf" />
+</topic>
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure/Application_Areas">
+<catid>374520</catid>
+<link r:resource="http://research.ac.upc.edu/DISTR/DEDICA/" />
+</topic>
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure/Application_Areas/Time_Stamping">
+<catid>374521</catid>
+<link r:resource="http://www.digistamp.com/" />
+<link r:resource="http://www.ietf.org/internet-drafts/draft-ietf-pkix-time-stamp-15.txt" />
+</topic>
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure/Laws_and_Policies">
+<catid>374532</catid>
+<link r:resource="http://www.abanet.org/scitech/ec/isc/dsg-tutorial.html" />
+<link r:resource="http://www.ilpf.org/groups/index.htm#authentication" />
+</topic>
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure/PKCS">
+<catid>374530</catid>
+<link1 r:resource="http://www.rsasecurity.com/rsalabs/node.asp?id=2124"></link1>
+<link1 r:resource="http://www.rsasecurity.com/rsalabs/node.asp?id=2308"></link1>
+<link r:resource="http://tools.ietf.org/html/rfc2314" />
+<link r:resource="http://tools.ietf.org/html/rfc2315" />
+<link r:resource="http://tools.ietf.org/html/rfc2437" />
+<link r:resource="http://tools.ietf.org/html/rfc2313" />
+</topic>
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure/PKIX">
+<catid>374523</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2527" />
+<link r:resource="http://tools.ietf.org/html/rfc2528" />
+<link r:resource="http://datatracker.ietf.org/wg/pkix/charter/" />
+</topic>
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure/PKIX/Digital_Certificates">
+<catid>374524</catid>
+<link r:resource="http://www.ietf.org/internet-drafts/draft-ietf-pkix-ac509prof-09.txt" />
+<link r:resource="http://tools.ietf.org/html/rfc2459" />
+</topic>
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure/PKIX/Management_Protocols">
+<catid>374525</catid>
+<link r:resource="http://www.imc.org/ietf-pkix/" />
+<link r:resource="http://tools.ietf.org/html/rfc2510" />
+<link r:resource="http://tools.ietf.org/html/rfc2511" />
+</topic>
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure/PKIX/Operational_Protocols">
+<catid>374526</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2560" />
+<link r:resource="http://tools.ietf.org/html/rfc2585" />
+<link r:resource="http://tools.ietf.org/html/rfc2559" />
+</topic>
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure/PKIX/Tools_and_Services">
+<catid>374527</catid>
+<link r:resource="http://www.imc.org/imc-pfl/" />
+</topic>
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure/PKIX/Tools_and_Services/Issuance_Systems">
+<catid>374528</catid>
+<link r:resource="http://www.elock.com/" />
+<link r:resource="http://www.pyca.de/" />
+</topic>
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure/PKIX/Tools_and_Services/Third_Party_Certificate_Authorities">
+<catid>374529</catid>
+<link r:resource="http://www.cacert.org/" />
+<link r:resource="http://www.comodogroup.com/" />
+<link r:resource="http://www.globalsign.net/" />
+<link r:resource="http://www.thawte.com/" />
+<link r:resource="http://www.usertrust.com/" />
+<link r:resource="http://www.ssl.com/" />
+<link r:resource="http://www.enterprisessl.com/" />
+<link r:resource="http://www.geotrust.com/" />
+<link r:resource="http://www.pki.pinkroccade.com/" />
+<link r:resource="http://www.digicert.com/" />
+<link r:resource="http://www.ebizid.com/" />
+<link r:resource="http://www.litessl.com/" />
+<link r:resource="http://www.qualityssl.com/" />
+<link r:resource="http://www.digi-sign.com/" />
+<link r:resource="http://www.rapidssl.com/" />
+<link r:resource="http://www.networksolutions.com/SSL-certificates/index.jsp" />
+<link r:resource="http://www.prontossl.com/" />
+<link r:resource="http://www.ssl4net.com/" />
+<link r:resource="http://simpleauthority.com/" />
+<link r:resource="http://www.verisign.com/" />
+<link r:resource="http://www.digsigtrust.com/" />
+<link r:resource="http://www.entrust.net/" />
+<link r:resource="https://www.trustwave.com/" />
+</topic>
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure/SPKI">
+<catid>374519</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2693" />
+<link r:resource="http://tools.ietf.org/html/rfc2692" />
+</topic>
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure/Tools_and_Services">
+<catid>374522</catid>
+<link r:resource="http://www.secorvo.de/" />
+<link r:resource="http://www.entrust.com/" />
+<link r:resource="http://www.selso.com/" />
+<link r:resource="http://www.comodogroup.com/" />
+<link1 r:resource="http://www.openssl.org/"></link1>
+<link r:resource="http://www.elock.com/" />
+<link1 r:resource="http://www.openca.org/"></link1>
+<link r:resource="http://www.openldap.org/" />
+<link r:resource="http://www.ealaddin.com/etoken/" />
+<link r:resource="http://www.xmltrustcenter.org/developer/verisign/tsik/index.htm" />
+<link r:resource="http://www.eoriginal.com/" />
+<link r:resource="http://www.sun.com/pki/" />
+<link r:resource="http://www.seccommerce.com/" />
+<link r:resource="http://www.infoseccorp.com/" />
+<link r:resource="http://www.electrosoft-inc.com/" />
+<link r:resource="http://www.globalcerts.net/" />
+<link r:resource="http://www.jnsa.org/mpki" />
+<link r:resource="http://www.corestreet.com/" />
+<link r:resource="http://ejbca.sourceforge.net/" />
+<link r:resource="http://swisssign.com/" />
+<link r:resource="http://www.soapclient.com/certService.html" />
+<link r:resource="http://www.diginus.com/" />
+<link r:resource="http://www.pebblehaven.com/services/securecertificates/" />
+<link r:resource="http://www.airzip.com/FileSECURE.htm" />
+</topic>
+<topic r:id="Top/Computers/Security/Public_Key_Infrastructure/X.509">
+<catid>374531</catid>
+<link r:resource="http://www.verisign.com/support/tlc/per/whitepaper.htm" />
+<link r:resource="http://www.cacr.math.uwaterloo.ca/hac/" />
+<link r:resource="http://en.wikipedia.org/wiki/X.509" />
+<link r:resource="http://tools.ietf.org/html/rfc4158" />
+<link r:resource="http://www.cs.auckland.ac.nz/~pgut001/pubs/x509guide.txt" />
+<link1 r:resource="http://www.itu.int/rec/T-REC-X.509"></link1>
+</topic>

@@ -1,0 +1,10 @@
+Therefore, including all words from a corpus normally results in an excessive amount of features. In order to reduce the size of this feature space, NLP systems typically employ one or more of the following:
+
+    Removal of Stop Words -- for author classification, these are typically short and common words such as is, the, at, which, and so on.
+    Stemming -- popular stemmers (such as the Porter stemmer) use a set of rules to normalize the inflection of a word. E.g., walk, walking and walks are all mapped to the stem walk.
+    Correlation/Significance Threshold -- Compute the Pearson Correlation Coefficient or the p-value of each feature with respect to the class label. Then set a threshold, and remove all feature that score a value below that threshold.
+    Coverage Threshold -- similar to the above threshold, remove all features that do not appear in at least t documents, where t is very small (< 0.05%) with respect to the entire corpus size.
+    Filtering based on the part of speech -- for example, only considering verbs, or removing nouns.
+    Filtering based on the type of system -- for example, a NLP system for clinical text may only consider words that are found in a medical dictionary.
+
+For stemming, removing stop words, indexing the corpus, and computing tf_idf or document similarity, I would recommend using Lucene. Google "Lucene in 5 minutes" for some quick and easy tutorials on using lucene. 

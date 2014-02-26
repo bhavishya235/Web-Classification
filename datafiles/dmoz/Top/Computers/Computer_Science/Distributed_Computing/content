@@ -1,0 +1,242 @@
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing">
+<catid>374061</catid>
+<link r:resource="http://www.cs.vu.nl/~bal/das.html" />
+<link r:resource="http://www.terminodes.org/" />
+<link r:resource="http://jeffsutherland.com/" />
+<link r:resource="http://www.bacchae.co.uk/docs/dist.html" />
+<link r:resource="http://www.flashmobcomputing.org/" />
+<link1 r:resource="http://library.thinkquest.org/C007645/"></link1>
+<link r:resource="http://thedczone.com/" />
+<link r:resource="http://www.grid.org.il/" />
+<link r:resource="http://www.gridsummit.com/toc.htm" />
+<link r:resource="http://www.cs.vu.nl/albatross/" />
+<link r:resource="http://www.securityfocus.com/news/300" />
+<link r:resource="http://www.ogf.org/" />
+<link r:resource="http://news.cnet.com/2100-1001-270988.html" />
+<link r:resource="http://www.wired.com/culture/lifestyle/news/1999/06/20124" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Companies">
+<catid>374073</catid>
+<link r:resource="http://www.datasynapse.com/" />
+<link r:resource="http://www.arjuna.com/" />
+<link r:resource="http://www.parabon.com/" />
+<link r:resource="http://www.bmeurope.com/" />
+<link r:resource="http://www.boic.com/" />
+<link r:resource="http://www.ubero.com/" />
+<link r:resource="http://www.digipede.net/" />
+<link r:resource="http://www.bitpipe.com/rlist/term/Distributed-Computing.html" />
+<link r:resource="http://www.recursionsw.com/" />
+<link r:resource="http://www.verari.com/" />
+<link r:resource="http://www.clusterresources.com/" />
+<link r:resource="http://www.univa.com/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Conferences">
+<catid>374072</catid>
+<link r:resource="http://www.podc.org/" />
+<link r:resource="http://cactus.eas.asu.edu/ICDCS2001/" />
+<link r:resource="http://www.cs.unibo.it/ersads/" />
+<link r:resource="http://www.usenix.org/events/bytopic/usits.html" />
+<link r:resource="http://disc2001.di.fc.ul.pt/" />
+<link r:resource="http://icdcs2002.di.fc.ul.pt/" />
+<link r:resource="http://www.podc.org/podc2000/" />
+<link r:resource="http://www.ipdps.org/ipdps2002/" />
+<link r:resource="http://www.ida.liu.se/conferences/p2p/p2p2002/" />
+<link r:resource="http://www.hpdc.org/" />
+<link r:resource="http://www.disc-conference.org/" />
+<link r:resource="http://www.ubicomp.org/" />
+<link r:resource="http://csdl2.computer.org/persagen/DLAbsToc.jsp?resourcePath=/dl/proceedings/&amp;toc=comp/proceedings/icdcs/2000/0601/00/0601toc.xml" />
+<link r:resource="http://www.informatik.uni-trier.de/~ley/db/conf/edoc/edoc2001.html" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Platforms">
+<catid>374075</catid>
+<link r:resource="http://boinc.berkeley.edu/" />
+<link r:resource="http://www.opengroup.org/dce/" />
+<link r:resource="http://legion.virginia.edu/" />
+<link r:resource="http://www.omg.org/" />
+<link r:resource="http://members.tripod.com/distributedcomputer/" />
+<link r:resource="http://now.cs.berkeley.edu/" />
+<link r:resource="http://www.mithral.com/projects/cosm/" />
+<link r:resource="http://www.gridbus.org/" />
+<link r:resource="http://www.zetagrid.net/" />
+<link r:resource="http://qadpz.idi.ntnu.no/" />
+<link r:resource="http://home.iprimus.com.au/yuhanov/clbs/clbs.html" />
+<link r:resource="http://datacutter.osu.edu/" />
+<link r:resource="http://www.macdevcenter.com/pub/a/mac/2004/05/18/xgrid_pt2.html" />
+<link r:resource="http://www.macdevcenter.com/pub/a/mac/2004/05/11/xgrid_pt1.html" />
+<link r:resource="http://www.sdsc.edu/srb/" />
+<link r:resource="http://philip.greenspun.com/seia/distributed-computing" />
+<link r:resource="http://brew.qualcomm.com/" />
+<link r:resource="http://www.gridrepublic.org/" />
+<link r:resource="http://www-935.ibm.com/services/au/index.wss/summary/igs/a1019937" />
+<link r:resource="http://www.apple.com/server/macosx/technology/xgrid.html" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/ms809340.aspx" />
+<link r:resource="http://www-01.ibm.com/software/network/dce/" />
+<link r:resource="http://java.net/projects/jxta/" />
+<link r:resource="http://www.cloudbus.org/~alchemi/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Platforms/Hadoop">
+<catid>1014226</catid>
+<link1 r:resource="http://hadoop.apache.org/"></link1>
+<link r:resource="http://www.computerworld.com/s/article/9221481/Computerworld_continuing_coverage_of_Hadoop" />
+<link r:resource="http://developer.yahoo.com/hadoop/" />
+<link r:resource="http://en.wikipedia.org/wiki/Apache_Hadoop" />
+<link r:resource="https://twitter.com/#!/hadoop" />
+<link r:resource="http://radar.oreilly.com/2011/06/getting-started-with-hadoop.html" />
+<link r:resource="http://www.informationweek.com/news/development/database/231902466?ct=1022" />
+<link r:resource="http://www.informationweek.com/news/software/info_management/231902645" />
+<link r:resource="http://www.hadoopworld.com/" />
+<link r:resource="http://bits.blogs.nytimes.com/2011/06/28/yahoo-creates-company-to-profit-from-hadoop-software/" />
+<link r:resource="http://www.businessweek.com/technology/special-reports/ceo-guide-to-hadoop.html" />
+<link r:resource="http://oreillynet.com/pub/e/1379" />
+<link r:resource="http://www.computerworld.com/s/article/9213700/Massive_data_volumes_making_Hadoop_hot" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Projects">
+<catid>374063</catid>
+<link r:resource="http://www.pgdp.net/" />
+<link r:resource="http://euler.free.fr/" />
+<link r:resource="http://www.chessbrain.net/" />
+<link r:resource="http://www.enterthegrid.com/" />
+<link r:resource="http://legion.virginia.edu/" />
+<link r:resource="http://www.globus.org/" />
+<link r:resource="http://www.nordugrid.org/" />
+<link r:resource="http://qadpz.sourceforge.net/" />
+<link r:resource="http://gpu.sourceforge.net/" />
+<link r:resource="http://www.klomp.org/snark/" />
+<link r:resource="http://www.climateprediction.net/" />
+<link r:resource="http://www.grid.org/" />
+<link r:resource="http://www.csm.ornl.gov/cs/DistComp.html" />
+<link r:resource="http://www.fermatsearch.org/" />
+<link r:resource="http://www.stephenbrooks.org/muon1/" />
+<link r:resource="http://cmgm.stanford.edu/~cparnot/xgrid-stanford/" />
+<link r:resource="http://projectmobius.osu.edu/" />
+<link r:resource="http://www.distributedcomputing.info/" />
+<link r:resource="http://dp.rastko.net/" />
+<link r:resource="http://www.worldcommunitygrid.org/" />
+<link r:resource="http://www.majestic12.co.uk/" />
+<link r:resource="http://softsys.cs.uoi.gr/dbglobe/index1.html" />
+<link r:resource="http://ngrid.sourceforge.net/" />
+<link r:resource="http://lcg.web.cern.ch/LCG/" />
+<link r:resource="http://boinc.gorlaeus.net/" />
+<link r:resource="http://www.hyper.net/dc-howto.html" />
+<link r:resource="http://evolutionary-research.net/" />
+<link r:resource="http://abcathome.com/" />
+<link r:resource="http://boinc.bio.wzw.tum.de/boincsimap/" />
+<link r:resource="http://einstein.phys.uwm.edu/" />
+<link r:resource="http://szdg.lpds.sztaki.hu/szdg/" />
+<link r:resource="http://www.boitho.com/dc/" />
+<link r:resource="http://www.gomezpeerzone.com/" />
+<link r:resource="http://www.americanscientist.org/issues/pub/1998/2/collective-wisdom" />
+<link r:resource="http://www.infoanarchy.org/en/Distributed_Computing_Projects" />
+<link r:resource="http://www.cloudbus.org/vlab/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Projects/Concluded_Projects">
+<catid>374066</catid>
+<link r:resource="http://gilchrist.ca/jeff/dfGUI/" />
+<link r:resource="http://www.panic-lab.rutgers.edu/Research/ccm/" />
+<link r:resource="http://www.rsa.com/rsalabs/node.asp?id=2091" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Projects/Cryptography">
+<catid>374064</catid>
+<link r:resource="http://www.distributed.net/" />
+<link r:resource="http://www.loria.fr/~zimmerma/records/ecmnet.html" />
+<link r:resource="http://www.mersenne.org/" />
+<link r:resource="http://www.seventeenorbust.com/" />
+<link r:resource="http://www.coolissues.com/mathematics/Goldbach/goldbach.htm" />
+<link r:resource="http://www.prothsearch.net/" />
+<link r:resource="http://projectpi.sourceforge.net/" />
+<link r:resource="http://pagesperso-orange.fr/yves.gallot/primes/" />
+<link r:resource="http://www.mersenneforum.org/showthread.php?t=2665" />
+<link r:resource="http://www.ellipsa.eu/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Projects/Protein_Folding">
+<catid>374067</catid>
+<link r:resource="http://sourceforge.net/projects/folderol" />
+<link r:resource="http://boinc.fzk.de/poem/" />
+<link r:resource="http://boinc.bakerlab.org/rosetta/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Projects/Protein_Folding/Folding_at_Home">
+<catid>374068</catid>
+<link r:resource="http://folding.stanford.edu/" />
+<link r:resource="http://fahstats.sourceforge.net/" />
+<link r:resource="http://folding-stuff.tripod.com/" />
+<link r:resource="http://foldingforum.org/" />
+<link r:resource="http://kakaostats.com/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Projects/Teams">
+<catid>374069</catid>
+<link r:resource="http://www.amdusers.com/" />
+<link r:resource="http://www.team-ninja.com/" />
+<link r:resource="http://www.teamgaol.com/" />
+<link r:resource="http://home.cogeco.ca/~teamcanada/" />
+<link r:resource="http://www.boinc-australia.net/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Projects/Teams/Folding_at_Home">
+<catid>374071</catid>
+<link r:resource="http://www.dens-site.net/folding/stats/" />
+<link r:resource="http://www.motherboards.org/folding/" />
+<link r:resource="http://www.littleblackdog.com/viewforum.php?f=26" />
+<link r:resource="http://www.freewebs.com/avcfolding/" />
+<link r:resource="http://forums.pcper.com/forumdisplay.php?f=36" />
+<link r:resource="http://forum.razorback2.com/index.php?showforum=55" />
+<link r:resource="http://www.overclockersclub.com/pages/folding/" />
+<link r:resource="http://www.teammacosx.org/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Projects/Teams/Multiple">
+<catid>374070</catid>
+<link r:resource="http://www.amdusers.com/" />
+<link r:resource="http://www.free-dc.org/" />
+<link r:resource="http://team.macnn.com/" />
+<link r:resource="http://www.thegenomecollective.com/" />
+<link r:resource="http://www.kwsnforum.com/" />
+<link r:resource="http://www.dslreports.com/forum/disco/" />
+<link r:resource="http://www.myurl.net/boinc/" />
+<link r:resource="http://bcboinc.fandom.ca/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Projects/Virtual_Screening">
+<catid>374065</catid>
+<link r:resource="http://fightaidsathome.scripps.edu/" />
+<link r:resource="http://www.d2ol.com/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Publications">
+<catid>374062</catid>
+<link r:resource="http://www.ton.cc.gatech.edu/" />
+<link r:resource="http://liinwww.ira.uka.de/bibliography/Distributed/index.html" />
+<link r:resource="http://ejournals.wspc.com.sg/ppl/ppl.shtml" />
+<link r:resource="http://www.iop.org/EJ/journal/0967-1846" />
+<link r:resource="http://www.computer.org/portal/site/internet/" />
+<link r:resource="http://www.elsevier.com/wps/find/journaldescription.cws_home/622895/description" />
+<link r:resource="http://www.stephanemaes.com/ESSEM/ScientificEmphasis/Proceedings/2001/06/DSR_prot_req_sm_6_1_01.htm" />
+<link r:resource="http://edinburgh.bramleynet.co.uk/computing/publications.shtml" />
+<link r:resource="http://www.springerlink.com/content/1573-7543/" />
+<link r:resource="http://tocs.acm.org/" />
+<link r:resource="http://www.springer.com/computer/communications/journal/446" />
+<link r:resource="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-0634" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Distributed_Computing/Research_Groups">
+<catid>374074</catid>
+<link r:resource="http://www.csm.ornl.gov/cs/DistComp.html" />
+<link r:resource="http://www.ices.cmu.edu/" />
+<link r:resource="http://paradise.caltech.edu/" />
+<link r:resource="http://www-csag.ucsd.edu/" />
+<link r:resource="http://www.cc.gatech.edu/systems/" />
+<link r:resource="http://www.lpds.sztaki.hu/" />
+<link r:resource="http://www.cs.cornell.edu/Info/Projects/HORUS/" />
+<link r:resource="http://choices.cs.uiuc.edu/" />
+<link r:resource="http://www-dse.doc.ic.ac.uk/" />
+<link r:resource="http://www.cs.utexas.edu/users/dmcl/" />
+<link r:resource="http://www-i2.informatik.rwth-aachen.de/Research/MCS/" />
+<link r:resource="http://www.ncl.cs.columbia.edu/" />
+<link r:resource="http://www.cs.columbia.edu/dcc/" />
+<link r:resource="http://distcomp.ethz.ch/index.html" />
+<link r:resource="http://www.infosys.tuwien.ac.at/" />
+<link r:resource="http://www.extreme.indiana.edu/" />
+<link r:resource="http://www.panic-lab.rutgers.edu/" />
+<link r:resource="http://leecenter.caltech.edu/" />
+<link r:resource="http://pdos.csail.mit.edu/" />
+<link r:resource="http://www.csl.sri.com/programs/security/" />
+<link r:resource="http://www.tdg-seville.info/" />
+<link r:resource="http://www.cs.stevens.edu/hpcf/" />
+<link r:resource="http://www.cl.cam.ac.uk/research/srg/" />
+<link r:resource="http://groups.csail.mit.edu/tds/" />
+<link r:resource="http://acs.lbl.gov/" />
+</topic>

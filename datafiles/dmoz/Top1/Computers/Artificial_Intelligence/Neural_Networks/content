@@ -1,0 +1,248 @@
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks">
+<catid>376577</catid>
+<link r:resource="http://www-anw.cs.umass.edu/rlr/" />
+<link r:resource="http://omega.albany.edu:8008/maxent.html" />
+<link r:resource="http://www.neuroinf.org/" />
+<link r:resource="http://liinwww.ira.uka.de/bibliography/Neural/index.html" />
+<link r:resource="http://www.iro.umontreal.ca/~kegl/research/pcurves/" />
+<link1 r:resource="ftp://ftp.sas.com/pub/neural/FAQ.html"></link1>
+<link r:resource="http://www.cs.iastate.edu/~gannadm/homepage.html" />
+<link r:resource="http://www.cs.toronto.edu/~carl/gp.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Neural_network" />
+<link r:resource="http://www.brain.riken.jp/labs/mns/geczy/Links-E.html" />
+<link r:resource="http://rumelhartprize.org/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks/Books">
+<catid>376582</catid>
+<link r:resource="http://faculty.washington.edu/~wcalvin/bk9" />
+<link r:resource="http://www.inference.phy.cam.ac.uk/mackay/itprnn/book.html" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks/Companies">
+<catid>376586</catid>
+<link r:resource="http://www.alyuda.com/" />
+<link r:resource="http://www.nd.com/" />
+<link r:resource="http://www.bio-comp.com/" />
+<link r:resource="http://www.ingber.com/" />
+<link r:resource="http://www.andcorporation.com/" />
+<link r:resource="http://attrasoft.com/" />
+<link r:resource="http://www.hav.com/" />
+<link r:resource="http://www.jurikres.com/catalog/ms_bcel.htm" />
+<link r:resource="http://www.wardsystems.com/" />
+<link r:resource="http://www.neuralware.com/" />
+<link r:resource="http://www.aasdt.com/" />
+<link r:resource="http://www.hitech-analytics.com/" />
+<link r:resource="http://www.appliedneuro.com/" />
+<link r:resource="http://www.nonlinear-solutions-oy.com/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks/Conferences">
+<catid>376583</catid>
+<link r:resource="http://cns-web.bu.edu/cns-meeting/conference.html" />
+<link r:resource="http://ppsn2002.ugr.es/" />
+<link r:resource="http://www.ad-comtech.co.uk/ACDM2002.htm" />
+<link r:resource="http://uhaweb.hartford.edu/irussell/neuralnet-03.html" />
+<link r:resource="http://oldwww.acm.org/conferences/sac/sac2002/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks/Conferences/2001">
+<catid>376585</catid>
+<link r:resource="http://www.kr.tuwien.ac.at/KI2001/" />
+<link r:resource="http://centria.di.fct.unl.pt/ida01/" />
+<link r:resource="http://www.cs.uvm.edu/~xwu/icdm-01.html" />
+<link r:resource="http://www.dsi.unifi.it/ai4bio" />
+<link r:resource="http://www.hcrc.ed.ac.uk/cogsci2001/" />
+<link r:resource="http://www.icann.org/tlds/agreements/verisign/ain-audit-19jun02.htm" />
+<link r:resource="http://www.brighton.ac.uk/kes/kes2001/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks/Conferences/Courses">
+<catid>376584</catid>
+<link r:resource="http://www.nn.isep.ipp.pt/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks/FAQs,_Help,_and_Tutorials">
+<catid>376588</catid>
+<link r:resource="http://www.dontveter.com/bpr/bpr.html" />
+<link r:resource="http://www.ai-junkie.com/" />
+<link r:resource="http://www.rafelandia.com/" />
+<link r:resource="http://www.learnartificialneuralnetworks.com/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks/Organizations">
+<catid>376589</catid>
+<link r:resource="http://www.ieee.org/nnc" />
+<link r:resource="http://www.sfn.org/" />
+<link r:resource="http://www.techfak.uni-bielefeld.de/techfak/ags/ni/" />
+<link r:resource="http://www.inns.org/" />
+<link r:resource="http://cordis.europa.eu/ist/fet/bi.htm" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks/People">
+<catid>376587</catid>
+<link r:resource="http://www.dai.ed.ac.uk/homes/ckiw/" />
+<link r:resource="http://www.stat.washington.edu/mmp/" />
+<link r:resource="http://www.robots.ox.ac.uk/~sjrob" />
+<link r:resource="http://www.cs.iastate.edu/~honavar/" />
+<link r:resource="http://www.cse.buffalo.edu/faculty/mbeal" />
+<link r:resource="http://www.science.mcmaster.ca/Psychology/sb.html" />
+<link r:resource="http://www.cs.berkeley.edu/~jordan/" />
+<link r:resource="http://www.cs.toronto.edu/~radford" />
+<link r:resource="http://www.gatsby.ucl.ac.uk/~dayan/" />
+<link r:resource="http://www.cs.rochester.edu/users/faculty/dana" />
+<link r:resource="http://www.ai.mit.edu/people/tommi" />
+<link r:resource="http://www.cis.hut.fi/oja/" />
+<link r:resource="http://www.comp.nus.edu.sg/~leowwk" />
+<link r:resource="http://www.gatsby.ucl.ac.uk/~zhaoping" />
+<link r:resource="http://www.cs.berkeley.edu/~murphyk" />
+<link r:resource="http://www.cs.toronto.edu/~revow/" />
+<link r:resource="http://hebb.mit.edu/people/seung/" />
+<link r:resource="http://faculty.washington.edu/wcalvin/" />
+<link r:resource="http://www.cs.colostate.edu/~ross/" />
+<link r:resource="http://www.cs.utoronto.ca/~ywteh" />
+<link r:resource="http://www.cs.utoronto.ca/~zemel/" />
+<link r:resource="http://www.cs.toronto.edu/~cebly/" />
+<link r:resource="http://www.cs.cmu.edu/~caruana/" />
+<link r:resource="http://www.stat.ucla.edu/~ywu/" />
+<link r:resource="http://www.cs.utoronto.ca/~welling" />
+<link r:resource="http://www.uq.edu.au/~uqgwalli/" />
+<link r:resource="http://www.cs.washington.edu/homes/rao/" />
+<link r:resource="http://www.cs.huji.ac.il/~tishby/" />
+<link r:resource="http://www.disi.unige.it/person/RovettaS/" />
+<link r:resource="http://www.cs.ubc.ca/~nando/" />
+<link r:resource="http://yann.lecun.com/" />
+<link r:resource="http://www.cis.upenn.edu/~mkearns/" />
+<link r:resource="http://www.mth.kcl.ac.uk/~tcoolen/" />
+<link r:resource="http://eivind.imm.dtu.dk/staff/winther/" />
+<link r:resource="http://research.microsoft.com/~cmbishop/" />
+<link r:resource="http://charlotte.ucsd.edu/~gary/" />
+<link r:resource="http://www.psi.utoronto.ca/~frey/" />
+<link r:resource="http://www.cs.toronto.edu/~hinton/" />
+<link r:resource="http://www.inference.phy.cam.ac.uk/mackay/" />
+<link r:resource="http://www.cs.huji.ac.il/~yweiss/" />
+<link r:resource="http://www.cs.huji.ac.il/~nir/" />
+<link r:resource="http://cs.oregonstate.edu/~tgd/" />
+<link r:resource="http://www.cs.berkeley.edu/~russell/" />
+<link r:resource="http://www.dcs.gla.ac.uk/~rod/" />
+<link r:resource="http://www.robots.ox.ac.uk/~nph/" />
+<link r:resource="http://www.eecs.berkeley.edu/~martinw/" />
+<link r:resource="http://www.abo.fi/~abulsari" />
+<link r:resource="http://www.stats.bris.ac.uk/~maxca/" />
+<link r:resource="http://www.maths.lse.ac.uk/Personal/martin/" />
+<link r:resource="http://www.maxversace.com/" />
+<link r:resource="http://www-bcl.cs.may.ie/~barak/" />
+<link r:resource="http://www.cwu.edu/~andonie/" />
+<link r:resource="http://www.morayallan.com/" />
+<link r:resource="http://web.mit.edu/shkolnik/www/" />
+<link r:resource="http://www.cs.ru.nl/~tomh/" />
+<link r:resource="http://www.afs.enea.it/devito/" />
+<link r:resource="http://ai.stanford.edu/~uri/" />
+<link r:resource="http://ai.stanford.edu/~koller/" />
+<link r:resource="http://www.psi.toronto.edu/~vincent/" />
+<link r:resource="http://www.cs.umass.edu/~mccallum/" />
+<link r:resource="http://www.cs.cmu.edu/~epxing/" />
+<link r:resource="http://research.goldenmetallic.com/" />
+<link r:resource="http://www.raulmuresan.home.ro/" />
+<link r:resource="http://www.brain.riken.jp/labs/mns/amari/home-E.html" />
+<link r:resource="http://www.macs.hw.ac.uk/~pdw/" />
+<link r:resource="http://www.kik.pcz.czest.pl/~rutkowski/" />
+<link r:resource="http://research.microsoft.com/~minka/" />
+<link r:resource="http://www.cs.cmu.edu/~lafferty/" />
+<link r:resource="http://homes.gersteinlab.org/people/alberto/" />
+<link r:resource="http://eivind.imm.dtu.dk/staff/lkhansen/lkhansen.html" />
+<link r:resource="http://people.csail.mit.edu/billf/wtf.html" />
+<link r:resource="http://www.igi.tugraz.at/maass/" />
+<link r:resource="http://www.ecs.soton.ac.uk/people/adb" />
+<link r:resource="http://redwood.berkeley.edu/bruno" />
+<link r:resource="http://www.cs.ucsd.edu/~saul/" />
+<link r:resource="http://www.miketipping.com/" />
+<link r:resource="http://www.salk.edu/faculty/faculty_details.php?id=48" />
+<link r:resource="http://cs.nju.edu.cn/zhouzh/" />
+<link r:resource="http://www.di.ens.fr/~fbach/" />
+<link r:resource="http://homes.dsi.unimi.it/~malchiod/" />
+<link r:resource="http://learning.eng.cam.ac.uk/carl/" />
+<link r:resource="http://homepages.inf.ed.ac.uk/amos/" />
+<link r:resource="http://www.shadnia.com/" />
+<link r:resource="http://fias.uni-frankfurt.de/~joshi/" />
+<link r:resource="http://myprofile.cos.com/petersoL16" />
+<link r:resource="http://janbogaerts.name/" />
+<link r:resource="http://sites.google.com/site/rxghome/" />
+<link r:resource="http://david.grangier.info/" />
+<link r:resource="http://www.cs.nyu.edu/~roweis/" />
+<link r:resource="http://persci.mit.edu/people/adelson" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks/Publications">
+<catid>376578</catid>
+<link r:resource="http://www.psypress.com/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks/Publications/Conference_Proceedings">
+<catid>376579</catid>
+<link r:resource="http://nips.djvuzone.org/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks/Publications/Journals">
+<catid>376581</catid>
+<link r:resource="http://neco.mitpress.org/" />
+<link r:resource="http://www.jneurosci.org/" />
+<link r:resource="http://ejournals.wspc.com.sg/ijcia/ijcia.shtml" />
+<link r:resource="http://www.open.ac.uk/Arts/connex/" />
+<link r:resource="http://www.elsevier.com/wps/find/journaldescription.cws_home/505628/description" />
+<link r:resource="http://jmlr.csail.mit.edu/" />
+<link r:resource="http://www.cogsci.rpi.edu/~rsun/journal.html" />
+<link r:resource="http://www.springerlink.com/content/100321/" />
+<link r:resource="http://www.springer.com/biomed/neuroscience/journal/10547" />
+<link r:resource="http://www.journals.elsevier.com/applied-soft-computing/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks/Publications/Papers">
+<catid>376580</catid>
+<link r:resource="http://www.q12.org/phd.html" />
+<link r:resource="http://www.hse.gov.uk/research/crr_pdf/2001/crr01327.pdf" />
+<link r:resource="http://www.railwaybridge.co.uk/medimage1.html" />
+<link r:resource="http://www.itee.uq.edu.au/~marcusg/thesis.html" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks/Research_Groups">
+<catid>376590</catid>
+<link r:resource="http://www.ncrg.aston.ac.uk/" />
+<link r:resource="http://www.cs.iastate.edu/~honavar/aigroup.html" />
+<link r:resource="http://www.dsi.unifi.it/neural" />
+<link r:resource="http://www.gatsby.ucl.ac.uk/" />
+<link r:resource="http://www.mth.kcl.ac.uk/cnn/" />
+<link r:resource="http://cns-web.bu.edu/" />
+<link r:resource="http://www.neuroinformatik.ruhr-uni-bochum.de/" />
+<link r:resource="http://www.cis.hut.fi/" />
+<link r:resource="http://www.cns.caltech.edu/" />
+<link r:resource="http://hebb.mit.edu/" />
+<link r:resource="http://gpds.uv.es/" />
+<link r:resource="http://www.neuroteam.de/e_index.html" />
+<link r:resource="http://www.lans.ece.utexas.edu/" />
+<link r:resource="http://learning.cs.utoronto.ca/" />
+<link r:resource="http://www.jst.go.jp/erato/project/kgd_P/kgd_P.html" />
+<link r:resource="http://www-ee.uta.edu/eeweb/ip/" />
+<link r:resource="http://www.ofai.at/" />
+<link r:resource="http://www.ieee-cis.org/" />
+<link r:resource="http://neuroscience.ucdavis.edu/" />
+<link r:resource="http://cne.usc.edu/" />
+</topic>
+<topic r:id="Top/Computers/Artificial_Intelligence/Neural_Networks/Software">
+<catid>376591</catid>
+<link r:resource="http://www.alyuda.com/" />
+<link r:resource="http://www.tradecision.com/" />
+<link r:resource="http://www.torch.ch/" />
+<link r:resource="http://kalman.iau.dtu.dk/research/control/nnsysid.html" />
+<link r:resource="http://www.ncrg.aston.ac.uk/netlab/" />
+<link r:resource="http://www.cs.toronto.edu/~xerion/" />
+<link r:resource="http://www.cs.toronto.edu/~delve/" />
+<link r:resource="http://www.philbrierley.com/" />
+<link r:resource="http://damato.light-speed.de/lrecog/" />
+<link r:resource="http://amygdala.sourceforge.net/" />
+<link r:resource="http://naria.karasuma.net/" />
+<link r:resource="http://www.genesis-sim.org/GENESIS/" />
+<link r:resource="http://annie.sourceforge.net/" />
+<link r:resource="http://www.neuroxl.com/" />
+<link r:resource="http://www.easynn.com/" />
+<link r:resource="http://simbrain.sourceforge.net/" />
+<link r:resource="http://fann.sourceforge.net/" />
+<link r:resource="http://www.neurosolutions.com/" />
+<link r:resource="http://lwneuralnetplus.sourceforge.net/" />
+<link r:resource="http://libf2n2.sourceforge.net/" />
+<link r:resource="http://www.ire.pw.edu.pl/%7Ersulej/NetMaker/" />
+<link r:resource="http://freespace.virgin.net/michael.fairbank/neuropilot/" />
+<link r:resource="http://www.mbaware.com/neurpred.html" />
+<link r:resource="http://cortex.snowcron.com/" />
+<link r:resource="http://www.obitko.com/tutorials/neural-network-prediction/" />
+<link r:resource="http://homepages.feis.herts.ac.uk/%7Enngroup/software.php" />
+<link r:resource="http://neuroph.sourceforge.net/" />
+<link r:resource="http://www.mathworks.com/products/neural-network/index.html" />
+</topic>

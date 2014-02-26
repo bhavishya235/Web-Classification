@@ -1,0 +1,2358 @@
+====================<http://www.eg.bucknell.edu/physics/astronomy/observatory/>====================
+<HTML>
+ <HEAD>
+  <!-- $MVD$:app("MicroVision WebExpress","770") -->
+  <!-- $MVD$:template("","0","0") -->
+  <!-- $MVD$:color("18","80ff","Orange","1") -->
+  <!-- $MVD$:color("19","ffd6ce","Lavender","1") -->
+  <!-- $MVD$:fontset("Untitled Font Set 1","Verdana","Arial","Helvetica","sans-serif") -->
+  <TITLE>Astronomy Program at Bucknell</TITLE>
+ </HEAD>
+ <BODY BACKGROUND="/physics/images/bg41.jpg" BGCOLOR="WHITE" LINK="#0000D0" VLINK="#0000D0" ALINK="RED">
+  <DIV>
+   <P ALIGN=LEFT>
+    <TABLE CELLPADDING="5" CELLSPACING="0" BORDER="0">
+     <TR>
+      <TD WIDTH="24%" ALIGN=CENTER>
+       <P>
+        <A HREF="http://www.bucknell.edu"><IMG SRC="./bu_logo_blue.gif" WIDTH="150" HEIGHT="54" VSPACE="0" HSPACE="0" ALT="Bucknell" BORDER="0"></A></TD>
+      <TD WIDTH="76%" ALIGN=center>
+         <TABLE CELLPADDING="7" CELLSPACING="2" BORDER="4">
+          <TR>
+           <TD BGCOLOR="#CED6FF"  valign=center>
+             <font size="12">Bucknell Observatory</font></TD>
+          </TR>
+         </TABLE></P>
+        <P ALIGN=CENTER>
+	<table border=1 cellpadding=2>
+	<tr>
+         <td align=center>Longitude: 76d 52.993m W </td>
+         <td align=center>Latitude: 40d 57.079m N </td>
+         <td align=center>Height: 561 ft.</td>
+	 </tr>
+	 </table>
+	 </TD>
+
+     </TR>
+     <TR>
+      <TD WIDTH="24%" VALIGN=TOP>
+       <CENTER>
+        <H3 ALIGN=CENTER>
+         Observatory<BR>
+         &nbsp;Links</H3>
+        </CENTER>
+       <CENTER>
+        <P ALIGN=CENTER>
+         <A HREF="images.htm">Image Library</A><BR>
+         <A HREF="directions.htm">Directions</A><BR>
+         <A HREF="http://www.eg.bucknell.edu/physics/astronomy">Course Offerings</A><BR>
+         <A HREF="http://tycho.usno.navy.mil/sidereal.html">Local Sidereal Time</A><BR>
+         <A HREF="http://www.geocities.com/CapeCanaveral/Hangar/2999/svaa.html">SVAA</A><BR>
+
+         <A
+        HREF="./skycam/skycam.html">All-Sky
+        Camera</A></P>
+        </CENTER>
+       <CENTER>
+        <H3 ALIGN=CENTER>
+         Astronomy&nbsp;<BR>
+         Lab Links</H3>
+        </CENTER>
+       <CENTER>
+        <P ALIGN=CENTER>
+         <A HREF="procedure.html">CCD Procedures</A><BR>
+         <A HREF="troubleshooting.html">CCD Troubleshooting</A><BR>
+         </P>
+        </CENTER>
+       <CENTER>
+        <H3 ALIGN=CENTER>
+         Physics<BR>
+         Links</H3>
+        </CENTER>
+	<center><small>
+	<a href="http://www.bucknell.edu/Physics.xml">Physics Department</a><br>
+
+	<a href="http://www.bucknell.edu/x733.xml">About Physics Dept.</a><br>
+	<a href="http://www.bucknell.edu/x735.xml">Faculty &amp; Staff</a><br>
+	<a href="http://www.bucknell.edu/x736.xml">Major &amp; Minor Requirements</a><br>
+	<a href="http://www.bucknell.edu/x737.xml">Course Offerings</a><br>
+	<a href="http://www.bucknell.edu/x739.xml">Facilities &amp; Resources</a><br>
+
+	<a href="http://www.bucknell.edu/x741.xml">Astronomy Program</a><br>
+	<a href="http://www.bucknell.edu/x743.xml">Research Opportunities &amp; REU</a><br>
+	<a href="http://www.bucknell.edu/x744.xml">Seminar Schedule</a>
+	</small></center>
+       <CENTER>
+        <P ALIGN=CENTER>
+         <!-- $MVD$:spaceretainer() -->&nbsp;</TD>
+      <TD WIDTH="76%" VALIGN=TOP>
+       <CENTER>
+        <P ALIGN=CENTER>
+         <IMG SRC="obs.gif" ALIGN=CENTER VSPACE="0" HSPACE="0" BORDER="0"></P>
+        </CENTER>
+       <H2>
+        Fall Semester 2008 Events:</H2>
+       <DIV>
+        <P ALIGN=LEFT>
+         <TABLE WIDTH="100%" CELLPADDING="2" CELLSPACING="0" BORDER="0">
+          <TR>
+           <TD WIDTH="18%" VALIGN=TOP>
+            <P>
+             September 26, 2008<BR> 8:00 - 11:00 pm</TD>
+           <TD WIDTH="82%" VALIGN=TOP>
+           <FONT SIZE="4"><B>Fall Parents' Weekend Open
+             House</B></FONT><BR>
+            <B>Open to the public.</B><BR>
+
+The Department of Physics & Astronomy welcomes all Bucknell students,
+their families, and the local community to the Bucknell Observatory
+for an Open House on Friday, September 26th from 8-11pm.  Prof. Ned
+Ladd will give a short presentation entitled "The King of Planets"
+several times during the evening, and the Observatory building will be
+open for tours throughout the Open House.  Weather permitting, we will
+open up our telescopes and provide opportunities for visitors to see a
+number of different objects on the sky, including the planet Jupiter, 
+star clusters, and nebulae  Don't miss the opportunity to see our historic
+Clark telescope, which celebrates its 121st year at Bucknell.
+
+
+          </TD> 
+          </TR>
+          <TR>
+           <TD WIDTH="18%" VALIGN=TOP></TD>
+           <TD WIDTH="82%" VALIGN=TOP></TD>
+          </TR>
+         </TABLE></P>
+        </DIV>
+         <TABLE CELLPADDING="2" CELLSPACING="0" BORDER="0">
+          <TR>
+           <TD WIDTH="93%" VALIGN=TOP>
+            <CENTER>
+             <P ALIGN=CENTER>
+              <IMG SRC="colorbar.gif" WIDTH="585" HEIGHT="1" VSPACE="0" HSPACE="0" BORDER="0"><BR>
+              <BR>
+              This page is maintained by <A
+	      HREF="mailto:ladd@bucknell.edu">Ned Ladd
+               </A>&amp; <A HREF="http://www.eg.bucknell.edu/physics/gallimore">Jack
+               Gallimore. </A>
+
+<script 
+  type="text/JavaScript" 
+  language="JavaScript">
+<!-- 
+//
+// format date as dd-mmm-yy
+// example: 12-Jan-99
+//
+function date_ddmmmyy(date)
+{
+  var d = date.getDate();
+  var m = date.getMonth() + 1;
+  var y = date.getYear();
+
+  // handle different year values 
+  // returned by IE and NS in 
+  // the year 2000.
+  if(y >= 2000)
+  {
+    y -= 2000;
+  }
+  if(y >= 100)
+  {
+    y -= 100;
+  }
+
+  // could use splitString() here 
+  // but the following method is 
+  // more compatible
+  var mmm = 
+    ( 1==m)?'Jan':( 2==m)?'Feb':(3==m)?'Mar':
+    ( 4==m)?'Apr':( 5==m)?'May':(6==m)?'Jun':
+    ( 7==m)?'Jul':( 8==m)?'Aug':(9==m)?'Sep':
+    (10==m)?'Oct':(11==m)?'Nov':'Dec';
+
+  return "" +
+    (d<10?"0"+d:d) + "-" +
+    mmm + "-" +
+    (y<10?"0"+y:y);
+}
+
+
+//
+// get last modified date of the 
+// current document.
+//
+function date_lastmodified()
+{
+  var lmd = document.lastModified;
+  var s   = "Unknown";
+  var d1;
+
+  // check if we have a valid date
+  // before proceeding
+  if(0 != (d1=Date.parse(lmd)))
+  {
+    s = "" + date_ddmmmyy(new Date(d1));
+  }
+
+  return s;
+}
+
+//
+// finally display the last modified date
+// as DD-MMM-YY
+//
+document.write( 
+  "Last update: " + 
+  date_lastmodified() );
+// -->
+</script>
+
+<BR>
+              <BR>
+              <IMG SRC="colorbar.gif" VSPACE="0" HSPACE="0" BORDER="0"><BR>
+            </TD>
+          </TR>
+         </TABLE></P>
+        </CENTER>
+       <P>
+        <!-- $MVD$:spaceretainer() -->&nbsp;</TD>
+     </TR>
+    </TABLE></P>
+   </DIV>
+  <CENTER>
+   <P ALIGN=CENTER>
+    <!-- $MVD$:spaceretainer() -->&nbsp;
+ </BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.astro.ubc.ca/telescope/>====================
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="description" CONTENT="Telescope description Astromony Group at UBC">
+   <META NAME="keywords" CONTENT="Astronomy UBC Telescope">
+   <META NAME="author" CONTENT="Gerry Grieve">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.05 [en] (X11; U; SunOS 5.5.1 sun4u) [Netscape]">
+   <TITLE>UBC Astronomy  Telescope Page</TITLE>
+<!-- Telescope Resourses Page -->
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" VLINK="#008400" ALINK="#006600">
+
+<center>
+<table border="0" width="85%" cellspace="0" cellpadding="2">
+<tr><td width="80" align="center">
+        <img height="94" width="69" src="/images/ubclogo_69x94.gif" alt="UBC"></td>
+     <td valign="top"><img height="104" width="467" src="/images/AatUBC.gif" alt="UBC"></td>
+        
+</tr></table>
+
+<img  width="85%" height="2" src="/images/blue_1x1.gif" alt="blue line">
+</center>
+
+
+<H1>42 cm Telescope</H1>
+
+<p> This telescope not longer exists.  It sat atop the former Geophysics &amp; Astronomy building  which was razed circa 2010-06.
+ 
+<h2> Public Observing </h2> 
+<p>   The public observing program has been suspended indefinitely
+
+</p>
+<table width="90%">
+
+<tr><td width="448" align="center">
+        <img SRC="UBCObs_440x319.jpg" height="319" width="440" alt="Dome opening at twilight">
+<p>
+
+    <font size="-1">
+		      The UBC telescope in better days
+	              <br>(photo : P. Durrell, 1999.)
+    </font>
+</p>
+    </td>
+    <td width="448" align="center">
+        <img SRC="Rubble494x524.JPG" height="524" width="494">
+
+<p><font size="-1">The white circular disk in the middle of the rubble pile
+                   is the last known sighting of the telescope 
+		          </font>
+</p>
+    </td>
+
+</tr></table>
+
+ 
+<!-- MENU BAR: to be included in HTML docs -->
+<center><table width="100%" cellspacing="0" >
+<tr>    <td bgcolor="#CCCCFF" align="center" width="33%">
+         <font size=-1><a href="http://www.astro.ubc.ca">Astronomy Home Page</A>
+         </font>
+     </td>
+
+     <td bgcolor="#CCCCFF" align="Center" width="33%">
+         <font size=-1><a href="http://www.ubc.ca/"> UBC Home</A>         </font>
+     </td>
+     <td bgcolor="#CCCCFF" align="Center" width="33%">
+         <font size=-1><a href="http://www.physics.ubc.ca">Physics &amp; Astronomy </A>
+         </font>
+     </td>
+</tr></table></Center>
+<P>
+<table width="90%" align="center"><tr><td>webster@astro.ubc.ca</td>
+           <td align="right"> Last revised: 2007-06-19</td>
+</tr></table>
+</BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.astro.indiana.edu/kirkwood.shtml>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Astronomy Department | Indiana University Bloomington</title>
+<meta name="keywords" content="Astronomy Department, Indiana University Bloomington" />
+<meta name="description" content="This is the Astronomy Department at Indiana University Bloomington website. Information you can find on this website includes Undergraduate Program, Graduate Program, Faculty, Research, Public Outreach and other resources." />
+<link href="codes/astro.css" rel="stylesheet" type="text/css" /> 
+<script src="sfhover.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+<div id="wrapper"> 
+ 
+ <div id="IUbanner">
+  <table id="layoutTable" summary="Table for layout">
+	<tr>
+		<td width="200"><a href="http://www.iub.edu"><img src="/images/iub_white.gif" alt="Indiana University" /></a></td>
+		<td width="600" align="right">
+		<!-- BEGIN OPTIONAL SEARCH FEATURE -->
+        
+  		<form method="get" action="http://search5.iu.edu/search">
+                <a href="http://people.iu.edu/">Campus People</a>&nbsp; |                  
+                    <!-- BEGIN UNIT SEARCH OPTION -->                    
+                    <input type="radio" name="as_sitesearch" id="search1" value="http://astrowww.astro.indiana.edu" checked="checked" /><label for="search1">Astronomy</label>&nbsp;                    
+                    <!-- END UNIT SEARCH OPTION -->
+                    <input type="radio" name="as_sitesearch" id="search2" value="" /><label for="search2">IUB</label> 
+                    <input type="text" name="q" id="searchtxt" maxlength="255" value="Search" onfocus="if(this.value=='Search')this.value='';" onblur="if(this.value=='')this.value='Search';" />
+                <input type="image" name="btnG" id="go" src="/images/go_white.gif" alt="GO" style="margin: 3px 0 0 0;" />
+                <input type="hidden" name="as_dt" value="i" />
+                <input type="hidden" name="site" value="iub" />
+                <input type="hidden" name="client" value="iub" />
+                <input type="hidden" name="proxystylesheet" value="iub" />
+                <input type="hidden" name="output" value="xml_no_dtd" />
+        </form>        
+        <!-- END OPTIONAL SEARCH FEATURE -->
+   		</td>
+	</tr>
+  </table>		
+ </div>    
+ <div id="header"><table border="0" width="100%" cellpadding="0" cellspacing="0"><tr><td><a href="http://www.indiana.edu/~college/"><img src="/images/college.jpg" alt="College of Arts and Sciences" style="border-top: 1px solid #5a7fc3;" /></a></td></tr><tr><td><a href="/index.shtml"><img src="/images/department.jpg" alt="Astronomy Department" style="border-bottom: 1px solid #5a7fc3;" /></a></td></tr></table></div>
+
+
+ <div id="topnav">
+<table cellspacing="0" border="0" style="background-color:#46659c; width:800px;"><tr><td>
+<ul style="margin-left:10px;">
+  <li><a href="/index.shtml">Home &nbsp;|</a></li>
+  <li><a href="/people.shtml">People &nbsp;|</a>
+       <ul>
+         <li><a href="/faculty.shtml">Faculty</a></li>
+         <li><a href="/staff.shtml">Staff</a></li>
+         <li><a href="/students.shtml">Graduate Students</a></li>
+         <li><a href="/directory.shtml">Complete Directory</a></li>
+       </ul>     
+   </li>
+
+ <li><a href="/about.shtml">About Us &nbsp;|</a>
+ 	<ul>
+    	<li><a href="/contact.shtml">Contact Us</a></li>
+        <li><a href="/pressreleases.shtml">Press Releases</a></li>	
+        <li><a href="/brochures.shtml">Brochures</a></li>
+        <li><a href="/maps.shtml">Maps & Directions</a></li>
+    	<li><a href="/giving.shtml">Make a Gift</a></li>
+    </ul>
+ </li>
+<li><a href="/undergraduate.shtml">Undergraduate &nbsp;|</a>
+       <ul>
+         <li><a href="/undergraduate.shtml">Welcome</a></li>
+         <li><a href="/requirements.shtml">Major and Minor Requirements</a></li>
+         <li><a href="/research.shtml">Research Opportunities</a></li>
+         <li><a href="/course.shtml">Course Schedule</a></li>
+         <li><a href="/activities.shtml">Department Activities</a></li>         
+       </ul>
+  </li>
+ <li><a href="/graduate.shtml">Graduate &nbsp;|</a>
+<ul>
+         <li><a href="/graduate.shtml">Welcome</a></li>
+         <li><a href="/admissions.shtml">Admissions</a></li>
+         <li><a href="/grad_requirements.shtml">Degree Requirements</a></li>
+         <li><a href="/students.shtml">Current Students</a></li>
+         <li><a href="/research.shtml">Research Areas</a></li>
+         <li><a href="/grad_teaching.shtml">Teaching at IU</a></li>
+         <li><a href="/activities.shtml">Department Activities</a></li>         
+    </ul>
+  </li>
+
+
+   <li><a href="/research.shtml">Research &nbsp;|</a>
+     <ul>
+       <li><a href="/research.shtml">Overview</a></li>
+       <li><a href="/faculty.shtml">Faculty Research Interests</a></li>
+       <li><a href="/facilities.shtml">Research Facilities</a></li>
+       <!--
+       <li><a href="/reu.shtml">REU Program</a> </li>
+       -->
+       <li><a href="/pressreleases.shtml">Press Releases</a></li>
+     </ul>
+   </li> 
+
+   
+   <li><a href="/outreach.shtml">Public Outreach &nbsp;|</a>
+     <ul>
+       <li><a href="/outreach.shtml">Overview</a></li>
+       <li><a href="/kirkwood.shtml">Kirkwood Schedule</a></li>
+       <li><a href="/kirkwoodinfo.shtml">Kirkwood Information</a></li>
+       <li><a href="/goethelink.shtml">Goethe Link Observatory</a></li>
+<!--
+       <li><a href="http://newsinfo.iu.edu/cat/page/normal/216.html">Star Trak</a></li>
+ -->
+       <li><a href="http://newsinfo.iu.edu/cat/page/normal/216,pages.html">Star Trak</a></li>
+       <li><a href="/ask.shtml">Ask An Astronomer</a></li>
+       <li><a href="/links.shtml">Interesting Links</a></li>
+     </ul>
+   </li>
+  <li><a href="/educational_tools.shtml">K-12 Education &nbsp;|</a>
+    <ul>
+      <li><a href="/educational_tools.shtml">Overview</a></li>
+      <li><a href="/astronomy_ed.shtml">Astronomy Education</a></li>
+      <li><a href="/kto12.shtml">K-12 Education</a></li>
+      <li><a href="/workshops.shtml">Workshops</a></li>
+      <li><a href="/publications.shtml">Publications</a></li>
+      <li><a href="/links.shtml">Links</a></li>
+      </ul>
+  </li>
+  <li><a href="/internal/">Internal</a> </li>
+  </ul>
+</td></tr></table>
+</div>
+
+ 
+ <div id="centerwrap">
+  
+ <style type="text/css">
+<!--
+#highlight .info ul li strong {
+	color: #F00;
+}
+#highlight .info ul li strong a {
+	color: #F00;
+}
+-->
+</style>
+<div id="highlight">
+<div class="info">
+<h1>Quick Links</h1>
+<ul>
+<!--
+	<li><a href="transit.shtml">Transit of Venus 2012</a></li>
+	-->
+	<li><a href="/astronomydepartment_calendar.shtml">Weekly Events Schedule</a></li>
+	<li><a href="/colloquium.shtml">Colloquium Schedule</a></li>
+	<li><a href="http://www.astro.indiana.edu/~oboberg/lunchtalks.html">Lunch Talk</a></li>
+	<li><a href="/astrocoffee.shtml">AstroCoffee</a></li>
+	<!--
+	<li><a href="https://www.google.com/calendar/embed?src=hcr5pv36hmb68t6j4umrdlto9c%40group.calendar.google.com&ctz=America/New_York">AstroCoffee</a></li>
+    -->
+    <li><a href="/astroclub/index.html">Astronomy Club</a></li>
+  <li><a href="/kirkwood.shtml">Kirkwood Observatory </a> </li>
+  <li><a href="/pressreleases.shtml">Press Releases </a> </li>
+  <li><a href="http://www.astro.indiana.edu/gallery/gallery/">Image Gallery </a></li>
+  <li><a href="/astronomywomen.shtml">Women in Astronomy</a></li>
+  <li><a href="http://www.physics.indiana.edu/">Physics</a></li>
+<!--
+  <li><a href="http://newsinfo.iu.edu/cat/page/normal/216.html">Star Trak</a> </li>
+ -->
+  <li><a href="http://newsinfo.iu.edu/cat/page/normal/216,pages.html">Star Trak</a> </li>
+  <li><a href="http://www.libraries.iub.edu/index.php?pageId=92">Library</a></li>
+  <li><a href="http://www.indiana.edu/~iuadmit/">Office of Admissions</a></li>
+  <li><a href="http://iub.edu/biglist/">IU Big List</a> </li>
+  <li><a href="/giving.shtml">Make a Gift</a></li>
+</ul>
+</div>
+
+</div>
+ 
+
+
+  
+	<div id="content">
+  	<!-- Insert content here -->
+
+<h1>Kirkwood Observatory Schedule</h1>
+<h2>Next Scheduled Kirkwood Observatory Open House: 
+<p>Kirwood Observatory is closed for the season and will open again after Spring Break.</h2>
+<p>
+  <strong>
+    Open houses may be cancelled on short-notice due to unfavorable weather conditions.
+    No reservations are required. 
+  </strong>
+  Due to Daylight Savings Time in Indiana, the sky is not dark enough 
+  for observing with the telescope until late in the evening.&nbsp; 
+  We have scheduled the Open Night hours as early as we can and still
+  have the sky dark enough to view with the Kirkwood telescope. 
+</p>
+<div style="width: 250px; float: right; background-color: #f3f1e9; margin-top: 10px; padding: 8px;">
+For updated weather conditions and closings, please call the <strong>Kirkwood Observatory Hotline at (812) 855-7736</strong>. 
+</div>
+
+<div>
+<a class="twitter-timeline" data-chrome="nofooter" width="255" height="200" href="https://twitter.com/iuastro" data-widget-id="345318959102435328">Tweets by @iuastro</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+<p>
+<!--
+To receive   a monthly e-mail about Kirkwood Observatory Events, please subscribe to our   Astronomy List Server. Send an e-mail to astdept [at] indiana.edu.
+</p>
+-->
+
+  
+<h2>Predicted Sky Conditions for Tonight and Tomorrow</h2>
+
+<p><a href=http://cleardarksky.com/c/BlmngtnINkey.html>
+<img src="http://cleardarksky.com/csk/getcsk.php?id=BlmngtnIN" width="550 height="250"></a></p>
+<p><strong>NOTE:</strong> Blue squares on the &quot;Cloud Cover&quot; row indicate clear skies.
+
+<h2>Groups</h2>
+<p>Group showings are available by contacting the   Astronomy Department at (812) 855-6911, or by sending email to outreach [at] astro.indiana.edu.</p>
+  
+<!--
+<p>The complete open house schedule is now located on the<a href="https://onestart.iu.edu/ccl-prd/GroupCalendar.do?methodToCall=publicCalendar&amp;pubCalId=GRP1339"> IU/Astronomy Events Calendar</a>.</p>
+-->
+
+<h2>Complete Kirkwood Observatory Open House Schedule 2014</h2>
+
+ <p>
+<table width="80%" cellpadding="0" cellspacing="0">
+  <tr>
+      <th width="25%" align="left"><strong>Date</strong></th>
+      <th width="25%" align="left"><strong>Time</strong></th>
+      <th width="25%" align="left"><strong>Date</strong></th>
+      <th width="25%" align="left"><strong>Time</strong></th>
+ </tr>
+  <tr style="background-color: #FFFFF0">
+      <td width="25%" align="left" >March 26</td>
+      <td width="25%" align="left" >9:00-11:00pm</td>
+      <td width="25%" align="left"></td>
+      <td width="25%" align="left"></td>
+ </tr>
+  <tr style="background-color: #FAF0E6">
+      <td width="25%" align="left">April 2</td>
+      <td width="25%" align="left">9:00-11:00pm</td>
+      <td width="25%" align="left">April 9</td>
+      <td width="25%" align="left">9:30-11:30pm</td>
+ </tr>
+  <tr style="background-color: #FAF0E6">
+      <td width="25%" align="left">April 16</td>
+      <td width="25%" align="left">9:30-11:30pm</td>
+      <td width="25%" align="left">April 23</td>
+      <td width="25%" align="left">9:30-11:30pm</td>
+ </tr>
+  <tr style="background-color: #FAF0E6">
+      <td width="25%" align="left" >April 30</td>
+      <td width="25%" align="left" >10:00-11:30pm</td>
+      <td width="25%" align="left"></td>
+      <td width="25%" align="left"></td>
+ </tr>
+  <tr style="background-color: #FFFFF0">
+      <td width="25%" align="left">May 7</td>
+      <td width="25%" align="left">10:00-11:30pm</td>
+      <td width="25%" align="left">May 14</td>
+      <td width="25%" align="left">10:00-11:30pm</td>
+ </tr>
+  <tr style="background-color: #FFFFF0">
+      <td width="25%" align="left">May 21</td>
+      <td width="25%" align="left">10:00-11:30pm</td>
+      <td width="25%" align="left">May 28</td>
+      <td width="25%" align="left">10:00-11:30pm</td>
+ </tr>
+  <tr style="background-color: #FFFFF0">
+      <td width="25%" align="left"></td>
+      <td width="25%" align="left"></td>
+ </tr>
+  <tr style="background-color: #FAF0E6">
+      <td width="25%" align="left">June 4</td>
+      <td width="25%" align="left">10:00-11:30pm</td>
+      <td width="25%" align="left">June 11</td>
+      <td width="25%" align="left">10:00-11:30pm</td>
+ </tr>
+  <tr style="background-color: #FAF0E6">
+      <td width="25%" align="left">June 18</td>
+      <td width="25%" align="left">10:30-11:30pm</td>
+      <td width="25%" align="left">June 25</td>
+      <td width="25%" align="left">10:30-11:30pm</td>
+ </tr>
+  <tr style="background-color: #FFFFF0">
+      <td width="25%" align="left">July 2</td>
+      <td width="25%" align="left">10:30-11:30pm</td>
+      <td width="25%" align="left">July 9</td>
+      <td width="25%" align="left">10:30-11:30pm</td>
+ </tr>
+  <tr style="background-color: #FFFFF0">
+      <td width="25%" align="left">July 16</td>
+      <td width="25%" align="left">10:00-11:30pm</td>
+      <td width="25%" align="left">July 23</td>
+      <td width="25%" align="left">10:00-11:30pm</td>
+ </tr>
+  <tr style="background-color: #FFFFF0">
+      <td width="25%" align="left">July 30</td>
+      <td width="25%" align="left">10:00-11:30pm</td>
+      <td width="25%" align="left"></td>
+      <td width="25%" align="left"></td>
+ </tr>
+  <tr style="background-color: #FAF0E6">
+      <td width="25%" align="left">August 6</td>
+      <td width="25%" align="left">10:00-11:30pm</td>
+      <td width="25%" align="left">August 13</td>
+      <td width="25%" align="left">9:30-11:30pm</td>
+ </tr>
+  <tr style="background-color: #FAF0E6">
+      <td width="25%" align="left">August 20</td>
+      <td width="25%" align="left">9:30-11:30pm</td>
+      <td width="25%" align="left">August 27</td>
+      <td width="25%" align="left">9:30-11:30pm</td>
+ </tr>
+  <tr style="background-color: #FFFFF0">
+      <td width="25%" align="left">September 3</td>
+      <td width="25%" align="left">9:00-11:00pm</td>
+      <td width="25%" align="left">September 10</td>
+      <td width="25%" align="left">9:00-11:00pm</td>
+ </tr>
+  <tr style="background-color: #FFFFF0">
+      <td width="25%" align="left">September 17</td>
+      <td width="25%" align="left">9:00-11:00pm</td>
+      <td width="25%" align="left">September 24</td>
+      <td width="25%" align="left">8:30-10:30pm</td>
+ </tr>
+  <tr style="background-color: #FAF0E6">
+      <td width="25%" align="left">October 1</td>
+      <td width="25%" align="left">8:30-10:30pm</td>
+      <td width="25%" align="left">October 8</td>
+      <td width="25%" align="left">8:00-10:00pm</td>
+ </tr>
+  <tr style="background-color: #FAF0E6">
+      <td width="25%" align="left">October 15</td>
+      <td width="25%" align="left">8:00-10:00pm</td>
+      <td width="25%" align="left">October 22</td>
+      <td width="25%" align="left">8:00-10:00pm</td>
+ </tr>
+  <tr style="background-color: #FAF0E6">
+      <td width="25%" align="left">October 29</td>
+      <td width="25%" align="left">7:30-9:30pm</td>
+      <td width="25%" align="left"></td>
+      <td width="25%" align="left"></td>
+ </tr>
+  <tr style="background-color: #FFFFF0">
+      <td width="25%" align="left">November 5</td>
+      <td width="25%" align="left">6:30-8:30pm</td>
+      <td width="25%" align="left">November 12</td>
+      <td width="25%" align="left">6:30-8:30pm</td>
+ </tr>
+  <tr style="background-color: #FFFFF0">
+      <td width="25%" align="left">November 19</td>
+      <td width="25%" align="left">6:30-8:30pm</td>
+      <td width="25%" align="left"></td>
+      <td width="25%" align="left"></td>
+ </tr>
+ </table>
+
+ <p>
+
+<h2>Kirkwood Observatory Solar Lab Schedule 2014</h2>
+
+<table width="53%" cellpadding="0" cellspacing="0">
+  <tr>
+      <th width="20%" align="left" ><strong>Date</strong></th>
+      <th width="30%" align="left" ><strong>Time</strong></th>
+ </tr>
+  <tr>
+      <td width="20%" align="left">March 1</td>
+      <td width="30%" align="left">1:00-3:00pm</td>
+ </tr>
+  <tr>
+      <td width="20%" align="left">April 5</td>
+      <td width="30%" align="left">1:00-3:00pm</td>
+  </tr>
+  <tr>
+      <td width="20%" align="left">May 3</td>
+      <td width="30%" align="left">1:00-3:00pm</td>
+  </tr>
+  <tr>
+      <td width="20%" align="left">June 7</td>
+      <td width="30%" align="left">1:00-3:00pm</td>
+  </tr>
+  <tr>
+      <td width="20%" align="left">July 5</td>
+      <td width="30%" align="left">1:00-3:00pm</td>
+  </tr>
+  <tr>
+      <td width="20%" align="left">August 2</td>
+      <td width="30%" align="left">1:00-3:00pm</td>
+  </tr>
+  <tr>
+      <td width="20%" align="left">September 6</td>
+      <td width="30%" align="left">1:00-3:00pm</td>
+  </tr>
+  <tr>
+      <td width="20%" align="left">October 4</td>
+      <td width="30%" align="left">1:00-3:00pm</td>
+  </tr>
+  <tr>
+      <td width="20%" align="left">November 1</td>
+      <td width="30%" align="left">1:00-3:00pm</td>
+  </tr>
+</table>		     
+
+  <!-- end main body -->
+
+
+  <!-- Ent of Content: Do not make change below this line -->
+<!--stopindex-->
+<!-- Blocks search indexing of the rest of the document -->
+    </p>
+</div>
+	<!-- End of content div -->
+
+<div id="clearDiv"></div>
+ </div><!-- end centerwrap -->
+  
+
+
+   <div id="footer"> 
+	   <a href="http://www.indiana.edu"><img src="/images/blockiu_white.gif" alt="IU" id="blockIU" /></a>
+   <a href="http://www.indiana.edu/">Indiana University</a> | <a href="http://www.iub.edu/">IU Bloomington</a> |
+<a href="http://www.indiana.edu/~college/">College of Arts & Sciences</a> | <a href="/index.shtml">Astronomy Department</a>
+<br />
+727 East 3rd Street, Swain West 319, Bloomington, IN 47405-7105 | Phone: 812-855-6911| Fax: 812-855-8725<br />
+<!-- required copyright notice and links -->
+<a href="http://www.indiana.edu/comments/copyright.shtml">Copyright</a> | <a href="privacynotice.html">Privacy Notice</a>
+2014, 
+The Trustees of <a href="http://www.indiana.edu/">Indiana University</a> |
+<a href="http://www.indiana.edu/comments/complaint.shtml">Copyright Complaints</a> | 
+Last Updated: 03 December 2013
+  </div><!-- end footer -->
+</div><!-- end wrapper -->
+
+
+
+</body>
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.astro.ufl.edu/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+		<title>UF :: Astronomy</title>
+  <link rel="stylesheet" type="text/css" media="screen"
+ href="_style/css/basic.css">
+  <link rel="stylesheet" type="text/css" media="print"
+ href="_style/css/print.css">
+<!--[if IE 7]>
+<!--[if lt IE 8]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
+<!--[endif]-->
+  <style type="text/css" media="screen">
+			@import "_style/css/style_ie7.css";
+            #secHeader span{background: url(_style/images/header1.jpg)}
+		</style>
+<![endif]-->
+
+<![if !IE 7]>
+  <style type="text/css" media="screen">
+			@import "_style/css/style.css";
+            #secHeader span{background: url(_style/images/header1.jpg)}
+		</style>
+<![endif]>
+
+
+<link rel="shortcut icon" href="_style/images/favicon.ico">
+
+<script 
+ src="http://twitterjs.googlecode.com/svn/trunk/src/twitter.min.js" 
+ type="text/javascript">
+</script>
+<script type="text/javascript" charset="utf-8">
+getTwitters('tweet', { 
+  id: 'ufastro', 
+  count: 5, 
+  enableLinks: true, 
+  ignoreReplies: true, 
+  clearContents: true,
+  template: '"%text%" <a href="http://twitter.com/%user_screen_name%/statuses/%id%/"></a>'
+});
+</script>
+
+</head>
+<body>
+<div id="header">
+	<h1 id="dept"><a href="http://www.astro.ufl.edu/" title="UF Astronomy">Department of Astronomy<span></span></a></h1>
+
+	<h2 id="uf"><br>
+  		<form action="http://search.ufl.edu/search" method="get"> 
+  			<input name="site" value="www.astro.ufl.edu" type="hidden"> 
+  				<label for="source">
+    				<select id="source" name="source">
+    					<option value="web" selected="selected">UF Astronomy</option>
+    					<option value="allweb">UF Web</option>
+    					<option value="phonebook">UF Phonebook</option>
+    				</select>
+    			</label> 
+    		<input name="site" value="www.webadmin.ufl.edu" type="hidden">
+    			<label for="searchbox"> 
+    				<input name="query" id="searchbox" size="15" value="Search" alt="Search" onfocus="select()" type="text"> 
+    			</label>
+    				<input name="Submit" value="Go" type="submit">
+    	</form>
+	</h2>
+</div>
+
+<div id="mainContainer">
+	<div id="content">
+		<h2 id="secHeader" title="discovering THE UNIVERSE"><span></span>Header Image</h2>
+
+<!--[if IE 7]>
+<h3><font size="+2"><b>YOU HAVE AN OUTDATED BROWSER!</b></font></h3>
+<p>We have detected that you are running IE7.  Microsoft has not released a version of IE7 since 2008.  There are many bugs in IE7 (and older), and this web-site will not render properly on that browser.  Please upgrade to at least IE8.</p>
+<p><a href=http://windows.microsoft.com/en-us/internet-explorer/products/ie/home>The IE Home</a></p>
+
+<![endif]-->
+
+			<h3><font size="+2"><b>Welcome</b></font></h3>
+				<p>Welcome to the Department of Astronomy at the University of Florida.</p>
+
+			<h3>News <small><small><small>(more stories at our
+				<a href="http://ufastro.blogspot.com/">blog</a> +
+				<a href="http://news.ufl.edu/research/sciences/astronomy/">University <i>of</i> Florida News</a> + 
+				<a href="http://twitter.com/ufastro">twitter</a> + 
+				<a href="http://www.facebook.com/pages/Gainesville-FL/Department-of-Astronomy-at-the-University-of-Florida/77272605735">facebook</a> + 
+				<a href="http://www.youtube.com/user/UFastro">youtube</a>)</small></small></small><br>
+			</h3>
+
+<!--<br><table style="text-align: left; width: 100%;" border="0" cellpadding="2"
+ cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; text-align: right; width: 25%;"><a
+ href="http://ufastro.blogspot.com/2010/03/our-cosmic-history-from-big-bang-to-big.html"><img alt="highlights"
+ src="http://conference.astro.ufl.edu/STARSTOGALAXIES/s2g_thumb.png"
+ style="border: 0px solid ; width: 100px; " title="STARS TO GALAXIES"></a>
+      </td>
+      <td style="vertical-align: top; text-align: left; width: 75%;"><p><font size="+0">Our Cosmic History:<br>
+      From Big Bang to Big Molecules</font><br>
+      Friday, April 9th, 2010, 6:30pm<br>
+      Outreach Event at the New Physics Building, University of Florida<br>
+      <a href="http://ufastro.blogspot.com/2010/03/our-cosmic-history-from-big-bang-to-big.html">read more..</a>
+      </p>
+      </td>
+    </tr>
+  </tbody>
+</table>-->
+
+		<div id="tweet">
+			<p>Please wait while more news load via <a href="http://twitter.com/ufastro">twitter</a>..</p>
+			<!-- <p><a href="http://twitter.com/ufastro">If you can't wait - check out what I've been twittering</a></p> -->
+		</div>
+
+<!--<div id="twitter_div">
+<ul id="twitter_update_list">
+</ul>
+</div>
+<script type="text/javascript"
+ src="http://twitter.com/javascripts/blogger.js"></script>
+<script type="text/javascript"
+ src="http://twitter.com/statuses/user_timeline/ufastro.json?callback=twitterCallback2&amp;count=5"></script>-->
+
+			<h3>Support Astronomy</h3>
+				<p>We're so grateful for the support our program receives from our alumni and others. 
+				Simply put, we could not sustain our current efforts without those contributions! 
+				Your donations help fund research travel for undergraduate and graduate students, 
+				awards for student excellence, faculty research, visiting speakers, and much more.<br>
+				<a href="support.html#support">read more..</a></p>
+
+			<h3>Affiliations & Partners</h3>
+			
+	<table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">
+  		<tbody>
+    	<tr>
+      	<td style="vertical-align: top; text-align: center; width: 25%;"><a
+ href="http://www.aura-astronomy.org/"><img alt="Aura Logo"
+ src="_style/images/aura.gif"
+ style="border: 0px solid ; width: 133px; height: 66px;" title="AURA"></a><br>
+      	</td>
+      	<td style="vertical-align: top; text-align: center; width: 25%;"><a
+ href="http://www.gtc.iac.es/en/"><img alt="GTC Logo"
+ src="_style/images/gtc.jpg"
+ style="border: 0px solid ; width: 75px; height: 75px;" title="GTC"></a><br>
+      	</td>
+      	<td style="vertical-align: top; text-align: center; width: 25%;"><a
+ href="http://www.sdss3.org/"><img alt="SDSS3 Logo"
+ src="_style/images/sdss3.jpg"
+ style="border: 0px solid ; height: 75px;" title="SDSS3"></a><br>
+      	</td>
+      	<td style="vertical-align: top; text-align: center; width: 25%;"><a
+ href="http://www.usasciencefestival.org"><img alt="Official Partner of the USA Science & Engineering Festival"
+ src="_style/images/USASF_PARTNERlogofinal2_rgb.jpeg"
+ style="border: 0px solid ; height: 75px;" title="Official Partner of the USA Science & Engineering Festival"></a><br>
+      	</td>
+    	</tr>
+  		</tbody>
+	</table><br>
+
+	</div>
+
+		<div id="priNav">
+		<h2>Primary Navigation</h2>
+		<ul>
+  			<li id="active">Home</li>
+  			<li><a href="./information/information.html">Information</a></li>
+  			<li><a href="./events/events.html">Events</a></li>
+  			<li><a href="./people/people.html">People</a></li>
+  			<li><a href="./education/education.html">Education</a></li>
+  			<li><a href="./outreach/outreach.html">Outreach</a></li>
+  			<li><a href="./research/research.html">Research</a></li>
+  			<li><a href="./instrumentation/instrumentation.html">Instrumentation</a></li>
+  			<li><a href="./advisory/advisory.html">Advisory Council</a></li>
+		</ul>
+		</div>
+
+	<div id="footer">
+			<p>&copy; Department of Astronomy, 
+			<a href="http://www.clas.ufl.edu/" title="CLAS">College of Liberal Arts and Sciences</a>,
+			<a href="http://www.ufl.edu/" title="University of Florida">University of Florida</a>
+			<a href="http://www.ufl.edu/" id="footerHome" title="University of Florida"><span></span></a></p>
+			<p>211 Bryant Space Science Center, Gainesville, FL 32611-2055, USA</p>
+			<p>t: (352) 294-1870 + f: (352) 392-5089 + e: paw@ufl.edu</p><p>Last modified October 2013</p>
+	</div>
+
+</div>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.astr.ua.edu/>====================
+<HTML>
+<head>
+<STYLE>
+<!--
+A{text-decoration:none}
+-->
+</STYLE>
+<TITLE>University of Alabama Astronomy Home Page</TITLE>
+<!body bgcolor="#000000"  alink=#000000 vlink=#000000 link=#000000 text="#ffffff">
+<body bgcolor="#000000" background="img/bg1.jpg" alink=#000000 vlink=#000000 link=#000000 text="#fffff0">
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27133653-2']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<center>
+<table cellpadding=0 width=90% border=0>
+<tr>
+<td>
+<table>
+<tr><td><a href="http://astronomy.ua.edu"><font face="helvetica,ariel" size=+2 color=#ff3333><b>Astronomy Program</b></font></a></td></tr>
+<tr><td><a href="http://physics.ua.edu/"><font face="helvetica,ariel" size=+1 color=#fffff0><b>Department of Physics &amp; Astronomy</b></font></a></td></tr>
+</table>
+</td>
+<td align=right><a href="http://www.ua.edu/"><img src="img/UAas.gif" align=right></a></td>
+</tr>
+</table>
+<table width=100%><tr><th bgcolor=#ffffff height=2></th></tr></table>
+<!hr color="#ffffff">
+<!/center>
+
+<font color="#ffdd00">
+
+<p>
+
+<table width=80%>
+<tr valign=top>
+<td>
+
+<table cellpadding=8>
+
+<tr><th><a href="Public.html"><img src="img/sat.jpg" width=60></a></th>
+<td valign=center><a href="Public.html">
+<font size="+0" color=#fffff0 face="helvetica,ariel"><b>Public&nbsp;Events</font></a></td></tr>
+
+<tr><th><a href="News.html"><img src="img/strip.jpg" width=60></a></th>
+<td valign=center><a href="News.html">
+<font size="+0" color=#fffff0 face="helvetica,ariel"><b>News</font></a></td></tr>
+
+<tr><th><a href="Galleries.html"><img src="img/ring.jpg" width=60></a></th>
+<td valign=center><a href="Galleries.html">
+<font size="+0" color=#fffff0 face="helvetica,ariel"><b>Astronomical<br>Image&nbsp;Galleries</font></a></td></tr>
+
+<tr><th valign=top><a href="Courses.html"><img src="img/spec.gif" width=60></a></th>
+<td valign=center><a href="Courses.html">
+<font size="+0" color=#fffff0 face="helvetica,ariel"><b>Course Resources</b></font></a>
+</font>
+</td></tr>
+
+<tr><th><a href="GradProg.html"><img src="img/kpno.jpg" width=60></a></th>
+<td valign=center><a href="GradProg.html">
+<font size="+0" color=#fffff0 face="helvetica,ariel"><b>Graduate Program</font></a></td></tr>
+
+<tr><th><a href="jclub.html"><img src="img/journal_page.jpg" width=60></a></th>
+<td valign=center><a href="jclub.html">
+<font size="+0" color=#fffff0 face="helvetica,ariel"><b>Astrophysics<br>Journal Club</b></font></a></td></tr>
+
+<tr><th><a href="People.html"><img src="img/people.jpg" width=60></a></th>
+<td valign=center><a href="People.html">
+<font size="+0" color=#fffff0 face="helvetica,ariel"><b>People</font></a></td></tr>
+
+<tr><th><a href="4000WS/"><img src="img/Agnesi.jpg" height=50></a></th>
+<td valign=center><a href="4000WS/">
+<font size="+0" color=#fffff0 face="helvetica,ariel"><b>4000&nbsp;Years&nbsp;of<br>Women&nbsp;in&nbsp;Science</font></a></td></tr>
+
+</table>
+
+</td>
+
+<th>
+<br><p>
+<script language="Javascript">
+
+<!--
+// please keep these lines on when you copy the source
+// made by: Nicolas - http://www.javascript-page.com
+
+var currentdate = 0
+var core = 0
+
+function StringArray (n) {
+  this.length = n;
+  for (var i =1; i <= n; i++) {
+    this[i] = ' '
+
+  }
+}
+
+image = new StringArray(9)
+image[0] = 'img/backwards.jpg'
+image[1] = 'img/n5090b.gif'
+image[2] = 'img/acsvla0313x.jpg'
+image[3] = 'img/am1316color.jpg'
+image[4] = 'img/ngc3314.jpg'
+image[5] = 'img/pipeline.jpg'
+image[6] = 'img/rnew3081b.gif'
+image[7] = 'img/vlahst.gif'
+image[8] = 'img/stephan_big.jpg'
+
+
+var ran = 60/image.length
+
+function ranimage() {
+  currentdate = new Date()
+  core = currentdate.getSeconds()
+  core = Math.floor(core/ran)
+    return(image[core])
+}
+
+document.write("<img src='" +ranimage()+ "' width=300>")
+
+//-->
+
+</script>
+
+</th>
+
+</tr>
+
+</table>
+
+<p>
+
+<table width=100%><tr><th bgcolor=#ffffff height=2></th></tr></table>
+
+<table width=100%>
+<tr height=10></tr>
+<tr>
+<td align=left><a href="mailto:wkeel@ua.edu"><font size="-1" color=#ff3333><i>webmaster</i></a></td>
+<th>
+<a href="http://www.ua.edu"><font face="helvetica,ariel" color=#ff3333><b>UA</font></a> | 
+
+<a href="http://www.as.ua.edu"><font face="helvetica,ariel" color=#ff3333><b>A&amp;S</font></a> | 
+<a href="http://physics.ua.edu/"><font face="helvetica,ariel" color=#ff3333><b>Physics</font></a> | 
+<a href="http://astronomy.ua.edu"><font face="helvetica,ariel" color=#ff3333><b>Astro</a>
+</th>
+<td align=right><a href="http://www.ua.edu/disclaimer.html" target="_blank"><font size="-1"
+ color=#ff3333><i>disclaimer</i></a></td>
+</tr>
+</table>
+
+
+
+</HTML>
+
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.nbi.ku.dk/english/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>Niels Bohr Institute &ndash; Niels Bohr Institute - University of Copenhagen</title>
+  <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  <link href="/css/style.css" rel="stylesheet" type="text/css" media="screen, print" />
+  <link href="http://cms.ku.dk/css/units/nat.css" rel="stylesheet" type="text/css" media="screen, print" />
+
+<script type="text/javascript">//<!--
+var textsize_cookie_domain = '.ku.dk';
+var vdoc_lang = 'en';
+//--></script>
+<script src="http://cms.ku.dk/scripts_js/functions.js" type="text/javascript"></script>
+<script src="http://cms.ku.dk/system/cookies.js" type="text/javascript"></script>
+
+
+  <link href="/css/print.css" rel="stylesheet" type="text/css" media="print" />
+
+    <meta name="Author" content="Gertie Skaarup" />
+    <meta name="Creator" content="Gertie Skaarup" />
+    <meta name="DC.Creator" content="Gertie Skaarup" />
+    <meta name="DC.Format" content="text/xhtml" />
+    <meta name="DC.Title" content="Niels Bohr Institute" />
+    <meta name="DC.Title.Release" content="2014-02-24 14:55:55" />
+    <meta name="Keywords" content="Niels Bohr Institute, physics, astronomi, research, theory, experiments, University of Copenhagen, Niels Bohr Institute" />
+    <meta name="Title" content="Niels Bohr Institute" />
+    <meta name="DC.Subject" content="Niels Bohr Institute" />
+    <meta name="DC.Subject" content="physics" />
+    <meta name="DC.Subject" content="astronomi" />
+    <meta name="DC.Subject" content="research" />
+    <meta name="DC.Subject" content="theory" />
+    <meta name="DC.Subject" content="experiments" />
+    <meta name="DC.Subject" content="University of Copenhagen" />
+    <meta name="DC.Subject" content="Niels Bohr Institute" />
+    <meta name="DC.Date" scheme="ISO8601" content="2006-01-09" />
+    <meta name="DC.Date.Created" scheme="ISO8601" content="2006-01-09" />
+    <meta name="DC.Date.Modified" scheme="ISO8601" content="2014-02-24" />
+    <meta name="DC.Language" scheme="ISO639-1" content="en" />
+    <meta name="DC.Publisher" content="University of Copenhagen" />
+    <meta name="DC.Publisher" content="Niels Bohr Institute" />
+    <meta name="robots" content="index,follow" />
+
+
+
+
+<script type="text/javascript" src="http://cms.ku.dk/scripts/jquery/jquery-1.9.0.min.js"></script>
+<link rel="stylesheet" href="http://cms.ku.dk/scripts/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+<script type="text/javascript" src="http://cms.ku.dk/scripts/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+</script>
+
+<style>
+div.nav {
+position:relative;
+z-index:99999 !important;
+}
+
+.news-teaser img {
+display: none;
+}
+</style>
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['mainTracker._setAccount', 'UA-28098356-1']);
+_gaq.push(['mainTracker._setDomainName','ku.dk']);
+_gaq.push(['mainTracker._setAllowHash',false]);
+_gaq.push(['mainTracker._setAllowAnchor',true]);
+_gaq.push(['mainTracker._setAllowLinker',true]);
+_gaq.push(['mainTracker._trackPageview']);
+
+
+    _gaq.push(['legacyTracker._setAccount', 'UA-6558655-1']);
+    _gaq.push(['legacyTracker._setDomainName','ku.dk']);
+    _gaq.push(['legacyTracker._setAllowHash',false]);
+    _gaq.push(['legacyTracker._setAllowAnchor',true]);
+    _gaq.push(['legacyTracker._setAllowLinker',true]);
+    _gaq.push(['legacyTracker._trackPageview']);
+
+
+(function() {
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
+ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s); })();
+
+(function() {
+var kuga = document.createElement('script');
+kuga.type = 'text/javascript';
+kuga.async = true;
+kuga.src = ('https:' == document.location.protocol ? 'https://cms.secure.ku.dk' : 'http://cms.ku.dk') + '/scripts_js/ga.extended.js';
+var s = document.getElementsByTagName('script')[1];
+s.parentNode.insertBefore(kuga, s);
+})();
+</script>
+
+<!--[if lte IE 5]>
+  <link href="/css/ie/ie5.css" rel="stylesheet" type="text/css" media="screen, print" />
+  <noscript>
+    <style type="text/css">
+    .nav .dropdown, .nav .dropdown div {width: 189px;}
+    .nav .button .dropdown ul {margin: 0px;}
+    .nav .dropdown, .nav .dropdown div {position: static;}
+    .nav .dropdown ul {border: 0;}
+    .mini-zone {display: none;}
+    </style>
+  </noscript>
+<![endif]-->
+<!--[if IE 6]>
+  <link href="/css/ie/ie6.css" rel="stylesheet" type="text/css" media="screen, print" />
+  <link rel="stylesheet" type="text/css" href="/css/ie/print_ie6.css" media="print" />
+  <noscript>
+    <style type="text/css">
+    .nav .dropdown, .nav .dropdown div {width: 189px;}
+    .nav .button .dropdown ul {margin: 0px;}
+    .nav .dropdown, .nav .dropdown div {position: static;}
+    .nav .dropdown ul {border: 0;}
+    .mini-zone {display: none;}
+    </style>
+  </noscript>
+<![endif]-->
+<!--[if IE 7]>
+  <link href="/css/ie/ie7.css" rel="stylesheet" type="text/css" media="screen, print" />
+  <link rel="stylesheet" type="text/css" href="/css/ie/print_ie7.css" media="print" />
+<![endif]-->
+<!--[if IE 8]>
+  <link href="/css/ie/ie8.css" rel="stylesheet" type="text/css" media="screen, print" />
+  <link rel="stylesheet" type="text/css" href="/css/ie/print_ie8.css" media="print" />
+<![endif]-->
+<!--[if IE 9]>
+  <link href="/css/ie/ie9.css" rel="stylesheet" type="text/css" media="screen, print" />
+<![endif]-->
+
+<!-- If you should ever need some mobile stylesheets, here's how you'd implement them: -->
+<!-- <link href="/css/mobile.css" rel="stylesheet" type="text/css" media="screen and (max-width: 480px)" /> -->
+
+<link rel='shortcut icon' href='http://cms.ku.dk/grafik/images/favicons/favicon_nat.ico'>
+</head>
+
+<body>
+<div><a name="top"></a></div>
+<div id="wrapper">
+        <div id="branding">
+                <h1>Niels Bohr Institute &ndash; Niels Bohr Institute - University of Copenhagen</h1>
+        </div>
+        <!-- End branding -->
+
+	<div id="branding-images">
+		<div id="branding-global">
+<a href="http://www.ku.dk/english/" title="University of Copenhagen">
+				<img src="http://cms.ku.dk/billeder/globalmenu/brand_ku_uk.gif" alt="University of Copenhagen" height="23" width="250" />
+			</a>
+		</div>
+		<!-- End branding-global -->
+		<div id="branding-unit">
+			<a href="http://www.nbi.ku.dk/english/" title="Home"><img src="http://cms.ku.dk/nat-sites/nbi-sites/nbi/english/topgrafik/navnetraek.gif/" height="86" width="387" alt="Home" /></a>
+		</div>
+		<!-- End branding-unit -->
+		<div id="branding-logo">
+			<a href="http://www.nbi.ku.dk/english/" title="Home"><img src="http://cms.ku.dk/nat-sites/fak-sites/natfak/topgrafik/segl/" height="87" width="65" alt="Home" /></a>
+		</div>
+		<!-- End branding-logo -->
+	</div>
+	<!-- End branding-images -->
+
+
+
+
+
+
+
+        <div id="skip-to">
+          <h1><span lang="da">Hop til</span> / <span lang="en">Skip to</span>:</h1>
+          <ul>
+            <li><a href="#a_content"><span lang="da">Indhold</span> /<span lang="en"> Content</span></a></li>
+            <li><a href="#a_nav-global">Global navigation</a></li>
+            <li><a href="#a_nav-sub"><span lang="da">Oversigt</span> / <span lang="en">Site navigation</span></a></li>
+            <li><a href="#a_search"><span lang="da">S&#248;g</span> / <span lang="en">Search</span></a></li>
+            <li><a href="#a_sidebar"><span lang="da">Ekstra information</span> / <span lang="en">Sidebar</span></a></li>
+            <li><a href="#a_footer"><span lang="da">Kolofon</span> / <span lang="en">Footer</span></a></li>
+          </ul>
+          <hr />
+        </div>
+
+<div id="nav-wrapper">
+      
+      <div id="search"> <a name="a_search" id="a_search"></a>
+
+         <h1><span lang="da">S&#248;g</span> / <span lang="en">Search</span></h1>
+        <form action="http://search.ku.dk/">
+          <p>
+            <input name="q" type="text" id="entry1" tabindex="1" size="15" />
+	    <input name="localgcse" type="hidden" id="localgsce" value="016525976707906108204:-p-xqrxqxye" />
+
+		    <input id="localdomain" name="localdomain" type="hidden" value="+window.location.hostname+" />
+<script type="text/javascript">
+el = document.getElementById("localdomain");
+el.value = window.location.hostname;
+</script>
+            <input name="sa" type="submit" value="Search" tabindex=
+"2" id="submit-button" />
+          </p>
+        </form>
+
+      </div>
+      <!-- End search -->
+
+			<div class="nav">
+				 <ul>
+					 <li class="button">
+					  <div class="parent one">
+					   <a onclick="return false" href="http://cms.ku.dk/" tabindex="8">Shortcuts</a>
+              <div class="dropdown">
+               <ul>
+                <li class="first">
+                <a href="http://introduction.ku.dk/">Introduction</a>
+               </li>
+                <li>
+                <a href="http://studies.ku.dk/">Studies</a>
+               </li>
+               <li>
+                <a href="http://research.ku.dk/">Research</a>
+               </li>
+               <li>
+ 		<a href="http://erhverv.ku.dk/english/">Business</a>
+		</li>
+               <li>
+ 		<a href="http://international.ku.dk/">International</a>
+		</li>
+               <li>
+ 		<a href="http://alumni.ku.dk/englishkubulusalumni/">Alumni</a>
+		</li>
+               <li class="divide">
+ 		<a href="http://news.ku.dk/">News/Press</a>
+		</li>
+		<li>
+		<a href="http://introduction.ku.dk/organisation/faculties/">Faculties</a>
+		</li>
+		<li>
+		<a href="http://introduction.ku.dk/organisation/departments/">Departments</a>
+		</li>
+		<li>
+		<a href="http://culis.ku.dk/">Libraries</a>
+		</li>
+		<li class="divide"><a href="http://introduction.ku.dk/campus/museums/">Museums</a></li>
+
+						 </ul>
+ 						</div>
+          </div>
+         </li>
+			</ul>
+    </div>
+		<!-- End nav -->
+      <div id="nav-global"> <a name="a_nav-global" id="a_nav-global"></a>
+         <h1>Global navigation</h1>
+         <ul class="stripped">
+		<li><a href="http://www.nbi.ku.dk/"><font color="#FFFF00" face="Verdana" style="font-size: 9pt"><u><b>Dansk</b></u></font></a></li><li><a href="https://intranet.ku.dk/en/">KUnet (intranet)</a></li><li><a href="http://www.ku.dk/vejviser/phone.html">Phone Book</a></li><li><a href="http://www.science.ku.dk/english/">The Faculty</a></li>
+         </ul>
+      </div>
+      <!-- End nav-global -->
+   </div>
+   <!-- End nav-wrapper -->
+
+
+
+        <div id="branding-decoration" style="background-image: url(http://cms.ku.dk/nat-sites/nbi-sites/nbi/topkollagenbi.jpg)">
+                
+        </div>
+        <!-- End branding-decoration -->
+
+
+    <div id="content-wrapper"><a name="a_content" id="a_content"></a>
+        <div id="content" class="frontpage">
+
+<div id="main-content">
+
+<!-- Forside doctype: -->
+
+<script type="text/javascript"> // <![CDATA[
+	if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+		document.location = "http://www.nbi.ku.dk/english/forside_ufl/";
+	} // ]]>
+</script>
+	<table border="0" cellpadding="0" cellspacing="0" width="504" id="table3">
+		<tr>
+			<td><map name="FPMap0">
+			<area href="http://www.nbi.ku.dk/english/study_programmes/" shape="rect" coords="0, 284, 123, 335" alt="We can offer to more than 600 students a 3-year bachelor degree followed by a 2-year graduate degree and a 3-year PhD study.">
+			<area href="http://www.nbi.ku.dk/english/research/" shape="rect" coords="126, 286, 252, 335" alt="Fundamental Research is based on observations, fieldwork, laboratory experiments and theoretical models for the purpose of understanding basic laws and complex truths on this world.
+">
+			<area href="http://www.nbi.ku.dk/english/public_outreach/" shape="rect" coords="255, 287, 378, 335" alt="The institute prioritizes the communication of news within research and hosts numerous arrangements where pupils from both primary and secondary level schools as well as the public in general can experience the world of physics and physicists. ">
+			<area href="http://www.nbi.ku.dk/english/about/" shape="rect" coords="380, 287, 505, 335" alt="The Niels Bohr Institute is the unification of the four earlier institutes for the physical sciences at Copenhagen University: The Astronomic Observatory, The &#216;rsted Laboratory, The Geophysical Institute and The Niels Bohr Institute. ">
+			</map>
+			<img border="" src="http://www.nbi.ku.dk/english/forsidegrafik/ny_forside_samlet.jpg/" width="506" height="336" usemap="#FPMap0"></td>
+		</tr>
+	</table>
+
+
+<table border="0" style="width: 505px;">
+	<tbody>
+		<tr>
+			<td align="left" style="width: 235px;">
+			<div class="nav">
+			<ul>
+				<li class="button">
+				<div class="parent one">
+				<a href="http://www.nbi.ku.dk/Besoeg_os/#" onclick="return false">ScienceXplorer: NBI Science-TV </a> 
+				<div class="dropdown">
+				<ul>
+	<li><strong> >> Atomic Physics</strong></li>
+
+					<li><a href="http://www.nbi.ku.dk/english/sciencexplorer/atomic_physics/atlas_experiment/video/">ATLAS - The world&#8217;s biggest physics experiment</a></li>
+					<li>
+					<a href="http://www.nbi.ku.dk/english/sciencexplorer/atomic_physics/ess_extreme_materialresearch/video/">ESS Extreme Materialresearch</a></li>
+					<li>
+					<a href="http://www.nbi.ku.dk/english/sciencexplorer/atomic_physics/alice_1/video/">The ALICE Detector - PART ONE</a></li>
+					<li>
+					<a href="http://www.nbi.ku.dk/english/sciencexplorer/atomic_physics/alice_2/video/">The ALICE Detector - PART TWO</a></li>
+					<li>
+					<a href="http://www.nbi.ku.dk/english/sciencexplorer/atomic_physics/superconductors/video/">Superconductors at Atomic Level</a></li>
+	<li><strong> >> Earth and Climate</strong></li>
+					<li>
+					<a href="http://www.nbi.ku.dk/english/sciencexplorer/earth_and_climate/secret_of_the_ice1/video/">Secrets of the Ice &#8211; Part 1</a></li>
+					<li>
+					<a href="http://www.nbi.ku.dk/english/sciencexplorer/earth_and_climate/secret_of_the_ice2/video/">Secrets of the Ice - Part 2</a></li>
+					<li>
+					<a href="http://www.nbi.ku.dk/english/sciencexplorer/earth_and_climate/secrets_of_the_stones/video/">Secrets of the Stones</a></li>
+					<li>
+					<a href="http://www.nbi.ku.dk/english/sciencexplorer/earth_and_climate/golden_spike/video/">NBI NEWS: GOLDEN SPIKE IN ICE CORE</a></li>
+	<li><strong> >> Space Science</strong></li>
+					<li><strong>
+					<a href="http://www.nbi.ku.dk/english/sciencexplorer/the_space/phoenix1/video/">
+					MARS: The&nbsp;Phoenix Mission,&nbsp;PART 1</a></strong></li>
+	<li><strong>
+	<a href="http://www.nbi.ku.dk/english/sciencexplorer/the_space/phoenix2/video/">
+	MARS: The&nbsp;Phoenix Mission,&nbsp;PART 2</a></strong></li>
+	<li><strong>
+	<a href="http://www.nbi.ku.dk/english/sciencexplorer/the_space/phoenix3/video/">
+	MARS: The&nbsp;Phoenix Mission,&nbsp;PART 3</a></strong></li>
+	<li>
+	<a href="http://www.nbi.ku.dk/english/sciencexplorer/the_space/our_cosmic_roots/video/">Our cosmic roots</a></li>
+	<li><strong>>> Lectures</strong></li>
+	<li><strong>
+	<a href="http://www.nbi.ku.dk/english/sciencexplorer/lectures/invisibility_cloak/video/">
+	&quot;Invisibility Cloak&quot; by professor Sir John Pendry</a></strong></li>
+	<li><strong>>> Study physics</strong></li>
+	<li><strong>
+	<a href="http://www.nbi.ku.dk/english/sciencexplorer/study_physics/first_class_physics/video/">
+	EDUCATION: FIRST CLASS PHYSICS</a></strong></li>
+	<li><a href="http://www.science.ku.dk/english/education/video/">Studying at Copenhagen University</a></li>
+		
+				</ul>
+				</div>
+				</div>
+				</li>
+			</ul>
+			</div>
+			</td>
+			<td align="right" style="width: 235px;">
+			<div class="nav">
+			<ul>
+				<li class="button">
+				<div class="parent one">
+				<a href="http://www.nbi.ku.dk/#" onclick="return false">Research groups: HOMEPAGES</a> 
+				<div class="dropdown">
+				<ul>
+					<li><strong> >> Astronomi</strong></li>
+					<li><a href="http://dark.nbi.ku.dk/">Dark Cosmology Centre</a></li>
+					<li><a href="http://astrophysics.nbi.ku.dk/">Astrophysics & Planetary Science</a></li>
+
+
+					<li><a href="http://www.nbi.ku.dk/forskningsgrupper/mars/english/">Mars Group</a></li>
+					<li><a href="http://space.ku.dk/">KU Space Science Center</a></li>
+					<li><strong> >> Geophysics and Climate</strong></li>
+					<li><a href="http://www.iceandclimate.nbi.ku.dk/">Ice and Climate</a></li>
+					<li><a href="http://recap.nbi.ku.dk/">RECAP</a></li>					
+					<li><a href="http://www.nbi.ku.dk/forskningsgrupper/Meteorologi_Oceanografi_og_Geodaesi/english/">Meteorology, Oceanography og Geodesy</a></li>
+
+					<li><strong> >> Particle Physics</strong></li>
+					<li><a href="http://discoverycenter.dk/">Center for particle physics - DISCOVERY</a></li>
+					<li><a href="http://www.nbi.dk/hehi/">Experimental particle physics - ALICE</a></li>
+					<li><a href="http://hep.nbi.dk/">Experimental particle physics - ATLAS</a></li>
+					<li><a href="http://het.nbi.dk/">Theoretical particle physics and Cosmology</a></li>
+					<li><a href="http://www.nbia.dk/">Niels Bohr International Academy</a></li>		
+					<li><a href="http://icecube.nbi.dk/">IceCube</a></li>												
+					<li><strong> >> Quantum Physics</strong></li>
+					<li><a href="http://www.nbi.ku.dk/forskningsgrupper/kvanteoptik/english/">Quantop Optics</a></li>
+					<li><a href="http://quantum-photonics.nbi.ku.dk/">Quantum Photonics</a></li>	
+					<li><a href="http://qdev.nbi.ku.dk/">Center for Quantum Devices</a></li>	
+					<li><a href="http://cms.ku.dk/nat-sites/nbi-sites/ultracold_atoms/">Ultracold Atoms</a></li>
+					<li><a href="http://xns.nbi.ku.dk/">X-Ray and Neutron Science</a></li>						
+					<li><strong> >> Biophysics</strong></li>
+					<li><a href="http://www.cmol.nbi.dk/">Center for Models of Life</a></li>
+					<li><a href="http://www.nbi.ku.dk/english/research/biophysics/Complex_Systems/">Complex Systems</a></li>
+					<li><a href="http://www.nbi.dk/~tweezer/">Optical Tweezers</a></li>
+					<li><a href="http://www.membranes.nbi.dk/">Biophysical Membranes</a></li>
+					<li><strong> >> Condensed Matter Physics</strong></li>
+					<li><a href="http://nano.ku.dk/english">Nano-Science Center</a></li>
+					<li><a href="http://qdev.nbi.ku.dk/">Center for Quantum Devices</a></li>
+					<li><a href="http://nano.ku.dk/english/research/nanostructure/">Neutron and X-RayScattering</a></li>
+
+					<li><a href="http://cmt.nbi.ku.dk/">Condensed Matter Theory</a></li>															
+					<li><a href="http://danscatt.ku.dk/">DanScatt</a></li>					
+			
+				</ul>
+				</div>
+				</div>
+				</li>
+			</ul>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+
+The dynamic research at the Niels Bohr Institute spans
+<a href="http://www.nbi.ku.dk/english/research/Astronomy/">Astronomy</a>, 
+<a href="http://www.nbi.ku.dk/english/research/Geophysics/">Geophysics &amp; Climate</a>, 
+<a href="http://www.nbi.ku.dk/english/research/nano-physics/">Nanophysics</a>, 
+<a href="http://www.nbi.ku.dk/english/research/particle-physics/">Particles Physics</a>, 
+<a href="http://www.nbi.ku.dk/english/research/quantum-physics/">Quantum Physics
+</a>and <a href="http://www.nbi.ku.dk/english/research/biophysics/">Biophysics</a>. We explore the smallest sub-atomic particles to stars and planets, gamma rays and distant galaxies in the universe.
+<a href="http://www.nbi.ku.dk/english/sciencexplorer/physics_in_focus/about_the_niels_bohr_institute/video/">
+Watch a film about the research at the institute &gt;&gt;</a><p align=center style="margin-bottom: -8px"><br>
+<object type="application/x-shockwave-flash" data="/english/flash/nbi_ajour_eng.swf" width="505" height="150">
+	<param name="movie" value="/english/flash/nbi_ajour_eng.swf" />
+	<param name="quality" value="high" />
+	<param name="menu" value="false" />
+	<param name="wmode" value="opaque" />
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-store">
+<meta http-equiv="Expires" content="0">
+	<img src="noimg.gif" width="1" height="1" alt="" /> 
+</object>
+<br>
+<a href="http://www.nbi.ku.dk/english/news/">&lt;&lt; View all News &gt;&gt;</a>&nbsp; <a href="http://www.nbi.ku.dk/english/namely_names/">&lt;&lt; 
+View all Namely Names&nbsp; &gt;&gt;</a></p>
+
+
+
+<p align="center" style="margin-top: 15px; margin-bottom: -3px;">
+
+
+
+<object type="application/x-shockwave-flash" data="/english/sciencexplorer/flash_reklame_forside/flash_reklame_sciencexplorer_forside_eng.swf" width="505" height="134">
+	<param name="movie" value="/english/sciencexplorer/flash_reklame_forside/flash_reklame_sciencexplorer_forside_eng.swf" />
+	<param name="quality" value="high" />
+	<param name="menu" value="false" />
+	<param name="wmode" value="opaque" />
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-store">
+<meta http-equiv="Expires" content="0">
+	<img src="noimg.gif" width="1" height="1" alt="" /> 
+</object>
+
+
+<br><a href="http://www.nbi.ku.dk/english/sciencexplorer/"> << Films and Lectures on research at the Niels Bohr Institute >> </a>
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<div id="col-left">
+        <div class="rightbox-normal freetext">
+
+<h1>Visitors and Newcomers</h1>
+<a href="http://www.nbi.ku.dk/english/for_guests/"><img src="/english/fritekstbokse_uk/forsidebokse/newcomers/newcomers235.jpg" style="margin-top: -13px; border-width: 0px;" alt="" /><br />
+View information for Newcomers &gt;&gt;</a> 
+
+
+
+
+</div>
+
+
+</div>
+<div id="col-mid">
+        <div class="rightbox-normal freetext">
+
+<h1>Niels Bohr Institute Facebooksite</h1>
+<p><a href="http://www.facebook.com/pages/Niels-Bohr-Institutet/144815965569910"><img src="/fritekstbokse/facebook/fc_logo/facebook235-2.jpg" style="margin-top: -10px;" /><br />Visit&nbsp;Niels Bohr institute&nbsp;facebooksite &gt;&gt;</a></p>
+
+
+
+</div>
+
+
+</div>
+  <div id="banners-3col">
+    
+<div class="banner banner-1">
+    <a href="http://www.nbi.ku.dk/english/www/" title="History of Science and the Niels Bohr Institute"><img class="banner" src="/english/bannere/history/banner_historie_eng.jpg?size=160x55" alt="History of Science and the Niels Bohr Institute" width="160" height="55" /></a>
+</div>
+
+
+    
+<div class="banner banner-2">
+    <a href="http://www.nbi.ku.dk/Besoeg_os/Niels_Bohr_Lectures/" title="Niels Bohr Lectures"><img class="banner" src="/Bannere/nb_lectures/NB_LECTURES_banner160.jpg?size=160x55" alt="Niels Bohr Lectures" width="160" height="55" /></a>
+</div>
+
+
+    
+<div class="banner banner-3">
+    <a href="http://www.nbi.ku.dk/english/research/phd_theses/" title="PhD theses 2014 by the Niels Bohr Institute"><img class="banner" src="/Bannere/phd_theses_2009/banner2013.jpg/banner2014.jpg?size=160x55" alt="PhD theses 2014 by the Niels Bohr Institute" width="160" height="55" /></a>
+</div>
+
+
+  </div>
+
+
+
+
+<!--</div>-->
+<br style="clear: both" />
+<!--</div>-->
+
+
+
+
+
+<br style="clear: both;" />
+</div> <!-- end content -->
+</div> <!-- end content-wrapper -->
+
+<div id="nav-sub">
+    <a name="a_nav-sub" id="a_nav-sub"></a>
+    <h1><span lang="da">Oversigt</span> / <span lang="en">Site navigation</span></h1>
+    <ul class="first">
+        <li >
+<a href="/english/home/">Home</a>
+
+    </li>
+        <li >
+<a href="/english/about/">The institute</a>
+
+    </li>
+        <li >
+<a href="/english/staff/">Staff</a>
+
+    </li>
+        <li >
+<a href="/english/research/">Research</a>
+
+    </li>
+        <li >
+<a href="/english/library/">Library</a>
+
+    </li>
+        <li >
+<a href="/english/study_programmes/">Study</a>
+
+    </li>
+        <li >
+<a href="/english/press_and_media/">Press & Media</a>
+
+    </li>
+        <li >
+<a href="/english/meet_us/">Meet us</a>
+
+    </li>
+        <li >
+<a href="/english/contact/">Contact us</a>
+
+    </li>
+        <li >
+<a href="/english/for_guests/">Visitors and Newcomers</a>
+
+    </li>
+    </ul>
+    <ul>
+    <li><a href="http://www.nbi.ku.dk/english/news/">News</a></li>
+<li><a href="http://www.nbi.ku.dk/english/namely_names/">Namely Names</a></li>
+<li><a href="http://www.nbi.ku.dk/english/www/">Who, What, When</a></li>
+<li><a href="http://www.nbi.ku.dk/english/sciencexplorer/">TV: ScienceXplorer</a></li>
+<li><a href="http://www.nbi.ku.dk/jobs/">Jobs</a></li>
+    </ul>
+
+</div> <!-- end nav-sub -->
+
+	<div id="sidebar">
+		<a name="a_sidebar" id="a_sidebar"></a>
+		<h1 class="hide"><span lang="da">Ekstra information</span> / <span lang="en">Sidebar</span></h1>
+<div class="right">
+    <div class="container-right">
+    
+
+    <div class="rightbox-normal freetext">
+
+<h1>RSS: What's happening at NBI</h1>
+<table border="0" cellpadding="0" cellspacing="0" style="margin-top: -10px; width: 100%; margin-bottom: 0px;">
+<tbody>
+<tr>
+<td>
+<div>
+<div class="nav" style="position: absolute;">
+<ul>
+<li class="button">
+<div class="parent one"><a href="/fritekstbokse/alle_rss-feeds/" onclick="return false">The Niels Bohr Institute RSS-feeds...</a>
+<div class="dropdown">
+<ul>
+<li><a href="/english/news/?get_rss=1">News in english</a></li>
+<li><a href="/english/namely_names/?get_rss=1">Namely Names</a></li>
+<li><a href="/english/sciencexplorer/all_films/?get_rss=1">ScienceXplorer: Films on Science</a></li>
+<li><a href="/english/Calendar/?get_rss=1">Calendar: NBI events</a></li>
+<li><a href="/Jobs/?get_rss=1">Jobs at NBI</a></li>
+<li><a href="/nbi_update/?get_rss=1">NBI Update</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+</div>
+
+    <div class="rightbox-normal news">
+
+<h1>News</h1>
+
+<ul class="stripped">
+
+	<li>
+    <h2><a href="/english/news/news14/stream-of-stars-in-andromeda-satellite-galaxy-shows-cosmic-collision/">Stream of stars in Andromeda satellite galaxy shows cosmic collision</a></h2>
+
+	<ul class="stripped">
+    <li class="news-date">23-02-2014</li>
+    <li class="news-teaser"><a href="/english/news/news14/stream-of-stars-in-andromeda-satellite-galaxy-shows-cosmic-collision/"><img alt="Stream of stars in Andromeda satellite galaxy shows cosmic collision" src="/english/news/news14/stream-of-stars-in-andromeda-satellite-galaxy-shows-cosmic-collision/galakse_small.jpg" style="float: left; margin-top: 5px; margin-bottom: 0px; margin-left: 0px; margin-right: 10px;" title="Stream of stars in Andromeda satellite galaxy shows cosmic collision" /></a>The Andromeda Galaxy is surrounded by a swarm of small satellite galaxies. Researchers from NBI, among others, have detected a stream of stars in one of the Galaxy&rsquo;s outer satellite galaxies, called Andromeda II.
+
+
+    <a href="/english/news/news14/stream-of-stars-in-andromeda-satellite-galaxy-shows-cosmic-collision/" title="Read more:  'Stream of stars in Andromeda satellite galaxy shows cosmic collision'"> &hellip; <strong>&raquo;</strong></a></li>
+	</ul>
+</li>
+	<li>
+    <h2><a href="/english/news/news14/first-images-of-a-star-cluster-from-the-gaia-satellite/">First images of star cluster from the Gaia Satellite</a></h2>
+
+	<ul class="stripped">
+    <li class="news-date">07-02-2014</li>
+    <li class="news-teaser"><a href="/english/news/news14/first-images-of-a-star-cluster-from-the-gaia-satellite/"><img alt="First images of star cluster from the Gaia Satellite" src="/english/news/news14/first-images-of-a-star-cluster-from-the-gaia-satellite/stjernehob_small.jpg" style="float: left; margin-top: 5px; margin-bottom: 0px; margin-left: 0px; margin-right: 10px;" title="First images of star cluster from the Gaia Satellite" /></a>The Gaia Satellite has already sent its first images down to Earth approximately 40 days after its launch on the 19th of December. They show a dense collection of stars in the Large Magellanic Cloud at a distance of 170,000 light years.
+
+
+    <a href="/english/news/news14/first-images-of-a-star-cluster-from-the-gaia-satellite/" title="Read more:  'First images of star cluster from the Gaia Satellite'"> &hellip; <strong>&raquo;</strong></a></li>
+	</ul>
+</li>
+</ul>
+
+
+<p class="readAll"><a href="/english/news/">Read all</a></p>
+
+</div>
+
+    <div class="rightbox-normal news">
+
+<h1>Namely Names</h1>
+
+<ul class="stripped">
+
+	<li>
+    <h2><a href="/english/namely_names/2014/mars-research-receives-fnu-grant/">Mars research receives FNU grant </a></h2>
+
+	<ul class="stripped">
+    <li class="news-date">13-02-2014</li>
+    <li class="news-teaser"><a href="/english/namely_names/2014/mars-research-receives-fnu-grant/"><img alt="Mars research receives FNU grant " src="/english/namely_names/2014/mars-research-receives-fnu-grant/morten_bo_small.jpg" style="float: left; margin-top: 5px; margin-bottom: 0px; margin-left: 0px; margin-right: 10px;" title="Mars research receives FNU grant " /></a>Morten Bo Madsen, who leads the Mars Group in Astrophysics and Science at the Niels Bohr Institute, has received a grant of just over 3.8 million kroner from FNU, the Danish Council for Independent Research | Natural Sciences.
+
+
+    <a href="/english/namely_names/2014/mars-research-receives-fnu-grant/" title="Read more:  'Mars research receives FNU grant '"> &hellip; <strong>&raquo;</strong></a></li>
+	</ul>
+</li>
+	<li>
+    <h2><a href="/english/namely_names/2014/bo-vinther-receives-7-million-kroner-from-the-research-council-for-ice-core-research/">Bo Vinther receives 7 million kroner from the Research Council for ice core research</a></h2>
+
+	<ul class="stripped">
+    <li class="news-date">06-02-2014</li>
+    <li class="news-teaser"><a href="/english/namely_names/2014/bo-vinther-receives-7-million-kroner-from-the-research-council-for-ice-core-research/"><img alt="Bo Vinther receives 7 million kroner from the Research Council for ice core research" src="/english/namely_names/2014/bo-vinther-receives-7-million-kroner-from-the-research-council-for-ice-core-research/bo_small.jpg" style="float: left; margin-top: 5px; margin-bottom: 0px; margin-left: 0px; margin-right: 10px;" title="Bo Vinther receives 7 million kroner from the Research Council for ice core research" /></a>Bo Vinther, associate professor in the research group Ice and Climate at the Niels Bohr Institute, has received a Sapere Aude grant of 7 million kroner from the Danish Council for Independent Research.
+
+
+    <a href="/english/namely_names/2014/bo-vinther-receives-7-million-kroner-from-the-research-council-for-ice-core-research/" title="Read more:  'Bo Vinther receives 7 million kroner from the Research Council for ice core research'"> &hellip; <strong>&raquo;</strong></a></li>
+	</ul>
+</li>
+</ul>
+
+
+<p class="readAll"><a href="/english/namely_names/">Read all</a></p>
+
+</div>
+
+    <div class="rightbox-normal calendar">
+
+<h1>2014 events at NBI</h1>
+<ul class="stripped">
+<li>
+    <h2><a href="/english/Calendar/activities_14/nbiacolloquiumbarthelmy28_2_14/">NBIA Colloquium by Marc Barth&#233;l&#233;my</a></h2>
+	<ul class="stripped">
+    <li class="event-date">28-02-2014</li>
+    <li class="event-teaser"><p>How cities develop: a physicist's perspective</p>
+
+
+    <a href="/english/Calendar/activities_14/nbiacolloquiumbarthelmy28_2_14/" title="Details on:  'NBIA Colloquium by Marc Barth&#233;l&#233;my'">&hellip; <strong>&raquo;</strong></a></li>
+	</ul>
+</li>
+<li>
+    <h2><a href="/english/Calendar/activities_14/yde/">PhD Defense by Pernille Yde</a></h2>
+	<ul class="stripped">
+    <li class="event-date">28-02-2014</li>
+    <li class="event-teaser"><p>Spatial Structures and Regulation in Biological systems</p>
+
+
+    <a href="/english/Calendar/activities_14/yde/" title="Details on:  'PhD Defense by Pernille Yde'">&hellip; <strong>&raquo;</strong></a></li>
+	</ul>
+</li>
+</ul>
+<p class="readAll"><a href="/english/Calendar/activities_14/">All events</a></p>
+
+</div>
+
+    </div>
+</div> <!-- end right div -->
+
+
+	</div>
+	<!-- End sidebar -->
+
+
+<!-- Sidefod start -->
+<div id="footer">
+	<a name="a_footer" id="a_footer"></a>
+	<h1><span lang="da">Kolofon</span> / <span lang="en">Footer</span></h1>
+    <div id="footer-col-left">
+	<address>
+            <a href="http://cms.ku.dk/nat-sites/nbi-sites/nbi/english/public_outreach/">Niels Bohr Institute</a><br />
+            <a href="http://www.ku.dk/english">University of Copenhagen</a><br />
+            Blegdamsvej 17</br>2100 Copenhagen
+        <br />
+	</address>
+    </div>
+    <!-- End footer-col-left -->
+    <br style="display: none;" />
+    <div id="footer-col-right">
+            Contact:
+	<address>
+            Receptionen<br />
+            
+<a href="#" onclick="this.href= 'mai' + 'lto:' + 'reception-blegdamsvej' + '@' + 'nbi.dk' ; return true;">reception-blegdamsvej<!-- @@@ -->&#64;<!-- @@@ -->nbi<!-- nospam -->.<!-- nomorespam -->dk</a><br />
+            Tel. +45 35 32 52 09<br />
+        </address>
+    </div>
+    <!-- End footer-col-right -->
+	<br style="clear: both" />
+</div>
+<!-- Sidefod slut -->
+
+
+
+
+
+
+<div id="perm_cookie_box" class="english">
+    <a href="http://introduction.ku.dk/cookies-and-privacy-policy/"><span>Cookies and privacy policy</span><img src="http://cms.ku.dk/grafik/cookies/cookies_link_top_uk.png" alt="" /></a>
+</div>
+
+</div>
+<script src="https://connect.facebook.net/da_DK/all.js#xfbml=1"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+$('div#content').append('<fb:like href="" send="true" width="505" show_faces="false" font="verdana"></fb:like>');
+});
+</script>
+
+
+
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=3160,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.astro-udec.cl/>====================
+<html>
+<head>
+<META HTTP-EQUIV="Refresh" CONTENT="3; URL=http://www.astroudec.cl/"
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.lycoming.edu/astronomy/>====================
+    
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    <head><title>
+	Astronomy - Lycoming College
+</title><link href="../_files/styles/lyco2.css" rel="stylesheet" type="text/css" /><link href="../_files/styles/lycoPrint.css" media="print" rel="stylesheet" type="text/css" /><link href="../_files/scripts/shadowbox-3.0.3/shadowbox.css" rel="stylesheet" type="text/css" /><link href="../_files/images/favicon.ico" rel="shortcut icon" type="image/png" />
+        <script src="../_files/scripts/AC_RunActiveContent.js" type="text/javascript" ></script>
+        <script src="../_files/scripts/jquery-1.7.1.min.js" type="text/javascript" ></script>
+        <script src="../_files/scripts/jquery.hoverIntent.min.js" type="text/javascript" ></script>
+        <script src="../_files/scripts/jquery.easing.1.3.js" type="text/javascript" ></script>
+        <script src="../_files/scripts/jquery.listColumns.js" type="text/javascript" ></script>
+        <script src="../_files/scripts/jquery.url.js" type="text/javascript" ></script>
+        <script src="../_files/scripts/shadowbox-3.0.3/shadowbox.js" type="text/javascript" ></script>
+        <script src="../_files/scripts/selectivizr.js" type="text/javascript" ></script>
+        <script src="../_files/scripts/ui.js" type="text/javascript" ></script>
+        <script src="../_files/scripts/googleAnalytics.js" type="text/javascript" ></script>
+        <script src="http://www.google.com/jsapi" type="text/javascript" ></script>
+        <script src="../_files/scripts/googleSearch.js" type="text/javascript" ></script>
+    </head>
+    <body>
+        <form name="form1" method="post" action="default.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjA3NTIzNzczZGQBiPElQhbsYgc+f+f7N5DaJprvLw==" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+</div>
+            <div id="wrap">        
+                <div id="headerWrap">
+                    <div id="header">
+                        <div id="lycoTitle"><a href="/" style="display: block; width: 100%; height: 100%" ></a></div>
+                        <div class="im_first" id="globalNav">
+                        <ul>
+                            <li><a href="http://mylyco.lycoming.edu">myLyco</a></li>
+                            <li><a href="http://www.lycoming.edu/admissions/infoAndVisitRequest.aspx">Request Info</a></li>
+                            <li><a href="../search/Default.aspx">Directories</a></li>
+                        </ul>
+                        
+                            <div id="pnlglobalSearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'btnSearch')">
+	
+                                <input name="txtQuery" type="text" id="txtQuery" type="text" />
+                                <input type="submit" name="btnSearch" value="" id="btnSearch" value="" />
+                            
+</div>
+                        
+                    </div> 
+                        <div class="clear" ></div>
+                        <ul id="audience">
+                        <li><a class="audience" href="../admissions/default.aspx">Admissions</a>
+                            <div class="dropDown" style="width: 500px; float: left;">
+                                <div style="width: 300px; float: left;">
+                                    <h2>Admissions</h2>
+                                    <ul style="width: 150px;">    
+                                        <li><a class="audienceSub" href="../admissions/howToApply/default.aspx">How to Apply</a></li>
+                                        <li><a class="audienceSub" href="../admissions/acceptedStudents.aspx">Accepted Students</a></li>
+                                        <li><a class="audienceSub" href="../admissions/parents.aspx">For Parents</a></li>
+                                        <li><a class="audienceSub" href="../admissions/ourCampus/default.aspx">Visit Campus</a></li>
+                                    </ul>
+                                    <ul style="width: 150px;">            
+                                        <li><a class="audienceSub" href="../financialAid/default.aspx">Financial Aid</a></li>
+                                        <li><a class="audienceSub" href="http://www.lycoming.edu/admissions/requestInfo.aspx">Request Information</a></li>
+                                        <li><a class="audienceSub" href="../admissions/lycomingFAQ.aspx">Lycoming FAQ</a></li>
+                                    </ul>                
+                                    <div class="clear" ></div>        
+                                </div>
+                                <div style="width: 200px; float: left;">
+                                    <h2>Student Life</h2>
+                                    <ul style="width: 200px;">
+                                        <li><a class="audienceSub" href="../studentPrograms/clubs.aspx">Clubs &amp; Organizations</a></li>  
+                                        <li><a class="audienceSub" href="../studentPrograms/fraternity.aspx">Fraternity &amp; Sorority Life</a></li>
+                                        <li><a class="audienceSub" href="../studentPrograms/leadership.aspx">Leadership Development</a></li>
+                                        <li><a class="audienceSub" href="http://www.lycoming.edu/residentialLife/residences/default.aspx">Campus Housing</a></li>      
+                                    </ul>
+                                </div>
+                                <div class="clear" ></div>
+                                <div style="margin: 10px 0; height: 1px; border-top: 1px dashed #CCC;" ></div>
+                                <div style="width: 300px; float: left;"><a class="GrayButton" href="../admissions/default.aspx">View All</a></div>
+                                <div style="width: 200px; float: right;"><a class="GreenButton" href="http://www.lycoming.edu/admissions/howToApply/onlineApplication.aspx">Apply Now!</a></div>
+                            </div>          
+                        </li>
+                        <li><a class="audience" href="../studentLife/default.aspx">Student Life</a>
+                            <div class="dropDown" style="width: 525px; float: left;">
+                                <div style="width: 175px; float: left;">
+                                    <h2>Academic Services</h2>
+                                    <ul style="width: 175px;">    
+                                        <li><a class="audienceSub" href="../academicResourceCenter/default.aspx">Academic Resource Center</a></li>
+                                        <li><a class="audienceSub" href="../catalog/default.aspx">College Catalog</a></li>
+                                        <li><a class="audienceSub" href="http://lycoapp01.lycoming.edu/WebAdvisor/WebAdvisor?&amp;CONSTITUENCY=WBCE&amp;type=P&amp;pid=ST-XWESTS12A" target="_blank">Course Schedule</a></li>
+                                        <li><a class="audienceSub" href="http://www.lycoming.edu/library/index.aspx">Library</a></li>
+                                        <li><a class="audienceSub" href="../registrar/default.aspx">Registrar</a></li>
+                                    </ul>
+                                </div>
+                                <div style="width: 175px; float: left;">
+                                    <h2>Student Services</h2>
+                                    <ul style="width: 175px;">    
+                                        <li><a class="audienceSub" href="../residentialLife/default.aspx">Residential Life</a></li>
+                                        <li><a class="audienceSub" href="../careerServices/default.aspx">Career Services</a></li>
+                                        <li><a class="audienceSub" href="../counseling/default.aspx">Counseling Services</a></li>
+                                        <li><a class="audienceSub" href="../healthServices/default.aspx">Health Services</a></li>
+                                        <li><a class="audienceSub" href="../safetyAndSecurity/default.aspx">Safety &amp; Security</a></li>
+                                    </ul>
+                                </div>
+                                <div style="width: 175px; float: left;">
+                                    <h2>Related Pages</h2>
+                                    <ul style="width: 175px;">
+                                        <li><a class="audienceSub" href="http://athletics.lycoming.edu">Athletics</a></li>  
+                                        <li><a class="audienceSub" href="../studentPrograms/fraternity.aspx">Fraternity &amp; Sorority Life</a></li>
+                                        <li><a class="audienceSub" href="../studentPrograms/leadership.aspx">Leadership Development</a></li>
+                                        <li><a class="audienceSub" href="../studentPrograms/clubs.aspx">Clubs &amp; Organizations</a></li>  
+                                        <li><a class="audienceSub" href="http://www.lycoming.edu/recreationAndIntramurals/default.aspx">Recreation &amp; Intramurals</a></li>       
+                                        <li><a class="audienceSub" href="../unitedCampusMinistry/default.aspx">Campus Ministry</a></li>      
+                                    </ul>
+                                </div>
+                                <div class="clear" ></div>
+                                <div style="margin: 10px 0; height: 1px; border-top: 1px dashed #CCC;" ></div>
+                                <a href="http://webadvisor.lycoming.edu" style="background: none; padding: 0; float: right;" target="_blank"><img alt="WebAdvisor" src="../_files/images/webAdvisorStudent5.png" /></a>
+                                <a href="http://mail.lycoming.edu" style="background: none; padding: 0; float: right; margin-right:10px;" target="_blank"><img alt="Oulook Web App" src="../_files/images/outlook.png" /></a>
+                                <a href="http://moodle.lycoming.edu" style="background: none; padding: 0; float: right; margin-right:10px;" target="_blank"><img alt="Moodle" src="../_files/images/moodle.png" /></a>
+                                <a class="GrayButton" href="../studentLife/default.aspx">View All</a>
+                            </div>                       
+                        </li>
+                        <li><a class="audience" href="../aboutLycoming/default.aspx">About Lycoming</a>
+                            <div class="dropDown" style="width: 300px; float: left;">
+                                <div style="width: 300px; float: left;">
+                                    <h2>About Lycoming</h2>
+                                    <ul style="width: 175px;">    
+                                        <li><a class="audienceSub" href="../aboutLycoming/history.aspx">Lycoming College History</a></li>
+                                        <li><a class="audienceSub" href="../aboutLycoming/mission.aspx">Mission</a></li>
+                                        <li><a class="audienceSub" href="../aboutLycoming/magazine/Default.aspx">Lycoming Magazine</a></li>
+                                        <li><a class="audienceSub" href="../aboutLycoming/williamsport.aspx">Williamsport &amp; the Area</a></li>
+                                    </ul>
+                                    <ul style="width: 125px;">            
+                                        <li><a class="audienceSub" href="../virtualTour/default.aspx">Virtual Tour</a></li>
+                                        <li><a class="audienceSub" href="../admissions/ourCampus/campusMap.aspx">Map &amp; Directions</a></li>
+                                    </ul>                
+                                    <div class="clear" ></div>        
+                                </div>
+                                <div class="clear" ></div>
+                                <div style="margin: 10px 0; height: 1px; border-top: 1px dashed #CCC;" ></div>
+                                <div style="width: 175px; float: left;"><a class="GrayButton" href="../aboutLycoming/default.aspx">View All</a></div>
+                            </div>      
+                        </li>
+                        <li><a class="audience" href="../academics/default.aspx">Academics</a>
+                            <div class="dropDown" style="width: 400px; float: left; margin-left: -185px;">
+                                <div style="width: 200px; float: left;">
+                                    <h2>Academics</h2>
+                                    <ul style="width: 200px;">    
+                                        <li><a class="audienceSub" href="../academics/default.aspx">Majors, Minors &amp; Programs</a></li>
+                                        <li><a class="audienceSub" href="http://www.lycoming.edu/cwi/default.aspx">Clean Water Institute</a></li>
+                                        <li><a class="audienceSub" href="../careerServices/studyAbroad/default.aspx">International Study</a></li>
+                                        <li><a class="audienceSub" href="../careerServices/internships/default.aspx">Internship Opportunities</a></li>
+                                        <li><a class="audienceSub" href="../ims/default.aspx">Institute for Management Studies</a></li>
+                                        <li><a class="audienceSub" href="../scholarsProgram/default.aspx">Lycoming Scholars Program</a></li>
+                                        <li><a class="audienceSub" href="../catalog/military.aspx">Military Science(ROTC)</a></li>
+                                    </ul>
+                                </div>
+                                <div style="width: 200px; float: left;">
+                                    <h2>Related Pages</h2>
+                                    <ul style="width: 200px;">
+                                        <li><a class="audienceSub" href="../catalog/default.aspx">College Catalog</a></li>
+                                        <li><a class="audienceSub" href="http://www.lycoming.edu/library/index.aspx">Library</a></li>
+                                        <li><a class="audienceSub" href="../provost/default.aspx">Provosts Office</a></li>
+                                        <li><a class="audienceSub" href="../registrar/default.aspx">Registrar</a></li>
+                                        <li><a class="audienceSub" href="../teachingEffectiveness/default.aspx">Teaching Effectiveness</a></li>
+                                        <li><a class="audienceSub" href="../its/default.aspx">Technology Services</a></li>
+                                    </ul>
+                                </div>
+                                <div class="clear" ></div>
+                                <div style="margin: 10px 0; height: 1px; border-top: 1px dashed #CCC;" ></div>
+                                <a class="GrayButton" href="../academics/default.aspx">View All</a>
+                            </div>  
+                        </li>
+                        
+                        
+                        
+                        
+                        
+                        <li><a class="audience" href="../calendar/default.aspx">Events</a>
+                            <div class="dropDown" style="width: 200px; float: left;">
+                                <div style="width: 200px; float: left;">
+                                    <h2>Events</h2>
+                                    <ul style="width: 200px;">  
+                                        <li><a href="http://www.lycoming.edu/calendar/calendar.aspx?id=1">All Public Events</a></li>
+                                        <li><a href="http://www.lycoming.edu/calendar/calendar.aspx?id=2">Academic/Administrative Calendar</a></li>
+                                        <li><a href="http://www.lycoming.edu/calendar/calendar.aspx?id=3">Admissions Calendar</a></li>
+                                        <li><a href="http://www.lycoming.edu/calendar/calendar.aspx?id=4">Alumni Events Calendar</a></li>
+                                        <li><a href="http://www.lycoming.edu/calendar/calendar.aspx?id=5">Arts @ Lycoming</a></li>
+                                        <li><a href="http://www.lycoming.edu/calendar/calendar.aspx?id=6">Athletics Calendar</a></li>
+                                        <li><a href="http://www.lycoming.edu/calendar/calendar.aspx?id=7">Student Life Calendar</a></li>
+                                    </ul>
+                                </div>
+                                <div class="clear" ></div>
+                                <div style="margin: 10px 0; height: 1px; border-top: 1px dashed #CCC;" ></div>
+                                <a class="GrayButton" href="../calendar/default.aspx">View All</a>
+                            </div>                       
+                        </li>
+                        
+                        
+                        <li><a class="audience" href="../alumni/default.aspx">Alumni</a>
+                            <div class="dropDown" style="width: 200px; float: left;">
+                                <div style="width: 200px; float: left;">
+                                    <h2>Alumni</h2>
+                                    <ul style="width: 200px;">    
+                                        <li><a class="audienceSub" href="../alumni/default.aspx">Alumni</a></li>
+                                        <li><a class="audienceSub" href="../alumni/support.aspx">Support Lycoming</a></li>
+                                        <li><a class="audienceSub" href="../publicRelations/default.aspx">Public Relations</a></li>
+                                    </ul>
+                                </div>
+                                <div class="clear" ></div>
+                                <div style="margin: 10px 0; height: 1px; border-top: 1px dashed #CCC;" ></div>
+                                <a class="GrayButton" href="../alumni/default.aspx">View All</a>
+                            </div>                       
+                        </li>
+                        <li><a class="audience" href="../offices/default.aspx">Offices</a>
+                            <div class="dropDown" style="width: 200px; float: left; margin-left: -85px;">
+                                <div style="width: 200px; float: left;">
+                                    <h2>Offices</h2>
+                                    <ul style="width: 200px;">    
+                                        <li><a class="audienceSub" href="../offices/default.aspx">Office Listings</a></li>
+                                        <li><a class="audienceSub" href="../search/Default.aspx">Search/Directories</a></li>      
+                                        <li><a class="audienceSub" href="../studentPrograms/events.aspx">Scheduled Facilities</a></li>      
+                                        <li><a class="audienceSub" href="../humanResources/default.aspx">Employment Opportunities</a></li>      
+                                    </ul>
+                                </div>
+                                <div class="clear" ></div>
+                                <div style="margin: 10px 0; height: 1px; border-top: 1px dashed #CCC;" ></div>
+                                <a class="GrayButton" href="../offices/default.aspx">View All</a>
+                            </div>  
+                        </li>
+                        <li><a class="audience" href="http://athletics.lycoming.edu">Athletics</a>
+                            <div class="dropDown" style="width: 200px; float: left; margin-left: -171px;">
+                                <div style="width: 200px; float: left;">
+                                    <h2>Athletics</h2>
+                                    <ul style="width: 200px;">    
+                                        <li><a class="audienceSub" href="http://athletics.lycoming.edu">Warrior Athletics</a></li>
+                                        <li><a class="audienceSub" href="../recreationAndIntramurals/Default.aspx">Recreation &amp; Intramurals</a></li>      
+                                    </ul>
+                                </div>
+                                <div class="clear" ></div>
+                                <div style="margin: 10px 0; height: 1px; border-top: 1px dashed #CCC;" ></div>
+                                <a class="GrayButton" href="http://athletics.lycoming.edu">View All</a>
+                            </div>                       
+                        </li>
+                    </ul>
+                    </div>
+                </div>                
+                <div id="body">
+                    <div id="navigation"><div id="ctl00_pnlNavigation">
+
+
+
+    
+    
+        
+        
+    <ul id="leftHandNav">
+<li><a href="default.aspx">Astronomy</a></li>
+<li><a href="courses.aspx">Programs &amp; Courses</a></li>
+<li><a href="faculty.aspx">Faculty</a></li>
+<li><a href="news.aspx">In the News</a></li>
+<li><a href="experiences.aspx">Student Experiences</a></li>
+<li><a href="../physics/alumni.aspx" title="Alumni">Graduates</a></li>
+<li><a href="http://whatcanidowiththismajor.com/major/majors/" target="_blank" title="What Can I Do With This Major?">What Can I Do With This Major?</a></li>
+<li><a href="learningGoals.aspx">Learning Goals</a></li>
+<li><a href="facilities.aspx">Facilities</a></li>
+<li><a href="http://www.lycoming.edu/orgs/sps/" target="_blank">Society of Physics Students</a></li>
+<li><a href="/includes/contact.aspx?id=43" rel="shadowbox[Mixed]; width=800; height=450">Contact Us</a></li>
+<li class="header">Related Pages</li>
+<li><a href="/academics/">Other Academic Majors</a></li>
+</ul>
+    
+</div></div>
+                    <div id="information">
+                        <ul id="breadCrumb">
+
+
+
+
+        
+        
+        
+            
+                        <li><a href="/">Home</a></li>              
+                
+        
+             
+        
+        
+        
+                                        <li><a href="../academics/default.aspx">Academics</a></li>                      
+                
+                                <li> Astronomy </li>
+                            
+        
+         </ul>
+                        <div id="addThis">
+                            <div class="addthis_toolbox addthis_default_style ">
+                                <a class="addthis_button_preferred_1" ></a>
+                                <a class="addthis_button_preferred_2" ></a>
+                                <a class="addthis_button_preferred_3" ></a>
+                                <a class="addthis_button_compact" ></a>
+                            </div>    
+                        </div>
+                        <script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+                        <script src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f215ca21130bf67" type="text/javascript" ></script>
+                        
+
+
+
+
+
+
+
+
+
+                    
+                    
+                    
+                    
+                
+
+
+
+            <img alt="Astronomy" class="landingImage" src="images/astronomyMain.jpg" style="cursor: pointer;" />
+    
+
+<h2>Astronomy</h2>
+
+
+<p>Students who graduate from Lycoming College can earn more than just a diploma; they can also walk away with the keys to the universe. The Astronomy and <a href="/physics/">Physics</a> Department offers two majors specifically designed to help students unlock the mysteries of cosmos.</p>
+<p>The Astronomy major trains students in the field of planetarium education and may serve as a basis for state certification as a secondary school teacher of general science. Classes at Lycoming have an emphasis on lab-based instruction and are small enough to give all students an opportunity to receive individual attention.</p>
+<p>"Astronomy and Physics at Lycoming differ from many other institutions because of the emphasis on lab-based instruction," states department member Dr. David Fisher. "It helps students grasp theoretical concepts if they can see them in practice rather than just read about them in a textbook. From their freshman year, we encourage our students to use whatever equipment we have in their areas of interest. It can be very rewarding."</p>
+<p>Classes at Lycoming are small, giving all students an opportunity to receive individual attention. There are three full-time professors, all with doctoral degrees, in the Astronomy &amp; Physics Department and an open-door policy that gives students easy access to them. The lab-based courses, combined with the individualized attention from professors, are a few of the reasons why Rugg's Recommendations on the Colleges rated Lycoming's Astronomy Program "among the top 25 programs in the country."</p>
+
+
+
+    <div class="clear" ></div>
+    <div id="boxesWrap">
+        <div id="boxes">
+            <a href="http://www.lycoming.edu/astronomy/studentProfiles.aspx" target="${box1Target}"><img alt="Lycoming Profiles" class="box" src="../_files/images/boxes/box-LycomingProfiles.jpg" /></a>
+            <a href="http://www.lycoming.edu/aboutLycoming/magazine/" target="${box2Target}"><img alt="Lycoming Magazine" class="box" src="../_files/images/boxes/box-LycomingMagazine.jpg" /></a>
+            <a href="http://www.lycoming.edu/alumni/ourGraduates.aspx" target="${box3Target}"><img alt="Our Alumni" class="box" src="../_files/images/boxes/box-OurAlumni.jpg" /></a>
+            <a href="http://www.lycoming.edu/connect/" target="${box4Target}"><img alt="Social Media" class="box" src="../_files/images/boxes/box-SocialMedia.jpg" /></a>
+            <a href="http://www.lycoming.edu/admissions/ourCampus/directionsToCampus.aspx" target="${box5Target}"><img alt="Directions &amp; Tour" class="box boxLast" src="../_files/images/boxes/box-DirectionsAndTour.jpg" /></a>
+            <div class="clear" ></div>
+        </div>
+    </div>     
+    <div style="height: 175px;" ></div>
+
+                    </div>
+                </div>                 
+                <div class="clear" ></div>     
+            </div>               
+            <div id="footerWrap">
+                <div id="footer">
+                    <div style="width: 650px; float: left;">
+                        <ul class="footerList">
+                            <li><a class="footerListLink" href="http://www.lycoming.edu/calendar/calendar.aspx?id=2">Academic Calendar</a></li>
+                            <li><a class="footerListLink" href="http://www.lycoming.edu/calendar/calendar.aspx?id=5">Arts @ Lycoming</a></li>
+                            <li><a class="footerListLink" href="../admissions/ourCampus/campusMap.aspx">Campus Map</a></li>
+                            <li><a class="footerListLink" href="http://bookstoreonline.lycoming.edu">Campus Store</a></li>
+                            <li><a class="footerListLink" href="http://www.lycoming.edu/courseSchedule/">Course Schedule</a></li>
+                        </ul>
+                        <ul class="footerList">
+                            <li><a class="footerListLink" href="../financialAid/default.aspx">Financial Aid</a></li>
+                            <li><a class="footerListLink" href="../inclementWeather/default.aspx">Inclement Weather</a></li>
+                            <li><a class="footerListLink" href="../its/default.aspx">Information Technology</a></li>
+                            <li><a class="footerListLink" href="../humanResources/default.aspx">Job Openings</a></li>
+                            <li><a class="footerListLink" href="http://www.lycoming.edu/library/index.aspx">Library</a></li>
+                        </ul>
+                        <ul class="footerList">
+                            <li><a class="footerListLink" href="../aboutLycoming/magazine/Default.aspx">Lycoming Magazine</a></li>
+                            <li><a class="footerListLink" href="../registrar/default.aspx">Registrar</a></li>
+                            <li><a class="footerListLink" href="../search/Default.aspx">Search/Directories</a></li>
+                            <li><a class="footerListLink" href="../admissions/ourCampus/default.aspx">Visit Lycoming</a></li>   
+                        </ul>
+
+                        <ul id="footerLinks">
+                            <li><a href="http://www.lycoming.edu/admissions/howToApply/onlineApplication.aspx">Apply Now</a></li>
+                            <li><a href="../virtualTour/default.aspx">Virtual Tour</a></li>
+                            <li><a href="https://lycoming.thankyou4caring.org/">Make a Gift</a></li>
+                            <li><a href="http://www.lycoming.edu/connect/default.aspx">Stay Connected</a></li>
+                        </ul>
+                    </div>
+                    <div style="width: 350px; float: left; background: url('/_files/images/footerSeal.png') 74px 5px no-repeat; ">
+                        <h3 style="text-align: right; font-family: Times New Roman; color: #FFF;">Lycoming College</h3>
+                        <p>700 College Place</p>
+                        <p>Williamsport, PA 17701</p>
+                        <p>(570) 321-4000</p>
+                        <p><a href="mailto:webmaster@lycoming.edu">webmaster@lycoming.edu</a></p>
+                        <p style="color: #8e8e8e; margin: 10px 0 0 0;">Copyright &#169; 2011 Lycoming College</p>
+
+                        <ul id="footerSocial">
+                            <li><a href="http://www.facebook.com/lycoming" target="_blank"><img src="../_files/images/iconFacebook30Footer.png" /></a></li>
+                            <li><a href="http://twitter.com/lycomingcollege/" target="_blank"><img src="../_files/images/iconTwitter30Footer.png" /></a></li> 
+                            <li><a href="http://www.youtube.com/lycomingcollege/" target="_blank"><img src="../_files/images/iconYoutube30Footer.png" /></a></li>
+                            <li><a href="http://www.lycoming.edu/rss/"><img src="../_files/images/iconRss30Footer.png" /></a></li>
+                        </ul>
+                    </div>
+                </div>            
+            </div>
+        
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=RIhuFdrmooJxjf-Jo_nK2ZmGezolI48hmfly5enviTEYV8kHtNcStl0I4wGMntG4rfgJP3KZZ6Tx_bJeSWInQWhBiLE1&amp;t=634604245351482412" type="text/javascript"></script>
+</form>
+    </body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++

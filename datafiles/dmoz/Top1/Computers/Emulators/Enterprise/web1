@@ -1,0 +1,1100 @@
+====================<http://enter.emuunlim.com/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>enterprise emulator!</TITLE>
+<META content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+<META content="zilog,z80,enterprise 128,ep128,ep 128,exosworm,exos" 
+name="keywords">
+<link rel="stylesheet" type="text/css" href="enter.css">
+<BODY>
+<CENTER>
+<!-- FASTCLICK.COM v1.2 for emuunlim.com -->
+<script language="Javascript"><!--
+{var a=b=c=d=e=h=i=j=l=n=p=s=t=u=v=w=x=y=z=dc='';
+var id=o=k=f=0;  var jar=new Date(); var f=jar.getSeconds() * jar.getMinutes();dc=document;  n=navigator;  v=parseFloat(n.appVersion);  e=escape(dc.referrer);dc.cookie='mc=y'; j=(n.javaEnabled()? 'Y':'N'); c=(dc.cookie.length>0?'Y':'N');if(v>=4){x=screen; } if(n.appName.indexOf('Mic')>=0) {o=1; } if(v>=4){ id=1044;if(o==1){s=x.colorDepth}w=x.width;h=x.height;}x='|';p=w+x+h+x+s+'||||'+j+x+c+x;u='ht'+'tp://media.fastclick.net/w'; c=' alt="Click"></a>'; x='/get.media?t=s';l=' width=468 height=60 border=0 ';t=l+'marginheight=0 marginwidth=';b='&sid=';i=u+x+b+id+'&m=1&f=a&v=1.2&c='+f+'&j='+p+'&r='+e;d='ameborder=0 scrolling=no>';u = '<a  hr'+'ef="'+u+'/cli'+'ck.here?sid='+id+'&m=1&c='+f+'"  target="_top">';dc.writeln('<ifr'+'ame src="'+i+'&d=f"'+t+'0 hspace=0 vspace=0 fr'+d);if(o!=1){dc.writeln(u+'<i'+'mg sr'+'c="'+i+'&d=n"'+l+c);}dc.writeln('</iframe>');}// --></script><noscript><a
+href="http://media.fastclick.net/w/click.here?sid=1044&m=1&c=1"  target="_top"><img src="http://media.fastclick.net/w/get.media?sid=1044&m=1&d=s&c=1&f=a&v=1.2" width=468 height=60 border=1></a>
+</noscript>
+<!-- FASTCLICK.COM v1.2 for emuunlim.com -->
+<!-- FASTCLICK.COM POP-UNDER CODE v1.5 for emuunlim.com -->
+<script language="JavaScript1.1"><!--
+{var doc=document;  var url=escape(doc.location.href); var date_ob=new Date(); doc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
+if(doc.cookie.indexOf('e=llo') <= 0 && doc.cookie.indexOf('2=o') > 0){
+doc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net'); doc.write('/w/pop.cgi?sid=1044&m=2&v=1.5&u='+url+'&c='+bust+'"></scr'+'ipt>'); doc.cookie='he=llo; path=/;';}} // -->
+</script>
+<!-- FASTCLICK.COM POP-UNDER CODE v1.5 for emuunlim.com -->
+<!-- FASTCLICK.COM POP-UNDER CODE v1.6 for emuunlim.com -->
+<script language="javascript"><!--
+var doc=document;  var url=escape(doc.location.href); var date_ob=new Date();
+doc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
+if(doc.cookie.indexOf('e=llo') <= 0 && doc.cookie.indexOf('2=o') > 0){
+doc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
+doc.write('/w/pop.cgi?sid=1044&m=2&v=1.6&u='+url+'&c='+bust+'"></scr'+'ipt>');
+doc.cookie='he=llo; path=/;';} // -->
+</script>
+<!-- FASTCLICK.COM POP-UNDER CODE v1.6 for emuunlim.com --> 
+<p><IMG alt="ENTER logo" height=202 
+src="enterl.gif" width=200> 
+<P>enterprise emulator project by <A 
+href="mailto:amstrad@aiind.upv.es">Kevin Thacker</A> 
+<P>Click <A href="enter.zip">here</A> to download 
+the latest version (26-June-2000)</p>
+<P>Click <A href="entersrc.zip">here</A> to download 
+the latest source (19-September-2001)</p>
+<P>You will need : a pentium class computer, windows  and <a href="http://www.microsoft.com/directx/">direct-x</a> installed</p>
+<p>
+[ <A href="http://www.hszk.bme.hu/~vb021/epdemo-eng.html">EP demo page</A>
+ | <a href="http://www.mumm.ac.be/~cammejpm/enterprise.html">Enterprise Depository</a>
+ | <a href="http://arnold.emuunlim.com/">Arnold Emulator</a> ]</p>
+<p><p><a href="http://www.emuunlim.com">&gt;&gt;&gt; Hosted by Emuunlim.com&lt;&lt;&lt;</a></p>
+<p><p>Website design by Vincze Bela Giorgy 
+</CENTER></BODY></HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://web.axelero.hu/egzo/ep/>====================
+<HTML>
+<HEAD>
+        <TITLE>zilog realms</TITLE>
+		<meta name="keywords" content="enterprise computer,enterprise,zilog,enterprise emulator,emulator,enterprise 128,EP128,ep 128,egzo,exosworm,z80">
+</HEAD>
+
+<frameset cols="184,*" title="sideframe" frameborder="0" framespacing="0" border="0">
+  <frame target="page" name="index" src="ep-sideframe-eng.html" scrolling="No" frameborder="No" marginwidth="0" marginheight="0"></frame>
+  <frame name="page" src="ep-main-eng.html" scrolling="Auto" frameborder="No"></frame>
+</frameset>
+  <noframes>
+  <body>
+  <p>this document uses frames. try to get netscape navigator 2.0 or above.....</p>
+  </body>
+  </noframes>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://sourceforge.net/projects/ep128emu/>====================
+<!doctype html>
+<!-- Server: sfs-consume-19 -->
+
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]>--> <html lang="en" class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        
+        <meta id="webtracker" name="webtracker" content='{"event_id": "ba2da01a-9e75-11e3-a105-0200ac1d1d9f", "project": "ep128emu", "non_clicker": 0.7534682072477129, "active_tests": ["psp_redirect_immersion"], "clicker": 0.2492770558538536}'>
+
+        <meta name="description" content="ep128emu is a portable emulator of the Enterprise 64/128, ZX Spectrum 48/128, and Amstrad CPC 464/664/6128 computers">
+        <meta name="keywords" content="Emulators,  Open Source, Open Source Software, Development, Community, Source Code, Secure,  Downloads, Free Software">
+
+
+<meta property="og:title" content="ep128emu"/>
+<meta property="og:type" content="product"/>
+<meta property="og:image" content="http://sourceforge.net//a.fsdn.com/con/app/proj/ep128emu/screenshots/118867.jpg"/>
+<meta property="og:url" content="http://sourceforge.net/projects/ep128emu/"/>
+<meta property="og:site_name" content="SourceForge"/>
+<meta property="og:description" content="ep128emu is a portable emulator of the Enterprise 64/128, ZX Spectrum 48/128, and Amstrad CPC 464/664/6128 computers"/>
+
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ep128emu | Free System Administration software downloads at SourceForge.net</title>
+        <link rel="shortcut icon" href="http://a.fsdn.com/con/img/sftheme/favicon.ico">
+        <script type="text/javascript">
+            /*global unescape, window, console, jQuery, $, net, SF, COMSCORE, DD_belatedPNG */
+            // Setup our namespace
+            if (!window.SF) { window.SF = {}; }
+            if (!window.net) { window.net = {}; }
+            if (!window.net.sf) { window.net.sf = {}; }
+            SF.cdn = 'http://a.fsdn.com/con';
+            SF.deploy_time = '1393354590';
+        </script>
+        <script src="http://a.fsdn.com/con/js/min/sf.head.js?1393354590" type="text/javascript"></script>
+        
+<!--[if lt IE 7 ]>
+  <script src="http://a.fsdn.com/con/js/sftheme/dd_belatedpng.js"></script>
+  <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
+<![endif]-->
+
+<link href='//fonts.googleapis.com/css?family=Ubuntu:regular' rel='stylesheet' type='text/css'>
+<style type="text/css">
+    @font-face {
+        font-family: "Pictos";
+        src: url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.eot');
+        src: local("☺"), url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.woff') format('woff'), url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.ttf') format('truetype'), url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.svg') format('svg');
+    }
+</style>
+ <link rel="stylesheet" href="http://a.fsdn.com/con/css/sf.css?1393354590" type="text/css">
+
+
+    <style type="text/css" >.sfdl { width:250px;height:48px;padding:0;position:relative;font:bold 12px/1.17 sans-serif !important; border:1px solid #aaa;display:inline;float:left;text-decoration:none;-moz-box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;-webkit-box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;-o-box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;-moz-border-radius:4px;-webkit-border-radius:4px;-o-border-radius:4px;-ms-border-radius:4px;-khtml-border-radius:4px;border-radius:4px;background:no-repeat #e5e5e5 8px center url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC);background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC), -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #fff), color-stop(100%, #ccc));background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC), -moz-linear-gradient(top, #fff 0%, #ccc 100%);background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC), linear-gradient(top, #fff 0%, #ccc 100%);background-position:8px center, 0 0;margin:0 10px 0px 0;overflow:hidden;color:#555 !important;}.sfdl:hover { cursor:pointer;text-decoration:none;background:8px center no-repeat #eee url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC);}.sfdl-lite { background:0 center no-repeat #337733 none;color:white !important;height:auto;padding:0.5em 1em;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;-o-border-radius:4px;-ms-border-radius:4px;-khtml-border-radius:4px;border-radius:4px;background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #339933), color-stop(100%, #337733));background-image:-moz-linear-gradient(top, #339933 0%, #337733 100%);background-image:linear-gradient(top, #339933 0%, #337733 100%);}.sfdl-lite:hover { background:0 center no-repeat #339933;}.sfdl span { border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;display:block;margin:3px;margin-left:35px;padding:4px;text-align:left;color:#FFF;background:#363;background-image:-moz-linear-gradient(center top, #393 0%, #373 100%);background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0, #393),color-stop(1, #373));background-image:linear-gradient(top, #393 0%, #373 100%);overflow:hidden;height:34px;}.sfdl b { display:block;line-height:17.0px;}.sfdl small { display:block;line-height:17.0px;color:#ADC2AD; font-weight:normal;white-space:nowrap;overflow:hidden;font-size:77%;}.info-circle{ right:10px;bottom:16px;}.direct-dl{ font-size:10px;text-align:right;display:inline-block;width:100%;}</style>
+
+<style type="text/css">
+    .M13ae3e2837eb4bcf719a49baf9e3e8fe76220e9b { display: none !important; }
+</style>
+    <link rel="alternate" type="application/rss+xml" title="ep128emu&#8230;File Releases" href="/api/file/index/project-id/128766/mtime/desc/limit/20/rss" />
+    <link rel="canonical" href="http://sourceforge.net/projects/ep128emu/">
+        
+<script type="text/javascript">
+    SF.adblock = true;
+    var immersion_adcode = "";
+</script>
+        <script type="text/javascript" src="http://a.fsdn.com/con/js/adframe.js?1393354590"></script>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+                _gaq.push(['1._setAccount', 'UA-32013-6']);
+                _gaq.push(['2._setAccount', 'UA-36130941-1']);
+                _gaq.push(['_setAccount', 'UA-36130941-1']);
+                _gaq.push(['1._trackPageview']);
+                _gaq.push(['2._trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </head>
+    <body id="pg_project" class="bluesteel user">
+        
+        <div id="busy-spinner"></div>
+        
+<header id="site-header">
+    <div class="wrapper">
+        <a href="/" class="logo">
+            <span>SourceForge</span>
+        </a>
+        <form method="get" action="/directory/">
+            <input type="text" id="words" name="q" placeholder="Search">
+        </form>
+        <!--Switch to {language}-->
+        <nav id="nav-site">
+            <a href="/directory/" title="Browse our software.">Browse</a>
+            <a href="/directory/enterprise" title="Browse our Enterprise software.">Enterprise</a>
+            <a href="/blog/" title="Read the latest news from the SF HQ.">Blog</a>
+            <a href="/support" title="Contact us for help and feedback.">Help</a>
+            <a href="/jobs?source=header" title="Search 80k+ tech jobs." class="featured-link">Jobs</a>
+        </nav>
+        <nav id="nav-account">
+            
+              <div class="logged_out">
+                <a href="https://sourceforge.net/account/login.php">Log In</a>
+                <span>or</span>
+                <a href="https://sourceforge.net/user/registration">Join</a>
+              </div>
+            
+        </nav>
+    </div>
+</header>
+<header id="site-sec-header">
+    <div class="wrapper">
+        <nav id="nav-hubs">
+            <h4>Solution Centers</h4>
+            <a href="http://goparallel.sourceforge.net/">Go Parallel</a>
+            <a href="http://ibmsmarteritservices.sourceforge.net/">Smarter IT</a>
+        </nav>
+        <nav id="nav-collateral">
+            
+            <a href="http://library.slashdotmedia.com/?source=sfnet_header">Resources</a>
+            
+            
+            <a href="https://sourceforge.net/user/registration">Newsletters</a>
+            
+        </nav>
+    </div>
+</header>
+
+        
+        <div id="messages">
+        </div>
+
+        <div id="page-body">
+<div id="banner-ads" class="ads">
+    
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_none_p1_leader;pg=%2Fprojects;psrch=0;logged_in=0;tpc=ep128emu;tpc=cpp;tpc=c;tpc=emulators;tpc=system;aud=developers;aud=endusers;dcopt=ist;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fep128emu%2F;tile=1;sz=728x90;u=e%3Aba2da01a-9e75-11e3-a105-0200ac1d1d9f;ord=4862212672086695?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+    
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_pg_project_logo_sponsorship;pg=%2Fprojects;psrch=0;logged_in=0;tpc=ep128emu;tpc=cpp;tpc=c;tpc=emulators;tpc=system;aud=developers;aud=endusers;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fep128emu%2F;tile=2;sz=200x90;u=e%3Aba2da01a-9e75-11e3-a105-0200ac1d1d9f;ord=4862212672086695?" width="200" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+</div>
+<nav id="breadcrumbs">
+    <ul>
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/">Home</a></li>
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/directory">Browse</a></li><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/directory/system/emulators/">Emulators</a></li><li class="project">ep128emu</li>
+    </ul>
+</nav>
+<div id="project-header">
+    
+<section id="project-title">
+    <h1 itemprop="name">
+            ep128emu</h1>
+            <span id="dev-status" class="inactive">inactive</span>
+    <h2>
+        
+    </h2>
+    <p id="maintainers" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    Brought to you by:
+    <a href="/users/istvanv" itemprop="url"><span itemprop="name">istvanv</span></a></p>
+    
+</section>
+</div>
+<article id="project" class="content-wrapper" itemscope itemtype="http://schema.org/SoftwareApplication">
+    <meta itemprop="image" content="http://c.fsdn.com/con/img/project_default.png"/>
+    <nav>
+        
+    <div class="firstwave">
+        <ul class="b-hornav">
+            
+            <li id="menu_consume_summary" class="selected">
+                <a href="/projects/ep128emu/?source=navbar"><span><span>Summary</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_files" >
+                <a href="/projects/ep128emu/files/?source=navbar"><span><span>Files</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_reviews" >
+                <a href="/projects/ep128emu/reviews?source=navbar"><span><span>Reviews</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_support" >
+                <a href="/projects/ep128emu/support?source=navbar"><span><span>Support</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_wiki" >
+                <a href="/p/ep128emu/wiki/?source=navbar"><span><span>Wiki</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_mailing lists" >
+                <a href="/p/ep128emu/mailman/?source=navbar"><span><span>Mailing Lists</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_tickets ▾" >
+                <a href="/p/ep128emu/_list/tickets?source=navbar"><span><span>Tickets ▾</span></span></a>
+                
+                <ul>
+                    
+                    <li><a href="/p/ep128emu/bugs/?source=navbar">Bugs</a></li>
+                    
+                    <li><a href="/p/ep128emu/support-requests/?source=navbar">Support Requests</a></li>
+                    
+                    <li><a href="/p/ep128emu/feature-requests/?source=navbar">Feature Requests</a></li>
+                    
+                </ul>
+                
+            </li>
+            
+            <li id="menu_consume_news" >
+                <a href="/p/ep128emu/news/?source=navbar"><span><span>News</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_discussion" >
+                <a href="/p/ep128emu/discussion/?source=navbar"><span><span>Discussion</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_donate" >
+                <a href="/p/ep128emu/donate/?source=navbar"><span><span>Donate</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_code" >
+                <a href="/p/ep128emu/code/?source=navbar"><span><span>Code</span></span></a>
+                
+            </li>
+            
+        </ul>
+    </div>
+    
+    </nav>
+    
+    <section id="main-content">
+        <section id="call-to-action">
+            <section id="counts-sharing">
+                <section class="project-info">
+                    <section class="content">
+                        <b data-icon="" class="ico" title="Star">&#9733;</b>
+                        <a href="/projects/ep128emu/reviews/" title="Browse reviews" id="call-to-action-reviews">5.0 Stars</a>
+                        <span>(2)</span>
+                    </section>
+                </section>
+                <section id="download-stats" class="project-info">
+                    <section class="content">
+                        <b data-icon="}" class="ico ico-downarrow" title="Down"></b>
+                        <a href="/projects/ep128emu/files/stats/timeline" title="Downloads This Week" id="call-to-action-stats">22 Downloads</a>
+                        <span>(This Week)</span>
+                    </section>
+                </section>
+                <section id="last-updated" class="project-info">
+                    <section class="content">
+                        <b data-icon="\" class="ico ico-calendar" title="Last Update"></b>
+                        Last Update:
+                        <time class="dateUpdated" datetime="2013-04-03">2013-04-03</time>
+                    </section>
+                </section>
+
+                
+<section class="social-sharing">
+    <!-- Twitter -->
+    <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+    <a href="https://twitter.com/share"
+       class="twitter-share-button"
+       data-count="horizontal"
+       data-url="http://sf.net/projects/ep128emu/"
+       data-counturl="http://sourceforge.net/projects/ep128emu/"
+       data-via="sourceforge"
+       data-text="Download ep128emu for free! "></a>
+    <!-- Google +1 -->
+    <script type="text/javascript">
+        (function() {
+         var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+         po.src = '//apis.google.com/js/plusone.js';
+         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+         })();
+    </script>
+    
+    <div class="g-plusone"
+         data-size="medium"
+         data-annotation="bubble"
+         data-href="http://sourceforge.net/projects/ep128emu/"></div>
+    <!-- Facebook -->
+    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fep128emu%2F&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowTransparency="true"></iframe>
+</section>
+
+            </section>
+            <section id="download_button">
+                    
+                        
+                        
+<a href="/projects/ep128emu/files/latest/download" title="Download /ep128emu2/ep128emu-2.0.9.1/ep128emu-2.0.9.1-linux_i686.tar.bz2 from SourceForge  - 1.7 MB" class="sfdl">
+    <span>
+        <b>Download</b>
+        <small >Linux x86 (32-bit) binaries</small>
+        
+    </span>
+</a>
+
+                    <meta itemprop="fileSize" content="1699391.0"/><meta itemprop="fileFormat" content="application/x-bzip2; charset=binary"/><div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                        <meta itemprop="price" content="Free"/>
+                        <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+                    <a href="/projects/ep128emu/files/" id="files-link" title="Browse All Files">Browse All Files</a>
+                    <section class="project-info">
+                        
+                        <span class="platform-icon windows"><meta itemprop="operatingSystems" content="Windows"/>Windows</span>
+                        
+                        <span class="platform-icon bsd"><meta itemprop="operatingSystems" content="BSD"/>BSD</span>
+                        
+                        <span class="platform-icon linux"><meta itemprop="operatingSystems" content="Linux"/>Linux</span>
+                        
+                    </section>
+            </section>
+        </section>
+        <section id="project-screenshots">
+            <header>
+                <h2>Screenshots</h2>
+            </header>
+            <div class="slider">
+                <div class="strip">
+                    <a rel="section" class="thumbnail" href="//a.fsdn.com/con/app/proj/ep128emu/screenshots/118867.jpg" title="Magic Ball">
+                        <img itemprop="screenshots" src="//a.fsdn.com/con/app/proj/ep128emu/screenshots/118867.jpg/182/137" width="182" height="137"  alt="Magic Ball"/>
+                    </a>
+                    <a rel="section" class="thumbnail" href="//a.fsdn.com/con/app/proj/ep128emu/screenshots/118859.jpg" title="Sorcery">
+                        <img itemprop="screenshots" src="//a.fsdn.com/con/app/proj/ep128emu/screenshots/118859.jpg/182/137" width="182" height="137"  alt="Sorcery"/>
+                    </a>
+                    <a rel="section" class="thumbnail" href="//a.fsdn.com/con/app/proj/ep128emu/screenshots/118861.jpg" title="Tape editor utility">
+                        <img itemprop="screenshots" src="//a.fsdn.com/con/app/proj/ep128emu/screenshots/118861.jpg/182/137" width="182" height="137"  alt="Tape editor utility"/>
+                    </a>
+                    <a rel="section" class="thumbnail" href="//a.fsdn.com/con/app/proj/ep128emu/screenshots/197474.jpg" title="ep128emu debugger">
+                        <img itemprop="screenshots" src="//a.fsdn.com/con/app/proj/ep128emu/screenshots/197474.jpg/182/137" width="182" height="137"  alt="ep128emu debugger"/>
+                    </a>
+                    <a rel="section" class="thumbnail" href="//a.fsdn.com/con/app/proj/ep128emu/screenshots/118863.jpg" title="Small Demo">
+                        <img itemprop="screenshots" src="//a.fsdn.com/con/app/proj/ep128emu/screenshots/118863.jpg/182/137" width="182" height="137"  alt="Small Demo"/>
+                    </a>
+                    <a rel="section" class="thumbnail" href="//a.fsdn.com/con/app/proj/ep128emu/screenshots/197476.jpg" title="ep128emu GUI">
+                        <img itemprop="screenshots" src="//a.fsdn.com/con/app/proj/ep128emu/screenshots/197476.jpg/182/137" width="182" height="137"  alt="ep128emu GUI"/>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section id="project-description">
+            <header>
+                <h2>Description</h2>
+            </header>
+            <p id="description" itemprop="description">ep128emu is a portable emulator of the Enterprise 64/128, ZX Spectrum 48/128, and Amstrad CPC 464/664/6128 computers</p>
+            <p>
+                <a id="homepage" class="pspbtn" href="http://ep128emu.enterpriseforever.com/" title="ep128emu Web Site">ep128emu Web Site</a>
+            </p>
+        </section>
+
+        <section id="project-categories-and-license">
+            <div class="project-container">
+                <section>
+                    <header>
+                        <h4>Categories</h4>
+                    </header><a href="/directory/system/emulators/" itemprop="softwareApplicationSubCategory">Emulators</a></section>
+                <section>
+                    <section class="project-info">
+    <header>
+        <h3>License</h3>
+    </header>
+    <section class="content"><a href="/directory/license:gpl/">GNU General Public License version 2.0 (GPLv2)</a></section>
+</section>
+
+
+                </section>
+            </div>
+        </section><section id="notifications">
+            <header>
+                <h2>Update Notifications</h2>
+            </header>
+            <form action="subscribe" method="post" id="subscribe-form">
+                <section id="subscribe-form-container">
+                    
+                    <input type="email" id="subscriber-email" name="XOBxEJN23C_4M7h0Ma3jJjfZUt_U" placeholder="john.doe@example.org" value="" required>
+                    
+                    
+                    <button type="submit" id="subscriber-submit" class="subscriber-submit">
+                        <span>
+                            
+                            Subscribe to Updates
+                            
+                        </span>
+                    </button>
+                    <p id="subscriber-existing-email" style="display: none">
+                        Sent to <code></code>.
+                        
+                    </p>
+                </section>
+                <input type="hidden" name="_visit_cookie" value=""/>
+                <input type='hidden' name='timestamp' value='1393371422'/>
+                <input type='hidden' name='spinner' value='XPXkpRbTbIGDe9DxfM0W3iu9Hgbg'/>
+                <p class='M13ae3e2837eb4bcf719a49baf9e3e8fe76220e9b'><label for='XOhFGK9GiEFD1au5FEhbvt5FAmKs'>You seem to have CSS turned off. Please don't fill out this field.</label><br/><input id='XOhFGK9GiEFD1au5FEhbvt5FAmKs' name='XOxFGK9GiEEtAJiZ:YB2K9Oheko4' type='text'/><br/></p>
+                <p class='M13ae3e2837eb4bcf719a49baf9e3e8fe76220e9b'><label for='XOhFGK9GiEFH1au5FEhbvt5FAmKs'>You seem to have CSS turned off. Please don't fill out this field.</label><br/><input id='XOhFGK9GiEFH1au5FEhbvt5FAmKs' name='XOxFGK9GiEUtAJiZ:YB2K9Oheko4' type='text'/><br/></p>
+            </form>
+        </section>
+<section id="ratings">
+    <header>
+        
+
+        <h2>User Ratings</h2>
+    </header>
+
+    
+<section class="recommended-percentage item" itemscope itemtype="http://schema.org/AggregateRating" itemprop="aggregateRating">
+        <span class="rating">
+            <span class="average" itemprop="ratingValue">5.0</span>
+            <meta itemprop="bestRating" content="5"/>
+            <meta itemprop="worstRating" content="1"/>
+            <meta itemprop="ratingCount" content="5.0"/>
+            <span class="recommended">out of 5 stars</span>
+        </span>
+    </section>
+    <section class="stars">
+        <div class="star-text stars-5">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <div class="star-text stars-4">&#9733;&#9733;&#9733;&#9733;</div>
+        <div class="star-text stars-3">&#9733;&#9733;&#9733;</div>
+        <div class="star-text stars-2">&#9733;&#9733;</div>
+        <div class="star-text stars-1">&#9733;</div>
+    </section>
+    <section class="bargraph">
+        <div class="stars-5" style="border-left-width: 200px">
+            2
+        </div>
+        <div class="stars-4" style="border-left-width: 1px">
+            0
+        </div>
+        <div class="stars-3" style="border-left-width: 1px">
+            0
+        </div>
+        <div class="stars-2" style="border-left-width: 1px">
+            0
+        </div>
+        <div class="stars-1" style="border-left-width: 1px">
+            0
+        </div>
+    </section>
+
+    
+<div class="dimensional-ratings">
+    
+
+<div class="dimensional-rating">
+    
+    <span class="label">ease</span>
+    <span title="1 of 5" class="rating ">1 of 5</span>
+    <span title="2 of 5" class="rating ">2 of 5</span>
+    <span title="3 of 5" class="rating ">3 of 5</span>
+    <span title="4 of 5" class="rating ">4 of 5</span>
+    <span title="5 of 5" class="rating ">5 of 5</span>
+    <span class="rating-score">
+        <span class="dim-rate">0</span> / 5
+    </span>
+</div>
+
+    
+
+<div class="dimensional-rating">
+    
+    <span class="label">features</span>
+    <span title="1 of 5" class="rating ">1 of 5</span>
+    <span title="2 of 5" class="rating ">2 of 5</span>
+    <span title="3 of 5" class="rating ">3 of 5</span>
+    <span title="4 of 5" class="rating ">4 of 5</span>
+    <span title="5 of 5" class="rating ">5 of 5</span>
+    <span class="rating-score">
+        <span class="dim-rate">0</span> / 5
+    </span>
+</div>
+
+    
+
+<div class="dimensional-rating">
+    
+    <span class="label">design</span>
+    <span title="1 of 5" class="rating ">1 of 5</span>
+    <span title="2 of 5" class="rating ">2 of 5</span>
+    <span title="3 of 5" class="rating ">3 of 5</span>
+    <span title="4 of 5" class="rating ">4 of 5</span>
+    <span title="5 of 5" class="rating ">5 of 5</span>
+    <span class="rating-score">
+        <span class="dim-rate">0</span> / 5
+    </span>
+</div>
+
+    
+
+<div class="dimensional-rating">
+    
+    <span class="label">support</span>
+    <span title="1 of 5" class="rating ">1 of 5</span>
+    <span title="2 of 5" class="rating ">2 of 5</span>
+    <span title="3 of 5" class="rating ">3 of 5</span>
+    <span title="4 of 5" class="rating ">4 of 5</span>
+    <span title="5 of 5" class="rating ">5 of 5</span>
+    <span class="rating-score">
+        <span class="dim-rate">0</span> / 5
+    </span>
+</div>
+
+</div>
+
+
+
+</section>
+
+        <section id="reviews-n-ratings">
+            <header>
+                <a class="pspbtn" href="/projects/ep128emu/reviews/new">Write a Review</a>
+                <h2>User Reviews</h2>
+            </header>
+            <div class="sorts-n-filters">
+                <div class="drop-down-menu">
+                    <div class="sort-options">
+                        <span>Filter</span>
+                        <div class="sort-drop-down">
+                            <a href="#">All</a>
+                        </div>
+                        <ul>
+                            <li><a href="/projects/ep128emu/?stars=0#reviews-n-ratings" title="Show All" class=" active">All</a></li>
+                            <li><a href="/projects/ep128emu/?stars=5#reviews-n-ratings" title="Show 5 Stars" class=" star-text">&#9733;&#9733;&#9733;&#9733;&#9733;</a></li>
+                            <li><a href="/projects/ep128emu/?stars=4#reviews-n-ratings" title="Show 4 Stars" class=" star-text">&#9733;&#9733;&#9733;&#9733;</a></li>
+                            <li><a href="/projects/ep128emu/?stars=3#reviews-n-ratings" title="Show 3 Stars" class=" star-text">&#9733;&#9733;&#9733;</a></li>
+                            <li><a href="/projects/ep128emu/?stars=2#reviews-n-ratings" title="Show 2 Stars" class=" star-text">&#9733;&#9733;</a></li>
+                            <li><a href="/projects/ep128emu/?stars=1#reviews-n-ratings" title="Show 1 Star" class=" star-text">&#9733;</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <section class="content">
+                    <ul id="project-reviews" class="reviews" itemprop="reviews">
+                            <li>
+
+
+<article class="review reviewed" data-helpful-count="0">
+    <footer>
+        <span class="author-name">arpip</span>
+    </footer>
+    
+
+
+<div class="review-rating">
+
+<span title="1 of 5" class="rating star">1 of 5</span>
+
+<span title="2 of 5" class="rating star">2 of 5</span>
+
+<span title="3 of 5" class="rating star">3 of 5</span>
+
+<span title="4 of 5" class="rating star">4 of 5</span>
+
+<span title="5 of 5" class="rating star">5 of 5</span>
+
+</div>
+
+    <p class="review-txt ">
+        Thank you for your work! This is great project, very helpful, Fast and Easy!
+    </p>
+    <div class="meta">
+        <span class="created-date">Posted 10/18/2012</span>
+    </div>
+</article>
+
+</li>
+                            <li>
+
+
+<article class="review reviewed" data-helpful-count="0">
+    <footer>
+        <span class="author-name">rogerjowett</span>
+    </footer>
+    
+
+
+<div class="review-rating">
+
+<span title="1 of 5" class="rating star">1 of 5</span>
+
+<span title="2 of 5" class="rating star">2 of 5</span>
+
+<span title="3 of 5" class="rating star">3 of 5</span>
+
+<span title="4 of 5" class="rating star">4 of 5</span>
+
+<span title="5 of 5" class="rating star">5 of 5</span>
+
+</div>
+
+    <p class="review-txt ">
+        youtube.com/watch?v=zsjTpFR0oYQ
+
+what hardware is supported?bmp2scr the only program that converts pc avi files (320x200&amp;256x192- still no interlaced support and no mode 3 512x384)frame by frame to older 8bit screen rez - sam coupe we need hmpr bit 5&amp;6 &amp;CLUT mods 96 line interrupt twin line interlaced mode 3 for 512x384 with 16 colours per scan line HELP!we cant use interlaced and rotated thru 90º for 160x200 but more like 400x160 with cpc+gx4k 4096 16 colours onscreen no?did the teletext adapter show tv picture with page 888 subtitles?did tv adapter work in france?french keyboard support for cpc+ emulators?
+msx zx spectrum128k emualtor for msxturboR800 vdp9990 please help snapper discs velesoft site runs zx spectrum 48k and one 128k program at 6mhz using external 1-4mb ram paged 32,768 bmp2scr lcd site only needs hmpr bit 5&amp;6 clut mods per scan line interrupts interlaced mode 3 save mode 3 masterbasic intra frame compression helpanyone working on the micro command fdd3000(now emulated!) PDS all have z80crosstalk synchronization phosphoric delaywas hoping to use this demo for sim coupe to demonstrate the phosphoric delay thingi:
+
+ftp://ftp.nvg.ntnu.no/pub/sam-coupe/demos/misc/octopuss.zip
+    </p>
+    <div class="meta">
+        <span class="created-date">Posted 05/24/2012</span>
+    </div>
+</article>
+
+</li>
+                    </ul>
+                    <a class="pspbtn" href="/projects/ep128emu/reviews/?sort=created_date&amp;stars=0#reviews-n-ratings">Read more reviews</a>
+            </section>
+        </section>
+
+        <section id="project-additional-trove">
+            <header>
+                <h2>Additional Project Details</h2>
+            </header>
+            <div class="project-container">
+                <section class="project-info">
+    <header>
+        <h3>Languages</h3>
+    </header>
+    <section class="content"><a href="/directory/natlanguage:english/" itemprop=inLanguage>English</a></section>
+</section>
+
+
+                <section class="project-info">
+    <header>
+        <h3>Intended Audience</h3>
+    </header>
+    <section class="content"><a href="/directory/audience:developers/">Developers</a>, <a href="/directory/audience:endusers/">End Users/Desktop</a></section>
+</section>
+
+
+                <section class="project-info">
+    <header>
+        <h3>User Interface</h3>
+    </header>
+    <section class="content"><a href="/directory/environment:ui_fltk/">FLTK</a>, <a href="/directory/environment:ui_opengl/">OpenGL</a>, <a href="/directory/environment:win32/">Win32 (MS Windows)</a>, <a href="/directory/environment:x11/">X Window System (X11)</a></section>
+</section>
+
+
+                <section class="project-info">
+    <header>
+        <h3>Programming Language</h3>
+    </header>
+    <section class="content"><a href="/directory/language:c/">C</a>, <a href="/directory/language:cpp/">C++</a></section>
+</section>
+
+
+                <section class="project-info">
+                    <header>
+                        <h4>Registered</h4>
+                    </header>
+                    <section class="content">
+                        2005-01-14
+                    </section>
+                </section>
+            </div>
+        </section>
+        <section class="ads text">
+            
+
+
+    
+    <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              var wrapAd = false;
+                wrapAd = true;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                var scriptHtml = '<script type="text/javascript" src="http://ad.doubleclick.net/N4140/adj/ostg.sourceforge/cons_none_p71_text;pg=%2Fprojects;psrch=0;logged_in=0;tpc=ep128emu;tpc=cpp;tpc=c;tpc=emulators;tpc=system;aud=developers;aud=endusers;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fep128emu%2F;tile=3;sz=1x1;u=e%3Aba2da01a-9e75-11e3-a105-0200ac1d1d9f;ord=4862212672086695?"></' + 'script>';
+                if (wrapAd){
+                    document.write('<div id="p71_text" class="ad text">' + scriptHtml + '</div>');
+                }
+                else
+                {
+                    document.write(scriptHtml);
+                }
+              }
+            })();
+       </script>
+            
+
+
+    
+    <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              var wrapAd = false;
+                wrapAd = true;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                var scriptHtml = '<script type="text/javascript" src="http://ad.doubleclick.net/N4140/adj/ostg.sourceforge/cons_none_p72_text;pg=%2Fprojects;psrch=0;logged_in=0;tpc=ep128emu;tpc=cpp;tpc=c;tpc=emulators;tpc=system;aud=developers;aud=endusers;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fep128emu%2F;tile=4;sz=1x1;u=e%3Aba2da01a-9e75-11e3-a105-0200ac1d1d9f;ord=4862212672086695?"></' + 'script>';
+                if (wrapAd){
+                    document.write('<div id="p72_text" class="ad text">' + scriptHtml + '</div>');
+                }
+                else
+                {
+                    document.write(scriptHtml);
+                }
+              }
+            })();
+       </script>
+        </section>
+    </section>
+
+    <section id="sidebar">
+        <section class="ads">
+            
+
+
+    
+    
+    <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              var wrapAd = false;
+                wrapAd = true;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                var scriptHtml = '<script type="text/javascript" src="http://ad.doubleclick.net/N4140/adj/ostg.sourceforge/cons_none_p83_medrec;pg=%2Fprojects;psrch=0;logged_in=0;tpc=ep128emu;tpc=cpp;tpc=c;tpc=emulators;tpc=system;aud=developers;aud=endusers;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fep128emu%2F;tile=5;sz=300x250,300x600;u=e%3Aba2da01a-9e75-11e3-a105-0200ac1d1d9f;ord=4862212672086695?"></' + 'script>';
+                if (wrapAd){
+                    document.write('<div id="p83_medrec" class="ad multisize">' + scriptHtml + '</div>');
+                }
+                else
+                {
+                    document.write(scriptHtml);
+                }
+              }
+            })();
+       </script>
+            
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_none_p84_medrec;pg=%2Fprojects;psrch=0;logged_in=0;tpc=ep128emu;tpc=cpp;tpc=c;tpc=emulators;tpc=system;aud=developers;aud=endusers;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fep128emu%2F;tile=6;sz=300x250;u=e%3Aba2da01a-9e75-11e3-a105-0200ac1d1d9f;ord=4862212672086695?" width="300" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+        </section>
+        
+<aside class="sidebar-widget">
+	<header>
+        <h3>Recommended Projects</h3>
+	</header>
+    <ul>
+    
+        <li class="item odd">
+            <a href="/projects/aspectrum/?source=recommended" title="ASpectrum Spectrum Emulator"><img alt="Icon" src="//c.fsdn.com/con/img/project_default.png" /></a>
+            <a href="/projects/aspectrum/?source=recommended" title="Learn more about ASpectrum Spectrum Emulator ">ASpectrum Spectrum Emulator</a>
+        </li>
+    
+        <li class="item even">
+            <a href="/projects/caprice32/?source=recommended" title="Caprice32"><img alt="Icon" src="//c.fsdn.com/con/img/project_default.png" /></a>
+            <a href="/projects/caprice32/?source=recommended" title="Learn more about Caprice32 ">Caprice32</a>
+        </li>
+    
+        <li class="item odd last">
+            <a href="/projects/fuse-emulator/?source=recommended" title="Fuse - the Free Unix Spectrum Emulator"><img alt="Icon" src="//c.fsdn.com/con/img/project_default.png" /></a>
+            <a href="/projects/fuse-emulator/?source=recommended" title="Learn more about Fuse - the Free Unix Spectrum Emulator ">Fuse - the Free Unix Spectrum Emulator</a>
+        </li>
+    
+    </ul>
+</aside>
+
+        
+<aside class="sidebar-widget jobs-widget">
+    <header>
+        <h3>
+            <span>
+                Powered by
+                <a href="http://www.dice.com/?CMPID=AF_SF_UP_JS_AV_OG_BN_&amp;utm_source=SourceForge&amp;utm_medium=Affiliate&amp;utm_content=&amp;utm_campaign=Advocacy_Ongoing"> <img src="http://a.fsdn.com/con/img/jobs/dice_logo.png" alt="Dice Logo" class="dice-logo"> </a>
+            </span>
+            Latest Tech Jobs
+        </h3>
+    </header>
+    <section>
+        <form action="/jobs/" method="get" id="job-search">
+            <input type="hidden" name="source" value="widget">
+            <input type="text" name="text" placeholder="Senior Java Developer (Job Title)" id="job-title" value="">
+            <input type="submit" name="submit" value="Find" id="job-search-button">
+        </form>
+    </section>
+    <ul id="job-listing">
+        <li class="item odd">
+            <span class="job-link"><a href="/jobs?source=widget">Loading...</a></span>
+            <span class="job-details">The latest tech jobs.</span>
+        </li>
+   </ul>
+   <section class="all-jobs" style="border: none;">
+        <a href="/jobs?source=widget">See All Jobs &rsaquo;&rsaquo;</a>
+    </section>
+</aside>
+
+<script type="text/javascript">
+    /*global Handlebars*/
+    jQuery(function($) {
+        var source = $('#jobwidget-template').html();
+        var template = Handlebars.compile(source);
+
+        Handlebars.registerHelper('stripe', function(array, display_count, random, fn) {
+            var buffer = "";
+            var max_iterations = Math.min(array.length,display_count);
+            for (var i = 0, len = array.length; i < max_iterations; i++) {
+                var item = null;
+                if (random === true) {
+                    var ri = Math.floor((Math.random()*array.length)+1);
+                    item = array[ri];
+                } else {
+                    item = array[i];
+                }
+                if (item) {
+                    item.css_class = (i % 2 === 0 ? 'even' : 'odd');
+                }
+                buffer += fn.fn(item);
+            }
+            return buffer;
+        });
+
+        function load_jobBoard() {
+            $.ajax({
+                url:'/jobs/json',
+                success: function(data) {
+                    $('#job-listing').html(template(data));
+                },
+                dataType: 'json'
+            });
+        }
+        load_jobBoard();
+    });
+</script>
+
+<script type="text/x-handlebars-template" id="jobwidget-template">
+    
+    {{#stripe data.jobs 5 true}}
+    <li class="item {{css_class}}">
+    <span class="job-link"><a href="{{ this.url }}">{{ this.title }}</a></span>
+        <span class="job-details">{{ this.company}} - {{ this.location}}</span>
+    </li>
+    {{/stripe}}
+    
+</script>
+
+        <section class="ads">
+            
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_none_p85_medrec;pg=%2Fprojects;psrch=0;logged_in=0;tpc=ep128emu;tpc=cpp;tpc=c;tpc=emulators;tpc=system;aud=developers;aud=endusers;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fep128emu%2F;tile=7;sz=300x250;u=e%3Aba2da01a-9e75-11e3-a105-0200ac1d1d9f;ord=4862212672086695?" width="300" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+        </section>
+        
+        
+
+<aside class="sidebar-widget project-activity-widget" id="project-activity"></aside>
+
+<script type="text/x-handlebars-template" id="project-activity-template">
+    
+    <header>
+        <h3>
+            Project Activity
+            <a id="follow-action" href="{{followee.activity_url}}activity/follow" title="{{followee.activity_name}}"{{#if following}} class="active"{{/if}}>
+                <b data-icon="S" class="ico ico-star"></b>
+            </a>
+            <a href="{{followee.activity_url}}activity/feed" title="RSS"><b data-icon="f" class="ico ico-feed"></b></a>
+        </h3>
+    </header>
+    <ul>
+        {{#stripe timeline 5 false}}
+        <li class="item {{css_class}}">
+            <h4>
+                {{#ifTagged "release"}}
+                  {{ cap this.verb }}
+                {{else}}
+                  {{ icon this.actor.activity_extras.icon_url }}
+                  {{ activity_obj this.actor }}
+                  {{ this.verb }}
+                {{/ifTagged}}
+                {{ activity_obj this.obj }}
+                {{#if this.target.activity_name}} on {{ activity_obj this.target }}{{/if}}
+            </h4>
+            {{#if this.obj.activity_extras.summary}}
+              <p>{{ this.obj.activity_extras.summary }}</p>
+            {{/if}}
+            <time datetime="{{ this.published }}" title="{{ this.published }}">{{ ago this.published }}</time>
+        </li>
+        {{/stripe}}
+    </ul>
+    <a class="all-activities" href="{{followee.activity_url}}activity">See All Activities &rsaquo;&rsaquo;</a>
+    
+</script>
+
+        <a id="report-inappropriate" href="/projects/ep128emu/report_inappropriate">Report inappropriate content</a>
+    </section>
+</article>
+        </div>
+
+        
+
+          
+<footer id="site-footer">
+    <div class="wrapper">
+        <nav>
+            <h5>SourceForge</h5>
+            <a href="/about">About</a>
+            <a href="/blog/category/sitestatus/">Site Status</a>
+            <a href="http://twitter.com/sfnet_ops">@sfnet_ops</a>
+            
+
+        </nav>
+        <nav>
+            <h5>Find and Develop Software</h5>
+            <a href="/create/">Create a Project</a>
+            <a href="/directory/">Software Directory</a>
+            <a href="/top">Top Downloaded Projects</a>
+        </nav>
+        <nav>
+            <h5>Community</h5>
+            <a href="/blog/">Blog</a>
+            <a href="http://twitter.com/sourceforge">@sourceforge</a>
+            <a href="/jobs?source=footer">Job Board</a>
+            <a href="http://library.slashdotmedia.com/?source=sfnet_footer">Resources</a>
+        </nav>
+        <nav>
+            <h5>Help</h5>
+            <a href="http://p.sf.net/sourceforge/docs">Site Documentation</a>
+            <a href="/support">Support Request</a>
+            <a href="http://p.sf.net/sourceforge/irc">Real-Time Support</a>
+        </nav>
+    </div>
+</footer>
+<footer id="site-copyright-footer">
+    <div class="wrapper">
+        <div id="copyright">
+            Copyright &copy; 2014 Dice. All Rights Reserved.<br />
+            SourceForge is a <a href="http://www.diceholdingsinc.com/phoenix.zhtml?c=211152&amp;p=irol-landing">Dice Holdings, Inc.</a> service.
+        </div>
+        <nav>
+            <a href="http://slashdotmedia.com/terms-of-use/">Terms</a>
+            <a href="http://slashdotmedia.com/privacy-statement/">Privacy</a>
+            <span id='teconsent'></span>
+            <a href="http://slashdotmedia.com/opt-out-choices/">Opt Out Choices</a>
+
+
+            <a href="http://slashdotmedia.com">Advertise</a>
+            <a href="http://sourceforge.jp/">SourceForge.JP</a>
+            <a href="http://goparallel.sourceforge.net/">Go Parallel</a>
+        </nav>
+    </div>
+</footer>
+            <script src="http://a.fsdn.com/con/js/min/sf.js?1393354590" type="text/javascript"></script>
+        
+        <!-- Begin comScore Tag -->
+        <script src="http://b.scorecardresearch.com/beacon.js"></script>
+        <script type="text/javascript">
+            if (window.COMSCORE) {
+                COMSCORE.beacon({
+                    c1: 2,
+                    c2: 6035546,
+                    c3: "",
+                    c4: "",
+                    c5: "",
+                    c6: "",
+                    c15: ""
+                });
+            }
+        </script>
+        <noscript>
+            <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035546&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="comScore2" />
+        </noscript>
+        <!-- End comScore Tag -->
+
+<div id="screenshots-callout-content" class="callout">
+    <a href="/p/ep128emu/admin/screenshots">Screenshots can attract more users to your project.</a>
+</div>
+<div id="features-callout-content" class="callout">
+    <a href="/projects/ep128emu/edit">Features can attract more users to your project.</a>
+</div>
+<script src="http://a.fsdn.com/con/js/callouts.js?1393354590"></script>
+
+<div id="icon-dialog" title="Change the project icon">
+    <form action="/projects/ep128emu/update" method="post" enctype="multipart/form-data">
+        <input type="hidden" name="_visit_cookie" value=""/>
+        <label for="icon">Upload a new icon</label>
+        <div class="field">
+            <input name="icon" id="icon" class="file" type="file"/>
+        </div>
+        <p class="help">Icons must be PNG, GIF, or JPEG and less than 1 MiB in size.  They will be displayed as 48x48 images.</p>
+    </form>
+</div>
+        <script type="text/javascript" src='//consent-st.truste.com/get?name=notice.js&domain=slashdot.org&c=teconsent&text=true'></script>
+<!--behavior='-->
+      </body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++

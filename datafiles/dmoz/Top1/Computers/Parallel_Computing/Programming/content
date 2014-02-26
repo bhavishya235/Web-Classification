@@ -1,0 +1,129 @@
+<topic r:id="Top/Computers/Parallel_Computing/Programming">
+<catid>377088</catid>
+<link r:resource="http://www.cs.utk.edu/netsolve/" />
+<link r:resource="http://exodus.physics.ucla.edu/appleseed/" />
+<link r:resource="http://www.openmp.org/" />
+<link r:resource="http://www.eecs.harvard.edu/~mdw/proj/old/jaguar/" />
+</topic>
+<topic r:id="Top/Computers/Parallel_Computing/Programming/Documentation">
+<catid>377089</catid>
+<link r:resource="http://www.cs.chalmers.se/~lydian/" />
+<link r:resource="http://www.cs.umd.edu/~keleher/bib/dsmbiblio/dsmbiblio.html" />
+<link r:resource="http://www.eecs.umich.edu/~qstout/tut/index.html" />
+<link r:resource="http://www.mcs.anl.gov/~itf/dbpp/" />
+</topic>
+<topic r:id="Top/Computers/Parallel_Computing/Programming/Environments">
+<catid>377091</catid>
+<link r:resource="http://www.irisa.fr/pampa/EPEE/epee.html" />
+<link r:resource="http://www.sslug.dk/TONS/" />
+<link r:resource="http://www.netlib.org/hence/" />
+<link r:resource="http://www.cs.unc.edu/Research/proteus/" />
+<link r:resource="http://bmdfm.de/" />
+<link r:resource="http://www.sourceforge.net/projects/irsr/" />
+<link r:resource="http://www.csm.ornl.gov/harness/" />
+<link r:resource="http://www.cs.uoregon.edu/research/tau/" />
+</topic>
+<topic r:id="Top/Computers/Parallel_Computing/Programming/Languages">
+<catid>377092</catid>
+<link r:resource="http://charm.cs.uiuc.edu/" />
+<link r:resource="http://suif.stanford.edu/~scales/sam.html" />
+<link r:resource="http://www.cs.washington.edu/research/zpl/index.html" />
+<link r:resource="http://www.cs.virginia.edu/~mentat/index.html" />
+<link r:resource="http://www.cs.cmu.edu/~scandal/nesl.html" />
+<link r:resource="http://www.ipd.uka.de/JavaParty/" />
+<link r:resource="http://www.semdesigns.com/Products/Parlanse/index.html" />
+<link r:resource="http://www.zhmicro.com/" />
+<link r:resource="http://robotics.ee.uwa.edu.au/parallaxis/" />
+<link r:resource="http://upc.gwu.edu/" />
+<link r:resource="http://www.cl.cam.ac.uk/~pes20/acute/" />
+<link r:resource="http://supertech.csail.mit.edu/cilk/" />
+<link r:resource="http://upc.lbl.gov/" />
+<link r:resource="http://www.cs.arizona.edu/sr/" />
+</topic>
+<topic r:id="Top/Computers/Parallel_Computing/Programming/Languages/High_Performance_Fortran">
+<catid>377093</catid>
+<link r:resource="http://www.vcpc.univie.ac.at/information/software/shpf/" />
+<link r:resource="http://www.par.univie.ac.at/project/hpf+/" />
+<link r:resource="http://www.pgroup.com/products/workpghpf.htm" />
+</topic>
+<topic r:id="Top/Computers/Parallel_Computing/Programming/Languages/High_Performance_Fortran/Documentation">
+<catid>377094</catid>
+<link r:resource="http://www-unix.mcs.anl.gov/dbpp/text/node82.html" />
+<link r:resource="http://www.nsc.liu.se/~boein/f77to90/a8.html" />
+<link r:resource="http://www.mun.ca/hpc/hpf_pse/manual/" />
+<link r:resource="http://www.vcpc.univie.ac.at/activities/tutorials/HPF/" />
+<link r:resource="http://www.liv.ac.uk/HPC/HPFpage.html" />
+<link r:resource="http://softlib.rice.edu/hpf.html" />
+</topic>
+<topic r:id="Top/Computers/Parallel_Computing/Programming/Libraries">
+<catid>377095</catid>
+<link r:resource="http://www.cs.umd.edu/projects/cvm/" />
+<link r:resource="http://www-csag.ucsd.edu/projects/comm/fm.html" />
+<link r:resource="http://www-csag.ucsd.edu/projects/comm/put-get.html" />
+<link r:resource="http://www.disi.unige.it/project/gamma/" />
+<link r:resource="http://www.cs.dartmouth.edu/ILI/dapple/" />
+<link r:resource="http://docs.cray.com/books/004-3689-001/html-004-3689-001/004-3689-001-toc.html" />
+</topic>
+<topic r:id="Top/Computers/Parallel_Computing/Programming/Libraries/BSP">
+<catid>377098</catid>
+<link r:resource="http://www.bsp-worldwide.org/" />
+<link r:resource="http://www.idi.ntnu.no/~lasse/BSPlab/" />
+<link1 r:resource="http://www.bsp-worldwide.org/implmnts/oxtool/"></link1>
+<link r:resource="http://cis.poly.edu/suel/" />
+</topic>
+<topic r:id="Top/Computers/Parallel_Computing/Programming/Libraries/MPI">
+<catid>377096</catid>
+<link1 r:resource="http://www.mpi-forum.org/"></link1>
+<link r:resource="http://www.lam-mpi.org/" />
+<link r:resource="http://www-csag.ucsd.edu/projects/comm/mpi-fm.html" />
+<link r:resource="http://www-unix.mcs.anl.gov/mpi/" />
+<link r:resource="ftp://ftp.ccs.neu.edu/pub/people/gene/starmpi/" />
+<link r:resource="http://exodus.physics.ucla.edu/appleseed/dev/Developer.html" />
+<link r:resource="http://liinwww.ira.uka.de/~skampi" />
+<link r:resource="http://math.nist.gov/mcsd/savg/auto/" />
+<link r:resource="http://www.lfbs.rwth-aachen.de/content/mp-mpich" />
+<link r:resource="http://pages.cs.wisc.edu/~paradyn/" />
+</topic>
+<topic r:id="Top/Computers/Parallel_Computing/Programming/Libraries/MPI/Documentation">
+<catid>377097</catid>
+<link r:resource="http://fawlty.cs.usfca.edu/mpi/" />
+<link r:resource="http://www.netlib.org/utk/papers/mpi-book/mpi-book.html" />
+<link r:resource="http://publib-b.boulder.ibm.com/Redbooks.nsf/RedbookAbstracts/sg245380.html?Open" />
+</topic>
+<topic r:id="Top/Computers/Parallel_Computing/Programming/Libraries/PVM">
+<catid>377099</catid>
+<link r:resource="http://www.netlib.org/pvm3/index.html" />
+<link r:resource="http://www.netlib.org/utk/icl/xpvm/xpvm.html" />
+<link r:resource="http://www.cs.cmu.edu/afs/cs.cmu.edu/project/nectar-adamb/web/Dome.html" />
+<link r:resource="http://www.netlib.org/pvm3/contrib/pvmfs/" />
+<link r:resource="http://www.mathcs.emory.edu/pious/" />
+<link r:resource="http://www.parasys.co.uk/" />
+<link r:resource="http://pypvm.sourceforge.net/" />
+<link r:resource="http://www.markus-fischer.de/projects.htm" />
+<link r:resource="http://www.cs.virginia.edu/~ajf2j/tpvm.html" />
+<link r:resource="http://www.cs.virginia.edu/~ajf2j/jpvm/" />
+<link r:resource="http://wotug.ukc.ac.uk/parallel/environments/pvm3/tape-pvm/" />
+<link r:resource="http://pvm-plus-plus.sourceforge.net/" />
+<link r:resource="http://math.nist.gov/mcsd/savg/pade/" />
+<link r:resource="http://www.csm.ornl.gov/pvm/NTport.html" />
+<link r:resource="http://pvmgmake.sourceforge.net/" />
+<link1 r:resource="http://www.csm.ornl.gov/pvm/"></link1>
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.48.2801" />
+</topic>
+<topic r:id="Top/Computers/Parallel_Computing/Programming/Libraries/PVM/Documentation">
+<catid>377100</catid>
+<link1 r:resource="http://www.netlib.org/pvm3/book/pvm-book.html"></link1>
+<link r:resource="http://www.physics.orst.edu/~rubin/nacphy/PVM/" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.2113" />
+</topic>
+<topic r:id="Top/Computers/Parallel_Computing/Programming/Tools">
+<catid>377090</catid>
+<link r:resource="http://www.cs.utexas.edu/users/code/" />
+<link r:resource="http://www.lindaspaces.com/" />
+<link r:resource="http://www.globus.org/toolkit/" />
+<link r:resource="ftp://ftp.tc.cornell.edu/pub/ARCH/ARCH.v.2/" />
+<link r:resource="http://www.garbled.net/clusterit.html" />
+<link r:resource="http://unthought.net/antsd/" />
+<link r:resource="http://daugerresearch.com/pooch/" />
+<link r:resource="http://www.mosix.cs.huji.ac.il/" />
+</topic>

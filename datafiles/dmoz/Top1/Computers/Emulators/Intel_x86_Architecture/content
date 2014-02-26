@@ -1,0 +1,81 @@
+<topic r:id="Top/Computers/Emulators/Intel_x86_Architecture">
+<catid>376160</catid>
+<link r:resource="http://pcemu.sourceforge.net/" />
+<link r:resource="http://bochs.sourceforge.net/" />
+<link r:resource="http://savannah.nongnu.org/projects/plex86/" />
+<link r:resource="http://bfe.sourceforge.net/" />
+<link r:resource="http://plex86.sourceforge.net/" />
+<link r:resource="http://www.bablokb.de/bochs-tools/" />
+<link r:resource="http://www.diku.dk/hjemmesider/studerende/firefly/bochsdoc.html" />
+<link r:resource="http://www.lismoresystems.com/" />
+<link r:resource="http://www.virtualization.info/" />
+<link r:resource="http://www.usenix.org/publications/library/proceedings/usenix-nt97/full_papers/chernoff/chernoff.pdf" />
+<link r:resource="http://www.complang.tuwien.ac.at/schani/bintrans/" />
+<link r:resource="http://www.xensource.com/" />
+<link r:resource="http://www.parallels.com/" />
+<link r:resource="http://www.virtual-strategy.com/" />
+<link r:resource="http://www.moka5.com/" />
+<link r:resource="http://vmblog.com/" />
+<link r:resource="http://www.serenityvirtual.com/" />
+<link r:resource="http://www.virtualbox.org/" />
+<link r:resource="http://www.psyon.org/projects/bochs-win32/" />
+<link r:resource="http://www.psyon.org/projects/bochs-rfb/" />
+<link r:resource="http://www.yellow-bricks.com/" />
+<link r:resource="http://jpc.sourceforge.net/" />
+<link r:resource="http://www.virtualization.net/" />
+<link r:resource="http://www.hampa.ch/pce/pce-ibmpc.html" />
+<link r:resource="http://www.tommowalker.co.uk/pcem.html" />
+<link r:resource="http://sourceforge.net/projects/fake86/" />
+</topic>
+<topic r:id="Top/Computers/Emulators/Intel_x86_Architecture/DOS_and_Windows">
+<catid>376162</catid>
+<link r:resource="http://www.macwindows.com/" />
+<link r:resource="http://www.oldskool.org/pc/flopper/" />
+<link r:resource="http://dosemu.sourceforge.net/" />
+<link r:resource="http://www.dosbox.com/" />
+</topic>
+<topic r:id="Top/Computers/Emulators/Intel_x86_Architecture/DOS_and_Windows/Wine">
+<catid>376163</catid>
+<link r:resource="http://www.faqs.org/faqs/windows-emulation/wine-faq/" />
+<link r:resource="http://www.progsoc.uts.edu.au/~wildfire/wine/" />
+<link r:resource="http://sourceforge.net/projects/winex" />
+<link r:resource="http://people.redhat.com/mstefani/wine/smatch/" />
+<link r:resource="http://www.ota.be/linux/workshops/19981017/wine.html" />
+<link r:resource="http://www.sdconsult.no/linux/wine-doc/" />
+<link r:resource="http://source.winehq.org/" />
+<link r:resource="http://www.codeweavers.com/" />
+<link1 r:resource="http://www.winehq.org/"></link1>
+</topic>
+<topic r:id="Top/Computers/Emulators/Intel_x86_Architecture/Microsoft_Virtual_PC">
+<catid>376161</catid>
+<link r:resource="http://vpc.essjae.com/" />
+<link r:resource="http://www.microsoft.com/windowsserversystem/virtualserver/" />
+<link r:resource="http://blogs.msdn.com/b/virtual_pc_guy/" />
+</topic>
+<topic r:id="Top/Computers/Emulators/Intel_x86_Architecture/QEMU">
+<catid>376165</catid>
+<link r:resource="http://kqemu.sourceforge.net/" />
+<link r:resource="http://sourceforge.net/projects/qeasy/" />
+<link r:resource="http://www.h7.dion.ne.jp/~qemu-win/" />
+<link r:resource="http://wiki.qemu.org/" />
+</topic>
+<topic r:id="Top/Computers/Emulators/Intel_x86_Architecture/VMware">
+<catid>376164</catid>
+<link r:resource="http://www.vmware.com/" />
+<link r:resource="http://www.seifried.org/security/ids/20020107-honeypot-vmware-basics.html" />
+<link r:resource="http://honeypots.sourceforge.net/monitoring_vmware_honeypots.html" />
+<link r:resource="http://www.cs.ucr.edu/~jbyrne/vmware.htm" />
+<link r:resource="http://www.linuxplanet.com/linuxplanet/reviews/1704/1/" />
+<link r:resource="http://www.platespin.com/" />
+<link r:resource="http://vmware0.tripod.com/index.htm" />
+<link r:resource="http://www.robbastiaansen.nl/vmware/vmwareintro.html" />
+<link r:resource="http://www.monkey.org/~marius/pages/?page=VMWare_for_OpenBSD" />
+<link r:resource="http://linuxgazette.net/issue86/ward.html" />
+<link r:resource="http://www.osnews.com/story/3863" />
+<link r:resource="http://www.networkworld.com/news/2003/0528hpexten.html" />
+<link r:resource="http://www.littlewhitedog.com/content-57.html" />
+<link r:resource="http://news.cnet.com/2100-1001-272789.html" />
+<link r:resource="http://www.itworld.com/IDG020219partitioning" />
+<link r:resource="http://www.eweek.com/c/a/Windows/Merrill-Lynch-Inks-Deal-With-VMware/" />
+<link r:resource="http://www.eweek.com/c/a/IT-Infrastructure/VMware-Software-Will-Consolidate-Applications-Services/" />
+</topic>

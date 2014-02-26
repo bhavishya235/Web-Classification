@@ -1,0 +1,87 @@
+<topic r:id="Top/Computers/Computer_Science/Database_Theory">
+<catid>374056</catid>
+<link r:resource="http://dblp.uni-trier.de/" />
+<link r:resource="http://liinwww.ira.uka.de/bibliography/Database/index.html" />
+<link r:resource="http://www.cs.wisc.edu/dbworld/" />
+<link r:resource="http://www.vldb.org/" />
+<link r:resource="http://www.sigmod.org/" />
+<link r:resource="http://myweb.brooklyn.liu.edu/gnarra/database/" />
+<link r:resource="http://www.doc.ic.ac.uk/automed/" />
+<link r:resource="http://www.paragoncorporation.com/ArticleDetail.aspx?ArticleID=20" />
+<link r:resource="http://www.daniel-lemire.com/OLAP/index.html" />
+<link r:resource="http://www.cs.aau.dk/~csj/Glossary/" />
+<link r:resource="http://conceptoriented.org/" />
+<link r:resource="http://www.dbdebunk.com/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Database_Theory/Conferences">
+<catid>374057</catid>
+<link r:resource="http://aitrc.kaist.ac.kr/~vldb06/" />
+<link r:resource="http://www.macs.hw.ac.uk/BNCOD21/" />
+<link r:resource="http://www.science.mii.lt/ADBIS/" />
+<link r:resource="http://fusion.cs.uni-magdeburg.de/dbfusion2001/" />
+<link r:resource="http://www.cis.upenn.edu/~icdt99/" />
+<link r:resource="http://www.dcs.bbk.ac.uk/icdt2001/" />
+<link r:resource="http://www.icdt2005.inf.ed.ac.uk/" />
+<link r:resource="http://sunsite.informatik.rwth-aachen.de/Societies/KRDB/" />
+<link r:resource="http://cimic.rutgers.edu/sigmodpods05/" />
+<link r:resource="http://www.cse.buffalo.edu/~chomicki/inconsistency01.html" />
+<link r:resource="http://www.dia.uniroma3.it/vldb2001/" />
+<link r:resource="http://vldb.idi.ntnu.no/" />
+<link r:resource="http://www.inf.ufsc.br/sbbd99/sbbding/" />
+<link r:resource="http://www.db.ucsd.edu/SIGMODPODS03/welcome.htm" />
+<link r:resource="http://www.cs.washington.edu/homes/suciu/DBPL/" />
+<link r:resource="http://research.microsoft.com/conferences/dbpl05/" />
+<link r:resource="http://www.cs.ioc.ee/adbis2005/" />
+<link r:resource="http://webdb2004.cs.columbia.edu/" />
+<link r:resource="http://www.db.ucsd.edu/webdb2002/" />
+<link r:resource="http://www.dia.uniroma3.it/webdb98/" />
+<link r:resource="http://www.vldb.org/dblp/db/conf/vldb/vldb2004.html" />
+<link r:resource="http://www.disi.unige.it/person/MesitiM/dataX/" />
+<link r:resource="http://www.erow.ua.ac.be/" />
+<link r:resource="http://syrcodis.ispras.ru/2007/" />
+<link r:resource="http://www.vldb.org/dblp/db/conf/vldb/" />
+<link r:resource="http://db.ucsd.edu/webdb2006/" />
+<link r:resource="http://xsym07.ethz.ch/XSym06.html" />
+<link r:resource="http://xsym07.ethz.ch/" />
+<link r:resource="http://www.sigmod08.org/" />
+<link r:resource="https://www.cs.auckland.ac.nz/research/conferences/vldb08/index.php/VLDB_08" />
+<link r:resource="http://www.comp.polyu.edu.hk/conference/ds9/" />
+<link r:resource="http://www.infoplosion.nii.ac.jp/WIRI/wiri2005/" />
+<link r:resource="http://www.cse.ust.hk/vldb2002/" />
+<link r:resource="http://lyle.smu.edu/sigmod2000/" />
+<link r:resource="http://www.cs.ucr.edu/~sstd01/" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Database_Theory/Journals">
+<catid>374059</catid>
+<link r:resource="http://www.sigmod.org/record/" />
+<link r:resource="http://tab.computer.org/tcde/bull_about.html" />
+<link r:resource="http://www.codata.org/dsj/" />
+<link r:resource="http://www.computer.org/portal/web/tkde/" />
+<link r:resource="http://www.igi-pub.com/journals/details.asp?id=198" />
+<link r:resource="http://www.vldb.org/dblp/db/journals/vldb" />
+<link r:resource="http://www.inderscience.com/browse/index.php?journalCODE=ijiids" />
+</topic>
+<topic r:id="Top/Computers/Computer_Science/Database_Theory/Research_Groups">
+<catid>374058</catid>
+<link r:resource="http://www.cs.toronto.edu/db/" />
+<link r:resource="http://db.uwaterloo.ca/" />
+<link r:resource="http://www6.informatik.uni-erlangen.de/" />
+<link r:resource="http://meta.math.spbu.ru/" />
+<link r:resource="http://wwwdb.inf.tu-dresden.de/" />
+<link r:resource="http://db.cis.upenn.edu/" />
+<link r:resource="http://www.dbai.tuwien.ac.at/" />
+<link r:resource="http://www.adrem.ua.ac.be/" />
+<link r:resource="http://db.cs.utwente.nl/" />
+<link r:resource="http://www.eecs.umich.edu/db/" />
+<link r:resource="http://davis.wpi.edu/~dsrg/" />
+<link r:resource="http://www.kbs.twi.tudelft.nl/mmdb/" />
+<link r:resource="http://dbis.informatik.uni-freiburg.de/index.php" />
+<link r:resource="http://www.cs.aau.dk/en/research/dpt/" />
+<link r:resource="http://alpha.uhasselt.be/research/groups/theocomp/" />
+<link r:resource="http://ddm.cs.sfu.ca/" />
+<link r:resource="http://www.lfcs.inf.ed.ac.uk/research/database/" />
+<link r:resource="http://infolab.stanford.edu/" />
+<link r:resource="http://db.cs.washington.edu/" />
+<link r:resource="http://www.ifi.uzh.ch/dbtg/" />
+<link r:resource="http://ndb.cs.aau.dk/" />
+</topic>

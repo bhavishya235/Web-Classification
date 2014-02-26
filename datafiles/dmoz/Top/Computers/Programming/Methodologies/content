@@ -1,0 +1,562 @@
+<topic r:id="Top/Computers/Programming/Methodologies">
+<catid>377470</catid>
+<link r:resource="http://www.ultratechnology.com/forththoughts.htm" />
+<link r:resource="http://www.dsmforum.org/" />
+<link r:resource="http://en.wikipedia.org/wiki/Methodology_(software_engineering)" />
+<link r:resource="http://www.waterfall2006.com/" />
+<link r:resource="http://infohost.nmt.edu/~shipman/soft/clean/" />
+<link r:resource="http://www.gatherspace.com/" />
+<link r:resource="http://ootips.org/" />
+<link r:resource="http://www.sei.cmu.edu/library/assets/jarvis-gristock.pdf" />
+<link r:resource="http://www.waterfall-model.com/" />
+<link r:resource="http://www.hyperthot.com/pm_sdm.htm" />
+<link r:resource="http://www.codeproject.com/KB/architecture/develmethodologies1.aspx" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Agile">
+<catid>377495</catid>
+<link r:resource="http://www.agiledata.org/" />
+<link r:resource="http://c2.com/cgi/wiki?AgilityGroup" />
+<link r:resource="http://www.thoughtworks.com/" />
+<link r:resource="http://www.agilemodeling.com/essays/agileModelingXP.htm" />
+<link r:resource="http://www.agilemodeling.com/" />
+<link r:resource="http://all-technology.com/eigenpolls/asdbooks/" />
+<link r:resource="http://www.martinfowler.com/" />
+<link r:resource="http://firefalcon.blogspot.com/" />
+<link r:resource="http://carlaugustsimon.blogspot.com/" />
+<link r:resource="http://www.targetprocess.com/" />
+<link r:resource="http://www.michaelvizdos.com/" />
+<link r:resource="http://www.rallydev.com/" />
+<link r:resource="http://www.testdriven.com/" />
+<link r:resource="http://www.agilealliance.org/" />
+<link r:resource="http://agilefinland.com/" />
+<link r:resource="http://en.wikipedia.org/wiki/Agile_software_development" />
+<link r:resource="http://www.targetprocess.com/blog/" />
+<link r:resource="http://www.keithbraithwaite.demon.co.uk/professional/presentations/" />
+<link r:resource="http://ng-embedded.blogspot.com/" />
+<link r:resource="http://alistair.cockburn.us/" />
+<link r:resource="http://www.dsdm.org/" />
+<link r:resource="http://en.wikipedia.org/wiki/Dynamic_Systems_Development_Method" />
+<link r:resource="http://alistair.cockburn.us/index.php/Crystal_methodologies_main_foyer" />
+<link r:resource="http://www.objectmentor.com/resources/omi_reports_index.html" />
+<link r:resource="http://www.instrumentalservices.com/" />
+<link r:resource="http://agiletrack.net/" />
+<link r:resource="http://www.versionone.com/" />
+<link r:resource="http://www.accurev.com/" />
+<link r:resource="http://damonpoole.blogspot.com/" />
+<link r:resource="http://www.accurev.com/agile-resource-center.html" />
+<link r:resource="http://effectiveagiledev.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Agile/Extreme_Programming">
+<catid>377497</catid>
+<link r:resource="http://www.extremeprogramming.org/" />
+<link r:resource="http://www.jera.com/techinfo/xpfaq.html" />
+<link r:resource="http://c2.com/cgi/wiki?ExtremeProgrammingRoadmap" />
+<link r:resource="http://ootips.org/xp.html" />
+<link r:resource="http://slashdot.org/books/99/12/21/097256.shtml" />
+<link r:resource="http://www.xp123.com/" />
+<link r:resource="http://c2.com/cgi/wiki?XpGlossary" />
+<link r:resource="http://www.xprogramming.com/" />
+<link r:resource="http://xp123.com/wwake/" />
+<link r:resource="http://en.wikipedia.org/wiki/Extreme_Programming" />
+<link r:resource="http://www.eiffel.com/general/monthly_column/2006/February.html" />
+<link r:resource="http://opensourcearticles.com/extreme_programming/" />
+<link r:resource="http://www.threeriversinstitute.org/" />
+<link r:resource="http://www.technologyreview.com/Infotech/13378/" />
+<link r:resource="http://www.cutter.com/content-and-analysis/resource-centers/agile-project-management/sample-our-research/ead0002.html" />
+<link r:resource="http://tech.groups.yahoo.com/group/extremeprogramming/" />
+<link r:resource="http://clabs.org/blog/TheCaseForXP" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Agile/Extreme_Programming/Companies">
+<catid>377499</catid>
+<link r:resource="http://industriallogic.com/xp/index.html" />
+<link r:resource="http://www.jera.com/" />
+<link r:resource="http://www.rolemodelsoftware.com/" />
+<link r:resource="http://www.industriallogic.com/" />
+<link r:resource="http://www.binaryessentials.com/" />
+<link r:resource="http://www.greendoorservices.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Agile/Extreme_Programming/Conferences">
+<catid>377498</catid>
+<link r:resource="http://www.xpday.net/" />
+<link r:resource="http://www.agileopen.net/" />
+<link r:resource="http://www.xpdays.de/" />
+<link r:resource="http://virtual.vtt.fi/virtual/xp2006/" />
+<link r:resource="http://xpday.wordpress.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Agile/Extreme_Programming/User_Groups">
+<catid>377500</catid>
+<link r:resource="http://www.c2.com/cgi/wiki?CategoryXpUsersGroup" />
+<link r:resource="http://www.bcs-spa.org/cgi-bin/view/SPA/SpaNw" />
+<link r:resource="http://tech.groups.yahoo.com/group/xpsig/" />
+<link r:resource="http://tech.groups.yahoo.com/group/melbourne_XP_enthusiasts/" />
+<link r:resource="http://tech.groups.yahoo.com/group/xpmontreal/" />
+<link r:resource="http://www.bayxp.org/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Agile/Feature_Driven_Development">
+<catid>377496</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Feature_Driven_Development" />
+<link1 r:resource="http://www.featuredrivendevelopment.com/"></link1>
+<link r:resource="http://www.nebulon.com/fdd/" />
+<link r:resource="http://fddtools.sourceforge.net/" />
+<link r:resource="http://www.methodsandtools.com/archive/archive.php?id=19" />
+<link r:resource="http://www.agilemodeling.com/essays/fdd.htm" />
+<link r:resource="http://www.sitepoint.com/successful-development/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Agile/Lean_Programming">
+<catid>377501</catid>
+<link r:resource="http://leansoftwarecincinnati.blogspot.com/" />
+<link r:resource="http://en.wikipedia.org/wiki/Lean_software_development" />
+<link1 r:resource="http://www.poppendieck.com/"></link1>
+<link r:resource="http://www.projectperfect.com.au/info_lean_development.php" />
+<link r:resource="http://cincinnati.bizjournals.com/cincinnati/stories/2003/01/27/newscolumn2.html" />
+<link r:resource="http://tech.groups.yahoo.com/group/leandevelopment/" />
+<link r:resource="http://searchsoftwarequality.techtarget.com/definition/lean-programming" />
+<link r:resource="http://www.drdobbs.com/lean-programming/184414734" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Agile/Scrum">
+<catid>377502</catid>
+<link r:resource="http://www.controlchaos.com/" />
+<link r:resource="http://en.wikipedia.org/wiki/Scrum_(management)" />
+<link r:resource="http://en.wikipedia.org/wiki/Scrum_(development)" />
+<link r:resource="http://www.stickyminds.com/sitewide.asp?Function=WEEKLYCOLUMN&amp;ObjectId=8692" />
+<link r:resource="http://groups.yahoo.com/group/scrumdevelopment/" />
+<link r:resource="http://www.implementingscrum.com/" />
+<link r:resource="http://www.scrumalliance.org/" />
+<link r:resource="http://www.itwales.com/998612.htm" />
+<link r:resource="http://www.ibm.com/developerworks/rational/library/feb05/krebs/" />
+<link r:resource="http://www.learnsoftwareprocesses.com/" />
+<link r:resource="http://advancedtopicsinscrum.com/" />
+<link r:resource="http://www.scrumbythegenerals.com/" />
+<link r:resource="http://www.scrumconsultant.com/" />
+<link r:resource="http://www.bananascrum.com/" />
+<link r:resource="http://judykat.com/ken-judy/" />
+<link r:resource="http://www.mountaingoatsoftware.com/topics/scrum" />
+<link r:resource="http://xp123.com/articles/scrum-development-on-a-page/" />
+<link r:resource="http://www.drdobbs.com/managers-manage/184414912" />
+<link r:resource="http://www.drdobbs.com/wicked-projects/184414851" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Aspect-Oriented">
+<catid>377485</catid>
+<link r:resource="http://www.comp.lancs.ac.uk/computing/aop/" />
+<link r:resource="http://www.ccs.neu.edu/research/demeter/aop/publicity/mit-tech-review.html" />
+<link r:resource="http://aosd.net/" />
+<link r:resource="http://www.ccs.neu.edu/research/demeter/biblio/aspectual-comps.html" />
+<link r:resource="http://trese.cs.utwente.nl/oldhtml/composition_filters/" />
+<link r:resource="http://www.emn.fr/x-info/sudholt/publ.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Aspect-oriented_programming" />
+<link r:resource="http://www.cs.iit.edu/~oaldawud/AOM/" />
+<link r:resource="http://aopalliance.sourceforge.net/" />
+<link r:resource="http://www.comp.lancs.ac.uk/~marash/aopws2001/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Aspect-Oriented/Adaptive_Programming">
+<catid>377487</catid>
+<link r:resource="http://www.ccs.neu.edu/home/lieber/LoD.html" />
+<link r:resource="http://www.ccs.neu.edu/home/lieber/connection-to-aop.html" />
+<link r:resource="http://www.ccs.neu.edu/research/demeter/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Aspect-Oriented/Articles">
+<catid>377486</catid>
+<link r:resource="http://www.javaworld.com/javaworld/jw-01-2002/jw-0118-aspect.html" />
+<link r:resource="http://www.drdobbs.com/once-more-from-the-top/184415273" />
+<link r:resource="http://www.drdobbs.com/the-new-modularity/184415192" />
+<link r:resource="http://www.drdobbs.com/thinking-aspects/184415176" />
+<link r:resource="http://www.drdobbs.com/show-me-the-structure/184415128" />
+<link r:resource="http://www.drdobbs.com/the-key-to-aop/184415066" />
+<link r:resource="http://www.drdobbs.com/testing-the-waters/184415054" />
+<link r:resource="http://www.drdobbs.com/double-decker/184415257" />
+<link r:resource="http://www.drdobbs.com/the-case-for-aspects/184415043" />
+<link r:resource="http://www.drdobbs.com/common-misconceptions/184415113" />
+<link r:resource="http://www.drdobbs.com/its-not-metaprogramming/184415220" />
+<link r:resource="http://www.drdobbs.com/palpable-progess/184415152" />
+<link r:resource="http://www.drdobbs.com/tools/the-aop-report-card/184415082" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Aspect-Oriented/Development_Tools">
+<catid>377488</catid>
+<link r:resource="http://www.aspectc.org/" />
+<link r:resource="http://www.zope.org/Members/pje/Wikis/TransWarp/HomePage" />
+<link r:resource="http://aspectr.sourceforge.net/" />
+<link r:resource="http://www.postsharp.net/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Capability_Maturity_Model">
+<catid>377493</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Capability_Maturity_Model" />
+<link1 r:resource="http://www.sei.cmu.edu/cmmi/"></link1>
+<link r:resource="http://www.tc.umn.edu/~hause011/article/Capability_maturity_models.html" />
+<link r:resource="http://www.tutorialspoint.com/cmmi/index.htm" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Evolutionary_Delivery">
+<catid>377471</catid>
+<link r:resource="http://c2.com/cgi/wiki?EvolutionaryDelivery" />
+<link r:resource="http://www.davethehat.com/articles/ed.htm" />
+<link r:resource="http://www.gilb.com/" />
+<link r:resource="http://www.methodsandtools.com/archive/archive.php?id=6" />
+<link r:resource="http://www.malotaux.nl/?id=evo" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Generative_Programming">
+<catid>377483</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Generative_programming" />
+<link r:resource="http://www.program-transformation.org/Transform/GenerativeProgrammingWiki" />
+<link r:resource="http://mozart-dev.sourceforge.net/cp.html" />
+<link r:resource="http://developers.slashdot.org/article.pl?sid=02/11/27/1720249" />
+<link r:resource="http://en.wikipedia.org/wiki/Concept_programming" />
+<link r:resource="http://www.springerlink.com/content/kyuyqernba7e/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Intentional_Programming">
+<catid>377518</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Intentional_Programming" />
+<link1 r:resource="http://www.intentsoft.com/"></link1>
+<link r:resource="http://www.pcmag.com/article2/0,1759,1610347,00.asp" />
+<link r:resource="http://www.technologyreview.com/Infotech/13377/" />
+<link r:resource="http://mozart-dev.sourceforge.net/cp-vs-ip.html" />
+<link r:resource="http://www.edge.org/digerati/simonyi/simonyi_p1.html" />
+<link r:resource="http://www.lutzroeder.com/paper/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Language_Oriented_Programming">
+<catid>377484</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Language-oriented_programming" />
+<link1 r:resource="http://www.onboard.jetbrains.com/is1/articles/04/10/lop/"></link1>
+<link r:resource="http://www.sergeydmitriev.com/" />
+<link r:resource="http://www.paulgraham.com/progbot.html" />
+<link r:resource="http://lambda-the-ultimate.org/node/377/" />
+<link r:resource="http://www.javalobby.org/java/forums/t19155.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Domain-specific_programming_language" />
+<link r:resource="http://wesnerm.blogs.com/net_undocumented/2005/01/language_orient.html" />
+<link r:resource="http://www.softwaregenerators.com/" />
+<link r:resource="http://jroller.com/page/ccnelson?entry=domain_driven_development_and_language" />
+<link r:resource="http://www.theserverside.com/news/thread.tss?thread_id=30004" />
+<link r:resource="http://portal.acm.org/citation.cfm?id=316286" />
+<link r:resource="http://martinfowler.com/bliki/DomainSpecificLanguage.html" />
+<link r:resource="http://www.bayfronttechnologies.com/" />
+<link r:resource="http://www.cse.dmu.ac.uk/~mward/martin/papers/middle-out-t.pdf" />
+<link r:resource="http://www.osnews.com/comments/8950" />
+<link r:resource="http://devnet.jetbrains.com/community/onboard/language_oriented_programming__the_next_programming_paradigm" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Literate_Programming">
+<catid>377494</catid>
+<link r:resource="http://www.desy.de/user/projects/LitProg.html" />
+<link r:resource="http://www-cs-faculty.stanford.edu/~knuth/cweb.html" />
+<link r:resource="http://www-cs-faculty.stanford.edu/~knuth/lp.html" />
+<link1 r:resource="http://www.literateprogramming.com/"></link1>
+<link r:resource="http://www.c2.com/cgi/wiki?LiterateProgramming" />
+<link r:resource="http://liinwww.ira.uka.de/bibliography/SE/litprog.html" />
+<link r:resource="http://vasc.ri.cmu.edu/old_help/Programming/Literate/literate.html" />
+<link r:resource="http://nwalsh.com/docs/articles/xml2002/lp/paper.html" />
+<link r:resource="http://xmlp.sourceforge.net/" />
+<link r:resource="http://literatexml.sourceforge.net/" />
+<link r:resource="http://www.amrita-cfd.org/" />
+<link r:resource="http://www.faqs.org/faqs/literate-programming-faq/" />
+<link r:resource="http://www.cs.aau.dk/~normark/elucidative-programming/" />
+<link r:resource="http://elucidator.sourceforge.net/" />
+<link r:resource="http://www.ross.net/funnelweb/" />
+<link r:resource="http://en.wikipedia.org/wiki/Literate_programming" />
+<link r:resource="http://nuweb.sourceforge.net/" />
+<link r:resource="http://w3.pppl.gov/~krommes/fweb_toc.html" />
+<link r:resource="http://xml.coverpages.org/xmlLitProg.html" />
+<link r:resource="http://www.cs.tufts.edu/~nr/noweb/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Modeling_Languages">
+<catid>377473</catid>
+<link r:resource="http://www.maml.hu/" />
+<link r:resource="http://www.modelica.org/" />
+<link r:resource="http://www.virtual-optima.com/en/index.html" />
+<link r:resource="http://www.casetalk.com/php/index.php?FCO-IM" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Modeling_Languages/Unified_Modeling_Language">
+<catid>377474</catid>
+<link r:resource="http://www.objectsbydesign.com/" />
+<link r:resource="http://www.cs.york.ac.uk/puml/" />
+<link r:resource="http://www.db.informatik.uni-bremen.de/umlbib/" />
+<link r:resource="http://www.angelfire.com/space/umltutor/" />
+<link r:resource="http://www.onesmartclick.com/programming/unified-modeling-language.html" />
+<link r:resource="http://www.visual-paradigm.com/VPGallery/index.html" />
+<link1 r:resource="http://www.uml.org/"></link1>
+<link r:resource="http://jucmnav.softwareengineering.ca/twiki/bin/view/UCM/WebHome" />
+<link r:resource="http://www-306.ibm.com/software/rational/uml/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Modeling_Languages/Unified_Modeling_Language/Articles">
+<catid>377475</catid>
+<pdf r:resource="http://martinfowler.com/apsupp/appfacades.pdf"></pdf>
+<link r:resource="http://www.objectmentor.com/resources/articles/umlClassDiagrams.pdf?" />
+<link r:resource="http://www.trireme.com/whitepapers/process/xp-uml/xp-uml-short_files/frame.htm" />
+<link r:resource="http://www.agilemodeling.com/essays/realisticUML.htm" />
+<link r:resource="http://www.objectmentor.com/resources/articles/cplxtrns.pdf" />
+<link r:resource="http://en.wikipedia.org/wiki/Unified_Modeling_Language" />
+<link r:resource="http://www.student.nada.kth.se/~md96-ani/JModeller/PPD.htm" />
+<link r:resource="http://www.ibm.com/developerworks/rational/library/139.html" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Modeling_Languages/Unified_Modeling_Language/Books">
+<catid>377476</catid>
+<link1 r:resource="http://liinwww.ira.uka.de/bibliography/SE/uml.html"></link1>
+<link r:resource="http://www.iconixsw.com/UMLBook.html" />
+<link r:resource="http://www.ambysoft.com/books/buildingObjectApplications.html" />
+<link r:resource="http://www.ambysoft.com/books/elementsUMLStyle.html" />
+<link r:resource="http://oreilly.com/catalog/9781565924482/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Modeling_Languages/Unified_Modeling_Language/Education">
+<catid>377480</catid>
+<link r:resource="http://www.angelfire.com/space/umltutor/" />
+<link r:resource="http://www.cragsystems.co.uk/" />
+<link r:resource="http://www.iconixsw.com/" />
+<link r:resource="http://www.visual-paradigm.com/partner/academic/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Modeling_Languages/Unified_Modeling_Language/FAQs,_Help,_and_Tutorials">
+<catid>377477</catid>
+<link r:resource="http://www.sparxsystems.com.au/UML_Tutorial.htm" />
+<link r:resource="http://forums.visual-paradigm.com/" />
+<link r:resource="http://sinsha.o-f.com/" />
+<link r:resource="http://www.parlezuml.com/" />
+<link r:resource="http://www.visual-paradigm.com/product/vpuml/vpumluserguide.jsp" />
+<link r:resource="http://www.visual-paradigm.com/highlight/highlightcodeengineering.jsp" />
+<link r:resource="http://www.objectmentor.com/resources/articles/UMLSequenceDiagrams.pdf" />
+<link r:resource="http://www.informit.com/store/product.aspx?isbn=0201895420" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Modeling_Languages/Unified_Modeling_Language/Methods">
+<catid>377481</catid>
+<link r:resource="http://umlmethod.freeservers.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Modeling_Languages/Unified_Modeling_Language/Reference">
+<catid>377479</catid>
+<link r:resource="http://zvon.org/xxl/XMI/Output/" />
+<link r:resource="http://www.oio.de/uml-1-4-reference.htm" />
+<link r:resource="http://www.visual-paradigm.com/product/sde/sdejavauserguide.jsp" />
+<link r:resource="ftp://ftp.omg.org/pub/docs/ad/97-08-07.pdf" />
+<link r:resource="http://www.cse.wustl.edu/~kjg/cse132/forms/UML%20notation%20guide.pdf" />
+<link r:resource="ftp://ftp.omg.org/pub/docs/ad/97-08-03.pdf" />
+<link r:resource="ftp://ftp.omg.org/pub/docs/ad/97-08-04.pdf" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Modeling_Languages/Unified_Modeling_Language/Tools">
+<catid>377478</catid>
+<link r:resource="http://www.excelsoftware.com/" />
+<link r:resource="http://www.metacase.com/" />
+<link r:resource="http://www.microgold.com/" />
+<link r:resource="http://www.sparxsystems.com.au/" />
+<link r:resource="http://www.visualuml.com/" />
+<link r:resource="http://www.objectsbydesign.com/tools/umltools_byPlatform.html" />
+<link r:resource="http://plg.uwaterloo.ca/~migod/uml.html" />
+<link r:resource="http://www.microtool.de/objectiF/en/" />
+<link r:resource="http://www.isis.vanderbilt.edu/Projects/gme/" />
+<link r:resource="http://www.logicexplorers.com/" />
+<link r:resource="http://horstmann.com/violet/" />
+<link r:resource="http://www.modelmakertools.com/" />
+<link r:resource="http://www.sdmetrics.com/" />
+<link r:resource="http://www.magicdraw.com/" />
+<link r:resource="http://www.selectbs.com/products/products/component_architect.htm" />
+<link r:resource="http://www.microsoft.com/office/visio/" />
+<link r:resource="http://www.leapse.com/" />
+<link r:resource="http://www.gorillalogic.com/" />
+<link r:resource="http://sourceforge.net/projects/xcoder" />
+<link r:resource="http://uml2svg.sourceforge.net/" />
+<link r:resource="http://www.sequencediagrameditor.com/" />
+<link r:resource="http://www.cadifra.com/" />
+<link r:resource="http://umlsculptor.sourceforge.net/" />
+<link r:resource="http://www.umleditor.org/" />
+<link r:resource="http://dpatoolkit.sourceforge.net/" />
+<link r:resource="http://motionmodeling.sourceforge.net/" />
+<link r:resource="http://www.gentleware.com/" />
+<link r:resource="http://argouml.tigris.org/" />
+<link r:resource="http://metauml.sourceforge.net/" />
+<link r:resource="http://www.codeless.com/" />
+<link r:resource="http://www.sandrila.co.uk/" />
+<link r:resource="http://www.umlet.com/" />
+<link r:resource="http://www.empowertec.de/products/rational-rose-ocl.htm" />
+<link r:resource="http://www.slimeuml.de/" />
+<link r:resource="http://www.aonix.com/stp_uml.html" />
+<link r:resource="http://uml.sourceforge.net/" />
+<link r:resource="http://octopus.sourceforge.net/" />
+<link r:resource="http://www.visual-paradigm.com/product/vpuml/" />
+<link r:resource="http://gaphor.sourceforge.net/" />
+<link r:resource="http://www.andromda.org/" />
+<link r:resource="http://www.p-umlaut.de/" />
+<link r:resource="http://argo2ecore.sourceforge.net/" />
+<link r:resource="http://umt-qvt.sourceforge.net/" />
+<link r:resource="http://unimod.sourceforge.net/" />
+<link r:resource="http://www-306.ibm.com/software/awdtools/library/standards/ocl-download.html" />
+<link r:resource="http://jude.change-vision.com/jude-web/index.html" />
+<link r:resource="http://alexdp.free.fr/violetumleditor/page.php" />
+<link r:resource="http://live.gnome.org/Dia" />
+<link r:resource="http://www.mentor.com/products/embedded_software/nucleus_modeling/" />
+<link r:resource="http://www-306.ibm.com/software/awdtools/developer/rose/" />
+<link r:resource="http://www.sybase.com/products/modelingmetadata/powerdesigner" />
+<link r:resource="http://www.telelogic.com/products/systemarchitect/" />
+<link r:resource="http://www.telelogic.com/products/tau/" />
+<link r:resource="http://www.brucker.ch/projects/hol-ocl/" />
+<link r:resource="http://bouml.free.fr/" />
+<link r:resource="http://use-case-maker.sourceforge.net/" />
+<link r:resource="http://www.eclipse.org/modeling/mdt/?project=uml2" />
+<link r:resource="http://www.classdraw.com/" />
+<link r:resource="http://www2.cs.uni-paderborn.de/cs/ag-schaefer/Lehre/PG/FUJABA/" />
+<link r:resource="http://uniquesoftwaredesigns.com/datamaster.html" />
+<link r:resource="http://www.umlgraph.org/" />
+<link r:resource="http://astah.net/" />
+<link r:resource="http://sodius.com/mdworkbench" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Object-Oriented">
+<catid>377503</catid>
+<link r:resource="http://www.jot.fm/issues/" />
+<link r:resource="http://www.jeffsutherland.org/" />
+<link r:resource="http://www.jroller.com/portlets/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Object-Oriented/BON">
+<catid>377504</catid>
+<link r:resource="http://archive.eiffel.com/products/bon.html" />
+<link r:resource="http://www.bon-method.com/index_normal.htm" />
+<link r:resource="http://www.cse.yorku.ca/~paige/Bon/bon.html" />
+<link r:resource="http://www.bon-method.com/book_print_a4.pdf" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Object-Oriented/Booch">
+<catid>377505</catid>
+<link r:resource="http://thecelebritycafe.com/interviews/grady_booch.html" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Object-Oriented/Companies_and_Consultants">
+<catid>377506</catid>
+<link r:resource="http://davidvancamp.com/" />
+<link r:resource="http://www.empulsys.com/" />
+<link r:resource="http://www.metamaxim.com/" />
+<link r:resource="http://www.neco-ti.com/sds/DefaultEN.asp" />
+<link r:resource="http://www.derman.com/" />
+<link r:resource="http://www.pallene.com/" />
+<link r:resource="http://www.langrsoft.com/" />
+<link r:resource="http://www.dthomas.co.uk/dtalm/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Object-Oriented/Criticism">
+<catid>377511</catid>
+<link r:resource="http://www.usenix.org/publications/library/proceedings/sf94/full_papers/johnson.html" />
+<link r:resource="http://catless.ncl.ac.uk/Risks/8.08.html#subj1" />
+<link r:resource="http://www.softwarereality.com/" />
+<link r:resource="http://dreamsongs.com/ObjectsHaveFailedNarrative.html" />
+<link r:resource="http://onestepback.org/articles/poly/" />
+<link r:resource="http://www.sics.se/~joe/bluetail/vol1/v1_oo.html" />
+<link r:resource="http://acmqueue.com/modules.php?name=Content&amp;pa=showpage&amp;pid=247&amp;page=1" />
+<link r:resource="http://www.geocities.com/SiliconValley/Lab/6888/oopbad.htm" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Object-Oriented/Fusion">
+<catid>377510</catid>
+<link r:resource="http://c2.com/cgi/wiki?FusionMethodology" />
+<link r:resource="http://www.hpl.hp.com/techreports/95/HPL-95-50.html" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Object-Oriented/OPEN">
+<catid>377507</catid>
+<link r:resource="http://www.verdewek.com/openmetis/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Object-Oriented/Organizations">
+<catid>377508</catid>
+<link r:resource="http://www.omg.org/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Patterns_and_Anti-Patterns">
+<catid>377489</catid>
+<link r:resource="http://dpatoolkit.sourceforge.net/" />
+<link r:resource="http://www.ccs.neu.edu/research/demeter/" />
+<link r:resource="http://c2.com/ppr/index.html" />
+<link r:resource="http://www.mit.edu/~jtidwell/interaction_patterns.html" />
+<link r:resource="http://www.swtech.com/dpattern/" />
+<link r:resource="http://c2.com/cgi/wiki?LordOfTheFlies" />
+<link r:resource="http://www.laputan.org/mud/" />
+<link r:resource="http://martinfowler.com/articles.html#id2251585" />
+<link r:resource="http://www.objectarchitects.de/arcus/" />
+<link r:resource="http://www.objectarchitects.de/ObjectArchitects/orpatterns/" />
+<link r:resource="http://hillside.net/patterns/" />
+<link r:resource="http://www.maplefish.com/todd/papers/experiences/Experiences.html" />
+<link r:resource="http://www.jera.com/techinfo/duck.html" />
+<link r:resource="http://c2.com/cgi/wiki?PatternLanguageForTheWeb" />
+<link r:resource="http://www.moisesdaniel.com/wri/metapatterns.html" />
+<link r:resource="http://www.abracadabrasolutions.com/JUnitArticle.htm" />
+<link r:resource="http://www.c2.com/cgi/wiki?UnixShellPatterns" />
+<link r:resource="http://mahemoff.com/" />
+<link r:resource="http://www.ambysoft.com/essays/processPatternsPaper.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Design_pattern_(computer_science)" />
+<link r:resource="http://www.fluffycat.com/java-design-patterns/" />
+<link r:resource="http://www.welie.com/" />
+<link r:resource="http://www.visi.com/~snowfall/InteractionPatterns.html" />
+<link r:resource="http://www.netobjectives.com/resources/books/design-patterns-explained/" />
+<link r:resource="http://www.vincehuston.org/dp/" />
+<link r:resource="http://radio-weblogs.com/0122027/stories/2003/10/20/implementingTheSingletonPatternInJava.html" />
+<link r:resource="http://hillside.net/conferences/plop" />
+<link r:resource="http://www.ksc.com/articles/patternlanguage.htm" />
+<link r:resource="http://st-www.cs.illinois.edu/users/droberts/evolve.html" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Patterns_and_Anti-Patterns/FAQs,_Help,_and_Tutorials">
+<catid>377490</catid>
+<link r:resource="http://www.hackcraft.net/raii/" />
+<link r:resource="http://norvig.com/design-patterns/" />
+<link r:resource="http://gee.cs.oswego.edu/dl/pd-FAQ/pd-FAQ.html" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Patterns_and_Anti-Patterns/Journals">
+<catid>377492</catid>
+<link r:resource="http://www.mindspring.com/~mgrand/pattern_synopses.htm" />
+<link r:resource="http://www.smallmemory.com/" />
+<link r:resource="http://www.vraps.com/index.jsp" />
+<link r:resource="http://www.ambysoft.com/books/processPatterns.html" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Patterns_and_Anti-Patterns/Reviews">
+<catid>377491</catid>
+<link r:resource="http://www.drbob42.com/reviews/patterns.htm" />
+<link r:resource="http://www.ambysoft.com/books/moreProcessPatterns.html" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Refactoring">
+<catid>377512</catid>
+<link r:resource="http://www.martinfowler.com/" />
+<link r:resource="http://www.refactory.com/" />
+<link r:resource="http://csdl2.computer.org/persagen/DLAbsToc.jsp?resourcePath=/dl/trans/ts/&amp;toc=comp/trans/ts/2004/02/e2toc.xml&amp;DOI=10.1109/TSE.2004.1265817" />
+<link r:resource="http://industriallogic.com/xp/refactoring/" />
+<link r:resource="http://www.jot.fm/issues/issue_2005_01/column1/" />
+<link r:resource="http://en.wikipedia.org/wiki/Code_refactoring" />
+<link r:resource="http://sourcemaking.com/refactoring" />
+<link r:resource="http://www.agiledata.org/essays/databaseRefactoringCatalog.html" />
+<link r:resource="http://st-www.cs.illinois.edu/users/droberts/" />
+<link r:resource="http://cseweb.ucsd.edu/users/wgg/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Refactoring/Tools">
+<catid>377513</catid>
+<link r:resource="http://bicyclerepair.sourceforge.net/" />
+<link r:resource="http://www.aggiorno.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Secure_Programming">
+<catid>377482</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Defensive_programming" />
+<link r:resource="http://www.onlamp.com/pub/a/onlamp/excerpt/PUIS3_chap16/index1.html" />
+<link r:resource="http://www.dwheeler.com/secure-programs/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Six_Sigma">
+<catid>377515</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Six_Sigma" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Software_Product_Line">
+<catid>377472</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Product_Family_Engineering" />
+<link1 r:resource="http://www.softwareproductlines.com/"></link1>
+<link1 r:resource="http://www.sei.cmu.edu/productlines/"></link1>
+<link r:resource="http://www.informatik.uni-trier.de/~ley/db/conf/pfe/" />
+<link r:resource="http://www.informatik.uni-trier.de/~ley/db/conf/splc/" />
+<link r:resource="http://www.esi.es/Families/" />
+<link r:resource="http://www.cs.utexas.edu/users/schwartz/" />
+<link r:resource="http://www.biglever.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Structured">
+<catid>377514</catid>
+<link r:resource="http://www.its.bldrdoc.gov/fs-1037/dir-035/_5154.htm" />
+<link r:resource="http://www.robelle.com/library/smugbook/structpr.html" />
+<link r:resource="http://cisx2.uma.maine.edu/NickTemp/JSP&amp;JSDLec/jsd.html" />
+<link r:resource="http://www.dsisoft.com/jackson_system_development.html" />
+<link r:resource="http://www.felgall.com/struc.htm" />
+<link r:resource="http://c2.com/cgi/wiki?StructuredProgramming" />
+<link r:resource="http://portal.acm.org/citation.cfm?id=362929.362947" />
+<link r:resource="http://www.smartdraw.com/resources/tutorials/jackson-system-development-diagrams/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Unified_Process">
+<catid>377516</catid>
+<link r:resource="http://www.agilemodeling.com/essays/agileModelingRUP.htm" />
+<link r:resource="http://www.enterpriseunifiedprocess.info/" />
+<link r:resource="http://www.jeckle.de/files/uniproc.pdf" />
+<link r:resource="http://www.mathematik.uni-marburg.de/~hesse/papers/Hes_01b.pdf" />
+<link r:resource="http://people.cs.uchicago.edu/~matei/CSPP523/lect4.ppt" />
+<link r:resource="http://www.augustana.ab.ca/~mohrj/courses/2000.winter/csc220/papers/rup_best_practices/rup_bestpractices.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Rational_Unified_Process" />
+<link r:resource="http://www.ibm.com/software/awdtools/rmc/" />
+<link r:resource="http://www.iconatg.com/iconprocess/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Methodologies/Unified_Process/Tools">
+<catid>377517</catid>
+<link r:resource="http://www.iconixsw.com/QuickStartForRUP.html" />
+<link r:resource="http://readyset.tigris.org/" />
+<link r:resource="http://readysetpro.com/" />
+</topic>

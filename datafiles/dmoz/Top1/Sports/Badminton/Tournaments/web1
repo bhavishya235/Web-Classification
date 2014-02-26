@@ -1,0 +1,965 @@
+====================<http://www.swissopen.com/>====================
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	- - - - - - - - - - - - - - - -
+	Website TYPO3 created by                    
+	webgearing ag
+	Zuchwilerstr. 2
+	CH-4500 Solothurn
+	Tel +41 (0)32 621 21 12               
+	Mail: info@webgearing.com     
+	Website: www.webgearing.com                                
+	- - - - - - - - - - - - - - - -
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2013 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+
+<base href="http://www.swissopen.com/">
+<link rel="shortcut icon" href="http://www.swissopen.com/fileadmin/templates/default/css/images/favicon.ico" type="image/x-ico; charset=binary">
+<link rel="icon" href="http://www.swissopen.com/fileadmin/templates/default/css/images/favicon.ico" type="image/x-ico; charset=binary">
+
+<meta name="generator" content="TYPO3 4.7 CMS">
+<meta name="content-language" content="de">
+<meta name="description" content="Swissopen">
+<meta name="keywords" content="Swissopen">
+<meta name="publisher" content="webgearing ag (www.webgearing.com)">
+
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/imagecycle/res/css/style.css?1381753515" media="all">
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_4584df651f.css?1381754358" media="all">
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/powermail/Resources/Public/Css/jquery.ui.theme.css?1380817581" media="all">
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/powermail/Resources/Public/Css/jquery.ui.datepicker.css?1380817581" media="all">
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/powermail/Resources/Public/Css/CssBasic.css?1380817581" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/default/css/fonts.css?1380675652" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/default/css/style.css?1385720279" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/default/jquery.countdown-1.6.3/jquery.countdown.css?1375529002" media="all">
+
+
+<script src="uploads/tx_t3jquery/jquery-1.8.x-1.8.x.js?1385033996" type="text/javascript"></script>
+<script src="fileadmin/templates/default/jquery.countdown-1.6.3/jquery.countdown.min.js?1375528862" type="text/javascript"></script>
+<script src="fileadmin/templates/default/js/countdown.js?1385038146" type="text/javascript"></script>
+<script src="fileadmin/templates/default/jquery.countdown-1.6.3/jquery.countdown-de.js?1343910680" type="text/javascript"></script>
+<script src="typo3temp/javascript_ebd9c81938.js?1380874714" type="text/javascript"></script>
+
+
+<title>Swissopen [Home]</title><link rel="stylesheet" href="typo3conf/ext/perfectlightbox/res/css/slightbox.css" type="text/css" media="screen,projection" /><script type="text/javascript" src="typo3conf/ext/perfectlightbox/res/js/slimbox.2.0.4.yui.js"></script><script type="text/javascript">
+	SlimboxOptions.resizeSpeed = 400;
+	SlimboxOptions.overlayOpacity = 0.8;
+	SlimboxOptions.loop = true;
+	SlimboxOptions.allowSave = false;
+	SlimboxOptions.slideshowAutoplay = false;
+	SlimboxOptions.slideshowInterval = 5000;
+	SlimboxOptions.slideshowAutoclose = true;
+	SlimboxOptions.counterText = 'Bild ###x### von ###y###';</script>
+</head>
+<body id="de" >
+
+<div class="header">
+	<div class="shell clearfix">
+		<ul class="language">
+			<li class=first><a href="de/home/" target="_top" class="current">deutsch</a></li><li><a href="en/home/" target="_top" >english</a></li>
+		</ul>
+		<div class="logo">
+			<a href="/de/home/"><img src="fileadmin/templates/default/css/images/logo.jpg" id="logo" /></a>
+		</div>                
+		<div class="header-cnt">
+			<div class="partners">
+                <div id="c1" class="csc-default"><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap"><div class="csc-textpic-center-outer"><div class="csc-textpic-center-inner"><div class="csc-textpic-imagerow csc-textpic-imagerow-last"><div class="csc-textpic-imagecolumn csc-textpic-firstcol"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.bwfbadminton.org" target="_blank" ><img src="uploads/pics/Swissopen_Website2014444_02.png" width="57" height="30"  alt=""></a></figure></div>
+<div class="csc-textpic-imagecolumn"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.swiss-badminton.ch" target="_blank" ><img src="uploads/pics/partner1.png" width="80" height="30"  alt=""></a></figure></div>
+<div class="csc-textpic-imagecolumn csc-textpic-lastcol"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.swisstopsport.ch" target="_blank" ><img src="uploads/pics/partner3.png" width="85" height="30"  alt=""></a></figure></div></div></div></div></div></div></div>
+			</div>            
+			<ul class="socials">
+				<li class="facebook"><a href="http://www.facebook.com/badmintonswissopen" target="_blank"></a></li>
+				<li class="twitter"><a href="http://www.twitter.com/badswissopen" target="_blank"></a></li>
+			</ul>
+            <div class="tournament"><header class="csc-header csc-header-n1"><h1 class="csc-firstHeader">Internationales Grand Prix Gold Turnier Preisgeld USD 125 000.–</h1></header><p><b>11.–16. März 2014,</b> St. Jakobshalle Basel</p></div>             
+		</div>
+	</div><!-- /shell -->
+</div><!-- /header -->
+
+<div class="nav">
+	<div class="shell">
+        <ul><li><a href="de/aktuell/wettkampf/"  >Aktuell</a><ul><li><div><a href="de/aktuell/facts/"  >Facts</a></div></li><li><div><a href="de/aktuell/wettkampf/"  >Wettkampf</a></div></li><li><div><a href="de/aktuell/tagesprogramm/"  >Tagesprogramm</a></div></li><li><div><a href="de/aktuell/tagesberichte/"  >Tagesberichte</a></div></li><li><div><a href="de/aktuell/live-streaming/"  >Live-Streaming</a></div></li><li><div><a href="de/aktuell/live-scoring/"  >Live-Scoring</a></div></li><li><div><a href="de/aktuell/videos/"  >Videos</a></div></li></ul></li><li><a href="de/zuschauer/tickets/"  >Zuschauer</a><ul><li><div><a href="de/zuschauer/tickets/"  >Tickets</a></div></li><li><div><a href="de/zuschauer/weekend-in-basel/"  >Weekend in Basel</a></div></li><li><div><a href="de/zuschauer/anreiseunterkunft/"  >Anreise/Unterkunft</a></div></li><li><div><a href="de/zuschauer/rahmenprogramm/"  >Rahmenprogramm</a></div></li><li><div><a href="de/zuschauer/badminton-regeln/"  >Badminton-Regeln</a></div></li><li><div><a href="de/zuschauer/links/"  >Links</a></div></li></ul></li><li><a href="de/partner/sponsoren/"  >Partner</a><ul><li><div><a href="de/partner/jugend-patronat/"  >Jugend-Patronat</a></div></li><li><div><a href="de/partner/sponsoren/"  >Sponsoren</a></div></li><li><div><a href="de/partner/werben-sie-mit-uns/"  >Werben Sie mit uns</a></div></li><li><div><a href="de/partner/supporter/"  >Supporter</a></div></li></ul></li><li><a href="de/organisation/"  >Organisation</a><ul><li><div><a href="de/organisation/organigramm/"  >Organigramm</a></div></li><li><div><a href="de/organisation/kontakt/"  >Kontakt</a></div></li><li><div><a href="de/organisation/helfer/"  >Helfer</a></div></li><li><div><a href="de/organisation/linienrichter-info/"  >Linienrichter Info</a></div></li><li><div><a href="de/organisation/linienrichter-anmeldung/"  >Linienrichter Anmeldung</a></div></li><li><div><a href="de/organisation/e-mail-liste/"  >E-Mail Liste</a></div></li><li><div><a href="de/organisation/downloads/"  >Downloads</a></div></li></ul></li><li><a href="de/geschichte/geschichte/"  >Geschichte</a><ul><li><div><a href="de/geschichte/geschichte/"  >Geschichte</a></div></li><li><div><a href="de/geschichte/goldenes-buch/"  >Goldenes Buch</a></div></li><li><div><a href="de/geschichte/archiv/"  >Archiv</a></div></li></ul></li><li><a href="de/kontakt/"  >Kontakt</a></li><li><a href="de/medien/"  >Medien</a><ul><li><div><a href="de/medien/communiques/"  >Communiques</a></div></li><li><div><a href="de/medien/medienberichte/"  >Medienberichte</a></div></li><li><div><a href="de/medien/fotos/"  >Fotos</a></div></li><li><div><a href="de/medien/organisation/"  >Organisation</a></div></li><li><div><a href="de/medien/medien-akkreditierung/"  >Medien-Akkreditierung</a></div></li></ul></li></ul>
+	</div><!-- /shell -->
+</div><!-- /nav -->
+
+<div class="main">
+	<div class="shell clearfix">
+		<div class="content left">
+            <div id="c10" class="csc-default"><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap tx-imagecycle-pi1" style="width:705px;"><ul id="imagecycle_10" class="tx-imagecycle-pi1-images" style="display:none;overflow:hidden;"><li class="csc-textpic-image csc-textpic-last"><img src="typo3temp/pics/4a94ce6518.jpg" width="705" height="321"  alt=""></li><li class="csc-textpic-image csc-textpic-last"><img src="typo3temp/pics/43f25497f6.jpg" width="705" height="320"  alt=""></li><li class="csc-textpic-image csc-textpic-last"><img src="typo3temp/pics/720a2270a4.jpg" width="705" height="320"  alt=""></li><li class="csc-textpic-image csc-textpic-last"><img src="typo3temp/pics/eabff6d0ee.jpg" width="705" height="321"  alt=""></li><li class="csc-textpic-image csc-textpic-last"><img src="typo3temp/pics/5711374778.jpg" width="705" height="320"  alt=""></li><li class="csc-textpic-image csc-textpic-last"><img src="typo3temp/pics/34e021a051.jpg" width="705" height="321"  alt=""></li><li class="csc-textpic-image csc-textpic-last"><img src="typo3temp/pics/a4d65bce2d.jpg" width="705" height="320"  alt=""></li><li class="csc-textpic-image csc-textpic-last"><img src="typo3temp/pics/589df161d2.jpg" width="705" height="319"  alt=""></li><li class="csc-textpic-image csc-textpic-last"><img src="typo3temp/pics/98202bd567.jpg" width="705" height="320"  alt=""></li><li class="csc-textpic-image csc-textpic-last"><img src="typo3temp/pics/80528d68e1.jpg" width="705" height="320"  alt=""></li><li class="csc-textpic-image csc-textpic-last"><img src="typo3temp/pics/925b521b9a.jpg" width="705" height="321"  alt=""></li><li class="csc-textpic-image csc-textpic-last"><img src="typo3temp/pics/b35317ee50.jpg" width="705" height="320"  alt=""></li><li class="csc-textpic-image csc-textpic-last"><img src="typo3temp/pics/745b7639fd.jpg" width="705" height="321"  alt=""></li><li class="csc-textpic-image csc-textpic-last"><img src="typo3temp/pics/7f154af97b.jpg" width="705" height="322"  alt=""></li></ul></div><div class="csc-textpic-text"><p>Seit über 20 Jahren kommen die besten Badminton-Spieler der Welt nach Basel, um bei den Swiss Open ihre Klasse zu beweisen. Alle grossen Namen des Sportes sind in der St.Jakobshalle angetreten, die Siegerlisten sind ein Who’s who des Badminton. Die Grössten der jetzigen Generation werden sich im März wieder in Basel einfinden und die im abgedunkelten Zuschauerbereich sitzenden Fans in ihren Bann ziehen – verpassen Sie es nicht! </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></div></div></div>
+			<div class="news left">
+                <div id="c11" class="csc-default">
+<div class="news-list-container">
+
+	
+			<div class="news-item">
+                <div class="picture"><a href="de/aktuell/newsdetails/datum/2013/11/01/ein-versuch-mit-mehreren-bildern/" title="Bald geht es los!"><img src="typo3temp/pics/31d60cdefb.jpg" width="208" height="94" alt=""></a></div>
+                <div class="news-item-text">
+                    <h3><a href="de/aktuell/newsdetails/datum/2013/11/01/ein-versuch-mit-mehreren-bildern/" title="Bald geht es los!">Bald geht es los!</a></h3>
+                    <p>Vom 11. bis 16. März 2014 findet eines der weltweit grössten und bedeutendsten Grand Prix Gold-Turnier in der grossen St. Jakobshalle Basel statt. Beim Weltranglistenturnier mit einem Preisgeld von USD 125'000.- wird...</p>
+                    <a href="de/aktuell/newsdetails/datum/2013/11/01/ein-versuch-mit-mehreren-bildern/" title="Bald geht es los!">weiterlesen...</a>    
+                </div>
+            </div>
+		
+			<div class="news-item">
+                <div class="picture"><a href="de/aktuell/newsdetails/datum/2013/10/14/badminton-swiss-open-2014/" title="Badminton Swiss Open 2014"><img src="typo3temp/pics/24ce8fadb8.jpg" width="208" height="95" alt=""></a></div>
+                <div class="news-item-text">
+                    <h3><a href="de/aktuell/newsdetails/datum/2013/10/14/badminton-swiss-open-2014/" title="Badminton Swiss Open 2014">Badminton Swiss Open 2014</a></h3>
+                    <p><p>Die Badminton Swiss Open 2014 finden wieder in der Woche 11 statt: Notieren Sie sich bereits heute das Datum: 11.3 - 16.3.2014</p>
+<p>Wir freuen uns darauf, Sie wieder in Basel begrüssen zu dürfen. </p></p>
+                    <a href="de/aktuell/newsdetails/datum/2013/10/14/badminton-swiss-open-2014/" title="Badminton Swiss Open 2014">weiterlesen...</a>    
+                </div>
+            </div>
+		
+
+</div>
+</div>
+			</div><!-- /news -->
+
+			<div class="aside right">
+                <div id="c13" class="csc-default"><p><a href="de/zuschauer/tickets/" title="Öffnet internen Link im aktuellen Fenster" class="internal-link" >Tickets on sale</a></p></div><div id="c399" class="csc-default"><p><a href="de/zuschauer/weekend-in-basel/" title="Öffnet internen Link im aktuellen Fenster" class="internal-link" >Weekend in Basel</a></p></div><div id="c376" class="csc-default"><div class="countdown">
+   <div class="counter"></div>
+   Countdown bis zum 11. März <span id="year">2014</span>
+</div>
+</div>
+			</div><!-- /aside -->
+
+			<div class="footer">
+				<div class="footer-cols">
+                    <div class="footer-col"><header class="csc-header csc-header-n1"><h1 class="csc-firstHeader"><a href="de/home/" >organisation</a></h1></header><p>Badminton Swiss Open</p>
+<p>Merkurstrasse 91</p>
+<p>CH-4123 Allschwil</p>
+<p>Tel. +41 (0)61 302 20 80</p>
+<p>Fax +41 (0)61 302 20 85</p></div><div class="footer-col"><header class="csc-header csc-header-n2"><h1>Sponsoren</h1></header><p><a title="Öffnet externen Link in neuem Fenster" class="external-link-new-window" href="http://www.yonex.ch/">Yonex</a><br /><a title="Öffnet externen Link in neuem Fenster" class="external-link-new-window" href="http://www.atelier71.ch/">Atelier71</a><br /><a title="Öffnet externen Link in neuem Fenster" class="external-link-new-window" href="http://www.varia.ch/">Varia AG</a><br /><a title="Öffnet externen Link in neuem Fenster" class="external-link-new-window" href="http://www.settelen.ch/">Settelen</a><br /><a title="Öffnet externen Link in neuem Fenster" class="external-link-new-window" href="http://www.basilisk.ch/">Basilisk</a><br /><a title="Öffnet externen Link in neuem Fenster" class="external-link-new-window" href="http://www.blo.ch/">Bloch</a><br /><a title="Öffnet externen Link in neuem Fenster" class="external-link-new-window" href="http://www.baselland.ch/Swisslos-Fonds.273901.0.html">Swisslos</a><br /><a title="Öffnet externen Link in neuem Fenster" class="external-link-new-window" href="http://www.sporttip.ch/">Sporttip</a></p></div><div class="footer-col"><header class="csc-header csc-header-n3"><h1>Partner</h1></header><p><a title="Öffnet externen Link in neuem Fenster" class="external-link-new-window" href="http://www.stjakobshalle.ch/">St. Jakobshalle</a></p></div><div class="footer-col"><header class="csc-header csc-header-n4"><h1>Verschiedenes</h1></header><p><a title="Öffnet internen Link im aktuellen Fenster" class="internal-link" href="?id=36">Kontakt</a><br /><a title="Öffnet internen Link im aktuellen Fenster" class="internal-link" href="?id=27">Anfahrt/Lageplan</a></p></div><div class="footer-col"><header class="csc-header csc-header-n5"><h1>social media</h1></header><ul> 							</ul><p><a href="http://www.facebook.com/badmintonswissopen" target="_blank" >Facebook</a><br /><a href="http://www.twitter.com/badswissopen" target="_blank" >Twitter</a></p></div>
+				</div><!-- /footer-cols -->
+			</div><!-- /footer -->
+		</div><!-- /content -->
+
+		<div class="sidebar right">
+			<!--
+            <div class="widget widget-ad">
+				<a href="#"><img src="css/images/ad.jpg" alt=""></a>
+			</div>
+            -->
+			<div class="widget widget-sponsors">
+				<div class="widget-ad"><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap"><div class="csc-textpic-center-outer"><div class="csc-textpic-center-inner"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.sporttip.ch" target="_blank" ><img src="uploads/pics/ad.jpg" width="160" height="117"  alt=""></a></figure></div></div></div></div></div><div id="c4" class="csc-default"><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap"><div class="csc-textpic-center-outer"><div class="csc-textpic-center-inner"><div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.yonex.ch" target="_blank" ><img src="uploads/pics/sponsor1.png" width="116" height="22"  alt=""></a></figure></div></div>
+<div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.atelier71.ch" target="_blank" ><img src="uploads/pics/sponsor2.png" width="125" height="32"  alt=""></a></figure></div></div>
+<div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.settelen.ch" target="_blank" ><img src="uploads/pics/sponsor3.png" width="126" height="24"  alt=""></a></figure></div></div>
+<div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.blo.ch" target="_blank" ><img src="uploads/pics/sponsor5.png" width="91" height="46"  alt=""></a></figure></div></div>
+<div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.varia.ch" target="_blank" ><img src="uploads/pics/sponsor6.png" width="113" height="48"  alt=""></a></figure></div></div>
+<div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.sporttip.ch" target="_blank" ><img src="uploads/pics/sponsor7.png" width="115" height="20"  alt=""></a></figure></div></div>
+<div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.lotteriefonds.bs.ch" target="_blank" ><img src="uploads/pics/sponsor8.png" width="130" height="33"  alt=""></a></figure></div></div>
+<div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.baselland.ch/main_lofo-htm.273901.0.html" target="_blank" ><img src="uploads/pics/sponsor9.png" width="131" height="35"  alt=""></a></figure></div></div>
+<div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.iway.ch" target="_blank" ><img src="uploads/pics/sponsor10.png" width="120" height="37"  alt=""></a></figure></div></div>
+<div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.webgearing.ch" target="_blank" ><img src="uploads/pics/sponsor11.png" width="121" height="44"  alt=""></a></figure></div></div>
+<div class="csc-textpic-imagerow"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.breitband.ch" target="_blank" ><img src="uploads/pics/breitband_135_02.png" width="135" height="30"  alt=""></a></figure></div></div>
+<div class="csc-textpic-imagerow csc-textpic-imagerow-last"><div class="csc-textpic-imagecolumn csc-textpic-firstcol csc-textpic-lastcol"><figure class="csc-textpic-image csc-textpic-last"><a href="http://www.bwfbadminton.org" target="_blank" ><img src="uploads/pics/bwf.png" width="148" height="63"  alt=""></a></figure></div></div></div></div></div></div></div>
+			</div>
+		</div><!-- /sidebar -->
+	</div><!-- /shell -->
+</div><!-- /main -->
+<script type="text/javascript">var JsValidationCheckCheckboxes = 'Bitte wählen Sie mindestens eine Option';var JsValidationCheckInteger = 'Keine gültige Zahl';var JsValidationCheckRequired = 'Dies ist ein Pflichtfeld';var JsValidationCheckRequiredOption = 'Bitte wählen Sie eine Option';var JsValidationCheckEmail = 'Ungültige Emailadresse';var JsValidationCheckUrl = 'Ungültige URL';var JsValidationCheckPhone = 'Ungültige Telefonnummer';var JsValidationCheckLetters = 'Nur Buchstaben erlaubt';</script>
+<script src="typo3conf/ext/powermail/Resources/Public/Js/jquery.ui.datepicker.min.js?1380817581" type="text/javascript"></script>
+<script src="typo3conf/ext/powermail/Resources/Public/Js/jquery.validationEngine-en.js?1380817581" type="text/javascript"></script>
+<script src="typo3conf/ext/powermail/Resources/Public/Js/jquery.validationEngine.js?1380817581" type="text/javascript"></script>
+<script src="typo3conf/ext/powermail/Resources/Public/Js/tabs.js?1380817581" type="text/javascript"></script>
+<script src="typo3conf/ext/imagecycle/res/jquery/js/jquery.cycle.all-3.0.3.min.js?1381753515" type="text/javascript"></script>
+<script src="typo3conf/ext/powermail/Resources/Public/Js/form.js?1380817581" type="text/javascript"></script>
+<script src="typo3conf/ext/powermail/Resources/Public/Js/powermail_frontend.js?1380817581" type="text/javascript"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+<!-- 
+/*e3ac8c7ae20ab7324e548de13e4d49a7*/
+jQuery.noConflict();jQuery(window).load(function() {
+	
+	
+	jQuery('#imagecycle_10').show().cycle({
+		fx: 'fade',
+		easing: 'easeInOutBack',
+		timeout: '5000',
+		sync: true,
+		cleartypeNoBg: false,
+		before: function(a,n,o,f) {jQuery('div', this).css('display', 'none');},
+		after: function(a,n,o,f) {jQuery('div', this).animate({opacity: 'show'},200,'swing');}
+		
+	});
+	
+	
+	if (jQuery('#imagecycle_10').width() > 0) {
+		jQuery('#imagecycle_10').parent().css('width', jQuery('#imagecycle_10').width());
+	}
+	
+	
+	
+	jQuery('div', jQuery('#imagecycle_10')).show();
+});
+
+// -->
+/*]]>*/
+</script>
+
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.bostonopen.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+  <head>
+    <meta name="google-site-verification" content="nWYZFWSolG5FIYSK5wGaPYFvpdkatvnV3em79dqwC7g" />
+    <META NAME="Description" CONTENT="Adidas Boston Open 2014 is a US National ranking Badminton tournament. Contains information, videos, photos, results on current and previous events.">
+    <title>adidas boston open - Home</title>
+    <link href="/rss/" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link rel="stylesheet" type="text/css" href="/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
+    <link rel="shortcut icon" href="http://boston-open.s3.amazonaws.com/favicon.ico" />
+    <!--<script type="text/javascript" src="http://www.jeroenwijering.com/embed/swfobject.js"></script>
+    <script type="text/javascript" src="http://spurrd.com/javascripts/prototype.js"></script>
+    <script type="text/javascript" src="http://spurrd.com/javascripts/scriptaculous.js?load=effects,builder"></script>
+    <script type="text/javascript" src="http://spurrd.com/javascripts/lightbox.js"></script>-->
+
+    <!--[if IE 6]>
+      <style type="text/css" media="screen">
+        @import url("/stylesheets/ie6.css");
+      </style>
+    <![endif]-->
+
+    <!--[if IE 7]>
+      <style type="text/css" media="screen">
+        @import url("/stylesheets/ie7.css");
+      </style>
+    <![endif]-->
+
+  </head>
+  <body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <div id="page">
+            <div id="header"><img src="http://s3.amazonaws.com/boston-open/images/header-2014-3.png" alt="Boston Open" /></div>
+
+            <div id="nav">
+              <ul>
+  <li class="selected"><a href="/">Home</a></li>
+  <li><a href="/newsroom">News</a></li> <li><a href="/sponsors">Sponsors</a></li> <li><a href="/past-events">Past Events</a></li> <li><a href="/photos">Photos</a></li> <li><a href="/media">Videos</a></li> <li><a href="/fanzone">Fanzone</a></li> <li><a href="/about">About</a></li>
+</ul>    
+            </div>
+      <div id="main">
+        <div id="content-wrapper">
+          <div id="content">
+            <script language="JavaScript1.1">
+<!--
+
+/*
+JavaScript Image slideshow:
+By JavaScript Kit (www.javascriptkit.com)
+Over 200+ free JavaScript here!
+*/
+
+var slideimages=new Array()
+var slidelinks=new Array()
+function slideshowimages(){
+for (i=0;i<slideshowimages.arguments.length;i++){
+slideimages[i]=new Image()
+slideimages[i].src=slideshowimages.arguments[i]
+}
+}
+
+function slideshowlinks(){
+for (i=0;i<slideshowlinks.arguments.length;i++)
+slidelinks[i]=slideshowlinks.arguments[i]
+}
+
+function gotoshow(){
+/*if (!window.winslide||winslide.closed)
+winslide=window.open(slidelinks[whichlink])
+else
+winslide.location=slidelinks[whichlink]
+winslide.focus()*/
+}
+
+//-->
+</script>
+<!--img src="food1.jpg" name="slide" border=0 width=550px-->
+<script>
+<!--
+
+//configure the paths of the images, plus corresponding target links
+//slideshowimages("http://boston-open.s3.amazonaws.com/images/poster1.jpeg","http://boston-open.s3.amazonaws.com/images/poster2.jpeg","http://boston-open.s3.amazonaws.com/images/poster3.jpeg")
+
+//configure the speed of the slideshow, in miliseconds
+var slideshowspeed=6000
+
+var whichlink=0
+var whichimage=0
+function slideit(){
+if (!document.images)
+return
+document.images.slide.src=slideimages[whichimage].src
+whichlink=whichimage
+if (whichimage<slideimages.length-1)
+whichimage++
+else
+whichimage=0
+setTimeout("slideit()",slideshowspeed)
+}
+//slideit()
+
+//-->
+</script>
+<!--div class="results">
+  <h2>2013 Boston Open</h2>
+  <p>The 2013 Boston Open is <a href="/live-stream">streaming live</a>. Check back for more updates or <strong><a href="/sign-up">join our mailing list</a></strong>.</p>
+</div>
+<div class="results">
+  <h2>Road Closures</h2>
+  <p>The Reid overpass on Memorial Drive is closed. Players coming from points west of MIT using Memorial Drive should allow more time for travel.</p>
+  <p>Harvard Square May Fair on Sunday May 5th: Massachusetts Avenue and other streets will be closed for this event. Avoid driving through this area on Sunday.</p>
+</div-->
+<div class="results">
+  <h2>2013 Boston Open Winners</h2>
+  <a href="http://www.tournamentsoftware.com/sport/tournament.aspx?id=7427A027-7105-46DB-88B9-234F8B574130" >Full results</a>
+  <ul>
+        <li>Mens Singles - Sattawat Pongnairat CA</li>
+        <li>Womens Singles - Beiwen Zhang NV</li>
+        <li>Mens Doubles - Holvy De Pauw / Christian Christianto CA</li>
+        <li>Womens Doubles - Nicole Grether / Charmaine Reid CAN</li>
+        <li>Mixed Doubles - Holvy De Pauw / Eva Lee CA</li>
+        <li>Collegiate Mens Doubles - Kevin Liou / Saraj Pirasmepulkul MA/IL</li>
+        <li>Collegiate Womens Doubles - Yan Cheng / Erica Lin CT/MA</li>
+        <li>Senior Mens Doubles - Tomasz Malcharek / Qiu Li Wang NJ</li>
+        <li>Senior Womens Doubles - Daphne Change / Lily Chen MA/CA</li>
+        <li>Senior Mixed Doubles - Marc Lai / Daphne Chang MA</li>
+  </ul>
+  <p>Check out the <!--<a href="/media">videos of the finals</a> and various --><a href="/photos">photos of the event</a>.</p>
+</div>
+<br/>
+<br/>
+<h4><span style="color: #800000;"><strong><a href="/sign-up">Join our mailing list.</strong></a></h4>
+<br/>
+
+<br/>
+<!--iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWilson-Boston-Open%2F149501321752466&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe-->
+<div class="fb-like" data-href="https://www.facebook.com/BostonOpen" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+            <div id="extended">
+              
+            </div>
+          </div>
+        </div>
+        <div id="sidebar-wrapper">
+          <div id="sidebar">
+            <div class="spot">
+<img src="http://boston-open.s3.amazonaws.com/images/user_signup.png" />
+<h3>Sign-up for Updates</h3>
+<p><strong><a href="/sign-up">Sign-up</a></strong> to stay informed of updates.</p> 
+</div>
+
+<div class="spot">
+<img src="http://boston-open.s3.amazonaws.com/images/icons/schedule.png" />
+<h3>Schedule</h3>
+<p>May 9th-11th 2014 @ Rockwell Cage, MIT</p> 
+<p><!--strong><a href="/schedule">Preliminary Schedule</a></strong--></p>
+</div>
+
+<div class="spot">
+<img src="http://boston-open.s3.amazonaws.com/images/icons/trophy.png" />
+<h3>Prize Money</h3>
+<p>$22,150 Total Prize Money
+<br/>
+<strong><a href="/prizes">Details</a></strong></p>
+</div>
+
+<div class="spot">
+<img src="http://s3.amazonaws.com/boston-open/images/icon_assist.jpg" />
+<h3>Sponsorship</h3>
+<p>adidas Boston Open relies upon Sponsorship.
+<strong><a href="/donate">Help us out.</a></strong></p>
+</div>
+
+<!--div class="spot">
+<img src="http://s3.amazonaws.com/boston-open/images/draws.gif" />
+<h3>2012 Draws</h3>
+<p><strong><a href="/draws">Full Draws</a></strong> now available</p>
+</div-->
+
+<!--div class="spot">
+<img src="http://boston-open.s3.amazonaws.com/images/parking-icon128.png" />
+<h3>Parking</h3>
+<p>Parking is available Friday, Saturday and Sunday</p>
+<p><strong><a href="/parking">Details</a></strong></p>
+</div-->
+
+<!--div class="spot">
+<img src="http://boston-open.s3.amazonaws.com/images/icons/EntryForm.png" />
+<h3>Entry Form</h3>
+<p><a href="/entry-form">2014 adidas Boston Open Entry form</a></p>
+<p><strong>Deadline: April 19th, 2013</strong></p>
+</div-->
+
+<!--div class="spot">
+<img src="http://boston-open.s3.amazonaws.com/images/icons/accommodation.png" />
+<h3>Accommodation</h3>
+<p>The Boston Open official tournament hotel is Le Méridien Cambridge-MIT. The hotel is half a mile from the gym <a href="/hotel">more...</a></p>
+</div-->
+
+
+<!--div class="spot">
+<img src="http://boston-open.s3.amazonaws.com/images/icons/transportation.png" />
+<h3>Transportation</h3>
+<p>A free van pick up service is available from the airport to the gym and hotel.
+Contact Beth Sopka (617-451-3563, <a href="mailto:bsopka@gmail.com">bsopka@gmail.com</a>) before May 6th. with full details of your arriving and departing flights.</p>
+</div-->
+          </div>
+        </div>
+      </div>
+     <div style="clear:both;"></div>
+  <div id="footer-wrapper">
+    <div id="footer">
+      Copyright &copy; 2014 Boston Open. All rights reserved | <a href="mailto:ccclawrence@aol.com">Contact</a> | <a href="/about">About</a> | Powered by <a href="http://radiantcms.org/">Radiant</a>
+
+    </div>
+  </div>
+    </div>
+  </body>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-12410720-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<!--script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12410720-1");
+pageTracker._trackPageview();
+} catch(err) {}</script-->
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://isra-badminton.8m.com/>====================
+<HTML>
+<HEAD>
+<TITLE>EvgySite</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+function Decode(s){
+  var s1=unescape(s.substr(0,s.length-1)); var t='';
+  for(i=0;i<s1.length;i++) t+=String.fromCharCode(s1.charCodeAt(i)-s.substr(s.length-1,1));
+  document.write(unescape(t));
+}
+//-->
+
+</SCRIPT>
+<SCRIPT LANGUAGE=JavaScript src="/fs_img/js/md5.js"></SCRIPT>
+<!-- '"AWS"' -->
+<!-- Auto Banner Insertion Begin -->
+<div id=aws_6147 align=center><style type="text/css">
+  .mwsb{ background-color: 3366CC; border-width: 1px; border-color: 3366CC; border-style: solid; }
+  .mwst, .mwst a{ font-family: arial,sans-serif; font-size: 8pt; background-color: white; color: blue;}
+  </style>
+  <!------ OAS SETUP begin ------>
+  <img src="http://track.untd.com/s/oasrdb?pid=MWS&profile=,," width="1" height="1">
+  <SCRIPT LANGUAGE=JavaScript>
+  <!--
+  //configuration
+  OAS_url = "http://cyclops.untd.com/";
+  //OAS_sitepage values can be found in the excel spreadsheet showing position and pagenames.
+  OAS_sitepage = 'webservices/general'; //CHANGED
+  //OAS_sitepage = window.location.hostname + window.location.pathname;
+  // must list every Ad position on the page or they will not show.  Also you can't have line items that are not on the page or a impression will be counted even though it was actually shown. 
+  OAS_listpos = 'Top,Bottom,Frame1,Frame2,Right,TopLeft,Top1,TopRight';
+  OAS_query = '';
+  OAS_target = '_Blank';
+  //end of configuration
+  OAS_version = 10;
+  OAS_rn = '001234567890'; OAS_rns = '1234567890';
+  OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+  function OAS_NORMAL(pos) {
+    document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+    document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+  }
+  //-->
+  </SCRIPT>
+
+
+  <SCRIPT LANGUAGE=JavaScript1.1>
+  <!--
+  OAS_version = 11;
+  if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
+    OAS_version = 10;
+  if (OAS_version >= 11)
+    document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCR'+'IPT>');//-->
+  </SCRIPT>
+
+  <SCRIPT LANGUAGE=JavaScript>
+  <!--
+  document.write('');
+  function OAS_AD(pos) {
+    if ((OAS_version >= 11) && (typeof OAS_RICH != 'undefined')) {
+      OAS_RICH(pos);
+    } else {
+      OAS_NORMAL(pos);
+    }
+  }
+
+  //-->
+  </SCRIPT>
+  <!-- start /fs_img/about_pop.txt -->
+<!-- The only pops this script can generate now are:
+			1. Pops from UOL
+			2. In-house popup
+-->
+<script language="JavaScript">
+<!--
+var isUS = "0";
+var keyword = escape("index");
+var compname='freeservers';
+var ourExitPop=true;
+
+function popSlot(slot){
+    // OAS AD 'Frame1' begin
+    if(window.OAS_AD) OAS_AD('Frame1');
+    // OAS AD 'Frame1' begin
+}
+
+function checkPopunderCookie() {
+	var cookieVal = 0;
+	cookieExpDays = (1/24);  
+	var expDate = new Date();
+	expDate.setTime(expDate.getTime() + (86400000 * cookieExpDays));
+	cookieDate = ";Expires=" + expDate.toGMTString();
+	if (document.cookie) {
+		var cookieInfo = document.cookie.split(";");
+		for (i=0; i<cookieInfo.length; i++) {
+			cName = cookieInfo[i].split("=")[0];
+			if (cName.indexOf("pixelpop") >= 0) {
+				cookieVal = cookieInfo[i].split("=")[1];
+			}
+		}
+	}
+	cookieVal++;
+	document.cookie="pixelpopslot="+cookieVal+";path=/;"+cookieDate;
+ 	if (cookieVal== 1) { popSlot(1); }
+ 	if (cookieVal== 2) { popSlot(2); }
+ 	if (cookieVal== 3) { popSlot(3); }
+ 	if (cookieVal== 4) { popSlot(4); }
+ 	if (cookieVal== 5) { popSlot(5); }
+ 	if (cookieVal== 6) { popSlot(6); }
+ 	if (cookieVal== 7) { popSlot(7); }
+ 	if (cookieVal== 8) { popSlot(8); }
+}
+
+if (!window.sprs) checkPopunderCookie();
+
+if (!window.sprs && ourExitPop && (navigator.appName.indexOf('etscape')==-1)){
+	window.onunload=staycheck;
+	StayingOnSite=false;
+	DadLinkURLs="";
+	BabyLink="";
+	DadWindow=window.parent;
+	DadLinks=DadWindow.document.links;
+	DadHost="http://"+location.hostname;
+	DadWindow.document.onclick=linktellerDad;
+	document.onclick=linktellerThis;
+	function linkteller(){
+		while (EventTag.parentElement&&(EventTag.tagName!="A")){
+				EventTag=EventTag.parentElement;
+		}
+		if ((EventTag.tagName=="A")&&(!EventTag.target)){
+			if (EventTag.href.indexOf(DadHost)>-1){
+				StayingOnSite=true;
+			} else {
+				StayingOnSite=false;
+			}
+		}
+	}
+	function linktellerThis(){
+		EventTag=window.event.srcElement;
+		linkteller();
+	}
+	function linktellerDad(){
+		EventTag=DadWindow.event.srcElement;
+		linkteller();
+	}
+	function staycheck(){
+		if (StayingOnSite){
+		} else {
+		}
+	}
+}
+-->
+</SCRIPT>
+<!-- end /fs_img/about_pop.txt -->
+  <table cellpadding="0" cellspacing="0" width="980">
+
+    <!-- start: related resources -->
+    <tr>
+      <td colspan="3">
+        <table cellpadding="0" cellspacing="0" align="center" width="100%" class="mwsb">
+          <tr>
+            <td class="mwst" id="uows0207" align="center">
+              <a href="http://www.freeservers.com" target="_top">Free Web Hosting Provider</a> 
+              - <a href="http://www.globalservers.com" target="_top">Web Hosting</a>
+              - <a href="http://www.bizhosting.com" target="_top">E-commerce</a>
+              - <a href="http://www.netzero.com/?refcd=MWS0404NWP11" target="_top">High Speed Internet</a>
+              - <a href="http://www.freeservers.com/Free-Web-Page.html" target="_top">Free Web Page</a>
+              <script type="text/javascript"><!--
+              function find(){ obj = document.getElementById('uows0207'); arr = obj.getElementsByTagName('a'); for(var i=0;i<arr.length;i++){ var x = '?refcd=WSUOWS020722NB01'; if(!arr[i].href.match(/refcd/)) arr[i].href+=x; }}; find();
+              //--></script>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <!-- end: related resources -->
+
+    <tr>
+      <td width="130">
+        <table cellpadding="0" cellspacing="0" width="130" style="margin-top:2px;">
+          <tr>
+            <td class="mwst" nowrap="1">
+              <a href="http://8m.com/?refcd=MWS_20040713_Banner_bar"
+                ><img src="/cgi-bin/image/images/bannertype/100X22.gif" width="100" height="22" border="0"
+                ></a
+              ><a href="/cgi-bin/login" target="_blank"
+                ><img src="/cgi-bin/image/images/bannertype/login_chunkx.gif" width="30" height="22" border="0"
+                ></a
+             ></td>
+          </tr>
+        </table>
+        
+        <table class="mwsb" cellpadding="0" cellspacing="0" width="100%" style="margin-top:2px;">
+          <tr>
+            <td align="center">
+              <a href="/cgi-bin/path/signup?refcd=MWS_20040713_Banner_bar"
+              ><img src="http://static.uolcontent.com/RealMedia/ads/Creatives/ISP/MWS_Mkting_LSKYBUT_34_8023/128x64_get_a_free_website_01.gif" border="0"
+              ></a>
+            </td>
+          </tr>
+        </table>
+      </td>
+
+      <td>
+        <table cellspacing="0" class="mwsb" style="margin:2px;margin-bottom:0px;table-layout:fixed;"> 
+          <tr>
+            <td class="mwst" align="center" style="width:730px;">
+    <!------ OAS AD 'Top' begin ------>
+    <SCRIPT LANGUAGE=JavaScript>
+    <!--
+    if(window.OAS_AD) OAS_AD('Top');
+    //-->
+    </SCRIPT>
+    <!------ OAS AD 'Top' end ------></td>
+          </tr>
+        </table>
+      </td>
+
+      <td width="120">
+        <table class="mwsb" cellpadding="0" cellspacing="0" width="120" style="margin-top:2px;">
+          <tr>
+            <td class="mwst" nowrap="1">
+              <SCRIPT LANGUAGE=JavaScript><!--
+              OAS_AD('Top1');
+              //--></SCRIPT>
+            </td>
+          </tr>
+        </table>
+        
+        <table class="mwsb" cellpadding="0" cellspacing="0" width="100%" style="margin-top:2px;">
+          <tr>
+            <td align="center">
+              <SCRIPT LANGUAGE=JavaScript><!--
+              OAS_AD('TopRight');
+              //--></SCRIPT>
+            </td>
+          </tr>
+        </table>
+      </td>
+
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <!-- search bar begins --><table width="100%" cellpadding="0" cellspacing="0" class="mwsb" style="border-width:2px; margin-top:10px; background-color:white; height:10px;">  <tr valign="top">    <td align="center">      <form action="http://search.mysite.com/search" style="margin:0;" target="_blank">      <span style="position:relative;top:-5px;font-family:arial;font-size:12px;color:#000;"><b>Search the Web</b></span>      <input type="hidden" name="source" value="mws_endsite_box">      <input type="hidden" name="action" value="search">      <input name="query" accesskey="s" style="width:400px; height:21px; background:white; border:1px #A4ABB1 solid; font-family: arial, sans-serif; font-size: 10pt; color: #000000; position:relative; top:-6px;">      <input type="image" src="/fs_img/bannertype/infospace/search_sp_go.gif">      <img src="/fs_img/bannertype/infospace/search_logo.gif" style="position:relative;top:4px;left:10px;">      </form>    </td>    <td width="5%"></td>  </tr></table>
+      </td>
+    </tr>
+  </table><DIV id=sideFrame 
+	style="MARGIN-TOP: 27px; RIGHT: 5px; WIDTH: 120px; COLOR: #ffffff; POSITION: absolute; BACKGROUND-COLOR: #CCCCCC; Z-INDEX: 10000; TEXT-ALIGN: right"><A 
+	href="javascript:void%20(sideFrameOff())"><IMG src="/fs_img/banners/xout.gif" title="Close"
+	border=0></A><BR>
+  <!------ OAS AD 'Right' begin ------>
+  <SCRIPT LANGUAGE=JavaScript>
+  <!--
+  OAS_AD('Right');
+  // -->
+  </SCRIPT>
+  <!------ OAS AD 'Right' end ------>
+	<SCRIPT>
+		origRightPadding=document.body.style.paddingRight;
+		document.body.style.paddingRight="130px";
+		function sideFrameOff(){
+			document.getElementById('sideFrame').style.display='none';
+			document.body.style.paddingRight=origRightPadding;
+		}
+	</SCRIPT>
+	</DIV>
+  <DIV id="setMyHomeOverlay" align="left" style="position:absolute; top:25%; left:25%; width:358px; border:1px solid #AEAEAE; background-color:white; z-index:200000; display: none;">
+    <div style="height:59px; padding-left:22px; background:white url('/cgi-bin/image/images/sethome_top_border.gif') repeat-x;">
+    <div style="float:left; width:182px; height:35px; margin-top:12px; font:bold 38px arial,sans-serif; color:#454545"> Welcome! </div>
+    <div style="float:right; padding:6px 5px 0px 5px;"><a href="#" onclick="javascript:do_set_homepage('close'); return false;">
+    <div style="background:url('/cgi-bin/image/images/sethome_x.gif'); width:21px; height:21px; cursor:pointer;"></div></a></div>
+    <div style="float:right; font:bold 12px arial; margin-top:10px;"><a style="text-decoration:none; color:#004182;" href="#" onclick="javascript:do_set_homepage('close'); return false;">Close</a></div></div>
+    <div style="height:170px; background:#ffffff;">
+    <div style="padding:30px 20px 0px 20px; font:normal 14px arial; height:80px;"> Would you like to make this site your homepage? It's fast and easy... </div>
+    <div style="padding:10px 0 0 41px;">
+    <div style="float:left;cursor:pointer; background:white url('/cgi-bin/image/images/sethome_btn_l.gif'); width:4px; height:26px;" onclick="javascript:do_set_homepage('do');"> </div>
+    <div style="float:left;cursor:pointer; background:white url('/cgi-bin/image/images/sethome_btn_m.gif') repeat-x; width:265px; height:26px; text-align:center; font:bold 13px Arial; color:#FFFFFF; line-height:25px;" onclick="javascript:do_set_homepage('do');"> Yes, Please make this my home page! </div>
+    <div style="float:left;cursor:pointer; background:white url('/cgi-bin/image/images/sethome_btn_r.gif'); width:4px; height:26px;" onclick="javascript:do_set_homepage('do');"> </div></div>
+    <div style="padding-left:148px; padding-top:7px; clear:both; font:normal 12px arial;"><a href="#" style="text-decoration:none; color:#004182;" onclick="javascript:do_set_homepage('close'); return false;">No Thanks</a></div></div>
+    <div style="height:36px; background: white url('/cgi-bin/image/images/sethome_bot_border.gif') repeat-x;">
+    <div style="float:left;margin:12px 0px 0px 20px; line-height:10px;"><input type="checkbox" style="width:11px; height:11px;" onclick="javascript:do_set_homepage('dont');"></div>
+    <div style="float:left;font:normal 12px arial;padding:10px 0 0 2px;"> &nbsp; Don't show this to me again.</div>
+    <div style="float:right; padding:6px 5px 0px 5px;"><a href="#" onclick="javascript:do_set_homepage('close'); return false;">
+    <div style="background:url('/cgi-bin/image/images/sethome_x.gif'); width:21px; height:21px; cursor:pointer;"></div></a></div>
+    <div style="float:right;font:bold 12px arial; margin-top:10px;"><a style="text-decoration:none; color:#004182;" href="#" onclick="javascript:do_set_homepage('close'); return false;">Close</a></div></div></div>
+    <span ID="mws_oHomePageOverlay" style="behavior:url(#default#homepage); display:none;"></span>
+    <script src=/fs_img/js/overlay.js></script><script defer="defer" src=/fs_img/js/set_homepage.js></script></div><!-- Auto Banner Insertion Complete THANK YOU -->
+
+<SCRIPT LANGUAGE=JavaScript>
+<!--   
+    Decode('*8Hxhwnuy*75qfslzflj*8I*77of%7Bfxhwnuy*77*75y%7Euj*8I*77yj%7Dy4of%7Bfxhwnuy*77*75xwh*8I*774hln2gns4%7Bfqnifyjdgfssjw*8Kjsh*8I%7E*7%3A%3CGs%3B%7E*7%3A%3CGsm*7%3A8HF%3E%3E%3B%7E%7D*7%3A%3CH*7%3A%3CIm*7%3A8H%3E*7%3A8J*7%3A8J%3E*77*8J*8H4xhwnuy*8J5');
+//-->
+</SCRIPT>
+
+<!-- URL's used in the movie-->
+<A HREF=mail to: evgeni_ivanov@hotmail.com></A> <A HREF=http://isra_shuttle.tripod.com></A> <A HREF=http://www.eurobadminton.org></A> <A HREF=http://www.worldbadminton.net></A> <A HREF=http://www.worldbadminton.com></A> <A HREF=http://www.badmintonwarehouse.com></A> <!-- text used in the movie-->
+<!--Loading... Online 1988 1989 1990 1991 1992 1998 2000 Designed by Evgy last updated at 25/11/2001 Toss The winner of the toss can select to serve or receive in the first game, or to choose to play at a particular end of the court. The loser of the toss maakes the remaining  choice. Basic Aim You win a rally if you hit the shuttle over the net and onto the floor of the opposing  side's court. You lose the rally if you hit the shuttle into the net, or over the net but outside of the opposing side's court. You also lose the rally if, for example, the shuttletouches you or your clothing, or  if you hit it before it crosses  the net. Serving The service courts are different for singles and doubles. A shuttle on the line is "in". The server  and receiver stand in the diagonally opposite service courts. The server must obey laws designed to force underhand delivery of the serve, and the receiver must stand still until the service is  truck. Scoring Matches comprise of the best of three games. Each game starts at 0 - 0(traditionally called  "love - all"). If the serving side wins a rally, it scores a point, and serves again but from the a lternative service court. If the receiving side wins the rally, the score remains unchanged and the service paasses to the next player in turn. In singles, this is the opponent: in doubles it's either the paartner or, it both players have just had a turn of serving, one of the opponents. 7 points wins a game. However, if the score reaches 6 -  6, the side which first reached 6 can choose either to play to 7, or to set the gaame to 8 points. The final score will  reflect the sum of the points won before setting plus the points gained in setting. And Finally... Players change ends at the end of a game and between the games a two minutes  interval is allowed. Badminton was invented long time ago. Its origins date back at least two thousand years to the game of battledore and shuttlecock played in ancient Greece, India and China. Badminton took its name from Badminton House in Gloucestershire, the home of the Duke of Beaufort, where the sport was played in the last century.By coincidence, Gloucestershire is now the base for international Badminton Federation. Founded in 1934 with nine members - Canada, Denemark, England, France, Ireland, Netherlands, New Zealand, Scotland and Wales, membership of the International Badminton Federation has risen steadily. There was a notable increase in new members after Badminton's Olympic debut at Barcelona. Development in the sport continues to grow and the current 142 members are expected to increase further. The first major IBF  tournament was the Thomas Cup(world men's team championships) in 1948. Since then, the number of world events has increased with  the addition of the Uber Cup(ladies' team), World Championships, Sudirman Cup(mixed team), World Juniors and the World Grand Prix Finals.  At the date of 25/10/01 was played first round of israeli badminton championship.  The team which will finish at the first place after two circles will be the champion. The team which will finish at the last place will go to the second devision. The team which will finish at the before last place will play home and away games against the team that will take second place at the second devision, for the right  to stay at the first devision. At the date of 9/11/01 was played second round of the israeli championship.  At the date of 17/11/01 began first round of the second devision legue.  There are two regions in the second devision and Maccabi Rishon have a team in each of them. For the first round results see results - 2nd devision. Back All the results were provided by alex bass Home Away Date Day Result Maccabi Lod a Maccabi Lod b Maccabi Ashdod a Maccabi Ashdod b Maccabi Pardes Hana Hapoel Nave Monoson Hapoel Hazor Maccabi Rishon Le Zion 26.10.01 25.10.01 2  :  4 4  :  2 6  :  0 3  :  3 0  :  6 08.11.01 09.11.01 23.11.01 24.11.01 29.11.01 30.11.01 14.12.01 15.12.01 5  :  1 27.12.01 28.12.01 11.01.02 12.01.02 18.01.02 19.01.02 17.01.02 26.01.02 25.01.02 07.02.02 01.02.02 08.02.02 01.03.02 02.03.02 07.03.02 08.03.02 22.03.02 23.03.02 04.04.02 05.04.02 Nir Yusim and Barak Mey On, Maccabi Rishon Le Zion and Israeli National team players. --><OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+ WIDTH=800 HEIGHT=600>
+ <PARAM NAME=movie VALUE="EvgySite.swf"> <PARAM NAME=loop VALUE=false> <PARAM NAME=quality VALUE=best> <PARAM NAME=salign VALUE=T> <PARAM NAME=bgcolor VALUE=#FFFFFF> <EMBED src="EvgySite.swf" loop=false quality=best salign=T bgcolor=#FFFFFF  WIDTH=800 HEIGHT=600 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED>
+</OBJECT>
+</BODY>
+</HTML>
+
+<SCRIPT LANGUAGE=JavaScript>
+<!--   
+    Decode('%275Euetkrv%2742ncpiwcig%275F%2744lcxcuetkrv%2744%2742v%7Brg%275F%2744vgzv1lcxcuetkrv%2744%2742ute%275F%27441eik/dkp1xcnkfcvgadcppgt%275Hgpe%275Fzy%27479D%27479E7%3A%2744%275G%275E1uetkrv%275G2');
+//-->
+</SCRIPT>
+
+
+<!-- PrintTracker Insertion Begin -->
+<script src="/fs_img/js/pt.js" type="text/javascript"></script>
+<!-- PrintTracker Insertion Complete -->
+
+
+<!-- Google Analytics Insertion Begin -->
+<script type="text/javascript">
+<!--
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        var URL = gaJsHost + "google-analytics.com/ga.js";
+        document.write(unescape("%3Cscript src='" + URL + "' type='text/javascript'%3E%3C/script%3E"));
+
+        var hndl = window.setTimeout('StartTracking()',100);
+        function StartTracking(){
+          if( typeof(_gat) == 'object'){ 
+             window.clearTimeout(hndl);
+             var pageTracker = _gat._getTracker("UA-4601892-3");
+             pageTracker._setDomainName("none");
+             pageTracker._setAllowLinker(true);
+             pageTracker._initData();
+             pageTracker._trackPageview();
+          }else{
+             hndl = window.setTimeout('StartTracking()',100);
+          }
+        }
+-->
+</script>
+<!-- Google Analytics Insertion Complete -->
+
+<SCRIPT LANGUAGE=JavaScript>
+  <!--
+  //configuration
+  OAS_url = "http://cyclops.untd.com/";
+  OAS_sitepage = 'webservices/general'; //CHANGED
+  OAS_listpos = 'Bottom';
+  OAS_query = '';
+  OAS_target = '_Blank';
+  //end of configuration
+  OAS_version = 10;
+  OAS_rn = '001234567890'; OAS_rns = '1234567890';
+  OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+  function OAS_NORMAL(pos) {
+    document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+    document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+  }
+  //-->
+  </SCRIPT>
+
+  <SCRIPT LANGUAGE=JavaScript1.1>
+  <!--
+  OAS_version = 11;
+  if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
+    OAS_version = 10;
+  if (OAS_version >= 11)
+    document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
+  //-->
+  </SCRIPT>
+
+  <SCRIPT LANGUAGE=JavaScript>
+  <!--
+  document.write('');
+  function OAS_AD(pos) {
+    if ((OAS_version >= 11) && (typeof OAS_RICH != 'undefined')) {
+      OAS_RICH(pos);
+    } else {
+      OAS_NORMAL(pos);
+    }
+  }
+  //-->
+  </SCRIPT>
+
+  <TABLE ALIGN=CENTER STYLE="clear:both"><TR><TD ALIGN=CENTER> <!------ OAS AD 'Bottom' begin ------> <SCRIPT LANGUAGE=JavaScript> if(window.OAS_AD) OAS_AD('Bottom'); </SCRIPT> <!------ OAS AD 'Bottom' end ------> </TD></TR></TABLE>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://interbadminton.online.fr/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Les internationaux de France Juniors de badminton</title>
+</head>
+<body bgcolor="#ffffff" link="#ffffff" vlink="#ffffff" background="bkg.gif">
+<center>
+<table>
+  <tr>
+    <td colspan="2">
+<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+	codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0"
+	ID=INTERBAD WIDTH=450 HEIGHT=300>
+	<PARAM NAME=movie VALUE="INTERBAD.SWF">
+	<PARAM NAME=quality VALUE=high>
+	<PARAM NAME=wmode VALUE=transparent>
+	<PARAM NAME=bgcolor VALUE=#FFFFFF>
+        <EMBED src="INTERBAD.SWF" quality=high bgcolor=#FFFFFF wmode=transparent
+		WIDTH=450 HEIGHT=300 TYPE="application/x-shockwave-flash"
+		PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+	</EMBED>
+</OBJECT>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="ACCUEIL.HTM"><img src="FRANCAIS.GIF" border="0"></img></a>
+    </td>
+    <td align="right">
+      <a href="HOME.HTM"><img src="ENGLISH.GIF" border="0"></img></a>
+    </td>
+  </tr>
+</table>
+<br />
+<br />
+        <center>
+<!-- eStat -->
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var _UJS=0;
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="http://perso.estat.com/js/m.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+if(_UJS) _estat('264064111545','ACCUEIL','ACCUEIL');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.estat.com/getstats?serial=264064111545"><IMG SRC="http://perso.estat.com/m/00/264064111545?p=PAGE_MARQUEE&c=GROUPE_PAGES_MARQUEES&st=0&sjs=0" BORDER="0"></A>
+</NOSCRIPT>
+<!-- /eStat -->
+        </center>
+<br />
+
+     <table border="0" cellpadding="0" cellspacing="0" width="700">
+       <tr>
+         <td align="center">
+           <a target="popup" href="http://www.hotel-ugerel-alpexpo.com/"><img alt="H�tel Ugerel Alpexpo" src="UGEREL.GIF" /></a>
+         </td>
+         <td width="10">&nbsp;</td>
+         <td align="center">
+           <a target="popup" href="http://www.ville-echirolles.fr/"><img alt="Ville d'Echirolles" src="ECHIROL.GIF" /></a>
+         </td>
+         <td width="10">&nbsp;</td>
+         <td align="center">
+           <a target="popup" href="http://www.ffba.org/"><img alt="F�d�ration Fran�aise de Badminton" src="FFBA.GIF" /></a>
+         </td>
+         <td width="10">&nbsp;</td>
+         <td align="center">
+           <a target="popup" href="http://rufus.w3.org/badminton/LRA/LRA.html"><img alt="Ligue Rhone-Alpes" src="LIGUE.GIF" /></a>
+         </td>
+         <td width="10">&nbsp;</td>
+         <td align="center">
+           <a target="popup" href="http://badminton.isere.free.fr/"><img alt="Comit� de l'Is&egrave;re" src="COMITE.GIF" /></a>
+         </td>
+         <td width="10">&nbsp;</td>
+         <td align="center">
+           <a target="popup" href="http://www.eurobadminton.org/"><img alt="European Badminton Union" src="EBU.GIF" /></a>
+         </td>
+         <td width="10">&nbsp;</td>
+         <td align="center">
+           <a target="popup" href="http://www.yonex.com/"><img alt="Yonex" src="YONEX.GIF" /></a>
+         </td>
+         <td width="10">&nbsp;</td>
+         <td align="center">
+           <a target="popup" href="http://www.cr-rhone-alpes.fr/"><img alt="Conseil r�gional Rh�ne-Alpes" src="RHONE.GIF" /></a>
+         </td>
+         <td width="10">&nbsp;</td>
+         <td align="center">
+           <a target="popup" href="http://www.cg38.fr/"><img alt="Conseil g�n�ral de l'Is�re" src="ISERE.GIF" /></a>
+         </td>
+         <td width="10">&nbsp;</td>
+         <td align="center">
+           <a target="popup" href="http://www.jeunesse-sports.gouv.fr/"><img alt="Minist�re de la Jeunesse et des Sports" src="SPORTS.GIF" /></a>
+         </td>
+        </tr>
+      </table>
+
+</center>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://isbt.us-badminton.nl/>====================
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="1;url=http://www.isbtplanner.com/amsterdam2014/index.html">
+        <script type="text/javascript">
+            window.location.href = "http://www.isbtplanner.com/amsterdam2014/index.html"
+        </script>
+        <title>Page Redirection</title>
+    </head>
+    <body>
+        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+        If you are not redirected automatically, follow the <a href='http://www.isbtplanner.com/amsterdam2014/index.html'>link to example</a>
+    </body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++

@@ -1,0 +1,771 @@
+\documentclass[10pt]{article}
+%\VignetteIndexEntry{Rcpp-FAQ}
+%\VignetteEngine{highlight::highlight}
+%\VignetteKeywords{Rcpp, FAQ}
+%\VignetteDepends{Rcpp}
+\usepackage[USletter]{vmargin}
+\setmargrb{0.75in}{0.75in}{0.75in}{0.75in}
+
+\usepackage{color,alltt}
+\usepackage[authoryear,round,longnamesfirst]{natbib}
+\usepackage[colorlinks]{hyperref}
+\definecolor{link}{rgb}{0,0,0.3}	%% next few lines courtesy of RJournal.sty
+\hypersetup{
+    colorlinks,%
+    citecolor=link,%
+    filecolor=link,%
+    linkcolor=link,%
+    urlcolor=link
+}
+
+\usepackage{microtype}                     %% cf http://www.khirevich.com/latex/microtype/
+\usepackage[T1]{fontenc}		   %% cf http://www.khirevich.com/latex/font/
+\usepackage[bitstream-charter]{mathdesign} %% cf http://www.khirevich.com/latex/font/
+
+\newcommand{\proglang}[1]{\textsf{#1}}
+\newcommand{\pkg}[1]{{\fontseries{b}\selectfont #1}}
+\newcommand{\code}[1]{\texttt{#1}}
+
+%% defined as a stop-gap measure til interaction with highlight is sorted out
+\newcommand{\hlboxlessthan}{   \hlnormalsizeboxlessthan}
+\newcommand{\hlboxgreaterthan}{\hlnormalsizeboxgreaterthan}
+\newcommand{\hlboxopenbrace}{  \hlnormalsizeboxopenbrace}
+\newcommand{\hlboxclosebrace}{ \hlnormalsizeboxclosebrace}
+\newcommand{\hlboxbacktick}{   \hlnormalsizeboxbacktick}
+\newcommand{\hlboxunderscore}{ \hlnormalsizeboxunderscore}
+
+<<echo=FALSE,print=FALSE>>=
+prettyVersion <- packageDescription("Rcpp")$Version
+prettyDate <- format(Sys.Date(), "%B %e, %Y")
+@
+
+\author{Dirk Eddelbuettel \and Romain Fran\c{c}ois}
+\title{Frequently Asked Questions about \pkg{Rcpp}}
+\date{\pkg{Rcpp} version \Sexpr{prettyVersion} as of \Sexpr{prettyDate}}
+
+<<echo=FALSE>>=
+link <- function( f, package, text = f, root = "http://finzi.psych.upenn.edu/R/library/" ){
+    h <- if( missing(package) ) {
+        as.character( help( f ) )
+    } else {
+        as.character( help( f, package = paste( package, sep = "" ) ) )
+    }
+    if( ! length(h) ){
+        sprintf( "\\\\textbf{%s}", f )
+    } else {
+        rx <- "^.*/([^/]*?)/help/(.*?)$"
+        package <- sub( rx, "\\1", h, perl = TRUE )
+        page <- sub( rx, "\\2", h, perl = TRUE )
+        sprintf( "\\\\href{%s%s/html/%s.html}{\\\\texttt{%s}}", root, package, page, text )
+    }
+}
+linkS4class <- function( cl, package, text = cl, root = "http://finzi.psych.upenn.edu/R/library/" ){
+    link( sprintf("%s-class", cl), package, text, root )
+}
+require(inline)
+require(highlight)
+@
+
+\newcommand{\faq}[1]{FAQ~\ref{#1}}
+
+\begin{document}
+\maketitle
+
+\abstract{
+  \noindent This document attempts to answer the most Frequently Asked
+  Questions (FAQ) regarding the \pkg{Rcpp} \citep{CRAN:Rcpp,JSS:Rcpp} package.
+}
+
+\section{Getting started}
+
+\subsection{How do I get started ?}
+
+If you have \pkg{Rcpp} installed, please execute the following command in \proglang{R}
+
+<<eval=FALSE>>=
+vignette( "Rcpp-introduction" )
+@
+
+\noindent to access the vignette which provides a detailed introduction.
+
+If you do not have \pkg{Rcpp} installed, the document should also be available
+whereever you found this document, \textsl{i.e.,} on every mirror of CRAN site.
+
+\subsection{What do I need ?}
+
+Obviously, \proglang{R} must be installed. \pkg{Rcpp} provides a
+\proglang{C++} API as an extension to the \proglang{R} system.  As such, it
+is bound by the choices made by \proglang{R} and is also influenced by how
+\proglang{R} is configured.
+
+In general, the standard environment for building a CRAN package from source
+(particularly when it contains \proglang{C} or \proglang{C++} code) is required. This
+means one needs:
+\begin{itemize}
+\item a development environment with a suitable compiler (see
+  below), header files and required libraries;
+\item \proglang{R} should be built in a way that permits linking and possibly
+  embedding of \proglang{R}; this is typically ensured by the
+  \texttt{--enable-shared-lib} option;
+\item standard development tools such as \texttt{make} etc.
+\end{itemize}
+
+
+\subsection{What compiler can I use ?}
+
+On almost all platforms, the GNU Compiler Collection (or \texttt{gcc}, which
+is also the name of its \proglang{C} language compiler) has to be used along
+with the corresponding \texttt{g++} compiler for the \proglang{C++} language.
+A minimal suitable version is a final 4.2.* release; earlier 4.2.* were
+lacking some \proglang{C++} features (and even 4.2.1, still used on OS X, has
+issues).
+
+Generally speaking, and as of early
+2011, the default compilers on all the common platforms are suitable.
+
+Specific per-platform notes:
+\begin{description}
+  \item[Windows] users need the \texttt{Rtools} package from the site maintained by
+    Duncan Murdoch which contains all the required tools in a single package;
+    complete instructions specific to Windows are in the `R Administration'
+    manual \citep[Appendix D]{R:Administration}.
+  \item[OS X] users, as noted in the `R Administration' manual \citep[Appendix
+    C.4]{R:Administration}, need to install the Apple Developer Tools
+    (\textsl{e.g.}, \texttt{Xcode}) (as well as \texttt{gfortran} if \proglang{R} or
+    Fortran-using packages are to be built); also see \faq{q:OSX} below.
+  \item[Linux] user need to install the standard developement packages. Some
+    distributions provide helper packages which pull in all the required
+    packages; the \texttt{r-base-dev} package on Debian and Ubuntu is an example.
+\end{description}
+
+The \texttt{clang} and \texttt{clang++} compilers from the LLVM project can
+also be used as they are inter-operable with \texttt{gcc} et al.  The
+\texttt{clang++} compiler is particularly interesting as it emits much more
+comprehensible error messages than \texttt{g++}.
+
+The Intel \texttt{icc} family has also been used successfully  as its output
+files can also be combined with those from \texttt{gcc}.
+
+\subsection{What other packages are useful ?}
+
+Additional packages that we have found useful are
+
+\begin{description}
+\item[\pkg{inline}] which is invaluable for direct compilation, linking and loading
+  of short code snippets;
+\item[\pkg{RUnit}] is used for unit testing; the package is recommended and will be needed to re-run
+  some of our tests but it is not strictly required;
+\item[\pkg{rbenchmark}] to run simple timing comparisons and benchmarks; it is also
+  recommended but not required.
+\end{description}
+
+
+\section{Compiling and Linking}
+
+\subsection{How do I use \pkg{Rcpp} in my package ?}
+\label{make-package}
+
+\pkg{Rcpp} has been specifically designed to be used by other packages.
+Making a package that uses \pkg{Rcpp} depends on the same mechanics that are
+involved in making any \proglang{R} package that use compiled code --- so
+reading the \textsl{Writing R Extensions} manual \citep{R:Extensions} is a required
+first step.
+
+Further steps, specific to \pkg{Rcpp}, are described in a separate vignette.
+
+<<eval=FALSE>>=
+vignette( "Rcpp-package" )
+@
+
+\subsection{How do I quickly prototype my code using inline?}
+\label{using-inline}
+
+The \pkg{inline} package \citep{CRAN:inline} provides the functions
+\Sexpr{link("cfunction")} and \Sexpr{link("cxxfunction")}. Below is a simple
+function that uses \texttt{accumulate} from the (\proglang{C++}) Standard
+Template Library to sum the elements of a numeric vector.
+
+<<>>=
+fx <- cxxfunction(signature( x = "numeric" ),
+    'NumericVector xx(x);
+     return wrap( std::accumulate( xx.begin(), xx.end(), 0.0));',
+    plugin = "Rcpp")
+res <- fx( seq( 1, 10, by = 0.5 ) )
+res
+<<echo=FALSE>>=
+stopifnot( identical( res, sum( seq( 1, 10, by = 0.5 ) ) ) )
+@
+
+\pkg{Rcpp} uses \pkg{inline} to power its entire unit test suite. Consult the
+\texttt{unitTests} directory of \pkg{Rcpp} for several hundred further examples.
+
+<<eval=FALSE>>=
+list.files( system.file( "unitTests", package = "Rcpp" ), pattern = "^runit[.]" )
+@
+
+One might want to use code that lives in a \proglang{C++} file instead of writing
+the code in a character string in R. This is easily achieved by using
+\Sexpr{link("readLines")} :
+
+<<eval=FALSE>>=
+fx <- cxxfunction( signature(),
+	paste( readLines( "myfile.cpp"), collapse = "\n" ),
+	plugin = "Rcpp" )
+@
+
+The \texttt{verbose} argument of \Sexpr{link("cxxfunction")} is very
+useful as it shows how \pkg{inline} runs the show.
+
+Update: Also see question \ref{using-attributes} below about 'Rcpp
+Attributes' \citep{CRAN:Rcpp:Attributes}.
+
+\subsection{How do I convert my prototyped code to a package ?}
+\label{from-inline-to-package}
+
+Since release 0.3.5 of \pkg{inline}, one can combine \faq{using-inline} and
+\faq{make-package}. See \verb|help("package.skeleton-methods")| once
+\pkg{inline} is loaded and use the skeleton-generating functionality to
+transform a prototyped function into the minimal structure of a package.
+After that you can proceed with working on the package in the spirit of
+\faq{make-package}.
+
+\subsection{How do I quickly prototype my code in a package?}
+\label{using-a-package}
+
+The simplest way may be to work directly with a package.  Changes to both the
+\proglang{R} and \proglang{C++} code can be compiled and tested from the
+command line via:
+
+<<lang=bash>>=
+$ R CMD INSTALL mypkg && Rscript --default-packages=mypkg -e 'someFunctionToTickle(3.14)'
+@
+
+This first installs the packages, and then uses the command-line tool
+\code{Rscript} (which ships with \code{R}) to load the package, and execute
+the \proglang{R} expression following the \code{-e} switch. Such an
+expression can contain multiple statements separated by semicolons.
+\code{Rscript} is available on all three core operating systems.
+
+On Linux, one can also use \code{r} from the \code{littler} package by Horner
+and Eddelbuettel which is an alternative front end to \proglang{R} designed
+for both \verb|#!| (hashbang) scripting and command-line use. It has slightly
+faster start-up times than \code{Rscript}; and both give a guaranteed clean
+slate as a new session is created.
+
+The example then becomes
+
+<<lang=bash>>=
+ $ R CMD INSTALL mypkg && r -l mypkg -e 'someFunctionToTickle(3.14)'
+@
+
+The \code{-l} option calls 'suppressMessages(library(mypkg))' before executing the
+\proglang{R} expression. Several packages can be listed, separated by a comma.
+
+\subsection{But I want to compile my code with R CMD SHLIB !}
+\label{using-r-cmd-shlib}
+
+The recommended way is to create a package and follow \faq{make-package}. The
+alternate recommendation is to use \pkg{inline} and follow \faq{using-inline}
+because it takes care of all the details.
+
+However, some people have shown that they prefer not to follow recommended
+guidelines and compile their code using the traditional \texttt{R CMD SHLIB}. To
+do so, we need to help \texttt{SHLIB} and let it know about the header files
+that \pkg{Rcpp} provides and the \proglang{C++} library the code must link
+against.
+
+On the Linux command-line, you can do the following:\newline
+<<lang=bash>>=
+$ export PKG_LIBS=`Rscript -e "Rcpp:::LdFlags()"`
+$ export PKG_CXXFLAGS=`Rscript -e "Rcpp:::CxxFlags()"`
+$ R CMD SHLIB myfile.cpp
+@
+which first defines and exports two relevant environment variables which
+\texttt{R CMD SHLIB} then relies on.  On other operating systems, appropriate
+settings may have to be used to define the environment variables.
+
+This approach corresponds to the very earliest ways of building programs and
+can still be found in some deprecated documents (as \textit{e.g.} some of
+Dirk's older 'Intro to HPC with R' tutorial slides).  It is still not
+recommended as there are tools and automation mechanisms that can do the work
+for you.
+
+An alternative, which might work better on Windows is to use the
+unexported function \texttt{Rcpp:::SHLIB} :
+
+<<lang=bash>>=
+$ Rscript -e "Rcpp:::SHLIB('myfile.cpp')"
+@
+
+\subsection{But R CMD SHLIB still does not work !}
+
+We have had reports in the past where build failures occurred when users had
+non-standard code in their \verb|~/.Rprofile| or \texttt{Rprofile.site} (or
+equivalent) files.
+
+If such code emits text on \texttt{stdout}, the frequent and implicit
+invocation of \texttt{Rscript -e "..."} (as in \faq{using-r-cmd-shlib}
+above) to retrieve settings directly from \pkg{Rcpp} will fail.
+
+You may need to uncomment such non-standard code, or protect it by wrapping
+it inside \texttt{if (interactive())}, or possibly try to use \texttt{Rscript
+  --vanilla} instead of plain \texttt{Rscript}.
+
+
+\subsection{What about \texttt{LinkingTo} ?}
+
+\proglang{R} has only limited support for cross-package linkage.
+
+We now employ the \texttt{LinkingTo} field of the \texttt{DESCRIPTION} file
+of packages using \pkg{Rcpp}. But this only helps in having \proglang{R}
+compute the location of the header files for us.
+
+The actual library location and argument still needs to be provided by the
+user. How to do so has been shown above, and we recommned you use either
+\faq{make-package} or \faq{using-inline} both which use the \pkg{Rcpp}
+function \texttt{Rcpp:::LdFlags()}.
+
+If and when \texttt{LinkingTo} changes and lives up to its name, we will be
+sure to adapt \pkg{Rcpp} as well.
+
+
+\subsection{Does \pkg{Rcpp} work on windows ?}
+
+Yes of course. See the Windows binaries provided by CRAN.
+
+\subsection{Can I use \pkg{Rcpp} with Visual Studio ?}
+
+Not a chance.
+
+And that is not because we are meanies but because \proglang{R} and Visual
+Studio simply do not get along. As \pkg{Rcpp} is all about extending
+\proglang{R} with \proglang{C++} interfaces, we are bound by the available
+toolchain.  And \proglang{R} simply does not compile with Visual Studio. Go
+complain to its vendor if you are still upset.
+
+\subsection{I am having problems building Rcpp on OS X, any help ?}
+\label{q:OSX}
+
+OS X is a little more conservative with compiler versions, so it pays to get
+the latest of whatever Apple releases which may already be a little behind
+what is used on Linux or Windows.
+
+At the time of writing this paragraph (in the spring of 2011), \pkg{Rcpp}
+(just like CRAN) supports all OS X releases greater or equal to 10.5.
+However, building \pkg{Rcpp} from source (or building packages using
+\pkg{Rcpp}) also requires a recent-enough version of Xcode. For the
+\textsl{Leopard} release of OS X, the current version is 3.1.4 which can be
+downloaded free of charge from the Apple Developer site. Users may have to
+manually select \code{g++-4.2} via the symbolic link \code{/usr/bin/g++}.
+The \textsl{Snow Leopard} release already comes with Xcode 3.2.x and work as
+is.
+
+\subsection{Does \pkg{Rcpp} work on solaris/suncc ?}
+
+Yes, it generally does.  But as we do not have access to such systems, some
+issues persist on the CRAN test systems.
+
+\subsection{Does \pkg{Rcpp} work with Revolution R ?}
+
+We have not tested it yet. \pkg{Rcpp} might need a few tweaks to work
+with the compilers used by Revolution R (if those differ from the defaults).
+
+\subsection{Is it related to CXXR ?}
+
+CXXR is an ambitious project that aims to totally refactor the \proglang{R}
+interpreter in \proglang{C++}. There are a few similaritites with \pkg{Rcpp}
+but the projects are unrelated.
+
+CXXR and \pkg{Rcpp} both want \proglang{R} to make more use of \proglang{C++}
+but they do it in very different ways.
+
+\subsection{How do I quickly prototype my code using Attributes?}
+\label{using-attributes}
+
+\pkg{Rcpp} version 0.10.0 and later offer a new feature 'Rcpp Attributes'
+which is described in detail in its own vignette
+\citep{CRAN:Rcpp:Attributes}.  In short, it offers functions \code{evalCpp},
+\code{cppFunction} and \code{sourceCpp} which extend the functionality of the
+\code{cxxfunction} function.
+
+
+
+\section{Examples}
+
+The following questions were asked on the \texttt{rcpp-devel} mailing list,
+which is generally the best place to ask questions.
+
+\subsection{Can I use templates with \pkg{Rcpp} and \pkg{inline} ? }
+
+\begin{quote}
+  \emph{I'm curious whether one can provide a class definition inline in an R
+    script and then initialize an instance of the class and call a method on
+    the class, all inline in R.}
+\end{quote}
+
+\noindent Most certainly, consider this simple example of a templated class
+which squares its argument:
+
+<<lang=r>>=
+inc <- 'template <typename T>
+        class square : public std::unary_function<T,T> {
+        public:
+            T operator()( T t) const { return t*t ;}
+        };
+       '
+
+src <- '
+       double x = Rcpp::as<double>(xs);
+       int i = Rcpp::as<int>(is);
+       square<double> sqdbl;
+       square<int> sqint;
+       return Rcpp::DataFrame::create(Rcpp::Named("x", sqdbl(x)),
+                                      Rcpp::Named("i", sqint(i)));
+       '
+fun <- cxxfunction(signature(xs="numeric", is="integer"),
+                   body=src, include=inc, plugin="Rcpp")
+
+fun(2.2, 3L)
+@
+
+Update: Also see question \ref{using-attributes} above about 'Rcpp
+Attributes' \citep{CRAN:Rcpp:Attributes} and its \code{sourceCpp} function.
+
+\subsection{Can I do matrix algebra with \pkg{Rcpp} ?}
+
+\begin{quote}
+  \emph{\pkg{Rcpp} allows element-wise operations on vector and matrices through
+    operator overloading and STL interface, but what if I want to multiply a
+    matrix by a vector, etc ...}
+\end{quote}
+
+\noindent Currently, \pkg{Rcpp} does not provide binary operators to allow operations
+involving entire objects. Adding operators to \pkg{Rcpp} would be a major
+project (if done right) involving advanced techniques such as expression
+templates. We currently do not plan to go in this direction, but we would
+welcome external help. Please send us a design document.
+
+However, we have developed the \pkg{RcppArmadillo} package \citep{CRAN:RcppArmadillo} that provides a
+bridge between \pkg{Rcpp} and \pkg{Armadillo} \citep{Sanderson:2010:Armadillo}.  \pkg{Armadillo}
+supports binary operators on its types in a way that takes full advantage of
+expression templates to remove temporaries and allow chaining of
+operations. That is a mouthful of words meaning that it makes the code go
+faster by using fiendishly clever ways available via the so-called template
+meta programming, an advanced \proglang{C++} technique.
+Also, the \pkg{RcppEigen} package provides an alternative using the
+\href{Eigen}{http://eigen.tuxfamily.org} template library.
+
+
+The following example is adapted from the examples available at the project
+page of Armadillo. It calculates $ x' \times Y^{-1} \times z$
+
+<<echo=FALSE>>=
+writeLines( '
+    // copy the data to armadillo structures
+    arma::colvec x = Rcpp::as<arma::colvec> (x_);
+    arma::mat Y = Rcpp::as<arma::mat>( Y_ ) ;
+    arma::colvec z = Rcpp::as<arma::colvec>( z_ ) ;
+
+    // calculate the result
+    double result = arma::as_scalar(
+        arma::trans(x) * arma::inv(Y) * z
+        );
+
+    // return it to R
+    return Rcpp::wrap( result );
+', "myfile.cpp" )
+@
+<<echo=FALSE,results=tex>>=
+external_highlight( "myfile.cpp", type = "LATEX", doc = FALSE )
+@
+
+%% Running this now makes the package depend on RcppArmadillo being installed
+%% and would require at least a Suggests
+<<eval=FALSE>>=
+fx <- cxxfunction(
+	signature(x_ = "numeric", Y_ = "matrix", z_ = "numeric" ),
+	paste( readLines( "myfile.cpp" ), collapse = "\n" ),
+	plugin = "RcppArmadillo" )
+fx( 1:4, diag( 4 ), 1:4 )
+@
+<<echo=FALSE>>=
+unlink( "myfile.cpp" )
+@
+
+The focus is on the code \verb|arma::trans(x) * arma::inv(Y) * z|, which
+performs the same operation as the R code \verb|t(x) %*% solve(Y) %*% z|,
+although Armadillo turns it into only one operation, which makes it quite fast.
+Armadillo benchmarks against other \proglang{C++} matrix algebra libraries
+are provided on \href{http://arma.sourceforge.net/speed.html}{the Armadillo website}.
+
+It should be noted that code below depends on the version \texttt{0.3.5} of
+\pkg{inline} and the version \texttt{0.2.2} of \pkg{RcppArmadillo}
+
+\subsection{Can I use code from the Rmath header and library with \pkg{Rcpp} ?}
+
+\begin{quote}
+  \emph{Can I call functions defined in the Rmath header file and the
+    standalone math library for R--as for example the random number generators?}
+\end{quote}
+
+\noindent Yes, of course. This math library exports a subset of R, but \pkg{Rcpp} has
+access to much more.  Here is another simple example. Note how we have to use
+and instance of the \texttt{RNGScope} class to set and re-set the
+random-number generator. This also illustrates Rcpp sugar as we are using a
+vectorised call to \texttt{rnorm}. Moreover, because the RNG is reset, the
+two calls result in the same random draws. If we wanted to control the draws,
+we could explicitly set the seed after the \texttt{RNGScope} object has been
+instantiated.
+
+<<>>=
+fx <- cxxfunction(signature(),
+                  'RNGScope();
+                   return rnorm(5, 0, 100);',
+                  plugin="Rcpp")
+fx()
+fx()
+@
+
+\subsection{Can I use NA and Inf with \pkg{Rcpp} ?}
+
+\begin{quote}
+  \emph{R knows about NA and Inf. How do I use them from C++?}
+\end{quote}
+
+\noindent Yes, see the following example:
+
+<<>>=
+src <- 'Rcpp::NumericVector v(4);
+        v[0] = R_NegInf;  // -Inf
+        v[1] = NA_REAL;   // NA
+        v[2] = R_PosInf;  // Inf
+        v[3] = 42;        // see the Hitchhiker Guide
+        return Rcpp::wrap(v);'
+fun <- cxxfunction(signature(), src, plugin="Rcpp")
+fun()
+@
+
+
+\subsection{Can I easily multiply matrices ?}
+
+\begin{quote}
+  \emph{Can I multiply matrices easily?}
+\end{quote}
+
+\noindent Yes, via the \pkg{RcppArmadillo} package which builds upon \pkg{Rcpp} and the
+wonderful Armadillo library at \url{http://arma.sf.net}:
+
+<<eval=FALSE>>=
+txt <- 'arma::mat Am = Rcpp::as< arma::mat >(A);
+        arma::mat Bm = Rcpp::as< arma::mat >(B);
+        return Rcpp::wrap( Am * Bm );'
+mmult <- cxxfunction(signature(A="numeric", B="numeric"),
+                     body=txt, plugin="RcppArmadillo")
+A <- matrix(1:9, 3, 3)
+B <- matrix(9:1, 3, 3)
+C <- mmult(A, B)
+@
+% < < echo=FALSE,print=FALSE > > =
+% A <- matrix(1:9, 3, 3)
+% B <- matrix(9:1, 3, 3)
+% A %*% B
+% @
+
+Armadillo supports a full range of common linear algebra operations.
+
+The \pkg{RcppEigen} package provides an alternative using the
+\href{Eigen}{http://eigen.tuxfamily.org} template library.
+
+\subsection{How do I write a plugin for \pkg{inline} ?}
+
+\begin{quote}
+  \emph{How can I create my own plugin for use by the \pkg{inline} package?}
+\end{quote}
+
+\noindent Here is an example which shows how to it using GSL libraries as an
+example.  This is merely for demonstration, it is also not perfectly general
+as we do not detect locations first---but it serves as an example:
+
+<<eval=FALSE>>=
+## simple example of seeding RNG and drawing one random number
+gslrng <- '
+int seed = Rcpp::as<int>(par) ;
+gsl_rng_env_setup();
+gsl_rng *r = gsl_rng_alloc (gsl_rng_default);
+gsl_rng_set (r, (unsigned long) seed);
+double v = gsl_rng_get (r);
+gsl_rng_free(r);
+return Rcpp::wrap(v);'
+
+plug <- Rcpp:::Rcpp.plugin.maker(
+    include.before = "#include <gsl/gsl_rng.h>",
+    libs = paste("-L/usr/local/lib/R/site-library/Rcpp/lib -lRcpp",
+                 "-Wl,-rpath,/usr/local/lib/R/site-library/Rcpp/lib",
+                 "-L/usr/lib -lgsl -lgslcblas -lm"))
+registerPlugin("gslDemo", plug )
+fun <- cxxfunction(signature(par="numeric"), gslrng, plugin="gslDemo")
+fun(0)
+@
+%
+
+Here the \pkg{Rcpp} function \code{Rcpp.plugin.maker} is used to create a
+plugin 'plug' which is then registered, and subsequently used by \pkg{inline}.
+
+
+\subsection{How can I pass one additional flag to the compiler?}
+
+\begin{quote}
+  \emph{How can I pass another flag to the \code{g++} compiler without writing a new plugin?}
+\end{quote}
+
+The quickest way is to modify the return value from an existing plugin. Here
+we use the default one from \pkg{Rcpp} itself in order to pass the new flag
+\verb|-std=c++0x|. As it does not set the \verb|PKG_CXXFLAGS| variable, we
+simply assign this. For other plugins, one may need to append to the existing
+values instead.
+
+<<eval=FALSE>>=
+myplugin <- getPlugin("Rcpp")
+myplugin$env$PKG_CXXFLAGS <- "-std=c++0x"
+f <- cxxfunction(signature(), settings=myplugin, body='
++    std::vector<double> x = { 1.0, 2.0, 3.0 };  // fails without -std=c++0x
++    return Rcpp::wrap(x);
++ ')
+f()
+@
+
+\subsection{How can I set matrix row and column names ?}
+
+\begin{quote}
+  \emph{Ok, I can create a matrix, but how do I set its row and columns names?}
+\end{quote}
+
+Pretty much the same way as in \proglang{R} itself: We define a list with two
+character vectors, one each for row and column names, and assign this to the
+\code{dimnames} attribute:
+
+<<eval=FALSE>>=
+src <- '
+  Rcpp::NumericMatrix x(2,2);
+  x.fill(42);                           // or more interesting values
+  Rcpp::List dimnms =                   // two vec. with static names
+      Rcpp::List::create(Rcpp::CharacterVector::create("cc", "dd"),
+                         Rcpp::CharacterVector::create("ee", "ff"));
+  // and assign it
+  x.attr("dimnames") = dimnms;
+  return(x);
+'
+fun <- cxxfunction(signature(), body=src, plugin="Rcpp")
+fun()
+@
+%
+
+\subsection{Why can long long types not be cast correctly?}
+
+That is a good and open question. We rely on the basic \proglang{R} types,
+notably \code{integer} and \code{numeric}.  These can be cast to and from
+\proglang{C++} types without problems.  But there are corner cases.  The
+following example, contributed by a user, shows that we cannot reliably cast
+\code{long} types (on a 64-bit machines).
+
+<<eval=FALSE>>=
+BigInts <- cxxfunction(signature(),
+  'std::vector<long> bigints;
+   bigints.push_back(12345678901234567LL);
+   bigints.push_back(12345678901234568LL);
+   Rprintf("Difference of %ld\\n", 12345678901234568LL - 12345678901234567LL);
+   return wrap(bigints);', plugin="Rcpp", includes="#include <vector>")
+
+retval<-BigInts()
+
+# Unique 64-bit integers were cast to identical lower precision numerics
+# behind my back with no warnings or errors whatsoever.  Error.
+
+stopifnot(length(unique(retval)) == 2)
+@
+%
+
+While the difference of one is evident at the \proglang{C++} level, it is no
+longer present once cast to \proglang{R}. The 64-bit integer values get cast
+to a floating point types with a 53-bit mantissa. We do not have a good
+suggestion or fix for casting 64-bit integer values: 32-bit integer values
+fit into \code{integer} types, up to 53 bit precision fits into
+\code{numeric} and beyond that truly large integers may have to converted
+(rather crudely) to text and re-parsed. Using a different representation as
+for example from the \href{http://gmplib.org/}{GNU Multiple Precision Arithmetic
+  Library} may be an alternative.
+
+\section{Support}
+
+\subsection{Is the API documented ?}
+
+You bet. We use \proglang{doxygen} to generate html, latex and man page
+documentation from the source. The html documentation is available for
+\href{http://dirk.eddelbuettel.com/code/rcpp/html/index.html}{browsing}, as a
+\href{http://dirk.eddelbuettel.com/code/rcpp/Rcpp_refman.pdf}{very large pdf file},
+and all three formats are also available a zip-archives:
+\href{http://dirk.eddelbuettel.com/code/rcpp/rcpp-doc-html.zip}{html},
+\href{http://dirk.eddelbuettel.com/code/rcpp/rcpp-doc-latex.zip}{latex}, and
+\href{http://dirk.eddelbuettel.com/code/rcpp/rcpp-doc-man.zip}{man}.
+
+\subsection{Does it really work ?}
+
+We take quality seriously and have developped an extensive unit test suite to
+cover many possible uses of the \pkg{Rcpp} API.
+
+We are always on the look for more coverage in our testing. Please let us know
+if something has not been tested enough.
+
+
+\subsection{Where can I ask further questions ?}
+
+The
+\href{https://lists.r-forge.r-project.org/cgi-bin/mailman/listinfo/rcpp-devel}{Rcpp-devel}
+mailing list hosted at R-forge is by far the best place.  You may also want
+to look at the list archives to see if your question has been asked before.
+
+\subsection{Where can I read old questions and answers ?}
+
+The normal \href{https://lists.r-forge.r-project.org/cgi-bin/mailman/listinfo/rcpp-devel}{Rcpp-devel}
+mailing list hosting at R-forge contains an archive, which can be
+\href{http://lists.r-forge.r-project.org/mailman/swish.cgi?query=listname=rcpp-devel}{searched via swish}.
+
+Alternatively, one can also use
+\href{http://thread.gmane.org/gmane.comp.lang.r.rcpp/}{Gmane on Rcpp-devel} as well as
+\href{http://www.mail-archive.com/rcpp-devel@lists.r-forge.r-project.org/info.html}{Mail-Archive
+  on Rcpp-devel} both of which offer web-based interfaces, including
+searching.
+
+\subsection{I like it. How can I help ?}
+\label{helping}
+
+The current list of things to do is available in our \texttt{TODO} file.
+\href{https://r-forge.r-project.org/scm/viewvc.php/pkg/Rcpp/TODO?view=markup&root=rcpp}.
+If you are willing to donate time and have skills in C++, let us know. If you are
+willing to donate money to sponsor improvements, let us know.
+
+You can also spread the word about \pkg{Rcpp}. There are many packages on CRAN
+that use \proglang{C++}, yet are not using \pkg{Rcpp}. You could write a
+review of \pkg{Rcpp} in \href{http://crantastic.org}{crantastic}, blog about
+it or get the word out otherwise.
+
+
+\subsection{I don't like it. How can I help ?}
+
+It is very generous of you to still want to help. Perhaps you can tell us
+what it is that you dislike. We are very open to \emph{constructive} criticism.
+
+\subsection{Can I have commercial support for \pkg{Rcpp} ?}
+
+Sure you can. Just send us an email, and we will be happy to discuss the
+request..
+
+\subsection{I want to learn quickly. Do you provide training courses ?}
+
+Yes. Just send us an email.
+
+\bibliographystyle{plainnat}
+\bibliography{Rcpp}
+
+\end{document}
+

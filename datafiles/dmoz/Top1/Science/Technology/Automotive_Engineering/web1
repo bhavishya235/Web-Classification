@@ -1,0 +1,1895 @@
+====================<http://www.naias.com/>====================
+
+
+
+	
+
+<!DOCTYPE html>
+<html >
+<head>
+    <title>North American International Auto Show : </title>
+    <meta name="keywords" content='' />
+    <meta name="description" content='' />
+		
+	
+		
+    <link rel="stylesheet" href="/css/2014/reset.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/css/2014/header.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/css/2014/main.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/css/2014/rte.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/css/2014/navigation.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/css/2014/footer.css" type="text/css" media="screen" />
+    
+    <link rel="stylesheet" href="/css/2014/print.css" type="text/css" media="print" />
+
+    <link rel="shortcut icon" href="/favicon.png" />
+
+	<script type="text/javascript" src="/scripts/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery-ui-1.8.2.custom.min.js"></script>
+	<script language="javascript" src="/scripts/navigation.js" type="text/javascript"></script>
+
+
+
+	
+
+	<link rel="stylesheet" href="/css/2014/home.css" type="text/css" media="screen" />
+	<link href="/templates/_css/flexslider_home.css" rel="stylesheet" type="text/css" media="screen" />
+	<script type="text/javascript" src="/templates/_js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="/templates/_js/jquery.flexslider.js"></script>
+	<script type="text/javascript" src="/templates/_js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="/templates/_js/jquery.easing.compatibility.js"></script>
+	<script type="text/javascript" src="/templates/_js/jquery.isotope.min.js"></script>
+	<script type="text/javascript" src="/scripts/fancybox/jquery.fancybox-1.3.0.pack.js"></script>
+	<link rel="stylesheet" type="text/css" href="/css/2014/jquery.fancybox-1.3.0.css" media="screen" />
+
+
+
+	<style type="text/css">
+		.schedule-item {
+		cursor:pointer;
+		}
+	
+		#home-banner p {
+		width: 450px;		
+		font-family: 'klavika_rgregular', Arial, Helvetica, sans-serif;
+		font-size: 18px;
+		font-weight: normal;
+		color: #ffffff;
+		line-height: 22px;
+		
+		margin-bottom: 20px;
+	}
+	</style>
+	
+	
+	
+	<script type="text/javascript">
+	  setInterval("reloadPage();",900000); 
+	  function reloadPage(){ window.location = location.href;}
+	</script>
+
+	 <script type="text/javascript">
+	$.Isotope.prototype._getCenteredMasonryColumns = function() {
+	    this.width = this.element.width();
+	    
+	    var parentWidth = this.element.parent().width();
+	    
+	                  // i.e. options.masonry && options.masonry.columnWidth
+	    var colW = this.options.masonry && this.options.masonry.columnWidth ||
+	                  // or use the size of the first item
+	                  this.$filteredAtoms.outerWidth(true) ||
+	                  // if there's no items, use size of container
+	                  parentWidth;
+	    
+	    var cols = Math.floor( parentWidth / colW );
+	    cols = Math.max( cols, 1 );
+	
+	    // i.e. this.masonry.cols = ....
+	    this.masonry.cols = cols;
+	    // i.e. this.masonry.columnWidth = ...
+	    this.masonry.columnWidth = colW;
+	  };
+	  
+	  $.Isotope.prototype._masonryReset = function() {
+	    // layout-specific props
+	    this.masonry = {};
+	    // FIXME shouldn't have to call this again
+	    this._getCenteredMasonryColumns();
+	    var i = this.masonry.cols;
+	    this.masonry.colYs = [];
+	    while (i--) {
+	      this.masonry.colYs.push( 0 );
+	    }
+	  };
+	
+	  $.Isotope.prototype._masonryResizeChanged = function() {
+	    var prevColCount = this.masonry.cols;
+	    // get updated colCount
+	    this._getCenteredMasonryColumns();
+	    return ( this.masonry.cols !== prevColCount );
+	  };
+	  
+	  $.Isotope.prototype._masonryGetContainerSize = function() {
+	    var unusedCols = 0,
+	        i = this.masonry.cols;
+	    // count unused columns
+	    while ( --i ) {
+	      if ( this.masonry.colYs[i] !== 0 ) {
+	        break;
+	      }
+	      unusedCols++;
+	    }
+	    
+	    return {
+	          height : Math.max.apply( Math, this.masonry.colYs ),
+	          // fit container to columns that have been used;
+	          width : (this.masonry.cols - unusedCols) * this.masonry.columnWidth
+	        };
+	  };
+	   
+	    $(function(){
+	      var $colWidth = 118;
+	      var $container = $('#container');
+	
+	      $container.isotope({
+	        itemSelector : '.feed-item',
+
+  		getSortData : {
+    			sortDate : function ( $elem ) {
+     				return $elem.find('.sortDate').text();
+    			}
+  		},
+		sortBy : 'sortDate',
+		sortAscending: false,
+
+	        masonry : {
+	          columnWidth: $colWidth
+	        }
+	        
+
+	      });
+	      
+	      
+	   /*   var $optionSets = $('#options .option-set'),
+	          $optionLinks = $optionSets.find('a');
+	
+	      $optionLinks.click(function(){
+	        var $this = $(this);
+	        // don't proceed if already selected
+	        if ( $this.hasClass('selected') ) {
+		        var $optionSet = $this.parents('.option-set');
+	              $optionSet.find('.selected').removeClass('selected');
+	        
+	              // make option object dynamically, i.e. { filter: '.my-filter-class' }
+	              var options = {},
+	                  key = $optionSet.attr('data-option-key'),
+	                  value = '*';
+	              // parse 'false' as false boolean
+	              value = value === 'false' ? false : value;
+	              options[ key ] = value;
+	              if ( key === 'layoutMode' && typeof changeLayoutMode === 'function' ) {
+	                // changes in layout modes need extra logic
+	                changeLayoutMode( $this, options )
+	              } else {
+	                // otherwise, apply new options
+	                $container.isotope( options );
+	              }
+	        
+	        	return false;
+	        }
+	        $optionSet = $this.parents('.option-set');
+	        $optionSet.find('.selected').removeClass('selected');
+	        $this.addClass('selected');
+	  
+	        // make option object dynamically, i.e. { filter: '.my-filter-class' }
+	        options = {},
+	            key = $optionSet.attr('data-option-key'),
+	            value = $this.attr('data-option-value');
+	        // parse 'false' as false boolean
+	        value = value === 'false' ? false : value;
+	        options[ key ] = value;
+	        if ( key === 'layoutMode' && typeof changeLayoutMode === 'function' ) {
+	          // changes in layout modes need extra logic
+	          changeLayoutMode( $this, options )
+	        } else {
+	          // otherwise, apply new options
+	          $container.isotope( options );
+	        }
+	        
+	        return false;
+	      });*/
+			$('#filters a').click(function(){
+			var $this = $(this);
+				if ( $this.hasClass('selected') ) {
+				$(this).removeClass('selected');
+				$container.isotope({ filter: '*' });
+				return false;
+				}
+			  var selector = $(this).attr('data-option-value');
+			  $container.isotope({ filter: selector });
+			  $("#filters a").addClass("selected").not(this).removeClass("selected");
+			  return false;
+			});
+			
+	      
+	    });
+
+		
+	$(document).ready(function(){
+	// Fancybox		
+			$(".video a").fancybox({
+				'padding'		: 10,
+				'autoScale'		: false,
+				'transitionIn'	: 'fade',
+				'transitionOut'	: 'none',
+				'overlayOpacity': 0.9,
+				'overlayColor'	: '#000000',
+				'titleShow'		: false,
+				'type'			: 'iframe'
+
+			});
+	
+	});
+
+
+	  </script>
+
+
+	<script type="text/javascript">
+	
+		String.prototype.parseURL = function() {
+			return this.replace(/[A-Za-z]+:\/\/[A-Za-z0-9-_]+\.[A-Za-z0-9-_:%&~\?\/.=]+/g, function(url) {
+			return url.link(url);
+			});
+		};
+	
+		String.prototype.parseUsername = function() {
+			return this.replace(/[@]+[A-Za-z0-9-_]+/g, function(u) {
+			var username = u.substring(1);
+			return u.link("http://twitter.com/"+username);
+			});
+		};
+	
+		String.prototype.parseHashtag = function() {
+			return this.replace(/[#]+[A-Za-z0-9-_]+/g, function(t) {
+			var tag = t.replace("#","%23")
+			return t.link("http://search.twitter.com/search?q="+tag);
+			});
+		};
+	
+	</script>
+
+
+			
+	<script type="text/javascript">
+	
+	  $(function(){
+	    SyntaxHighlighter.all();
+	  });
+
+
+
+	  $(window).load(function(){
+	    $('.flexslider').flexslider({
+	      animation: "slide",
+		slideToStart: 0,   
+		slideshow: false, 
+	      animationLoop: false,
+	      itemWidth: 285,
+	      itemMargin: 0,
+	      minItems: 1,
+	      maxItems: 3,
+	      start: function(slider){
+	        $('body').removeClass('loading');
+	      }
+
+	    }); 
+
+
+
+	    
+	    //change feed-items on rollover
+	    $('.feed-item').mouseover(function(){
+		    $("h1", this).css('color', '#ff6600');
+	    	$("h3", this).css('color', '#ff6600');
+	    	$(".play_video", this).attr('src','/templates/_img/home/play_over.gif');
+	    })			     		  
+	    $('.feed-item').mouseout(function(){
+	    	$("h1", this).css('color', '#000');
+	    	$("h3", this).css('color', '#000');
+	    	$(".play_video", this).attr('src','/templates/_img/home/play_video.gif');
+	    })
+	  });
+	</script>
+
+
+	
+
+</head>
+<body>
+
+
+<!-- print logo -->
+<div id="printLogo"><img src="/templates/_img/printLogo.jpg" width="285" height="50" alt="North American International Auto Show" /></div>
+
+<!-- header -->
+<script type="text/javascript" src="/scripts/header_2011.js"></script>
+<!-- header end -->
+
+
+<!-- content -->
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<div id="temp-header"></div>-->
+
+    <div id="home-banner" style="background-image:url(/media/10126/bg_home_banner.gif)">
+    	<div class="inside">
+    		<div id="banner-headline">
+    		<h2 style="font-size:50px;line-height:50px;margin-top:-20px;">2015 Dates</h2>
+			<p>Press Preview: January 12-13<br /> Industry Preview: January 14-15<br /> Charity Preview: January 16<br /> Public Show: January 17-25</p>
+    	    <!--<h2>Starts Tomorrow!</h2>-->
+    	    <!--<h2>Starts in 2 Days!</h2>-->
+             </div>
+             <div id="banner-buttons">
+             	<!--<img src="/templates/_img/home/btn_industry.png" alt="" style="visibility:hidden;" />
+             	<img src="/templates/_img/home/btn_charity.png" alt="" style="visibility:hidden;" />
+             	<img src="/templates/_img/home/btn_public.png" alt="" style="visibility:hidden;" />-->
+                <img src="/templates/_img/home/btn_phototour.png" alt="" />
+
+	        <!-- <a class="orange-btn_vert" href="/tickets/industry-preview-tickets.aspx" style="visibility:hidden;">Industry<br />Preview Tickets</a>
+	         <a class="orange-btn_vert" href="/tickets/charity-preview-tickets.aspx" style="visibility:hidden;">Charity<br />Preview Tickets</a>
+	         <a class="orange-btn_vert" href="/tickets/public-show-tickets.aspx" style="visibility:hidden;">Public<br />Show Tickets</a>-->
+	     	 <a class="orange-btn_vert orange-btn_long" href="/virtual-show/photo-tour.aspx">Virtual Show Photo Tour</a>
+             </div>
+             
+        </div>
+    </div>
+    
+<div id="homeBodyContentWrap">
+
+  <div id="home-feed-headline">
+        <h3>LATEST NEWS</h3>
+        <section id="options" class="clearfix">
+        <div id="filters" class="option-set clearfix" data-option-key="filter">
+        	<span id="filterby">filter by:</span>
+        	<a href="#filter" data-option-value=".news" id="news-filter">News</a>
+        	<a href="#filter" data-option-value=".media" id="media-filter">Photos + Video</a>
+        	<a href="#filter" data-option-value=".social" id="social-filter">Social</a>
+        	<a href="#filter" data-option-value=".details" id="details-filter">Show Details</a>
+        </div>
+        </section>
+    </div>
+    <div id="container" class="clearfix">
+
+
+
+
+
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> Which 2014 NAIAS debut is on your Valentines wish list?</p>
+					<p class="date">February 14, 2014 7:41 PM</p>
+				<p class="sortDate" style="display:none;">201402141941</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> Cars of the 2014 Winter Olympics! </p>
+					<p class="date">February 12, 2014 7:53 PM</p>
+				<p class="sortDate" style="display:none;">201402121953</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> Jay, you&#039;re welcome back to NAIAS any time!</p>
+					<p class="date">February 7, 2014 2:04 PM</p>
+				<p class="sortDate" style="display:none;">201402071404</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> Awesome artwork by the Detroit Auto Show Poster Contest winners! </p>
+					<p class="date">February 4, 2014 3:34 PM</p>
+				<p class="sortDate" style="display:none;">201402041534</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> Detroit Derby Girls at the 2014 NAIAS!</p>
+					<p class="date">January 30, 2014 6:12 PM</p>
+				<p class="sortDate" style="display:none;">201401301812</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> What was your favorite part of the 2014 NAIAS?</p>
+					<p class="date">January 29, 2014 4:04 PM</p>
+				<p class="sortDate" style="display:none;">201401291604</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> Culinary Arts students from the OSTC gained real-life experience while volunteer...</p>
+					<p class="date">January 27, 2014 2:32 PM</p>
+				<p class="sortDate" style="display:none;">201401271432</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> Heads up! Did you see who was looking over Detroit from the top of GM Renaissanc...</p>
+					<p class="date">January 23, 2014 2:05 AM</p>
+				<p class="sortDate" style="display:none;">201401230205</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> 185 new exclusive photos are now in the Detroit #NAIAS Gallery. Have you downloa...</p>
+					<p class="date">January 22, 2014 5:15 PM</p>
+				<p class="sortDate" style="display:none;">201401221715</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> The NAIAS Ticket Sweepstakes is going on all week! Enter to win a family 4 pack...</p>
+					<p class="date">January 20, 2014 2:55 PM</p>
+				<p class="sortDate" style="display:none;">201401201455</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> Thinking of visiting #NAIAS today? The show floor is open until 10pm tonight and...</p>
+					<p class="date">January 19, 2014 3:35 PM</p>
+				<p class="sortDate" style="display:none;">201401191535</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> The show floor is open until 10pm all week, though admission stops in a few minu...</p>
+					<p class="date">January 19, 2014 1:56 AM</p>
+				<p class="sortDate" style="display:none;">201401190156</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> Erin Cummings is signing autographs in #NAIAS Michigan Hall (lower level) until...</p>
+					<p class="date">January 18, 2014 9:46 PM</p>
+				<p class="sortDate" style="display:none;">201401182146</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> #NAIAS 2014 Public Show opened this morning. If you want to experience what it&#039;s...</p>
+					<p class="date">January 18, 2014 7:23 PM</p>
+				<p class="sortDate" style="display:none;">201401181923</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> Stage is set! Sheryl Crow will entertain #charitypreview crowd at 9pm</p>
+					<p class="date">January 18, 2014 1:21 AM</p>
+				<p class="sortDate" style="display:none;">201401180121</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> A glimpse of the crowd that&#039;s helped raise over $4.5 million for Detroit charities.</p>
+					<p class="date">January 17, 2014 11:55 PM</p>
+				<p class="sortDate" style="display:none;">201401172355</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> Did you know Charity Preview is the largest single-night fundraiser is North Ame...</p>
+					<p class="date">January 17, 2014 10:32 PM</p>
+				<p class="sortDate" style="display:none;">201401172232</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> The crowd begins to gather for NAIAS Charity Preview ribbon cutting.</p>
+					<p class="date">January 17, 2014 10:11 PM</p>
+				<p class="sortDate" style="display:none;">201401172211</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> Did you miss day 2 of press week at #NAIAS? Catch up on all of the reveals with...</p>
+					<p class="date">January 16, 2014 11:50 PM</p>
+				<p class="sortDate" style="display:none;">201401162350</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> It&#x2019;s been an eventful week so far at #NAIAS! See everything that happened on day...</p>
+					<p class="date">January 16, 2014 8:47 PM</p>
+				<p class="sortDate" style="display:none;">201401162047</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> Vice President Joe Biden, Sergio Marchionne and our very own #NAIAS Chairman, Bo...</p>
+					<p class="date">January 16, 2014 6:49 PM</p>
+				<p class="sortDate" style="display:none;">201401161849</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+		<div class="feed-item social facebook">
+			<div class="text">
+				<p> Have you seen the North American International Auto Show virtual show yet? Check...</p>
+					<p class="date">January 16, 2014 4:45 PM</p>
+				<p class="sortDate" style="display:none;">201401161645</p>
+			</div>
+			<a href="http://www.facebook.com/NorthAmericanInternationalAutoShow" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_facebook/');">&nbsp;</a>
+		</div>
+
+
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: Which cars from the #SuperBowI commercials did you see at #naias";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">February 3, 2014 1:11 AM</p>
+			<p class="sortDate" style="display:none;">201402030111</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: Don't miss it! The last #NAIAS parade of cars, stars and surprises starts at 3:30 on main show floor.";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 26, 2014 8:05 PM</p>
+			<p class="sortDate" style="display:none;">201401262005</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: Today is your last chance to see all the beautiful #NAIAS cars in one place. Doors open at 9am, show closes at 7pm (no admittance after 6pm)";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 26, 2014 1:58 PM</p>
+			<p class="sortDate" style="display:none;">201401261358</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: Everyone loves a parade, and one’s starting on #NAIAS main show floor at 7:00. Featuring ultra-luxury automobiles, local personalities...";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 25, 2014 11:45 PM</p>
+			<p class="sortDate" style="display:none;">201401252345</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: A parade of cars, local stars and some special surprises from @ParadeCo winds its way through #NAIAS at 3:30.";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 25, 2014 8:15 PM</p>
+			<p class="sortDate" style="display:none;">201401252015</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: If you enjoy #NAIAS, experience what it's like to be on the show floor at other premier #autoshows with this free app http://t.co/UXgkyuQedh";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 25, 2014 5:10 PM</p>
+			<p class="sortDate" style="display:none;">201401251710</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: Red Cross blood drive at #NAIAS today - Cobo rooms 142A/B/C 2pm-8pm, walk-ins encouraged, or schedule at http://t.co/P4ONH1IcLA, code: naias";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 25, 2014 4:25 PM</p>
+			<p class="sortDate" style="display:none;">201401251625</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: More no-drama #CarShopping tips from .@carsdotcom http://t.co/dwTGJq2N5B";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 25, 2014 4:18 PM</p>
+			<p class="sortDate" style="display:none;">201401251618</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: Have you ever bought a car you first saw at an auto show? #NAIAS #CarShopping .@carsdotcom has great tips - part 1 http://t.co/sveth5a8p1";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 25, 2014 4:16 PM</p>
+			<p class="sortDate" style="display:none;">201401251616</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: #NAIAS parade of cars, stars and surprises starts at 7:00 on main show floor.";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 24, 2014 11:35 PM</p>
+			<p class="sortDate" style="display:none;">201401242335</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: MT @DetroitChamber: More than 500,000 people have already attended #NAIAS , on pace to break 2013 attendance record: http://t.co/QPHrFSFPWz";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 24, 2014 9:33 PM</p>
+			<p class="sortDate" style="display:none;">201401242133</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: .@tigers #NAIAS parade starts at 3:30, today's special guests include Detroit Tigers as part of Tigers Winter Caravan";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 24, 2014 8:02 PM</p>
+			<p class="sortDate" style="display:none;">201401242002</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: Passport has new #NAIAS photos. Download app http://t.co/PKDL6HBdDt enter win trip to Paris (3 nights, airfare...) http://t.co/ygqpAAOfkX";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 24, 2014 6:11 PM</p>
+			<p class="sortDate" style="display:none;">201401241811</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: 12pm-9pm today is #NAIAS @wxyzdetroitChannel 7 Family Day - on-air personalities, racing, simulator, Sesame Street Live and more";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 24, 2014 5:24 PM</p>
+			<p class="sortDate" style="display:none;">201401241724</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: .@MichelinUSA Thanks for sharing. We never get tired of looking at all the beautiful #NAIAS cars and trucks sitting on Michelins.";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 24, 2014 5:21 PM</p>
+			<p class="sortDate" style="display:none;">201401241721</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: RT @OnStar: OnStar and MyLink in the all-new 2015 @chevrolet #Colorado make it easy to stay connected, even while roaming. See it at #NAIAS";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 24, 2014 5:09 PM</p>
+			<p class="sortDate" style="display:none;">201401241709</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: There's a lot to collect at #NAIAS MT @AAAauto: Check out collection of our experts favorite sports cars http://t.co/Q0hlyUDMQh";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 24, 2014 4:23 PM</p>
+			<p class="sortDate" style="display:none;">201401241623</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: #NAIAS inspires, awes young Detroit school kids on Education Day http://t.co/ezEtFpbw3w";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 24, 2014 2:29 PM</p>
+			<p class="sortDate" style="display:none;">201401241429</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: See @tigers and mascot PAWS when team stops by #NAIAS at 3pm as part of the Tigers annual Winter Caravan";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 24, 2014 2:16 PM</p>
+			<p class="sortDate" style="display:none;">201401241416</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+<div class="feed-item social twitter">
+		<div class="text">
+			<p>
+				<script type="text/javascript">
+					var twitter_item1 = "NAIASDetroit: @wxyzdetroit hosting Channel 7 Family Day at #NAIAS today! on-air personalities, racing,  simulator, Sesame Street Live and more";
+					document.writeln(twitter_item1.parseURL().parseUsername().parseHashtag());
+				</script>
+			</p>
+				<p class="date">January 24, 2014 1:31 PM</p>
+			<p class="sortDate" style="display:none;">201401241331</p>
+		</div>
+		<a href="http://twitter.com/NAIASDetroit" target="_blank" class="social-link" onclick="javascript: pageTracker._trackPageview('/outgoing_links/homePage_twitter/');">&nbsp;</a>
+	</div>
+
+
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2014-01-29-Enter-Now-Courageous-Persuaders-Video-Competition-Deadline-is-February-12">
+			<div class="text">
+				<p class="date">January 29, 2014</p>
+				<h3>Enter Now - Courageous Persuaders Video Competition Deadline is February 12</h3>
+				<p>Courageous Persuaders program delivers youth-to-youth message about dangers of underage drinking</p>
+				<p class="sortDate" style="display:none;">201401292035</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2014-01-26-Snowy-Sunday-Brings-NAIAS-2014-to-Successful-Finish">
+			<div class="text">
+				<p class="date">January 26, 2014</p>
+				<h3>Snowy Sunday Brings NAIAS 2014 to Successful Finish</h3>
+				<p>NAIAS exceeds attendance of 800,000 for the first time since 2003</p>
+				<p class="sortDate" style="display:none;">201401262352</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2014-01-16-Snap-and-Win-North-American-International-Auto-Show-Photo-Contest">
+			<div class="text">
+				<p class="date">January 16, 2014</p>
+				<h3>Snap and Win - North American International Auto Show Photo Contest</h3>
+				<p></p>
+				<p class="sortDate" style="display:none;">201401161602</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2014-01-16-Worldwide-vehicle-introductions-dominate-successful-Press-Preview-at-NAIAS">
+			<div class="text">
+				<p class="date">January 16, 2014</p>
+				<h3>Worldwide vehicle introductions dominate successful Press Preview at NAIAS</h3>
+				<p>Next up: Industry Preview-day two; VP Biden; and the biggest night of giving</p>
+				<p class="sortDate" style="display:none;">201401161525</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2014-01-14-NAIAS-Parking-Advisory-Additional-Parking-Secured-for-NAIAS-Preview-Week">
+			<div class="text">
+				<p class="date">January 14, 2014</p>
+				<h3>NAIAS Parking Advisory: Additional Parking Secured for NAIAS Preview Week</h3>
+				<p></p>
+				<p class="sortDate" style="display:none;">201401141323</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2014-01-12-Vice-President-Biden-leads-list-of-public-figures-to-attend-NAIAS-2014">
+			<div class="text">
+				<p class="date">January 12, 2014</p>
+				<h3>Vice President Biden leads list of public figures to attend NAIAS 2014</h3>
+				<p></p>
+				<p class="sortDate" style="display:none;">201401121807</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2014-01-09-NAIAS-Education-Day-Brings-Youth-Auto-Industry-Together">
+			<div class="text">
+				<p class="date">January 9, 2014</p>
+				<h3>NAIAS Education Day Brings Youth, Auto Industry Together</h3>
+				<p></p>
+				<p class="sortDate" style="display:none;">201401091925</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2014-01-08-The-Gallery-showcasing-the-worlds-most-elite-vehicles-ups-the-ante-in-2014-to-include-a-fashion-show-amongst-millions-of-dollars-worth-of-automobiles">
+			<div class="text">
+				<p class="date">January 8, 2014</p>
+				<h3>The Gallery, showcasing the world&#39;s most elite vehicles, ups the ante in 2014 to include a fashion show amongst millions of dollars worth of automobiles</h3>
+				<p></p>
+				<p class="sortDate" style="display:none;">201401081919</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2013-12-19-North-American-International-Auto-Show-Announces-2014-Poster-Contest-Winners">
+			<div class="text">
+				<p class="date">December 19, 2013</p>
+				<h3>North American International Auto Show Announces 2014 Poster Contest Winners</h3>
+				<p></p>
+				<p class="sortDate" style="display:none;">201312191854</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2013-12-17-The-wait-is-over-Here-come-the-cars">
+			<div class="text">
+				<p class="date">December 17, 2013</p>
+				<h3>The wait is over. Here come the cars.</h3>
+				<p>Parade of new vehicles headed for Detroit&#39;s world stage</p>
+				<p class="sortDate" style="display:none;">201312172201</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2013-12-16-C-O-R-R-E-C-T-I-O-N-NAIAS">
+			<div class="text">
+				<p class="date">December 17, 2013</p>
+				<h3>/C O R R E C T I O N -- NAIAS/</h3>
+				<p></p>
+				<p class="sortDate" style="display:none;">201312170125</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2013-11-14-NAIAS-announces-an-evening-with-Sheryl-Crow">
+			<div class="text">
+				<p class="date">November 14, 2013</p>
+				<h3>NAIAS announces an evening with Sheryl Crow</h3>
+				<p>Special performance part of 25th anniversary celebration</p>
+				<p class="sortDate" style="display:none;">201311141230</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2013-11-13-Introducing-Auto-Show-Passport">
+			<div class="text">
+				<p class="date">November 13, 2013</p>
+				<h3>Introducing &quot;Auto Show Passport&quot;</h3>
+				<p>New Smart phone App features alluring, new vehicle photos from select auto shows worldwide</p>
+				<p class="sortDate" style="display:none;">201311131747</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2013-11-06-Online-Media-Credentialing-Opens-for-North-American-International-Auto-Show-2014">
+			<div class="text">
+				<p class="date">November 6, 2013</p>
+				<h3>Online Media Credentialing Opens for North American International Auto Show 2014</h3>
+				<p></p>
+				<p class="sortDate" style="display:none;">201311061712</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2013-10-09-North-American-International-Auto-Show-Announces-2014-High-School-Poster-Competition">
+			<div class="text">
+				<p class="date">October 9, 2013</p>
+				<h3>North American International Auto Show Announces 2014 High School Poster Competition</h3>
+				<p>Cash prizes will be awarded to 16 Michigan area student winners</p>
+				<p class="sortDate" style="display:none;">201310091538</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2013-05-17-Courageous-Persuaders-Awards-Celebration-Recognizes-High-School-Student-Produced-Anti-Underage-Drinking-Commercials">
+			<div class="text">
+				<p class="date">May 17, 2013</p>
+				<h3>Courageous Persuaders Awards Celebration Recognizes High School Student-Produced Anti-Underage Drinking Commercials</h3>
+				<p>STUDENTS RECEIVE OVER $18,000 IN SCHOLARSHIPS AND AWARDS</p>
+				<p class="sortDate" style="display:none;">201305171434</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2013-05-09-Courageous-Persuaders-Video-Competition-Awards-Celebration-Tickets-Available">
+			<div class="text">
+				<p class="date">May 9, 2013</p>
+				<h3>Courageous Persuaders Video Competition Awards Celebration Tickets Available</h3>
+				<p>Courageous Persuaders program announcement</p>
+				<p class="sortDate" style="display:none;">201305091848</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2013-01-19-Hearts-opened-champagne-flowed-amid-backdrop-of-amazing-cars-at-NAIAS-2013-Charity-Preview">
+			<div class="text">
+				<p class="date">January 20, 2013</p>
+				<h3>Hearts opened, champagne flowed amid backdrop of amazing cars at NAIAS 2013 Charity Preview</h3>
+				<p>$3.9 million raised for children&#39;s charities, up over 30 percent from 2012</p>
+				<p class="sortDate" style="display:none;">201301200212</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2013-01-16-North-American-International-Auto-Show-names-WXYZ-official-Charity-Preview-Broadcast-Partner">
+			<div class="text">
+				<p class="date">January 16, 2013</p>
+				<h3>North American International Auto Show names WXYZ official Charity Preview Broadcast Partner</h3>
+				<p></p>
+				<p class="sortDate" style="display:none;">201301162022</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2013-01-10-Official-Auto-Show-App-for-Smart-Phones-Unveiled">
+			<div class="text">
+				<p class="date">January 10, 2013</p>
+				<h3>Official Auto Show App for Smart Phones Unveiled</h3>
+				<p>New Mobile App puts show information at fingertips</p>
+				<p class="sortDate" style="display:none;">201301101426</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2013-01-09-NAIAS-Education-Day-Brings-Youth-Auto-Industry-Together">
+			<div class="text">
+				<p class="date">January 9, 2013</p>
+				<h3>NAIAS Education Day Brings Youth, Auto Industry Together</h3>
+				<p></p>
+				<p class="sortDate" style="display:none;">201301091230</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2012-12-20-Global-Stage-is-Set-as-50-Vehicle-Unveilings-are-Prepared-for-Detroit">
+			<div class="text">
+				<p class="date">December 20, 2012</p>
+				<h3>Global Stage is Set as 50+ Vehicle Unveilings are Prepared for Detroit</h3>
+				<p>NAIAS a reflection of positive industry changes</p>
+				<p class="sortDate" style="display:none;">201212201300</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2012-12-19-North-American-International-Auto-Show-Announces-2013-Poster-Contest-Winners">
+			<div class="text">
+				<p class="date">December 19, 2012</p>
+				<h3>North American International Auto Show Announces 2013 Poster Contest Winners</h3>
+				<p></p>
+				<p class="sortDate" style="display:none;">201212191846</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2012-12-06-Auto-Show-Upgrades-To-Benefit-Media-Manufacturers">
+			<div class="text">
+				<p class="date">December 6, 2012</p>
+				<h3>Auto Show Upgrades To Benefit Media, Manufacturers</h3>
+				<p></p>
+				<p class="sortDate" style="display:none;">201212061100</p>
+			</div>
+		</a>
+	</div>
+	<div class="feed-item news pressrelease">
+		<a href="http://naias.mediaroom.com/2012-11-19-AISIN-Named-Presenting-Sponsor-of-2013-Drive-Green-Experience-at-North-American-International-Auto-Show">
+			<div class="text">
+				<p class="date">November 19, 2012</p>
+				<h3>AISIN Named Presenting Sponsor of 2013 &quot;Drive Green Experience&quot; at North American International Auto Show</h3>
+				<p>Indoor test track to feature latest in EVs, Hybrids</p>
+				<p class="sortDate" style="display:none;">201211191300</p>
+			</div>
+		</a>
+	</div>
+
+
+			<div class="feed-item media width2 ">
+				<a href="http://autoshowpassport.com/" target="_blank">
+						<img src="/media/30135/callout_passport_01.jpg" alt="Passport iPhone and iPad App - New Show Photos Added " />
+					<div class="text">
+						<p class="date">January 13, 2014</p>
+						<h1>Passport iPhone and iPad App - New Show Photos Added </h1>
+						<p>NAIAS is proud to be part of the Auto Show Passport iPad App. The App now includes photos from the March Geneva Auto Show -- and Paris, China and Tokyo photos continue to increase. The App now features 2,600+ exclusive photos from the world’s premier auto shows. </p>
+						<p class="sortDate" style="display:none;">201401130000</p>
+					</div>
+				</a>
+			</div>
+			<div class="feed-item media  ">
+				<a href="http://www.naias.com/email/naias-connect-february-2013_v10.html" target="">
+						<img src="/media/3354/home_connect.jpg" alt="Connect - February 2013" />
+					<div class="text">
+						<p class="date">February 25, 2013</p>
+						<h1>Connect - February 2013</h1>
+						<p>NAIAS 2013 was a true celebration of the automobile and a demonstration of the strength and resiliency of the auto business.</p>
+						<p class="sortDate" style="display:none;">201302250000</p>
+					</div>
+				</a>
+			</div>
+			<div class="feed-item details showdetails  ">
+				<a href="/travel-directions/location.aspx" target="">
+					<div class="text">
+						<p class="date">January 17, 2013</p>
+						<h1>Traveling to Detroit for the show?</h1>
+						<p>Get information on transportation, hotels, attractions, weather, directions, and more here.</p>
+						<p class="sortDate" style="display:none;">201301170000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/0rkFYVRX9XE" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/13048/home_large_nsx.jpg" alt="Acura - Press Conference" />
+					<div class="text">
+						<p class="date">January 16, 2013</p>
+						<h1>Acura - Press Conference</h1>
+						<p>Acura Unveils Next Evolution of NSX Concept</p>
+						<p class="sortDate" style="display:none;">201301160000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/V6juLDcWnYk" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/13049/home_large_kia.jpg" alt="Kia - Press Conference" />
+					<div class="text">
+						<p class="date">January 16, 2013</p>
+						<h1>Kia - Press Conference</h1>
+						<p>Kia Motors Debuts The 2014 Cadenza</p>
+						<p class="sortDate" style="display:none;">201301160000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/yLloom59Hpw" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/13050/home_large_tesla.jpg" alt="Tesla - Press Conference" />
+					<div class="text">
+						<p class="date">January 16, 2013</p>
+						<h1>Tesla - Press Conference</h1>
+						<p>Tesla Motors showcases its Model X</p>
+						<p class="sortDate" style="display:none;">201301160000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/ZeSQNAajwR4" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/3353/home_large_shelby.jpg" alt="Shelby American - Press Conference" />
+					<div class="text">
+						<p class="date">January 15, 2013</p>
+						<h1>Shelby American - Press Conference</h1>
+						<p>2013 Shelby GT500 Super Snake &amp; Shelby Focus ST Unveiled</p>
+						<p class="sortDate" style="display:none;">201301150000</p>
+					</div>
+				</a>
+			</div>
+			<div class="feed-item details showdetails  ">
+				<a href="http://autoshowpassport.com/" target="_blank">
+						<img src="/media/3356/passport_app_small.jpg" alt="New iPad App" />
+					<div class="text">
+						<p class="date">January 15, 2013</p>
+						<h1>New iPad App</h1>
+						<p>Discover and browse concept cars and international debuts unveiled at 2013, 2012 and 2011 shows.</p>
+						<p class="sortDate" style="display:none;">201301150000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/YbbnWKUd_wk" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/13042/home_large_via.jpg" alt="Via - Press Conference" />
+					<div class="text">
+						<p class="date">January 15, 2013</p>
+						<h1>Via - Press Conference</h1>
+						<p>VIA Motors Unveils Full-Size Electric Cars</p>
+						<p class="sortDate" style="display:none;">201301150000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/EPWrKjrY9u8" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/13043/home_large_nissan.jpg" alt="Nissan - Press Conference" />
+					<div class="text">
+						<p class="date">January 15, 2013</p>
+						<h1>Nissan - Press Conference</h1>
+						<p>Nissan unveils midsize crossover, Resonance</p>
+						<p class="sortDate" style="display:none;">201301150000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/4U-RmPY-xFU&amp;list" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/13044/home_large_lexus.jpg" alt="Lexus - Press Conference" />
+					<div class="text">
+						<p class="date">January 15, 2013</p>
+						<h1>Lexus - Press Conference</h1>
+						<p>Lexus IS 350 Sport and IS 300h Unveiled</p>
+						<p class="sortDate" style="display:none;">201301150000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/DSvU8fU2weI&amp;list" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/13045/home_large_guangzhou.jpg" alt="GAC Group - Press Conference" />
+					<div class="text">
+						<p class="date">January 15, 2013</p>
+						<h1>GAC Group - Press Conference</h1>
+						<p>GAC Group Shows 4WD Hybrid &amp; BEV Trumpchi GS5</p>
+						<p class="sortDate" style="display:none;">201301150000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/SoBJHZ_OMbY&amp;list " target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/13046/home_large_ford.jpg" alt="Ford - Press Conference" />
+					<div class="text">
+						<p class="date">January 15, 2013</p>
+						<h1>Ford - Press Conference</h1>
+						<p>All new Atlas Unveiled</p>
+						<p class="sortDate" style="display:none;">201301150000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/7NsbjdtD92g&amp;list" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+					<div class="text">
+						<p class="date">January 15, 2013</p>
+						<h1>Cadillac - Press Conference</h1>
+						<p>Cadillac debuts ELR luxury plug-in car</p>
+						<p class="sortDate" style="display:none;">201301150000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/60ssBzE5ZVs" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/13026/home_large_nactoy.jpg" alt="2013 NACTOY Winners" />
+					<div class="text">
+						<p class="date">January 14, 2013</p>
+						<h1>2013 NACTOY Winners</h1>
+						<p>General Motors Cadillac ATS, was named 2013 North American Car of the Year. Chrysler&#39;s Ram 1500 pickup, was named North American Truck/Utility of the Year.</p>
+						<p class="sortDate" style="display:none;">201301140000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/Z_yjSORLjxI" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/13028/home_large_jeep.jpg" alt="Jeep - Press Conference" />
+					<div class="text">
+						<p class="date">January 14, 2013</p>
+						<h1>Jeep - Press Conference</h1>
+						<p>Jeep Unveils New 2014 Grand Cherokee, Grand Cherokee SRT and Compass</p>
+						<p class="sortDate" style="display:none;">201301140000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/W3o4a5QSJ18" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/13029/home_large_vw.jpg" alt="Volkswagen - Press Conference" />
+					<div class="text">
+						<p class="date">January 14, 2013</p>
+						<h1>Volkswagen - Press Conference</h1>
+						<p>Volkswagen CrossBlue Mid-Size SUV Concept Makes Global Debut</p>
+						<p class="sortDate" style="display:none;">201301140000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/73t4S6hT33g" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/13030/home_large_lincoln.jpg" alt="Lincoln - Press Conference" />
+					<div class="text">
+						<p class="date">January 14, 2013</p>
+						<h1>Lincoln - Press Conference</h1>
+						<p>Lincoln MKC Concept debuts</p>
+						<p class="sortDate" style="display:none;">201301140000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/aG0LAC4OGKs" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/13031/home_large_infiniti.jpg" alt="Infiniti - Press Conference" />
+					<div class="text">
+						<p class="date">January 14, 2013</p>
+						<h1>Infiniti - Press Conference</h1>
+						<p>Infiniti Q50 Debuts with Cirque du Soleil Performance</p>
+						<p class="sortDate" style="display:none;">201301140000</p>
+					</div>
+				</a>
+			</div>
+		   <div class="feed-item media width2 video">
+				<a href="http://www.youtube.com/embed/DVuDXkTdpRo" target="">
+					<img src="/templates/_img/home/play_video.gif" alt="play" class="play_video"/>
+						<img src="/media/13032/home_large_mercedes.jpg" alt="Mercedes-Benz - Press Conference" />
+					<div class="text">
+						<p class="date">January 14, 2013</p>
+						<h1>Mercedes-Benz - Press Conference</h1>
+						<p>Mercedes-Benz debuts 2014 E-Class Family </p>
+						<p class="sortDate" style="display:none;">201301140000</p>
+					</div>
+				</a>
+			</div>
+
+
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-26-2014-(1).aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 26, 2014</p>
+					<h3>Snowy Sunday Brings NAIAS 2014 to Successful Finish</h3>
+					<p>The 2014 North American International Auto Show (NAIAS) came to a close today after an astounding two week celebration of vehicle unveilings, new technology, and the public show itself, which celebrated its 25th anniversary as an international event.</p>
+					<p class="sortDate" style="display:none;">201401260000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-25-2014.aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 25, 2014</p>
+					<h3>Action-Packed Day at NAIAS:</h3>
+					<p>The hottest spot in Southeastern Michigan remains Detroit’s Cobo Center – home of the 2014 North American International Auto Show. Yesterday the mood was even more festive as 76,505 adults and kids of all ages escaped frigid outdoor temperatures to participate in a number of activities inside Cobo Center’s perfect 73 degrees.</p>
+					<p class="sortDate" style="display:none;">201401250000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-23-2014.aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 23, 2014</p>
+					<h3>Education Day Impresses Future Generation</h3>
+					<p>The 2014 North American International Auto Show (NAIAS) today hosted 56,810 car enthusiasts during day five of the public show. Among the crowd: more than 5,000 students – potential future automotive designers, engineers, marketers and technicians. And, of course, future car buyers.</p>
+					<p class="sortDate" style="display:none;">201401230000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-21-2014.aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 21, 2014</p>
+					<h3>Weekday Run Starts Strong with Attendance of 76,531</h3>
+					<p>Families came out in large numbers yesterday and continued to enjoy the North American International Auto Show (NAIAS) after a successful opening weekend, and on the national holiday celebrating the life and achievements of Dr. Martin Luther King.</p>
+					<p class="sortDate" style="display:none;">201401210000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-20-2014.aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 20, 2014</p>
+					<h3>Weekend Crowds Top 100,000 Each Day</h3>
+					<p> The North American International Auto Show (NAIAS) attracted more than 100,000 people for the second consecutive day, marking a strong opening weekend for the 2014 show.</p>
+					<p class="sortDate" style="display:none;">201401200000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-18-2014.aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 18, 2014</p>
+					<h3>Strong auto show open extends “Detroit’s most exciting week”</h3>
+					<p>First day attendance of 106,560 beats 2013 opener</p>
+					<p class="sortDate" style="display:none;">201401180000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-17-2014.aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 17, 2014</p>
+					<h3>$4.8 million raised for children’s charities, up an astounding 23 percent from 2013</h3>
+					<p>If there was ever a doubt that the automobile industry is healthy, and that the indomitable spirit of Detroit is alive and well, that notion was put to rest tonight.</p>
+					<p class="sortDate" style="display:none;">201401170000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-16-2014.aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 16, 2014</p>
+					<h3>Worldwide vehicle introductions dominate successful Press Preview at NAIAS</h3>
+					<p>When the dust settled after two remarkable days of vehicle unveilings, organizers of the 2014 North American International Auto Show (NAIAS) counted 50 vehicle introductions, the majority being worldwide, presented to a crowd of 5,169 journalists from around the world.</p>
+					<p class="sortDate" style="display:none;">201401160000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-16-2014-(1).aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 16, 2014</p>
+					<h3>Snap and Win - North American International Auto Show Photo Contest</h3>
+					<p>Just snap…and…win. Bring your camera, smartphone or tablet to the 2014 North American International Auto Show (NAIAS), take a photo and submit it at naias.com, and you could win $200.</p>
+					<p class="sortDate" style="display:none;">201401160000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-16-2014-(2).aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 16, 2014</p>
+					<h3>NAIAS Parking Advisory: Parking for Charity Preview</h3>
+					<p>To ensure a smooth parking process as guests head to Cobo Center for Friday evening’s Charity Preview, the North American International Auto Show is providing the following information regarding street closures and parking options.</p>
+					<p class="sortDate" style="display:none;">201401160000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-14-2014.aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 14, 2014</p>
+					<h3>Evening with Sheryl Crow caps NAIAS 25th Anniversary Activity</h3>
+					<p>A 25th Anniversary celebration doesn’t come along every day. A milestone like this is a time to pause and reflect, and the organizers of the North American International Auto Show are excited to share highlights of the past, as well as its plans for the upcoming public show.</p>
+					<p class="sortDate" style="display:none;">201401140000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-12-2014.aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 12, 2014</p>
+					<h3>Vice President Biden leads list of public figures to attend NAIAS 2014</h3>
+					<p>As one of the top automotive events in the world, it’s no surprise that the North American International Auto Show (NAIAS) continues to attract the attention of public figures from around the world.</p>
+					<p class="sortDate" style="display:none;">201401120000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-10-2014-(1).aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 11, 2014</p>
+					<h3>Automotive suppliers to share industry insight, latest technologies at NAIAS 2014 press events</h3>
+					<p>Automotive suppliers—Schaeffler, Panasonic, ZF Group, DENSO, Michelin and PPG--announce press conferences and product review opportunities for media highlighting the latest technologies at the North American International Auto Show 2014.</p>
+					<p class="sortDate" style="display:none;">201401110000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-10-2014.aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 10, 2014</p>
+					<h3>Media Advisory</h3>
+					<p>Media availability for The Gallery, in its seventh year of showcasing the industry’s most elite automobiles, is scheduled for Sunday, January 12, from 10 a.m. to 12 p.m.</p>
+					<p class="sortDate" style="display:none;">201401100000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/01-09-2014.aspx" target="_blank">
+				<div class="text">
+					<p class="date">January 9, 2014</p>
+					<h3>NAIAS Education Day Brings Youth, Auto Industry Together</h3>
+					<p>With the rapidly growing use of wireless technology, smart phones and the Internet, today&#39;s youth are more connected and tech-savvy than ever. As automobiles become more connected too, it’s only natural that the industry focuses on bringing the two together.</p>
+					<p class="sortDate" style="display:none;">201401090000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/12-20-2013.aspx" target="_blank">
+				<div class="text">
+					<p class="date">December 20, 2013</p>
+					<h3>Society of Automotive Analysts Outlook Conference to (unofficially) kick off North American International Auto Show</h3>
+					<p>The Society of Automotive Analysts (SAA) will hold its 27th Annual Automotive Outlook Conference on the eve of the North American International Auto Show, Sun., Jan. 12, in Detroit’s Cobo Center Atrium.</p>
+					<p class="sortDate" style="display:none;">201312200000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/12-18-2013.aspx" target="_blank">
+				<div class="text">
+					<p class="date">December 18, 2013</p>
+					<h3>The wait is over. Here come the cars.</h3>
+					<p>The parade of fabulous new vehicles equipped with cutting-edge automotive technology from around the world is on its way to Detroit and to the North American International Auto Show (NAIAS).</p>
+					<p class="sortDate" style="display:none;">201312180000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/11-14-2013.aspx" target="_blank">
+				<div class="text">
+					<p class="date">November 14, 2013</p>
+					<h3>NAIAS announces an evening with Sheryl Crow</h3>
+					<p>Organizers of the North American International Auto Show today added to the growing excitement surrounding the upcoming show by announcing that singer, songwriter Sheryl Crow will perform at the black tie Charity Preview gala, Jan. 17, at Cobo Center, in Detroit.</p>
+					<p class="sortDate" style="display:none;">201311140000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/11-13-2013.aspx" target="_blank">
+				<div class="text">
+					<p class="date">November 13, 2013</p>
+					<h3>Introducing “Auto Show Passport” </h3>
+					<p>A new smart phone App designed to bring the excitement and beauty of hot, new cars to smart phones and iPads is now available for free download.</p>
+					<p class="sortDate" style="display:none;">201311130000</p>
+				</div>
+			</a>
+		</div>
+		<div class="feed-item news newsflash">
+			<a href="/the-2014-show/11-12-2013.aspx" target="_blank">
+				<div class="text">
+					<p class="date">November 12, 2013</p>
+					<h3>The 43rd Tokyo Motor Show 2013 Doors Open Friday, November 22, at Tokyo Big Sight</h3>
+					<p>The Japan Automobile Manufacturers Association, Inc. (Chairman: Akio Toyoda) will hold the 43rd Tokyo Motor Show 2013 from Friday, November 22 through Sunday, December 1, 2013 (General Public Days begin Saturday, November 23) at Tokyo Big Sight in Ariake, Koto-ku. This will be the second Show held in Tokyo since it was moved back for the first time in 24 years with the previous 42nd Show in 2011.</p>
+					<p class="sortDate" style="display:none;">201311120000</p>
+				</div>
+			</a>
+		</div>
+
+
+
+    </div><!--end container-->
+
+    <br />
+    <br />
+    <br />    
+    <br />
+    <br />
+    <br />  
+
+</div>
+
+
+<script type="text/javascript">
+
+	//$('#container').delegate("a", "click", function(){
+
+	$('.social').delegate("a", "click", function(){
+   	  window.open($(this).attr('href'));
+    	  return false;
+	});
+
+
+</script>
+
+<!-- content end -->
+
+
+<!-- footer -->
+<script type="text/javascript" src="/scripts/footer_2011.js"></script>
+<!-- footer end -->
+
+
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-2082611-32");
+  pageTracker._trackPageview();
+</script>
+
+
+</body>
+</html>
+	++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.autointeriors.com/>====================
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>WardsAuto Interiors Conference | WardsAuto</title>
+  <meta http-equiv="content-language" content="en" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="canonical" href="http://wardsauto.com/interiors" />
+<meta name="keywords" content="Primary category not mapped" />
+<meta name="description" content="  			 				 				 				 				 				 					 						Ed Welburn, Vice President, Global Design at General Motors, has been announced as keynote speaker. 					 					 					 						Registration is now open! Early discount of $100 if you register by March 20. 					 					 					 						Agenda has been announced. Check out all the sessions here!" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<link href="http://wardsauto.com/opensearch/apachesolr_search" title="Search search for WardsAuto" rel="search" type="application/opensearchdescription+xml" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function roadblock(){}
+roadblock.page = "/interiors";
+roadblock.demographic_data = "";
+roadblock.roadblockswitch = 1;
+roadblock.roadblockdisplay = 24;
+roadblock.roadblocktime = 20;
+roadblock.roadblocktimedelay = 0;
+roadblock.roadblockposition = "interstitial";
+roadblock.roadblocksize = "640x480";
+roadblock.roadblocktransparent = 0;
+roadblock.roadblocksitewide = 1;
+roadblock.ad_full_sitename = "WardsAuto";
+roadblock.adsense_ad_channel = "";
+roadblock.adsense_search_ad_channel = 8765808811;
+roadblock.adsense_max_links = 3;
+roadblock.adsense_ad_type = "text";
+roadblock.google_ui_version = 1;
+roadblock.adsense_switch = 0;
+roadblock.adsense_search_switch = 0;
+roadblock.adsense_pubid = "ca-pub-0083033482235071";
+roadblock.adsense_adslot = "";
+roadblock.google_color_link = "";
+roadblock.adsense_adslot_width = 468;
+roadblock.adsense_adslot_height = 60;
+roadblock.ad_dart_site = "wards.home";
+roadblock.ad_dart_zone = "primary_category_not_mapped";
+roadblock.ad_dart_ptype = "page";
+roadblock.ad_dart_blog = "";
+roadblock.ad_dart_level = "";
+//--><!]]></script>
+
+<link rel="shortcut icon" href="/sites/all/themes/wards/favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="WardsAuto RSS" href="http://wardsauto.com/rss.xml" />
+<script type="text/javascript" src="//platform.linkedin.com/in.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+  <link type="text/css" rel="stylesheet" media="all" href="/site-files/wardsauto.com/files/advagg_css/css_e0a4a444e63de8ba93f54825d40e165f_0.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/site-files/wardsauto.com/files/advagg_css/css_a37b09583e7da84290cf5670f22c4ce4_0.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/site-files/wardsauto.com/files/advagg_css/css_57c4bfe5e3e2f28e75b8e806f984ba64_3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/site-files/wardsauto.com/files/advagg_css/css_93975ba52fb56961825270ca26630792_0.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/site-files/wardsauto.com/files/advagg_css/css_7d8f0be34e2eec60aeb767133812bec2_2.css" />
+  <script type="text/javascript" src="/site-files/wardsauto.com/files/advagg_js/js_3dbc7eb112457c5d97423c6d349e96c5_0.js"></script>
+<script type="text/javascript" src="/site-files/wardsauto.com/files/advagg_js/js_34cdc94663194d27bdb2aba1a364aeb1_1.js"></script>
+<script type="text/javascript" src="/site-files/wardsauto.com/files/advagg_js/js_044e3dee902c0bc343717b2854a5743a_0.js"></script>
+<script type="text/javascript" src="/site-files/wardsauto.com/files/advagg_js/js_d2ac1b7709559693fd84f50efc8e5db1_5.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","penton_omniture":{"penton_omniture_suite_name":"primediawardsauto,pentonpisces","penton_omniture_visitornamespace":"primediabusiness","penton_omniture_trackingserver":"metrics.wardsauto.com","penton_omniture_secure_trackingserver":"smetrics.pisces-penton.com","penton_omniture_linkinternalfilters":"javascript:,wardsauto.com","penton_omniture_affiliates":"penton.com,example.com"},"apachesolr_autocomplete":{"path":"\/apachesolr_autocomplete"},"colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":false,"slideshowSpeed":2500,"slideshowStart":"","slideshowStop":"","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%"},"fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"user_relationships_ui":{"loadingimage":"\/sites\/all\/modules\/contrib\/user_relationships\/user_relationships_ui\/images\/loadingAnimation.gif","savingimage":"\/sites\/all\/modules\/contrib\/user_relationships\/user_relationships_ui\/images\/savingimage.gif","position":{"position":"absolute","left":"0","top":"0"}},"penton_facebook_appid":"130082483750153"});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(){var useSSL='https:'==document.location.protocol,src=(useSSL?'https:':'http:')+'//www.googletagservices.com/tag/js/gpt.js';document.write('<script src="'+src+'"></script>')})()
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.defineSlot('/3834/wards.home/primary_category_not_mapped',[[640,480]],'gpt-interstitial').addService(googletag.pubads()).setTargeting('pos','interstitial');googletag.defineOutOfPageSlot('/3834/wards.home/primary_category_not_mapped','gpt-pm-oop').addService(googletag.pubads());googletag.pubads().setTargeting('page','/interiors').setTargeting('ptype','page');googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.pubads().enableSyncRendering();googletag.enableServices()
+//--><!]]>
+</script>
+  <link rel="apple-touch-icon" href="/sites/all/themes/wards/apple-touch-icon.png" />
+</head>
+
+<body class="not-front not-logged-in page-node node-type-page no-sidebars no-breadcrumb">
+  
+  
+  
+  <div id="pm-pg" class="pm-pg">
+        <div class="pm-hd">
+      <div class="pm-hd-pdg">
+        <div id="top">
+          <a href="#navigation">Skip to Navigation</a>          <a href="#content">Skip to Content</a>        </div>
+                  <div class="pm-site-name">
+                          <a href="/">WardsAuto</a>                                 </div>
+                          <div class="pm-search">
+            <form action="/interiors"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text  apachesolr-autocomplete unprocessed" />
+</div>
+<input type="image" name="op" id="edit-submit" value="Go!"  src="/sites/all/themes/pisces_core/images/search-icon.gif" class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-dff33bef3b8d1fee65de0a5b02be9ac7" value="form-dff33bef3b8d1fee65de0a5b02be9ac7"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+          </div>
+                              </div>
+    </div><!--// pm-hd -->
+
+    <div class="pm-wrp clearfix">
+    <div class="pm-wrp-pdg">
+      
+            <!--  header for profile edit pages -->
+      
+      
+      
+      <div class="pm-content-wrp clearfix">        <div class="pm-content">
+                                                            <div class="pm-cont-main" id="content">
+            <div id="pm-main-pdg" class="pm-cont-pdg">
+                            <div id="node-424421" class="node node-page node-page-page page-content clearfix">
+      <div class="content clear-block">
+      <div class="source-name"></div>
+            
+
+<div class="node-body page-body"><p><img src="http://wardsauto.com/site-files/wardsauto.com/files/uploads/2014/02/waic-header.gif" usemap="#header" /></p>
+<p><map name="header"><area coords="0,0,314,106" href="http://wardsauto.com/interiors" shape="rect" /> <area coords="314,75,437,106" href="http://wardsauto.com/interiors-conference-2014-speakers" shape="rect" /> <area coords="437,75,534,106" href="http://wardsauto.com/interiors-conference-2014-features" shape="rect" /> <area coords="534,75,653,106" href="http://wardsauto.com/interiors-conference-2014-agenda" shape="rect" /> <area coords="653,75,835,106" href="http://wardsauto.com/interiors-conference-2014-sponsors" shape="rect" /> <area coords="835,75,941,106" href="https://www.regonline.com/Register/Checkin.aspx?EventID=1487635" shape="rect" target="_new" /></map></p>
+<table valign="top">
+	<tbody>
+		<tr>
+			<td width="369">
+				<img src="http://wardsauto.com/site-files/wardsauto.com/files/uploads/2014/02/welburn.jpg" width="369" /></td>
+			<td width="20">
+				&nbsp;</td>
+			<td valign="top" width="454">
+				<br />
+				<br />
+				<img src="http://wardsauto.com/site-files/wardsauto.com/files/uploads/2014/02/latest-updates.jpg" /><br />
+				<br />
+				<ul>
+					<li>
+						<font face="arial" size="3"><b>Ed Welburn</b>, Vice President, Global Design at General Motors, has been announced as keynote speaker.</font></li>
+					<br />
+					<br />
+					<li>
+						<font face="arial" size="3"><b><a href="https://www.regonline.com/Register/Checkin.aspx?EventID=1487635" target="_new">Registration</a></b> is now open! Early discount of $100 if you <a href="https://www.regonline.com/Register/Checkin.aspx?EventID=1487635" target="_new">register by March 20</a>.</font></li>
+					<br />
+					<br />
+					<li>
+						<font face="arial" size="3"><b>Agenda</b> has been announced. Check out all the sessions here!</font></li>
+					<br />
+					<br />
+					<li>
+						<font face="arial" size="3"><b>Sponsorships</b> and exhibit space are still available but going fast. Contact us to learn more about sponsoring or exhibiting.</font></li>
+					<br />
+					<br />
+					<li>
+						<font face="arial" size="3"><b>Special events</b>&nbsp;to be held throughout the day are coming together. More details to be posted soon. In the meantime, check out the highlights of our 2013 conference to see what to expect.</font></li>
+				</ul>
+				<br />
+				<br />
+				<a href="https://www.regonline.com/Register/Checkin.aspx?EventID=1487635" target="_new"><img src="http://wardsauto.com/site-files/wardsauto.com/files/uploads/2014/02/register-now.gif" /></a></td>
+		</tr>
+	</tbody>
+</table>
+<p><br />
+	<img src="http://wardsauto.com/site-files/wardsauto.com/files/uploads/2014/02/sponsors.jpg" style="font-size: 13px;" /></p>
+<table>
+	<tbody>
+		<tr>
+			<td valign="top" width="200">
+				&nbsp;</td>
+			<td width="15">
+				&nbsp;</td>
+			<td valign="top" width="480">
+				<p>&nbsp;</p>
+				<p align="center"><font face="arial" size="3"><b>Registration Sponsor</b><br />
+					<a href="http://www.johnsoncontrols.com/" target="_new"><img src="http://wardsauto.com/site-files/wardsauto.com/files/uploads/2014/02/magna-logo.jpg" /></a></font><br />
+					&nbsp;</p>
+				<p align="center"><font face="arial" size="3"><font face="arial" size="3"><b>Student Design Competition Sponsors</b><br />
+					<br />
+					<a href="http://www.iacgroup.com/" target="_new"><img src="http://wardsauto.com/site-files/wardsauto.com/files/uploads/2014/02/iac-logo.jpg" /></a> </font></font> <font face="arial" size="3"><font face="arial" size="3"><font face="arial" size="3"><a href="http://www.lear.com/" target="_new"><img src="http://wardsauto.com/site-files/wardsauto.com/files/uploads/2014/02/lear-logo.jpg" /></a></font></font></font></p>
+				<br />
+				<p align="center"><font face="arial" size="3"><font face="arial" size="3"><font face="arial" size="3"><b>Meeting Room Sponsor</b><br />
+					<a href="http://www.johnsoncontrols.com/" target="_new"><img src="http://wardsauto.com/site-files/wardsauto.com/files/uploads/2014/02/johnson-controls-logo.jpg" /></a></font></font></font></p>
+				<font face="arial" size="3"><font face="arial" size="3">&nbsp;</font> </font>
+				<p><font face="arial" size="3">&nbsp;</font></p>
+			</td>
+			<td width="15">
+				&nbsp;</td>
+			<td valign="top" width="200">
+				&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<p><img src="http://wardsauto.com/site-files/wardsauto.com/files/uploads/2014/02/waic-header.gif" usemap="#header" /></p>
+<p>&nbsp;</p>
+</div><fieldset class="fieldgroup group-body-blocks">
+</fieldset>
+    </div>
+  </div>
+                                        </div>
+          </div><!--// pm-cont-main -->
+                            </div><!--// pm-content -->
+                      </div><!--// pm-content-wrp -->
+
+          </div><!--// pm-wrp-pdg -->
+    </div><!--// pm-wrp -->
+          <div class="pm-ft">
+        <div class="pm-cont-pdg">
+          <div class="pm-ft-pdg">
+            <noscript><img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=594&fmt=gif" /></noscript><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"CToolsAJAX":{"scripts":{"\/sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.3\/jquery.min.js":true,"\/misc\/drupal.js":true,"\/sites\/all\/modules\/custom\/penton_newsletter_import\/js\/penton_newsletter_import.js":true,"\/sites\/all\/modules\/contrib\/jquery_plugin\/jquery.cookie.min.js":true,"\/sites\/all\/modules\/custom\/penton_omniture\/demandbase_call.js":true,"\/sites\/all\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.js":true,"\/sites\/all\/modules\/contrib\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.js":true,"\/sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":true,"\/sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":true,"\/sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_default_style.js":true,"\/sites\/all\/modules\/contrib\/fivestar\/js\/fivestar.js":true,"\/sites\/all\/modules\/contrib\/og\/og.js":true,"\/sites\/all\/modules\/contrib\/panels\/js\/panels.js":true,"\/sites\/all\/modules\/contrib\/user_relationships\/user_relationships_ui\/user_relationships_ui.js":true,"\/sites\/all\/modules\/custom\/penton_custom\/colorbox_penton_style.js":true,"\/sites\/all\/modules\/custom\/pm_doubleclick\/pm-doubleclick.js":true,"\/sites\/all\/modules\/custom\/pm_doubleclick\/roadblock.js":true,"\/sites\/all\/modules\/custom\/ubercart\/contrib\/modulename\/modulename.js":true,"\/sites\/all\/modules\/custom\/ubercart\/contrib\/modulename\/jquery.form.js":true,"\/sites\/all\/modules\/custom\/ubercart\/uc_file\/uc_file.js":true,"\/sites\/all\/modules\/custom\/ubercart\/uc_roles\/uc_roles.js":true,"\/sites\/all\/libraries\/jquery_plugins\/js-url\/js-url.min.js":true,"\/sites\/all\/modules\/custom\/penton_user_profile\/super_cookie.js":true,"\/sites\/all\/modules\/custom\/penton_user_profile\/user_profile.js":true,"\/sites\/all\/modules\/contrib\/ajax\/jquery\/jquery.a_form.packed.js":true,"\/sites\/all\/modules\/contrib\/ajax\/ajax.js":true}}});
+//--><!]]>
+</script>
+          </div>
+        </div>
+      </div>
+    
+          <div class="pm-ft-message">
+        <div class="pm-cont-pdg">
+          <div class="pm-ft-pdg">
+            <div class='copyright'>Copyright &copy;&nbsp;2014&nbsp;<a href="http://penton.com/">Penton</a></div>          </div>
+        </div>
+      </div>
+    
+  </div><!--// pm-pg-->
+  <div id="fb-root"></div>
+  <script type="text/javascript" src="//api.demandbase.com/api/v2/ip.json?token=b155ec5d50b5dcb41662f36b4d10a6f7702c87e6 &callback=dbase_parse"></script>
+<!-- SiteCatalyst code version: H.13 Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com -->
+<script type="text/javascript" language="JavaScript" src="/sites/all/modules/custom/penton_omniture/s_code.js?i"></script>
+<script type="text/javascript" language="JavaScript"><!--
+s.pageName="page:Interiors Conference";
+s.channel="primary_category_not_mapped";
+s.pageType="page";
+s.prop1="Interiors Conference";
+s.prop6="page";
+s.list1="Primary category not mapped";
+s.prop12="p";
+s.eVar72="47cedd03-45aa-4498-97a1-bd204dc50a2e";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://metrics.pisces-penton.com/b/ss/pentondev/1/H.22.1--NS/0/4058149"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.13 -->
+
+<div id="user_relationships_popup_form" class="user_relationships_ui_popup_form"></div>
+
+<iframe id="DivShim" src="/sites/all/modules/custom/pm_doubleclick/blankIframe.html" scrolling="no" frameborder="0" style="height: 0;"></iframe>
+<div id="roadblockbackground" style="height: 0;"></div>
+<div id="roadblockcontainer" class="ad640x480" style="height: 0; overflow: hidden;">
+  <div id="roadblock">
+    <p id="closeRB" class="close">Sponsored Introduction <span id="showCount"><a href="javascript:void(0);" onclick="clickAndHide();return false;">Continue on to <span id="roadblockSiteName"></span></a> (or wait <span id="rc"></span> seconds) <a class="xButton" href="#">&times;</a></span></p>
+    <div id="gpt-interstitial" class="introstitialAd">
+      <script type="text/javascript">
+      <!--//--><![CDATA[//><!--
+      var cookieEnabled = (navigator.cookieEnabled) ? true : false;
+      if (typeof navigator.cookieEnabled == "undefined" && !cookieEnabled) {
+        document.cookie = "testcookie"
+        cookieEnabled = (document.cookie.indexOf("testcookie") != -1) ? true : false;
+      }
+      if (cookieEnabled != null) {
+        if (cookieEnabled) {
+          function setCookie(name, value, expires, path, domain, secure) {
+            var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+            document.cookie = curCookie;
+          }
+          var one_day = 1000 * 60 * 60 * roadblock.roadblockdisplay,
+              nextday = new Date(),
+              index = document.cookie.indexOf('intro');
+          nextday.setTime(nextday.getTime() + one_day);
+          if (index == -1) {
+            setCookie('intro', 1, nextday, '/');
+            $('#gpt-' + roadblock.roadblockposition).addClass('processed');
+            googletag.display('gpt-interstitial');
+          }
+        }
+      }
+      //--><!]]>
+      </script>
+    </div>
+  </div>
+</div>
+<div id="gpt-pm-oop"><script type="text/javascript">googletag.display('gpt-pm-oop');</script></div><script type="text/javascript" src="/sites/all/modules/contrib/swftools/onepixelout/onepixelout.js?i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"chartbeat":{"uid":53678,"domain":"wardsauto.com","useCanonical":true,"noCookies":false,"sections":"Primary category not mapped","title":"Interiors Conference"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+_bizo_data_partner_id = 594;
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function() { var s = document.getElementsByTagName("script")[0];var b = document.createElement("script");b.type = "text/javascript";b.async = true;b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";s.parentNode.insertBefore(b, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"CToolsAJAX":{"scripts":{"\/sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.3\/jquery.min.js":true,"\/misc\/drupal.js":true,"\/sites\/all\/modules\/custom\/penton_newsletter_import\/js\/penton_newsletter_import.js":true,"\/sites\/all\/modules\/contrib\/jquery_plugin\/jquery.cookie.min.js":true,"\/sites\/all\/modules\/custom\/penton_omniture\/demandbase_call.js":true,"\/sites\/all\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.js":true,"\/sites\/all\/modules\/contrib\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.js":true,"\/sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":true,"\/sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":true,"\/sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_default_style.js":true,"\/sites\/all\/modules\/contrib\/fivestar\/js\/fivestar.js":true,"\/sites\/all\/modules\/contrib\/og\/og.js":true,"\/sites\/all\/modules\/contrib\/panels\/js\/panels.js":true,"\/sites\/all\/modules\/contrib\/user_relationships\/user_relationships_ui\/user_relationships_ui.js":true,"\/sites\/all\/modules\/custom\/penton_custom\/colorbox_penton_style.js":true,"\/sites\/all\/modules\/custom\/pm_doubleclick\/pm-doubleclick.js":true,"\/sites\/all\/modules\/custom\/pm_doubleclick\/roadblock.js":true,"\/sites\/all\/modules\/custom\/ubercart\/contrib\/modulename\/modulename.js":true,"\/sites\/all\/modules\/custom\/ubercart\/contrib\/modulename\/jquery.form.js":true,"\/sites\/all\/modules\/custom\/ubercart\/uc_file\/uc_file.js":true,"\/sites\/all\/modules\/custom\/ubercart\/uc_roles\/uc_roles.js":true,"\/sites\/all\/libraries\/jquery_plugins\/js-url\/js-url.min.js":true,"\/sites\/all\/modules\/custom\/penton_user_profile\/super_cookie.js":true,"\/sites\/all\/modules\/custom\/penton_user_profile\/user_profile.js":true,"\/sites\/all\/modules\/contrib\/ajax\/jquery\/jquery.a_form.packed.js":true,"\/sites\/all\/modules\/contrib\/ajax\/ajax.js":true,"\/sites\/all\/modules\/contrib\/swftools\/onepixelout\/onepixelout.js":true},"css":{"\/sites\/all\/modules\/contrib\/itweak_upload\/itweak_upload.css":true,"\/modules\/node\/node.css":true,"\/modules\/system\/defaults.css":true,"\/modules\/system\/system.css":true,"\/modules\/system\/system-menus.css":true,"\/sites\/all\/modules\/contrib\/advanced_profile\/theme\/advanced_profile.css":true,"\/modules\/poll\/poll.css":true,"\/sites\/all\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.css":true,"\/sites\/all\/modules\/contrib\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.css":true,"\/sites\/all\/modules\/contrib\/cck\/theme\/content-module.css":true,"\/sites\/all\/modules\/contrib\/ckeditor\/ckeditor.css":true,"\/sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_default_style.css":true,"\/sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":true,"\/sites\/all\/modules\/contrib\/date\/date.css":true,"\/sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.css":true,"\/sites\/all\/modules\/contrib\/date\/date_popup\/themes\/jquery.timeentry.css":true,"\/sites\/all\/modules\/contrib\/filefield\/filefield.css":true,"\/sites\/all\/modules\/contrib\/fivestar\/css\/fivestar.css":true,"\/sites\/all\/modules\/contrib\/mollom\/mollom.css":true,"\/sites\/all\/modules\/contrib\/nice_menus\/nice_menus.css":true,"\/sites\/all\/modules\/contrib\/nice_menus\/nice_menus_default.css":true,"\/sites\/all\/modules\/contrib\/og\/theme\/og.css":true,"\/sites\/all\/modules\/contrib\/panels\/css\/panels.css":true,"\/sites\/all\/modules\/contrib\/quote\/quote.css":true,"\/sites\/all\/modules\/contrib\/user_relationships\/user_relationships_ui\/user_relationships_ui.css":true,"\/sites\/all\/modules\/custom\/geshifilter\/geshifilter.css":true,"\/sites\/all\/modules\/custom\/logintoboggan\/logintoboggan.css":true,"\/sites\/all\/modules\/custom\/penton_blog\/theme\/penton-blog.css":true,"\/sites\/all\/modules\/custom\/penton_custom\/colorbox_penton_style.css":true,"\/sites\/all\/modules\/custom\/pm_doubleclick\/pm-doubleclick.css":true,"\/sites\/all\/modules\/custom\/ubercart\/uc_attribute\/uc_attribute.css":true,"\/sites\/all\/modules\/custom\/ubercart\/uc_file\/uc_file.css":true,"\/sites\/all\/modules\/custom\/ubercart\/uc_order\/uc_order.css":true,"\/sites\/all\/modules\/custom\/ubercart\/uc_product\/uc_product.css":true,"\/sites\/all\/modules\/custom\/ubercart\/uc_roles\/uc_roles.css":true,"\/sites\/all\/modules\/custom\/ubercart\/uc_store\/uc_store.css":true,"\/sites\/all\/modules\/features\/penton_features_gated_content\/theme\/css\/gated-content.css":true,"\/modules\/forum\/forum.css":true,"\/sites\/all\/modules\/contrib\/cck\/modules\/fieldgroup\/fieldgroup.css":true,"\/sites\/all\/modules\/contrib\/views\/css\/views.css":true,"\/sites\/all\/modules\/contrib\/forward\/forward.css":true,"\/sites\/all\/modules\/contrib\/print\/css\/printlinks.css":true,"\/sites\/all\/themes\/pisces_core\/css\/penton-apachesolr.css":true,"\/sites\/all\/themes\/pisces_core\/css\/layout.css":true,"\/sites\/all\/themes\/pisces_core\/css\/navigation.css":true,"\/sites\/all\/themes\/pisces_core\/css\/pisces-core.css":true,"\/sites\/all\/themes\/pisces_core\/css\/blocks.css":true,"\/sites\/all\/themes\/pisces_core\/css\/user.css":true,"\/sites\/all\/themes\/pisces_core\/css\/style.css":true,"\/sites\/all\/themes\/pisces_core\/css\/add2home.css":true,"\/site-files\/wardsauto.com\/files\/less\/530bb2f431abf0.36697351\/sites\/all\/themes\/wards\/css\/subtheme-vars.css":true,"\/sites\/all\/themes\/wards\/css\/subtheme.css":true,"\/sites\/all\/themes\/pisces_core\/css\/print.css":true}}});
+//--><!]]>
+</script>
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

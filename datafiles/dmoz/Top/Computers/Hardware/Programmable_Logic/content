@@ -1,0 +1,121 @@
+<topic r:id="Top/Computers/Hardware/Programmable_Logic">
+<catid>381306</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Programmable_logic_device" />
+<link r:resource="http://en.wikipedia.org/wiki/Programmable_Array_Logic" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Programmable_Logic/CPLD">
+<catid>381307</catid>
+<link r:resource="http://www.latticesemi.com/" />
+<link r:resource="http://www.altera.com/" />
+<link r:resource="http://www.burntec.com/" />
+<link r:resource="http://www.artbv.nl/" />
+<link r:resource="http://www.eecg.toronto.edu/~jayar/pubs/brown/survey.html" />
+<link r:resource="http://www.eetools.com/" />
+<link r:resource="http://www.arlabs.com/" />
+<link r:resource="http://www.stag.co.uk/" />
+<link r:resource="http://www.advin.com/" />
+<link r:resource="http://www.icetech.com/" />
+<link r:resource="http://progshop.com/" />
+<link r:resource="http://www.dataman.com/" />
+<link r:resource="http://en.wikipedia.org/wiki/Complex_programmable_logic_device" />
+<link r:resource="http://groups.google.com/group/comp.arch.fpga/msg/4cc654943764166d" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Programmable_Logic/FPGA">
+<catid>381308</catid>
+<link r:resource="http://www.fpgacpu.org/" />
+<link r:resource="http://www.chipworks.com/" />
+<link r:resource="http://en.wikipedia.org/wiki/Field-programmable_gate_array" />
+<link r:resource="http://www.openfpga.org/" />
+<link r:resource="http://splish.ee.byu.edu/" />
+<link r:resource="http://www.synplicity.com/" />
+<link r:resource="http://www.mentor.com/products/fpga_pld/index.cfm" />
+<link r:resource="http://www.fpgacentral.com/" />
+<link r:resource="http://www.alteraforum.com/" />
+<link r:resource="http://www.fpgaseek.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Programmable_Logic/FPGA/Applications">
+<catid>381309</catid>
+<link r:resource="http://www.iol.ie/~dmurray/Prism/Prism_Editor.html" />
+<link r:resource="http://www.fuse-network.com/fuse/demonstration/331/25788/index.html" />
+<link r:resource="http://www.fuse-network.com/fuse/demonstration/323/23290/index.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Programmable_Logic/FPGA/Applications/Hal">
+<catid>381310</catid>
+<link r:resource="http://www.cnn.com/TECH/computing/9906/15/supercomp.idg/index.html" />
+<link r:resource="http://www.forbes.com/asap/1999/0531/017.html" />
+<link r:resource="http://www.pcworld.com/article/11336/a_1000_supercomputer.html" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Programmable_Logic/FPGA/Boards">
+<catid>381315</catid>
+<link r:resource="http://www.sci.fi/~cubase/board.html" />
+<link r:resource="http://www.annapmicro.com/" />
+<link r:resource="http://www.trenz-electronic.de/" />
+<link r:resource="http://www.amontec.com/" />
+<link r:resource="http://www.burched.com.au/" />
+<link r:resource="http://www.alphadata.co.uk/" />
+<link r:resource="http://www.aufzu.de/FPGA/boards.html" />
+<link r:resource="http://www.jopdesign.com/board.html" />
+<link r:resource="http://www.easyfpga.com/" />
+<link r:resource="http://www.sweeneydesign.co.uk/e7tdboard.htm" />
+<link r:resource="http://www.digilentinc.com/" />
+<link r:resource="http://www.coreworks-sa.com/index.php?view=boards_list" />
+<link r:resource="http://www.fpgacentral.com/fpga-boards/catalog" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Programmable_Logic/FPGA/Conferences">
+<catid>381312</catid>
+<link r:resource="http://www.date-conference.com/" />
+<link r:resource="http://www.snug-universal.org/" />
+<link r:resource="http://www.cs.washington.edu/research/projects/lis/www/fpga96/" />
+<link r:resource="http://klabs.org/richcontent/MAPLDCon01/MAPLDCon01.html" />
+<link r:resource="http://www.icfpt.org/" />
+<link r:resource="http://www.fccm.org/" />
+<link r:resource="http://helios.informatik.uni-kl.de/RCeducation07/" />
+<link r:resource="http://www.elis.ugent.be/parafpga/" />
+<link r:resource="http://cas.ee.ic.ac.uk/people/ccb98/arc2008/" />
+<link r:resource="http://www.fpgacentral.com/event" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Programmable_Logic/FPGA/Consultants">
+<catid>381313</catid>
+<link r:resource="http://www.qinetiq.com/" />
+<link r:resource="http://www.easics.be/" />
+<link r:resource="http://www.adapti.com/engineering-services.html" />
+<link r:resource="http://www.fliptronics.com/" />
+<link r:resource="http://www.technovare.com/" />
+<link r:resource="http://www.polybus.com/" />
+<link r:resource="http://www.interfacemasters.com/" />
+<link r:resource="http://www.shax-eng.com/" />
+<link r:resource="http://www.asics.ws/" />
+<link r:resource="http://www.nallatech.com/" />
+<link r:resource="http://www.axcon.dk/" />
+<link r:resource="http://www.andraka.com/" />
+<link r:resource="http://www.enterpoint.co.uk/" />
+<link r:resource="http://www.fl-eng.com/" />
+<link r:resource="http://www.enspire.pwp.blueyonder.co.uk/" />
+<link r:resource="http://www.synthworks.com/" />
+<link r:resource="http://www.logicbricks.com/" />
+<link r:resource="http://www.verien.com/" />
+<link r:resource="http://www.npe-inc.com/" />
+<link r:resource="http://www.vreelin.com/" />
+<link r:resource="http://www.korusys.com/" />
+<link r:resource="http://www.abineau.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Programmable_Logic/FPGA/Manufacturers">
+<catid>381314</catid>
+<link r:resource="http://www.anadigm.com/" />
+<link r:resource="http://www.aeroflex.com/" />
+<link r:resource="http://www.quicklogic.com/" />
+<link r:resource="http://www.xilinx.com/" />
+<link r:resource="http://www.latticesemi.com/" />
+<link r:resource="http://www.altera.com/" />
+<link r:resource="http://www.actel.com/" />
+<link r:resource="http://www.xeltek.com/" />
+</topic>
+<topic r:id="Top/Computers/Hardware/Programmable_Logic/FPGA/Technical">
+<catid>381311</catid>
+<link r:resource="http://www.polybus.com/xilinx_on_linux.html" />
+<link r:resource="http://splish.ee.byu.edu/tutorials/linux-m2/linux-m2.html" />
+<link r:resource="http://www.fuse-network.com/fuse/demonstration/332/2006/index.html" />
+<link r:resource="http://splish.ee.byu.edu/tutorials/altera/altera.html" />
+<link r:resource="http://www.netrino.com/Articles/RCPrimer/" />
+<link r:resource="http://www.ittc.ku.edu/Projects/FPGA/" />
+</topic>

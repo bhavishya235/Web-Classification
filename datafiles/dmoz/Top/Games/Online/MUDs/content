@@ -1,0 +1,834 @@
+<topic r:id="Top/Games/Online/MUDs">
+<catid>442090</catid>
+<link r:resource="http://en.wikipedia.org/wiki/MUD" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Articles">
+<catid>442091</catid>
+<link r:resource="http://www.mud.co.uk/richard/hcds.htm" />
+<link r:resource="ftp://ftp.lambda.moo.mud.org/pub/MOO/papers/MOOGopher.txt" />
+<link r:resource="http://www.cc.gatech.edu/fac/Amy.Bruckman/papers/convergence.html" />
+<link r:resource="http://tecfa.unige.ch/moo/VMDL/VMDL-1.html" />
+<link r:resource="http://lorry.org/arch-wizard/confessions.html" />
+<link r:resource="http://www.lysator.liu.se/mud/faq/faq1.html" />
+<link r:resource="http://personalpages.manchester.ac.uk/staff/m.dodge/cybergeography/atlas/muds_vw.html" />
+<link r:resource="http://mk.ucant.org/info/classification_muds.html" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase">
+<catid>442135</catid>
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/AberMUD">
+<catid>1014056</catid>
+<link r:resource="http://www.delusion.de/" />
+<link r:resource="http://www.7dof.org.uk/" />
+<link r:resource="http://sleepless.cheese.org/" />
+<link r:resource="http://aber.ludd.luth.se/northern_lights.html" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/Avalon">
+<catid>442198</catid>
+<link1 r:resource="http://www.avalon-rpg.com/"></link1>
+<link r:resource="http://www.avalon-rpg.com/citguilds/Animists/" />
+<link r:resource="http://www.lightorder.com/" />
+<link r:resource="http://www.guildportal.com/Guild.aspx?GuildID=154508&amp;TabID=1310483" />
+<link r:resource="http://www.guildportal.com/Guild.aspx?GuildID=36704&amp;TabID=474670" />
+<link r:resource="http://guildhouse.wikispaces.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD">
+<catid>442178</catid>
+<link r:resource="http://mud.arctic.org/" />
+<link1 r:resource="http://www.dikumud.com/"></link1>
+<link r:resource="http://www.outland.org/" />
+<link r:resource="http://www.slothmud.org/" />
+<link r:resource="http://www.zeemud.org/" />
+<link r:resource="http://www.ashavar.com/" />
+<link r:resource="http://www.armageddon.org/" />
+<link r:resource="http://www.kallistimud.com/" />
+<link r:resource="http://www.sharune.com/" />
+<link r:resource="http://nilgiri.mythril.com/" />
+<link r:resource="http://alex.stacken.kth.se/" />
+<link r:resource="http://www.wocmud.org/" />
+<link r:resource="http://www.harshlands.net/" />
+<link r:resource="http://www.ishar.com/" />
+<link r:resource="http://jedimud.com/" />
+<link r:resource="http://www.middle-earth.us/" />
+<link r:resource="http://www.shadowglen.com/" />
+<link r:resource="http://gizmomud.com/" />
+<link r:resource="http://mume.org/" />
+<link r:resource="http://www.alteraeon.com/" />
+<link r:resource="http://www.arantha.net/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/CircleMUD">
+<catid>442181</catid>
+<link r:resource="http://www.addictmud.org/" />
+<link r:resource="http://mythical.8m.com/" />
+<link r:resource="http://rom.mud.de/" />
+<link r:resource="http://www.ageofwar.org/" />
+<link r:resource="http://www.ibiblio.org/TH/" />
+<link r:resource="http://www.sidalicia.org/" />
+<link r:resource="http://zombie.terminal.org/" />
+<link r:resource="http://www.shadowsiege.com/" />
+<link r:resource="http://www.awakenedworlds.net/" />
+<link r:resource="http://www.necromium.com/" />
+<link r:resource="http://members.tripod.com/~elysium_mud/index.html" />
+<link r:resource="http://avpmud.com/" />
+<link r:resource="http://free-zg.htnet.hr/bitterness/Storm_Dragons.htm" />
+<link r:resource="http://www.fierymud.org/" />
+<link r:resource="http://www.multimud.net/" />
+<link r:resource="http://4dimensions.org/" />
+<link r:resource="http://www.dl2.net/" />
+<link r:resource="http://tbamud.com/" />
+<link r:resource="http://tempusmud.net/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Merc">
+<catid>442182</catid>
+<link r:resource="http://dreams.daestroke.com/" />
+<link r:resource="http://www.turf.org/" />
+<link r:resource="http://www.finalchallenge.net/" />
+<link r:resource="http://www.richgautier.com/foxxy/index.html" />
+<link r:resource="http://www.netherworldmud.net/" />
+<link r:resource="http://www.barrenrealmsmud.com/" />
+<link r:resource="http://www.medievia.com/" />
+<link r:resource="http://www.dragonswordsmud.com/" />
+<link r:resource="http://stormhunters.ackmud.net/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Merc/EnvyMUD">
+<catid>442195</catid>
+<link r:resource="http://www.abandoned.org/" />
+<link r:resource="http://www.areth.org/" />
+<link r:resource="http://www.dreamsmud.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Merc/GodWars">
+<catid>442191</catid>
+<link r:resource="http://shadows.wolfpaw.net/" />
+<link r:resource="http://home.comcast.net/~muddersdelight/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Merc/GodWars/Vampire_Wars">
+<catid>442192</catid>
+<link r:resource="http://easyweb.easynet.co.uk/~ccr/" />
+<link r:resource="http://new.vampire-wars.com/" />
+<link r:resource="http://shadows.wolfpaw.net/vw" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Merc/MrMud">
+<catid>442194</catid>
+<link r:resource="http://www.mortalrealms.com/" />
+<link r:resource="http://slackhalla.org/~emud" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Merc/NiMUD">
+<catid>442193</catid>
+<link r:resource="http://www.fatemud.com/" />
+<link r:resource="http://www.everwar.net/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Merc/ROM">
+<catid>442183</catid>
+<link r:resource="http://www.ansalonmud.com/" />
+<link r:resource="http://www.angelfire.com/ab6/skulls/main.html" />
+<link r:resource="http://www.angelfire.com/ab/shadowen/daedal.html" />
+<link r:resource="http://ancientrealmsofzaere.8m.com/" />
+<link r:resource="http://ar.static.net/" />
+<link r:resource="http://baby.indstate.edu/vilaross/i.html" />
+<link r:resource="http://www.angelfire.com/ct2/DMacabre/index.html" />
+<link r:resource="http://www.theadventurersinn.com/" />
+<link r:resource="http://network54.com/Hide/Forum/134913" />
+<link r:resource="http://www.users.globalnet.co.uk/~fabienne/stick.htm" />
+<link r:resource="http://arcadia.net/MUD/" />
+<link r:resource="http://www.mageslair.net/" />
+<link r:resource="http://www.qhcf.net/" />
+<link r:resource="http://www.urmud.com/magus" />
+<link r:resource="http://abandonedrealms.wolfpaw.net/" />
+<link r:resource="http://www.lost-realms.org/" />
+<link r:resource="http://pages.interlog.com/~sofa/" />
+<link r:resource="http://haven.wolfpaw.net/" />
+<link r:resource="http://realms.reichel.net/" />
+<link r:resource="http://www.avendar.com/" />
+<link r:resource="http://www.darkmists.org/" />
+<link r:resource="http://lensmoor.org/" />
+<link r:resource="http://www.shatteredkingdoms.org/" />
+<link r:resource="http://www.tharel.net/" />
+<link r:resource="http://adventmud.org/" />
+<link r:resource="http://www.theforsakenlands.org/" />
+<link r:resource="http://www.dizzymud.com/" />
+<link r:resource="http://cland.dustbite.net/" />
+<link r:resource="http://flandzmud.tripod.com/" />
+<link r:resource="http://illu.tripod.com/sitm.html" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Merc/ROM/Aardwolf">
+<catid>442185</catid>
+<link r:resource="http://www.adverserealms.com/emerald/" />
+<link r:resource="http://iwuvaard.org/" />
+<link1 r:resource="http://www.aardwolf.com/"></link1>
+<link r:resource="http://www.webdebris.com/aardwolf/index.html" />
+<link r:resource="http://pictures.aardwolf.com/" />
+<link r:resource="http://www.aardwolf.com/wiki/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Merc/ROM/RoT">
+<catid>442184</catid>
+<link r:resource="http://www.angelfire.com/realm2/deadlytemp/" />
+<link r:resource="http://www.angelfire.com/goth/houseofsyn/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Merc/SMAUG">
+<catid>442186</catid>
+<link1 r:resource="http://www.smaug.org/"></link1>
+<link r:resource="http://www.smaugmuds.org/" />
+<link r:resource="http://guildofmages.8m.com/" />
+<link r:resource="http://www.edgeofcreation.net/" />
+<link r:resource="http://realmancients.tripod.com/main.html" />
+<link r:resource="http://abattoir.wolfpaw.net/" />
+<link r:resource="http://www.lofe.org/" />
+<link r:resource="http://www.dark-legacy.com/" />
+<link r:resource="http://www.biyg.org/" />
+<link r:resource="http://escape.wolfpaw.net/" />
+<link r:resource="http://www.xamuel.com/aethar/" />
+<link r:resource="http://www.tierceron.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Merc/SMAUG/Realms_of_Despair">
+<catid>442187</catid>
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Merc/SMAUG/Realms_of_Despair/Character_Pages">
+<catid>442189</catid>
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Merc/SMAUG/Realms_of_Despair/Guilds,_Orders,_Clans,_and_Nations">
+<catid>442188</catid>
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Merc/SMAUG/Star_Wars_Reality">
+<catid>442190</catid>
+<link r:resource="http://freewebs.com/nrmncr/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/Silly">
+<catid>442180</catid>
+<link r:resource="http://www.renegadeoutpost.com/" />
+<link r:resource="http://www.curiosity-shoppe.com/sd/index.shtml" />
+<link r:resource="http://www.sdmud.org/" />
+<link r:resource="http://www.theuw.net/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/TFE">
+<catid>442179</catid>
+<link r:resource="http://www.theforestsedge.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/DikuMUD/VME">
+<catid>442197</catid>
+<link r:resource="http://www.valhalla.com/" />
+<link r:resource="http://www.valheru.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/Independent_Development">
+<catid>442136</catid>
+<link r:resource="http://www.materiamagica.com/" />
+<link r:resource="http://banished.dentinmud.org/" />
+<link r:resource="http://www.british-legends.com/" />
+<link r:resource="http://www.akitsuki.com/" />
+<link r:resource="http://www.nodeka.com/" />
+<link r:resource="http://games.world.co.uk/shades/" />
+<link r:resource="http://www.iconoclast.org/" />
+<link r:resource="http://www.alchemysorcery.com/" />
+<link r:resource="http://www.avatar.co.uk/" />
+<link r:resource="http://www.worldofantra.com/" />
+<link r:resource="http://www.akanbar.com/" />
+<link r:resource="http://www.firstage.net/" />
+<link r:resource="http://www.thresholdrpg.com/" />
+<link r:resource="http://dum.acc.umu.se/" />
+<link r:resource="http://www.godwars2.org/" />
+<link r:resource="http://www.qrealm.com/" />
+<link r:resource="http://www.primordiax.com/" />
+<link r:resource="http://www.exodusmud.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/Independent_Development/Materia_Magica">
+<catid>442137</catid>
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/Independent_Development/Materia_Magica/Clans_and_Guilds">
+<catid>442138</catid>
+<link r:resource="http://www.knightsofchaos.com/" />
+<link r:resource="http://clanspiritwalk.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/LambdaMOO">
+<catid>442171</catid>
+<link r:resource="http://pworld.dyndns.org/" />
+<link r:resource="http://www.asi.org/adb/09/08/04/moo.html" />
+<link r:resource="http://www.sindome.org/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/LP">
+<catid>442164</catid>
+<link r:resource="http://www.lysator.liu.se/mud/katmandus.html" />
+<link r:resource="http://www.nirvana.beanos.com/site/" />
+<link r:resource="http://www.rod.org/" />
+<link r:resource="http://www.demonsgate.org/" />
+<link r:resource="http://t2tmud.org/" />
+<link r:resource="http://www.shadowgate.org/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/LP/Ancient_Anguish">
+<catid>442166</catid>
+<link r:resource="http://www.anguish.org/" />
+<link r:resource="http://www.angelfire.com/ar/cientanguish/" />
+<link r:resource="http://www.angelfire.com/rpg/theknights/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/LP/Discworld">
+<catid>442169</catid>
+<link r:resource="http://homepage.ntlworld.com/guiderjo/DISC001.HTM" />
+<link1 r:resource="http://discworld.atuin.net/lpc/"></link1>
+<link r:resource="http://www.perosa.co.uk/pages/dwhome.htm" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/LP/Fantasy">
+<catid>442170</catid>
+<link r:resource="http://www.bat.org/" />
+<link r:resource="http://t2tmud.org/" />
+<link r:resource="http://www.shadowgate.org/" />
+<link r:resource="http://mud.tap.de/" />
+<link r:resource="http://www.elephant.org/" />
+<link r:resource="http://eclipse.cs.pdx.edu/" />
+<link r:resource="http://www.nightfall.org/" />
+<link r:resource="http://www.hyperborea.net/" />
+<link r:resource="http://www.geno.org/" />
+<link r:resource="http://www.nanvaent.org/" />
+<link r:resource="http://www.xyllomer.de/" />
+<link r:resource="http://tsunami.thebigwave.net/" />
+<link r:resource="http://www.maroon.com/bat/" />
+<link r:resource="http://www.moongaard.com/" />
+<link r:resource="http://www.realmsofchaos.com/" />
+<link r:resource="http://www.agesofdespair.net/" />
+<link r:resource="http://www.geas.de/" />
+<link r:resource="http://www.zombiemud.org/" />
+<link r:resource="http://www.deepertrouble.demon.net/" />
+<link r:resource="http://www.lysator.liu.se/nanny/" />
+<link r:resource="http://www.vikingmud.org/" />
+<link r:resource="http://wog.zutom.sk/" />
+<link r:resource="http://dden.discordia.org/" />
+<link r:resource="http://lost.wishes.net/" />
+<link r:resource="http://eternalfantasy.org:3330/" />
+<link r:resource="http://www.retromud.org/" />
+<link r:resource="http://www.3k.org/" />
+<link r:resource="http://www.dartmud.com/" />
+<link r:resource="http://lostsouls.org/" />
+<link r:resource="http://www.stickmud.com/" />
+<link r:resource="http://www.evermore.org/" />
+<link r:resource="https://bakhara.org/" />
+<link r:resource="http://ateraan.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/LP/Genesis">
+<catid>442167</catid>
+<link r:resource="http://akson.sgh.waw.pl/~jkalin/genesis.html" />
+<link r:resource="http://www.genesismud.org/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/LP/LPC">
+<catid>442168</catid>
+<link1 r:resource="http://www.lysator.liu.se/mud/lpc.html"></link1>
+<link r:resource="http://www.dnd.utwente.nl/~krimud/Docs/docs.html" />
+<link r:resource="http://amylaar.pages.de/" />
+<link r:resource="http://www.icewindmud.org/crashcourse/" />
+<link r:resource="http://genesismud.org/lpc/lpc.html" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/LP/Science_Fiction">
+<catid>442165</catid>
+<link r:resource="http://mud.stack.nl/" />
+<link r:resource="http://www.coremud.org/" />
+<link r:resource="http://dune.servint.com/" />
+<link r:resource="http://www.swmud.org/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MajorMud">
+<catid>442162</catid>
+<link r:resource="http://www.mudcentral.com/" />
+<link r:resource="http://www.gameport.com/mudproducts/index.html" />
+<link r:resource="http://members.tripod.com/~mindcrime_2/freemud.html" />
+<link r:resource="http://pub36.bravenet.com/sitering/nav.php?usernum=3056852504&amp;action=list" />
+<link r:resource="http://www.megamud.net/" />
+<link r:resource="http://chaos_gd.tripod.com/games/mud/index.html" />
+<link r:resource="http://www.mudcentral.com/doubtful/index.html" />
+<link r:resource="http://www.mudinfo.net/" />
+<link r:resource="http://www.performancepcplus.com/majormud/index.htm" />
+<link r:resource="http://www.metrobbs.com/cgi-bin/yabb/YaBB.cgi" />
+<link r:resource="http://www.majormud.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MajorMud/Chats_and_Forums">
+<catid>442163</catid>
+<link r:resource="http://www.realmud.com/" />
+<link r:resource="http://www.holodeckbbs.com/" />
+<link r:resource="http://www.casrock.com/" />
+<link r:resource="http://thekeep.net/" />
+<link r:resource="http://www.kewl.net/" />
+<link r:resource="http://ods.ods.net/" />
+<link r:resource="http://seabreeze.servegame.com:4675/" />
+<link r:resource="http://www.users.on.net/~downunderbbs/" />
+<link r:resource="http://www.braintoys.org/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/Mordor">
+<catid>442172</catid>
+<link r:resource="http://www.rohonline.net/" />
+<link r:resource="http://styx.darbonne.com/mud" />
+<link r:resource="http://www.landsofstone.org/" />
+<link r:resource="http://www.wonko.info/mud/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/Mordor/Hrielith">
+<catid>442173</catid>
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/Mordor/Isengard">
+<catid>442174</catid>
+<link r:resource="http://www.angelfire.com/sd/isengard/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUCKs">
+<catid>442154</catid>
+<link r:resource="http://www.rdwarf.com/mink/index.html" />
+<link r:resource="http://allmuck.8m.com/" />
+<link r:resource="http://www.angelfire.com/movies/ablmuck/" />
+<link r:resource="http://darkblade.ath.cx/" />
+<link r:resource="http://ededdneddyjawbreaker.tripod.com/oddparentsmuck" />
+<link r:resource="http://fdcmuck.gushi.org/" />
+<link r:resource="http://www.fsun.net/yukontrails/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUCKs/Anime">
+<catid>442158</catid>
+<link r:resource="http://roshtaria.d2g.com/HLMUCK/" />
+<link r:resource="http://marrowproductions.com/Twisted/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUCKs/Fantasy">
+<catid>442161</catid>
+<link r:resource="http://www.furryfaire.org/" />
+<link r:resource="http://jipangmuck.dynodns.net/~nakoruru/" />
+<link r:resource="http://fadiel.8m.com/" />
+<link r:resource="http://xenomuck.8m.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUCKs/FAQs,_Help,_and_Tutorials">
+<catid>442156</catid>
+<link1 r:resource="http://www.rdwarf.com/mink/muckman/"></link1>
+<link r:resource="http://www.soappuppy.com/muck/" />
+<link r:resource="http://www.belfry.com/fuzzball/starting_a_muck.html" />
+<link r:resource="http://www.tigerden.com/infopage/muck/faq.html" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUCKs/Furry">
+<catid>442157</catid>
+<link r:resource="http://www.lionking.org/~sichi/col.htm" />
+<link r:resource="http://www.thumper.net/tlkmuck/" />
+<link r:resource="http://tigerden.com/~unci/spruser.html" />
+<link r:resource="http://www.fur.com/tapestries/" />
+<link r:resource="http://www.spindizzy.org/" />
+<link r:resource="http://www.fluffmuck.org/" />
+<link r:resource="http://www.tigerden.com/TigerMUCK/" />
+<link r:resource="http://www.lionking.org/~beshon/fuzzylogic/" />
+<link r:resource="http://www.furrymuck.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUCKs/Science_Fiction">
+<catid>442155</catid>
+<link r:resource="http://www.furscape.com/" />
+<link r:resource="http://www.rdwarf.com/users/toon/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUCKs/Social">
+<catid>442159</catid>
+<link r:resource="http://www.evermore.com/pegasus/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUCKs/Social/FurryMUCK">
+<catid>442160</catid>
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUD2">
+<catid>442152</catid>
+<link r:resource="http://www.mudii.co.uk/" />
+<link r:resource="http://www.mud2.com/" />
+<link r:resource="http://www.iol.ie/~ecarroll/mud/mudmeet97.html" />
+<link r:resource="http://www.mud.co.uk/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUSH">
+<catid>442139</catid>
+<link r:resource="http://www.wildspirits.org/" />
+<link r:resource="http://fadingsuns.org/" />
+<link r:resource="http://www.hawkgames.com/atlantis" />
+<link r:resource="http://www.grandiose.com/poddington/" />
+<link r:resource="http://www.angelfire.com/games4/oim/" />
+<link r:resource="http://warisunlimited.wikidot.com/" />
+<link r:resource="http://www.jointhesaga.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUSH/Anime">
+<catid>442146</catid>
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUSH/Comics">
+<catid>442151</catid>
+<link r:resource="http://champions.briancentral.com/" />
+<link r:resource="http://www.angelfire.com/hero/tmntnexicon/" />
+<link r:resource="http://www.mutatismutandis.org/" />
+<link r:resource="http://www.gothamknights.net/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUSH/Fantasy">
+<catid>442148</catid>
+<link r:resource="http://www.ashirion.co.uk/" />
+<link r:resource="http://outremer.mushpark.com/" />
+<link r:resource="http://www.westeros.org/BoD/" />
+<link r:resource="http://www.mimir.net/psmush/" />
+<link r:resource="http://rfc.mushpark.com/" />
+<link r:resource="http://asit.riverdark.net/" />
+<link r:resource="http://www.msu.edu/~harri283/eternity/eternity.htm" />
+<link r:resource="http://firan.legendary.org/index.php/Main_Page" />
+<link r:resource="http://crossroadsmush.com/" />
+<link r:resource="http://www.kingsdalemux.com/" />
+<link r:resource="http://www.elendor.net/" />
+<link r:resource="http://potter.nek0kaburi.net/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUSH/Fantasy/Wheel_of_Time">
+<catid>442149</catid>
+<link r:resource="http://www.cuendillar.org/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUSH/Resources">
+<catid>442145</catid>
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUSH/Science_Fiction">
+<catid>442140</catid>
+<link r:resource="http://www.hgmux.org/" />
+<link r:resource="http://www.withoutaclue.com/bsm2/" />
+<link r:resource="http://lobsteve.homestead.com/files/tscindex.html" />
+<link r:resource="http://cmmuck.tripod.com/" />
+<link r:resource="http://www.aelfhame.net/" />
+<link r:resource="http://frontiermux.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUSH/Science_Fiction/Pern">
+<catid>442143</catid>
+<link r:resource="http://www.pernmu.com/" />
+<link r:resource="http://www.pern.org/" />
+<link r:resource="http://www.flaminggeeks.com/du/" />
+<link r:resource="http://www.pernworld.net/" />
+<link r:resource="http://www.goldriders.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUSH/Science_Fiction/Pern/Player_Pages">
+<catid>442144</catid>
+<link r:resource="http://kaylithin.tripod.com/Kaylithin.html" />
+<link r:resource="http://www.aestivus.org/mush.htm" />
+<link r:resource="http://worlds.owlfish.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUSH/Science_Fiction/Star_Trek">
+<catid>442141</catid>
+<link1 r:resource="http://www.trekmush.org/"></link1>
+<link r:resource="http://www.holotrek.org/" />
+<link r:resource="http://tkhasi.betterbox.net/" />
+<link r:resource="http://www.startrekkin.net/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUSH/Science_Fiction/Star_Wars">
+<catid>442142</catid>
+<link r:resource="http://www.starwarsmush.com/" />
+<link r:resource="http://jediknight51.tripod.com/Starwars.htm" />
+<link r:resource="http://www.swwfm.net/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUSH/Social">
+<catid>442147</catid>
+<link r:resource="http://www.chaoticmux.org/" />
+<link r:resource="http://dynamix.xidus.net/dynamix.htm" />
+<link r:resource="http://duh.com/discordia/" />
+<link r:resource="http://mush.pennmush.org/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/MUSH/World_of_Darkness">
+<catid>442150</catid>
+<link r:resource="http://www.tigerden.com/~twilight" />
+<link r:resource="http://www.mvn.net/emerald/" />
+<link r:resource="http://paris.azundris.com/html/main/" />
+<link r:resource="http://www.garoumush.org/" />
+<link r:resource="http://cajunnights.com/" />
+<link r:resource="http://www.darkmetalmush.net/" />
+<link r:resource="http://darkforcesmush.wikia.com/" />
+<link r:resource="http://trb-mux.wikidot.com/" />
+<link r:resource="http://www.thereachmux.org/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/Rapture">
+<catid>442175</catid>
+<link r:resource="http://www.aetolia.com/" />
+<link r:resource="http://www.lusternia.com/" />
+<link r:resource="http://www.imperian.com/" />
+<link r:resource="http://www.achaea.com/" />
+<link r:resource="http://www.midkemiaonline.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/By_Codebase/TinyMUD">
+<catid>442177</catid>
+<link r:resource="http://www.dragonmud.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Clients">
+<catid>442093</catid>
+<link r:resource="http://www.belfry.com/fuzzball/trebuchet/" />
+<link r:resource="http://tintin.sourceforge.net/" />
+<link r:resource="http://kildclient.sourceforge.net/phpwebsite/" />
+<link r:resource="http://www.jamochamud.org/" />
+<link r:resource="http://mudlet.org/" />
+<link r:resource="http://www.ggsoft.org/ggmud/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Clients/Linux_and_Unix">
+<catid>442096</catid>
+<link r:resource="http://www.kmud.de/" />
+<link r:resource="http://home.swipnet.se/heathen/linux/sclient.htm" />
+<link r:resource="http://xpertmud.sourceforge.net/" />
+<link r:resource="http://www.itechsc.com/software/free/mudtelnet/" />
+<link r:resource="http://mmucl.sourceforge.net/" />
+<link r:resource="http://ymusk.sourceforge.net/" />
+<link r:resource="http://hoopajoo.net/projects/powwow.html" />
+<link r:resource="http://tinyfugue.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Clients/Macintosh">
+<catid>442094</catid>
+<link r:resource="http://www.heynow.com/Savitar" />
+<link r:resource="http://mudwalker.cubik.org/" />
+<link r:resource="http://www.riverdark.net/atlantis/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Clients/MOOs">
+<catid>442097</catid>
+<link r:resource="http://www.vmoo.com/en/" />
+<link r:resource="http://tkmoo-se.sourceforge.net/" />
+<link r:resource="http://www.cc.gatech.edu/elc/moose-crossing/winmoose/" />
+<link r:resource="http://www.awns.com/tkMOO-light/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Clients/Windows">
+<catid>442095</catid>
+<link r:resource="http://www.zuggsoft.com/" />
+<link r:resource="http://www.mud-master.com/" />
+<link r:resource="http://www.avalon-rpg.com/connect/avplay.html" />
+<link r:resource="http://www.twyst.org/smud" />
+<link r:resource="http://www.firebolt.com/" />
+<link r:resource="http://simplemu.onlineroleplay.com/" />
+<link r:resource="http://gosclient.altervista.org/" />
+<link r:resource="http://www.ashavar.com/client" />
+<link r:resource="http://www.gameaxle.com/" />
+<link r:resource="http://www.dforces.net/client/" />
+<link r:resource="http://www.wintin.org/" />
+<link r:resource="http://www.gammon.com.au/mushclient" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development">
+<catid>442100</catid>
+<link r:resource="http://www.xyzzynews.com/xyzzy.13e.html" />
+<link r:resource="http://www.bladestorm360.net/muds/guide.htm" />
+<link r:resource="http://planet-muddev.disinterest.org/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Building">
+<catid>442124</catid>
+<link r:resource="http://groups.yahoo.com/group/areaswap/" />
+<link r:resource="http://cosmos.wolfpaw.net/areabuild/areadoc.html" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases">
+<catid>442101</catid>
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/AberMUD">
+<catid>1010751</catid>
+<link r:resource="http://abermud.tripod.com/mudstuff.html" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/DikuMUD">
+<catid>442115</catid>
+<link r:resource="http://www.dikumud.com/" />
+<link r:resource="http://www.valhalla.com/vmeinf/index1.html" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/DikuMUD/CircleMUD">
+<catid>442116</catid>
+<link r:resource="http://www.circlemud.org/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/DikuMUD/Merc">
+<catid>442117</catid>
+<link r:resource="http://www.snible.org/mud/mzf.html" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/DikuMUD/Merc/ACKMUD">
+<catid>442123</catid>
+<link r:resource="http://www.ackmud.net/" />
+<link r:resource="http://avae.sourceforge.net/" />
+<link r:resource="http://groups.yahoo.com/group/ackmud/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/DikuMUD/Merc/GodWars">
+<catid>442120</catid>
+<link r:resource="http://www.dystopiamud.dk/" />
+<link r:resource="http://groups.yahoo.com/group/GODWARS_and_DERIVATIVES" />
+<link r:resource="http://easyweb.easynet.co.uk/~ccr/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/DikuMUD/Merc/MrMud">
+<catid>442122</catid>
+<link r:resource="http://www.slackhalla.org/~emud/codebase/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/DikuMUD/Merc/NiMUD">
+<catid>442121</catid>
+<link r:resource="http://www.braintechllc.com/EmlenMud/" />
+<link r:resource="http://nimud.divineright.org/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/DikuMUD/Merc/ROM">
+<catid>442118</catid>
+<link r:resource="http://blog.gmane.org/gmane.games.devel.mud.rom" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/DikuMUD/Merc/SMAUG">
+<catid>442119</catid>
+<link r:resource="http://www.realmsofdespair.com/smaug/herne/smaug.html" />
+<link r:resource="http://smaugcodesnippets.blogspot.com/" />
+<link1 r:resource="http://www.smaug.org/"></link1>
+<link r:resource="http://www.smaugmuds.org/" />
+<link r:resource="http://summerstorme.tripod.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/Java">
+<catid>442106</catid>
+<link r:resource="http://bluemud.sourceforge.net/" />
+<link r:resource="http://www.zimmers.net/home/mud/index.html" />
+<link r:resource="http://jlmud.sourceforge.net/" />
+<link r:resource="http://judge.sourceforge.net/" />
+<link r:resource="http://key.sourceforge.net/" />
+<link r:resource="http://momoko.sourceforge.net/" />
+<link r:resource="http://pain.sourceforge.net/" />
+<link r:resource="http://code.google.com/p/groovymud/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/Linux_and_Unix">
+<catid>442109</catid>
+<link r:resource="http://jlmud.sourceforge.net/" />
+<link r:resource="http://www.graysage.com/cg/MUD/CGMud/index.html" />
+<link r:resource="http://cold.org/coldc/" />
+<link r:resource="http://sourceforge.net/projects/embermud" />
+<link r:resource="http://www.skrenta.com/monster/" />
+<link r:resource="http://vrici.digitalkingdom.org/~rlpowell/software/coolmud" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/LPMud">
+<catid>442102</catid>
+<link r:resource="http://www.bearnip.com/lars/proj/ldmud.html" />
+<link1 r:resource="http://lpmuds.net/"></link1>
+<link r:resource="http://dead-souls.net/" />
+<link r:resource="http://www.faqs.org/faqs/games/mud-faq/lp/" />
+<link r:resource="http://phantasmal.sourceforge.net/DGD/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/Macintosh">
+<catid>442103</catid>
+<link r:resource="http://www.bratton.com/egb/netrpg.html" />
+<link r:resource="http://homepages.paradise.net.nz/koryn/" />
+<link r:resource="http://www.hsoi.com/mud/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/MOO">
+<catid>442107</catid>
+<link r:resource="http://cmc.uib.no/moo/" />
+<link r:resource="http://neil.fraser.name/software/moobrowser/" />
+<link r:resource="http://cmc.uib.no/moo/docs/shorter/quick-prog-ref.txt" />
+<link r:resource="http://vmoo.com/support/moo/" />
+<link r:resource="http://www.fringenet.net/MOO/" />
+<link r:resource="http://www.xythian.com/moo/dbbackup.html" />
+<link1 r:resource="http://sourceforge.net/projects/lambdamoo/"></link1>
+<link1 r:resource="ftp://ftp.lambda.moo.mud.org/pub/MOO/html/ProgrammersManual_toc.html"></link1>
+<link r:resource="ftp://ftp.lambda.moo.mud.org/pub/MOO/" />
+<link r:resource="http://www.mars.org/home/rob/docs/lmdb.html" />
+<link r:resource="http://jhcore.sourceforge.net/" />
+<link r:resource="http://cmc.uib.no/moo/yib/index.html" />
+<link r:resource="http://ben.com/MOO/waif.html" />
+<link r:resource="ftp://ftp.fazigu.org/pub/mud/moo/ghost/ghostcore/" />
+<link r:resource="http://www.chrisunkel.com/WinMOO/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/Mordor">
+<catid>442111</catid>
+<link r:resource="http://www.rohonline.net/source/" />
+<link1 r:resource="http://mordor.nazgul.com/"></link1>
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/Python">
+<catid>442110</catid>
+<link r:resource="http://code.google.com/p/evennia/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/Ruby">
+<catid>442105</catid>
+<link r:resource="http://teensymud.kicks-ass.org/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/SocketMUD">
+<catid>442104</catid>
+<link r:resource="http://www.socketmud.dk/" />
+<link r:resource="http://homepages.uc.edu/~hollisgf/nakedmud.html" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/TinyMUD">
+<catid>442112</catid>
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/TinyMUD/TinyMUCK">
+<catid>442114</catid>
+<link r:resource="http://www.cs.brown.edu/people/car/muf/" />
+<link r:resource="http://www.armory.com/~mortoj/mufman530.html" />
+<link r:resource="http://www.belfry.com/fuzzball/mpihelp.html" />
+<link r:resource="http://www.rdwarf.com/mink/downloads/" />
+<link r:resource="http://pages.cs.wisc.edu/~bolo/shipyard/" />
+<link r:resource="http://triggur.org/furry/muf/" />
+<link r:resource="http://www.belfry.com/fuzzball/" />
+<link r:resource="http://hectorboy.tripod.com/muf/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/TinyMUD/TinyMUSH">
+<catid>442113</catid>
+<link r:resource="http://www.visi.com/~gyles19/mushing.shtml" />
+<link r:resource="http://tinymush.sourceforge.net/" />
+<link r:resource="http://www.pennmush.org/" />
+<link r:resource="http://www.gammon.com.au/pennmush/win32mush.htm" />
+<link r:resource="http://www.metamage.com/mush/" />
+<link r:resource="http://tinymux.org/" />
+<link r:resource="http://battletechmux.com/" />
+<link r:resource="http://www.black-knight.org/mudcore/" />
+<link r:resource="http://www.tinymux.org/wiki" />
+<link r:resource="http://www.moosh.net/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Codebases/Windows">
+<catid>442108</catid>
+<link r:resource="http://www.grendelproject.nl/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Code_Repositories">
+<catid>442134</catid>
+<link r:resource="http://sourcery.dyndns.org/" />
+<link r:resource="http://www.andreasen.org/newmud/" />
+<link r:resource="http://www.andreasen.org/16k.shtml" />
+<link r:resource="http://www.mudconnect.com/mudfaq/mudfaq-p4.html" />
+<link r:resource="http://www.mudbytes.net/index.php?a=files" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Hosting">
+<catid>442133</catid>
+<link r:resource="http://www.dune.net/" />
+<link r:resource="http://www.genesismuds.com/" />
+<link r:resource="http://www.wolfpaw.net/" />
+<link r:resource="http://www.arthmoor.com/" />
+<link r:resource="http://www.mudshell.com/" />
+<link r:resource="http://xidus.net/" />
+<link r:resource="http://toybox.infomagic.net/" />
+<link r:resource="http://www.envy.com/" />
+<link r:resource="http://www.ecigames.com/" />
+<link r:resource="http://www.divineright.org/" />
+<link r:resource="http://www.mudmagic.com/hosting/" />
+<link r:resource="http://kydance.net/pages/mu_hosting" />
+<link r:resource="http://www.thirdhosting.com/" />
+<link r:resource="http://rpg-works.net/" />
+<link r:resource="http://www.mudhosting.net/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Protocols">
+<catid>442125</catid>
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Protocols/InterMUD_Communications">
+<catid>442130</catid>
+<link r:resource="http://mud.stack.nl/intermud/" />
+<link r:resource="http://www.twyst.org/sunnet/" />
+<link r:resource="http://www.mudbytes.net/intermud" />
+<link r:resource="http://tintin.sourceforge.net/msdp/arachnos/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Protocols/MUD_Client_Compression_Protocol">
+<catid>442132</catid>
+<link r:resource="http://tintin.sourceforge.net/mccp" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Protocols/MUD_Client_Protocol">
+<catid>442126</catid>
+<link r:resource="http://www.moo.mud.org/mcp/mcp2.html" />
+<link r:resource="http://www.awns.com/mcp/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Protocols/MUD_Extension_Protocol">
+<catid>442129</catid>
+<link r:resource="http://www.zuggsoft.com/zmud/mxp.htm" />
+<link r:resource="http://www.kmuddy.com/libmxp/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Protocols/MUD_Server_Data_Protocol">
+<catid>442127</catid>
+<link r:resource="http://tintin.sourceforge.net/msdp" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Protocols/MUD_Server_Status_Protocol">
+<catid>442128</catid>
+<link r:resource="http://tintin.sourceforge.net/mssp/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Protocols/MUD_Sound_Protocol">
+<catid>442131</catid>
+<link r:resource="http://www.coremud.org/sounds/test.html" />
+<link r:resource="http://www.zuggsoft.com/zmud/msp.htm" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Development/Protocols/Mud_Terminal_Type_Standard">
+<catid>1010307</catid>
+<link r:resource="http://tintin.sourceforge.net/mtts" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Directories">
+<catid>442092</catid>
+<link r:resource="http://www.tigerden.com/~infopage/muck/" />
+<link1 r:resource="http://www.mudconnect.com/"></link1>
+<link r:resource="http://www.topmudsites.com/" />
+<link r:resource="http://maelstrom.areth.org/mud/" />
+<link r:resource="http://moo.echoduet.net/" />
+<link r:resource="http://www.mudverse.com/" />
+<link r:resource="http://mudgamers.com/" />
+<link r:resource="http://www.themudslide.com/" />
+<link r:resource="http://mudstats.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Forums">
+<catid>442098</catid>
+<link r:resource="http://mudbytes.net/" />
+<link r:resource="http://www.mudlab.org/" />
+<link r:resource="http://www.topmudsites.com/forums" />
+<link r:resource="http://wora.netlosers.com/" />
+</topic>
+<topic r:id="Top/Games/Online/MUDs/Wikis">
+<catid>442099</catid>
+<link r:resource="http://sourcery.dyndns.org/" />
+</topic>

@@ -1,0 +1,228 @@
+<topic r:id="Top/Computers/Programming/Compilers">
+<catid>377116</catid>
+<link r:resource="http://exmortis.narod.ru/" />
+<link r:resource="http://www.sigplan.org/" />
+<link r:resource="http://compilers.iecc.com/" />
+<link r:resource="http://www.pcengines.ch/tp3.htm" />
+<link r:resource="http://www.softpanorama.org/Bookshelf/compilers.shtml" />
+<link r:resource="http://www.compilerjobs.com/" />
+<link r:resource="http://www.compilerconnection.com/" />
+<link r:resource="http://www.compilers.net/" />
+<link r:resource="http://gcc.gnu.org/readings.html" />
+<link r:resource="http://www.thefreecountry.com/compilers/" />
+<link r:resource="http://www.bloodshed.net/compilers/" />
+<link r:resource="http://www.avhohlov.narod.ru/engl010.htm" />
+<link r:resource="http://www.freeprogrammingresources.com/frcomplr.html" />
+<link r:resource="http://zngr.atspace.com/menu/zngrlcompiler.html" />
+<link r:resource="http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/language/projects.html" />
+<link r:resource="http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/language-people.html" />
+<link r:resource="http://free-compilers.sharnoff.org/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Compilers/Attribute_Grammar_Systems">
+<catid>377128</catid>
+<link r:resource="http://www.agfl.cs.ru.nl/" />
+<link r:resource="ftp://ftp.cs.iastate.edu/pub/ox/" />
+<link r:resource="http://www.cs.uu.nl/groups/ST/Software/LRC/index.html" />
+<link r:resource="http://www.cs.uu.nl/groups/ST/Software/UU_AG/index.html" />
+<link r:resource="http://www-sop.inria.fr/members/Didier.Parigot/www/fnc2/index.html" />
+</topic>
+<topic r:id="Top/Computers/Programming/Compilers/Code_Generator_Kits">
+<catid>377126</catid>
+<link r:resource="http://jburg.sourceforge.net/" />
+<link r:resource="http://www.sankhya.com/info/products/tools/dttf.html" />
+<link r:resource="http://www.hei.biz/beg/" />
+<link r:resource="http://expertcoder.sourceforge.net/" />
+<link r:resource="http://pdos.csail.mit.edu/~engler/pldi96-abstract.html" />
+<link r:resource="http://sourceforge.net/projects/froofyjit/" />
+<link r:resource="http://www.cs.tufts.edu/~nr/toolkit/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Compilers/Companies">
+<catid>377122</catid>
+<link r:resource="http://www.ghs.com/" />
+<link r:resource="http://www.spjsystems.com/" />
+<link r:resource="http://www.ddci.com/" />
+<link r:resource="http://www.avocetsystems.com/" />
+<link r:resource="http://www.pennington.com/" />
+<link r:resource="http://www.hpinfotech.ro/" />
+<link r:resource="http://edg.com/" />
+<link r:resource="http://www.codeplay.com/" />
+<link r:resource="http://www.digitalmars.com/" />
+<link r:resource="http://www.bloodshed.net/" />
+<link r:resource="http://www.compilerconnection.com/consultants/consultants.htm" />
+<link r:resource="http://www.semdesigns.com/Products/FrontEnds/index.html" />
+<link r:resource="http://www.absoft.com/" />
+<link r:resource="http://www.profactor.co.uk/" />
+<link r:resource="http://www.excelsior-usa.com/" />
+<link r:resource="http://www.nullstone.com/" />
+<link r:resource="http://www.tasking.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Compilers/Compiler_Construction_Kits">
+<catid>377117</catid>
+<link r:resource="http://suif.stanford.edu/" />
+<link r:resource="http://catalog.compilertools.net/" />
+<link r:resource="http://www.ace.nl/" />
+<link r:resource="http://mozart-dev.sourceforge.net/" />
+<link r:resource="http://www.thefreecountry.com/programming/compilerconstruction.shtml" />
+<link r:resource="http://www.ida.liu.se/~pelab/rml" />
+<link r:resource="http://gentle.compilertools.net/" />
+<link r:resource="http://eli-project.sourceforge.net/" />
+<link r:resource="http://llvm.org/" />
+<link r:resource="http://www.codeplex.com/irony" />
+<link r:resource="http://cetus.ecn.purdue.edu/" />
+<link r:resource="http://quex.sourceforge.net/" />
+<link r:resource="http://www.tools.vlampe.de/depot4/Depot4.html" />
+<link r:resource="http://www.zephyr-software.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Compilers/Compiler_Construction_Kits/ANTLR">
+<catid>377118</catid>
+<link r:resource="http://www.javadude.com/tools/parseview/" />
+<link r:resource="http://antlreclipse.sourceforge.net/" />
+<link r:resource="http://www.linguamantra.org/" />
+<link r:resource="http://placidsystems.com/antlrstudio.aspx" />
+<link r:resource="http://www.antlr2.org/" />
+<link r:resource="http://antlr.org/" />
+<link r:resource="http://www.artima.com/lejava/articles/antlr_3.html" />
+<link r:resource="http://www.cs.columbia.edu/~sedwards/classes/2002/w4115/index.html" />
+<link r:resource="http://tech.puredanger.com/2007/01/13/implementing-a-scripting-language-with-antlr-part-1-lexer/" />
+<link r:resource="http://www.antlr.org/works/index.html" />
+<link r:resource="http://www.dalkescientific.com/writings/diary/archive/2007/10/30/antlr_mw.html" />
+<link r:resource="http://antlrv3ide.sourceforge.net/" />
+<link r:resource="http://books.slashdot.org/article.pl?sid=08/05/28/1323209" />
+<link r:resource="http://www.pragprog.com/titles/tpantlr/the-definitive-antlr-reference" />
+<link r:resource="http://code.google.com/p/antlrhrc/" />
+<link r:resource="http://www.ociweb.com/jnb/jnbJun2008.html" />
+<link r:resource="http://www.antlr.org/grammar/list.html" />
+<link r:resource="http://www.drdobbs.com/windows/compiler-construction-with-antlr-and-jav/184410884" />
+</topic>
+<topic r:id="Top/Computers/Programming/Compilers/Cross_Compilers">
+<catid>377120</catid>
+<link r:resource="http://winavr.sourceforge.net/" />
+<link r:resource="http://gbdk.sourceforge.net/" />
+<link r:resource="http://mspgcc.sourceforge.net/" />
+<link r:resource="http://www.kdef.com/geek/vic/quetz.html" />
+<link r:resource="http://www.npsnet.com/danf/cbm/cross-development.html" />
+<link r:resource="http://sourceforge.net/projects/tack/" />
+<link r:resource="http://www.ddci.com/products_SCORE.php" />
+</topic>
+<topic r:id="Top/Computers/Programming/Compilers/FAQs,_Help,_and_Tutorials">
+<catid>377123</catid>
+<link r:resource="http://scifac.ru.ac.za/compilers/" />
+<link r:resource="http://www.personal.kent.edu/~rmuhamma/Compilers/compiler.html" />
+<link r:resource="http://www.freetechbooks.com/viewforum.php?f=14" />
+<link r:resource="http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/language-research.html" />
+<link r:resource="http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/" />
+<link r:resource="http://gcc.gnu.org/wiki/DeadlySins" />
+<link r:resource="http://www.seas.upenn.edu/~cit596/notes/dave/syllabus.html" />
+</topic>
+<topic r:id="Top/Computers/Programming/Compilers/Functional">
+<catid>377127</catid>
+</topic>
+<topic r:id="Top/Computers/Programming/Compilers/GNU_Compiler_Collection">
+<catid>377121</catid>
+<link1 r:resource="http://gcc.gnu.org/"></link1>
+<link r:resource="http://ghdl.free.fr/" />
+<link r:resource="http://www.mingw.org/" />
+<link r:resource="http://sourceforge.net/projects/introspector" />
+<link r:resource="http://gnude.sourceforge.net/" />
+<link r:resource="http://distcc.samba.org/" />
+<link r:resource="http://www.gnu.org/software/gcc/egcs-1.1/" />
+<link r:resource="http://gcc.gnu.org/onlinedocs/gcc-2.95.3/objc-features_toc.html" />
+<link r:resource="http://www.delorie.com/djgpp/doc/ug/larger/archives.html" />
+<link r:resource="http://kegel.com/crosstool/" />
+<link r:resource="http://pl1gcc.sourceforge.net/" />
+<link r:resource="http://lwn.net/Articles/84888/" />
+<link r:resource="http://www.network-theory.co.uk/gcc/intro/" />
+<link r:resource="http://www.gccsummit.org/" />
+<link r:resource="http://kegel.com/gcc/gcc3.4.html" />
+<link r:resource="http://greensocs.sourceforge.net/pinapa/" />
+<link r:resource="http://www.linuxjournal.com/article/7884" />
+<link r:resource="http://www.linuxjournal.com/article/7269" />
+<link r:resource="http://tldp.org/LDP/LG/issue88/piszcz.html" />
+<link r:resource="http://dgcc.sourceforge.net/" />
+<link r:resource="http://www.rhide.com/" />
+<link r:resource="http://www.gnuarm.com/" />
+<link r:resource="http://www.dalsoft.com/" />
+<link r:resource="http://en.wikibooks.org/wiki/GNU_C_Compiler_Internals" />
+<link r:resource="http://freecode.com/articles/gcc-myths-and-facts" />
+</topic>
+<topic r:id="Top/Computers/Programming/Compilers/Lexer_and_Parser_Generators">
+<catid>377125</catid>
+<link r:resource="http://gnuwin32.sourceforge.net/" />
+<link r:resource="http://www.siber.com/btyacc/" />
+<link r:resource="http://www.inf.uos.de/alumni/bernd/oolex/" />
+<link r:resource="http://www.gnu.org/software/bison/" />
+<link r:resource="http://www.cs.vu.nl/~ceriel/LLgen.html" />
+<link r:resource="http://www.hwaci.com/sw/lemon/" />
+<link r:resource="http://www.musikwissenschaft.uni-mainz.de/~ag/tply/" />
+<link r:resource="http://epaperpress.com/lexandyacc/index.html" />
+<link r:resource="http://world.std.com/~compres/" />
+<link r:resource="http://www.polhode.com/pccts.html" />
+<link r:resource="http://cppcc.sourceforge.net/" />
+<link r:resource="http://www.vendian.org/mncharity/dir3/btyacc/" />
+<link r:resource="http://dinosaur.compilertools.net/" />
+<link r:resource="http://yoolex.sourceforge.net/" />
+<link r:resource="http://spirit.sourceforge.net/" />
+<link r:resource="http://www.thinkage.ca/english/products/product-yay.shtml" />
+<link r:resource="http://www.parsifalsoft.com/" />
+<link r:resource="http://www.speculate.de/styx/" />
+<link r:resource="http://www.is.titech.ac.jp/~sassa/lab/rie-e.html" />
+<link r:resource="http://sourceforge.net/projects/jb2csharp/" />
+<link r:resource="http://www.ssw.uni-linz.ac.at/Research/Projects/Compiler.html" />
+<link r:resource="http://www.gnu.org/software/flex/" />
+<link r:resource="http://www.dmitry-kazakov.de/match/match.htm" />
+<link r:resource="http://hapy.sourceforge.net/" />
+<link r:resource="http://www.17slon.com/gp/gp/tply.htm" />
+<link r:resource="http://texttransformer.com/" />
+<link r:resource="http://www.cs.ru.nl/~kees/eag/" />
+<link r:resource="http://developer.berlios.de/projects/soul/" />
+<link r:resource="http://www.dcs.rhbnc.ac.uk/research/languages/projects/rdp.html" />
+<link r:resource="http://www.intralogic.eu/" />
+<link r:resource="http://grammatica.percederberg.net/" />
+<link r:resource="http://lapg.sourceforge.net/" />
+<link r:resource="ftp://lnx1.hrz.tu-darmstadt.de/pub/programming/languages/C++/tools/flex++bison++/" />
+<link r:resource="http://www.cs.rit.edu/~ats/projects/oops3/doc/" />
+<link r:resource="http://www.cs.rit.edu/~ats/projects/lp/doc/jay/package-summary.html" />
+<link r:resource="http://www.complang.org/ragel/" />
+<link r:resource="http://www.complang.org/kelbt/" />
+<link r:resource="http://re2c.org/" />
+<link r:resource="http://code.google.com/p/iburg/" />
+<link r:resource="http://www.monmouth.com/~wstreett/lex-yacc/lex-yacc.html" />
+<link r:resource="http://www.haskell.org/happy" />
+<link r:resource="http://www.dmi.unisa.it/people/risi/www/vldesk/index.html" />
+<link r:resource="http://clearparse.sourceforge.net/" />
+<link r:resource="http://strategoxt.org/Sdf/SGLR" />
+<link r:resource="http://visual-parse.software.informer.com/" />
+<link r:resource="http://formalmethods.wikia.com/wiki/PRECC" />
+<link r:resource="http://www.benhanson.net/lexertl.html" />
+<link r:resource="http://www.hilexed.org/" />
+<link r:resource="http://www.gradsoft.com.ua/products/yayacc_eng.html" />
+<link r:resource="http://slkpg.byethost7.com/" />
+<link r:resource="http://goldparser.org/" />
+<link r:resource="http://cdsoft.fr/tpg/" />
+<link r:resource="http://scottmcpeak.com/elkhound/" />
+<link r:resource="http://www.sweetsoftware.co.nz/parser_overview.html" />
+<link r:resource="http://www2.ersa-france.com/lloop/" />
+<link r:resource="http://ironmeta.sourceforge.net/" />
+<link r:resource="http://scratchy.org.nz/austen.php" />
+<link r:resource="https://sourceforge.net/projects/naivelangtools/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Compilers/Object-Oriented">
+<catid>377124</catid>
+</topic>
+<topic r:id="Top/Computers/Programming/Compilers/Transformation_Tools">
+<catid>377119</catid>
+<link r:resource="http://www.trimaran.org/" />
+<link r:resource="http://www.semanticdesigns.com/Products/DMS/DMSToolkit.html" />
+<link r:resource="http://www.cs.queensu.ca/~cordy/" />
+<link r:resource="http://tom.loria.fr/" />
+<link r:resource="http://www.desnoix.com/guillaume/alma/" />
+<link r:resource="http://www.cs.utah.edu/flux/alchemy/cmi.html" />
+<link r:resource="http://www.stratego-language.org/" />
+<link r:resource="http://spoon.gforge.inria.fr/" />
+<link r:resource="http://www.cs.indiana.edu/proglang/dynamo/" />
+<link r:resource="https://launchpad.net/ooc-language" />
+<link r:resource="http://ivmaiasn.sourceforge.net/" />
+<link r:resource="http://www.solidopt.org/" />
+<link r:resource="http://www.eecs.berkeley.edu/Pubs/TechRpts/2003/5327.html" />
+<link r:resource="http://trac.mcs.anl.gov/projects/performance/wiki/Orio" />
+</topic>

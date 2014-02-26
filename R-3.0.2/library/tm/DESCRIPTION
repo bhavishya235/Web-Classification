@@ -1,0 +1,28 @@
+Package: tm
+Title: Text Mining Package
+Version: 0.5-10
+Date: 2014-01-07
+Authors@R: c(person("Ingo", "Feinerer", role = c("aut", "cre"),
+                    email = "feinerer@logic.at"),
+             person("Kurt", "Hornik", role = "aut"),
+             person("Artifex Software, Inc.", role = c("ctb", "cph"),
+                    comment = "pdf_info.ps taken from GPL Ghostscript"))
+Depends: R (>= 3.0.0)
+Imports: parallel, slam (>= 0.1-31)
+Suggests: filehash, proxy, Rcampdf, Rgraphviz, Rpoppler, SnowballC, XML
+SystemRequirements: Antiword (http://www.winfield.demon.nl/) for
+        reading MS Word files, pdfinfo and pdftotext from Poppler
+        (http://poppler.freedesktop.org/) for reading PDF
+Description: A framework for text mining applications within R.
+License: GPL-3
+URL: http://tm.r-forge.r-project.org/
+Packaged: 2014-01-13 16:41:07 UTC; hornik
+Author: Ingo Feinerer [aut, cre],
+  Kurt Hornik [aut],
+  Artifex Software, Inc. [ctb, cph] (pdf_info.ps taken from GPL
+    Ghostscript)
+Maintainer: Ingo Feinerer <feinerer@logic.at>
+NeedsCompilation: yes
+Repository: CRAN
+Date/Publication: 2014-01-13 18:40:58
+Built: R 3.0.2; i686-pc-linux-gnu; 2014-01-27 10:52:27 UTC; unix

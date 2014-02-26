@@ -1,0 +1,1044 @@
+<topic r:id="Top/Computers/Internet/Protocols">
+<catid>375439</catid>
+<link1 r:resource="http://www.rfc-editor.org/"></link1>
+<link r:resource="http://www.softpanorama.org/Bookshelf/tcpip.shtml" />
+<link r:resource="http://archives.obs-us.com/obs/english/books/editinc/" />
+<link r:resource="http://www.redbooks.ibm.com/abstracts/gg243376.html" />
+<link r:resource="http://www.ii.uib.no/~magnus/TCP.html" />
+<link r:resource="http://www.dmsa.unipd.it/andreap/nag/nag.html" />
+<link r:resource="http://www.itprc.com/tcpipfaq/" />
+<link r:resource="http://www.tldp.org/LDP/nag/" />
+<link r:resource="http://www.ietf.org/1id-abstracts.html" />
+<link r:resource="http://www.sockets.com/services.htm" />
+<link r:resource="http://www.networksorcery.com/enp/" />
+<link r:resource="http://www.freesoft.org/CIE/Topics/73.htm" />
+<link r:resource="http://ietfreport.isoc.org/" />
+<link r:resource="http://internet2.edu/" />
+<link r:resource="http://www.columbia.edu/kermit/" />
+<link r:resource="http://www.rhyshaden.com/" />
+<link r:resource="http://datatracker.ietf.org/wg/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/CIFS">
+<catid>375457</catid>
+<link1 r:resource="http://www.samba.org/"></link1>
+<link r:resource="http://pserver.samba.org/" />
+<link r:resource="http://ubiqx.org/cifs/" />
+<link r:resource="https://lists.samba.org/" />
+<link r:resource="http://oreilly.com/openbook/samba/book/index.html" />
+<link r:resource="http://www.samba.org/cifs/docs/what-is-smb.html" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/DHCP">
+<catid>375530</catid>
+<link r:resource="http://www.linuxplanet.com/linuxplanet/tutorials/894/1/" />
+<link r:resource="http://www.redbooks.ibm.com/abstracts/sg245280.html" />
+<link r:resource="http://www.ehsco.com/reading/dhcp.html" />
+<link r:resource="http://en.tldp.org/HOWTO/DHCP/" />
+<link r:resource="http://www.linux-mag.com/id/473" />
+<link r:resource="http://www.ietf.org/mail-archive/web/dhcwg/current/" />
+<link r:resource="http://articles.techrepublic.com.com/5100-10878_11-1041798.html" />
+<link r:resource="http://www.isoc.org/inet95/proceedings/PAPER/127/html/paper.html" />
+<link r:resource="http://btdiamondip.com/" />
+<link1 r:resource="http://datatracker.ietf.org/wg/dhc/charter/"></link1>
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/DNS">
+<catid>375524</catid>
+<link r:resource="http://www.chiark.greenend.org.uk/~ian/adns/" />
+<link r:resource="http://tools.ietf.org/html/rfc1035" />
+<link r:resource="http://www.ckdhr.com/dns-loc/" />
+<link r:resource="http://www.jhsoft.com/" />
+<link r:resource="http://www.rscott.org/dns/" />
+<link r:resource="http://tinydns.org/" />
+<link r:resource="http://www.xbill.org/dnsjava/" />
+<link r:resource="http://www.ibiblio.org/pub/Linux/docs/howto/DNS-HOWTO" />
+<link r:resource="http://www.incognito.com/" />
+<link r:resource="http://www.cert.org/archive/pdf/dns.pdf" />
+<link r:resource="http://www.cymru.com/Documents/secure-bind-template.html" />
+<link r:resource="http://www.networkclue.com/internet/DNS" />
+<link r:resource="http://www.dnssec.net/" />
+<link r:resource="http://www.bind9.net/" />
+<link r:resource="http://www.root-servers.org/" />
+<link r:resource="http://www.hznet.de/dns/zkt/" />
+<link r:resource="http://www.net-dns.org/" />
+<link r:resource="http://www.nixusoftware.com/" />
+<link r:resource="http://www.iana.org/domains/root/db/" />
+<link r:resource="http://www.unicoi.com/fusion_net/fusion_dns.htm" />
+<link r:resource="http://bio3d.colorado.edu/tor/sadocs/dns/dns.html" />
+<link r:resource="http://www.dnssec-tools.org/" />
+<link r:resource="http://www.dnsbindeditor.com/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/DNS/Service_Providers">
+<catid>375525</catid>
+<link r:resource="http://www.xname.org/" />
+<link r:resource="http://www.backupdns.com/" />
+<link r:resource="http://www.worldwidedns.net/" />
+<link r:resource="http://www.nettica.com/Domain/Dns.aspx" />
+<link r:resource="http://www.securityspace.com/dns/index.html" />
+<link r:resource="http://www.twisted4life.com/" />
+<link r:resource="http://www.dnsmax.com/" />
+<link r:resource="http://www.ultradns.com/" />
+<link r:resource="http://www.xpertdns.com/" />
+<link r:resource="http://www.public-servers.com/" />
+<link r:resource="http://www.nominum.com/" />
+<link r:resource="http://www.opendns.com/" />
+<link r:resource="http://www.opennicproject.org/" />
+<link r:resource="http://www.loaddns.com/" />
+<link r:resource="http://www.cloudfloordns.com/dns/" />
+<link r:resource="http://dyn.com/" />
+<link r:resource="http://www.dnsunlimited.com/" />
+<link r:resource="http://durabledns.com/" />
+<link r:resource="http://www.division120.com/" />
+<link r:resource="http://www.powerdns.net/" />
+<link r:resource="http://www.dnshat.com/" />
+<link r:resource="http://www.eurons.net/" />
+<link r:resource="http://www.rage4.com/" />
+<link r:resource="http://www.squeaksoft.com/" />
+<link r:resource="http://www.dns.com/" />
+<link r:resource="http://www.gslb.me/" />
+<link r:resource="http://www.lanechange.net/html/dns_hosting.html" />
+<link r:resource="http://system-ns.com/" />
+<link r:resource="http://www.devresan.com/" />
+<link r:resource="https://www.alwaysresolve.com/" />
+<link r:resource="http://aidyn.net/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/DNS/Service_Providers/Dynamic_DNS">
+<catid>375526</catid>
+<link r:resource="http://www.dnsexit.com/" />
+<link r:resource="http://www.dtdns.com/" />
+<link r:resource="http://www.dynip.com/" />
+<link r:resource="http://www.no-ip.com/" />
+<link r:resource="http://vdns.javaprofessionals.com/" />
+<link r:resource="http://www.dhs.org/" />
+<link r:resource="http://www.homepc.org/" />
+<link r:resource="http://www.cjb.net/" />
+<link r:resource="http://dyndns.dk/" />
+<link r:resource="http://www.dynup.net/" />
+<link r:resource="http://www.changeip.com/" />
+<link r:resource="http://www.dhis.org/" />
+<link r:resource="http://nicolas.cx/" />
+<link r:resource="http://www.ddns.nu/" />
+<link r:resource="http://www.dynamip.com/" />
+<link r:resource="http://www.za.net/" />
+<link r:resource="http://www.dyns.cx/" />
+<link r:resource="http://thebbs.org/dns/" />
+<link r:resource="http://www.ods.org/" />
+<link r:resource="http://www.zoneedit.com/" />
+<link r:resource="http://www.planetdns.net/" />
+<link r:resource="http://www.staticcling.org/" />
+<link r:resource="http://domain-dns.com/" />
+<link r:resource="http://www.dnspark.com/" />
+<link r:resource="http://www.tzolkin.com/" />
+<link r:resource="http://www.minidns.net/" />
+<link r:resource="http://www.thatip.com/" />
+<link r:resource="http://dns.widge.net/" />
+<link r:resource="http://www.dns2go.com/" />
+<link r:resource="http://www.myserver.org/services.asp" />
+<link r:resource="http://www.yi.org/" />
+<link r:resource="http://www.zonomi.com/" />
+<link r:resource="http://www.zerigo.com/" />
+<link r:resource="http://dnslookup.me/dynamic-dns/" />
+<link r:resource="http://www.dnsmadeeasy.com/" />
+<link r:resource="http://www.dnsdynamic.org/" />
+<link r:resource="http://spdns.de/" />
+<link r:resource="https://web.easydns.com/" />
+<link r:resource="http://activedns.co.za/" />
+<link r:resource="http://www.bcu.cc/" />
+<link r:resource="https://www.net-me.net/" />
+<link r:resource="http://www.dynu.com/" />
+<link r:resource="http://www.dnslookup.com/" />
+<link r:resource="http://www.duckdns.org/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/DNS/Web_Tools">
+<catid>375527</catid>
+<link r:resource="http://www.dnsstuff.com/" />
+<link r:resource="http://www.kloth.net/services/nslookup.php" />
+<link r:resource="http://network-tools.com/" />
+<link r:resource="http://www.analogx.com/contents/dnsdig.htm" />
+<link r:resource="http://cgibin.erols.com/ziring/cgi-bin/nsgate/gate.pl" />
+<link r:resource="http://www.zonecut.net/dns/" />
+<link r:resource="http://www.lookupserver.com/" />
+<link r:resource="http://www.ratite.com/whois/" />
+<link r:resource="http://sameip.org/" />
+<link r:resource="http://www.howismydns.com/" />
+<link r:resource="http://viewdns.info/" />
+<link r:resource="http://onlinetoolkit.org/" />
+<link r:resource="http://www.mydnstools.info/" />
+<link r:resource="http://www.dnsqueries.com/" />
+<link r:resource="http://www.netinfo.org.ua/" />
+<link r:resource="http://www.itistimed.com/" />
+<link r:resource="http://dnstoolkit.net/" />
+<link r:resource="http://www.pagesinventory.com/" />
+<link r:resource="http://www.solvedns.com/" />
+<link r:resource="http://mrdns.com/" />
+<link r:resource="http://www.samdns.com/" />
+<link r:resource="http://www.lookup.ie/" />
+<link r:resource="http://www.myiptest.com/" />
+<link r:resource="http://www.whatsmydns.net/" />
+<link r:resource="http://www.tcpiputils.com/" />
+<link r:resource="http://dnshistory.org/" />
+<link r:resource="http://dnsloc.net/" />
+<link r:resource="http://spyonweb.com/" />
+<link r:resource="http://www.intodns.com/" />
+<link r:resource="https://www.ultratools.com/" />
+<link r:resource="http://dig.whois.com.au/dig/" />
+<link r:resource="http://dns.squish.net/" />
+<link r:resource="http://www.dnsinspect.com/" />
+<link r:resource="http://www.aboutthedomain.com/" />
+<link r:resource="http://mxtoolbox.com/" />
+<link r:resource="http://www.slow-server.com/" />
+<link r:resource="http://dnspropagationcheck.com/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/FTP">
+<catid>375492</catid>
+<link r:resource="http://ftplab.com/" />
+<link r:resource="http://www.freesoft.org/CIE/Topics/69.htm" />
+<link r:resource="http://www.faqs.org/faqs/internet-services/access-via-email/" />
+<link r:resource="http://cr.yp.to/ftp.html" />
+<link r:resource="http://www.cs.rpi.edu/academics/courses/fall96/netprog/lectures/html/ftp/" />
+<link r:resource="http://www.faqs.org/faqs/ftp-list/faq/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/FTP/RFCs">
+<catid>375498</catid>
+<link r:resource="http://tools.ietf.org/html/rfc1415" />
+<link r:resource="http://tools.ietf.org/html/rfc2577" />
+<link r:resource="http://tools.ietf.org/html/rfc2640" />
+<link r:resource="http://tools.ietf.org/html/rfc1639" />
+<link r:resource="http://tools.ietf.org/html/rfc1635" />
+<link r:resource="http://tools.ietf.org/html/rfc448" />
+<link r:resource="http://tools.ietf.org/html/rfc480" />
+<link r:resource="http://tools.ietf.org/html/rfc463" />
+<link r:resource="http://tools.ietf.org/html/rfc412" />
+<link r:resource="http://tools.ietf.org/html/rfc2228" />
+<link r:resource="http://tools.ietf.org/html/rfc1579" />
+<link r:resource="http://tools.ietf.org/html/rfc1545" />
+<link r:resource="http://tools.ietf.org/html/rfc743" />
+<link r:resource="http://tools.ietf.org/html/rfc775" />
+<link r:resource="http://tools.ietf.org/html/rfc751" />
+<link r:resource="http://tools.ietf.org/html/rfc737" />
+<link r:resource="http://tools.ietf.org/html/rfc172" />
+<link1 r:resource="http://tools.ietf.org/html/rfc959"></link1>
+<link r:resource="http://tools.ietf.org/html/rfc949" />
+<link r:resource="http://tools.ietf.org/html/rfc238" />
+<link r:resource="http://tools.ietf.org/html/rfc294" />
+<link r:resource="http://tools.ietf.org/html/rfc2773" />
+<link r:resource="http://tools.ietf.org/html/rfc2428" />
+<link r:resource="http://tools.ietf.org/html/rfc630" />
+<link r:resource="http://tools.ietf.org/html/rfc624" />
+<link r:resource="http://tools.ietf.org/html/rfc640" />
+<link r:resource="http://tools.ietf.org/html/rfc614" />
+<link r:resource="http://tools.ietf.org/html/rfc607" />
+<link r:resource="http://tools.ietf.org/html/rfc697" />
+<link r:resource="http://tools.ietf.org/html/rfc691" />
+<link r:resource="http://tools.ietf.org/html/rfc683" />
+<link r:resource="http://tools.ietf.org/html/rfc2389" />
+<link r:resource="http://tools.ietf.org/html/rfc3659" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/FTP/Search_Engines">
+<catid>375494</catid>
+<link r:resource="http://archie.icm.edu.pl/" />
+<link r:resource="http://www.filewatcher.com/" />
+<link r:resource="http://www.globalfilesearch.com/" />
+<link r:resource="http://www.mmnt.ru/int/" />
+<link r:resource="ftp://ftp.ntua.gr/pub/net/ftp/ftpsearch/" />
+<link r:resource="http://www.searchftps.com/indexer/search.aspx" />
+<link r:resource="http://chestnut-ftp-search.org.ua/" />
+<link r:resource="http://filemare.com/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/FTP/Service_Providers">
+<catid>375493</catid>
+<link r:resource="http://ftpkey.com/" />
+<link r:resource="http://www.ftptoday.com/" />
+<link r:resource="http://www.simpleftp.net/" />
+<link r:resource="http://ftpfortranscription.com/" />
+<link r:resource="http://filewatchdogs.net/" />
+<link r:resource="http://www.onlineinstitute.com/ftp-hosting.html" />
+<link r:resource="http://www.transferum.com/" />
+<link r:resource="http://brickftp.com/" />
+<link r:resource="http://www.turbo-ftp.com/" />
+<link r:resource="http://www.iweb-ftp.co.uk/" />
+<link r:resource="http://ftprelay.com/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/Gopher">
+<catid>374842</catid>
+<link r:resource="http://www.ou.edu/research/electron/internet/veronica.htm" />
+<link r:resource="gopher://gopher.quux.org/1" />
+<link r:resource="http://www.scn.org/~bkarger/gopher-manifesto" />
+<link r:resource="gopher://seanm.ca/" />
+<link r:resource="http://gopher.floodgap.com/gopher/" />
+<link r:resource="http://tools.ietf.org/html/rfc1436" />
+<link r:resource="gopher://sdf.lonestar.org/" />
+<link r:resource="http://en.wikipedia.org/wiki/Gopher_(protocol)" />
+<link r:resource="http://www.nongnu.org/jugtail/" />
+<link r:resource="gopher://quix.us/" />
+<link r:resource="gopher://gopher.std.com/1" />
+<link r:resource="gopher://sipb.mit.edu/" />
+<link r:resource="http://www.u.arizona.edu/%7Eshunter/" />
+<link r:resource="gopher://vert.synchro.net/" />
+<link r:resource="gopher://moo.ca/" />
+<link r:resource="http://wt.gopherite.org/" />
+<link r:resource="gopher://gopher.floodgap.com/" />
+<link r:resource="http://talkgeektome.us/gophermap.xhtml" />
+<link r:resource="http://tidbits.com/article/8909" />
+<link r:resource="http://www.jumpjet.info/Offbeat-Internet/Gopher/archive.htm" />
+<link r:resource="http://sdf.org/" />
+<link r:resource="http://talkgeektome.us/gopher.xhtml" />
+<link r:resource="http://arstechnica.com/tech-policy/2009/11/the-web-may-have-won-but-gopher-tunnels-on/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/HTTP">
+<catid>375529</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2616" />
+<link r:resource="http://tools.ietf.org/html/rfc2145" />
+<link r:resource="http://tools.ietf.org/html/rfc1945" />
+<link r:resource="http://www.w3.org/Protocols/" />
+<link r:resource="http://www.w3.org/Protocols/HTTP-NG/" />
+<link r:resource="http://rproxy.samba.org/" />
+<link r:resource="http://www.w3.org/TR/WD-http-pep" />
+<link r:resource="http://www.rajivshah.com/Case_Studies/Cookies/CookiesLinks.html" />
+<link r:resource="http://www.isi.edu/lsam/publications/http-perf/" />
+<link r:resource="http://www2002.org/CDROM/refereed/444/" />
+<link r:resource="http://www.tutorialspoint.com/http/index.htm" />
+<link r:resource="http://pc-intern.com/http-header-bulkcheck.html" />
+<link r:resource="http://404checker.com/" />
+<link r:resource="http://www.htttools.com/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP">
+<catid>375499</catid>
+<link r:resource="http://tools.ietf.org/html/rfc791" />
+<link r:resource="http://www.private.org.il/IP2geo.html" />
+<link r:resource="http://www.freesoft.org/CIE/Course/Section3/" />
+<link r:resource="http://www.iptvnews.net/" />
+<link r:resource="http://www.ipmulticast.com/" />
+<link r:resource="http://compnetworking.about.com/od/networkprotocolsip/l/aa081000a.htm" />
+<link r:resource="http://www.iphowto.com/" />
+<link r:resource="http://ipv4depletion.com/" />
+<link r:resource="http://www.how-to-hide-ip.info/" />
+<link r:resource="http://www.changeipaddress.info/" />
+<link r:resource="http://www.eventhelix.com/RealtimeMantra/Networking/" />
+<link r:resource="http://networking.ringofsaturn.com/IP/" />
+<link r:resource="http://lcamtuf.coredump.cx/mobp/" />
+<link r:resource="http://datatracker.ietf.org/wg/ippm/charter/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/Addressing">
+<catid>375512</catid>
+<link r:resource="http://www.ralphb.net/IPSubnet/" />
+<link r:resource="http://www.ipprimer.com/" />
+<link r:resource="http://www.cisco.com/univercd/cc/td/doc/product/atm/l2020/2020r21x/planning/appndxa.htm#xtocid87490" />
+<link r:resource="http://www.networkcomputing.com/netdesign/ip101.html" />
+<link r:resource="http://www.subnet-calculator.com/" />
+<link r:resource="http://www.subnetmask.info/" />
+<link r:resource="http://www.networkcomputing.com/unixworld/tutorial/001.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Subnetwork" />
+<link r:resource="http://www.subnetonline.com/" />
+<link r:resource="http://www.subnetting-secrets.com/" />
+<link r:resource="http://www.brouckie.be/cgi-bin/IPsubnetting/index.pl?ta=1" />
+<link r:resource="http://www.drizwork.com/" />
+<link r:resource="http://www.hostsfilehq.com/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/Addressing/Assignment">
+<catid>375516</catid>
+<link r:resource="http://www.apnic.net/" />
+<link r:resource="http://www.iana.org/" />
+<link r:resource="http://www.arin.net/" />
+<link r:resource="http://www.ripe.net/" />
+<link r:resource="http://lacnic.net/" />
+<link r:resource="http://www.afrinic.net/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/Addressing/Lookup">
+<catid>375513</catid>
+<link r:resource="http://www.mywanip.com/" />
+<link r:resource="http://www.webyield.net/domainquery.html" />
+<link r:resource="http://www.ip-lookup.net/" />
+<link r:resource="http://www.ipdistance.com/" />
+<link r:resource="http://trasir.com/" />
+<link r:resource="http://www.howtofindmyipaddress.com/" />
+<link r:resource="http://iptect.com/" />
+<link r:resource="http://www.ip-location.info/" />
+<link r:resource="http://www.privacyinfo.org/" />
+<link r:resource="http://www.whatsmyip.us/" />
+<link r:resource="http://www.dnsfrog.com/" />
+<link r:resource="http://ip-subnetter.com/" />
+<link r:resource="http://my-addr.com/" />
+<link r:resource="http://www.ipaddressguide.com/" />
+<link r:resource="http://netmatics.net/" />
+<link r:resource="http://www.subnet-calculator.org/" />
+<link r:resource="http://ipneighbor.com/" />
+<link r:resource="http://www.whatismyip.com/" />
+<link r:resource="http://www.cosmicip.com/" />
+<link r:resource="http://www.ip-details.com/" />
+<link r:resource="http://www.liveipmap.com/" />
+<link r:resource="http://www.ip2l.com/" />
+<link r:resource="http://www.find-ip-address.org/" />
+<link r:resource="http://www.spyber.com/" />
+<link r:resource="http://www.speakmyip.com/" />
+<link r:resource="http://www.ipmarker.com/" />
+<link r:resource="http://www.showmyipaddress.com/" />
+<link r:resource="http://www.showipinfo.net/" />
+<link r:resource="http://ping-test.org/" />
+<link r:resource="http://ip.draget.net/" />
+<link r:resource="http://www.ipaddressfinder.info/" />
+<link r:resource="http://www.iptrackeronline.com/" />
+<link r:resource="http://webutility.in/" />
+<link r:resource="http://thewhynet.com/" />
+<link r:resource="http://www.ip-address.org/" />
+<link r:resource="http://smart-ip.net/" />
+<link r:resource="http://whoipaddress.com/" />
+<link r:resource="http://www.whatmyip.us/" />
+<link r:resource="http://tejji.com/ip/myipaddress.aspx" />
+<link r:resource="http://lookup.xamex.com/" />
+<link r:resource="http://www.ipfingerprints.com/" />
+<link r:resource="http://www.adminsub.net/" />
+<link r:resource="http://www.blacklinx.com/" />
+<link r:resource="http://www.letmecheck.it/" />
+<link r:resource="http://ipsector.com/" />
+<link r:resource="http://www.l2ip.com/" />
+<link r:resource="http://www.whoisdatalookup.com/" />
+<link r:resource="http://tmp.to/" />
+<link r:resource="http://www.ineedmyip.com/" />
+<link r:resource="http://www.findmyip.co/" />
+<link r:resource="http://myip.info/" />
+<link r:resource="http://wtfismyip.com/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/Addressing/NAT">
+<catid>375514</catid>
+<link r:resource="http://www.howstuffworks.com/nat.htm" />
+<link r:resource="http://alumnus.caltech.edu/~dank/peer-nat.html" />
+<link r:resource="http://www.billauer.co.il/ipmasq-html.html" />
+<link r:resource="http://www.cisco.com/en/US/tech/tk648/tk361/tk438/tsd_technology_support_sub-protocol_home.html" />
+<link r:resource="http://howtofixnat.com/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/Addressing/NAT/RFCs">
+<catid>375515</catid>
+<link r:resource="http://tools.ietf.org/html/rfc1631" />
+<link r:resource="http://tools.ietf.org/html/rfc2391" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/IPv6">
+<catid>375500</catid>
+<link r:resource="http://www.ipv6.ru/" />
+<link r:resource="http://www.tahi.org/" />
+<link r:resource="http://www.6net.org/" />
+<link r:resource="http://www.euro6ix.org/" />
+<link r:resource="http://www.ietf.org/wg/concluded/ipv6.html" />
+<link r:resource="http://cr.yp.to/djbdns/ipv6mess.html" />
+<link r:resource="http://www.ipv6forum.com/" />
+<link r:resource="http://www.ipv6tf.org/" />
+<link r:resource="http://www.sunny.ch/downloadfiles/ipv6_sample.pdf" />
+<link r:resource="http://www.laynetworks.com/ipv6.htm" />
+<link r:resource="http://ipv6.he.net/" />
+<link r:resource="http://www.whatismyipv6.net/" />
+<link r:resource="http://en.wikipedia.org/wiki/IPv6" />
+<link r:resource="http://sixy.ch/" />
+<link r:resource="http://www.estoile.com/links/ipv6.htm" />
+<link r:resource="http://www.openwall.com/presentations/IPv6/" />
+<link r:resource="http://www.ec.ipv6tf.org/in/i-index.php" />
+<link r:resource="http://www.luxembourg.ipv6tf.org/" />
+<link r:resource="http://www.sixxs.net/" />
+<link r:resource="http://www.ipv6.surfnet.nl/" />
+<link r:resource="http://www.worldipv6day.org/" />
+<link r:resource="http://www.ipv6.com/" />
+<link r:resource="http://www.6deploy.eu/" />
+<link r:resource="http://ipv6proxy.org/" />
+<link r:resource="http://www.worldipv6launch.org/" />
+<link r:resource="http://ipv6exchange.net/" />
+<link r:resource="http://www.gogo6.com/" />
+<link r:resource="https://www.internet2.edu/communities-groups/advanced-networking-groups/ipv6-working-group/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/IPv6/RFCs">
+<catid>375503</catid>
+<link r:resource="http://tools.ietf.org/html/rfc3226" />
+<link r:resource="http://tools.ietf.org/html/rfc2553" />
+<link r:resource="http://tools.ietf.org/html/rfc2675" />
+<link r:resource="http://tools.ietf.org/html/rfc2133" />
+<link r:resource="http://tools.ietf.org/html/rfc2185" />
+<link r:resource="http://tools.ietf.org/html/rfc2147" />
+<link r:resource="http://tools.ietf.org/html/rfc3053" />
+<link r:resource="http://tools.ietf.org/html/rfc3089" />
+<link r:resource="http://tools.ietf.org/html/rfc3019" />
+<link r:resource="http://tools.ietf.org/html/rfc3041" />
+<link r:resource="http://tools.ietf.org/html/rfc3056" />
+<link r:resource="http://tools.ietf.org/html/rfc1809" />
+<link r:resource="http://tools.ietf.org/html/rfc1881" />
+<link r:resource="http://tools.ietf.org/html/rfc1883" />
+<link r:resource="http://tools.ietf.org/html/rfc1884" />
+<link r:resource="http://tools.ietf.org/html/rfc1885" />
+<link r:resource="http://tools.ietf.org/html/rfc1886" />
+<link r:resource="http://tools.ietf.org/html/rfc1887" />
+<link r:resource="http://tools.ietf.org/html/rfc1888" />
+<link r:resource="http://tools.ietf.org/html/rfc1897" />
+<link r:resource="http://tools.ietf.org/html/rfc2928" />
+<link r:resource="http://tools.ietf.org/html/rfc2030" />
+<link r:resource="http://tools.ietf.org/html/rfc2023" />
+<link r:resource="http://tools.ietf.org/html/rfc2019" />
+<link r:resource="http://tools.ietf.org/html/rfc2073" />
+<link r:resource="http://tools.ietf.org/html/rfc2080" />
+<link r:resource="http://tools.ietf.org/html/rfc2732" />
+<link r:resource="http://tools.ietf.org/html/rfc2710" />
+<link r:resource="http://tools.ietf.org/html/rfc2711" />
+<link r:resource="http://tools.ietf.org/html/rfc2740" />
+<link r:resource="http://tools.ietf.org/html/rfc2470" />
+<link r:resource="http://tools.ietf.org/html/rfc2428" />
+<link r:resource="http://tools.ietf.org/html/rfc2492" />
+<link r:resource="http://tools.ietf.org/html/rfc2497" />
+<link r:resource="http://tools.ietf.org/html/rfc2472" />
+<link r:resource="http://tools.ietf.org/html/rfc2467" />
+<link r:resource="http://tools.ietf.org/html/rfc2454" />
+<link r:resource="http://tools.ietf.org/html/rfc2452" />
+<link r:resource="http://tools.ietf.org/html/rfc2491" />
+<link r:resource="http://tools.ietf.org/html/rfc2466" />
+<link r:resource="http://tools.ietf.org/html/rfc2465" />
+<link r:resource="http://tools.ietf.org/html/rfc2464" />
+<link r:resource="http://tools.ietf.org/html/rfc2463" />
+<link r:resource="http://tools.ietf.org/html/rfc2461" />
+<link r:resource="http://tools.ietf.org/html/rfc2460" />
+<link r:resource="http://tools.ietf.org/html/rfc1933" />
+<link r:resource="http://tools.ietf.org/html/rfc1924" />
+<link r:resource="http://tools.ietf.org/html/rfc1970" />
+<link r:resource="http://tools.ietf.org/html/rfc1971" />
+<link r:resource="http://tools.ietf.org/html/rfc1972" />
+<link r:resource="http://tools.ietf.org/html/rfc1981" />
+<link r:resource="http://tools.ietf.org/html/rfc2894" />
+<link r:resource="http://tools.ietf.org/html/rfc2893" />
+<link r:resource="http://tools.ietf.org/html/rfc2874" />
+<link r:resource="http://tools.ietf.org/html/rfc3122" />
+<link r:resource="http://tools.ietf.org/html/rfc3162" />
+<link r:resource="http://tools.ietf.org/html/rfc3142" />
+<link r:resource="http://tools.ietf.org/html/rfc3111" />
+<link r:resource="http://tools.ietf.org/html/rfc3146" />
+<link r:resource="http://tools.ietf.org/html/rfc3175" />
+<link r:resource="http://tools.ietf.org/html/rfc3177" />
+<link r:resource="http://tools.ietf.org/html/rfc3178" />
+<link r:resource="http://tools.ietf.org/html/rfc2373" />
+<link r:resource="http://tools.ietf.org/html/rfc3306" />
+<link r:resource="http://tools.ietf.org/html/rfc3307" />
+<link r:resource="http://tools.ietf.org/html/rfc3587" />
+<link r:resource="http://tools.ietf.org/html/rfc3513" />
+<link r:resource="http://tools.ietf.org/html/rfc3582" />
+<link r:resource="http://tools.ietf.org/html/rfc3531" />
+<link r:resource="http://tools.ietf.org/html/rfc3493" />
+<link r:resource="http://tools.ietf.org/html/rfc3646" />
+<link r:resource="http://tools.ietf.org/html/rfc3756" />
+<link r:resource="http://tools.ietf.org/html/rfc3595" />
+<link r:resource="http://tools.ietf.org/html/rfc3775" />
+<link r:resource="http://tools.ietf.org/html/rfc3776" />
+<link r:resource="http://tools.ietf.org/html/rfc3810" />
+<link r:resource="http://tools.ietf.org/html/rfc3363" />
+<link r:resource="http://tools.ietf.org/html/rfc3769" />
+<link r:resource="http://tools.ietf.org/html/rfc3750" />
+<link r:resource="http://tools.ietf.org/html/rfc3736" />
+<link r:resource="http://tools.ietf.org/html/rfc3701" />
+<link r:resource="http://tools.ietf.org/html/rfc3633" />
+<link r:resource="http://tools.ietf.org/html/rfc3542" />
+<link r:resource="http://tools.ietf.org/html/rfc3266" />
+<link r:resource="http://tools.ietf.org/html/rfc3831" />
+<link r:resource="http://tools.ietf.org/html/rfc3849" />
+<link r:resource="http://tools.ietf.org/html/rfc3596" />
+<link r:resource="http://tools.ietf.org/html/rfc3901" />
+<link r:resource="http://tools.ietf.org/html/rfc3904" />
+<link r:resource="http://tools.ietf.org/html/rfc3919" />
+<link r:resource="http://tools.ietf.org/html/rfc3956" />
+<link r:resource="http://tools.ietf.org/html/rfc3898" />
+<link r:resource="http://tools.ietf.org/html/rfc4007" />
+<link r:resource="http://tools.ietf.org/html/rfc4076" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/IPv6/Software">
+<catid>375506</catid>
+<link r:resource="http://www.version6.net/" />
+<link r:resource="http://www.bieringer.de/linux/IPv6/" />
+<link r:resource="http://www.kame.net/" />
+<link r:resource="http://en.tldp.org/HOWTO/Linux+IPv6-HOWTO/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/IPv6/Software/Networking">
+<catid>375507</catid>
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/IPv6/Software/Networking/Looking_Glasses">
+<catid>375509</catid>
+<link r:resource="http://www.mkm.ro/lg/" />
+<link r:resource="http://ipv6.nokia.net/" />
+<link r:resource="http://lg.version6.net/" />
+<link r:resource="http://lg.alsysdata.net/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/IPv6/Software/Networking/Route_Views">
+<catid>375510</catid>
+<link r:resource="http://www.jp.apan.net/ASpath-tree/bgp.html" />
+<link r:resource="http://ipv6.he.net/bgpview/bgp.html" />
+<link r:resource="http://www.elmundo.es/imasd/ipv6/aspath/" />
+<link r:resource="https://www.sprint.net/index.php?p=ipv6" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/IPv6/Software/Networking/Traceroute_Servers">
+<catid>375508</catid>
+<link r:resource="http://www.tumori.nu/IPv6/traceroute.html" />
+<link r:resource="http://www.wiberg.nu/iptools.php" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/Routing">
+<catid>375517</catid>
+<link r:resource="http://support.3com.com/infodeli/tools/switches/cb9400/product/12280/c15ip.htm" />
+<link r:resource="http://www.itprc.com/routing.htm" />
+<link r:resource="http://www.howstuffworks.com/router.htm" />
+<link r:resource="http://bgp.potaroo.net/" />
+<link r:resource="http://www.exabyte.net/lambert/subnet/subnet_masking_summary.htm" />
+<link r:resource="http://www.cisco.com/en/US/tech/tk365/technologies_tech_note09186a00800a67f5.shtml" />
+<link r:resource="http://docwiki.cisco.com/wiki/Internetwork_Design_Guide" />
+<link r:resource="http://www.mplsvpn.info/" />
+<link r:resource="http://docwiki.cisco.com/wiki/Internetworking_Technology_Handbook#LAN_Technologies" />
+<link r:resource="http://datatracker.ietf.org/wg/mpls/charter/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/Routing/BGP">
+<catid>375518</catid>
+<link r:resource="http://www.bgp4.as/" />
+<link r:resource="http://www.sourceforge.net/projects/bgpd/" />
+<link r:resource="http://www.freesoft.org/CIE/RFC/1812/154.htm" />
+<link r:resource="http://info.connect.com.au/docs/routing/general/multi-faq.shtml" />
+<link r:resource="http://www.cymru.com/Documents/barry2.pdf" />
+<link r:resource="http://avi.freedman.net/bw/may97.html" />
+<link r:resource="http://www.academ.com/nanog/feb1997/BGPTutorial/index.htm" />
+<link r:resource="http://www.bgpexpert.com/" />
+<link r:resource="http://www.cisco.com/en/US/tech/tk365/tk80/tsd_technology_support_sub-protocol_home.html" />
+<link r:resource="http://www.cisco.com/en/US/docs/internetworking/case/studies/icsbgp4.html" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/Routing/BGP/RFCs">
+<catid>375519</catid>
+<link r:resource="http://tools.ietf.org/html/rfc1772" />
+<link r:resource="http://tools.ietf.org/html/rfc1397" />
+<link r:resource="http://tools.ietf.org/html/rfc3065" />
+<link r:resource="http://tools.ietf.org/html/rfc2042" />
+<link r:resource="http://tools.ietf.org/html/rfc2796" />
+<link r:resource="http://tools.ietf.org/html/rfc1966" />
+<link r:resource="http://tools.ietf.org/html/rfc1998" />
+<link r:resource="http://tools.ietf.org/html/rfc1997" />
+<link r:resource="http://tools.ietf.org/html/rfc4271" />
+<link r:resource="http://tools.ietf.org/html/rfc4272" />
+<link r:resource="http://tools.ietf.org/html/rfc4273" />
+<link r:resource="http://tools.ietf.org/html/rfc4274" />
+<link r:resource="http://tools.ietf.org/html/rfc4275" />
+<link r:resource="http://tools.ietf.org/html/rfc4276" />
+<link r:resource="http://tools.ietf.org/html/rfc4277" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/Routing/BGP/RFCs/Obsolete">
+<catid>375520</catid>
+<link r:resource="http://tools.ietf.org/html/rfc1655" />
+<link r:resource="http://tools.ietf.org/html/rfc1657" />
+<link r:resource="http://tools.ietf.org/html/rfc1654" />
+<link r:resource="http://tools.ietf.org/html/rfc1771" />
+<link r:resource="http://tools.ietf.org/html/rfc1773" />
+<link r:resource="http://tools.ietf.org/html/rfc1774" />
+<link r:resource="http://tools.ietf.org/html/rfc1863" />
+<link r:resource="http://tools.ietf.org/html/rfc1269" />
+<link r:resource="http://tools.ietf.org/html/rfc1267" />
+<link r:resource="http://tools.ietf.org/html/rfc1268" />
+<link r:resource="http://tools.ietf.org/html/rfc1105" />
+<link r:resource="http://tools.ietf.org/html/rfc1163" />
+<link r:resource="http://tools.ietf.org/html/rfc1965" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/Routing/OSPF">
+<catid>375522</catid>
+<link r:resource="http://tools.ietf.org/html/rfc1793" />
+<link r:resource="http://tools.ietf.org/html/rfc1583" />
+<link r:resource="http://tools.ietf.org/html/rfc1584" />
+<link r:resource="http://tools.ietf.org/html/rfc1247" />
+<link r:resource="http://tools.ietf.org/html/rfc1245" />
+<link r:resource="http://tools.ietf.org/html/rfc2328" />
+<link r:resource="http://www.ospf.org/" />
+<link r:resource="http://www.cisco.com/en/US/tech/tk365/tk480/tsd_technology_support_sub-protocol_home.html" />
+<link r:resource="http://tools.ietf.org/html/rfc3883" />
+<link r:resource="http://datatracker.ietf.org/wg/ospf/charter/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IP/Routing/RIP">
+<catid>375521</catid>
+<link r:resource="http://www.networksorcery.com/enp/protocol/rip.htm" />
+<link r:resource="http://support.microsoft.com/default.aspx?scid=KB;EN-US;Q241545&amp;" />
+<link r:resource="http://www.dspos.com/DSPOSWeb/rout_protocols/fusion_RIP.htm" />
+<link r:resource="http://www.cisco.com/en/US/docs/internetworking/technology/handbook/RIP.html" />
+<link r:resource="http://www.unicoi.com/fusion_net/fusion_rip_rip2.htm" />
+<link r:resource="https://sites.google.com/site/gpachai/gpachai.googlepages.com" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IRC">
+<catid>375460</catid>
+<link1 r:resource="http://www.irchelp.org/"></link1>
+<link r:resource="http://routing-com.undernet.org/" />
+<link r:resource="http://www.faqs.org/faqs/irc/undernet-faq/part1/index.html" />
+<link r:resource="http://www.irchelp.org/irchelp/rfc/ctcpspec.html" />
+<link r:resource="http://users.tkk.fi/~jlohikos/IRC.html" />
+<link r:resource="http://www.mirc.co.uk/help/dccresum.txt" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/IRC/RFCs">
+<catid>1023277</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2813" />
+<link r:resource="http://tools.ietf.org/html/rfc2812" />
+<link r:resource="http://tools.ietf.org/html/rfc2811" />
+<link r:resource="http://tools.ietf.org/html/rfc2810" />
+<link r:resource="http://www.irchelp.org/irchelp/rfc/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/LDAP">
+<catid>375478</catid>
+<link r:resource="http://www.gracion.com/server/whatldap.html" />
+<link r:resource="http://www.redbooks.ibm.com/abstracts/sg244986.html" />
+<link r:resource="http://www.redbooks.ibm.com/abstracts/sg246163.html" />
+<link r:resource="http://datatracker.ietf.org/wg/ldup/charter/" />
+<link r:resource="http://quark.humbug.org.au/publications/ldap/intro_ldap/index.htm" />
+<link r:resource="http://datatracker.ietf.org/wg/ldapbis/" />
+<link r:resource="http://www.ldapguru.info/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/Mail">
+<catid>375472</catid>
+<link r:resource="http://www.imc.org/" />
+<link r:resource="ftp://ftp.cac.washington.edu/mail/imap.vs.pop" />
+<link r:resource="http://faqs.org/faqs/mail/addressing/" />
+<link r:resource="http://www.faqs.org/faqs/mail/mime-faq/mime0/" />
+<link r:resource="http://www.faqs.org/faqs/mail/mailclient-faq/" />
+<link r:resource="http://www.mythic-beasts.com/~pdw/cgi-bin/emailvalidate" />
+<link r:resource="http://www.emailxt.com/" />
+<link r:resource="http://switzernet.com/public/091017-support-numbers/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/Mail/RFCs">
+<catid>375473</catid>
+<link r:resource="http://tools.ietf.org/html/rfc1566" />
+<link r:resource="http://tools.ietf.org/html/rfc1869" />
+<link r:resource="http://tools.ietf.org/html/rfc1893" />
+<link r:resource="http://tools.ietf.org/html/rfc974" />
+<link r:resource="http://tools.ietf.org/html/rfc2049" />
+<link r:resource="http://tools.ietf.org/html/rfc2048" />
+<link r:resource="http://tools.ietf.org/html/rfc2047" />
+<link r:resource="http://tools.ietf.org/html/rfc2045" />
+<link r:resource="http://tools.ietf.org/html/rfc2033" />
+<link r:resource="http://tools.ietf.org/html/rfc2046" />
+<link r:resource="http://tools.ietf.org/html/rfc2060" />
+<link r:resource="http://tools.ietf.org/html/rfc821" />
+<link r:resource="http://tools.ietf.org/html/rfc822" />
+<link r:resource="http://tools.ietf.org/html/rfc1123" />
+<link r:resource="http://tools.ietf.org/html/rfc1939" />
+<link r:resource="http://tools.ietf.org/html/rfc2821" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/NNTP">
+<catid>375528</catid>
+<link r:resource="http://mcntp.sourceforge.net/" />
+<link r:resource="http://tools.ietf.org/wg/usefor/" />
+<link r:resource="http://www.tin.org/docs.html" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/NNTP/RFCs">
+<catid>1023276</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2980" />
+<link r:resource="http://tools.ietf.org/html/rfc977" />
+<link r:resource="http://tools.ietf.org/html/rfc1036" />
+<link r:resource="http://tools.ietf.org/html/rfc3977" />
+<link r:resource="http://tools.ietf.org/html/rfc3501" />
+<link r:resource="http://tools.ietf.org/html/rfc4643" />
+<link r:resource="http://tools.ietf.org/html/rfc4644" />
+<link r:resource="http://tools.ietf.org/html/rfc4642" />
+<link r:resource="http://tools.ietf.org/html/rfc4707" />
+<link r:resource="http://tools.ietf.org/html/rfc5536" />
+<link r:resource="http://tools.ietf.org/html/rfc5537" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/NTP">
+<catid>375485</catid>
+<link r:resource="http://tools.ietf.org/html/rfc1305" />
+<link r:resource="http://tools.ietf.org/html/rfc2030" />
+<link r:resource="http://www.umich.edu/~rsug/services/ntp.html" />
+<link r:resource="http://geodsoft.com/howto/timesync/" />
+<link r:resource="http://www.eecis.udel.edu/~mills/ntp.html" />
+<link r:resource="http://www.ntp.org/" />
+<link r:resource="http://www.oreilly.com/catalog/hardcisco/chapter/ch10.html" />
+<link r:resource="http://www.linuxdevcenter.com/pub/a/linux/2003/01/02/ntp.html" />
+<link r:resource="http://www.ntp.org/ntpfaq/NTP-a-faq.htm" />
+<link r:resource="http://www.pool.ntp.org/" />
+<link r:resource="http://www.endruntechnologies.com/pdf/NTP-Intro.pdf" />
+<link r:resource="http://safari.oreilly.com/0596003676" />
+<link r:resource="http://pages.cs.wisc.edu/~plonka/netgear-sntp/" />
+<link r:resource="http://support.ntp.org/bin/view/Support/WebHome" />
+<link r:resource="http://support.ntp.org/bin/view/Servers/WebHome" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/PPP">
+<catid>375458</catid>
+<link r:resource="http://www.klos.com/" />
+<link r:resource="http://www.animats.com/simpleppp/simpleppp.html" />
+<link r:resource="http://www.trumpet.com.au/" />
+<link r:resource="http://www.devolution.com/~slouken/projects/ppptcp/" />
+<link r:resource="http://www.kevin-wells.com/net/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/RTSP">
+<catid>375483</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2326" />
+<link r:resource="http://sourceforge.net/projects/rtspspec" />
+<link r:resource="http://www.dmn.tzi.org/ietf/mmusic/" />
+<link r:resource="http://rtpstream.com/" />
+<link r:resource="http://www.cs.columbia.edu/~hgs/rtsp/" />
+<link r:resource="http://datatracker.ietf.org/wg/mmusic/charter/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/RWhois">
+<catid>375461</catid>
+<link r:resource="http://projects.arin.net/rwhois/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/SIP">
+<catid>375474</catid>
+<link1 r:resource="http://www.cs.columbia.edu/sip/"></link1>
+<link r:resource="http://www.sipcenter.com/" />
+<link r:resource="http://www.softfront.co.jp/en/" />
+<link r:resource="http://www.sipforum.org/" />
+<link r:resource="http://www.sipfoundry.org/" />
+<link r:resource="http://www.firsthandtech.com/" />
+<link r:resource="http://www.siptutorial.net/SIP/" />
+<link r:resource="http://www.sipguy.com/" />
+<link r:resource="http://www.sip-dojo.com/" />
+<link r:resource="http://voip-sip.org/" />
+<link r:resource="http://www.pjsip.org/" />
+<link r:resource="http://sipvicious.googlecode.com/" />
+<link r:resource="http://switzernet.com/people/emin-gabrielyan/070501-sip-docs/" />
+<link r:resource="http://datatracker.ietf.org/wg/sip/" />
+<link r:resource="http://www.sipwiz.com/" />
+<link r:resource="https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c07-sip" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/SIP/Service_Providers">
+<catid>375475</catid>
+<link r:resource="http://www.simwood.com/" />
+<link r:resource="https://www.ekiga.net/" />
+<link r:resource="http://www.freedomiq.com/" />
+<link r:resource="http://www.cheapvoipinc.com/" />
+<link r:resource="http://www.endstream.com/" />
+<link r:resource="http://www.sipcentric.com/" />
+<link r:resource="http://www.nexvortex.com/" />
+<link r:resource="https://www.getonsip.com/" />
+<link r:resource="http://www.ietherspeak.com/" />
+<link r:resource="http://enterpriseip.xo.com/" />
+<link r:resource="http://www.onsip.com/" />
+<link r:resource="http://www.voiceflex.com/" />
+<link r:resource="http://www.sipnms.com/" />
+<link r:resource="http://www.questblue.com/" />
+<link r:resource="http://www.sipsaver.com/" />
+<link r:resource="http://www.ivr.com/" />
+<link r:resource="http://www.sipsorcery.com/" />
+<link r:resource="http://www.sipsrus.com/" />
+<link r:resource="http://www.peoplefone.ch/" />
+<link r:resource="http://termination.worldcall.be/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/SNMP">
+<catid>375440</catid>
+<link r:resource="http://www.simple-times.org/" />
+<link r:resource="http://www.simpleweb.org/" />
+<link r:resource="http://www.loriotpro.com/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/SNMP/FAQs,_Help,_and_Tutorials">
+<catid>375444</catid>
+<link r:resource="http://www.alvestrand.no/objectid/" />
+<link r:resource="http://www.ibr.cs.tu-bs.de/ietf/snmpv3/" />
+<link r:resource="http://www.muonics.com/" />
+<link r:resource="http://www.snmplink.org/" />
+<link r:resource="http://www.ibr.cs.tu-bs.de/projects/snmpv3/" />
+<link r:resource="http://www.muonics.com/Docs/MIBSmithy/UserGuide/commonerrors.php" />
+<link r:resource="http://www.faqs.org/faqs/snmp-faq/" />
+<link r:resource="http://www.snmpcenter.com/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/SNMP/MIBs">
+<catid>375442</catid>
+<link r:resource="http://www.cisco.com/public/sw-center/netmgmt/cmtk/mibs.shtml" />
+<link r:resource="http://www.mibdepot.com/" />
+<link r:resource="http://tools.cisco.com/Support/SNMP/do/BrowseOID.do?local=en" />
+<link r:resource="http://trac.tools.ietf.org/area/ops/trac/wiki/mib-review-tools" />
+<link r:resource="http://www.enterasys.com/support/mibs.aspx" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/SNMP/MIBs/RFCs">
+<catid>375443</catid>
+<link r:resource="http://tools.ietf.org/html/rfc1450" />
+<link r:resource="http://tools.ietf.org/html/rfc1447" />
+<link r:resource="http://tools.ietf.org/html/rfc2515" />
+<link r:resource="http://tools.ietf.org/html/rfc2513" />
+<link r:resource="http://tools.ietf.org/html/rfc2558" />
+<link r:resource="http://tools.ietf.org/html/rfc2591" />
+<link r:resource="http://tools.ietf.org/html/rfc2592" />
+<link r:resource="http://tools.ietf.org/html/rfc2605" />
+<link r:resource="http://tools.ietf.org/html/rfc1212" />
+<link r:resource="http://tools.ietf.org/html/rfc1213" />
+<link r:resource="http://tools.ietf.org/html/rfc2496" />
+<link r:resource="http://tools.ietf.org/html/rfc2494" />
+<link r:resource="http://tools.ietf.org/html/rfc2466" />
+<link r:resource="http://tools.ietf.org/html/rfc2465" />
+<link r:resource="http://tools.ietf.org/html/rfc2457" />
+<link r:resource="http://tools.ietf.org/html/rfc2495" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/SNMP/RFCs">
+<catid>375445</catid>
+<link r:resource="http://tools.ietf.org/html/rfc1446" />
+<link r:resource="http://tools.ietf.org/html/rfc1445" />
+<link r:resource="http://tools.ietf.org/html/rfc1449" />
+<link r:resource="http://tools.ietf.org/html/rfc1448" />
+<link r:resource="http://tools.ietf.org/html/rfc1444" />
+<link r:resource="http://tools.ietf.org/html/rfc1443" />
+<link r:resource="http://tools.ietf.org/html/rfc1442" />
+<link r:resource="http://tools.ietf.org/html/rfc2575" />
+<link r:resource="http://tools.ietf.org/html/rfc2574" />
+<link r:resource="http://tools.ietf.org/html/rfc2572" />
+<link r:resource="http://tools.ietf.org/html/rfc2570" />
+<link r:resource="http://tools.ietf.org/html/rfc2571" />
+<link r:resource="http://tools.ietf.org/html/rfc2576" />
+<link r:resource="http://tools.ietf.org/html/rfc2573" />
+<link r:resource="http://tools.ietf.org/html/rfc2273" />
+<link r:resource="http://tools.ietf.org/html/rfc2271" />
+<link r:resource="http://tools.ietf.org/html/rfc2272" />
+<link r:resource="http://tools.ietf.org/html/rfc1503" />
+<link r:resource="http://tools.ietf.org/html/rfc1303" />
+<link r:resource="http://tools.ietf.org/html/rfc1353" />
+<link r:resource="http://tools.ietf.org/html/rfc1352" />
+<link r:resource="http://tools.ietf.org/html/rfc1351" />
+<link r:resource="http://tools.ietf.org/html/rfc1089" />
+<link r:resource="http://tools.ietf.org/html/rfc1215" />
+<link r:resource="http://tools.ietf.org/html/rfc1228" />
+<link r:resource="http://tools.ietf.org/html/rfc1270" />
+<link r:resource="http://tools.ietf.org/html/rfc1187" />
+<link r:resource="http://tools.ietf.org/html/rfc1157" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/SNMP/Service_Providers">
+<catid>375441</catid>
+<link r:resource="http://www.snmptest.com/" />
+<link r:resource="http://www.comtekservices.com/" />
+<link r:resource="http://www.bearmtnsw.com/" />
+<link r:resource="http://www.mg-soft.si/" />
+<link r:resource="http://www.snmp.co.uk/" />
+<link r:resource="http://www.snmp.com/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/SNMP/Tools">
+<catid>375446</catid>
+<link r:resource="http://www.net-snmp.org/" />
+<link r:resource="http://www.ireasoning.com/" />
+<link r:resource="http://www.oidview.com/oidview.html" />
+<link r:resource="http://www.snmpsource.com/" />
+<link r:resource="http://www.unicoi.com/product_suite_pages/fusion_rtos_product_suite.htm" />
+<link r:resource="http://www.unicoi.com/fusion_net/fusion_snmp_mib_compiler.htm" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/SSH">
+<catid>375447</catid>
+<link1 r:resource="http://www.openssh.com/"></link1>
+<link r:resource="http://www.employees.org/~satch/ssh/faq/" />
+<link r:resource="http://www.free.lp.se/fish/rfc.txt" />
+<link r:resource="http://heimhardt.com/htdocs/ssh.html" />
+<link r:resource="http://www.cert.org/advisories/CA-1999-15.html" />
+<link r:resource="http://www.itworld.com/LWD010410sshtips" />
+<link r:resource="http://www.ssh.com/" />
+<link r:resource="http://sshwindows.sourceforge.net/" />
+<link r:resource="http://datatracker.ietf.org/wg/secsh/charter/" />
+<link r:resource="http://phpseclib.sourceforge.net/" />
+<link r:resource="http://techinternets.com/chrootjailv6" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/SSL-TLS">
+<catid>375486</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2246" />
+<link r:resource="http://tools.ietf.org/html/rfc2487" />
+<link r:resource="http://tools.ietf.org/html/rfc2818" />
+<link r:resource="http://www.faqs.org/faqs/computer-security/ssl-talk-faq/" />
+<link r:resource="http://www.kegel.com/ssl/" />
+<link r:resource="http://www.cabforum.org/" />
+<link r:resource="http://www.fortify.net/sslcheck.html" />
+<link r:resource="http://www.schneier.com/paper-ssl.html" />
+<link r:resource="http://www.mozilla.org/projects/security/pki/nss/ssl/draft02.html" />
+<link r:resource="http://www.apache-ssl.org/" />
+<link r:resource="http://www.apacheweek.com/features/ssl" />
+<link r:resource="http://how2ssl.com/" />
+<link r:resource="http://www.sslshopper.com/" />
+<link r:resource="http://www.ssl-test.com/" />
+<link r:resource="http://datatracker.ietf.org/wg/tls/charter/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/SSL-TLS/Products_and_Tools">
+<catid>375489</catid>
+<link r:resource="http://www.stunnel.org/" />
+<link r:resource="http://www.modssl.org/" />
+<link r:resource="http://www.onsight.com/faq/stunnel/" />
+<link r:resource="http://www.rickk.com/sslwrap/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/Telnet">
+<catid>1021903</catid>
+<link r:resource="http://tools.ietf.org/html/rfc855" />
+<link r:resource="http://tools.ietf.org/html/rfc854" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/TFTP">
+<catid>375497</catid>
+<link r:resource="http://tools.ietf.org/html/rfc1785" />
+<link r:resource="http://tools.ietf.org/html/rfc2090" />
+<link r:resource="http://www.cs.rit.edu/~hpb/Man/_Man_SunOS_4.1.3_html/html8/tftpd.8c.html" />
+<link r:resource="http://kin.klever.net/pumpkin/" />
+<link r:resource="http://www.solarwinds.com/products/freetools/free_TFTP_server.aspx" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/Transport_Layer">
+<catid>375462</catid>
+<link r:resource="ftp://ftp.isi.edu/end2end/" />
+<link r:resource="http://www.tcpipworld.com/" />
+<link r:resource="http://ports.my-addr.com/" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/Transport_Layer/DCCP">
+<catid>1022766</catid>
+<link r:resource="http://datatracker.ietf.org/wg/dccp/" />
+<link r:resource="http://tools.ietf.org/html/rfc4340" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/Transport_Layer/RSVP">
+<catid>1022772</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2205" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/Transport_Layer/SCTP">
+<catid>375468</catid>
+<link r:resource="http://tools.ietf.org/html/rfc3286" />
+<link r:resource="http://tools.ietf.org/html/rfc3758" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/Transport_Layer/TCP">
+<catid>375464</catid>
+<link r:resource="http://www.web100.org/" />
+<link r:resource="http://www.kohala.com/start/ttcp.html" />
+<link r:resource="http://www.private.org.il/tcpip_rl.html" />
+<link r:resource="http://www.benzedrine.cx/ackpri.html" />
+<link r:resource="http://www.isi.edu/tcpsat/papers.html" />
+<link r:resource="http://www.cs.princeton.edu/research/techreps/TR-616-00" />
+<link r:resource="http://cities.lk.net/tcp.html" />
+<link r:resource="http://www.icir.org/tfrc/" />
+<link r:resource="http://www.icir.org/floyd/" />
+<link r:resource="http://research.microsoft.com/apps/pubs/default.aspx?id=70189" />
+<link r:resource="http://www.firewall.cx/networking-topics/protocols/tcp.html" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/Transport_Layer/TCP/Implementations">
+<catid>375465</catid>
+<link r:resource="ftp://ftp.cs.purdue.edu/pub/Xinu/" />
+<link r:resource="ftp://ftp.freebsd.org/pub/FreeBSD/FreeBSD-stable/src/sys/netinet/" />
+<link r:resource="ftp://ftp.netbsd.org/pub/NetBSD/NetBSD-release/src/sys/netinet/" />
+<link r:resource="ftp://ftp.openbsd.org/pub/OpenBSD/src/sys/netinet/" />
+<link r:resource="http://www.sics.se/~adam/lwip/" />
+<link r:resource="http://www.cmx.com/micronet.htm" />
+<link r:resource="http://www.jopdesign.com/ejip/" />
+<link r:resource="http://www.sevenstax.com/" />
+<link r:resource="http://www.sics.se/~adam/miniweb/" />
+<link r:resource="http://www.sics.se/~adam/uip/" />
+<link r:resource="http://www.iniche.com/nichestack.php" />
+<link r:resource="http://www.unicoi.com/fusion_net/fusion_tcp_ip.htm" />
+<link r:resource="http://www.ezstack.com/" />
+<link r:resource="http://alumni.soe.ucsc.edu/~chris/sctcp/sctcp.html" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/Transport_Layer/TCP/RFCs">
+<catid>375466</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2581" />
+<link r:resource="http://tools.ietf.org/html/rfc1323" />
+<link r:resource="http://tools.ietf.org/html/rfc3042" />
+<link r:resource="http://tools.ietf.org/html/rfc793" />
+<link r:resource="http://tools.ietf.org/html/rfc2988" />
+<link r:resource="http://tools.ietf.org/html/rfc2018" />
+<link r:resource="http://tools.ietf.org/html/rfc2415" />
+<link r:resource="http://tools.ietf.org/html/rfc2883" />
+<link r:resource="http://tools.ietf.org/html/rfc2861" />
+<link r:resource="http://tools.ietf.org/html/rfc3168" />
+<link r:resource="http://www.rfc-editor.org/rfc/bcp/bcp28.txt" />
+<link r:resource="http://tools.ietf.org/html/rfc3390" />
+<link r:resource="http://tools.ietf.org/html/rfc3782" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/Transport_Layer/TCP/RFCs/Obsolete_or_Historic">
+<catid>375467</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2582" />
+<link r:resource="http://tools.ietf.org/html/rfc2001" />
+<link r:resource="http://tools.ietf.org/html/rfc1072" />
+<link r:resource="http://tools.ietf.org/html/rfc1185" />
+<link r:resource="http://tools.ietf.org/html/rfc2414" />
+<link r:resource="http://tools.ietf.org/html/rfc2481" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/Transport_Layer/UDP">
+<catid>375463</catid>
+<link r:resource="http://tools.ietf.org/html/rfc768" />
+<link r:resource="http://www.networksorcery.com/enp/protocol/udp.htm" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/WHOIS">
+<catid>1022900</catid>
+<link r:resource="http://tools.ietf.org/html/rfc3912" />
+</topic>
+<topic r:id="Top/Computers/Internet/Protocols/XMPP">
+<catid>1022809</catid>
+<link r:resource="http://xmpp.org/" />
+<link r:resource="http://xmpp.net/" />
+</topic>

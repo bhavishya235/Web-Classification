@@ -1,0 +1,124 @@
+<topic r:id="Top/Computers/Software/Information_Retrieval">
+<catid>378962</catid>
+<link r:resource="http://ir.dcs.gla.ac.uk/" />
+<link r:resource="http://www.washington.edu/willow/home.html" />
+<link r:resource="http://www.dcs.gla.ac.uk/Keith/Preface.html" />
+<link r:resource="http://trec.nist.gov/" />
+<link r:resource="http://ciir.cs.umass.edu/" />
+<link r:resource="http://www.multicentric.com/" />
+<link r:resource="http://www.searchtools.com/info/info-retrieval.html" />
+<link r:resource="http://agents.umbc.edu/Topics/Related_Topics/Information_retrieval_and_knowledge_management/index.shtml" />
+<link r:resource="http://www.cs.technion.ac.il/~gabr/resources/resources.html" />
+<link r:resource="http://web.tiscali.it/javaisis/" />
+<link r:resource="http://www.extensio.com/" />
+<link r:resource="http://www.collexis.com/" />
+<link r:resource="http://people.ischool.berkeley.edu/~hearst/irbook/" />
+<link r:resource="http://www.indexdata.com/" />
+<link r:resource="http://www.i2group.com/" />
+<link r:resource="http://www.enterprisesearchsummit.com/" />
+<link r:resource="http://www.enterprisesearcheurope.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Information_Retrieval/Fulltext">
+<catid>378969</catid>
+<link r:resource="http://www.opentext.com/" />
+<link r:resource="http://portal.unesco.org/ci/en/ev.php-URL_ID=2071&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html" />
+<link r:resource="http://www.htdig.org/" />
+<link r:resource="http://www.winocular.com/" />
+<link r:resource="http://www.megaputer.com/" />
+<link r:resource="http://www.thunderstone.com/" />
+<link r:resource="http://www.dtsearch.com/" />
+<link r:resource="http://www.searchexpress.com/" />
+<link r:resource="http://cheshire.berkeley.edu/" />
+<link r:resource="http://swish-e.org/" />
+<link r:resource="http://www.lextek.com/onix/" />
+<link r:resource="http://www.kesoftware.com/" />
+<link r:resource="http://www.freshstart.com/" />
+<link r:resource="http://www.dieselpoint.com/" />
+<link r:resource="http://webglimpse.net/" />
+<link r:resource="http://www2.bsn.de/Z39.50/" />
+<link r:resource="http://ww2.cs.mu.oz.au/mg/" />
+<link r:resource="http://www.indexdata.com/zebra" />
+<link r:resource="http://www.h5.com/" />
+</topic>
+<topic r:id="Top/Computers/Software/Information_Retrieval/Fulltext/Apache_Lucene">
+<catid>378971</catid>
+<link1 r:resource="http://lucene.apache.org/"></link1>
+<link r:resource="http://www.javaworld.com/jw-09-2000/jw-0915-lucene.html" />
+<link r:resource="http://lucene.apache.org/solr/" />
+<link r:resource="http://www.compass-project.org/" />
+<link r:resource="http://www.lucenetutorial.com/" />
+<link r:resource="http://www.supermind.org/" />
+<link r:resource="http://nutch.apache.org/" />
+<link r:resource="http://nlp.uned.es/~jperezi/Lucene-BM25/" />
+</topic>
+<topic r:id="Top/Computers/Software/Information_Retrieval/Fulltext/XML">
+<catid>378970</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Information_Retrieval/GILS">
+<catid>378973</catid>
+<link r:resource="http://lcweb.loc.gov/z3950/agency/" />
+</topic>
+<topic r:id="Top/Computers/Software/Information_Retrieval/Ranking">
+<catid>378963</catid>
+<link r:resource="http://infolab.stanford.edu/~backrub/google.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Information_Retrieval/Ranking/By_Content">
+<catid>378965</catid>
+<link r:resource="http://www10.org/cdrom/papers/317/" />
+<link r:resource="http://isp.imm.dtu.dk/thor/projects/multimedia/textmining/" />
+<link r:resource="http://www.cs.ust.hk/~dlee/Papers/ir/ieee-sw-rank.ps.gz" />
+<link r:resource="http://www.cs.berkeley.edu/~christos/ir.ps" />
+<link r:resource="http://www.dcs.gla.ac.uk/Keith/Chapter.6/Ch.6.html" />
+<link r:resource="http://www.dcc.uchile.cl/~rbaeza/iradsbook/irbook.html" />
+<link r:resource="http://goanna.cs.rmit.edu.au/~jz/fulltext/sigirforum98.pdf" />
+<link r:resource="http://www.is.informatik.uni-duisburg.de/bib/docs/Fuhr_92.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Information_Retrieval/Ranking/By_Context">
+<catid>378964</catid>
+<link r:resource="http://www2002.org/CDROM/refereed/127/" />
+<link1 r:resource="http://ilpubs.stanford.edu:8090/422/"></link1>
+<link r:resource="http://pr.efactory.de/" />
+<link r:resource="http://www2002.org/CDROM/poster/173.pdf" />
+<link r:resource="http://www.cs.ualberta.ca/~drafiei/papers/www9.ps" />
+<link1 r:resource="http://www.cs.cornell.edu/home/kleinber/auth.pdf"></link1>
+<link r:resource="http://www.almaden.ibm.com/cs/k53/clever.html" />
+<link r:resource="http://www.cs.technion.ac.il/~moran/r/PS/lm-feb01.ps" />
+<link r:resource="http://www.cs.washington.edu/homes/pedrod/papers/nips01b.pdf" />
+<link r:resource="http://www2002.org/CDROM/refereed/629/" />
+<link r:resource="http://www2002.org/CDROM/poster/171.pdf" />
+<link r:resource="http://www2002.org/CDROM/poster/165.pdf" />
+<link r:resource="http://www2002.org/CDROM/refereed/643/" />
+<link r:resource="http://www.cs.cmu.edu/~cohn/papers/nips00.pdf" />
+<link r:resource="http://trec.nist.gov/pubs/trec8/papers/acsys.pdf" />
+<link r:resource="http://trec.nist.gov/pubs/trec9/papers/unine9.pdf" />
+<link r:resource="http://www10.org/cdrom/papers/314/" />
+<link r:resource="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=6285999" />
+<link r:resource="http://www2003.org/cdrom/papers/refereed/p007/p7-abiteboul.html" />
+<link r:resource="http://www-db.stanford.edu/~backrub/pageranksub.ps" />
+<link r:resource="http://www-db.stanford.edu/~taherh/papers/encoding-pagerank.pdf" />
+<link r:resource="http://www2003.org/cdrom/papers/refereed/p185/html/p185-jeh.html" />
+<link r:resource="http://www.research.rutgers.edu/~davison/discoweb/" />
+</topic>
+<topic r:id="Top/Computers/Software/Information_Retrieval/References">
+<catid>378968</catid>
+<link r:resource="http://www.dcs.gla.ac.uk/ir/ir_resources.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Information_Retrieval/Visual_Information">
+<catid>378966</catid>
+<link r:resource="http://www.virage.com/" />
+<link r:resource="http://infosthetics.com/" />
+<link r:resource="http://www.visualcomplexity.com/vc/" />
+<link r:resource="http://www.cs.umd.edu/~ben/" />
+<link r:resource="http://www.datadreamer.com/research/" />
+<link r:resource="http://www.oystersoft.com/sshow/archive.html" />
+</topic>
+<topic r:id="Top/Computers/Software/Information_Retrieval/Visual_Information/Chaomei_Chen">
+<catid>378967</catid>
+</topic>
+<topic r:id="Top/Computers/Software/Information_Retrieval/Web_Clustering">
+<catid>378972</catid>
+<link1 r:resource="http://vivisimo.com/"></link1>
+<link r:resource="http://sourceforge.net/projects/carrot2/" />
+<link r:resource="http://dowser.sourceforge.net/" />
+<link r:resource="http://snaket.di.unipi.it/" />
+</topic>

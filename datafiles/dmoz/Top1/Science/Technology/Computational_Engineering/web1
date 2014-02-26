@@ -1,0 +1,798 @@
+====================<http://www.mgnet.org/>====================
+<html>
+
+<head>
+<title>MGNet Home Page</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<style>
+<!--
+-->
+</style>
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=1.0)">
+
+<meta name="keywords" content="multigrid, multilevel, multiscale,
+domain decomposition, aggregation, disaggregation, defect correction,
+partial differential equations, mathematics, linear algebra, nonlinear methods,
+optimization, parallel computing, tutorials, conferences, bibliography,
+free software, grids, adaptive grid refinement, coarsening, wavelets, interpolation,
+computer science, physics, unicycles, bicycles, tricycles, tandems">
+<meta name="netinsert" content="0.0.1.11.6.7.1">
+<meta name="Microsoft Border" content="tb">
+</head>
+
+<body bgcolor="#ffffff" background="resources/bg-grids.png" text="#000000"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<link rel="icon" href="resources/mgnet-little.png" type="image/png" />
+<blockquote>
+  <blockquote>
+    <h1><map name="FPMap0_I1">
+    <area href="mgnet.html" shape="rect" coords="7, 9, 91, 91"></map>
+    <img src="resources/anim-mgnet.gif" align="center" alt="anim-mgnet.gif (4038 bytes)" border="0" usemap="#FPMap0_I1" width="100" height="100"><img src="resources/mgnet.png" align="center" alt="MGNet" width="225" height="50"><img border="0" src="resources/year.png" width="75" height="73"></h1>
+    <p><map name="FPMap1_I1">
+    <area href="mgnet-sites.html" shape="rect" coords="5, 4, 166, 34">
+    <area href="mgnet-codes.html" shape="rect" coords="4, 36, 166, 71">
+    <area href="mgnet-how2sub.html" shape="rect" coords="3, 74, 166, 103">
+    <area href="mgnet-index.html" shape="rect" coords="4, 105, 165, 135">
+    <area href="mgnet-digests.html" shape="rect" coords="174, 3, 340, 35">
+    <area href="#Subscription" shape="rect" coords="173, 38, 341, 70">
+    <area href="mgnet-how2ret.html" shape="rect" coords="173, 73, 340, 104">
+    <area href="mgnet-links.html" shape="rect" coords="176, 106, 339, 135">
+    <area href="mgnet-bib.html" shape="rect" coords="348, 5, 513, 35">
+    <area href="mgnet-papers.html" shape="rect" coords="349, 39, 513, 71">
+    <area href="mgnet-books.html" shape="rect" coords="350, 74, 512, 107">
+    <area href="mgnet-tuts.html" shape="rect" coords="350, 109, 511, 135">
+    <area href="mgnet-conferences.html" coords="518, 4, 684, 35" shape="rect">
+    <area href="mgnet-conferences.html#VirtualProceedings" coords="518, 39, 684, 71" shape="rect">
+    <area href="#Sponsors" shape="rect" coords="518, 74, 684, 107">
+    <area href="mgnet-mystery.html" shape="rect" coords="518, 109, 684, 135"></map>
+    <img rectangle=" (469,48) (580, 69)  ../mgnet.html#Sponsors" rectangle=" (468,28) (579, 49)  http://www.isc.tamu.edu/~ewing" rectangle=" (468,6) (582, 28)  ../mgnet-links.html" rectangle=" (352,50) (464, 69)  ../mgnet.html#Sponsors" rectangle=" (352,28) (465, 49)  ../mgnet-conferences.html#VirtualProceedings" rectangle=" (352,6) (465, 29)  ../mgnet-conferences.html" rectangle=" (237,50) (349, 69)  ../mgnet-tuts.html" rectangle=" (236,29) (348, 49)  ../mgnet-bib.html" rectangle=" (237,5) (349, 28)  ../mgnet-papers.html" rectangle=" (119,48) (233, 69)  ../mgnet-how2ret.html" rectangle=" (120,29) (233, 49)  ../mgnet.html#Subscription" rectangle=" (120,6) (232, 29)  ../mgnet-digests.html" rectangle=" (3,47) (116, 69)  ../mgnet-how2sub.html" rectangle=" (0,28) (116, 47)  ../mgnet-codes.html" rectangle=" (0,7) (116, 29)  ../mgnet-sites.html" src="resources/mgnet-menu.png" alt="mgnet-me (6148 bytes)" border="0" usemap="#FPMap1_I1" width="687" height="136"></p>
+    <p>&nbsp;<br>&nbsp;</p>
+  </blockquote>
+</blockquote>
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><!--msnavigation--><td valign="top">
+
+<blockquote>
+  <blockquote>
+    <h2><font color="#FF0000">Introduction</font>&nbsp; </h2>
+    <p>&nbsp;&nbsp;&nbsp; This is a repository for information related to multigrid,
+    multilevel, multiscale, aggregation, defect correction, and domain decomposition methods.
+    These methods are used primarily by scientists and engineers to solve partial differential
+    equations on serial or parallel computers.</p>
+    <p>&nbsp;&nbsp;&nbsp; Multigrid has the property of using linear time and space
+    to solve a collection of interesting problems, thus making it a very fast, robust solver.
+    Domain decomposition methods are extremely useful for solving problems on oddly shaped
+    domains or for parallelizing standard iterative methods.</p>
+    <p>&nbsp;&nbsp;&nbsp; MGNet is large.&nbsp; There
+    are about 2,000 files in it.&nbsp; You may want to look at the <a href="mgnet-index.html">index</a>
+    to get a general idea what is here.&nbsp; MGNet started out as an anonymous ftp site in
+    1991, but changed a few years later into a mirrored web site once the world wide web was
+    invented.</p>
+    <p>&nbsp;&nbsp;&nbsp; While MGNet tries to be the
+    first and last place anyone interested in multigrid or domain decomposition methods needs
+    to look, this is obviously not always possible. I keep a page of <a href="mgnet-links.html">hyperlinks</a> to some other sources of interest for these
+    communities. Please <a href="mailto:mgnet@cs.yale.edu">send</a> suggestions for other
+    links.</p>
+    <p>&nbsp;&nbsp;&nbsp; You may <a href="mgnet-how2ret.html">retrieve</a> any file in MGNet that has read permission. If you
+    have problems determining what file types are (and how to unpack them) in MGNet, you might
+    want to review my <a href="mgnet-tgz-unpack.html">explanation</a> file.</p>
+    <p>&nbsp;&nbsp;&nbsp; You may also add files to the
+    archive through a <a href="mgnet-how2sub.html">submission process</a>. &nbsp; <em><font color="#FF0000">MGNet always needs more.</font>&nbsp; </em>There is no professional staff
+    producing this site.&nbsp; I rely solely on volunteers providing information on a very
+    regular basis (monthly to be exact).</p>
+    <p><b><font color="#ff0000">&nbsp;&nbsp;&nbsp;</font></b> <b><font color="#ff0000">Warning</font></b>:
+    Unless stated otherwise, everything in this repository is <i>use at your own risk</i>.
+    There are no warranties implied or expressed, not even that anything does what it claims
+    to do or will even install.</p>
+    <h3><a href="mgnet-digests.html">Newsletters</a></h3>
+    <p>&nbsp;&nbsp;&nbsp; At the beginning of each
+    month, a newsletter is sent out to the entire MGNet mailing list. To post a message to the
+    MGNet newsletter, send electronic mail to <ul>
+      <p><a link rev="made" href="mailto:mgnet@cs.yale.edu">mgnet@cs.yale.edu</a> </p>
+    </ul>
+    <p>The newsletter <i>always</i> needs more content. Items that are sought after include
+    technical discussions (but not tirades), meeting and course information relevant to
+    multigrid, and abstracts for codes, papers, and books.&nbsp; Of particular interest are
+    citations to published papers.</p>
+    <p><a name="Subscription"></a>&nbsp;&nbsp;&nbsp; You can receive a <font color="#ff0000">free subscription</font> to the newsletter by
+    sending a message to <ul>
+      <p><a link href="mailto:mgnet-requests@cs.yale.edu">mgnet-requests@cs.yale.edu</a> </p>
+    </ul>
+    <p>with your name and electronic mail address in the message. You will also receive more
+    information about MGNet when your request is processed.&nbsp; <strong><font color="#FF0000">Note:</font></strong>&nbsp; By <em>free</em>, I mean that I do not charge
+    you for the newsletters.&nbsp; Check with your Internet provider for its charges, if any,
+    for receiving an e-mail message.</p>
+    <h3><a href="mgnet-papers.html">Preprints</a></h3>
+    <p>&nbsp;&nbsp;&nbsp; MGNet contains a large
+    number of papers on many topics, not just multigrid. However, most papers have a partial
+    differential equation or two in them and are aimed at an audience of scientists and
+    engineers.</p>
+    <h3><font color="#0000FF"><a href="mgnet-books.html">Out of Print Books</a></font></h3>
+    <p>&nbsp;&nbsp;&nbsp; MGNet contains one out of print book (so far).&nbsp;
+    It is Pieter Wesseling's <a href="mgnet-books-wesseling.html">An
+    Introduction to Multigrid Methods</a> (1992).&nbsp; Hopefully, more will be
+    put here.</p>
+    <h3><a href="mgnet-bib.html">Bibliography</a></h3>
+    <p>&nbsp;&nbsp;&nbsp; MGNet's bibliography grows
+    whenever new entries come to the attention of its authors. (Please send yours.) This is a
+    large BibTeX database which you are free to use. The bibliography is available as a
+    citable document, too.</p>
+    <h3><a href="mgnet-tuts.html">Tutorials</a></h3>
+    <p>&nbsp;&nbsp;&nbsp; If you are new to the
+    multigrid, adaptive grid refinement, or domain decomposition fields, or just wonder what
+    MGNet is all about, look here. There are pointers to some rather nice tutorials on the
+    subjects.</p>
+    <h3><a href="mgnet-codes.html">Free Software</a></h3>
+    <p>&nbsp;&nbsp;&nbsp; A number of software
+    packages are stored on MGNet. Some are public domain, some are copyrighted, and some may
+    someday be copyrighted. If you have a multigrid, domain decomposition, or parallel code or
+    package, you can place a copy in MGNet, too.</p>
+    <h3><a href="mgnet-conferences.html#VirtualProceedings">Virtual Proceedings</a></h3>
+    <p>&nbsp;&nbsp;&nbsp; Several multigrid
+    conferences have a habit of publishing pre-proceedings or electronic proceedings. The
+    Copper Mountain multigrid conferences (held on odd numbered years in April when the snow
+    is still good for skiing) and the GAMM workshops on parallel multigrid (held in Germany
+    and Austria from time to time at rather nice places) are examples of this.</p>
+    <p>&nbsp;&nbsp;&nbsp; Find out why multigrid and
+    domain decomposition are such nice fields to work in.</p>
+    <h3><a href="mgnet-conferences.html">Conference Announcements</a></h3>
+    <p>&nbsp;&nbsp;&nbsp; Numerous conferences are
+    announced months in advance. Here are a some that would interest MGNet's audience. This
+    area of MGNet changes often.</p>
+    <h3><a href="http://na.uni-tuebingen.de/~hiptmair">Mystery Link</a></h3>
+    <p>&nbsp;&nbsp;&nbsp; This changes from time to
+    time.&nbsp; The goal is for it to change once a week, but monthly seems to be the
+    frequency at the moment.</p>
+    <h3><a name="Sponsors"></a><font color="#0000FF">The Sponsors</font></h3>
+    <p>&nbsp;&nbsp;&nbsp; MGNet is supported in part by</p>
+    <blockquote>
+      <p>University of Kentucky, <a href="http://www.ccs.uky.edu">Center for Computational Sciences</a>, Lexington,
+      Kentucky, USA.</p>
+      <p><a href="http://www.cs.yale.edu">Yale University</a>, Department of Computer Science,
+      New Haven, Connecticut, USA.</p>
+      <p><a href="http://www.cerfacs.fr">CERFACS</a>, Parallel Algorithms Group, Toulouse,
+      France.</p>
+      <p><a href="http://www.nchc.gov.tw">National Center for High-Performance Computing</a> (NCHC),
+      Hsinchu, Taiwan.</p>
+      <p><a href="http://www.u-tokyo.ac.jp">University of Tokyo</a>, Tokyo, Japan.</p>
+      <p><a href="http://www.tat.physik.uni-tuebingen.de">Universit&auml;t T&uuml;bingen</a>, T&uuml;bingen, Germany.</p>
+      <p>The <a href="http://www.nsf.gov">National Science Foundation</a> through grant awards
+      DMS-9707040 and ACR-9721388.
+      </p>
+    </blockquote>
+    <p>Each of these institutions puts up real resources to support MGNet:&nbsp;
+    in the form of computer access, mirroring facilities, or grant support to
+    projects that are related to MGNet.&nbsp; However, none of these
+    institutions takes any responsibility for any of the contents or opinions
+    expressed within and might even disagree with them.</p>
+    <p>&nbsp;&nbsp;&nbsp; IBM's Research Division was a sponsor from 1991-1996. In addition, many people have
+    contributed suggestions and their own time to make MGNet a success. If you have a
+    suggestion, please send me a note.</p>
+  </blockquote>
+</blockquote>
+
+<!--msnavigation--></td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+<blockquote>
+  <blockquote>
+    <p>Cheers,<br>
+    <a href="mailto:cdouglas@na-net.ornl.gov">Craig C. Douglas</a></p>
+    <p>Last modified:&nbsp; <script language="JavaScript">
+            <!--
+                document.write("<i>" + document.lastModified + "</i>");
+            // -->
+        </script></p>
+    <font size="-2"><table border="0" width="100%" height="5">
+      <tr>
+        <td width="20%"><a href="mgnet-sites.html">MGNet Sites</a></td>
+        <td width="20%"><a href="mgnet-digests.html">Newsletters</a></td>
+        <td width="20%"><a href="mgnet-bib.html">Bibliography</a>
+        </td>
+        <td width="20%"><a href="mgnet-conferences.html">Conferences</a></td>
+      </tr>
+      <tr>
+        <td width="20%"><a href="mgnet-codes.html">Free Software</a></td>
+        <td width="20%"><a href="#Subscription">Free Subscription</a></td>
+        <td width="20%"><a href="mgnet-papers.html">Preprints</a>
+        </td>
+        <td width="20%"><a href="mgnet-conferences.html#VirtualProceedings">
+        Proceedings</a></td>
+      </tr>
+      <tr>
+        <td width="20%"><a href="mgnet-how2sub.html">Adding to MGNet</a></td>
+        <td width="20%"><a href="mgnet-how2ret.html">Retrieving Files</a></td>
+        <td width="20%"><a href="mgnet-books.html">Books</a></td>
+        <td width="20%"><a href="#Sponsors">Sponsors</a></td>
+      </tr>
+      <tr>
+        <td width="20%"><a href="mgnet-index.html">Index</a></td>
+        <td width="20%"><a href="mgnet-links.html">Links</a></td>
+        <td width="20%"><a href="mgnet-tuts.html">Tutorials</a>
+        </td>
+        <td width="20%"><a href="mgnet-mystery.html">Mystery Link</a>
+        </td>
+      </tr>
+    </table></font>
+  </blockquote>
+</blockquote>
+</td></tr><!--msnavigation--></table></body></html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.lce.hut.fi/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+<head>
+<title>BECS / CoE in Computational Complex Systems Research (COSY)</title>
+<link rel="shortcut icon" href="http://www.lce.hut.fi/favicon.ico" type="image/x-icon" />
+<meta name="description" content="Department of Biomedical Engineering and Computational Science / Centre of Excellence in Computational Complex Systems Research, Aalto University, Helsinki University of Technology, Finland" />
+<meta name="keywords" content="computational, engineering, complex, systems, Aalto, Aalto University, science, laboratory, centre, excellence, helsinki, university, technology, finland" />
+
+<style type="text/css" title="Complex_style" media="all">
+	@import url(complex.css);
+    #home a:link, #home a:visited, #home a:link:hover, #home a:active {
+        background: none;
+	}
+</style>
+
+<script type="text/javascript">
+
+    function randomCosyImg() {
+        var logoPaths = new Array();
+        logoPaths[0] = "images/COSY_img_1.png";
+        logoPaths[1] = "images/COSY_img_2.png";
+        logoPaths[2] = "images/COSY_img_3.png";
+        logoPaths[3] = "images/COSY_img_4.png";
+        var iMax = logoPaths.length;
+        var logoNum = Math.floor(iMax * Math.random());
+        document.write('<img src="'+logoPaths[logoNum]+'" border="0" width="322" alt="" style="float: left;"/>');
+    }
+
+</script>
+
+<link rev="made" href="mailto:www@lce.hut.fi" />
+<meta http-equiv="imagetoolbar" content="no" />
+</head>
+<body>
+
+<div id="bg">
+
+<div id="heading">
+  <div id="lce_logo"><a href="http://www.lce.hut.fi/"><img src="images/img-cosy_logo.gif"
+  alt="CoE Homepage" /></a> </div>
+  <div id="title">
+	<h1>Centre of Excellence in <br>Computational Complex Systems Research</h1>
+    <!--<h2>Department of Biomedical Engineering and Computational Science</h2>-->
+  </div>
+  <div id="becs_logo"><a href="http://www.becs.tkk.fi/en/"><img src="images/BECS_logo_en.gif"
+  alt="BECS Homepage" width="275"/></a> </div>
+</div> 
+
+  <div id="main">
+    
+<script type="text/javascript">
+
+    function randomAaltoLogoEn() {
+
+        var logoPaths = new Array();
+        logoPaths[0] = "images/Aalto-logo_en_1.gif";
+        logoPaths[1] = "images/Aalto-logo_en_2.gif";
+        logoPaths[2] = "images/Aalto-logo_en_3.gif";
+        var iMax = logoPaths.length;
+        var logoNum = Math.floor(iMax * Math.random());
+        document.write('<a href="http://www.aalto.fi/en/" border="0" style="background: none;"><img src="'+logoPaths[logoNum]+'" border="0" width="230"/></a>');
+    }
+
+</script>
+
+
+
+    <div id="navi">
+      <ul>
+        <li id="home"><a href=".">COSY home</a></li>
+        <li id="contact"><a href="contact/">Contact</a></li>
+        <li id="personnel"><a href="personnel/">Personnel</a></li>
+        <li id="research"><a href="research/">Research</a></li>
+        <li id="publications"><a href="publications/">Publications</a></li>
+        <li id="teaching"><a href="http://www.becs.tkk.fi/en/studies/">Teaching</a></li>
+        <li id="open"><a href="http://www.becs.tkk.fi/fi/work/">Open Positions</a></li>
+        <li id="ict" class="last"><a href="http://www.becs.tkk.fi/ictecollective/">ICTeCollective</a></li>
+      </ul>
+    </div>
+
+    <div id="navi2">
+	  	<div id="logos">
+            <script type="text/javascript">
+                randomAaltoLogoEn();
+            </script>
+            <a href="http://www.becs.tkk.fi/bml/" style="background: none;"><img src="images/BML.jpg" alt=""/></a><br/>
+            <a href="http://www.aka.fi/en-GB/A/" style="background: none;"><img src="images/Academy_logo.gif" alt="" width="115" style="float: left; margin: 0 20px 15px 5px;"/></a>
+            <a href="http://www.tekes.fi/en/" style="background: none;"><img src="images/Tekes_logo.gif" alt="" width="105" style="float: left; margin: 0px 0px 15px 0px;"/></a>
+            <a href="http://cordis.europa.eu/fp7/home_en.html" style="background: none;"><img src="images/FP7_logo.gif" alt="" width="90" style="float: left; margin: 0px 20px;"/></a>
+            <a href="http://cordis.europa.eu/fp7/ict/programme/fet_en.html" style="background: none;"><img src="images/FET_logo.gif" alt="" width="70"            style="float: left; margin: 0px;"/></a>
+
+			<!--<img src="images/logos_new.gif" alt="Logos" style="margin: 0px;"/>-->
+		</div>
+
+        <div id="pubs">
+            <h3>Latest publications</h3>
+
+				<ul>
+
+
+
+                    <li><i>Palchykov, V.; Kaski, K.; Kertész, J.; Barabási, A.-L.; Dunbar, R.I.M.:</i>
+                    <a href="http://www.nature.com/srep/2012/120419/srep00370/full/srep00370.html" target="_blank">Sex differences in intimate relationships.</a>
+                    Scientific Reports, <span style="font-weight: bold;">DOI: 10.1038/srep00370 </span> (2012)
+
+                    <li><i>Viinikainen, M.; Kätsyri, J.; Sams, M.:</i>
+                    <a href="http://www.becs.tkk.fi/bml/pdf/viinikainen_et_al_2011.pdf">Representation of perceived sound valence in the human brain.</a>
+                    Human Brain Mapping, <span style="font-weight: bold;">DOI: 10.1002/hbm.21362</span> (2011)
+
+                    <li><i>Ahveninen, J.; Hämäläinen, M.; Jääskeläinen, I.P.; Ahlfors, S.P.;
+                    Huang, S.; Lin, F.-H.; Raij, T.; Sams, M.; Vasios, C.E.;
+                    Belliveau, J.W.:</i>
+                    <a href="http://dx.doi.org/10.1073/pnas.1016134108 ">Attention-driven auditory cortex short-term plasticity helps segregate relevant sounds from noise.</a>
+                    PNAS, <span style="font-weight: bold;">108</span> (2011)
+
+                    <!--<li><i>Karsai, M.; Kivelä, M.; Pan, R.K.; Kaski, K.; Kert&eacute;sz, J.; Barab&aacute;si, A.-L.; Saram&auml;ki, J.:</i>
+                    <a href="http://dx.doi.org/10.1103/PhysRevE.83.025102">Small but slow world: How network topology and burstiness slow down spreading.</a> Physical Review E, <span style="font-weight: bold;">83</span> (2011)-->
+
+                    <!--<li><i>I&ntilde;iguez, G.; Kert&eacute;sz, J.; Kaski, K.K. and Barrio, R.A.:</i>
+                    <a href="http://dx.doi.org/10.1103/PhysRevE.83.016111">Phase change in an opinion-dynamics model with separation of time scales.</a> Phys. Rev. E, <span style="font-weight: bold;">83</span> (2011)-->
+
+                    <!--<li><i>Miettinen, I.; Alku, P.; Salminen, N.; May, P.; Tiitinen, H.:</i>
+                    <a href="http://www.becs.tkk.fi/bml/pdf/miettinen_et_al_2011.pdf">Responsiveness of the human auditory cortex to degraded speech sounds: reduction of amplitude resolution vs. additive noise.</a>
+                    Brain Research, <span style="font-weight: bold;">1367</span> (2011)-->
+
+                    <!--<li><i>Kaski, Kimmo:</i>
+                        <a href="http://www.scienceandculture-isna.org/sept_oct_10/09%20Kimmo%20Kaski.pdf" target="_blank">Social complexity: can it be analyzed and modelled?</a> Science and Culture, <span style="font-weight: bold;">76</span> (2010)-->
+
+				    <!--<li><i>Kauramäki, Jaakko; Jääskelainen, Iiro P; Hari, Riitta; Möttönen, Riikka; Rauschecker, Josef P.; Sams, Mikko:</i>
+                        <a href="http://www.becs.tkk.fi/bml/pdf/kauramaki_2010.pdf">Lipreading and Covert Speech Production Similarly Modulate Human Auditory-Cortex Responses to Pure Tones.</a> The Journal of Neuroscience, <span style="font-weight: bold;">30</span> (2010)-->
+
+            		<!--<li><i>May, Patrick; Tiitinen, Hannu:</i>
+                    <a href="http://www.becs.tkk.fi/bml/pdf/may_tiitinen_2010.pdf">Mismatch negativity (MMN), the deviance-elicited auditory deflection, explained.</a> Psychophysiology, <span style="font-weight: bold;">47</span> (2010)-->
+
+                    <!--<li><i>Onnela, Jukka-Pekka; Reed-Tsochas, Felix:</i>
+                        <a href="http://www.pnas.org/content/early/2010/10/05/0914572107" target="_blank">Spontaneous emergence of social influence in online systems.</a> PNAS, <span style="font-weight: bold;">104</span> (2010)-->
+
+				</ul>
+        </div>
+
+        <!--
+	  	<a href="http://www.becs.tkk.fi/en/"><strong>BECS</strong>
+        <span><em>(Dept. of Biomedical Engineering and Computational Science)</em></span></a><br />
+        <a href="http://information.tkk.fi/en/"><strong>School of Science</strong></a><br />
+        <a href="http://www.tkk.fi/"><strong>Other Aalto University Schools</strong></a><br />
+        <a href="http://www.aalto.fi/en/"><strong>Aalto University</strong></a><br />
+        <a href="http://www.aka.fi/"><strong>Academy of Finland</strong></a><br />
+        <a href="http://www.tekes.fi/eng/"><strong>TEKES</strong></a><br />
+		<a href="http://www.becs.tkk.fi/intranet">BECS intranet</a>
+        -->
+    </div> 
+    <div id="container">
+      <!-- Tracer -->
+      <ul id="tracer">
+        <li><a href="http://www.aalto.fi/en/">Aalto University</a>
+	    &raquo; <a href="http://information.tkk.fi/en/">School of Science</a>
+	    &raquo; <a href="http://www.becs.tkk.fi/en/">BECS</a>
+        &raquo; <a href="http://www.lce.hut.fi/">COSY</a></li>
+      </ul>
+      <div id="content">
+        <!-- Language -->
+        <div id="language"">
+          <!-- <a href="index_fin.shtml">.</a>  -->
+        </div>
+
+        <h5>Centre of Excellence in Computational Complex Systems Research <br/>
+        chosen by the Academy of Finland for 2006&#150;2011</h5>
+
+        <script type="text/javascript">
+            randomCosyImg();
+        </script>
+
+        <p>
+        Our research focuses on understanding complex physical, biological,
+        cognitive or societal systems and their behaviour. For this purpose
+        we do computational analysis and modeling; and simulations based
+        on data collected by selected experimental methods.
+        </p>
+
+        <br>
+
+        <p>
+        The research is conducted cohesively in four mutually supportive
+        fields of <em>Models and Methods, Engineered and Artificial Systems,
+        Cognitive and Social Systems, and Computational Health </em>. For
+        more information see the <a href="/publications/pdf/COSY_Annual_Report_2009.pdf">Annual
+        Report 2009</a>. (pdf)
+        </p>
+
+        <p>
+        "COSY is at the cutting edge of international science within
+        disciplines that – to our knowledge – are not joined in a single
+        research group anywhere else." </i> See <a href="http://www.becs.tkk.fi/en/research/COSY_SAB-evaluation_2009.pdf">
+        COSY Scientific Advisory Board report 2009</a> (pdf) and <a href="http://www.becs.tkk.fi/en/research/aalto_rae_2009_becs.pdf">
+        Aalto Research Assessment report 2009</a> (pdf).
+        </p>
+
+
+        <h5 style="margin-top: 2em;">Current News</h5>
+
+        <table cellspacing="0" cellpadding="0" border="0" >
+        <tr>
+            <td width="80"></td>
+            <td width="15"></td>
+            <td width="475"></td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>Apr 25, 2012</strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Media coverage: Gender-related differences in close relationships</strong><br/>
+                Please visit the <a href="http://becs.aalto.fi/en/news/2012/feat_palchykov.html">BECS website</a> for more information.
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="3"> &nbsp;</td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>Apr 20, 2012</strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Study in Nature Scientific Reports: Gender-related differences in close relationships</strong><br/>
+                Please visit the <a href="http://becs.aalto.fi/en/news/2012/art_palchykov.html">BECS website</a> for more information.
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="3"> &nbsp;</td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>Apr 18, 2012</strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Talks by Prof. Ole Mouritsen and Prof. Yamir Moreno on April 23 and 24</strong><br/>
+                Please visit the <a href="http://becs.aalto.fi/en/news/2012/talks_mouritsen_moreno.html">BECS website</a> for more information.
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="3"> &nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="3"> &nbsp;</td>
+        </tr>
+
+<!--
+
+        <tr>
+            <td valign="top">
+                <strong>Nov 30, 2011 </strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Open postdoc positions in cognitive neuroscience</strong><br/>
+                Please visit the <a href="http://www.becs.tkk.fi/en/work/">vacancies page</a> on the BECS website for more information on the positions.
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="3"> &nbsp;</td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>Nov 24, 2011 </strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Associate Professor Santo Fortunato's installation lecture</strong><br/>
+                Please visit the <a href="http://www.becs.tkk.fi/en/news/2011/inst_fortunato.html">BECS website</a> for more information.
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="3"> &nbsp;</td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>Oct 24, 2011 </strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Associate Professor Santo Fortunato featured in Italian media</strong><br/>
+                Please visit the <a href="http://www.becs.tkk.fi/en/news/2011/feat_fortunato.html">BECS website</a> for more information.
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="3"> &nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="3"> &nbsp;</td>
+        </tr>
+
+
+
+        <tr>
+            <td colspan="3"> &nbsp;</td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>Oct 11, 2011 </strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Special course on Computational Engineering in the fall of 2011</strong><br/>
+                Please visit the <a href="http://www.becs.tkk.fi/en/studies/">studies page</a> on the BECS website for more information.
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="3"> &nbsp;</td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>Oct 10, 2011 </strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Open postdoc positions in complex systems research</strong><br/>
+                Please visit the <a href="http://www.becs.tkk.fi/en/work/">vacancies page</a> on the BECS website for more information on the positions.
+            </td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>Mar 22, 2011 </strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Doctoral dissertation of Linda Kumpula</strong><br/>
+                Title: <a href="http://lib.tkk.fi/Diss/2011/isbn9789526040783/isbn9789526040783.pdf">Computational models and methods for lipoprotein research</a><br/>
+                Time and venue: April 1, 12 noon, Otakaari 3 auditorium (F239a)
+	        </td>
+        </tr>
+
+        <tr>
+            <td colspan="3"> &nbsp;</td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>Mar 18, 2011 </strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Research-related video clips added</strong><br/>
+                Please visit our <a href="/research/">research page</a> to watch video clips
+                showcasing some of the diverse research areas at COSY.
+            </td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>Mar 17, 2011 </strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>BECS Colloquium: Albert-László Barabási (Northeastern University / Harvard Medical School, Harvard University)</strong><br/>
+                Title: <a href="http://www.becs.tkk.fi/en/news/2011/colloquium.html">Network Science: From Social Networks to Human Communications</a><br/>
+                Time and venue: March 31, 1 PM, Otakaari 3 auditorium (F239a), Coffee at 12:40 PM
+	        </td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>Mar 16, 2011 </strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Doctoral dissertation of Nelli Salminen</strong><br/>
+                Title: <a href="http://lib.tkk.fi/Diss/2011/isbn9789526040592/isbn9789526040592.pdf">Representation of Auditory Space in Human Cortex</a><br/>
+                Time and venue: March 25, 12 noon, Otakaari 3 auditorium (F239a)
+	        </td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>Feb 4, 2011 </strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Seminar by Renaud Lambiotte (Imperial College London)</strong><br/>
+                Title: <a href="http://www.becs.tkk.fi/en/news/2011/news_05.html">Beyond Space For Spatial Networks</a><br/>
+                Time and venue: February 11, 1 PM, BECS coffee room (F336)
+	        </td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>Jan 18, 2011 </strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Talk by Ole Winther (Associate Professor, Technical University of Denmark)</strong><br>
+                Title: <a href="http://www.becs.tkk.fi/en/news/2011/news_01.html">Edgeworth expansions for improved inference in Gaussian latent variable models</a><br>
+                Time and venue: January 18, 3:15 PM, F Building auditorium (F239a), Otakaari 3
+	        </td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>17.12.2010 </strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Dissertation at 12:00, Otakaari 1, Helsinki University of Technology, Main-building, Auditorium D, Espoo</strong><br>
+                M.Sc. Teppo Häyrynen: Quantum trajectory approach to statistics of amplified and damped cavity fields
+	        </td>
+        </tr>
+
+        <tr>
+            <td valign="top">
+                <strong>17.12.2010</strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>Dissertation at 12:00, Auditorium F239a, F-Building, Otakaari 3, Espoo</strong><br>
+                M.Sc. Ville Lehtola: Dynamics of single biopolymer translocation and sedimentation
+    	    </td>
+        </tr>
+
+	    <tr>	
+            <td valign="top">
+                <strong>16.11.2010</strong>
+            </td>
+            <td></td>
+            <td>
+                <strong>TENURE TRACK OR TENURED POSITION IN COMPUTATIONAL SCIENCE (COMPLEX SYSTEMS)</strong><br>
+                See <a href="http://www.becs.tkk.fi/en/work/tenuretrack2010.html"> Tenure tracks</a> </td>
+        </tr>
+
+        <tr>
+            <td colspan="2"> <strong>&nbsp;</strong> </td>
+          </tr>
+	<tr>	
+            <td><strong>9.9.2010 <br />
+              </strong> </td>
+
+            <td> <strong>Social networks from science to technology Dissemination meeting
+              </strong> </td>
+        </tr>
+
+        <tr>
+            <td>&nbsp;</td>
+            <td> See <a href="http://www.becs.tkk.fi/ictecollective/docs/ICTeMainos.pdf">
+              the program</a> </td>
+        </tr>
+
+
+
+          <tr>
+            <td colspan="2"> <strong>&nbsp;</strong> </td>
+          </tr>
+          <tr>
+          <tr>
+            <td><strong>11.6.2010 <br />
+              </strong> </td>
+            <td> <strong>Dissertation at 12:00, Auditorium F239a, F-Building,
+              Otakaari 3, Espoo</strong> </td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td> M. Tech. Laxmana Rao Yetukuri: Bioinformatics approaches in lipid
+              analysis </td>
+          </tr>
+
+
+
+          <tr>
+            <td colspan="2"> <strong>&nbsp;</strong> </td>
+          </tr>
+          <tr>
+            <td><strong>24.5.2010 <br />
+              </strong> </td>
+            <td> <strong>The Kimmo Kaski Symposium at 12:00, Auditorium F239a,
+              F-Building, Otakaari 3, Espoo</strong> </td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td> See <a href="http://www.becs.tkk.fi/en/news/2010/txt_10.html">
+              the program</a> </td>
+          </tr>
+
+
+          <tr>
+            <td colspan="2"> <strong>&nbsp;</strong> </td>
+          </tr>
+          <tr>
+            <td><strong>FiDiPro professor:</strong></td>
+            <td> Prof. Janos Kertesz (Budapest Univ. of Technology and Economics,
+              Hungary) </td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td colspan="2"> <strong>&nbsp;</strong> </td>
+          </tr>
+          <tr>
+            <td><strong>14.5.2010 <br />
+              </strong> </td>
+            <td> <strong>Dissertation at 12:00, Auditorium F239a, F-Building,
+              Otakaari 3, Espoo</strong> </td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td> M. Tech. Venkata Gopalacharyulu Peddinti: Data integration, pathway
+              analysis and mining for systems biology </td>
+          </tr>
+          <tr>
+            <td colspan="2"> <strong>&nbsp;</strong> </td>
+          </tr>
+          <tr>
+            <td><strong>5.2.2010 <br />
+              </strong> </td>
+            <td> <strong>Dissertation at 12:00, Auditorium F239a, F-Building,
+              Rakentajanaukio 2, Espoo</strong> </td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td> DI Ville-Petteri Mäkinen: Computational analysis of the metabolic
+              phenotypes in type 1 diabetes and their associations with mortality
+              and diabetic complications </td>
+          </tr>
+          <tr>
+            <td colspan="2"> <strong>&nbsp;</strong> </td>
+          </tr>
+          <tr>
+            <td colspan="2"> <strong>Visitors</strong> </td>
+          </tr>
+          <tr>
+            <td><strong>13.9.-18.9.09</strong></td>
+            <td> Prof. David Landau (The University of Georgia,USA) </td>
+          </tr>
+          <tr>
+            <td><strong>30.8.-3.9.09</strong></td>
+            <td> Dr. Takashi Shimada (The University of Tokyo, Japan) </td>
+          </tr>
+-->
+        </table>
+
+        <p style="margin-top: 1em;">
+          <!-- Contact information -->
+          <small>Department of Biomedical Engineering and Computational Science
+          (BECS)</small><br />
+          <small>Centre of Excellence in Computational Complex Systems Research</small><br />
+          <small><em>Postal Address:</em> P.O. Box&nbsp;12200,&nbsp;FI-00076&nbsp;AALTO,&nbsp;FINLAND&nbsp;&nbsp;</small><br />
+          <small><em>Visiting Address:</em> F Building, Rakentajanaukio 2 C, 3rd Floor,
+          02150 Espoo&nbsp;&nbsp;</small><br />
+          <small><em>Tel:</em> +358 50 563 4419 &nbsp;&nbsp;&nbsp; <em>Fax:</em>
+          +358 9 470 24833</small><br />
+          <!-- Footer -->
+        </p>
+        <div id="footer"> Last update
+          
+          24.05.2012
+          by www@lce.hut.fi URL: <a href="http://www.lce.hut.fi">http://www.lce.hut.fi</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

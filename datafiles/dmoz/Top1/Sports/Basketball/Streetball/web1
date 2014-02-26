@@ -1,0 +1,1989 @@
+====================<http://www.angelfire.com/freak/streetballaz/index_old2.htm>====================
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>StreetBall</title>
+<bgsound src="cnn%20-%20invincible%20(Instrumental).wav" loop="-1">
+<meta name="Microsoft Theme" content="none">
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF" background="ss3_blck.GIF" style="text-align: center"><!--'"</title></head>-->
+<script type="text/javascript">
+////// Compete /////////////////////
+__compete_code = '667f89f26d96c30e99728fe6a608804d';
+(function () {
+    var s = document.createElement('script'),
+        d = document.getElementsByTagName('head')[0] ||
+            document.getElementsByTagName('body')[0],
+        t = 'https:' == document.location.protocol ? 
+            'https://c.compete.com/bootstrap/' : 
+            'http://c.compete.com/bootstrap/';
+    s.src = t + __compete_code + '/bootstrap.js';
+    s.type = 'text/javascript';
+    s.async = 'async'; 
+    if (d) { d.appendChild(s); }
+})();
+
+
+////// Quantcast  /////////////////////
+function channValidator(chann) {
+    return (typeof(chann) == 'string' && chann != '');
+}
+
+function lycosQuantcast(){
+    var lb = "";
+    if(typeof(cm_host) !== 'undefined' && channValidator(cm_host)){
+        lb += cm_host.split('.')[0] + '.';
+    }
+
+    if(typeof(cm_taxid) !== 'undefined' && channValidator(cm_taxid)){
+        lb += cm_taxid;
+        lb = lb.replace('/','');
+    } else {
+        lb = lb.replace('.','');
+    }
+    return lb;
+}
+
+var _qevents = _qevents || [];
+
+(function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" :"http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+    qacct:"p-6eQegedn62bSo",
+    labels:lycosQuantcast()
+});
+
+/////// Google Analytics
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-21402695-21']);
+_gaq.push(['_setDomainName', 'angelfire.com']);
+_gaq.push(['_setCustomVar', 1, 'member_name', 'freak/streetballaz', 3]);
+_gaq.push(['_trackPageview']);
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+////// Lycos Initialization /////////////////////
+var lycos_ad = Array();
+var lycos_search_query = "";
+var lycos_onload_timer;
+
+var cm_role = "live";
+var cm_host = "angelfire.lycos.com";
+var cm_taxid = "/memberembedded";
+var angelfire_member_name = "freak/streetballaz";
+var angelfire_member_page = "freak/streetballaz/index_old2.htm";
+var angelfire_ratings_hash = "1393360224:0c788f91ab8117450b11a7515ae48458";
+
+var lycos_ad_category = null;
+
+var lycos_ad_remote_addr = "103.246.106.9";
+var lycos_ad_www_server = "www.angelfire.lycos.com";
+var edit_site_url = "www.angelfire.lycos.com/landing/landing.tmpl?utm_source=house&utm_medium=landingpage&utm_campaign=toolbarlink";
+
+////// Criteo /////////////////////
+var cto_conf = { a:true, i: "294", c:"img", kw: "" } ;
+(function (){
+    var c = document.createElement("script"); c.type = "text/javascript"; c.async = true;
+    c.src = "http://www.angelfire.com/adm/js/partner/criteo_ld_kw.js";
+    var s = document.getElementsByTagName("body")[0]; s.appendChild(c);
+})(); 
+
+</script>
+<script type="text/javascript" src="http://scripts.lycos.com/catman/init.js"></script>
+<script type="text/javascript">
+(function(isV) {
+    if (!isV) {
+        return;
+    }
+
+    //this.lycos_search_query = lycos_get_search_referrer();
+    var adMgr = new AdManager();
+    var lycos_prod_set = adMgr.chooseProductSet();
+    var slots = ["leaderboard", "leaderboard2", "toolbar_image", "toolbar_text", "smallbox", "top_promo", "footer2"];
+    var adCat = this.lycos_ad_category;
+    adMgr.setForcedParam('page', (adCat && adCat.dmoz) ? adCat.dmoz : 'member');
+
+    if (this.lycos_search_query) {
+        adMgr.setForcedParam("keyword", this.lycos_search_query);
+    } 
+    else if (adCat && adCat.find_what) {
+        adMgr.setForcedParam('keyword', adCat.find_what);
+    }
+
+    for (var s in slots) {
+        var slot = slots[s];
+        if (adMgr.isSlotAvailable(slot)) {
+            this.lycos_ad[slot] = adMgr.getSlot(slot);
+        }
+    }
+
+
+    adMgr.renderHeader();
+    adMgr.renderFooter();
+}((function() {
+    var w = 0, h = 0, minimumThreshold = 300;
+    if (top == self) {
+        return true;
+    }
+
+    if (typeof(window.innerWidth) == 'number' ) {
+        w = window.innerWidth;
+        h = window.innerHeight;
+    }
+    else if (document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight)) {
+        w = document.documentElement.clientWidth;
+        h = document.documentElement.clientHeight;
+    }
+    else if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
+        w = document.body.clientWidth;
+        h = document.body.clientHeight;
+    }
+
+    return ((w > minimumThreshold) && (h > minimumThreshold));
+}())));
+
+
+
+window.onload = function() {
+    var f = document.getElementById("lycosFooterAd");
+    var b = document.getElementsByTagName("body")[0];
+    b.appendChild(f);
+    f.style.display = "block";
+    document.getElementById('lycosFooterAdiFrame').src = '/adm/ad/footerAd.iframe.html';
+
+    // Slider Injection
+    (function() {
+        var e = document.createElement('iframe');
+        e.style.border = '0';
+        e.style.margin = 0;
+        e.style.display = 'block';
+        e.style.cssFloat = 'right';
+        e.style.height = '254px';
+        e.style.overflow = 'hidden';
+        e.style.padding = 0;
+        e.style.width = '300px';
+        e.src = '/adm/ad/sliderAd.iframe.html';
+        var sliderBlock = document.getElementById('lyslider-adblock-wrapper');
+        var sliderHolder = document.getElementById('lyslider-adblock-holder');
+        var sliderClose = document.getElementById('lyslider-adblock-close');
+        sliderBlock.style.display = 'block';
+
+        sliderClose.onclick = function() {
+            sliderBlock.parentNode.removeChild(sliderBlock);
+            return false;
+        }
+
+        var iframeOnload = function() {
+            setTimeout((function sliiide() {
+                var s = (window.getComputedStyle) ? parseInt(getComputedStyle(sliderHolder).right) : parseInt(sliderHolder.currentStyle.right);
+                if (s <= 0) {
+                    sliderHolder.style.right = (s + 6) + 'px';
+                    setTimeout(sliiide, 10);
+                }
+                else {
+                    sliderHolder.style.right = '0px';
+                    sliderClose.style.display = 'block';
+                }
+            }), 1000);
+        }
+
+        if (e.attachEvent) {
+            e.attachEvent('onload', iframeOnload);
+        }
+        else {
+            e.addEventListener('load', iframeOnload, false);
+        }
+
+        sliderHolder.insertBefore(e, sliderHolder.firstChild);
+    })();
+}
+
+
+</script>
+
+<style>
+	#body .adCenterClass{margin:0 auto}
+</style>
+
+<div style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999">
+    <div class="adCenterClass" style="display:block!important; overflow:hidden; width:916px;">
+        <a href="http://www.angelfire.lycos.com/" title="Angelfire.com: build your free website today!" style="display:block; float:left; width:186px; border:0">
+        <img src="/adm/ad/angelfire-freeAd.jpg" alt="Site hosted by Angelfire.com: Build your free website today!" style="display:block; border:0" />
+        </a>
+        <script type="text/javascript">document.write(lycos_ad['leaderboard']);</script>
+    </div>
+</div>
+
+<!-- ///////////////////////////////////// -->
+<div id="lyslider-adblock-wrapper" style="display:none; height:300px; overflow:hidden; position:absolute; right:0; top:150px; width:320px; z-index:99999999; ">
+<div id="lyslider-adblock-holder" style="background-color:#888; height:250px; margin-bottom:25px; padding:4px; position:absolute; right:-320px; top:10px; width:300px; ">
+<a id="lyslider-adblock-close" href="#" style="background-color:#222; bottom:-19px; color:#fff; display:block; font:10px Arial, Helvetica, Sans-serif; padding:4px; position:absolute; right:0; text-decoration:none; z-index:9999999999">Close Ad</a>
+</div>
+</div>
+
+
+<div id="lycosFooterAd" style="background:#abe6f6; border-top:1px solid #507a87; clear:both; display:none; position:relative; z-index:9999999">
+<div class="adCenterClass" style="display:block!important; overflow:hidden; width:936px;">
+	<div id="aflinksholder" style="float:left; width:186px;">
+        <a href="http://www.angelfire.lycos.com/" title="Angelfire.com: build your free website today!" style="display:block; border:0">
+            <img src="/adm/ad/angelfire-freeAd2.jpg" alt="Site hosted by Angelfire.com: Build your free website today!" style="display:block; border:0" />
+        </a>
+        <div style="text-align:center">
+        	<span style="color:#393939!important; font-size:12px!important; position:relative; top:-6px">
+            	Sponsored by
+            </span>
+            
+            <a href="http://www.listen.com/disty/index.jsp?from=lycos" target="_blank">
+                <img src="http://af.lygo.com/d/toolbar/sponsors/rhapsody_logo.jpg" alt="sponsor logo" title="Rhapsody"/>
+            </a>
+        </div>
+    </div>
+    <iframe id="lycosFooterAdiFrame" style="border:0; display:block; float:left; height:96px; overflow:hidden; padding:0; width:750px"></iframe>
+</div>
+</div>
+
+<noscript>
+<img src="http://www.angelfire.com/doc/images/track/ot_noscript.gif?rand=73775" alt="" width="1" height="1" />
+<!-- BEGIN STANDARD TAG - 728 x 90 - Lycos - Angelfire Fallthrough - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90" src="http://ad.yieldmanager.com/st?ad_type=iframe&amp;ad_size=728x90&amp;section=280303"></iframe>
+<!-- END TAG -->
+</noscript>
+
+<!-- Start Ybrant tracker -->
+<img src="http://ad.yieldmanager.com/pixel?id=1901600&t=2" width="1" height="1" />
+<!--   End Ybrant tracker -->
+
+<!-- Start Datonics -->
+<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132783.js"></script>
+<!--   End Datonics -->
+
+<!-- Start Chango -->
+<script type="text/javascript">
+    var __cho__ = {"pid":1694};
+    (function() {
+        var c = document.createElement('script');
+        c.type = 'text/javascript';
+        c.async = true;
+        c.src = document.location.protocol + '//cc.chango.com/static/o.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(c, s);
+    })();
+</script>
+<!--   End Chango -->
+
+
+
+<p>
+
+
+<img border="0" src="Brokenankles.jpg" width="743" height="107"></p>
+<p>
+
+&nbsp;<i><font face="Arial Black" size="4"><font color="#0066CC"><a href="Pictures.htm"><font color="#0066CC">Pictures</font></a></font></a><font color="#0066CC">--</font><a href="links.htm"><font color="#0066CC">Links</font></a><font color="#0066CC">--</font><a href="mailto:jamesritchie45@hotmail.com"><font color="#0066CC">Contact</font></a><font color="#0066CC">--</font><a href="moves.htm"><font color="#0066CC">moves</font></a><font color="#0066CC">--</font><a href="street_biographies.htm"><font color="#0066CC">streetball 
+players</font></a><font color="#0066CC">--</font><a href="unsaved:///wallpapers.htm"><font color="#0066CC"><a href="wallpapers.htm"><font color="#0066CC">wallpapers</font></a></font></a><font color="#0066CC">--<a href="http://www.angelfire.com/freak/streetballers/Videos.htm"><font color="#0066CC">Videos</font></a>--<a href="Kicks.htm"><font color="#0066CC">Kicks</font></a>--<a href="posters.htm"><font color="#0066CC">Posters</font></a></font></font></i><p>
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From now on this site will be 
+updated every sunday according to what's most popular below in the table<p>
+&nbsp;<p style="text-align: left">
+You think your a <font size="5">true baller</font> send me a video of your 
+skills by email at <a href="mailto:jamesritchie45@hotmail.com">
+jamesritchie45@hotmail.com</a> it must be<font size="5"> under 1mb </font>and 
+every one will be accepted they'll also be voted on.<p>
+New Video added 8/08/02<p>
+<a href="Lebron_James.WMV">Lebron James in highschool game</a><p>
+&nbsp;<p>
+<u><font size="5">Slamball</font></u><p>
+If you haven't heard of slamball yet you gotta check it out it's a new sport on 
+TNN where these guys with crazy hops jump off 1 of the 4 trampolines under the 
+hoop. For more information go to the
+<a href="http://www.slamball.warnerbros.com">slamball</a> website it has a video 
+and pictures<p>
+<img border="0" src="23slamball_200.jpg" width="123" height="95">
+<img border="0" src="2002-0530-dunk.jpg" width="127" height="95">
+<img border="0" src="main.gif" width="83" height="95"><p>
+Video Added 7/30/02<p>
+<a href="white.WMV"><font size="2">Check out this guy</font></a><p>
+Shoe Added 7/29/02<p>
+<a href="9192437_z.jpg"><font size="2">Kevin Garnett's in blue</font></a><p>
+More Videos Added 7/27/02<p>
+<a href="reversre.WMV"><font size="2">Reverse Alley</font></a><p>
+<a href="and1_tour_la_preview-alley_oops.mpeg"><font size="2">Alley oop windmill</font></a><p>
+New Videos Added 7/16/02<p>
+<font size="2"><a href="Untitled.WMV">James White 3 dunks</a></font><p style="text-align: left">
+<font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font>
+<p style="text-align: left">
+&nbsp;<b><p align="center">
+<table border=0 cellpadding=3 cellspacing=0>
+<tr><td bgcolor="000080" width=150><center>
+<FONT SIZE="1" COLOR="#FFFFFF">Broken Ankles</font>
+</center></td></tr>
+<tr><td bgcolor="C0C0C0" width=150><center><b>Whats your favourite section in Broken Ankles </b></center></td></tr>
+<tr><td bgcolor="#E1E1E1" width=150 height=50>
+<font COLOR="#000000"><form METHOD="Post" action="http://www.internationalvoting.com/a/poll.cgi">
+<INPUT NAME="choice" value="0" TYPE="radio">Moves <br>
+<INPUT NAME="choice" value="1" TYPE="radio">Videos<br>
+<INPUT NAME="choice" value="2" TYPE="radio">Biographies<br>
+<INPUT NAME="choice" value="3" TYPE="radio">Wallpapers<br>
+<INPUT NAME="choice" value="4" TYPE="radio">Pictures<br>
+<INPUT NAME="choice" value="5" TYPE="radio">Kicks<br>
+</select><input type="hidden" name="number" value="5585">
+other: <INPUT NAME="otheradd" TYPE="text" size="10" maxlength=30><br><br><center>
+<INPUT TYPE="submit" VALUE="Vote"><br><a href="http://www.internationalvoting.com/a/poll.cgi?number=5585">View Results</a>
+</center></font></form></td></tr>
+</table><p>
+<p>
+<img border="0" src="brokenankles30.jpg" width="324" height="46"></p>
+
+</body>
+
+</html><html>
+
+<body style="text-align: center">
+
+</body>
+
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://courtsidebasketball.deep-ice.com/>====================
+<html>
+<head>
+<title>CourtsideBasketball  || Got Game? ||</title>
+<META NAME="TITLE" CONTENT="CourtsideBasketball">
+<META NAME="Description" CONTENT="Featuring NBA, Streetball Players, Crossover moves, basketball tutorials, history, rules, and kicks reviews, and a forum to discuss.">
+<META NAME="KEYWORDS" CONTENT="basketball,streetball,NBA,And 1,And1,moves,move,crossover,crossova,boomerang,sauce 2k,hotsauce,hurricane,headache,50,sik wit it,AO,Main event, Skip to my lou,shane,flash,high octane,1/2 man 1/2 amazing, aircraft,kobe bryant,michael jordan,allen iverson,tracy mcgrady,kevin garnett,steve francis,vince carter,paul pierce,jerry stackhouse,lakers,clippers,mix tape,tour,venice beach,rucker park,the cage,basketball rule,rules,basketball history,basketball tutorial,lessons,nike,adidas,rbk,dada,brand jordan,streetball forum,rick yean,ricky yean,balla,baller,clips,basketball pictures,photos,basketball glossary,basketball games,basketball video,basketball videogames,videogames,hotgames,mixtape download,volume 4,volume 5, volume 6, volume 7,kazza.">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+</head>
+
+<body bgcolor="#FFFFFF" link="#009999">
+<div align="center"> 
+  <p> <a href="http://member.bcentral.com/cgi-bin/fc/fastcounter-login?2948013" target="_top"> 
+    <img border="0" src="http://fastcounter.bcentral.com/fastcounter?2948013+5896033"></a> 
+    <br>
+  </p>
+  <p>&nbsp;</p>
+  <p><a href="main.htm"><img src="newwebimages/street.gif" width="369" height="340" border="0"></a></p>
+  <p>&nbsp;</p>
+  <p>
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="468" height="60">
+      <param name="movie" value="banner.swf">
+      <param name="quality" value="high">
+      <embed src="banner.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="468" height="60"></embed></object>
+  </p>
+  <p><font size="2">Copyright 2002 (C) Courtside All Right Reserved</font></p>
+  <p><font size="2">Webmaster : <a href="mailto:ricky_yean@hotmail.com" target="_blank">Rick 
+    Yean</a></font></p>
+</div>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.streetbasketballassociation.net/>====================
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>streetbasketballassociation.net: Home</title>
+<meta name="designer" content="Infinity" />
+<link rel="stylesheet" href="/css/system.css" />
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/layout.css" />
+<script src="/lib/js/common.min.js"></script>
+<script type="text/javascript" src="/lib/js/jquery.js"></script>
+<script type="text/javascript">
+	$.fn.equalHeight = function() {
+		var height = 0,
+			reset = $.browser.msie ? "1%" : "auto";
+		
+		return this
+			.css("height", reset)
+			.each(function() {
+				height = Math.max(height, this.offsetHeight);
+			})
+			.css("height", height)
+			.each(function() {
+					var h = this.offsetHeight;
+					if (h > height) {
+							$(this).css("height", height - (h - height));
+					};
+			});
+	};
+</script>
+</head>
+<body>
+<div id="wrapper">
+	
+	<div id="header" class="bump">
+		<h1 id="titlebar">
+			<a href="/">The Official Site of the Street Basketball Association</a>
+		</h1>
+		
+		<div id="nav_top">
+			<a id="management" href="/management/"></a
+			><a id="booking" href="/booking/"></a
+			><a id="contact" href="/contact/"></a>
+		</div>
+		
+		<div id="hnav" class="bump">
+			<div class="plugin">	<span class="parent">
+		<a  href="/about/">
+			
+			About SBA
+		</a>
+
+					<span class="children">
+										<span class="child">
+					<a  href="/about/mission/">
+						
+						Mission
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/about/history/">
+						
+						Streetball History
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/about/league/">
+						
+						The League
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/about/junior/">
+						
+						Junior SBA
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/about/theshow/">
+						
+						The Show
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/about/practice/">
+						
+						Practice with A Pro
+					</a>
+				</span>
+									</span>
+			</span>
+	<span class="parent">
+		<a  href="/staff/">
+			
+			Staff Directory
+		</a>
+
+					<span class="children">
+										<span class="child">
+					<a  href="/staff/executive/">
+						
+						Executive Team
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/staff/international/">
+						
+						International Reps
+					</a>
+				</span>
+																			<span class="child">
+					<a  href="/staff/interns/">
+						
+						Interns
+					</a>
+				</span>
+									</span>
+			</span>
+	<span class="parent">
+		<a  href="/management/">
+			
+			SBA Sports Management
+		</a>
+
+					<span class="children">
+										<span class="child">
+					<a  href="/management/representation/">
+						
+						Athlete Representation
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/management/service/">
+						
+						Athlete Services
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/management/clients/">
+						
+						Clients
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/management/marketing/">
+						
+						SBA Marketing/Properties
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/management/coaches/">
+						
+						SBA Coaches Association
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/management/talent/">
+						
+						Hidden Talent
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/management/proplayer/">
+						
+						Available Pro Players
+					</a>
+				</span>
+									</span>
+			</span>
+	<span class="parent">
+		<a  href="/community/">
+			
+			Community
+		</a>
+
+					<span class="children">
+										<span class="child">
+					<a  href="/community/awards/">
+						
+						SBA Awards
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/community/speakers/">
+						
+						Speaker's Bureau
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/community/appearance/">
+						
+						Appearance Request
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/community/youth/">
+						
+						Youth Teams
+					</a>
+				</span>
+																					</span>
+			</span>
+	<span class="parent">
+		<a  href="/ceo/">
+			
+			CEO's Desk
+		</a>
+
+					<span class="children">
+																<span class="child">
+					<a  href="/ceo/blog/">
+						
+						Blog
+					</a>
+				</span>
+									</span>
+			</span>
+	<span class="parent">
+		<a  href="/events/">
+			
+			Events
+		</a>
+
+					<span class="children">
+										<span class="child">
+					<a  href="/events/calendar/">
+						
+						Calendar
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/events/tours/">
+						
+						SBA Tours
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/events/camps/">
+						
+						SBA Camps/Clinics
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/events/procamps/">
+						
+						Pro Exposure Camps
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/events/showcase/">
+						
+						Scholarship Showcase
+					</a>
+				</span>
+									</span>
+			</span>
+	<span class="parent">
+		<a  href="/international/">
+			
+			SBA International
+		</a>
+
+					<span class="children">
+										<span class="child">
+					<a  href="/international/africa/">
+						
+						SBA Africa
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/international/australia/">
+						
+						SBA Australia
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/international/europe/">
+						
+						SBA Europe
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/international/asia/">
+						
+						SBA Asia
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/international/samerica/">
+						
+						SBA South America
+					</a>
+				</span>
+									</span>
+			</span>
+	<span class="parent">
+		<a  href="/news/">
+			
+			News/Press
+		</a>
+
+					<span class="children">
+										<span class="child">
+					<a  href="/news/feature/">
+						
+						Feature Story
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/news/press/">
+						
+						Press Releases
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/news/sba/">
+						
+						SBA In the News
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/news/commentary/">
+						
+						Commentary
+					</a>
+				</span>
+																			<span class="child">
+					<a  href="/news/google/">
+						
+						Google Wire
+					</a>
+				</span>
+									</span>
+			</span>
+	<span class="parent">
+		<a  href="/rosters/">
+			
+			Rosters
+		</a>
+
+					<span class="children">
+										<span class="child">
+					<a  href="/rosters/legends/">
+						
+						USA Legends of Basketball
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/rosters/allstar/">
+						
+						SBA All Star Team
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/rosters/greatest/">
+						
+						50 Greatest of All Time
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/rosters/allamerican/">
+						
+						All American Teams
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/rosters/draft/">
+						
+						2010 NBA Mock Draft
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/rosters/alumni/">
+						
+						SBA Alumni
+					</a>
+				</span>
+									</span>
+			</span>
+	<span class="parent">
+		<a  href="/league/">
+			
+			The League
+		</a>
+
+					<span class="children">
+										<span class="child">
+					<a  href="/league/teams/">
+						
+						Teams
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/league/map/">
+						
+						Geographical Map
+					</a>
+				</span>
+									</span>
+			</span>
+	<span class="parent">
+		<a  href="/multimedia/">
+			
+			Multimedia
+		</a>
+
+					<span class="children">
+										<span class="child">
+					<a  href="/multimedia/video/">
+						
+						Video
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/multimedia/gallery/">
+						
+						Photo Gallery
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/multimedia/downloads/">
+						
+						Downloads
+					</a>
+				</span>
+									</span>
+			</span>
+	<span class="parent">
+		<a  href="/booking/">
+			
+			Bookings
+		</a>
+
+			</span>
+	<span class="parent">
+		<a  href="/partners/">
+			
+			Corporate Partners
+		</a>
+
+			</span>
+	<span class="parent">
+		<a  href="/merchandise/">
+			
+			Merchandise
+		</a>
+
+					<span class="children">
+										<span class="child">
+					<a  href="/merchandise/links/">
+						
+						Links
+					</a>
+				</span>
+									</span>
+			</span>
+	<span class="parent">
+		<a  href="/federation/">
+			
+			SBA International Basketball Federation
+		</a>
+
+					<span class="children">
+										<span class="child">
+					<a  href="/federation/mission/">
+						
+						Mission
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/federation/membership/">
+						
+						Membership
+					</a>
+				</span>
+													<span class="child">
+					<a  href="/federation/board/">
+						
+						Advisory Board
+					</a>
+				</span>
+									</span>
+			</span>
+
+<script type="text/javascript">
+
+	$(function() {
+		$("#hnav .parent").hover(function() {
+			$(this)
+				.addClass("container")
+				.children(".children").show();
+		}, function() {
+			$(this)
+				.removeClass("container")
+				.children(".children").hide();
+		});
+	});
+
+</script><!-- pi=std-sitebuilder.front.nav.verticaltext / custom.navigation.text.header.tpl /  lt=0.0507941246033s -->
+<!-- No Cache -->
+</div>
+
+		</div>
+		
+		<div id="teams" class="bump">
+			<h2 class="header fleft"><img src="/images/header-teams.png" alt="SBA Teams" /></h2>
+			<div class="box">
+				<div class="plugin"><table cellspacing="0" border="0" cellpadding="0"><tr><td><div><a href="/tracker/index.html?t=ad&pool_id=1&ad_id=2&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/logo-atlanta.jpg" alt="Atlanta" /></a></div></td><td><div><a href="/tracker/index.html?t=ad&pool_id=1&ad_id=3&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/logo-baltimore.jpg" alt="Baltimore" /></a></div></td><td><div><a href="/tracker/index.html?t=ad&pool_id=1&ad_id=4&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/logo-boston.jpg" alt="Boston" /></a></div></td><td><div><a href="/tracker/index.html?t=ad&pool_id=1&ad_id=7&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/logo-charlotte.jpg" alt="Charlotte" /></a></div></td><td><div><a href="/tracker/index.html?t=ad&pool_id=1&ad_id=8&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/logo-chicago.jpg" alt="Chicago" /></a></div></td><td><div><a href="/tracker/index.html?t=ad&pool_id=1&ad_id=9&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/logo-columbia-10.jpg" alt="DC" /></a></div></td><td><div><a href="/tracker/index.html?t=ad&pool_id=1&ad_id=10&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/logo-columbia.jpg" alt="Columbia" /></a></div></td><td><div><a href="/tracker/index.html?t=ad&pool_id=1&ad_id=11&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/detroit logo current.jpg" alt="Detroit" /></a></div></td><td><div><a href="/tracker/index.html?t=ad&pool_id=1&ad_id=12&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/logo-los_angeles.jpg" alt="LA" /></a></div></td><td><div><a href="/tracker/index.html?t=ad&pool_id=1&ad_id=13&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/logo-new_york.jpg" alt="NY" /></a></div></td><td><div><a href="/tracker/index.html?t=ad&pool_id=1&ad_id=14&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/logo-newark.jpg" alt="Newark" /></a></div></td><td><div><a href="/tracker/index.html?t=ad&pool_id=1&ad_id=15&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/logo-norfolk.jpg" alt="Norfolk" /></a></div></td><td><div><a href="/tracker/index.html?t=ad&pool_id=1&ad_id=16&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/logo-philadelphia.jpg" alt="Philly" /></a></div></td></tr></table><!-- pi=std-adspots.front.pool /  lt=0.0205450057983s -->
+<!-- No Cache -->
+</div>
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="main" class="home floatwrap bump">
+		<div id="col1" class="col box fleft push">
+			<div id="ads_left_top" class="ads">
+				<div class="plugin"><div class="bump"><a href="/tracker/index.html?t=ad&pool_id=2&ad_id=6&url=http%3A%2F%2Fstreetbasketballassociation.net%2Ffederation%2Fmembership%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/SBA Basketball FEd_WebSquare new web design.jpg" alt="Federation" /></a></div><div class="bump"><a href="/tracker/index.html?t=ad&pool_id=2&ad_id=5&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/banner-coaches.jpg" alt="Coaches Assn" /></a></div><!-- pi=std-adspots.front.pool /  lt=0.00441598892212s -->
+<!-- No Cache -->
+</div>
+
+			</div>
+			
+			<div id="partners" class="bump">
+				<h2 class="header"><img src="/images/header-partners.png" alt="Partners" /></h2>
+				<div class="box2">
+					<div class="plugin"><div id="ad_div_3">&nbsp;</div><script type="text/javascript">
+var myobj = new FlashObject("/lib/flash/std-adspots.front.flash.adspot/std-adspots.front.flash.adspot.swf?mediaCategory=3&numOfMediaItems=&type=fade&windowMode=transparent&width=201&height=200&dur=5000&numOfRotations=&domainName=streetbasketballassociation.net&ismmediaAccount=ISM3&targetXML=http%3A%2F%2Fwww.streetbasketballassociation.net%2Findex.html%3Fcontent_type%3Dxml%26plugin_id%3Dstd-adspots.xml.pool", "ad_div_3", 201, 200, 8, "#ffffff");
+myobj.addParam("allowScriptAccess", "sameDomain");
+myobj.addParam("loop", "false");
+myobj.addParam("menu", "true");
+myobj.addParam("quality", "high");
+myobj.addParam("swLiveConnect", "true");
+myobj.addParam("scale", "noborder");
+myobj.addParam("salign", "l");
+myobj.addParam("wmode", "transparent");
+myobj.write("ad_div_3");
+</script>
+<!-- pi=std-adspots.front.flash.adspot /  lt=6.79492950439E-05s -->
+<!-- No Cache -->
+</div>
+
+				</div>
+			</div>
+			
+			<div id="ads_left_bottom" class="ads">
+				<div class="plugin"><div class="bump"><a href="/tracker/index.html?t=ad&pool_id=4&ad_id=1&url=http%3A%2F%2Fstreetbasketballassociation.net%2Frosters%2Fgreatest%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/50 greatest streetballers bigger.gif" alt="50 greatest streetballers" /></a></div><div class="bump"><a href="/tracker/index.html?t=ad&pool_id=4&ad_id=17&url=http%3A%2F%2Fwww.facebook.com%2Fgroup.php%3Fgid%3D124023635973%26ref%3Dsearch%26sid%3D500101191.2416141709..1" target="_blank"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/sba_on_facebook.jpg" alt="SBA on Facebook" /></a></div><div class="bump"><a href="/tracker/index.html?t=ad&pool_id=4&ad_id=18&url=http%3A%2F%2Fherbasketball.org" target="_blank"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/HerBasketball_WebSquare new.jpg" alt="Her Basketball" /></a></div><div class="bump"><a href="/tracker/index.html?t=ad&pool_id=4&ad_id=25&url=http%3A%2F%2Fwww.eurobasket.com" target="_blank"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/eurobasket logo web last one.jpg" alt="Euorbasket" /></a></div><div class="bump"><a href="/tracker/index.html?t=ad&pool_id=4&ad_id=22&url=http%3A%2F%2Fwww.legendsofbasketball.com" target="_blank"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/NBA Legends of Basketball ad.gif" alt="NBA Legends" /></a></div><div class="bump"><a href="/tracker/index.html?t=ad&pool_id=4&ad_id=23&url=http%3A%2F%2Fblackathlete.com" target="_blank"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/black athlete ad.jpg" alt="Black Athlete" /></a></div><div class="bump"><a href="/tracker/index.html?t=ad&pool_id=4&ad_id=41&url=http%3A%2F%2Fstreetbasketballassociation.net%2Finternational%2Fafrica%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/sba africa ad.jpg" alt="SBA Africa" /></a></div><div class="bump"><a href="/tracker/index.html?t=ad&pool_id=4&ad_id=43&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/sba fedeeration crossover banner.jpg" alt="Crossover" /></a></div><!-- pi=std-adspots.front.pool /  lt=0.00994610786438s -->
+<!-- No Cache -->
+</div>
+
+			</div>
+		</div>
+		
+		<div id="col2" class="col fleft push">
+			<div id="news" class="box bump">
+				<div class="plugin"><div class="rotator">
+
+	<div id="r8575fa603e_image" class="image" onclick="r8575fa603e.readMore()" title="Click to read more!"></div>
+
+	<div class="text_bg"></div>
+	<div class="text">
+		<h3 id="r8575fa603e_headline"></h3>
+		<div id="r8575fa603e_teaser"></div>
+	</div>
+	
+	<div class="thumbs">
+					<a id="r8575fa603ear0" class="homerotatorlink" href="javascript:r8575fa603e.jumpTo(0)"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/thumbcache/fa853e93af119c0685a5f0a68b521b09.200.jpg" alt="Street Basketball Association CEO Jerrod Mustaf Blogs for Supersport.com" /></a>
+					<a id="r8575fa603ear1" class="homerotatorlink" href="javascript:r8575fa603e.jumpTo(1)"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/thumbcache/dc4b9193d809eb5aad2980af79c1793c.200.jpg" alt="SBA All-Stars Make Appearances at Nike Basketball Camps and Represent DC at Nike Tournament of Champions" /></a>
+					<a id="r8575fa603ear2" class="homerotatorlink" href="javascript:r8575fa603e.jumpTo(2)"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/thumbcache/243e1ec15f4fae8be1afad054549f04f.200.jpg" alt="SBA All-Stars Represent the US for La Reunion's Run Ball International Street Basketball Tournament" /></a>
+					<a id="r8575fa603ear3" class="homerotatorlink" href="javascript:r8575fa603e.jumpTo(3)"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/thumbcache/d14fee058c77a73d464ee852de79e83a.200.jpg" alt="SBA All-Star Hugh "Baby Shaq" Jones Dominates Red Bull King of the Rock Championship Tournament" /></a>
+			</div>
+
+</div>
+
+<script type="text/javascript" src="/dev/lib/js/news.front.homerotator.js" ></script>
+<script type="text/javascript">r8575fa603e = new HTMLNewsRotator("r8575fa603e", "1");
+r8575fa603e.duration = 12;
+r8575fa603e.targetPage = "/news/sba/?article_id=";
+r8575fa603e.addArticle("Street Basketball Association CEO Jerrod Mustaf Blogs for Supersport.com",  "<table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td><div class=\"block\"><p>In the continued efforts to promote the sport of basketball throughout Africa, the CEO of the Street Basketball Association, Mr. Jerrod Mustaf has announced he will be working with SuperSport writing weekly blogs that will be posted on www.supersport.com</p><p>&nbsp;</p></div></td></tr></table>",  "http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/News/supersport_Logo.png",  "98", "" );
+r8575fa603e.addArticle("SBA All-Stars Make Appearances at Nike Basketball Camps and Represent DC at Nike Tournament of Champions",  "<table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td><div class=\"block\"><p style=\"text-align: justify;\">As part of the SBA All-Stars Speaking Ambassador Program Pat The Roc and Randy &quot;White Chocolate&quot; Gill made special appearances at recent youth Nike Basketball Camps, while Dave &quot;Da Aggressor&quot; Bailey, Roscoe &quot;Dunkin&quot; Johnson, &quot;D-Nice Jefferson, and DC Legend/Beltway Bombers&nbsp;Antonio &quot;The Professional&quot; Haymon represented Washington DC during the Nike Tournament of Champions</p></div></td></tr></table>",  "http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/News/nike toc full.png",  "97", "" );
+r8575fa603e.addArticle("SBA All-Stars Represent the US for La Reunion's Run Ball International Street Basketball Tournament",  "<table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td><div class=\"block\">The SBA All-Stars were selected to represent the US to participate in La Reunion's Run Ball International Basketball Tournament.&nbsp; The SBA competed against a number of professional players from France, Africa, and La Reunion.&nbsp; In addition, as part of the SBA's International Basketball Development Program the SBA conducted a series of &quot;Practice with the Pros&quot; basketball clinics and Pat Da Roc's &quot;Anything is Possible&quot; SBA's Speaking Ambassador presentations. <br type=\"_moz\" /></div></td></tr></table>",  "http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/News/07093247.jpg",  "96", "" );
+r8575fa603e.addArticle("SBA All-Star Hugh \"Baby Shaq\" Jones Dominates Red Bull King of the Rock Championship Tournament",  "<table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td><div class=\"block\">Once again, SBA All-Star Hugh &quot;Baby Shaq&quot; Jones, aka the Rawkus Proves to be the BEST &quot;One-on-One&quot; Player in the World winning the Red Bull, King of the Rock Tournament on Alcatraz<br type=\"_moz\" /></div></td></tr></table>",  "http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/News/Baby Shaq redo.jpg",  "94", "" );
+r8575fa603e.rotate();
+</script><!-- pi=news.front.homerotator / custom.news.rotator.tpl /  lt=0.0129961967468s -->
+<!-- No Cache -->
+</div>
+
+			</div>
+			
+			<div id="features" class="box2">
+				<h2 class="header"><img src="/images/header-features.png" alt="More Features" /></h2>
+				<div class="box bump">
+					<div class="plugin"><table class="recent" width="100%" cellspacing="0" cellpadding="0">
+	<tr valign="top">
+		<td width="1">
+							<img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/thumbcache/21b9a25e57e6952ad8122e6aaf2c74e6.200.jpg" />
+					</td>
+		<td>
+			<div class="homearticle">
+				<h3><a href="/news/?article_id=7"> SBA ALL-STARS AND US LEGENDS TOUR EUROPE </a></h3>
+									<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td><div class="block"> <div style="text-align: justify;">The SBA All-Stars and the US Legends featuring former 5-Time NBA Champion Dennis Rodman, NBA All-Star Tim Hardaway, Fan Favorite Muggsy Bogues, and Three-Point Champions Dale Ellis and Tracy Murray went undefeated during</div> </div></td></tr></table>
+							</div>
+		</td>
+	</tr>
+			<tr>
+			<td colspan="2">
+				<hr size="1" />
+			</td>
+		</tr>
+		<tr valign="top">
+		<td width="1">
+							<img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/thumbcache/d94bebb5d65b6b52e0e8edf999f24886.200.jpg" />
+					</td>
+		<td>
+			<div class="homearticle">
+				<h3><a href="/news/?article_id=3"> THE SBA OVER THE YEARS </a></h3>
+									<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td><div class="block"> In the beginning of our 9 year journey, we toured 15 U.S. cities with Jay-Z and Sprite and were undefeated...We did 3 cross-country tours simultaneously with Cingular Wireless and the NCAA; Our All star players performed in 30 states and 8 countries in a 5 year span. </div></td></tr></table>
+							</div>
+		</td>
+	</tr>
+			<tr>
+			<td colspan="2">
+				<hr size="1" />
+			</td>
+		</tr>
+		<tr valign="top">
+		<td width="1">
+							<img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/thumbcache/363be9ae7c37e1d4fcf15d3898ec7192.200.jpg" />
+					</td>
+		<td>
+			<div class="homearticle">
+				<h3><a href="/news/?article_id=2"> SBA ENTERTAINMENT PRODUCES 3-CITY SBA ALL-STARS SLAM DUNK COMPETITION & SHOW </a></h3>
+									<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td><div class="block"> Watch ya Head!&nbsp; As crowds throughout Baltic Europe were treated to an amazing display of dunking as the SBA All-Stars wowed their fans during the 3-City SBA Slam Dunk Competition and Show. </div></td></tr></table>
+							</div>
+		</td>
+	</tr>
+	</table><!-- pi=news.front.mostrecentarticles / custom.news.recent.tpl /  lt=0.00387811660767s -->
+<!-- No Cache -->
+</div>
+
+				</div>
+				
+				<div class="box ads">
+					<div class="plugin"><div><a href="/tracker/index.html?t=ad&pool_id=5&ad_id=38&url=http%3A%2F%2Fstreetbasketballassociation.net%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/sba booking web players.jpg" alt="Looking For Players" /></a></div><!-- pi=std-adspots.front.pool /  lt=0.00351190567017s -->
+<!-- No Cache -->
+</div>
+
+				</div>
+			</div>
+			
+			<div id="ads_mid_bottom" class="ads">
+				<div class="plugin"><div><a href="/tracker/index.html?t=ad&pool_id=6&ad_id=42&url=http%3A%2F%2Fstreetbasketballassociation.net%2Fmultimedia%2Fgallery%2F"><img src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/Advertisements/SBA PHOTO GALLERY orange logo.jpg" alt="photo gallery" /></a></div><!-- pi=std-adspots.front.pool /  lt=0.00313782691956s -->
+<!-- No Cache -->
+</div>
+
+			</div>
+		</div>
+		
+		<div id="col3" class="col box fleft">
+			<div id="video" class="bump">
+				<div class="plugin">
+<object style="height: 222px; width: 274px"><param name="movie" value="http://www.youtube.com/v/uVNlzkSKmMo"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/uVNlzkSKmMo" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="272" height="222"></object>
+
+<!-- pi=std-content.front.textblock /  lt=0.00169110298157s -->
+<!-- No Cache -->
+</div>
+
+			</div>
+			
+			<div id="videos" class="bump">
+				<h2 class="header"><img src="/images/header-videos.png" alt="Videos" /></h2>
+				<div class="box2">
+					<div class="plugin">
+<object style="height: 222px; width: 274px"><param name="movie" value="http://www.youtube.com/v/i7zOAbiy4KQ"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/i7zOAbiy4KQ" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="274" height="222"></object>
+
+<!-- pi=std-content.front.textblock /  lt=0.00167417526245s -->
+<!-- No Cache -->
+</div>
+
+				</div>
+			</div>
+			
+			<div id="europe" class="bump">
+				<h2 class="header"><img src="/images/header-europe.png" alt="SBA Europe" /></h2>
+				<div class="ads">
+					<div class="plugin">
+<a href="http://streetbasketballassociation.net/international/europe/"><img width="270" height="149" src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/sba europe website new 1.JPG" alt="sba europe website new 1.JPG" /></a><br />
+<!-- pi=std-content.front.textblock /  lt=0.00162410736084s -->
+<!-- No Cache -->
+</div>
+
+				</div>
+			</div>
+			
+			<div id="africa" class="bump">
+				<h2 class="header"><img src="/images/header-africa.png" alt="SBA Africa" /></h2>
+				<div class="ads">
+					<div class="plugin">
+<a href="http://streetbasketballassociation.net/international/africa/"><img width="270" height="149" alt="SBA Africa Website newest.jpg" src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/SBA Africa Website newest.jpg" /></a><br />
+<!-- pi=std-content.front.textblock /  lt=0.00166511535645s -->
+<!-- No Cache -->
+</div>
+
+				</div>
+			</div>
+			
+			<div id="south_america" class="bump">
+				<h2 class="header"><img src="/images/header-south_america.png" alt="SBA South/Latin America" /></h2>
+				<div class="ads">
+					<div class="plugin">
+<a href="http://streetbasketballassociation.net/international/samerica/"><img width="270" height="154" src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/SBA South America Website newest.jpg" alt="SBA South America Website newest.jpg" /></a>
+<!-- pi=std-content.front.textblock /  lt=0.0025110244751s -->
+<!-- No Cache -->
+</div>
+
+				</div>
+			</div>
+			
+			<div id="australia" class="bump">
+				<h2 class="header"><img src="/images/header-australia.png" alt="SBA Australia" /></h2>
+				<div class="ads">
+					<div class="plugin">
+<a href="http://streetbasketballassociation.net/international/australia/"><img width="270" height="148" alt="SBA Australia New Zealand website newest.JPG" src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/SBA Australia New Zealand website newest.JPG" /></a><br />
+<!-- pi=std-content.front.textblock /  lt=0.00176000595093s -->
+<!-- No Cache -->
+</div>
+
+				</div>
+			</div>
+			
+			<div id="asia" class="bump">
+				<h2 class="header"><img src="/images/header-asia.png" alt="SBA Asia" /></h2>
+				<div class="ads">
+					<div class="plugin">
+<a href="http://streetbasketballassociation.net/international/asia/"><img width="270" height="146" src="http://streetbasketballassociation.net.ismmedia.com/ISM3/std-content/repos/Top/SBA asia newest.jpg" alt="SBA asia newest.jpg" /></a><br />
+<!-- pi=std-content.front.textblock /  lt=0.00172805786133s -->
+<!-- No Cache -->
+</div>
+
+				</div>
+			</div>
+			
+			<div id="ads_right_bottom" class="ads">
+				<div class="plugin"><!-- pi=std-adspots.front.pool /  lt=0.00239896774292s -->
+<!-- No Cache -->
+</div>
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="footer" class="floatwrap">
+		<div id="nav_bottom">
+			<div class="plugin">	<a href="/">Home</a>
+	|	<a href="/about/">About SBA</a>
+	|	<a href="/staff/">Staff Directory</a>
+	|	<a href="/management/">SBA Sports Management</a>
+	|	<a href="/community/">Community</a>
+	|	<a href="/ceo/">CEO's Desk</a>
+	|	<a href="/international/">SBA International</a>
+	|	<a href="/news/">News/Press</a>
+	|	<a href="/rosters/">Rosters</a>
+	|	<a href="/league/">The League</a>
+	|	<a href="/multimedia/">Multimedia</a>
+	|	<a href="/booking/">Bookings</a>
+	|	<a href="/merchandise/">Merchandise</a>
+	<!-- pi=std-sitebuilder.front.nav.verticaltext / custom.navigation.text.footer.tpl /  lt=0.00228595733643s -->
+<!-- No Cache -->
+</div>
+
+		</div>
+		
+		<div id="copyright">
+			&copy; 2001-2014 Street Basketball Association. All rights reserved.
+			<a href="/legal/">Legal</a> |
+			<a href="/privacy/">Privacy</a> |
+			<a href="/feedback/">Feedback</a>
+		</div>
+		
+		<a href="http://infinityprosports.com/" target="_blank"><img id="infinity" src="/images/logo-ips.png" alt="Infinity Pro Sports" /></a>
+	</div>
+	
+</div>
+
+<!-- SCRIPTS -->
+
+<script type="text/javascript">
+	$(window).bind("load", function() {
+		$(".col").equalHeight();
+	});
+</script>
+
+<script type="text/javascript"></script>
+<!-- hs=e9473c9c2061f764a93edbb9a97fb712; hn=web15.dfw1.infinityprosports.com; si=2009071402; lt=0.210229158401; -->
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.teamhoops.com/>====================
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Welcome to Team Hoops On-Line</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta name="Microsoft Border" content="t">
+</head>
+
+<body bgcolor="#BF0000" text="#FFFFFF" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+<p align="center">
+<img border="0" src="_borders/NewHeaderFINAL.jpg" width="725" height="125"></p>
+
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><!--msnavigation--><td valign="top">
+<p align="center" style="LINE-HEIGHT: 100%; MARGIN-BOTTOM: 5px; MARGIN-TOP: 5px">
+<b><font face="Arial Narrow" color="#000000" size="2">(This site is best viewed at a resolution of
+1024 x 768)</font></b><p align="center" style="LINE-HEIGHT: 100%; MARGIN-BOTTOM: 5px; MARGIN-TOP: 5px">
+<iframe name="I2" src="homebody.htm" marginwidth="4" marginheight="4" height="1400" width="750" scrolling="no" align="right" target="_top">
+Your browser does not support inline frames or is currently configured not to display inline frames.</iframe>
+<p align="center" style="LINE-HEIGHT: 100%; MARGIN-BOTTOM: 5px; MARGIN-TOP: 5px"><font face="Arial Black" size="5" color="#FFFF00">
+<iframe name="I3" align="left" src="homecontents.htm" width="200" marginwidth="4" marginheight="4" height="1400" scrolling="no" target="_top">
+Your browser does not support inline frames or is currently configured not to display inline frames.</iframe></font>
+<p align="center" style="LINE-HEIGHT: 100%; MARGIN-BOTTOM: 5px; MARGIN-TOP: 5px"><!--msnavigation--></td></tr><!--msnavigation--></table></body>
+
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.freewebs.com/lews_street_101/trashtalk.htm>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!--
+Copyright © 2005 FreeWebs Corporation.  All Rights Reserved.
+FreeWebs offers a limited license for use of this template for FreeWebs Premium Users only.
+Under no circumstances may this template be used on a website that is not hosted by FreeWebs.
+-->
+
+<HTML><HEAD><TITLE>Lews Street 101: .::Big Lews Streetball::. -week 2 week info-</TITLE>
+
+<meta name="keywords" content="streetball, moves, videos, nicknames, mix tapes, biographies, skip 2 my lou, message board, chat, news">
+
+<meta name="description" content="Ma site brings you up to date with streetball it's got the awsome moves players the nicknames videos news mix tapes and more, and a message board for chat ">
+
+
+<STYLE TYPE="text/css">
+  BODY { font-family: Arial, Helvetica, sans-serif;
+              font-size: 12; }
+  TD   { font-size: 12;}
+  .section:link {color: white;}
+  .section:visited {color: white;}
+  A:link {color: black;}
+  A:visited {color:black;}
+</STYLE>
+
+
+</head>
+
+
+
+<BODY class="hasOneColumn noSidebar navtype-Left translate-en"  style="background:url('http://lews_street_101.webs.com/m 3.gif');" bgColor=#FFFFFF leftMargin=0 topMargin=0 marginheight="0" marginwidth="0">
+<script type="text/javascript" src="http://static.websimages.com/JS/fw.js"></script>
+<!-- 
+
+
+
+-->
+
+<!-- This Site Template was made by Elipse Networks for
+
+     FreeWebz.com -->
+
+<!-- For further information or to get your own web-design
+
+     visit Elipse Networks at: www.elipsenetworks.com -->
+
+<TABLE cellSpacing=0 cellPadding=0 width="780" border=0>
+
+  <TBODY> 
+
+  <TR>
+
+    <TD colSpan=2 height=55>
+
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+
+        <TBODY> 
+
+        <TR vAlign=top align=left> 
+
+          <TD width="40%" style="background:URL('http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/topindex.gif') NO-REPEAT;" height="57">&nbsp;</TD>
+
+          <TD width="49%" 
+
+        background=http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/back_index.gif valign="bottom" height="57"><font size="5" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF" size="5" face="Courier New, Courier, mono">Lews Street 101</font></b></font></TD>
+
+          <TD width="11%" 
+
+        background=http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/back_index.gif valign="middle" height="57"> 
+
+            <p align="right"><font size="5" face="Arial, Helvetica, sans-serif"><b></b></font><font color="#FFFFFF"><a href="http://lews_street_101.webs.com/"><img id=log src="http://www.freewebs.com/lews%5Fstreet%5F101/cooltext14516723.jpg" alt="Lews Street 101" border="0" height="50"></a></font> 
+
+            </p>
+
+          </TD>
+
+        </TR>
+
+        </TBODY>
+
+      </TABLE>
+
+      <TABLE height=9 cellSpacing=0 cellPadding=0 width="780" border=0>
+
+        <TBODY>
+
+        <TR vAlign=top align=left bgColor=#ee4e00>
+
+          <TD width="778">
+
+            <TABLE cellSpacing=0 cellPadding=0 width=780 border=0 height="20">
+
+              <TBODY> 
+
+              <TR vAlign=center align=middle> 
+
+                <TD align=right width=238 bgColor=#0069CE height=12 valign="middle"> 
+
+                  <p align="left"><B></B></p>
+
+                </TD>
+
+                <TD align=middle width=319 height=12 bgcolor="#0683FF"> 
+
+                  <p align="center"><FONT 
+
+                  face="Verdana, Arial, Helvetica, sans-serif" color=#ffffff 
+
+                  size=1></FONT> 
+
+                </TD>
+
+                <TD align=middle width=210 bgColor=#0069CE height=12> 
+
+                  <p align="center"><font face="Verdana" size="1">&nbsp; 
+
+                    <SCRIPT src="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/date.js">var mydate=new Date()var year=mydate.getYear()if (year<2000)year="19"+yearvar day=mydate.getDay()var month=mydate.getMonth()var daym=mydate.getDate()if (daym<10)daym="0"+daymvar dayarray=new Array("Domingo","Lunes","Martes","Miércoles","Jueves","Viernes","Sábado")var montharray=new Array("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre")document.write("<small><font color='#ffffff' face='verdana, helvetica' size='1'><b>"+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+"</b></font></small>")</SCRIPT>
+
+                    </font></p>
+
+                </TD>
+
+              </TR>
+
+              </TBODY>
+
+            </TABLE>
+
+          </TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<TABLE cellSpacing=0 cellPadding=0 width="780" border=0>
+
+  <TBODY>
+
+   <tr>
+
+          <TD vAlign=bottom align=right width=762 bgcolor="#000000" colspan="3"><IMG height=1 
+
+                        src="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/trans.gif" width=1></TD>
+
+        </tr><TR>
+
+    <TD width="21" background=http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/back_index3.gif>&nbsp;</TD>
+
+    <TD width="748" background=http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/back_index3.gif>
+
+      <p align="center"><font face="Verdana" size="1" color="#FFFFFF"><b>.::Big Lews Streetball::. -week 2 week info-</b></font></p>
+
+    </TD>
+
+    <TD width="56" background=http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/back_index3.gif bgcolor="#0069CE">
+
+      <div align="right"><a href="index.htm"><img src="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/home.gif" width="48" height="27" border="0"></a></div>
+
+    </TD>
+
+  </TR></TBODY></TABLE>
+
+<TABLE height="482" cellSpacing=0 cellPadding=0 width=780 border=0>
+
+  <TBODY>
+
+  <TR>
+
+    <TD vAlign=top align=left width=118 bgcolor="#C0C0C0" rowSpan=2 height="482">
+
+      <TABLE cellSpacing=0 cellPadding=0 border=0 height="100%">
+
+        <TBODY> 
+
+        <tr>
+
+          <TD vAlign=bottom align=right width=762 bgcolor="#000000"  height="1"><IMG height=1 
+
+                        src="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/trans.gif" width=1></TD>
+
+        </tr><TR> 
+
+          <TD bgcolor="#2D96FF" align="center" height="20"><b><font face="Verdana" color="#FFFFFF" size="1"><img src="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/triangle.gif" width="7" height="4"> 
+
+            Site Navigation&nbsp;&nbsp;&nbsp;&nbsp;</font></b></TD>
+
+        </TR>
+
+         <tr>
+
+          <TD vAlign=bottom align=right width=762 bgcolor="#000000"  height="1"><IMG height=1 
+
+                        src="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/trans.gif" width=1></TD>
+
+        </tr><TR> 
+
+          <TD bgcolor="#71B8FF" align="center" height="10" valign="middle"> 
+
+            <p align="left"><br>
+
+               
+
+&nbsp;<b><font face="Verdana" size="1" style="color:#FFFFFF"><a class="section" href="http://lews_street_101.webs.com/" >Home</a></font></b>
+
+<BR><BR> 
+
+&nbsp;<b><font face="Verdana" size="1" style="color:#FFFFFF"><a class="section" href="http://lews_street_101.webs.com/nicknames.htm" >.::Nicknames::.</a></font></b>
+
+<BR><BR> 
+
+&nbsp;<b><font face="Verdana" size="1" style="color:#FFFFFF"><a class="section fw-current-nav-link" href="http://lews_street_101.webs.com/trashtalk.htm" >.::Trash Talk::.</a></font></b>
+
+<BR><BR> 
+
+&nbsp;<b><font face="Verdana" size="1" style="color:#FFFFFF"><a class="section" href="http://lews_street_101.webs.com/moves.htm" >.::Moves::.</a></font></b>
+
+<BR><BR> 
+
+&nbsp;<b><font face="Verdana" size="1" style="color:#FFFFFF"><a class="section" href="http://lews_street_101.webs.com/mixtapes.htm" >.::Mix Tapes::.</a></font></b>
+
+<BR><BR> 
+
+&nbsp;<b><font face="Verdana" size="1" style="color:#FFFFFF"><a class="section" href="http://lews_street_101.webs.com/carmelo.htm" >.::Carmelo::.</a></font></b>
+
+<BR><BR> 
+
+&nbsp;<b><font face="Verdana" size="1" style="color:#FFFFFF"><a class="section" href="" >.::2nd Street::.</a></font></b>
+
+<br>
+
+              <br>
+
+            </TD>
+
+        </TR>
+
+        <tr>
+
+          <TD vAlign=bottom align=right width=762 bgcolor="#000000"  height="1"><IMG height=1 
+
+                        src="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/trans.gif" width=1></TD>
+
+        </tr><TR> 
+
+          <TD bgcolor="#0057AE" align="center">&nbsp;</TD>
+
+        </TR><tr height="1">
+
+          <TD vAlign=bottom align=right width=762 bgcolor="#000000"  height="1"><IMG height=1 
+
+                        src="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/trans.gif" width=1></TD>
+
+        </tr>
+
+        <tr> 
+
+          <TD bgcolor="#C0C0C0" align="center" height="13"><font face="Verdana" color="#FFFFFF" size="1">&nbsp</font></TD>
+
+        </tr>
+
+         <tr>
+
+          <TD vAlign=bottom align=right width=762 bgcolor="#000000"  height="1"><IMG height=1 
+
+                        src="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/trans.gif" width=1></TD>
+
+        </tr><tr height="15"> 
+
+          <TD align="center" height="18" background="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/back_index3.gif" bgcolor="#71B8FF">&nbsp;</TD>
+
+        </tr><tr height="1">
+
+          <TD vAlign=bottom align=right width=762 bgcolor="#000000"  height="1"><IMG height=1 
+
+                        src="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/trans.gif" width=1></TD>
+
+        </tr>
+
+        </TBODY> 
+
+      </TABLE>
+
+    </TD>
+
+    <TD vAlign=top align=left width=662 rowSpan=2 height="482"><BR>
+
+      <TABLE cellSpacing=0 cellPadding=0 width=590 align=center border=0>
+
+        <TBODY> 
+
+        <TR vAlign=top align=left>
+
+          <TD height=398> 
+
+            <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#c4230d 
+
+            border=0>
+
+              <TBODY>
+
+              <TR>
+
+                <TD vAlign=center align=middle width="100%" height=20 bgcolor="#0057AE"><font color="#ffffff" face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>.::Trash Talk::.</b></font></TD>
+
+              </TR><tr height="1">
+
+          <TD vAlign=bottom align=right width=762 bgcolor="#000000"  height="1"><IMG height=1 
+
+                        src="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/trans.gif" width=1></TD>
+
+        </tr></TBODY></TABLE>
+
+            <!-- ParagraphStart 6098789 --> 
+
+            <TABLE cellSpacing=0 cellPadding=3 width=589 border=0>
+
+              <TBODY> 
+
+              <TR>
+
+                <TD vAlign=top align=left height=75> 
+
+                  <TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+
+                    <TBODY>
+
+                    <TR bgColor=#ff6600>
+
+                      <TD bgcolor="#0069CE"> 
+
+                        <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b><u><a name="6098789"></a><!-- ParagraphTitleStart -->.::Trash Talk::. <!-- ParagraphTitleEnd --></u></b></font></p>
+
+                      </TD></TR></TBODY></TABLE>
+
+                  <P><font face="Arial, Helvetica, sans-serif" size="2"><!-- ParagraphBodyStart --><P><FONT color=cornflowerblue size=4 face=arial><STRONG>-(after someone pulls a move) Someone call the doctor cuz that move was sick!!!<BR>-(after you block a shot) The question is why? Why would you try and shoot on me?<BR>-(after you steal the ball) Someone call the cops, there's been a theft of a <A href="http://shop-buy-online.co.uk/?Path=sitemap&amp;Page=search&amp;search=basketball">basketball</A>!!!<BR>-(after you block a shot) Didin't you see the sign to the hoop. It says "No Entry"<BR>-Your game's like moldy swiss cheese, full of holes!!!<BR>-D is the fourth letter of the alphabet. A B C then D, you might wanna start using some of it!!!<BR>-(after you block a shot) Uh, does the term pumpfake ever come into mind???<BR>-(after a cross) i believe your ankles need an X-ray!!!<BR>-If i were you on D, id juss step off the court<BR>-My moves are rated R cuz of tha violence it causes on your anklez!!!<BR>-(after you shake the D) I know, i feel sorry for you too, your girlfriend saw that</STRONG></FONT></P>
+<P><FONT size=4><FONT color=cornflowerblue face=arial><STRONG>-Forget about the circus, i'm the greatest show on earth!!!<BR>-i'm da 8th wonder of the world!!!<BR>-if i let u score will u go home??<BR>-take my card i'm givin u the busuiness!!<BR>-hit da weight room cuz your game is weak!!!<BR>-u should charge a toll that i drive by u so much!!!<BR>-class is now in session!<BR>-my game and your mom, they're both phat!!<BR>-look up greatest in the dictionary and you'll see a pic of my game!<BR>-r u planning to make a house wit all dose bricks???<BR>-stop shooting! trhe backboard has feelings too!!!<BR>-do u have a suitcase for all dat travelin??<BR>-i think you lost your game better go check the lost and found!!!<BR>-your the worst store owner . . . always gettin things stolen!!!<BR>-you call that a move? that looks like sometine my lil bro did when he was 3!!!<BR>-my shots are as accurate as a shot out of a sniper rifle. I never miss<BR>-1 second your looking straight at me, the next i was hanging on the rim!!<BR>-i drop so many bombs u thought it was pearl harbor all over again!!<BR>-if u are scoring then i know i'm playing bad!!!<BR>-i don't get paid enough to waste my time with peeps like u!!!<BR>-When u shoot the only thing da ball is gonna hit is my hand!!!<BR>-You're like a bundle of firewood, always getting burned<BR>-The more you shoot the more embarrassment you're causing yourself<BR>-My handles are more than you can handle<BR>-I make you fall more and worst than if you're dancing on ice<BR>-By the time I'm done wit you your not gonna have any ankles left<BR>-I drive pass you so much you must feel like a hitchhiker being ignored by every car<BR>-you have 2 choices . . . step off the court or get your ass embarrassed<BR>-I heard that they were selling handlez (or what ever the D isnt doing good in) down the street . . . why don??t u get yourself one<BR>-Better get some Lysol ready cuz I??m gonna mess u up<BR>-My moves are too fast for the naked eye to see<BR>-they call the side ur guarding the express lane cuz it's fast and easy to get pass<BR>-ur so short I almost tripped ova u<BR>-Don't laugh . . . your next<BR>-I don need a mic . . . my game speaks for itself<BR>-take a ticket . . . I'm serving everyone<BR>-don??t blink . . . u might miss something<BR>-u and the net . . . I'm wearing both u guys out<BR>-(when they air ball it) Aaaaaiiiiiiirrrrrrrrr Jordan<BR>-(when u block it) Get outa my house!!<BR>-(when they miss/air balls it but it hits the bottom of the net) Nothin but the bottom of the net!<BR>-my moves aren't the speed of light . . . my moves are faster<BR>-ima gon turn our side of the score board into a clock, and i'm the battery, it'll just keep going up til u stop me<BR>-They call me the Arizona Forest cuz i'm always on fire<BR>-my hops are so good that when they made the song touch the sky they were watchin me!!!<BR>-when u shoot your team starts to pray!!!<BR>-you foul so much the crowd can't tell the difference between this and boxing!!!<BR>-here's a present for u . . . a book on how to NOT airball!!!!<BR>-when i said i was gonna skool u, u took out your text book!!!<BR>-your shot is so off that the crowd can't tell what your aiming at!!<BR>-You're so slow that if you went any slower time would stop<BR>-u tripped so bad, u made a hole in the floor<BR>-i saw the audience faces turns sour when u did a move.....I thought they were eating warheads.<BR>-my game is like a chewing gum, my defense is sticky!<BR>-now i finally realized what a bad player means when I looked at u<BR>-u need to start taking viagra to get ur game harder.<BR>-Even my Shadow can't stay with me!!!<BR>-You're like a classic car, always gettin waxed!!<BR>-I'm like time. . .i can't be stopped!!!<BR>-Here's a 5 . . . go buy youself a game!!!<BR>-Grab a notebook . . . your abobut to be schooled!!<BR>-They call me the Bus driver cuz i bring kids to school!!!<BR>-Smile . . . this move can be on a poster!!!<BR>-call 9111 . . . i'm on fire!!!<BR>-go to church and pray u don't have to guard me!!!<BR>-I believe in recycling . . . i' gonna use u over and over!!!<BR>-I saw a picture of your game on a milk carton!!!<BR>-Dont apologize yo games sorry enough<BR>-Oh! Oh! Sorry! Did I stand on your game?<BR>-Oh sorry! the tennis courts are across tha road!<BR>-Are you playin tha same game I am?<BR>-You so stupid you failed yo blood test, let me take you back to skool!<BR>-your like a candle, always getting blown out<BR>-all dat shake and bake but no dinner?<BR>-Just back up . . . the closer you guard the better i look and the worse you look<BR>-Naw im not a pro....Im better <BR>-(make a swish) Now thats the sound i like <BR>-Yea your right im not good but atleast i can still beat you <BR>-Man you must envy me...i just did that move <BR>-Awwww so cute but you gon look ugly when you start guarding me<BR>-i am 2kwik 2 guard, so stan bak if u still want yo anklez<BR>-get out yo ankle brace or book yo ass an ambulance fool<BR>-im like a ghost wen u gard me, i disappear<BR>-u can dream all u wanna but u never b like me<BR>-how many times are u gonna let me score??<BR>-i didnt no the earth cude supply so many bricks<BR>-u would of had a better chance to make it if u didnt throw it at my hand when i jumped up<BR>-go to a place where they sell video games and buy yo self a sum game, u mite need it<BR>-so which bus u want me to take u to school in?<BR>-if u didnt shoot bricks there would be alot less ppl in the hospital<BR>-no, dont shoot!! u can put an eye out wit that thing!!<BR>-(when u bank a shot, it bounces off the backboard and goes in) the bandk is open for deposits<BR><BR></STRONG></FONT><BR></FONT><FONT color=cornflowerblue size=4 face=arial><STRONG>-They call me Area Code cuz I dial long distance<BR>-They call me The Thief cuz I'm always stealing the ball<BR>-They call me The Sheild cuz i'm always blocking things <BR>-They call me The Right Hand Man cuz I'm always assisting people<BR>-They call me Grasshopper cuz i can jump like one<BR>-They call me The Crossing Guard cuz i'm always crossing people on the Streets.<BR>-They call me Bus Driver cuz i'm always taking kids to school<BR>-They call me The Xecutioner cuz moves kill the D<BR>-They call me 911 cuz it always has to be dialed when i do a cross<BR>-They call me 100% cuz i never miss a shot<BR>-They call me Bannaz Peel cuz i always make u fall<BR>-They call me The X cuz I'm always crossin em up<BR>-They call me The Chef cuz I'm always shakin and bakin<BR>-They call me Complete package cuz my game includes everything<BR>-They call me Full course meal cuz my game includes everything<BR>-They call me Two face cuz I play good offense and defense<BR>-They call me TNT cuz I explode right to the hoop<BR>-They call me The Slot Machine cuz you can't ever win against me and if you do you've hit jackpot<BR>-They call me Captain Hook cuz i can put in any hook shot<BR>-They call me Steel cuz I can't be penetrated and i can "steal"<BR>-They call me The terrorist cuz I do shocking things<BR>-They call me Antitheft cuz I never get the ball stolen (in other words good handles)<BR>-They call me Grand theft auto cuz I'm always stealin the ball<BR>-They call me 007 license to kill cuz i'm always killin peeps on the court<BR>-They call me frost bite cuz I freez all the playaz on the court<BR>-They call me Houdini cuz my moves aren't real, their magic<BR>-They call me ET cuz my moves are from out of this world<BR>-They call me Fast4ward- cuz that's what my handles look like<BR>-They call me 3d EFX- cuz my moves don't look real<BR>-They call me Jaw Jroppercuz that's what happens to the crowd when i pull a move<BR>-They call me The Electric Chaircuz i leave the D in shock<BR>-They call me Poison cuz i can take the D down like dat<BR>-They call me Earthquake cuz i'll shake u til u fall<BR>-They call me Fire Fighter cuz i put out ppl's fires<BR>-They call me 24 karat cuz my game pure<BR>-They call me Museum of Natural Skillz cuz dat's waht i am<BR>-They call me Corner Stone cuz the team can't stand without me<BR>-They call me Unshakable cuz I can't be shaked<BR>-They call me Yeti, the unBOMBable snowman cuz when i'm on the court nobody can drop a bomb on me<BR>-They call me the Assistant cuz i'm always giving assists<BR>-They call me Boardless cuz I always swish<BR>-They call me Chili Sauce cuz i'm hotter than Hot Sauce</STRONG></FONT></P><!-- ParagraphBodyEnd --><br>
+
+                    </font></P>
+
+                  
+
+                </TD>
+
+              </TR></TBODY></TABLE>
+
+            <!-- ParagraphEnd 6098789 --><BR><!-- ParagraphStart 6098828 --> 
+
+            <TABLE cellSpacing=0 cellPadding=3 width=589 border=0>
+
+              <TBODY> 
+
+              <TR>
+
+                <TD vAlign=top align=left height=75> 
+
+                  <TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+
+                    <TBODY>
+
+                    <TR bgColor=#ff6600>
+
+                      <TD bgcolor="#0069CE"> 
+
+                        <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b><u><a name="6098828"></a><!-- ParagraphTitleStart -->.::Quotes::. <!-- ParagraphTitleEnd --></u></b></font></p>
+
+                      </TD></TR></TBODY></TABLE>
+
+                  <P><font face="Arial, Helvetica, sans-serif" size="2"><!-- ParagraphBodyStart --><FONT color=deepskyblue size=4 face=arial>
+<P><STRONG>-"the secret is there is no secret"<BR>-"My skills got me out, My heart brings me back. ima prove the haters wrong?<BR>-"If u don't want to get dirty then don't play."<BR>-"it's simple, i make everyone around me better."<BR>-"better to have more assists than points."<BR>-"do what ever your gonna do out on the court. no one can stop u from doing what you are going to do."<BR>-"he can do everything and he's still learning."<BR>-"moves and skillz are no use if u don't use 'em"<BR>-"streetball is more mental, it's not only the defender u play but also the crow around u."<BR>-"PLay ball til u can't play no more"<BR>-"Never complain, never explain."<BR>-"do what u can but don't do what u can't."<BR>-"no your limits."<BR>-"great minds ball alike"<BR>-"<A href="http://shop-buy-online.co.uk/?Path=sitemap&amp;Page=search&amp;search=basketball+game">basketball </A>is one sport, streetball is at another level"<BR>-"use the skillz god gave u"<BR>-"streetball is a display of your skillz"<BR>-"if you are not willing to practice you should not be willing to play"<BR>-"you can get better or worse you choose"<BR>-"failure is not an option"<BR>-"in basketball it is quantity not quality"<BR>-"you don't play against your opponents, you play against the game of streetball"<BR>-"A champion is afraid of losing. Everyone else is afraid of winning"<BR>-"My attitude is, if you push me toward something that is my weakness then i will turn that percieved weakness into a strength"<BR>-"I don't need plays when I'm out on the court, I play when I'm out on the court"<BR>-"I don't care if our teams wins, I care if I win"<BR>-"Don't let yesterday’s disappointment shadow over tomorrow's dreams<BR>-"Don't do more than you can do, but don't do less either."<BR>-"Good, better, best. Never let it rest. Until your good is better and your<BR>better is best."<BR>-"The difference between an extraordinary player and an ordinary player is that little extra."<BR>-"If I was given eight hours to chop down a tree. I would spend seven hours sharpening my ax"<BR>-"If you think small things don't matter, think of the last game you lost by one point."<BR>-"The Harder you work the harder you are to lose."<BR>-"It's not the hours you put in, it's what you put in the hours."<BR>-"Nobody is perfect, except when you practice, cuz practice makes perfect"<BR>-"first master the fundamentals, then master the game"<BR>-"have the game mastered and you'll be the master of the game"<BR>-"Everyone wants to win, but not everyone is willing to prepare to win."</STRONG></P></FONT><FONT face="Times New Roman"></FONT><FONT size=2 face=Arial>
+<P>&nbsp;</P></FONT><!-- ParagraphBodyEnd --><br>
+
+                    </font></P>
+
+                  
+
+                </TD>
+
+              </TR></TBODY></TABLE>
+
+            <!-- ParagraphEnd 6098828 --> 
+
+            <p>&nbsp;</p>
+
+            </TD></TR></TBODY></TABLE>
+
+     <p>&nbsp;</p><table border="0" width="100%" cellspacing="0" cellpadding="0" height="27">
+
+      <tr>
+
+          <TD vAlign=bottom align=right width=762 bgcolor="#000000"  height="1"><IMG height=1 
+
+                        src="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/trans.gif" width=1></TD>
+
+        </tr><tr>
+
+       <td width="100%" bgcolor="#C0C0C0" height="13">
+
+            <p align="center"><font face="Verdana" size="1" color="#000000"> <script type="text/javascript"> 
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-230305-2']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowHash', false]);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_trackPageview']);
+	
+	 (function() {
+	   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	 })();
+</script>
+
+<script> 
+ _udn = "none"; 
+</script>
+
+<!-- Google Website Optimizer Control Script -->
+<script>
+function utmx_section(){}function utmx(){}
+(function(){var k='2354831680',d=document,l=d.location,c=d.cookie;function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
+d.write('<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':'://www')+'.google-analytics.com'+'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+'" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
+</script>
+<!-- End of Google Website Optimizer Control Script -->
+
+<!-- Google Website Optimizer Tracking Script -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['gwo._setAccount', 'UA-230305-28']);
+  _gaq.push(['gwo._setDomainName', 'none']);
+  _gaq.push(['gwo._trackPageview', '/2354831680/test']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End of Google Website Optimizer Tracking Script -->
+
+<script>utmx_section("Legacy Footer")</script>
+<p style="float: left; font-size: 11px; text-align: left;">
+<a rel="nofollow" onclick="_gaq.push(['_link', 'http://www.webs.com/?referer=wftr-null&utm_source=product&utm_medium=userSite&utm_term=free&utm_content=legacy&utm_campaign=footer']); return false;" href="http://www.webs.com/?referer=wftr-null&utm_source=product&utm_medium=userSite&utm_term=free&utm_content=legacy&utm_campaign=footer" value="Create a Free Website at Webs.com" title="Create a Free Website" class="fwftr-input-big fwftr-button">
+<span>Create a Free Website</span></a>
+</p>
+</noscript>
+<script>var _nwls=[];if(window.jQuery&&window.jQuery.find){_nwls=jQuery.find(".fw_link_newWindow");}else{if(document.getElementsByClassName){_nwls=document.getElementsByClassName("fw_link_newWindow");}else{if(document.querySelectorAll){_nwls=document.querySelectorAll(".fw_link_newWindow");}else{document.write('<scr'+'ipt src="http://static.websimages.com/static/global/js/sizzle/sizzle.min.js"><\/scr'+'ipt>');if(window.Sizzle){_nwls=Sizzle(".fw_link_newWindow");}}}}var numlinks=_nwls.length;for(var i=0;i<numlinks;i++){_nwls[i].target="_blank";}</script>
+<!-- Start ClickyPlugin (none) -->
+
+<!-- End ClickyPlugin (none) -->
+
+<!-- Start StatsPlugin -->
+<script data-keep-for-mobile='1'>webs = window.webs || {}; webs.stats = {"siteId":"1828203","pageId":"4332346","pageTitle":".::Trash Talk::.","parentPageId":"","collectorUrl":"http://collector.stats.webs.com/record","premium":false};</script><script data-keep-for-mobile='2' async src='http://static.websimages.com/active-static/target/stats/collector.js'></script>
+<!-- End StatsPlugin -->
+<!-- --><script type="text/javascript" src="http://static.websimages.com/static/global/js/webs/usersites/escort.js"></script><script type="text/javascript">if(typeof(urchinTracker)=='function'){_uacct="UA-230305-2";_udn="none";_uff=false;urchinTracker();}</script></font>
+
+          </td>
+
+      </tr><tr>
+
+          <TD vAlign=bottom align=right width=762 bgcolor="#000000"  height="1"><IMG height=1 
+
+                        src="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/trans.gif" width=1></TD>
+
+        </tr>
+
+      <tr>
+
+          <td width="100%" bgcolor="#808080" height="18"> 
+
+            <p align="center"><font face="Verdana" size="1" color="#FFFFFF"><noframes></noframes><noscript></noscript><!-- --><script type="text/javascript" src="http://static.websimages.com/static/global/js/webs/usersites/p.js"></script>..Thanks¿¿hecking¿ut¿y¿ite..¿::Big¿ew::.¿2Clue*</font> 
+
+          </td>
+
+      </tr><tr>
+
+          <TD vAlign=bottom align=right width=762 bgcolor="#000000"  height="1"><IMG height=1 
+
+                        src="http://images.freewebs.com/Members/Generationz/NewStyles/BlueGear/trans.gif" width=1></TD>
+
+        </tr>
+
+     </table>
+
+    </TD></TR>
+
+  </TBODY></TABLE></BODY></HTML>
+
+<!-- webssite938 -->++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.and1.com/>====================
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+		<meta name="google-site-verification" content="zRg4cDTgK0W7CgPrd61rQdrqXrd3moKro7GyyUuXj5U" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>AND1</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=1280">
+        <script src="/wp-content/themes/and1/scripts/vendor/jquery.min.js"></script>
+        <script src="/wp-content/themes/and1/scripts/vendor/modernizr.min.js"></script>
+        <link rel="stylesheet" href="/wp-content/themes/and1/style.css"> 
+        <link rel="stylesheet" href="/wp-content/themes/and1/regiStyle.css">
+	<link rel="shortcut icon" href="http://and1.com/favicon.ico" />
+                
+        <link type="text/css" rel="stylesheet" href="http://fast.fonts.com/cssapi/bfff179a-e342-4fca-bb94-c18f58aca3b2.css"/>
+    </head>
+    <body>
+	<!--[if lt IE 7]>
+	    <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+	<![endif]-->
+
+	<div id="wrap">
+
+	<div id="header" class="container">
+	
+        	<div id="menu">
+        		<ul>
+        			<li><a href="/products"><span>Products</span></a></li>
+        			<li><a href="/team"><span>Team</span></a></li>
+        			<li><a href="/blog"><span>Blog</span></a></li>
+        			<li><a href="/media"><span>Media</span></a></li>
+        			<li><a href="/timeline"><span>Timeline</span></a></li>
+        		</ul>
+        	</div>
+        	<div id="logo">
+        		<h1><a href="/"><span>AND1</span></a></h1>
+        	</div>
+        	<div id="social">
+        		<ul>
+        			<li class="social-facebook"><a href="https://www.facebook.com/and1basketball" class="ext"><span>AND1 Facebook</span></a></li>
+        			<li class="social-twitter"><a href="https://twitter.com/and1basketball" class="ext"><span>AND1 Twitter</span></a></li>
+        			<li class="social-youtube"><a href="http://www.youtube.com/user/and1basketball" class="ext"><span>AND1 YouTube</span></a></li>
+        		</ul>
+        	</div>
+      
+	</div><!-- // #header -->
+	<div id="billboard">
+	
+		<div id="headlines">
+			<h1>AND</h1>
+			<div id="sub-headlines">
+				<div class="active"><h2><a href="/team">Welcome To The Show</a></h2></div>
+				<div ><h2><a href="/blog">Word on the street is...</a></h2></div>
+				<div ><h2><a href="/products">It's a dose of something Fresh</a></h2></div>
+			</div>
+			<div id="arrows">
+				<div id="arrow-up"></div>
+				<div id="arrow-down"></div>
+			</div>
+		</div>
+		
+		<div id="slide-1">
+			<div id="slide-1-carlos"></div>
+			<div id="slide-1-glare"></div>
+			<div id="slide-1-buildings"></div>
+		</div>
+		
+		<div id="slide-2">
+			<div id="slide-2-logo"></div>
+			<div id="slide-2-city"></div>
+			<div id="slide-2-players"></div>
+			<div id="slide-2-balls"></div>
+			<div id="slide-2-dotsl"></div>
+			<div id="slide-2-dotsr"></div>
+		</div>
+		
+		<div id="slide-3">
+			<div id="slide-3-burst"></div>
+			<div id="slide-3-shapes"></div>
+			<div id="slide-3-shoe"></div>
+		</div>
+	
+	</div><!-- // #billboard -->
+	
+	<div id="art"></div><!-- // #art -->
+	
+	<div id="content-main" class="container">
+    	
+    	<div class="row">
+    	
+	    	<div id="feature" class="span12 shadow">
+	    				
+				<div id="blog-post">
+	    			<div class="blog-post-cell">
+	    				<div class="blog-post-pic" style="background:#000 url(http://and1.com/wp-content/uploads/2013/12/84164184981.jpg) no-repeat top right;"><a href="/blog"><img src="/wp-content/themes/and1/images/blog-shadow.png" alt="" /></a></div>
+	    				<div class="blog-post-copy">
+	    					<span>Monday, January 20, 2014</span>
+	    					<h2><a href="/blog">NO BRAINER</a></h2>
+	    					<p>Weâ€™re done taking other opinions. Our boy belongs. <a class="open-post" href="/blog">Read More &rsaquo;</a></p>
+	    				</div>
+	    			</div>
+	    		</div><!-- // #blog-post -->
+		    	    		
+	    		<div id="tweet">
+	    			<div class="tweet-cell">
+	    				<span>Tweets As Crazy As Our Moves</span>
+	    				<h2>Follow Us <a target="tw" href="https://twitter.com/and1basketball/">@AND1Basketball</a></h2>
+	    				<p></p>
+	    			</div>
+	    		</div><!-- // #tweet -->
+	    	</div><!-- // #feature -->
+	    	
+    	</div>
+    	
+    	<div class="row">
+	    	<div id="feature-5" class="span4 shadow">
+	    		<div id="summer-pro-league">
+	    			<a href="/summer-remix"><span>AND1 Summer Remix</span></a>
+	    		</div>
+	    	</div>	    	
+	    	<div id="feature-3" class="span8 shadow">
+	    		<a href="http://bit.ly/LanceAllStar" target="lance"><span>Vote For Lance Stephenson in the NBA All-Star Game</span></a>
+	    	</div><!-- // #feature-3 -->
+    	
+    	</div>
+    	
+    	<div class="row">
+	    	
+	    	<div id="feature-4" class="span8 shadow">
+	    		<div id="five-star">
+	    			<a target="fivestar" href="http://fivestarbasketball.com/camps"><span>Five Star Basketball</span></a>
+	    		</div>
+	    	</div><!-- // #feature-2 -->
+	    	<div id="feature-2" class="span4 shadow">
+	    		<div id="featured-products">
+	    			<a href="/products"><span>Featured Product</span></a>
+	    		</div>
+	    	</div>    	
+    	</div>
+    	
+	</div><!-- // #content -->
+
+	<div id="footer-main" >
+		<div id="footer-wrap" class="clearfix">
+	    	<div id="latest" class="span4">
+	    		<h2>The Latest From AND1</h2>
+	    		<ul>
+	    					
+							<li>
+			    				<h3>NO BRAINER</h3>
+			    				<p><a href="/blog"><strong>Click here to read more &rsaquo;</strong></a></p>
+			    			</li>
+			    			<li class="break"></li>
+			    			
+							<li>
+			    				<h3>HOLIDAY DELIVERY</h3>
+			    				<p><a href="/blog"><strong>Click here to read more &rsaquo;</strong></a></p>
+			    			</li>
+			    			<li class="break"></li>
+			    			
+							<li>
+			    				<h3>CALL ME BACK</h3>
+			    				<p><a href="/blog"><strong>Click here to read more &rsaquo;</strong></a></p>
+			    			</li>
+			    			<li class="break"></li>
+			    			
+							<li>
+			    				<h3>TRIPLE-DOUBLE</h3>
+			    				<p><a href="/blog"><strong>Click here to read more &rsaquo;</strong></a></p>
+			    			</li>
+			    			<li class="break"></li>
+			    			
+							<li>
+			    				<h3>RESPECT THE UNIFORM</h3>
+			    				<p><a href="/blog"><strong>Click here to read more &rsaquo;</strong></a></p>
+			    			</li>
+			    			<li class="break"></li>
+			    		    		</ul>
+	    	</div>
+	    	<div id="meet" class="span4 shadow">
+	    	
+	    		<div id="player-1" class="player">
+	    			<h2>Meet Our Team</h2>
+	    			<a href="/team"><img src="/wp-content/themes/and1/images/team-spyda.jpg" alt="Spyda" /></a>
+	    		</div>
+	    		<div id="player-2" class="player">
+	    			<a href="/team"><img src="/wp-content/themes/and1/images/team-sauce.jpg" alt="Spyda" /></a>
+	    		</div>
+	    		<div id="player-3" class="player">
+	    			<a href="/team"><img src="/wp-content/themes/and1/images/team-polo.jpg" alt="Spyda" /></a>
+	    		</div>
+	    		<div id="player-4" class="player">
+	    			<a href="/team"><img src="/wp-content/themes/and1/images/team-easy.jpg" alt="Spyda" /></a>
+	    		</div>
+	    		
+	    	</div>
+	    	<div id="connect" class="span4">
+	    		<h2>Connect With Us</h2>
+	    		<a class="ext" href="http://www.facebook.com/and1basketball"><img src="/wp-content/themes/and1/images/connect-fb.png" alt="Be True to AND1.  Show Us A Little LIKE." /></a>
+	    		<a class="ext" href="http://twitter.com/and1basketball"><img src="/wp-content/themes/and1/images/connect-tw.png" alt="We Need Court Leaders. But Feel Free To FOLLOW." /></a>
+	    	</div>	
+		</div>
+		
+		<div id="footer-nav" class="container">
+			<ul>
+				<li><a href="/">AND1.COM</a></li>
+				<li> | </li>
+				<li><a href="/products">Products</a></li>
+				<li> | </li>
+				<li><a href="/team">Team</a></li>
+				<li> | </li>
+				<li><a href="/blog">Blog</a></li>
+				<li> | </li>
+				<li><a href="/media">Media</a></li>
+				<li> | </li>
+				<li><a href="/timeline">Timeline</a></li>
+				<li> | </li>
+				<li><a href="/press">Press</a></li>
+				
+				
+			</ul>
+		</div>
+		<div id="licensee-form">
+			<form method="post">
+				<div class="clear">
+					<div class="q">
+						<label for="contact-name">Name:</label>
+						<input type="text" id="contact-name" name="name" value="">
+					</div>
+					<div class="q">
+						<label for="contact-company">Company:</label>
+						<input type="text" name="company" id="contact-company" value="">
+					</div>
+					<div class="q">
+						<label for="contact-email">Email:</label>
+						<input type="text" name="email" id="contact-email" value="">
+					</div>
+					<div class="q">
+						<label for="contact-phone">Contact Phone Number:</label>
+						<input type="text" name="phone" id="contact-phone" value="">
+					</div>
+				</div>
+				<label for="contact-comments">Category of Interest (Please be as specific as possible):</label><br/>
+				<textarea name="comments" id="contact-comments" cols="90" rows="12"></textarea>
+				<br/><input type="submit" id="contact-submit" name="submit" value="Submit">
+			</form>
+			<div class="msg"></div>
+		</div>
+   	</div><!-- // #footer-main -->
+   	
+   	<div id="churchs-overlay"></div>
+   	<div id="churchs-popup">
+   		<h1 class="churchs-logo-and1"><a href="#h"><span>AND1</span></a></h1>
+   		<h1 class="churchs-logo-churchs"><a href="http://www.churchs.com/"><span>Churchs</span></a></h1>
+		<h1 class="churchs-logo-sprite"><a href="http://www.sprite.com/"><span>Sprite</span></a></h1>
+   		<h2>Welcome!</h2>
+   		<p><i>Churchâ€™s Chicken</i><sup>&reg;</sup>, <i>Coca-Cola</i><sup>&reg;</sup> & AND1 thank you for your valued service.<br />Please enjoy exploring the AND1 Store.</p>
+   		<div class="churchs-button">
+   			<h3><a href="http://www.and1usa.com/" target="and1usa>">Click Here to Start Shopping</a></h3>
+   		</div>
+		<div class="churchs-legal">
+			&copy;2013 Cajun Operating Company, under license by Cajun Funding Corp.
+			&bull; &copy;2013 The Coca-Cola Company
+			&bull; &copy;2013 The Basketball Marketing Co.
+	   	</div>
+	</div>
+<script>document.write("<scr"+"ipt src='http://mpp.specificclick.net/?nwk=4&y=2&t=j&tp=1&clid=11099&pixid=99081891&rnd=1393360238&u="+escape(parent.document.location)+"&r="+escape(parent.document.referrer)+"'></scri"+"pt>");</script><NOSCRIPT><IMG SRC="https://mpp.specificclick.net/?nwk=4&y=2&t=i&tp=1&clid=11099&pixid=99081891&rnd=time" width=0 height=0 border=0></NOSCRIPT>
+	<script>
+	    var _gaq=[['_setAccount','UA-36650165-1'],['_trackPageview']];
+	    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+	    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+	    s.parentNode.insertBefore(g,s)}(document,'script'));
+	</script>
+    <script>window.jQuery || document.write('<script src="scripts/vendor/jquery.min.js"><\/script>')</script>
+    <script src="/wp-content/themes/and1/scripts/vendor/ease.js"></script>
+    <script src="/wp-content/themes/and1/scripts/app.js"></script>
+    <script type="text/javascript" src="/wp-content/themes/and1/scripts/regi.js"></script>
+    <script type="text/javascript" src="/wp-content/themes/and1/scripts/jquery.form.js"></script>
+<img src="http://www.burstnet.com/enlightn/10657//2CF1/" width="0" height="0" border="0" alt=""/>
+    
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

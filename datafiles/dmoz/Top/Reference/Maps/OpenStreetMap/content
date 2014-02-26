@@ -1,0 +1,94 @@
+<topic r:id="Top/Reference/Maps/OpenStreetMap">
+<catid>489817</catid>
+<link1 r:resource="http://www.openstreetmap.org/"></link1>
+<link r:resource="http://www.osmfoundation.org/" />
+<link r:resource="http://openstreetmap.info/" />
+<link r:resource="http://www.stateofthemap.org/" />
+<link r:resource="http://en.wikipedia.org/wiki/OpenStreetMap" />
+<link r:resource="http://bestofosm.org/" />
+<link r:resource="http://www.mappa-mercia.org/" />
+<link r:resource="http://chris-osm.blogspot.com/" />
+<link r:resource="http://mapkibera.org/" />
+<link r:resource="http://devblog.mapquest.com/2010/07/09/mapquest-opens-up-uk/" />
+<link r:resource="http://www.learnosm.org/" />
+<link r:resource="http://switch2osm.org/" />
+<link r:resource="http://sotm-eu.org/" />
+<link r:resource="http://umap.openstreetmap.fr/" />
+<link r:resource="http://www.theguardian.com/technology/2009/aug/05/openstreetmap-google" />
+<link r:resource="http://stateofthemap.us/" />
+<link r:resource="http://osmplus.co/" />
+<link r:resource="http://sotm-baltics.org/" />
+<link r:resource="http://www.opencagedata.com/" />
+<link r:resource="http://eprints.nuim.ie/2476/" />
+<link r:resource="http://www.mapsmarker.com/" />
+</topic>
+<topic r:id="Top/Reference/Maps/OpenStreetMap/Derived_Maps">
+<catid>489820</catid>
+<link r:resource="http://www.yournavigation.org/" />
+<link r:resource="http://www.free-map.org.uk/" />
+<link r:resource="http://www.opencyclemap.org/" />
+<link r:resource="http://openmtbmap.org/" />
+<link r:resource="http://openpistemap.org/" />
+<link r:resource="http://www.osm-wms.de/" />
+<link r:resource="http://www.openstreetbrowser.org/" />
+<link r:resource="http://openseamap.org/" />
+<link r:resource="http://dev.openstreetmap.org/~random/postcodes/" />
+<link r:resource="http://www.xn--pnvkarte-m4a.de/" />
+<link r:resource="http://hikebikemap.de/" />
+<link r:resource="http://oobrien.com/oom/" />
+<link r:resource="http://www.lenz-online.de/cgi-bin/osm/osmpoinit.pl" />
+<link r:resource="http://www.maposmatic.org/" />
+<link r:resource="http://maps.cloudmade.com/" />
+<link r:resource="http://gpsmid.sourceforge.net/" />
+<link r:resource="http://osm.lonvia.de/world_hiking.html" />
+</topic>
+<topic r:id="Top/Reference/Maps/OpenStreetMap/Developer_Resources">
+<catid>489818</catid>
+<link r:resource="http://weait.com/content/build-your-own-openstreetmap-server" />
+<link r:resource="http://osmtools.de/easymap/" />
+<link r:resource="http://code.google.com/p/osmdroid/" />
+<link r:resource="http://sourceforge.net/projects/osm3d/" />
+<link r:resource="http://wiki.openstreetmap.org/wiki/Kosmos" />
+<link r:resource="http://wiki.openstreetmap.org/wiki/Mapgen.pl" />
+<link r:resource="http://gosm.sourceforge.net/" />
+<link r:resource="http://www.faktor.cc/Fotomobil/wp-osm-plugin" />
+<link r:resource="http://dev.openstreetmap.de/staticmap/" />
+<link r:resource="http://overpass-api.de/public_transport.html" />
+<link r:resource="http://www.overpass-api.de/" />
+<link r:resource="http://www.routino.org/" />
+</topic>
+<topic r:id="Top/Reference/Maps/OpenStreetMap/Editing_Tools">
+<catid>489819</catid>
+<link r:resource="http://ae.osmsurround.org/" />
+<link r:resource="http://josm.openstreetmap.de/" />
+<link r:resource="http://wiki.openstreetmap.org/wiki/Potlatch" />
+<link r:resource="http://keepright.ipax.at/" />
+<link r:resource="http://walking-papers.org/" />
+<link r:resource="http://mappa-mercia.org/novam/" />
+<link r:resource="http://openstreetbugs.schokokeks.org/" />
+<link r:resource="http://osm.virtuelle-loipe.de/restrictions/" />
+<link r:resource="http://code.google.com/p/osmeditor4android/" />
+<link r:resource="http://matt.dev.openstreetmap.org/owl_viewer/" />
+<link r:resource="http://tools.geofabrik.de/osmi/" />
+<link r:resource="http://taginfo.openstreetmap.de/" />
+<link r:resource="http://ra.osmsurround.org/" />
+<link r:resource="http://osmose.openstreetmap.fr/" />
+<link r:resource="http://mapcraft.nanodesu.ru/" />
+<link r:resource="http://onosm.org/" />
+<link r:resource="http://osmaptuner.salzburgresearch.at/" />
+</topic>
+<topic r:id="Top/Reference/Maps/OpenStreetMap/News_and_Media">
+<catid>1034921</catid>
+<link r:resource="http://news.bbc.co.uk/1/hi/technology/8305924.stm" />
+<link r:resource="http://www.pocket-lint.com/news/26612/osm-openstreetmap-interview-steve-coast" />
+<link r:resource="http://www.infoworld.com/t/web-applications/openstreetmap-attracts-200000-volunteers-560" />
+<link r:resource="http://news.bbc.co.uk/1/hi/magazine/8517057.stm" />
+<link r:resource="http://eu.techcrunch.com/2008/11/27/openstreetmap-grows-spawns-ecosystem/" />
+<link r:resource="http://arstechnica.com/open-source/news/2010/06/crowd-sourced-world-map.ars" />
+<link r:resource="http://www.swissinfo.ch/eng/swiss_news/The_globe,_mapped_by_you.html?cid=35084414&amp;link=tdj" />
+<link r:resource="http://www.independent.co.uk/life-style/gadgets-and-tech/features/are-mapbox-and-openstreetmaps-personalised-maps-the-future-of-cartography-8675498.html" />
+<link r:resource="http://www.theguardian.com/technology/2010/feb/04/mapping-open-source-victor-keegan" />
+<link r:resource="http://www.theatlanticcities.com/commute/2013/03/mapping-growth-openstreetmap/4982/" />
+<link r:resource="http://www.newscientist.com/article/dn23808-citizen-cartographers-fill-the-gaps-in-maps.html#.Ur6D8KcgGSM" />
+<link r:resource="http://www.theguardian.com/technology/2014/jan/14/why-the-world-needs-openstreetmap" />
+</topic>

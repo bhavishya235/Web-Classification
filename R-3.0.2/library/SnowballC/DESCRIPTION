@@ -1,0 +1,25 @@
+Package: SnowballC
+Type: Package
+Version: 0.5
+Date: 2013-05-22
+Title: Snowball stemmers based on the C libstemmer UTF-8 library
+Authors@R: person("Milan", "Bouchet-Valat", email="nalimilan@club.fr",
+        role=c("aut", "cre"))
+Description: An R interface to the C libstemmer library that implements
+        Porter's word stemming algorithm for collapsing words to a
+        common root to aid comparison of vocabulary. Currently
+        supported languages are Danish, Dutch, English, Finnish,
+        French, German, Hungarian, Italian, Norwegian, Portuguese,
+        Romanian, Russian, Spanish, Swedish and Turkish.
+License: BSD
+Copyright: Dr Martin Porter (2001) for the libstemmer C library, and
+        Milan Bouchet-Valat (2013) for the R package contents
+URL: https://r-forge.r-project.org/projects/r-temis/
+BugReports: https://r-forge.r-project.org/tracker/?group_id=1437
+Packaged: 2013-05-22 12:55:04 UTC; milan
+Author: Milan Bouchet-Valat [aut, cre]
+Maintainer: Milan Bouchet-Valat <nalimilan@club.fr>
+NeedsCompilation: yes
+Repository: CRAN
+Date/Publication: 2013-05-22 18:27:08
+Built: R 3.0.2; i686-pc-linux-gnu; 2014-01-27 11:11:52 UTC; unix

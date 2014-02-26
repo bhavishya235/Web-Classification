@@ -1,0 +1,686 @@
+====================<http://www.loc.gov/rr/perform/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<TITLE>Performing Arts Reading Room (Library of Congress)</TITLE>
+
+<META NAME="keywords" CONTENT="library of congress performing arts reading room music division music theater dance reference public service collections search bibliographies reading rooms">
+<META NAME="description" CONTENT="The Performing Arts Reading Room is the service point for the broad and diverse collections of the Music Division at the Library of Congress. Numbering approximately 12 million items and spanning more than 800 years of Western music history and practice, these holdings include the classified music and book collections, music and literary manuscripts and related artifacts, music-related periodicals and microforms, copyright deposits, and five collections of musical instruments. Peforming Arts Reading Room (Library of Congress, Music Division).">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="perform-new.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.style1 {
+	font-size: 9pt;
+	font-weight: bold;
+	font-style: italic;
+}
+.RED {
+	color: #C40000;
+}
+.red {
+	color: #D12330;
+}
+-->
+</style>
+<script type="text/javascript" src="http://cdn.loc.gov/js/global/foresee/foresee-trigger.js"></script></head>
+<body background="images/rr-back.gif" text="#333333" link="#006633" vlink="#666600" alink="#CC0000">
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="top">
+    <td height="25" colspan="2" class="background-green" bgcolor="#0C5546"><a href="#content" name="top"><img src="images/spacer-green.gif" alt="Skip Navigation Links" width="1" height="1" border="0"></a> &nbsp;<a href="http://www.loc.gov/" class="white">The
+        Library of Congress</a> <span class="white-text">&gt;&gt;</span> <span class="white-text"> </span> <a href="http://www.loc.gov/rr/" class="white">Researchers</a></td>
+  </tr>
+  <!-- title graphic -->
+  <tr>
+    <td colspan="2" class="background-green" bgcolor="#0C5546"><img src="images/perform-home-title.gif" alt="Performing Arts Reading Room (Music Division)" width="760" height="65" vspace="0"></td>
+  </tr>
+  <!-- spacer row -->
+  <tr>
+    <td class="background-green" bgcolor="#0C5546"><img src="images/spacer-green.gif" alt="" width="310" height="1"></td>
+    <td class="background-green" bgcolor="#0C5546"><img src="images/spacer-green.gif" alt="" width="430" height="1"></td>
+  </tr>
+  <tr bgcolor="#EEEEEE">
+    <td class="background-gray" bgcolor="#DDDDDD">&nbsp; <span class="selected">Home</span></td>
+    <td align="right" class="background-gray" bgcolor="#DDDDDD">
+      <form style="margin-bottom:0;" name="seek" method="GET" action="http://search.loc.gov:8765/query.html">
+        <table cellpadding="4" cellspacing="0" border="0" class="background-gray" bgcolor="#DDDDDD">
+          <tr>
+            <td align="right"><label for="find">Find</label>
+            </td>
+            <td><input type=hidden name="col" value="loc">
+              <input id="find" type="text" name="qt" size="15" maxlength="255" style="font-family: monospace; font-size: 12px" value="" tabindex="1">
+            </td>
+            <td><label for="in">in</label>
+            </td>
+            <td><span class="drop-box">
+              <select id="in" name="qp" size="1" tabindex="2">
+                <option value="url:/rr/perform/ url:/service/music/eadxmlmusic/eadpdfmusic/" selected>Performing
+                Arts Pages</option>
+                <option value="url:/rr/ url:/cfbook/ url:/poetry/ url:/folklife/ url:/loc/kluge/">Researchers
+                Web Pages</option>
+                <option value="">All Library of Congress Pages</option>
+              </select>
+              </span></td>
+            <td align="left"><input name="submit" type="image" class="submit" tabindex="3" src="images/go-button.gif" alt="go" align="top">
+        </table>
+      </form>
+    </td>
+  </tr>
+  <!-- spacer row -->
+  <tr>
+    <td class="background-green" bgcolor="#0C5546"><img src="images/spacer-green.gif" alt="" width="310" height="1"></td>
+    <td class="background-green" bgcolor="#0C5546"><img src="images/spacer-green.gif" alt="" width="430" height="1"></td>
+  </tr>
+  <!-- row to hold content table -->
+  <tr>
+    <td colspan="2">
+      <!-- begin content table -->
+      <table width="760" border="0" cellpadding="6" cellspacing="6">
+        <tr valign="top">
+          <td width="38%">
+            <ul>
+              <li><a href="general.info.html">General Information</a></li>
+              <li> <a href="new.collections.html">About the Collections</a></li>
+              <li><a href="fabiblgds.html">Catalogs, Bibliographies, &amp; Guides</a></li>
+              <li><a href="special/gd-index.html">Finding Aids</a></li>
+              <li><a href="http://www.loc.gov/concerts/">Concerts from the Library of Congress</a></li>
+              <li><a href="new.internet.resources.html">Performing Arts Internet Resources </a></li>
+              <li><a href="http://www.loc.gov/copyright/">Copyright Office</a></li>
+              <li> <a href="http://www.loc.gov/duplicationservices/">Duplication
+                Services</a></li>
+              <li> <a href="tours.html">Tours and Orientations</a></li>
+              <li><a href="http://www.loc.gov/rr/askalib/ask-perform.html">Ask
+                a Librarian</a></li>
+              
+            </ul>            <img src="images/flickr.gif" width="19" height="13">&nbsp;<a href="http://www.flickr.com/photos/library_of_congress/sets/72157624588645784">Gottlieb Jazz Photos on Flickr</a><br>
+            <img src="images/subscribe.gif" alt="RSS" width="14" height="14" align="absmiddle">&nbsp;&nbsp;<a href="http://blogs.loc.gov/music/">In the Muse</a> &nbsp;<span class="style1">Our Blog!</span>
+            <div id="rss">
+              <div align="left
+			  "><img src="images/subscribe.gif" alt="RSS" width="14" height="14" align="absmiddle">&nbsp;&nbsp;<a href="http://www.loc.gov/rss/" class="smalltext">RSS
+                Feeds</a><br><img src="images/email.gif" width="19" height="13"> <a href="http://service.govdelivery.com/service/multi_subscribe.html?code=USLOC&origin=http://www.loc.gov" class="smalltext">Email Updates</a> &nbsp;&nbsp;
+                </p>
+                <br>
+              </div>
+            </div>
+				
+                <p><img src="images/DramaWorksBibCover.jpg" alt="" width="75" height="100" hspace="10" border="0" align="left">&nbsp;<strong>Bibliography:</strong><br> <img src="images/yelnew.gif" width="28" height="11" alt="new!"><a href="TRANSCRIPTS_OF_DRAMATIC_WORKS.pdf"> Transcripts of Dramatic Musical Works in Full Score at the Library of Congress Music Division</a><br>(PDF, 397 KB)<br>
+          </p></td>
+          <td width="30%" align="center" bgcolor="#FFFFEE"> <p><em><strong>Performing
+                Arts Digital Collections:<br>
+                <br>
+          </strong></em><a href="http://www.loc.gov/performingarts"><img src="images/pae-home-image.jpg" alt="Performing Arts Encyclopedia" width="250" height="150" border="1"></a><br>
+<a href="http://www.loc.gov/performingarts/"><strong>Performing Arts Encyclopedia (PAE) </strong></a><em><br>
+      <span class="caption"><br>
+      </span></em><span id="skip_menu">PAE is a guide to performing arts <br>
+resources at the Library of Congress. <br>
+See, hear, and explore the Library's<br>
+unsurpassed collections of 
+scores, <br>
+sheet music, audio recordings,
+films,<br>
+photographs, and other materials.</span></p></td>
+          <td width="32%" align="right">
+            <address>
+            <p><strong>Hours:</strong><br>
+              Weekdays and Saturday<br>
+              8:30am to 5:00 pm<br>
+              No materials pulled after 4:15pm<br>
+              Closed <a href="http://www.opm.gov/fedhol/">Federal holidays</a><br>
+</p>
+            <p><strong>Location:</strong><br>
+              101 Independence Ave., SE<br>
+              Room LM 113<br>
+              <a href="http://www.loc.gov/loc/maps">James Madison Memorial Bldg</a><br>
+              Washington, D.C. 20540-4710<br>
+              Phone: 202-707-5507<br>
+              <a href="http://www.loc.gov/visit/maps/floorplan.php?map=lm1">Map showing
+              location<strong></strong></a></p>
+            <p><a href="http://www.loc.gov/rr/askalib/ask-perform.html"><strong>Ask
+                  a Librarian</strong></a><br>
+              <a href="http://www.loc.gov/rr/askalib/ask-perform.html"><img src="images/ask-ball-icon.gif" alt="Ask a Librarian" width="40" height="40" hspace="5" vspace="3" border="0" align="right"></a>Ask
+              the reference staff a question about music,<br>
+              theater or dance?</p>
+            </address>          </td>
+        </tr>
+        <tr valign="top">
+          <td colspan="3">
+            <p>The Performing Arts Reading Room is the access point for the vast and diverse collections in the custody of the Music Division at the Library of Congress. Numbering approximately 20.5 million items and spanning more than 1000 years of Western music history and practice, these holdings include the classified music and book collections, music and literary manuscripts, iconography, microforms, periodicals, musical instruments, published and unpublished copyright deposits, and close to 500 special collections in music, theater, and dance.</p>          </td>
+        </tr>
+      </table>
+      <!-- end content table -->
+    </td>
+  </tr>
+  <!-- spacer row -->
+  <tr>
+    <td class="background-green" bgcolor="#0C5546"><img src="images/spacer-green.gif" alt="" width="310" height="1"></td>
+    <td class="background-green" bgcolor="#0C5546"><img src="images/spacer-green.gif" alt="" width="430" height="1"></td>
+  </tr>
+  <tr bgcolor="#EEEEEE">
+    <td class="background-gray" bgcolor="#DDDDDD"> &nbsp; <span class="selected">Home</span></td>
+    <td align="right" class="background-gray" bgcolor="#DDDDDD">
+      <form style="margin-bottom:0;" name="seek" method="GET" action="http://search.loc.gov:8765/query.html">
+        <table cellpadding="4" cellspacing="0" border="0" class="background-gray" bgcolor="#DDDDDD">
+          <tr>
+            <td align="right"><label for="find2">Find</label>
+            </td>
+            <td><input type=hidden name="col" value="loc">
+              <input id="find2" type="text" name="qt" size="15" maxlength="255" style="font-family: monospace; font-size: 12px" value="" tabindex="1">
+            </td>
+            <td><label for="in2">in</label>
+            </td>
+            <td><span class="drop-box">
+              <select id="in2" name="qp" size="1" tabindex="2">
+                <option value="url:/rr/perform/ url:/service/music/eadxmlmusic/eadpdfmusic/" selected>Performing
+                Arts Pages</option>
+                <option value="url:/rr/ url:/cfbook/ url:/poetry/ url:/folklife/ url:/loc/kluge/">Researchers
+                Web Pages</option>
+                <option value="">All Library of Congress Pages</option>
+              </select>
+              </span></td>
+            <td align="left"><input name="submit" type="image" class="submit" tabindex="3" src="images/go-button.gif" alt="go" align=top>
+        </table>
+      </form>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <table width="760" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td width="37%" height="40" bgcolor="#006633" class="background-green">&nbsp; <a href="http://www.loc.gov/" class="white">The
+              Library of Congress</a> <span class="white-text">&gt;&gt;</span> <span class="white-text"> </span> <a href="http://www.loc.gov/rr/" class="white">Researchers</a><br>
+            <span class="white-text">&nbsp;
+            <!-- #BeginDate format:Am1 -->January 17, 2014<!-- #EndDate -->
+          </span></td>
+          <td width="38%" align="center" bgcolor="#006633" class="background-green"><a class="white" href="http://www.loc.gov/homepage/legal.html">Legal</a> <span class="white-text">|</span> <a class="white" href="http://www.loc.gov/global/disclaim.html">External Link Disclaimer</a><br>
+          <br></td>
+          <td width="25%" height="40" align="right" bgcolor="#006633" class="background-green"><a href="http://www.loc.gov/rr/askalib/ask-perform.html" class="white">Contact
+              Us: </a>&nbsp;<br>
+            <a href="http://www.loc.gov/rr/askalib/ask-perform.html" class="white">Ask
+            a Librarian</a>&nbsp;&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<script type='text/javascript' src='http://cdn.loc.gov/js/global/metrics/sc/v25.2/2.0/s_code.js'></script></body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.library.ucsb.edu/speccoll/collections/pa/index.html>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Performing Arts Collection | UCSB Library</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="http://webplayer.yahooapis.com/player.js"></script> 
+<link rel="shortcut icon" href="/sites/all/themes/pingv_ucsb/images/favicon.ico" type="image/x-icon" />
+<meta http-equiv="X-UA-Compatible" value="IE=9" /><meta http-equiv="X-UA-Compatible" value="IE=8"> <meta http-equiv="X-UA-Compatible" value="IE=7"> 
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_e798c2b444cf7d609df1c648113c1f56_3.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_e2ac656fb30f93ad916f6d252c4220e8_5.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_51120fd36e594331e37cf5305a5a60e4_1.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/sites/default/files/advagg_css/css_dbc3d630c21006b0b73c03d44e4f2857_60.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/advagg_css/css_fe3e3839860d3e5ab83a2269d1de7ab7_2.css" />
+<link type="text/css" rel="stylesheet" media="screen and (max-width: 940px)" href="/sites/default/files/advagg_css/css_2dc480375521202822920422678a646f_2.css" />
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js_1807b09d876462fd6d54957aba9660f3_2.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js_0072b95f5360ccfb65c984f55f958a90_9.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js_63d2542bf407b6be3cd61b01b84a3cd7_3.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js_381b95937def08193e54243adc584a29_2.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","spamspan":{"m":"spamspan","u":"u","d":"d","h":"h","t":"t"}});
+//--><!]]>
+</script>
+</head>
+
+<body class="not-front not-logged-in page-node node-type-page one-sidebar sidebar-left">
+
+  <!-- Skip links section -->
+  <div id="skip-links" title="Links that allow you to skip to certain parts of the page">    
+    <a href="#main-menu">Skip to navigation</a>
+    <a href="#sidebar-left">Skip to section-specific navigation</a>
+	<a href="#wrapper">Skip to main content</a>
+	<a href="/accessibility">Contact us about accessibility issues</a>	
+  </div>
+
+  <div id="page" class="container-12 clear-block">
+
+    <div id="header" class="grid-12 clear-block">
+
+      <a id="logo" href="/" alt="UCSB Library Home Page"><span>UCSB Library Home Page</span></a>
+
+            <div id="block-ucsb_library-library_hours" class="block block-ucsb_library ">
+
+  <div class="content">
+    Tuesday Feb 25 <span class="hours"><a href="/hours">Hours</a></span> | <span class="maps"><a href="/help/call-numbers-floor-plans">Floor Plans</a></span>  </div>
+</div>
+
+  <div id="block-search-0" class="block block-search">
+    <form action="/special-collections/performing-arts"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="container-inline">
+  <div id = "searchwrapper"><div class ="searchbox"><div class="form-item" id="edit-search-block-form-1-wrapper">
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="Search the library website..." class="form-text NormalTextBox txtSearch" onfocus="if (this.value == &#039;Search the library website...&#039;) {this.value = &#039;&#039;;}" onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search the library website...&#039;;}" />
+</div>
+</div><div class = "searchbutton"><input type="image" name="op" value="Search" id="edit-submit"  alt="Search" class="form-submit" src="/sites/all/themes/pingv_ucsb/images/blu_search.png" />
+</div></div><input type="hidden" name="form_build_id" id="form-a052d8ccd53fad1af7253992adfb8f97" value="form-a052d8ccd53fad1af7253992adfb8f97"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+</div>
+
+</div></form>
+</div>
+
+    
+  </div><!--/header-->
+
+    <div id="breadcrumbs-title" class="grid-12 clear-block">
+      <ul class="breadcrumbs clear-block"><li class="breadcrumb-1"><a href="/">Home</a> </li><li class="breadcrumb-last">Performing Arts Collection</li></ul>    </div><!--breadcrumbs-title-->
+
+    
+    <div id="wrapper" class="column grid-8 push-4">
+
+      
+      
+      
+      
+	 		<h1 class="title" id="page-title">Performing Arts Collection</h1>
+	      
+      <div id="main" class="column grid-8 alpha omega">
+  
+        <div id="content" class="region clear-block">
+          <div id="node-1921" class="node clear-block">
+
+
+
+
+  <div class="content">
+    <p><img class="imagecache-medium_align_right" title="Cover from a Columbia Record Catalog (1921) " src="/sites/default/files/imagecache/medium_align_right/images/performing-arts/columbia.jpg" alt="Cover from a Columbia Record Catalog (1921) " />The Performing Arts Collection contains over 76,009 cataloged holdings which includes recordings, manuscripts, photographs, and artwork that documents and supports research on local, national, and international performing arts. The collections are located in the Special Collections Department on the third floor of Davidson Library.</p>
+<h2>Notable Material</h2>
+<p>Significant manuscript holdings include the papers of film composer Bernard Herrmann, singer Lotte Lehmann, actress Judith Anderson, and composer Peter Racine Fricker. The Toole-Stott Circus Collection contains primary source material and monographs on the circus and the Lobero Theatre Papers are the organizational records of the oldest theater in Southern California. The sound archives consist of several large collections comprising of approximately 200,000 sound recordings, including cylinders, 78s, and LPs. The Special Collections department has listening and viewing facilities as well as a state-of-the-art laboratory for playback and preservation copying of audio, video, and film. Additional performing arts research materials are also in the collections of <a href="http://www.library.ucsb.edu/special-collections/cema">CEMA</a>.</p>
+<p>To read more about how to obtain reproductions of Performing Arts materials, please see our page on <a href="http://www.library.ucsb.edu/special-collections/research/forms">Policies, Fees and Forms</a>.</p>
+<h2>Donation Information</h2>
+<p>Special Collections is actively seeking both monetary contributions and donations of collections that enhance the curriculum of the University and complement the library’s current holdings in the performing arts. Areas of general interest include historic sound recordings and manuscript collections relating to music, the theater, dance, the circus, and film and television. Of particular interest are 78 rpm ethnic recordings, European recordings of vocal music, cylinders, materials relating to California and Santa Barbara performing arts, film music, and sound recording catalogs from all eras. We also seek to cooperate with other institutions that may be more appropriate homes for a particular collection. We cannot purchase or appraise collections.</p>
+<p>Contact the archivist if you know of materials that might fit into the scope of our collections:</p>
+<p><strong>David Seubert</strong><br /> Curator, Performing Arts Collection<br /> <span class="spamspan"><span class="u">seubert</span> [at] <span class="d">library [dot] ucsb [dot] edu</span></span><br /> (805) 893-5444</p>  </div>
+
+<div class="meta">
+  
+    </div>
+  
+  </div>        </div>
+  
+         <!-- disabling feed icons because we only have 1 feed which already has an icon in the footer --> 
+  
+      </div>
+
+      
+
+    </div><!--/main-->
+    
+              <div id="sidebar-left" class="column sidebar region grid-4 pull-8">
+            <div id="block-menu_block-5" class="block block-menu_block block-menu">
+  <h2>Special Collections</h2>
+
+  <div class="content">
+    <div class="menu-block-5 menu-name-menu-about-special-collections parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="expanded first menu-mlid-5747"><a href="/special-collections" title="">Special Collections Home</a><ul class="menu"><li class="leaf first menu-mlid-5749"><a href="/special-collections/support" title="">Giving to Special Collections</a></li>
+<li class="leaf last menu-mlid-5750"><a href="/special-collections/faq" title="">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-4909 active-trail"><a href="/special-collections/collections" title="" class="active-trail">Collections</a><ul class="menu"><li class="leaf first menu-mlid-4902"><a href="/special-collections/collections/aguides" title="">Alphabetical List of Collections</a></li>
+<li class="leaf menu-mlid-27761"><a href="/special-collections/collections/american-religions-collection" title="">American Religions Collection</a></li>
+<li class="leaf menu-mlid-27762"><a href="/special-collections/collections/bernath-memorial-collection" title="">Bernath Memorial Collection</a></li>
+<li class="expanded menu-mlid-4903"><a href="/special-collections/cema" title="">California Ethnic &amp; Multicultural Archives</a><ul class="menu"><li class="leaf first menu-mlid-4917"><a href="/special-collections/cema/digitalChicanoArt" title="">Digital Chicano Art</a></li>
+<li class="leaf menu-mlid-4918"><a href="/special-collections/cema/list-cema-guides" title="">CEMA Collections</a></li>
+<li class="leaf menu-mlid-4919"><a href="/special-collections/cema/collectionpolicy" title="">Collection Policy</a></li>
+<li class="leaf menu-mlid-4920"><a href="/special-collections/cema/exhibitsevents" title="">Exhibits &amp; Events</a></li>
+<li class="leaf last menu-mlid-4921"><a href="/special-collections/cema/projects" title="">Projects &amp; More</a></li>
+</ul></li>
+<li class="leaf menu-mlid-27763"><a href="/special-collections/collections/darwinevolution-collection" title="">Darwin/Evolution Collection</a></li>
+<li class="leaf menu-mlid-27764"><a href="/special-collections/collections/general-manuscripts-collection" title="">General Manuscripts Collection</a></li>
+<li class="leaf menu-mlid-4904"><a href="/special-collections/hpa" title="">Humanistic Psychology Archives</a></li>
+<li class="leaf menu-mlid-4905"><a href="/special-collections/oral-history" title="">Oral Histories</a></li>
+<li class="expanded menu-mlid-4906 active active-trail"><a href="/special-collections/performing-arts" title="" class="active-trail active">Performing Arts</a><ul class="menu"><li class="leaf first menu-mlid-5759"><a href="/special-collections/performing-arts/paindex" title="">Manuscript Collections</a></li>
+<li class="leaf menu-mlid-5760"><a href="/special-collections/performing-arts/pasound" title="">Historical Recordings</a></li>
+<li class="leaf menu-mlid-5761"><a href="/special-collections/performing-arts/cylinders" title="">Cylinder Project</a></li>
+<li class="leaf last menu-mlid-5762"><a href="/special-collections/performing-arts/victor" title="">Victor Discography</a></li>
+</ul></li>
+<li class="leaf menu-mlid-27740"><a href="/special-collections/collections/hobart-o-skofield-printers-collection" title="">Printers Collection</a></li>
+<li class="leaf menu-mlid-4907"><a href="/special-collections/collections/rare" title="">Rare Books &amp; Printed Collections</a></li>
+<li class="leaf menu-mlid-27765"><a href="/special-collections/collections/lawrence-b-romaine-trade-catalog-collection" title="">Romaine Trade Catalog Collection</a></li>
+<li class="leaf menu-mlid-27766"><a href="/special-collections/collections/santa-barbara-history-collection" title="">Santa Barbara History</a></li>
+<li class="leaf menu-mlid-4908"><a href="/special-collections/university-archives" title="">University Archives</a></li>
+<li class="leaf last menu-mlid-27767"><a href="/special-collections/collections/william-wyles-collection" title="">William Wyles Collection</a></li>
+</ul></li>
+<li class="leaf menu-mlid-4910"><a href="/special-collections/digital-collections" title="">Digital Collections</a></li>
+<li class="expanded menu-mlid-4913"><a href="/special-collections/visit" title="">Planning Your Research</a><ul class="menu"><li class="leaf first menu-mlid-4912"><a href="/special-collections/research" title="">Research Tools</a></li>
+<li class="leaf menu-mlid-5769"><a href="/special-collections/research/sguides" title="">Subject List of Collections</a></li>
+<li class="leaf menu-mlid-5770"><a href="/special-collections/research/forms" title="">Policies, Fees &amp; Forms</a></li>
+<li class="leaf menu-mlid-5771"><a href="/special-collections/directions" title="">Hours &amp; Directions</a></li>
+<li class="leaf last menu-mlid-5773"><a href="/special-collections/classes" title="">Classes &amp; Group Visits</a></li>
+</ul></li>
+<li class="expanded menu-mlid-4914"><a href="/special-collections/news" title="">Exhibitions &amp; Announcements</a><ul class="menu"><li class="leaf first menu-mlid-11456"><a href="/news/special-collections-announcements" title="">Current News</a></li>
+<li class="leaf menu-mlid-5776"><a href="/news/special-collections-current-exhibit" title="">Current Exhibition</a></li>
+<li class="leaf menu-mlid-27578"><a href="http://digital.library.ucsb.edu/exhibits " title="">Online Exhibitions</a></li>
+<li class="leaf menu-mlid-5777"><a href="/news/special-collections-exhibits" title="">Past Exhibitions</a></li>
+<li class="leaf last menu-mlid-5778"><a href="/special-collections/exhibits/rss" title="">RSS Feed</a></li>
+</ul></li>
+<li class="expanded last menu-mlid-4915"><a href="/special-collections/contact" title="">Contact Us</a><ul class="menu"><li class="leaf first menu-mlid-9657"><a href="/form/special-collections" title="">Submit a Question</a></li>
+<li class="leaf last menu-mlid-5780"><a href="/special-collections/curators-staff" title="">Department Directory</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+
+  <div id="block-block-22" class="block block-block block-menu">
+  <h2>Online Archive of California</h2>
+
+  <div class="content">
+    <div class="institution-search">
+<form method="get" name="search-form" class="search-form" action="http://www.oac.cdlib.org/search"><input type="hidden" name="style" value="oac4"><input type="hidden" name="ff" value="0"><input type="hidden" name="developer" value="local"><input type="hidden" name="institution" value="UC Santa Barbara::Special Collections"><input name="query" type="text" class="text-field" size="16" maxlength="80"><input type="submit" class="search-button" value="Search"></form>
+</div>
+  </div>
+</div>
+
+        </div>
+          
+
+      <div id="main-menu">  <div id="block-ucsb_library-login_dropdown" class="block block-ucsb_library">
+    <div class="item-list"><ul><li class="first"><a href="/help">Help</a></li>
+<li class="last"><div id="topnav" class="topnav"><a href="/logon" class="signin"><span>Login</span></a></div>
+		<div id="choices-wrapper">
+			<div id="signin_menu">
+				<p class="help-links"><a id="off-campus-login-link" title="Log into to use subscription databases from off-campus via the proxy server." href="https://login.proxy.library.ucsb.edu:9443/login">Off-Campus Login</a></p>
+				<p class="help-links"><a id="catalog-login-link" title="Log into your library account to see what books you have checked out, renew books, and update your account information." href="http://pegasus.library.ucsb.edu/F/?func=bor-info">My Library Account</a></p>
+				<p class="help-links"><a id="ILL-login-link" title="Log into your Interlibrary Loan account to track the progress of ILL requests and request renewals." href="https://ucill.vdxhost.com/zportal/">My ILL Requests</a></p>
+			
+				<p class="help-links"><a id="init-help-link" class="info-link info" title="There are 3 different logins: Off-Campus Login, My Library Account, and My ILL Requests. Click for more details." href="/logon">Help</a></p>
+			</div>
+			
+			<div id="off-campus-wrapper">			
+				<form id="offcampus-login-form" method="post" id="signin" action="https://login.proxy.library.ucsb.edu:9443/login">
+					<div>
+						<label for="username">UCSB NetID</label>
+						<input id="username" name="user" value="" title="UCSB NetID" tabindex="4" type="text" />
+		
+						<label for="password">Password</label>
+						<input id="password" name="pass" value="" title="password" tabindex="5" type="password" />
+		
+						<input value="Sign in" tabindex="6" type="submit" />
+					  	<p class="help-links"><a href="https://secure.identity.ucsb.edu/manager/">Forgot your login?</a></p>
+						<p class="help-links"><a class="info info-link" title="There are 3 different logins: Off-Campus Login, My Library Account, and My ILL Requests. Click for more details." href="/logon">Help</a></p>
+					</div>
+				</form>
+			</div>
+			
+			<div id="my-account-wrapper">                         
+                <form method="post" name="form1" action="http://pegasus.library.ucsb.edu/F/"> 
+					<input type="hidden" name="func" value="login-session" /> 
+					<input type="hidden" name="login_source" value="LOGIN-BOR" /> 
+					<input name="bor_library" value="SBA50" type="hidden" /> 
+
+					<div> 
+						<label for="bor-id">Library Card Barcode</label> 
+						<input id="bor-id" type="text" name="bor_id" value="" />  
+
+						<label for="bor-verification">Password</label> 
+						<input id="bor-verification" name="bor_verification" type="password" /> 
+	
+						<input type="submit" value="Login" /> 						
+						<p class="help-links"><a class="info-link" title="Your barcode is located at the bottom of your Access card or library card. It begins with '21205' and is 14 digits long (omit spaces). Your password is the same as your barcode, unless you changed it." href="/logon">Forgot your login?</a></p>
+						<p class="help-links"><a class="info info-link" title="There are 3 different logins: Off-Campus Login, My Library Account, and My ILL Requests. Click for more details." href="/logon">Help</a></p>
+					</div> 					
+				</form> 
+			</div>
+			<div id="my-ill-wrapper">
+				<form name="login_form" method="post" action="https://ucill.vdxhost.com/zportal/zengine">
+					<input type="hidden" name="VDXaction" value="Login" />
+					<input type="hidden" name="nextAction" value="IllSearchAdvanced" />
+                	<div>
+                		<label for="login_user">Library Card/Account</label>
+                        <input name="login_user" type="text" id="login_user" />
+                        
+                        <label for="login_password">PIN</label>
+                        <input name="login_password" type="password" id="login_password" />
+
+                        <label for="login_service_id">Campus</label>
+							<select name="login_service_id" id="login_service_id">
+								 <option selected="selected" value="7">UCSB</option>
+								 <option value="2">UCB</option>
+								 <option value="8">UCD</option>
+								 <option value="14">UCI</option>
+								 <option value="6">UCLA</option>
+								 <option value="16">UCM</option>
+								 <option value="12">UCR</option>
+								 <option value="11">UCSC</option>
+								 <option value="13">UCSD</option>
+								 <option value="10">UCSF</option>
+								 <option value="15">xCDL</option>
+							</select>
+                                 
+						<input name=".x" value="Login" type="submit" value="Login" />
+						
+						<p class="help-links"><a class="info-link" title="Your barcode is located at the bottom of your Access card or library card. It begins with '21205' and is 14 digits long (omit spaces). Your password is the same as your barcode, unless you changed it." href="/logon">Forgot your login?</a></p>
+						<p class="help-links"><a class="info info-link" title="There are 3 different logins: Off-Campus Login, My Library Account, and My ILL Requests. Click for more details." href="/logon">Help</a></p>
+					</div>
+                </form>
+			</div>
+		</div></li>
+</ul></div></div>
+
+  <div id="block-megamenu-0" class="block block-megamenu">
+    <ul id="megamenu-menu-navigation-global" class="megamenu-menu horizontal megamenu-skin-ucsb"><li id="megamenu-mlid-2458" class="megamenu-parent megamenu-parent-0 odd half-1 leaf-0 first first"><h2 class="megamenu-parent-title"><a href="/research" class=" menu-2458">Search &amp; Research</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-4788" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first first"><h3 class="megamenu-slot-title"><a href="/research/catalogs" class=" menu-4788">Catalogs</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-2882" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first first"><a href="http://pegasus.library.ucsb.edu/F/?func=find-b-0" class=" menu-2882">UCSB Library Catalog</a></li>
+<li id="megamenu-mlid-4989" class="megamenu-item megamenu-item-1 even half-1 leaf-1"><a href="http://ucsb.worldcat.org/" class=" menu-4989">Melvyl Catalog</a></li>
+<li id="megamenu-mlid-4990" class="megamenu-item megamenu-item-2 odd half-2 leaf-2"><a href="/course-reserves-catalog" class=" menu-4990">Course Reserves Catalog</a></li>
+<li id="megamenu-mlid-3369" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last last"><a href="http://eres.library.ucsb.edu/eres/default.aspx" class=" menu-3369">Electronic Reserves</a></li>
+</ul></li>
+<li id="megamenu-mlid-4988" class="megamenu-slot megamenu-slot-1 even half-1 leaf-1"><h3 class="megamenu-slot-title"><a href="/research/resources" class=" menu-4988">Resources</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-9357" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first first"><a href="/research/resources/databases" class=" menu-9357">Article Indexes &amp; Research Databases</a></li>
+<li id="megamenu-mlid-2885" class="megamenu-item megamenu-item-1 even half-1 leaf-1"><a href="http://ucelinks.cdlib.org:8888/sfx_ucsb/az" class=" menu-2885">Electronic Journals</a></li>
+<li id="megamenu-mlid-4991" class="megamenu-item megamenu-item-2 odd half-1 leaf-2"><a href="http://scholar.google.com" class=" menu-4991">Google Scholar</a></li>
+<li id="megamenu-mlid-4993" class="megamenu-item megamenu-item-3 even half-2 leaf-3"><a href="/search-research/citation-linker" class=" menu-4993">Citation Linker</a></li>
+<li id="megamenu-mlid-13133" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 last last"><a href="http://dx.doi.org/" class=" menu-13133">DOI Resolver</a></li>
+</ul></li>
+<li id="megamenu-mlid-4789" class="megamenu-slot megamenu-slot-2 odd half-2 leaf-2 last last"><h3 class="megamenu-slot-title"><a href="/research/help" class=" menu-4789">Research Help</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-11437" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first first"><a href="http://guides.library.ucsb.edu/" class=" menu-11437">Subject &amp; Course Guides</a></li>
+<li id="megamenu-mlid-4994" class="megamenu-item megamenu-item-1 even half-1 leaf-1"><a href="http://guides.library.ucsb.edu/cat.php?cid=11291" class=" menu-4994">Subject Guides</a></li>
+<li id="megamenu-mlid-5850" class="megamenu-item megamenu-item-2 odd half-1 leaf-2"><a href="http://guides.library.ucsb.edu/cat.php?cid=11143" class=" menu-5850">Course Guides</a></li>
+<li id="megamenu-mlid-4791" class="megamenu-item megamenu-item-3 even half-2 leaf-3"><a href="/help/ask-librarian" class=" menu-4791">Ask a Librarian</a></li>
+<li id="megamenu-mlid-4792" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 last last"><a href="/subject-librarians" class=" menu-4792">Subject Librarians</a></li>
+</ul></li>
+</ul></li>
+<li id="megamenu-mlid-2463" class="megamenu-parent megamenu-parent-1 even half-1 leaf-1"><h2 class="megamenu-parent-title"><a href="/services" class=" menu-2463">Services</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-4984" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first first"><h3 class="megamenu-slot-title"><a href="/services/borrowing" class=" menu-4984">Borrowing</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-1117" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first first"><a href="/services/library-cards" class=" menu-1117">Library Cards</a></li>
+<li id="megamenu-mlid-3363" class="megamenu-item megamenu-item-1 even half-1 leaf-1"><a href="/services/loan-periods" class=" menu-3363">Loan Periods</a></li>
+<li id="megamenu-mlid-3366" class="megamenu-item megamenu-item-2 odd half-1 leaf-2"><a href="/services/requests-renewals" class=" menu-3366">Requests &amp; Renewals</a></li>
+<li id="megamenu-mlid-27267" class="megamenu-item megamenu-item-3 even half-2 leaf-3"><a href="http://pegasus.library.ucsb.edu/F/?func=bor-info" class=" menu-27267">Sign in to &quot;My Account&quot;</a></li>
+<li id="megamenu-mlid-3364" class="megamenu-item megamenu-item-4 odd half-2 leaf-4"><a href="/course-reserves" class=" menu-3364">Course Reserves</a></li>
+<li id="megamenu-mlid-3384" class="megamenu-item megamenu-item-5 even half-2 leaf-5 last last"><a href="/services/borrowing/interlibrary-loan" class=" menu-3384">Interlibrary Loan (ILL)</a></li>
+</ul></li>
+<li id="megamenu-mlid-4787" class="megamenu-slot megamenu-slot-1 even half-1 leaf-1"><h3 class="megamenu-slot-title"><a href="/services" class=" menu-4787">Support</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-3173" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first first"><a href="/services/study-areas" class=" menu-3173">Study Areas</a></li>
+<li id="megamenu-mlid-5827" class="megamenu-item megamenu-item-1 even half-1 leaf-1"><a href="/services/computing-printing-copying" class=" menu-5827">Printing &amp; Copying</a></li>
+<li id="megamenu-mlid-17979" class="megamenu-item megamenu-item-2 odd half-1 leaf-2"><a href="/reference-services/contact" class=" menu-17979">Reference Services</a></li>
+<li id="megamenu-mlid-3371" class="megamenu-item megamenu-item-3 even half-1 leaf-3"><a href="/instruction" class=" menu-3371">Library Instruction</a></li>
+<li id="megamenu-mlid-3370" class="megamenu-item megamenu-item-4 odd half-2 leaf-4"><a href="/services/computing" class=" menu-3370">Library Computers</a></li>
+<li id="megamenu-mlid-4986" class="megamenu-item megamenu-item-5 even half-2 leaf-5"><a href="/services/off-campus-access-troubleshooting" class=" menu-4986">On-Campus Access</a></li>
+<li id="megamenu-mlid-4806" class="megamenu-item megamenu-item-6 odd half-2 leaf-6"><a href="/services/off-campus-access-proxy" class=" menu-4806">Off-Campus Access</a></li>
+<li id="megamenu-mlid-4807" class="megamenu-item megamenu-item-7 even half-2 leaf-7 last last"><a href="/services/access-wi-fi" class=" menu-4807">Wireless Access</a></li>
+</ul></li>
+<li id="megamenu-mlid-3372" class="megamenu-slot megamenu-slot-2 odd half-2 leaf-2 last last"><h3 class="megamenu-slot-title"><a href="/services/services-for" class=" menu-3372">Services for</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-4818" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first first"><a href="/services/undergraduates" class=" menu-4818">Undergraduates</a></li>
+<li id="megamenu-mlid-27512" class="megamenu-item megamenu-item-1 even half-1 leaf-1"><a href="/services/undergraduate-honors-students" class=" menu-27512">Honors Students</a></li>
+<li id="megamenu-mlid-4820" class="megamenu-item megamenu-item-2 odd half-1 leaf-2"><a href="/services/graduate-students" class=" menu-4820">Graduate Students</a></li>
+<li id="megamenu-mlid-4819" class="megamenu-item megamenu-item-3 even half-1 leaf-3"><a href="/services/faculty" class=" menu-4819">Faculty</a></li>
+<li id="megamenu-mlid-4824" class="megamenu-item megamenu-item-4 odd half-2 leaf-4"><a href="/services/staff" class=" menu-4824">Staff</a></li>
+<li id="megamenu-mlid-4822" class="megamenu-item megamenu-item-5 even half-2 leaf-5"><a href="/disability-services" class=" menu-4822">Users With Disabilities</a></li>
+<li id="megamenu-mlid-5852" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 last last"><a href="/services/visitor-privileges" class=" menu-5852">Visitors</a></li>
+</ul></li>
+</ul></li>
+<li id="megamenu-mlid-3365" class="megamenu-parent megamenu-parent-2 odd half-1 leaf-2"><h2 class="megamenu-parent-title"><a href="/help" class=" menu-3365">Help</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-4734" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first first"><h3 class="megamenu-slot-title"><a href="/research/help" class=" menu-4734">Use the Library</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-4835" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first first"><a href="/help/ask-librarian" class=" menu-4835">Ask a Librarian</a></li>
+<li id="megamenu-mlid-4834" class="megamenu-item megamenu-item-1 even half-1 leaf-1"><a href="/help/searching-library-catalog" class=" menu-4834">Library Catalog Help</a></li>
+<li id="megamenu-mlid-27268" class="megamenu-item megamenu-item-2 odd half-1 leaf-2"><a href="/help/using-my-account" class=" menu-27268">Using &quot;My Account&quot;</a></li>
+<li id="megamenu-mlid-4837" class="megamenu-item megamenu-item-3 even half-2 leaf-3"><a href="/help/citing-sources" class=" menu-4837">Citing Sources</a></li>
+<li id="megamenu-mlid-5853" class="megamenu-item megamenu-item-4 odd half-2 leaf-4"><a href="http://www.lib.uci.edu/uc-research-tutorial/begin.html" class=" menu-5853">Research Tutorial</a></li>
+<li id="megamenu-mlid-4836" class="megamenu-item megamenu-item-5 even half-2 leaf-5 last last"><a href="/help" class=" menu-4836">More Help</a></li>
+</ul></li>
+<li id="megamenu-mlid-4735" class="megamenu-slot megamenu-slot-1 even half-2 leaf-1 last last"><h3 class="megamenu-slot-title"><a href="/help" class=" menu-4735">Find</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-4847" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first first"><a href="/help/finding-articles" class=" menu-4847">Articles</a></li>
+<li id="megamenu-mlid-4838" class="megamenu-item megamenu-item-1 even half-1 leaf-1"><a href="/help/finding-books" class=" menu-4838">Books</a></li>
+<li id="megamenu-mlid-4854" class="megamenu-item megamenu-item-2 odd half-1 leaf-2"><a href="/help/help-subject" class=" menu-4854">Help by Subject</a></li>
+<li id="megamenu-mlid-4840" class="megamenu-item megamenu-item-3 even half-2 leaf-3"><a href="/help/call-numbers-floor-plans" class=" menu-4840">Call Numbers &amp; Floor Plans</a></li>
+<li id="megamenu-mlid-5854" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 last last"><a href="/help" class=" menu-5854">Find More</a></li>
+</ul></li>
+</ul></li>
+<li id="megamenu-mlid-2464" class="megamenu-parent megamenu-parent-3 even half-2 leaf-3"><h2 class="megamenu-parent-title"><a href="/about" class=" menu-2464">About the Library</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-2954" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first first"><h3 class="megamenu-slot-title"><a href="/about/information" class=" menu-2954">Library Information</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-3171" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first first"><a href="/hours" class=" menu-3171">Hours</a></li>
+<li id="megamenu-mlid-3170" class="megamenu-item megamenu-item-1 even half-1 leaf-1"><a href="/help/call-numbers-floor-plans" class=" menu-3170">Call Numbers &amp; Floor Plans</a></li>
+<li id="megamenu-mlid-2952" class="megamenu-item megamenu-item-2 odd half-1 leaf-2"><a href="/directions-parking" class=" menu-2952">Directions &amp; Parking</a></li>
+<li id="megamenu-mlid-20094" class="megamenu-item megamenu-item-3 even half-1 leaf-3"><a href="/building" class=" menu-20094">Library Addition and Renovation </a></li>
+<li id="megamenu-mlid-2466" class="megamenu-item megamenu-item-4 odd half-1 leaf-4"><a href="/about/news" class=" menu-2466">News &amp; Events</a></li>
+<li id="megamenu-mlid-27711" class="megamenu-item megamenu-item-5 even half-1 leaf-5"><a href="/exhibitions" class=" menu-27711">Exhibitions</a></li>
+<li id="megamenu-mlid-3038" class="megamenu-item megamenu-item-6 odd half-1 leaf-6"><a href="/development/library-development" class=" menu-3038">Support the Library</a></li>
+<li id="megamenu-mlid-4996" class="megamenu-item megamenu-item-7 even half-1 leaf-7"><a href="/library-tours" class=" menu-4996">Library Tours</a></li>
+<li id="megamenu-mlid-3174" class="megamenu-item megamenu-item-8 odd half-2 leaf-8"><a href="/visitor-information" class=" menu-3174">Visitor Information</a></li>
+<li id="megamenu-mlid-3169" class="megamenu-item megamenu-item-9 even half-2 leaf-9"><a href="/staff" class=" menu-3169">Staff Directory</a></li>
+<li id="megamenu-mlid-5008" class="megamenu-item megamenu-item-10 odd half-2 leaf-10"><a href="/departments-units" class=" menu-5008">Departments, Units &amp; Service Locations</a></li>
+<li id="megamenu-mlid-3042" class="megamenu-item megamenu-item-11 even half-2 leaf-11"><a href="/policies" class=" menu-3042">Policies</a></li>
+<li id="megamenu-mlid-3101" class="megamenu-item megamenu-item-12 odd half-2 leaf-12"><a href="/scholarly-communication" class=" menu-3101">Scholarly Communication</a></li>
+<li id="megamenu-mlid-12390" class="megamenu-item megamenu-item-13 even half-2 leaf-13"><a href="http://guides.library.ucsb.edu/ucsbreads" class=" menu-12390">UCSB Reads</a></li>
+<li id="megamenu-mlid-9909" class="megamenu-item megamenu-item-14 odd half-2 leaf-14"><a href="/employee" class=" menu-9909">Library Employees&#039; Page</a></li>
+<li id="megamenu-mlid-10172" class="megamenu-item megamenu-item-15 even half-2 leaf-15 last last"><a href="/human-resources" class=" menu-10172">Working at the Library</a></li>
+</ul></li>
+<li id="megamenu-mlid-19380" class="megamenu-slot megamenu-slot-1 even half-1 leaf-1"><h3 class="megamenu-slot-title"><a href="/departments-units" class=" menu-19380">Service Locations</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-19381" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first first"><a href="/arts-library" class=" menu-19381">Arts Library</a></li>
+<li id="megamenu-mlid-19383" class="megamenu-item megamenu-item-1 even half-1 leaf-1"><a href="/services/borrowing" class=" menu-19383">Circulation Services</a></li>
+<li id="megamenu-mlid-19384" class="megamenu-item megamenu-item-2 odd half-1 leaf-2"><a href="/course-reserves" class=" menu-19384">Course Reserves</a></li>
+<li id="megamenu-mlid-19385" class="megamenu-item megamenu-item-3 even half-1 leaf-3"><a href="/curriculum-lab" class=" menu-19385">Curriculum Laboratory</a></li>
+<li id="megamenu-mlid-19386" class="megamenu-item megamenu-item-4 odd half-1 leaf-4"><a href="/east-asian/east-asian-library" class=" menu-19386">East Asian Library</a></li>
+<li id="megamenu-mlid-19387" class="megamenu-item megamenu-item-5 even half-1 leaf-5"><a href="/ethnic-gender-studies-library" class=" menu-19387">Ethnic &amp; Gender Studies Library </a></li>
+<li id="megamenu-mlid-19388" class="megamenu-item megamenu-item-6 odd half-1 leaf-6"><a href="/government-information-center" class=" menu-19388">Government Information Center</a></li>
+<li id="megamenu-mlid-19389" class="megamenu-item megamenu-item-7 even half-2 leaf-7"><a href="/contact-reference-desk" class=" menu-19389">Information Desk</a></li>
+<li id="megamenu-mlid-19390" class="megamenu-item megamenu-item-8 odd half-2 leaf-8"><a href="/services/borrowing/interlibrary-loan" class=" menu-19390">Interlibrary Loan</a></li>
+<li id="megamenu-mlid-19391" class="megamenu-item megamenu-item-9 even half-2 leaf-9"><a href="/mil" class=" menu-19391">Map &amp; Imagery Laboratory</a></li>
+<li id="megamenu-mlid-19392" class="megamenu-item megamenu-item-10 odd half-2 leaf-10"><a href="/reference-desk-locations" class=" menu-19392">Reference Desks</a></li>
+<li id="megamenu-mlid-19393" class="megamenu-item megamenu-item-11 even half-2 leaf-11"><a href="/special-collections" class=" menu-19393">Special Collections</a></li>
+<li id="megamenu-mlid-19394" class="megamenu-item megamenu-item-12 odd half-2 leaf-12 last last"><a href="/departments-units" class=" menu-19394">Other Departments &amp; Units</a></li>
+</ul></li>
+<li id="megamenu-mlid-2955" class="megamenu-slot megamenu-slot-2 odd half-2 leaf-2 last last"><h3 class="megamenu-slot-title"><a href="/about/collections" class=" menu-2955">Collections</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-27760" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first first"><a href="/collection-development" class=" menu-27760">Collection Development</a></li>
+<li id="megamenu-mlid-9266" class="megamenu-item megamenu-item-1 even half-1 leaf-1"><a href="/area-studies/collections" class=" menu-9266">Area Studies</a></li>
+<li id="megamenu-mlid-5865" class="megamenu-item megamenu-item-2 odd half-1 leaf-2"><a href="/arts-library/art-collection" class=" menu-5865">Art</a></li>
+<li id="megamenu-mlid-5944" class="megamenu-item megamenu-item-3 even half-1 leaf-3"><a href="/current-serials-newspapers" class=" menu-5944">Current Serials &amp; Newspapers</a></li>
+<li id="megamenu-mlid-3013" class="megamenu-item megamenu-item-4 odd half-1 leaf-4"><a href="/curriculum-lab/collections" class=" menu-3013">Curriculum Materials</a></li>
+<li id="megamenu-mlid-3014" class="megamenu-item megamenu-item-5 even half-1 leaf-5"><a href="/collections/digitized-collections" class=" menu-3014">Digitized Collections</a></li>
+<li id="megamenu-mlid-3028" class="megamenu-item megamenu-item-6 odd half-1 leaf-6"><a href="/east-asian/east-asian-collections" class=" menu-3028">East Asian</a></li>
+<li id="megamenu-mlid-2956" class="megamenu-item megamenu-item-7 even half-1 leaf-7"><a href="/ethnic-gender-studies-library/collections" class=" menu-2956">Ethnic &amp; Gender Studies</a></li>
+<li id="megamenu-mlid-6029" class="megamenu-item megamenu-item-8 odd half-1 leaf-8"><a href="/area-studies/foreign-language-collections" class=" menu-6029">Foreign Languages</a></li>
+<li id="megamenu-mlid-9656" class="megamenu-item megamenu-item-9 even half-1 leaf-9"><a href="/government-information/collections" class=" menu-9656">Government Information</a></li>
+<li id="megamenu-mlid-9264" class="megamenu-item megamenu-item-10 odd half-1 leaf-10"><a href="/humanities-collections" class=" menu-9264">Humanities</a></li>
+<li id="megamenu-mlid-9584" class="megamenu-item megamenu-item-11 even half-2 leaf-11"><a href="/mil/collections" class=" menu-9584">Maps &amp; Imagery</a></li>
+<li id="megamenu-mlid-6070" class="megamenu-item megamenu-item-12 odd half-2 leaf-12"><a href="/collections/media-collection" class=" menu-6070">Media Collection</a></li>
+<li id="megamenu-mlid-9267" class="megamenu-item megamenu-item-13 even half-2 leaf-13"><a href="/microform-collections" class=" menu-9267">Microforms</a></li>
+<li id="megamenu-mlid-5842" class="megamenu-item megamenu-item-14 odd half-2 leaf-14"><a href="/arts-library/music-collection" class=" menu-5842">Music</a></li>
+<li id="megamenu-mlid-6063" class="megamenu-item megamenu-item-15 even half-2 leaf-15"><a href="/reference-collections" class=" menu-6063">Reference</a></li>
+<li id="megamenu-mlid-3034" class="megamenu-item megamenu-item-16 odd half-2 leaf-16"><a href="/sciences-engineering-library/collections" class=" menu-3034">Science &amp; Engineering</a></li>
+<li id="megamenu-mlid-9265" class="megamenu-item megamenu-item-17 even half-2 leaf-17"><a href="/social-sciences-collections" class=" menu-9265">Social Sciences</a></li>
+<li id="megamenu-mlid-3035" class="megamenu-item megamenu-item-18 odd half-2 leaf-18"><a href="/special-collections/collections" class=" menu-3035">Special Collections</a></li>
+<li id="megamenu-mlid-3036" class="megamenu-item megamenu-item-19 even half-2 leaf-19"><a href="http://www.library.ucsb.edu/thoreau/index.html" class=" menu-3036">Thoreau Edition</a></li>
+<li id="megamenu-mlid-9268" class="megamenu-item megamenu-item-20 odd half-2 leaf-20"><a href="/collections/tibetan" class=" menu-9268">Tibetan Studies</a></li>
+<li id="megamenu-mlid-20721" class="megamenu-item megamenu-item-21 even half-2 leaf-21 last last"><a href="/subject-librarians" class=" menu-20721">Subject Librarians</a></li>
+</ul></li>
+</ul></li>
+<li id="megamenu-mlid-2462" class="megamenu-parent megamenu-parent-4 odd half-2 leaf-4 last last"><h2 class="megamenu-parent-title"><a href="/contact" class=" menu-2462">Contact Us</a></h2><ul class="megamenu-bin megamenu-slots-columnar"><li id="megamenu-mlid-3350" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first first"><h3 class="megamenu-slot-title"><a href="/contact" class=" menu-3350">Help &amp; Locations</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-4995" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first first"><a href="/help/ask-librarian" class=" menu-4995">Ask a Librarian</a></li>
+<li id="megamenu-mlid-3355" class="megamenu-item megamenu-item-1 even half-1 leaf-1"><a href="http://www.questionpoint.org/crs/servlet/org.oclc.home.TFSRedirect?virtcategory=12572" class=" menu-3355">Chat Reference</a></li>
+<li id="megamenu-mlid-3356" class="megamenu-item megamenu-item-2 odd half-1 leaf-2"><a href="/form/ask" class=" menu-3356">Email Reference</a></li>
+<li id="megamenu-mlid-3357" class="megamenu-item megamenu-item-3 even half-1 leaf-3"><a href="/subject-librarians" class=" menu-3357">Subject Librarians</a></li>
+<li id="megamenu-mlid-4744" class="megamenu-item megamenu-item-4 odd half-2 leaf-4"><a href="/lost-and-found" class=" menu-4744">Lost &amp; Found</a></li>
+<li id="megamenu-mlid-5636" class="megamenu-item megamenu-item-5 even half-2 leaf-5"><a href="/directions-parking" class=" menu-5636">Directions &amp; Parking</a></li>
+<li id="megamenu-mlid-5856" class="megamenu-item megamenu-item-6 odd half-2 leaf-6"><a href="/departments-units" class=" menu-5856">Departments, Units &amp; Service Locations</a></li>
+<li id="megamenu-mlid-9278" class="megamenu-item megamenu-item-7 even half-2 leaf-7 last last"><a href="/help/call-numbers-floor-plans" class=" menu-9278">Call Numbers &amp; Locations</a></li>
+</ul></li>
+<li id="megamenu-mlid-3359" class="megamenu-slot megamenu-slot-1 even half-2 leaf-1 last last"><h3 class="megamenu-slot-title"><a href="/contact/information" class=" menu-3359">Contact Information</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-4745" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first first"><a href="/arts-library/contact" class=" menu-4745">Arts Library</a></li>
+<li id="megamenu-mlid-3360" class="megamenu-item megamenu-item-1 even half-1 leaf-1"><a href="/services/circulation/contact" class=" menu-3360">Circulation</a></li>
+<li id="megamenu-mlid-4746" class="megamenu-item megamenu-item-2 odd half-1 leaf-2"><a href="/course-reserves/contact" class=" menu-4746">Course Reserves</a></li>
+<li id="megamenu-mlid-4997" class="megamenu-item megamenu-item-3 even half-1 leaf-3"><a href="/human-resources/contact" class=" menu-4997">Human Resources</a></li>
+<li id="megamenu-mlid-3361" class="megamenu-item megamenu-item-4 odd half-1 leaf-4"><a href="/interlibrary-loan/contact" class=" menu-3361">Interlibrary Loan</a></li>
+<li id="megamenu-mlid-5942" class="megamenu-item megamenu-item-5 even half-2 leaf-5"><a href="/mailing-address" class=" menu-5942">Mailing Address</a></li>
+<li id="megamenu-mlid-5635" class="megamenu-item megamenu-item-6 odd half-2 leaf-6"><a href="/contact-reference-desk" class=" menu-5635">Reference &amp; Information Desk</a></li>
+<li id="megamenu-mlid-7109" class="megamenu-item megamenu-item-7 even half-2 leaf-7"><a href="/staff" class=" menu-7109">Staff Directory</a></li>
+<li id="megamenu-mlid-4747" class="megamenu-item megamenu-item-8 odd half-2 leaf-8"><a href="/form/suggestion" class=" menu-4747">Suggestions</a></li>
+<li id="megamenu-mlid-27635" class="megamenu-item megamenu-item-9 even half-2 leaf-9 last last"><a href="/development/contact" class=" menu-27635">Support the Library</a></li>
+</ul></li>
+</ul></li>
+</ul></div>
+
+</div>
+      <div id="supernav"></div>
+  
+    <div id="footer" class="grid-12">
+              <div id="block-menu-menu-navigation-footer-primary" class="block block-menu grid-7">
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/" title="">Home</a></li>
+<li class="leaf"><a href="/development/library-development" title="Library Development">Support the Library</a></li>
+<li class="leaf"><a href="/logon" title="Log into the proxy server, your library account, or your &quot;My ILL&quot; account">Login</a></li>
+<li class="leaf last"><a href="/sitemap" title="">Sitemap</a></li>
+</ul>  </div>
+</div>
+
+  <div id="block-block-15" class="block block-block grid-5">
+
+  <div class="content">
+    <p><a class="social fb" href="http://www.facebook.com/pages/UCSB-Library/18618265700" title="Facebook"><span>Facebook</span></a> <a class="social twitter" title="Twitter" href="http://twitter.com/UCSBLibrary"><span>Twitter</span></a> <a class="social flickr" title="Flickr" href="http://www.flickr.com/photos/ucsblibraries/"><span>Flickr</span></a> <a class="social youtube" title="YouTube" href="http://www.youtube.com/user/MyUCSBLibrary/"><span>YouTube</span></a> <a title="RSS Feeds" class="social rss" href="http://www.library.ucsb.edu/news/feed"><span>RSS Feeds</span></a></p>
+  </div>
+</div>
+
+  <div id="block-menu-menu-navigation-footer-secondary" class="block block-menu grid-7">
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/policies" title="">Policies</a></li>
+<li class="leaf"><a href="/terms-use" title="Terms of use for the library website and policies for using library computer and resources">Terms of Use</a></li>
+<li class="leaf last"><a href="/mailing-address" title="">Mailing Address</a></li>
+</ul>  </div>
+</div>
+
+  <div id="block-block-16" class="block block-block grid-5">
+
+  <div class="content">
+    <ul>
+<li><a href="http://www.library.ucsb.edu/davidson-library">Davidson Library</a> (805) 893-2478</li>
+<li><a href="http://www.library.ucsb.edu/arts-library">Arts Library</a>  (805) 893-2850</li>
+<li>
+<div class="icon ucsb"  style="border: 0px solid red;">
+<div class="icon-holder">
+		 <a href="http://www.ucsb.edu/"><img  alt="UCSB Home page" src="http://www.library.ucsb.edu/sites/all/themes/pingv_ucsb/images/ucsb_logi.png" /></a>
+		 </div>
+<p>		 <a href="http://www.ucsb.edu/">UC Santa Barbara</a><br />
+		   Santa Barbara, CA 93106-9010
+	</div>
+</li>
+</ul>
+  </div>
+</div>
+
+  <div id="block-block-17" class="block block-block grid-7">
+
+  <div class="content">
+    <p>Copyright © 2010 The Regents of the University of California, All Rights Reserved.</p>
+  </div>
+</div>
+
+  <div id="block-menu-menu-navigation-footer-tertiary" class="block block-menu grid-7">
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="http://www.ucsb.edu/" title="">UCSB Home</a></li>
+<li class="leaf"><a href="http://m.library.ucsb.edu/" title="">Mobile Site</a></li>
+<li class="leaf"><a href="/form/website-problem" title="">Contact Library Web Manager</a></li>
+<li class="leaf last"><a href="/accessibility" title="Accessibility">Accessibility</a></li>
+</ul>  </div>
+</div>
+
+    
+      </div>
+
+  </div><!--/page-->
+
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _paq=_paq||[];(function(){var u=(("https:"==document.location.protocol)?"":"http://analytics.library.ucsb.edu//");_paq.push(["setSiteId","7"]);_paq.push(["setTrackerUrl",u+"piwik.php"]);_paq.push(["setDoNotTrack",1]);_paq.push(["trackPageView"]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src="/sites/default/files/piwik/piwik.js?p";s.parentNode.insertBefore(g,s)})()
+//--><!]]>
+</script>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

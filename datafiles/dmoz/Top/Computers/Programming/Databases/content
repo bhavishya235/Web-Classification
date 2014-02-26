@@ -1,0 +1,88 @@
+<topic r:id="Top/Computers/Programming/Databases">
+<catid>378695</catid>
+<link r:resource="http://www.connectionstrings.com/" />
+<link r:resource="http://www.devx.com/dbzone/" />
+<link r:resource="http://www.databasejournal.com/" />
+<link r:resource="http://titaniclinux.net/daogen/" />
+<link r:resource="http://www-ccs.cs.umass.edu/db/organizations.html" />
+<link r:resource="http://www.yolinux.com/HOWTO/PostgreSQL-HOWTO.html" />
+<link r:resource="http://www.dbwrench.com/" />
+<link r:resource="http://www.smart-it-consulting.com/database/progress-database-design-guide/" />
+<link r:resource="http://www.databasedir.com/" />
+<link r:resource="http://www.katsueydesignworks.com/databases.cfm" />
+<link r:resource="http://www.allexperts.com/browse.cgi?catLvl=3&amp;catID=1041" />
+<link r:resource="http://databases.about.com/od/development/Database_Development.htm" />
+</topic>
+<topic r:id="Top/Computers/Programming/Databases/ADO">
+<catid>378701</catid>
+<link r:resource="http://support.microsoft.com/default.aspx?scid=KB;EN-US;Q183606&amp;" />
+<link r:resource="http://www.sqlstrings.com/" />
+<link r:resource="http://www.carlprothman.net/Technology/FAQs/ADOXFAQs/tabid/101/Default.aspx" />
+<link r:resource="http://www.carlprothman.net/Default.aspx?tabid=81" />
+<link r:resource="http://www.carlprothman.net/Default.aspx?tabid=97" />
+<link r:resource="http://www.carlprothman.net/Default.aspx?tabid=82" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/aa905875(SQL.80).aspx" />
+<link r:resource="http://support.microsoft.com/kb/183606" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/Aa224767" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/ms805098" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/ms681484(v=vs.85).aspx" />
+<link r:resource="http://www.lqexcel.com/ado.php" />
+<link r:resource="http://www.c-sharpcorner.com/Articles/ArticleListing.aspx?SectionID=1&amp;SubSectionID=131" />
+</topic>
+<topic r:id="Top/Computers/Programming/Databases/ADO/ADO.NET">
+<catid>378703</catid>
+<link r:resource="http://msdn.microsoft.com/en-us/library/Aa286484" />
+<link r:resource="http://sourceforge.net/projects/sqlite-dotnet2/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Databases/ADO/ADO.NET/Articles">
+<catid>378704</catid>
+<link r:resource="http://www.sqlmag.com/Articles/Index.cfm?ArticleID=16557" />
+<link r:resource="http://www.developer.com/net/vb/article.php/1540311" />
+<link r:resource="http://www.ondotnet.com/pub/a/dotnet/2002/12/16/multiresultsets_1202.html" />
+<link r:resource="http://www.ondotnet.com/pub/a/dotnet/2002/12/16/transadonet.html" />
+<link r:resource="http://www.devarticles.com/c/a/ADO.NET/A-Practical-Comparison-of-ADO-and-ADO.NET/" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/ms971481.aspx" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/aa302325.aspx" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/ms971491.aspx" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/ms978496.aspx" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/ms971502.aspx" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/ms978457.aspx" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/ms810288.aspx" />
+<link r:resource="http://articles.sitepoint.com/article/introduction-ado-net" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/Ee817654(pandp.10).aspx" />
+<link r:resource="http://msdn.microsoft.com/en-us/magazine/cc301611.aspx" />
+<link r:resource="http://msdn.microsoft.com/en-us/magazine/cc188748.aspx" />
+<link r:resource="http://msdn.microsoft.com/en-us/magazine/cc188750.aspx" />
+<link r:resource="http://msdn.microsoft.com/en-us/magazine/cc188790.aspx" />
+</topic>
+<topic r:id="Top/Computers/Programming/Databases/ADO/Books">
+<catid>378702</catid>
+<link r:resource="http://www.amazon.com/exec/obidos/tg/detail/-/186100463X/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Databases/Books">
+<catid>378698</catid>
+</topic>
+<topic r:id="Top/Computers/Programming/Databases/MDAC">
+<catid>378700</catid>
+<link r:resource="http://msdn.microsoft.com/en-us/library/ms810829.aspx" />
+</topic>
+<topic r:id="Top/Computers/Programming/Databases/ODBC">
+<catid>378696</catid>
+<link r:resource="http://www.actualtechnologies.com/" />
+</topic>
+<topic r:id="Top/Computers/Programming/Databases/ODBC/Products">
+<catid>378697</catid>
+<link r:resource="http://www.sqldata.com/broker.htm" />
+<link r:resource="http://www.odbcexpress.com/" />
+<link r:resource="http://www.unixodbc.org/" />
+<link r:resource="http://www.mysql.com/products/myodbc/index.html" />
+<link r:resource="http://www.ittia.com/products/ittia_odbc.html" />
+<link r:resource="http://www.odbcsdk.com/" />
+<link r:resource="http://www.tacticaltelesolutions.com/alexeyp/index.php?act=spdb" />
+<link r:resource="http://www.simba.com/odbc-sdk.htm" />
+</topic>
+<topic r:id="Top/Computers/Programming/Databases/OLE_DB">
+<catid>378699</catid>
+<link r:resource="http://www.odbcsdk.com/products/openaccess/oledb_overview.asp" />
+<link r:resource="http://www.simba.com/olap-sdk.htm" />
+</topic>

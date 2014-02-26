@@ -1,0 +1,3465 @@
+====================<http://pdos.csail.mit.edu/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<title>MIT CSAIL Parallel and Distributed Operating Systems</title>
+
+<link rel=stylesheet type="text/css" href="main.css">
+
+<meta http-equiv="Description" name="Description"
+content="MIT CSAIL Parallel and Distributed Operating Systems homepage">
+
+<meta http-equiv="Keywords" name="Keywords"
+content="operating systems, MIT, CSAIL, parallel and distributed operating systems, kaashoek, morris">
+
+<!-- Designer: Eddie Kohler -->
+
+<style type="text/css"><!--
+P.l0 {
+  margin-bottom: 0em;
+}
+P.l1 {
+  margin-top: 1em;
+  margin-bottom: 0em;
+}
+P.l2 {
+  margin-left: 1em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+--></style>
+
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#bb0000" vlink="#000099"
+alink="#ff9900" style='margin: 2em;'>
+
+<table cellspacing="0" cellpadding="0" border="0" align="center" width="100%">
+
+<tr valign="top">
+
+<td width="30%">
+<div align="right"><img src="img/titleleft.gif" alt="MIT CSAIL" width="242"
+height="157" usemap="#titleleft" border="0">
+
+<table cellspacing="0" cellpadding="10" border="0" width="144">
+
+<tr><td bgcolor="#ffffcc" style="background: #ffffcc; border-color: #92a6a4; border: thin">
+
+<p class="l0"><a href="projects.html">Current Projects:</a></p>
+<a href="http://pdos.csail.mit.edu/multicore/">Multicore Operating Systems</a>,
+<a href="http://pdos.csail.mit.edu/resin/">Resin</a>,
+<a href="/uia/">UIA</a>,
+<a href="http://css.csail.mit.edu/">System Security</a>
+
+<p><a href="projects.html">Past Projects</a>
+
+<p><a href="people.html">People</a>
+
+<p><a href="pubs.html">Publications</a>
+
+<p><a href="software.html">Software</a>
+
+<p><a href="/cgi-bin/pdos-query.pl">Search</a>
+
+</td></tr>
+
+<tr><td><img src="img/emptydot.gif" width="1" height="1" alt=""></td></tr>
+
+</table>
+</div>
+</td>
+
+<td width="15">
+<img src="img/emptydot.gif" width="15" height="157" alt="">
+</td>
+
+<td width="70%">
+<div align="left"><img src="img/titleright.gif" width="277" height="142"
+alt="PDOS"></div>
+
+<h1><img src="img/pdostitle.gif" alt="Parallel &amp; Distributed Operating Systems Group" width="370" height="70"></h1>
+
+<p><a href="http://www.mit.edu/">MIT</a> <a
+href="http://www.csail.mit.edu/">CSAIL</a></p>
+
+<p>We build and investigate software systems for parallel and distributed
+environments. We have conducted research in operating systems, networking,
+mobile computing, language design, compiler design, and architecture,
+taking a pragmatic approach: we build high-performance, reliable, and
+working systems.<br><br></p>
+
+</td>
+</tr>
+
+</table>
+
+<table cellspacing="0" cellpadding="0" border="0" align="center" width="100%">
+
+<tr valign="top">
+
+<td width="25%"><p><br></p></td>
+
+<td width="70%">
+
+<p>Our most recent research focuses on multicore processors,
+<a href="/mosbench/">Linux scalability</a>, and
+<a href="http://css.csail.mit.edu/">systems security</a>.
+Our <a href="pubs.html">publications</a> provide more
+details about our projects.
+
+<!--
+
+<p>In general, our research focuses on extensible and flexible system services:
+filesystems, networking, and languages. 
+<a href="/chord/">Chord</a> is a distributed hash table for use in very large
+scale distributed systems.
+The <a href="http://iris.csail.mit.edu">IRIS</a> project is a large, ongoing
+collaboration.  See the <a href="http://iris.csail.mit.edu">IRIS Page</a> for
+more details.
+<a href="/click/">Click</a> is a
+flexible, modular router that runs on commodity hardware. <a
+href="http://www.fs.net/">SFS</a>, the Self-Certifying File System, creates
+a global, secure filesystem with a single global namespace and no
+centralized control. <a href="/tickc/">`C</a> (tick-C) is a superset of the
+ANSI C language with extensions for dynamic code generation. New algorithms
+in the `C compiler result in fast and high-quality runtime compilation. The
+<a href="/prolac/">Prolac</a> language aims to make network protocol
+implementations both readable and efficient.</p>
+
+<p>The <a href="/exo/">exokernel</a>, a novel operating system
+architecture, was the framework of much of our prior research. An exokernel
+eliminates the high-level abstractions most of today's operating systems
+are built on, instead concentrating on securely and efficiently
+multiplexing the raw hardware. A more conventional operating system
+interface is provided by application-level libraries. This allows untrusted
+applications to safely override default OS functionality for extensibility,
+flexibility, or performance.</p>
+
+-->
+
+<h2>Support</h2>
+
+<p class="compact">Thanks to
+the <a href="http://www.nsf.gov/">National Science Foundation</a>,
+<a href="http://www.darpa.mil/">DARPA</a>,
+<a href="http://www.quantatw.com">Quanta Computer</a>,
+<a href="http://www.google.com">Google</a>,
+<a href="http://www.intel.com">Intel</a>,
+<a href="http://www.att.com">AT&amp;T</a>, and
+<a href="http://www.ibm.com/">IBM</a>
+for supporting our research.
+</p>
+
+</td>
+
+<td width="5%"><p><br></p></td>
+
+</tr>
+</table>
+
+<map name="titleleft">
+<area shape="rect" coords="0,110,75,157" href="http://www.mit.edu/" alt="MIT">
+<area shape="rect" coords="83,38,242,154" href="http://www.csail.mit.edu/" alt="CSAIL">
+</map>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.wisc.edu/condor/>====================
+<!DOCTYPE html> 
+<!-- 
+-     DON'T EDIT THIS!
+-     It's a generated page, you need to edit the source and rebuild
+-     cvs -d /p/condor/repository/HTML co htcondor-web
+-     cd condor-web
+-     <edit pages under src/htcondor>
+-     cvs update/commit
+-     generate_html src
+-->
+<html>
+
+<head>
+    <!-- Elements common to many pages -->
+    <meta charset="UTF-8" />
+    <meta name="description" content="HTCondor Homepage" />
+    <link rel="stylesheet" type="text/css" href="http://research.cs.wisc.edu/htcondor/prosimii-screen.css" media="screen, tv, projection" title="Default" />
+	<!-- javascript used throughout the site -->
+    <script src="http://research.cs.wisc.edu/htcondor/sitewide.js" type="text/javascript"></script>
+     
+    <!-- Items for specific pages -->
+    <title>HTCondor - Home</title>
+    
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://research.cs.wisc.edu/htcondor/index.rss">
+	<!-- This java script is used for the 'Latest News' -->
+	<script src="switchcontent.js" type="text/javascript"></script>
+<style type="text/css"><!--
+div.hotnews {
+	margin: 1em 2em;
+	padding: 0.5em 1em;
+	font-size: 120%;
+	border: 1px solid rgb(204,204,204);
+}
+--></style>
+
+  </head>
+
+  <body>
+    <!-- For non-visual user agents: -->
+      <div id="top"><a href="#main-copy" class="doNotDisplay doNotPrint">Skip to main content.</a></div>
+
+      <div id="container">
+
+    <!-- ##### Header ##### -->
+
+	<!-- form tag moved outside <div> to make IE happy *sigh* -->
+	<form method="get" action="http://www.google.com/u/univwisc">
+    <div id="header">
+    	<div class="midHeader">
+	  <div class="iconHeader">
+	    <a href="http://research.cs.wisc.edu/htcondor/index.html"><img src="http://research.cs.wisc.edu/htcondor/images/white_bird_logo.png" alt="HTCondor High Throughput Computing" height="75"></a>
+	  </div>
+       
+       <div class="navAndSearch">
+    	<div class="navBar">
+  	  <span class="doNotDisplay">Navigation:</span>
+	  <a href="http://research.cs.wisc.edu/htcondor/index.html">Home</a> |
+	  <a href="http://research.cs.wisc.edu/htcondor/new.html">News</a> |
+	  <a href="http://research.cs.wisc.edu/htcondor/downloads/">Download</a> |
+	  <a href="http://research.cs.wisc.edu/htcondor/publications.html">Publications</a> |
+	  <a href="mailto:htcondor-admin@cs.wisc.edu">Contact Us</a>
+	</div>
+
+	<div class="searchForm" >
+	  <input type="hidden" name="hl" value="en" />
+	  <input type="hidden" name="hq" value="inurl:research.cs.wisc.edu/htcondor" />
+	  <input type="hidden" name="ie" value="ISO-8859-1" />
+	  <input class="searchText" type="text" name="q" id="searchText" value="" onload="loadSearch(this.id)" onfocus="clearSearch(this.id)" />
+	  <input class="searchBtn" type="submit" value="Search" />
+	</div>
+	</div>
+	</div>
+</div>
+	</form>
+
+    <!-- ##### Main Copy ##### -->
+
+    <div id="main-copy">
+
+
+<!-- Page body -->
+<div class="rowOfBoxes">
+	<div class="half noBorderOnLeft">
+		<h1>Computing with HTCondor&trade;</h1>
+		<!-- <img src="images/HTCondor-head.gif" alt="[HTCondor-head]" border="0" align="left"> -->
+		<p>
+			Our goal is to develop, implement, deploy, and evaluate mechanisms and policies that support <a href="htc.html">High Throughput Computing (HTC)</a> on large collections of distributively owned computing resources. Guided by both the technological and sociological challenges of such a computing environment, the <a href="http://chtc.cs.wisc.edu/">Center for High Throughput Computing</a> at UW-Madison has been building the open source <a href="description.html">HTCondor distributed computing software</a> (pronounced "aitch-tee-condor") and related technologies to enable scientists and engineers to increase their computing throughput.
+			
+			<br><br><span id="name-note">
+			Note: The HTCondor software was known as 'Condor' from 1988 <a href="https://lists.cs.wisc.edu/archive/condor-users/2012-October/msg00110.shtml">until its name changed</a> in 2012.
+			</span>
+			If you are looking for Phoenix Software International's software development and library management system for z/VSE or z/OS, click <a href="http://www.phoenixsoftware.com">here</a>.
+
+		</p>
+
+<!-- This is "hotnews" template, used for relatively short lived news we
+     want to emphasize, like Condor Week.  Keep it brief and use with care.
+	 If you enable hotnews, you should increase the number of news items below
+	 from the default of 6 so the news column uses the extra vertical space. -->
+<!--
+		<div class="hotnews">
+			News goes here
+		</div>
+-->
+
+		<div class="hotnews">
+Our annual user conference, <a href="http://research.cs.wisc.edu/htcondor/HTCondorWeek2014/index.html">HTCondor
+	Week</a> is scheduled for April 28-30, 2014</a>.  Save the date!
+		</div>
+
+	</div>
+
+	<div class="half">
+		<h2>Latest News <a href="index.rss"><img src="images/rssicon.gif" alt="[RSS]"></a></h2>
+
+		<!-- item n0 --><a class="newsHeading" onClick="expandcontent(this,'nn0')"><span class="showstate"></span>Consider presenting your work at HTCondor Week 2014</a><p class="newsDate"> February 20, 2014  </p><div id="nn0" class="newsSummary">HTCondor Week attendees are interested in hearing about your efforts during
+our annual meeting, April 28-30.
+Please consider presenting.
+Details for adding your talk to the schedule are given in this page of
+<a href="http://research.cs.wisc.edu/htcondor/HTCondorWeek2014/speaker_info.html">Information for HTCondor Week Speakers</a>.
+</div><!-- item n1 --><a class="newsHeading" onClick="expandcontent(this,'nn1')"><span class="showstate"></span>HTCondor 8.0.6 released!</a><p class="newsDate"> February 11, 2014  </p><div id="nn1" class="newsSummary">The HTCondor team is pleased to announce the release of HTCondor 8.0.6.
+This new version contains a port of HTCondor for Red Hat Enterprise Linux 7.0 Beta on the x86_64 architecture that includes support for the standard universe.
+It also contains bug fixes for:
+transferring files larger then 4 GiB on Windows and 32-bit platforms;
+using a minimum of 1024-bit keys on proxy certificates generated by HTCondor;
+accepting DAG input files larger then 2 GiB;
+the Windows MSI installer setting up a proper configuration for the VM universe;
+honoring CPU affinity on Windows platforms;
+issues with a failing condor_schedd daemon, when HTCondor is compiled with gcc 4.8+, the default compiler on recent Fedora releases.
+A complete list of bugs fixed can be found in the
+<a href="manual/v8.0.6/10_3Stable_Release.html">Version History</a>.
+HTCondor 8.0.6 binaries and source code are available from our
+<a href="downloads/">Downloads</a> page.
+</div><!-- item n2 --><a class="newsHeading" onClick="expandcontent(this,'nn2')"><span class="showstate"></span>HTCondor Week 2014 Announced: April 28-30</a><p class="newsDate">January 10, 2014 </p><div id="nn2" class="newsSummary"><p>
+<a href="http://research.cs.wisc.edu/htcondor/HTCondorWeek2014/index.html">HTCondor Week 2014</a>, our annual HTCondor user conference, is
+scheduled for April 28-April 30, 2014.  We will again host
+HTCondor Week at the Wisconsin Institutes for Discovery in
+beautiful Madison, Wisconsin.
+
+<p>In a change from previous years, technical talks will begin on
+Monday.  See the web site for current details.
+
+<p>At HTCondor Week, you can look forward to:
+
+<ul>
+<li>Technical talks on usage and deployment from developers and
+  your fellow users</li>
+<li>Talks and tutorials on new HTCondor features</li>
+<li>Talks on future plans for HTCondor</li>
+<li>Introductory tutorials on using and administrating HTCondor</li>
+<li>The opportunity to meet with HTCondor developers and other users</li>
+</ul>
+<p>	Information on registration and scheduling will be available soon.
+</div><!-- item n3 --><a class="newsHeading" onClick="expandcontent(this,'nn3')"><span class="showstate"></span>HTCondor 8.1.3 released!</a><p class="newsDate"> December 23, 2013  </p><div id="nn3" class="newsSummary">The HTCondor Team is pleased to announce the release of HTCondor version 8.1.3.
+This development release contains all the bug fixes from the stable release version 8.0.5.
+Major new features include:
+the parsing of configuration has changed such that comments are permitted within multi-line definitions;
+the condor_sos tool helps administrators manage overloaded daemons by causing commands to be handled with a higher priority;
+a new Python binding reads event logs.
+A complete list of bugs fixed and features can be found in the 
+<a href="manual/v8.1.3/10_3Development_Release.html">Version History</a>.
+HTCondor 8.1.3 binaries and source code are available from our
+<a href="downloads/">Downloads</a> page.
+</div><!-- item n4 --><a class="newsHeading" onClick="expandcontent(this,'nn4')"><span class="showstate"></span>HTCondor 8.0.5 released!</a><p class="newsDate"> December 12, 2013  </p><div id="nn4" class="newsSummary">The HTCondor team is pleased to announce the release of HTCondor 8.0.5.
+This new version contains bug fixes for:
+a heavily loaded condor_schedd daemon crashing when starting a local universe job,
+a condor_schedd daemon failing to start due to illegal values in the job queue or accounting recovery logs,
+interactive jobs not running when using cgroups,
+permissions errors preventing java universe jobs from running,
+and VMware vm universe jobs removing useful devices.
+A complete list of bugs fixed can be found in the
+<a href="manual/v8.0.5/10_3Stable_Release.html">Version History</a>.
+HTCondor 8.0.5 binaries and source code are available from our
+<a href="downloads/">Downloads</a> page.
+</div><!-- item n5 --><a class="newsHeading" onClick="expandcontent(this,'nn5')"><span class="showstate"></span>HTCondor assists in Einstein@Home discovery of a new radio pulsar</a><p class="newsDate"> November 4, 2013  </p><div id="nn5" class="newsSummary">We add our congratulations to James Drews of the University of Wisconsin - Madison for the <a href="http://einstein.phys.uwm.edu/forum_thread.php?id=10397">discovery of J1859+03</a>, a new radio pulsar, within data from the Arecibo Observatory PALFA survey.  James backfills the <a href="https://www.cae.wisc.edu/">Computer Aided Engineering</a> HTCondor pool with the Einstein@Home boinc client.
+</div><!-- item n6 --><a class="newsHeading" onClick="expandcontent(this,'nn6')"><span class="showstate"></span>HTCondor 8.1.2 released!</a><p class="newsDate"> October 31, 2013  </p><div id="nn6" class="newsSummary">The HTCondor team is pleased to announce the release of HTCondor 8.1.2.
+This development release contains all the bug fixes from the stable release version 8.0.4.
+Major new features include:
+partitionable slots can now be split into dynamic slots at negotiation time using new consumption policies;
+new condor_chirp commands permit updates to job ClassAd attributes to occur in a delayed fashion, reducing the overhead of making the update;
+there are many Python binding improvements including a new Negotiator class;
+condor_ssh_to_job now works for grid universe jobs on amazon EC2 resources;
+new command line options for condor_config_val and condor_history allow them to query remote machines;
+increased the scalability of the condor_shared_port daemon, condor_queue, and condor_status by increasing concurrency.
+A complete list of bugs fixed and features can be found in the 
+<a href="manual/v8.1.2/10_3Development_Release.html">Version History</a>.
+HTCondor 8.1.2 binaries and source code are available from our
+<a href="downloads/">Downloads</a> page.
+</div><!-- item n7 --><a class="newsHeading" onClick="expandcontent(this,'nn7')"><span class="showstate"></span>HTCondor 8.0.4 released!</a><p class="newsDate"> October 24, 2013  </p><div id="nn7" class="newsSummary">The HTCondor team is pleased to announce the release of HTCondor 8.0.4.
+This new version contains a clipped version of HTCondor for Ubuntu 12.04
+on the x86_64 architecture, and a fix for condor_ssh_to_job incorrectly removing
+jobs when cgroups are used.
+A complete list of bugs fixed can be found in the
+<a href="manual/v8.0.4/10_3Stable_Release.html">Version History</a>.
+HTCondor 8.0.4 binaries and source code are available from our
+<a href="downloads/">Downloads</a> page.
+</div>
+
+
+		<div class="more"><a href="new.html">More News &raquo;</a></div>
+
+			<p class="filler"><!-- Filler para to extend left vertical line --></p>
+	</div>
+</div>
+
+<div class="rowOfBoxes dividingBorderAbove">
+
+
+	<div class="oneThird noBorderOnLeft">
+		<h1>Software</h1>
+		<ul>
+			<li><a href="description.html">What is the HTCondor software?</a></li>
+			<li><a href="downloads/"><b>Downloads</b></a> including HTCondor source and binaries for Linux, Windows, and Mac.</li>
+			<li><a href="manual/"><b>Documentation</b></a> primarily consists of the <a href="manual">HTCondor Manual</a>. Also see <a href="https://htcondor-wiki.cs.wisc.edu/index.cgi/wiki?p=HowToAdminRecipes"><b>HOWTO recipes</b></a> and <a href="quick-start.html">job submission examples</a>.</li>
+			<li><a href="htcondor-support/">Support Options</a> include community and professional solutions.</li>
+			<li><a href="https://htcondor-wiki.cs.wisc.edu/index.cgi/wiki?p=DeveloperReleasePlan">Forthcoming release plans</a></li>
+			<li><a href="license.html">License Information</a></li>
+			<li><a href="security/">Security Information</a></li>
+		</ul>
+	</div>
+
+	<div class="oneThird column-border">
+		<h1>Community</h1>
+		<ul>
+			<li><a href="mail-lists/"><b>Email Lists</b></a> - ask questions and share experiences with users worldwide.</li>
+			<li><a href="http://research.cs.wisc.edu/htcondor/HTCondorWeek2013">HTCondor Week </a> is our annual community meeting. <a href="http://research.cs.wisc.edu/htcondor/past_condor_weeks.html">Materials from past meetings</a> include talks from science and industry, plus useful tutorials.</li>
+			<li><a href="http://condor-wiki.cs.wisc.edu/index.cgi/wiki">HTCondor Wiki</a> contains <a href="https://condor-wiki.cs.wisc.edu/index.cgi/wiki?p=HowToAdminRecipes">FAQs</a>, bug tickets, and more. </li>
+			<li><a href="http://webchat.freenode.net/?channels=%23distcomp&uio=d4">Live chat</a> via IRC on Freenode #distcomp</li>
+			<li><a href="http://htcondor.github.com/planet/">Blog Posts</a> aggregated at GitHub from multiple sites.</li>
+			<li><a href="tutorials/">Tutorials</a></li>
+			<li><a href="privacy.html">Privacy Notice</a></li>
+			<li><a href="logos/">Official Logos</a></li>
+			<!-- <li><a href="talks.html">Slide Presentations</a></li> -->
+		</ul>
+		<p class="filler"><!-- Filler para to extend left vertical line --></p>
+		<p class="filler"><!-- Filler para to extend left vertical line --></p>
+		<p class="filler"><!-- Filler para to extend left vertical line --></p>
+		<p class="filler"><!-- Filler para to extend left vertical line --></p>
+	</div>
+
+	<div class="oneThird">
+		<h1>Research and Development</h1>
+		<ul>
+			<li><a href="publications.html"><b>Research Publications</b></a></li>
+			<li><a href="research.html">HTCondor Technologies</a> including the widely used <a href="classad/classad.html">ClassAd Library</a></li>
+			<li><a href="https://condor-wiki.cs.wisc.edu/index.cgi/wiki?p=MakingContributions">Information for Developers</a></li>
+			<li><a href="http://chtc.cs.wisc.edu/jobs.shtml">Jobs</a> available in support of distributed computing at UW-Madison</li>
+			<li><a href="people.html">The CHTC Team</a> at the UW-Madison, and <a href="https://condor-wiki.cs.wisc.edu/index.cgi/wiki?p=DeveloperHomePages">a list of code contributors and maintainers.</a></li>
+		</ul>
+		<p class="filler"><!-- Filler para to extend left vertical line --></p>
+		<p class="filler"><!-- Filler para to extend left vertical line --></p>
+		<p class="filler"><!-- Filler para to extend left vertical line --></p>
+		<p class="filler"><!-- Filler para to extend left vertical line --></p>
+	</div>
+
+</div>
+
+    </div>
+
+    <!-- ##### Footer ##### -->
+
+    <div id="footer">
+        For comments or questions about this website, please
+	<a href="mailto:htcondor-admin@cs.wisc.edu">email htcondor-admin@cs.wisc.edu</a><br />
+	This work was supported in part by NSF grants MCS-8105904, OCI-0437810, OCI-0850745, and/or ACI-1321762. <br />
+      <script type="text/javascript">
+	      document.write("Updated &raquo; "+lastMod(document.lastModified))
+      </script>
+    </div>
+
+
+
+    </div> <!-- end of div#container -->
+  </body>
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://parallel.vub.ac.be/>====================
+<link href="parallel.css" rel="stylesheet" type="text/css" />
+ <HEAD>
+  <TITLE>Teaching and Research of Jan Lemeire and Colleagues</TITLE>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42618052-1', 'vub.ac.be');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Script to integrate standalone frame into framset -->
+<script type="text/javascript">
+window.onload = function() {
+  //check if a query string is given
+  if (location.search && location.search.length > 1
+       && location.search.charAt(0) == "?") {
+      //load the URL to the frame
+      window.frames["content"].location.href = location.search.substring(1);
+  }
+}
+</script>
+
+ </HEAD>
+<!-- <frameset cols="10%,*,10%" FRAMEBORDER=0 FRAMESPACING=0 BORDER=0 >
+
+	<frame name="blank" src="blank.html"> -->
+
+		<frameset rows="70,20,*" FRAMEBORDER=0 FRAMESPACING=0 BORDER=0 >
+		<!-- Add if you want to have resizable header (put one image on the left, and one on the right header) -->
+<frameset cols="20%,*,15%" >
+			<frame name="etro" src="etro.html" scrolling=no>
+			<frame name="title" src="title.html" scrolling=no>
+			<frame name="vub" src="vub.html" scrolling=no>
+</frameset>
+<frame name="line" src="line.html" scrolling=no>
+			<frameset cols="250,*" onResize="if (navigator.family == 'nn4') window.location.reload()">
+
+			
+				<frame name="nav" src="nav.html">
+				<frame name="content" src="content.html">
+			
+			</frameset>
+			<frame name="footer" src="footer.html">
+		</frameset>
+	<frame name="blank" src="blank.html">
+
+	<noframes>
+		<body>
+
+			<p>This page uses frames, but your browser doesn't support them.</p>
+
+		</body>
+	</noframes>
+<!-- 	</frameset> -->
+</frameset>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://does.eng.buffalo.edu/>====================
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="The Design of Open Engineering System" />
+  <meta name="description" content="The Design of Open Engineering System" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Welcome to the Design of Open Engineering Systems Lab</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/ja_purity/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+
+
+<link rel="stylesheet" href="http://does.eng.buffalo.edu/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="http://does.eng.buffalo.edu/templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="http://does.eng.buffalo.edu/templates/ja_purity/css/template.css" type="text/css" />
+
+<script language="javascript" type="text/javascript" src="http://does.eng.buffalo.edu/templates/ja_purity/js/ja.script.js"></script>
+
+<script language="javascript" type="text/javascript">
+var rightCollapseDefault='show';
+var excludeModules='38';
+</script>
+<script language="javascript" type="text/javascript" src="http://does.eng.buffalo.edu/templates/ja_purity/js/ja.rightcol.js"></script>
+
+<link rel="stylesheet" href="http://does.eng.buffalo.edu/templates/ja_purity/css/menu.css" type="text/css" />
+
+
+<link rel="stylesheet" href="http://does.eng.buffalo.edu/templates/ja_purity/styles/background/lighter/style.css" type="text/css" />
+<link rel="stylesheet" href="http://does.eng.buffalo.edu/templates/ja_purity/styles/elements/black/style.css" type="text/css" />
+
+<!--[if IE 7.0]>
+<style type="text/css">
+.clearfix {display: inline-block;}
+</style>
+<![endif]-->
+
+<style type="text/css">
+#ja-header,#ja-mainnav,#ja-container,#ja-botsl,#ja-footer {width: 97%;margin: 0 auto;}
+#ja-wrapper {min-width: 100%;}
+</style>
+</head>
+
+<body id="bd" class="fs3 Moz" >
+<a name="Top" id="Top"></a>
+<ul class="accessibility">
+	<li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+	<li><a href="#ja-mainnav" title="Skip to main navigation">Skip to main navigation</a></li>
+	<li><a href="#ja-col1" title="Skip to first column">Skip to first column</a></li>
+	<li><a href="#ja-col2" title="Skip to second column">Skip to second column</a></li>
+</ul>
+
+<div id="ja-wrapper">
+
+<!-- BEGIN: HEADER -->
+<div id="ja-headerwrap">
+	<div id="ja-header" class="clearfix">
+
+	<div class="ja-headermask">&nbsp;</div>
+
+			<h1 class="logo-text">
+			<a href="/index.php" title="The Design of Open Engineering System Lab"><span>The Design of Open Egineering Systems Lab</span></a>
+		</h1>
+		<p class="site-slogan">University at Buffalo - The State University of New York</p>
+	
+			<ul class="ja-usertools-font">
+	      <li><img style="cursor: pointer;" title="Increase font size" src="http://does.eng.buffalo.edu/templates/ja_purity/images/user-increase.png" alt="Increase font size" id="ja-tool-increase" onclick="switchFontSize('ja_purity_ja_font','inc'); return false;" /></li>
+		  <li><img style="cursor: pointer;" title="Default font size" src="http://does.eng.buffalo.edu/templates/ja_purity/images/user-reset.png" alt="Default font size" id="ja-tool-reset" onclick="switchFontSize('ja_purity_ja_font',3); return false;" /></li>
+		  <li><img style="cursor: pointer;" title="Decrease font size" src="http://does.eng.buffalo.edu/templates/ja_purity/images/user-decrease.png" alt="Decrease font size" id="ja-tool-decrease" onclick="switchFontSize('ja_purity_ja_font','dec'); return false;" /></li>
+		</ul>
+		<script type="text/javascript">var CurrentFontSize=parseInt('3');</script>
+		
+			<div id="ja-search">
+			<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="search..."  onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';" />	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="1" />
+</form>
+		</div>
+	
+	</div>
+</div>
+<!-- END: HEADER -->
+
+<!-- BEGIN: MAIN NAVIGATION -->
+<!-- END: MAIN NAVIGATION -->
+
+<div id="ja-containerwrap-fr">
+<div id="ja-containerwrap2">
+	<div id="ja-container">
+	<div id="ja-container2" class="clearfix">
+
+		<div id="ja-mainbody-fr" class="clearfix">
+
+		<!-- BEGIN: CONTENT -->
+		<div id="ja-contentwrap">
+		<div id="ja-content">
+
+			
+
+			
+			<div class="componentheading">
+	Welcome to the Design of Open Engineering Systems Lab</div>
+<table class="blog" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="top">
+					<div>
+		
+<div class="contentpaneopen">
+
+
+
+
+
+<div class="article-content">
+<p style="text-align: left">Welcome to the Design of Open Engineering Systems (DOES) Research Laboratory web page. Please feel free to browse through the lab member profiles to learn more about our specific research topics, or to visit the current openings page to view available research positions. </p>
+
+<p>At the DOES laboratory, research is being conducted to promote and advance the state-of-the-art in multidisciplinary design optimization and modern design theory. Current research deals with multidimensional visualization of uncertainty, reconfigurable systems, mass customization, and decision making techniques. We have an extensive list of publications that are available.</p>
+
+<h2 style="text-align: left">MAE DEPARTMENT</h2>
+<p style="text-align: left">The DOES Lab is part of the Mechanical and Aerospace Engineering Department here at the University at Buffalo. Please feel free to visit the departments website to learn more about the department in general.</p>
+<p style="text-align: left"><a href="http://www.mae.buffalo.edu">MAE Department Website</a></p>
+
+<h2 style="text-align: left;">NYSCEDII</h2>
+<p style="text-align: left">The DOES Lab is affiliated with The New York State Center for Engineering Design and Industrial Innovation (NYSCEDII). Please feel free to visit the NYSCEDII website to learn more about them.</p> 
+<p style="text-align: left"><a href="http://www.nyscedii.buffalo.edu">NYSCEDII Website</a></p></div>
+
+
+
+</div>
+
+<span class="article_separator">&nbsp;</span>
+		</div>
+		</td>
+</tr>
+
+
+</table>
+
+
+			
+		</div>
+		</div>
+		<!-- END: CONTENT -->
+
+				<!-- BEGIN: LEFT COLUMN -->
+		<div id="ja-col1">
+					<div class="moduletable_menu">
+					<h3>Main Menu</h3>
+					<ul class="menu"><li id="current" class="active item1"><a href="http://does.eng.buffalo.edu/"><span>Home</span></a></li><li class="parent item54"><a href="/index.php?option=com_content&amp;view=article&amp;id=47&amp;Itemid=54"><span>People</span></a></li><li class="parent item53"><a href="/index.php?option=com_jresearch&amp;view=publicationslist&amp;Itemid=53"><span>Publications</span></a></li><li class="item62"><a href="/index.php?option=com_contact&amp;view=contact&amp;id=1&amp;Itemid=62"><span>Contact Us</span></a></li><li class="item55"><a href="/index.php?option=com_search&amp;view=search&amp;Itemid=55"><span>Search</span></a></li></ul>		</div>
+			<div class="moduletable">
+					<h3>Login</h3>
+					<form action="http://does.eng.buffalo.edu/index.php?option=com_comprofiler&amp;task=login" method="post" id="mod_loginform" class="cbLoginForm" style="margin:0px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mod_login">
+<tr><td><span id="mod_login_usernametext"><label for="mod_login_username">Username</label></span><br />
+<input type="text" name="username" id="mod_login_username" class="inputbox" size="14" /><br />
+<span id="mod_login_passwordtext"><label for="mod_login_password">Password</label></span><br /><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14" /></span><br />
+<input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="english" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cDovL2RvZXMuZW5nLmJ1ZmZhbG8uZWR1Lw==" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_0d25974a_3cd2b341_b4cbdf00796bfbeae812c4490693f764" />
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes" /> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br />
+<span class="cbLoginButtonSpan"><input type="submit" name="Submit" class="button" value="Login" /></span></td></tr>
+<tr><td><a href="http://does.eng.buffalo.edu/index.php?option=com_comprofiler&amp;task=lostpassword" class="mod_login">Forgot login?</a></td></tr>
+</table></form>		</div>
+	
+		</div><br />
+		<!-- END: LEFT COLUMN -->
+		
+		</div>
+
+		
+	</div>
+	</div>
+</div>
+</div>
+
+
+<!-- BEGIN: FOOTER -->
+<div id="ja-footerwrap">
+<div id="ja-footer" class="clearfix">
+
+	<div id="ja-footnav">
+		
+	</div>
+
+	<div class="copyright">
+		
+	</div>
+
+	<div class="ja-cert">
+		
+    <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" title="Our site is valid CSS" style="text-decoration: none;">
+		<img src="http://does.eng.buffalo.edu/templates/ja_purity/images/but-css.gif" border="none" alt="Our site is valid CSS" />
+		</a>
+		<a href="http://validator.w3.org/check/referer" target="_blank" title="Our site is valid XHTML 1.0 Transitional" style="text-decoration: none;">
+		<img src="http://does.eng.buffalo.edu/templates/ja_purity/images/but-xhtml10.gif" border="none" alt="Our site is valid XHTML 1.0 Transitional" />
+		</a>
+	</div>
+
+	<br />
+</div>
+</div>
+<!-- END: FOOTER -->
+
+</div>
+
+
+
+</body>
+
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.utah.edu/avalanche/>====================
+<!doctype html "-//IETF//DTD HTML 3.0//EN">
+<html>
+<head>
+<title>Avalanche Scalable Parallel Processor Project</title>
+</head>
+
+<body background="background.gif">
+
+<!-- ********************************************************************* -->
+<!-- Date: Mon, 13 Nov 1995 15:56:40 -0700				   -->
+<!-- To: avalanche@jensen						   -->
+<!-- From: sroberts@cs (Susan Roberts)					   -->
+<!-- Subject: Research Pages for the Dept. of Computer Science		   -->
+
+<!-- I am working on the Department Computer Science Web pages and am in   -->
+<!-- the process of putting standardized headings and footings on all of   -->
+<!-- the Department pages.  You can look at the pages at		   -->
+<!-- http://www.cs.utah.edu/outreach/ as an example.  Bill Thompson has	   -->
+<!-- requested that I ask you to place these standardized headings and	   -->
+<!-- footings on your research page.					   -->
+
+<!-- All you need to do is copy the following header and place it directly -->
+<!-- at the top of the page, above the logo:				   -->
+
+<hr>
+<h2>University of Utah<br>
+Department of Computer Science
+</h2>
+<hr>
+
+<center>
+<a href="http://www.cs.utah.edu/cgi-bin/imagemap/projects/avalanche/clickmap/Avalanche1.map">
+	<img src="Avalanche1.gif" ISMAP BORDER=0>
+</a>
+</center>
+<hr>
+<p>
+<!-- **************************************************************************** -->
+<p>
+<font size=4>
+The goal of the <strong>Avalanche</strong> project is to enable the
+construction of usable and truly scalable parallel computing platforms
+that are not exorbitantly expensive, yet are still capable of
+achieving peta-op performance levels.<P>
+
+<em>Low communication latency</em> is the key to achieving
+performance scalability for both of the common parallel computation models,
+namely <em>Message Passing</em> and <em>Distributed Shared Memory</em>.
+Toward this end, we are developing a memory architecture that tightly
+integrates the processor, the entire memory hierarchy, and the
+interconnect fabric.<P>
+
+The core of the effort is the development of a new
+<a name="CSCCU"><em>Cache and Communication Controller Unit</em></a>
+(CCCU) for the
+<em><a href="http://www.hp.com/">Hewlett-Packard</a></em>
+<strong>PA</strong> 8000 CPU and the Myrinet network fabric (from
+<em><a href="http://www.myri.com/">Myricom Inc</a></em>).
+
+The CCCU will inject incoming data traffic into the "appropriate level"
+of the memory hierarchy to minimize message latency and cache miss
+penalties.  Furthermore, it supports a flexible suite of cache
+coherence protocols for DSM applications <p>
+
+In order to achieve reasonable cost it is necessary to adopt an
+approach that takes advantage of the significant performance
+advantages and momentum already provided by commercial microprocessor
+and interconnect fabric development efforts.<p>
+
+The target for the project is a 64 processing element prototype
+which will be constructed in the final year of the
+<em><a href="http://www.arpa.mil/">ARPA</a></em>
+(<em><a href="http://www.csto.arpa.mil/CSTOWelcome.html">CSTO</a></em>)
+/ <em><a href="http://dolomite.spawar.navy.mil/">SPAWAR</a></em>
+supported project duration.
+
+</font>
+<p>
+
+<hr> <!-------------------------------------------------------------------->
+
+<center>
+<font size=+2>
+<!- Vestigial link support for broken Mosaic tables ->
+[ <a href="avalanche-status-reports.html">Status Reports</a>
+| <a href="avalanche-publications.html">Publications</a>
+| <a href="avalanche-personnel.html">Personnel</a>
+| <a href="http://www.cs.utah.edu/projects/flux/facilities.html">Facilities</a>
+| <a href="avalanche-related-projects.html">Related Sites</a>
+] <br>
+</font>
+</center>
+
+<!-- **************************************************************************** -->
+<!-- For the footer, you can insert the following at the very bottom of the page: -->
+<hr>
+<center>
+<nobr>
+<a href="http://www.cs.utah.edu/">
+<img border=0 src="http://www.cs.utah.edu/projects/icons/dept_cs_button.gif"></a>
+<a href="http://www.cs.utah.edu/projects/">
+<img border=0 src="http://www.cs.utah.edu/projects/icons/research_cs_button.gif"></a>
+</nobr>
+</center>
+<hr>
+<address> Feedback to:
+<a href="mailto:avalanche@jensen.cs.utah.edu">avalanche@jensen.cs.utah.edu</a><br>
+</address>
+
+<!-- I have created "buttons" in the form of gifs, which are located at	   -->
+<!-- /afs/cs.utah.edu/www/htdocs/projects/icons/			   -->
+<!--  The button dept_cs_button.gif is used to linked to the Dept. of CS   -->
+<!-- Home Page (at /afs/cs.utah.edu/www/htdocs/projects/)		   -->
+<!--  the button research_cs_button.gif is used to link to the Dept of CS  -->
+<!-- Research groups							   -->
+<!--  and projects page (at /afs/cs.utah.edu/www/htdocs/projects/)	   -->
+
+
+<!-- If you have any questions, please let me know.			   -->
+
+<!-- thank you,								   -->
+<!-- Susan								   -->
+<!-- **************************************************************************** -->
+Last modified around November 13, 1995.
+<hr> <!-------------------------------------------------------------------->
+<font size=-1>
+This work was sponsored by the
+<a href="http://dolomite.spawar.navy.mil/">Space and Naval Warfare Systems Command (SPAWAR)
+</a> and
+<a href="http://www.arpa.mil/">Advanced Research Projects Agency (ARPA)</a>,
+Communication and Memory Architectures for
+<a href="http://www.csto.arpa.mil/ResearchAreas/Scalable_Systems_and_Software/Prototype_Scalable_Systems.html">Scalable Parallel Computing</a>,
+ARPA order #B990 under SPAWAR contract #N00039-95-C-0018.
+</font>
+
+</body>
+</html>
+
+<!-- $Date: 1996/01/24 06:01:42 $ GMT -->
+<!-- Copyright 1995 Computer Science Laboratory -->
+<!-- Department of Computer Science, University of Utah -->
+<!-- all rights reserved. -->
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.rice.edu/~dsystem/>====================
+<!-- comments-->
+
+<HTML>
+
+<HEAD>
+<title>The D System Home Page</title>
+</HEAD>
+
+<BODY bgcolor="#ffffff">
+<center>
+<img alt="[D System Masthead]" src="masthead.gif">
+</center>
+
+<p>
+<hr>
+<p>
+
+<center>
+<b>Welcome to the World Wide Web home page for the D System,</b>
+<br>a research project of the Parallel Programming Systems group at
+<a href="http://riceinfo.rice.edu">Rice University</a>.
+</center>
+
+<p><hr><p>
+
+<h3>Objective</h3>
+
+<p>
+We are conducting research into program analysis, code generation, and
+programming tools for data-parallel languages like High Performance Fortran.
+If this research is successful, computational scientists and engineers will
+be able to write <b>machine-independent</b>, <b>data-parallel</b> programs
+for a broad spectrum of scientific applications, and achieve high
+performance with these programs on a variety of parallel
+architectures.
+
+<p><hr><p>
+
+<h3>To find out more...</h3>
+
+<p> 
+<ul>
+<li> <a href="http://www.cs.rice.edu/~dsystem/overview.html">
+    Overview of the D System Project</a>
+<li><a href="http://www.cs.rice.edu/~dsystem/dhpf/">
+    The dHPF Compiler</a>
+<li><a href="http://www.cs.rice.edu/~dsystem/techPapers.html">
+    Technical Papers</a>
+<li><a href="http://www.cs.rice.edu/~dsystem/v0.6/">
+    Software, Documentation & Reported Bugs</a>
+<li><a href="http://www.cs.rice.edu/~dsystem/people.html">
+    The D Team</a>
+<li><a href="http://www.cs.rice.edu/~dsystem/related-work.html">
+    Related research projects elsewhere</a>
+<li><a href="http://www.cs.rice.edu/~dsystem/jobs/">
+    Career Opportunities</a>
+</ul>
+
+<p>
+Please direct questions about the D System to
+<a href=mailto:dsystem-info@cs.rice.edu>dsystem-info@cs.rice.edu</a>.
+
+<p><hr><p>
+
+<h3>Other pages on the project and the group's other research:</h3>
+
+<li><a href="http://www.cs.rice.edu/~dsystem/dhpf/">
+    The dHPF Compiler Home Page</a>
+<li><a href="http://www.cs.rice.edu/~dsystem/bluebook/bluebook.html">
+    FY1996 ARPA Blue Book Pages</a>
+<li><a href = "http://www.crpc.rice.edu/fortran-tools/">
+    Fortran Tools Home Page</a>
+<li><a href = "http://www.crpc.rice.edu/fortran-tools/glossary.html">
+    Fortran Tools Glossary</a>
+
+<p><hr><p>
+
+<address>
+Updated July 1997.
+<br>
+http://www.cs.rice.edu/~dsystem/
+</address>
+
+</BODY>
+</HTML>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.princeton.edu/shrimp/html/communication.html>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 FINAL//EN">
+
+<HTML>
+<HEAD>
+<TITLE>Communication</TITLE>
+<META NAME="Author" CONTENT="Sanjeev Kumar">
+<META NAME="Generator" CONTENT="NetObjects Fusion 3.0 for Windows">
+
+</HEAD>
+
+<BODY  BACKGROUND="../FredsBackground.gif" LINK="#660000" VLINK="#996600" TEXT="#333333" TOPMARGIN=16 LEFTMARGIN=10 MARGINWIDTH=10 MARGINHEIGHT=16>
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=575>
+<TR VALIGN="top" ALIGN="left">
+<TD>
+
+  <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=125>
+   <TR VALIGN="top" ALIGN="left">
+	<TD WIDTH=125 HEIGHT =150 COLSPAN=2><IMG id="Picture1" HEIGHT=150 WIDTH=125 SRC="../assets/images/auto_generated_images/a_shrimpLogo.small.gif"  BORDER=0  ALT="Picture" ></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD HEIGHT =25></TD>
+	<TD WIDTH=124><IMG SRC="../assets/images/auto_generated_images/clearpixel.gif" WIDTH =124 HEIGHT=1 BORDER=0></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD WIDTH=125 HEIGHT =24 COLSPAN=2>
+	  <TABLE id="VerticalNavigationBar1" BORDER=0 CELLSPACING=0 CELLPADDING=0  WIDTH=125 >
+	 <TR VALIGN="top" ALIGN="left">
+		<TD WIDTH=125 HEIGHT=24><A HREF="../index.html"><IMG id="NavigationButton157" HEIGHT=24 WIDTH=125 SRC="../assets/images/auto_generated_images/Home_myButton.gif"  BORDER=0  ALT=" SHRIMP Home " ></A></TD>
+	 </TR>
+	 <TR VALIGN="top" ALIGN="left">
+		<TD WIDTH=125 HEIGHT=24><A HREF="../html/vmmc.html"><IMG id="NavigationButton158" HEIGHT=24 WIDTH=125 SRC="../assets/images/auto_generated_images/VMMC_myButton.gif"  BORDER=0  ALT=" VMMC " ></A></TD>
+	 </TR>
+	 <TR VALIGN="top" ALIGN="left">
+		<TD WIDTH=125 HEIGHT=24><A HREF="../html/vmmc-ii.html"><IMG id="NavigationButton159" HEIGHT=24 WIDTH=125 SRC="../assets/images/auto_generated_images/VMMC-II_myButton.gif"  BORDER=0  ALT=" VMMC-II " ></A></TD>
+	 </TR>
+	  </TABLE></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD COLSPAN=2 HEIGHT =398></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD WIDTH=1 HEIGHT =1><IMG id="Rectangle1" HEIGHT=1 WIDTH=1 SRC="../assets/images/auto_generated_images/a_Rectangle.gif" BORDER=0 ALT="Rectangle"  ></TD>
+	<TD></TD>
+   </TR>
+  </TABLE></TD>
+<TD>
+
+  <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=450>
+   <TR VALIGN="top" ALIGN="left">
+	<TD COLSPAN=2 HEIGHT =18></TD>
+	<TD WIDTH=420 COLSPAN=5>
+	  <TABLE id="NavigationBar1" BORDER=0 CELLSPACING=0 CELLPADDING=1  WIDTH=420 >
+	 <TR VALIGN="top" ALIGN="left">
+		<TD WIDTH=82><A HREF="../html/platforms.html"><IMG id="NavigationButton160" HEIGHT=18 WIDTH=82 SRC="../assets/images/auto_generated_images/Platforms_myNewAltButton.gif"  BORDER=0  ALT=" Platforms " ></A></TD>
+		<TD WIDTH=82><A HREF="../html/research.html"><IMG id="NavigationButton161" HEIGHT=18 WIDTH=82 SRC="../assets/images/auto_generated_images/Research_myNewAltButton_1.gif"  BORDER=0  ALT=" Research " ></A></TD>
+		<TD WIDTH=82><A HREF="../html/papers.html"><IMG id="NavigationButton162" HEIGHT=18 WIDTH=82 SRC="../assets/images/auto_generated_images/Papers_myNewAltButton.gif"  BORDER=0  ALT=" Papers " ></A></TD>
+		<TD WIDTH=82><A HREF="../html/software.html"><IMG id="NavigationButton163" HEIGHT=18 WIDTH=82 SRC="../assets/images/auto_generated_images/Software_myNewAltButton.gif"  BORDER=0  ALT=" Software " ></A></TD>
+		<TD WIDTH=82 HEIGHT=18><A HREF="../html/people.html"><IMG id="NavigationButton164" HEIGHT=18 WIDTH=82 SRC="../assets/images/auto_generated_images/People_myNewAltButton.gif"  BORDER=0  ALT=" People " ></A></TD>
+	 </TR>
+	  </TABLE></TD>
+	<TD></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD WIDTH=25 HEIGHT =16><IMG SRC="../assets/images/auto_generated_images/clearpixel.gif" WIDTH =25 HEIGHT=1 BORDER=0></TD>
+	<TD WIDTH=3><IMG SRC="../assets/images/auto_generated_images/clearpixel.gif" WIDTH =3 HEIGHT=1 BORDER=0></TD>
+	<TD WIDTH=10><IMG SRC="../assets/images/auto_generated_images/clearpixel.gif" WIDTH =10 HEIGHT=1 BORDER=0></TD>
+	<TD WIDTH=87><IMG SRC="../assets/images/auto_generated_images/clearpixel.gif" WIDTH =87 HEIGHT=1 BORDER=0></TD>
+	<TD WIDTH=250><IMG SRC="../assets/images/auto_generated_images/clearpixel.gif" WIDTH =250 HEIGHT=1 BORDER=0></TD>
+	<TD WIDTH=50><IMG SRC="../assets/images/auto_generated_images/clearpixel.gif" WIDTH =50 HEIGHT=1 BORDER=0></TD>
+	<TD WIDTH=23><IMG SRC="../assets/images/auto_generated_images/clearpixel.gif" WIDTH =23 HEIGHT=1 BORDER=0></TD>
+	<TD WIDTH=2><IMG SRC="../assets/images/auto_generated_images/clearpixel.gif" WIDTH =2 HEIGHT=1 BORDER=0></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD COLSPAN=3 HEIGHT =60></TD>
+	<TD WIDTH=387 COLSPAN=3 ALIGN="left" VALIGN="top"><IMG id="Picture2" HEIGHT=60 WIDTH=387 SRC="../assets/images/auto_generated_images/a_ShrimpTitle.gif"  BORDER=0  ALT="Picture" ></TD>
+	<TD COLSPAN=2></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD COLSPAN=8 HEIGHT =15></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD HEIGHT =40></TD>
+	<TD WIDTH=425 COLSPAN=7><IMG id="Banner1" HEIGHT=40 WIDTH=425 SRC="../assets/images/auto_generated_images/Communication_myBanner1.gif"  BORDER=0  ALT=" Communication " ></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD COLSPAN=8 HEIGHT =26></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD></TD>
+	<TD WIDTH=425 COLSPAN=7>
+<P><FONT>Virtual memory-mapped communication (VMMC) was developed out of the need for a basic multicomputer communication mechanism with extremely low latency and high bandwidth. This is achieved by allowing applications to transfer data directly between two virtual memory address spaces over the network. The basic mechanism is designed to efficiently support applications and common communication models such as message passing, shared memory, RPC, and client-server.</P>
+<P><BR>Experience with implementing connection-oriented communication using VMMC exposed some deficiencies in the VMMC model. VMMC-2 was designed to overcome those deficiencies. VMMC-2 extends VMMC with three mechanisms: a user-managed TLB mechanism for address translation which enables user libraries to dynamically manage the amount of pinned space and requires only driver support from many operating systems, a transfer redirection mechanism which allows to avoid a copy on the receiver's side, and a reliable communication protocol at the data link layer which allows to avoid a copy on the sender's side. </FONT></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD HEIGHT =30></TD>
+	<TD WIDTH=425 COLSPAN=7 VALIGN="middle"><HR id="HRRule1" width=425 size=2 NOSHADE=TRUE ></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD COLSPAN=8 HEIGHT =11></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD COLSPAN=4></TD>
+	<TD WIDTH=250>
+<P ALIGN="CENTER"><B><I><FONT>Last Updated : March 22, 1999</FONT></I></B></TD>
+	<TD COLSPAN=3></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD COLSPAN=8 HEIGHT =6></TD>
+   </TR>
+   <TR VALIGN="top" ALIGN="left">
+	<TD COLSPAN=4></TD>
+	<TD WIDTH=250>
+<P ALIGN="CENTER"><A HREF="mailto:skumar@cs.princeton.edu"><FONT>skumar@cs.princeton.edu</FONT></A><FONT></FONT></TD>
+	<TD COLSPAN=3></TD>
+   </TR>
+  </TABLE></TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://iacoma.cs.uiuc.edu/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+  
+<title>The i-acoma group at University of Illinois at Urbana-Champaign</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../mycss.css" type="text/css" media="screen" />
+
+<script src="http://iacoma.cs.uiuc.edu/~pmontesi/lightbox/js/prototype.js" type="text/javascript"></script>
+<script src="http://iacoma.cs.uiuc.edu/~pmontesi/lightbox/js/scriptaculous.js?load=effects" type="text/javascript"></script>
+<script src="http://iacoma.cs.uiuc.edu/~pmontesi/lightbox/js/lightbox.js" type="text/javascript"></script>
+
+</head>
+
+
+
+<body>
+
+<div id="content">
+<div id="header">
+  <div>
+    <h1 id="page-title">
+    The i-acoma group at UIUC
+</h1>
+    <p id="description"></p>
+  </div>
+</div>
+<div id="navcontainer">
+  <ul id="navlist">
+    <li><a href="/index.html">Home</a></span></li>
+    <li><a href="/work.html">Papers</a></span></li>
+    <li><a href="/people.html">People</a></span></li>
+    <li><a href="/news.html">News</a></span></li>
+    <li><a href="/positions.html">Positions</a></span></li>
+    <li><a href="/links.html">Links</a></span></li>
+    <li><a href="/contact.html">Contact</a></span></li>
+  </ul>
+</div>
+
+<div id="main"><div id="main2">
+ 
+<!-- Begin .post -->
+
+  <div class="post">
+   <div class="post-body">
+   <p> 
+   <a href="../students/iacoma_group.jpg" rel="lightbox[iacoma]" title="The i-acoma group"><img src="../students/iacoma_group.jpg" width="388" height="291" alt="" /></a>
+
+<!--
+   <a href="../students/groupweb.jpg" rel="lightbox[iacoma]" title="The i-acoma group"><img src="../students/groupwebsmall.jpg" width="388" height="291" alt="" /></a>
+
+-->
+
+<!-- 
+   <a href="../students/images/josep.jpg"  rel="lightbox[iacoma]" title="Josep Torrellas"></a>
+   <a href="../students/images/wonsun.jpg"  rel="lightbox[iacoma]" title="Wonsun Anh"></a>
+   <a href="../students/images/luis.jpg"  rel="lightbox[iacoma]" title="Luis Ceze"></a>   
+   <a href="../students/images/brian.jpg"  rel="lightbox[iacoma]" title="Brian Greskamp"></a>   
+   <a href="../students/images/wei.jpg"  rel="lightbox[iacoma]" title="Wei Liu"></a>
+   <a href="../students/images/pablo.jpg"  rel="lightbox[iacoma]" title="Pablo Montesinos Ortego"></a>
+   <a href="../students/images/smruti.jpg"  rel="lightbox[iacoma]" title="Smruti Sarangi"></a>   
+   <a href="../students/images/radu.jpg"  rel="lightbox[iacoma]" title="Radu Teodorescu"></a>
+   <a href="../students/images/abhishek.jpg"  rel="lightbox[iacoma]" title="Abhishek Tiwari"></a>
+   <a href="../students/images/james.jpg"  rel="lightbox[iacoma]" title="James Tuck"></a>
+ -->
+
+    <dt class="iacoma-img"><img src="iacoma.gif" width="100" height="50" /></dt>
+
+
+   NEW: Two excellent Ph.D. students are graduating and looking
+              for an academic or research job starting Fall 2012: 
+              <A HREF="http://iacoma.cs.uiuc.edu/students/honarmand/index.html">
+              Nima Honarmand</A>, and
+              <A HREF="http://iacoma.cs.uiuc.edu/postdocs/dahn2.html">
+              Wonsun Ahn </A>.
+              Please check their resumes.
+    <br>
+<p>
+
+    NEW:Our group has 
+   <strong>1 paper in ASPLOS-2014</strong>,
+   <strong>3 papers in HPCA-2014</strong>, and
+   <strong>1 paper in MICRO-2013</strong>,
+   <br>
+
+
+<!--
+
+    NEW:Our group has
+   <strong>1 paper in MICRO-2013</strong>,
+   <strong>2 papers in <A HREF="http://illinois.edu/lb/article/4485/71865">ISCA-2013</A></strong>,
+   <strong>3 papers in <A HREF="http://illinois.edu/lb/article/4485/68965">ASPLOS-2013</A></strong>
+and
+   <strong>4 papers in <A HREF="http://illinois.edu/lb/article/4485/68967">HPCA-2013</A></strong>.
+    <br>
+    <p>
+
+   We have 2 excellent researchers who are now looking
+              for an academic or research job starting Fall 2013: 
+              <A HREF="http://iacoma.cs.uiuc.edu/students/qian.html"> Xuehai Qian</A>,
+              and 
+              <A HREF="http://iacoma.cs.uiuc.edu/postdocs/aminansari.html"> Amin Ansari </A>.
+              Please check out their resumes. 
+    <br>
+    <p>
+
+    NEW: Our PhD students <A HREF="http://www.ece.umn.edu/users/ukarpuzc/"> Ulya Karpuzcu</A>
+    and <A HREF="http://www.cs.utsa.edu/~muzahid/"> Abdullah Muzahid </A> are starting
+    in the Fall 2012 as Assistant Professors at University of Minnesota and University of Texas San 
+    Antonio, respectively.
+    <A HREF="http://illinois.edu/lb/article/4485/66392">Here is an I2PC article about them.</A> 
+
+-->
+    <br>
+
+
+   <a href="http://iacoma.cs.uiuc.edu"><strong>The i-acoma Architecture Group</strong></a>,
+   led by <a href="./josep/torrellas.html"><strong>Professor Josep Torrellas</strong></a>,
+   focuses on new processor, memory, and system technologies and organizations to build novel 
+   multiprocessor computer architectures. The two main projects are:
+          <p>
+          <ul>
+            <li> A novel multicore architecture for programmability:
+                 <br>
+                 <A HREF="/iacoma-papers/bulkmulticore.pdf">
+                 <strong>The Bulk Multicore Architecture</strong></a> (Communications of the ACM,
+                 December 2009).
+                 <A HREF="/iacoma-papers/PRES/present_cacm09_1.pdf">[Presentation slides].</a>
+                 <br>
+                 <A HREF="http://www.eetimes.com/news/latest/showArticle.jhtml?articleID=212100891">
+                  EE Times article that discusses the Bulk Multicore.</a>
+                 <br>
+                 <A HREF="http://www.ddj.com/go-parallel/article/showArticle.jhtml?articleID=222200120">
+                 Dr. Dobb's Journal discussion of the Bulk Multicore.</a>
+                 <br>
+                 <A HREF="/iacoma-papers/Illinois_parallelism_book.pdf">
+                 Making Parallel Programming Easy: Research Contributions from Illinois,</A> a book
+                 summarizing the accomplishments of the Illinois-Intel Parallelism Center (I2PC).
+                 <br>
+                 This project is funded by Intel under the 
+                 <A HREF="http://i2pc.cs.illinois.edu">
+                 Illinois Intel Parallelism Center (I2PC).</a>
+<!--                 This project is funded under the Intel-Microsoft
+                 <A HREF="http://www.upcrc.uiuc.edu">
+                 Universal Parallel Computing Research Center (UPCRC).</a>
+-->
+                 </li>
+            <li> An extreme-scale multiprocessor architecture designed from the
+                 ground up for energy and power efficiency:
+                 <br>
+                 <A HREF="/iacoma-papers/extreme.pdf">
+                 <strong>Thrifty: An Extreme-Scale Multiprocessor Architecture</strong></a>
+                 (IEEE Computer, November 2009).
+                 <A HREF="/iacoma-papers/PRES/present_extreme09.pdf">[Presentation slides].</a>
+                 <br>
+                 <A HREF="/iacoma-papers/date14.pdf">
+                 Extreme-Scale Computer Architecture: Energy Efficiency from the Ground Up</A>
+                 (DATE, March 2014).
+                 <br>
+                 This work is part of an <A HREF="http://cs.illinois.edu/news/2010/Oct12-2">
+                 Intel-lead DARPA project</a> that aims to design an Extreme-Scale computer.
+                 <br>
+                 <A HREF="http://blogs.intel.com/research/2010/08/intel_and_darpa_collaborate_on.php">
+                 Intel blog on the DARPA project.</a>
+                 <br>
+                 This project is funded by DARPA under
+                 <A HREF="http://www.darpa.mil/news/2010/UHPCNewsRelease.pdf">UHPC</a> and DOE.
+                 </li>
+          </ul>
+          <p>
+   
+    The emphasis research areas in the group are:
+    </p>
+   <ul>
+    <li> <a href="http://iacoma.cs.uiuc.edu/work/comanuma.html"> 
+         Multiprocessor organization and system design</a></li>
+    <li> <a href="http://iacoma.cs.uiuc.edu/work/speculation.html"> Speculative multithreading</a></li>
+    <li> <a href="http://iacoma.cs.uiuc.edu/work/hwreliability.html"> Hardware reliability and 
+        variability</a></li>
+    <li> <a href="http://iacoma.cs.uiuc.edu/work/swreliability.html"> Support for 
+        software reliability</a></li>
+    <li> <a href="http://iacoma.cs.uiuc.edu/work/lowpower.html"> Low-power design</a></li>
+    <p>
+    <li> Old Projects</li>
+      <ul>        
+        <li> <a href="http://iacoma.cs.uiuc.edu/flexram/">
+            The FlexRAM Intelligent Memory System</a></li>
+        <li> <a href="http://iacoma.cs.uiuc.edu/m3t/">
+            The Morphable Multithreaded Memory Tiles (M3T) architecture</a></li>
+      </ul>
+    </ul>
+    <p>
+    We have released these software tools: 
+      <ul>
+
+            <LI> <A HREF="http://iacoma.cs.uiuc.edu/varius/index.html">
+                 VARIUS</A>: A model of within-die process variation and resulting
+                 timing errors in processors for microarchitects.</LI>            
+
+            <LI> <A HREF="http://sesc.sourceforge.net">
+               SESC</A>: A cycle accurate architectural simulator that models a
+               very wide set of architectures: superscalars, multiprocessors,
+               processors in memory, and thread-level speculation. </LI>
+
+ <!--
+
+            <LI> <A HREF="http://iacoma.cs.uiuc.edu/augmint.html">
+              Augmint</A>: A multiprocessor simulation
+              environment for Intel x86 architectures.</LI>
+-->
+
+      </ul>
+    </p>
+    <p>
+<!--
+    We are involved in the <a href="http://www.ncsa.uiuc.edu"> NCSA</a> Partnership for
+    Advanced Computational Infrastructure <a href="http://alliance.ncsa.uiuc.edu"> (PACI)</a>
+    effort.</a>    
+    </p>
+-->
+
+  </div>
+  </div>
+
+<!-- End .post -->
+
+</div></div>
+
+<!-- End #main -->
+<!-- Begin #sidebar -->
+<div id="sidebar">
+  <!-- Begin .box -->
+  <div class="box">
+    <div class="box2">
+      <div class="box3">
+        <h3 class="sidebar-title">Learn about our papers</h3>
+        <ul id="ourwork">        In chronological order:<br>
+        <li><a href="/work/chrono.html">Full List</a></li>
+  		By topic:<br>
+          <li><a href="/work/comanuma.html">Multiprocessor Organization and System Design</a></li>
+          <li><a href="/work/speculation.html">Speculative Multithreading</a></li>
+          <li><a href="/work/hwreliability.html">Hardware Reliability and Variability</a></li>
+          <li><a href="/work/swreliability.html">Support for Software Reliability</a></li>
+          <li><a href="/work/lowpower.html">Low-Power Design</a></li>
+          <li><a href="/work/flexram.html">Processor-Memory Integration</a></li>
+          <li><a href="/work/prefetching.html">Prefetching and Forwarding</a></li>
+          <li><a href="/work/databases.html">Databases and Operating Systems</a></li>
+          <li><a href="/work/toolsmisc.html">Tools and Misc</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="box">
+    <div class="box2">
+      <div class="box3">
+        <h3 class="sidebar-title">Learn about us:</h3>
+        <ul id="ourteam">
+          <li>Leader: <a HREF="/josep/torrellas.html">Josep Torrellas</a></li>
+          <li><a HREF="/currentst.html">Current Students</a></li>
+          <li><a HREF="/postdocs.html">Research Scientists</a></li>
+          <li><a HREF="/associatd.html">Associated to the Project</a></li>
+          <li><a HREF="/alradygra.html">Already Graduated</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- End #sidebar -->
+<!-- Begin #footer -->
+<div id="footer">
+  <div>
+    <div>
+      <hr />
+      <p align="center"> Contact <a href="MAILTO:torrellas@cs.uiuc.edu">torrellas@cs.uiuc.edu</a> with questions or comments on this page. <br>
+        This site was created on 06/22/04, based on a <a href="http://www.blogger.com">blogger</a> template. <br>
+        This site was designed on an architecture with uniformly-sized instructions.<br> 
+		</p>
+    </div>
+  </div>
+</div>
+
+<!-- End #content -->
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.wisc.edu/multifacet/>====================
+<html>
+<head>
+<title>
+Wisconsin Multifacet Project
+</title>
+<link rel="icon" href="/multifacet/pics/ruby.ico" type="image/x-icon">          
+<link rel="shortcut icon" href="/multifacet/pics/ruby.ico" type="image/x-icon">
+<base target="_top">
+
+<style>
+iframe {height:6em}
+ul {list-style-type:none }
+</style>
+
+</head>
+
+<SCRIPT LANGUAGE="JavaScript">
+top.location.target="_top"
+if(window.location.target != "_top") 
+{
+  top.location.href=window.location.href
+} 
+</SCRIPT>
+
+
+<!-- Include this file between </head> and <body>.  -->
+
+<SCRIPT>
+ // Copyright message
+ function copyright_notice() {
+ alert("Please respect the copyrights.\nPermission to copy without fee all or part of this material is granted\nprovided that the copies are not made or distributed for direct\ncommercial advantage.  To copy otherwise, or to republish, requires\na fee and/or specific permission of the authors and/or ACM/IEEE.\n\nAny opinions, findings, and conclusions or recommendations expressed\nin this material are those of the author(s) and do not necessarily reflect\nthe views of the National Science Foundation or any other sponsor.")
+}
+</SCRIPT>
+
+<SCRIPT>
+ // Copyright message
+ function ieee_copyright_notice() {
+ alert("Copyright 2002 IEEE.\nPersonal use of this material is permitted.\nHowever, permission to reprint or republish this material\nfor advertising or promotional purposes or for creating\nnew collective works for resale or redistribution to\nservers or lists, or to reuse any copyrighted component\nof this work in other works must be obtained from the IEEE.")
+}
+</SCRIPT>
+
+
+
+<body text="#000000" bgcolor="#FFFFFF">
+
+<table BORDER="0" WIDTH="100%">
+<tr>
+  <td colspan=100>
+
+<!-- Header begin -->
+<table BORDER="0" WIDTH="100%">
+<tr>
+<td ALIGN=LEFT VALIGN=CENTER NOWRAP><img SRC="http://www.cs.wisc.edu/multifacet/pics/UW_small_logo.gif" ALT="UW-Madison Logo" width=150 height=150 BORDER=0 align=CENTER></td>
+<td>
+<h1 align=center>Wisconsin Multifacet Project</h1>
+
+<P align=center> 
+<A HREF="http://www.cs.wisc.edu/arch/uwarch/">UW-Madison Computer Architecture Group</a><br>
+<A HREF="http://www.cs.wisc.edu/">Department of Computer Sciences</A><br>
+<A HREF="http://www.wisc.edu/">University of Wisconsin-Madison</A>
+
+<H2 align=center>Directed by
+<A HREF="http://www.cs.wisc.edu/~markhill/">Mark Hill</A> &
+<A HREF="http://www.cs.wisc.edu/~david/">David Wood</A></H2>
+
+</td>
+
+<td ALIGN=RIGHT VALIGN=CENTER NOWRAP>
+
+<form action="" method="post">
+
+<img SRC="http://www.cs.wisc.edu/multifacet/gem_image.cgi" ALT="Multifacet Gem Logo" width="144" height="134" BORDER=0  align=CENTER>
+</td>
+</tr>
+</table>
+
+<!-- Header end -->
+
+  </td>
+</tr>
+</table>
+
+<table BORDER="0" WIDTH="100%">
+<tr>
+  <td VALIGN="top">
+
+<!-- TOC begin -->
+
+<table border="0" cellpadding="1" cellspacing="12">
+
+<tr>
+<td align="right" valign="middle">
+<a href="http://www.cs.wisc.edu/multifacet/">Overview</a> 
+</td>
+<td bgcolor="#9c0831" rowspan="10"><br></td>
+</tr>
+
+<tr><td align="right" valign="middle">
+<a href="http://www.cs.wisc.edu/multifacet/people.html">People</a> 
+</td></tr>
+
+<tr><td align="right" valign="middle">
+<a href="http://www.cs.wisc.edu/multifacet/papers/">Publications & Talks</a> 
+</td></tr>
+
+<tr><td align="right" valign="middle">
+<a href="http://www.cs.wisc.edu/multifacet/theses/">Theses</a>
+</td></tr>
+
+</td></tr>
+
+<tr><td align="right" valign="middle">
+<a href="http://www.cs.wisc.edu/multifacet/related.html">Related Projects</a> 
+</td></tr>
+
+<tr><td align="right" valign="middle">
+<a href="http://www.cs.wisc.edu/multifacet/links.html">Links</a> 
+</td></tr>
+
+</table>
+
+<!-- TOC end -->
+
+  </td>
+  <td VALIGN="top" width="99%">
+<br>
+<p>
+
+
+<h2><A NAME="Overview">Overview</A> </h2>
+
+The Wisconsin Multifacet Project seeks to improve the multiprocessor
+servers that form the computational infrastructure for Internet web
+servers, databases, and other demanding applications. Work focuses
+on using the transistor bounty provided by Moore's Law to improve
+multiprocessor performance, cost, and fault tolerance, while also making
+these systems easier to design and program. <p>
+
+<h2><A NAME="Publications">Publications & Talks</A> </h2>
+
+<blockquote>
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html"><b>By Year</b></A>:
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year2013">2013</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year2012">2012</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year2011">2011</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year2010">2010</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year2009">2009</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year2008">2008</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year2007">2007</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year2006">2006</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year2005">2005</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year2004">2004</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year2003">2003</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year2002">2002</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year2001">2001</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year2000">2000</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year1999">1999</A>,
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_year.html#year1998">1998</A>
+
+<br><br>
+<A HREF="http://www.cs.wisc.edu/multifacet/papers/by_topic.html"><b>By Topic</b></A>: 
+<ul>
+<li><A HREF="http://www.cs.wisc.edu/multifacet/papers/by_topic.html#topic_multiprocessor">Multiprocessor Design, Specification, & Verification</A> </li>
+<li><A HREF="http://www.cs.wisc.edu/multifacet/papers/by_topic.html#topic_transactional_memory">Transactional Memory</A> (see also
+<A HREF="http://www.cs.wisc.edu/multifacet/logtm/">LogTM Home Page</A>)</li>
+<li><A HREF="http://www.cs.wisc.edu/multifacet/papers/by_topic.html#topic_deterministic">Deterministic Recording & Replay </A></li>
+<li><A HREF="http://www.cs.wisc.edu/multifacet/papers/by_topic.html#topic_method">Modeling & Simulation</A></li>
+<li><A HREF="http://www.cs.wisc.edu/multifacet/papers/by_topic.html#topic_workload">Workload Analysis & Improvement</A></li>
+<li><A HREF="http://www.cs.wisc.edu/multifacet/papers/by_topic.html#topic_safetynet">Availability</A></li>
+<li><A HREF="http://www.cs.wisc.edu/multifacet/papers/by_topic.html#topic_misc">Miscellaneous</A></li>
+</ul>
+
+</blockquote>
+
+
+
+<h2><A NAME="Publications">Software & Tools</A> </h2>
+<ul>
+<li><a href="http://www.m5sim.org">The gem5 Simulator System </a></li>
+<li><a href="http://www.cs.wisc.edu/gems">Multifacet's General Execution-driven Multiprocessor Simulator (GEMS) </a></li>
+</ul>
+
+<h2><A NAME="Sponsors">Sponsors</A> </h2>
+<ul>
+  <li>National Science Foundation 
+  <ul>
+  <li><A href="http://www.fastlane.nsf.gov/servlet/showaward?award=9971256">Award Number 9971256</A> (1999-2001) 
+  <li><A href="http://www.fastlane.nsf.gov/servlet/showaward?award=0205286">Award Number 0205286</A> (2001-2007)
+  <li><A href="http://www.fastlane.nsf.gov/servlet/showaward?award=0324878">Award Number 0324878</A> (2003-2008)
+  <li><A href="http://www.fastlane.nsf.gov/servlet/showaward?award=0551401">Award Number 0551401</A> (Infrastructure 2006-2009)
+  <li><A href="http://www.fastlane.nsf.gov/servlet/showaward?award=0720565">Award Number 0720565</A> (2007-2010)
+  <li><A href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0916725">Award Number 0916725</A> (2009-2012)
+  <li><A href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1017650">Award Number 1017650</A> (2010-2013)
+  </ul>
+  <li>University of Wisconsin Graduate School
+  <li><A href="http://www.google.com">Google</A>
+  <li><A href="http://www.hp.com/">HP (formerly Compaq Computer and Digital Equipment Corporations)</A>
+  <li><A href="http://www.ibm.com/">IBM</A>
+  <li><A href="http://www.intel.com/">Intel</A>
+  <li><A href="http://www.microsoft.com/">Microsoft</A>
+  <li><A href="http://www.oracle.com/us/sun/index.html">Oracle (formerly Sun Microsystems)</A>
+  <li><A href="http://www.sandia.gov/">Sandia National Laboratories</A>
+</ul>
+
+<P>
+<h2>The project that spawned this project</h2>
+<ul>
+<li>
+<A href="http://www.cs.wisc.edu/~wwt/">Wisconsin Wind Tunnel Project</A>
+</ul>
+
+<ADDRESS>
+<HR>
+Any opinions, findings, and conclusions or recommendations
+expressed on these pages are those of the author(s) and do not
+necessarily reflect the views of the National Science Foundation 
+or any other sponsor.
+<br> <br>
+Last modified: Thursday, 25-Apr-2013 16:51:40 CDT<br>
+<!-- Maintained by <A href="http://www.cs.wisc.edu/~milo/">Milo Martin</A>-->
+<hr>
+</ADDRESS>
+  </td>
+</tr>
+</table>
+</body>
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://aggregate.org/TechPub/ICPP95/icpp95.html>====================
+<HTML>
+<HEAD>
+<TITLE>
+Purdue's Adapter for Parallel Execution and Rapid Synchronization:  The TTL_PAPERS Design
+</TITLE>
+</HEAD>
+<BODY>
+<P>
+<H1>
+Purdue's Adapter for Parallel Execution and
+Rapid Synchronization:  The TTL_PAPERS Design
+</H1> <P>
+<P ALIGN=CENTER>
+H. G. Dietz, T. M. Chung, T. Mattox, and T. Muhammad
+<P ALIGN=CENTER>
+School of Electrical Engineering
+<BR>
+Purdue University
+<BR>
+West Lafayette, IN 47907-1285
+<BR>
+<B>hankd@ecn.purdue.edu</B>
+<BR>
+<I>January 1995</I>
+<H2> <A NAME="heading_1">
+Abstract
+</A> </H2>
+<P>
+Tightly-coupled  parallel  machines  are being replaced with
+clusters of workstations connected by communication networks
+yielding   relatively   long   latencies,   but  ever-higher
+bandwidth (e.g., Ethernet, FDDI, HiPPI, ATM).   However,  it
+is  very  difficult to make parallel programs based on fine-
+grain  aggregate  operations  execute  efficiently  using  a
+network   that   is   optimized   for  point-to-point  block
+transfers.
+<P>
+TTL_PAPERS augments a cluster of PCs  or  workstations  with
+the  minimum  hardware  needed  to  provide very low latency
+barrier synchronization and  aggregate  communication.   For
+example, UNIX user processes within a TTL_PAPERS cluster can
+perform  a  barrier  synchronization  in  2.5  microseconds,
+including  all  software  overhead.   This is four orders of
+magnitude faster than using UNIX socket connections over  an
+Ethernet.
+<P>
+This  paper presents the TTL_PAPERS principles of operation,
+implementation issues,  low-level  software  interface,  and
+measured performance of the basic operations.
+<P>
+This  work  has  been  supported  in  part  by ONR Grant No.
+N0001-91-J-4013 and NSF Grant No. CDA-9015696.
+<P>
+<H2> <A NAME="heading_2">
+Keywords
+</A> </H2>
+<P>
+Parallel architecture, Fine-grain  parallelism,  Workstation
+clustering,      Barrier      synchronization,     Aggregate
+communication.
+<P>
+<H2> <A NAME="notice_for_HTML_users">
+Notice for HTML Users
+</A> </H2>
+<P>
+The HTML version of this paper  differs  from  the  standard
+postscript version (click <A HREF="icpp95.ps.Z"> here </A>
+for the 157K compressed postscript  version)  in  several
+ways,  including a variety of minor formatting changes.  The
+standard postscript version  was  formatted  by  <CODE>groff
+-mgs</CODE>  as  a  single  file.   In  contrast,  this HTML
+document was generated using a script that replaces  figures
+with  in-line  <CODE>gif</CODE>  images  that  are hypertext
+linked   to   full-resolution   postscript   versions;   the
+<CODE>(</CODE><VAR>n</VAR><CODE>K .ps.Z)</CODE> at the upper
+right of each in-line image provides both the  size  of  the
+compressed  postscript  file  and the hypertext link.  There
+are  also  a  variety  of  hypertext  links   inserted   for
+navigation  within the document, including a Hypertext Index
+at    the    end    of    this    document     (click     <A
+HREF="#hypertext_index">  here </A> to jump to the Hypertext
+Index).
+<H2> <A NAME="section_1.">
+1.  Introduction
+</A> </H2>
+<P>
+TTL_PAPERS is the TTL implementation of Purdue's Adapter for
+Parallel  Execution  and Rapid Synchronization.  Although it
+provides sufficient support for barrier synchronization  and
+aggregate  communication  to  allow a cluster to efficiently
+execute fine-grain MIMD, SIMD, or even VLIW  code,  a  four-
+processor  TTL_PAPERS  unit  uses  just  eight  standard TTL
+chips.  At first, it is very difficult to accept  that  such
+inexpensive and simple hardware can implement very effective
+synchronization and communication  operations  for  parallel
+processing.   This  is  because  the  traditional  views  of
+parallel and distributed processing rest on a set  of  basic
+assumptions that are incompatible with the concept:
+<UL>
+<LI>
+Conventional  wisdom  suggests  that  the  operating  system
+should manage synchronization and communication, but even  a
+simple  context  switch  to  an interrupt handler takes more
+time  than  TTL_PAPERS   takes   to   complete   a   typical
+synchronization or communication.  All interactions with the
+TTL_PAPERS hardware are I/O port accesses made directly from
+the user program; there are no OS modifications required and
+no OS call overhead is incurred.
+<LI>
+Communication  operations  are  characterized  primarily  by
+latency  (total  time  to transmit one object) and bandwidth
+(the maximum number of objects transmitted per  unit  time).
+The  hardware  and  software  complexity of most interaction
+methods results in high latency;  high  latency  makes  high
+bandwidth  and  large  parallel  grain  size  necessary.  In
+contrast,  TTL_PAPERS  is   very   simple   and   yields   a
+correspondingly  low  latency.  Providing low latency allows
+TTL_PAPERS  to  work   well   with   relatively   fine-grain
+parallelism, but it also means that relatively low bandwidth
+can suffice.
+<LI>
+A typical parallel computer is constructed  by  giving  each
+processor    a    method    of    independently   performing
+synchronization  and  communication  operations  with  other
+processors;  in  contrast,  TTL_PAPERS  interactions between
+processors are performed as aggregate  operations  based  on
+the  global  state of the parallel computation, much as in a
+SIMD machine.  This SIMD-like model for interactions results
+in  much  simpler  hardware  and  a substantial reduction in
+software  overhead  for  most  parallel  programs  (as   was
+observed  in  the  PASM  prototype  <A HREF="#ref_SiN87"> [SiN87] </A>).   For example,
+message headers and  dynamically-allocated  message  buffers
+are not needed for typical TTL_PAPERS communications.  It is
+also remarkably inexpensive for the TTL_PAPERS  hardware  to
+test global state conditions such as <B>any</B> or <B>all</B>.
+</UL>
+<P>
+Thus,  TTL_PAPERS  does  not perform any magic; it simply is
+based on a parallel computation model that naturally  yields
+simpler  hardware  and  lower  latency.   TTL_PAPERS  is not
+really a network at  all,  but  a  special-purpose  parallel
+machine   designed   specifically   to  provide  low-latency
+synchronization and communication, taking full advantage  of
+the  "loosely  synchronous" execution models associated with
+fine-grain to moderate-grain parallelism.
+<H3> <A NAME="section_1.1.">
+1.1.  Synchronization
+</A> </H3>
+<P>
+The only synchronization mechanism implemented by TTL_PAPERS
+is a special type of fine-grain barrier synchronization that
+facilitates compile-time scheduling of  parallel  operations
+<A HREF="#ref_DiO92"> [DiO92] </A> <A HREF="#ref_DiC94"> [DiC94] </A>.
+<P>
+Hardware  barrier  synchronization  was  first proposed in a
+paper by Harry  Jordon  <A HREF="#ref_Jor78"> [Jor78] </A>,  and  has  since  become  a
+popular  mechanism for coordination of MIMD ( MIMD refers to
+Multiple Instruction stream,  Multiple  Data  stream;  i.e.,
+each   processor  independently  executes  it  own  program,
+synchronizing  and  communicating  with   other   processors
+whenever   the  parallel  algorithm  requires.   )  parallel
+processes.  A barrier  synchronization  is  accomplished  by
+processors   executing   a  <B>wait</B>  operation  that  does  not
+terminate until sometime after all PEs  have  signaled  that
+they  are <B>wait</B>ing.  However, while building the 16 processor
+PASM (PArtitionable Simd Mimd) prototype in 1987 <A HREF="#ref_SiN87"> [SiN87] </A>, we
+realized   that   the  hardware  enabling  a  collection  of
+conventional   processors   to   execute   both   MIMD   and
+instruction-level  SIMD  ( SIMD refers to Single Instruction
+stream, Multiple Data stream; i.e., a single processor  with
+multiple function units organized so that the same operation
+can be performed simultaneously on multiple data values.   )
+programs   was   actually   an   extended  type  of  barrier
+synchronization  mechanism.    Generalizing   this   barrier
+synchronization mechanism resulted in several new classes of
+barrier  synchronization  architectures,  as   reported   in
+<A HREF="#ref_OKD90"> [OKD90] </A>  <A HREF="#ref_OKD90a"> [OKD90a] </A>.  Unlike other PAPERS implementations, the
+TTL_PAPERS barrier mechanism provides only a subset of these
+features;  however,  these features are sufficient to enable
+conventional processors to efficiently implement  fine-grain
+MIMD,  SIMD, and VLIW ( VLIW refers to Very Long Instruction
+Word; i.e.,  a  generalization  of  SIMD  that  allows  each
+function  unit  to perform a potentially different operation
+on its own data.  ) execution <A HREF="#ref_CoD94a"> [CoD94a] </A>.
+<P>
+The TTL_PAPERS barrier mechanism also provides an  effective
+target  for  compile-time  instruction-level code scheduling
+<A HREF="#ref_DiO92"> [DiO92] </A>.
+<H3> <A NAME="section_1.2.">
+1.2.  Communication
+</A> </H3>
+<P>
+In addition  to  high-performance  barrier  synchronization,
+TTL_PAPERS   provides   low-latency   communication.    This
+mechanism is  not  equivalent  to  a  shared  memory  nor  a
+conventional   message-passing   system,   but  has  several
+advantages   for    loosely    synchronous    communication.
+Basically,  it  trades asynchrony for lower latency and more
+powerful static routing abilities.
+<P>
+As a side-effect of a barrier synchronization, each  PE  can
+place   information   into   the  TTL_PAPERS  unit  and  get
+information  from   whichever   processor,   or   group   of
+processors,  is  selected.   Thus,  the  sender only outputs
+data; it is up to the receiver to know where to look for the
+data   that  the  sender  has  made  available  to  it.   In
+TTL_PAPERS, we further simplify the  hardware  by  extending
+this concept so that all participating processors must agree
+on and contribute to the choice of what data each  processor
+will  have  available.   Compared  to conventional networks,
+this method allows less autonomy  for  each  processor,  but
+yields   simpler  hardware,  better  performance,  and  more
+powerful access to global state.
+<P>
+The most  basic  TTL_PAPERS  communication  operation  is  a
+multi-broadcast  that  sends  to  each  processor a bit mask
+containing one bit from each  processor.   This  is  a  very
+powerful  mechanism  for  examining  the global state of the
+parallel machine.  An obvious application is for  processors
+to  "vote" on what they would like to do next.  For example,
+it can be used to determine which processors are  ready  for
+the  next  phase  of a computation or which processors would
+like to access a  shared  resource  (e.g.,  to  implement  a
+balanced,   conflict-free,   schedule   for   access  to  an
+Ethernet).  However, because any communication pattern is  a
+subset  of multi-broadcast, it can also be used to implement
+general communication "routing."
+<P>
+In addition to one-bit  multi-broadcast,  some  versions  of
+PAPERS provide the ability to get four bits of data from any
+processor in a single  operation.   Using  a  unidirectional
+Centronics  printer  port,  four  bits  is  the  theoretical
+maximum number of data bits that can be obtained by one port
+input  operation.  TTL_PAPERS implements four bit sends, and
+even more functionality, using simple NAND logic to  combine
+signals  from the processors.  Operations directly supported
+include:
+<UL>
+<LI>
+Since TTL_PAPERS data is literally a four-bit wide  NAND  of
+data sent across all processors, computing a four-bit global
+NAND takes only one operation.  Likewise, NAND can implement
+AND  and  OR functions by simply complementing the output or
+by complementing the inputs.
+<LI>
+To accomplish a four-bit broadcast from a single  processor,
+all  the  other processors simply output 0xf -- four 1 bits.
+Again, the result will be the complement of the data sent.
+<LI>
+To accomplish  a  one-bit  multi-broadcast,  each  processor
+sends four bits of data such that processor <I>i</I>'s bit <I>i</I> is the
+data it wishes to send, and the other bits are all 1 values.
+For  example,  bit  2  will be 1 for processors 0, 1, and 3;
+thus, NANDing these signals together will result in a signal
+that is the complement of bit 2 from processor 2.
+</UL>
+<P>
+In  summary,  TTL_PAPERS  provides  almost  no  facility for
+autonomous communications, but  does  provide  a  very  rich
+collection  of  aggregate  communication operations based on
+global state.
+<H3> <A NAME="section_1.3.">
+1.3.  Interrupts
+</A> </H3>
+<P>
+To  facilitate  some  level   of   asynchronous   operation,
+TTL_PAPERS  provides a separate interrupt broadcast facility
+so that any  processor  can  signal  the  others.   Such  an
+interrupt  does  not really generate a hardware interrupt on
+each processor, rather, it sets a flag that  each  processor
+can  read at an appropriate time.  Although such a check can
+be made at any time, the two most obvious times are:
+<UL>
+<LI>
+When a barrier <B>wait</B> has taken  an  unexpectedly  long  time.
+This  would  indicate that one or more processors might have
+generated an interrupt, freezing the barrier state  so  that
+other processors would know to check for an interrupt.
+<LI>
+When  the  OS  is invoked to perform a scheduling operation.
+Thus,  gang  scheduling  and  other  OS  functions  can   be
+implemented  by  having  the  OS  on  each processor use the
+interrupt facility to coordinate across processors.
+</UL>
+<P>
+The TTL_PAPERS interrupt facility provides all the necessary
+logic  for  generating  an interrupt and providing a special
+"interrupt acknowledge barrier."
+<H2> <A NAME="section_2.">
+2.  PC Hardware
+</A> </H2>
+<P>
+Although    TTL_PAPERS    provides    very    low    latency
+synchronization  and  communication, it is interfaced to PCs
+using  only  a  standard  parallel  printer  port   and   is
+implemented  with  a  minimal  amount  of external hardware.
+This section details the PC  hardware  involved  in  use  of
+TTL_PAPERS.
+<P>
+Throughout  the  following  description, we will distinguish
+between stand-alone PCs and PCs used as processors within  a
+parallel  machine  by  referring  to  the  later as "PEs" --
+processing elements.  The  design  presented  here  directly
+supports  4 PEs (PE0, PE1, PE2, and PE3), and we also detail
+how the design can be scaled to 8, 16, or 32 PEs.  In  fact,
+no  significant  changes  are  needed to scale the design to
+thousands of processors (the hardware structure  that  needs
+to  scale is significantly simpler than the barrier AND tree
+implemented in the Cray T3D <A HREF="#ref_Cra93"> [Cra93] </A>).
+<H3> <A NAME="section_2.1.">
+2.1.  PE Hardware Interface
+</A> </H3>
+<P>
+No changes are required to make standard PC hardware into  a
+TTL_PAPERS  PE.   All  that is needed is a standard parallel
+printer port and an appropriate cable.  Although some of the
+PCs  on  the  market provide extended-functionality parallel
+ports that allow 8-bit bidirectional data connections,  many
+PCs  provide only an 8-bit data output connection.  Like the
+original PAPERS, TTL_PAPERS can be used with any PC; it uses
+only  the  functions  supported by a standard unidirectional
+parallel port.
+<P>
+But if there is no parallel input port, how does  TTL_PAPERS
+get  data into the PC?  The answer lies in the fact that the
+8-bit data output port is accompanied by 5  bits  of  status
+input  and  4 bits of open-collector input/output (which are
+sometimes implemented as output only)  on  two  other  ports
+associated  with the 8-bit data output port.  The way we use
+these lines, there are actually 12 bits of data output and 5
+bits of data input.
+<P>
+All  versions  of  both  TTL_PAPERS  and  PAPERS  use  all 5
+available input lines.  However, the various versions differ
+in  how  many and which of output signals are used.  Because
+the open-collector lines are generally not as well driven as
+the  8-bit  data  output  lines  and  require  access  to  a
+different port address, we generally use the  open-collector
+lines  only  for  signals  that are modal, i.e., that change
+relatively infrequently and can have large  settling  times.
+The  version  of TTL_PAPERS discussed here uses 11 of the 12
+available output lines, but only the 8-bit data output  port
+is  written  in  the process of normal interactions with the
+TTL_PAPERS hardware; the 3 other  bits  are  used  only  for
+interrupt   handling.    Table   1   summarizes  the  signal
+assignments for the PC parallel port as it is used  for  the
+TTL_PAPERS interface.
+<P>
+<IMG  SRC="image1.gif" ALT="Image1 not displayable as text."
+ALIGN=TOP> <A NAME="image_1"> ( </A> <A  HREF="image1.ps.Z">
+5K .ps.Z </A> )
+<P>
+<H3> <A NAME="section_2.2.">
+2.2.  PE Port Bit Assignments
+</A> </H3>
+<P>
+Although  the  parallel port hardware is not altered to work
+with TTL_PAPERS, the parallel port lines  are  not  used  as
+they  would  be for driving a Centronics-compatible printer.
+Thus, it is necessary to replace the standard parallel  port
+driver  software  with  a  driver  designed to interact with
+TTL_PAPERS.  Toward this end, it is critical  to  understand
+which  port  addresses,  and bits within the port registers,
+correspond to each TTL_PAPERS signal.
+<P>
+There are three port registers associated with a PC parallel
+port.   These  registers have I/O addresses corresponding to
+the port base address (henceforth, called  <B>P_PORTBASE</B>)  plus
+0,  1,  or  2.   Typically, <B>P_PORTBASE</B> will be one of 0x378,
+0x278, or  0x3bc,  corresponding  to  MS-DOS  printer  names
+<B>LPT1:</B>,  <B>LPT2:</B>,  and  <B>LPT3:</B>.  As a general rule, most PCs use
+0x378 for the built-in port, however, IBM PCs generally  use
+0x3bc.  Workstations based on processors other than the 386,
+486, or Pentium, e.g., DEC Alphas, also generally use 0x3bc;
+however,  most  of  these  processors map port I/O registers
+into memory  addresses,  so  the  port  operations  must  be
+replaced   with   accesses  to  the  memory  locations  that
+correspond to the specified  port  register  I/O  addresses.
+For  example,  the  IBM  PowerPC  specification  places  I/O
+address 0x3bc at physical memory location 0x800003bc.
+<P>
+The bits within the register <B>P_PORTBASE</B>+0 are used  to  send
+TTL_PAPERS   both   strobe  and  data  values,  as  well  as
+controlling a bi-color LED (red/green Light Emitting  Diode)
+on  the PAPERS front panel.  If a PC wants to mark itself as
+not participating in a group of barrier synchronizations, it
+should simply output 0xcf; this corresponds to setting P_S1,
+P_S0, P_D3, P_D2, P_D1, and P_D0 all  equal  to  1.   Notice
+that,  if  a  PC  is  not connected to one of the TTL_PAPERS
+cables, the TTL inputs will  all  float  high,  causing  the
+missing  PC to be harmlessly ignored in operations performed
+by the PCs still connected.  In contrast, setting both  P_S1
+and  P_S0 to 0 will ensure that all barrier operations halt.
+In normal operation, each TTL_PAPERS operation is  triggered
+by toggling the P_S1 and P_S0 lines between (P_S1=1, P_S0=0)
+and (P_S1=0, P_S0=1); this can be done by simply  exclusive-
+oring the previous output byte with (P_S1 | P_S0).
+<P>
+A  PC  sends data to TTL_PAPERS by setting the output nybble
+bits  appropriately  and  toggling  the  strobe   lines   as
+described  above.   Performing  this operation as two steps,
+first changing data bits then changing the strobe bits,  can
+be  done  to increase the reliability of transmission.  Data
+lines should be given time to  settle  before  a  new  ready
+signal  is  derived  from  the new strobe signals.  Changing
+strobes and data simultaneously results in a race  condition
+in  which the data bits have only about 20 nanoseconds "head
+start" -- a small enough margin for many systems to  perform
+unreliably.
+<P>
+The  P_LR  and  P_LG  lines are simply used to control a bi-
+color LED to indicate the status of the PC relative  to  the
+currently  executing  parallel  program.  When TTL_PAPERS is
+not in use, both bits should be set to 0,  yielding  a  dark
+LED.   When a parallel program is running, the LED should be
+lighted green, which is accomplished by  making  P_LG=1  and
+P_LR=0.   When a PC is waiting for a barrier, it should make
+its LED red by  setting  P_LG=0  and  P_LR=1.   It  is  also
+possible  to generate an orange status light by setting both
+P_LG and P_LR to 1,  however,  this  setting  is  used  only
+rarely (as a "special" status indication).
+<P>
+The second port register, <B>P_PORTBASE</B> + 1, is used to receive
+data  from  TTL_PAPERS.   To  enhance  the  portability   of
+TTL_PAPERS  to somewhat non-standard parallel printer ports,
+only these five bits are used as input:  four bits  of  data
+and  one  bit  to  act as a ready line.  Because 0x40 is the
+only bit that can be enabled to generate a true interrupt to
+the  PC,  earlier  versions of PAPERS made P_RDY use 0x40 so
+that  the  PAPERS  unit  could  generate  a  true   hardware
+interrupt  when  a  barrier  synchronization  had completed.
+However, this led to an inconvenient order for the  bits  of
+the input nybble, and we never found a good use for the true
+hardware interrupt (because interrupt handlers have too much
+latency),  so  the current arrangement makes P_RDY use 0x80.
+The new arrangement is superior not only  because  it  keeps
+the  bits  of  the input nybble contiguous, but also because
+the inversion of P_RDY is harmless, whereas the inversion of
+an  input data line would require extra hardware or software
+to flip the inverted  data  bit  (e.g.,  exclusive  or  with
+0x80).
+<P>
+Note  also  that  P_RDY  is  a  toggling  ready signal.  The
+original PAPERS unit used  software  to  "reset"  the  ready
+signal after each barrier synchronization had been achieved,
+thus  requiring  four  port  operations  for   each   PAPERS
+synchronization.   By  simply  toggling  P_RDY when each new
+barrier  is  achieved,  TTL_PAPERS   can   perform   barrier
+synchronizations using just two port operations.
+<P>
+The  third  port  register,  <B>P_PORTBASE</B> + 2, serves only one
+purpose  for  TTL_PAPERS:    parallel   interrupt   support.
+Actually,  for  the  reasons  described  earlier, TTL_PAPERS
+never generates  a  "real"  interrupt  to  a  PC.   However,
+parallel interrupts provide a mechanism for managing the use
+of the TTL_PAPERS unit in  a  more  sophisticated  way,  for
+example: providing a better TTL_PAPERS "check-in" procedure,
+facilitating  abnormal  termination  of  parallel  programs,
+implementing  a  user-level  parallel  file system, and even
+gang scheduling and parallel timesharing of  the  TTL_PAPERS
+unit.
+<P>
+To  cause a parallel interrupt, a PC simply sets P_IRQ to 1.
+However, other processors will not notice  that  a  parallel
+interrupt  is pending unless they explicitly check.  This is
+done by changing P_SEL to 1, which causes the  normal  P_RDY
+(described  above)  to  be  replaced  by  an interrupt ready
+flag...  until P_SEL is again set to 0.  Thus,  any  PC  can
+check  for an interrupt at any time without interfering with
+the operation of  other  PCs;  for  example,  while  delayed
+waiting  for  a barrier, it is essentially harmless to check
+for  an  interrupt.   To  encourage  PCs  to  check  for  an
+interrupt,  the  interrupting  PC  can set its P_S1 and P_S0
+bits to 0 (see above), forcing barriers to be delayed.  When
+all  PCs set their P_NAK to 0, this simply acts to perform a
+special   interrupt   barrier.    The   extended   interrupt
+functionality is implemented by sending an interrupt code as
+a side-effect of this special barrier.
+<H2> <A NAME="section_3.">
+3.  TTL_PAPERS Hardware
+</A> </H2>
+<P>
+Thus far, this document has focused on the way in  which  PC
+hardware  interacts  with  TTL_PAPERS.   In this section, we
+briefly describe the  hardware  that  implements  TTL_PAPERS
+itself.   The TTL_PAPERS design has been carefully minimized
+to use just 8 standard TTL 74LS-series parts and to fit on a
+single-layer  circuit board (shown in Figure 1).  The result
+is a remarkably simple design that is inexpensive to  build,
+yet  fast  to  operate.   The logic design for TTL_PAPERS is
+logically (and physically) divided  into  three  subsystems:
+the   barrier   and   interrupt   mechanism,  the  aggregate
+communication logic,  and  the  LED  display  control.   The
+complete circuit diagram is given in Figure 2.  This section
+briefly  explains  how   the   required   functionality   is
+implemented by the board's logic.
+<P>
+<IMG  SRC="image2.gif" ALT="Image2 not displayable as text."
+ALIGN=TOP> <A NAME="image_2"> ( </A> <A  HREF="image2.ps.Z">
+21K .ps.Z </A> )
+<P>
+<IMG  SRC="image3.gif" ALT="Image3 not displayable as text."
+ALIGN=TOP> <A NAME="image_3"> ( </A> <A  HREF="image3.ps.Z">
+85K .ps.Z </A> )
+<P>
+<H3> <A NAME="section_3.1.">
+3.1.  Barrier/Interrupt Hardware
+</A> </H3>
+<P>
+Although   the   DBM  (Dynamic  Barrier  MIMD)  architecture
+presented  in  <A HREF="#ref_CoD94"> [CoD94] </A>  <A HREF="#ref_CoD94b"> [CoD94b] </A>  is  far  superior  to  the
+original DBM design as presented in <A HREF="#ref_OKD90a"> [OKD90a] </A>, neither one is
+simple enough to be efficiently  implemented  without  using
+programmable   logic   devices.   Thus,  TTL_PAPERS  uses  a
+variation  on  the  SBM  (Static  Barrier  MIMD)  design  of
+<A HREF="#ref_OKD90"> [OKD90] </A>.   The  primary  difference  between  the previously
+published SBM and the TTL_PAPERS mechanism is that there are
+two  barrier  trees  rather  than one.  The reason is simply
+that the published SBM silently  assumed  that  the  barrier
+hardware  would be reset between barriers, essentially by an
+"anti barrier." In contrast, the use of two trees allows the
+hardware  for  one  tree to be reset as a side-effect of the
+other tree being used,  halving  the  number  of  operations
+needed  per  barrier.  Both of these two trees are trivially
+implemented using a 74LS20, a dual 4-input NAND.  The result
+is   latched  by  setting  or  resetting  a  1-bit  register
+implemented using 1/2 of a 74LS74.
+<P>
+The interrupt logic is remarkably  similar  to  the  barrier
+logic,  also  using  a 74LS20 and 1/2 of a 74LS74.  However,
+there is a difference in the connection between these chips.
+Interrupt requests are generated by any PE, and acknowledged
+by  all  PEs,  while  barrier  synchronizations  are  always
+implemented  by  all  PEs.  Thus, to invert the sense of the
+interrupt request output from the NAND, the interrupt  logic
+uses  the simple trick of clocking the 1-bit register rather
+than setting it asynchronously.  This trick saves a chip and
+actually  yields a slightly more robust interrupt mechanism,
+because the interrupt is triggered by an edge rather than by
+a level.
+<P>
+Finally,  because  there  are not enough input bits for each
+PE, the above  two  latched  values  must  be  independently
+selectable  for  each PE.  The obvious way to select between
+values is using a multiplexor; however, there is no standard
+TTL  74LS-series  part that implements selection between two
+individual bits.   Instead,  we  construct  the  multiplexor
+using  two  quad driver chips which have outputs that can be
+independently set to a high-impedance  state.   The  74LS125
+and  74LS126 differ only in the sense of their enable lines;
+thus, using the same select line to control  one  output  on
+each  chip  makes  it  possible  to simply wire both outputs
+together.  Only the selected  signal  will  be  passed;  the
+other line's driver will be in the high impedance state.
+<P>
+Notice  also  that  this  logic  trivially  can be scaled to
+larger machines.  Every 4 PEs will require a 74LS125  and  a
+74LS126.   The  74LS74  remains unchanged, although a driver
+chip may be needed to increase fan-out of  the  outputs  for
+more  than  8  processors.  The 74LS20 NAND gates simply get
+replaced  by  larger  NAND  trees.   For  example,   for   8
+processors,  each 1/2 of a 74LS20 is replaced by a 74LS30 (8
+input NAND).  For 16 processors, chip count is minimized  by
+implementing  each NAND tree using a 74LS134 (12-input NAND)
+and 1/2 of a 74LS20, the outputs of which are combined using
+1/4  of  a  74LS32  (quad 2-input OR).  A somewhat neater 16
+processor board layout results from using two 74LS30 and 1/4
+of  a  74LS32 for each of the NAND trees, and a 32 processor
+system can easily be constructed using four 74LS30  and  3/4
+of a 74LS32 for each NAND tree.
+<P>
+Although  the circuitry scales to very large configurations,
+for a cluster containing more than 32 machines, the  circuit
+complexity   is   high   enough  to  warrant  using  a  more
+sophisticated design based on programmable logic components.
+<H3> <A NAME="section_3.2.">
+3.2.  Aggregate Communication Hardware
+</A> </H3>
+<P>
+Although  other  versions  of  PAPERS  provide internal data
+latching  and  fancy  communication  primitives,  TTL_PAPERS
+simply  offers  NANDing  of  the  4  data  bits  across  the
+processors.
+<P>
+In general, there is nothing  tricky  about  building  these
+NAND  trees; they look exactly as described above.  However,
+each NAND tree has an output that must  drive  one  line  to
+each  of  the  processors,  and  the  use of relatively long
+cables (up to about 10 feet each) requires a pretty good TTL
+driver.    For   the   case   of   4   processors,  we  have
+experimentally confirmed that the 74LS40 (dual 4-input  NAND
+buffer)  provides  sufficient  drive to directly power all 4
+lines, although the signal transitions become somewhat  slow
+(e.g.,  about 300 nanoseconds) as the cables get long.  In a
+larger system, we recommend constructing the  NAND  tree  as
+described  above,  and  then  using 74LS244 or 74LS541 octal
+drivers to increase the drive ability of the  NAND  outputs.
+With  a  typical  cable,  each  driver  within  a 74LS244 or
+74LS541 can drive up to about 4 lines.
+<H3> <A NAME="section_3.3.">
+3.3.  LED Display Hardware
+</A> </H3>
+<P>
+In the  PAPERS  prototypes,  we  have  experimented  with  a
+variety  of  different status displays.  However, by far the
+easiest display to understand was one using  just  a  single
+bi-color  LED  for  each  processor.  The color code is very
+intuitive:  green means running, red means waiting (for more
+than  two  "clock" cycles), and black means not in use.  The
+problem is that there is no  trivial  way  to  derive  these
+color  choices  directly  from  the barrier logic, thus, the
+LEDs are explicitly set under software  control.   There  is
+also  a  power light on the TTL_PAPERS unit, which is a blue
+LED to avoid confusion with the rest of the status  display.
+<H2> <A NAME="section_4.">
+4.  PAPERS Software
+</A> </H2>
+<P>
+Although  TTL_PAPERS  will  be  supported  by  a  variety of
+software  tools  including  public  domain   compilers   for
+parallel dialects of both C and Fortran <A HREF="#ref_DiO92"> [DiO92] </A> <A HREF="#ref_CoD94a"> [CoD94a] </A>, in
+this document we restrict our discussion to the  most  basic
+hardware-level  interface.   The  code given is written in C
+(the ANSI C-based dialect accepted by GCC) and  is  intended
+to  be  run under a UNIX-derived operating system.  However,
+this interface software can  be  adapted  to  most  existing
+(sequential)   language  compilers  and  interpreters  under
+nearly any operating system.
+<P>
+The  following  sections  discuss   the   operating   system
+interface,   TTL_PAPERS   port  access,  the  basic  barrier
+interface,  and  how  NANDing  is  used  to  implement  data
+communication.
+<H3> <A NAME="section_4.1.">
+4.1.  Operating System Interface
+</A> </H3>
+<P>
+Although  it  would  certainly  be possible to implement the
+TTL_PAPERS  software  interface  as  part  of  an  operating
+system's  kernel,  typical latency for a minimal system call
+is between 5 and  50  times  the  typical  latency  for  the
+TTL_PAPERS  hardware port operations -- layering overhead of
+a system call for each TTL_PAPERS  operation  would  destroy
+the  low  latency performance.  Thus, the primary purpose of
+the OS interface is to obtain direct  user-level  access  to
+the ports that connect to TTL_PAPERS.
+<P>
+On  older  architectures,  such  as the 8080 and Z80, direct
+user access to I/O was accomplished by simply using the port
+I/O  instructions  or by accessing the memory locations that
+corresponded  to  the  desired  memory-mapped   I/O   device
+registers.   Things  are now a bit more complex.  Using a PC
+based on the  386,  486,  or  Pentium  processor,  port  I/O
+instructions  are  now protected operations.  Similarly, the
+DEC Alpha, IBM PowerPC, and Sun SPARC use memory mapped I/O,
+but  physical addresses corresponding to I/O ports generally
+are not mapped into the virtual  address  space  of  a  user
+process.   None  of these problems is fatal, but it can take
+quite a while to figure out how to get things working right.
+<P>
+Thus,  although  the  parallel  printer port can be directly
+accessed under most operating systems, here we focus on  how
+to  gain  direct  user process access to I/O ports on a 386,
+486,  or  Pentium-based  personal  computer  running  either
+generic UNIX or Linux.
+<H4> <A NAME="section_4.1.1.">
+4.1.1.  Generic UNIX
+</A> </H4>
+<P>
+In general, UNIX allows user processes to have direct access
+to all I/O devices.  However, only  processes  that  have  a
+sufficiently high I/O priority level can make such accesses.
+Further, only a privileged  process  can  increase  its  I/O
+priority  level --  by calling <B>iopl()</B>.  The following C code
+suffices:
+<PRE>
+<B>if (iopl(3)) {</B>
+    <B>/* iopl failed, implying we were not priv */</B>
+    <B>exit(1);</B>
+<B>}</B>
+</PRE>
+<P>
+However, this call grants the user  program  access  to  <I>all</I>
+I/O, including a multitude of unrelated ports.
+<P>
+In   fact,   this   call   allows  the  process  to  execute
+instructions  enabling   and   disabling   interrupts.    By
+disabling  interrupts,  it  is  possible  to ensure that all
+processors  involved  in  a  barrier   synchronization   act
+precisely  in  unison;  thus,  the  average  number  of port
+operations (barrier synchronizations) needed  to  accomplish
+some   TTL_PAPERS   operations  can  be  reduced.   However,
+background scheduling of DMA devices (e.g., disks) and other
+interference  makes  it  hard  to be sure that a UNIX system
+will provide precise timing constraints even when interrupts
+are disabled, so we do not advocate disabling interrupts.
+<P>
+Even  so,  performance of the barrier hardware can be safely
+improved by causing UNIX to give priority to a process  that
+is  waiting  for  a  barrier synchronization.  This improves
+performance because if any one PE is off running  a  process
+that  has  nothing  to do with the synchronization, then all
+PEs trying to synchronize with that PE will be delayed.  The
+priority  of  a  privileged  UNIX process can increased by a
+call to <B>nice()</B> with a negative argument between -20 and  -1.
+<H4> <A NAME="section_4.1.2.">
+4.1.2.  Linux
+</A> </H4>
+<P>
+Although  Linux supports the UNIX interface described in the
+previous section, it also provides  a  more  secure  way  to
+obtain  access  to  the  I/O devices.  The <B>ioperm()</B> function
+allows a privileged process to obtain  access  to  only  the
+specified port or ports.  The C code:
+<PRE>
+<B>if (ioperm(P_PORTBASE, 3, 1)) {</B>
+    <B>/* like iopl, failure implies we were not priv */</B>
+    <B>exit(1);</B>
+<B>}</B>
+</PRE>
+<P>
+Obtains  access  for 3 ports starting at a base port address
+of <B>P_PORTBASE</B>.  Better still, if  the  operating  system  is
+managing all parallel program interrupts, only the first two
+ports need to be accessible:
+<PRE>
+<B>if (ioperm(P_PORTBASE, 2, 1)) {</B>
+    <B>/* like iopl, failure implies we were not priv */</B>
+    <B>exit(1);</B>
+<B>}</B>
+</PRE>
+<P>
+Because   the   386/486/Pentium   hardware    checks    port
+permissions,   this  security  does  not  destroy  port  I/O
+performance; however, checking the permission bits does  add
+some  overhead.  For a typical PC parallel printer port, the
+additional overhead is just a few percent, and  is  probably
+worthwhile for user programs.
+<H3> <A NAME="section_4.2.">
+4.2.  Port Access
+</A> </H3>
+<P>
+Although  Linux  and  most versions of UNIX provide routines
+for port access, these routines  often  provide  a  built-in
+delay  loop  to ensure that port states do not change faster
+than  the   external   device   can   examine   the   state.
+Consequently,  the  TTL_PAPERS  support  code  uses  its own
+direct assembly language I/O calls.  The code is:
+<PRE>
+<B>inline unsigned int</B>
+<B>inb(unsigned short port)</B>
+<B>{</B>
+    <B>unsigned char _v;</B>
+<B>__asm__ __volatile__ ("inb %w1,%b0"</B>
+        <B>:"=a" (_v)</B>
+        <B>:"d" (port), "0" (0));</B>
+    <B>return(_v);</B>
+<B>}</B>
+</PRE>
+<PRE>
+<B>inline void</B>
+<B>outb(unsigned char value,</B>
+<B>unsigned short port)</B>
+<B>{</B>
+<B>__asm__ __volatile__ ("outb %b0,%w1"</B>
+        <B>: /* no outputs */</B>
+        <B>:"a" (value), "d" (port));</B>
+<B>}</B>
+</PRE>
+<P>
+The basic TTL_PAPERS interface is thus defined in  terms  of
+the  above  port operations on any of three parallel printer
+port interface registers.  The following definitions  assume
+that <B>P_PORTBASE</B> has already been set to the base I/O address
+for the port, which is generally  0x378  on  PC  clones  and
+0x3bc for IBM ValuePoint PCs.
+<PRE>
+<B>/* To output to P_PORTBASE */</B>
+<B>#define P_OUT(x) \</B>
+        <B>outb(((unsigned char)(x)), \</B>
+             <B>((unsigned short) P_PORTBASE))</B>
+<B>/* To input from P_PORTBASE+1 */</B>
+<B>#define P_IN() \</B>
+        <B>inb((unsigned short) (P_PORTBASE + 1))</B>
+<B>/* To output to P_PORTBASE+2 */</B>
+<B>#define P_MODE(x) \</B>
+        <B>outb(((unsigned char)(x)), \</B>
+             <B>((unsigned short) (P_PORTBASE + 2)))</B>
+</PRE>
+<P>
+It  is  important  to  note that, even though the TTL_PAPERS
+hardware interrupt mechanism does not have to be used, it is
+necessary that any processor connected to TTL_PAPERS set the
+mode port so that the <B>P_RDY</B> bit, and not <B>P_INT</B>, is  visible.
+This can be done by executing:
+<PRE>
+<B>P_MODE(P_NAK);</B>
+</PRE>
+<P>
+As part of the TTL_PAPERS initialization code.
+<H3> <A NAME="section_4.3.">
+4.3.  Barrier Interface
+</A> </H3>
+<P>
+Logically,  each  barrier  synchronization  consists  of two
+operations:
+<OL>
+<LI>
+signaling that we are at a barrier and
+<LI>
+waiting to be signaled that the barrier synchronization  has
+completed.
+</OL>
+<P>
+Although  the  TTL_PAPERS  library  generally combines these
+operations, here we discuss them as two separate  chunks  of
+code.   The  code  for signaling that we are at a barrier is
+simply:
+<PRE>
+<B>P_OUT(last_out ^= (P_S0 | P_S1));</B>
+</PRE>
+<P>
+This code just flips the sense of both strobe bits.  Because
+<B>last_out</B>  is initialized to have only one of the strobe bits
+high, this has the effect of alternating  between  <B>P_S0</B>  and
+<B>P_S1</B>.   Nothing  else  is changed, including the output data
+bits.
+<P>
+The code that actually waits for the barrier synchronization
+to  complete  is  larger  than one might expect, even though
+typically only a few instructions are executed.  The  reason
+that  there is so much code has to do with three features of
+the TTL_PAPERS interface.  The first  complication  is  that
+the  ready  signal  toggles, rather than always going to the
+same value.  The second complication is that the status LEDs
+are  software controlled.  The third complication is that we
+want to  check  for  an  interrupt  whenever  a  barrier  is
+excessively delayed.  The resulting code is something like:
+<PRE>
+<B>/* Which condition am I waiting for? */</B>
+<B>if (last_out &amp; P_S0) {</B>
+    <B>/* Waiting for P_RDY */</B>
+    <B>if ((!(P_IN() &amp; P_RDY)) &amp;&amp; (!(P_IN() &amp; P_RDY))) {</B>
+        <B>/* Polled twice, make LED red */</B>
+        <B>P_OUT(last_out ^= (P_LG | P_LR));</B>
+        <B>/* Continue waiting */</B>
+        <B>while (!(P_IN() &amp; P_RDY)) CHECKINT;</B>
+        <B>/* Ok, LED green again */</B>
+        <B>P_OUT(last_out ^= (P_LG | P_LR));</B>
+    <B>}</B>
+  <B>} else {</B>
+    <B>/* Waiting for not P_RDY */</B>
+    <B>if ((P_IN() &amp; P_RDY) &amp;&amp; (P_IN() &amp; P_RDY)) {</B>
+        <B>/* Polled twice, make LED red */</B>
+        <B>P_OUT(last_out ^= (P_LG | P_LR));</B>
+        <B>/* Continue waiting */</B>
+        <B>while (P_IN() &amp; P_RDY) CHECKINT;</B>
+        <B>/* Ok, LED green again */</B>
+        <B>P_OUT(last_out ^= (P_LG | P_LR));</B>
+    <B>}</B>
+<B>}</B>
+</PRE>
+<P>
+In  the  initial version of the support library, <B>CHECKINT</B> is
+nothing -- TTL_PAPERS interrupts are not used.  However,  we
+can easily check for an interrupt by defining <B>CHECKINT</B> as:
+<PRE>
+<B>{</B>
+    <B>/* Make P_INT status visible */</B>
+    <B>P_MODE(P_SEL | P_NAK);</B>
+    <B>/* Check for interrupt */</B>
+    <B>if (P_IN() &amp; P_INT) {</B>
+        <B>/* Process the interrupt.... */</B>
+    <B>} else {</B>
+        <B>/* Restore P_RDY */</B>
+        <B>P_MODE(P_NAK);</B>
+    <B>}</B>
+<B>}</B>
+</PRE>
+<H3> <A NAME="section_4.4.">
+4.4.  NAND Data Communication
+</A> </H3>
+<P>
+Although  the  TTL_PAPERS  library  provides a rich array of
+aggregate communication operations, all  that  the  hardware
+really  does  is  a  simple 4-bit NAND as a side-effect of a
+barrier synchronization.  However, this operation  typically
+requires  5  port  accesses  rather  than  just  the  2 port
+accesses used to implement a barrier synchronization without
+data  communication.  The extra port operations are required
+because:
+<UL>
+<LI>
+When a PE changes one or more of its output data  bits,  the
+TTL_PAPERS  hardware  NANDs  in  the  new  data, immediately
+changing the input data bits for all PEs.  Thus, if  one  PE
+gets  far  enough  ahead  of another PE, it could change the
+data before the slower PE has been able to read the previous
+NAND  result.   If  interrupts  are  disabled and an initial
+ordinary barrier synchronization is performed, then a  block
+of  data  can  be  transmitted  safely  using  static timing
+analysis alone to ensure that this race condition  does  not
+occur.    Unfortunately,   it  isn't  practical  to  disable
+interrupts under UNIX, so the safe  solution  is  to  follow
+each data transmitting barrier with an ordinary barrier that
+ensures all PEs have read the data before any PE can  change
+the data.  This adds 2 port operations.
+<LI>
+The  TTL_PAPERS hardware is fed both data and strobe signals
+on the same port.  Thus,  data  and  strobe  signals  change
+simultaneously.   As  they  race  through  the cables to the
+TTL_PAPERS logic and back out  the  cables,  the  TTL_PAPERS
+logic  should  give  the  NAND data at least a 20 nanosecond
+lead  over  the  toggling  of  the  <B>P_RDY</B>  bit,  but  is  20
+nanoseconds enough to ensure that the NAND data doesn't lose
+the race?  Well, it depends on the implementation of the  PC
+port hardware and the electrical properties of the cables...
+which  is  another  way  of  saying  that  the  race   isn't
+acceptable.   An additional port operation is used to ensure
+that the data wins the race.
+<BR> There  are  two  possible  ways  to  insert  the  extra
+operation.   One  way  is to double the output operation, so
+that we first change the data and then  toggle  the  strobe.
+This  has  the  advantage  that  only  PEs that are actually
+changing  their  data  would  need  to  insert   the   extra
+operation.   If  only  early PEs change their data, we don't
+see any delay; however, the asymmetry of the  PE  operations
+can  actually  result  in  more  delay  than  if  the  extra
+operation was always inserted.  The other alternative is  to
+resample  the NAND data value after <B>P_RDY</B> has signaled it is
+present.  This is somewhat more reliable than  the  doubling
+of the output operation, but the delay is always present for
+any PE that reads the data.
+</UL>
+<P>
+In any case, the result is that  a  barrier  synchronization
+accompanied  by  an aggregate communication will take 5 port
+operations.  For example, to perform a  reliable  NAND  with
+our contribution being the 4-bit value <I>x</I>, we could first:
+<PRE>
+<B>last_out = ((last_out &amp; 0xf0) |</B> <I>x</I><B>);</B>
+</PRE>
+<P>
+This   sets   the   new   data   bits   so  that  a  barrier
+synchronization will transmit them along  with  the  strobe.
+The  next  step  is  to  perform  a barrier synchronization,
+precisely as described in section 4.3.  Having completed the
+barrier,  we know that the NAND data should now be valid, so
+we resample it:
+<PRE>
+<I>nand</I><B>_</B><I>result</I> <B>= P_IN();</B>
+</PRE>
+<P>
+Finally, a second barrier synchronization  is  performed  to
+ensure  that  no  PE  changes  its  output  data until after
+everyone has read the current NAND data.
+<P>
+Notice that <I>nand</I><B>_</B><I>result</I> is actually an 8-bit value with  the
+NAND  data  embedded  within it;  thus, to extract the 4-bit
+result we simply use:
+<PRE>
+<B>((</B><I>nand</I><B>_</B><I>result</I> <B>&gt;&gt; 3) &amp; 0x0f)</B>
+</PRE>
+<P>
+All the  TTL_PAPERS  library  communication  operations  are
+built  upon this communication mechanism.  For example, ANY,
+ALL, and voting operations require just one such  operation,
+or  5  port  accesses.   Larger operations, such as an 8-bit
+global OR, 8-bit global AND, or broadcast require 2  of  the
+above transmission sequences, or 10 port accesses.
+<H2> <A NAME="section_5.">
+5.  Performance
+</A> </H2>
+<P>
+The  performance  of  the  basic  TTL_PAPERS  operations  is
+summarized in the table below.  These numbers were  obtained
+using 486DX33-based IBM ValuePoint PCs running Linux version
+1.1.75.   Machines  with   faster   printer   ports   obtain
+correspondingly higher performance; in fact, performance can
+be increased by nearly an order  of  magnitude  without  any
+other changes.
+<P>
+<IMG  SRC="image4.gif" ALT="Image4 not displayable as text."
+ALIGN=TOP> <A NAME="image_4"> ( </A> <A  HREF="image4.ps.Z">
+4K .ps.Z </A> )
+<P>
+The  primary  observation  is that the total UNIX-process to
+UNIX-process latency is remarkably  low.   For  example,  we
+benchmarked  a 64-processor nCUBE2 at 206 milliseconds for a
+simple barrier synchronization -- 83,000 times  slower  than
+the  TTL_PAPERS  cluster!   In fact, the minimum latency for
+sending a single message on the nCUBE2 was  reported  to  be
+between 32 and 110 microseconds <A HREF="#ref_BrG94"> [BrG94] </A>, which is between 13
+and 44 times as long as it takes for  a  TTL_PAPERS  barrier
+synchronization.   The  same  paper  <A HREF="#ref_BrG94"> [BrG94] </A> quotes that the
+Intel Paragon XP/S has a  minimum  message  latency  of  240
+microseconds,  which  is  97  times  the  TTL_PAPERS barrier
+latency.  Of course, any  conventional  workstation  network
+will  have a minimum message latency of at least hundreds of
+microseconds, simply due to the  overhead  of  UNIX  context
+switching and the socket protocol.
+<P>
+The  second  observation  is  that the bandwidth is not very
+impressive.  However, bandwidth for TTL_PAPERS isn't  really
+measuring  the  same  thing  as bandwidth for a conventional
+network.   If  you  want  to  perform   asynchronous   block
+transfers,  TTL_PAPERS  cannot  compete  with a conventional
+network.   However,  the   bandwidth   for   the   aggregate
+operations (listed above) is much higher for TTL_PAPERS than
+for nearly any other network attempting to synthesize  these
+operations.   In  summary,  if a program needs to perform an
+aggregate operation, use TTL_PAPERS.  If it needs to do some
+other type of communication, use the conventional network --
+having TTL_PAPERS on a cluster does not interfere  with  any
+other network's operation.
+<H2> <A NAME="section_6.">
+6.  Conclusion
+</A> </H2>
+<P>
+In this paper, we have detailed the design of the TTL_PAPERS
+hardware.  This public domain design represents the simplest
+possible    mechanism   to   efficiently   support   barrier
+synchronization,   aggregate   communication,   and    group
+interrupt   capabilities --  using  unmodified  conventional
+workstations  or  personal  computers  as   the   processing
+elements  of  a fine-grain parallel machine.  We do not view
+TTL_PAPERS as the  ultimate  mechanism,  but  rather  as  an
+introductory   step  toward  the  more  general  and  higher
+performance barrier and aggregate communication engines that
+have  been  at the core of our research since 1987.  The key
+thing to remember about TTL_PAPERS is not what  it  is,  but
+rather <I>why</I> it is.
+<P>
+<I>Why</I> is TTL_PAPERS so much lower latency than other networks?
+Because it doesn't have  a  layered  hardware  and  software
+interface.  <I>Why</I> is the hardware so simple?  Because it isn't
+a network; the fact that  TTL_PAPERS  communications  are  a
+side-effect  of  barrier synchronization eliminates the need
+for buffering, routing, arbitration, etc.  <I>Why</I> is it useful?
+Because, although shared memory and message passing hardware
+is very common, the most  popular  high-level  language  and
+compiler  models  for parallelism are all based on aggregate
+operations -- exactly what  TTL_PAPERS  provides.   Further,
+barrier   synchronization   is   the   key   to  efficiently
+implementing MIMD, SIMD, and VLIW mixed-mode execution.  <I>Why</I>
+didn't  somebody  do  it  earlier?   We and others did.  The
+problem is that  tightly  coupled  design  of  hardware  and
+compiler  is  not  the  standard  way  to  build systems, so
+earlier designs (e.g., PASM, TMC CM-5)  tended  to  use  too
+much  hardware  and  interface  software, cost too much, and
+perform too poorly.
+<P>
+Higher-performance versions of PAPERS are on  the  way.   In
+fact,  this  TTL_PAPERS design is the sixth PAPERS design we
+have built and tested, and three of the other designs easily
+outperform  it...   but they use much more hardware.  We are
+currently working on a smart parallel port card for the  ISA
+bus   that   will   roughly  quadruple  the  performance  of
+TTL_PAPERS without any change to its hardware.  We are  also
+pursuing versions of the higher-performance designs based on
+Texas Instruments FPGAs, and anticipate a PCI  interface  to
+future  PAPERS  units.   Also  watch for releases of various
+compilers     targeting     PAPERS.      The     WWW     URL
+<B>http://garage.ecn.purdue.edu/~papers/</B>  will  be  the primary
+place for announcing and  distributing  future  releases  of
+both hardware and software.
+<H2> <A NAME="heading_3">
+References
+</A> </H2>
+<DL>
+<DT> <A NAME="ref_BrG94"> [BrG94] </A> <DD>
+U.  Bruening,  W.  K.  Giloi,  and  W. Schroeder-Preikschat,
+"Latency  Hiding  in  Message-Passing  Architectures,"   <I>8th</I>
+<I>International Parallel Processing Symposium</I>, Cancun, Mexico,
+April, 1994, pp. 704-709.
+<DT> <A NAME="ref_CoD94"> [CoD94] </A> <DD>
+W. E. Cohen, H. G.  Dietz,  and  J.  B.  Sponaugle,  <I>Dynamic</I>
+<I>Barrier Architecture For Multi-Mode Fine-Grain Parallelism</I>
+<I>Using Conventional Processors; Part I: Barrier</I>
+<I>Architecture,</I>   Purdue   University   School  of  Electrical
+Engineering, Technical Report TR-EE 94-9, March 1994.
+<DT> <A NAME="ref_CoD94a"> [CoD94a] </A> <DD>
+W. E. Cohen, H. G.  Dietz,  and  J.  B.  Sponaugle,  <I>Dynamic</I>
+<I>Barrier Architecture For Multi-Mode Fine-Grain Parallelism</I>
+<I>Using Conventional Processors; Part II: Mode Emulation,</I>
+Purdue   University   School   of   Electrical  Engineering,
+Technical Report TR-EE 94-10, March 1994.
+<DT> <A NAME="ref_CoD94b"> [CoD94b] </A> <DD>
+W. E. Cohen, H. G. Dietz,  and  J.  B.  Sponaugle,  "Dynamic
+Barrier  Architecture  For Multi-Mode Fine-Grain Parallelism
+Using Conventional Processors," <I>Proc. of 1994 Int'l Conf. on</I>
+<I>Parallel Processing,</I>  St.  Charles, IL, pp. I 93-96, August
+1994.
+<DT> <A NAME="ref_Cra93"> [Cra93] </A> <DD>
+<I>Cray T3D System Architecture Overview</I>, Publication HR-04033,
+Cray  Research, Inc., 2360 Pilot Knob Road, Mendota Heights,
+MN 55120, 1993.
+<DT> <A NAME="ref_DiC94"> [DiC94] </A> <DD>
+H. G. Dietz, W. E. Cohen, T. Muhammad,  and  T.  I.  Mattox,
+"Compiler Techniques For Fine-Grain Execution On Workstation
+Clusters Using PAPERS," <I>7th Annual Workshop on Languages and</I>
+<I>Compilers for Parallel Computing</I> (also to appear as a book
+chapter from Springer Verlag),  Cornell  University,  August
+1994.
+<DT> <A NAME="ref_DiM94"> [DiM94] </A> <DD>
+H.  G.  Dietz,  T. Muhammad, J. B. Sponaugle, and T. Mattox,
+<I>PAPERS: Purdue's Adapter for Parallel Execution and Rapid</I>
+<I>Synchronization</I>,  Purdue  University  School  of  Electrical
+Engineering, Technical Report TR-EE 94-11, March 1994.
+<DT> <A NAME="ref_DiO92"> [DiO92] </A> <DD>
+H.  G.  Dietz,  M.T.  O'Keefe,  and  A.  Zaafrani,   "Static
+Scheduling  for  Barrier MIMD Architectures," <I>The Journal of</I>
+<I>Supercomputing</I>, vol. 5, pp. 263-289, 1992.
+<DT> <A NAME="ref_Jor78"> [Jor78] </A> <DD>
+H. F. Jordon, "A Special  Purpose  Architecture  for  Finite
+Element Analysis," <I>Proc. Int'l Conf. on Parallel Processing</I>,
+pp. 263-266, 1978.
+<DT> <A NAME="ref_OKD90"> [OKD90] </A> <DD>
+M.  T.  O'Keefe  and  H.   G.   Dietz,   "Hardware   barrier
+synchronization:  static  barrier MIMD (SBM)," <I>Proc. of 1990</I>
+<I>Int'l Conf. on Parallel Processing,</I> St. Charles, IL,  pp.  I
+35-42, August 1990.
+<DT> <A NAME="ref_OKD90a"> [OKD90a] </A> <DD>
+M.   T.   O'Keefe   and   H.  G.  Dietz,  "Hardware  barrier
+synchronization: dynamic barrier MIMD (DBM)," <I>Proc. of 1990</I>
+<I>Int'l Conf. on Parallel Processing,</I> St. Charles, IL, pp. I
+43-46, August 1990.
+<DT> <A NAME="ref_SiN87"> [SiN87] </A> <DD>
+T. Schwederski, W. G. Nation, H. J. Siegel, and D. G. Meyer,
+"The   Implementation   of   the   PASM   Prototype  Control
+Hierarchy," <I>Proc. of Second Int'l Conf. on Supercomputing,</I>
+pp. I 418-427, 1987.
+</DL>
+<P>
+<H2> <A NAME="hypertext_index">
+Hypertext Index
+</A> </H2>
+<DL>
+<DT>
+<A HREF="#heading_1"> Abstract</A>
+<DD>
+<DT>
+<A HREF="#heading_2"> Keywords</A>
+<DD>
+<DT>
+<A HREF="#notice_for_HTML_users"> Notice for HTML Users</A>
+<DD>
+<DT>
+<A HREF="#section_1."> 1.  Introduction</A>
+<DD>
+<DL>
+<DT>
+<A HREF="#section_1.1."> 1.1.  Synchronization</A>
+<DD>
+<DT>
+<A HREF="#section_1.2."> 1.2.  Communication</A>
+<DD>
+<DT>
+<A HREF="#section_1.3."> 1.3.  Interrupts</A>
+<DD>
+</DL>
+<DT>
+<A HREF="#section_2."> 2.  PC Hardware</A>
+<DD>
+<DL>
+<DT>
+<A HREF="#section_2.1."> 2.1.  PE Hardware Interface</A>
+<DD>
+<DT>
+<A HREF="#section_2.2."> 2.2.  PE Port Bit Assignments</A>
+<DD>
+</DL>
+<DT>
+<A HREF="#section_3."> 3.  TTL_PAPERS Hardware</A>
+<DD>
+<DL>
+<DT>
+<A HREF="#section_3.1."> 3.1.  Barrier/Interrupt Hardware</A>
+<DD>
+<DT>
+<A HREF="#section_3.2."> 3.2.  Aggregate Communication Hardware</A>
+<DD>
+<DT>
+<A HREF="#section_3.3."> 3.3.  LED Display Hardware</A>
+<DD>
+</DL>
+<DT>
+<A HREF="#section_4."> 4.  PAPERS Software</A>
+<DD>
+<DL>
+<DT>
+<A HREF="#section_4.1."> 4.1.  Operating System Interface</A>
+<DD>
+<DL>
+<DT>
+<A HREF="#section_4.1.1."> 4.1.1.  Generic UNIX</A>
+<DD>
+<DT>
+<A HREF="#section_4.1.2."> 4.1.2.  Linux</A>
+<DD>
+</DL>
+<DT>
+<A HREF="#section_4.2."> 4.2.  Port Access</A>
+<DD>
+<DT>
+<A HREF="#section_4.3."> 4.3.  Barrier Interface</A>
+<DD>
+<DT>
+<A HREF="#section_4.4."> 4.4.  NAND Data Communication</A>
+<DD>
+</DL>
+<DT>
+<A HREF="#section_5."> 5.  Performance</A>
+<DD>
+<DT>
+<A HREF="#section_6."> 6.  Conclusion</A>
+<DD>
+<DT>
+<A HREF="#heading_3"> References</A>
+<DD>
+<DT>
+<A HREF="#hypertext_index"> Hypertext Index</A>
+<DD>
+</DL>
+</DL>
+
+<HR>
+<P>
+<A HREF="http://aggregate.org/"
+><IMG SRC="/IMG/talogos.jpg" WIDTH=160 HEIGHT=32 ALT="The Aggregate."   
+></A> The <EM>only</EM> thing set in stone is our name.
+</BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.csse.monash.edu.au/cluster/>====================
+<html>
+<head>
+<!--
+     Copyright (c) 1998-2004 School of Computer Science and Software Engineering, Monash University http://www.csse.monash.edu.au/
+     Author:   GLen Pringle (pringle@csse.monash.edu.au)
+     Modified: 2004-03-11 10:36:36.
+     Generated from ``index.wml'' via WML 2.0.2 (22-Jun-2000).
+               by GLen Pringle (pringle@csse.monash.edu.au)
+               on 2002-11-12 8:58:52.
+
+     DO NOT EDIT THIS FILE DIRECTLY! INSTEAD EDIT ``index.wml''.
+-->
+<meta name="Copyright" content="1998-2004 School of Computer Science and Software Engineering, Monash University http://www.csse.monash.edu.au/">
+<title>Parallel Parametric Modelling Engine</title>
+<style type="text/css"><!--
+BODY { position: absolute; left: 0px; top: 0px; background: "/cluster/Images/bg-8-66-66.gif"; }
+A:link { color: #6666cc; }
+A:active { color: #6666cc; }
+A:visited { color: #6666cc; }
+#red { color: #cc3333; }
+#sf { font-family: arial,helvetica; font-variant: normal; font-style: normal; }
+#sfl { font-weight: bold; font-family: arial,helvetica; font-size: 16pt; line-height: 16pt; font-variant: normal; font-style: normal; }
+H1 { font-weight: bold; font-size: 18pt; line-height: 18pt; font-family: arial,helvetica; font-variant: normal; font-style: normal; }
+H2 { font-weight: bold; font-size: 14pt; line-height: 14pt; font-family: arial,helvetica; font-variant: normal; font-style: normal; }
+H3 { font-weight: bold; font-size: 12pt; line-height: 12pt; font-family: arial,helvetica; font-variant: normal; font-style: normal; }
+--></style>
+</head>
+<body link="#6666cc" alink="#6666cc" vlink="#6666cc" bgcolor="#ffffde" background="/cluster/Images/bg-8-66-66.gif">
+<table width="100%" cellspacing="0" cellpadding="2" border="0">
+  <tr><td align="left" valign="top" width="165"><table cellspacing="0" cellpadding="5" border="0">
+<script type="text/javascript" language="JavaScript">
+<!-- Hiding the code
+
+function nb_imgNormal(imgName) {
+    if (document.images) {
+        document[imgName].src = eval(imgName + "_n.src");
+        if (! 0) self.status = '';
+    }
+}
+function nb_imgSelect(imgName) {
+    if (document.images) {
+        document[imgName].src = eval(imgName + "_s.src");
+        if (! 0) self.status = '';
+    }
+}
+function nb_imgOver(imgName, descript) {
+    if (document.images) {
+        document[imgName].src = eval(imgName + "_o.src");
+        if (! 0) self.status = descript;
+    }
+}
+if (document.images) {
+    nb_img1_start_n = new Image();
+    nb_img1_start_n.src = "/cluster/Images/Menus/Getting_Started-std.gif";
+    nb_img1_start_o = new Image();
+    nb_img1_start_o.src = "/cluster/Images/Menus/Getting_Started-ovr.gif";
+    nb_img1_manual_n = new Image();
+    nb_img1_manual_n.src = "/cluster/Images/Menus/enFuzion_Manual-std.gif";
+    nb_img1_manual_o = new Image();
+    nb_img1_manual_o.src = "/cluster/Images/Menus/enFuzion_Manual-ovr.gif";
+    nb_img1_cases_n = new Image();
+    nb_img1_cases_n.src = "/cluster/Images/Menus/Case_Studies-std.gif";
+    nb_img1_cases_o = new Image();
+    nb_img1_cases_o.src = "/cluster/Images/Menus/Case_Studies-ovr.gif";
+    nb_img1_admin_n = new Image();
+    nb_img1_admin_n.src = "/cluster/Images/Menus/Administration-std.gif";
+    nb_img1_admin_o = new Image();
+    nb_img1_admin_o.src = "/cluster/Images/Menus/Administration-ovr.gif";
+    nb_img1_status_n = new Image();
+    nb_img1_status_n.src = "/cluster/Images/Menus/Performance_Monitor-std.gif";
+    nb_img1_status_o = new Image();
+    nb_img1_status_o.src = "/cluster/Images/Menus/Performance_Monitor-ovr.gif";
+    nb_img1_download_n = new Image();
+    nb_img1_download_n.src = "/cluster/Images/Menus/Downloads-std.gif";
+    nb_img1_download_o = new Image();
+    nb_img1_download_o.src = "/cluster/Images/Menus/Downloads-ovr.gif";
+}
+
+// done hiding -->
+</script>
+<tr><td><img src="/cluster/Images/Menus/Title.gif" alt="Home Page"></td></tr>
+<tr><td><a href="/cluster/GettingStarted.html" onMouseOver="nb_imgOver('nb_img1_start', 'Help on getting started using the PPME'); return true" onMouseOut="nb_imgNormal('nb_img1_start'); return true"><img name="nb_img1_start" src="/cluster/Images/Menus/Getting_Started-std.gif" alt="Getting Started" border="0"></a></td></tr>
+<tr><td><a href="/cluster/enfman80/book1.htm" onMouseOver="nb_imgOver('nb_img1_manual', 'A local copy of the enFuzion manual'); return true" onMouseOut="nb_imgNormal('nb_img1_manual'); return true"><img name="nb_img1_manual" src="/cluster/Images/Menus/enFuzion_Manual-std.gif" alt="enFuzion Manual" border="0"></a></td></tr>
+<tr><td><a href="/cluster/RJK/" onMouseOver="nb_imgOver('nb_img1_cases', 'Case Studies'); return true" onMouseOut="nb_imgNormal('nb_img1_cases'); return true"><img name="nb_img1_cases" src="/cluster/Images/Menus/Case_Studies-std.gif" alt="Case Studies" border="0"></a></td></tr>
+<tr><td><a href="https://www.csse.monash.edu.au/cluster/administration/" onMouseOver="nb_imgOver('nb_img1_admin', 'Administration'); return true" onMouseOut="nb_imgNormal('nb_img1_admin'); return true"><img name="nb_img1_admin" src="/cluster/Images/Menus/Administration-std.gif" alt="Administration" border="0"></a></td></tr>
+<tr><td><a href="http://mahar.csse.monash.edu.au/cgi-bin/nodestatus.pl" onMouseOver="nb_imgOver('nb_img1_status', 'Monitor the current performance/status'); return true" onMouseOut="nb_imgNormal('nb_img1_status'); return true"><img name="nb_img1_status" src="/cluster/Images/Menus/Performance_Monitor-std.gif" alt="Performance Monitor" border="0"></a></td></tr>
+  </table>
+</td><td align="left" valign="top" width="10">&nbsp;</td><td align="left" valign="top"><br>
+        
+<div align="center">
+  <img src="Images/PageTitles/Parallel_Parametric_Modelling_Engine.gif" alt="" width="470" height="114">
+</div>
+<P> 
+<IMG SRC="Images/P030311.jpg" ALIGN="right" BORDER="0" width="431" height="284" ALT="The Monash PPME cluster">
+The Monash
+Parallel Parametric Modelling Engine (PPME) is a cluster of
+computers designed specifically for large parametric modelling
+computations.
+Because it supports the concurrent execution of
+one program on multiple machines, it can achieve performance many times
+faster than would be possible on a single computer.</P>
+<P>The current system specifications are:</P>
+<P><ul>
+ <li> 2 x 330 MHz Pentium II processors
+ <li> 2 x 350 MHz Pentium II processors
+ <li> 8 x 500 MHz Pentium III processors
+ <li> 26 x 700 MHz Pentium III processors
+ <li> 26 x 800 MHz Pentium III processors
+ <li> 52 x 3 GHz Pentium 4 processors
+ <li> 60 Gbytes RAM
+ <li> ~2.5 Tbytes disk space
+</ul></P>
+<P>
+The cluster is comprised of 72 machines at the Clayton campus made up of
+2 servers and 70 nodes (client machines).  52 of these (50 nodes and 2 servers) are 
+Intel 3GHz P4 with 1Gb RAM while the remainder are 
+dual-processor pentiums (700 or 800MHz PIII).  Most machines are running
+Linux although there are a couple running Windows.  A gigabit network
+connects all machines together with network access via the high speed
+<a href="http://www.grangenet.net/">GrangeNet.</a>
+</P>
+<P>
+Experiments are controlled using the Axceleon
+<A HREF="http://www.axceleon.com/">EnFuzion </A> program.
+This software suite allows a user to specify an experiment using
+a simple GUI based tool, and then to perform the work on the
+nodes of the cluster.</P>
+<P>This machine has been funded by the
+<a href="http://www.csse.monash.edu.au/">School
+of Computer Science and Software Engineering</a>, the
+<a href="http://www.bs.monash.edu.au/">School of
+Business Systems</a> and the Monash University Research Fund.
+</P>
+<div align="center"><FONT SIZE="-2">Copyright &copy; 1998-2004 Monash University</FONT></div>
+        </td></tr>
+</table>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.millennium.berkeley.edu/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"
+ lang="en" dir="ltr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>
+    start    [UC Berkeley Clustered Computing]
+  </title>
+
+  <meta name="generator" content="DokuWiki Release 2009-12-25c &quot;Lemming&quot;" />
+<meta name="robots" content="index,follow" />
+<meta name="date" content="2011-09-03T16:53:37-0700" />
+<meta name="keywords" content="start" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/lib/exe/opensearch.php" title="UC Berkeley Clustered Computing" />
+<link rel="start" href="/wiki/" />
+<link rel="contents" href="/wiki/start?do=index" title="Index" />
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="/wiki/feed.php" />
+<link rel="alternate" type="application/rss+xml" title="Current Namespace" href="/wiki/feed.php?mode=list&amp;ns=" />
+<link rel="alternate" type="text/html" title="Plain HTML" href="/wiki/_export/xhtml/start" />
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/wiki/_export/raw/start" />
+<link rel="canonical" href="https://www.millennium.berkeley.edu/wiki/start" />
+<link rel="stylesheet" media="all" type="text/css" href="/wiki/lib/exe/css.php?s=all&amp;t=default&amp;tseed=1305679448" />
+<link rel="stylesheet" media="screen" type="text/css" href="/wiki/lib/exe/css.php?t=default&amp;tseed=1305679448" />
+<link rel="stylesheet" media="print" type="text/css" href="/wiki/lib/exe/css.php?s=print&amp;t=default&amp;tseed=1305679448" />
+<script type="text/javascript" charset="utf-8" ><!--//--><![CDATA[//><!--
+var NS='';var JSINFO = {"id":"start","namespace":""};
+//--><!]]></script>
+<script type="text/javascript" charset="utf-8" src="/wiki/lib/exe/js.php?tseed=1305679448" ></script>
+
+  <link rel="shortcut icon" href="/wiki/lib/tpl/default/images/favicon.ico" />
+
+  </head>
+
+<body>
+<div class="dokuwiki">
+  
+  <div class="stylehead">
+
+    <div class="header">
+      <div class="pagename">
+        [[<a href="/wiki/start?do=backlink"  title="Backlinks">start</a>]]
+      </div>
+      <div class="logo">
+        <a href="/wiki/"  name="dokuwiki__top" id="dokuwiki__top" accesskey="h" title="[H]">UC Berkeley Clustered Computing</a>      </div>
+
+      <div class="clearer"></div>
+    </div>
+
+    
+    <div class="bar" id="bar__top">
+      <div class="bar-left" id="bar__topleft">
+        <form class="button btn_source" method="post" action="/wiki/start"><div class="no"><input type="hidden" name="do" value="edit" /><input type="hidden" name="rev" value="" /><input type="submit" value="Show pagesource" class="button" accesskey="v" title="Show pagesource [V]" /></div></form>        <form class="button btn_revs" method="get" action="/wiki/start"><div class="no"><input type="hidden" name="do" value="revisions" /><input type="submit" value="Old revisions" class="button" accesskey="o" title="Old revisions [O]" /></div></form>      </div>
+
+      <div class="bar-right" id="bar__topright">
+        <form class="button btn_recent" method="get" action="/wiki/start"><div class="no"><input type="hidden" name="do" value="recent" /><input type="submit" value="Recent changes" class="button" accesskey="r" title="Recent changes [R]" /></div></form>        <form action="/wiki/" accept-charset="utf-8" class="search" id="dw__search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>&nbsp;
+      </div>
+
+      <div class="clearer"></div>
+    </div>
+
+        <div class="breadcrumbs">
+      <span class="bchead">Trace:</span> <span class="bcsep">&raquo;</span> <span class="curid"><a href="/wiki/start"  class="breadcrumbs" title="start">start</a></span>          </div>
+    
+    
+  </div>
+  
+  
+  <div class="page">
+    <!-- wikipage start -->
+    <!-- TOC START -->
+<div class="toc">
+<div class="tocheader toctoggle" id="toc__header">Table of Contents</div>
+<div id="toc__inside">
+
+<ul class="toc">
+<li class="clear">
+
+<ul class="toc">
+<li class="level2"><div class="li"><span class="li"><a href="#overview" class="toc">Overview</a></span></div></li>
+<li class="level2"><div class="li"><span class="li"><a href="#cluster_resources" class="toc">Cluster Resources</a></span></div></li>
+<li class="level2"><div class="li"><span class="li"><a href="#contact" class="toc">Contact</a></span></div></li></ul>
+</li></ul>
+</div>
+</div>
+<!-- TOC END -->
+
+
+
+<h2><a name="overview" id="overview">Overview</a></h2>
+<div class="level2">
+
+<p>
+
+Our goal is to provide development and support for high performance and clustered computing efforts within the <a href="http://www.berkeley.edu" class="urlextern" title="http://www.berkeley.edu"  rel="nofollow">UC Berkeley</a> Department of <a href="http://www.eecs.berkeley.edu" class="urlextern" title="http://www.eecs.berkeley.edu"  rel="nofollow">Electrical Engineering and Computer Sciences</a>.  Anyone with an <a href="https://iris.eecs.berkeley.edu/10-services/00-accounts.html" class="urlextern" title="https://iris.eecs.berkeley.edu/10-services/00-accounts.html"  rel="nofollow">EECS acccount</a> may have access to the main EECS clusters.
+</p>
+</div><div class="include hentry">
+<h3 class="entry-title"><a name="system_news" id="system_news">System News</a></h3>
+<div class="entry-content">
+<div class="level3">
+
+<p>
+
+Tue Aug 27 10:00 PDT 2013
+</p>
+
+<p>
+We are in the process of upgrading and updating the software configuration of the EECS compute cluster. As part of the transition, we have set-up a new head node so that the old and new queues can run side-by-side for some time.
+</p>
+
+<p>
+The new head node is called â€œzen.millennium.berkeley.eduâ€. It and its compute nodes are running the latest Ubuntu long-term server release: Ubuntu 12.04 LTS. The queue manager software has also been updated to Torque 2.5.12 and Maui 3.3.1, and some minor differences may be encountered.The new head node will support both a â€œzenâ€ queue with the old 3GB/2core Dell 1850s and a â€œpsiâ€ queue with the 48GB/8core HP DL1000s and 256GB/24core Dell R810s. 
+</p>
+
+<p>
+We are opening up the new cluster for unbilled beta-test usage for the next few days, until September 1, 2013 so that users have a chance to check things out and shake out any remaining bugs before billing starts.  After September 1, usage on both head nodes will be billed, and more nodes will gradually be migrated from the old â€œpsiâ€ head node to the new â€œzenâ€ head node as time goes on. 
+</p>
+
+<p>
+If there are no significant problems with migrating to the new setup, I would like to switch over most of the compute nodes to the new â€œzenâ€ head node queues before the end of this billing quarter: Sept 30. (The few remaining 16GB/8core Dell 1950 nodes are likely to remain on the old â€œpsiâ€ head node and â€œzenâ€ queue for the time being, and may soon be retired.)
+</p>
+
+<p>
+Please report any concerns or problems (or gratitude) to support@millennium.berkeley.edu.
+</p>
+
+<p>
+Thanks in advance for your help in checking out the new setup.
+</p>
+
+<p>
+Cluster Support &lt;mailto:support@millennium.berkeley.edu&gt;
+
+</p>
+<ul>
+<li class="level1"><div class="li"> Tue 27 Aug 2013 - Free Beta Test of queues on new zen headnode</div>
+</li>
+<li class="level1"><div class="li"> Tue  6 Aug 2013 - Reboot S132 at 10:30am; back at 11:15am. NFS was hung, rendering /work, /usr/mill and /usr/sww inaccessible.</div>
+</li>
+<li class="level1"><div class="li"> Wed 24 Jul 2013 - S131 crashed. /work4 inaccessible. rebooting at 9:45am.</div>
+</li>
+<li class="level1"><div class="li"> Fri 26 Apr 2013 - Failure of primary <acronym title="Network Information Service">NIS</acronym> and <acronym title="Domain Name System">DNS</acronym> server caused temporary access issues</div>
+</li>
+<li class="level1"><div class="li"> Mon 18 Mar 2013 - Network failure partitioning research net has been patched</div>
+</li>
+<li class="level1"><div class="li"> Wed 06 Mar 2013 - Ganglia (<a href="http://monitor.millennium.berkeley.edu/" class="urlextern" title="http://monitor.millennium.berkeley.edu/"  rel="nofollow">http://monitor.millennium.berkeley.edu/</a>) is down.</div>
+</li>
+<li class="level1"><div class="li"> Sat 15 Dec 2012 - a <acronym title="Domain Name System">DNS</acronym> server, tangelo, went down this morning, resulting in slow/unreliable logins to many systems - rebooted, service restored</div>
+</li>
+<li class="level1"><div class="li"> Fri 30 Nov 2012 - /work server hung (also /usr/mill and /usr/sww) - rebooted and remounted on cluster</div>
+</li>
+<li class="level1"><div class="li"> Thu 29 Nov 2012 - Power failure in Soda Hall resulted in complete cluster restart</div>
+</li>
+<li class="level1"><div class="li"> Sat 9 Jun 2012 - <acronym title="Domain Name System">DNS</acronym> server failed, took down everything with it, recovering.</div>
+</li>
+<li class="level1"><div class="li"> Mon 29 Aug 2011 - /work2 and /work4 down due to hardware failure - /work2 back, /work4 data migrated</div>
+</li>
+<li class="level1"><div class="li"> Tue Jul 19 2011 - planned power shutdown in Sutardja Dai Hall on Thu Jul 21 will affect cluster users</div>
+</li>
+<li class="level1"><div class="li"> Sun May 8 2011 - s132, which serves /work for the PSI Cluster and some other systems and /usr/(mill|sww) for all systems, crashed.  It&#039;s back up.</div>
+</li>
+<li class="level1"><div class="li"> Thu Jan 27 2011 - Blackbox is offline for unknown reasons</div>
+</li>
+</ul>
+
+</div>
+
+</div>
+</div>
+<div class="level2">
+</div>
+
+<h2><a name="cluster_resources" id="cluster_resources">Cluster Resources</a></h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> EECS Clusters                                                                               </div>
+<ul>
+<li class="level2"><div class="li"> <a href="/wiki/psi" class="wikilink1" title="psi">PSI Cluster</a> (x64) </div>
+</li>
+<li class="level2"><div class="li"> <a href="/wiki/i3" class="wikilink1" title="i3">i3 Cluster</a> (x86)                </div>
+</li>
+</ul>
+</li>
+<li class="level1"><div class="li"> Private Clusters                                              </div>
+<ul>
+<li class="level2"><div class="li"> <a href="/wiki/nano" class="wikilink1" title="nano">Nano Cluster</a> (ppc64)</div>
+</li>
+<li class="level2"><div class="li"> <a href="/wiki/nlp" class="wikilink1" title="nlp">NLP Cluster</a> (x86)</div>
+</li>
+<li class="level2"><div class="li"> <a href="/wiki/radlab" class="wikilink1" title="radlab">RAD Lab Cluster</a> (x64)</div>
+</li>
+</ul>
+</li>
+<li class="level1"><div class="li"> <a href="/wiki/sensornets" class="wikilink1" title="sensornets">Sensor Network Testbeds</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://www.millennium.berkeley.edu/account/" class="urlextern" title="https://www.millennium.berkeley.edu/account/"  rel="nofollow">Account Request Form</a></div>
+</li>
+<li class="level1"><div class="li"> Documentation</div>
+<ul>
+<li class="level2"><div class="li"> <a href="/wiki/mpi" class="wikilink1" title="mpi">MPI Documentation</a></div>
+</li>
+<li class="level2"><div class="li"> <a href="/wiki/torque" class="wikilink1" title="torque">Torque Batch Scheduler</a></div>
+</li>
+<li class="level2"><div class="li"> <a href="http://www.theether.org/gexec/" class="urlextern" title="http://www.theether.org/gexec/"  rel="nofollow">Gexec Documentation</a></div>
+</li>
+<li class="level2"><div class="li"> <a href="/wiki/matlab" class="wikilink1" title="matlab">Matlab</a></div>
+</li>
+</ul>
+</li>
+<li class="level1"><div class="li"> Retired</div>
+<ul>
+<li class="level2"><div class="li"> <a href="/wiki/citris" class="wikilink1" title="citris">CITRIS Cluster</a> (ia64)               </div>
+</li>
+<li class="level2"><div class="li"> <a href="/wiki/millennium" class="wikilink1" title="millennium">Millennium Cluster</a> (x86)</div>
+</li>
+<li class="level2"><div class="li"> <a href="/wiki/oceanstore" class="wikilink1" title="oceanstore">Oceanstore Cluster</a> (x86)</div>
+</li>
+</ul>
+</li>
+</ul>
+
+</div>
+
+<h2><a name="contact" id="contact">Contact</a></h2>
+<div class="level2">
+<table class="inline">
+	<tr class="row0">
+		<th class="col0"> Name </th><th class="col1"> Phone </th><th class="col2"> Email </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0"> Jeff Anderson-Lee </td><td class="col1"> 3-6447 </td><td class="col2"> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0"> Eric Fraser </td><td class="col1"> 2-8698 </td><td class="col2"> support at Millennium.Berkeley.EDU </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0"> Albert Goto </td><td class="col1"> 3-7472 </td><td class="col2"> </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0"> Jon Kuroda </td><td class="col1"> 3-7455 </td><td class="col2"> </td>
+	</tr>
+</table>
+
+<p>
+
+<a href="/wiki/internal/internal" class="wikilink1" title="internal:internal">internal</a>
+
+</p>
+
+</div>
+
+    <!-- wikipage stop -->
+  </div>
+
+  <div class="clearer">&nbsp;</div>
+
+  
+  <div class="stylefoot">
+
+    <div class="meta">
+      <div class="user">
+              </div>
+      <div class="doc">
+        start.txt &middot; Last modified: 2011/09/03 16:53 by jkuroda      </div>
+    </div>
+
+   
+    <div class="bar" id="bar__bottom">
+      <div class="bar-left" id="bar__bottomleft">
+        <form class="button btn_source" method="post" action="/wiki/start"><div class="no"><input type="hidden" name="do" value="edit" /><input type="hidden" name="rev" value="" /><input type="submit" value="Show pagesource" class="button" accesskey="v" title="Show pagesource [V]" /></div></form>        <form class="button btn_revs" method="get" action="/wiki/start"><div class="no"><input type="hidden" name="do" value="revisions" /><input type="submit" value="Old revisions" class="button" accesskey="o" title="Old revisions [O]" /></div></form>              </div>
+      <div class="bar-right" id="bar__bottomright">
+                                        <form class="button btn_login" method="get" action="/wiki/start"><div class="no"><input type="hidden" name="do" value="login" /><input type="hidden" name="sectok" value="966a2e0289363d7b538cc0093739fc1c" /><input type="submit" value="Login" class="button" title="Login" /></div></form>        <form class="button btn_index" method="get" action="/wiki/start"><div class="no"><input type="hidden" name="do" value="index" /><input type="submit" value="Index" class="button" accesskey="x" title="Index [X]" /></div></form>        <a class="nolink" href="#dokuwiki__top"><input type="button" class="button" value="Back to top" onclick="window.scrollTo(0, 0)" title="Back to top" /></a>&nbsp;
+      </div>
+      <div class="clearer"></div>
+    </div>
+
+  </div>
+
+  <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license:<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></div>
+</div>
+
+<div class="footerinc">
+
+  <a  href="/wiki/feed.php" title="Recent changes RSS feed"><img src="/wiki/lib/tpl/default/images/button-rss.png" width="80" height="15" alt="Recent changes RSS feed" /></a>
+
+        <a  href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" title="CC Attribution-Noncommercial-Share Alike 3.0 Unported"><img src="/wiki/lib/images/license/button/cc-by-nc-sa.png" width="80" height="15" alt="" /></a>
+  
+  <a  href="http://www.dokuwiki.org/donate" title="Donate"><img src="/wiki/lib/tpl/default/images/button-donate.gif" alt="Donate" width="80" height="15" /></a>
+
+  <a  href="http://www.php.net" title="Powered by PHP"><img src="/wiki/lib/tpl/default/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+
+  <a  href="http://validator.w3.org/check/referer" title="Valid XHTML 1.0"><img src="/wiki/lib/tpl/default/images/button-xhtml.png" width="80" height="15" alt="Valid XHTML 1.0" /></a>
+
+  <a  href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS"><img src="/wiki/lib/tpl/default/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+
+  <a  href="http://dokuwiki.org/" title="Driven by DokuWiki"><img src="/wiki/lib/tpl/default/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+
+
+
+</div>
+
+<div class="no"><img src="/wiki/lib/exe/indexer.php?id=start&amp;1393371114" width="1" height="1" alt=""  /></div>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://pc2.uni-paderborn.de/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2013 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+
+<base href="http://pc2.uni-paderborn.de" />
+
+<title>Welcome: PC² // Paderborn Center for Parallel Computing</title>
+<meta name="generator" content="TYPO3 4.5 CMS" />
+
+<link rel="stylesheet" type="text/css" href="/typo3temp/stylesheet_afa85f73f5.css?1376072703" media="all" />
+<link rel="stylesheet" type="text/css" href="/fileadmin/templates/zwire/css/layout.css?1358208711" media="all" />
+<link rel="stylesheet" type="text/css" href="/fileadmin/templates/zwire/css/ADxMenu.css?1298044369" media="all" />
+<link rel="stylesheet" type="text/css" href="/typo3temp/stylesheet_6ad8dd21db.css?1315760667" media="all" />
+
+
+
+<script src="/typo3temp/javascript_a708894199.js?1298062629" type="text/javascript"></script>
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/fileadmin/templates/icons/favicon.ico" />
+  <!--[if lte IE 6]>
+  <style type="text/css" media="screen, tv, projection"> 
+  @import "/fileadmin/templates/zwire/css/ie6.css";
+  </style>
+  <script type="text/javascript" src="/fileadmin/templates/zwire/scripts/ADxMenu.js"></script>
+  <![endif]--><link rel="alternate" type="application/rss+xml" title="Paderborn Center for Parallel Computing" href="http://pc2.uni-paderborn.de/rss/" /><link rel="alternate" type="application/rss+xml" title="Paderborn Center for Parallel Computing - System News" href="http://pc2.uni-paderborn.de/rss/system/" /><meta name="date" content="2010-08-12" /><meta http-equiv="imagetoolbar" content="false" /><meta name="keywords" content="teststichwort" /><meta name="MSSmartTagsPreventParsing" content="true" /><meta name="robots" content="index,follow,noarchive" />
+
+
+</head>
+<body class="adxmenu">
+
+
+
+	<div id="container">
+	
+	<div id="header">
+	<div id="masthead">
+	
+	<div id="nav">
+	<ul class="adxm menu"><li class="hover2"><a href="/about-pc2/about-pc2/">About PC²</a><div class="hover2"><ul><li><a href="/about-pc2/annual-report-201011-pdf/">Annual Report 2010/11 (PDF)</a></li><li><a href="/about-pc2/start-page/">Start page</a></li><li><a href="/about-pc2/about-pc2/">About PC²</a></li><li><a href="/about-pc2/contact/">Contact</a></li><li><a href="/about-pc2/how-to-reach-us/">How to reach us</a><div class="hover2"><ul><li><a href="/about-pc2/how-to-reach-us/car/">Car</a></li><li><a href="/about-pc2/how-to-reach-us/train/">Train</a></li><li><a href="/about-pc2/how-to-reach-us/air/">Air</a></li><li><a href="/about-pc2/how-to-reach-us/hotel-recommendations/">Hotel recommendations</a></li></ul></div></li><li><a href="/about-pc2/history/">History</a></li></ul></div></li><li class="hover2"><a href="/news-talks-jobs/">News, Talks & Jobs</a><div class="hover2"><ul><li><a href="/news-talks-jobs/news/">News</a></li><li><a href="/news-talks-jobs/talks/">Talks</a></li><li><a href="/news-talks-jobs/events/">Events</a><div class="hover2"><ul><li><a href="/events/zki-sc-2013/">ZKI SC 2013</a><div class="hover2"><ul><li><a href="/events/zki-sc-2013/agenda/">Agenda</a></li><li><a href="/events/zki-sc-2013/tagungsort/">Tagungsort</a></li><li><a href="/events/zki-sc-2013/hotels/">Hotels</a></li><li><a href="/events/zki-sc-2013/abendveranstaltung/">Abendveranstaltung</a></li><li><a href="/events/zki-sc-2013/ansprechpartner/">Ansprechpartner</a></li></ul></div></li></ul></div></li><li><a href="/news-talks-jobs/jobs/">Job offers</a></li></ul></div></li><li class="hover2"><a href="/research/">Research</a><div class="hover2"><ul><li><a href="/research/custom-computing-and-many-cores/">Custom Computing and Many-Cores</a></li><li><a href="/research/middleware/">Middleware</a></li><li><a href="/research/scalable-storage-systems/">Scalable Storage Systems</a></li><li><a href="/research/testbeds-and-benchmarking/">Testbeds and Benchmarking</a></li><li><a href="/research-projects/cooperation-partners/">Cooperation partners</a></li><li><a href="/research/opensource-projects/">Opensource Projects</a></li></ul></div></li><li class="hover2"><a href="/staff-board/staff/">Staff & Board</a><div class="hover2"><ul><li><a href="/staff-board/management-board/">Management Board</a></li><li><a href="/staff-board/advisory-board/">Advisory Board</a></li><li><a href="/staff-board/staff/">Staff</a></li><li><a href="/staff-board/students/">Students</a></li></ul></div></li><li class="hover2"><a href="/publications/">Publications</a></li><li class="hover2"><a href="/nc/hpc-systems-services/">HPC Systems & Services</a><div class="hover2"><ul><li><a href="/hpc-systems-services/offered-services/">Offered services</a><div class="hover2"><ul><li><a href="/hpc-systems-services/available-systems/">HPC Systems</a></li><li><a href="/hpc-systems-services/offered-services/d-grid-resources/">D-Grid Resources</a></li><li><a href="/hpc-systems-services/offered-services/rv-nrw/">RV-NRW</a><div class="hover2"><ul><li><a href="/hpc-systems-services/offered-services/rv-nrw/registration/">Registration</a></li></ul></div></li><li><a href="/hpc-systems-services/offered-services/servicecatalog/cloudgrid/">Cloud/Grid Services</a></li><li><a href="/hpc-systems-services/offered-services/regauth/">RegAuth</a></li><li><a href="/hpc-systems-services/offered-services/servicecatalog/">ServiceCatalog</a><div class="hover2"><ul><li><a href="/hpc-systems-services/offered-services/servicecatalog/preface/">Preface</a></li><li><a href="/hpc-systems-services/offered-services/servicecatalog/systems/">Systems</a></li><li><a href="/hpc-systems-services/offered-services/servicecatalog/applications/">Applications</a></li><li><a href="/hpc-systems-services/offered-services/servicecatalog/cloudgrid/">Cloud/Grid</a></li><li><a href="/hpc-systems-services/offered-services/servicecatalog/consulting/">Consulting</a></li><li><a href="/hpc-systems-services/offered-services/servicecatalog/external/">External</a></li><li><a href="/hpc-systems-services/offered-services/servicecatalog/courses/">Courses</a></li><li><a href="/hpc-systems-services/offered-services/servicecatalog/clauses/">Clauses</a></li></ul></div></li><li><a href="/hpc-systems-services/offered-services/user-directories-and-filesystems/">User Directories and Filesystems</a></li></ul></div></li><li><a href="/hpc-systems-services/available-systems/">Available systems</a><div class="hover2"><ul><li><a href="/hpc-systems-services/available-systems/hpc-cluster/">HPC Cluster</a></li><li><a href="/hpc-systems-services/available-systems/hpc-cloud/">HPC Cloud</a></li><li><a href="/hpc-systems-services/available-systems/pling2/">Pling2</a></li><li><a href="/hpc-systems-services/available-systems/arminius-cluster/">ARMINIUS+</a><div class="hover2"><ul><li><a href="/nc/hpc-systems-services/available-systems/arminius-cluster/news/">News</a></li><li><a href="/hpc-systems-services/available-systems/arminius-cluster/howto-compile/">How To</a></li><li><a href="/hpc-systems-services/available-systems/arminius-cluster/faq/">FAQ</a></li><li><a href="/hpc-systems-services/available-systems/arminius-cluster/system-configuration/">System Configuration</a></li></ul></div></li><li><a href="/hpc-systems-services/available-systems/bisgrid-cluster/">BisGrid Cluster</a><div class="hover2"><ul><li><a href="/hpc-systems-services/available-systems/bisgrid-cluster/bisgrid-cluster-news/">BisGrid Cluster News</a></li></ul></div></li><li><a href="/hpc-systems-services/available-systems/high-throughput-cluster/">HTC</a><div class="hover2"><ul><li><a href="/hpc-systems-services/available-systems/high-throughput-cluster/principal-workflow/">Principal Workflow</a></li><li><a href="/hpc-systems-services/available-systems/high-throughput-cluster/architecture/">Architecture</a></li><li><a href="/hpc-systems-services/available-systems/high-throughput-cluster/installed-software/">Installed Software</a></li><li><a href="/hpc-systems-services/available-systems/high-throughput-cluster/restrictions/">Restrictions</a></li><li><a href="/hpc-systems-services/available-systems/high-throughput-cluster/faqs/">FAQs</a></li></ul></div></li><li><a href="/hpc-systems-services/available-systems/smp-server/">SMP Server</a></li><li><a href="/hpc-systems-services/available-systems/big-data-cluster/">Big-Data-Cluster</a></li></ul></div></li><li><a href="/hpc-systems-services/available-software/">Available Software</a></li></ul></div></li><li class="hover2"><a href="/teaching/">Teaching</a><div class="hover2"><ul><li><a href="/teaching/bachelor-master-theses/">Bachelor & Master theses</a></li><li><a href="/teaching/lectures/">Lectures</a></li></ul></div></li></ul>
+	</div>
+	
+	<div id="logo">
+	<a href="/"><img src="/fileadmin/templates/zwire/images/logo-transparent.gif" width="170" height="77" style="border:none" alt="" title="PC² Homepage" /></a>
+	</div>
+
+	<!-- end #masthead --> 
+	</div>
+
+	<div id="search">
+	<!-- ###SEARCH_FORM### START -->
+	<!-- ###SEARCH_FORM### END-->
+	</div>
+	
+	<div id="advsearch-link">
+	<!-- ###ADVSEARCH-LINK### START -->
+	<!-- ###ADVSEARCH-LINK### END-->
+	</div>
+	
+	<div id="language-selector">
+	<span id="language-selector-text">Language:</span><div id="c111" class="csc-default"><div class="tx-srlanguagemenu-pi1">
+		
+		
+				<div class="CUR"><img src="typo3/gfx/content_client.gif" alt="" style="width:7px; height:10px;" /><a href="/nc/welcome/"><img src="/typo3conf/ext/sr_language_menu/flags/en.gif" title="English" alt="English" class="tx-srlanguagemenu-pi1-flag" /></a></div> 
+			
+				  <div class="INACT"><img src="/typo3conf/ext/sr_language_menu/flags/de_d.gif" title="Deutsch" alt="Deutsch" class="tx-srlanguagemenu-pi1-flag" /></div> 
+			
+	
+	</div>
+	</div>
+	</div>
+	
+	<!-- end #header --> 
+	</div>
+	
+	<div id="main-content2col-home">
+	
+	<!--TYPO3SEARCH_begin-->
+	
+	<div id="main-content">
+	<div id="c570" class="csc-default"><h1>Welcome to PC²</h1><div class="csc-textpic csc-textpic-intext-right csc-textpic-border"><div class="csc-textpic-imagewrap csc-textpic-single-image"><img src="/typo3temp/pics/a84dcafa65.jpg" width="200" height="134" border="0" alt="ARMINIUS - Compute and Visualization Cluster" title="ARMINIUS - Compute and Visualization Cluster" /></div><div class="csc-textpic-text"><p class="align-left bodytext">The Paderborn Center for Parallel Computing, PC², is an interdisciplinary institute of the University of Paderborn, Germany. We are specialized in distributed and parallel computing for research, development and practical applications. New emerging fields of applications are investigated together with our partners. Practical work is done in a number of different areas shown on our research and project web pages. <br /><br />Our parallel computers are amongst the most powerful of their type. They enable us to study practical applications in a high-performance computing environment. Among our computing facilities are several large InfiniBand-clusters with up to 10.000 processor cores, and some smaller machines. These systems can be accessed conveniently by all users via the X-WIN network. <br /><br />Within the supporting groups, theoretical work is done to develop methods and principles for the construction and efficient use of distributed and parallel computer systems<a href="http://www.pc2.de/"><img src="/uploads/RTEmagicC_pc2deshortcut_01.png.png" alt="PC².de Shortcut" style="FLOAT: right" title="www.PC².de Shortcut" height="70" width="132" /></a>.</p>
+<p class="align-left bodytext">&nbsp;</p></div></div><div class="csc-textpic-clear"><!-- --></div></div>
+	</div>
+	
+	<!--TYPO3SEARCH_end-->
+	
+	<!-- end #main-content2col-home --> 
+	</div>
+	
+	<div id="right-content-home">
+	
+	<div id="c571" class="csc-default"><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap" style="width:310px;"><ul><li class="csc-textpic-image csc-textpic-firstcol" style="width:70px;"><a href="/nc/hpc-systems-services/" title="HPC Systems &amp; Services"><img src="/uploads/pics/hpc2.png" width="70" height="90" border="0" alt="HPC Systems &amp; Services" /></a></li><li class="csc-textpic-image" style="width:70px;"><a href="/research/" title="PC² Research"><img src="/uploads/pics/research2.png" width="70" height="90" border="0" alt="PC² Research" /></a></li><li class="csc-textpic-image" style="width:70px;"><a href="/teaching/" title="PC² Teaching"><img src="/uploads/pics/teaching2.png" width="70" height="90" border="0" alt="PC² Teaching" /></a></li><li class="csc-textpic-image csc-textpic-lastcol" style="width:70px;"><a href="/become-a-pc2-user/" title="Become a PC² User"><img src="/uploads/pics/go2.png" width="70" height="90" border="0" alt="Become a PC² User" /></a></li></ul></div></div><div class="csc-textpic-clear"><!-- --></div></div><div id="c796" class="csc-frame csc-frame-frame1"><h3>Latest System News</h3></div><div id="c795" class="csc-default">
+<div class="news-latest-container">
+	
+			  <div class="news-latest-item">
+				<span class="news-latest-date">Posted on 22 March 2013 in System News:</span>
+
+				<h4><span style="float:right; margin-right:7px"></span><a href="/hpc-systems-services/news-details/article/new-cluster-arrived-oculus-205/" title="New Cluster arrived: &quot;OCuLUS&quot;">New Cluster arrived: "OCuLUS" </a></h4>
+				
+				<p>Click here to learn more about OCuLUS.</p></div>
+
+		
+
+	
+</div>
+</div><div id="c717" class="csc-frame csc-frame-frame1"><h3>Latest News</h3></div><div id="c716" class="csc-default">
+<div class="news-latest-container">
+	
+			  <div class="news-latest-item">
+				<span class="news-latest-date">Posted on 04 December 2013 in Talks:</span>
+
+				<h4><span style="float:right; margin-right:7px"></span><a href="/news-talks-jobs/talks/details/article/services-des-pc2-status-und-zukuenftige-entwicklung-219/" title="Services des PC2: Status und zukünftige Entwicklung">Services des PC2: Status und zukünftige Entwicklung</a></h4>
+				
+Date: <b>19 December 2013, 16:00</b> in <b>O2.267 (Gebäude O)</b>
+
+				<p>Das PC² möchte Sie über den Stand seiner Infrastruktur und die anstehenden Änderungen informieren. Folgende Themen sind u.a. geplant:
+1. OCuLUS - Dieses System ist nun seit 8 Monaten in Betrieb und...</p></div>
+
+		
+			  <div class="news-latest-item">
+				<span class="news-latest-date">Posted on 15 August 2013 in General News:</span>
+
+				<h4><span style="float:right; margin-right:7px"></span><a href="/news-talks-jobs/news/details/article/silver-medal-for-oculus-at-olympic-computer-games-in-computer-go-218/" title="Silver Medal for OCuLUS User at Olympic Computer Games in Computer GO">Silver Medal for OCuLUS User at Olympic Computer Games in Computer GO</a></h4>
+				
+				<p>Lars Schäfers, Tobias Graf</p></div>
+
+		
+			  <div class="news-latest-item">
+				<span class="news-latest-date">Posted on 19 July 2013 in Talks:</span>
+
+				<h4><span style="float:right; margin-right:7px"></span><a href="/news-talks-jobs/talks/details/article/accelerating-lattice-qcd-simulations-with-gpu-clusters-217/" title="Accelerating Lattice QCD simulations with GPU clusters">Accelerating Lattice QCD simulations with GPU clusters</a></h4>
+				
+Date: <b>24 July 2013, 13:00</b> in <b>Hörsaal O2 (Gebäude O)</b>
+
+				<p>Dr. Mathias Wagner, Fakultät für Physik, Universität Bielefeld</p></div>
+
+		
+
+	
+</div>
+</div>
+	
+	<!-- end #right-content-home --> 
+	</div>
+	
+	<div id="border-content">
+	
+	</div>
+
+	<div id="footer">
+	
+<table width="766" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="177"><a href="http://www.uni-paderborn.de/"><img src="/fileadmin/templates/icons/footer-uni-logo.gif" width="177" height="62" border="0" alt="Universit&auml;t Paderborn" /></a></td>
+<td id="footer-text">Copyright &copy; 2008-2011 Paderborn Center for Parallel Computing &middot; <a href="imprint.html">Imprint</a> &middot; <a href="sitemap.html">Sitemap</a></td>
+<td width="29"><a href="https://pc2.uni-paderborn.de/login/"><img src="/fileadmin/templates/icons/footer-login-icon.gif" width="29" height="62" border="0" alt="Login/Logout" title="Login/Logout" /></a></td>
+</tr></table>
+	</div>
+
+	<!-- end #container --> 
+	</div>
+
+	<div id="footer2"></div>
+
+
+
+
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++

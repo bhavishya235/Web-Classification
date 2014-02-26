@@ -1,0 +1,2229 @@
+====================<http://www.trs-80.com/>====================
+<HTML>
+<HEAD>
+  <TITLE>Ira Goldklang's TRS-80 Revived Site - Main Page</TITLE>
+	<meta name="description" content="TRS-80 Revived Site by Ira Goldklang's is an archive of everything related to the Tandy Radio Shack TRS-80 microcomputer lines.  Site contains emulators, programs, manuals, books, patches, games, hints, discussions, questions, forums, and tons more.">
+	<meta name="keywords" content="TRS-80, TRS80, Tandy, Radio Shack, Portable, TRS, Model 1, Model 3, Model III, Model 4, Model IV, Model 4P, Model 100, Emulators, Ira, Goldklang, Resume, Orchestra, ORCH-80, ORCH-85, ORCH-90, COCO, Color Computer, Ira Goldklang, Adventure">
+	<meta name="MSSmartTagsPreventParsing" content="TRUE">
+	<META HTTP-EQUIV="Pragma" CONTENT="no_cache">
+
+	<script type="text/javascript" src="trsemu-1.2.js"></script>
+
+</HEAD>
+
+<body TEXT="#000000" BGCOLOR="#CCCCCC" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<div align=center>
+	<table cellpadding=0 cellspacing=0 bgcolor="#003399" width=100% border=0>
+		<tr halign=center>
+			<td align=center>
+				<table cellpadding=0 cellspacing=0 bgcolor="#003399" width=100% border=0>
+					<tr halign=center>
+						<td align=right>
+							<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/timeline/" border=0><img src="http://www.trs-80.com/images/trslogo.jpg" alt="[logo]" width=60 border=0></a>
+							<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/model-i/" border=0><img src="http://www.trs-80.com/images/computer-model1-keyboardandscreen-100.png" alt="[model i]" width=60 border="0"></a>
+							<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/model-iii/" border=0><img src="http://www.trs-80.com/images/computer-model3-rsc05-blur-x100.png" alt="[model iii]" width=60 border="0"></a>
+							<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/model-4/" border=0><img src="http://www.trs-80.com/images/computer-model4-rsc10-x100.png" alt="[model 4]" width=90 border="0"></a>
+						</td>
+						<td align=center>
+							<font color="white" size=+2>Welcome To<br>Ira Goldklang's TRS-80 Revived Site</font>
+						</td>
+						<td align=left>
+							<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/model-4/" border=0><img src="http://www.trs-80.com/images/computer-model-4p-sideways-view-x100" alt="[model 4p]" width=90 border="0"></a>
+							<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/model-100/" border=0><img src="http://www.trs-80.com/images/computer-model100-ccf836-x100.png" alt="[Model 100]" width=80 border="0"></a>
+							<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/pocket/" border=0><img src="http://www.trs-80.com/images/computer-pc2-rsc07-x100.png" alt="[Pocket Computer]" width=100 border="0"></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+			<td>
+				<!-- hitwebcounter Code START -->
+				<a href="http://www.hitwebcounter.com" target="_blank">
+				<img src="http://hitwebcounter.com/counter/counter.php?page=4521114&style=0025&nbdigits=7&type=page&initCount=792837" title="http://www.hitwebcounter.com" Alt="http://www.hitwebcounter.com"   border="0" >
+				</a><br/>
+				<!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com/internetcountercontact.php" title="Counter Website"
+				target="_blank" style="font-family: Geneva, Arial, Helvetica, sans-serif;
+				font-size: 12px; color: black; "><var>Web sites Stats</var>
+				</a>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<div align=center>
+	<table>
+		<tr valign=top>
+			<td width=60%>
+				<table border=1 width=100%>
+					<tr bgcolor="#3399FF">
+						<td align=center colspan=9><font size=+2 color=white><b>What is this Site?</b></font></td>
+					</tr>
+					<tr valign=top bgcolor="white">
+						<td>
+							<table border=0 width=100% bgcolor=white>
+								<tr valign=top>
+									<td bgcolor=white>
+										<font size=+1>This site is devoted to providing extensive information on the
+										<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/timeline/" target="parent">line of TRS-80 personal home computers</a>, with a specific focus on the
+										<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/model-i/" target="parent">Model I</a>,
+										<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/model-iii/" target="parent">Model III</a>,
+										and <a href="http://www.trs-80.com/wordpress/trs-80-computer-line/model-4/" target="parent">Model 4</a>.
+										There is also SOME information on the
+										<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/model-100/" target="parent">Model 100/102</a>,
+										<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/model-200/" target="parent">Model 200</a>,
+										<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/model-600/" target="parent">Model 600</a>,
+										<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/coco/" target="parent">Color Computer</a>, and
+										<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/pocket/" target="parent">Pocket Computer</a> lines as well as
+										<a href="http://www.trs-80.com/wordpress/trs-80-computer-line/printers/" target="parent">Printers</a>.
+										Information from these links includes product descriptions, catalog numbers, pictures, prices, operations, hardware, software, etc.<br><br>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<font size=+1>You can also find utilities and information on <a href="http://www.trs-80.com/wordpress/disk-conversion-instructions/" target="parent">how to read TRS-80 disks</a> and <a href="http://www.trs-80.com/wordpress/info-transfer-tapes/">how to read TRS-80 tapes</a> on a modern PC, how to <a href="http://www.trs-80.com/wordpress/importing-into-emulator/" target="parent">run them</a> on a modern PC using a <a href="http://www.trs-80.com/wordpress/emulators/" target="parent">TRS-80 emulator</a>, and utilities to <a href="http://www.trs-80.com/wordpress/dsk-and-dmk-image-utilities/">manipulate the disk images</a> and <a href="http://www.trs-80.com/wordpress/disk-and-tape-conversion-utilities/">cassette images</a> once you have them converted.  I can even <a href="http://www.trs-80.com/wordpress/faq-converting-your-disks/">read your disks for you</a> into a format which you can use in a <a href="http://www.trs-80.com/wordpress/emulators/" target="parent">TRS-80 emulator</a> on your PC.
+										<br><br>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<font size=+1>Other information on the site includes online reference manuals for <a href="http://www.trs-80.com/wordpress/info-level-2-basic-language/" target="parent">Level II BASIC</a> and <a href="http://www.trs-80.com/wordpress/dos-newdos80/www.trs-80.com/wordpress/dos-newdos80/manual-1/" target="parent">NEWDOS/80</a>, as well as information (and walk-throughs) for the <a href="http://www.trs-80.com/wordpress/emulation-scott-adams/">Scott Adam's adventures</a> and <a href="http://www.trs-80.com/wordpress/zaps-patches-pokes-tips/">tips/tricks/zaps/easter eggs</a>.  There are even utilities to play your old <a href="http://www.trs-80.com/wordpress/orch80/" target="_parent">ORCH 80/85/90</a> files again!
+										<br><br>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<font size=+1>There are pages devoted to TRS-80 DOS's such as <a href="http://www.trs-80.com/wordpress/dos-newdos80/">NEWDOS/80</a>, <a href="http://www.trs-80.com/wordpress/dos-dosplus-35/">DOSPLUS</a>, <a href="http://www.trs-80.com/wordpress/multidos/">MULTIDOS</a>, and <a href="http://www.trs-80.com/wordpress/cpm/">CP/M</a>, as well as to <a href="http://www.trs-80.com/wordpress/zaps-patches-pokes-tips/hardware/">Hacks</a> for TRS-80 hardware, for <a href="http://www.trs-80.com/wordpress/repairs/">Hardware Repair</a>, and for <a href="http://www.trs-80.com/wordpress/pc-in-lieu-of-trs-parts/">Modern-Day Hardware</a> which can substitute for TRS-80 Hardware.
+										Almost all of the magazine covers featured on this site also come with details about the issue, and the table of contents of the articles which were present.  There are currently 200 pages to the site (not including news postings), so feel free to poke around.
+										<br><br>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<font size=+1>You can even search through the <a href="http://www.trs-80.com/wordpress/archive-search/" target="parent">TRS-80 Software Archive</a>, the <a href="http://www.trs-80.com/wordpress/table-of-contents-search/" target="parent">TRS-80 Magazine Tables of Contents</a>, and the <a href="http://www.trs-80.com/wordpress/search-radio-shack-catalogs/" target="parent">TRS-80 Catalogs</a>.
+									</td>
+								</tr>
+								<tr>
+									<td align=center>
+										<font size=+3><b><a href="http://www.trs-80.com/wordpress/">ENTER THE SITE</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+
+			<td width=40%>
+				<table border=1 width=100%>
+
+					<tr bgcolor="#3399FF">
+						<td align=center>
+							<font size=+2 color=white>
+								<b>Free Services and Goodies</b>
+							</font>
+						</td>
+					</tr>
+
+					<tr valign=top bgcolor="white">
+						<td>
+							<table border=0 width=100% bgcolor=white>
+								<tr valign=top>
+									<td bgcolor=white>
+										<li>
+									</td>
+									<td bgcolor=white>
+										<font size=+1>
+											Are you a copyright holder?  If you didn't give me permission to host your property, then your property is NOT available for download on this site.  <b>However</b>, if you are willing to allow it to be, please <a href="http://www.trs-80.com/wordpress/send-ira-email/">contact me</a>!
+										</font>
+									</td>
+								</tr>
+								<tr valign=top>
+									<td bgcolor=white colspan=2>
+										<hr>
+									</td>
+								</tr>
+								<tr valign=top>
+									<td bgcolor=white>
+										<li>
+									</td>
+									<td bgcolor=white>
+										<font size=+2 color=red><b>Do you have real TRS-80 disks just lying around?  LET ME RESCUE THEM</b>
+									</td>
+								</tr>
+								<tr valign=top>
+									<td bgcolor=white>
+										&nbsp;
+									</td>
+									<td bgcolor=white>
+										<font size=+1>
+											While TRS-80 disks were not made to hold data for 35 years, the data is most likely still there if the disks were stored properly.  However, that is a big "if".<br><br>
+											If you have TRS-80 Model I, III or 4 disks lying around, please <a href="http://www.trs-80.com/wordpress/send-ira-email/">contact me</a>.  I can read those diskettes into a format which can then be used on modern PC's running emulators (letting you re-live your memories).  This will also preserve your collection!<br><br>
+											I do NOT charge for this and put together this <a href="http://www.trs-80.com/wordpress/faq-converting-your-disks/" target="parent">FAQ</a> for those interested.
+										</font>
+									</td>
+								</tr>
+								<tr valign=top>
+									<td bgcolor=white colspan=2>
+										<hr>
+									</td>
+								</tr>
+								<tr valign=top>
+									<td bgcolor=white>
+										<li>
+									</td>
+									<td bgcolor=white>
+										<font size=+1>
+											Do you have a real TRS-80 and need disks?  Click <a href="http://www.trs-80.com/wordpress/diskette-request-form/">here</a> to request.
+										</font>
+									</td>
+								</tr>
+								<tr valign=top>
+									<td bgcolor=white colspan=2>
+										<hr>
+									</td>
+								</tr>
+								<tr valign=top>
+									<td bgcolor=white>
+										<li>
+									</td>
+									<td bgcolor=white>
+										<font size=+1>
+											Do you want a real TRS-80?  The prices on eBay are overinflated.  Many times people just give away TRS-80's to a good home.  Click <a href="http://www.trs-80.com/wordpress/trs-80s-for-sale-trade-or-free">here</a> to see current listings.
+										</font>
+									</td>
+								</tr>
+								<tr valign=top>
+									<td bgcolor=white colspan=2>
+										<hr>
+									</td>
+								</tr>
+								<tr valign=top>
+									<td bgcolor=white>
+										<li>
+									</td>
+									<td bgcolor=white>
+										<font size=+1>
+											Want to use an emulated TRS-80 RIGHT NOW?  Click <a href="http://people.cs.ubc.ca/~pphillip/trs80-debug.html">here</a>.
+										</font>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+
+<!--
+
+	<table>
+		<tr valign=top>
+			<td width="33%">
+				<table border=1 width=100%>
+
+					<tr bgcolor="#3399FF">
+						<td align=center colspan=9><font size=+2><b>Do you want a real TRS-80?</b></font></td>
+					</tr>
+					<tr valign=top bgcolor="white">
+						<td>
+							<table border=0 width=100% bgcolor=white>
+								<tr valign=top>
+									<td bgcolor=white>
+										<font size=+1>
+											From time to time, people advertise TRS-80's for free ... current listings are <a href="http://www.trs-80.com/wordpress/trs-80s-for-sale-trade-or-free"  target="parent">here</a>
+										</font>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+
+				</table>
+			</td>
+
+			<td width="33%">
+				<table border=1 width=100%>
+					<tr bgcolor="#3399FF">
+						<td align=center colspan=9><font size=+2><b>Actual TRS-80 Model III Emulator</b></font></td>
+					</tr>
+					<tr valign=top bgcolor="white">
+						<td>
+							<table border=0 width=100% bgcolor=white>
+								<tr valign=top>
+									<td bgcolor=white>
+										To use a real TRS-80 emulator (with games) within your browser (nothing to install), just click <a href="http://people.cs.ubc.ca/~pphillip/trs80-debug.html">here</a>.
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr bgcolor="#3399FF">
+						<td align=center colspan=9><font size=+2><b>Do you have a real TRS-80 and need disks?</b></font></td>
+					</tr>
+					<tr valign=top bgcolor="white">
+						<td>
+							<table border=0 width=100% bgcolor=white>
+								<tr valign=top>
+									<td bgcolor=white>
+										<font size=+1>
+											If you need DOS disks for your TRS-80 Model I, III, or 4, please fill out this <a href="http://www.trs-80.com/wordpress/diskette-request-form/"  target="parent">form.</a>
+										</font>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+</table>
+
+-->
+
+</div>
+
+</BODY></HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.oldskool.org/pc/tand-em/>====================
+<html>
+  <head>
+<base href="http://www.oldskool.org/pc/tand-em/" />
+
+    <title></title>
+    <link rel="stylesheet" href="oldskool.css" type="text/css">
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-112129-1";
+urchinTracker();
+</script>
+
+  </head>
+
+  <body>
+    <span><center>
+<!-- AdTop --- -->
+<span><script type="text/javascript"><!--
+google_ad_client = "pub-3176092287115008";
+/* 728x90, created 6/14/08 */
+google_ad_slot = "6722935315";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></span>
+<!-- AdTop end -->
+</center>
+<hr>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tr>
+
+<td align="left" valign="top">
+<small>
+You are here: <span><a href="http://www.oldskool.org">The Oldskool PC</a>/<a href="http://www.oldskool.org/pc">Oldskool PC Software</a>/<a href="http://www.oldskool.org/pc/tand-em">Tand-Em</a></span><br>
+</small>
+</td>
+
+<td align="right" valign="top">
+<form action="http://www.google.com/cse" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-3176092287115008:l0ki80-7xm5" />
+    <input type="hidden" name="ie" value="ISO-8859-1" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</td>
+
+</tr>
+</table>
+
+<!-- hr -->
+</span>
+    <span><center>
+
+<img alt="Tand-Em -- The PCjr and Tandy 1000 Emulator" src="graphics/tandem.gif" align="center" width="500" height="110">
+
+</center>
+
+<hr>
+
+<p>
+Welcome to the home page of the Tand-Em Project!  Tand-Em is a Tandy
+1000 and IBM PCjr emulator for 80386 (or higher)-based PCs.  The PCjr
+and Tandy 1000 were PCs that had enhanced graphics and sound well before
+EGA or Adlib came out, and due to the Tandy's popularity in the states,
+many games were programmed to take advantage of those enhanced graphics
+and sound.</p>
+
+<p>
+For more complete information on the PCjr and Tandy 1000, visit <a href="/shrines/pcjr_tandy">The Oldskool Shrine to The IBM PCjr and
+Tandy 1000</a>.
+</p>
+
+<p>
+You are encouraged to <a href="tand-em_docs.html">read Tand-Em's current
+documentation</a> before downloading.  Many important concepts and
+procedures are explained in the documentation, so be sure you are aware
+of any surprises <strong>before</strong> you run Tand-Em.
+</p>
+
+<hr>
+
+<h1>Distribution</h1>
+<p>
+Tand-Em is currently at <a href="distribution/tandm055.zip">evaluation
+release 0.55</a>.  Our new distribution package contains the Tand-Em
+emulator, documentation, utilities, and some new demonstration diskette
+images that you can use to test the emulator.
+</p>
+
+<p>
+Note: Read the <samp>README.1ST</samp> file contained in the
+<samp>DSKIMAGE</samp> directory for an explanation of what the sample
+diskette images do.
+</p>
+
+<p>
+<i>New!</i> You can now download <a href="jripcart/">JRipCart</a>, a small utility to dump PCjr cartridges.
+The JRC format is not yet supported by Tand-Em, though.
+</p>
+
+<hr>
+
+<h1><a name="contact">Contributions and Contact Info</a></h1>
+<p>
+Join the Tand-Em Project!  If you can help contribute to Tand-Em,
+either to the source code base or the disk image archive, we'd
+love to hear from you!  For contributions to the Tand-Em emulator
+itself, such as suggestions, hardware information, etc., contact <a href="mailto:REMOVE_THIS_TEXTvincent@joguin.com">Vincent Joguin</a>.  For any
+other contributions, such as example programs or disk images
+that use the PCjr/Tandy enhanced graphics and sound, contact <a
+    href="mailto:mobygamer@gmail.com">Jim Leonard</a>
+</p>
+
+<hr>
+
+<h1><a name="moreinfo">More Information</a></h1>
+<p>
+For more information on programming for the PCjr and Tandy 1000, try
+looking at <a href="http://tvdog.shacknet.nu/">TVdog's
+excellent website</a>.  Most of the information needed to
+program your own emulator can be found there.
+</p>
+</span>
+    <span><hr>
+
+<center>
+<a href="http://www.oldskool.org">[Oldskool Home]</a>
+<a href="http://www.oldskool.org/copyright">[Copyright and Usage]</a>
+<a href="http://www.oldskool.org/disclaimer">[Disclaimer]</a>
+<!-- <a href="/privacy.shtml">[Privacy Policy]</a> -->
+<a href="http://www.oldskool.org/personal">[Contact Me]</a>
+</center>
+
+<hr>
+
+<center>
+<!-- AdTop --- -->
+<span><script type="text/javascript"><!--
+google_ad_client = "pub-3176092287115008";
+/* 728x15, created 6/14/08 */
+google_ad_slot = "1321303387";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></span>
+<!-- AdTop end -->
+</center>
+</span>
+    <center>
+      <small>
+This page's content was last modified on <span>Dec 3, 2006 4:57 pm</span>.<br>
+If anything here has helped you, please consider donating to help keep this site alive.
+      </small> 
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="theoldskoolpc@oldskool.org">
+<input type="hidden" name="item_name" value="The Oldskool PC">
+<input type="hidden" name="no_shipping" value="0">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="tax" value="0">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="bn" value="PP-DonationsBF">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but04.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+    </center>
+  </body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.tim-mann.org/xtrs.html>====================
+<HTML>
+<HEAD>
+<TITLE>xtrs: TRS-80 Model I/III/4/4P Emulator for Unix</TITLE>
+</HEAD>
+<body bgcolor="#fff0f5">
+
+<H1><a name="top">Tim Mann's TRS-80 Pages</a></H1>
+<table cols=2>
+<tr>
+
+<td>
+<small>&nbsp;Business card from 1981</small>
+<IMG align=left width=408 height=233 src="image/galactic.png" alt="">
+</td>
+
+<td>
+<p><ul>
+<li><a href="trs80.html">Main TRS-80 Page</a>
+<li><a href="trs80new.html">What's New on These Pages</a>
+<li><a href="trs80faq.html">Frequently Asked Questions</a>
+<li><a href="xtrs.html">xtrs: Model I/III/4 Emulator for Unix</a>
+<li><a href="misosys.html">Misosys Software and Documents</a>
+  <ul>
+  <li><a href="misosys.html#filfo">File formats</a>
+  <li><a href="misosys.html#viewers">Viewers</a>
+  <li><a href="misosys.html#down">Download</a>
+  <li><a href="misosys.html#contrib">Contributors</a>
+  </ul>
+<li><a href="trs80resources.html">Additional TRS-80 Resources</a>
+<li><a href="catweasel.html">Catweasel Floppy Read/Write Tools</a>
+<li><a href="ldos.html">LDOS and Me</a>
+<li><a href="binhex.html">Prehistory of BinHex</a>
+<li><a href="trs80links.html">Links to Other Sites</a>
+<li><a href="./">Back to Tim Mann's Home Page</a>
+</ul>
+</td>
+
+</tr>
+</table>
+<br clear=all>
+<HR>
+
+
+
+
+
+<H2><a href="trs80/xtrs-4.9d.tar.gz"><IMG align=left width=39 height=34 src="image/bridge2.png" alt=""></a><a name="xtrs">
+xtrs: TRS-80 Model I/III/4/4P Emulator for Unix</a></H2>
+<br clear=all>
+
+<p><strong>xtrs</strong> is a Radio Shack TRS-80 Model I/III/4/4P
+emulator for Unix and the X Window System.  It includes lower case,
+the real time clock, hi-res graphics, serial port, parallel printer,
+mouse, cassette, sound and music output (requires OSS), 5" and 8"
+floppy disk drives in single and double density, and even hard disk
+drives.  The emulated floppy and hard disk file formats are compatible
+with the popular MSDOS-based emulators by Jeff Vavasour, Matthew Reed,
+and David Keil, and (if you choose a capable enough file format), all
+features of the original TRS-80 floppy disk controller are
+emulated. Under Linux, physical floppy disk drives are also
+supported. Physical cassettes can be read and written too.  The user
+interface is a bit spartan, but it gets the job done.
+
+<p><img src="image/yelnew.png" alt="NEW!" width=26 height=12
+border=0> Also check
+out <a href="http://sdltrs.sourceforge.net/">sdltrs</a> by Mark Grebe.
+It is a TRS-80 emulator for Linux, Mac OS X, and Windows based on
+xtrs.  All three versions of sdltrs have a text-based menu UI that
+makes it easier to insert/remove emulated floppy disks and tapes and
+to change other settings.  The Mac version also has a nice native Mac
+GUI.
+
+<h3>xtrs downloads and resources</h3>
+
+<ul>
+<li><a href="trs80/xtrs-4.9d.tar.gz">xtrs 4.9d (.tar.gz format)</a>
+  <a href="trs80/xtrs-4.9d.zip">(.zip format)</a>.  Compared with
+  4.9c, version 4.9d adds a keybinding help window (press F11 to see
+  it), adds a feature so that NEWDOS/80 boots up knowing the date and
+  time, fixes a bug that prevented -delay and -autodelay from working
+  when compiled with newer versions of gcc that optimize better, and
+  also includes a few more obscure bug fixes and internal cleanups.
+  See the <a href="trs80/ChangeLog">change log</a> for details.<p>
+
+<li>ROM images for Model I/III/4 are available elsewhere on the Web.
+  I do not know the copyright status of these ROM images, and I have
+  no connection with the sites that offer them.
+  Some <a href="http://discover-net.net/~dmkeil/" >MS-DOS based TRS-80
+  emulators</a> come with Model I and Model III/4 ROM image files.
+  These files will work in xtrs too.<p>
+
+<li>Alternatively, for Model III or Model 4 emulation, xtrs can use a
+  MODELA/III file as its ROM image.  This is not identical to a real
+  Model III/4 ROM, but is close enough that almost 100% of TRS-80
+  programs will work with it.  The <a href="trs80/ld4-631.zip">LS-DOS
+  6.3.1H</a> operating system disk that I have permission to
+  distribute includes a MODELA/III file.  You can boot this operating
+  system using xtrs's Model 4P emulation and export the file for use
+  in Model III and 4 emulation, or for
+  convenience, <a href="trs80/ld4-631.iii">click here</a> to download
+  the MODELA/III file directly.<p>
+
+<li>For Model 4P emulation, you can use Pete Cervasio's free minimal
+  Model 4P boot ROM, now supplied with xtrs; however, the free ROM can
+  boot only Model 4 operating systems (not Model III), and only from
+  floppy disks.  The original Model 4P boot ROM is copyrighted
+  software, but if you own a Model 4P, you can copy its boot ROM onto
+  a floppy for personal use using the instructions and tools in
+  this <a href="trs80/doc/rom4p.zip">article</a>, originally published
+  in the Misosys Quarterly 1.2.  You can also buy Frank Durda IV's
+  improved Model 4P ROMs
+  from <a href="http://madsoft.lonestar.org/">M. A. D. Software</a>.<p>
+
+<li>Technical documentation is available for the <a
+  href="trs80/dskspec.html">emulated floppy disk file formats</a> used
+  by xtrs and other popular TRS-80 emulators.<p>
+
+<li>The original <a href="trs80/xtrs-1.0.tar.Z" >xtrs 1.0</a> was
+written by David Gingold and Alec
+Wolman; see their <a href="trs80/xtrs-1.0.README" >README</a> file.
+It emulates a Model I with cassette, 48KB of memory, and
+an uppercase-only display.  
+</ul>
+
+<p>If you are writing your own emulator, you are welcome to use my
+code, in whole or as a guideline.  The copyright on the original xtrs
+code also permits such use.  I would appreciate receiving a copy of
+any improvements you make to the code, however, so that we can release
+a better xtrs in the future when time permits.
+
+<P><HR><A HREF="#top">Return to top</A> |
+<A HREF="http://tim-mann.org/">My home page</A> | 
+<A HREF="http://www.vmware.com/">My work</A>
+
+
+</BODY></HTML>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://sourceforge.net/projects/virtualt/>====================
+<!doctype html>
+<!-- Server: sfs-consume-8 -->
+
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]>--> <html lang="en" class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        
+        <meta id="webtracker" name="webtracker" content='{"event_id": "be2ba3ec-9e75-11e3-883a-0200ac1d1d8b", "project": "virtualt", "non_clicker": 0.7534682072477129, "active_tests": ["psp_redirect_immersion"], "clicker": 0.2492770558538536}'>
+
+        <meta name="description" content="Virtual T is a TRS-80 Model 100/102/200 emulator that runs on Windows, Linux, and Macintosh.  The goal of Virtual T is to provide 100% hardware …">
+        <meta name="keywords" content=" Open Source, Open Source Software, Development, Community, Source Code, Secure,  Downloads, Free Software">
+
+
+<meta property="og:title" content="Virtual T"/>
+<meta property="og:type" content="product"/>
+<meta property="og:image" content="http://sourceforge.net//a.fsdn.com/con/app/proj/virtualt/screenshots/157042.jpg"/>
+<meta property="og:url" content="http://sourceforge.net/projects/virtualt/"/>
+<meta property="og:site_name" content="SourceForge"/>
+<meta property="og:description" content="Virtual T is a TRS-80 Model 100/102/200 emulator that runs on Windows, Linux, and Macintosh.  The goal of Virtual T is to provide 100% hardware emulation so ..."/>
+
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Virtual T | Free  software downloads at SourceForge.net</title>
+        <link rel="shortcut icon" href="http://a.fsdn.com/con/img/sftheme/favicon.ico">
+        <script type="text/javascript">
+            /*global unescape, window, console, jQuery, $, net, SF, COMSCORE, DD_belatedPNG */
+            // Setup our namespace
+            if (!window.SF) { window.SF = {}; }
+            if (!window.net) { window.net = {}; }
+            if (!window.net.sf) { window.net.sf = {}; }
+            SF.cdn = 'http://a.fsdn.com/con';
+            SF.deploy_time = '1393354590';
+        </script>
+        <script src="http://a.fsdn.com/con/js/min/sf.head.js?1393354590" type="text/javascript"></script>
+        
+<!--[if lt IE 7 ]>
+  <script src="http://a.fsdn.com/con/js/sftheme/dd_belatedpng.js"></script>
+  <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
+<![endif]-->
+
+<link href='//fonts.googleapis.com/css?family=Ubuntu:regular' rel='stylesheet' type='text/css'>
+<style type="text/css">
+    @font-face {
+        font-family: "Pictos";
+        src: url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.eot');
+        src: local("☺"), url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.woff') format('woff'), url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.ttf') format('truetype'), url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.svg') format('svg');
+    }
+</style>
+ <link rel="stylesheet" href="http://a.fsdn.com/con/css/sf.css?1393354590" type="text/css">
+
+
+    <style type="text/css" >.sfdl { width:250px;height:48px;padding:0;position:relative;font:bold 12px/1.17 sans-serif !important; border:1px solid #aaa;display:inline;float:left;text-decoration:none;-moz-box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;-webkit-box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;-o-box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;-moz-border-radius:4px;-webkit-border-radius:4px;-o-border-radius:4px;-ms-border-radius:4px;-khtml-border-radius:4px;border-radius:4px;background:no-repeat #e5e5e5 8px center url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC);background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC), -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #fff), color-stop(100%, #ccc));background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC), -moz-linear-gradient(top, #fff 0%, #ccc 100%);background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC), linear-gradient(top, #fff 0%, #ccc 100%);background-position:8px center, 0 0;margin:0 10px 0px 0;overflow:hidden;color:#555 !important;}.sfdl:hover { cursor:pointer;text-decoration:none;background:8px center no-repeat #eee url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC);}.sfdl-lite { background:0 center no-repeat #337733 none;color:white !important;height:auto;padding:0.5em 1em;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;-o-border-radius:4px;-ms-border-radius:4px;-khtml-border-radius:4px;border-radius:4px;background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #339933), color-stop(100%, #337733));background-image:-moz-linear-gradient(top, #339933 0%, #337733 100%);background-image:linear-gradient(top, #339933 0%, #337733 100%);}.sfdl-lite:hover { background:0 center no-repeat #339933;}.sfdl span { border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;display:block;margin:3px;margin-left:35px;padding:4px;text-align:left;color:#FFF;background:#363;background-image:-moz-linear-gradient(center top, #393 0%, #373 100%);background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0, #393),color-stop(1, #373));background-image:linear-gradient(top, #393 0%, #373 100%);overflow:hidden;height:34px;}.sfdl b { display:block;line-height:17.0px;}.sfdl small { display:block;line-height:17.0px;color:#ADC2AD; font-weight:normal;white-space:nowrap;overflow:hidden;font-size:77%;}.info-circle{ right:10px;bottom:16px;}.direct-dl{ font-size:10px;text-align:right;display:inline-block;width:100%;}</style>
+
+<style type="text/css">
+    .Taccd140f4f39fd1b11ea74e52ebfc4a9f8148939 { display: none !important; }
+</style>
+    <link rel="alternate" type="application/rss+xml" title="Virtual T&#8230;File Releases" href="/api/file/index/project-id/115749/mtime/desc/limit/20/rss" />
+    <link rel="canonical" href="http://sourceforge.net/projects/virtualt/">
+        
+<script type="text/javascript">
+    SF.adblock = true;
+    var immersion_adcode = "";
+</script>
+        <script type="text/javascript" src="http://a.fsdn.com/con/js/adframe.js?1393354590"></script>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+                _gaq.push(['1._setAccount', 'UA-32013-6']);
+                _gaq.push(['2._setAccount', 'UA-36130941-1']);
+                _gaq.push(['_setAccount', 'UA-36130941-1']);
+                _gaq.push(['1._trackPageview']);
+                _gaq.push(['2._trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </head>
+    <body id="pg_project" class="bluesteel user">
+        
+        <div id="busy-spinner"></div>
+        
+<header id="site-header">
+    <div class="wrapper">
+        <a href="/" class="logo">
+            <span>SourceForge</span>
+        </a>
+        <form method="get" action="/directory/">
+            <input type="text" id="words" name="q" placeholder="Search">
+        </form>
+        <!--Switch to {language}-->
+        <nav id="nav-site">
+            <a href="/directory/" title="Browse our software.">Browse</a>
+            <a href="/directory/enterprise" title="Browse our Enterprise software.">Enterprise</a>
+            <a href="/blog/" title="Read the latest news from the SF HQ.">Blog</a>
+            <a href="/support" title="Contact us for help and feedback.">Help</a>
+            <a href="/jobs?source=header" title="Search 80k+ tech jobs." class="featured-link">Jobs</a>
+        </nav>
+        <nav id="nav-account">
+            
+              <div class="logged_out">
+                <a href="https://sourceforge.net/account/login.php">Log In</a>
+                <span>or</span>
+                <a href="https://sourceforge.net/user/registration">Join</a>
+              </div>
+            
+        </nav>
+    </div>
+</header>
+<header id="site-sec-header">
+    <div class="wrapper">
+        <nav id="nav-hubs">
+            <h4>Solution Centers</h4>
+            <a href="http://goparallel.sourceforge.net/">Go Parallel</a>
+            <a href="http://ibmsmarteritservices.sourceforge.net/">Smarter IT</a>
+        </nav>
+        <nav id="nav-collateral">
+            
+            <a href="http://library.slashdotmedia.com/?source=sfnet_header">Resources</a>
+            
+            
+            <a href="https://sourceforge.net/user/registration">Newsletters</a>
+            
+        </nav>
+    </div>
+</header>
+
+        
+        <div id="messages">
+        </div>
+
+        <div id="page-body">
+<div id="banner-ads" class="ads">
+    
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_none_p1_leader;pg=%2Fprojects;psrch=0;logged_in=0;tpc=virtualt;dcopt=ist;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fvirtualt%2F;tile=1;sz=728x90;u=e%3Abe2ba3ec-9e75-11e3-883a-0200ac1d1d8b;ord=9264632423194158?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+    
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_pg_project_logo_sponsorship;pg=%2Fprojects;psrch=0;logged_in=0;tpc=virtualt;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fvirtualt%2F;tile=2;sz=200x90;u=e%3Abe2ba3ec-9e75-11e3-883a-0200ac1d1d8b;ord=9264632423194158?" width="200" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+</div>
+<nav id="breadcrumbs">
+    <ul>
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/">Home</a></li>
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/directory">Browse</a></li><li class="project">Virtual T</li>
+    </ul>
+</nav>
+<div id="project-header">
+    
+<section id="project-title">
+    <h1 itemprop="name">
+            Virtual T</h1>
+    <h2>
+        
+    </h2>
+    <p id="maintainers" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    Brought to you by:
+    <a href="/users/deuce" itemprop="url"><span itemprop="name">deuce</span></a>, <a href="/users/kpettit1" itemprop="url"><span itemprop="name">kpettit1</span></a></p>
+    
+</section>
+</div>
+<article id="project" class="content-wrapper" itemscope itemtype="http://schema.org/SoftwareApplication">
+    <meta itemprop="image" content="http://c.fsdn.com/con/img/project_default.png"/>
+    <nav>
+        
+    <div class="firstwave">
+        <ul class="b-hornav">
+            
+            <li id="menu_consume_summary" class="selected">
+                <a href="/projects/virtualt/?source=navbar"><span><span>Summary</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_files" >
+                <a href="/projects/virtualt/files/?source=navbar"><span><span>Files</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_reviews" >
+                <a href="/projects/virtualt/reviews?source=navbar"><span><span>Reviews</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_support" >
+                <a href="/projects/virtualt/support?source=navbar"><span><span>Support</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_wiki" >
+                <a href="/p/virtualt/wiki/?source=navbar"><span><span>Wiki</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_tickets ▾" >
+                <a href="/p/virtualt/_list/tickets?source=navbar"><span><span>Tickets ▾</span></span></a>
+                
+                <ul>
+                    
+                    <li><a href="/p/virtualt/bugs/?source=navbar">Bugs</a></li>
+                    
+                    <li><a href="/p/virtualt/support-requests/?source=navbar">Support Requests</a></li>
+                    
+                    <li><a href="/p/virtualt/patches/?source=navbar">Patches</a></li>
+                    
+                    <li><a href="/p/virtualt/feature-requests/?source=navbar">Feature Requests</a></li>
+                    
+                </ul>
+                
+            </li>
+            
+            <li id="menu_consume_discussion" >
+                <a href="/p/virtualt/discussion/?source=navbar"><span><span>Discussion</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_donate" >
+                <a href="/p/virtualt/donate/?source=navbar"><span><span>Donate</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_code" >
+                <a href="/p/virtualt/code/?source=navbar"><span><span>Code</span></span></a>
+                
+            </li>
+            
+        </ul>
+    </div>
+    
+    </nav>
+    
+    <section id="main-content">
+        <section id="call-to-action">
+            <section id="counts-sharing">
+                <section class="project-info">
+                    <section class="content">
+                        <b data-icon="" class="ico" title="Star">&#9733;</b>
+                        <a href="/projects/virtualt/reviews/" title="Browse reviews" id="call-to-action-reviews">5.0 Stars</a>
+                        <span>(2)</span>
+                    </section>
+                </section>
+                <section id="download-stats" class="project-info">
+                    <section class="content">
+                        <b data-icon="}" class="ico ico-downarrow" title="Down"></b>
+                        <a href="/projects/virtualt/files/stats/timeline" title="Downloads This Week" id="call-to-action-stats">15 Downloads</a>
+                        <span>(This Week)</span>
+                    </section>
+                </section>
+                <section id="last-updated" class="project-info">
+                    <section class="content">
+                        <b data-icon="\" class="ico ico-calendar" title="Last Update"></b>
+                        Last Update:
+                        <time class="dateUpdated" datetime="2013-04-30">2013-04-30</time>
+                    </section>
+                </section>
+
+                
+<section class="social-sharing">
+    <!-- Twitter -->
+    <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+    <a href="https://twitter.com/share"
+       class="twitter-share-button"
+       data-count="horizontal"
+       data-url="http://sf.net/projects/virtualt/"
+       data-counturl="http://sourceforge.net/projects/virtualt/"
+       data-via="sourceforge"
+       data-text="Download Virtual T for free! "></a>
+    <!-- Google +1 -->
+    <script type="text/javascript">
+        (function() {
+         var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+         po.src = '//apis.google.com/js/plusone.js';
+         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+         })();
+    </script>
+    
+    <div class="g-plusone"
+         data-size="medium"
+         data-annotation="bubble"
+         data-href="http://sourceforge.net/projects/virtualt/"></div>
+    <!-- Facebook -->
+    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fvirtualt%2F&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowTransparency="true"></iframe>
+</section>
+
+            </section>
+            <section id="download_button">
+                    
+                        
+                        
+<a href="/projects/virtualt/files/latest/download" title="Download /Win32/v1.5/virtualt-win32-v1.5.zip from SourceForge  - 1.3 MB" class="sfdl">
+    <span>
+        <b>Download</b>
+        <small >virtualt-win32-v1.5.zip</small>
+        
+    </span>
+</a>
+
+                    <meta itemprop="fileSize" content="1302615.0"/><meta itemprop="fileFormat" content="application/zip; charset=binary"/><div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                        <meta itemprop="price" content="Free"/>
+                        <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+                    <a href="/projects/virtualt/files/" id="files-link" title="Browse All Files">Browse All Files</a>
+                    <section class="project-info">
+                        
+                    </section>
+            </section>
+        </section>
+        <section id="project-screenshots">
+            <header>
+                <h2>Screenshots</h2>
+            </header>
+            <div class="slider">
+                <div class="strip">
+                    <a rel="section" class="thumbnail" href="//a.fsdn.com/con/app/proj/virtualt/screenshots/157042.jpg" title="Main MENU snapshot">
+                        <img itemprop="screenshots" src="//a.fsdn.com/con/app/proj/virtualt/screenshots/157042.jpg/182/137" width="182" height="137"  alt="Main MENU snapshot"/>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section id="project-description">
+            <header>
+                <h2>Description</h2>
+            </header>
+            <p id="description" itemprop="description">Virtual T is a TRS-80 Model 100/102/200 emulator that runs on Windows, Linux, and Macintosh.  The goal of Virtual T is to provide 100% hardware emulation so any existing programs will run.  It also adds powerful development and debugging tools.</p>
+            <p>
+                <a id="homepage" class="pspbtn" href="http://virtualt.sourceforge.net" title="Virtual T Web Site">Virtual T Web Site</a>
+            </p>
+        </section>
+
+        <section id="project-categories-and-license">
+            <div class="project-container">
+                <section>
+                    <header>
+                        <h4>Categories</h4>
+                    </header></section>
+                <section>
+                    
+
+                </section>
+            </div>
+        </section><section id="notifications">
+            <header>
+                <h2>Update Notifications</h2>
+            </header>
+            <form action="subscribe" method="post" id="subscribe-form">
+                <section id="subscribe-form-container">
+                    
+                    <input type="email" id="subscriber-email" name="XrpzHT7YF5MPZbaGYZtVyPIIcLcw" placeholder="john.doe@example.org" value="" required>
+                    
+                    
+                    <button type="submit" id="subscriber-submit" class="subscriber-submit">
+                        <span>
+                            
+                            Subscribe to Updates
+                            
+                        </span>
+                    </button>
+                    <p id="subscriber-existing-email" style="display: none">
+                        Sent to <code></code>.
+                        
+                    </p>
+                </section>
+                <input type="hidden" name="_visit_cookie" value=""/>
+                <input type='hidden' name='timestamp' value='1393371429'/>
+                <input type='hidden' name='spinner' value='Xq_mqLt9p0SfEUdjGjM0XLikp_84'/>
+                <p class='Taccd140f4f39fd1b11ea74e52ebfc4a9f8148939'><label for='XrJHFQLoQ4RfxtcX69ZP9Nkw7VPs'>You seem to have CSS turned off. Please don't fill out this field.</label><br/><input id='XrJHFQLoQ4RfxtcX69ZP9Nkw7VPs' name='XrZHFQLoQ4RIgTOS_0icPSzuCyhw' type='text'/><br/></p>
+                <p class='Taccd140f4f39fd1b11ea74e52ebfc4a9f8148939'><label for='XrJHFQLoQ4RbxtcX69ZP9Nkw7VPs'>You seem to have CSS turned off. Please don't fill out this field.</label><br/><input id='XrJHFQLoQ4RbxtcX69ZP9Nkw7VPs' name='XrZHFQLoQ4BIgTOS_0icPSzuCyhw' type='text'/><br/></p>
+            </form>
+        </section>
+<section id="ratings">
+    <header>
+        
+
+        <h2>User Ratings</h2>
+    </header>
+
+    
+<section class="recommended-percentage item" itemscope itemtype="http://schema.org/AggregateRating" itemprop="aggregateRating">
+        <span class="rating">
+            <span class="average" itemprop="ratingValue">5.0</span>
+            <meta itemprop="bestRating" content="5"/>
+            <meta itemprop="worstRating" content="1"/>
+            <meta itemprop="ratingCount" content="5.0"/>
+            <span class="recommended">out of 5 stars</span>
+        </span>
+    </section>
+    <section class="stars">
+        <div class="star-text stars-5">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <div class="star-text stars-4">&#9733;&#9733;&#9733;&#9733;</div>
+        <div class="star-text stars-3">&#9733;&#9733;&#9733;</div>
+        <div class="star-text stars-2">&#9733;&#9733;</div>
+        <div class="star-text stars-1">&#9733;</div>
+    </section>
+    <section class="bargraph">
+        <div class="stars-5" style="border-left-width: 200px">
+            2
+        </div>
+        <div class="stars-4" style="border-left-width: 1px">
+            0
+        </div>
+        <div class="stars-3" style="border-left-width: 1px">
+            0
+        </div>
+        <div class="stars-2" style="border-left-width: 1px">
+            0
+        </div>
+        <div class="stars-1" style="border-left-width: 1px">
+            0
+        </div>
+    </section>
+
+    
+<div class="dimensional-ratings">
+    
+
+<div class="dimensional-rating">
+    
+    <span class="label">ease</span>
+    <span title="1 of 5" class="rating box">1 of 5</span>
+    <span title="2 of 5" class="rating box">2 of 5</span>
+    <span title="3 of 5" class="rating box">3 of 5</span>
+    <span title="4 of 5" class="rating box">4 of 5</span>
+    <span title="5 of 5" class="rating box">5 of 5</span>
+    <span class="rating-score">
+        <span class="dim-rate">5</span> / 5
+    </span>
+</div>
+
+    
+
+<div class="dimensional-rating">
+    
+    <span class="label">features</span>
+    <span title="1 of 5" class="rating box">1 of 5</span>
+    <span title="2 of 5" class="rating box">2 of 5</span>
+    <span title="3 of 5" class="rating box">3 of 5</span>
+    <span title="4 of 5" class="rating box">4 of 5</span>
+    <span title="5 of 5" class="rating box">5 of 5</span>
+    <span class="rating-score">
+        <span class="dim-rate">5</span> / 5
+    </span>
+</div>
+
+    
+
+<div class="dimensional-rating">
+    
+    <span class="label">design</span>
+    <span title="1 of 5" class="rating box">1 of 5</span>
+    <span title="2 of 5" class="rating box">2 of 5</span>
+    <span title="3 of 5" class="rating box">3 of 5</span>
+    <span title="4 of 5" class="rating box">4 of 5</span>
+    <span title="5 of 5" class="rating box">5 of 5</span>
+    <span class="rating-score">
+        <span class="dim-rate">5</span> / 5
+    </span>
+</div>
+
+    
+
+<div class="dimensional-rating">
+    
+    <span class="label">support</span>
+    <span title="1 of 5" class="rating box">1 of 5</span>
+    <span title="2 of 5" class="rating box">2 of 5</span>
+    <span title="3 of 5" class="rating box">3 of 5</span>
+    <span title="4 of 5" class="rating box">4 of 5</span>
+    <span title="5 of 5" class="rating box">5 of 5</span>
+    <span class="rating-score">
+        <span class="dim-rate">5</span> / 5
+    </span>
+</div>
+
+</div>
+
+
+
+</section>
+
+        <section id="reviews-n-ratings">
+            <header>
+                <a class="pspbtn" href="/projects/virtualt/reviews/new">Write a Review</a>
+                <h2>User Reviews</h2>
+            </header>
+            <div class="sorts-n-filters">
+                <div class="drop-down-menu">
+                    <div class="sort-options">
+                        <span>Filter</span>
+                        <div class="sort-drop-down">
+                            <a href="#">All</a>
+                        </div>
+                        <ul>
+                            <li><a href="/projects/virtualt/?stars=0#reviews-n-ratings" title="Show All" class=" active">All</a></li>
+                            <li><a href="/projects/virtualt/?stars=5#reviews-n-ratings" title="Show 5 Stars" class=" star-text">&#9733;&#9733;&#9733;&#9733;&#9733;</a></li>
+                            <li><a href="/projects/virtualt/?stars=4#reviews-n-ratings" title="Show 4 Stars" class=" star-text">&#9733;&#9733;&#9733;&#9733;</a></li>
+                            <li><a href="/projects/virtualt/?stars=3#reviews-n-ratings" title="Show 3 Stars" class=" star-text">&#9733;&#9733;&#9733;</a></li>
+                            <li><a href="/projects/virtualt/?stars=2#reviews-n-ratings" title="Show 2 Stars" class=" star-text">&#9733;&#9733;</a></li>
+                            <li><a href="/projects/virtualt/?stars=1#reviews-n-ratings" title="Show 1 Star" class=" star-text">&#9733;</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <section class="content">
+                    <ul id="project-reviews" class="reviews" itemprop="reviews">
+                            <li>
+
+
+<article class="review reviewed" data-helpful-count="0">
+    <footer>
+        <span class="author-name">duane1965</span>
+    </footer>
+    
+
+
+<div class="review-rating">
+
+<span title="1 of 5" class="rating star">1 of 5</span>
+
+<span title="2 of 5" class="rating star">2 of 5</span>
+
+<span title="3 of 5" class="rating star">3 of 5</span>
+
+<span title="4 of 5" class="rating star">4 of 5</span>
+
+<span title="5 of 5" class="rating star">5 of 5</span>
+
+</div>
+
+    <p class="review-txt ">
+        Thank You for the VIRTUAL T software. I have a TRS 80 Model 100. I was trying to find a 3.5 floppy drive and a TANDY printer on EBAY for my TRS 80 Model 100. But I found this software and I can use it to save my files that I type. This emulator alsocan be used with my printer to print out BASIC code that I type. I can use my printer with VIRTUAL T print a hard copyprint out for me to read. Thank You so much for this software. I am just learning how to use it on my Sony laptop computer runnning Windows 7. I have a HP printer that works perfectly with VIRTUAL T. Thank You so much and I appreciate the hard work in writing the code for VIRTUAL T. Respectfully, Duane Calvillo - Nov. 15, 2113.
+    </p>
+    <div class="meta">
+        <span class="created-date">Posted 11/16/2013</span>
+    </div>
+</article>
+
+</li>
+                            <li>
+
+
+<article class="review reviewed" data-helpful-count="0">
+    <footer>
+        <span class="author-name">maxcox</span>
+    </footer>
+    
+
+
+<div class="review-rating">
+
+<span title="1 of 5" class="rating star">1 of 5</span>
+
+<span title="2 of 5" class="rating star">2 of 5</span>
+
+<span title="3 of 5" class="rating star">3 of 5</span>
+
+<span title="4 of 5" class="rating star">4 of 5</span>
+
+<span title="5 of 5" class="rating star">5 of 5</span>
+
+</div>
+
+    <p class="review-txt ">
+        virtualt is fast and easy to use
+    </p>
+    <div class="meta">
+        <span class="created-date">Posted 10/30/2012</span>
+    </div>
+</article>
+
+</li>
+                    </ul>
+                    <a class="pspbtn" href="/projects/virtualt/reviews/?sort=created_date&amp;stars=0#reviews-n-ratings">Read more reviews</a>
+            </section>
+        </section>
+
+        <section id="project-additional-trove">
+            <header>
+                <h2>Additional Project Details</h2>
+            </header>
+            <div class="project-container">
+                
+
+                
+
+                
+
+                
+
+                <section class="project-info">
+                    <header>
+                        <h4>Registered</h4>
+                    </header>
+                    <section class="content">
+                        2004-07-29
+                    </section>
+                </section>
+            </div>
+        </section>
+        <section class="ads text">
+            
+
+
+    
+    <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              var wrapAd = false;
+                wrapAd = true;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                var scriptHtml = '<script type="text/javascript" src="http://ad.doubleclick.net/N4140/adj/ostg.sourceforge/cons_none_p71_text;pg=%2Fprojects;psrch=0;logged_in=0;tpc=virtualt;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fvirtualt%2F;tile=3;sz=1x1;u=e%3Abe2ba3ec-9e75-11e3-883a-0200ac1d1d8b;ord=9264632423194158?"></' + 'script>';
+                if (wrapAd){
+                    document.write('<div id="p71_text" class="ad text">' + scriptHtml + '</div>');
+                }
+                else
+                {
+                    document.write(scriptHtml);
+                }
+              }
+            })();
+       </script>
+            
+
+
+    
+    <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              var wrapAd = false;
+                wrapAd = true;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                var scriptHtml = '<script type="text/javascript" src="http://ad.doubleclick.net/N4140/adj/ostg.sourceforge/cons_none_p72_text;pg=%2Fprojects;psrch=0;logged_in=0;tpc=virtualt;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fvirtualt%2F;tile=4;sz=1x1;u=e%3Abe2ba3ec-9e75-11e3-883a-0200ac1d1d8b;ord=9264632423194158?"></' + 'script>';
+                if (wrapAd){
+                    document.write('<div id="p72_text" class="ad text">' + scriptHtml + '</div>');
+                }
+                else
+                {
+                    document.write(scriptHtml);
+                }
+              }
+            })();
+       </script>
+        </section>
+    </section>
+
+    <section id="sidebar">
+        <section class="ads">
+            
+
+
+    
+    
+    <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              var wrapAd = false;
+                wrapAd = true;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                var scriptHtml = '<script type="text/javascript" src="http://ad.doubleclick.net/N4140/adj/ostg.sourceforge/cons_none_p83_medrec;pg=%2Fprojects;psrch=0;logged_in=0;tpc=virtualt;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fvirtualt%2F;tile=5;sz=300x250,300x600;u=e%3Abe2ba3ec-9e75-11e3-883a-0200ac1d1d8b;ord=9264632423194158?"></' + 'script>';
+                if (wrapAd){
+                    document.write('<div id="p83_medrec" class="ad multisize">' + scriptHtml + '</div>');
+                }
+                else
+                {
+                    document.write(scriptHtml);
+                }
+              }
+            })();
+       </script>
+            
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_none_p84_medrec;pg=%2Fprojects;psrch=0;logged_in=0;tpc=virtualt;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fvirtualt%2F;tile=6;sz=300x250;u=e%3Abe2ba3ec-9e75-11e3-883a-0200ac1d1d8b;ord=9264632423194158?" width="300" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+        </section>
+        
+<aside class="sidebar-widget">
+	<header>
+        <h3>Recommended Projects</h3>
+	</header>
+    <ul>
+    
+        <li class="item odd">
+            <a href="/projects/dosbox/?source=recommended" title="DOSBox DOS Emulator"><img alt="Icon" src="//c.fsdn.com/allura/p/dosbox/icon" /></a>
+            <a href="/projects/dosbox/?source=recommended" title="Learn more about DOSBox DOS Emulator ">DOSBox DOS Emulator</a>
+        </li>
+    
+        <li class="item even">
+            <a href="/projects/sdltrs/?source=recommended" title="sdltrs"><img alt="Icon" src="//c.fsdn.com/con/img/project_default.png" /></a>
+            <a href="/projects/sdltrs/?source=recommended" title="Learn more about sdltrs ">sdltrs</a>
+        </li>
+    
+        <li class="item odd last">
+            <a href="/projects/z88/?source=recommended" title="Cambridge Z88 Development"><img alt="Icon" src="//c.fsdn.com/allura/p/z88/icon" /></a>
+            <a href="/projects/z88/?source=recommended" title="Learn more about Cambridge Z88 Development ">Cambridge Z88 Development</a>
+        </li>
+    
+    </ul>
+</aside>
+
+        
+<aside class="sidebar-widget jobs-widget">
+    <header>
+        <h3>
+            <span>
+                Powered by
+                <a href="http://www.dice.com/?CMPID=AF_SF_UP_JS_AV_OG_BN_&amp;utm_source=SourceForge&amp;utm_medium=Affiliate&amp;utm_content=&amp;utm_campaign=Advocacy_Ongoing"> <img src="http://a.fsdn.com/con/img/jobs/dice_logo.png" alt="Dice Logo" class="dice-logo"> </a>
+            </span>
+            Latest Tech Jobs
+        </h3>
+    </header>
+    <section>
+        <form action="/jobs/" method="get" id="job-search">
+            <input type="hidden" name="source" value="widget">
+            <input type="text" name="text" placeholder="Senior Java Developer (Job Title)" id="job-title" value="">
+            <input type="submit" name="submit" value="Find" id="job-search-button">
+        </form>
+    </section>
+    <ul id="job-listing">
+        <li class="item odd">
+            <span class="job-link"><a href="/jobs?source=widget">Loading...</a></span>
+            <span class="job-details">The latest tech jobs.</span>
+        </li>
+   </ul>
+   <section class="all-jobs" style="border: none;">
+        <a href="/jobs?source=widget">See All Jobs &rsaquo;&rsaquo;</a>
+    </section>
+</aside>
+
+<script type="text/javascript">
+    /*global Handlebars*/
+    jQuery(function($) {
+        var source = $('#jobwidget-template').html();
+        var template = Handlebars.compile(source);
+
+        Handlebars.registerHelper('stripe', function(array, display_count, random, fn) {
+            var buffer = "";
+            var max_iterations = Math.min(array.length,display_count);
+            for (var i = 0, len = array.length; i < max_iterations; i++) {
+                var item = null;
+                if (random === true) {
+                    var ri = Math.floor((Math.random()*array.length)+1);
+                    item = array[ri];
+                } else {
+                    item = array[i];
+                }
+                if (item) {
+                    item.css_class = (i % 2 === 0 ? 'even' : 'odd');
+                }
+                buffer += fn.fn(item);
+            }
+            return buffer;
+        });
+
+        function load_jobBoard() {
+            $.ajax({
+                url:'/jobs/json',
+                success: function(data) {
+                    $('#job-listing').html(template(data));
+                },
+                dataType: 'json'
+            });
+        }
+        load_jobBoard();
+    });
+</script>
+
+<script type="text/x-handlebars-template" id="jobwidget-template">
+    
+    {{#stripe data.jobs 5 true}}
+    <li class="item {{css_class}}">
+    <span class="job-link"><a href="{{ this.url }}">{{ this.title }}</a></span>
+        <span class="job-details">{{ this.company}} - {{ this.location}}</span>
+    </li>
+    {{/stripe}}
+    
+</script>
+
+        <section class="ads">
+            
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_none_p85_medrec;pg=%2Fprojects;psrch=0;logged_in=0;tpc=virtualt;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fvirtualt%2F;tile=7;sz=300x250;u=e%3Abe2ba3ec-9e75-11e3-883a-0200ac1d1d8b;ord=9264632423194158?" width="300" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+        </section>
+        
+        
+
+<aside class="sidebar-widget project-activity-widget" id="project-activity"></aside>
+
+<script type="text/x-handlebars-template" id="project-activity-template">
+    
+    <header>
+        <h3>
+            Project Activity
+            <a id="follow-action" href="{{followee.activity_url}}activity/follow" title="{{followee.activity_name}}"{{#if following}} class="active"{{/if}}>
+                <b data-icon="S" class="ico ico-star"></b>
+            </a>
+            <a href="{{followee.activity_url}}activity/feed" title="RSS"><b data-icon="f" class="ico ico-feed"></b></a>
+        </h3>
+    </header>
+    <ul>
+        {{#stripe timeline 5 false}}
+        <li class="item {{css_class}}">
+            <h4>
+                {{#ifTagged "release"}}
+                  {{ cap this.verb }}
+                {{else}}
+                  {{ icon this.actor.activity_extras.icon_url }}
+                  {{ activity_obj this.actor }}
+                  {{ this.verb }}
+                {{/ifTagged}}
+                {{ activity_obj this.obj }}
+                {{#if this.target.activity_name}} on {{ activity_obj this.target }}{{/if}}
+            </h4>
+            {{#if this.obj.activity_extras.summary}}
+              <p>{{ this.obj.activity_extras.summary }}</p>
+            {{/if}}
+            <time datetime="{{ this.published }}" title="{{ this.published }}">{{ ago this.published }}</time>
+        </li>
+        {{/stripe}}
+    </ul>
+    <a class="all-activities" href="{{followee.activity_url}}activity">See All Activities &rsaquo;&rsaquo;</a>
+    
+</script>
+
+        <a id="report-inappropriate" href="/projects/virtualt/report_inappropriate">Report inappropriate content</a>
+    </section>
+</article>
+        </div>
+
+        
+
+          
+<footer id="site-footer">
+    <div class="wrapper">
+        <nav>
+            <h5>SourceForge</h5>
+            <a href="/about">About</a>
+            <a href="/blog/category/sitestatus/">Site Status</a>
+            <a href="http://twitter.com/sfnet_ops">@sfnet_ops</a>
+            
+
+        </nav>
+        <nav>
+            <h5>Find and Develop Software</h5>
+            <a href="/create/">Create a Project</a>
+            <a href="/directory/">Software Directory</a>
+            <a href="/top">Top Downloaded Projects</a>
+        </nav>
+        <nav>
+            <h5>Community</h5>
+            <a href="/blog/">Blog</a>
+            <a href="http://twitter.com/sourceforge">@sourceforge</a>
+            <a href="/jobs?source=footer">Job Board</a>
+            <a href="http://library.slashdotmedia.com/?source=sfnet_footer">Resources</a>
+        </nav>
+        <nav>
+            <h5>Help</h5>
+            <a href="http://p.sf.net/sourceforge/docs">Site Documentation</a>
+            <a href="/support">Support Request</a>
+            <a href="http://p.sf.net/sourceforge/irc">Real-Time Support</a>
+        </nav>
+    </div>
+</footer>
+<footer id="site-copyright-footer">
+    <div class="wrapper">
+        <div id="copyright">
+            Copyright &copy; 2014 Dice. All Rights Reserved.<br />
+            SourceForge is a <a href="http://www.diceholdingsinc.com/phoenix.zhtml?c=211152&amp;p=irol-landing">Dice Holdings, Inc.</a> service.
+        </div>
+        <nav>
+            <a href="http://slashdotmedia.com/terms-of-use/">Terms</a>
+            <a href="http://slashdotmedia.com/privacy-statement/">Privacy</a>
+            <span id='teconsent'></span>
+            <a href="http://slashdotmedia.com/opt-out-choices/">Opt Out Choices</a>
+
+
+            <a href="http://slashdotmedia.com">Advertise</a>
+            <a href="http://sourceforge.jp/">SourceForge.JP</a>
+            <a href="http://ibmsmarteritservices.sourceforge.net/">Smarter IT</a>
+        </nav>
+    </div>
+</footer>
+            <script src="http://a.fsdn.com/con/js/min/sf.js?1393354590" type="text/javascript"></script>
+        
+        <!-- Begin comScore Tag -->
+        <script src="http://b.scorecardresearch.com/beacon.js"></script>
+        <script type="text/javascript">
+            if (window.COMSCORE) {
+                COMSCORE.beacon({
+                    c1: 2,
+                    c2: 6035546,
+                    c3: "",
+                    c4: "",
+                    c5: "",
+                    c6: "",
+                    c15: ""
+                });
+            }
+        </script>
+        <noscript>
+            <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035546&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="comScore2" />
+        </noscript>
+        <!-- End comScore Tag -->
+
+<div id="screenshots-callout-content" class="callout">
+    <a href="/p/virtualt/admin/screenshots">Screenshots can attract more users to your project.</a>
+</div>
+<div id="features-callout-content" class="callout">
+    <a href="/projects/virtualt/edit">Features can attract more users to your project.</a>
+</div>
+<script src="http://a.fsdn.com/con/js/callouts.js?1393354590"></script>
+
+<div id="icon-dialog" title="Change the project icon">
+    <form action="/projects/virtualt/update" method="post" enctype="multipart/form-data">
+        <input type="hidden" name="_visit_cookie" value=""/>
+        <label for="icon">Upload a new icon</label>
+        <div class="field">
+            <input name="icon" id="icon" class="file" type="file"/>
+        </div>
+        <p class="help">Icons must be PNG, GIF, or JPEG and less than 1 MiB in size.  They will be displayed as 48x48 images.</p>
+    </form>
+</div>
+        <script type="text/javascript" src='//consent-st.truste.com/get?name=notice.js&domain=slashdot.org&c=teconsent&text=true'></script>
+<!--behavior='-->
+      </body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.vavasour.ca/jeff/trs80.html>====================
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage Express 2.0">
+<title>Jeff Vavasour's TRS-80 EMULATION Page</title>
+</head>
+
+<body background="trs80.gif" bgcolor="#000000" text="#FFFFFF"
+link="#FFFF00" vlink="#00FF00" alink="#FFFFFF">
+
+<p align="center"><font color="#00FF00" size="5"><strong>Jeff
+Vavasour's TRS-80 EMULATION Page<br>
+</strong></font><font color="#00FF00" size="2"><strong>Return to</strong></font><font
+size="2"> </font><a href="http://www.vavasour.ca"><font size="2">the
+Vavasour family web site</font></a><font size="2"> : </font><a
+href="index.html"><font size="2">Jeff's home page</font></a><br>
+</p>
+<div align="center"><center>
+
+<table border="1" cellpadding="10" cellspacing="1"
+bgcolor="#800000">
+    <tr>
+        <td align="center" nowrap><a href="#simulator"><strong>Level
+        I BASIC in a browser</strong></a><br>
+        <a href="#simulator"><img src="images/simulator.gif"
+        border="0" width="200" height="125"></a><br>
+        <a href="level1/simulator.html"><strong>Run it now</strong></a><strong>
+        | </strong><a href="level1/library.html"><strong>Software</strong></a><strong>
+        </strong>| <a href="#simulator">Info</a></td>
+        <td align="center" nowrap><a href="#model1"><strong>TRS-80
+        Model I</strong></a><strong><br>
+        </strong><a href="#model1"><img src="images/model1.gif"
+        border="0" width="200" height="125"></a><br>
+        <a href="download/model1-g.zip"><strong>Download now</strong></a>
+        | <a href="#model1">Info</a></td>
+        <td align="center" nowrap><a href="#model4"><strong>TRS-80
+        Model III/4</strong></a><strong><br>
+        </strong><a href="#model4"><img src="images/model4.gif"
+        border="0" width="188" height="125"></a><br>
+        <a href="#model4">Info</a></td>
+    </tr>
+    <tr>
+        <td align="center" nowrap><a href="#coco2"><strong>TRS-80
+        CoCo 2</strong></a><strong><br>
+        </strong><a href="#coco2"><img src="images/coco2.gif"
+        border="0" width="200" height="125"></a><br>
+        <a href="download/coco2-16.zip"><strong>Download now</strong></a>
+        | <a href="#coco2">Info</a></td>
+        <td align="center" nowrap><a href="#coco3"><strong>TRS-80
+        CoCo 3</strong></a><strong><br>
+        </strong><a href="#coco3"><strong><img
+        src="images/coco3.gif" border="0" width="200"
+        height="125"></strong></a><strong><br>
+        </strong><a href="download/coco3.zip"><strong>Download
+        now</strong></a> | <a href="#coco3">Info</a></td>
+        <td align="center" nowrap><a href="#ts1000"><strong>Timex/Sinclair
+        1000</strong> <strong>in a browser</strong></a><br>
+        <a href="#ts1000"><img src="images/ts1000.gif" border="0"
+        width="200" height="125"></a><br>
+        <a href="ts1000/index.html"><strong>Run it now</strong></a><strong>
+        | </strong><a href="ts1000/library.html"><strong>Software</strong></a>
+        | <a href="#ts1000">Info</a></td>
+    </tr>
+    <tr>
+        <td align="center" nowrap><a href="general.html">General
+        History of Jeff's Emulators</a></td>
+        <td align="center" nowrap><a href="#roms">About ROMs</a></td>
+        <td align="center" nowrap><a href="#links">Links</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="mice.html">The M.I.C.E.
+        Project:</a><br>
+        <font size="2">The World's <strong>M</strong>ost <strong>I</strong>ll-<strong>C</strong>onceived
+        <strong>E</strong>mulator</font></td>
+        <td align="center" colspan="2">Send email to <a
+        href="http://www.vavasour.ca/#jeff">Jeff Vavasour</a>.</td>
+    </tr>
+</table>
+</center></div>
+
+<p align="center">Except for the <a href="ts1000/index.html">Online
+T/S 1000</a> and <a href="#simulator">BASIC in a browser</a>, all
+emulators shown here are for use with MS-DOS.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="simulator"><font color="#C0C0FF" size="4"><strong><u>TRS-80
+Level I BASIC in a browser (Java)</u></strong></font></a></p>
+
+<table border="0">
+    <tr>
+        <td valign="top" width="200"><a
+        href="level1/simulator.html"><img
+        src="screens/simulator.gif" border="0" width="200"
+        height="125"></a><p><a href="level1/simulator.html"><strong>Go
+        directly to the TRS-80 Level I BASIC Simulator now</strong></a></p>
+        <p><a href="level1/library.html">Browse the <strong>Software
+        Library </strong>of ready-to-run programs for the
+        Simulator</a></p>
+        <p><a href="level1/help.html">Read more about the
+        Simulator on thte Help Page</a></p>
+        <p><a href="download/l1.zip">Download an older MS-DOS
+        version of Level I BASIC</a> <font size="2">(this version
+        does <strong>not</strong> include </font><a
+        href="level1/help.html#additional"><font size="2">enhancements</font></a><font
+        size="2"> of the browser version)</font></p>
+        </td>
+        <td valign="top" width="30">&nbsp;</td>
+        <td valign="top">If your browser supports Java, you'll be
+        able to write a BASIC program directly in your browser!
+        This is an adaptation of my <a href="download/l1.zip">earlier</a>
+        TRS-80 Level I BASIC Simulator into Java. This <a
+        href="level1/simulator.html">Java version</a> (in theory)
+        will run on any computer in any browser that supports
+        Java and JavaScript. As it is not an emulator, but rather
+        a recreation, I took the opportunity to add a couple <a
+        href="level1/help.html#additional">additional features</a>
+        including <a href="level1/help.html#colour">colour
+        support</a>.<p>I did this project for several reasons.
+        Computers these days have made programming inaccessible
+        to the average person. I wanted to reclaim the &quot;old
+        ways&quot; a bit, where a person could tinker, learn and
+        share what they've found. I chose a simple BASIC like
+        Level I BASIC because I wanted something easy for people
+        to learn. </p>
+        <p>Also, I've put up a <a href="level1/library.html">Software
+        Library</a> page. To start out, I've put three programs
+        there, but I invite everyone to try out this new BASIC
+        and <a href="level1/submit.html">submit</a> their own
+        programs written in this browser-based <a
+        href="level1/simulator.html">Level I BASIC Simulator</a>.
+        If you choose to submit something, your program will be
+        added to the library page (after it has been reviewed) so
+        that they can be shared with others. This <a
+        href="level1/library.html">Software Library</a> has the
+        same philosophy as the 80's computer hobbiest magazines
+        like <em>SoftSide</em>, <em>80 Micro</em>, etc.</p>
+        <p>I did this project as an experiment. I like to stay up
+        to date on current technology, and hadn't really had the
+        chance to explore Java or JavaScript in depth yet. (To be
+        honest, my initial impressions weren't good, but I
+        thought I'd do a real project before judging too
+        hastily.) Internally, this simulator was written pretty
+        oddly. I wrote QuickBASIC-based tools to auto-translate
+        my <a href="download/l1.zip">MS-DOS-based version</a>
+        into C which was then brought over to Java as a starting
+        point. This is the initial release, so there may be bugs.
+        In fact, it may not work at all in some browsers or on
+        some computers. To that end, if you are having problems,
+        check out the <a href="level1/help.html#bugs">reporting a
+        bug</a> section of the <a href="level1/help.html">Simulator's
+        help file</a>.</p>
+        </td>
+    </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p><a name="model1"><font color="#C0C0FF" size="4"><strong><u>TRS-80
+Model I Emulator (freeware)</u></strong></font></a></p>
+
+<table border="0">
+    <tr>
+        <td valign="top" width="200"><a
+        href="download/model1-g.zip"><img
+        src="screens/model1.gif" border="0" width="200"
+        height="125"></a><p><a href="download/model1-g.zip"><strong>Download
+        the complete TRS-80 Model I Emulator Version 3.02u</strong></a></p>
+        <p><a href="download/model1s.zip">Supplement package only</a>
+        <font size="2">(for users who've already installed an
+        older version 3.x)</font></p>
+        <p><a href="download/model1s.txt">Documentation on the
+        supplement package</a></p>
+        <p><a href="download/m1source.zip"><font color="#8080FF"
+        size="2">Source code for TRS-80 Model I Emulator Version
+        3.02u</font></a></p>
+        </td>
+        <td valign="top" width="30">&nbsp;</td>
+        <td valign="top">The TRS-80 Model I was the first
+        computer I attempted to emulate back in December of 1989.
+        The emulator evolved between then and 1997, ultimately
+        arriving at the state you find <a
+        href="download/model1-g.zip">here</a>. The Model I
+        Emulator was, for a time, a shareware product; however,
+        the registered version has been discontinued and the
+        unregistered <a href="download/model1-g.zip">Version
+        3.02u</a> is all that remains. Out of respect to those
+        that have paid for the registered version, I will not be
+        releasing the final registered version (Version 3.01r) or
+        its source code for distribution.<p>The emulator
+        simulates a 48K TRS-80 Model I with 4 disk drives,
+        printer, RS-232 board, and cassette drive.</p>
+        <p><strong>UPDATE </strong><a
+        href="download/model1-g.zip">Release G</a> includes the
+        following new features:</p>
+        <ul>
+            <li>Optionally run the emulator on modern PCs at the
+                same speed as the original Model I regardless of
+                the speed of your computer.</li>
+            <li>Optionally disable the RS-232 emulation, which
+                caused occasional lockups on some computers.</li>
+            <li>Improved Windows XP support over Release F when
+                running at original TRS-80 speed.</li>
+        </ul>
+        <p>Full details on the upgrade can be found <a
+        href="download/model1s.txt">here</a>. </p>
+        <p><strong>Previous users (including registered version):</strong>
+        If you are a user of a previous version of my Model I
+        Emulator, you need only download the <a
+        href="download/model1s.zip">supplement package</a> and
+        unzip it to the directory containing your copy of the
+        Model I Emulator.</p>
+        <p>For the curious, if you have a working knowledge of
+        16-bit Intel assembly, the source code for the <a
+        href="download/model1-g.zip">TRS-80 Model I Emulator
+        version 3.02u</a> and the <a href="download/model1s.zip">supplement
+        package</a> is now available for download <a
+        href="download/m1source.zip">here</a>.</p>
+        <p>Note: this is an unsupported product.</p>
+        </td>
+    </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p><a name="model4"><font color="#C0C0FF" size="4"><strong><u>TRS-80
+Model III/4 Emulator (commercial)</u></strong></font></a></p>
+
+<table border="0">
+    <tr>
+        <td valign="top" width="200"><img
+        src="screens/model4.gif" width="200" height="125"><p><a
+        href="download/model4.pdf">TRS-80 Model III/4 Emulator
+        Manual</a> in <a
+        href="http://www.adobe.com/products/acrobat/readermain.html">PDF
+        format</a> (or view the <a href="download/model4.txt">text
+        version</a>)</p>
+        <p><a href="download/model4.zip"><strong>Download Virtual
+        Disk Utilities</strong></a> to read TRS-80 disks for use
+        in emulators</p>
+        <p><a href="download/m4addend.txt">ADDENDUM to TRS-80
+        Model III/4 Emulator Manual, Version 2.4</a></p>
+        <p><a href="model4.html">View screen shots of the Model
+        III/4 Emulator</a></p>
+        </td>
+        <td valign="top" width="30">&nbsp;</td>
+        <td valign="top">My TRS-80 Model III/4 Emulator was a
+        commercial product distributed by <a
+        href="http://cn80.blogspot.com/">Computer News 80</a>
+        from 1993 to 2009. Sadly, with the passing of <em>Computer
+        News 80</em>'s proprieter, Stan Slater, in August of
+        2009, <em>Computer News 80</em> has ceased operation. My
+        TRS-80 Model III/4 Emulator was an MS-DOS based product,
+        a platform that, in itself, is also obsolete. Likewise,
+        the hardware needed to access TRS-80 disks (at least, the
+        5 <sup>1</sup>/<sub>4</sub>&quot; variants) is becoming
+        scarce, as well. Technical support becomes more
+        difficult.<p>Out of respect for those that purchased the
+        emulator, I will not presently be making the program
+        available for download. For those needing a TRS-80 Model
+        III/4 Emulator, there are a number of other emulator
+        solutions that have appeared in more recent years, some
+        of which are suited to modern operating systems. <a
+        href="http://www.trs-80.com">Ira Goldklang's TRS-80
+        Revived Pages</a> is a good resource for those interested
+        in TRS-80 emulation.</p>
+        <p>If you'd like more information on the features and
+        functionality of this emulator, you can read <a
+        href="download/model4.pdf">the documentation</a>. </p>
+        <p>The emulator's <a href="download/model4.zip">virtual
+        disk utilities</a> may be of use with the various TRS-80
+        emulators out there. These utilities will allow a
+        properly-equipped PC to convert TRS-80 floppies into the
+        virtual disk format used by the emulator, and back. See
+        Section 2.1 within the <a href="download/model4.pdf">manual</a>
+        for details on how to use these utilities.</p>
+        <p><strong>BUG FIX: </strong>It has been reported that
+        some newer generation video cards show improper colours
+        when the emulator is put into CGA mode and the monitor
+        colour is set to green. If you are experiencing this
+        problem, download <a href="download/green.exe">this patch
+        program</a>, save it in the directory with the emulator,
+        and type &quot;GREEN MODEL3.EXE&quot; or &quot;GREEN
+        MODEL4.EXE&quot; to patch the appropriate emulator.
+        (Thanks to Mark Fishman for testing this solution.)</p>
+        <p>Note: this is an unsupported product.</p>
+        </td>
+    </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p><a name="coco2"><font color="#C0C0FF" size="4"><strong><u>TRS-80
+Colour Computer 2 Emulator (freeware)</u></strong></font></a></p>
+
+<table border="0">
+    <tr>
+        <td valign="top" width="200"><a
+        href="download/coco2-16.zip"><img src="screens/coco2.gif"
+        border="0" width="200" height="125"></a><p><a
+        href="download/coco2-16.zip"><strong>Download the CoCo 2
+        Emulator version 1.6</strong></a></p>
+        <p><a href="download/rdver13.zip">Download older version
+        1.3 release of RETRIEVE and DSKINI</a></p>
+        <p><a href="download/ccsource.zip"><font color="#8080FF"
+        size="2">Source code for CoCo 2 Emulator version 1.6 and
+        RETRIEVE/DSKINI version 1.3</font></a></p>
+        </td>
+        <td valign="top" width="30">&nbsp;</td>
+        <td valign="top">My TRS-80 Colour Computer 2 Emulator
+        will run original CoCo as well as CoCo 2 software. As
+        with all the emulators here, the system requirements are
+        very modest by modern standards (16MHz 286 or better,
+        256K RAM, EGA or better graphics). <em>Some</em> modern
+        3D video cards have dropped support for EGA graphics, so
+        there may be compatibility problems.<p><font size="3"><strong>UPDATE:
+        </strong></font><a href="download/coco2-16.zip"><font
+        size="3"><strong>Version 1.6</strong></font></a><font
+        size="3"><strong> new features include:</strong></font></p>
+        <ul>
+            <li><font size="3">Set the emulator to run at the
+                CoCo's original speed regardless of the speed of
+                your PC using the new &quot;Original Speed&quot;
+                option under the F6 Options Menu.</font></li>
+            <li><font size="3">Improved Windows compatibility; no
+                more MS-DOS mode warnings.</font></li>
+            <li><font size="3">CASOUT can now convert virtual
+                cassette files to .WAV files instead of just
+                outputting straight to your SoundBlaster. (Good
+                for non-standard audio cards and fast computers
+                which have problems with CASOUT.)</font></li>
+            <li><font size="3">Horizontal sync interrupt now
+                supported.</font></li>
+        </ul>
+        <p>Also available: <a href="download/rdver13.zip">Older
+        version 1.3 releases</a> of RETRIEVE and DSKINI for those
+        having trouble with the ones that are in the version 1.6
+        package.</p>
+        <p>It's been noted on <a href="news:bit.listserv.coco">bit.listserv.coco</a>
+        that RETRIEVE and DSKINI may not work with 360K 5
+        1/4&quot; drives unless you set your PC's BIOS to
+        (mis-)identify the drive as a 720K 3 1/2&quot; drive
+        instead. If you are having difficulty with both versions
+        of RETRIEVE/DSKINI, this is another option to try.
+        Consult your PC's motherboard manual for details on BIOS
+        configuration.</p>
+        <p>For the curious, if you have a working knowledge of
+        16-bit Intel assembly, the <a
+        href="download/ccsource.zip">source code</a> for the <a
+        href="download/coco2-16.zip"><font size="3">CoCo 2
+        Emulator version 1.6</font></a><font size="3"> as well as
+        the<strong> </strong></font><a
+        href="download/rdver13.zip">version 1.3 releases of
+        RETRIEVE and DSKINI</a> can now be downloaded <a
+        href="download/ccsource.zip">here</a>.</p>
+        <p>Note: this is an unsupported product.</p>
+        </td>
+    </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p><a name="coco3"><font color="#C0C0FF" size="4"><strong><u>TRS-80
+Colour Computer 3 Emulator (released to freeware)</u></strong></font></a></p>
+
+<table border="0">
+    <tr>
+        <td valign="top" width="200"><img src="screens/coco3.gif"
+        width="200" height="125"><p><a href="download/coco3.zip"><strong>Download
+        version 1.6B of the CoCo 3 Emulator</strong></a></p>
+        <p><a href="download/external.zip">Download MS-DOS file
+        enhancements and extended error messages for CoCo 3 BASIC
+        (see readme.txt within)</a></p>
+        <p><a href="download/rdver13.zip">Download the older
+        version 1.3 release of RETRIEVE and DSKINI</a></p>
+        <p><a href="download/c3source.zip"><font color="#8080FF"
+        size="2">Source code for CoCo 3 Emulator Version 1.6B
+        plus the beta Version 1.7</font></a></p>
+        </td>
+        <td valign="top" width="30">&nbsp;</td>
+        <td valign="top">My TRS-80 CoCo 3 Emulator was in
+        distribution as shareware from 1994 to the end of 2001.
+        (From 1997 to 2001, the CoCo 3 Emulator was distributed
+        by Rick's Computer Enterprises.) The emulator was
+        designed to work with MS-DOS, and will still work with
+        most versions of Windows which support an MS-DOS Mode. It
+        does also work within Windows, but would run slowly. As
+        newer versions of Windows such as XP and 2000 no longer
+        support MS-DOS Mode, support for the emulator is becoming
+        more difficult. So, I've decided to discontinue the CoCo
+        3 Emulator as a shareware product, and instead make <a
+        href="download/coco3.zip">this Version 1.6B</a> available
+        as freeware, as well as its <a
+        href="download/c3source.zip">source code</a>. (The
+        emulator was written in 16-bit Intel assembly language.)
+        It's my hope that by making the source accessible, it
+        will help speed along development of the newer generation
+        of emulators which work with operating systems mine does
+        not (e.g. Windows XP, Mac OS X, etc.), thereby keeping to
+        CoCo alive.<p>Generally speaking, this emulator was
+        fairly robust with CoCo BASIC and OS-9 as well as many
+        machine language programs for the CoCo 3. It did,
+        however, suffer great performance problems with games
+        that made aggressive use of the CoCo 3's custom GIME
+        graphics chip's more advanced features (including page
+        flipping and mid-screen mode changes). For OS-9 users, a
+        custom-designed boot ROM file was included so that one
+        could boot OS-9 without the need to transfer the CoCo's
+        ROM to your PC. It also included a virtual hard drive and
+        real time clock drivers for OS-9.</p>
+        <p>Optimal system requirements for the CoCo 3 Emulator
+        are VGA compatibility, 429K of low DOS memory free and
+        384K of free EMS. (Use the MS-DOS &quot;MEM&quot; command
+        to check your available memory.) A SoundBlaster on port
+        220H is also needed for SoundBlaster-based sound. With an
+        additional 1.5MB of EMS memory, you can run the emulator
+        as a 2MB CoCo 3. (To use the 2MB mode requires OS-9 and
+        special 3rd party drivers that were sold separately from
+        OS-9. If you are not familiar with the 2MB OS-9 setup, do
+        not enable the 2MB mode in the emulator. OS-9 will not
+        work on a 2MB CoCo without the appropriate drivers.) If
+        EMS is unavailable, the emulator will work as a 128K CoCo
+        3.</p>
+        <p>I'd like to thank those that registered the CoCo 3
+        Emulator with me over the years, and a particular thanks
+        to Rick Cooper of Rick's Computer Enterprises and his
+        friends at <a href="cfdm.html">CFDM</a> for providing the
+        push that made this product possible. Please note that
+        the original Version 1.60 will remain an exclusive to
+        registered users. <a href="download/coco3.zip">Version
+        1.6B</a> is a slightly different version. It has a
+        different -- but compatible -- 6809 core, as the original
+        cannot be distributed publicly for copyright reasons. As
+        such, <a href="download/coco3.zip">Version 1.6B</a> runs
+        somewhat slower, though it should still be plenty fast on
+        modern platforms.</p>
+        <p><strong>IMPORTANT:</strong> There are some
+        compatibility issues between the CoCo 3 Emulator and
+        programs that make more ambitious use of the graphics
+        hardware, among other things. See the COCO3.DOC file
+        within <a href="download/coco3.zip">Version 1.6B</a>
+        under the sections &quot;7.1 TROUBLESHOOTING&quot; and
+        &quot;9. COMMENTS&quot; for more details.</p>
+        <p>Also available: </p>
+        <ul>
+            <li>A <a href="download/external.zip">patch</a> to
+                the CoCo 3's BASIC ROM which, when used in
+                conjunction with this CoCo 3 Emulator, will give
+                more descriptive error messages (e.g.
+                &quot;?SYNTAX ERROR&quot; instead of
+                &quot;?SN&quot;) and also an array of commands
+                which allow you to load/save files directly to
+                your MS-DOS directory from within the emulator. <strong>Warning:
+                </strong>this patch uses special features which
+                are only compatible with my CoCo 3 Emulator. The
+                ROM generated by the patch cannot be used with
+                other emulators.</li>
+            <li><a href="download/rdver13.zip">Older version 1.3
+                releases</a> of RETRIEVE and DSKINI for those
+                having trouble with the ones that are in the
+                version 1.60 package.</li>
+            <li>An incomplete Version 1.7 is included in the <a
+                href="download/c3source.zip">source code download</a>.
+                This version was an experimental which provided
+                new functionality beyond the CoCo 3, such as
+                640x480 16-colour and 320x200 256-colour video
+                modes, support for the full PC keyboard, and 16MB
+                of RAM. Version 1.7 was a beta version, so it may
+                contain unknown bugs or problems.</li>
+            <li>The technical specifications for the .DSK virtual
+                disk format can be found off-site <a
+                href="http://home.netcom.com/~tlindner/JVC.html">here</a>.
+                Note that my <a href="download/coco3.zip">CoCo 3
+                Emulator version 1.6B</a> only recognised the
+                first of the optional header bytes, which allowed
+                the user to specify a sectors/track count of
+                other than 18.</li>
+            <li>To transfer files between your PC and OS-9
+                virtual disks, I recommend the third-party <a
+                href="ftp://www.rtsi.com/OS9/MSDOS/os9206a.zip">os9.exe</a>
+                by Carey Bloodworth. Source code is included.
+                (Unfortunately, I don't have any contact
+                information for Carey. If you have questions
+                about this program, I suggest trying the
+                newsgroup <a href="news:bit.listserv.coco">bit.listserv.coco</a>.)</li>
+        </ul>
+        <p>It's been noted on <a href="news:bit.listserv.coco">bit.listserv.coco</a>
+        that RETRIEVE and DSKINI may not work with 360K 5
+        1/4&quot; drives unless you set your PC's BIOS to
+        (mis-)identify the drive as a 720K 3 1/2&quot; drive
+        instead. If you are having difficulty with both versions
+        of RETRIEVE/DSKINI, this is another option to try.
+        Consult your PC's motherboard manual for details on BIOS
+        configuration.</p>
+        <p>Note: this is an unsupported product.</p>
+        </td>
+    </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p><a name="ts1000"><font color="#C0C0FF" size="4"><strong><u>Timex/Sinclair
+1000 Emulator (Java)</u></strong></font></a></p>
+
+<table border="0">
+    <tr>
+        <td valign="top" width="200"><img
+        src="screens/ts1000.gif" width="200" height="125"><p><a
+        href="ts1000/index.html"><strong>Go directly to the
+        Timex/Sinclair 1000 Emulator now</strong></a></p>
+        <p><a href="ts1000/library.html">Browse the <strong>Software
+        Library </strong>of ready-to-run programs for the T/S
+        1000 emulator</a></p>
+        <p><a href="download/ts1000-d.zip">Download my older T/S
+        1000 Emulator for MS-DOS</a></p>
+        </td>
+        <td valign="top" width="30">&nbsp;</td>
+        <td valign="top">If you're browser supports Java and
+        JavaScript, you'll be able to run a Timex/Sinclair 1000
+        in your browser window <a href="ts1000/index.html">right
+        now</a>. This is a follow-up to my previous <a
+        href="#simulator">Level I BASIC in a browser</a>.<p>OK, I
+        know the Timex/Sinclair 1000 is <em>not</em> a TRS-80,
+        but there is a connection. Having done a Z-80-based
+        emulator already with my TRS-80 Model I Emulator, and
+        owning a Timex/Sinclair 1000, I decided to see if I could
+        reverse engineer it as well. So, it uses the same core as
+        my TRS-80 Emulators, and, being my only home computer
+        emulator that isn't TRS-80, wasn't big enough to warrant
+        a page of its own.</p>
+        <p>This emulator emulates a Timex/Sinclair 1000 with
+        TS1016 16K RAM Expansion Pack.</p>
+        <p>With a little work, this <a href="ts1000/index.html">browser-based
+        emulator</a> can also use the same cassette images used
+        by other emulators. For details, see the import/export
+        section of <a href="ts1000/help.html#saving">saving your
+        program</a> on the <a href="ts1000/help.html">help page</a>.</p>
+        <p>If you are running MS-DOS or Windows, you can also
+        download my older <a href="download/ts1000-d.zip">MS-DOS-based
+        T/S 1000 emulator</a> if you prefer.</p>
+        </td>
+    </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p><a name="history"><font color="#C0C0FF" size="4"><strong><u>General
+Emulator History</u></strong></font></a></p>
+
+<p>Follow <a href="general.html">this link</a> to read a recount
+of my introduction to the world of computers through the TRS-80,
+the inspiration that lead me to start writing emulators, and the
+impact it has had.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="roms"><font color="#C0C0FF" size="4"><strong><u>About
+ROMs</u></strong></font></a></p>
+
+<p>In short, don't email me asking for ROMs. Forget it. I do not
+endorse piracy in any form, including the concept of orphanware.
+Please don't email me trying to persuade me that my point of view
+needn't be so harsh; it hasn't changed in ten years of emulation
+and uncountable debates.</p>
+
+<p>The emulators were designed for people who already used the
+computers, and want to continue to use them after maintaining the
+physical hardware is no longer practical. The emulators come with
+instructions on how to transfer the ROM image from a
+legitimately-working original TRS-80. If your TRS-80 is not
+working I cannot help you. In that situation, you won't be able
+to read your software or data either. </p>
+
+<p>The good news is that the <a href="#model4">Model III/4
+Emulator</a> running a Model 4 DOS such as LS-DOS or TRSDOS
+version 6.x or the <a href="#coco3">CoCo 3 Emulator</a> running
+OS-9 Level II do not need the original ROMs in order to function.
+I have written a small stub boot ROM which will load these
+particular operating systems, which otherwise only rely on the
+computer's ROM to boot. So if you have PC-readable TRS-80 disks
+but not a functional TRS-80, there is still hope.</p>
+
+<p>The <a href="#ts1000">Timex/Sinclair 1000 Emulator</a>,
+mercifully, is an exception, as the ROM for that particular
+system has been released into the public domain and so can be
+distributed with the emulator.</p>
+
+<p>The <a href="#simulator">TRS-80 Level I Simulator</a> is not
+an emulator and so does not contain a ROM.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="links"><font color="#C0C0FF" size="4"><strong><u>Links</u></strong></font></a></p>
+
+<p><font color="#FFFFFF">These are some links which TRS-80
+enthusiasts might like to check out:</font></p>
+
+<ul>
+    <li><a href="cfdm.html"><em>CoCo Friends Disk Magazine</em>
+        Web Archive</a> - a complete online archive of all 71
+        issues of CoCo Friends Disk Magazine, a great source of
+        BASIC programs, tricks, art, etc. for the CoCo 3
+        hobbyist.</li>
+    <li><a href="http://cn80.blogspot.com/">Computer News 80
+        Blog/Forum</a> - CN80 has also set up a blog and forum
+        online, mainly targeting support of TRS-80 Model 4 users.</li>
+    <li><a href="http://www.burgins.com/emulators.html">Dragon
+        &amp; Tandy CoCo Emulator Home Page</a> - a CoCo Emulator
+        resource page</li>
+    <li><a href="http://www.trs-80.com">Ira Goldklang's TRS-80
+        Revived Pages</a> - a one-stop source for the Z-80-based
+        TRS-80 line (Model I, III, 4). Other TRS-80s can be found
+        here.</li>
+    <li><a href="http://www.coco3.com">The Tandy Color Computer
+        Resource Site</a>.</li>
+    <li><a href="http://www.axess.com/twilight/sock">Sock
+        Master's CoCo Home Page</a> - John is an amazingly
+        talented CoCo programmer who regularly pushes the limits
+        of what the machine can do.</li>
+    <li><a href="http://www.msadams.com/">Scott Adams Grand
+        Adeventures</a> - the official site of Scott Adams,
+        creator of the classic text-based adventures sold through
+        <em>Adventure International </em>in the TRS-80's heyday.
+        Includes downloadable and online versions of some of
+        those classic games.</li>
+</ul>
+
+<hr>
+
+<p align="center"><font size="2">All content �2000 </font><a
+href="http://www.vavasour.ca/#jeff"><font size="2">Jeff Vavasour</font></a><font
+size="2">. Updated <!--webbot bot="Timestamp" startspan
+s-type="EDITED" s-format="%B %d, %Y" -->November 04, 2009<!--webbot
+bot="Timestamp" i-checksum="39589" endspan -->.</font></p>
+
+<p align="center"><script language="JavaScript"><!--
+// hit counter
+pageid = "trs80";
+document.write("<img src=\"http://www.vavasour.ca/cgi-bin/counter.cgi?");
+document.write(pageid);
+document.write("&");
+document.write(document.referrer);
+document.write("\" width=\"48\" height=\"11\">");
+// --></script></p>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

@@ -1,0 +1,260 @@
+<topic r:id="Top/Computers/Data_Formats/Document">
+<catid>377034</catid>
+<link r:resource="http://www.artifex.com/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Hypermedia">
+<catid>377054</catid>
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Office_Open_XML">
+<catid>377053</catid>
+<link r:resource="http://en.wikipedia.org/wiki/Office_Open_XML" />
+<link r:resource="http://www.ecma-international.org/publications/standards/Ecma-376.htm" />
+<link r:resource="http://www.noooxml.org/" />
+<link r:resource="http://ooxmlisdefectivebydesign.blogspot.com/" />
+<link r:resource="http://consortiuminfo.org/standardsblog/article.php?story=20080530055633591" />
+<link r:resource="http://news.bbc.co.uk/1/hi/technology/7445956.stm" />
+<link r:resource="http://www.pcworld.com/article/136711/iso_rejects_microsofts_ooxml_as_standard.html" />
+<link r:resource="http://openxmldeveloper.org/" />
+<link r:resource="http://www.phpdocx.com/" />
+<link r:resource="http://www.iso.org/iso/news.htm?refid=Ref1070" />
+<link r:resource="http://www.iso.org/iso/news.htm?refid=Ref1123" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/OpenDocument">
+<catid>377037</catid>
+<link r:resource="http://en.wikipedia.org/wiki/OpenDocument" />
+<link r:resource="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office" />
+<link r:resource="http://www.odfalliance.org/" />
+<link r:resource="http://www.oasis-open.org/news/oasis_news_05_23_05.php" />
+<link r:resource="http://books.evc-cit.info/" />
+<link r:resource="http://odf-converter.sourceforge.net/" />
+<link r:resource="http://www.onlamp.com/pub/a/onlamp/2006/07/27/what-is-opendocument.html" />
+<link1 r:resource="http://docs.oasis-open.org/office/v1.1/OpenDocument-v1.1.html"></link1>
+<link r:resource="http://opendocumentfellowship.com/" />
+<link r:resource="http://opendocumentfellowship.com/odfviewer" />
+<link r:resource="http://stosberg.net/odt2txt/" />
+<link r:resource="http://opendocument.xml.org/" />
+<link r:resource="http://www.iso.org/iso/news.htm?refid=Ref1004" />
+<link r:resource="http://incubator.apache.org/odftoolkit/" />
+<link r:resource="http://www.robweir.com/blog/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/OpenOffice_XML">
+<catid>377047</catid>
+<link r:resource="http://www.xml.com/pub/a/2001/02/07/openoffice.html" />
+<link r:resource="http://xml.openoffice.org/" />
+<link r:resource="http://writer2latex.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Publishing">
+<catid>377038</catid>
+<link r:resource="http://www.w3.org/TR/NOTE-ice" />
+<link r:resource="http://msdn.microsoft.com/en-us/windows/hardware/gg463373.aspx" />
+<link r:resource="http://www.bbc.co.uk/guidelines/futuremedia/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Publishing/PDF">
+<catid>377042</catid>
+<link r:resource="http://www.pdfing.com/" />
+<link r:resource="http://www.fastpdf.com/" />
+<link r:resource="http://html2pdf.seven49.net/" />
+<link r:resource="http://www.pruittfamily.com/paul/freepdf.htm" />
+<link r:resource="http://www.tinaja.com/acrob01.asp" />
+<link r:resource="http://www.eprg.org/" />
+<link r:resource="http://partners.adobe.com/public/developer/acrobat/sdk/" />
+<link1 r:resource="http://www.pdfzone.com/"></link1>
+<link r:resource="http://www.west.net/~ted/" />
+<link r:resource="http://www.complang.tuwien.ac.at/anton/why-not-pdf.html" />
+<link r:resource="http://www.adobe.com/aboutadobe/pressroom/pressreleases/200701/012907OpenPDFAIIM.html" />
+<link r:resource="http://www.prepressure.com/pdf" />
+<link r:resource="http://www.nngroup.com/articles/avoid-pdf-for-on-screen-reading/" />
+<link r:resource="http://www.webring.org/hub?ring=pdfz" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Publishing/PDF/Accessibility_and_Tagging">
+<catid>377043</catid>
+<link r:resource="http://alastairc.ac/2006/07/the-four-levels-of-pdf-accessibility/" />
+<link r:resource="http://www.planetpdf.com/enterprise/learningcenter.asp?ContainerID=1505" />
+<link r:resource="http://www.usability.com.au/resources/pdf.cfm" />
+<link r:resource="http://www.webaim.org/techniques/acrobat/" />
+<link r:resource="http://www.isolani.co.uk/blog/access/RnibAccessiblePdfMediaBriefing" />
+<link r:resource="http://alistapart.com/articles/pdf_accessibility" />
+<link r:resource="http://www.adobe.com/accessibility/products/reader/" />
+<link r:resource="http://www.rnib.org.uk/professionals/webaccessibility/articles/Pages/accessing_pdf.aspx" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Publishing/PDF/Software">
+<catid>377044</catid>
+<link r:resource="http://www.fpdf.org/" />
+<link r:resource="http://www.apagoinc.com/" />
+<link r:resource="http://pages.cs.wisc.edu/~ghost/" />
+<link r:resource="http://www.enfocus.com/" />
+<link r:resource="http://www.zinebook.com/resource/adobe.html" />
+<link r:resource="http://www.foolabs.com/xpdf/" />
+<link r:resource="http://www.jawspdf.com/" />
+<link r:resource="http://www.fineprint.com/" />
+<link r:resource="http://www.pdftron.com/" />
+<link r:resource="http://www.novosoft-us.com/customers/projects_description_st.shtml?PDFViewer" />
+<link r:resource="http://www.a-pdf.com/" />
+<link r:resource="http://alt-soft.com/" />
+<link r:resource="http://www.pdf-tools.com/" />
+<link r:resource="http://www.foxitsoftware.com/" />
+<link r:resource="http://www.adultpdf.com/" />
+<link r:resource="http://www.accesspdf.com/pdftk/" />
+<link r:resource="https://createpdf.adobe.com/" />
+<link r:resource="http://www.adobe.com/products/acrobat/" />
+<link r:resource="http://www.llion.net/" />
+<link r:resource="http://www.pdfonline.com/" />
+<link r:resource="http://www.pdflib.com/" />
+<link r:resource="http://www.jwwalker.com/pages/pdf.html" />
+<link r:resource="http://www.ps2pdf.com/" />
+<link r:resource="http://www.sanface.com/" />
+<link r:resource="http://www.websupergoo.com/" />
+<link r:resource="http://www.stillhq.com/panda/" />
+<link r:resource="http://www.visual.co.uk/" />
+<link r:resource="http://www.guapdf.com/" />
+<link r:resource="http://www.broadgun.com/" />
+<link r:resource="http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic/firth/software/pdfjam/" />
+<link r:resource="http://pdfedit.petricek.net/" />
+<link r:resource="http://www.artspdf.com/" />
+<link r:resource="http://blog.kowalczyk.info/software/sumatrapdf/" />
+<link r:resource="http://www.freepdfconvert.com/" />
+<link r:resource="http://skim-app.sourceforge.net/" />
+<link r:resource="http://www.pdfreaders.org/" />
+<link r:resource="http://www.pdfsam.org/" />
+<link r:resource="http://www.drumlinsecurity.com/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Publishing/PDF/Software/Acrobat_Plug-Ins">
+<catid>377045</catid>
+<link r:resource="http://www.merlin-os.co.uk/" />
+<link r:resource="http://www.pdfsnake.com/" />
+<link r:resource="http://www.quite.com/" />
+<link r:resource="http://www.pdftoall.com/" />
+<link r:resource="http://www.evermap.com/" />
+<link r:resource="http://www.intellipdf.com/" />
+<link r:resource="http://www.mapsoft.com/" />
+<link r:resource="http://www.fileopen.com/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Publishing/PDF/Software/Windows_Tools_and_Drivers">
+<catid>377046</catid>
+<link r:resource="http://www.soliddocuments.com/products.htm?product=SolidConverterPDF" />
+<link r:resource="http://www.pdfwizard.com/" />
+<link r:resource="http://www.fastpdf.com/" />
+<link r:resource="http://www.davince.com/" />
+<link r:resource="http://doc2pdf.sourceforge.net/" />
+<link r:resource="http://home.hccnet.nl/s.vd.palen/" />
+<link r:resource="http://www.iceni.com/" />
+<link r:resource="http://neevia.com/" />
+<link r:resource="http://www.techpool.com/" />
+<link r:resource="http://www.alientools.com/" />
+<link r:resource="http://www.activepdf.com/" />
+<link r:resource="http://www.logipole.com/indexe.html" />
+<link r:resource="http://www.iteksoft.com/" />
+<link r:resource="http://www.idrsolutions.com/" />
+<link r:resource="http://www.viralpdf.com/" />
+<link r:resource="http://www.pdf995.com/" />
+<link r:resource="http://www.wizards.de/~frank/pstill.html" />
+<link r:resource="http://www.acropad.com/" />
+<link r:resource="http://www.thebeatlesforever.com/processtext/abcpdf.html" />
+<link r:resource="http://www.go2pdf.com/" />
+<link r:resource="http://www.verypdf.com/" />
+<link r:resource="http://www.bcltechnologies.com/" />
+<link r:resource="http://www.8848soft.com/" />
+<link r:resource="http://www.bureausoft.com/" />
+<link r:resource="http://www.pdf-convert.com/" />
+<link r:resource="http://www.acropdf.com/" />
+<link r:resource="http://ghostword.sourceforge.net/" />
+<link r:resource="http://www.nicepdf.com/" />
+<link r:resource="http://www.pdfgrabber.com/" />
+<link r:resource="http://www.eprintdriver.com/" />
+<link r:resource="http://www.enfocus.com/" />
+<link r:resource="http://www.cutepdf.com/" />
+<link r:resource="http://www.bluebeam.com/" />
+<link r:resource="http://www.primopdf.com/" />
+<link r:resource="http://www.software602.com/products/print2pdf/" />
+<link r:resource="http://www.elcomsoft.com/apdfpr.html" />
+<link r:resource="http://ctdeveloping.com/" />
+<link r:resource="http://pages.cs.wisc.edu/~ghost/redmon/" />
+<link r:resource="http://www.amyuni.com/" />
+<link r:resource="http://www.adlibsoftware.com/" />
+<link r:resource="http://www.investintech.com/" />
+<link r:resource="http://www.win2pdf.com/" />
+<link r:resource="http://www.pdfconverter.com/" />
+<link r:resource="http://www.cogniview.com/" />
+<link r:resource="http://www.pdfforge.org/pdfcreator" />
+<link r:resource="http://www.pdftoword.com/" />
+<link r:resource="http://www.nuance.com/for-business/by-product/pdf/index.htm" />
+<link r:resource="http://pdftransformer.abbyy.com/" />
+<link r:resource="http://print2flash.com/" />
+<link r:resource="http://www.nowpdf.com/" />
+<link r:resource="http://www.amicutilities.com/pdf-writer/" />
+<link r:resource="http://www.pdf-creator.us/" />
+<link r:resource="http://code-industry.net/imageprinterpro.php" />
+<link r:resource="http://www.pclreader.com/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Publishing/PostScript">
+<catid>377039</catid>
+<link r:resource="http://www.science.uva.nl/~robbert/ps/bluebook/" />
+<link r:resource="http://www.tinaja.com/post01.asp" />
+<link r:resource="http://www.ugrad.math.ubc.ca/localdoc/Flat/PS-toc.html" />
+<link r:resource="http://en.wikipedia.org/wiki/PostScript" />
+<link r:resource="http://www.adobe.com/products/postscript/" />
+<link r:resource="http://partners.adobe.com/public/developer/ps/index_specs.html" />
+<link r:resource="http://atrey.karlin.mff.cuni.cz/~milanek/PostScript/Reference/" />
+<link r:resource="http://partners.adobe.com/public/developer/ps/sdk/index_archive.html" />
+<link r:resource="http://pages.cs.wisc.edu/~ghost/doc/books.htm" />
+<link r:resource="http://www.trilithon.com/pagesproducts/postscriptcode.html" />
+<link r:resource="http://www.jdawiseman.com/papers/placemat/postscript_routines.html" />
+<link r:resource="http://www.prepressure.com/postscript" />
+<link r:resource="http://www.inkguides.com/postscript.asp" />
+<link r:resource="http://www.mytechtime.com/2009/07/postscript-benefits.html" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Publishing/PostScript/FAQs,_Help,_and_Tutorials">
+<catid>377040</catid>
+<link r:resource="http://www.mefco.com/psc/intro.html" />
+<link r:resource="http://ds.dial.pipex.com/quite/eps1.htm" />
+<link r:resource="http://www.faqs.org/faqs/by-newsgroup/comp/comp.lang.postscript.html" />
+<link r:resource="http://www2.latech.edu/~acm/helloworld/postscript.html" />
+<link r:resource="http://www.wiskit.com/postscript/quicktips/" />
+<link r:resource="http://www.tailrecursive.org/postscript/postscript.html" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Publishing/PostScript/Software">
+<catid>377041</catid>
+<link r:resource="http://wwwthep.physik.uni-mainz.de/~plass/gv/" />
+<link r:resource="http://www.inf.enst.fr/~demaille/a2ps/" />
+<link r:resource="http://www.math.utah.edu/~beebe/software/postscript-tools.html" />
+<link r:resource="http://www.nzdl.org/html/prescript.html" />
+<link r:resource="http://www.rops.org/" />
+<link r:resource="http://www.ghostscript.com/" />
+<link r:resource="http://www.yarc.com/" />
+<link r:resource="http://www.apagoinc.com/" />
+<link r:resource="http://www.rapport.ltd.uk/" />
+<link r:resource="http://pages.cs.wisc.edu/~ghost/" />
+<link r:resource="http://pages.cs.wisc.edu/~ghost/gsview/" />
+<link r:resource="http://www.helga-glunz.homepage.t-online.de/pstoedit/" />
+<link r:resource="http://www.markkurossi.com/genscript/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Spreadsheet">
+<catid>377035</catid>
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Spreadsheet/Microsoft_Excel">
+<catid>377036</catid>
+<pdf r:resource="http://sc.openoffice.org/excelfileformat.pdf"></pdf>
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Text">
+<catid>377048</catid>
+<link r:resource="http://valdemar.net/~erik/site-features/setext/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Text/Plain_Text">
+<catid>377049</catid>
+<link r:resource="http://tools.ietf.org/html/rfc2646" />
+<link r:resource="http://daringfireball.net/projects/markdown/" />
+<link r:resource="http://en.wikipedia.org/wiki/Newline" />
+<link r:resource="http://en.wikipedia.org/wiki/Plain_text" />
+<link r:resource="http://tools.ietf.org/html/rfc3676" />
+<link r:resource="http://everything2.com/index.pl?node_id=907088" />
+<link r:resource="http://mytexttools.com/" />
+<link r:resource="http://txtformat.com/" />
+</topic>
+<topic r:id="Top/Computers/Data_Formats/Document/Text/RTF">
+<catid>377052</catid>
+<link r:resource="http://www.rtf-to-xml.com/" />
+<link r:resource="http://www.jafsoft.com/asctortf/" />
+<link r:resource="http://en.wikipedia.org/wiki/Rich_Text_Format" />
+<link r:resource="http://latex2rtf.sourceforge.net/RTF-Spec-1.0.txt" />
+<link r:resource="http://msdn.microsoft.com/en-us/library/aa140277(office.10).aspx" />
+</topic>

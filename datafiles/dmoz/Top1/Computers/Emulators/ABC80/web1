@@ -1,0 +1,164 @@
+====================<http://www.lysator.liu.se/~exon/archive.html>====================
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>The Archive</title>
+<link rel="stylesheet" type="text/css" href="woe.css">
+</head>
+
+<body>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="100%">
+      <h1 align="center"><img border="0" src="images/exonlogo.gif" width="320" height="240"></h1>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000066">
+      <h2>ABCWin</h2>
+    </td>
+  </tr>
+  <tr>
+    <td><img border="0" src="images/abcwin.gif" align="right" width="231" height="87">Version
+      1.1 (2004-05-08) of the ABC80 emulator for Windows.
+      <p><a href="archive/ABCWin-1.1.zip">Download!</a></p>
+      <p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000066">
+      <h2>TBL Bit</h2>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      My contribution to the PC 4k Intro competition at Assembly 95 in Finland.
+      <p><a href="archive/tbl_bit.zip">Download!</a></p>
+      <p>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000066">
+      <h2>Conan</h2>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <img border="0" src="images/conan.gif" align="right" width="256" height="160">
+      A nice-looking, but not quite finished, game I wrote several years ago. My
+      first larger C-program, I think. Supports EGA (ugh yuck blah). Don't take
+      this one too seriously...
+      <p><a href="archive/conan.zip">Download!</a>
+      <p>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000066"><font size="1"><a href="index.html">Back
+      to '<i>The World of Exon</i>'</a></font></td>
+  </tr>
+</table>
+
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.devili.iki.fi/Computers/Luxor/>====================
+<!doctype html public "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+    <title>Luxor ABC 800 serie</title>
+    <meta name="description" content="The index to the site that maintains the archive for the technical data and history of Luxor ABC800 microcomputers.">
+    <meta name="keywords" content="Luxor Datorer, ABC, ABC80, ABC802, ABC806, computer, 8-bit, CP/M, Z80, Zilog, ABC-DOS, UFD-DOS, programming, Basic II, ABC-800, ABC-80, Nokia Information Systems, Nokia Data, Luxor Information Systems">
+</head>
+
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#000080" alink="#0000C0">
+
+<table cellspacing="0" cellpadding="0" width="100%"><tr><td align="left">
+
+<a href="/Computers/Luxor/"><img src="/images/blue_luxor.gif" alt="[Luxor]" width="62" height="24"></a>
+
+<a href="/general/new.html" title="New"><img src="/images/blue_new.gif" alt="[New]" height="24" width="27"></a>
+<a href="/search/" title="Search"><img src="/images/blue_search.gif" alt="[Search]" height="24" width="24"></a>
+<a href="/" title="Home"><img src="/images/blue_home.gif" alt="[Home]" width=24 height=24></a>
+</td><td align="right">Tämä sivu <a href="index.fi.html">suomeksi</a>.
+</td></tr></table>
+
+<hr>
+
+
+
+<center>
+<h1><img src="images/Luxor_logo_colorfull.gif" alt="Welcome to the Luxor ABC800 home page"></h1>
+</center>
+
+<p>Welcome, and enjoy the Luxor ABC800 pages. If you wonder what is the
+Luxor ABC800, then you should first look at <a href="intro.en.html">the
+introduction</a>. You also might be interested about the <a
+href="../ABC_versus_C64.html">Luxor ABC800 and Commodore C64
+comparison</a>.
+
+<p>Those of you that have already some knowledge about Luxor ABCs might
+find something from <a href="history.en.html">the history</a> page. There
+is also some scanned manuals. To be more specific, there is exactly three:
+the <a href="Manuals/ABC800/Kayttoohje/">ABC800 User's Manual in
+Finnish</a>, the <a href="Manuals/Option/">Option PROM Manual in
+Swedish</a> and the <a href="Manuals/ABC834/Bruksanvisning/">ABC834 User's
+Manual in Swedish</a>.
+
+<p>For technically oriented visitors, there is something for each model
+and some <a href="Programming/">programming</a> information.
+
+<a href="ad/mainos.html"><img src="ad/pieni/luxor_mainos.gif" alt="[Pieni mainos]" align=right></a>
+
+<ul>
+<li>    <a href="ABC800/">ABC 800</a>
+<li>    <a href="ABC802/">ABC 802</a>
+<li>    <a href="ABC806/">ABC 806</a>
+</ul>
+
+<p>Software and other available stuff:
+<ul>
+<li>    <a href="/pub/Luxor/firmware/">Firmware</a>
+<li>    <a href="/pub/Luxor/software/">Software</a> More software wanted, so if you have anything to contribute..
+<li>    <a href="/pub/emulators/Luxor/">Emulators</a> available for download.
+<li>    Materal made by <a href="/library/publisher/27.en.html">Luxor Datorer AB</a> and <a href="/library/publisher/53.en.html">DataSweden AB</a>, used as a reference
+<li>    <a href="../links.html#Luxor">Links</a>
+</ul>
+
+<hr>
+<table cellspacing="0" cellpadding="0" width="100%"><tr><td align="left">
+
+<a href="/Computers/Luxor/"><img src="/images/blue_luxor.gif" alt="[Luxor]" width="62" height="24"></a>
+
+<a href="/general/new.html" title="New"><img src="/images/blue_new.gif" alt="[New]" height="24" width="27"></a>
+<a href="/search/" title="Search"><img src="/images/blue_search.gif" alt="[Search]" height="24" width="24"></a>
+<a href="/" title="Home"><img src="/images/blue_home.gif" alt="[Home]" width=24 height=24></a>
+</td><td align="right">Tämä sivu <a href="index.fi.html">suomeksi</a>.
+</td></tr></table>
+
+<table cellspacing="0" border="0" width="100%">
+<tr><td align="right" colspan="2"><small>
+	This page has been created by <a href="mailto:rtiainen@devili.iki.fi">
+	Sami Rautiainen</a>.
+</small></td></tr><tr><td align="left"><small>
+	Read the <a href="/general/copyright.html">small print</a>.
+</small></td><td align="right"><small>
+	Last updated 
+	September 25, 2005.
+</small></td></tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-254541-1";
+urchinTracker();
+</script>
+
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

@@ -1,0 +1,60 @@
+<topic r:id="Top/Computers/Robotics/Software">
+<catid>373361</catid>
+<link r:resource="http://rossum.sourceforge.net/" />
+<link r:resource="http://playerstage.sourceforge.net/" />
+<link r:resource="http://www.cc.gatech.edu/aimosaic/robot-lab/research/MissionLab/" />
+<link r:resource="http://www.orocos.org/" />
+<link r:resource="http://www.cs.cmu.edu/~trb/TeamBots/" />
+<link r:resource="http://orca-robotics.sourceforge.net/" />
+<link r:resource="http://www.mrpt.org/" />
+<link r:resource="http://miarn.sourceforge.net/dokuwiki/doku.php" />
+<link r:resource="http://www.openjaus.com/" />
+<link r:resource="http://users.dickinson.edu/~braught/dlife" />
+</topic>
+<topic r:id="Top/Computers/Robotics/Software/Control">
+<catid>373362</catid>
+<link r:resource="http://www.brookshiresoftware.com/" />
+<link r:resource="http://servomaster.sourceforge.net/" />
+<link r:resource="http://autopilot.sourceforge.net/" />
+<link r:resource="http://rhex.sourceforge.net/" />
+<link r:resource="http://drobot.sourceforge.net/" />
+<link r:resource="http://nomadic.sourceforge.net/" />
+<link r:resource="http://www.cs.ubc.ca/spider/lloyd/rccl.html" />
+<link r:resource="http://jrobot.sourceforge.net/home.htm" />
+<link r:resource="http://sourceforge.net/projects/robosoft/" />
+<link r:resource="http://eggo.sourceforge.net/" />
+<link r:resource="http://sourceforge.net/projects/jabot/" />
+<link r:resource="http://www.seattlerobotics.org/encoder/200108/using_a_pid.html" />
+<link r:resource="http://www.informatik.uni-leipzig.de/~pantec/khepera/" />
+<link r:resource="http://www.cs.utexas.edu/users/qr/robotics/splat/" />
+<link r:resource="http://marie.sourceforge.net/" />
+<link r:resource="http://sourceforge.net/projects/dio48s/" />
+<link r:resource="http://dros.org/" />
+<link r:resource="http://users.encs.concordia.ca/~dave/project/soft.html" />
+<link r:resource="http://www.doc.ic.ac.uk/~ajd/Scene/" />
+<link r:resource="http://carmen.sourceforge.net/" />
+</topic>
+<topic r:id="Top/Computers/Robotics/Software/Simulation">
+<catid>373363</catid>
+<link r:resource="http://www.newtonium.com/" />
+<link r:resource="http://www.enigmaindustries.com/" />
+<link r:resource="http://www.sodaplay.com/" />
+<link r:resource="http://www.robotworks-eu.com/" />
+<link r:resource="http://robotflow.sourceforge.net/" />
+<link r:resource="http://spades-sim.sourceforge.net/" />
+<link r:resource="http://rars.sourceforge.net/" />
+<link r:resource="http://dynamechs.sourceforge.net/" />
+<link r:resource="http://www.easy-rob.de/" />
+<link r:resource="http://www.cyberbotics.com/products/webots/" />
+<link r:resource="http://vsoc.sourceforge.net/" />
+<link r:resource="http://www.life.uiuc.edu/delcomyn/RSSimSoftware.html" />
+<link r:resource="http://www.cs.utexas.edu/users/qr/robotics/flat/" />
+<link r:resource="http://www.eyewyre.com/" />
+<link r:resource="http://www.cours.polymtl.ca/roboop/" />
+<link r:resource="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/testbeds/arsmagna/0.html" />
+<link r:resource="http://www.laboratoryformicroenterprise.org/lme/ComputerCraftsmanship.html" />
+<link r:resource="http://robotics.ee.uwa.edu.au/mobs/" />
+<link r:resource="http://ode.org/" />
+<link r:resource="http://sserver.wiki.sourceforge.net/" />
+<link r:resource="http://cogmation.com/" />
+</topic>

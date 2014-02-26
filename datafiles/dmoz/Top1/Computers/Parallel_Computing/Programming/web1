@@ -1,0 +1,3314 @@
+====================<http://www.cs.utk.edu/netsolve/>====================
+
+<html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<head>
+<title>NetSolve</title>
+
+<link rel="stylesheet" href="http://icl.cs.utk.edu/projectsdev/universal/stylesheet.css" type="text/css">
+
+<script language="javascript" src="http://icl.cs.utk.edu/projectsdev/universal/scripts/browserdetect_png.js" type="text/javascript"></script>
+
+<style type="text/css">
+<!--
+
+	BODY {
+		font-family: Helvetica, Arial,"Lucida Grande", Verdana, Geneva, Lucida, sans-serif;
+ 		font-size:11px;
+		line-height:21px; 
+		background-color:#EEEEEE;
+		}
+		
+	a:link {
+		color: #003C58;
+		}
+	
+	a:visited {
+		color: #003C58;
+		}
+	
+	a:active {
+		color: #003C58;
+		}
+
+	a:hover {
+		color: ;
+		}
+	
+	ul li {
+		display: list-item;
+		font-family: Helvetica, Arial,"Lucida Grande", Verdana, Geneva, Lucida, sans-serif;
+		font-size:11px;
+		line-height:21px; 	 
+		list-style-position: outside; 
+		list-style-type: square; 
+		list-style-image: url(http://icl.cs.utk.edu/projectsdev/universal/images/bullet.gif);
+		}
+	
+	.Logo	{
+		background-color:;
+		}	
+
+	.HeaderTitle {
+		padding:0px;
+		margin:0px;
+		background-color:navy;
+		}	
+
+	.HeaderTitleStripe {
+		background-color:navy;
+		border-bottom:4px double #333;
+		}	
+					
+	.SectionTitle {
+		padding:5px 5px 5px 0px;
+		border-bottom:1px solid #CCC;
+		color: #003C58;
+		font-family: Helvetica, Arial,"Lucida Grande", Verdana, Geneva, Lucida, sans-serif;
+		font-size:18px;
+		}
+-->
+</style> 
+
+<!-- script for collapsable navigation menu -->
+
+<SCRIPT language="JavaScript"> 
+<!--
+function showMore(varA1, varB1) { 
+	var123 = ('varXYZ' + (varA1)); 
+	varABC = ('varP' + (varA1)); 
+	if( document.getElementById ) { 
+	if( document.getElementById(var123).style.display ) { 
+	if( varB1 != 0 ) { 
+	document.getElementById(var123).style.display = "block"; 
+	document.getElementById(varABC).style.display = "none"; 
+	} else { document.getElementById(var123).style.display = "none"; 
+	document.getElementById(varABC).style.display = "block"; } 
+	} else { location.href = varB1; 
+	return true; } 
+	} else { location.href = varB1; 
+	return true; } 
+	}
+//-->	
+</SCRIPT>
+
+<!-- script to display banner - requires browserdetect_png.js -->
+<SCRIPT language="JavaScript"> 
+<!--
+function od_displayImage (strId, strPath, intWidth, intHeight, strClass, strAlt) {       
+        if (pngAlpha) {
+          document.write ('<div style="height:'+intHeight+'px;width:'+intWidth+'px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src=\''+strPath+'.png\', sizingMethod=\'scale\')" ÈÈ id="'+strId+'" class="'+strClass+'"></div>');
+        } else if (pngNormal) {
+          document.write('<img src="'+strPath+'.png" width="'+intWidth+'" height="'+intHeight+'" name="'+strId+'" border="0" class="'+strClass+'" alt="'+strAlt+'" />');
+        } else {
+          document.write('<img src="'+strPath+'.gif" width="'+intWidth+'" height="'+intHeight+'" name="'+strId+'" border="0" class="'+strClass+'" alt="'+strAlt+'" />');
+        }
+} 
+//-->
+</SCRIPT>
+<!-- script to popup windows -->
+<SCRIPT TYPE="text/javascript "> 
+<!--
+function popup(mylink, windowname) {
+	if (! window.focus)return true;
+		var href;
+	if (typeof(mylink) == 'string')
+		href=mylink;
+	else
+		href=mylink.href;
+		window.open(href, windowname, 'width=450,height=450,scrollbars=auto');
+		return false;
+}
+//-->
+</SCRIPT> 
+
+<script language="javascript" type="text/javascript" src="/js/tinymce/jscripts/tiny_mce/tiny_mce.js"></script>
+<script language="javascript" type="text/javascript">
+tinyMCE.init({
+	mode : "specific_textareas",
+	editor_selector : "mceSimple",
+	theme : "advanced",
+    theme_advanced_buttons1 : "bold,italic,underline,|,link,unlink,|,bullist,numlist,|,charmap,code",
+    theme_advanced_buttons2 : "",
+    theme_advanced_buttons3 : "",	
+    plugins : "autoresize"	
+});
+</script>
+
+</head>
+<body marginwidth="0" marginheight="0" topmargin="0" bgcolor="#EEEEEE">
+
+<a name="top"></a>
+
+<br />
+
+<center>
+<div class="Frame">
+<table border="0" width="755" class="Style" cellpadding="0" cellspacing="0">
+
+<tr>
+<td width="155" valign="top" colspan="2" rowspan="1">
+<div class="HeaderTitle">
+<SCRIPT language="javascript" type="text/javascript">
+	od_displayImage('header', 'http://icl.cs.utk.edu/netsolve/images/header', 755, 75, '', '');
+</SCRIPT>
+<NOSCRIPT>
+	<img src="http://icl.cs.utk.edu/netsolve/images/header.gif" width="755" alt="" border="0">
+</NOSCRIPT>
+</div>
+</td>
+</tr>
+
+<tr>
+<td valign="bottom" width="155" class="PageTitleCell">
+</td>
+<td valign="top" width="600" class="PageTitleCell">
+<div class="PageTitle_Index"> &nbsp; </div>
+</td>
+</tr>
+
+<tr><td colspan="2" class="HeaderTitleStripe"></td></tr>
+
+
+<tr>
+<td width="155" valign="top" colspan="1" rowspan="1" class="LeftColumn">
+
+<div class="NavSection">
+<div class="NavButton">
+<a href="http://icl.cs.utk.edu/netsolve/index.html">Home</a>
+</div>
+<div class="NavButton">
+<a href="http://icl.cs.utk.edu/netsolve/overview/index.html">Overview</a>
+</div>
+<div class="NavButton">
+<a href="http://icl.cs.utk.edu/netsolve/news/index.html">News</a>
+</div>
+<div class="NavButton">
+<a href="http://icl.cs.utk.edu/netsolve/software/index.html">Software</a>
+</div>
+<div class="NavButton">
+<a href="http://icl.cs.utk.edu/netsolve/pubs/index.html">Publications</a>
+</div>
+<div class="NavButton">
+<a href="http://icl.cs.utk.edu/netsolve/links/index.html">Links</a>
+</div>
+<div class="NavButton">
+<a href="http://icl.cs.utk.edu/netsolve/people/index.html">People</a>
+</div>
+<div class="NavButton">
+<a href="http://icl.cs.utk.edu/netsolve/partners/index.html">Partners</a>
+</div>
+
+<NOSCRIPT> 
+<div class="NavButton">
+<a href="http://icl.cs.utk.edu/netsolve/custom/index.html?lid=54&slid=81">Documentation</a>
+</div>
+<div class="NavButton">
+<a href="http://icl.cs.utk.edu/netsolve/custom/index.html?lid=55&slid=82">Applications</a>
+</div>
+<div class="NavButton">
+Resources
+</div>
+<div class="SubNavButton">
+<a href="http://icl.cs.utk.edu/netsolve/custom/index.html?lid=56&slid=83">HW/SW Resources</a>
+</div>
+<div class="SubNavButton">
+<a href="http://icl.cs.utk.edu/netsolve/custom/index.html?lid=56&slid=84">PDF Wizard</a>
+</div>
+<div class="SubNavButton">
+<a href="http://icl.cs.utk.edu/netsolve/custom/index.html?lid=56&slid=85">visPerf Monitor</a>
+</div>
+</NOSCRIPT>
+
+<div class="NavButton">
+<a href="http://icl.cs.utk.edu/netsolve/custom/index.html?lid=54&slid=81">Documentation</a>
+</div>
+<div class="NavButton">
+<a href="http://icl.cs.utk.edu/netsolve/custom/index.html?lid=55&slid=82">Applications</a>
+</div>
+<span id="varP56" style="display: block"><div class="NavButtonPlus"><a href="#56" onclick="showMore(56,'#56');return false;">Resources</a></div>
+</span>
+<span id="varXYZ56" style="display: none"><div class="NavButtonPlus"><a href="#56" onclick="showMore(56,0);return false;">Resources</a>
+<div class="SubNavButton">
+<a href="http://icl.cs.utk.edu/netsolve/custom/index.html?lid=56&slid=83">HW/SW Resources</a>
+</div>
+<div class="SubNavButton">
+<a href="http://icl.cs.utk.edu/netsolve/custom/index.html?lid=56&slid=84">PDF Wizard</a>
+</div>
+<div class="SubNavButton">
+<a href="http://icl.cs.utk.edu/netsolve/custom/index.html?lid=56&slid=85">visPerf Monitor</a>
+</div>
+</div>
+</span>
+
+
+</div>
+</div> <!-- End NavSection --><div class="EndNav"> </div>
+</td>
+
+<td valign="top" class="PageContentCell">
+<div class="PageContent">
+
+<table border="0" cellspacing="5" cellpadding="0" width="100%" class="style"><tr><td valign="top" class="Intro">
+<div class="SectionTitle">NetSolve/GridSolve</div>
+<div class="IntroText"><p>NetSolve/GridSolve is a project that aims to bring together disparate computational resources connected by computer networks. It is a RPC based client/agent/server system that allows one to remotely access both hardware and software components.</p><p>The purpose of GridSolve is to create the middleware necessary to provide a seamless bridge between the simple, standard programming interfaces and desktop Scientific Computing Environments (SCEs) that dominate the work of computational scientists and the rich supply of services supported by the emerging Grid architecture, so that the users of the former can easily access and reap the benefits (shared processing, storage, software, data resources, etc.) of using the latter.</p><p>This vision of the broad community of scientists, engineers, research professionals and students, working with the powerful and flexible tool set provided by their familiar desktop SCEs, and yet able to easily draw on the vast, shared resources of the Grid for unique or exceptional resource needs, or to collaborate intensively with colleagues in other organizations and locations, is the vision that GridSolve will be designed to realize.</p><p><br>GridSolve Description 
+  
+<a href="http://icl.cs.utk.edu/netsolvedev/files/gridsolve/GridSolve-description.pdf">[PDF]</a>
+<br></p></div>
+<br />
+</td></tr>
+<tr><td valign="top"><div class="SectionTitle">Latest NetSolve News</div>
+<span class="NewsDate-Alt">2008-12-18</span>
+<div class="NewsHeadline-sm"><a href="news/news.html?id=201">GridSolve version 0.19.1 released</a></div>
+<br />
+<span class="NewsDate-Alt">2008-04-25</span>
+<div class="NewsHeadline-sm"><a href="news/news.html?id=191">GridSolve version 0.18.0 released</a></div>
+<br />
+<span class="NewsDate-Alt">2007-07-18</span>
+<div class="NewsHeadline-sm"><a href="news/news.html?id=185">GridSolve version 0.17.0 released</a></div>
+<br />
+<span class="NewsDate-Alt">2007-06-03</span>
+<div class="NewsHeadline-sm"><a href="news/news.html?id=181">GridSolve  version 0.16.0 released</a></div>
+<br />
+<span class="NewsDate-Alt">2006-03-03</span>
+<div class="NewsHeadline-sm"><a href="news/news.html?id=154">Interactive Data Language (IDL) client released</a></div>
+<br />
+
+</td></tr>
+</table>
+</div> <!-- End Page Content -->
+</td>
+</tr>
+</table>
+
+<!-- Footer -->
+<center>
+<div class="Footer">
+<table border="0" cellspacing="0" cellpadding="5">
+<tr>
+<td align="center" valign="top" colspan="2">
+
+<a href="http://icl.cs.utk.edu/"><img src="http://icl.cs.utk.edu/projectsdev/universal/images/icl_footer.gif" width="100" height="50" alt="ICL" border="0"></a>
+</td>
+</tr>
+<tr>
+<td class="funding" align="center" valign="middle">
+
+	Sponsored By: <a href="http://www.dod.mil/"><img src="http://icl.cs.utk.edu/projectsdev/universal/images/footer/DoD-25.gif" alt="DoD" border="0" vspace="5" hspace="5" align="absmiddle"></a>&nbsp
+<a href="http://www.doe.gov/"><img src="http://icl.cs.utk.edu/projectsdev/universal/images/footer/DOE-25.gif" alt="DOE" border="0" vspace="5" hspace="5" align="absmiddle"></a>&nbsp
+<a href="http://www.nsf.gov/"><img src="http://icl.cs.utk.edu/projectsdev/universal/images/footer/NSF-25.gif" alt="NSF" border="0" vspace="5" hspace="5" align="absmiddle"></a>&nbsp
+
+
+</td>
+<td align="center" class="funding" valign="middle">
+	
+	Industry Support From: <img src="http://icl.cs.utk.edu/projectsdev/universal/images/footer/Microsoft-25.gif" alt="Microsoft" border="0" vspace="5" hspace="5" align="absmiddle">&nbsp
+	
+</td>
+</tr>
+</table>
+
+</div> <!-- End Footer -->
+
+</center>
+
+</div> <!-- End Frame -->
+
+</center>
+
+
+<!-- Start of Admin Footer -->
+
+<center>
+
+<table width="758" border="0">
+<tr>
+<td align="left" class="fine">
+Feb 25 2014 </td>
+<td align="center" class="fine">
+</td>
+<td align="right" class="fine">
+<!-- Admin Login/Logout -->
+ <a href="http://icl.cs.utk.edu/netsolve/auth/index.html">Admin Login</a>
+<!-- End of Admin Login/Logout -->
+</td>
+</tr>
+</table>
+
+
+<!-- Stats-->
+
+	
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  _uacct = "UA-749260-1";
+  urchinTracker();
+</script>
+	
+
+
+</center> 
+
+<!-- End of Admin Footer -->
+
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://exodus.physics.ucla.edu/appleseed/>====================
+<HTML><HEAD><TITLE></TITLE><META HTTP-EQUIV="Refresh" CONTENT="0; URL=appleseed.html"></HEAD></HTML>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.openmp.org/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+
+<head profile="http://gmpg.org/xfn/11">
+<link rel="icon" 
+      type="image/png" 
+      href="http://openmp.org/openmp_32x32.png">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>OpenMP.org  </title>
+
+<meta name="generator" content="WordPress 2.5" /> <!-- leave this for stats -->
+
+		<style type="text/css" media="screen">
+			@import url( http://openmp.org/wp/wp-content/themes/upstart-blogger-modicus-01/style.css );
+		</style>
+		
+		<link rel="stylesheet" href="http://openmp.org/wp/wp-content/themes/upstart-blogger-modicus-01/style.css" type="text/css" media="screen" />
+		<link rel="alternate" type="application/rss+xml" title="OpenMP.org RSS Feed" href="http://openmp.org/wp/feed/" />
+		<link rel="pingback" href="http://openmp.org/wp/xmlrpc.php" />
+
+	
+	<!-- needed for apple style search box -->
+	<!-- <link rel="stylesheet" type="text/css" href="default.css" id="default"  /> -->
+	<!-- dummy stylesheet - href to be swapped -->
+	<!-- <link rel="stylesheet" type="text/css" href="dummy.css" id="dummy_css"  /> -->
+	<!-- 
+	<script type="text/javascript" src="applesearch.js"></script>
+	
+	<script type="text/javascript">
+	//<![CDATA[
+		window.onload = function () { applesearch.init(); }
+	//]]>
+	</script>
+        -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://openmp.org/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://openmp.org/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 2.5" />
+
+</head>
+<!-- <body> -->
+<body background="/wp/checkerboard.png">
+
+	<a name="top"></a>
+
+<div id="wrapper"> 
+		<div id="header"><a href="http://openmp.org/wp/"><img src="/wp/openmp_336x120.gif" alt="openmp.org" align="bottom" /></a>
+<br><br>
+<span align="top" style="font-family: geneva; font-size: 18px ; ">&nbsp;&nbsp;The OpenMP® API specification for parallel programming</span>
+</div><!-- end header -->
+
+
+
+<div class="post">
+<div class="entry">
+
+<h3 style="font-size: 18pt; color:Black;"><b><center>OpenMP News</center></b></h3><br/>
+
+<!-- <p>The OpenMP® API specification for parallel programming</p><br/> -->
+		
+	  	<!-- <ul class="archive">
+		<li>
+<a href="http://openmp.org/wp/2014/02/dieter-an-mey-appointed-to-openmp-board-of-directors/" rel="bookmark" title="Permanent Link to Dieter an Mey Appointed to OpenMP Board of Directors">Dieter an Mey Appointed to OpenMP Board of Directors</a> -->
+				
+					<!-- <p>February 13, 2014 - Champaign, Illinois - The OpenMP ARB, a group of  leading hardware and software vendors and research organizations  developing the OpenMP API specification for shared-memory  parallelization, appointed Dieter an Mey to its Board of Directors.  Dieter brings a wealth of experience as an OpenMP user to the Board.<br />
+Dieter [&#8230;]</p>
+ -->
+        <!--                  <p><img class="alignleft" style="float: left; margin: 11px;" title="Dieter an Mey" src="http://openmp.org/wp/img/Dieter.jpg" alt="Dieter an Mey" width="120" height="117" />February 13, 2014 - Champaign, Illinois - The OpenMP ARB, a group of  leading hardware and software vendors and research organizations  developing the OpenMP API specification for shared-memory  parallelization, appointed Dieter an Mey to its Board of Directors.  Dieter brings a wealth of experience as an OpenMP user to the Board.</p>
+<p>Dieter an Mey leads the High Performance Computing team of the <a href="http://www.rwth-aachen.de/" target="_blank">IT Center RWTH Aachen University</a> in Germany. He has a 30+ year track record in HPC with an emphasis on  user support and services. Ever since vectorization and message passing  and the release of the first OpenMP API specification in 1997, Dieter  and his group have actively participated in the OpenMP community. He is  co-author of numerous publications on OpenMP programming and  productivity.</p>
+<p>“I believe Dieter will bring a much needed non-commercial viewpoint  to the Board, as well as a non-US viewpoint”, said Michael Wong, OpenMP  CEO. “He has been a long-time, active OpenMP proponent who is widely  respected within the OpenMP community.”</p>
+<p>Dieter joins Josh Simons of VMware, Sanjiv Shah of Intel, Andy  Fritsch of Texas Instruments and Partha Tirumalai of Oracle on the  OpenMP Board of Directors.</p>
+			<p class="postmetadata">Posted on Feb 14.14 
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd 
+&nbsp;&nbsp;</p>
+			
+		</li>
+	</ul> 
+       -->
+	
+		<h3><a href="http://openmp.org/wp/2014/02/dieter-an-mey-appointed-to-openmp-board-of-directors/" rel="bookmark" title="Permanent Link to Dieter an Mey Appointed to OpenMP Board of Directors">&raquo;Dieter an Mey Appointed to OpenMP Board of Directors</a></h3>
+				
+                          <p><img class="alignleft" style="float: left; margin: 11px;" title="Dieter an Mey" src="http://openmp.org/wp/img/Dieter.jpg" alt="Dieter an Mey" width="120" height="117" />February 13, 2014 - Champaign, Illinois - The OpenMP ARB, a group of  leading hardware and software vendors and research organizations  developing the OpenMP API specification for shared-memory  parallelization, appointed Dieter an Mey to its Board of Directors.  Dieter brings a wealth of experience as an OpenMP user to the Board.</p>
+<p>Dieter an Mey leads the High Performance Computing team of the <a href="http://www.rwth-aachen.de/" target="_blank">IT Center RWTH Aachen University</a> in Germany. He has a 30+ year track record in HPC with an emphasis on  user support and services. Ever since vectorization and message passing  and the release of the first OpenMP API specification in 1997, Dieter  and his group have actively participated in the OpenMP community. He is  co-author of numerous publications on OpenMP programming and  productivity.</p>
+<p>“I believe Dieter will bring a much needed non-commercial viewpoint  to the Board, as well as a non-US viewpoint”, said Michael Wong, OpenMP  CEO. “He has been a long-time, active OpenMP proponent who is widely  respected within the OpenMP community.”</p>
+<p>Dieter joins Josh Simons of VMware, Sanjiv Shah of Intel, Andy  Fritsch of Texas Instruments and Partha Tirumalai of Oracle on the  OpenMP Board of Directors.</p>
+			<p class="postmetadata">Posted on February 14, 2014 
+<!--
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd-->
+&nbsp;&nbsp;</p>
+
+
+		
+
+
+		<!-- <ul class="archive">
+		<li>
+<a href="http://openmp.org/wp/2014/02/updated-openmp-40-examples/" rel="bookmark" title="Permanent Link to Updated OpenMP 4.0 Examples">Updated OpenMP 4.0 Examples</a> -->
+				
+					<!-- <p>An update to the OpenMP 4.0 Examples document is now available. It adds new examples that demonstrate  use of the proc_bind clause to control thread binding for a team of threads in a parallel region. Also, new examples for the taskgroup construct.<br />
+»OpenMP 4.0.1 Examples (PDF) </p>
+ -->
+        <!--                  <p>An update to the OpenMP 4.0 Examples document is now available. It adds new examples that demonstrate  use of the <strong>proc_bind</strong> clause to control thread binding for a team of threads in a parallel region. Also, new examples for the <strong>taskgroup</strong> construct.</p>
+<p><span style="color: #ff0000;"><strong>»</strong></span><a href="http://openmp.org/mp-documents/OpenMP_Examples_4.0.1.pdf"><strong>OpenMP 4.0.1 Examples (PDF) </strong></a></p>
+			<p class="postmetadata">Posted on Feb 10.14 
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd 
+&nbsp;&nbsp;</p>
+			
+		</li>
+	</ul> 
+       -->
+	
+		<h3><a href="http://openmp.org/wp/2014/02/updated-openmp-40-examples/" rel="bookmark" title="Permanent Link to Updated OpenMP 4.0 Examples">&raquo;Updated OpenMP 4.0 Examples</a></h3>
+				
+                          <p>An update to the OpenMP 4.0 Examples document is now available. It adds new examples that demonstrate  use of the <strong>proc_bind</strong> clause to control thread binding for a team of threads in a parallel region. Also, new examples for the <strong>taskgroup</strong> construct.</p>
+<p><span style="color: #ff0000;"><strong>»</strong></span><a href="http://openmp.org/mp-documents/OpenMP_Examples_4.0.1.pdf"><strong>OpenMP 4.0.1 Examples (PDF) </strong></a></p>
+			<p class="postmetadata">Posted on February 10, 2014 
+<!--
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd-->
+&nbsp;&nbsp;</p>
+
+
+		
+
+
+		<!-- <ul class="archive">
+		<li>
+<a href="http://openmp.org/wp/2014/01/spring-lang-committee-meeting-scheduled/" rel="bookmark" title="Permanent Link to Spring Lang Committee Meeting Scheduled">Spring Lang Committee Meeting Scheduled</a> -->
+				
+					<!-- <p>As the Winter face-to-face meeting of the OpenMP Language Committee winds down at Intel in Santa Clara, CA, we can announce the date and location of the next meeting in the Spring:<br />
+Spring F2F Meeting</p>
+<p>At: Sidney Sussex College, Cambridge, UK<br />
+Dates: April 12-16 (Sat-Wed)<br />
+Hosts: Michael Wong and James Cownie</p>
+<p>Save the date. Details to follow.</p>
+ -->
+        <!--                  <p>As the Winter face-to-face meeting of the OpenMP Language Committee winds down at Intel in Santa Clara, CA, we can announce the date and location of the next meeting in the Spring:</p>
+<p><strong>Spring F2F Meeting</strong></p>
+<ul>
+<li><strong>At:</strong> <span>Sidney Sussex College, Cambridge, UK</span></li>
+<li><strong>Dates:</strong> April 12-16 (Sat-Wed)</li>
+<li><strong>Hosts:</strong> Michael Wong and James Cownie</li>
+</ul>
+<div>Save the date. Details to follow.</div>
+			<p class="postmetadata">Posted on Jan 30.14 
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd 
+&nbsp;&nbsp;</p>
+			
+		</li>
+	</ul> 
+       -->
+	
+		<h3><a href="http://openmp.org/wp/2014/01/spring-lang-committee-meeting-scheduled/" rel="bookmark" title="Permanent Link to Spring Lang Committee Meeting Scheduled">&raquo;Spring Lang Committee Meeting Scheduled</a></h3>
+				
+                          <p>As the Winter face-to-face meeting of the OpenMP Language Committee winds down at Intel in Santa Clara, CA, we can announce the date and location of the next meeting in the Spring:</p>
+<p><strong>Spring F2F Meeting</strong></p>
+<ul>
+<li><strong>At:</strong> <span>Sidney Sussex College, Cambridge, UK</span></li>
+<li><strong>Dates:</strong> April 12-16 (Sat-Wed)</li>
+<li><strong>Hosts:</strong> Michael Wong and James Cownie</li>
+</ul>
+<div>Save the date. Details to follow.</div>
+			<p class="postmetadata">Posted on January 30, 2014 
+<!--
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd-->
+&nbsp;&nbsp;</p>
+
+
+		
+
+
+		<!-- <ul class="archive">
+		<li>
+<a href="http://openmp.org/wp/2014/01/hybrid-mpiopenmp-tutorial-available/" rel="bookmark" title="Permanent Link to Hybrid MPI+OpenMP Tutorial Available">Hybrid MPI+OpenMP Tutorial Available</a> -->
+				
+					<!-- <p>Slides and audio from the day-long tutorial on MPI and OpenMP programming presented at Supercomputing 13 in Denver in  November 2013 is now available.<br />
+»Hybrid MPI and OpenMP Parallel Programming<br />
+ MPI + OpenMP and other models on clusters of SMP nodes<br />
+  - Rolf Rabenseifner, Georg Hager, Gabriele Jost</p>
+ -->
+        <!--                  <p>Slides and audio from the day-long tutorial on MPI and OpenMP programming presented at Supercomputing 13 in Denver in  November 2013 is now available.</p>
+<p><span style="color: #ff0000;">»</span><a title="Permanent Link: SC13 Tutorial: Hybrid MPI and OpenMP Parallel Programming" rel="bookmark" href="http://openmp.org/wp/sc13-tutorial-hybrid-mpi-and-openmp-parallel-programming/"><strong>Hybrid MPI and OpenMP Parallel Programming</strong><br />
+</a><strong><em> MPI + OpenMP and other models on clusters of SMP nodes<br />
+</em> </strong><span style="font-size: 13px; font-weight: normal;"> - Rolf Rabenseifner, Georg Hager, Gabriele Jost</span></p>
+			<p class="postmetadata">Posted on Jan 30.14 
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd 
+&nbsp;&nbsp;</p>
+			
+		</li>
+	</ul> 
+       -->
+	
+		<h3><a href="http://openmp.org/wp/2014/01/hybrid-mpiopenmp-tutorial-available/" rel="bookmark" title="Permanent Link to Hybrid MPI+OpenMP Tutorial Available">&raquo;Hybrid MPI+OpenMP Tutorial Available</a></h3>
+				
+                          <p>Slides and audio from the day-long tutorial on MPI and OpenMP programming presented at Supercomputing 13 in Denver in  November 2013 is now available.</p>
+<p><span style="color: #ff0000;">»</span><a title="Permanent Link: SC13 Tutorial: Hybrid MPI and OpenMP Parallel Programming" rel="bookmark" href="http://openmp.org/wp/sc13-tutorial-hybrid-mpi-and-openmp-parallel-programming/"><strong>Hybrid MPI and OpenMP Parallel Programming</strong><br />
+</a><strong><em> MPI + OpenMP and other models on clusters of SMP nodes<br />
+</em> </strong><span style="font-size: 13px; font-weight: normal;"> - Rolf Rabenseifner, Georg Hager, Gabriele Jost</span></p>
+			<p class="postmetadata">Posted on January 30, 2014 
+<!--
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd-->
+&nbsp;&nbsp;</p>
+
+
+		
+
+
+		<!-- <ul class="archive">
+		<li>
+<a href="http://openmp.org/wp/2014/01/lang-committee-meeting-january-27-31-in-santa-clara/" rel="bookmark" title="Permanent Link to Lang Committee Meeting January 27-31 in Santa Clara">Lang Committee Meeting January 27-31 in Santa Clara</a> -->
+				
+					<!-- <p>The OpenMP Lang Committee will be holding its first face-to-face     meeting of 2014 on the Intel campus in Santa Clara, CA January 27-31.<br />
+This meeting will include breakout sessions and presentations by the     various subcommittees (Accelerator, Error Model,       Interoperability, Fortran, Tasking, Examples) [&#8230;]</p>
+ -->
+        <!--                  <p>The OpenMP Lang Committee will be holding its first face-to-face     meeting of 2014 on the Intel campus in Santa Clara, CA January 27-31.</p>
+<p>This meeting will include breakout sessions and presentations by the     various subcommittees (<em>Accelerator, Error Model,       Interoperability, Fortran, Tasking, Examples</em>) as work     continues to develop the next version of the OpenMP API     specifications.</p>
+<p>This meeting is not open to the public without a prior arrangement.     Contact the OpenMP ARB at <a href="mailto:info@openmp.org" target="_blank">info@openmp.org</a> for more information.</p>
+			<p class="postmetadata">Posted on Jan 15.14 
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd 
+&nbsp;&nbsp;</p>
+			
+		</li>
+	</ul> 
+       -->
+	
+		<h3><a href="http://openmp.org/wp/2014/01/lang-committee-meeting-january-27-31-in-santa-clara/" rel="bookmark" title="Permanent Link to Lang Committee Meeting January 27-31 in Santa Clara">&raquo;Lang Committee Meeting January 27-31 in Santa Clara</a></h3>
+				
+                          <p>The OpenMP Lang Committee will be holding its first face-to-face     meeting of 2014 on the Intel campus in Santa Clara, CA January 27-31.</p>
+<p>This meeting will include breakout sessions and presentations by the     various subcommittees (<em>Accelerator, Error Model,       Interoperability, Fortran, Tasking, Examples</em>) as work     continues to develop the next version of the OpenMP API     specifications.</p>
+<p>This meeting is not open to the public without a prior arrangement.     Contact the OpenMP ARB at <a href="mailto:info@openmp.org" target="_blank">info@openmp.org</a> for more information.</p>
+			<p class="postmetadata">Posted on January 15, 2014 
+<!--
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd-->
+&nbsp;&nbsp;</p>
+
+
+		
+
+
+		<!-- <ul class="archive">
+		<li>
+<a href="http://openmp.org/wp/2013/12/video-performance-essentials-with-openmp-40-vectorization/" rel="bookmark" title="Permanent Link to Video: Performance Essentials with OpenMP 4.0 Vectorization">Video: Performance Essentials with OpenMP 4.0 Vectorization</a> -->
+				
+					<!-- <p>Intel has posted a video tutorial on the use of the OpenMP 4.0 SIMD pragmas.<br />
+http://software.intel.com/en-us/articles/performance-essentials-with-openmp-40-vectorization<br />
+A series of seven videos covering performance essentials using OpenMP 4.0 Vectorization with C/C++. It provides an overview of why explicit vector programming methods are crucial to getting performance on modern many core platforms. In the series, we explore code snippets [&#8230;]</p>
+ -->
+        <!--                  <p>Intel has posted a video tutorial on the use of the OpenMP 4.0 SIMD pragmas.</p>
+<p><a href="http://software.intel.com/en-us/articles/performance-essentials-with-openmp-40-vectorization" target="_blank">http://software.intel.com/en-us/articles/performance-essentials-with-openmp-40-vectorization</a></p>
+<p><span>A series of seven videos covering performance essentials using OpenMP 4.0 Vectorization with C/C++. It provides an overview of why explicit vector programming methods are crucial to getting performance on modern many core platforms. In the series, we explore code snippets and background information on such topics as OpenMP* 4.0 Simd-enabled functions, and explicit SIMD loops, as well as techniques to help determine if targeted loops were vectorized and if not, why not. Each video is typically less than 10 minutes in length and yet provides a good starting point for developer who wishes to get started using these technologies.</span></p>
+			<p class="postmetadata">Posted on Dec 19.13 
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd 
+&nbsp;&nbsp;</p>
+			
+		</li>
+	</ul> 
+       -->
+	
+		<h3><a href="http://openmp.org/wp/2013/12/video-performance-essentials-with-openmp-40-vectorization/" rel="bookmark" title="Permanent Link to Video: Performance Essentials with OpenMP 4.0 Vectorization">&raquo;Video: Performance Essentials with OpenMP 4.0 Vectorization</a></h3>
+				
+                          <p>Intel has posted a video tutorial on the use of the OpenMP 4.0 SIMD pragmas.</p>
+<p><a href="http://software.intel.com/en-us/articles/performance-essentials-with-openmp-40-vectorization" target="_blank">http://software.intel.com/en-us/articles/performance-essentials-with-openmp-40-vectorization</a></p>
+<p><span>A series of seven videos covering performance essentials using OpenMP 4.0 Vectorization with C/C++. It provides an overview of why explicit vector programming methods are crucial to getting performance on modern many core platforms. In the series, we explore code snippets and background information on such topics as OpenMP* 4.0 Simd-enabled functions, and explicit SIMD loops, as well as techniques to help determine if targeted loops were vectorized and if not, why not. Each video is typically less than 10 minutes in length and yet provides a good starting point for developer who wishes to get started using these technologies.</span></p>
+			<p class="postmetadata">Posted on December 19, 2013 
+<!--
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd-->
+&nbsp;&nbsp;</p>
+
+
+		
+
+
+		<!-- <ul class="archive">
+		<li>
+<a href="http://openmp.org/wp/2013/12/reflections-on-sc13-and-openmp/" rel="bookmark" title="Permanent Link to Reflections on SC13 and OpenMP">Reflections on SC13 and OpenMP</a> -->
+				
+					<!-- <p>Michael Wong, CEO of OpenMP ARB, reflects on Supercomputing 13 and recent OpenMP advances:<br />
+I attended Supercomputing in my third year as OpenMP CEO to both represent IBM and OpenMP. This was a big year for us as we closed with many milestones in what I call a Significant Paradigm shift in Parallelism. The most significant [&#8230;]</p>
+ -->
+        <!--                  <p><strong><em>Michael Wong, CEO of OpenMP ARB, reflects on Supercomputing 13 and recent OpenMP advances:</em></strong></p>
+<p dir="ltr">I attended Supercomputing in my third year as OpenMP CEO to both represent IBM and OpenMP. This was a big year for us as we closed with many milestones in what I call a Significant Paradigm shift in Parallelism. The most significant milestone was that t<span>he OpenMP Consortium has released OpenMP 4.0 in 2013 with new parallelism features that are productive, portable, and performant across C, C++, and Fortran. OpenMP 4.0 contains significant additions for accelerators, standardized for a broad set of architectures, and an industry-first support for SIMD vectorization. It was being showcased at SC13.</span></p>
+<p dir="ltr"><span>The OpenMP ARB Consortium now has 26 members and is still growing, adding three new members in the last year:</span></p>
+<ul dir="ltr">
+<li><span><span>Red Hat/GCC</span></span></li>
+<li><span><span>Barcelona SuperComputing Centre</span></span></li>
+<li><span><span>University of Houston</span></span></li>
+</ul>
+<p dir="ltr"><span>Coming implementations of OpenMP 4.0 include GNU, and the Intel 13.1 compiler with support for accelerators. Clang has started with support with OpenMP 3.1. <a href="http://openmp.org/wp/2013/12/reflections-on-sc13-and-openmp/#more-141" class="more-link">(more&#8230;)</a></p>
+			<p class="postmetadata">Posted on Dec 12.13 
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd 
+&nbsp;&nbsp;</p>
+			
+		</li>
+	</ul> 
+       -->
+	
+		<h3><a href="http://openmp.org/wp/2013/12/reflections-on-sc13-and-openmp/" rel="bookmark" title="Permanent Link to Reflections on SC13 and OpenMP">&raquo;Reflections on SC13 and OpenMP</a></h3>
+				
+                          <p><strong><em>Michael Wong, CEO of OpenMP ARB, reflects on Supercomputing 13 and recent OpenMP advances:</em></strong></p>
+<p dir="ltr">I attended Supercomputing in my third year as OpenMP CEO to both represent IBM and OpenMP. This was a big year for us as we closed with many milestones in what I call a Significant Paradigm shift in Parallelism. The most significant milestone was that t<span>he OpenMP Consortium has released OpenMP 4.0 in 2013 with new parallelism features that are productive, portable, and performant across C, C++, and Fortran. OpenMP 4.0 contains significant additions for accelerators, standardized for a broad set of architectures, and an industry-first support for SIMD vectorization. It was being showcased at SC13.</span></p>
+<p dir="ltr"><span>The OpenMP ARB Consortium now has 26 members and is still growing, adding three new members in the last year:</span></p>
+<ul dir="ltr">
+<li><span><span>Red Hat/GCC</span></span></li>
+<li><span><span>Barcelona SuperComputing Centre</span></span></li>
+<li><span><span>University of Houston</span></span></li>
+</ul>
+<p dir="ltr"><span>Coming implementations of OpenMP 4.0 include GNU, and the Intel 13.1 compiler with support for accelerators. Clang has started with support with OpenMP 3.1. <a href="http://openmp.org/wp/2013/12/reflections-on-sc13-and-openmp/#more-141" class="more-link">(more&#8230;)</a></p>
+			<p class="postmetadata">Posted on December 12, 2013 
+<!--
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd-->
+&nbsp;&nbsp;</p>
+
+
+		
+
+
+		<!-- <ul class="archive">
+		<li>
+<a href="http://openmp.org/wp/2013/12/article-openmp-40/" rel="bookmark" title="Permanent Link to Article: OpenMP 4.0">Article: OpenMP 4.0</a> -->
+				
+					<!-- <p>A new article, &#8220;Full Throttle: OpenMP 4.0&#8221; by Michael Klemm, Senior Application Engineer, Intel and Christian Terboven, Deputy Head of HPC Group, RWTH Aachen University, appears in the current issue of Intel&#8217;s Parallel Universe magazine.<br />
+“Multicore is here to stay.” This single sentence accurately describes the situation of application developers and the hardware evolution they are facing. Since [&#8230;]</p>
+ -->
+        <!--                  <p><img class="alignleft" style="float: left; margin: 15px;" src="http://openmp.org/images/fullThrottle.png" alt="" width="250" />A new article, &#8220;<strong><em>Full Throttle: OpenMP 4.0</em></strong>&#8221; by Michael Klemm, Senior Application Engineer, Intel <span style="font-size: 13px; line-height: 19px;">and Christian Terboven, Deputy Head of HPC Group, RWTH Aachen University, appears in the current issue of Intel&#8217;s <em>Parallel Universe</em> magazine.</span></p>
+<p><em>“Multicore is here to stay.” This single sentence accurately describes the situation of application developers and the hardware evolution they are facing. Since the introduction of the first dual-core CPUs, the number of cores has kept increasing. The advent of the Intel® Xeon Phi™ coprocessor has pushed us into the world of manycore— where up to 61 cores with 4 threads each impose new requirements on the parallelism of applications to exploit the capabilities of the hardware.</em></p>
+<p><em>It is not only the ever-increasing number of cores that requires more parallelism in an application. Over the past years, the width of SIMD (Single Instruction Multiple Data) registers has been growing. While the early single instruction multiple data (SIMD) instructions of Intel® MMX™ technology used 64-bit registers, our newest family member, Intel® Advanced Vector Instructions 512 (Intel® AVX-512), runs with 512-bit registers. That’s an awesome 16 floating-point numbers in single precision, or eight double-precision numbers that can be computed in one go. If your application does not exploit these SIMD capabilities, you can easily lose a factor of 16x or 8x compared to the peak performance of the CPU.</em></p>
+<p>To read the entire article, <a title="Intel's Parallel Universe Magaine #16" href="http://download-software.intel.com/sites/default/files/managed/64/cc/parallel_mag_issue16.pdf" target="_blank"><strong>download the magazine in PDF</strong></a>.  The article starts on page 6.</p>
+			<p class="postmetadata">Posted on Dec 10.13 
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd 
+&nbsp;&nbsp;</p>
+			
+		</li>
+	</ul> 
+       -->
+	
+		<h3><a href="http://openmp.org/wp/2013/12/article-openmp-40/" rel="bookmark" title="Permanent Link to Article: OpenMP 4.0">&raquo;Article: OpenMP 4.0</a></h3>
+				
+                          <p><img class="alignleft" style="float: left; margin: 15px;" src="http://openmp.org/images/fullThrottle.png" alt="" width="250" />A new article, &#8220;<strong><em>Full Throttle: OpenMP 4.0</em></strong>&#8221; by Michael Klemm, Senior Application Engineer, Intel <span style="font-size: 13px; line-height: 19px;">and Christian Terboven, Deputy Head of HPC Group, RWTH Aachen University, appears in the current issue of Intel&#8217;s <em>Parallel Universe</em> magazine.</span></p>
+<p><em>“Multicore is here to stay.” This single sentence accurately describes the situation of application developers and the hardware evolution they are facing. Since the introduction of the first dual-core CPUs, the number of cores has kept increasing. The advent of the Intel® Xeon Phi™ coprocessor has pushed us into the world of manycore— where up to 61 cores with 4 threads each impose new requirements on the parallelism of applications to exploit the capabilities of the hardware.</em></p>
+<p><em>It is not only the ever-increasing number of cores that requires more parallelism in an application. Over the past years, the width of SIMD (Single Instruction Multiple Data) registers has been growing. While the early single instruction multiple data (SIMD) instructions of Intel® MMX™ technology used 64-bit registers, our newest family member, Intel® Advanced Vector Instructions 512 (Intel® AVX-512), runs with 512-bit registers. That’s an awesome 16 floating-point numbers in single precision, or eight double-precision numbers that can be computed in one go. If your application does not exploit these SIMD capabilities, you can easily lose a factor of 16x or 8x compared to the peak performance of the CPU.</em></p>
+<p>To read the entire article, <a title="Intel's Parallel Universe Magaine #16" href="http://download-software.intel.com/sites/default/files/managed/64/cc/parallel_mag_issue16.pdf" target="_blank"><strong>download the magazine in PDF</strong></a>.  The article starts on page 6.</p>
+			<p class="postmetadata">Posted on December 10, 2013 
+<!--
+to <a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a> by rchrd-->
+&nbsp;&nbsp;</p>
+
+
+		
+
+
+			<div class="navigation">
+		<div class="alignleft"><a href="http://openmp.org/wp/page/2/">&laquo; Previous Entries</a></div>
+		<div class="alignright"></div>
+	</div>
+</div>
+
+
+
+
+</div><!-- end post -->
+
+
+<div id="sidebar2">
+<div id="box">
+	<p align="center"><span style="font-size:18px; font-weight:bold;">The OpenMP API  </span>
+supports multi-platform shared-memory parallel programming in C/C++ and Fortran. The OpenMP API defines a portable, scalable model with a simple and flexible interface for developing parallel applications on platforms from the desktop to the supercomputer. <br /><b><span style="color:Red;">&raquo;</span><i><a href="about-openmp/">Read about OpenMP.org</a></i></b>
+		
+	</p>
+</div>
+
+ 
+
+
+
+<div id="box">
+<h1 style="font-size:12pt;"><b>Get</b></h1>
+
+<p><a href="http://openmp.org/wp/openmp-specifications/"><span style="color:Red;">&raquo;</span>OpenMP specs</a></p>
+<hr>
+
+
+<h1 style="font-size:12pt;"><b>Use</b></h1>
+<p><a href="openmp-compilers/"><span style="color:Red;">&raquo;</span>OpenMP Compilers</a></p>
+
+<hr>
+
+<h1 style="font-size:12pt;"><b>Learn </b></h1><a href="http://mitpress.mit.edu/books/using-openmp" target="_blank"><img src="/wp/img/usingopenmp.jpg" align="center" width="170px" border="1px" vspace="11"></a>
+<p><b><span style="color:Red;">&raquo;</span><a href="http://mitpress.mit.edu/books/using-openmp" target="_blank"><i>Using OpenMP</i><small> -- the book</small></a></b><br><b><span style="color:Red;">&raquo;</span><a href="http://openmp.org/examples/Using-OpenMP-Examples-Distr.zip" target="_blank" ><i>Using OpenMP</i><small> -- the examples</small></a></b><br>
+<b><span style="color:Red;">&raquo;</span><a href="http://openmp.org/forum/viewforum.php?f=8"><i>Using OpenMP</i><small> -- the forum</small></a></b><br>
+<b><span style="color:Red;">&raquo;</span><a href="http://en.wikipedia.org/wiki/OpenMP" target="_blank" >Wikipedia</b></a><br>
+<b><span style="color:Red;">&raquo;</span><a href="http://tinyurl.com/OpenMP-Tutorial" target="_blank">OpenMP Tutorial</b></a>
+<br>
+<b><span style="color:Red;">&raquo;</span><a href="resources/">More Resources</b></a>
+</p>
+
+<hr>
+
+<h1 style="font-size:12pt;"><b>Discuss</b></h1>
+<p><b><span style="color:Red;">&raquo;</span></b><a 
+href="http://openmp.org/forum/">User Forum</a>
+<br />
+<em>Ask the experts and get answers to questions about OpenMP</em></p>
+
+</div>
+<div id="box">
+	<h1 style="font-size:12pt;"><b>Recent News</b></h1>
+	<ul>	<small> 	
+     
+  
+		<li><!-- <span class="cat"><a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a></span>--> <a href="http://openmp.org/wp/2014/02/dieter-an-mey-appointed-to-openmp-board-of-directors/" rel="bookmark" title="Permanent Link to Dieter an Mey Appointed to OpenMP Board of Directors">Dieter an Mey Appointed to OpenMP Board of Directors</a>
+		
+				 </li>		
+		  
+  
+		<li><!-- <span class="cat"><a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a></span>--> <a href="http://openmp.org/wp/2014/02/updated-openmp-40-examples/" rel="bookmark" title="Permanent Link to Updated OpenMP 4.0 Examples">Updated OpenMP 4.0 Examples</a>
+		
+				 </li>		
+		  
+  
+		<li><!-- <span class="cat"><a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a></span>--> <a href="http://openmp.org/wp/2014/01/spring-lang-committee-meeting-scheduled/" rel="bookmark" title="Permanent Link to Spring Lang Committee Meeting Scheduled">Spring Lang Committee Meeting Scheduled</a>
+		
+				 </li>		
+		  
+  
+		<li><!-- <span class="cat"><a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a></span>--> <a href="http://openmp.org/wp/2014/01/hybrid-mpiopenmp-tutorial-available/" rel="bookmark" title="Permanent Link to Hybrid MPI+OpenMP Tutorial Available">Hybrid MPI+OpenMP Tutorial Available</a>
+		
+				 </li>		
+		  
+  
+		<li><!-- <span class="cat"><a href="http://openmp.org/wp/category/uncategorized/" title="View all posts in Website" rel="category tag">Website</a></span>--> <a href="http://openmp.org/wp/2014/01/lang-committee-meeting-january-27-31-in-santa-clara/" rel="bookmark" title="Permanent Link to Lang Committee Meeting January 27-31 in Santa Clara">Lang Committee Meeting January 27-31 in Santa Clara</a>
+		
+				 </li>		
+			</small></ul>
+	</div>
+	
+
+
+	
+
+	
+	        
+                
+</div>
+
+
+<!-- end sidebar2 -->
+<!-- --------------------------------------------------------------------------------- -->
+<div id="sidebar">
+<div id="box">
+	<a href="http://openmp.org/wp/feed/"><img src="http://openmp.org/wp/wp-content/themes/upstart-blogger-modicus-01/images/rss_black.png" alt="RSS" width="20px" /><br><b>Subscribe to the News Feed</b></a>
+	<!-- <h1><a href="http://openmp.org/wp/">&raquo;OpenMP.org Home</a></h1> -->
+	<!-- <p>The OpenMP® API specification for parallel programming</p> -->
+   <br />
+</div>
+
+<div id="box"
+<p style="font-size:10pt;"><span style="color:Red;">&raquo;</span><a href="http://openmp.org/wp/openmp-specifications/"><b>OpenMP Specifications</b> </a></p>
+</div>
+
+<div id="box">
+<!--   <h1 style="font-size:12pt;"><b>What's Here:</b></h1> -->
+
+<p style="line-height:150%;">
+  
+<span style="color:Red;">&raquo;</span><a href="http://openmp.org/wp/about-openmp/"><strong>About the OpenMP ARB</strong></a><br /> 
+<span style="color:Red;">&raquo;</span><a href="http://openmp.org/openmp-faq.html"><strong>Frequently Asked Questions</strong></a><br /> 
+   <span style="color:Red;">&raquo;</span><a href="http://openmp.org/wp/openmp-compilers/"><strong>Compilers</strong></a><br />
+   <span style="color:Red;">&raquo;</span><a href="http://openmp.org/wp/resources"><strong>Resources</strong></a><br />
+   <span style="color:Red;">&raquo;</span><a href="http://openmp.org/wp/who"><strong>Who's Using OpenMP?</strong></a>
+</p>
+		<!--  <ul> -->
+				
+ <!-- <li class="pagenav"><h3>Site Map</h3><ul><li class="page_item page-item-5"><a href="http://openmp.org/wp/about-openmp/" title="About the OpenMP ARB and OpenMP.org">About the OpenMP ARB and OpenMP.org</a></li>
+<li class="page_item page-item-86"><a href="http://openmp.org/wp/convey-computer-pr/" title="Convey Computer, maker of the world’s first hybrid-core computer, joins the   OpenMP effort">Convey Computer, maker of the world’s first hybrid-core computer, joins the   OpenMP effort</a></li>
+<li class="page_item page-item-148"><a href="http://openmp.org/wp/dieter-an-mey-of-aachen-university-to-openmp-board-of-directors/" title="Dieter an Mey of Aachen University Appointed to OpenMP Board of Directors">Dieter an Mey of Aachen University Appointed to OpenMP Board of Directors</a></li>
+<li class="page_item page-item-90"><a href="http://openmp.org/wp/trademarks/" title="Guidelines for Using OpenMP Trademarks and Logos">Guidelines for Using OpenMP Trademarks and Logos</a></li>
+<li class="page_item page-item-109"><a href="http://openmp.org/wp/iwomp-2013/" title="IWOMP 2013 in Canberra, Australia">IWOMP 2013 in Canberra, Australia</a></li>
+<li class="page_item page-item-37"><a href="http://openmp.org/wp/join/" title="Join the OpenMP Architecture Review Board">Join the OpenMP Architecture Review Board</a></li>
+<li class="page_item page-item-69"><a href="http://openmp.org/wp/new-ceo-and-marketing-coordinator/" title="New CEO And Marketing Coordinator">New CEO And Marketing Coordinator</a></li>
+<li class="page_item page-item-70"><a href="http://openmp.org/wp/openmp-31-released/" title="OpenMP 3.1 Released">OpenMP 3.1 Released</a></li>
+<li class="page_item page-item-133"><a href="http://openmp.org/wp/openmp-40-api-at-sc13/" title="OpenMP 4.0 API at SC&#8217;13">OpenMP 4.0 API at SC&#8217;13</a></li>
+<li class="page_item page-item-118"><a href="http://openmp.org/wp/openmp-40-api-released/" title="OpenMP 4.0 API Released">OpenMP 4.0 API Released</a></li>
+<li class="page_item page-item-67"><a href="http://openmp.org/wp/openmp-arb-announces-new-members/" title="OpenMP ARB Announces New Members">OpenMP ARB Announces New Members</a></li>
+<li class="page_item page-item-68"><a href="http://openmp.org/wp/openmp-arb-press-releases/" title="OpenMP ARB Press Releases">OpenMP ARB Press Releases</a></li>
+<li class="page_item page-item-92"><a href="http://openmp.org/wp/privacy/" title="OpenMP ARB Privacy Policy">OpenMP ARB Privacy Policy</a></li>
+<li class="page_item page-item-89"><a href="http://openmp.org/wp/sc12/" title="OpenMP at SC12">OpenMP at SC12</a></li>
+<li class="page_item page-item-126"><a href="http://openmp.org/wp/sc13/" title="OpenMP at SC13 - Denver">OpenMP at SC13 - Denver</a></li>
+<li class="page_item page-item-130"><a href="http://openmp.org/wp/openmp-at-sc13-in-denver/" title="OpenMP at SC13 in Denver">OpenMP at SC13 in Denver</a></li>
+<li class="page_item page-item-129"><a href="http://openmp.org/wp/sc13-2/" title="OpenMP Booth at SC 13 - Denver">OpenMP Booth at SC 13 - Denver</a></li>
+<li class="page_item page-item-7"><a href="http://openmp.org/wp/openmp-compilers/" title="OpenMP Compilers">OpenMP Compilers</a></li>
+<li class="page_item page-item-119"><a href="http://openmp.org/wp/red_hat_announcement/" title="OpenMP Consortium Announces Red Hat As New Member">OpenMP Consortium Announces Red Hat As New Member</a></li>
+<li class="page_item page-item-95"><a href="http://openmp.org/wp/technical-report-1/" title="OpenMP Consortium Releases Technical Report on Directives for Attached Accelerators">OpenMP Consortium Releases Technical Report on Directives for Attached Accelerators</a></li>
+<li class="page_item page-item-79"><a href="http://openmp.org/wp/27march2012/" title="OpenMP is Being Improved for Accelerators, Multicore and Embedded Systems">OpenMP is Being Improved for Accelerators, Multicore and Embedded Systems</a></li>
+<li class="page_item page-item-4"><a href="http://openmp.org/wp/openmp-specifications/" title="OpenMP Specifications">OpenMP Specifications</a></li>
+<li class="page_item page-item-98"><a href="http://openmp.org/wp/openmp-40-rc1/" title="OpenMP Standard Releases Draft Version 4.0 With Significant New Features">OpenMP Standard Releases Draft Version 4.0 With Significant New Features</a></li>
+<li class="page_item page-item-71"><a href="http://openmp.org/wp/calendar/" title="OpenMP.org Community Calendar">OpenMP.org Community Calendar</a></li>
+<li class="page_item page-item-6"><a href="http://openmp.org/wp/resources/" title="Resources">Resources</a></li>
+<li class="page_item page-item-135"><a href="http://openmp.org/wp/sc13-presos/" title="SC13 - Denver - November 2013">SC13 - Denver - November 2013</a></li>
+<li class="page_item page-item-144"><a href="http://openmp.org/wp/sc13-tutorial-hybrid-mpi-and-openmp-parallel-programming/" title="SC13 Tutorial: Hybrid MPI and OpenMP Parallel Programming">SC13 Tutorial: Hybrid MPI and OpenMP Parallel Programming</a></li>
+<li class="page_item page-item-43"><a href="http://openmp.org/wp/tools/" title="Tools">Tools</a></li>
+<li class="page_item page-item-124"><a href="http://openmp.org/wp/u-of-houston/" title="University of Houston Joins the OpenMP Effort">University of Houston Joins the OpenMP Effort</a></li>
+<li class="page_item page-item-137"><a href="http://openmp.org/wp/videos/" title="Videos">Videos</a></li>
+<li class="page_item page-item-82"><a href="http://openmp.org/wp/whos-using-openmp/" title="Who&#8217;s Using OpenMP?">Who&#8217;s Using OpenMP?</a></li>
+</ul></li>   
+                  <h1><b>Site Map:</b></h1>
+                  <ul><strong>
+				<li class="page_item page-item-5"><a href="http://openmp.org/wp/about-openmp/" title="About the OpenMP ARB and OpenMP.org">About the OpenMP ARB and OpenMP.org</a></li>
+<li class="page_item page-item-86"><a href="http://openmp.org/wp/convey-computer-pr/" title="Convey Computer, maker of the world’s first hybrid-core computer, joins the   OpenMP effort">Convey Computer, maker of the world’s first hybrid-core computer, joins the   OpenMP effort</a></li>
+<li class="page_item page-item-148"><a href="http://openmp.org/wp/dieter-an-mey-of-aachen-university-to-openmp-board-of-directors/" title="Dieter an Mey of Aachen University Appointed to OpenMP Board of Directors">Dieter an Mey of Aachen University Appointed to OpenMP Board of Directors</a></li>
+<li class="page_item page-item-90"><a href="http://openmp.org/wp/trademarks/" title="Guidelines for Using OpenMP Trademarks and Logos">Guidelines for Using OpenMP Trademarks and Logos</a></li>
+<li class="page_item page-item-109"><a href="http://openmp.org/wp/iwomp-2013/" title="IWOMP 2013 in Canberra, Australia">IWOMP 2013 in Canberra, Australia</a></li>
+<li class="page_item page-item-37"><a href="http://openmp.org/wp/join/" title="Join the OpenMP Architecture Review Board">Join the OpenMP Architecture Review Board</a></li>
+<li class="page_item page-item-69"><a href="http://openmp.org/wp/new-ceo-and-marketing-coordinator/" title="New CEO And Marketing Coordinator">New CEO And Marketing Coordinator</a></li>
+<li class="page_item page-item-70"><a href="http://openmp.org/wp/openmp-31-released/" title="OpenMP 3.1 Released">OpenMP 3.1 Released</a></li>
+<li class="page_item page-item-133"><a href="http://openmp.org/wp/openmp-40-api-at-sc13/" title="OpenMP 4.0 API at SC&#8217;13">OpenMP 4.0 API at SC&#8217;13</a></li>
+<li class="page_item page-item-118"><a href="http://openmp.org/wp/openmp-40-api-released/" title="OpenMP 4.0 API Released">OpenMP 4.0 API Released</a></li>
+<li class="page_item page-item-67"><a href="http://openmp.org/wp/openmp-arb-announces-new-members/" title="OpenMP ARB Announces New Members">OpenMP ARB Announces New Members</a></li>
+<li class="page_item page-item-68"><a href="http://openmp.org/wp/openmp-arb-press-releases/" title="OpenMP ARB Press Releases">OpenMP ARB Press Releases</a></li>
+<li class="page_item page-item-92"><a href="http://openmp.org/wp/privacy/" title="OpenMP ARB Privacy Policy">OpenMP ARB Privacy Policy</a></li>
+<li class="page_item page-item-89"><a href="http://openmp.org/wp/sc12/" title="OpenMP at SC12">OpenMP at SC12</a></li>
+<li class="page_item page-item-126"><a href="http://openmp.org/wp/sc13/" title="OpenMP at SC13 - Denver">OpenMP at SC13 - Denver</a></li>
+<li class="page_item page-item-130"><a href="http://openmp.org/wp/openmp-at-sc13-in-denver/" title="OpenMP at SC13 in Denver">OpenMP at SC13 in Denver</a></li>
+<li class="page_item page-item-129"><a href="http://openmp.org/wp/sc13-2/" title="OpenMP Booth at SC 13 - Denver">OpenMP Booth at SC 13 - Denver</a></li>
+<li class="page_item page-item-7"><a href="http://openmp.org/wp/openmp-compilers/" title="OpenMP Compilers">OpenMP Compilers</a></li>
+<li class="page_item page-item-119"><a href="http://openmp.org/wp/red_hat_announcement/" title="OpenMP Consortium Announces Red Hat As New Member">OpenMP Consortium Announces Red Hat As New Member</a></li>
+<li class="page_item page-item-95"><a href="http://openmp.org/wp/technical-report-1/" title="OpenMP Consortium Releases Technical Report on Directives for Attached Accelerators">OpenMP Consortium Releases Technical Report on Directives for Attached Accelerators</a></li>
+<li class="page_item page-item-79"><a href="http://openmp.org/wp/27march2012/" title="OpenMP is Being Improved for Accelerators, Multicore and Embedded Systems">OpenMP is Being Improved for Accelerators, Multicore and Embedded Systems</a></li>
+<li class="page_item page-item-4"><a href="http://openmp.org/wp/openmp-specifications/" title="OpenMP Specifications">OpenMP Specifications</a></li>
+<li class="page_item page-item-98"><a href="http://openmp.org/wp/openmp-40-rc1/" title="OpenMP Standard Releases Draft Version 4.0 With Significant New Features">OpenMP Standard Releases Draft Version 4.0 With Significant New Features</a></li>
+<li class="page_item page-item-71"><a href="http://openmp.org/wp/calendar/" title="OpenMP.org Community Calendar">OpenMP.org Community Calendar</a></li>
+<li class="page_item page-item-6"><a href="http://openmp.org/wp/resources/" title="Resources">Resources</a></li>
+<li class="page_item page-item-135"><a href="http://openmp.org/wp/sc13-presos/" title="SC13 - Denver - November 2013">SC13 - Denver - November 2013</a></li>
+<li class="page_item page-item-144"><a href="http://openmp.org/wp/sc13-tutorial-hybrid-mpi-and-openmp-parallel-programming/" title="SC13 Tutorial: Hybrid MPI and OpenMP Parallel Programming">SC13 Tutorial: Hybrid MPI and OpenMP Parallel Programming</a></li>
+<li class="page_item page-item-43"><a href="http://openmp.org/wp/tools/" title="Tools">Tools</a></li>
+<li class="page_item page-item-124"><a href="http://openmp.org/wp/u-of-houston/" title="University of Houston Joins the OpenMP Effort">University of Houston Joins the OpenMP Effort</a></li>
+<li class="page_item page-item-137"><a href="http://openmp.org/wp/videos/" title="Videos">Videos</a></li>
+<li class="page_item page-item-82"><a href="http://openmp.org/wp/whos-using-openmp/" title="Who&#8217;s Using OpenMP?">Who&#8217;s Using OpenMP?</a></li>
+   
+                  </strong></ul> 
+ -->
+
+
+
+
+<span style="color:Red;">&raquo;</span><a href="http://openmp.org/wp/openmp-arb-press-releases/"><strong>Press Releases</strong></a><br/>
+<span style="color:Red;">&raquo;</span><a href="http://openmp.org/wp/videos/"><strong>Videos</strong></a>
+</div>
+
+
+<div id="box">
+   <h1 style="font-size:10pt;"><a href="http://openmp.org/forum/">
+<b><span style="color:Red;">&raquo;</span>Discussion Forums</b></a></h1>
+</div>
+
+
+<div id="box">
+<h1 style="font-size:12pt;"><b>Events</b></h1>
+
+<!--
+
+<a href="http://www.ncsa.illinois.edu/Conferences/IWOMP11/" target="_blank">
+<span style="color:red"><b>&raquo;</b></span><b>IWOMP 2011 </a> - 7th International Workshop on OpenMP, June 13 - 15, 2011, Chicago USA
+
+-->
+<span style="color:Red;">&raquo;</span><a href="http://openmp.org/calendar.html"><i>Public OpenMP Calendar</i></a>
+</div>
+
+
+
+
+
+<div id="box">
+<h1 style="font-size:12pt;"><b>Input Register</b></h1>
+Alert the OpenMP.org webmaster about new products, events, or updates and we'll post it here. <b>
+<span style="color:Red;">&raquo;</span><a href="mailto:w&#101;&#98;&#109;&#97;&#115;&#116;&#101;r&#64;&#111;&#112;e&#110;&#109;&#112;&#46;&#111;&#114;&#103;">&#119;&#101;b&#109;&#97;s&#116;&#101;&#114;&#64;&#111;p&#101;&#110;&#109;&#112;&#46;&#111;&#114;&#103;</a>
+</b></div>
+
+<div id="box">
+<a href="https://twitter.com/OpenMP_ARB" class="twitter-follow-button" data-show-count="false">Follow @OpenMP_ARB</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+
+<div id="box">
+		
+		<h1><b>Search OpenMP.org</b></h1>
+				<!-- <div id="applesearch">
+<form method="get" id="search_form" action="http://openmp.org/wp/">				
+		<span class="sbox_l"></span><span class="sbox"><input type="search" name="s" id="s" placeholder="Search..." autosave="applestyle_srch" results="5" onkeyup="applesearch.onChange('srch_fld','srch_clear')" /></span><span class="sbox_r" id="srch_clear"></span>
+			<input type="hidden" id="searchsubmit" value="Search" />
+</form>	</div><br/> -->
+
+<form action="http://www.google.com/cse" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="001261006265320851793:7utx4tmpu18" />
+    <input type="text" name="q" size="23" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+
+
+		<br /> 
+		
+		<h1><b>Archives</b></h1>
+				<ul style="list-style-type: circle;">
+					<li><a href='http://openmp.org/wp/2014/02/' title='February 2014'>February 2014</a></li>
+	<li><a href='http://openmp.org/wp/2014/01/' title='January 2014'>January 2014</a></li>
+	<li><a href='http://openmp.org/wp/2013/12/' title='December 2013'>December 2013</a></li>
+	<li><a href='http://openmp.org/wp/2013/11/' title='November 2013'>November 2013</a></li>
+	<li><a href='http://openmp.org/wp/2013/09/' title='September 2013'>September 2013</a></li>
+	<li><a href='http://openmp.org/wp/2013/07/' title='July 2013'>July 2013</a></li>
+	<li><a href='http://openmp.org/wp/2013/05/' title='May 2013'>May 2013</a></li>
+	<li><a href='http://openmp.org/wp/2013/04/' title='April 2013'>April 2013</a></li>
+	<li><a href='http://openmp.org/wp/2013/03/' title='March 2013'>March 2013</a></li>
+	<li><a href='http://openmp.org/wp/2013/02/' title='February 2013'>February 2013</a></li>
+	<li><a href='http://openmp.org/wp/2013/01/' title='January 2013'>January 2013</a></li>
+	<li><a href='http://openmp.org/wp/2012/12/' title='December 2012'>December 2012</a></li>
+	<li><a href='http://openmp.org/wp/2012/11/' title='November 2012'>November 2012</a></li>
+	<li><a href='http://openmp.org/wp/2012/10/' title='October 2012'>October 2012</a></li>
+	<li><a href='http://openmp.org/wp/2012/09/' title='September 2012'>September 2012</a></li>
+	<li><a href='http://openmp.org/wp/2012/07/' title='July 2012'>July 2012</a></li>
+	<li><a href='http://openmp.org/wp/2012/06/' title='June 2012'>June 2012</a></li>
+	<li><a href='http://openmp.org/wp/2012/05/' title='May 2012'>May 2012</a></li>
+	<li><a href='http://openmp.org/wp/2012/04/' title='April 2012'>April 2012</a></li>
+	<li><a href='http://openmp.org/wp/2012/03/' title='March 2012'>March 2012</a></li>
+	<li><a href='http://openmp.org/wp/2012/02/' title='February 2012'>February 2012</a></li>
+	<li><a href='http://openmp.org/wp/2012/01/' title='January 2012'>January 2012</a></li>
+	<li><a href='http://openmp.org/wp/2011/11/' title='November 2011'>November 2011</a></li>
+	<li><a href='http://openmp.org/wp/2011/10/' title='October 2011'>October 2011</a></li>
+	<li><a href='http://openmp.org/wp/2011/09/' title='September 2011'>September 2011</a></li>
+	<li><a href='http://openmp.org/wp/2011/07/' title='July 2011'>July 2011</a></li>
+	<li><a href='http://openmp.org/wp/2011/05/' title='May 2011'>May 2011</a></li>
+	<li><a href='http://openmp.org/wp/2011/02/' title='February 2011'>February 2011</a></li>
+	<li><a href='http://openmp.org/wp/2010/10/' title='October 2010'>October 2010</a></li>
+	<li><a href='http://openmp.org/wp/2010/07/' title='July 2010'>July 2010</a></li>
+	<li><a href='http://openmp.org/wp/2010/05/' title='May 2010'>May 2010</a></li>
+	<li><a href='http://openmp.org/wp/2009/06/' title='June 2009'>June 2009</a></li>
+	<li><a href='http://openmp.org/wp/2009/04/' title='April 2009'>April 2009</a></li>
+	<li><a href='http://openmp.org/wp/2009/03/' title='March 2009'>March 2009</a></li>
+	<li><a href='http://openmp.org/wp/2009/02/' title='February 2009'>February 2009</a></li>
+	<li><a href='http://openmp.org/wp/2009/01/' title='January 2009'>January 2009</a></li>
+	<li><a href='http://openmp.org/wp/2008/11/' title='November 2008'>November 2008</a></li>
+	<li><a href='http://openmp.org/wp/2008/10/' title='October 2008'>October 2008</a></li>
+	<li><a href='http://openmp.org/wp/2008/09/' title='September 2008'>September 2008</a></li>
+	<li><a href='http://openmp.org/wp/2008/08/' title='August 2008'>August 2008</a></li>
+	<li><a href='http://openmp.org/wp/2008/07/' title='July 2008'>July 2008</a></li>
+	<li><a href='http://openmp.org/wp/2008/06/' title='June 2008'>June 2008</a></li>
+	<li><a href='http://openmp.org/wp/2008/05/' title='May 2008'>May 2008</a></li>
+	<li><a href='http://openmp.org/wp/2008/04/' title='April 2008'>April 2008</a></li>
+				</ul>
+			
+</div> 
+
+		<!-- no blogroll
+														-->
+
+
+
+
+
+<div id="box">
+<p> Copyright © 1998-2014. <i>OpenMP and the OpenMP logo are registered trademarks of the OpenMP Architecture Review Board in the United States and other countries. All rights reserved.</i>
+<br><a href="http://openmp.org/wp/trademarks"><span style="color:Red;">&raquo;</span>Trademarks and Logo Usage</a>
+<br><a href="http://openmp.org/wp/privacy"><span style="color:Red;">&raquo;</span>Privacy Policy</a></p>
+</div>	
+	
+				<!-- PLEASE don't remove the link to Upstart Blogger. Feel free to edit the theme as much as you like, but keep this link in your sidebar or footer. I do it for the egoboo, and keeping this link is good karma. Besides, it automatically links me to you. See http://www.upstartblogger.com/referrers 
+				<li>Modicus theme by <a href="http://www.upstartblogger.com/"><strong>Upstart Blogger</strong></a>.</li> -->
+		
+			
+					</ul>
+</div><!-- end sidebar -->
+
+
+<div id="footer">
+	       	 
+ 
+		<!-- 20 queries. 1.067 seconds. -->
+
+</div><!-- end footer -->
+
+
+
+</div><!-- end wrapper -->
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5385519-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</div>
+
+
+
+</body>
+</html>
+
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.eecs.harvard.edu/~mdw/proj/old/jaguar/>====================
+<html><head>
+<title>Jaguar - Java Access to Generic Underlying Architectural Resources</title>
+<meta name="keywords" content="Jaguar Java JIT Compiler Fast Java VIA Ninja Matt Welsh Berkeley">
+</head>
+
+<body bgcolor="#f8f8ff" link="#005BB7" vlink="#005BB7">
+
+<table border=0 hspace=4 cellspacing=2 width="100%" cellpadding=3>
+<tr bgcolor="#e0e0e8">
+<td width="100%">
+
+<font face="tahoma,arial,helvetica"><b><big><big><big><big>Jaguar: Fast Network Communication and I/O in Java</big></big></big></big></b><br>
+<font color="#e00000"><big>J</big></font>ava 
+<font color="#e00000"><big>A</big></font>ccess to
+<font color="#e00000"><big>G</big></font>eneric
+<font color="#e00000"><big>U</big></font>nderlying
+<font color="#e00000"><big>A</big></font>rchitectural
+<font color="#e00000"><big>R</big></font>esources
+<p>
+
+<a href="http://www.cs.berkeley.edu/~mdw">Matt Welsh</a><br>
+Last updated 17 May 2000
+</font>
+
+</td></tr>
+</table>
+
+<p>
+<table border=0 hspace=4 cellspacing=2 width="100%" cellpadding=3>
+<tr bgcolor="#e0e0e8">
+<td width="100%"><nobr><b><font face="arial,helvetica">Introduction</font></b></nobr></td>
+</tr></table>
+
+<p>
+<font color="#e00000">Jaguar</font> is an extension of the Java runtime 
+environment which enables direct Java access to operating system and hardware
+resources, such as fast network interfaces, memory-mapped and programmed
+I/O, and specialized machine instruction sets. Jaguar can be thought of 
+as a replacement for
+the Java Native Interface. Unlike the JNI, however, Jaguar does not require
+copying of data between the JVM and C code, nor expensive traversals between
+the Java and native code contexts. Rather, Jaguar relies upon a flexible
+bytecode translation technique which directly inlines specialized
+"driver" code to access low-level system resources from Java while 
+maintaining type safety. This translation can be performed by a JIT 
+compiler, a static ("ahead of time") compiler, or by a front-end which
+translates Java bytecode to machine-independent "Jaguar bytecode".
+
+<p>
+We have implemented a Jaguar interface to 
+<a href="http://www.cs.berkeley.edu/~philipb/via/">Berkeley Linux VIA</a>
+communication architecture, which is implemented over the Myrinet 
+system-area network. This system, <em>JaguarVIA</em>, provides direct, 
+zero-copy Java access to the Myrinet with a round-trip time of 73 
+microseconds for small messages, 
+and a peak bandwidth of over 488 mbits/second. This is nearly identical 
+(within 1%) to the performance of Berkeley Linux VIA as accessed from C 
+code.
+
+<p>
+Another use of Jaguar is <em>Pre-Serialized Objects</em>, a mechanism
+which greatly reduces the cost of Java object serialization. This is
+accomplished by rewriting Java object field accesses to store data in
+memory in a "pre-serialized" form, ready for communication or I/O.
+Our analysis shows that using Pre-Serialized Objects can save a factor
+of 80 in performance over standard Java serialization for communicating 
+over JaguarVIA.
+
+<p>
+On top of Jaguar, we have implemented <em>Tigris</em>, a cluster-based 
+I/O system and programming model which allows resources to be automatically 
+balanced across the cluster; this is a Java reimplementation of the
+<a href="http://now.cs.berkeley.edu/River"><em>River</em></a> system. Tigris
+shields applications from asymmetries in CPU, I/O, and networking performance,
+through the use of a dataflow programming model and a <em>distributed 
+queue</em> which allows data to adaptively flow from producers to
+consumers. By using Jaguar for communication and I/O, Tigris is able to
+obtain performance rivaling that of similar systems implemented in C++.
+
+<p>
+Jaguar is being used by the UC Berkeley
+<a href="http://ninja.cs.berkeley.edu">Ninja</a> and
+<a href="http://db.cs.berkeley.edu/telegraph">Telegraph</a> projects to
+build high-performance, scalable systems in Java. 
+
+<p>
+<table border=0 hspace=4 cellspacing=2 width="100%" cellpadding=3>
+<tr bgcolor="#e0e0e8">
+<td width="100%"><nobr><b><font face="arial,helvetica">News</font></b></nobr></td>
+</tr></table>
+
+<p>
+<ul>
+
+<li><em>May 17, 2000:</em> <b>Jaguar v2.1 has been released!</b>
+
+<p>
+<ul>
+<li> Here is the <a href="docs/index.html">release documentation</a>.
+<li> <a href="release.html">Download instructions</a>.
+</ul>
+<p>
+This release is targeted at x86 Linux systems, however, it should be possible
+to compile and use it on other platforms. This software is entirely Open 
+Source; See the
+<a href="docs/index.html">release docs</a> for system requirements and
+copyright information.
+
+<p><b>New in Jaguar v2.1:</b> Jaguar support has been added to
+<a href="http://www.openjit.org">OpenJIT</a>, an open source JIT 
+compiler which is itself implemented in Java. The use of OpenJIT 
+allows Java applications running on standard JVMs to make use of Jaguar.
+
+<p>
+<b>Jaguar 2</b> is a reimplementation of the ideas in the original Jaguar
+(which is described in the papers below). Rather than requiring that Jaguar
+primitives be implemented as machine code segments within a JIT compiler, 
+Jaguar 2 relies on a "front-end" compiler to translate standard Java bytecode
+into specialized <em>Jaguar bytecode</em>. Jaguar bytecode is identical to
+Java bytecode except that (a) it has the Jaguar code transformations applied
+to it, and (b) it may make use of extra bytecode instructions which are
+necessary for direct memory access and other low-level system operations.
+
+<p> The advantage of this approach is that the Jaguar drivers themselves 
+are expressed in a machine-independent and type-safe form; only the extra 
+Jaguar instructions are special. However, even these instructions are 
+typed and can be verified for type-safety.
+
+<p>
+Note that only "Jaguar driver" code, expressed as bytecode translation rules,
+may make use of these special instructions. That is, the Java application
+cannot directly use these instructions; rather, the Jaguar driver code is
+inlined into the application at compile time, through a set of bytecode
+translation rules. There are three advantages to this approach:
+<ul>
+<li> The resulting code is very efficient; the Jaguar driver code is inlined
+into the application and can be optimized along with it. The overhead of
+the native method interface is entirely avoided.
+<li> Applications can express low-level system operations naturally,
+through method calls, field accesses, and use of operators; native methods,
+on the other hand, must always be hidden behind a method-call interface.
+<li> Protection relies upon the safety of the Jaguar driver translation 
+rules -- not the application -- and these translation rules can themselves
+be type-checked.
+</ul>
+
+<p>
+Another advantage is that Jaguar 2 is no longer so tightly bound to a 
+particular JIT/JVM implementation. Given the source code to your favorite
+JIT or other Java compiler, adding Jaguar bytecode support to it is 
+easy. The Jaguar 2 front-end compiler is itself
+written in Java and is highly portable. Two back-end compilers are
+available: a JIT compiler (based on 
+<a href="http://www.openjit.org">OpenJIT</a>) and a static Java 
+compiler (based on <a href="http://sourceware.cygnus.com/java">GCJ</a>).
+
+</ul>
+
+<p>
+<table border=0 hspace=4 cellspacing=2 width="100%" cellpadding=3>
+<tr bgcolor="#e0e0e8">
+<td width="100%"><nobr><b><font face="arial,helvetica">Software Release</font></b></nobr></td>
+</tr></table>
+
+<p>
+<ul>
+<li> <b>Jaguar v2.1</b>, released 17 May 2000.
+<p>
+<ul>
+<li> Here is the <a href="docs/index.html">release documentation</a>.
+<li> <a href="release.html">Download instructions</a>.
+</ul>
+</ul>
+<p>
+This release is targeted at x86 Linux systems, however, it should be possible
+to compile and use it on other platforms. This software is entirely Open 
+Source; See the
+<a href="docs/index.html">release docs</a> for system requirements and
+copyright information.
+
+<p>
+<table border=0 hspace=4 cellspacing=2 width="100%" cellpadding=3>
+<tr bgcolor="#e0e0e8">
+<td width="100%"><nobr><b><font face="arial,helvetica">Papers</font></b></nobr></td>
+</tr></table>
+
+<p>
+<ul>
+
+<p>
+<li> <b>Safe and Efficient Hardware Specialization of Java Applications</b>,
+     Matt Welsh. UC Berkeley Technical Report, May, 2000.
+     <em>This paper describes the use of Jaguar bytecode in Jaguar v2.1, 
+     as well as the two latest implementations (based on GCJ and OpenJIT).</em>
+     <a href="../../../papers/jaguar2.pdf">(PDF)</a>
+
+<p>
+<li> <b>Jaguar: Enabling Efficient Communication and I/O in Java</b>,
+     Matt Welsh and David Culler. <em>Concurrency: 
+     Practice and Experience</em>, Vol. 12, pp. 519-538, 
+     Special Issue on Java for 
+     High-Performance Applications, December, 1999.
+     <em>This paper is the best overall discussion of Jaguar.</em>
+     <a href="../../../papers/jaguar-journal.pdf">(PDF)</a> or
+     <a href="../../../papers/jaguar-journal.ps.gz">(Gzipped PostScript)</a>
+
+<p>
+<li> <b>Achieving Robust, Scalable Cluster I/O in Java</b>,
+     Matt Welsh and David Culler.
+     In <em>Proceedings of the Fifth ACM SIGPLAN Workshop on
+     Languages, Compilers, and Runtime Environments for Scalable
+     Computers (LCR2K)</em>, Rochester, NY, June, 2000.
+     <em>This paper covers the Tigris I/O system built on top of
+     Jaguar.</em>
+     <a href="../../../papers/tigris-lcr2k.pdf">(PDF)</a>
+
+<p>
+<li> <b>A System Supporting High-Performance Communication and I/O in Java</b>,
+     Matt Welsh. Master's Thesis, University of California, Berkeley,
+     October, 1999. <em>This is a slightly expanded version of the Jaguar 
+     and Tigris papers.</em> 
+     <a href="../../../papers/masters.pdf">(PDF)</a> or
+     <a href="../../../papers/masters.ps.gz">(Gzipped PostScript)</a>
+</ul>
+
+<p>
+<table border=0 hspace=4 cellspacing=2 width="100%" cellpadding=3>
+<tr bgcolor="#e0e0e8">
+<td width="100%"><nobr><b><font face="arial,helvetica">Presentations</font></b></nobr></td>
+</tr></table>
+
+<p>
+<ul>
+     <li> <b>Jaguar: Bridging the Java Server Performance Gap</b>, Matt Welsh.
+          Presented at Sun Microsystems Laboratories, Mountain View, California,
+	  March 9, 2000.
+	  <em>This is the most recent, and best, talk to read. Covers the 
+	  design of Jaguar 2.0.</em>
+          <a href="sunlabs-talk">(HTML)</a>
+     
+     <p>
+     <li> <b>Jaguar: Bridging the Java Server Performance Gap</b>, Matt Welsh.
+          Presented at Fujitsu Laboratories, Kawasaki, Japan, June 21, 1999.
+	  <em>Somewhat out of date, only covers Jaguar 1.0.</em>
+          <a href="fujitsu-talk">(HTML)</a>
+
+     <p>
+     <li> <b>Using Java to Make Servers Scream</b>, Matt Welsh.
+          Presented at the ACM JavaGrande'99 Conference, San Francisco,
+	  California, June 12, 1999.
+	  <em>This is the first talk on Jaguar and covers some topics not
+	  found in the other talks.</em>
+	  <a href="javagrande-talk">(HTML)</a>
+
+</ul>
+
+<p>
+<table border=0 hspace=4 cellspacing=2 width="100%" cellpadding=3>
+<tr bgcolor="#e0e0e8">
+<td width="100%"><nobr><b><font face="arial,helvetica">Related Projects</font></b></nobr></td>
+</tr></table>
+
+<ul>
+<li> <a href="http://ninja.cs.berkeley.edu">UC Berkeley Ninja Project</a> -- Delivering scalable Internet services to arbitrarily small devices
+<li> <a href="http://db.cs.berkeley.edu/telegraph">UC Berkeley Telegraph Project</a> -- A novel universal database system
+<li> <a href="http://www.openjit.org">OpenJIT</a> -- A reflective JIT compiler framework implemented in Java
+<li> <a href="http://www.research.ibm.com/jalapeno">Jalapeno</a> -- A Java virtual machine written in Java
+<li> <a href="http://www.javagrande.org">Java Grande Forum</a> -- Promoting Java for high-performance computing
+<li> <a href="http://sourceware.cygnus.com/java">GCJ</a> -- High-performance Javva compiler based on GCC
+</ul>
+
+<p><hr><p>
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.chalmers.se/~lydian/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+                       "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+  <head>
+    <meta name="KEYWORDS" content="Lydian; distributed algorithms animation; Algorithm Animation; Educational; LYDIAN; distributed computing; Educational Animation Environment; distributed protocols; Visualization; 
+Visualisation">
+    <meta name="DESCRIPTION" content="An
+Extensible Educational AnimationEnvironment for Learning Distributed Algorithm">
+    <meta http-equiv="Content-Type" content="text/html4; charset=ISO-8859-1">
+    <title>LYDIAN:
+An Extensible Educational AnimationEnvironment for Learning Distributed Algorithms</title>
+    <link rel="STYLESHEET" type="text/css" href="lydian.css" title="lydian style">
+  </head>
+
+<body>
+
+<!-- ***************** Left and Right Row *************** -->
+
+<TABLE class=topspace>
+
+<!-- ***************** Left Menu Bar ******************** -->
+
+<TR><TD class=leftrow>
+<TABLE class=leftrow>
+<TR><TD>
+<ul class=toc>
+   <li class=toc> <a class=leftlink href="index.html">Main Page</a> </li>
+   <li class=toc> <a class=leftlink href="page2.html">Description</a> </li>
+   <li class=toc> <a class=leftlink href="page3.html">FAQ</a> </li>
+   <li class=toc> <a class=leftlink href="page13.html">Courses that Use(d) LYDIAN</a> </li>
+   <li class=toc> <a class=leftlink href="http://sourceforge.net/project/showfiles.php?group_id=131800&amp;package_id=144670">Download</a> </li>
+   <li class=toc> <a class=leftlink href="page12.html">Installation</a> </li>
+   <li class=toc> <a class=leftlink href="http://www.cs.chalmers.se/~phuong/lydian/">Manual</a></li>
+   <li class=toc1><a class=leftlink href="http://www.cs.chalmers.se/~phuong/lydian/">html</a></li> 
+   <li class=toc1><a class=leftlink href="http://www.cs.chalmers.se/~phuong/lydian/Lydian_manual.pdf">pdf</a></li>
+   <li class=toc1><a class=leftlink href="http://www.cs.chalmers.se/~phuong/lydian/Lydian_manual.ps.gz">ps.gz</a></li>
+   <li class=toc><a class=leftlink href="page11.html">Updates &amp; Changes</a> </li>
+   <li class=toc><a class=leftlink href="http://sourceforge.net/forum/?group_id=131800">Forums</a></li>
+   <li class=toc><a class=leftlink href="page9.html">A VR Extention</a></li>
+   <li class=toc><a class=leftlink href="page8.html">EXJOBBS</a></li>
+   <li class=toc><a class=leftlink href="page4.html">People</a></li>
+   <li class=toc><a class=leftlink href="page7.html">Related Publications</a></li>
+</ul>
+
+<ul class=toc>
+    <li class=toc><a href="http://sourceforge.net"><img class=noborder src="http://sourceforge.net/sflogo.php?group_id=131800&amp;type=2" width="125" height="37" alt="SourceForge.net Logo" /></a></li>
+   <li class=toc><a href="http://validator.w3.org/check/referer">
+         <img class=noborder src="http://www.w3.org/Icons/valid-html401"
+          alt="Valid HTML 4.01!" height="31" width="88"></a>
+</li></ul>
+
+</TD></TR>
+</TABLE>
+</TD>
+
+<!-- *************** Main Text **************** -->
+
+<TD class=mainrow>
+<TABLE class=mainrow>
+
+<TR><TD>
+<img class=mainrow SRC="img1.gif" ALT="Lydian">
+</TD></TR>
+
+<TR><TD>
+<ul class=block>
+<li class=block> </li>
+</ul>
+</TD></TR>
+
+<TR><TD class=highlight>
+One area in which visualization techniques may be applied to enhance 
+understanding of computer systems is the field of distributed algorithms.
+
+Lydian is a simulation and visualization environment for distributed 
+algorithms that provides to the students an experimental environment to 
+test and visualize the behaviour of distributed algorithms.
+
+It gives to the students the ability to create easily their own
+ experiments and visualize the behaviour of the algorithms on 
+their experiments.
+
+Lydian is easy to use and can also be extended. 
+</TD>
+<TD><img class=mainrow1 SRC="index.1.gif" ALT="Lydian"></TD>
+</TR>
+
+<TR><TD>
+<ul class=block>
+<li class=block> </li>
+</ul>
+</TD></TR>
+
+<TR><TD>
+<img class=mainrow SRC="index.3.jpg" ALT="Lydian">
+</TD></TR>
+
+<TR><TD>
+<ul class=block>
+<li class=block> </li>
+</ul>
+</TD></TR>
+
+<TR><TD>
+<hr>
+
+<!-- Created: Thu Apr 25 16:33:37 MET DST 2002 -->
+<!-- hhmts start -->
+Last modified: Thu May 26 15:19:59 CEST 2005
+<!-- hhmts end -->
+
+</TD></TR>
+
+<TR><TD>
+<a class=leftlink href="http://www.cs.chalmers.se/~dcs/"><img class=noborder SRC="logo-big.gif" ALT="Contact"></a>
+</TD></TR>
+
+</TABLE>
+</TD></TR>
+</TABLE>
+</body></html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.umd.edu/~keleher/bib/dsmbiblio/dsmbiblio.html>====================
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0 Strict Level 2//EN">
+<html>
+  <head>
+    <!-- Converted with LaTeX2HTML 95.1 (Fri Jan 20 1995) by Nikos Drakos
+         (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds       -->
+    <title>
+      A Comprehensive Bibliography of Distributed Shared Memory
+    </title>
+    <meta name="description" content="A Comprehensive Bibliography of Distributed Shared Memory">
+    <meta name="keywords" content="dsmbiblio">
+    <meta name="resource-type" content="document">
+    <meta name="distribution" content="global">
+  </head>
+  <body>
+ <BR> <HR>
+    <A NAME=tex2html51 HREF="/~keleher/bib/dsmbiblio/node1.html">
+      
+    <IMG ALIGN=BOTTOM ALT="next"
+     SRC="http://www.cs.umd.edu/~keleher/bib/dsmbiblio/icons/next_motif.gif">
+
+    </A>
+ 
+    <IMG ALIGN=BOTTOM ALT="up"
+     SRC="http://www.cs.umd.edu/~keleher/bib/dsmbiblio/icons/up_motif_gr.gif">
+ 
+    <IMG ALIGN=BOTTOM ALT="previous"
+     SRC="http://www.cs.umd.edu/~keleher/bib/dsmbiblio/icons/previous_motif_gr.gif">
+   <BR>
+<B> Next:</B> 
+    <A NAME=tex2html52 HREF="/~keleher/bib/dsmbiblio/node1.html">
+       DSM Concepts and Origins
+    </A>
+    <H1>
+      A Comprehensive Bibliography of Distributed Shared Memory
+    </H1>
+    <P><STRONG>M. Rasit Eskicioglu 
+<BR> 
+        Department of Computer Science 
+<BR> 
+        University of New Orleans 
+<BR> 
+        New Orleans, LA 70148 
+<BR> 
+        <em> rasit@cs.uno.edu</em>
+    </STRONG></P>
+    <P><STRONG>
+    </STRONG>
+    <P>
+Shared memory is an attractive programming model for designing parallel and 
+distributed applications. In the past decade, a popular research topic has 
+been the design of systems to provide the shared memory abstraction on 
+physically distributed memory machines. This abstraction is commonly known 
+as <em> Distributed Shared Memory (DSM)</em>. DSM has been implemented both in 
+software (e.g., to provide the shared memory programming model on networks 
+of workstations) and in hardware (e.g., using cache consistency protocols 
+to support shared memory across physically distributed main memories). This 
+bibliography identifies the results of research on DSM and related topics.
+    <P>
+In this bibliography, we broadly classify papers describing previous DSM 
+research into the following eight categories:
+<OL>
+  <LI>
+DSM concepts and origins,
+  <LI>
+Consistency models,
+  <LI>
+Memory coherence protocols and algorithms,
+  <LI>
+Hardware implementations of DSM,
+  <LI>
+Software implementations of DSM,
+  <LI>
+Language support for DSM (including support for distributed shared 
+objects),
+  <LI>
+Related issues (e.g., synchronization, fault tolerance, heterogeneity, 
+and persistence),
+  <LI>
+Miscellaneous (papers that do not fall into the previous categories, 
+e.g., surveys and performance evaluation.)
+</OL>
+Determining the most appropriate classification for existing DSM research
+was a difficult task and placing papers into a single category often
+required making fairly arbitrary decisions.  Each paper was placed into the
+category for which the author felt was most relevant to the work described
+in that paper---the author apologizes in advance to researchers who feel
+that their work was incorrectly categorized or omitted entirely. Feedback is
+greatly appreciated.
+    <P>
+<b> Acknowledgments:</b> The author wishes to thank Professors Les Keedy of the 
+University of Ulm, Germany and John Carter of the University of Utah for their 
+valuable comments on the presentation of this paper and for their help 
+identifying missing references in the original draft. Professor Keedy
+provided the author with the full citations and copies of a few of
+the missing references. Professor Carter helped the author in determining
+better classification of some references.
+    <P>
+    <A NAME=tex2html1 HREF="http://www.cs.umd.edu/~keleher/bib/dsmbiblio.bib.gz">
+      BibTeX version (<em> 472 entries</em>)
+    </A>
+ of the complete bibliography 
+and 
+    <A NAME=tex2html2 HREF="http://www.cs.umd.edu/~keleher/bib/TR95-1.ps.gz">
+      gzipped postscript version
+    </A>
+(<em> 34 pages, including some blank pages for double-sided printing</em>) of this
+report are also available. 
+<BR>
+<IMG SRC="/~keleher/bib/dsmbiblio/icons/warning.gif" ALIGN=BOTTOM>
+
+Please note that the number of entries in the 
+bibliography and the number of pages in the technical report are subject to 
+change as both files are updated periodically.
+<BR> <HR>
+    <UL>
+      <LI> 
+      <A NAME=tex2html53 HREF="/~keleher/bib/dsmbiblio/node1.html#SECTION00001000000000000000">
+         DSM Concepts and Origins
+      </A>
+        <LI> 
+      <A NAME=tex2html54 HREF="/~keleher/bib/dsmbiblio/node2.html#SECTION00002000000000000000">
+         Consistency Models
+      </A>
+        <LI> 
+      <A NAME=tex2html55 HREF="/~keleher/bib/dsmbiblio/node3.html#SECTION00003000000000000000">
+         Memory Coherence Protocols
+      </A>
+        <LI> 
+      <A NAME=tex2html56 HREF="/~keleher/bib/dsmbiblio/node4.html#SECTION00004000000000000000">
+         Hardware Implementations of DSM
+      </A>
+        <LI> 
+      <A NAME=tex2html57 HREF="/~keleher/bib/dsmbiblio/node5.html#SECTION00005000000000000000">
+         Software Implementations of DSM
+      </A>
+        <LI> 
+      <A NAME=tex2html58 HREF="/~keleher/bib/dsmbiblio/node6.html#SECTION00006000000000000000">
+         Language Support for DSM
+      </A>
+        <LI> 
+      <A NAME=tex2html59 HREF="/~keleher/bib/dsmbiblio/node7.html#SECTION00007000000000000000">
+         Related Issues
+      </A>
+        <LI> 
+      <A NAME=tex2html60 HREF="/~keleher/bib/dsmbiblio/node8.html#SECTION00008000000000000000">
+         Miscellaneous
+      </A>
+        <LI> 
+      <A NAME=tex2html61 HREF="/~keleher/bib/dsmbiblio/node9.html#SECTION00010000000000000000">
+           About this document ... 
+      </A>
+    </UL>
+<BR> <HR>
+    <A NAME=tex2html51 HREF="/~keleher/bib/dsmbiblio/node1.html">
+      
+    <IMG ALIGN=BOTTOM ALT="next"
+     SRC="http://www.cs.umd.edu/~keleher/bib/dsmbiblio/icons/next_motif.gif">
+
+    </A>
+ 
+    <IMG ALIGN=BOTTOM ALT="up"
+     SRC="http://www.cs.umd.edu/~keleher/bib/dsmbiblio/icons/up_motif_gr.gif">
+ 
+    <IMG ALIGN=BOTTOM ALT="previous"
+     SRC="http://www.cs.umd.edu/~keleher/bib/dsmbiblio/icons/previous_motif_gr.gif">
+   <BR>
+<B> Next:</B> 
+    <A NAME=tex2html52 HREF="/~keleher/bib/dsmbiblio/node1.html">
+       DSM Concepts and Origins
+    </A>
+<BR> <HR>
+<A HREF="http://www.cs.uno.edu/~rasit/index.html"><IMG SRC="/~keleher/bib/dsmbiblio/icons/home04.gif" ALIGN=BOTTOM>
+</A> Return back (or go) to my Home Page.
+<BR> <HR>
+    <p><address>
+      <I>Copyright &#169 M. Rasit Eskicioglu <BR>
+Sun Oct 29 11:47:49 CST 1995</I>
+    </address>
+  </body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.eecs.umich.edu/~qstout/tut/index.html>====================
+<HTML><HEAD><TITLE>Parallel Computing Tutorial</TITLE>
+<meta name="description" content="Parallel computing tutorial:
+concepts and practice of parallel programming and supercomputing.  
+Taught at corporations, conferences, and research centers">
+<meta name="keywords" content="parallel computing tutorial,
+training, parallel programming, supercomputing, MPI, OpenMP, 
+GPU, CUDA, consultant, high-performance computing">
+</HEAD>
+
+
+<BODY bgcolor="#FFFFFF" vlink="#666666" link="#3366CC" background="indtextb.jpg" text="#000000" alink="#996600">
+<font face="verdana,arial,helvetica">
+
+<center>
+<H3>Parallel Computing 101</H3>
+<P>
+ <A HREF="http://www.eecs.umich.edu/~qstout/">Quentin F.
+                   Stout</A><br>
+ <a href="http://www-personal.umich.edu/~cjablono/"><strong>Christiane
+   Jablonowski</strong></a><br>
+</center>
+
+
+<hr>
+<center>
+<IMG ALIGN=MIDDLE SRC="../softwarework.pdf" ALT="Parallelism"><p>
+<i>Parallel computers are easy to build -- it's the software that takes work.</i></center>
+
+<hr>
+<p> &nbsp; </p>
+
+<center><strong>See us at
+<a href="http://sc13.supercomputing.org">Supercomputing SC13</a>
+ in Denver.
+</strong><br>
+</center>
+<p> &nbsp; </p>
+
+<H4><A NAME="abstract">Abstract</A></H4>
+
+<p> This tutorial provides a comprehensive overview of parallel
+computing and supercomputing, emphasizing those aspects most
+relevant to the user.
+It is suitable for new or prospective
+users, managers, students, and anyone seeking
+a general overview of parallel computing.  It discusses software
+and hardware, with an emphasis on standards, portability, and systems
+that are commercially or freely available.  Systems examined
+include clusters, tightly integrated supercomputers, and GPUs.</p>
+
+<p>  The tutorial provides training in parallel computing concepts
+and terminology, and uses examples selected from large-scale
+engineering, scientific,
+and data intensive applications.  These real-world examples are
+targeted at distributed memory systems using MPI, 
+shared memory systems using OpenMP, and hybrid systems
+that combine the MPI and OpenMP programming paradigms.  
+GPU programming is also discussed.
+The tutorial
+shows basic parallelization approaches and discusses some of the
+software engineering aspects of the parallelization process,
+including the use of state-of-the-art tools.  The tools introduced
+range from parallel debugging tools to performance analysis and
+tuning packages.</p>
+
+<p> We use large-scale projects as examples to help the attendees
+understand the issues involved in developing efficient parallel
+programs.
+Examples include: crash simulation (a complex distributed memory
+application parallelized for Ford Motor);
+climate modeling (an application highlighting distributed, shared,
+and vector computing ideas with examples from NCAR, NASA and ECMWF);
+space weather prediction (an adaptive mesh code scaling to well
+over 1000 processors, funded by NASA/DoD/NSF);
+and design of ethical clinical trials 
+(a memory-intensive application funded by NSF).
+Attendees find the lessons convincing, and 
+occasionally humourous, because we discuss
+mistakes as well as successes.
+</p>
+
+
+
+<H4><A NAME="aud">Audience</A></H4>
+
+<p> Anyone needing a 1-day overview of parallel computing and
+supercomputing.
+This includes new or prospective users, managers, or
+people needing a refresher on current systems and techniques, with pointers
+to additional resources and follow-up material. </p>
+
+<p> Approximately 70% of the presentation is at the
+beginner level, 30% intermediate level.
+If you are at the truly beginner level, you can always first look at my <a href="../parallel.html"> slightly whimsical explanation of parallel computing</a>.
+</p>
+
+
+
+<H4><A NAME="sched">Schedule</A></H4>
+
+<p> This is usually presented as a full-day (6 hour) tutorial, in 4 segments
+of 1.5 hours each.  This can be adjusted to fit the circumstances.
+For example, some companies may want to use is a part of their technical
+training, and it can be expanded to include some hands-on work on their
+systems.  With special arrangements, a more comprehensive class on
+parallel computing can be taught. </p> 
+
+<p> For people near Ann Arbor, they can attend Quentin Stout's 
+<a href="../587/index.html">class on parallel computing</a>, EECS 587,
+taught each fall semester.
+Groups at more remote locations might be able to arrange for this class
+to be broadcast to them.
+</p>
+<p>&nbsp;</p>
+
+
+
+<h4>Contact:</h4>
+
+<blockquote>
+   Quentin F. Stout<br>
+   Computer Science and Engineering<br>
+   University of Michigan,  Ann Arbor, MI 48109-2121  USA<br>
+   +1-734-763-1518 (voice, messages)  +1-734-763-4617 (fax)<br>
+   qstout<font size="1"> </font>@<font size="1"> </font>umich.edu &nbsp;&nbsp;
+   <a href="http://www.eecs.umich.edu/~qstout/">www.eecs.umich.edu/~qstout/</a>
+</blockquote>
+<p>&nbsp;</p>
+
+<hr>
+
+
+<table width=100%>
+<tr><td align=left><A HREF="../index.html"><img align=middle src="../qfshome.gif" 
+   width=37 height=37 alt="Quentin"></a></td>
+   <td align=right><font size="-1">Copyright &copy 2005-2013  Quentin F. Stout   </font></td>
+</tr>
+</table>
+
+</BODY></HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.irisa.fr/pampa/EPEE/epee.html>====================
+<HEAD>
+<TITLE>EPEE</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFF0F0">
+<A HREF="http://www.irisa.fr/newtree/Welcomee.html">
+<IMG SRC="../ICONS/irisa2.gif" ALIGN=LEFT BORDER=0></A> 
+<A HREF=../Pampa_anglais.html><IMG SRC="../ICONS/pampa2.gif" ALIGN=RIGHT BORDER=0></A>
+<BR><BR><BR>
+<HR>
+<CENTER><H1>The Eiffel Parallel Execution Environment</H1></CENTER>
+<HR>
+<A HREF="epeeFR.html"><IMG SRC="../ICONS/fr.gif" BORDER=0>
+Version fran&ccedil;aise</A>
+<HR>
+<I>
+
+EPEE (Eiffel Parallel Execution Environment) is an object oriented design
+framework for programming distributed memory parallel computers, developed
+within the <A HREF=../Pampa_anglais.html>PAMPA Project</A>.  It proposes a
+programming environment where data and control parallelism are totally
+encapsulated in regular <A HREF=http://www.cm.cf.ac.uk:80/CLE/> Eiffel</A>
+classes, without any extension to the language nor modification of its
+semantics.  <BR> EPEE has been used to build <A HREF=paladin.html> Paladin
+</A>, a parallel object oriented linear algebra library.
+
+
+</I>
+<HR>
+<DL> 
+<DD><IMG SRC=../ICONS/blueball.gif> 
+<A HREF=principles.html> EPEE Basic Principles</A>
+<DD><IMG SRC=../ICONS/blueball.gif> 
+<A HREF=paladin.html> Paladin</A>
+<DD><IMG SRC=../ICONS/blueball.gif> 
+<A HREF=../POM/pom.html> POM Library</A>
+<DD><IMG SRC=../ICONS/blueball.gif> 
+<A HREF= book.html> Object-Oriented Software Engineering with Eiffel</A>
+<DD><IMG SRC=../ICONS/blueball.gif> 
+<A HREF= EPEE-bib.html> Publications</A>
+<DD><IMG SRC=../ICONS/blueball.gif> 
+<A HREF= EPEE-team.html>EPEE Team</A>
+<DD><IMG SRC=../ICONS/blueball.gif> 
+<A HREF= WhyEiffel.html>Why Eiffel?</A>
+</DL>
+
+<HR>
+</BODY>
+<ADDRESS>
+jezequel@irisa.fr (March 28, 1995)
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.sslug.dk/TONS/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+        "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+<html>	
+  <head>
+    <title>Tons Of Numerical Services</title>
+  </head>
+
+  <body>
+  <center>
+    <h1>The TONS project</h1>
+    <h3>Current release: 0.0.8 (January 28th)</h3>
+  </center>
+
+  <p>
+    Welcome to the home of the TONS project. TONS stands for Tons Of
+    Numerical Services. The goal of the TONS project is to create a
+    state-of-the-art tool for scientists and engineers who wish to
+    perform numerical investigations.
+  </p>
+
+  <p>
+    The TONS system has a three-tier architecture as shown below. A
+    number of clients are connected to the scheduler. Each client
+    request a calculation performed and recieve it when it has
+    terminated. The scheduler sends the request to a number of
+    nodes. A calculation might be parallellized by the scheduler.
+
+    <center>
+      <img src="arch.gif">
+    </center>
+  </p>
+
+  <p>
+    We invision that the clients can be of very different nature. One
+    could be a simple command-line calculator like bc, another could
+    a simulation program for the solar system with a graphical user
+    interface. Only the client-programmers' imagination is the limitation!
+  </p>
+
+  <p>
+   A quickstart guide to TONS is available 
+    <a href="quickstart.html">here</a>.
+  </p>
+
+  <p>
+    The fully implemented TONS system will consist of many
+    components. They are:
+   
+   <ul>
+     <li>
+       The <a href="tonsd.html">TONS server</a> which schedules the 
+       requests from the clients by forwarding the requests to the
+       nodes.
+     </li>
+     <li>
+       The <a href="nodeserv.html">node server</a> that should be
+       running on one or more machines (if TONS is running in a cluster).
+     </li>
+     <li>
+       The programming language <a href="tal.html">TAL</a>. TAL is
+       short for TONS Algoirthmic Language.
+     </li>
+     <li>
+       A library of functions called <a href="stall.html">STALL</a>
+       which stands for Standard TAL Library.
+     </li>
+     <li>
+       The TONS server is a virtual machine which runs TBC (Tons
+       ByteCode). The TBC can be created by 
+       <a href="tasm.html">TASM</a> (Tons ASseMbler).
+     </li>
+     <li>
+       The Simple Tons Client abbriviated <a href="stc.html">STC</a>
+       is the TONS team's showcase of a client.
+     </li>
+   </ul>
+  </p>
+
+  <p>
+    You can download the latest version of the TONS system 
+    <a href="ftp://ftp.sslug.dk/pub/TONS/">here</a>.
+  </p>
+
+  <p>
+    The TONS team consists of the following people:
+    
+    <ul>
+      <li>
+        <a href="mailto:jakob@ostenfeld.dk">Jakob �stergaard</a> 
+        (Scheduler and VM).
+      </li>
+      <li>
+        <a href="mailto:kneth@sslug.dk">Kenneth Geisshirt</a>
+        (TAL compiler).
+      </li>
+    </ul>
+  </p>
+
+  <hr>
+  <p>
+    The TONS project is hosted by <a href="http://www.sslug.dk">Sk�ne
+    Sj�lland Linux User Group</a>.
+  </p>
+
+  <hr>
+  <p>
+    This page was last modified by 
+    <a href="mailto:jakob@sslug.dk">Jakob &Oslash;stergaard</a>
+    January 28, 2000
+  </p>
+  </body>
+</html> 
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.netlib.org/hence/>====================
+<title>HeNCE (Heterogeneous Network Computing Environment)</title>
+<h1>HeNCE (Heterogeneous Network Computing Environment)</h1>
+
+<META name="waisindex" value="nse">
+
+Click <A HREF="http://www.netlib.org/master_counts2.html#hence">here</A> to see the number of accesses to this library.
+
+<p>
+<strong>Note: the HeNCE binary distribution has been discontinued because most
+        of them were out of date.  The source code and documentation still exist
+        at this location because of their historical value.  However, since the
+        HeNCE project was a research project rather than a development project your
+        mileage may vary.</strong>
+<p>
+HeNCE (Heterogeneous Network Computing Environment) is an X-window based
+software environment designed to assist scientists in developing parallel
+programs that run on a network of computers.  HeNCE provides the programmer
+with a high level abstraction for specifying parallelism.  HeNCE is
+based on a parallel programming paradigm where an application program
+can be described by a graph.  HeNCE graphs are variants of directed
+acyclic graphs, or DAGS.  Nodes of the graph represent subroutines and
+the arcs represent data dependencies.  Individual nodes are executed under
+<a href="http://www.netlib.org/pvm3/">PVM</a>.  HeNCE is composed of integrated
+graphical tools for creating, compiling, executing, and analyzing
+HeNCE programs.  HeNCE relies on the PVM system for process initialization
+and communication.  The HeNCE programmer, however, will never explicityly
+write PVM code.  During or after execution, HeNCE displays an event-ordered
+animation of application execution, enabling the visualization of relative
+computational speeds, processor utilization, and load imbalances.
+<p>
+Through HeNCE a scientist can easily decompose existing C or Fortran
+source code into pieces which can be executed in parallel over an existing
+collection of workstations or supercomputers.  This approach allows the
+programmer to reuse existing programs and extract unused performance
+out of existing computers.
+<p>
+HeNCE also supports the graphical configuration of PVM hosts, assists in
+the generation of architecture-dependent object modules, and contains
+provisions for task scheduling based on user supplied cost matrices.
+<p>
+For further details about HeNCE, see the 
+<a href="http://www.netlib.org/hence/hence-2.0-doc-html/hence-2.0-doc.html">
+the HeNCE Users' Guide</a>.
+Questions or problems regarding HeNCE should be sent to
+<code>hence@cs.utk.edu</code>.
+<p>
+<hr>
+
+<pre>
+file 	<a href="readme">readme</a>
+for 	Overview of HeNCE
+see 	hence-2.0-doc.ps.gz
+
+file 	<a href="HeNCE-2.0-examples.tgz">HeNCE-2.0-examples.tgz</a>
+for 	Example programs for HeNCE 2.0.
+lang 	HeNCE
+age 	experimental
+
+file 	<a href="HeNCE-2.0-src.tgz">HeNCE-2.0-src.tgz</a>
+for 	Complete source code to HeNCE environment
+size 	296 KB
+age 	experimental
+
+file 	<a href="HeNCE-2.0-doc.ps.gz">HeNCE-2.0-doc.ps.gz</a>
+title 	HeNCE 2.0 User Manual and Installation Guide
+size 	116 KB
+lang	PostScript
+keywords 	visual,parallel,computation,graph,PVM,Heterogeneous
+
+lib 	<a href="old-hence/">old-hence</a>
+for 	Out-of-date versions of the HeNCE visual parallel programming environment
+age 	old
+
+lib 	<a href="hence-2.0-doc-html/">hence-2.0-doc-html</a>
+title 	HeNCE 2.0 User Manual and Installation Guide
+lang	HTML
+</pre>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.unc.edu/Research/proteus/>====================
+<TITLE>The Proteus Programming System</TITLE>
+<CENTER><H1> <IMG align=top SRC="proteus-icon.gif" alt="The Proteus Programming System">*</H1></CENTER>
+
+This is the home page for the Proteus Project.  This project is a
+collaborative effort by researchers at <I> UNC Chapel Hill, Kestrel
+Institute, </I> and <I> Duke University </I> to develop a system for the
+specification, prototyping, analysis and generation of parallel software.
+<P>
+
+The following information is available through this information server.
+Please click on underlined entries to browse...
+
+<H2>Table of Contents</H2>
+<UL>
+<LI> <A HREF="proteus-intro.html">	What is Proteus?</A>
+<LI> <A HREF="proteus-publications.html"> Proteus Publications</A>
+<LI> Proteus Annual Reports <A href="onr-fy94.html">1994</A>,
+	<A href="onr-fy95.html">1995</A>
+<LI> <A HREF="proteus-artifacts.html">	Proteus Software &amp; Examples</A>
+<LI> <A HREF="proteus-demos.html">	Proteus Demonstrations</A>
+<LI> <A HREF="proteus-people.html">	The Proteus Development Group</A>
+</UL>
+
+Click <A HREF="proteus-news.html">here</a> for a list of 
+recent additions to these topics.
+<p>
+
+<H2>Mailing lists</H2>
+
+Two mailing lists are available for Proteus-folk:
+<ul>
+<li>parlunch: Announcements of topics for the weekly UNC Parallel Lunch
+(meeting time for Spring 95 has not yet been set).</li>
+<li>proteus-users: For users of the Proteus language</li>
+</ul>
+To subscribe to either list, send mail to "majordomo@cs.unc.edu" with
+"subscribe list-name" in the body.
+
+<h2>Additional Information</h2>
+
+<p>Any questions or problems with the Proteus pages should be directed to
+<strong>nyland@cs.unc.edu</strong> or
+<strong>prins@cs.unc.edu</strong> <P>
+
+<H4>*Supported by ARPA via ONR contracts N00014-90-K-0004,
+N00014-91-C-0114 and N00014-92-C-0182, and by Rome Labs 
+contract F30602-94-C-0037. </H4>
+<P>
+
+<HR>
+This page has been accessed <IMG SRC="http://www.cs.unc.edu/bin/multicounter?proteus"> times. <P>
+
+<ADDRESS>
+ $ Revised: Fri Sep 29 16:24:15 1995 by nyland@cs.unc.edu
+</ADDRESS>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://bmdfm.de/>====================
+<!doctype html public "-//W3C//DTD HTML 4.0 //EN">
+<html>
+<head>
+<title>BMDFM The Official Web Site</title>
+<meta name="author" content="J. Galsterer, Poly4Media">
+<meta name="keywords" content="BMDFM, Automatic Parallelization, Static, Dynamic Scheduling, Dataflow, Data-Flow Machine, DFM, Shared Memory Symmetric, Multiprocessors, Multi-Core, Multi-Cores, SMP, UNIX SVR4, Linux, Windows, Win32, SunOS, Solaris, IRIX, Sparc, Sun, MIPS, Silicon Graphics, SGI, Intel, 32-bit, 64-bit, Parallel Computing, Execution, High Performance Computing, MIMD, LISP, C, C++, Virtual Machine, Software Emulation, IPC, Parallelism, Concurrent, Synchronization, Fine-Grain, Coarse-Grain, Tagged Token, CPU, Multithreading, Multithreaded, Multithreadedly, Thread, Threads, Process, Processes, Mainframe, Supercomputer, Aggressive Optimization, Code, Instruction, ccNUMA, NUMA, UMA, Distributed Memory, Computer Architecture, Granularity">
+<link rel="stylesheet" href="cssheets/bmdfm.css" type="text/css">
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#FF0000" alink="#FF0000" vlink="#FF0000" topmargin=0 leftmargin=0 marginwidth=0 marginheight=0>
+<div align="center"><table height="100%" cellspacing="0" cellpadding="0" border="0" >
+<tr>
+ <td><table cellspacing="0" cellpadding="0" border="0" >
+<tr>
+ <td align="center" class="txt24">Welcome to<br>BMDFM The Official Web Site<br><br></td>
+</tr>
+<tr>
+ <td><a href="home.html"><img src="pics/para_intro.jpg" width="599" height="196" border="0" alt="Enter BMDFM Homepage"></a><br><br></td>
+</tr>
+<tr>
+ <td align="center" class="txt14c"><br>The Site of SMP Dataflow Parallel High Performance Computing<br>and Multi-Core Programming<br><br><a href="home.html">Use Full Power of Your Multiprocessor Machine. Enter the Site Now!</a><br><br></td>
+</tr>
+<tr>
+ <td class="txt12" align="center"><br>Contact: <a href="mailto:bmdfm@bmdfm.de">bmdfm@bmdfm.de</a><br><br><br></td>
+</tr>
+<tr>
+ <td align="center" class="txt8"><hr color="#228800" noshade size="1" width=80%><br>&copy 2002-2014 by BMDFM - mailto: <a href="mailto:webmaster@bmdfm.de">Webmaster</a></td>
+</tr>
+</table></td>
+</tr>
+</table></div>
+</body>
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.sourceforge.net/projects/irsr/>====================
+<!doctype html>
+<!-- Server: sfs-consume-12 -->
+
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]>--> <html lang="en" class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        
+        <meta id="webtracker" name="webtracker" content='{"event_id": "b58cea26-9e74-11e3-98c1-0200ac1d1d0b", "project": "irsr", "non_clicker": 0.7534682072477129, "active_tests": ["psp_redirect_immersion"], "clicker": 0.2492770558538536}'>
+
+        <meta name="description" content="Your own portable PC system built by integrating existing Open Source components. This mobile metasystem utilizes the internet&#39;s web hosting …">
+        <meta name="keywords" content="Conferencing, Distributed Computing, Internet, Networking, Symmetric Multi-processing,  Open Source, Open Source Software, Development, Community, Source Code, Secure,  Downloads, Free Software">
+
+
+<meta property="og:title" content="Invisionix Roaming System Remote metasys"/>
+<meta property="og:type" content="product"/>
+<meta property="og:url" content="http://sourceforge.net/projects/irsr/"/>
+<meta property="og:site_name" content="SourceForge"/>
+<meta property="og:description" content="Your own portable PC system built by integrating existing Open Source components. This mobile metasystem utilizes the internet&#39;s web hosting resources and is ..."/>
+
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Invisionix Roaming System Remote metasys | Free Communications software downloads at SourceForge.net</title>
+        <link rel="shortcut icon" href="http://a.fsdn.com/con/img/sftheme/favicon.ico">
+        <script type="text/javascript">
+            /*global unescape, window, console, jQuery, $, net, SF, COMSCORE, DD_belatedPNG */
+            // Setup our namespace
+            if (!window.SF) { window.SF = {}; }
+            if (!window.net) { window.net = {}; }
+            if (!window.net.sf) { window.net.sf = {}; }
+            SF.cdn = 'http://a.fsdn.com/con';
+            SF.deploy_time = '1393354590';
+        </script>
+        <script src="http://a.fsdn.com/con/js/min/sf.head.js?1393354590" type="text/javascript"></script>
+        
+<!--[if lt IE 7 ]>
+  <script src="http://a.fsdn.com/con/js/sftheme/dd_belatedpng.js"></script>
+  <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
+<![endif]-->
+
+<link href='//fonts.googleapis.com/css?family=Ubuntu:regular' rel='stylesheet' type='text/css'>
+<style type="text/css">
+    @font-face {
+        font-family: "Pictos";
+        src: url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.eot');
+        src: local("☺"), url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.woff') format('woff'), url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.ttf') format('truetype'), url('http://a.fsdn.com/con/css/fonts/sftheme/pictos-web.svg') format('svg');
+    }
+</style>
+ <link rel="stylesheet" href="http://a.fsdn.com/con/css/sf.css?1393354590" type="text/css">
+
+
+    <style type="text/css" >.sfdl { width:250px;height:48px;padding:0;position:relative;font:bold 12px/1.17 sans-serif !important; border:1px solid #aaa;display:inline;float:left;text-decoration:none;-moz-box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;-webkit-box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;-o-box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;box-shadow:rgba(255, 255, 255, 0.6) 0 1px 0 0;-moz-border-radius:4px;-webkit-border-radius:4px;-o-border-radius:4px;-ms-border-radius:4px;-khtml-border-radius:4px;border-radius:4px;background:no-repeat #e5e5e5 8px center url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC);background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC), -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #fff), color-stop(100%, #ccc));background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC), -moz-linear-gradient(top, #fff 0%, #ccc 100%);background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC), linear-gradient(top, #fff 0%, #ccc 100%);background-position:8px center, 0 0;margin:0 10px 0px 0;overflow:hidden;color:#555 !important;}.sfdl:hover { cursor:pointer;text-decoration:none;background:8px center no-repeat #eee url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANFJREFUeNqcUosNgjAUbE0HcARGwAnqZxBxBCbQDXQE2UOkTIAj4AZsgPfMa1JeGqhecimU63HvvepxHFUq6mebY2nAdbi/Ur/hKg0IRv2H3WFvnX/Rj9qRcxH7A+BIjDK2eCYewQy8g2/WDJSk4w8xWDICz2ziUchyvMGLXIVJK9acE0+0VM53PIitE6bTcKJJT0wg6ESSHiwhHpbMDYszjhrDKcVkE5mO5dhZyrwNx72J2i9iGvMmODB372U/aCpV2NSlG0sGVbiBw2VM+BFgALYfPdL6UCEWAAAAAElFTkSuQmCC);}.sfdl-lite { background:0 center no-repeat #337733 none;color:white !important;height:auto;padding:0.5em 1em;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;-o-border-radius:4px;-ms-border-radius:4px;-khtml-border-radius:4px;border-radius:4px;background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #339933), color-stop(100%, #337733));background-image:-moz-linear-gradient(top, #339933 0%, #337733 100%);background-image:linear-gradient(top, #339933 0%, #337733 100%);}.sfdl-lite:hover { background:0 center no-repeat #339933;}.sfdl span { border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;display:block;margin:3px;margin-left:35px;padding:4px;text-align:left;color:#FFF;background:#363;background-image:-moz-linear-gradient(center top, #393 0%, #373 100%);background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0, #393),color-stop(1, #373));background-image:linear-gradient(top, #393 0%, #373 100%);overflow:hidden;height:34px;}.sfdl b { display:block;line-height:17.0px;}.sfdl small { display:block;line-height:17.0px;color:#ADC2AD; font-weight:normal;white-space:nowrap;overflow:hidden;font-size:77%;}.info-circle{ right:10px;bottom:16px;}.direct-dl{ font-size:10px;text-align:right;display:inline-block;width:100%;}</style>
+
+<style type="text/css">
+    .f56e623d88937f6874d9de06f50458d1b5ba6e750 { display: none !important; }
+</style>
+    <link rel="alternate" type="application/rss+xml" title="Invisionix Roaming System Remote metasys&#8230;File Releases" href="/api/file/index/project-id/111493/mtime/desc/limit/20/rss" />
+    <link rel="canonical" href="http://sourceforge.net/projects/irsr/">
+        
+<script type="text/javascript">
+    SF.adblock = true;
+    var immersion_adcode = "";
+</script>
+        <script type="text/javascript" src="http://a.fsdn.com/con/js/adframe.js?1393354590"></script>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+                _gaq.push(['1._setAccount', 'UA-32013-6']);
+                _gaq.push(['2._setAccount', 'UA-36130941-1']);
+                _gaq.push(['_setAccount', 'UA-36130941-1']);
+                _gaq.push(['1._trackPageview']);
+                _gaq.push(['2._trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </head>
+    <body id="pg_project" class="bluesteel user">
+        
+        <div id="busy-spinner"></div>
+        
+<header id="site-header">
+    <div class="wrapper">
+        <a href="/" class="logo">
+            <span>SourceForge</span>
+        </a>
+        <form method="get" action="/directory/">
+            <input type="text" id="words" name="q" placeholder="Search">
+        </form>
+        <!--Switch to {language}-->
+        <nav id="nav-site">
+            <a href="/directory/" title="Browse our software.">Browse</a>
+            <a href="/directory/enterprise" title="Browse our Enterprise software.">Enterprise</a>
+            <a href="/blog/" title="Read the latest news from the SF HQ.">Blog</a>
+            <a href="/support" title="Contact us for help and feedback.">Help</a>
+            <a href="/jobs?source=header" title="Search 80k+ tech jobs." class="featured-link">Jobs</a>
+        </nav>
+        <nav id="nav-account">
+            
+              <div class="logged_out">
+                <a href="https://sourceforge.net/account/login.php">Log In</a>
+                <span>or</span>
+                <a href="https://sourceforge.net/user/registration">Join</a>
+              </div>
+            
+        </nav>
+    </div>
+</header>
+<header id="site-sec-header">
+    <div class="wrapper">
+        <nav id="nav-hubs">
+            <h4>Solution Centers</h4>
+            <a href="http://goparallel.sourceforge.net/">Go Parallel</a>
+            <a href="http://ibmsmarteritservices.sourceforge.net/">Smarter IT</a>
+        </nav>
+        <nav id="nav-collateral">
+            
+            <a href="http://library.slashdotmedia.com/?source=sfnet_header">Resources</a>
+            
+            
+            <a href="https://sourceforge.net/user/registration">Newsletters</a>
+            
+        </nav>
+    </div>
+</header>
+
+        
+        <div id="messages">
+        </div>
+
+        <div id="page-body">
+<div id="banner-ads" class="ads">
+    
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_mobile_p1_leader;pg=%2Fprojects;psrch=0;logged_in=0;tpc=irsr;tpc=networking;tpc=distributed_computing;tpc=JavaScript;tpc=system;tpc=smp;tpc=hardware;tpc=communications;tpc=internet;tpc=php;tpc=conferencing;aud=developers;aud=education;aud=endusers;aud=other;aud=sysadmins;aud=telecommunications;dcopt=ist;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Firsr%2F;tile=1;sz=728x90;u=e%3Ab58cea26-9e74-11e3-98c1-0200ac1d1d0b;ord=5415016282079154?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+    
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_pg_project_logo_sponsorship;pg=%2Fprojects;psrch=0;logged_in=0;tpc=irsr;tpc=networking;tpc=distributed_computing;tpc=JavaScript;tpc=system;tpc=smp;tpc=hardware;tpc=communications;tpc=internet;tpc=php;tpc=conferencing;aud=developers;aud=education;aud=endusers;aud=other;aud=sysadmins;aud=telecommunications;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Firsr%2F;tile=2;sz=200x90;u=e%3Ab58cea26-9e74-11e3-98c1-0200ac1d1d0b;ord=5415016282079154?" width="200" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+</div>
+<nav id="breadcrumbs">
+    <ul>
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/">Home</a></li>
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/directory">Browse</a></li><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/directory/communications/">Communications</a></li><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/directory/communications/conferencing/">Conferencing</a></li><li class="project">Invisionix Roaming System Remote metasys</li>
+    </ul>
+</nav>
+<div id="project-header">
+    
+<section id="project-title">
+    <h1 itemprop="name">
+            Invisionix Roaming System Remote metasys</h1>
+            <span id="dev-status" class="prealpha">prealpha</span>
+    <h2>
+        
+    </h2>
+    <p id="maintainers" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    Brought to you by:
+    <a href="/users/drlean" itemprop="url"><span itemprop="name">drlean</span></a>, <a href="/users/ilanrab" itemprop="url"><span itemprop="name">ilanrab</span></a>, <a href="/users/irsf_admin" itemprop="url"><span itemprop="name">irsf_admin</span></a></p>
+    
+</section>
+</div>
+<article id="project" class="content-wrapper" itemscope itemtype="http://schema.org/SoftwareApplication">
+    <meta itemprop="image" content="http://c.fsdn.com/con/img/project_default.png"/>
+    <nav>
+        
+    <div class="firstwave">
+        <ul class="b-hornav">
+            
+            <li id="menu_consume_summary" class="selected">
+                <a href="/projects/irsr/?source=navbar"><span><span>Summary</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_files" >
+                <a href="/projects/irsr/files/?source=navbar"><span><span>Files</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_reviews" >
+                <a href="/projects/irsr/reviews?source=navbar"><span><span>Reviews</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_support" >
+                <a href="/projects/irsr/support?source=navbar"><span><span>Support</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_wiki" >
+                <a href="/p/irsr/wiki/?source=navbar"><span><span>Wiki</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_tickets ▾" >
+                <a href="/p/irsr/_list/tickets?source=navbar"><span><span>Tickets ▾</span></span></a>
+                
+                <ul>
+                    
+                    <li><a href="/p/irsr/bugs/?source=navbar">Bugs</a></li>
+                    
+                    <li><a href="/p/irsr/support-requests/?source=navbar">Support Requests</a></li>
+                    
+                    <li><a href="/p/irsr/patches/?source=navbar">Patches</a></li>
+                    
+                </ul>
+                
+            </li>
+            
+            <li id="menu_consume_news" >
+                <a href="/p/irsr/news/?source=navbar"><span><span>News</span></span></a>
+                
+            </li>
+            
+            <li id="menu_consume_discussion" >
+                <a href="/p/irsr/discussion/?source=navbar"><span><span>Discussion</span></span></a>
+                
+            </li>
+            
+        </ul>
+    </div>
+    
+    </nav>
+    
+    <section id="main-content">
+        <section id="call-to-action">
+            <section id="counts-sharing">
+                <section class="project-info">
+                    <section class="content">
+                        <b data-icon="" class="ico" title="Star">&#9733;</b>
+                        <a href="/projects/irsr/reviews/" title="Add a review" id="call-to-action-reviews">Add a Review</a>
+                    </section>
+                </section>
+                <section id="download-stats" class="project-info">
+                    <section class="content">
+                        <b data-icon="}" class="ico ico-downarrow" title="Down"></b>
+                        <a href="/projects/irsr/files/stats/timeline" title="Downloads This Week" id="call-to-action-stats">3 Downloads</a>
+                        <span>(This Week)</span>
+                    </section>
+                </section>
+                <section id="last-updated" class="project-info">
+                    <section class="content">
+                        <b data-icon="\" class="ico ico-calendar" title="Last Update"></b>
+                        Last Update:
+                        <time class="dateUpdated" datetime="2013-04-08">2013-04-08</time>
+                    </section>
+                </section>
+
+                
+<section class="social-sharing">
+    <!-- Twitter -->
+    <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+    <a href="https://twitter.com/share"
+       class="twitter-share-button"
+       data-count="horizontal"
+       data-url="http://sf.net/projects/irsr/"
+       data-counturl="http://sourceforge.net/projects/irsr/"
+       data-via="sourceforge"
+       data-text="Download Invisionix Roaming System Remote metasys for free! "></a>
+    <!-- Google +1 -->
+    <script type="text/javascript">
+        (function() {
+         var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+         po.src = '//apis.google.com/js/plusone.js';
+         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+         })();
+    </script>
+    
+    <div class="g-plusone"
+         data-size="medium"
+         data-annotation="bubble"
+         data-href="http://sourceforge.net/projects/irsr/"></div>
+    <!-- Facebook -->
+    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsourceforge.net%2Fprojects%2Firsr%2F&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowTransparency="true"></iframe>
+</section>
+
+            </section>
+            <section id="download_button">
+                    
+                        
+                        
+<a href="/projects/irsr/files/latest/download" title="Download /irsr/irsr-0.2/irsr-0.2.ZIP from SourceForge  - 4.2 MB" class="sfdl">
+    <span>
+        <b>Download</b>
+        <small >irsr-0.2.ZIP</small>
+        
+    </span>
+</a>
+
+                    <meta itemprop="fileSize" content="4223032.0"/><meta itemprop="fileFormat" content="application/x-zip"/><div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+                        <meta itemprop="price" content="Free"/>
+                        <link itemprop="availability" href="http://schema.org/InStock" />
+                    </div>
+                    <a href="/projects/irsr/files/" id="files-link" title="Browse All Files">Browse All Files</a>
+                    <section class="project-info">
+                        
+                        <span class="platform-icon windows"><meta itemprop="operatingSystems" content="Windows"/>Windows</span>
+                        
+                        <span class="platform-icon mac"><meta itemprop="operatingSystems" content="Mac"/>Mac</span>
+                        
+                        <span class="platform-icon linux"><meta itemprop="operatingSystems" content="Linux"/>Linux</span>
+                        
+                    </section>
+            </section>
+        </section>
+
+        <section id="project-description">
+            <header>
+                <h2>Description</h2>
+            </header>
+            <p id="description" itemprop="description">Your own portable PC system built by integrating existing Open Source components. This mobile metasystem utilizes the internet&#39;s web hosting resources and is accessed via any web browser enabled appliance from your home, work, school, library, cafes, etc.</p>
+            <p>
+                <a id="homepage" class="pspbtn" href="http://irsr.sourceforge.net" title="Invisionix Roaming System Remote metasys Web Site">Invisionix Roaming System Remote metasys Web Site</a>
+            </p>
+        </section>
+
+        <section id="project-categories-and-license">
+            <div class="project-container">
+                <section>
+                    <header>
+                        <h4>Categories</h4>
+                    </header><a href="/directory/communications/conferencing/" itemprop="softwareApplicationSubCategory">Conferencing</a>, <a href="/directory/system/distributed-computing/" itemprop="softwareApplicationSubCategory">Distributed Computing</a>, <a href="/directory/internet/internet/" itemprop="softwareApplicationSubCategory">Internet</a>, <a href="/directory/system/networking/" itemprop="softwareApplicationSubCategory">Networking</a>, <a href="/directory/system-administration/hardware/smp/" itemprop="softwareApplicationSubCategory">Symmetric Multi-processing</a></section>
+                <section>
+                    <section class="project-info">
+    <header>
+        <h3>License</h3>
+    </header>
+    <section class="content"><a href="/directory/license:gpl/">GNU General Public License version 2.0 (GPLv2)</a></section>
+</section>
+
+
+                </section>
+            </div>
+        </section><section id="notifications">
+            <header>
+                <h2>Update Notifications</h2>
+            </header>
+            <form action="subscribe" method="post" id="subscribe-form">
+                <section id="subscribe-form-container">
+                    
+                    <input type="email" id="subscriber-email" name="XFP7b44Bvzjts9SpSJ4MqWliZPLM" placeholder="john.doe@example.org" value="" required>
+                    
+                    
+                    <button type="submit" id="subscriber-submit" class="subscriber-submit">
+                        <span>
+                            
+                            Subscribe to Updates
+                            
+                        </span>
+                    </button>
+                    <p id="subscriber-existing-email" style="display: none">
+                        Sent to <code></code>.
+                        
+                    </p>
+                </section>
+                <input type="hidden" name="_visit_cookie" value=""/>
+                <input type='hidden' name='timestamp' value='1393370985'/>
+                <input type='hidden' name='spinner' value='XEZu2gukDE8G70XK:84oiasn:ui0'/>
+                <p class='f56e623d88937f6874d9de06f50458d1b5ba6e750'><label for='XFvPZ7Ix6I_FmK6Waq2b2Y8HOK0o'>You seem to have CSS turned off. Please don't fill out this field.</label><br/><input id='XFvPZ7Ix6I_FmK6Waq2b2Y8HOK0o' name='XF_PZ7Ix6IxxBBlbmH14rYvlv3as' type='text'/><br/></p>
+                <p class='f56e623d88937f6874d9de06f50458d1b5ba6e750'><label for='XFvPZ7Ix6I_BmK6Waq2b2Y8HOK0o'>You seem to have CSS turned off. Please don't fill out this field.</label><br/><input id='XFvPZ7Ix6I_BmK6Waq2b2Y8HOK0o' name='XF_PZ7Ix6IhxBBlbmH14rYvlv3as' type='text'/><br/></p>
+            </form>
+        </section>
+
+        <section id="reviews-n-ratings">
+            <header>
+                <a class="pspbtn" href="/projects/irsr/reviews/new">Write a Review</a>
+                <h2>User Reviews</h2>
+            </header>
+            <section class="content">
+                        <p>Be the first to <a href="/projects/irsr/reviews/new">post a review</a> of Invisionix Roaming System Remote metasys!</p>
+            </section>
+        </section>
+
+        <section id="project-additional-trove">
+            <header>
+                <h2>Additional Project Details</h2>
+            </header>
+            <div class="project-container">
+                <section class="project-info">
+    <header>
+        <h3>Languages</h3>
+    </header>
+    <section class="content"><a href="/directory/natlanguage:english/" itemprop=inLanguage>English</a></section>
+</section>
+
+
+                <section class="project-info">
+    <header>
+        <h3>Intended Audience</h3>
+    </header>
+    <section class="content"><a href="/directory/audience:developers/">Developers</a>, <a href="/directory/audience:education/">Education</a>, <a href="/directory/audience:endusers/">End Users/Desktop</a>, <a href="/directory/audience:other/">Other Audience</a>, <a href="/directory/audience:sysadmins/">System Administrators</a>, <a href="/directory/audience:telecommunications/">Telecommunications Industry</a></section>
+</section>
+
+
+                <section class="project-info">
+    <header>
+        <h3>User Interface</h3>
+    </header>
+    <section class="content"><a href="/directory/environment:cocoa/">Cocoa (MacOS X)</a>, <a href="/directory/environment:handhelds/">Handheld/Mobile/PDA</a>, <a href="/directory/environment:web/">Web-based</a>, <a href="/directory/environment:win32/">Win32 (MS Windows)</a>, <a href="/directory/environment:x11/">X Window System (X11)</a></section>
+</section>
+
+
+                <section class="project-info">
+    <header>
+        <h3>Programming Language</h3>
+    </header>
+    <section class="content"><a href="/directory/language:javascript/">JavaScript</a>, <a href="/directory/language:php/">PHP</a></section>
+</section>
+
+
+                <section class="project-info">
+                    <header>
+                        <h4>Registered</h4>
+                    </header>
+                    <section class="content">
+                        2004-06-08
+                    </section>
+                </section>
+            </div>
+        </section>
+        <section class="ads text">
+            
+
+
+    
+    <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              var wrapAd = false;
+                wrapAd = true;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                var scriptHtml = '<script type="text/javascript" src="http://ad.doubleclick.net/N4140/adj/ostg.sourceforge/cons_mobile_p71_text;pg=%2Fprojects;psrch=0;logged_in=0;tpc=irsr;tpc=networking;tpc=distributed_computing;tpc=JavaScript;tpc=system;tpc=smp;tpc=hardware;tpc=communications;tpc=internet;tpc=php;tpc=conferencing;aud=developers;aud=education;aud=endusers;aud=other;aud=sysadmins;aud=telecommunications;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Firsr%2F;tile=3;sz=1x1;u=e%3Ab58cea26-9e74-11e3-98c1-0200ac1d1d0b;ord=5415016282079154?"></' + 'script>';
+                if (wrapAd){
+                    document.write('<div id="p71_text" class="ad text">' + scriptHtml + '</div>');
+                }
+                else
+                {
+                    document.write(scriptHtml);
+                }
+              }
+            })();
+       </script>
+            
+
+
+    
+    <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              var wrapAd = false;
+                wrapAd = true;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                var scriptHtml = '<script type="text/javascript" src="http://ad.doubleclick.net/N4140/adj/ostg.sourceforge/cons_mobile_p72_text;pg=%2Fprojects;psrch=0;logged_in=0;tpc=irsr;tpc=networking;tpc=distributed_computing;tpc=JavaScript;tpc=system;tpc=smp;tpc=hardware;tpc=communications;tpc=internet;tpc=php;tpc=conferencing;aud=developers;aud=education;aud=endusers;aud=other;aud=sysadmins;aud=telecommunications;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Firsr%2F;tile=4;sz=1x1;u=e%3Ab58cea26-9e74-11e3-98c1-0200ac1d1d0b;ord=5415016282079154?"></' + 'script>';
+                if (wrapAd){
+                    document.write('<div id="p72_text" class="ad text">' + scriptHtml + '</div>');
+                }
+                else
+                {
+                    document.write(scriptHtml);
+                }
+              }
+            })();
+       </script>
+        </section>
+    </section>
+
+    <section id="sidebar">
+        <section class="ads">
+            
+
+
+    
+    
+    <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              var wrapAd = false;
+                wrapAd = true;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                var scriptHtml = '<script type="text/javascript" src="http://ad.doubleclick.net/N4140/adj/ostg.sourceforge/cons_mobile_p83_medrec;pg=%2Fprojects;psrch=0;logged_in=0;tpc=irsr;tpc=networking;tpc=distributed_computing;tpc=JavaScript;tpc=system;tpc=smp;tpc=hardware;tpc=communications;tpc=internet;tpc=php;tpc=conferencing;aud=developers;aud=education;aud=endusers;aud=other;aud=sysadmins;aud=telecommunications;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Firsr%2F;tile=5;sz=300x250,300x600;u=e%3Ab58cea26-9e74-11e3-98c1-0200ac1d1d0b;ord=5415016282079154?"></' + 'script>';
+                if (wrapAd){
+                    document.write('<div id="p83_medrec" class="ad multisize">' + scriptHtml + '</div>');
+                }
+                else
+                {
+                    document.write(scriptHtml);
+                }
+              }
+            })();
+       </script>
+            
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_mobile_p84_medrec;pg=%2Fprojects;psrch=0;logged_in=0;tpc=irsr;tpc=networking;tpc=distributed_computing;tpc=JavaScript;tpc=system;tpc=smp;tpc=hardware;tpc=communications;tpc=internet;tpc=php;tpc=conferencing;aud=developers;aud=education;aud=endusers;aud=other;aud=sysadmins;aud=telecommunications;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Firsr%2F;tile=6;sz=300x250;u=e%3Ab58cea26-9e74-11e3-98c1-0200ac1d1d0b;ord=5415016282079154?" width="300" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+        </section>
+        
+<aside class="sidebar-widget">
+	<header>
+        <h3>Recommended Projects</h3>
+	</header>
+    <ul>
+    
+        <li class="item odd">
+            <a href="/projects/corpell/?source=recommended" title="Corpell"><img alt="Icon" src="//c.fsdn.com/allura/p/corpell/icon" /></a>
+            <a href="/projects/corpell/?source=recommended" title="Learn more about Corpell ">Corpell</a>
+        </li>
+    
+        <li class="item even">
+            <a href="/projects/vhcs/?source=recommended" title="vhcs"><img alt="Icon" src="//c.fsdn.com/con/img/project_default.png" /></a>
+            <a href="/projects/vhcs/?source=recommended" title="Learn more about vhcs ">vhcs</a>
+        </li>
+    
+        <li class="item odd last">
+            <a href="/projects/zk1/?source=recommended" title="ZK - Simply Ajax and Mobile"><img alt="Icon" src="//c.fsdn.com/allura/p/zk1/icon" /></a>
+            <a href="/projects/zk1/?source=recommended" title="Learn more about ZK - Simply Ajax and Mobile ">ZK - Simply Ajax and Mobile</a>
+        </li>
+    
+    </ul>
+</aside>
+
+        
+<aside class="sidebar-widget jobs-widget">
+    <header>
+        <h3>
+            <span>
+                Powered by
+                <a href="http://www.dice.com/?CMPID=AF_SF_UP_JS_AV_OG_BN_&amp;utm_source=SourceForge&amp;utm_medium=Affiliate&amp;utm_content=&amp;utm_campaign=Advocacy_Ongoing"> <img src="http://a.fsdn.com/con/img/jobs/dice_logo.png" alt="Dice Logo" class="dice-logo"> </a>
+            </span>
+            Latest Tech Jobs
+        </h3>
+    </header>
+    <section>
+        <form action="/jobs/" method="get" id="job-search">
+            <input type="hidden" name="source" value="widget">
+            <input type="text" name="text" placeholder="Senior Java Developer (Job Title)" id="job-title" value="">
+            <input type="submit" name="submit" value="Find" id="job-search-button">
+        </form>
+    </section>
+    <ul id="job-listing">
+        <li class="item odd">
+            <span class="job-link"><a href="/jobs?source=widget">Loading...</a></span>
+            <span class="job-details">The latest tech jobs.</span>
+        </li>
+   </ul>
+   <section class="all-jobs" style="border: none;">
+        <a href="/jobs?source=widget">See All Jobs &rsaquo;&rsaquo;</a>
+    </section>
+</aside>
+
+<script type="text/javascript">
+    /*global Handlebars*/
+    jQuery(function($) {
+        var source = $('#jobwidget-template').html();
+        var template = Handlebars.compile(source);
+
+        Handlebars.registerHelper('stripe', function(array, display_count, random, fn) {
+            var buffer = "";
+            var max_iterations = Math.min(array.length,display_count);
+            for (var i = 0, len = array.length; i < max_iterations; i++) {
+                var item = null;
+                if (random === true) {
+                    var ri = Math.floor((Math.random()*array.length)+1);
+                    item = array[ri];
+                } else {
+                    item = array[i];
+                }
+                if (item) {
+                    item.css_class = (i % 2 === 0 ? 'even' : 'odd');
+                }
+                buffer += fn.fn(item);
+            }
+            return buffer;
+        });
+
+        function load_jobBoard() {
+            $.ajax({
+                url:'/jobs/json',
+                success: function(data) {
+                    $('#job-listing').html(template(data));
+                },
+                dataType: 'json'
+            });
+        }
+        load_jobBoard();
+    });
+</script>
+
+<script type="text/x-handlebars-template" id="jobwidget-template">
+    
+    {{#stripe data.jobs 5 true}}
+    <li class="item {{css_class}}">
+    <span class="job-link"><a href="{{ this.url }}">{{ this.title }}</a></span>
+        <span class="job-details">{{ this.company}} - {{ this.location}}</span>
+    </li>
+    {{/stripe}}
+    
+</script>
+
+        <section class="ads">
+            
+
+
+    
+
+        <script type="text/javascript">
+            (function(){
+              var immersionCompliment = false;
+              if ((!immersion_adcode && !immersionCompliment)  || (immersion_adcode && immersionCompliment)) {
+                document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/ostg.sourceforge/cons_mobile_p85_medrec;pg=%2Fprojects;psrch=0;logged_in=0;tpc=irsr;tpc=networking;tpc=distributed_computing;tpc=JavaScript;tpc=system;tpc=smp;tpc=hardware;tpc=communications;tpc=internet;tpc=php;tpc=conferencing;aud=developers;aud=education;aud=endusers;aud=other;aud=sysadmins;aud=telecommunications;dc_ref=http%3A%2F%2Fsourceforge.net%2Fprojects%2Firsr%2F;tile=7;sz=300x250;u=e%3Ab58cea26-9e74-11e3-98c1-0200ac1d1d0b;ord=5415016282079154?" width="300" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" seamless></iframe>');
+              }
+            })();
+       </script>
+        </section>
+        
+        
+
+<aside class="sidebar-widget project-activity-widget" id="project-activity"></aside>
+
+<script type="text/x-handlebars-template" id="project-activity-template">
+    
+    <header>
+        <h3>
+            Project Activity
+            <a id="follow-action" href="{{followee.activity_url}}activity/follow" title="{{followee.activity_name}}"{{#if following}} class="active"{{/if}}>
+                <b data-icon="S" class="ico ico-star"></b>
+            </a>
+            <a href="{{followee.activity_url}}activity/feed" title="RSS"><b data-icon="f" class="ico ico-feed"></b></a>
+        </h3>
+    </header>
+    <ul>
+        {{#stripe timeline 5 false}}
+        <li class="item {{css_class}}">
+            <h4>
+                {{#ifTagged "release"}}
+                  {{ cap this.verb }}
+                {{else}}
+                  {{ icon this.actor.activity_extras.icon_url }}
+                  {{ activity_obj this.actor }}
+                  {{ this.verb }}
+                {{/ifTagged}}
+                {{ activity_obj this.obj }}
+                {{#if this.target.activity_name}} on {{ activity_obj this.target }}{{/if}}
+            </h4>
+            {{#if this.obj.activity_extras.summary}}
+              <p>{{ this.obj.activity_extras.summary }}</p>
+            {{/if}}
+            <time datetime="{{ this.published }}" title="{{ this.published }}">{{ ago this.published }}</time>
+        </li>
+        {{/stripe}}
+    </ul>
+    <a class="all-activities" href="{{followee.activity_url}}activity">See All Activities &rsaquo;&rsaquo;</a>
+    
+</script>
+
+        <a id="report-inappropriate" href="/projects/irsr/report_inappropriate">Report inappropriate content</a>
+    </section>
+</article>
+        </div>
+
+        
+
+          
+<footer id="site-footer">
+    <div class="wrapper">
+        <nav>
+            <h5>SourceForge</h5>
+            <a href="/about">About</a>
+            <a href="/blog/category/sitestatus/">Site Status</a>
+            <a href="http://twitter.com/sfnet_ops">@sfnet_ops</a>
+            
+
+        </nav>
+        <nav>
+            <h5>Find and Develop Software</h5>
+            <a href="/create/">Create a Project</a>
+            <a href="/directory/">Software Directory</a>
+            <a href="/top">Top Downloaded Projects</a>
+        </nav>
+        <nav>
+            <h5>Community</h5>
+            <a href="/blog/">Blog</a>
+            <a href="http://twitter.com/sourceforge">@sourceforge</a>
+            <a href="/jobs?source=footer">Job Board</a>
+            <a href="http://library.slashdotmedia.com/?source=sfnet_footer">Resources</a>
+        </nav>
+        <nav>
+            <h5>Help</h5>
+            <a href="http://p.sf.net/sourceforge/docs">Site Documentation</a>
+            <a href="/support">Support Request</a>
+            <a href="http://p.sf.net/sourceforge/irc">Real-Time Support</a>
+        </nav>
+    </div>
+</footer>
+<footer id="site-copyright-footer">
+    <div class="wrapper">
+        <div id="copyright">
+            Copyright &copy; 2014 Dice. All Rights Reserved.<br />
+            SourceForge is a <a href="http://www.diceholdingsinc.com/phoenix.zhtml?c=211152&amp;p=irol-landing">Dice Holdings, Inc.</a> service.
+        </div>
+        <nav>
+            <a href="http://slashdotmedia.com/terms-of-use/">Terms</a>
+            <a href="http://slashdotmedia.com/privacy-statement/">Privacy</a>
+            <span id='teconsent'></span>
+            <a href="http://slashdotmedia.com/opt-out-choices/">Opt Out Choices</a>
+
+
+            <a href="http://slashdotmedia.com">Advertise</a>
+            <a href="http://sourceforge.jp/">SourceForge.JP</a>
+            <a href="http://goparallel.sourceforge.net/">Go Parallel</a>
+        </nav>
+    </div>
+</footer>
+            <script src="http://a.fsdn.com/con/js/min/sf.js?1393354590" type="text/javascript"></script>
+        
+        <!-- Begin comScore Tag -->
+        <script src="http://b.scorecardresearch.com/beacon.js"></script>
+        <script type="text/javascript">
+            if (window.COMSCORE) {
+                COMSCORE.beacon({
+                    c1: 2,
+                    c2: 6035546,
+                    c3: "",
+                    c4: "",
+                    c5: "",
+                    c6: "",
+                    c15: ""
+                });
+            }
+        </script>
+        <noscript>
+            <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035546&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="comScore2" />
+        </noscript>
+        <!-- End comScore Tag -->
+
+<div id="screenshots-callout-content" class="callout">
+    <a href="/p/irsr/admin/screenshots">Screenshots can attract more users to your project.</a>
+</div>
+<div id="features-callout-content" class="callout">
+    <a href="/projects/irsr/edit">Features can attract more users to your project.</a>
+</div>
+<script src="http://a.fsdn.com/con/js/callouts.js?1393354590"></script>
+
+<div id="icon-dialog" title="Change the project icon">
+    <form action="/projects/irsr/update" method="post" enctype="multipart/form-data">
+        <input type="hidden" name="_visit_cookie" value=""/>
+        <label for="icon">Upload a new icon</label>
+        <div class="field">
+            <input name="icon" id="icon" class="file" type="file"/>
+        </div>
+        <p class="help">Icons must be PNG, GIF, or JPEG and less than 1 MiB in size.  They will be displayed as 48x48 images.</p>
+    </form>
+</div>
+        <script type="text/javascript" src='//consent-st.truste.com/get?name=notice.js&domain=slashdot.org&c=teconsent&text=true'></script>
+<!--behavior='-->
+      </body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.csm.ornl.gov/harness/>====================
+<html>
+<head>
+<title>Harness Homepage</title>
+<style>
+a           {text-decoration : none;}
+a:hover     {text-decoration : underline;}
+p.noindent  {margin          : 0pt;}
+p.indent    {margin          : 0pt;
+             text-indent     : 2em;}
+.border     {border          : 1px solid #878648;}
+.hborder    {border-top      : 1px solid #878648;
+             border-bottom   : 1px solid #878648;}
+.vborder    {border-left     : 1px solid #878648;
+             border-right    : 1px solid #878648;}
+.tborder    {border-top      : 1px solid #878648;}
+.bborder    {border-bottom   : 1px solid #878648;}
+.lborder    {border-left     : 1px solid #878648;}
+.rborder    {border-right    : 1px solid #878648;}
+</style>
+</head>
+<body marginwidth="20" marginheight="20" topmargin="20" leftmargin="20" rightmargin="20" bottommargin="20" text="#000000" link="#006C45" alink="#006C45" vlink="#006C45" bgcolor="#F7EED0">
+<basefont face="Sans-serif">
+<table cellspacing="20" cellpadding="20" border="0" bgcolor="#F7EED0"><tr><td width="780" valign="top" align="center" bgcolor="#FFFFFF" class="border">
+<font size="+3"><b>Harness High Performance Computing Workbench</b></font>
+</td></tr><tr><td width="780" valign="top" align="left" bgcolor="#FFFFFF" class="border">
+
+<p align="center"><font size="-1">Homepage | 
+                                  <a href="people/index.html">People</a> |
+                                  <a href="publications/index.html">Publications</a> |
+                                  <a href="software/index.html">Software</a> |
+                                  <a href="opportunities/index.html">Opportunities</a></font></p>
+
+<p align="justify" class="noindent"></a><b>Harness</b> is a collaborative computer science research effort of <a href="http://www.ornl.gov/" target="www.ornl.gov">Oak Ridge National Laboratory (ORNL)</a>, the <a href="http://icl.cs.utk.edu/harness/" target="icl.cs.utk.edu_harness">University of Tennessee Knoxville</a>, and <a href="http://dcl.mathcs.emory.edu/" target="dcl.mathcs.emory.edu">Emory University</a> in advanced software solutions for parallel and distributed computing systems with an emphasis on scientific high performance computing (HPC). While past Harness work focused on heterogeneous distributed virtual machine and fault tolerant runtime environments, ongoing research targets optimized scientific application development and deployment processes. The following two paragraphs describe ongoing and past work in more detail.<br><br></p>
+
+<p align="center" class="noindent">
+<a href="http://www.ornl.gov/" target="www.ornl.gov"><img src="images/ornl.png" border="0"></a>
+<a href="http://icl.cs.utk.edu/harness/" target="icl.cs.utk.edu_harness"><img src="images/ut.png" border="0" hspace="50"></a>
+<a href="http://dcl.mathcs.emory.edu/" target="dcl.mathcs.emory.edu"><img src="images/emory.png" border="0"></a>
+<br><br></p>
+
+<p align="justify" class="noindent"><a name="harnesswb"></a><b>Harness Workbench: Unified and Adaptive Access to Diverse HPC Platforms</b>&nbsp; The goal of this project is to enhance the overall productivity of applications science on diverse high performance computing platforms by conducting research in two innovative software environments. The first is the Harness Workbench Toolkit (HWT) for application building and execution that provides a common view across diverse HPC systems. The HWT consists of a software backplane architecture that presents a uniform but extensible interface for preparatory and pre-execution stages of application execution, which interfaces to instance-specific software via customizable plug-in modules. The second is the next generation Harness runtime environment (HRTE) that similarly provides a flexible, adaptive framework for plugging in modules optimized for a specific HPC system and allows dynamic interfacing to a variety of user environments. Both these environments will employ platform specific pluggable modules disseminating target-specific knowledge and expertise immediately to all end-users who can continue to interface to a familiar environment.<br><br></p>
+
+<p align="center" class="noindent"><a href="images/hpcsw08-big.jpg" target="image"><img src="images/hpcsw08.jpg" border="0" ALT="Click to enlarge"></a><br><br></p>
+
+<p align="justify" class="noindent"><a name="harness"></a><b>Harness: Heterogeneous Distributed Computing</b>&nbsp; The heterogeneous adaptable reconfigurable networked systems (Harness) research project focused on the design and development of a pluggable lightweight heterogeneous Distributed Virtual Machine (DVM) environment, where clusters of PCs, workstations, and ``big iron'' supercomputers can be aggregated to form one giant DVM (in the spirit of its widely-used predecessor, <a href="http://www.csm.ornl.gov/pvm/" target="www.csm.ornl.gov_pvm">Parallel Virtual Machine (PVM)</a>). As part of the Harness project, a variety of experiments and system prototypes were developed to explore lightweight pluggable frameworks, adaptive reconfigurable runtime environments, assembly of scientific applications from software modules, parallel plug-in paradigms, highly available DVMs, fault-tolerant message passing (<a href="http://icl.cs.utk.edu/ftmpi" target="icl.cs.utk.edu_ftmpi">FT-MPI</a>), fine-grain security mechanisms, and heterogeneous reconfigurable communication frameworks. Three different Harness system prototypes were developed, two C variants and one Java-based alternative, each concentrating on different research issues. The technology developed within the Harness project influenced many other research and development efforts, such as <a href="http://www.open-mpi.org" target="www.open-mpi.org">Open MPI</a> and <a href="http://www.fastos.org/molar" target="www.fastos.org_molar">MOLAR</a><br><br></p>
+
+<p align="center" class="noindent">
+<a href="images/hdvm-big.jpg" target="image"><img src="images/hdvm.jpg" border="0" height="360" ALT="Click to enlarge"></a>&nbsp;&nbsp;&nbsp;
+<a href="images/h2o-big.jpg" target="image"><img src="images/h2o.jpg" border="0" height="360" ALT="Click to enlarge"></a>
+</p>
+
+</td></tr><tr><td width="780" valign="top" align="left" bgcolor="#FFFFFF" style="border:1px solid #878648;">
+<p align="justify" class="noindent"></a><font size="-1"><a href="http://www.sc.doe.gov/" target="www.sc.doe.gov"><img src="images/scdoe.jpg" align="left" border="0"></a>This research is sponsored by the <a href="http://www.sc.doe.gov/ascr" target="www.sc.doe.gov_ascr">Office of Advanced Scientific Computing Research</a>; <a href="http://www.sc.doe.gov/" target="www.sc.doe.gov">Office of Science</a>; <a href="http://www.doe.gov/" target="www.doe.gov">U.S. Department of Energy</a>. The work is performed jointly at <a href="http://www.ornl.gov/" target="www.ornl.gov">Oak Ridge National Laboratory</a>, which is managed by <a href="http://www.ut-battelle.org/" target="www.ut-battelle.org">UT-Battelle, LLC</a> under Contract No. De-AC05-00OR22725, the <a href="http://icl.cs.utk.edu/harness/" target="icl.cs.utk.edu_harness">University of Tennessee Knoxville</a>, and <a href="http://dcl.mathcs.emory.edu/" target="dcl.mathcs.emory.edu">Emory University</a>. Please contact <a href="mailto:engelmannc@ornl.gov">engelmannc@ornl.gov</a> with questions or comments regarding this page.</font></p>
+</td></tr></table>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.uoregon.edu/research/tau/>====================
+<HTML>
+    <HEAD>
+        <meta http-equiv="refresh" content="0;url=home.php">
+    </HEAD>
+    <BODY></BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://charm.cs.uiuc.edu/>====================
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+    <meta content="" name="description" />
+    <meta content="" name="keywords" />
+    <link href="/css/main.css" type="text/css" rel="stylesheet" />
+    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans+Caption&amp;subset=latin" />
+    <title>Parallel Programming Laboratory</title>
+    <script type="text/javascript" src="/classpath/jquery.js" id="jquery"></script>
+    <script type="text/javascript" src="/classpath/json.js" id="json"></script>
+    <script src="/js/paper_expand.js" type="text/javascript"></script>
+    <script src="/js/highlight.js" type="text/javascript"></script>
+    <script src="/js/confirm_dialog.js" type="text/javascript"></script>
+    <script src="/js/lib/jquery.ba-hashchange.min.js" type="text/javascript"></script>
+<!--[if lt IE 7]>
+<script defer type="text/javascript" src="js/lib/supersleight-min.js"></script>
+<script defer type="text/javascript" src="js/lib/pngfix.js"></script>
+<![endif]-->
+
+  
+	
+<script src="/js/scroller.js" type="text/javascript"></script>
+
+	
+</head>
+<body>
+    <div id="header">
+      <div id="logo"><a href="/"><img src="/images/header_ppllogo.png" /></a></div>
+      <div id="university"><a href="http://cs.illinois.edu/"><img src="/images/header-department.png" /></a></div>
+      <div id="menu">
+	<ul>
+	  <li id="home">
+	    <a href="/"><img src="/images/header-links-home.png" /></a>
+	  </li>
+	  <li id="research">
+	    <a href="/research"><img src="/images/header-links-research.png" /></a>
+	  </li>
+	  <li id="papers">
+	    <a href="/papers"><img src="/images/header-links-papers.png" /></a>
+	  </li>
+          <li id="media">
+	    <a href="/media"><img src="/images/header-links-talks.png" /></a>
+	  </li>
+	  <li id="software">
+	    <a href="/software"><img src="/images/header-links-software.png" /></a>
+	  </li>
+	  <li id="help">
+	    <a href="/help"><img src="/images/header-links-docs.png" /></a>
+	  </li>
+	  <li id="people">
+	    <a href="/people"><img src="/images/header-links-people.png" /></a>
+	  </li>
+	</ul>
+	<div id="login"><a href="https://charm.cs.illinois.edu/private/"><img src="/images/login_small.png" /></a></div>
+      </div>
+    </div>
+    <div id="content_container">
+      <div id="content">
+	
+  
+  <div id="outerleft">
+    <div id="researchmain">
+      <div id="researchsummary">
+
+        <b>Welcome! We are the Parallel Programming Laboratory.</b>
+
+        <p>Our goal is to develop technology that improves performance of
+parallel applications while also improving programmer productivity. We aim to
+reach a point where, with our freely distributed software base, complex
+irregular and dynamic applications can (a) be developed quickly and (b) perform
+scalably on machines with thousands of processors.</p>
+        <p>Processor virtualization is one of our core techniques: the
+programmer divides the computation into a large number of entities, which are
+mapped to the available processors by an intelligent runtime system. This
+separation of concerns between programmers and the system is key to attaining
+both our goals together.</p>
+
+      </div>
+    </div>
+
+    <div id="highlight">
+      
+      <div id="titleHighlight">
+	<span>Large-scale Parallelization of Stochastic Integer Programs</span>
+      </div>
+      <div id="textHighlight">
+	<span>  <a href ="http://charm.cs.illinois.edu/newHighlight/stochbnb.png" > <img src="http://charm.cs.illinois.edu/newHighlight/stochbnb.png" width="200" align="right" /></a>
+
+<br></br>
+In many real world optimization problems such as resource allocation, the parameters that correspond to future outcomes are subject to enormous uncertainty. In stochastic optimization we assume a probabilistic distribution of these unknown parameters and optimize the resource allocation across a collection of possibilities, known as scenarios. Applications of stochastic optimization spans a diverse set of areas including aircraft scheduling, production planning, financial planning, energy grid optimization, supply chain management, and many...</span>
+      </div>
+      
+      <div onclick="" id="moreHighlight">
+        <a href="news.html?highlight=true" id="highlightLink"></a>
+      </div>
+    </div>
+
+    <div id="outsidescroller">
+      <div onclick="movePrevious();" class="arrow" id="previous"></div>
+      <div onclick="moveNext();" class="arrow" id="next"></div>
+      <div id="scroller">
+        <div id="insidescroller">
+          <div class="insideBox" id="box1"><a href="/software"><img src="images/charm.png" class="cimage" /></a></div>
+	  <div class="insideBox" id="box2"><a href="/research/moldyn"><img src="images/NAMD.png" class="cimage" /></a></div>
+	  <div class="insideBox" id="box3"><a href="/research/qmmm"><img src="images/openatom.png" class="cimage" /></a></div>
+	  <div class="insideBox" id="box4"><a href="/research/cosmology"><img src="images/changa.png" class="cimage" /></a></div>
+	  <div class="insideBox" id="box5"><a href="/research/parallel_perf"><img src="images/performance.png" class="cimage" /></a></div>
+	  <div class="insideBox" id="box6"><a href="/research/bigsim"><img src="images/bigsim.png" class="cimage" /></a></div>
+
+        </div>
+      </div>
+    </div>
+    <br />
+  </div>
+
+  <div id="sepline">
+    <div id="search">
+      <form action="http://www.google.com/search" method="get">
+	<div>
+	  <input value="charm.cs.uiuc.edu" name="sitesearch" type="hidden" />
+	  <input style="font-size:12px;" maxlength="255" size="14" name="q" type="text" />
+	  <input value="Search" name="btnG" type="submit" />
+	</div>
+      </form>
+    </div>
+
+    <div id="mailinglist">
+      <a href="software"><img src="images/mailing.png" /></a>
+    </div>
+
+    <a href="http://charm.cs.illinois.edu/charmWorkshop?from=charmhome/">
+       <img width="220" src="images/workshop.jpg" />
+    </a>
+
+    <div id="recentactivity">
+      <span class="rightheading">Recent Activity</span>
+      <div class="recentline"></div>
+      <ul class="rightlist">
+	
+	  <li><span><a href="news.html#66">Nikhil receives IBM PhD Fellowship Award</a></span></li>
+	
+	  <li><span><a href="news.html#65">Lukasz receives ORNL distinguished software award</a></span></li>
+	
+	  <li><span><a href="news.html#62">Akhil et al win Best Paper Award at HiPC 2013</a></span></li>
+	
+	  <li><span><a href="news.html#64">Akhil et al win Two Best Poster Awards at HiPC 2013</a></span></li>
+	
+	  <li><span><a href="http://charm.cs.illinois.edu/jobs/VisitingAd.pdf"><font color="red"><b>Seeking a Visiting Research Programmer</b></font></a></span></li>
+	
+	  <li><span><a href="news.html#60">Gupta et al. win Best Paper Award at IEEE CloudCom '13</a></span></li>
+	
+      </ul>
+    </div>
+
+    <div id="links">
+      <span class="rightheading">Recent Publications</span>
+      <div class="recentline"></div>
+      <ul class="rightlist">
+        
+	  <li><span><a href="/papers/14-03">Optimizing Performance Under Thermal and Power Constraints for HPC Data Centers</a></span></li>
+	
+	  <li><span><a href="/papers/14-02">Energy Profile of Rollback-Recovery Strategies in High Performance Computing</a></span></li>
+	
+	  <li><span><a href="/papers/14-01">Overcoming the Scalability Challenges of Epidemic Simulations on Blue Waters</a></span></li>
+	
+	  <li><span><a href="/papers/13-56">Easy, Fast and Energy Efficient Object Detection on Heterogeneous On-Chip Architectures</a></span></li>
+	
+	  <li><span><a href="/papers/13-51">ACM SRC: Structure-Aware Parallel Algorithm for Solution of Sparse Triangular Linear Systems</a></span></li>
+	
+      </ul>
+    </div>
+  </div>
+  <script type="text/javascript">
+// <![CDATA[
+highlightPage('home');;
+// ]]>
+</script>
+
+      </div>
+    </div>
+    <div id="footer">
+      <p>Copyright © 1996-2013</p>
+    </div>
+
+    
+      <script type="text/javascript">
+// <![CDATA[
+jQuery(document).ready(function() {$(window).hashchange(function() {liftAjax.lift_ajaxHandler('F420188859847PJFABG=' + encodeURIComponent(window.location.href + '|' + window.location.hash), null, null, null)});});
+// ]]>
+</script>
+      <script type="text/javascript">
+// <![CDATA[
+jQuery(document).ready(function() {liftAjax.lift_ajaxHandler('F4201888598485KCBSL=' + encodeURIComponent(window.location.href + '|' + window.location.hash), null, null, null);});
+// ]]>
+</script>
+    
+  <script type="text/javascript" src="/ajax_request/liftAjax.js"></script>
+
+	
+<script type="text/javascript">
+// <![CDATA[
+jQuery(document).ready(function() {liftAjax.lift_successRegisterGC();});
+var lift_page = "F420188859846J35LWT";
+// ]]>
+</script></body>
+</html>  
+  ++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.washington.edu/research/zpl/index.html>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="style.css">
+    <title>ZPL</title>
+    <meta name="description" content="ZPL is a parallel array
+	  programming language suitable for most computations that
+	  would previously have been written in Fortran 77 and MPI.">
+    <meta name="keywords" content="ZPL, parallel, programming
+	  language, parallel programming, array language, scientific
+	  computing, HPF, Fortran, matrix multiply, compiler
+	  optimization, communication optimization, Cray, IBM, HP,
+	  SGI, Sun, high performance, portability, machine
+	  independent, portable">
+    <meta http-equiv="Refresh" content="URL=home/index.html">
+    <script language="JavaScript"><!--
+      function redirect() { window.location.href = "home/index.html"; }
+      //--></script>
+  </head>
+
+  <body onLoad="redirect()">
+    <br><br>
+    <center>
+      <h1>Tired of MPI?</h1>
+      <a href="home/index.html">
+	<img src="images/zpl-icon-shadow.png" border="0" width="120" height="110">
+      </a>
+    </center>
+    <br>
+    &nbsp;&nbsp;If you are not redirected automatically, click <a
+    href="home/index.html">here</a>.
+  </body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.virginia.edu/~mentat/index.html>====================
+<TITLE> The Mentat Project</TITLE>
+
+
+<FRAMESET rows="70, *">
+  <FRAME SRC="head.html" NAME=head" scrolling="off">
+  <FRAMESET cols="150, *">
+    <FRAME SRC="contents.html" NAME="contents">
+    <FRAME SRC="homepage.html" NAME="bottom">   
+  </FRAMESET>
+</FRAMESET>
+
+
+<NOFRAME>
+<BODY BACKGROUND="outlogo2.gif",
+TEXT="#ffffff".
+LINK="#00ff00",
+VLINK="#ffff00">
+
+<TITLE>Info on Mentat</TITLE>
+<CENTER>
+<H1>Mentat Home Page</H1>
+</CENTER>
+
+<A HREF="./outword.map">
+<CENTER>
+<IMG SRC="./outword.gif" ISMAP BORDER=0></A>
+</CENTER>
+
+<p ALIGN=CENTER>
+<HR SIZE=7, SHADE=2>
+</P>
+
+<A HREF="../blurb/blurb_txt.html">Mentat</A>
+is an object-oriented parallel processing system designed to directly address the 
+difficulty of developing architecture-independent parallel programs. 
+
+<UL>
+<LI><H2><A HREF="./blurb/blurb_txt.html">Overview</A></H2>
+<LI><H2><A HREF="./docs/docs.html">Documentation</A></H2>
+<LI><H2><A HREF="./mentaters/mentaters.html">Mentat Team</A></H2>
+<LI><H2><A HREF="./archives/archive_files.html">Distribution</A></H2>
+<LI><H2><A HREF="./sources/sources.html">Sample Programs</A></H2>
+<LI><H2><A HREF="./slides/slides.html">Slides</A></H2>
+<LI><H2><A HREF="./known_bugs/known_bugs.html">New Features</A></H2>
+</UL>
+
+
+<P ALIGN=CENTER>
+<HR SIZE=7, SHADE=2>
+</CENTER>
+<H2>Legion - <I>The next logical step towards a world-wide virtual computer.</I></H2>
+<A HREF="//www.cs.virginia.edu/~legion">Legion</A> is a nationwide metasystem project that uses Mentat as a starting point.<P>
+
+
+<HR SIZE=7 SHADE=2>
+
+<A HREF="./statbot2/statbot2.html">Total Access Statistics</A> 
+
+<B>You are visitor <IMG width=75 height=20 src="http://www.cs.virginia.edu/cgi-bin/cgiwrap?user=mentat&script=count_mentat"> to this page since 10/12/95</B><P>
+
+<HR SIZE=7 SHADE=2><P>
+You can also find this page through 
+<A HREF="//www.pointcom.com">Point Survey</A>
+<IMG SRC="./badgem.gif">
+</P>
+<P>
+<HR SIZE=7 SHADE=2>
+</P>
+
+<ADDRESS>
+mentat@virginia.edu,
+Department of Computer Science, 
+Thornton Hall,
+University of Virginia,
+Charlottesville, Virginia 22903
+</ADDRESS> <P>
+
+</NOFRAMES>
+  
+
+++++++++++++++++++++<Over>++++++++++++++++++++

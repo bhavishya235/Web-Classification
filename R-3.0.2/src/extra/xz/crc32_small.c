@@ -1,0 +1,1 @@
+./check/crc32_small.c

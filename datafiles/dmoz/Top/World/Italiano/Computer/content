@@ -1,0 +1,2828 @@
+<topic r:id="Top/World/Italiano/Computer">
+<catid>33569</catid>
+</topic>
+<topic r:id="Top/World/Italiano/Computer/E-Book">
+<catid>33662</catid>
+<link r:resource="http://www.evolutionbook.com/" />
+<link r:resource="http://www.sit5.com/e-books/" />
+<link r:resource="http://www.merzweb.com/testi/saggi/e-book_problemi_e_prospettive.htm" />
+<link r:resource="http://www.mediamente.rai.it/divenirerete/010504/index.asp" />
+<link r:resource="http://www.mediamente.rai.it/divenirerete/010504/knowles.asp" />
+<link r:resource="http://www.mediamente.rai.it/mm_it/001114/index.asp" />
+<link r:resource="http://www.mediamente.rai.it/divenirerete/010504/navigazione.asp" />
+<link r:resource="http://www.mediamente.rai.it/divenirerete/010504/ebook.asp" />
+<link r:resource="http://www.mediamente.rai.it/divenirerete/010504/roncaglia.asp" />
+<link r:resource="http://www.unitus.it/virtual/e-book/e-library.htm" />
+<link r:resource="http://www.italianisticaonline.it/e-book/dossier.htm" />
+<link r:resource="http://ebooklearn.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Formato_Dati">
+<catid>33729</catid>
+<link r:resource="http://www.mediamente.rai.it/divenirerete/010504/navigazione.asp" />
+<link r:resource="http://www.tissino.it/esempi/formatidifile/" />
+<link r:resource="http://www.lcnet.it/priv/erioforo/mhlpfor.html" />
+<link r:resource="http://www.connettivo.net/article.php3?id_article=34" />
+<link r:resource="http://www.guidapc.com/estensioni/" />
+<link r:resource="http://www.asciitable.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Formato_Dati/Formati_Aperti">
+<catid>33741</catid>
+<link r:resource="http://lists.softwarelibero.it/pipermail/formati/" />
+<link r:resource="http://www.gnu.org/philosophy/no-word-attachments.it.html" />
+<link r:resource="http://punto-informatico.it/p.asp?i=45193" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Formato_Dati/Linguaggi_di_Marcatura">
+<catid>33732</catid>
+<pdf r:resource="http://www.cs.unibo.it/~fabio/corsi/tw02/slides/08-Markup/08-MarkupI.pdf"></pdf>
+<link r:resource="http://www.cs.unibo.it/~fabio/corsi/tw02/slides/08-Markup/08-MarkupII.pdf" />
+<link r:resource="http://www.web-link.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Formato_Dati/Linguaggi_di_Marcatura/Css">
+<catid>33733</catid>
+<link r:resource="http://www.risorse.net/css/" />
+<link r:resource="http://itlists.org/mailman/listinfo/cssdesign/" />
+<link r:resource="http://www.webaccessibile.org/css/" />
+<link r:resource="http://www.morpheusweb.it/html/manuali/css.asp" />
+<link r:resource="http://www.tutorialpc.it/cssmenu.asp" />
+<link r:resource="http://www.fauser.edu/fau/css/tuttocss.htm" />
+<link r:resource="http://www.dimi.uniud.it/~giorgio/dida/docs/rapporto_CSS/index.htm" />
+<link r:resource="http://www.diodati.org/w3c/html401/present/styles.html" />
+<link r:resource="http://jigsaw.w3.org/css-validator/" />
+<link r:resource="http://atomsurfer.altervista.org/xhtml_e_css/" />
+<link r:resource="http://www.usabile.it/192002.htm" />
+<link r:resource="http://it.wikipedia.org/wiki/Fogli_di_stile" />
+<link r:resource="http://www.web-link.it/css/css.htm" />
+<link r:resource="http://www.azpoint.net/news/Script_HTML_2592.asp" />
+<link r:resource="http://www.gdesign.it/pages/howto/articoli/cssdom/cssdom.php" />
+<link r:resource="http://www.gdesign.it/pages/howto/articoli/slidcss/slidcss.php" />
+<link r:resource="http://www.gdesign.it/pages/howto/articoli/slidcss2/slidcss2.php" />
+<link r:resource="http://www.gdesign.it/pages/howto/articoli/csscorners/csscorners.php" />
+<link r:resource="http://www.griseldaonline.it/informatica/Diapositive/css_index.htm" />
+<link r:resource="http://www.christianfusi.com/cf/articoli/foglistile_accessibili.htm" />
+<link r:resource="http://www.fucinaweb.com/fw/ericmeyer" />
+<link r:resource="http://www.csszengarden.com/tr/italiano/" />
+<link r:resource="http://www.maniegrafiche.it/guide/guide-per-webmaster/guida-css/" />
+<link r:resource="http://www.mrwebmaster.it/css/" />
+<link r:resource="http://www.css-zibaldone.com/" />
+<link r:resource="http://css.flepstudio.org/" />
+<link r:resource="http://webaccessibile.org/articoli/la-barra-dell-accessibilita-informazioni/" />
+<link r:resource="http://www.diodati.org/w3c/raggett/style.asp" />
+<link r:resource="http://css.html.it/faq/" />
+<link r:resource="http://css.html.it/guide/leggi/2/guida-css-di-base/" />
+<link r:resource="http://css.html.it/guide/leggi/3/guida-layout-dei-siti-con-i-css/" />
+<link r:resource="http://www.html5today.it/tag/css3" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Formato_Dati/Linguaggi_di_Marcatura/Html">
+<catid>33734</catid>
+<link r:resource="http://www.ats.it/shortcut/web1.htm" />
+<link r:resource="http://www.fauser.edu/fau/html_htm/tuttohtml.htm" />
+<link r:resource="http://www.webfract.it/GUIDA/aindice1.htm" />
+<link r:resource="http://www.echoecho.com/it/html.htm" />
+<link r:resource="http://www.risorse.net/html/" />
+<link r:resource="http://www.diodati.org/w3c/raggett/advanced.asp" />
+<link r:resource="http://www.softwareplanet.net/php/mostraCorso.php?nomeCorso=HTML" />
+<link r:resource="http://www.gdesign.it/pages/html/html.php" />
+<link r:resource="http://www.gregorys.it/informat/html/index.htm" />
+<link r:resource="http://www.ce.unipr.it/people/educal/html/" />
+<link r:resource="http://fisionweb.altervista.org/guide/index.php?guida=HTML&amp;ris=1" />
+<link r:resource="http://www.mrwebmaster.it/html/guide/guida-html_4/" />
+<link r:resource="http://www.diodati.org/w3c/raggett/overview.asp" />
+<link r:resource="http://xhtml.html.it/guide/leggi/51/guida-html/" />
+<link r:resource="http://www.html5today.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Formato_Dati/Linguaggi_di_Marcatura/Xml">
+<catid>33735</catid>
+<link r:resource="http://digilander.libero.it/shppotta/" />
+<link r:resource="http://www.risorse.net/xml/" />
+<link r:resource="http://web.tiscali.it/xmlstudio/" />
+<link r:resource="http://www.griseldaonline.it/informatica/Diapositive/Frameset-1_xml.htm" />
+<link r:resource="http://www.mrwebmaster.it/xml/guide/guida-xml_9/" />
+<link r:resource="http://www.manuali.net/manuali/intro/xml/xml_di_base.html" />
+<link r:resource="http://xml.html.it/" />
+<link r:resource="http://zitogiuseppe.com/xml/xmlfaq.html" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Formato_Dati/Linguaggi_di_Marcatura/Xml/Rss">
+<catid>33737</catid>
+<link r:resource="http://www.mytech.it/mytech/internet/art006010047761.jsp" />
+<link r:resource="http://www.rss-world.info/" />
+<link r:resource="http://www.rsspress.it/" />
+<link r:resource="http://webdesign.html.it/articoli/leggi/188/introduzione-a-rss/" />
+<link r:resource="http://feeds.feedburner.com/rssworld/news" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Formato_Dati/Linguaggi_di_Marcatura/Xml/Smil">
+<catid>33738</catid>
+<link r:resource="http://www.w3c.it/traduzioni/REC-smil-it.html" />
+<link r:resource="http://www.risorse.net/smil/" />
+<link r:resource="http://xml.html.it/guide/leggi/88/guida-smil-11/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Formato_Dati/Linguaggi_di_Marcatura/Xml/Svg">
+<catid>33739</catid>
+<link r:resource="http://www.svgunict.altervista.org/index.html" />
+<link r:resource="http://xml.html.it/guide/leggi/54/guida-svg/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Formato_Dati/Linguaggi_di_Marcatura/Xml/Wml">
+<catid>33736</catid>
+<link r:resource="http://www.netlink.it/wap/wml10.htm" />
+<link r:resource="http://www.gsmworld.it/wapmania/default.asp?url=wml.asp" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Formato_Dati/Linguaggi_di_Marcatura/Xml/Xhtml">
+<catid>33740</catid>
+<link r:resource="http://www.w3c.it/traduzioni/xhtml1-it.html" />
+<link r:resource="http://www.w3c.it/traduzioni/REC-xhtml-basic-20001219-it.html" />
+<link r:resource="http://www.morpheusweb.it/html/manuali/xhtml.asp" />
+<link r:resource="http://www.gdesign.it/pages/howto/articoli/doctype/doctype.php" />
+<link r:resource="http://pesanervi.diodati.org/pn/index.asp?a=293" />
+<link r:resource="http://www.mrwebmaster.it/xhtml/guide/guida-xhtml_20/" />
+<link r:resource="http://www.nannibassetti.com/articoli/xhtml.htm" />
+<link r:resource="http://pesanervi.diodati.org/pn/index.asp?a=284" />
+<link r:resource="http://xhtml.html.it/guide/leggi/52/guida-xhtml/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Formato_Dati/Pdf">
+<catid>33731</catid>
+<link r:resource="http://www.pcalmeglio.com/consigli/cons_2.htm" />
+<link r:resource="http://digilander.libero.it/unno2/pdf.htm" />
+<link r:resource="http://www.giulianoartico.it/soft/util/pdf.htm" />
+<link r:resource="http://www.adobe.it/products/acrobat/main.html" />
+<link r:resource="http://www.pdflab.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Formato_Dati/PostScript">
+<catid>33730</catid>
+<link r:resource="http://mac.html.it/articoli2/PostScript1.htm" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Grafica">
+<catid>33723</catid>
+<link r:resource="http://digilander.libero.it/katalog/emo/" />
+<link r:resource="http://digilander.libero.it/gattei/index.htm" />
+<link r:resource="http://www.grafichissima.it/" />
+<link r:resource="http://www.grafizz.com/" />
+<link r:resource="http://digilander.libero.it/graficagiuniaross/" />
+<link r:resource="http://www.cuorhome.net/" />
+<link r:resource="http://font.html.it/" />
+<link r:resource="http://digilander.libero.it/sweetgraphics1/home/" />
+<link r:resource="http://effettosito.altervista.org/" />
+<link r:resource="http://www.aliworld.it/" />
+<link r:resource="http://www.vocinelweb.it/" />
+<link r:resource="http://www.myfairies.net/" />
+<link r:resource="http://paolasweb.altervista.org/" />
+<link r:resource="http://www.smilies.it/" />
+<link r:resource="http://userbarmania.altervista.org/" />
+<link r:resource="http://www.webalice.it/c.quadri/index.html" />
+<link r:resource="http://graficando.forumcommunity.net/" />
+<link r:resource="http://renatozocchi.it/" />
+<link r:resource="http://www.massimilianobenvenuti.it/" />
+<link r:resource="http://it.fonts2u.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Grafica/3D">
+<catid>33724</catid>
+<link r:resource="http://www.geolinux.altervista.org/" />
+<link r:resource="http://www.eyeresolution.it/" />
+<link r:resource="http://www.highrender.com/" />
+<link r:resource="http://www.renderglobal.org/" />
+<link r:resource="http://www.blender.it/" />
+<link r:resource="http://www.3dcad.it/" />
+<link r:resource="http://www.treddi.com/" />
+<link r:resource="http://web.tiscali.it/digitalartwork/" />
+<link r:resource="http://www.kartoon3d.com/" />
+<link r:resource="http://www.c4dzone.com/" />
+<link r:resource="http://www.marcoguerrini.it/" />
+<link r:resource="http://www.grafica3dblog.it/" />
+<link r:resource="http://grafica2d3d.blogspot.com/" />
+<link r:resource="http://www.michelazizzari.it/" />
+<link r:resource="http://www.lowpoly.it/" />
+<link r:resource="http://www.3dagain.com/" />
+<link r:resource="http://www.kino3d.com/" />
+<link r:resource="http://www.ogre3d.it/" />
+<link r:resource="http://www.renderking.it/" />
+<link r:resource="http://www.grafica2d3d.com/" />
+<link r:resource="http://www.prismacad.it/" />
+<link r:resource="http://it.wikipedia.org/wiki/Modellazione_3D" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Grafica/Gif_Animate">
+<catid>33727</catid>
+<link r:resource="http://webgif.com/" />
+<link r:resource="http://spazioinwind.libero.it/bigdome/gifanimate/gifanimate.htm" />
+<link r:resource="http://www.gifman.com/animati/" />
+<link r:resource="http://digilander.libero.it/merryxmas2002/" />
+<link r:resource="http://gifanimate.html.it/" />
+<link r:resource="http://cieli.altervista.org/faccine/index.html" />
+<link r:resource="http://www.gifmania.it/" />
+<link r:resource="http://digilander.libero.it/piemmegif/" />
+<link r:resource="http://www.mondoglitter.it/" />
+<link r:resource="http://www.clipboom.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Grafica/Guide_e_Manuali">
+<catid>33725</catid>
+<link r:resource="http://www.ecosystem3d.com/" />
+<link r:resource="http://web.tiscali.it/hansenart/" />
+<link r:resource="http://colorsdreams.altervista.org/" />
+<link r:resource="http://www.dead.it/" />
+<link r:resource="http://www.vrayguidadefinitiva.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Grafica/Sfondi">
+<catid>33726</catid>
+<link r:resource="http://www.diska.it/" />
+<link r:resource="http://www.sfondo.it/" />
+<link r:resource="http://www.edenpics.com/?l=it" />
+<link r:resource="http://digilander.libero.it/wallpapersfree/" />
+<link r:resource="http://www.sfondifree.it/" />
+<link r:resource="http://www.ressa.it/" />
+<link r:resource="http://sfondisfondi.altervista.org/" />
+<link r:resource="http://www.sysaworld.com/" />
+<link r:resource="http://www.sfondigratis.it/" />
+<link r:resource="http://www.sfondo.com/" />
+<link r:resource="http://www.sfondilandia.it/" />
+<link r:resource="http://www.wallpaper.it/" />
+<link r:resource="http://www.rocksland.com/wallpapers/" />
+<link r:resource="http://atuttosfondo.altervista.org/" />
+<link r:resource="http://screensaver.noamweb.com/" />
+<link r:resource="http://www.fotomaniac.it/" />
+<link r:resource="http://web.tiscali.it/robertaf/" />
+<link r:resource="http://www.sfonditalia.it/" />
+<link r:resource="http://www.desktop-gratis.com/" />
+<link r:resource="http://www.codula.it/" />
+<link r:resource="http://www.sfondissimo.com/" />
+<link r:resource="http://www.sfondigratis.org/" />
+<link r:resource="http://www.personaldesktop.altervista.org/" />
+<link r:resource="http://www.bottin.com/index_it.htm" />
+<link r:resource="http://www.clarence.com/download/wallpaper/" />
+<link r:resource="http://www.sfondi-desktop.org/" />
+<link r:resource="http://www.submegamanx.altervista.org/" />
+<link r:resource="http://www.memic.net/" />
+<link r:resource="http://www.sfondihd.it/" />
+<link r:resource="http://wallboom.it/" />
+<link r:resource="http://www.sfondidesktopgratis.net/" />
+<link r:resource="http://www.fantom-xp.com/" />
+<link r:resource="http://www.sfondissimi.it/" />
+<link r:resource="http://www.tuttofoto.org/" />
+<link r:resource="http://wallpaper.altervista.org/" />
+<link r:resource="http://wallpaperfree.myblog.it/" />
+<link r:resource="http://www.sfondi-sfondi.com/" />
+<link r:resource="http://www.superedo.it/sfondi/" />
+<link r:resource="http://ita.photo-desktop.com/" />
+<link r:resource="http://www.artimoderne.net/" />
+<link r:resource="http://www.sfondi-desktop.eu/" />
+<link r:resource="http://www.wallpaperland.net/" />
+<link r:resource="http://www.sfondicellulare.eu/" />
+<link r:resource="http://sfondionline.altervista.org/" />
+<link r:resource="http://www.vettoriali-gratuiti.it/" />
+<link r:resource="http://walldesktop.altervista.org/" />
+<link r:resource="http://www.mysfondi.com/" />
+<link r:resource="http://www.tuttisfondi.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Hacking">
+<catid>33653</catid>
+<link r:resource="http://www.spaghettihacker.it/" />
+<link r:resource="http://www.napolifirewall.com/" />
+<link r:resource="http://www.alexmessomalex.com/" />
+<link r:resource="http://www.lilik.it/" />
+<link r:resource="http://www.dvara.net/HK/" />
+<link r:resource="http://www.snortattack.org/" />
+<link r:resource="http://www.hackmeeting.org/" />
+<link r:resource="http://www.voipandhack.it/" />
+<link r:resource="http://www.bismark.it/" />
+<link r:resource="http://www.hackerstribe.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Hardware">
+<catid>33728</catid>
+<link r:resource="http://www.megaoverclock.it/" />
+<link r:resource="http://www.faq400.com/" />
+<link r:resource="http://www.palmare.net/" />
+<link r:resource="http://www.embedded.it/" />
+<link r:resource="http://www.sit5.com/" />
+<link r:resource="http://www.atris.it/Forum/index.php" />
+<link r:resource="http://www.pcimprover.it/" />
+<link r:resource="http://www.hwupgrade.org/" />
+<link r:resource="http://amdpower.altervista.org/" />
+<link r:resource="http://www.nexthardware.com/" />
+<link r:resource="http://digilander.libero.it/roboboard/" />
+<link r:resource="http://www.tabletpc.it/" />
+<link r:resource="http://www.dinoxpc.com/" />
+<link r:resource="http://www.technews.it/" />
+<link r:resource="http://www.hardwaremax.it/" />
+<link r:resource="http://www.hwtweakers.net/" />
+<link r:resource="http://www.solopalmari.com/" />
+<link r:resource="http://dapjukebox.altervista.org/" />
+<link r:resource="http://www.pcself.com/" />
+<link r:resource="http://demisoft.altervista.org/" />
+<link r:resource="http://www.amdplanet.it/" />
+<link r:resource="http://www.laserinkjet.net/" />
+<link r:resource="http://www.notebookreview.it/" />
+<link r:resource="http://www.hwsetup.it/" />
+<link r:resource="http://www.ihadtech.com/" />
+<link r:resource="http://technomhz.blogspot.com/atom.xml" />
+<link r:resource="http://notebookitalia.it/" />
+<link r:resource="http://www.italiamodding.it/" />
+<link r:resource="http://www.stampanti.eu/" />
+<link r:resource="http://www.pcsilenzioso.it/" />
+<link r:resource="http://www.mypcdeluxe.org/" />
+<link r:resource="http://www.wintricks.it/hardware/" />
+<link r:resource="http://www.hwstation.net/" />
+<link r:resource="http://eeepc4g.com/" />
+<link r:resource="http://www.solotrend.it/" />
+<link r:resource="http://www.microcool.it/" />
+<link r:resource="http://nslu2.viti.tv/" />
+<link r:resource="http://www.onehardware.it/" />
+<link r:resource="http://www.0net.net/zaurus/" />
+<link r:resource="http://www.tecnofashion.it/" />
+<link r:resource="http://www.xtremehardware.it/" />
+<link r:resource="http://www.techup.it/" />
+<link r:resource="http://netbookitalia.it/" />
+<link r:resource="http://www.coolingtechnique.com/" />
+<link r:resource="http://www.gruppogoma.it/" />
+<link r:resource="http://www.tecnonews.org/" />
+<link r:resource="http://www.skinsfactoryitalia.com/" />
+<link r:resource="http://www.hi-techlife.com/" />
+<link r:resource="http://www.solidstatedisk.it/" />
+<link r:resource="http://digilander.libero.it/venturi1975/" />
+<link r:resource="http://www.tomshw.it/" />
+<link r:resource="http://www.windowsmobileitaly.com/" />
+<link r:resource="http://aviator1980.altervista.org/" />
+<link r:resource="http://www.aspireone.it/" />
+<link r:resource="http://www.netbookitalia.org/" />
+<link r:resource="http://tech4green.it/" />
+<link r:resource="http://www.recensionivere.com/" />
+<link r:resource="http://www.netbooknews.it/" />
+<link r:resource="http://www.eeepc.it/" />
+<link r:resource="http://geeklino.com/" />
+<link r:resource="http://kentstrapper.blogspot.com/" />
+<link r:resource="http://www.huaweidevice.it/" />
+<link r:resource="http://www.hardwarezone.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet">
+<catid>33577</catid>
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Abusi">
+<catid>33578</catid>
+<link r:resource="http://www.securfaq.usenet.eu.org/" />
+<link r:resource="http://www.nic.it/NA/mailspam.html" />
+<link r:resource="http://www.computerville.it/tip_bomb.htm" />
+<link r:resource="http://www.interlex.it/675/indice.htm" />
+<link r:resource="http://cdex.free.fr/" />
+<link r:resource="http://www.anti-phishing.it/" />
+<link r:resource="http://it.wikipedia.org/wiki/Truffa_alla_nigeriana" />
+<link r:resource="http://it.wikipedia.org/wiki/Phishing" />
+<link r:resource="http://www.occhioallatruffa.net/" />
+<link r:resource="http://it.wikipedia.org/wiki/Troll_(Internet)" />
+<link r:resource="http://www.truffeonline.net/" />
+<link r:resource="http://www.criminologi.org/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Abusi/Spam">
+<catid>33579</catid>
+<link r:resource="http://www.spin.it/spam/" />
+<link r:resource="http://server11.infn.it/pub/mailing/antispam.txt" />
+<link r:resource="http://www.mrshark.it/qechowto/procmailantispam.html" />
+<link r:resource="http://www.gandalf.it/uman/44.htm" />
+<link r:resource="http://www.nic.it/NA/mailspam.html" />
+<link r:resource="http://www.repubblica.it/online/internet/spam/nospam/nospam.html" />
+<link r:resource="http://www.collinelli.net/antispam/" />
+<link r:resource="http://www.xmau.com/NA/draftspam.html" />
+<link r:resource="http://www.cert.garr.it/" />
+<link r:resource="http://www.andromedafree.it/servizi/antispam/index.htm" />
+<link r:resource="http://punto-informatico.it/p.asp?i=46401" />
+<link r:resource="http://spamday.com/?lang=it" />
+<link r:resource="http://public.it/" />
+<link r:resource="http://www.maxkava.com/spam/" />
+<link r:resource="http://www.smsblock.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Cartoline_Elettroniche">
+<catid>33628</catid>
+<link r:resource="http://www.ablecards.com/" />
+<link r:resource="http://www.nyc-site.com/cards/" />
+<link r:resource="http://www.ilpostino.net/" />
+<link r:resource="http://sicilyweb.com/e-cards/" />
+<link r:resource="http://www.4yougratis.it/cartoline/cartoline.php" />
+<link r:resource="http://servizi.intrage.it/cartoline/" />
+<link r:resource="http://cartoline.zuccaweb.it/" />
+<link r:resource="http://www.aurorablu.it/postcard/" />
+<link r:resource="http://www.writeonit.org/" />
+<link r:resource="http://www.cartolineanimate.it/" />
+<link r:resource="http://www.cartolineparlanti.net/" />
+<link r:resource="http://www.auguri.it/" />
+<link r:resource="http://cartoline.iremat.it/" />
+<link r:resource="http://www.post-ecard.it/" />
+<link r:resource="http://www.vcardsfree.it/" />
+<link r:resource="http://www.cartolineweb.net/" />
+<link r:resource="http://www.cartolinespeedy.it/" />
+<link r:resource="http://www.cuorhome.net/ita/cartoline/index.php" />
+<link r:resource="http://www.myecard.it/" />
+<link r:resource="http://www.salutiebaci.it/" />
+<link r:resource="http://www.cartoline-auguri.net/" />
+<link r:resource="http://www.superedo.it/cartoline/" />
+<link r:resource="http://1000cartoline.com/" />
+<link r:resource="http://www.cartoline.it/" />
+<link r:resource="http://www.hellocrazy.com/it/" />
+<link r:resource="http://cartoline.onlinegratis.net/" />
+<link r:resource="http://www.kartolina.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Comunicare">
+<catid>33585</catid>
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Comunicare/Bbs">
+<catid>33592</catid>
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Comunicare/Chat">
+<catid>33587</catid>
+<link r:resource="http://jabber.noze.it/" />
+<link r:resource="http://www.chatexpert.it/" />
+<link r:resource="http://chat.lycos.it/" />
+<link r:resource="http://www.messenger.it/" />
+<link r:resource="http://maileservizi.alice.it/alice_messenger/" />
+<link r:resource="http://www.mondochat.it/" />
+<link r:resource="http://www.mercuriomessenger.com/it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Comunicare/Forum">
+<catid>33596</catid>
+<link r:resource="http://mybboard.it/" />
+<link r:resource="http://www.vbulletin.it/" />
+<link r:resource="http://www.phpbbitalia.net/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Comunicare/Forum/Hosting_e_Servizi">
+<catid>33597</catid>
+<link r:resource="http://www.forumgratis.biz/" />
+<link r:resource="http://www.forumattivo.com/" />
+<link r:resource="http://www.forumup.it/" />
+<link r:resource="http://www.mastertopforum.com/" />
+<link r:resource="http://www.mondoweb.net/" />
+<link r:resource="http://freeforumzone.leonardo.it/" />
+<link r:resource="http://www.gratisforum.tv/" />
+<link r:resource="http://www.forumfree.it/" />
+<link r:resource="http://www.globalfreeforum.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Comunicare/Irc">
+<catid>33593</catid>
+<link r:resource="http://www.simosnap.org/" />
+<link r:resource="http://www.mircmania.it/" />
+<link r:resource="http://www.tuttoirc.it/" />
+<link r:resource="http://www.panservice.it/simplecity/i-main.html" />
+<link r:resource="http://www.irc-zone.org/" />
+<link r:resource="http://www.irchelp.it/" />
+<link r:resource="http://www.onirc.com/" />
+<link r:resource="http://www.chattaitaliano.com/" />
+<link r:resource="http://web.tiscali.it/theblob/irc2.htm" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Comunicare/Irc/Canali">
+<catid>33595</catid>
+<link r:resource="http://digilander.libero.it/xprofitterolx/" />
+<link r:resource="http://digilander.libero.it/italiachat/" />
+<link r:resource="http://digilander.libero.it/calimerosegg/emuita/emuita.html" />
+<link r:resource="http://chat.tiscali.it/" />
+<link r:resource="http://italia.azzurra.org/" />
+<link r:resource="http://www.areamestruati.altervista.org/" />
+<link r:resource="http://www.orsisiculi.it/" />
+<link r:resource="http://www.fantasychat.it/" />
+<link r:resource="http://www.chatitaly.it/" />
+<link r:resource="http://www.bibivu.com/" />
+<link r:resource="http://www.macaroni.it/chatdeisogni/" />
+<link r:resource="http://users.libero.it/helemauri/italia_friends/home_netscape.htm" />
+<link r:resource="http://www.chatt-gratis.net/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Comunicare/Irc/Reti">
+<catid>33594</catid>
+<link r:resource="http://www.azzurra.org/" />
+<link r:resource="http://www.ircitaly.net/" />
+<link r:resource="http://www.syrolnet.org/" />
+<link r:resource="http://www.ircgate.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Comunicare/Mailing_List">
+<catid>33591</catid>
+<link r:resource="http://dir.groups.yahoo.com/dir/Cultures___Community/By_Language/Italian" />
+<link r:resource="http://it.groups.yahoo.com/" />
+<link r:resource="http://www.domeus.it/" />
+<link r:resource="http://www.newsletter.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Comunicare/Social_Networking">
+<catid>33586</catid>
+<link r:resource="http://www.xing.com/" />
+<link r:resource="http://www.orkut.com/" />
+<link r:resource="http://badoo.com/" />
+<link r:resource="https://myspace.com/" />
+<link r:resource="http://www.bebo.com/" />
+<link r:resource="http://it-it.facebook.com/" />
+<link r:resource="http://www.linkedin.com/" />
+<link r:resource="http://www.flickr.com/" />
+<link r:resource="http://www.viadeo.com/" />
+<link r:resource="http://www.lastfm.it/" />
+<link r:resource="https://twitter.com/" />
+<link r:resource="http://www.link2me.it/" />
+<link r:resource="http://it.netlog.com/" />
+<link r:resource="http://www.meetup.com/" />
+<link r:resource="http://www.anobii.com/" />
+<link r:resource="http://www.ning.com/" />
+<link r:resource="http://hi5.com/" />
+<link r:resource="http://www.couchsurfing.org/" />
+<link r:resource="http://www.mygolb.net/" />
+<link r:resource="http://www.tagged.com/" />
+<link r:resource="http://www.agork.it/" />
+<link r:resource="http://www.h2biz.eu/" />
+<link r:resource="http://www.petbook.it/" />
+<link r:resource="http://plus.google.com/" />
+<link r:resource="http://raffaellosetten.wordpress.com/" />
+<link r:resource="http://www.condividiquesto.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Comunicare/Weblog">
+<catid>33588</catid>
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Comunicare/Weblog/Directory">
+<catid>33589</catid>
+<link r:resource="http://dailyfeed.rss-world.info/" />
+<link r:resource="http://www.blogitalia.it/" />
+<link r:resource="http://it.blogbabel.com/" />
+<link r:resource="http://directory.italianbloggers.it/" />
+<link r:resource="http://www.migliorblog.it/" />
+<link r:resource="http://www.tocque-ville.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Comunicare/Weblog/Hosting_e_Servizi">
+<catid>33590</catid>
+<link r:resource="http://www.iobloggo.com/" />
+<link r:resource="http://blog.tiscali.it/" />
+<link r:resource="http://blog.aruba.it/" />
+<link r:resource="http://blog.mrwebmaster.it/" />
+<link r:resource="http://www.pepablog.com/" />
+<link r:resource="http://it.wordpress.com/" />
+<link r:resource="http://freewordpress.it/" />
+<link r:resource="http://www.bloog.it/" />
+<link r:resource="http://www.temi-wordpress.com/" />
+<link r:resource="http://usare.wordpress.com/" />
+<link r:resource="http://blog.libero.it/" />
+<link r:resource="http://it.over-blog.com/" />
+<link r:resource="http://www.spaghettiwordpress.com/" />
+<link r:resource="http://www.ilcannocchiale.it/" />
+<link r:resource="http://baab.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Email">
+<catid>33629</catid>
+<link r:resource="http://www.postaelettronica.org/" />
+<link r:resource="http://www.emailbank.it/" />
+<link r:resource="http://www.mestierediscrivere.com/testi/email.htm" />
+<link r:resource="http://www.melaricordi.it/" />
+<link r:resource="http://www.emailmeeting.biz/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Email/Fornitori">
+<catid>33630</catid>
+<link r:resource="http://www.legalmail.it/" />
+<link r:resource="http://www.italymail.biz/" />
+<link r:resource="http://www.prontopec.it/" />
+<link r:resource="http://www.spaziopec.it/" />
+<link r:resource="https://www.postacertificata.gov.it/" />
+<link r:resource="http://www.comopec.it/" />
+<link r:resource="http://pugliapec.com/" />
+<link r:resource="http://www.certificazioneposta.it/" />
+<link r:resource="http://www.postaelettronicacertificata.eu/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Email/Fornitori/Gratuiti">
+<catid>33631</catid>
+<link r:resource="http://www.email.it/" />
+<link r:resource="http://liberomail.libero.it/" />
+<link r:resource="http://mail.leonardo.it/" />
+<link r:resource="https://login.yahoo.com/config/mail?&amp;.src=ym&amp;.intl=it" />
+<link r:resource="http://www.gmail.it/" />
+<link r:resource="http://www.infinito.it/" />
+<link r:resource="https://mail.google.com/" />
+<link r:resource="http://mail.alice.it/" />
+<link r:resource="http://mail.virgilio.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Email/Fornitori/Gratuiti/Pop3">
+<catid>33632</catid>
+<link r:resource="http://www.katamail.kataweb.it/" />
+<link r:resource="http://mail.tiscali.it/" />
+<link r:resource="http://free.aruba.it/" />
+<link r:resource="http://www.poste.it/online/postemail/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Email/Fornitori/Gratuiti/Web_Based">
+<catid>33633</catid>
+<link r:resource="http://www.babbonatale.net/regalomail.htm" />
+<link r:resource="http://mail.excite.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Gratis">
+<catid>33580</catid>
+<link r:resource="http://www.costozero.com/" />
+<link r:resource="http://www.anarchia.com/" />
+<link r:resource="http://www.freeonline.org/" />
+<link r:resource="http://www.scrocconi.it/" />
+<link r:resource="http://www.dimmicosacerchi.it/" />
+<link r:resource="http://www.omaggi.net/" />
+<link r:resource="http://oceanoweb.blogspot.com/" />
+<link r:resource="http://www.buongiornoweb.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Gratis/Fax">
+<catid>33582</catid>
+<link r:resource="http://fax.tiscali.it/" />
+<link r:resource="http://www.messagenet.it/fax/" />
+<link r:resource="http://www.popfax.com/" />
+<link r:resource="http://www.faxator.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Gratis/Loghi_e_Suonerie">
+<catid>33583</catid>
+<link r:resource="http://www.djsuonerie.it/" />
+<link r:resource="http://digilander.libero.it/loghi_per_cellulari/" />
+<link r:resource="http://www.suonerieparade.it/" />
+<link r:resource="http://www.miesuonerie.it/" />
+<link r:resource="http://web.cheapnet.it/suonerie-gratis/" />
+<link r:resource="http://www.gsmpoint.it/" />
+<link r:resource="http://www.suonerie-polifoniche-gratis.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Gratis/Servizi_Sms">
+<catid>33581</catid>
+<link r:resource="http://sms.intrage.it/" />
+<link r:resource="http://digilander.libero.it/messaggipreziosi/" />
+<link r:resource="http://www.karluozzi.com/sms_divertenti2.html" />
+<link r:resource="http://www.djsuonerie.it/smsgratis.asp" />
+<link r:resource="http://servizi.enel.it/sms/" />
+<link r:resource="http://www.smsperte.it/" />
+<link r:resource="http://www.smstvb.com/" />
+<link r:resource="http://it.sms.dj/it/" />
+<link r:resource="http://www.unsms.it/" />
+<link r:resource="http://www.skebby.it/" />
+<link r:resource="http://www.jacksms.it/" />
+<link r:resource="http://messaggigratis.myblog.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Link">
+<catid>33598</catid>
+<link r:resource="http://www.spaziolink.com/" />
+<link r:resource="http://www.url.it/" />
+<link r:resource="http://www.windoweb.it/" />
+<link r:resource="http://www.gratisok.com/" />
+<link r:resource="http://blogimportanti.blogspot.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Link/Classifiche">
+<catid>33599</catid>
+<link r:resource="http://www.mistertoppy.net/" />
+<link r:resource="http://www.mastertop100.com/" />
+<link r:resource="http://www.migliorsito.com/" />
+<link r:resource="http://www.toponweb.net/" />
+<link r:resource="http://www.top500.it/" />
+<link r:resource="http://www.hebdotop.it/" />
+<link r:resource="http://www.top100-solar.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Marketing">
+<catid>33600</catid>
+<link r:resource="http://www.mlist.it/" />
+<link r:resource="http://digilander.libero.it/glossario_marketing/" />
+<link r:resource="http://www.moonbusiness.net/" />
+<link r:resource="http://www.i-dome.com/" />
+<link r:resource="http://www.posizionamento-motori.com/" />
+<link r:resource="http://www.advmagazine.net/" />
+<link r:resource="http://www.webmarketingstrategico.com/" />
+<link r:resource="http://www.webarchivio.com/" />
+<link r:resource="http://www.dablones.org/" />
+<link r:resource="http://www.dmlr.org/" />
+<link r:resource="http://www.webeturismo.com/" />
+<link r:resource="http://www.insidemarketing.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Marketing/Registrazione_e_Posizionamento_sui_Servizi_di_Ricerca">
+<catid>33603</catid>
+<link r:resource="http://www.submission.it/" />
+<link r:resource="http://www.motoricerca.info/" />
+<link r:resource="http://www.motoridiricerca.it/" />
+<link r:resource="http://www.officialsm.net/articoli/trustrank_for_dummies.pdf" />
+<link r:resource="http://www.glossario-motori-ricerca.com/" />
+<link r:resource="http://www.tuttowebmaster.it/" />
+<link r:resource="http://www.seoguida.com/" />
+<link r:resource="http://www.giorgiotave.it/" />
+<link r:resource="http://www.googlerank.com/" />
+<link r:resource="http://www.googlerank.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Marketing/Scambio_Banner">
+<catid>33601</catid>
+<link r:resource="http://italia.bpath.com/" />
+<link r:resource="http://www.advertpower.com/" />
+<link r:resource="http://www.geobanner.it/" />
+<link r:resource="http://www.cynegi.net/" />
+<link r:resource="http://www.egregiosempiterno.com/tk/" />
+<link r:resource="http://www.bannergratis.it/" />
+<link r:resource="http://www.bannerpromotion.it/" />
+<link r:resource="http://www.visitegratis.com/" />
+<link r:resource="http://www.solodomini.it/ad/" />
+<link r:resource="http://www.superbanner.org/" />
+<link r:resource="http://www.scambiolinks.it/" />
+<link r:resource="http://www.promocash.it/" />
+<link r:resource="http://www.soluxioni.com/" />
+<link r:resource="http://bbottone.altervista.org/" />
+<link r:resource="http://antipixel.altervista.org/" />
+<link r:resource="http://scambiobanner.ion.it/" />
+<link r:resource="http://scambiolinks.altervista.org/" />
+<link r:resource="http://www.sharelinks.it/" />
+<link r:resource="http://myplanetbanner.altervista.org/" />
+<link r:resource="http://www.pozzyland.net/scambiodoppio/" />
+<link r:resource="http://scambiobanner.aruba.it/" />
+<link r:resource="http://www.altotraffico.net/" />
+<link r:resource="http://scambiobanner.gidinet.com/" />
+<link r:resource="http://www.iperbanner.com/" />
+<link r:resource="http://www.circuitolinks.com/" />
+<link r:resource="http://www.scambio-di-banner.com/" />
+<link r:resource="http://www.bannernet.altervista.org/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Marketing/Weblog">
+<catid>33602</catid>
+<link r:resource="http://seoitalia.iobloggo.com/" />
+<link r:resource="http://www.motoricerca.net/" />
+<link r:resource="http://www.imli.com/" />
+<link r:resource="http://www.search-marketing.it/semblog/" />
+<link r:resource="http://marketingusabile.blogspot.com/" />
+<link r:resource="http://www.searchadvertising.it/marketingblog/" />
+<link r:resource="http://www.alfredomartinelli.info/" />
+<link r:resource="http://www.online-marketing.it/" />
+<link r:resource="http://www.seotalk.it/" />
+<link r:resource="http://blog.edelman.it/" />
+<link r:resource="http://www.niksblog.it/" />
+<link r:resource="http://www.ninjamarketing.it/" />
+<link r:resource="http://www.minimarketing.it/" />
+<link r:resource="http://www.simonecarletti.com/blog/" />
+<link r:resource="http://www.blogmarketing.it/" />
+<link r:resource="http://www.cash-cow.it/" />
+<link r:resource="http://www.progetto-seo.com/" />
+<link r:resource="http://www.bookingblog.com/" />
+<link r:resource="http://marketing-intelligence.blogspot.com/" />
+<link r:resource="http://www.ranked.it/" />
+<link r:resource="http://www.bloguerrilla.it/" />
+<link r:resource="http://www.webpassion.it/" />
+<link r:resource="http://www.miriambertoli.com/blog/" />
+<link r:resource="http://blog.tagliaerbe.com/" />
+<link r:resource="http://www.soragni.it/blog/" />
+<link r:resource="http://www.codiceazienda.it/" />
+<link r:resource="http://www.mauriziopetrone.com/blog/" />
+<link r:resource="http://www.marcoziero.it/" />
+<link r:resource="http://www.seotopic.com/" />
+<link r:resource="http://lucaballerini.com/" />
+<link r:resource="http://www.mtncompany.it/" />
+<link r:resource="http://www.claudio-corti.com/" />
+<link r:resource="http://valoriprimilab.blogspot.com/" />
+<link r:resource="http://www.wmtools.com/" />
+<link r:resource="http://www.centenaro.it/" />
+<link r:resource="http://www.salvy.biz/" />
+<link r:resource="http://www.kawakumi.com/" />
+<link r:resource="http://www.bernablog.com/" />
+<link r:resource="http://seowitch.blogspot.com/" />
+<link r:resource="http://emailmarketingblog.it/" />
+<link r:resource="http://www.mondo-seo.com/blog-seo/" />
+<link r:resource="http://seomadhat.blogspot.com/" />
+<link r:resource="http://www.ottimizzaseo.com/" />
+<link r:resource="http://www.businessandblog.com/" />
+<link r:resource="http://www.alessiosemoli.com/" />
+<link r:resource="http://www.ginelli.it/blog/" />
+<link r:resource="http://webmarketing.olo-service.com/" />
+<link r:resource="http://www.piersimoni.it/" />
+<link r:resource="http://www.mysocialweb.it/" />
+<link r:resource="http://www.masternewmedia.org/" />
+<link r:resource="http://www.turismoeconsigli.com/" />
+<link r:resource="http://www.fortunecat.it/" />
+<link r:resource="http://www.drseo.it/" />
+<link r:resource="http://www.futurahospitality.it/blog/" />
+<link r:resource="http://www.searchbrain.it/news/" />
+<link r:resource="http://francescogavello.it/" />
+<link r:resource="http://www.rankfirst.info/" />
+<link r:resource="http://www.misurarelacomunicazione.it/" />
+<link r:resource="http://www.seoguru.it/" />
+<link r:resource="http://mdrseo.com/" />
+<link r:resource="http://www.buzzes.eu/" />
+<link r:resource="http://www.goatseo.com/" />
+<link r:resource="http://www.franzrusso.it/" />
+<link r:resource="http://womseo.com/" />
+<link r:resource="http://www.posizionamentocreativo.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Notizie_e_Media">
+<catid>33635</catid>
+<link r:resource="http://www.pctuner.net/" />
+<link r:resource="http://www.4mj.it/" />
+<link r:resource="http://www.ideawebitalia.it/" />
+<link r:resource="http://www.eweekeurope.it/" />
+<link r:resource="http://www.hwgadget.com/" />
+<link r:resource="http://www.lanotizia.ch/" />
+<link r:resource="http://pcrevenge.org/" />
+<link r:resource="http://www.sitinuovi.it/" />
+<link r:resource="http://www.dailyt.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Notizie_e_Media/Weblog">
+<catid>33636</catid>
+<link r:resource="http://www.levysoft.it/" />
+<link r:resource="http://robyww.blogspot.com/" />
+<link r:resource="http://www.geekissimo.com/" />
+<link r:resource="http://www.securnetwork.net/" />
+<link r:resource="http://www.abtechno.org/" />
+<link r:resource="http://www.nel-web.it/" />
+<link r:resource="http://www.thenorba.com/" />
+<link r:resource="http://www.generazione-internet.com/" />
+<link r:resource="http://www.afhome.org/" />
+<link r:resource="http://www.navigaweb.net/" />
+<link r:resource="http://www.nbtimes.it/" />
+<link r:resource="http://www.mytechnology.eu/" />
+<link r:resource="http://www.lucaspinelli.com/" />
+<link r:resource="http://www.2puntozeropertutti.it/" />
+<link r:resource="http://www.pcweblog.it/" />
+<link r:resource="http://www.sitissimo.com/" />
+<link r:resource="http://www.come-fare.info/" />
+<link r:resource="http://curiosblog.rottigni.net/" />
+<link r:resource="http://www.myweb20.it/" />
+<link r:resource="http://rlieh.blogspot.com/" />
+<link r:resource="http://lascatoladipandora.wordpress.com/" />
+<link r:resource="http://www.giardiniblog.com/" />
+<link r:resource="http://www.webbando.com/" />
+<link r:resource="http://www.wegeek.net/" />
+<link r:resource="http://www.keweb.it/" />
+<link r:resource="http://internetsphere.myblog.it/" />
+<link r:resource="http://www.chicchedicala.it/" />
+<link r:resource="http://computerhacking.altervista.org/" />
+<link r:resource="http://www.nuove-notizie.com/" />
+<link r:resource="http://www.fogliata.net/" />
+<link r:resource="http://www.altroblog.com/" />
+<link r:resource="http://www.valkiro.org/" />
+<link r:resource="http://www.n2h.it/" />
+<link r:resource="http://www.stilegames.com/" />
+<link r:resource="http://www.forux.it/" />
+<link r:resource="http://www.citycool.it/" />
+<link r:resource="http://www.pernondimenticare.it/" />
+<link r:resource="http://www.kyweek.com/" />
+<link r:resource="http://marchiondelli.com/" />
+<link r:resource="http://www.freeplaza.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Portali">
+<catid>33604</catid>
+<link r:resource="http://www.portale.it/" />
+<link r:resource="http://www.pippo.it/" />
+<link r:resource="http://www.mediatime.net/" />
+<link r:resource="http://www.kataweb.it/" />
+<link r:resource="http://www.italia.ms/" />
+<link r:resource="http://www.whoopy.it/" />
+<link r:resource="http://web.tiscali.it/rockmaninoff/" />
+<link r:resource="http://www.sempreutile.it/" />
+<link r:resource="http://www.dive3000.com/" />
+<link r:resource="http://web.tiscali.it/BigosFolder/" />
+<link r:resource="http://www.prnetwork.it/" />
+<link r:resource="http://www.italymedia.it/" />
+<link r:resource="http://www.goldenweb.it/" />
+<link r:resource="http://www.starrylink.it/" />
+<link r:resource="http://www.italplanet.it/" />
+<link r:resource="http://www.eccociqua.it/" />
+<link r:resource="http://www.swissact.com/" />
+<link r:resource="http://www.buoneidee.net/" />
+<link r:resource="http://www.miniportale.it/" />
+<link r:resource="http://www.crazynet.it/" />
+<link r:resource="http://www.mooseek.com/" />
+<link r:resource="http://www.mitama.it/" />
+<link r:resource="http://www.porto.it/" />
+<link r:resource="http://www.pourchette.com/" />
+<link r:resource="http://www.barretta.org/" />
+<link r:resource="http://www.eppynet.com/" />
+<link r:resource="http://spazioinwind.libero.it/bangasamo" />
+<link r:resource="http://www.pantalia.com/" />
+<link r:resource="http://www.pubblinet.com/" />
+<link r:resource="http://www.egregiosempiterno.com/" />
+<link r:resource="http://www.idave.it/" />
+<link r:resource="http://www.olivettiweb.com/italiano.shtml" />
+<link r:resource="http://www.freemania.it/" />
+<link r:resource="http://www.free-stuff.it/" />
+<link r:resource="http://www.lidweb.it/" />
+<link r:resource="http://www.scaricone.it/index.asp" />
+<link r:resource="http://www.superedo.it/" />
+<link r:resource="http://www.affari-web.it/" />
+<link r:resource="http://www.clarence.com/" />
+<link r:resource="http://www.darkcyber.net/" />
+<link r:resource="http://www.gratis.it/" />
+<link r:resource="http://www.tuttogratis.it/" />
+<link r:resource="http://www.zapster.it/" />
+<link r:resource="http://www.alenapoli.net/" />
+<link r:resource="http://www.sepanet.it/" />
+<link r:resource="http://www.intrage.it/" />
+<link r:resource="http://www.whitefly.it/" />
+<link r:resource="http://it.msn.com/" />
+<link r:resource="http://www.paginainizio.com/" />
+<link r:resource="http://www.bloo.it/" />
+<link r:resource="http://www.megghy.com/" />
+<link r:resource="http://www.atuttonet.it/" />
+<link r:resource="http://www.bastardofuori.altervista.org/" />
+<link r:resource="http://www.stragulp.com/" />
+<link r:resource="http://www.ricerko.it/" />
+<link r:resource="http://www.itagodivxpurgatorio.it/" />
+<link r:resource="http://www.tipiace.it/" />
+<link r:resource="http://www.virgilio.it/" />
+<link r:resource="http://www.clicklettorimp3.com/" />
+<link r:resource="http://www.linkmar.it/" />
+<link r:resource="http://www.myboxtv.com/" />
+<link r:resource="http://www.segnalidivita.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Portali/Tematici">
+<catid>33605</catid>
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Ricerca">
+<catid>33613</catid>
+<link r:resource="http://www.searchenginessite.com/" />
+<link r:resource="http://www.pcself.com/motori.html" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Ricerca/Directory">
+<catid>33614</catid>
+<link r:resource="http://www.baol.it/" />
+<link r:resource="http://www.mauronet.ch/" />
+<link r:resource="http://www.sitiitalia.it/" />
+<link r:resource="http://www.ildiogene.it/" />
+<link r:resource="http://www.splash.it/" />
+<link r:resource="http://www.eseguo.it/" />
+<link r:resource="http://www.segnaweb.it/" />
+<link r:resource="http://directory.gratuito.st/" />
+<link r:resource="http://www.hellodir.com/" />
+<link r:resource="http://www.katalogato.com/" />
+<link r:resource="http://www.sitidi.com/" />
+<link r:resource="http://aziende.pubblicitaonline.it/" />
+<link r:resource="http://www.ricercaitaliana.com/" />
+<link r:resource="http://www.zibaldone.it/" />
+<link r:resource="http://www.free4gratis.com/" />
+<link r:resource="http://www.ricercafacile.com/" />
+<link r:resource="http://www.logindot.com/" />
+<link r:resource="http://www.directoryweb.biz/" />
+<link r:resource="http://www.rafnet.org/" />
+<link r:resource="http://www.myplanets.org/" />
+<link r:resource="http://www.myok.it/" />
+<link r:resource="http://www.semdir.com/" />
+<link r:resource="http://www.portalinoweb.it/" />
+<link r:resource="http://www.giorgiotave.it/directory/" />
+<link r:resource="http://www.mrlink.it/" />
+<link r:resource="http://www.geweb.org/" />
+<link r:resource="http://www.webdb.it/" />
+<link r:resource="http://directory.virgilio.it/" />
+<link r:resource="http://www.tonioworld.net/" />
+<link r:resource="http://directory.wp-travel.net/" />
+<link r:resource="http://www.linksutili.it/" />
+<link r:resource="http://www.outseek.org/" />
+<link r:resource="http://www.ok-web.it/" />
+<link r:resource="http://www.uhela.com/" />
+<link r:resource="http://www.portale-internet.net/" />
+<link r:resource="http://www.worldweb.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Ricerca/Directory/Open_Directory_Project">
+<catid>33615</catid>
+<link r:resource="http://editando.org/" />
+<link r:resource="http://it.wikipedia.org/wiki/Open_Directory_Project" />
+<link r:resource="http://www.dmoz.org/public/abuse" />
+<link r:resource="http://www.resource-zone.com/forum/index.php?showforum=23" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Ricerca/Directory/Open_Directory_Project/Direttive_e_Faq">
+<catid>33617</catid>
+<link r:resource="http://www.peyrot.it/odp/Direttive-categoria-Adult-ODP.htm" />
+<link r:resource="http://www.peyrot.it/odp/Direttive-categoria-Kids-and-Teens-ODP.htm" />
+<link r:resource="http://www.peyrot.it/odp/Direttive-categorie-immobiliari-ODP.htm" />
+<link r:resource="http://www.dmoz.org/World/Italiano/Affari/Immobiliari/faq.html" />
+<link r:resource="http://www.dmoz.org/World/Italiano/Acquisti_Online/faq.html" />
+<link r:resource="http://www.dmoz.org/docs/it/guidelines/" />
+<link r:resource="http://www.dmoz.org/docs/it/guidelines/editall/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Ricerca/Directory/Open_Directory_Project/In_Memoriam">
+<catid>33618</catid>
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Ricerca/Directory/Open_Directory_Project/In_Memoriam/Ianillo">
+<catid>33620</catid>
+<link r:resource="http://www.panoramio.com/user/90967" />
+<link1 r:resource="http://www.dmoz.org/public/profile?editor=ianillo"></link1>
+<link r:resource="http://holidaytuscany.blogspot.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Ricerca/Directory/Open_Directory_Project/In_Memoriam/Uahlim">
+<catid>33619</catid>
+<link r:resource="http://it.wikipedia.org/wiki/Utente:Uahlim" />
+<link r:resource="http://www.alessandromano.com/blog/2009/02/ciao-uahlim/#more-1805" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Ricerca/Directory/Open_Directory_Project/Notizie_e_Media">
+<catid>33621</catid>
+<link r:resource="http://www.mediamente.rai.it/mediamentetv/mmquotidiano/newstv/010300/010300_3.asp" />
+<link r:resource="http://www.submission.it/news/lastnews.asp?ID=149" />
+<link r:resource="http://www.submission.it/news/lastnews.asp?ID=218" />
+<link r:resource="http://www.inetitalia.com/html/articolijul2000.html#odp" />
+<link r:resource="http://www.peyrot.it/odp/Rassegna-stampa/articolo-open-directory2a.htm" />
+<link r:resource="http://www.motoricerca.info/articoli/odp.phtml" />
+<link r:resource="http://www.emmeffe.altervista.org/odp/neapolis/" />
+<link r:resource="http://www.modugno.it/archivio/2004/04/i_motori_di_ric_5.php" />
+<link r:resource="http://www.rioweb.it/dmoz/" />
+<link r:resource="http://dmoz.searchenginessite.com/" />
+<link r:resource="http://www.peyrot.it/odp/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Ricerca/Directory/Open_Directory_Project/Siti_Che_Utilizzano_ODP">
+<catid>33616</catid>
+<link r:resource="http://www.territorioscuola.it/dmoz.php3?/" />
+<link r:resource="http://www.retecivica.milano.it/rcmodp.htm" />
+<link r:resource="http://www.iccalcinate.it/kt_dmoz_it.php" />
+<link r:resource="http://www.webmatica.org/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Ricerca/Metamotori">
+<catid>33622</catid>
+<link r:resource="http://www.metacrawler.it/" />
+<link r:resource="http://www.gjlg.com/" />
+<link r:resource="http://800go.com/800go-it.html" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Ricerca/Motori">
+<catid>33624</catid>
+<link r:resource="http://www.aristotele.net/" />
+<link r:resource="http://www.godado.it/" />
+<link r:resource="http://arianna.libero.it/" />
+<link r:resource="http://www.google.it/" />
+<link r:resource="http://www.iltrovatore.it/" />
+<link r:resource="http://www.iusseek.com/" />
+<link r:resource="http://it.search.yahoo.com/" />
+<link r:resource="http://it.ask.com/" />
+<link r:resource="http://www.hotspots-wifi.it/" />
+<link r:resource="http://www.live.com/?searchonly=true&amp;mkt=it-IT" />
+<link r:resource="http://www.arcano.net/" />
+<link r:resource="http://www.bing.com/" />
+<link r:resource="http://www.magellan.it/" />
+<link r:resource="http://www.nihilscio.it/" />
+<link r:resource="http://www.aziendaconte.it/" />
+<link r:resource="http://www.istella.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Ricerca/Multi-Ricerca">
+<catid>33623</catid>
+<link r:resource="http://www.webalice.it/climberjak/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Ricerca/Social_Bookmarking">
+<catid>33625</catid>
+<link r:resource="http://www.favoriti.it/" />
+<link r:resource="http://www.piiros.com/" />
+<link r:resource="http://segnalo.virgilio.it/" />
+<link r:resource="http://www.chupalink.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Ricerca/Software">
+<catid>33626</catid>
+<link r:resource="http://www.agentwebranking.com/" />
+<link r:resource="http://www.icarosap.it/" />
+<link r:resource="http://www.trellian.com/it/swolf/" />
+<link r:resource="http://toolbar.google.com/T4/intl/it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Storia">
+<catid>33627</catid>
+<link r:resource="http://www.dia.uniroma3.it/~necci/storia_internet.htm" />
+<link r:resource="http://www.i-dome.com/docs/index.phtml?_id_articolo=847" />
+<link r:resource="http://www.pinzani.it/storia-internet.php" />
+<link r:resource="http://internetstoria.altervista.org/" />
+<link r:resource="http://www.stampalternativa.it/liberacultura/index.php?p=48" />
+<link r:resource="http://www.storiainformatica.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Wap">
+<catid>33634</catid>
+<link r:resource="http://www.shooney.com/" />
+<link r:resource="http://web.tiscali.it/italiawap/" />
+<link r:resource="http://www.ashweb.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Webcam">
+<catid>33584</catid>
+<link r:resource="http://it.wikipedia.org/wiki/Webcam" />
+<link r:resource="http://www.guideperpc.com/Video_webcam.htm" />
+<link r:resource="http://www.yourvideo.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Web_Design_e_Sviluppo">
+<catid>33606</catid>
+<link r:resource="http://www.fucinaweb.com/" />
+<link r:resource="http://www.gdesign.it/" />
+<link r:resource="http://www.mediamente.rai.it/biblioteca/biblio.asp?id=188&amp;tab=int" />
+<link r:resource="http://www.designradar.it/" />
+<link r:resource="http://www.webstyler.it/" />
+<link r:resource="http://web.freepass.it/dalloc/" />
+<link r:resource="http://www.mrwebmaster.it/" />
+<link r:resource="http://www.hyperlabs.net/" />
+<link r:resource="http://www.lucarosati.it/" />
+<link r:resource="http://it.wopweb.com/" />
+<link r:resource="http://www.1stmuse.com/web/" />
+<link r:resource="http://www.w3c.it/" />
+<link r:resource="http://www.webstandards.org/about/mission/it/" />
+<link r:resource="http://www.webimpossibile.net/" />
+<link r:resource="http://www.webwrite.it/" />
+<link r:resource="http://www.trovabile.org/" />
+<link r:resource="http://www.actionscript.it/" />
+<link r:resource="http://oceano.altervista.org/" />
+<link r:resource="http://tutorialweb.org/" />
+<link r:resource="http://www.tomstardust.com/" />
+<link r:resource="http://www.iwa.it/" />
+<link r:resource="http://it.wikipedia.org/wiki/Web_semantico" />
+<link r:resource="http://www.dblog.it/public/sito-web-elenco-verifiche-prima-di-pubblicare-projectmanager-italiano.pdf" />
+<link r:resource="http://www.text-to-speech.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Web_Design_e_Sviluppo/Accessibilità">
+<catid>33612</catid>
+<link r:resource="http://www.webaccessibile.org/" />
+<link r:resource="http://www.governo.it/Presidenza/web/circ6set2001_AIPA.html" />
+<link r:resource="http://www.governo.it/Presidenza/web/circ13mar2001_FP.html" />
+<link r:resource="http://www.ecn.org/xs2web/" />
+<link r:resource="http://www.diodati.org/" />
+<link r:resource="http://www.usabile.it/072001.htm" />
+<link r:resource="http://accessibility.magritte.it/" />
+<link r:resource="http://www.frascolla.org/" />
+<link r:resource="http://www.francocarcillo.it/" />
+<link r:resource="http://www.deyla.com" />
+<link r:resource="http://www.robertoscano.info/files/wcag10/full-checklist.html" />
+<link r:resource="http://www.robertoscano.info/files/atag10/atag10.html" />
+<link r:resource="http://www.aiie.it/" />
+<link r:resource="http://spazioinwind.libero.it/gianluca_affinito/web_barriere/index.html" />
+<link r:resource="http://www.porteapertesulweb.it/" />
+<link r:resource="http://www.gdesign.it/pages/howto/articoli/mct/microcontent.php" />
+<link r:resource="http://www.mestierediscrivere.com/testi/accessibilita.htm" />
+<link r:resource="http://www.w3c.it/wai/" />
+<link r:resource="http://accessibility.comune.prato.it/" />
+<link r:resource="http://www.pubbliaccesso.gov.it/" />
+<link r:resource="http://cristianolongo.altervista.org/accessibilita.php" />
+<link r:resource="http://www.usabile.it/122001.htm" />
+<link r:resource="http://itlists.org/mailman/listinfo/webaccessibile/" />
+<link r:resource="http://www.handimatica.it/Handi2002/Convegni/29_11%20Seminario%20%20accessibilita/Graziani.htm" />
+<link r:resource="http://www.aib.it/aib/cwai/cwai.htm" />
+<link r:resource="http://www.scarichiamoli.org/main.php?page=interviste/diodati" />
+<link r:resource="http://www.apogeonline.com/2004/ebook/90056/pdf/AccessibilitaCercasi.pdf" />
+<link r:resource="http://www.accessibile.it/" />
+<link r:resource="http://lau.csi.it/" />
+<link r:resource="http://www.bandieragialla.it/node/2598" />
+<link r:resource="http://webdesign.html.it/guide/leggi/46/guida-accessibilita-dei-siti-web-teorica/" />
+<link r:resource="http://www.studiodelta.it/FE/swf/w3c/" />
+<link r:resource="http://www.biroblu.info/category/accessibilita/" />
+<link r:resource="http://marciana.venezia.sbn.it/CABI/" />
+<link r:resource="http://accessibilita.bazzmann.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Web_Design_e_Sviluppo/Risorse">
+<catid>33608</catid>
+<link r:resource="http://www.lorenza.it/" />
+<link r:resource="http://www.lukeonweb.net/" />
+<link r:resource="http://www.misterwebby.com/" />
+<link r:resource="http://www.morpheusweb.it/" />
+<link r:resource="http://www.risorse.net/" />
+<link r:resource="http://www.tecchio.net/" />
+<link r:resource="http://www.webbificio.com/" />
+<link r:resource="http://www.webmasterpoint.org/" />
+<link r:resource="http://web.tiscali.it/dslonline/whp/index.htm" />
+<link r:resource="http://www.wmtools.it/" />
+<link r:resource="http://masterwebadam.altervista.org/" />
+<link r:resource="http://www.sitointernetgratis.com/" />
+<link r:resource="http://www.costruireweb.it/" />
+<link r:resource="http://www.altervista.org/" />
+<link r:resource="http://www.emaildefender.eu/" />
+<link r:resource="http://www.joomlaitalia.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Web_Design_e_Sviluppo/Risorse/Redirect">
+<catid>33610</catid>
+<link r:resource="http://www.9w9.org/" />
+<link r:resource="http://www.redirect.it/" />
+<link r:resource="http://url.to.it/" />
+<link r:resource="http://urlin.it/" />
+<link r:resource="http://tools.mrwebmaster.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Web_Design_e_Sviluppo/Risorse/Spazio_Web">
+<catid>33609</catid>
+<link r:resource="http://www.kyberlandia.it/" />
+<link r:resource="http://www.freetuscany.it/" />
+<link r:resource="http://digiland.libero.it/" />
+<link r:resource="http://www.tglman.com/" />
+<link r:resource="http://www.hostingtalk.it/" />
+<link r:resource="http://xoom.virgilio.it/" />
+<link r:resource="http://superweb.ws/" />
+<link r:resource="http://www.virtuale.org/" />
+<link r:resource="http://www.mondoaperto.org/" />
+<link r:resource="http://it.altervista.org/" />
+<link r:resource="http://www.hosting.universalsite.org/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Web_Design_e_Sviluppo/Risorse/Statistiche">
+<catid>33611</catid>
+<link r:resource="http://www.eticostat.it/" />
+<link r:resource="http://www.freeonline.it/dir/c-180/Contatori_e_Statistiche" />
+<link r:resource="http://www.weppos.com/" />
+<link r:resource="http://it.pageboss.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Internet/Web_Design_e_Sviluppo/Usabilità">
+<catid>33607</catid>
+<link r:resource="http://www.webusabile.it/" />
+<link r:resource="http://www.usabile.it/" />
+<link r:resource="http://www.hyperlabs.net/ergonomia/ziggiotto/" />
+<link r:resource="http://www.mediamente.rai.it/divenirerete/010302/index.asp" />
+<link r:resource="http://www.far.unito.it/usabilita/Index.htm" />
+<link r:resource="http://www.usertestlab.it/" />
+<link r:resource="http://www.valocchi.it/usabilita/" />
+<link r:resource="http://www.peggiorsitoweb.net/" />
+<link r:resource="http://www.amicopc.com/i-principi-di-usabilita.asp" />
+<link r:resource="http://www.badusability.com/" />
+<link r:resource="http://it.wikipedia.org/wiki/Usabilità" />
+<link r:resource="http://usabilita.bazzmann.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Istruzione_e_Formazione">
+<catid>33656</catid>
+<link r:resource="http://www.inventati.info/" />
+<link r:resource="http://www.glossix.it/" />
+<link r:resource="http://forum.wintricks.it/" />
+<link r:resource="http://edublog.altervista.org/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Istruzione_e_Formazione/Corsi">
+<catid>33657</catid>
+<link r:resource="http://digilander.libero.it/comeweb/" />
+<link r:resource="http://www.autistici.org/loa/web/iniziative.html" />
+<link r:resource="http://www.mediamente.rai.it/mediamentetv/learning/ed_multimediale/lezioni/index.htm" />
+<link r:resource="http://www.educational.rai.it/corsiformazione/multimediascuola/home/index.htm" />
+<link r:resource="http://www.mat.uniroma3.it/users/liverani/" />
+<link r:resource="http://pcdazero.it/" />
+<link r:resource="http://www.autistici.org/loa/web/iniziative/corsi/hzml.html" />
+<link r:resource="http://www.coresis.com/extra/linuxcorsobase/programma.htm" />
+<link r:resource="http://www.attivissimo.net/other_books/w2l1/index.htm" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Istruzione_e_Formazione/Guide_e_Manuali">
+<catid>33659</catid>
+<link r:resource="http://www.manuali.net/" />
+<link r:resource="http://www.pc-facile.com/" />
+<link r:resource="http://www.manuali.it/" />
+<link r:resource="http://www.tutorials.it/" />
+<link r:resource="http://www.codiceabarre.it/" />
+<link r:resource="http://www.softwareplanet.net/Edinf/index.htm" />
+<link r:resource="http://www.amicopc.com/" />
+<link r:resource="http://www.risorse.net/glossario/" />
+<link r:resource="http://www.computerflash.net/" />
+<link r:resource="http://www.pippo.com/hypertxt/" />
+<link r:resource="http://www.cerca-manuali.it/" />
+<link r:resource="http://cisco.altervista.org/" />
+<link r:resource="http://www.comefunziona.net/" />
+<link r:resource="http://www.rfc.altervista.org/" />
+<link r:resource="http://www.nevermind.altervista.org/" />
+<link r:resource="http://www.guideperpc.com/" />
+<link r:resource="http://www.computerservicesnc.it/" />
+<link r:resource="http://www.ephestione.it/" />
+<link r:resource="http://www.comefaccio.net/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Istruzione_e_Formazione/Internet">
+<catid>33658</catid>
+<link r:resource="http://aiutoooo.com/" />
+<link r:resource="http://web.tiscali.it/come/" />
+<link r:resource="http://free2.kyberlandia.it/privacy/index.htm" />
+<link r:resource="http://werbach.com/barebones/it_barebone.html" />
+<link r:resource="http://www.dariobonacina.net/" />
+<link r:resource="http://www.dariobonacina.net/Internetstory.pdf" />
+<link r:resource="http://www.ilfiltro.it/" />
+<link r:resource="http://commercioelettronico.freeunixhost.com/" />
+<link r:resource="http://www.internetestoria.it/" />
+<link r:resource="http://www.aiutamici.com/" />
+<link r:resource="http://www.disi.unige.it/person/RibaudoM/didattica/matematica/index.html" />
+<link r:resource="http://www.html.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Multimedia">
+<catid>33745</catid>
+<link r:resource="http://www.xdownload.it/" />
+<link r:resource="http://www.apple.com/it/quicktime/" />
+<link r:resource="http://www.webisland.net/" />
+<link r:resource="http://italy.real.com/" />
+<link r:resource="http://www.videomakers.net/" />
+<link r:resource="http://www.mondopps.com/" />
+<link r:resource="http://bv.diesis.it/" />
+<link r:resource="http://www.multimediazone.net/" />
+<link r:resource="http://www.videohifi.com/" />
+<link r:resource="http://lafrontierascomparsa.wordpress.com/" />
+<link r:resource="http://www.multimediarchitecture.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Multimedia/Mpeg">
+<catid>33746</catid>
+<link r:resource="http://www.doom9.it/" />
+<link r:resource="http://www.mondodvd.net/" />
+<link r:resource="http://tomclancy.altervista.org/" />
+<link r:resource="http://www.m4a.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Multimedia/Mpeg/Divx">
+<catid>33747</catid>
+<link r:resource="http://www.divax.it/" />
+<link r:resource="http://www.divxmania.it/" />
+<link r:resource="http://www.divx.it/" />
+<link r:resource="http://www.freedivx.it/" />
+<link r:resource="http://www.divxdoor.it/" />
+<link r:resource="http://www.worlddivx.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Multimedia/Musica_e_Audio">
+<catid>33748</catid>
+<link r:resource="http://www.maniactools.com/" />
+<link r:resource="http://www.okyweb.com/" />
+<link r:resource="http://www.musicplace.it/" />
+<link r:resource="http://www.musimac.it/" />
+<link r:resource="http://www.icetongue.it/" />
+<link r:resource="http://www.cubase.it/" />
+<link r:resource="http://www.aimi-musica.org/" />
+<link r:resource="http://www.audiomaster.it/" />
+<link r:resource="http://www2.sae.edu/it/milano/" />
+<link r:resource="http://mp3djing.altervista.org/" />
+<link r:resource="http://www.musicadigitale.net/" />
+<link r:resource="http://www.e-musiweb.org/" />
+<link r:resource="http://www.audiosonica.com/" />
+<link r:resource="http://www.homestudioitalia.com/" />
+<link r:resource="http://www.scuolamultimediale.com/" />
+<link r:resource="http://www.percorsiaudio.com/" />
+<link r:resource="http://www.maurograziani.org/text_pages/MG_text.html" />
+<link r:resource="http://www.protoolers.com/" />
+<link r:resource="http://www.iitm.it/" />
+<link r:resource="http://apetrucci.tripod.com/" />
+<link r:resource="http://www.studioregistrazione.com/" />
+<link r:resource="http://www.suonoelettronico.com/" />
+<link r:resource="http://www.proaudioteam.com/" />
+<link r:resource="http://guitarpromaster.blogspot.com/" />
+<link r:resource="http://www.cubasetutorial.it/" />
+<link r:resource="http://registrarelavoce.altervista.org/" />
+<link r:resource="http://www.logicforum.it/" />
+<link r:resource="http://www.logichouseblog.com/" />
+<link r:resource="http://www.daniravarecords.net/" />
+<link r:resource="http://www.homerecording.it/" />
+<link r:resource="http://www.ageofaudio.com/" />
+<link r:resource="http://www.audiocentralmagazine.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Multimedia/Musica_e_Audio/Software">
+<catid>33749</catid>
+<link r:resource="http://audacity.sourceforge.net/" />
+<link r:resource="http://www.hi-play.com/" />
+<link r:resource="http://users.libero.it/easyharmony/" />
+<link r:resource="http://www.soundfonts.it/" />
+<link r:resource="http://www.apple.com/it/ilife/garageband/" />
+<link r:resource="http://site.magix.net/index.php?id=655" />
+<link r:resource="http://www.logicforum.it/forum-2/default.asp" />
+<link r:resource="http://italian.audio4fun.com/" />
+<link r:resource="http://www.edu-music.com/" />
+<link r:resource="http://www.tagtuner.com/" />
+<link r:resource="http://www.apple.com/it/itunes/" />
+<link r:resource="http://www.seranto.it/" />
+<link r:resource="http://www.trovalamusica.com/" />
+<link r:resource="http://www.adobe.com/it/products/audition/" />
+<link r:resource="http://www.sibelius.com/" />
+<link r:resource="http://ntrack.com/" />
+<link r:resource="http://www.apple.com/it/logicstudio/" />
+<link r:resource="http://www.midicokaraoke.com/" />
+<link r:resource="http://www.bandinabox.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Multimedia/Video_Digitale">
+<catid>33750</catid>
+<link r:resource="http://www.appuntisuldigitalvideo.it/" />
+<link r:resource="http://www.macitynet.it/immagini/tutorial/borisfx6/" />
+<link r:resource="http://digilander.libero.it/clubdv/" />
+<link r:resource="http://web.tiscali.it/neoatlantide/" />
+<link r:resource="http://www.benis.it/dvd/dig_vid.htm" />
+<link r:resource="http://www.apple.com/it/finalcutpro/" />
+<link r:resource="http://www.golem.it/" />
+<link r:resource="http://www.apple.com/it/imovie/" />
+<link r:resource="http://www.apple.com/it/dvdstudiopro/" />
+<link r:resource="http://www.adobe.com/products/director/" />
+<link r:resource="http://www.audiovideoedit.com/" />
+<link r:resource="http://www.dreamvideo.it/" />
+<link r:resource="http://www.montaggio-video.it/" />
+<link r:resource="http://www.vcast.it/" />
+<link r:resource="http://www.adobe.com/it/products/premiere/index.html" />
+<link r:resource="http://www.percorsivideo.com/" />
+<link r:resource="http://www.conversionevideo.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Notizie_e_Media">
+<catid>33742</catid>
+<link r:resource="http://jekyll.sissa.it/" />
+<link r:resource="http://www.prometheo.it/risorse/riviste/" />
+<link r:resource="http://www.aessenet.org/" />
+<link r:resource="http://www.datamanager.it/" />
+<link r:resource="http://www.01net.it/" />
+<link r:resource="http://www.tecnoteca.it/" />
+<link r:resource="http://pcpro.mytech.it/" />
+<link r:resource="http://www.digitalculture.it/" />
+<link r:resource="http://www.techtown.it/" />
+<link r:resource="http://www.wininizio.it/" />
+<link r:resource="http://www.ikirsector.it/" />
+<link r:resource="http://www.techforum.it/" />
+<link r:resource="http://www.quellicheilpc.com/" />
+<link r:resource="http://www.technotizie.it/" />
+<link r:resource="http://www.pcworld.it/" />
+<link r:resource="http://www.computer-idea.it/" />
+<link r:resource="http://forum.html.it/" />
+<link r:resource="http://www.hwupgrade.it/" />
+<link r:resource="http://www.tecnicaarcana.com/" />
+<link r:resource="http://www.hwmobile.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Notizie_e_Media/Riviste_Elettroniche">
+<catid>33743</catid>
+<link r:resource="http://www.mytech.it/" />
+<link r:resource="http://www.itware.com/" />
+<link r:resource="http://punto-informatico.it/" />
+<link r:resource="http://www.cwi.it/" />
+<link r:resource="http://www.toptrade.it/" />
+<link r:resource="http://www.viziato.it/" />
+<link r:resource="http://www.mymedia.it/" />
+<link r:resource="http://www.itnews.it/" />
+<link r:resource="http://www.qix.it/" />
+<link r:resource="http://www.thedailybit.net/" />
+<link r:resource="http://punto-informatico.it/fader/pixml.xml" />
+<link r:resource="http://www.tiempolibresite.com/" />
+<link r:resource="http://www.hoax.it/" />
+<link r:resource="http://www.monitorpress.it/" />
+<link r:resource="http://www.tecnozoom.it/" />
+<link r:resource="http://www.businessonline.it/" />
+<link r:resource="http://www.giornaleinformatico.it/" />
+<link r:resource="http://www.theinquirer.it/" />
+<link r:resource="http://www.deuxexmachina.it/" />
+<link r:resource="http://www.ikaro.net/" />
+<link r:resource="http://www.techmex.it/" />
+<link r:resource="http://www.digitato.it/" />
+<link r:resource="http://www.pizzut.it/" />
+<link r:resource="http://www.digital.it/" />
+<link r:resource="http://www.focustech.it/" />
+<link r:resource="http://www.zeusnews.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Notizie_e_Media/Weblog">
+<catid>33744</catid>
+<link r:resource="http://www.pandemia.info/" />
+<link r:resource="http://www.pseudotecnico.org/blog/" />
+<link r:resource="http://www.wikilab.net/" />
+<link r:resource="http://www.andreabeggi.net/" />
+<link r:resource="http://www.iteam5.net/blog/" />
+<link r:resource="http://www.fullo.net/blog/" />
+<link r:resource="http://www.maestrinipercaso.it/" />
+<link r:resource="http://www.schiaccianoci.net/" />
+<link r:resource="http://leonardomilan.wordpress.com/" />
+<link r:resource="http://www.senamion.it/" />
+<link r:resource="http://www.dotcoma.it/" />
+<link r:resource="http://www.mondowin.com/" />
+<link r:resource="http://www.web-experiments.org/" />
+<link r:resource="http://www.pensierarte.blogspot.com/" />
+<link r:resource="http://simplyeng.com/" />
+<link r:resource="http://ziogeek.com/" />
+<link r:resource="http://www.italianbloggers.it/" />
+<link r:resource="http://www.pasqualeborriello.com/" />
+<link r:resource="http://www.mambro.it/" />
+<link r:resource="http://www.piroplastic.com/" />
+<link r:resource="http://www.dariosalvelli.com/" />
+<link r:resource="http://blog.ipnext.it/" />
+<link r:resource="http://www.tecnovideoblog.it/" />
+<link r:resource="http://www.informaticafriuli.com/" />
+<link r:resource="http://businesseconoscenza.blogspot.com/" />
+<link r:resource="http://www.informaniaci.it/" />
+<link r:resource="http://www.buddypress-it.it/" />
+<link r:resource="http://www.technicoblog.com/" />
+<link r:resource="http://www.tr3ndy.com/" />
+<link r:resource="http://www.andreapernici.com/" />
+<link r:resource="http://aranzulla.tecnologia.virgilio.it/" />
+<link r:resource="http://www.tuttogeek.com/" />
+<link r:resource="http://www.darkwolf.it/" />
+<link r:resource="http://www.extrageek.com/" />
+<link r:resource="http://www.midimedia.it/" />
+<link r:resource="http://www.sparkblog.org/" />
+<link r:resource="http://www.giapox.it/" />
+<link r:resource="http://www.geekit.it/" />
+<link r:resource="http://www.miniblog.it/" />
+<link r:resource="http://buongiornotech.myblog.it/" />
+<link r:resource="http://www.matteocrippa.it/" />
+<link r:resource="http://www.ilpcfacile.it/" />
+<link r:resource="http://www.becomegeek.com/" />
+<link r:resource="http://www.lillodipiazza.com/" />
+<link r:resource="http://www.lorenzobraghetto.com/" />
+<link r:resource="http://www.geekfalcon.com/" />
+<link r:resource="http://tissy.it/" />
+<link r:resource="http://purplehare.it/blog/" />
+<link r:resource="http://consigliamocisoftware.blogspot.com/" />
+<link r:resource="http://www.trovarisorse.it/" />
+<link r:resource="http://www.bloginfo360.net/" />
+<link r:resource="http://www.tecnoreview.it/" />
+<link r:resource="http://www.folblog.it/" />
+<link r:resource="http://www.digitalking.it/" />
+<link r:resource="http://woorkup.com/" />
+<link r:resource="http://www.ottopalla.net/" />
+<link r:resource="http://blog.tsc-taranto.com/" />
+<link r:resource="http://www.fratellogeek.com/" />
+<link r:resource="http://www.cirillina.com/" />
+<link r:resource="http://www.infoservi.it/" />
+<link r:resource="http://www.informatblog.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Organizzazioni">
+<catid>33574</catid>
+<link r:resource="http://www.citinv.it/" />
+<link r:resource="http://www.alcei.it/" />
+<link r:resource="http://www.ghostcomputerclub.it/" />
+<link r:resource="http://www.anipa.it/" />
+<link r:resource="http://www.olografix.org/" />
+<link r:resource="http://www.linux.it/ILS/" />
+<link r:resource="http://www.freaknet.org/" />
+<link r:resource="http://www.docenti.org/" />
+<link r:resource="http://www.gnu.org/home.it.html" />
+<link r:resource="http://www.openitalia.net/" />
+<link r:resource="http://www.bfsf.it/" />
+<link r:resource="http://www.cnipa.gov.it/" />
+<link r:resource="http://www.aipnet.it/" />
+<link r:resource="http://www.fondazioneibm.it/" />
+<link r:resource="http://www.barcampitalia.org/" />
+<link r:resource="http://xoomer.virgilio.it/fbgargiu/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Pagine_Personali">
+<catid>33652</catid>
+<link r:resource="http://ivenuti.altervista.org/" />
+<link r:resource="http://www.carlovettore.it/" />
+<link r:resource="http://www.uboz.it/" />
+<link r:resource="http://www.exedre.org/" />
+<link r:resource="http://www.spens.it/" />
+<link r:resource="http://superdario64.altervista.org/" />
+<link r:resource="http://www.fabriziotarizzo.org/" />
+<link r:resource="http://www.tomdark.net/" />
+<link r:resource="http://www.giancarlotonti.it/" />
+<link r:resource="http://www.ranzato.it/" />
+<link r:resource="http://www.giuliogargiullo.it/" />
+<link r:resource="http://www.terraaustralis.it/" />
+<link r:resource="http://www.stefanoguardigli.net/" />
+<link r:resource="http://www.noiosito.it/" />
+<link r:resource="http://www.aimone.it/" />
+<link r:resource="http://erlug.linux.it/~da/" />
+<link r:resource="http://www.ariberti.it/" />
+<link r:resource="http://www.carloneworld.it/" />
+<link r:resource="http://www.modenasitiweb.it/casimirri_onofrio/" />
+<link r:resource="http://www.tiziano.caviglia.name/" />
+<link r:resource="http://www.c3o2.it/" />
+<link r:resource="http://xmau.com/" />
+<link r:resource="http://www.columba.it/" />
+<link r:resource="http://www.dariocopellino.com/" />
+<link r:resource="http://www.mcrociani.com/" />
+<link r:resource="http://www.lucabarcaccia.it/" />
+<link r:resource="http://web.tiscali.it/sito_internet_69a/" />
+<link r:resource="http://web.tiscali.it/boccali/" />
+<link r:resource="http://bonaccorso.org/" />
+<link r:resource="http://www.francescobrunetta.it/" />
+<link r:resource="http://www.webalice.it/guglielmo.daniello/" />
+<link r:resource="http://leondany.altervista.org/" />
+<link r:resource="http://www.devincentiis.it/" />
+<link r:resource="http://digilander.libero.it/sasim/" />
+<link r:resource="http://www.desmm.com/" />
+<link r:resource="http://www.dynamick.it/" />
+<link r:resource="http://spazioinwind.libero.it/fanciullimassimiliano/" />
+<link r:resource="http://www.flavioweb.it/" />
+<link r:resource="http://www.danilopalermo.it/" />
+<link r:resource="http://web.tiscali.it/petrel/" />
+<link r:resource="http://www.lupign.it/" />
+<link r:resource="http://web.tiscali.it/w3dipp/" />
+<link r:resource="http://www.angeloweb.it/" />
+<link r:resource="http://digilander.libero.it/OR1ON/" />
+<link r:resource="http://digilander.libero.it/JohnnytheKing/" />
+<link r:resource="http://www.just-frag.it/" />
+<link r:resource="http://www.emillo.net/" />
+<link r:resource="http://www.kobrass.it/" />
+<link r:resource="http://cristianolongo.altervista.org/" />
+<link r:resource="http://www.alessioluffarelli.it/" />
+<link r:resource="http://www.magnanini.info/" />
+<link r:resource="http://luigimaselli.altervista.org/" />
+<link r:resource="http://www.giorgiomeini.it/" />
+<link r:resource="http://mauro.mosconi.it/" />
+<link r:resource="http://sitodilo.altervista.org/" />
+<link r:resource="http://www.raffaelepersichetti.com/" />
+<link r:resource="http://www.boscarol.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Piattaforme">
+<catid>33637</catid>
+<link r:resource="http://www.aiutopc.com/" />
+<link r:resource="http://www.tweakness.net/" />
+<link r:resource="http://www.pc-on.it/" />
+<link r:resource="http://www.mobimed.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Piattaforme/Amiga">
+<catid>33643</catid>
+<link r:resource="http://www.amyresource.it/AGI/" />
+<link r:resource="http://www.amigalife.info/" />
+<link r:resource="http://it.groups.yahoo.com/group/notizieamiga/" />
+<link r:resource="http://amigaita.amiworld.it/" />
+<link r:resource="http://www.aros.org/downloads/AROS-Tutorial-IT.pdf" />
+<link r:resource="http://emuisland.amiworld.it/" />
+<link r:resource="http://www.amigazette.org/" />
+<link r:resource="http://www.amiga.it/" />
+<link r:resource="http://www.pianetaamiga.it/" />
+<link r:resource="http://xoomer.virgilio.it/tuxcam/" />
+<link r:resource="http://www.amigapage.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Piattaforme/Apple">
+<catid>1015540</catid>
+<link r:resource="http://www.applicando.com/" />
+<link r:resource="http://www.italiamac.com/" />
+<link r:resource="http://www.macworld.it/" />
+<link r:resource="http://www.tevac.com/" />
+<link r:resource="http://www.macitynet.it/" />
+<link r:resource="http://imacmabo.altervista.org/" />
+<link r:resource="http://www.storiediapple.it/" />
+<link r:resource="http://www.nonsolomac.com/" />
+<link r:resource="http://www.macrubato.it/" />
+<link r:resource="http://www.macvillage.it/forum/" />
+<link r:resource="http://melapolis.com/" />
+<link r:resource="http://www.ipaddisti.it/" />
+<link r:resource="http://intotheapple.com/" />
+<link r:resource="http://www.ispazio.net/" />
+<link r:resource="http://www.forum-apple.it/" />
+<link r:resource="http://www.appreview.it/" />
+<link r:resource="http://www.iapp-mac.com/" />
+<link r:resource="http://www.insanelymac.com/forum/index.php?showforum=96" />
+<link r:resource="http://www.orebla.it/" />
+<link r:resource="http://www.guidaipad.net/" />
+<link r:resource="http://www.jailbreakisti.it/" />
+<link r:resource="http://www.iwatchapple.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Piattaforme/Apple/iPhone">
+<catid>33640</catid>
+<link r:resource="http://www.iphone3gumts.com/" />
+<link r:resource="http://www.iphoneland.it/" />
+<link r:resource="http://www.iltuoiphone.it/" />
+<link r:resource="http://www.iphone-italia.com/" />
+<link r:resource="http://www.apple.com/it/iphone/" />
+<link r:resource="http://www.spazioiphone.com/" />
+<link r:resource="http://www.supersvago.com/" />
+<link r:resource="http://www.iphone-up.it/" />
+<link r:resource="http://www.recoveryiphone.com/" />
+<link r:resource="http://www.ijackphone.com/" />
+<link r:resource="http://www.iphonmania.it/" />
+<link r:resource="http://melaiphone.com/" />
+<link r:resource="http://www.guidaiphone.com/" />
+<link r:resource="http://www.iphoneitalia.com/" />
+<link r:resource="http://www.iphone-5.it/" />
+<link r:resource="http://www.idevice4.net/" />
+<link r:resource="http://areaiphone.altervista.org/" />
+<link r:resource="http://www.iphonari.it/" />
+<link r:resource="http://iphonerip.altervista.org/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Piattaforme/Apple/iPod">
+<catid>33639</catid>
+<link r:resource="http://www.ipodmania.it/" />
+<link r:resource="http://www.apple.com/it/ipod/" />
+<link r:resource="http://www.ipodlifestyle.it/" />
+<link r:resource="http://www.italiapod.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Piattaforme/Apple/Macintosh">
+<catid>33638</catid>
+<link r:resource="http://www.faqintosh.com/" />
+<link r:resource="http://www.ilmac.net/" />
+<link r:resource="http://www.macsecrets.com/" />
+<link r:resource="http://www.mactutorials.it/" />
+<link r:resource="http://snifffer.com/italian.html" />
+<link r:resource="http://macthugs.forumup.com/" />
+<link r:resource="http://www.xnavigation.net/pcat/mac/" />
+<link r:resource="http://www.macosxtips.it/" />
+<link r:resource="http://www.hwupgrade.it/forum/showthread.php?t=1004690" />
+<link r:resource="http://www.tuttologia.com/" />
+<link r:resource="http://www.imaccanici.org/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Piattaforme/Apple/Macintosh/User_Group">
+<catid>33642</catid>
+<link r:resource="http://www.amugfvg.org/" />
+<link r:resource="http://www.amug.it/" />
+<link r:resource="http://www.maclub.it/" />
+<link r:resource="http://www.calmug.org/" />
+<link r:resource="http://www.appleheart.it/" />
+<link r:resource="http://www.roam.it/" />
+<link r:resource="http://it.groups.yahoo.com/group/musimac/" />
+<link r:resource="http://www.mug.uniroma3.it/" />
+<link r:resource="http://www.abmug.it/" />
+<link r:resource="http://www.poc.it/" />
+<link r:resource="http://www.freesmug.org/" />
+<link r:resource="http://www.madaboutmac.org/" />
+<link r:resource="http://www.augfvg.it/" />
+<link r:resource="http://macuserlivorno.blogspot.com/" />
+<link r:resource="http://macest.forumup.it/" />
+<link r:resource="http://www.amugsiena.it/" />
+<link r:resource="http://www.allaboutapple.com/blog/" />
+<link r:resource="http://www.museumland.com/mela/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Piattaforme/Apple/Weblog">
+<catid>33641</catid>
+<link r:resource="http://www.melablog.it/" />
+<link r:resource="http://lameladinewton.it/computer/mac/" />
+<link r:resource="http://www.nicoladagostino.net/" />
+<link r:resource="http://www.melamorsicata.it/" />
+<link r:resource="http://www.spider-mac.com/" />
+<link r:resource="http://macintosh.iblogr.com/" />
+<link r:resource="http://www.oneapple.it/" />
+<link r:resource="http://worldapple.wordpress.com/" />
+<link r:resource="http://www.apple-blog.info/" />
+<link r:resource="http://meletta.net/" />
+<link r:resource="http://www.appleipaditalia.net/" />
+<link r:resource="http://www.mondomela.net/" />
+<link r:resource="http://www.applerumors.it/" />
+<link r:resource="http://mymacworld.altervista.org/" />
+<link r:resource="http://www.applecaffe.net/" />
+<link r:resource="http://www.slidetomac.com/" />
+<link r:resource="http://www.apple-planet.com/" />
+<link r:resource="http://www.melarumors.com/" />
+<link r:resource="http://www.zoelounge.it/" />
+<link r:resource="http://www.beiphone.it/" />
+<link r:resource="http://www.applezein.net/" />
+<link r:resource="http://www.iphonerumors.it/" />
+<link r:resource="http://www.applehorizon.it/" />
+<link r:resource="http://www.enginetechapple.com/" />
+<link r:resource="http://www.applemagazine.it/" />
+<link r:resource="http://www.iapplemania.com/" />
+<link r:resource="http://www.saggiamente.com/" />
+<link r:resource="http://appletap.wordpress.com/" />
+<link r:resource="http://www.amiciapple.it/" />
+<link r:resource="http://www.applefive.net/" />
+<link r:resource="http://www.iphonehd.it/" />
+<link r:resource="http://www.pensaremac.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Piattaforme/Calcolatrici_Grafiche">
+<catid>33645</catid>
+<link r:resource="http://www.cartesionline.it/" />
+<link r:resource="http://www.mynewsgate.net/poliba/calcolatrici.php" />
+<link r:resource="http://helpcalculator.forumfree.it/" />
+<link r:resource="http://www.hp48.altervista.org/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Piattaforme/Calcolatrici_Grafiche/Texas_Instruments">
+<catid>33646</catid>
+<link r:resource="http://digilander.libero.it/fpirozzi/ti89.htm" />
+<link r:resource="http://digilander.libero.it/marinel/TI-89.htm" />
+<link r:resource="http://www.matematica.it/impedovo/calcolatrice.htm" />
+<link r:resource="http://www.silvanimpianti.it/lamu/ti89.htm" />
+<link r:resource="http://www.alessioluffarelli.it/ti89.php" />
+<link r:resource="http://www.tigen.org/kevin.kofler/italiano/" />
+<link r:resource="http://education.ti.com/it/italia/products/calcolatrici-grafiche" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Piattaforme/Commodore_64">
+<catid>33648</catid>
+<link r:resource="http://www.computermuseum.it/museum/Commodore_64.htm" />
+<link r:resource="http://www.srn.it/c64/" />
+<link r:resource="http://www.ce-co.net/" />
+<link r:resource="http://www.edicolac64.com/" />
+<link r:resource="http://it.wikipedia.org/wiki/Commodore_64" />
+<link r:resource="http://www.flavioweb.it/c64-1.html" />
+<link r:resource="http://www.c64italia.altervista.org/" />
+<link r:resource="http://www.digitanto.it/Articoli/Commodore64_05.htm" />
+<link r:resource="http://www.ready64.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Piattaforme/Commodore_64/Emulatori">
+<catid>33649</catid>
+<link r:resource="http://www.kemuland.com/ccs64emulator.php" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Piattaforme/ZX_Spectrum">
+<catid>33644</catid>
+<link r:resource="http://www.computermuseum.it/museum/Sinclair_ZX_Spectrum.htm" />
+<link r:resource="http://www.freelists.org/archives/zxspectrum/" />
+<link r:resource="http://it.groups.yahoo.com/group/ZX_Spectrum/" />
+<link r:resource="http://zxspectrum.hal.varese.it/" />
+<link r:resource="http://www.emagsoftware.it/spectrum/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione">
+<catid>33663</catid>
+<link r:resource="http://www.programmazione.it/" />
+<link r:resource="http://geronimo.tor.it/" />
+<link r:resource="http://www.programmershell.8m.net/" />
+<link r:resource="http://www.analisi-disegno.com/" />
+<link r:resource="http://web.tiscali.it/arlotta/italiano/" />
+<link r:resource="http://www.iprogrammatori.it/" />
+<link r:resource="http://www.devspy.com/" />
+<link r:resource="http://www.abap4.it/" />
+<link r:resource="http://www.softwareplanet.net/" />
+<link r:resource="http://www.marinsalta.net/" />
+<link r:resource="http://users.libero.it/giudio/tech/" />
+<link r:resource="http://www.giobe2000.it/" />
+<link r:resource="http://digilander.libero.it/antaresws/html/start.htm" />
+<link r:resource="http://www.dotnethell.it/" />
+<link r:resource="http://www.macocoa.omitech.it/" />
+<link r:resource="http://www.siforge.org/" />
+<link r:resource="http://www.ablsweb.it/ablsit" />
+<link r:resource="http://www.pierotofy.it/" />
+<link r:resource="http://opencommunity.altervista.org/" />
+<link r:resource="http://programmazione.html.it/" />
+<link r:resource="http://www.foxitaly.com/" />
+<link r:resource="http://www.masterdrive.it/" />
+<link r:resource="http://www.anddev.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Asp">
+<catid>33680</catid>
+<link r:resource="http://www.aspitalia.com/" />
+<link r:resource="http://www.risorse.net/asp/" />
+<link r:resource="http://www.minifloppy.it/" />
+<link r:resource="http://www.aspcode.it/" />
+<link r:resource="http://www.derienzo.net/" />
+<link r:resource="http://www.morpheusweb.it/html/scripts/asp/asp.asp" />
+<link r:resource="http://www.fishscript.com/?a=ASP.NET" />
+<link r:resource="http://www.simply4you.it/articoli/art_asp.asp" />
+<link r:resource="http://www.webmasterpoint.org/asp/" />
+<link r:resource="http://www.azpoint.net/news/index_Script_ASP.asp" />
+<link r:resource="http://www.superdeejay.net/" />
+<link r:resource="http://www.mrwebmaster.it/asp/" />
+<link r:resource="http://asp.html.it/" />
+<link r:resource="http://msdn.microsoft.com/it-it/library/0ye4y419(VS.80).aspx" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Assembler">
+<catid>33677</catid>
+<link r:resource="http://www.autistici.org/itassembly/" />
+<link r:resource="http://www.deit.univpm.it/~dragoni/FondInfo/assembly/" />
+<link r:resource="http://digilander.libero.it/antaresws/html/programmazione/asm/" />
+<link r:resource="http://www.giobe2000.it/Tutorial/" />
+<link r:resource="http://www.intel-assembler.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/C">
+<catid>33679</catid>
+<link r:resource="http://alpha.science.unitn.it/~fiorella/guidac/indexc.html" />
+<link r:resource="http://spazioinwind.libero.it/ilmoro/index.htm" />
+<link r:resource="http://digilander.libero.it/allegro.h/" />
+<link r:resource="http://www.baccan.it/index.php?sezione=csharp" />
+<link r:resource="http://www.visualcsharp.it/" />
+<link r:resource="http://www.tutorialpc.it/lingcmenu.asp" />
+<link r:resource="http://www.ilmac.net/scuola_di_mac/corsi/linguaggioc.htm" />
+<link r:resource="http://cpiupiu.altervista.org/" />
+<link r:resource="http://ercand.altervista.org/index.html" />
+<link r:resource="http://xmax.altervista.org/" />
+<link r:resource="http://fisionweb.altervista.org/guide/index.php?guida=C&amp;ris=1" />
+<link r:resource="http://www.xelon.it/appunti/programmazione" />
+<link r:resource="http://www.deathlord.it/pro/sl/ricerca/tutorial.net/contents/3_CSharp/index.htm" />
+<link r:resource="http://www.meocci.it/" />
+<link r:resource="http://www.mrwebmaster.it/c/" />
+<link r:resource="http://programmazione.html.it/guide/leggi/32/guida-c/" />
+<link r:resource="http://programmazione.html.it/guide/leggi/34/guida-c/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/ColdFusion">
+<catid>33675</catid>
+<link r:resource="http://www.adobe.com/it/products/coldfusion/" />
+<link r:resource="http://editor.html.it/guide/leggi/5/guida-coldfusion-mx/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Database">
+<catid>33664</catid>
+<link r:resource="http://www.mokabyte.it/2000/07/informixsqlj.htm" />
+<link r:resource="http://www.psql.it/" />
+<link r:resource="http://www.claudiogarau.it/PostgreSQL/indice.php" />
+<link r:resource="http://www.mrwebmaster.it/postgresql/guide/introduzione-postgresql_488.html" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Delphi">
+<catid>33670</catid>
+<link r:resource="http://www.marcocantu.it/" />
+<link r:resource="http://programmazione.html.it/guide/leggi/35/guida-delphi/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Java">
+<catid>33678</catid>
+<link r:resource="http://www.mokabyte.it/" />
+<link r:resource="http://www.di.unipi.it/~attardi/Talk/javaOOP/index.htm" />
+<link r:resource="http://www.jia.it/" />
+<link r:resource="http://www.lattecafe.net/java/" />
+<link r:resource="http://www.javaportal.it/" />
+<link r:resource="http://www.javalab.it/" />
+<link r:resource="http://www.javacenter.net/" />
+<link r:resource="http://www.giuseppesicari.altervista.org/" />
+<link r:resource="http://www.corsojava.it/" />
+<link r:resource="http://albaweb.albacom.net/euphon1.net/nettuno/" />
+<link r:resource="http://www.claudiodesio.com/" />
+<link r:resource="http://www.bluej.org/tutorial/tutorial-italiano.pdf" />
+<link r:resource="http://www.mrwebmaster.it/java/" />
+<link r:resource="http://www.mrwebmaster.it/script/applet-java/" />
+<link r:resource="http://java.html.it/guide/leggi/22/guida-java/" />
+<link r:resource="http://java.html.it/script/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/JavaScript">
+<catid>33673</catid>
+<link r:resource="http://www.jsdir.com/" />
+<link r:resource="http://www.wowarea.com/italiano/aiuto/javascit.htm" />
+<link r:resource="http://www.echoecho.com/it/javascript.htm" />
+<link r:resource="http://www.softwareplanet.net/php/show.php?azione=mostraArgomento&amp;argomento=8&amp;from=0&amp;step=25" />
+<link r:resource="http://www.tissino.it/esempi/javascript/" />
+<link r:resource="http://www.allwebfree.it/javascript_javascript.php" />
+<link r:resource="http://www.risorse.net/javascript/javascript.asp" />
+<link r:resource="http://www.aumentafuentegratis.com/index.php?lg=7" />
+<link r:resource="http://www.mrwebmaster.it/javascript/" />
+<link r:resource="http://javascript.html.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/JavaScript/Ajax">
+<catid>33674</catid>
+<link r:resource="http://javascript.html.it/guide/leggi/95/guida-ajax/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Open_Source">
+<catid>33669</catid>
+<link r:resource="http://www.gnu.org/home.it.html" />
+<link r:resource="http://opensource.dschola.it/" />
+<link r:resource="http://it.wikipedia.org/wiki/Open_source" />
+<link r:resource="http://www.consorziocirs.it/" />
+<link r:resource="http://www.apogeonline.com/Openpress" />
+<link r:resource="http://www.openlabs.it/" />
+<link r:resource="http://web.tiscali.it/swnostrum/" />
+<link r:resource="http://www.tecnoteca.it/osz/" />
+<link r:resource="http://www.osspa.cnipa.it/vetrina/" />
+<link r:resource="http://www.istitutocolli.org/prosos/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Perl">
+<catid>33682</catid>
+<link r:resource="http://www.softwareplanet.net/php/mostraCorso.php?nomeCorso=Perl" />
+<link r:resource="http://www.risorse.net/perl/" />
+<link r:resource="http://www.perl.it/" />
+<link r:resource="http://www.autistici.org/tx0/corso/" />
+<link r:resource="http://www.venis.it/francesco/frameperl.html" />
+<link r:resource="http://www.mrwebmaster.it/perl/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Php">
+<catid>33671</catid>
+<link r:resource="http://naufraghi.free.fr/php/" />
+<link r:resource="http://infocom.uniroma1.it/alef/lime2000/lime2000.html" />
+<link r:resource="http://www.phpdazero.com/" />
+<link r:resource="http://www.webmasterpoint.org/php/home.asp" />
+<link r:resource="http://www.phpnews.it/" />
+<link r:resource="http://www.emcquadro.com/php.php" />
+<link r:resource="http://www.grusp.it/" />
+<link r:resource="http://www.pugia.com/" />
+<link r:resource="http://www.mrwebmaster.it/php/" />
+<link r:resource="http://www.risorse.net/php/index.php" />
+<link r:resource="http://www.allwebfree.it/php_php.php" />
+<link r:resource="http://www.kel666.it/corso.php" />
+<link r:resource="http://www.phpday.it/" />
+<link r:resource="http://php.html.it/" />
+<link r:resource="http://www.appuntiphp.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Php/Script">
+<catid>33672</catid>
+<link r:resource="http://www.superalbert.it/" />
+<link r:resource="http://www.scriptforwebmaster.com/" />
+<link r:resource="http://www.morpheusweb.it/html/scripts/php/php.asp" />
+<link r:resource="http://www.free-tech.org/" />
+<link r:resource="http://homicide.altervista.org/project/" />
+<link r:resource="http://www.spacemarc.it/scriptphp/index.php" />
+<link r:resource="http://tuttophp.altervista.org/" />
+<link r:resource="http://emc2.em.funpic.de/" />
+<link r:resource="http://www.fishscript.com/?a=PHP" />
+<link r:resource="http://webscript.altervista.org/" />
+<link r:resource="http://profitterol.altervista.org/fankounter/" />
+<link r:resource="http://www.lorenzone.it/php_download/" />
+<link r:resource="http://www.diegobelotti.com/?q=taxonomy/term/2" />
+<link r:resource="http://www.punbb-italia.it/" />
+<link r:resource="http://www.mrwebmaster.it/script/script-php/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Python">
+<catid>33681</catid>
+<link r:resource="http://programmazione.html.it/python/" />
+<link r:resource="http://www.freenetpages.co.uk/hp/alan.gauld/italian/" />
+<link r:resource="http://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/OneDayOfIdleToying_Italian.html" />
+<link r:resource="http://marcobari.altervista.org/python.html" />
+<link r:resource="http://www.python.it/" />
+<link r:resource="http://www.aleax.it/python_mat_it.html" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Sql">
+<catid>33665</catid>
+<link r:resource="http://www.aspcode.it/tutorials/tutorials.asp?action=show_tut&amp;idx=7" />
+<link r:resource="http://dinamico.unibg.it/ctd/elab/sql/" />
+<link r:resource="http://www.mrwebmaster.it/sql/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Visual_Basic">
+<catid>33666</catid>
+<link r:resource="http://www.visual-basic.it/" />
+<link r:resource="http://www.salvatore.bellanca.name/" />
+<link r:resource="http://www.maurorossi.net/" />
+<link r:resource="http://www.pierotofy.it/pages/sorgenti/Visual_Basic/" />
+<link r:resource="http://www.luigimicco.altervista.org/" />
+<link r:resource="http://www.mrwebmaster.it/visual-basic/guide/guida-visual-basic_15/" />
+<link r:resource="http://programmazione.html.it/guide/leggi/43/guida-visual-basic/" />
+<link r:resource="http://xoomer.virgilio.it/lucalibertino/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Visual_Basic/VBA">
+<catid>33668</catid>
+<link r:resource="http://excelvba.altervista.org/" />
+<link r:resource="http://www.mrwebmaster.it/visual-basic/guide/guida-vba_57/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Visual_Basic/Visual_Basic_.NET">
+<catid>33667</catid>
+<link r:resource="http://www.bitportal.it/vbnet/visualbasic.html" />
+<link r:resource="http://www.morpheusweb.it/html/manuali/vbnet.asp" />
+<link r:resource="http://www.pierotofy.it/pages/sorgenti/Visual_Basic_dotNET/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Programmazione/Weblog">
+<catid>33676</catid>
+<link r:resource="http://blogs.ugidotnet.org/adrian/" />
+<link r:resource="http://blogs.aspitalia.com/ricciolo/" />
+<link r:resource="http://blogs.aspitalia.com/daniele/" />
+<link r:resource="http://www.extendi.it/ruby-on-rails/" />
+<link r:resource="http://tonylog.altervista.org/" />
+<link r:resource="http://www.napolux.com/" />
+<link r:resource="http://bytestrike.blogspot.com/" />
+<link r:resource="http://www.jugpadova.it/" />
+<link r:resource="http://blogs.ugidotnet.org/luka/Default.aspx" />
+<link r:resource="http://matteo.vaccari.name/blog/" />
+<link r:resource="http://minnenratta.livedigital.com/" />
+<link r:resource="http://www.zago-dev.net/" />
+<link r:resource="http://rplcodeline.blogspot.com/" />
+<link r:resource="http://sviluppare-in-rete.blogspot.com/" />
+<link r:resource="http://labs.alcacoop.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Realtà_Virtuale">
+<catid>33650</catid>
+<link r:resource="http://it.wikipedia.org/wiki/Realt%C3%A0_virtuale" />
+<link r:resource="http://www.italyguides.it/" />
+<link r:resource="http://www.mediamente.rai.it/home/bibliote/intervis/b/britton.htm" />
+<link r:resource="http://www.mediamente.rai.it/home/bibliote/intervis/a/antinu02.htm" />
+<link r:resource="http://www.mediamente.rai.it/home/bibliote/intervis/b/belotti.htm" />
+<link r:resource="http://www.mediamente.rai.it/home/bibliote/intervis/b/bergamas.htm" />
+<link r:resource="http://www.repubblica.it/online/internet/mediamente/biolanier/biolanier.html" />
+<link r:resource="http://www.storiaeinformatica.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Realtà_Virtuale/Second_Life">
+<catid>33651</catid>
+<link r:resource="http://www.secondlifeitalia.com/" />
+<link r:resource="http://it.wikipedia.org/wiki/Second_life" />
+<link r:resource="http://www.mysecondlife.it/" />
+<link r:resource="http://corporatesecondlife.blogspot.com/" />
+<link r:resource="http://fatasl.blogspot.com/" />
+<link r:resource="http://www.micalitasl.blogspot.com/" />
+<link r:resource="http://pantalica-sl.blogspot.com/" />
+<link r:resource="http://oursecondlife.myblog.it/" />
+<link r:resource="http://xoomer.virgilio.it/semplicesims/" />
+<link r:resource="http://lucianapinazzo.blogspot.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Sicurezza">
+<catid>33570</catid>
+<link r:resource="http://www.infosecurity.it/" />
+<link r:resource="http://www.s0ftpj.org/" />
+<link r:resource="http://www.insicurezza.org/" />
+<link r:resource="http://web.tiscali.it/IctrlU/" />
+<link r:resource="http://www.sikurezza.org/" />
+<link r:resource="http://www.tonycrypt.com/" />
+<link r:resource="http://www.sicurezzainrete.com/" />
+<link r:resource="http://www.clusit.it/" />
+<link r:resource="http://web.tiscali.it/hotlinks/" />
+<link r:resource="http://www.securfaq.usenet.eu.org/" />
+<link r:resource="http://www.dia.unisa.it/professori/masucci/sicurezza/index.htm" />
+<link r:resource="http://security.dsi.unimi.it/" />
+<link r:resource="http://www.notrace.it/" />
+<link r:resource="http://www.ciscoforums.it/" />
+<link r:resource="http://www.cybercrimes.it/" />
+<link r:resource="http://www.simply4you.it/sicurezza/" />
+<link r:resource="http://security.di.uniroma1.it/master/" />
+<link r:resource="http://www.sicurezzainformatica.it/" />
+<link r:resource="http://www.francydelorenzi.it/" />
+<link r:resource="http://www.attivissimo.net/security/backorifice/bo.htm" />
+<link r:resource="http://www.firma-elettronica.com/" />
+<link r:resource="http://www.sentinet3.com/" />
+<link r:resource="http://www.bugsearch.net/" />
+<link r:resource="http://www.oversecurity.net/" />
+<link r:resource="http://www.ipnetwork.it/" />
+<link r:resource="http://www.file.net/it/" />
+<link r:resource="http://www.comsecservizi.com/" />
+<link r:resource="http://www.alessandrofiorenzi.it/" />
+<link r:resource="http://www.ihteam.net/" />
+<link r:resource="http://www.smoothwall.it/" />
+<link r:resource="http://www.websec.it/" />
+<link r:resource="http://www.robertosaia.it/" />
+<link r:resource="http://www.dotforce.it/" />
+<link r:resource="http://www.securelog.it/" />
+<link r:resource="http://www.informaticasicura.it/" />
+<link r:resource="http://www.pcservizo.it/" />
+<link r:resource="http://www.analisideirischinformatici.it/" />
+<link r:resource="http://www.cryptohacker.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Sicurezza/Crittografia">
+<catid>33573</catid>
+<link r:resource="http://digilander.libero.it/crittazione/" />
+<link r:resource="http://digilander.libero.it/unno2/crittografia.htm" />
+<link r:resource="http://www.liceofoscarini.it/studenti/crittografia/index.html" />
+<link r:resource="http://www.pgpi.org/docs/g_pgp952.htm" />
+<link r:resource="http://pgp.unito.it/" />
+<link r:resource="http://home.datacomm.ch/winzozzz/gnupg.htm" />
+<link r:resource="http://www.ecn.org/kriptonite/" />
+<link r:resource="http://www.tmcrew.org/privacy/PGP.htm" />
+<link r:resource="http://www.icosaedro.it/crittografia/" />
+<link r:resource="http://crypto.ecn.org/old/crypto/" />
+<link r:resource="http://www.cancellazione-dati.com/" />
+<link r:resource="http://www.thawte.com/it/" />
+<link r:resource="http://portal.andxor.it/vol/" />
+<link r:resource="http://www.trustico.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Sicurezza/Privacy">
+<catid>33572</catid>
+<link r:resource="http://www.garanteprivacy.it/" />
+<link r:resource="http://www.privacy.it/" />
+<link r:resource="http://www.pianosicurezza.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Sicurezza/Virus">
+<catid>33571</catid>
+<link r:resource="http://it.trendmicro-europe.com/enterprise/security_info/security_overview.php" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software">
+<catid>33683</catid>
+<link r:resource="http://geronimo.tor.it/httpd.html" />
+<link r:resource="http://www.autodesk.it/" />
+<link r:resource="http://it.openoffice.org/" />
+<link r:resource="http://www.cadlandia.com/" />
+<link r:resource="http://www.multiopac.com/" />
+<link r:resource="http://www.cad3d.it/" />
+<link r:resource="http://www.glugitalia.org/" />
+<link r:resource="http://crm.sysandorg.it/" />
+<link r:resource="http://www.babylon.com/" />
+<link r:resource="http://www.mappementali.com/" />
+<link r:resource="http://www.programmi.com/" />
+<link r:resource="http://www.apple.com/it/ilife/iphoto/" />
+<link r:resource="http://www.66.com/" />
+<link r:resource="http://www.xnavigation.net/" />
+<link r:resource="http://www.sanavia.it/nvuitalia/" />
+<link r:resource="http://quantum.altervista.org/" />
+<link r:resource="http://www.ilsoftware.it/" />
+<link r:resource="http://www.faraday.it/" />
+<link r:resource="http://office.microsoft.com/it-it/default.aspx" />
+<link r:resource="http://www.sms2business.it/" />
+<link r:resource="http://www.quicksystem.it/quickdoc01.htm" />
+<link r:resource="http://www.helpdeskadvanced.com/" />
+<link r:resource="http://www.o-net.it/" />
+<link r:resource="http://www.le.infn.it/~fulvio/z80frame.htm" />
+<link r:resource="http://www.archiradar.com/" />
+<link r:resource="http://www-306.ibm.com/software/it/lotus/" />
+<link r:resource="http://www.softwarelibero.it/" />
+<link r:resource="http://msdn.microsoft.com/it-it/library/aa468084.aspx" />
+<link r:resource="http://www.driveritalia.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Database">
+<catid>33684</catid>
+<link r:resource="http://spazioinwind.libero.it/it_informatica/" />
+<link r:resource="http://www.picosoft.it/picosql/" />
+<link r:resource="http://www.oracleportal.it/" />
+<link r:resource="http://www.risorse.net/picosql/" />
+<link r:resource="http://www.fmpro.it/" />
+<link r:resource="http://www.filemaker.it/" />
+<link r:resource="http://www.ugiss.org/" />
+<link r:resource="http://www.microsoft.com/italy/server/sql/default.mspx" />
+<link r:resource="http://sqlserver.aspitalia.com/" />
+<link r:resource="http://www-306.ibm.com/software/it/db2/" />
+<link r:resource="http://it.wikipedia.org/wiki/FileMaker" />
+<link r:resource="http://it.wikipedia.org/wiki/SQLite" />
+<link r:resource="http://it.wikipedia.org/wiki/Microsoft_SQL_Server" />
+<link r:resource="http://it.wikipedia.org/wiki/Firebird_SQL" />
+<link r:resource="http://it.wikipedia.org/wiki/Oracle" />
+<link r:resource="http://www.sviluppo4d.it/" />
+<link r:resource="http://database.html.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Database/Ms_Access">
+<catid>33686</catid>
+<link r:resource="http://www.aspitalia.com/articoli/db/introduzione.aspx" />
+<link r:resource="http://office.microsoft.com/it-it/access/" />
+<link r:resource="http://www.softwareplanet.net/php/mostraCorso.php?nomeCorso=Access" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Database/MySql">
+<catid>33685</catid>
+<link r:resource="http://www.aspitalia.com/articoli/db/mysql.aspx" />
+<link r:resource="http://www.risorse.net/mysql/" />
+<link r:resource="http://it.wikipedia.org/wiki/MySQL" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Database/PostgreSql">
+<catid>33687</catid>
+<link r:resource="http://it.wikipedia.org/wiki/PostgreSQL" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Didattico">
+<catid>33717</catid>
+<link r:resource="http://www.aisi.it/" />
+<link r:resource="http://www.andisoft.it/" />
+<link r:resource="http://www.smartlite.it/" />
+<link r:resource="http://www.typingmaster.com/it/" />
+<link r:resource="http://www.dogenglish.com/" />
+<link r:resource="http://sd2.itd.ge.cnr.it/" />
+<link r:resource="http://w2.lynxlab.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Elaborazione_Testi">
+<catid>33716</catid>
+<link r:resource="http://www.tlab.it/it/" />
+<link r:resource="http://ioscrivo.altervista.org/home.htm" />
+<link r:resource="http://www.webdelta.it/" />
+<link r:resource="http://www.promoservice.com/solidpdf/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Freeware">
+<catid>33721</catid>
+<link r:resource="http://www.srn.it/mousecommander/" />
+<link r:resource="http://mcz.altervista.org/" />
+<link r:resource="http://www.maxwaresoftware.com/chat_irc_client_Parhanza.htm" />
+<link r:resource="http://www.sw4free.com/" />
+<link r:resource="http://saw.altervista.org/" />
+<link r:resource="http://www.puntocr.it/index.php?module=downloads_riz&amp;func=catview&amp;pid=11" />
+<link r:resource="http://www.miciosoft.it/" />
+<link r:resource="http://www.monteiasi.it/KARAOKE/softwareKARAOKE.htm" />
+<link r:resource="http://lxapps.altervista.org/" />
+<link r:resource="http://www.softin.altervista.org/" />
+<link r:resource="http://www.sgurgle.com/" />
+<link r:resource="http://www.winpenpack.com/" />
+<link r:resource="http://pensuite.wininizio.it/" />
+<link r:resource="http://www.vyger.altervista.org/" />
+<link r:resource="http://www.gratisfree.net/" />
+<link r:resource="http://www.ziozoiz.com/" />
+<link r:resource="http://www.freeonline.org/italia/" />
+<link r:resource="http://www.tuttopensource.it/" />
+<link r:resource="http://www.intelliwebsearch.com/" />
+<link r:resource="http://www.laguidainformatica.it/" />
+<link r:resource="http://www.lupopensuite.com/" />
+<link r:resource="http://www.giveawayoftheday.com/" />
+<link r:resource="http://www.liberodominio.it/" />
+<link r:resource="http://web.tiscali.it/saffioti_vincenzo/euro/index.html" />
+<link r:resource="http://www.mistergratis.it/" />
+<link r:resource="http://spazioinwind.libero.it/formicheinca/" />
+<link r:resource="http://kassio.altervista.org/" />
+<link r:resource="http://www.iacosoft.com/" />
+<link r:resource="http://www.boorp.com/prog.php" />
+<link r:resource="http://www.timandtow.com/" />
+<link r:resource="http://www.programmi-gratis.org/" />
+<link r:resource="http://www.ingmasi.altervista.org/" />
+<link r:resource="http://www.nontipago.it/" />
+<link r:resource="http://www.webalice.it/marcozuc/index.htm" />
+<link r:resource="http://itgea.altervista.org/" />
+<link r:resource="http://www.programmimac.com/app.htm" />
+<link r:resource="http://www.freealternative.altervista.org/" />
+<link r:resource="http://dimio.altervista.org/" />
+<link r:resource="http://www.pcrestore.it/" />
+<link r:resource="http://www.angololibero.it/software/" />
+<link r:resource="http://www.conticello.it/" />
+<link r:resource="http://www.scaricando.it/" />
+<link r:resource="http://www.eleonline.it/" />
+<link r:resource="http://www.lordfreedom.com/" />
+<link r:resource="http://www.programmigratis.org/" />
+<link r:resource="http://www.click2see.it/" />
+<link r:resource="http://www.filefuel.net/" />
+<link r:resource="http://www.nasosan.altervista.org/" />
+<link r:resource="http://www.programmipc.it/" />
+<link r:resource="http://programmigratuiti.blogspot.com/" />
+<link r:resource="http://www.permesso.org/" />
+<link r:resource="http://www.4yougratis.it/software_gratis.htm" />
+<link r:resource="http://www.drfree.it/" />
+<link r:resource="http://www.hyfax.com/" />
+<link r:resource="http://www.programmifree.com/software.htm" />
+<link r:resource="http://www.fsfe.org/" />
+<link r:resource="http://xoomer.virgilio.it/webidee/" />
+<link r:resource="http://www.andrearusso.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Gestionale">
+<catid>33720</catid>
+<link r:resource="http://www.digitaldruid.net/php-residence/" />
+<link r:resource="http://www.filemaker.it/" />
+<link r:resource="http://www.logisoft.it/" />
+<link r:resource="http://filemakerteam.it/" />
+<link r:resource="http://www.studiocontatto.it/" />
+<link r:resource="http://www.drtooth.it/" />
+<link r:resource="http://www.dinamico.it/" />
+<link r:resource="http://www.topservicesrl.com/top/index.asp" />
+<link r:resource="http://www.fincad.it/" />
+<link r:resource="http://www.infotrade.it/" />
+<link r:resource="http://www.maxidata.it/prodotti/" />
+<link r:resource="http://www.omniagest.it/" />
+<link r:resource="http://www.comus.it/" />
+<link r:resource="http://www.x-data.com/" />
+<link r:resource="http://www.agimonline.com/" />
+<link r:resource="http://www.mysoftware.it/biblioteche.htm" />
+<link r:resource="http://www.magazzinonline.it/" />
+<link r:resource="http://www.workimpianti.com/" />
+<link r:resource="http://www.irrisoft.com/" />
+<link r:resource="http://www.arcturus.it/" />
+<link r:resource="http://www.podoworks.com/" />
+<link r:resource="http://www.mad-store.it/" />
+<link r:resource="http://www.maxsoftware.it/" />
+<link r:resource="http://www.elatos.it/" />
+<link r:resource="http://www.immobilia2000.it/" />
+<link r:resource="http://www.idea-soft.it/" />
+<link r:resource="http://www.carlomainardi.it/" />
+<link r:resource="http://www.ricambi-net.com/" />
+<link r:resource="http://www.proximaonline.it/" />
+<link r:resource="http://www.ciaoa.it/" />
+<link r:resource="http://www.gicasoft.it/gica_office.htm" />
+<link r:resource="http://www.gestionaleauto.com/web/gestionale.php" />
+<link r:resource="http://www.oralav.it/" />
+<link r:resource="http://www.picostudio.com/" />
+<link r:resource="http://www.apsystem.it/index.htm?page=http://www.apsystem.it/prodotti_servizi/software.htm" />
+<link r:resource="http://www.nicolaottomano.it/" />
+<link r:resource="http://www.grifplus.com/" />
+<link r:resource="http://www.elawoffice.it/" />
+<link r:resource="http://www.gesacom.it/" />
+<link r:resource="http://legale.bytejam.it/" />
+<link r:resource="http://www.ttmonline.it/" />
+<link r:resource="http://www.webassistancemanager.it/" />
+<link r:resource="http://www.basicsoft.it/web/gefa.html" />
+<link r:resource="http://www.campgest.it/" />
+<link r:resource="http://www.3time.it/" />
+<link r:resource="http://www.foen.it/" />
+<link r:resource="http://www.powerbookshop.com/" />
+<link r:resource="http://www.demaniomarittimo.com/" />
+<link r:resource="http://www.danea.it/software/easyfatt/" />
+<link r:resource="http://web.tiscali.it/calomino/pagina72.htm" />
+<link r:resource="http://www.idea-azienda.it/" />
+<link r:resource="http://www.dictus.it/" />
+<link r:resource="http://www.beestore.it/" />
+<link r:resource="http://www.gestionline.it/" />
+<link r:resource="http://www.fatturazione.info/" />
+<link r:resource="http://www.copernic.it/" />
+<link r:resource="http://www.easyamm.it/" />
+<link r:resource="http://www.teammosaico.biz/" />
+<link r:resource="http://www.gestionet.it/" />
+<link r:resource="http://www.panthera.it/" />
+<link r:resource="http://www.marticos.com/" />
+<link r:resource="http://www.myrent.it/" />
+<link r:resource="http://www.major1.com/eb.nsf" />
+<link r:resource="http://www.timecenter.it/" />
+<link r:resource="http://shopdemo.hash.it/info/" />
+<link r:resource="http://gestibook.jef.it/" />
+<link r:resource="http://www.software-recupero-crediti.it/" />
+<link r:resource="http://www.lookoutweb.com/" />
+<link r:resource="http://www.intermedia2000.it/" />
+<link r:resource="http://www.nonsolo-shop.it/" />
+<link r:resource="http://www.magellano.info/" />
+<link r:resource="http://www.touringhome.com/" />
+<link r:resource="http://www.zenshare.it/" />
+<link r:resource="http://www.modulom.it/" />
+<link r:resource="http://www.sportgest.it/html/it/acquagest.html" />
+<link r:resource="http://www.milella.org/" />
+<link r:resource="http://www.dataprintgrafik.it/" />
+<link r:resource="http://www.digiworksweb.com/" />
+<link r:resource="http://www.easyforyou.be/IT/stock.htm" />
+<link r:resource="http://www.ellehotel.it/" />
+<link r:resource="http://www.condominio3000.eu/" />
+<link r:resource="http://xoomer.virgilio.it/mabalzi/" />
+<link r:resource="http://www.rsaweb.com/" />
+<link r:resource="http://www.geiviltur.com/" />
+<link r:resource="http://sysdatsanita.sigesgroup.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Grafica">
+<catid>33718</catid>
+<link r:resource="http://www.adobe.it/products/photoshop/main.html" />
+<link r:resource="http://www.rilievo2000.it/" />
+<link r:resource="http://www.progesoft.com/ita_index.asp" />
+<link r:resource="http://www.digi-labs.net/it.htm" />
+<link r:resource="http://www.integraf.it/" />
+<link r:resource="http://picajet.com/it/index.php?page=main" />
+<link r:resource="http://www.sepram.com/applicazioni_lisp.htm" />
+<link r:resource="http://www.arreda.biz/" />
+<link r:resource="http://www.graphixmania.it/" />
+<link r:resource="http://www.apple.com/it/finalcutstudio/motion/" />
+<link r:resource="http://www.margotweb.it/pixia.htm" />
+<link r:resource="http://www.versee.com/foto.it/" />
+<link r:resource="http://www.libreriecad.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Grafica/The_Gimp">
+<catid>33719</catid>
+<link r:resource="http://gimp.linux.it/" />
+<link r:resource="http://www.volalibero.it/gimp.html" />
+<link r:resource="http://punto-informatico.it/p.asp?i=47532" />
+<link r:resource="http://www.gimpitalia.it/" />
+<link r:resource="http://docs.gimp.org/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Guide_e_Manuali">
+<catid>33700</catid>
+<pdf r:resource="http://www.synergy.com/downloads/italiano.pdf"></pdf>
+<link r:resource="http://www.megalab.it/" />
+<link r:resource="http://home.datacomm.ch/winzozz/spybot.htm" />
+<link r:resource="http://infosapere.altervista.org/" />
+<link r:resource="http://www.programmifree.com/" />
+<link r:resource="http://www.swzone.it/" />
+<link r:resource="http://www.terzaghi.it/excel/index.htm" />
+<link r:resource="http://www.mmkit.com/" />
+<link r:resource="http://xoomer.virgilio.it/dragoshenron/ccad/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Internet">
+<catid>33692</catid>
+<link r:resource="http://autoform.assi.it/" />
+<link r:resource="http://www.digitrade.biz/" />
+<link r:resource="http://www.ebusinessfarm.com/" />
+<link r:resource="http://hyper-publish.com/ita/" />
+<link r:resource="http://www.skype.com/" />
+<link r:resource="http://www.mozillaitalia.it/" />
+<link r:resource="http://www.emule-italia.it/" />
+<link r:resource="http://www.p2pforum.it/" />
+<link r:resource="http://www.amule.org/wiki/index.php/AMule-it" />
+<link r:resource="http://www.realmeteo.com/" />
+<link r:resource="http://www.utorrent.com/" />
+<link r:resource="http://www.minimes.it/" />
+<link r:resource="http://www.yucontrol.net/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Internet/Browser">
+<catid>33695</catid>
+<link r:resource="http://www.kiosk.serverdev.it/" />
+<link r:resource="http://www.ilveliero.info/" />
+<link r:resource="http://bbcodextra.extenzilla.org/" />
+<link r:resource="http://forum.extenzilla.org/" />
+<link r:resource="http://www.mozillaitalia.it/feed/" />
+<link r:resource="http://www.mozillaitalia.it/firefox/" />
+<link r:resource="http://www.apple.com/it/safari/" />
+<link r:resource="http://www.microsoft.com/italy/windows/products/winfamily/ie/default.mspx" />
+<link r:resource="http://it.wikipedia.org/wiki/Browser" />
+<link r:resource="http://www.babelzilla.org/forum/index.php?showforum=39" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Internet/Cms">
+<catid>33693</catid>
+<link r:resource="http://www.flexcmp.com/" />
+<link r:resource="http://www.ariadnecontentmanager.com/" />
+<link r:resource="http://www.dynasquare.it/" />
+<link r:resource="http://www.sitomat.com/" />
+<link r:resource="http://www.customizer.it/" />
+<link r:resource="http://www.makerweb.it/" />
+<link r:resource="http://www.cmscontrol.com/" />
+<link r:resource="http://flatnuke.sourceforge.net/" />
+<link r:resource="http://www.e-ntra.it/" />
+<link r:resource="http://www.keycode.it/" />
+<link r:resource="http://webstarter.treenet.it/" />
+<link r:resource="http://www.camo.sm/" />
+<link r:resource="http://www.vimedia.it/" />
+<link r:resource="http://www.gestional.com/" />
+<link r:resource="http://www.x-commerce.it/" />
+<link r:resource="http://forma.ixenia.it/" />
+<link r:resource="http://www.wordpress-it.it/" />
+<link r:resource="http://www.aspcodecms.com/" />
+<link r:resource="http://www.isiportal.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Internet/Cms/Php">
+<catid>33694</catid>
+<link r:resource="http://www.nukeitalia.com/" />
+<link r:resource="http://www.phpnukefordonkeys.com/" />
+<link r:resource="http://www.spaghettibrain.com/" />
+<link r:resource="http://www.weblord.it/" />
+<link r:resource="http://www.dynamick.it/syntax-desktop/" />
+<link r:resource="http://www.drupalitalia.org/" />
+<link r:resource="http://mambocms.altervista.org/" />
+<link r:resource="http://www.yepa.com/yps/" />
+<link r:resource="http://www.joomla.it/" />
+<link r:resource="http://www.php-fusion.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Internet/Email">
+<catid>33696</catid>
+<link r:resource="http://www.mymail.it/" />
+<link r:resource="http://www.e-link.it/macliberopops/" />
+<link r:resource="http://www.postman.it/" />
+<link r:resource="http://www.openpec.org/" />
+<link r:resource="http://www.pegasusmail.tk/" />
+<link r:resource="http://www.grafic-mail.com/" />
+<link r:resource="http://www.nicolaottomano.it/sinapsi.htm" />
+<link r:resource="http://aicon.com/vpop3it/vpop3it.php#vpop3" />
+<link r:resource="http://www.mozillaitalia.it/home/prodotti/mozilla-thunderbird/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Localizzazione">
+<catid>33722</catid>
+<link r:resource="http://www.italiaware.net/" />
+<link r:resource="http://www.xbase.it/" />
+<link r:resource="http://www.lemoine.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Shareware">
+<catid>33688</catid>
+<link r:resource="http://www.quincisoft.it/" />
+<link r:resource="http://digilander.libero.it/important/bigwin/index.html" />
+<link r:resource="http://www.geodis.it/" />
+<link r:resource="http://www.win2pdf.it/" />
+<link r:resource="http://www.protect-me.com/it/" />
+<link r:resource="http://www.woodworks.at/it/" />
+<link r:resource="http://www.emailfinder.it/" />
+<link r:resource="http://www.multiemail.com/Bosanski2/IndexIta.htm" />
+<link r:resource="http://winzip.bebto.com/" />
+<link r:resource="http://www.softwaremedico.it/" />
+<link r:resource="http://www.biglotto.it/" />
+<link r:resource="http://www.cimaware.it/" />
+<link r:resource="http://www.programmigratis.com/" />
+<link r:resource="http://www.worldtvradio.com/indexita.htm" />
+<link r:resource="http://digilander.libero.it/important/zoom/" />
+<link r:resource="http://peccatte.karefil.com/software/Applicazione.htm" />
+<link r:resource="http://www.daisoft.it/magazzino.htm" />
+<link r:resource="http://www.daisoft.it/contab.htm" />
+<link r:resource="http://www.silvercybertech.com/" />
+<link r:resource="http://www.m8k.org/index.php?ID=11&amp;show=stand" />
+<link r:resource="http://www.giochimac.com/" />
+<link r:resource="http://www.sepanet.it/gestass/" />
+<link r:resource="http://www.easywebeditor.com/ita/" />
+<link r:resource="http://www.espositosoftware.it/" />
+<link r:resource="http://www.cpinformatica.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sicurezza">
+<catid>33689</catid>
+<link r:resource="http://www.zerotolerance.it/" />
+<link r:resource="http://www.spyware.it/" />
+<link r:resource="http://home.datacomm.ch/winzozz/sikurezza.htm" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sicurezza/Antivirus">
+<catid>33690</catid>
+<link r:resource="http://www.pandasoftware.it/" />
+<link r:resource="http://www.escan.it/" />
+<link r:resource="http://www.sophos.it/" />
+<link r:resource="http://www.mcafee.com/it/" />
+<link r:resource="http://www.nod32.it/home/home.htm" />
+<link r:resource="http://it.bitdefender.com/index.php" />
+<link r:resource="http://www.tgsoft.it/" />
+<link r:resource="http://www.emsisoft.it/it/" />
+<link r:resource="http://www.pctools.com/it" />
+<link r:resource="http://www.f-secure.it/" />
+<link r:resource="http://www.kaspersky.it/" />
+<link r:resource="http://www.avkitalia.it/" />
+<link r:resource="http://www.clamwin.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sicurezza/Crittografia">
+<catid>33691</catid>
+<link r:resource="http://www.gnupg.org/" />
+<link r:resource="http://www.sicurezzainrete.com/crittografia.htm" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi">
+<catid>33701</catid>
+<link r:resource="http://www.velociraptus.com/" />
+<link r:resource="http://dazero.sourceforge.net/" />
+<link r:resource="http://bewos.altervista.org/" />
+<link r:resource="http://www.androidiani.com/" />
+<link r:resource="http://www.bertos.org/" />
+<link r:resource="http://www.androidworld.it/" />
+<link r:resource="http://www.appbrain.com/" />
+<link r:resource="http://www.ubuntu-it.org/" />
+<link r:resource="http://www.androidstylehd.com/" />
+<link r:resource="http://www.samsungapps.com/" />
+<link r:resource="http://www.tecnoblogreview.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi/Linux">
+<catid>33702</catid>
+<link r:resource="http://www.pippo.com/linux.html" />
+<link r:resource="http://www.linux.it/" />
+<link r:resource="http://www.ziobudda.net/" />
+<link r:resource="http://www.linux.it/ospiti/linuxtools/" />
+<link r:resource="http://www.linuxlinks.it/" />
+<link r:resource="http://linuxdidattica.org/" />
+<link r:resource="http://www.openskills.info/" />
+<link r:resource="http://www.mrtux.it/" />
+<link r:resource="http://www.baslug.org/" />
+<link r:resource="http://www.betacrew.org/" />
+<link r:resource="http://linuxkernel.altervista.org/" />
+<link r:resource="http://www.linuxshell.it/" />
+<link r:resource="http://www.linuxhelp.it/" />
+<link r:resource="http://www.mrwebmaster.it/linux/" />
+<link r:resource="http://www.tuttosulinux.com/" />
+<link r:resource="http://www.linuxvalley.it/" />
+<link r:resource="http://linux.html.it/" />
+<link r:resource="http://www.geolinux.altervista.org/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi/Linux/Distribuzioni">
+<catid>33703</catid>
+<link r:resource="http://www.debian.org/" />
+<link r:resource="http://www.mandriva.com/" />
+<link r:resource="http://www.redhat.it/" />
+<link r:resource="http://www.slacky.it/" />
+<link r:resource="http://www.debianizzati.org/" />
+<link r:resource="http://www.fedoraonline.it/" />
+<link r:resource="http://www.archlinux.it/" />
+<link r:resource="http://www.slackware.it/" />
+<link r:resource="http://drudo.altervista.org/" />
+<link r:resource="http://www.suseitalia.org/" />
+<link r:resource="http://www.mandrakeitalia.org/" />
+<link r:resource="http://www.debianitalia.org/" />
+<link r:resource="http://www.slax.org/" />
+<link r:resource="http://www.zeroshell.net/" />
+<link r:resource="http://www.badpenguin.org/" />
+<link r:resource="http://svedese.altervista.org/" />
+<link r:resource="http://www.hymera.it/" />
+<link r:resource="http://www.centos-italia.org/" />
+<link r:resource="http://www.slackware-italia.com/" />
+<link r:resource="http://www.abcbuntu.wordpress.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi/Linux/Documentazione">
+<catid>33705</catid>
+<link r:resource="http://web.tiscali.it/alfredoa/icoli/icoli_faq.txt" />
+<link r:resource="http://www.magicmill.net/linux/grap/grap.html" />
+<link r:resource="http://web.tiscali.it/iperdan/linux/linuxpr.htm" />
+<link r:resource="http://www.pippo.com/mirrors/linuxguide.html" />
+<link r:resource="http://www.pippo.com/" />
+<link r:resource="http://spazioinwind.libero.it/badpenguin/" />
+<link r:resource="http://digilander.libero.it/w1llcoyote/" />
+<link r:resource="http://digilander.libero.it/sitone.da.ru/" />
+<link r:resource="http://www.volalibero.it/" />
+<link r:resource="http://web.tiscali.it/slacklinux/" />
+<link r:resource="http://www.mrshark.it/" />
+<link r:resource="http://www.magicmill.net/linux/" />
+<link r:resource="http://erlug.linux.it/linuxdazero/" />
+<link r:resource="http://www.it.redhat.com/" />
+<link r:resource="http://www.linuxpoint.altervista.org/" />
+<link r:resource="http://www.dscnet.org/" />
+<link r:resource="http://ataualpa.altervista.org/" />
+<link r:resource="http://www.scomodo.com/" />
+<link r:resource="http://www.emcquadro.com/linux.php" />
+<link r:resource="http://wizardlinuxteam.altervista.org/" />
+<link r:resource="http://slinux.altervista.org/" />
+<link r:resource="http://web.tiscali.it/gimmis/contenuti/ADSL.html" />
+<link r:resource="http://www.pluto.it/ildp/" />
+<link r:resource="http://www.claudiogarau.it/Linux/" />
+<link r:resource="http://proglinux.altervista.org/" />
+<link r:resource="http://www.stefanolaguardia.eu/?feed=rss2&amp;cat=240" />
+<link r:resource="http://casa-ubuntu.blogspot.com/" />
+<link r:resource="http://www.qmail-ldap.info/" />
+<link r:resource="http://www.linuxguide.it/" />
+<link r:resource="http://linux.p2pforum.it/" />
+<link r:resource="http://digilinux.altervista.org/" />
+<link r:resource="http://informaticalibera.net/" />
+<link r:resource="http://toonik.wordpress.com/" />
+<link r:resource="http://mylinuxlab.altervista.org/" />
+<link r:resource="http://www.linuxfeed.org/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi/Linux/Notizie_e_Media">
+<catid>33704</catid>
+<link r:resource="http://www.oltrelinux.com/" />
+<link r:resource="http://www.linuxfocus.org/Italiano/" />
+<link r:resource="http://www.linux-magazine.it/" />
+<link r:resource="http://www.linuxpro.it/" />
+<link r:resource="http://www.pluto.it/journal/" />
+<link r:resource="http://www.tuxjournal.net/" />
+<link r:resource="http://www.ossblog.it/" />
+<link r:resource="http://www.pianeta-linux.net/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi/Linux/User_Group">
+<catid>33706</catid>
+<link r:resource="http://erlug.linux.it/" />
+<link r:resource="http://www.firenze.linux.it/" />
+<link r:resource="http://www.linuxtrent.it/" />
+<link r:resource="http://www.ferrara.linux.it/" />
+<link r:resource="http://filibusta.crema.unimi.it/" />
+<link r:resource="http://genova.linux.it/" />
+<link r:resource="http://www.verona.linux.it/" />
+<link r:resource="http://www.vicenza.linux.it/" />
+<link r:resource="http://www.llg.it/" />
+<link r:resource="http://siena.linux.it/" />
+<link r:resource="http://iglu.cc.uniud.it/" />
+<link r:resource="http://belluno.linux.it/" />
+<link r:resource="http://www.lugroma3.org/" />
+<link r:resource="http://www.lugbz.org/" />
+<link r:resource="http://www.linuxinterflorence.net/" />
+<link r:resource="http://www.ptlug.org/" />
+<link r:resource="http://www.lecco.linux.it/" />
+<link r:resource="http://parma.linux.it/" />
+<link r:resource="http://golem.linux.it/" />
+<link r:resource="http://www.linuxvar.it/" />
+<link r:resource="http://www.lilliput.linux.it/" />
+<link r:resource="http://trieste.linux.it/" />
+<link r:resource="http://www.lodi.linux.it/" />
+<link r:resource="http://www.bilug.linux.it/" />
+<link r:resource="http://www.sputnix.it/" />
+<link r:resource="http://www.prato.linux.it/" />
+<link r:resource="http://relug.linux.it/" />
+<link r:resource="http://www.lugcr.it/" />
+<link r:resource="http://www.fanolug.org/" />
+<link r:resource="http://palermo.linux.it/" />
+<link r:resource="http://www.plutopadova.org/" />
+<link r:resource="http://web.infinito.it/utenti/p/pieroinfinito/" />
+<link r:resource="http://salug.it/" />
+<link r:resource="http://groups.yahoo.com/group/0331/" />
+<link r:resource="http://siracusa.linux.it/" />
+<link r:resource="http://www.brilug.it/" />
+<link r:resource="http://www.lugob.org/" />
+<link r:resource="http://catania.linux.it/" />
+<link r:resource="http://www.montellug.it/" />
+<link r:resource="http://www.plugs.it/" />
+<link r:resource="http://www.messinalug.org/" />
+<link r:resource="http://www.folug.org/" />
+<link r:resource="http://lugaversa.altervista.org/" />
+<link r:resource="http://www.riminilug.it/" />
+<link r:resource="http://www.free-milk.org/" />
+<link r:resource="http://linux-club.org/" />
+<link r:resource="http://www.pluto.it/" />
+<link r:resource="http://www.giovelug.org/" />
+<link r:resource="http://www.linux.na.it/" />
+<link r:resource="http://www.golug.it/" />
+<link r:resource="http://www.gulp.linux.it/" />
+<link r:resource="http://www.grolug.org/" />
+<link r:resource="http://www.lugman.net/" />
+<link r:resource="http://www.gulch.crs4.it/" />
+<link r:resource="http://www.clug.it/" />
+<link r:resource="http://linux.billera.eu/" />
+<link r:resource="http://www.alproject.org/" />
+<link r:resource="http://www.sabazialug.org/" />
+<link r:resource="http://irlug.altervista.org/" />
+<link r:resource="http://pdp.linux.it/" />
+<link r:resource="http://www.govonis.org/" />
+<link r:resource="http://www.tulug.it/blog/" />
+<link r:resource="http://bglug.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi/Mac_OS">
+<catid>33714</catid>
+<link r:resource="http://open-site.org/International/Italiano/Computer/Software/Sistemi_Operativi/Mac_OS/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi/Mac_OS/Mac_OS_X">
+<catid>33715</catid>
+<link r:resource="http://www.apple.com/it/macosx/" />
+<link r:resource="http://www.ilmac.net/scuola_di_mac/spiegazioni/da_pc_a_mac2.htm" />
+<link r:resource="http://www.ilmac.net/macosx/" />
+<link r:resource="http://www.dia.unisa.it/dottorandi/capuano/Mac%20OS%20X.pdf" />
+<link r:resource="http://www.macosx.it/" />
+<link r:resource="http://www.accomazzi.net/TpercorsiI1.html" />
+<link r:resource="http://www.theapplelounge.com/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi/Microsoft_Windows">
+<catid>33713</catid>
+<link r:resource="http://www.microsoft.com/italy/windows/" />
+<link r:resource="http://digilander.libero.it/void3/windows.htm" />
+<link r:resource="http://spazioinwind.libero.it/alessio_71/Suggerimenti.htm" />
+<link r:resource="http://www.sysadmin.it/" />
+<link r:resource="http://www.federicocurci.it/" />
+<link r:resource="http://www.winzozz.net/" />
+<link r:resource="http://www.wintricks.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi/Unix">
+<catid>33707</catid>
+<link r:resource="http://it.wikipedia.org/wiki/Unix" />
+<link r:resource="http://www.freebsd.org/doc/it_IT.ISO8859-15/books/unix-introduction/index.html" />
+<link r:resource="http://oneliners.wikia.com/wiki/Benvenuto" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi/Unix/BSD">
+<catid>33709</catid>
+<link r:resource="http://it.wikipedia.org/wiki/BSD" />
+<link r:resource="http://www.google.it/bsd" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi/Unix/BSD/FreeBSD">
+<catid>33711</catid>
+<link r:resource="http://www.gufi.org/" />
+<link r:resource="http://www.freebsd.org/it/" />
+<link r:resource="http://www.gentoo.org/doc/it/gentoo-freebsd.xml" />
+<link r:resource="http://utenti.gufi.org/~rionda/docs/" />
+<link r:resource="http://it.wikipedia.org/wiki/FreeBSD" />
+<link r:resource="http://www.pluto.it/files/ildp/HOWTO/Linux+FreeBSD/Linux+FreeBSD.html" />
+<link r:resource="http://www.programmazione.it/index.php?entity=eitem&amp;idItem=31156" />
+<link r:resource="http://www.freebsd.org/doc/it_IT.ISO8859-15/books/handbook/index.html" />
+<link r:resource="http://www.ipv6.polito.it/manuals/startup.html" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi/Unix/BSD/NetBSD">
+<catid>33712</catid>
+<link r:resource="http://www.mclink.it/personal/MG2508/netbsd/netbsd.html" />
+<link r:resource="http://www.debian.org/ports/netbsd/index.it.html" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi/Unix/BSD/OpenBSD">
+<catid>33710</catid>
+<link r:resource="http://www.sikurezza.org/openbsd/maillist.html" />
+<link r:resource="http://www.openbeer.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Sistemi_Operativi/Unix/Solaris">
+<catid>33708</catid>
+<link r:resource="http://sites.google.com/site/francesconarciso/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Stampa">
+<catid>33697</catid>
+<link r:resource="http://www.fastreport.it/" />
+<link r:resource="http://www.alainformatica.com/ita/spooloffice/spooloffice.htm" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Software/Weblog">
+<catid>33698</catid>
+<link r:resource="http://www.downloadblog.it/" />
+<link r:resource="http://www.michelem.org/" />
+<link r:resource="http://www.pensadiverso.it/" />
+<link r:resource="http://www.blogzilla.info/" />
+<link r:resource="http://mozlinks-it.blogspot.com/" />
+<link r:resource="http://www.italiasw.com/" />
+<link r:resource="http://www.valent-blog.eu/" />
+<link r:resource="http://assente.vega9.com/" />
+<link r:resource="http://www.danielesalamina.it/" />
+<link r:resource="http://www.dominopoint.it/" />
+<link r:resource="http://www.softwarefacile.it/" />
+<link r:resource="http://www.downloadr.it/software/blog/" />
+<link r:resource="http://www.iwriteaboutit.com/" />
+<link r:resource="http://informaticlive.altervista.org/wordpress/" />
+<link r:resource="http://linuxiana.blogspot.com/" />
+<link r:resource="http://eqepa.blogspot.com/" />
+<link r:resource="http://www.msn-livesidus.blogspot.com/" />
+<link r:resource="http://www.redchar.net/" />
+<link r:resource="http://ercicion.altervista.org/blog/" />
+<link r:resource="http://www.guidemondopc.org/" />
+<link r:resource="http://www.facebook-mania.com/" />
+<link r:resource="http://www.devapp.it/" />
+<link r:resource="http://www.zippoblog.net/" />
+<link r:resource="http://www.ugosan.it/" />
+<link r:resource="http://www.gnuis.org/inf/gnu/free_sw.html" />
+<link r:resource="http://predellino.blogspot.com/" />
+<link r:resource="http://bi.ictsviluppo.it/" />
+<link r:resource="http://openring.it/" />
+<link r:resource="http://www.gravitale.it/" />
+<link r:resource="http://www.ondiz.net/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Storia">
+<catid>33654</catid>
+<link r:resource="http://www.computermuseum.it/" />
+<link r:resource="http://www.dagomari.prato.it/museo/htm/ingresso.htm" />
+<link r:resource="http://www.ulisse.bs.it/museo/" />
+<link r:resource="http://www.museoinformatica.it/" />
+<link r:resource="http://www.museo-computer.it/" />
+<link r:resource="http://www.ilmac.net/scuola_di_mac/spiegazioni/storia_progr.htm#8" />
+<link r:resource="http://www.ordineingegneri.bergamo.it/Commissioni/2001/14/Documenti/moduli/Lezione02/storia.htm" />
+<link r:resource="http://lgxserver.uniba.it/lei/storiainf/storiain.htm" />
+<link r:resource="http://retrocomputing.c3po.it/" />
+<link r:resource="http://www.publiweb.com/area/informatica/pag04.shtml" />
+<link r:resource="http://www.edscuola.it/archivio/ped/globed/nonni.html" />
+<link r:resource="http://spazioinwind.libero.it/danielweb/origini_del_computer.htm" />
+<link r:resource="http://www.retrocomputing.net/" />
+<link r:resource="http://www.windoweb.it/edpstory_new/edp.htm" />
+<link r:resource="http://www.macitynet.it/applemuseum/" />
+<link r:resource="http://www.storiadellinformatica.it/" />
+<link r:resource="http://www.homolaicus.com/scienza/calcolo/" />
+<link r:resource="http://www.pluto.it/refun/" />
+<link r:resource="http://web.tiscali.it/city/@history.htm" />
+<link r:resource="http://www.torinoscienza.it/personaggi/apri?obj_id=45" />
+<link r:resource="http://www.universitadelledonne.it/Ada%20Byron.htm" />
+<link r:resource="http://web.unife.it/altro/tesi/A.Montanari/" />
+<link r:resource="http://storia_c.jks.altervista.org/" />
+<link r:resource="http://www.windoweb.it/edpstory_new/el.htm" />
+<link r:resource="http://myretrocomputing.altervista.org/" />
+<link r:resource="http://melodiosoc64.altervista.org/" />
+<link r:resource="http://cronologia.leonardo.it/storia/tabello/tabe1559.htm" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Storia/Musei">
+<catid>33655</catid>
+<link r:resource="http://www.computermuseum.it/" />
+<link r:resource="http://www.dagomari.prato.it/museo/htm/ingresso.htm" />
+<link r:resource="http://www.ulisse.bs.it/museo/" />
+<link r:resource="http://www.museoinformatica.it/" />
+<link r:resource="http://www.tecnoteca.it/museo/" />
+<link r:resource="http://www.museo-computer.it/" />
+<link r:resource="http://cicloinf.dimi.uniud.it/mostra/" />
+<link r:resource="http://www.clarence.com/city/strip/museo/" />
+<link r:resource="http://www.allaboutapple.com/storia-all-about-apple-museum/" />
+<link r:resource="http://www.cpu-museo.it/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Trasmissione_Dati">
+<catid>33575</catid>
+<link r:resource="http://www.ilmondodelletelecomunicazioni.it/" />
+<link r:resource="http://www.dia.uniroma3.it/~necci/funz_rete.htm" />
+<link r:resource="http://www.qsl.net/iz7ath/web/03_digital/digi_ita.htm" />
+<link r:resource="http://infoweb.src.cnr.it/" />
+<link r:resource="http://www.webalice.it/fabio.ruini/" />
+<link r:resource="http://www.tuttoreti.it/" />
+<link r:resource="http://www.ilpuntotecnicoeadsl.com/" />
+<link r:resource="http://www.ufone.net/" />
+<link r:resource="http://www.areanetworking.it/" />
+<link r:resource="http://it.wikipedia.org/wiki/WiMAX" />
+<link r:resource="http://xoomer.virgilio.it/pcmaniac/" />
+<link r:resource="http://infocom.uniroma1.it/~alef/libro/html/libro/libro.html" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Trasmissione_Dati/Test_di_Velocità">
+<catid>33576</catid>
+<link r:resource="http://www.beelinebandwidthtest.com/" />
+<link r:resource="http://www.pabasoftware.org/speedtest/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Usenet">
+<catid>33660</catid>
+<link r:resource="http://www.linux.it/~md/usenet/" />
+<link r:resource="http://www.use-net.ch/faq_it.html" />
+<link r:resource="http://www.bofh.it/" />
+<link r:resource="http://comeweb.20m.com/newsgroup.htm" />
+<link r:resource="http://www.news.nic.it/" />
+<link r:resource="http://www.freewebz.com/iosononiubbo/index1.htm" />
+<link r:resource="http://www.mamofaq.usenet.eu.org/" />
+<link r:resource="http://www.sleepers.it/" />
+<link r:resource="http://bertola.eu/usenet/" />
+</topic>
+<topic r:id="Top/World/Italiano/Computer/Usenet/News_Gateway">
+<catid>33661</catid>
+<link r:resource="http://groups.google.it/" />
+<link r:resource="http://www.mynewsgate.net/index.php" />
+<link r:resource="http://arianna.libero.it/usenet/" />
+<link r:resource="http://www.forumer.it/usenet.html" />
+<link r:resource="http://newsgroup.virgilio.it/" />
+</topic>

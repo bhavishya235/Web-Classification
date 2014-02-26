@@ -1,0 +1,2740 @@
+====================<http://www.noorderlicht.com/>====================
+<!doctype html>  
+<!--[if lt IE 7 ]> <html lang="en" class="en ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="en ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="en ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="en ie9"> <![endif]-->   
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="en"> <!--<![endif]-->
+<head>
+	<base href="http://www.noorderlicht.com/">
+	<meta charset="utf-8">
+	<title>Noorderlicht</title>
+	<meta name="description" content="Noorderlicht is a multifaceted and international podium for documentary photography.">
+	<meta property="og:title" content="Noorderlicht">
+	<meta property="og:image" content="http://www.noorderlicht.com/images/facebook.jpg">
+	<meta property="og:url" content="http://www.noorderlicht.com/">
+	<link rel="stylesheet" href="css/noorderlicht.css">
+	<link rel="alternate" title="Noorderlicht Blog" type="application/rss+xml" href="en/blog/">
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="http://www.noorderlicht.com/js/jquery-1.7.2.min.js"><\/script>')</script>
+	<script src="http://www.noorderlicht.com/js/jquery/jquery.cookie.js"></script>
+	<script src="http://www.noorderlicht.com/js/jquery.noor.min.js"></script>
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<script src="http://www.noorderlicht.com/js/selectivizr.js"></script>
+	<![endif]-->
+</head>
+<body>
+	
+	<div id="container">
+	
+		<header role="banner" id="banner">
+			
+			<h1><a href="en/">Noorderlicht</a></h1>
+			
+			<nav role="navigation" id="nav">
+				
+				<ul id="primary">
+					<li><a href="en/photofestival/">Photofestival</a></li>
+					<li><a href="en/photogallery/five-views-from-korea/">Photogallery</a></li>
+					<li><a href="en/projects/">Projects</a></li>
+					<li><a href="en/education/">Education</a></li>
+					<li><a href="en/archive/">Photographers</a></li>
+					<li><a href="en/press/">Press</a></li>
+					<li><a href="en/info/">Info</a></li>
+					<li><a href="en/shop/books/an-ocean-of-possibilities/">Shop</a></li>
+					<li><a href="en/support-us/">Support us</a></li>
+					<li><a href="en/up-to-date/">Current</a></li>
+				</ul>
+
+				<ul id="language">
+					<li><a href="nl/">nl</a></li>
+					<li class="active"><a href="en/">en</a></li>
+				</ul>
+							
+			</nav>
+			
+			<form action="en/search/" role="search" id="search">
+				
+				<div>
+					<input type="search" name="q" value="">
+					<button type="submit">ok</button>
+				</div>
+				
+			</form>
+						
+		</header>
+		
+		<section id="main" class="has-one">
+	
+			<div class="carousel small">
+
+				<ul>
+					<li>
+						<section class="has-description">
+							<div class="content">
+								<h2>
+									<em>Five Views from Korea</em>
+									<a href="en/photogallery/five-views-from-korea/"></a>
+								</h2>
+								
+							</div>
+							<div class="content">
+								<h3>
+									<em>Photogallery</em>
+									<span> 8 Feb - 13 Apr</span>
+								</h3>
+							</div>
+							<div class="description">
+								<p>In this group exhibition 5 Korean photographers reflect on the discomfort and nagging feeling of an unending cold war since the division of the Korean peninsula.</p>
+							</div>
+						</section>
+						<img src="assets/image-484-440/jaegu-kanghomecrop.jpg">
+					</li>
+				</ul>
+
+			</div>
+
+			<div class="carousel small">
+
+				<ul>
+					<li>
+						<section class="has-description">
+							<div class="content">
+								<h2>
+									<em>now on show</em>
+									<a href="en/photogallery/five-views-from-korea/"></a>
+								</h2>
+								
+							</div>
+							<div class="content">
+								<h3>
+									<em>Photogallery</em>
+									<span> 8 Feb - 13 Apr</span>
+								</h3>
+							</div>
+							<div class="description">
+								<p>FIVE VIEWS FROM KOREA<br>Seung Woo Back - Jaegu Kan - Insook Kim - Suntag Noh - Xuezhe Shen</p>
+							</div>
+						</section>
+						<img src="assets/image-484-440/overzich1250px.JPG">
+					</li>
+					<li>
+						<section class="has-description">
+							<div class="content">
+								<h2>
+									<em>now on show</em>
+									<a href="en/photogallery/het-zoete-en-zure-verhaal-van-suiker/"></a>
+								</h2>
+								
+							</div>
+							<div class="content">
+								<h3>
+									<em>Photogallery</em>
+									<span> 8 Feb - 13 Apr</span>
+								</h3>
+							</div>
+							<div class="description">
+								<p>'Het zoete en zure verhaal van suiker'<br>Presentation of students from Minerva Art Academy in the basement of the Photogallery</p>
+							</div>
+						</section>
+						<img src="assets/image-484-440/minerva-1250px.JPG">
+					</li>
+				</ul>
+
+			</div>
+
+		
+		</section>
+
+			<section id="destinations">
+
+				<div class="highlight">
+
+					<h4>News</h4>
+
+					<ul>
+						<li class="divider">
+<h4>Xiaoxiao Xu exhibits in Paris</h4>			<p>Her latest series 'The way to the Golden Mountain', commisioned by Noorderlicht continues its way. Now on show from 7 feb - 15 Mar at the Circulation(s) Festival in Paris.</p>
+						<a href="http://www.festival-circulations.com/"><img src="assets/image-230-x/xiaoxiao-xu.002.jpg" alt="" /></a>
+						<p><a href="http://www.festival-circulations.com/">Go to Circulation(s) &gt;&gt;</a></p>
+						</li>
+					</ul>
+				</div>
+
+				<div>
+
+					<h4>Photogallery</h4>
+
+					<ul>
+						<li class="item">
+<h4>Expected</h4>			<p>Rob Hornstra -  The Sochi Project<br>19 Apr - 22 June</p>
+						<a href="http://www.noorderlicht.com/en/photogallery/expected/"><img src="assets/image-230-x/rh120624sp0805olga1250px.001.jpg" alt="" /></a>
+						<p><a href="http://www.noorderlicht.com/en/photogallery/expected/">read more &gt;&gt;  &gt;&gt;</a></p>
+						</li>
+					</ul>
+				</div>
+
+				<div>
+
+					<h4>News</h4>
+
+					<ul>
+						<li class="divider">
+<h4>Announcement theme Noorderlicht 2014</h4>			<p>The theme of the main exhibition of the Noorderlicht International Photofestival 2014 is announced. Submissions and suggestions of photographers and curators are welcome.</p>
+						<p><a href="http://www.noorderlicht.com/en/up-to-date/news/2013/12/announcement-theme-noorderlicht-2014/">read more &gt;&gt; &gt;&gt;</a></p>
+						</li>
+						<li class="divider">
+<h4>App for iphone</h4>			<p>Photography from around the globe in the palm of your hand. The complete Noorderlicht archives in app available.<br>(Dutch and English)</p>
+						<a href="http://www.noorderlicht.com/en/noorderlicht-app/"><img src="assets/image-230-x/en03.jpg" alt="" /></a>
+						<p><a href="http://www.noorderlicht.com/en/noorderlicht-app/">Get it now, it's free &gt;&gt;</a></p>
+						</li>
+					</ul>
+				</div>
+
+				<div class="last">
+
+					<h4>Follow Noorderlicht</h4>
+
+					<ul>
+						<li class="follow">
+							<a href="http://twitter.com/Noorderlicht_NL" class="twitter">Twitter</a>
+							<a href="http://www.facebook.com/pages/Noorderlicht-Photography/156011187746887" class="facebook">Facebook</a>
+						</li>
+						<li class="divider">
+							<h5><a href="en/up-to-date/blog/2013/10/much-has-changed-in-liberia/">Blog</a><em>Andrea Stultiens</em></h5>
+							<a href="en/up-to-date/blog/2013/10/much-has-changed-in-liberia/"><img src="assets/image-570-x/li-a01.jpg" alt=""></a>
+							<h5><em>Much has changed in Liberia</em></h5>
+							<p>On commission for 'The Sequel' in Africa, Andrea Stultiens reported about her process while working in the footsteps of Paul Julien. Read the final part 4 here.</p>
+							<p><a href="en/up-to-date/blog/2013/10/much-has-changed-in-liberia/">Read blog &gt;&gt;</a></p>
+						</li>
+						<li class="divider" id="twitter">
+							<h5>Feeds</h5>
+						</li>
+						<li class="divider">
+							<h5>newsletter<em>Apply for our newsletter</em></h5>
+							<form action="en/up-to-date/newsletter/" method="post" enctype="multipart/form-data" id="newsletter">
+								<fieldset>
+									<input type="text" name="name" id="name" placeholder="name">
+									<input type="text" name="email" id="email" placeholder="email address">
+									<input type="submit" class="submit" value="apply">
+									<input type="hidden" name="token_mailing" value="4a892a5e700ea394a8f2d58f5c3188e6" >
+								</fieldset>
+							</form>
+						</li>
+					</ul>
+				</div>
+
+			</section>
+
+		
+		<footer class="vcard" id="footer">
+			<h2>Contact</h2>
+			
+			<div class="column">
+
+				<p>
+					<strong>Address</strong>
+					<span class="org fn">Noorderlicht Photography</span>
+					<span class="street-address">Akerkhof 12</span>
+					<span class="postal-code">9711 JB</span> <span class="locality">Groningen</span>
+					<span class="country-name">The Netherlands</span>
+				</p>
+				
+			</div>
+
+			<div class="column">
+
+				<p>
+					<strong>Telephone</strong>
+					<span class="tel">+31 (0) 50 3182227</span>
+					<strong>Email</strong>
+					<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#110;&#111;&#111;&#114;&#100;&#101;&#114;&#108;&#105;&#99;&#104;&#116;&#46;&#99;&#111;&#109;" class="email">&#105;&#110;&#102;&#111;&#64;&#110;&#111;&#111;&#114;&#100;&#101;&#114;&#108;&#105;&#99;&#104;&#116;&#46;&#99;&#111;&#109;</a>
+				</p>
+
+			</div>
+
+			<div class="column">
+				
+				<p>
+					<strong>Opening hours Photogallery</strong>
+					Wednesday - sunday:<br>
+					12 - 6pm<br>
+					FREE admission
+				</p>
+
+			</div>
+			
+			<div class="social">
+			
+				<div class="tw-follow"><a href="https://twitter.com/Noorderlicht_NL" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false" data-lang="en">Follow @Noorderlicht_NL</a></div>
+				<div class="fb-like" data-href="http://www.facebook.com/pages/Noorderlicht-Photography/156011187746887" data-send="false" data-width="200" data-layout="button_count" data-show-faces="false"></div>
+						
+			</div>
+		</footer>
+	
+	</div>
+	
+	<div id="fb-root"></div>
+
+
+	<script>
+
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+
+	!function(d,s,id){
+		var js,fjs=d.getElementsByTagName(s)[0];
+		if(!d.getElementById(id)){
+		js=d.createElement(s); js.id=id;
+		js.src="//platform.twitter.com/widgets.js";
+		fjs.parentNode.insertBefore(js,fjs);}
+	}(document,"script","twitter-wjs");
+	
+	</script>
+	
+		<script>
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-10525601-2', '_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+	</script>
+			
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.fotofestiwal.com/>====================
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+	<title>Fotofestiwal 2013</title>
+
+<link rel="stylesheet" href="http://www.fotofestiwal.com/2013/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=1.7.9" type="text/css" media="all" />
+	<link rel="pingback" href="http://www.fotofestiwal.com/2013/xmlrpc.php" />
+	
+	<!-- Blueprint CSS -->
+	<link rel="stylesheet" href="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/blueprint/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/blueprint/print.css" type="text/css" media="print"> 
+	<!--[if lt IE 8]>
+	  <link rel="stylesheet" href="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/blueprint/ie.css" type="text/css" media="screen, projection">
+	<![endif]-->
+	<link rel="icon" type="image/png"  href="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/favicon.png">	
+	<!-- Theme CSS -->
+	<link rel="stylesheet" href="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/style.css" type="text/css" media="screen, projection" />
+	<link href="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/webkit.css" media="screen and (-webkit-min-device-pixel-ratio:0)" rel="stylesheet" type="text/css" />
+
+	<!-- Feed autodiscovery -->
+	<link rel="alternate" type="application/rss+xml" title="Fotofestiwal 2013 RSS Feed" href="http://www.fotofestiwal.com/2013/en/feed/" />
+	<link rel="alternate" type="application/atom+xml" title="Fotofestiwal 2013 Atom Feed" href="http://www.fotofestiwal.com/2013/en/feed/atom/" />
+
+	
+	<script type="text/javascript" src="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/js/css_browser_selector.js"></script>
+	<script>
+		
+		
+		
+	</script>
+	
+	<!--script for IE6-image transparency recover-->
+	<!--[if IE 6]>
+	<script type="text/javascript" src="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/js/DD_belatedPNG_0.0.7a-min.js"></script>
+	<script>
+	  DD_belatedPNG.fix('#logo img,#main');	  
+	</script>
+	<![endif]--> 
+	<meta property="fb:page_id" content="304719765668" />
+	<link rel='stylesheet' id='imgmap_style-css'  href='http://www.fotofestiwal.com/2013/wp-content/plugins/imagemapper/imgmap_style.css?ver=9707' type='text/css' media='all' />
+<link rel='stylesheet' id='NextGEN-css'  href='http://www.fotofestiwal.com/2013/wp-content/plugins/nextgen-gallery/css/nggallery.css?ver=1.0.0' type='text/css' media='screen' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js?ver=1.7.1'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js?ver=1.9.0'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/effects.js?ver=1.9.0'></script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-content/plugins/lightbox-2/lightbox.js?ver=1.8'></script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/2013\/","uid":"0","time":"1393355401"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-includes/js/utils.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-content/plugins/imagemapper/script/jquery.imagemapster.min.js?ver=3.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var imgmap = {"ajaxurl":"http:\/\/www.fotofestiwal.com\/2013\/wp-admin\/admin-ajax.php","pulseOption":"never","admin_logged":"","alt_dialog":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-content/plugins/imagemapper/imagemapper_script.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.9995'></script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.06'></script>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.fotofestiwal.com/2013/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="stylesheet" href="http://www.fotofestiwal.com/2013/wp-content/plugins/auto-highslide/highslide/highslide.css" type="text/css" />
+<script type="text/javascript" src="http://www.fotofestiwal.com/2013/wp-content/plugins/auto-highslide/highslide/highslide-with-html.packed.js"></script>
+<script type="text/javascript">
+	hs.graphicsDir = "http://www.fotofestiwal.com/2013/wp-content/plugins/auto-highslide/highslide/graphics/";
+	hs.outlineType = "rounded-white";
+	hs.outlineWhileAnimating = true;
+	hs.showCredits = false;
+</script>
+	
+	<!-- begin lightbox scripts -->
+	<script type="text/javascript">
+    //<![CDATA[
+    document.write('<link rel="stylesheet" href="http://www.fotofestiwal.com/2013/wp-content/plugins/lightbox-2/Themes/White/lightbox.css" type="text/css" media="screen" />');
+    //]]>
+    </script>
+	<!-- end lightbox scripts -->
+<!-- <meta name="NextGEN" version="1.9.12" /> -->
+<script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.fotofestiwal.com/2013/en/';</script>
+<script type="text/javascript" src="http://www.fotofestiwal.com/2013/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:1.7.9 stt:1,42;0;0;0" />
+
+<!-- All in One SEO Pack 2.0 by Michael Torbert of Semper Fi Web Designob_start_detected [46,71] -->
+<link rel="canonical" href="http://www.fotofestiwal.com/2013/en/" />
+<!-- /all in one seo pack -->
+
+</head>
+<body class="en home blog">
+
+<div id="page" class="container">
+
+	<div id="header" role="banner" class="span-24 last">
+		<div class="span-5" id="headerimg">
+			<h1><a href="http://www.fotofestiwal.com/2013/en/"><img src="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/logo_en.jpg"/></a></h1>
+			<div class="description"></div>
+		</div><!-- id="headerimg" -->
+		
+		<a href="http://www.fotofestiwal.com/2013/en/">
+			<div class="span-17">
+				<div id="myAlternativeContent"><!--
+				<a href="http://www.adobe.com/go/getflashplayer">
+					<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+				</a>
+				-->
+				</div>
+
+			</div>
+		</a>	
+		<div class="span-2 last">
+			<ul>
+			<li id="language-selector" class="widget icl_languages_selector">		
+		<div id="lang_sel_list">           
+            <ul>
+                                <li class="icl-en">          
+                    <a href="http://www.fotofestiwal.com/2013/en/?langmain=en" class="lang_sel_sel"><span>
+                                        ENGLISH                    </span></a>
+                </li>
+                                <li class="icl-pl">          
+                    <a href="http://www.fotofestiwal.com/2013/?langmain=pl" class="lang_sel_other"><span>
+                                        POLSKI                    </span></a>
+                </li>
+                            </ul>
+</div>
+</li>
+			</ul>
+		</div>
+	</div><!-- id="header"-->
+	
+	<div id="nav" role="navigation" class="span-24 last">
+			<div class="menu"><ul><li class="page_item page-item-8"><a href="http://www.fotofestiwal.com/2013/en/exhibitions/">Exhibitions</a><ul class='children'><li class="page_item page-item-31"><a href="http://www.fotofestiwal.com/2013/en/exhibitions/i-artist-everyone-is-an-artist/">I ARTIST. Everyone is an artist</a><ul class='children'><li class="page_item page-item-799"><a href="http://www.fotofestiwal.com/2013/en/exhibitions/i-artist-everyone-is-an-artist/i-artist-transcendent-amateur/">Transcendent Amateur</a></li><li class="page_item page-item-817"><a href="http://www.fotofestiwal.com/2013/en/exhibitions/i-artist-everyone-is-an-artist/i-artist-archives-and-amateurs/">Archives and Amateurs</a></li></ul></li><li class="page_item page-item-45"><a href="http://www.fotofestiwal.com/2013/en/exhibitions/special-exhibitions/">Special Exhibitions</a><ul class='children'><li class="page_item page-item-1198"><a href="http://www.fotofestiwal.com/2013/en/exhibitions/special-exhibitions/the-new-york-times-magazine-photographs/">The New York Times Magazine Photographs Tearsheets</a></li><li class="page_item page-item-790"><a href="http://www.fotofestiwal.com/2013/en/exhibitions/special-exhibitions/23-years-of-lodz-through-the-lens-of-gazeta-wyborcza-photographers/">23 Years of Łódź through the Lens of Gazeta Wyborcza Photographers</a></li></ul></li><li class="page_item page-item-49"><a href="http://www.fotofestiwal.com/2013/en/exhibitions/grand-prix/">Grand Prix Fotofestiwal 2013</a></li><li class="page_item page-item-53"><a href="http://www.fotofestiwal.com/2013/en/exhibitions/accompanying-exhibitions/">Accompanying Exhibitions</a></li></ul></li><li class="page_item page-item-13"><a href="http://www.fotofestiwal.com/2013/en/events/">Events</a><ul class='children'><li class="page_item page-item-58"><a href="http://www.fotofestiwal.com/2013/en/events/education/">Education</a><ul class='children'><li class="page_item page-item-62"><a href="http://www.fotofestiwal.com/2013/en/events/education/workshops/">Workshops</a></li><li class="page_item page-item-66"><a href="http://www.fotofestiwal.com/2013/en/events/education/portfolio-review/">Portfolio review</a></li><li class="page_item page-item-1628"><a href="http://www.fotofestiwal.com/2013/en/events/education/photo-walks-with-dalkia/">Photo walks with Dalkia</a></li></ul></li><li class="page_item page-item-5944"><a href="http://www.fotofestiwal.com/2013/en/events/photographic-publication-of-the-year-2013/">Photographic Publication of the Year 2013</a></li><li class="page_item page-item-83"><a href="http://www.fotofestiwal.com/2013/en/events/meetings/">Meetings</a><ul class='children'><li class="page_item page-item-6249"><a href="http://www.fotofestiwal.com/2013/en/events/meetings/live-streaming/">Live streaming</a></li></ul></li><li class="page_item page-item-1498"><a href="http://www.fotofestiwal.com/2013/en/events/fotosupermarket/">FotoSuperMarket</a></li><li class="page_item page-item-87"><a href="http://www.fotofestiwal.com/2013/en/events/slide-shows/">Slide shows</a></li><li class="page_item page-item-79"><a href="http://www.fotofestiwal.com/2013/en/events/reading-room/">Reading Room</a></li><li class="page_item page-item-1079"><a href="http://www.fotofestiwal.com/2013/en/events/fortepan/">Fortepan</a></li><li class="page_item page-item-3228"><a href="http://www.fotofestiwal.com/2013/en/events/the-night-of-open-ateliers/">The night of open ateliers</a></li><li class="page_item page-item-3128"><a href="http://www.fotofestiwal.com/2013/en/events/parties/">Parties</a></li><li class="page_item page-item-3980"><a href="http://www.fotofestiwal.com/2013/en/events/off-piotrkowska/">OFF Piotrkowska</a></li></ul></li><li class="page_item page-item-16"><a href="http://www.fotofestiwal.com/2013/en/timetable/">Timetable</a></li><li class="page_item page-item-18"><a href="http://www.fotofestiwal.com/2013/en/plan-your-visit/">Plan your visit</a><ul class='children'><li class="page_item page-item-418"><a href="http://www.fotofestiwal.com/2013/en/plan-your-visit/festival-centre-tickets/">Festival Centre / Tickets</a></li><li class="page_item page-item-2365"><a href="http://www.fotofestiwal.com/2013/en/plan-your-visit/places/">Places</a></li><li class="page_item page-item-429"><a href="http://www.fotofestiwal.com/2013/en/plan-your-visit/hotels-and-hostels/">Hotels / Hostels</a></li><li class="page_item page-item-439"><a href="http://www.fotofestiwal.com/2013/en/plan-your-visit/restaurants-pubs-clubs/">Restaurants / Pubs / Clubs</a></li></ul></li><li class="page_item page-item-20"><a href="http://www.fotofestiwal.com/2013/en/history/">History</a></li><li class="page_item page-item-22"><a href="http://www.fotofestiwal.com/2013/en/partners/">Partners</a></li><li class="page_item page-item-24"><a href="http://www.fotofestiwal.com/2013/en/for-press/">For press</a></li><li class="page_item page-item-26"><a href="http://www.fotofestiwal.com/2013/en/contact/">Contact</a></li></ul></div>
+	</div><!-- id="nav" -->
+
+
+
+	<div id="sidebar" role="complementary" class="span-5">
+		<ul>
+							<li>
+					<a href="http://www.fotofestiwal.com/2013/en/"><img src="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/sidebar_logo_en.png" alt="Fotofestiwal 2011" /></a>
+				</li>
+				<!-- Search form -->
+				<li>
+				
+				
+				<form action="http://ldzign.osten.pl/2011/" id="searchform" method="get" role="search">
+					<div>
+						<span></span><br/> 
+						<input type="text" id="s" name="s" value=""/>
+						<input type="submit" id="searchBtn" name="searchBtn" value=""/>
+					</div>
+				</form>
+				
+				</li>
+				<!-- Newsletter -->
+				<li>
+				<img src="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/newsletter_title.gif" alt="Newsletter" />
+			
+
+			    <form name="subscribeform" action="https://app.getresponse.com/site/subscribers_en/webform.html?wid=381487" method="post">		    
+
+				    <input type="text" onclick="if (this.value == 'E-MAIL') this.value = '';" onblur="if (this.value == '') this.value = 'E-MAIL';" value="E-MAIL" name="email" id="email">
+				    <input type="hidden" value="1" name="htmlemail">
+				    <input type="submit" value="" name="newsletterBtn" id="newsletterBtn">
+
+			    	<br/> 
+
+			    </form>
+				</li>
+				<li>
+				<img id="calendar_top_line" src="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/post-wrapper-belka.gif"/>
+				</li>
+				<li>
+				<img src="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/social_title_en.png" />
+				<br /><br />
+				
+				<div class="social">
+				
+						<a id="facebook" target="_new" href="https://www.facebook.com/Fotofestiwal.Lodz?sk=app_4949752878"></a>
+				</div>
+				
+				<div class="social">
+						<a id="pinterest" target="_new" href="http://pinterest.com/fotofestlodz/"></a>
+				</div>
+				
+				<div class="social_last">
+						<a id="youtube"  target="_new" href="http://www.youtube.com/user/lodzartcenter"></a>
+				</div>
+
+				<img src="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/post-wrapper-belka.gif"/>
+					<div id="fotorelacja">
+						<a href="http://www.fotofestiwal.com/2013/en/fotofestiwal-2013-photostory/"></a>	
+						
+					</div>
+				</li>
+						</ul>
+	</div><!-- id="sidebar" -->
+
+	<div id="content" role="main" class="span-18 prepend-1 last">
+
+	
+			<div class="Array prepend-1 span-5" id="post-7145">
+
+				<div class="post-wrapper post-level-0">
+				<span class="entry-date">24/01/2014</span>
+				<h2 class="entry-title"><a href="http://www.fotofestiwal.com/2013/en/news/grand-prix-2014-finalists/" rel="bookmark" title="Permanent Link to Grand Prix Fotofestiwal 2014 finalists">Grand Prix Fotofestiwal 2014 finalists</a></h2>
+				
+				<div class="post-wprapper-thumb">
+										<a href="http://www.fotofestiwal.com/2013/en/news/grand-prix-2014-finalists/" rel="bookmark" title="Permanent Link to Grand Prix Fotofestiwal 2014 finalists">
+						<img src="http://www.fotofestiwal.com/2013/wp-content/uploads/2014/01/finalisci_finalist_gp2014.jpg" />
+					</a>
+				</div>
+				
+				<div class="entry">
+					<p>We are happy to announce that jury of Grand Prix 2014 decided to choose 10 finalists whose works will be presented during Fotofestiwal, between 5<sup>th</sup> and 15<sup>th</sup> of June 2014. We got 600 applications and the level was remarkably high. <b>The name of the winner will be announced  <a href="http://www.fotofestiwal.com/2013/en/news/grand-prix-2014-finalists/" class="more-link">More +</a></b></p>
+
+                            <div id="aspdf">
+                                <a href="http://www.fotofestiwal.com/2013/wp-content/plugins/as-pdf/generate.php?post=7145">
+                                    <span></span>
+                                </a>
+                            </div>
+                        				</div>
+
+				<!-- turn off -->
+				
+				<!-- turn off -->
+								
+				</div>
+
+			</div>
+
+			
+			<div class="Array prepend-1 span-5" id="post-7005">
+
+				<div class="post-wrapper post-level-0">
+				<span class="entry-date">16/10/2013</span>
+				<h2 class="entry-title"><a href="http://www.fotofestiwal.com/2013/en/bez-kategorii-en/grand-prix-fotofestiwal-2014-2/" rel="bookmark" title="Permanent Link to GRAND PRIX FOTOFESTIWAL 2014">GRAND PRIX FOTOFESTIWAL 2014</a></h2>
+				
+				<div class="post-wprapper-thumb">
+										<a href="http://www.fotofestiwal.com/2013/en/bez-kategorii-en/grand-prix-fotofestiwal-2014-2/" rel="bookmark" title="Permanent Link to GRAND PRIX FOTOFESTIWAL 2014">
+						<img src="http://www.fotofestiwal.com/2013/wp-content/uploads/2013/11/GP2014_most_wanted-190x190.png" />
+					</a>
+				</div>
+				
+				<div class="entry">
+					<p>Deadline for submissions is 16th of December 2013. The winner will receive the prize of 10,000 PLN (about 2300 euro). Works of the winner and eight finalists will be presented at the exhibition during Fotofestiwal in June 2014 and as a slide show during international festivals of photography. <a href="http://www.fotofestiwal.com/2013/en/bez-kategorii-en/grand-prix-fotofestiwal-2014-2/" class="more-link">More +</a></p>
+
+                            <div id="aspdf">
+                                <a href="http://www.fotofestiwal.com/2013/wp-content/plugins/as-pdf/generate.php?post=7005">
+                                    <span></span>
+                                </a>
+                            </div>
+                        				</div>
+
+				<!-- turn off -->
+				
+				<!-- turn off -->
+								
+				</div>
+
+			</div>
+
+			
+			<div class="Array prepend-1 span-5 last" id="post-6930">
+
+				<div class="post-wrapper post-level-0">
+				<span class="entry-date">29/08/2013</span>
+				<h2 class="entry-title"><a href="http://www.fotofestiwal.com/2013/en/bez-kategorii-en/karolina-jonderko-at-noorderlicht/" rel="bookmark" title="Permanent Link to Karolina Jonderko at Noorderlicht">Karolina Jonderko at Noorderlicht</a></h2>
+				
+				<div class="post-wprapper-thumb">
+										<a href="http://www.fotofestiwal.com/2013/en/bez-kategorii-en/karolina-jonderko-at-noorderlicht/" rel="bookmark" title="Permanent Link to Karolina Jonderko at Noorderlicht">
+						<img src="http://www.fotofestiwal.com/2013/wp-content/uploads/2013/08/Karolina-Jonderko_Zaginieni-Lost-584-x-730-190x190.jpg" />
+					</a>
+				</div>
+				
+				<div class="entry">
+					<p>FOTOFESTIWAL International Festival of Photography in Lodz, Poland presents <strong>Karolina Jonderko <em>Lost</em></strong> as part of the 20th <strong>Noorderlicht Photofestival</strong> and the exhibition <strong>‘20|20, A world of photography’.</strong> <a href="http://www.fotofestiwal.com/2013/en/bez-kategorii-en/karolina-jonderko-at-noorderlicht/" class="more-link">More +</a></p>
+
+                            <div id="aspdf">
+                                <a href="http://www.fotofestiwal.com/2013/wp-content/plugins/as-pdf/generate.php?post=6930">
+                                    <span></span>
+                                </a>
+                            </div>
+                        				</div>
+
+				<!-- turn off -->
+				
+				<!-- turn off -->
+								
+				</div>
+
+			</div>
+
+						<hr class="space clear" />
+			
+			<div class="Array prepend-1 span-5" id="post-6076">
+
+				<div class="post-wrapper post-level-1">
+				<span class="entry-date">17/06/2013</span>
+				<h2 class="entry-title"><a href="http://www.fotofestiwal.com/2013/en/news/fontcuberta-live/" rel="bookmark" title="Permanent Link to Joan Fontcuberta live">Joan Fontcuberta live</a></h2>
+				
+				<div class="post-wprapper-thumb">
+										<a href="http://www.fotofestiwal.com/2013/en/news/fontcuberta-live/" rel="bookmark" title="Permanent Link to Joan Fontcuberta live">
+						<img src="http://www.fotofestiwal.com/2013/wp-content/uploads/2013/06/FireShot-Screen-Capture-161-Live-streaming-I-Fotofestiwal-2013-www_fotofestiwal_com_2013_wydarzenia_spotkania-autorskie_streaming1-190x190.jpg" />
+					</a>
+				</div>
+				
+				<div class="entry">
+					<p>You couldn’t come to Fotofestiwal? Together with <a href="http://www.dotfilm.tv/" target="_blank">DotFilm</a> company we have prepared live streaming for all the fans of photography who will have to stay at home this weekend but at the same time would like to participate in the meeting with Joan Fontcuberta <a href="http://www.fotofestiwal.com/2013/en/news/fontcuberta-live/" class="more-link">More +</a></p>
+
+                            <div id="aspdf">
+                                <a href="http://www.fotofestiwal.com/2013/wp-content/plugins/as-pdf/generate.php?post=6076">
+                                    <span></span>
+                                </a>
+                            </div>
+                        				</div>
+
+				<!-- turn off -->
+				
+				<!-- turn off -->
+								
+				</div>
+
+			</div>
+
+			
+			<div class="Array prepend-1 span-5" id="post-6862">
+
+				<div class="post-wrapper post-level-1">
+				<span class="entry-date">16/06/2013</span>
+				<h2 class="entry-title"><a href="http://www.fotofestiwal.com/2013/en/news/fotofestiwal-2013-has-finished/" rel="bookmark" title="Permanent Link to Fotofestiwal 2013 has finished">Fotofestiwal 2013 has finished</a></h2>
+				
+				<div class="post-wprapper-thumb">
+										<a href="http://www.fotofestiwal.com/2013/en/news/fotofestiwal-2013-has-finished/" rel="bookmark" title="Permanent Link to Fotofestiwal 2013 has finished">
+						<img src="http://www.fotofestiwal.com/2013/wp-content/uploads/2013/07/photostory_fotorelacja_fotofestiwal2013_0821-190x190.jpg" />
+					</a>
+				</div>
+				
+				<div class="entry">
+					<p>Memories of these days will not fade – certainly not those of the numerous meetings, gasps of admiration, amazing discoveries, gripping discussions and, first and foremost, top-notch photography. We would like to thank all visitors for the time they spent with the artists whose works  <a href="http://www.fotofestiwal.com/2013/en/news/fotofestiwal-2013-has-finished/" class="more-link">More +</a></p>
+
+                            <div id="aspdf">
+                                <a href="http://www.fotofestiwal.com/2013/wp-content/plugins/as-pdf/generate.php?post=6862">
+                                    <span></span>
+                                </a>
+                            </div>
+                        				</div>
+
+				<!-- turn off -->
+				
+				<!-- turn off -->
+								
+				</div>
+
+			</div>
+
+			
+			<div class="Array prepend-1 span-5 last" id="post-6140">
+
+				<div class="post-wrapper post-level-1">
+				<span class="entry-date">07/06/2013</span>
+				<h2 class="entry-title"><a href="http://www.fotofestiwal.com/2013/en/news/festival-app-for-smatphones/" rel="bookmark" title="Permanent Link to Festival app for smatphones">Festival app for smatphones</a></h2>
+				
+				<div class="post-wprapper-thumb">
+										<a href="http://www.fotofestiwal.com/2013/en/news/festival-app-for-smatphones/" rel="bookmark" title="Permanent Link to Festival app for smatphones">
+						<img src="http://www.fotofestiwal.com/2013/wp-content/uploads/2013/06/plakat_aplikacja_do_newsa-190x190.jpg" />
+					</a>
+				</div>
+				
+				<div class="entry">
+					<p>Do you want to feel more photographic this weekend? You can immerse in photos from the Fortepian.hu gallery by using an application made by <a href="http://www.cybercom.com/pl/" target="_blank">Cybercom</a>! Share ready photos on social Facebook and Twitter or send them via email to your mother and your father. <a href="http://www.fotofestiwal.com/2013/en/news/festival-app-for-smatphones/" class="more-link">More +</a></p>
+
+                            <div id="aspdf">
+                                <a href="http://www.fotofestiwal.com/2013/wp-content/plugins/as-pdf/generate.php?post=6140">
+                                    <span></span>
+                                </a>
+                            </div>
+                        				</div>
+
+				<!-- turn off -->
+				
+				<!-- turn off -->
+								
+				</div>
+
+			</div>
+
+						<hr class="space clear" />
+			
+		
+	</div><!-- id="content" -->
+
+	
+		<div class="navigation clear prepend-1">
+			<div class="alignleft"><a href="http://www.fotofestiwal.com/2013/en/page/2/" >&lt; Prev</a></div>
+			<div class="alignright" style="width: 350px;"></div>
+		</div>
+	<hr class="space" />
+	<div id="footer" role="contentinfo" class="span-24 last container">
+		<hr class="space" />
+		<div id="footer-nav">
+			
+
+									<div class="menu-dolne_menu_en-container"><ul class="menu" id="menu-dolne_menu_en"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-498" id="menu-item-498"><a href="/2013/en//exhibitions/">Exhibitions</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-497" id="menu-item-497"><a href="/2013/en/events/">Events</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499" id="menu-item-499"><a href="/2013/en/timetable/">Timetable</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-502" id="menu-item-502"><a href="/2013/en/plan-your-visit/?">Plan your visit</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500" id="menu-item-500"><a href="/2013/en/for-press/">For press</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501" id="menu-item-501"><a href="/2013/en/partners/">Partners</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504" id="menu-item-504"><a href="/2013/en/history/">History</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-503" id="menu-item-503"><a href="/2013/en/contact/">Contact</a></li>
+						</ul></div>
+								
+		</div>
+		<hr class="space" />
+	</div><!-- id="footer" -->
+	
+	<div class="span-24" id="osten">Coding by: <a href="http://www.osten.pl"><strong>Osten</strong></a></div>		
+	<hr class="space" />
+
+</div><!-- id="page" -->
+
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-includes/js/jquery/ui/jquery.ui.button.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.fotofestiwal.com/2013/wp-admin/js/editor.min.js?ver=3.5.1'></script>
+<script type="text/javascript" src="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/js/swfobject.js"></script>
+<script type="text/javascript">
+	var flashvars = {}; var params = {wmode: "transparent"}; var attributes = {}; 
+	//swfobject.embedSWF("http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/fx/banner_en.swf", "myAlternativeContent", "950", "199", "9.0.0", false, flashvars, params, attributes);
+</script>
+<!-- wyrównnanie wysokości boksów na głównej z postami -->
+<script type="text/javascript" src="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/js/jquery.equalHights.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery('.post-level-0').equalHeights(300, 700);
+	jQuery('.post-level-1').equalHeights(300, 700);	
+});
+</script>
+<script type="text/javascript" src="http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/js/jquery.preloadimg.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(window).load(function() {
+		jQuery.preLoadImages(
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/photostory2012_01.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/photostory2012_02.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/fotorelacja2012_01.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/fotorelacja2012_02.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/youtube01.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/youtube02.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/drukuj01.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/drukuj02.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/more01.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/more02.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/wiecej01.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/wiecej02.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/pinterest01.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/pinterest02.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/go01.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/go02.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/lang_pl_en.png',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/previous01.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/previous02.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/next01.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/next02.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/poprzednie01.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/poprzednie02.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/nastepne01.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/nastepne02.gif',
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/facebook01.gif',			
+			'http://www.fotofestiwal.com/2013/wp-content/themes/ff2013/images/facebook02.gif');
+	});
+});
+</script>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-13024984-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.moisdelaphoto.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  	<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+	<title>Le Mois de la Photo à Montréal / index</title>
+	<link rel="stylesheet" type="text/css" href="css/styles.css" />
+	<style type="text/css">
+<!--
+.style1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 26px;
+}
+.style3 {background-color: #FFFFFF}
+.style4 {color: #000000}
+.style5 {font-size: 24px; background-color: #666666; font-family: Arial, Helvetica, sans-serif;}
+a:link {
+  color: #929397;
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+  color: #333333;
+}
+a:hover {
+  text-decoration: underline;
+  color: #000000;
+}
+a:active {
+  text-decoration: none;
+  color: #000000;
+}
+.style15 {color: #FFFFFF}
+.style12 {
+  color: #FF0099
+}
+.style16 {color: #ED0F69}
+-->
+</style>
+</head>
+<body>
+	<div id="index">
+		<div id="logo">
+			<img src="images_site/mpm_gris.jpg" width="62" height="81" alt="" />
+		</div>
+		<div id="title">
+			<img src="images_site/title.jpg" width="442" height="80" alt="" />
+		</div>
+		<div id="langue"><a href="thematique.html" target="_top">FR</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="theme.html">EN</a></div>
+		<div id="footer">
+			<div>
+				Les images dans ce site sont prot&eacute;g&eacute;es en vertu des lois sur le droit d'auteur. 
+				Il est strictement d&eacute;fendu de reproduire, conserver ou transmettre sous quelque forme ou de quelque fa&ccedil;on 
+				que ce soit un &eacute;l&eacute;ment, une partie ou l'ensemble du contenu sans autorisation.<br /><br />
+			</div>
+    		<div>
+    			The content of this Web site is protected under copyright statutes. 
+    			Reproduction, possession or transmission, in any form, of an element,
+    			a part or all of the content is strictly forbidden without authorization.
+    		</div>      
+    	</div>
+    </div>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.fotofest.org/>====================
+
+<html>
+<head>
+	<title>FotoFest International - The United States' Oldest and Largest International Photography Festival</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+	<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+	</script>
+
+	<link rel="stylesheet" href="foto.css" type="text/css">
+	<style type="text/css">
+<!--
+.style1 {color: #FFFFFF}
+
+.headlineTitleRed,
+.headlineTitle {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 12px;
+}
+.headlineTitleRed {
+    color: #cc0000;
+}
+-->
+  </style>
+  <meta name="bitly-verification" content="fb6b0d3744e1"/>
+</head>
+<body text="#000000" link="#000000" vlink="#999999" leftmargin="0" topmargin="0"
+	marginwidth="0" marginheight="0" background="images/bckgrd_gray4.gif" onLoad="MM_preloadImages('images/nav_home_on.gif','images/eye_gray.gif','images/nav_volopp_on.gif','images/eye_red.gif','images/nav_spons_on.gif','images/nav_archive_on.gif','images/nav_store_on.gif','images/nav_festlight_on.gif','images/eye_brn.gif','images/nav_about_on.gif','images/eye_blue.gif','images/nav_foto2002_on.gif','images/eye_grn.gif','images/nav_news_on.gif','images/eye_purp.gif','images/nav_literacy_on.gif','images/btn_search_on.gif','images/nav_foto2008_on.gif','images/eye_org.gif','images/nav_exhib_on.gif')">
+	<table width="760" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="300" align="left" valign="top">
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td>
+							<a href="index.htm"></a><a href="index.htm">
+
+								<script type="text/javascript" language="javascript" src="includes/central.js"></script>
+
+								<script language="javascript">writeBanners(".");</script>
+
+							</a>
+						</td>
+					</tr>
+					<tr>
+						<td bgcolor="#000000">&nbsp;
+					  </td>
+					</tr>
+				</table>
+                <table width="290" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="right">
+                      <p><a href="calendar.htm"><img src="images/nav_calendar_lrg.jpg" width="290" height="27" border="0"></a></p>
+                        <p><a href="http://www.fotofest.org/2014biennial/"><img src="images/nav_ff2014_white.jpg" width="290" height="27" border="0"></a><br>
+                        <a href="http://www.fotofest.org/2014biennial/sponsors.htm"><img src="images/nav_ff2014_sponsors.jpg" width="290" height="27" border="0"></a><br>
+                        
+                        <br><br>
+                        <a href="programs.htm"><img src="images/nav_programs.jpg" width="290" height="27" border="0"></a><br>
+                        <a href="about.htm"><img src="images/nav_about_lrg3.gif" border="0"></a><br>
+                          <a href="about_map.htm"><img src="images/nav_map_lrg3.gif" border="0"></a><br>
+                          <a href="store.htm"><img src="images/nav_store_lrg3.gif" border="0"></a><br>
+                          <a href="volunteeropportunities.htm"><img src="images/nav_volunteer_lrg4.gif" width="173" height="28" border="0"></a><br>
+                          <a href="festlight.htm"><img src="images/nav_fol_lrg3.gif" border="0"></a><br>
+                          <a href="archive.asp"><img src="images/nav_archive_lrg3.gif" border="0"></a><BR>
+                      <a href="sponsors.htm"><img src="images/nav_sponsors2_lrg.gif" width="238" height="28" border="0" style="margin-top:20px"></a></p>
+                        </td>
+                    </tr>
+                    <tr>
+                    <td align="center"><br /><br /><br />
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p></td>
+                    </tr>
+                    <tr>
+                    <td align="right"">&nbsp;</td>
+                    </tr>
+                </table>
+            </td>
+			<td width="500" align="left" valign="top">
+				<table width="500" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td align="right">
+							<img src="images/spacer.gif" width="11" height="11"></td>
+					</tr>
+					<!-- // Centralized Header By Hexagroup // -->
+
+					<script type="text/javascript" language="javascript">//writeHeader(".","HOME",true);</script>
+
+					<tr>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td width="20">&nbsp;
+										</td>
+									<td>&nbsp;</td>
+								</tr>
+							</table>
+							<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="700" height="460" align="middle">
+							  <param name="allowScriptAccess" value="sameDomain" />
+							  <param name="movie" value="index_2014-01-17.swf" />
+							  <param name="quality" value="high" />
+							  <param name="bgcolor" value="#333333" />
+							  <embed src="index_2014-01-17.swf" quality="high" bgcolor="#333333" width="700" height="460" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />                            
+</object>
+<br /><br />
+							<table class="clsQuickLinks" width="100%" height="48" border="0" cellpadding="0"
+								cellspacing="0">
+								<tr>
+							    <td width="59%">
+                                    
+									  
+                                      <br />
+                                  
+                                  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+								      <td width="38" valign="top"><a href="news.asp"><span class="style1"><img src="images/spacer.gif" width="20" height="20" border="0"></span></a></td>
+								      <td width="260" valign="bottom"><strong style="font-size:16px; color:#FFF"><img src="http://www.fotofest.org/images/headline-news.png" width="200" height="15"></strong></td>
+								      <td width="231" valign="bottom"><!--<a href="news.asp"><img border="0" src="images/view_all.gif" width="50" height="11"></a>--></td>
+									      <td width="171" rowspan="6" align="left" valign="top" style="color:#c30; font-size:18px"><p>&nbsp;</p>
+<p><a href="http://2012biennial.fotofest.org/catalogue.aspx"></a></p>
+								      </td>
+						            </tr>
+								    <tr>
+								      <td height="8" colspan="4"></td>
+						            </tr>
+								    
+								    <tr>
+								      <td height="15">&nbsp;</td>
+								      <td height="15" colspan="3" valign="bottom"><ul class='clsHomeFeaturedNews'>
+								      <a href="http://www.fotofest.org/2014biennial/arabprograms.htm"><img src="images/RedPermaLink_2014arab.png" width="120" border="0" style="float:right"></a>  
+								        
+								        
+
+
+                                        
+                                        <li class='newsheadline'><a href="http://www.fotofest.org/2014biennial/press/FotoFest2014Biennial_ArabArtistsAnnounced_01-31-2014.pdf" style="color:#9FF">FotoFest Announces Arab Artists and Programs for 2014 Biennial</a></li>
+                                        <li class='newsheadline'><a href="http://www.fotofest.org/2014biennial/" style="color:#9FF">FOTOFEST 2014 BIENNIAL Information and Dates</a></li>
+                                        <li class='newsheadline'><a href="http://www.fotofest.org/2014biennial/auction/sponsor/" style="color:#9ff">2014 International Fine Print Auction</a></li>
+                                        <li class='newsheadline'><a href="http://www.fotofest.org/2014biennial/portfolioreview/" style="color:#9ff">2014 Meeting Place Portfolio Review in Houston</a></li>
+                                        <li class='newsheadline'><a href="http://www.fotofest.org/2014biennial/exhibitions/discoveries" style="color:#9ff">2014 <em>Discoveries of the Meeting Place</em> Exhibition</a></li>
+                                        <li class='newsheadline'><a href="http://www.fotofest.org/2014biennial/workshops/" style="color:#9ff">2014 Workshops for Meeting Place Participants and the Public</a></li>
+                                        
+                                        
+
+                                           
+                                        <!-- li class='newsheadline'><a href="http://www.fotofest.org/success.htm" style="color:#9FF">Successes of the Meeting Place 2012</a></li -->					       
+								        </ul>
+									        
+								        </a></td>
+						            </tr>
+								    
+                    <!-- START QUICK LINKS -->
+                     	<tr>
+								      <td width="38" valign="top"><a href="news.asp"><span class="style1"><img src="images/spacer.gif" width="20" height="20" border="0"></span></a></td>
+								      <td width="260" valign="bottom"><p>&nbsp;</p>
+							          <p><strong style="font-size:16px; color:#FFF"><img border="0" src="http://www.fotofest.org/images/nav_quicklinks_lrg.jpg" width="132" height="20"></strong></p></td>
+					      <td width="231" valign="bottom"></td>
+									      
+						            </tr>
+								    <tr>
+								      <td height="8" colspan="4"></td>
+						            </tr>
+								    
+								    <tr>
+								      <td height="15">&nbsp;</td>
+								      <td height="15" colspan="3" valign="top">
+                                      <ul class='clsHomeFeaturedNews'>                                     
+                                      
+                                      
+                                      <li class='quicklink'><a href="http://literacythroughphoto.wix.com/fotofun2014" style="color:#c33">FOTOFUN 2014 - The Annual Fundraiser for Literacy Through Photography</a></li> 
+                                      <li class='quicklink'><a href="http://www.fotofest.org/firstlook" style="color:#c33">FIRST LOOK FotoFest's Collectors Group</a></li>                                 
+                                      <li class='quicklink'><a href="http://www.fotofest.org/submissions.htm" style="color:#c33">Submitting your artwork to FotoFest</a></li>
+								        </ul>
+									        
+								        </a></td>
+						            </tr>
+								    
+                    <!-- END QUICK LINKS -->
+								    <tr>
+                                       	<td colspan="4" height="10px">&nbsp;
+                                        </td>
+                                    </tr>
+								    <tr>
+						<td width="30" valign="top"><a href="news.asp"><span class="style1"><img src="images/spacer.gif" width="20" height="20" border="0"></span></a></td>
+						<td width="122" valign="bottom">&nbsp;</td>
+						<td width="139" valign="bottom"></td>
+					</tr>
+					
+				</table>									    
+								  </td>
+									<!--<td width="120px" style="width: 120px;" valign="top"><a href="ff2008/"><img src="images/ff_2008_lnk.gif" width="120" height="17" border="0"></a></td>-->
+								</tr>
+							</table>
+
+
+							<script type="text/javascript" language="javascript">writeFooter();</script>
+
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<p>&nbsp;</p>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.photofest.org/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/_home.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Hereford Photography Festival</title>
+<!-- InstanceEndEditable -->
+<link href="2011_new/css_2011/styles_2011.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" -->
+
+<meta name="Description" content="Hereford Photography Festival is the longest running annual Photography Festival in the UK it runs from Friday 28th October to Saturday 26th November 2011." />
+<meta name="Keywords" content="HPF, Hereford, Photography, Festival, Hereford UK, Photography Festival, Photofest," />
+
+<!--MODIFY CSS FOR THIS PAGE HERE-->
+
+<style type="text/css">
+<!--
+#main {
+	height: 850px;
+}
+
+.box_main {
+	height: 800px;
+}
+
+.paypal {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 60px;
+}
+
+#auction {
+	position: absolute;
+	right: 0;
+	top: 0;
+	display: block;
+	height: 200px;
+	width: 200px;
+	background: url(2011_new/graphics_2011/auction_banner.gif) no-repeat;
+	text-indent: -999em;
+	text-decoration: none;
+}
+.text_box h5 {
+	background-color: #B84045;
+	font-size: 1.4em;
+	color: #FFFFFF;
+	font-weight: bold;
+	padding: 10px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+.text_box h5 a:link, .text_box h5 a:visited {
+color: #FFFFFF;
+}
+.text_box h5 a:hover {
+	background-color: #B84045;
+}
+#paypal {
+	border: 3px solid #B84045;
+}
+
+-->
+</style>
+<!-- InstanceEndEditable -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24881707-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+
+<body>
+
+<div id="wrapper">
+  
+  <div id="header">
+  
+  
+<div class="rel1">	
+		<div class="logo"><a href="index.html"><img src="2011_new/graphics_2011/hpf_logo2.gif" alt="Hereford Photography Festival" width="261" height="146" border="0" /></a></div>
+<div class="box2">
+		  <div id="nav_list1">
+		    <ul>
+		      <li><a href="index.html">Home</a></li>
+	          <li><a href="2011_new/pages/about.html">About</a></li>
+		      
+		      <li><a href="2011_new/pages/map.html">Map</a></li>
+		      <li><a href="fringe/index.html">Fringe</a></li>
+              <li><a href="2011_new/pages/Festival_Exhibitions.html">Festival line-up</a></li>
+		    </ul>
+	      </div>
+          <div id="nav_list2">
+		    <ul>
+		      <li><a href="2011_new/pages/Press.html">Press </a></li>
+	          <li><a href="2011_new/pages/projects.html">Projects</a></li>
+		      <li><a href="2011_new/pages/events.html">Events</a></li>
+		      
+		      <li><a href="2011_new/join/friend-SignUp.html">Friends</a></li>
+              <li><a href="2011_new/pages/links.html">Links</a></li>
+		    </ul>
+	      </div>
+	  </div>
+    </div>
+  </div>
+  <div id="main">
+  <div class="rel2">
+    <div class="box_main">
+      <div class="text_box">
+	  <!-- InstanceBeginEditable name="text" -->
+     <!--<a id="auction" href="http://www.photofest.org/auction" title="TopRight">Bidding Now Open in the HPF Charity Print Auction</a>-->
+        
+        <h1>We would like to thank our audience and sadly confirm that due to funding cutbacks there will not be a festival in 2012 and that  the festival team  were made redundant in January 2012. </h1>
+        <h5>We would like to thank Caitlin, Jaime and Cai as well as Kirsty and Kerry our interns for producing what was acclaimed as two of the best of our 21 years of festivals and wish them well in their future work.</h5>
+        <p>HPF are delighted to announce that Simon Bainbridge, editor of <a href="http://www.bjp-online.com/" target="_blank">The British Journal of Photography</a> will curate the exhibition at Hereford Museum and Art Gallery this year.</p>
+	    <p>Time &amp; Motion Studies presents the works of five photographers, each the result of deliberate and sustained observation. But more than that, each employs a carefully thought-out strategy for their study, a methodology by which to transcribe and communicate ideas about the world, tackling subjects that aren’t always obviously photogenic. For the photographers in the exhibition, the ideas they are trying to communicate take prescience over aesthetic concerns, although these remain important, both in terms of engaging viewers and in contributing to the development of a wider photographic language. Photographers include Vanessa Winship, George Georgiou, Donald Weber, Robbie Cooper and Manuel Vasquez</p>
+	    <p>Simon said: “I was thrilled to be approached by Hereford Photography Festival who have such a great history of exhibiting international photographic work. I’m excited to be working with them in this their twenty-first year, on an exhibition that will respond to the idea of movement; this year’s festival theme. Work will focus on the strategies contemporary photographers employ to capture everyday life as it passes across their frame and photographers will be selected from the UK and throughout the world.”</p>
+	    <p>&nbsp;</p>
+	  <!-- InstanceEndEditable -->      </div>
+      
+      
+      <div id="image_box">
+	  
+	  <!-- InstanceBeginEditable name="image" -->
+      
+	  <span class="text_box"><br/>
+	    <a href="2011_new/pages/Festival_Exhibitions.html"><img src="2011_new/graphics_2011/images/HPF-posterx359x42.jpg" width="350" height="491" /></a>
+	    <p>photograph: Vanessa Winship</p>
+        
+      <div id="paypal">
+        <h3 align="center">There is now no office support for the festival </h3>
+        <h3 align="center">we are sorry if you have tried to make contact and have not had a reply </h3>
+      </div>
+	  </span>
+	  	  <!-- InstanceEndEditable -->      </div>
+    </div>
+    </div>
+  </div>
+  <!-- InstanceBeginEditable name="Links" -->
+  <div id="links">
+    <div class="rel3">
+     <!--Festival Guide-->
+      <div class="box5"> Become a friend of HPF</div>
+      
+      <div class="box6"> <a href="2011_new/pages/Festival_Exhibitions.html">See Festival Programme </a></div>
+      
+      <div class="box7"> <a href="2011_new/pages/events.html">HPF Seminar</a></div>
+      
+      <div class="box8"> Feel free to Contact us</div>
+      
+      <div class="box9">
+        <p>Latest News</p>
+        <ul>
+      
+      <li><a href="http://unlimitedphotography.co.uk" title="Unlimited Photography - Stock and Event Photography" target="_blank">- New stock and event photography website</a></li>
+      <!--<li><a href="http://www.facebook.com/photo.php?v=10150349496376792" target="_blank">- HPF on BBC Midlands Today</a></li>-->
+      <li><a href="2011_new/pages/map.html">-Map of Hereford Venues</a></li>
+      <li><a href="http://vimeo.com/31375589" target="_blank">- HPF &amp; RM Shoot-Out Film on our HCA Young persons photo comp</a></li>
+      <li></li>
+      <li></li>
+      </ul>
+      </div>
+      <div class="box10">
+        <p>Social Links</p>
+        <ul><li><a href="http://www.flickr.com/photos/herefordphotographyfestival" target="_blank"><img src="2011_new/graphics_2011/flickr.jpg" alt="Flickr" width="82" height="20" border="0" /></a></li>
+        <li><a href="http://twitter.com/#!/herefordphoto" target="_blank"><img src="2011_new/graphics_2011/twitterx20.jpg" alt="Twitter" width="82" height="20" border="0" /></a></li>
+        <li><a href="http://www.facebook.com/HerefordPhotoFest" target="_blank"><img src="2011_new/graphics_2011/facebookx20.jpg" alt="Facebook" width="82" height="20" border="0" /></a></li>
+        <li></li>
+        </ul>
+      </div>
+      <div class="twitter">
+      
+     <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 30,
+  interval: 6000,
+  width: 290,
+  height: 150,
+  theme: {
+    shell: {
+      background: '#624a3e',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#666266',
+      links: '#050505'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('herefordphoto').start();
+</script>
+      </div>
+      <div class="flickr">
+      <p><a href="http://www.flickr.com/photos/herefordphotographyfestival/" target="_blank">Flickr - Hereford Photography Festival</a></p>
+      
+      <script src="http://badge.dopiaza.org/flickr/badge.js?user=58985102@N05;num=12;tags=photofest;sort=date-posted-desc;style=flow-horizontal"></script>
+      
+      <!--<script src="http://badge.dopiaza.org/flickr/badge.js?user=58985102@N05;num=12;tags=photofest;sort=interestingness-desc;style=four-wide"></script>-->
+      
+      <!--<script src="http://badge.dopiaza.org/flickr/badge.js?set=72157628143109724;num=12;style=flow-horizontal"></script>-->
+      </div>
+    </div>
+  </div>
+  <!-- InstanceEndEditable -->
+  <div id="footer">
+    <div id="footer_ul1">    
+      <ul>
+      <li><a href="2010/index.html" target="_blank">2010</a></li>
+        <li><a href="2009/index.htm" target="_blank">2009</a></li>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="2011_new/pages/about.html">About</a></li>
+        
+        
+      </ul>
+    </div>
+    <div id="footer_ul2">    
+      <ul>
+        <li><a href="2011_new/join/index.php">Join</a></li>
+        <li><a href="2011_new/join/friend-SignUp.html">Friends</a></li>
+        <li><a href="2011_new/pages/OpenHere.html">Open Here</a></li>
+        <li><a href="2011_new/pages/projects.html">Projects</a></li>
+        
+        
+        
+      </ul>
+    </div>
+        <div id="footer_ul3">    
+      <ul>
+        
+        <li><a href="2011_new/pages/opportunities.html">Opportunities</a></li>
+        <li><a href="2011_new/join/join_database.html">Mailing List</a></li>
+        <li><a href="2011_new/pages/Education.html">Education</a></li>
+        <li><a href="2011_new/pages/links.html">Links</a></li>
+      </ul>
+    </div>
+    <div id="footer_ul4">    
+      <ul>
+        
+        <li><a href="http://www.facebook.com/HerefordPhotoFest" target="_blank">Facebook</a></li>
+        <li><a href="http://twitter.com/intent/user?screen_name=herefordphoto" target="_blank">Twitter</a></li>
+         <li><a href="http://www.flickr.com/photos/herefordphotographyfestival" target="_blank">Flickr</a></li>
+      </ul>
+    </div>
+    <div id="footer_ul5">    
+      <ul>
+        <li>Contact</li>
+        <li>Hereford Photography Festival        
+        <br />
+      Sullivan House<br />
+        72-80 Widemarsh Street<br />
+Hereford<br />
+HR4 9HG<br />
+<br />
++44(0)1432 351 964<br />
+<br />
+<a href="mailto: enquires@photofest.org.uk">enquiries@photofest.org</a></li>
+      </ul>
+    </div>
+    
+    
+    <div id="map"><img src="2011_new/graphics_2011/map.gif" alt="Location map of Hereford Photography Festival Offices" width="142" height="140" /></div>
+    
+    <div id="credits">Design by <a href="http://www.lukedesign.co.uk/" target="_blank">www.lukedesign.co.uk</a> <span class="float_right">Website by <a href="http://www.infinityunlimited.co.uk" target="_blank">www.infinityunlimited.co.uk</a></span></div>
+  </div>
+
+
+
+</div>
+
+
+
+</body>
+<!-- InstanceEnd --></html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.visapourlimage.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="content-language"
+                                    content="en" />
+        <meta http-equiv="language" content="en" />
+
+        <meta name="description"    content="The International Photojournalism Festival of Perpignan - Visa pour l&#34;Image" />
+        <meta name="keywords"       content="festival, photojournalism, reportage, international, photo, exposition,
+                                            perpignan, france, visa, image, press, world press, kodak, canon, paris match,
+                                            national, mairie de perpignan, roussillon, septembre, evenements, reporter,
+                                            journal, journalisme, languedoc, roussillon, pyr&#233;n&#233;es orientales,
+                                            association,smi" />
+        <meta name="robots"         content="All,index,follow" />
+        <meta name="author"         content="&#169; 2008 Visa pour l&#34;Image - http://www.visapourlimage.com"   />
+        <meta name="creator"        content="&#169; 2008 Us Media &#38; The Red Dot Agency" />
+
+        <meta name="copyright"      content="&#169; 2008 Visa pour l&#34;Image - http://www.visapourlimage.com"   />
+        <meta name="DC.title"       content=""  lang="en"/>
+        <meta name="DC.creator"     content="&#169; 2008 Us Media - http://www.usmedia.nl/" />
+        <meta name="DC.subject"     content="festival, photojournalism, reportage, international, photo, exposition,
+                                            perpignan, france, visa, image, press, world press, kodak, canon, paris match,
+                                            national, mairie de perpignan, roussillon, septembre, evenements, reporter,
+                                            journal, journalisme, languedoc, roussillon, pyr&#233;n&#233;es orientales,
+                                            association,smi" />
+        <meta name="DC.description" content="The International Photojournalism Festival of Perpignan - Visa pour l&#34;Image" />
+        <meta name="DC.publisher"   content="&#169; 2008 The Red Dot agency - http://www.thereddotagency.com/" />
+        <meta name="DC.contributor" content="&#169; 2008 Visa pour l&#34;Image - http://www.visapourlimage.com" />
+        <meta name="DC.language"    content="en" />
+        <meta name="DC.coverage"    content="World" />
+
+        <base href="http://www.visapourlimage.com/" />
+
+        <title>Visa pour l&#39;Image Perpignan 2014</title>
+            <link rel="stylesheet" href="./assets/css/import.css"     type="text/css" media="screen" charset="utf-8" />
+        <link rel="stylesheet" href="./content/css/import.css"     type="text/css" media="screen" charset="utf-8" />
+        <link rel="stylesheet" href="./assets/css/visa.print.css" type="text/css" media="print"  charset="utf-8" />
+        <link rel="stylesheet" href="./assets/css/dark.css" type="text/css" media="screen"  charset="utf-8" />
+
+        <!--[if IE]>
+        <link rel="stylesheet" type="text/css" href="./assets/css/visa.ie_legacy.css" media="screen, projection, print" />
+        <link rel="stylesheet" type="text/css" href="./content/css/visa.ie_legacy.css" media="screen, projection, print" />
+        <meta name="MSSmartTagsPreventParsing" content="true" />
+        <meta http-equiv="imagetoolbar" content="no" />
+        <![endif]-->
+
+        <script type="text/javascript" src="./content/js/jquery.js"></script>
+        <script type="text/javascript" src="./assets/js/jquery.lwtCountdown-1.0.js"></script>
+
+        <script type="text/javascript" src="./content/js/visa.loader.js"></script>
+        <script type="text/javascript" src="./assets/js/jquery.hoverIntent.minified.js"></script>
+        <script type="text/javascript" src="./assets/js/jquery.equalizeCols.js"></script>
+        <script type="text/javascript" src="./assets/js/jquery.jcarousel.pack.js"></script>
+        <script type="text/javascript" src="./assets/js/jquery.easing.1.3.js"></script>
+        <script type="text/javascript" src="./assets/js/jquery.easing.compatibility.js"></script>
+        <script type="text/javascript" src="./assets/js/swfobject.js"></script>
+        <script type="text/javascript" src="./assets/js/visa.jquery.js"></script>
+        <script type="text/javascript" src="./assets/js/visa.gallery.js"></script>
+</head>
+
+    <body id="home" class="en">
+    <!-- Container Begin -->
+        <div id="container">
+            <!-- Quicklinks Begin -->
+            <dl id="quicklinks">
+    <dt>Quick Links</dt>
+    <dd>
+        <ul>
+            <li><a href="./index.do"><span>Homepage</span></a></li>
+            <li><a href="./index.do#main_navigation"><span>Navigation</span></a></li>
+            <li><a href="./index.do#content"><span>To content</span></a></li>
+        </ul>
+    </dd>
+</dl><!-- Quicklinks End -->
+
+            <div id="logo">
+                <a href="./index.do">
+                    <img src="/content/logo.png"
+                         alt="Visa pour l&#39;Image Perpignan 2014"
+                         title="Visa pour l&#39;Image Perpignan 2014" />
+                </a>
+            </div>
+<div id="top_banner">
+                <h2>International festival of photojournalism</h2>      
+                <p>
+                                From <span>August 30 to September 14, 2014</span>
+                </p>
+                <p>
+                                Education week from <span>September 15 to 19</span>
+                </p>
+                <p>
+                                Screenings from <span>September 1 to 6</span>          
+                </p>
+                <p>
+                                Professional week from <span>September 1 to 7</span>
+                </p>
+</div><!-- div id="top_banner">
+                <a href="./subscription/form.do">
+                    <img src="./content/headers/en/banner_festival_2009.png"
+                         alt="International Festival of Photojournalism"
+                         title="International Festival of Photojournalism" />
+                </a>
+            </div -->
+
+            <!-- Language Begin -->
+            <dl id="languages">
+    <dt>Choose your preferred language</dt>
+    <dd>
+        <ul>
+            <li id="french"><a href="./switch?lang=fr_FR">Fran&#231;ais</a></li>
+            <li id="english" class="active"><a href="./switch?lang=en_GB">English</a></li>
+            <li id="spanish"><a href="./switch?lang=es_ES">Espa&#241;ol</a></li>
+            <li id="catalan"><a href="./switch?lang=ca_ES">Catal&#224;</a></li>
+        </ul>
+    </dd>
+</dl>
+<!-- Language End -->
+
+            <!-- Mainmenu Begin -->
+            <dl id="navigation">
+    <dt>Navigation</dt>
+    <dd>
+        <ul>
+            <li id="nav_home" class="active">
+        <a href="./index.do"><span>Home</span></a>
+
+                </li>
+<li id="nav_the_festival">
+        <a href="./festival.do"><span>The festival</span></a>
+                <ul>
+                    <li id="nav_exhibitions">
+        <a href="./festival/exhibitions.do"><span>Exhibitions</span></a>
+                    </li>
+<li id="nav_screenings">
+        <a href="./festival/screenings.do"><span>Screenings</span></a>
+                    </li>
+<li id="nav_meetings">
+        <a href="./festival/meetings.do"><span>Meetings</span></a>
+                    </li>
+<li id="nav_locations">
+        <a href="./festival/locations.do"><span>Locations</span></a>
+                    </li>
+<li id="nav_visa_awards">
+        <a href="./festival/awards.do"><span>Awards</span></a>
+                    </li>
+<li id="nav_education">
+        <a href="./festival/education.do"><span>Education</span></a>
+                    </li>
+<li id="nav_books">
+        <a href="./festival/books.do"><span>Books</span></a>
+                    </li>
+</ul>
+            </li>
+<li id="nav_professional_week">
+        <a href="./professional.do"><span>Professional week</span></a>
+                <ul>
+                    <li id="nav_about">
+        <a href="./professional/aboutpro.do"><span>About</span></a>
+                    </li>
+<li id="nav_accredation">
+        <a href="./subscription/form.do"><span>Accreditation</span></a>
+                    </li>
+<li id="nav_press_area">
+        <a href="./professional/press_area.do"><span>Press area</span></a>
+                    </li>
+<li id="nav_who">
+        <a href="./professional/who_is_in_perpignan.do"><span>Who is in Perpignan</span></a>
+                    </li>
+<li id="nav_participate">
+        <a href="./professional/how_to_participate.do"><span>How to participate</span></a>
+                    </li>
+</ul>
+            </li>
+<li id="nav_history">
+        <a href="./history.do"><span>History</span></a>
+            </li>
+<li id="nav_info_on_perpignan">
+        <a href="./info.do"><span>Info on Perpignan</span></a>
+                <ul>
+                    <li id="nav_perpignan_facts">
+        <a href="./info/perpignan_facts.do"><span>Perpignan facts</span></a>
+                    </li>
+<li id="nav_get_there">
+        <a href="./info/how_to_get_there.do"><span>How to get there</span></a>
+                    </li>
+<li id="nav_eat">
+        <a href="./info/where_to_eat.do"><span>Where to eat</span></a>
+                    </li>
+<li id="nav_stay">
+        <a href="./info/where_to_stay.do"><span>Where to stay</span></a>
+                    </li>
+</ul>
+            </li>
+</ul>
+    </dd>
+</dl>
+<div id="search">
+        <form id="global_search_form" method="get" action="./search.do">
+            <fieldset>
+                <input type="text" id="main_search" name="q" value="Search..." autocomplete="off"
+                       onfocus="if (this.value == 'Search...') this.value='';"
+                       onblur="if (this.value == '') this.value = 'Search...'" />
+
+            </fieldset>
+            <div class="button_container">
+                <input type="submit" value="search" />
+            </div>
+        </form>
+</div>            <!-- Mainmenu End -->
+
+            <!-- Content Begin -->
+            <div id="content">
+                <div class="columns_3_1">
+                <div class="column">
+    <div id="flash_homepage">
+    <img title="News" alt="News" src="/content/home/header.jpg">
+<!--
+    <img title="News" alt="News" src="./image?id=5440">
+-->
+       <!-- Countdown dashboard start -->
+		<!--div id="countdown_dashboard">
+			<div class="dash weeks_dash">
+				<span class="dash_title">weeks</span>
+				<div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+
+			<div class="dash days_dash">
+				<span class="dash_title">days</span>
+		    <div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+
+			<div class="dash hours_dash">
+				<span class="dash_title">hours</span>
+		    <div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+
+			<div class="dash minutes_dash">
+				<span class="dash_title">minutes</span>
+		    <div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+
+			<div class="dash seconds_dash">
+				<span class="dash_title">seconds</span>
+		    <div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+
+		</div-->
+		<!-- Countdown dashboard end -->
+<!--script language="javascript" type="text/javascript">
+			jQuery(document).ready(function() {
+				$('#countdown_dashboard').countDown({
+					targetDate: {
+						'day': 		27,
+						'month': 	8,
+						'year': 	2011,
+						'hour': 	9,
+						'min': 		0,
+						'sec': 		0
+					},
+		        omitWeeks: true
+		    });
+		});
+		</script-->
+<!-- <p>
+            You must have <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">Flash installed</a>
+            to use this functionality.
+        </p>
+        <p>
+            If you already have Flash installed please make sure that JavaScript is enabled.
+            For enabling JavaScript, please see your Web browser&#39;s Help.
+        </p> -->
+    </div>
+<style>
+.gallery_link li {
+  background: url(http://www.visapourlimage.com/content/home/gallery_link.png) no-repeat 0 2px;
+  list-style: none;
+  margin-bottom:0.2em;
+}
+.gallery_link li a {
+   padding-left: 20px;
+}
+.gallery_link li.active, .gallery_link li:hover {
+  background-position:0px -43px;  
+}
+.gallery_link li.active a {
+  color:#fff;
+}
+</style>
+<script type="text/javascript">
+  // <![CDATA[
+  //var galleries = new Array('video','pictures','tribute','awards','slideshow_2010');
+ var galleries = new Array('video','lucy-grand-rex','tribute','awards','slideshow_2010');
+
+  function getGallery(curGal) {
+    if (document.getElementById('gallery_' + curGal)) {
+	if (document.getElementById('gallery_' + curGal).className=="active") return false;
+	else {
+	  for (var i=0; i<galleries.length; i++) {
+	      if (document.getElementById('gallery_' + galleries[i])) {
+		if (galleries[i] != curGal) document.getElementById('gallery_' + galleries[i]).className="";
+		else document.getElementById('gallery_' + galleries[i]).className="active";
+              }
+	  }
+        }
+     }
+     if (curGal == 'video') {
+       so = new SWFObject("../../content/home/flv/videoplayer2.swf", "map", "715", "436", "8", "#000000");
+       so.addVariable("videoUrl", "visa_promo.flv");
+     }  
+     else if (curGal == 'video2') {
+       so = new SWFObject("../../content/home/flv/videoplayer2.swf", "map", "715", "436", "8", "#000000");
+       so.addVariable("videoUrl", "montage_nichols.flv");
+     } 
+     else if (curGal == 'video3') {
+       so = new SWFObject("../../content/home/flv/videoplayer2.swf", "map", "715", "436", "8", "#000000");
+       so.addVariable("videoUrl", "mitterrand_interview.flv");
+     }
+	 else if (curGal == 'gallery_slideshow_2010') {
+       so = new SWFObject("./assets/swf/slideshow.swf", "map", "715", "436", "8", "#000000");
+       so.addVariable("xmlUrl", "./content/xml/" + curGal + ".xml");
+     } 
+	 else {
+       so = new SWFObject("./assets/swf/slideshow.swf", "map", "715", "436", "8", "#000000");
+       so.addVariable("xmlUrl", "./content/xml/" + curGal + ".xml");
+     }
+     so.addParam("allowScriptAccess", "sameDomain");
+     so.addParam("allowFullScreen", "false");
+     so.addParam("quality", "high");
+     so.addParam("wmode", "transparent");
+//     so.write("flash_homepage");
+     return false;
+  }
+getGallery('video'); //comment this line to disable video onLoad
+
+// ]]>
+</script>
+</div><!--[if IE 7]>
+    <div></div>
+<![endif]-->
+<div class="column" id="home_intro">
+    <h1>Friends of Visa pour l'Image.</h1>
+    <p>Welcome to Visa pour l'Image, the premier International Festival of Photojournalism held in Perpignan, France. This festival is a unique event where you can join thousands of kindred spirits who share a love and passion for photography. View the greatest photojournalist work from around the world in exhibitions across the city. Experience the evening screenings in the dramatic open air medieval enclosure of the Campo Santo. Take part in symposiums and conferences and meet the foremost photo agencies and manufacturers of photographic related equipment. Explore the web site for full details.<br/>
+We look forward to welcoming you to Perpignan.
+</p>
+<P><A href="http://itunes.apple.com/app/visa-pour-limage/id327925902?mt=8"><IMG class=image0R title="Camper Trailer on App Store" alt="" src="./content/home/Camper-Trailer-on-App-Store.png" border=0></A></P>
+<p><A href="https://play.google.com/store/apps/details?id=com.didierv.visapourlimage&hl=fr"><IMG class=image0R title="Avaible on Android" alt=""
+ src="http://img11.hostingpics.net/thumbs/mini_355014Available.png" alt="Heberger image" /></a></p>
+
+
+</div><hr />
+    </div>
+
+    <div class="columns_4">
+           <div class="column">
+    <a href="./news/index.do"><img src="/content/home/teaser_news_2.jpg" alt="News" title="News" /></a>
+    <h2>News</h2>
+    <p>
+        Who is doing what and where?
+        Who is in town and what's on show?
+        The very latest news from the Association of Visa pour l'Image team based in Perpignan and Paris.
+    </p>
+  </div>
+  <div class="column">
+        <a href="./festival/exhibitions.do"><img src="/content/festival/festival_1_2.jpg" alt="" title="" /></a>
+        <h2>Exhibitions</h2>
+        <p>Exhibitions are open from August 31 to September 15, 2013. They present stories or anthologies of a photographer's work. See complete list of the exhibitions. </p>
+    </div><!--[if IE 7]>
+    <div></div>
+<![endif]-->
+<div class="column">
+            <a href="./festival/meetings/calendar.do"><img src="/content/home/calendar.jpg" alt="" title="" /></a>
+        <h2>Calendar</h2>
+        <p>During the professional week (September 2 to September 8) make sure to check the calendar every day for updates on events taking place at different venues in Perpignan.</p>     
+    <!--a href="./visa_dor_awards.do"> <img src="./content/festival/awards/teaser_awards.jpg" alt="Awards" title="Awards" /></a>
+<h2>Awards</h2>
+<p>The 2012 Arthus-Bertrand Visa d’or awards will go to the best reports published between September 2011 and August 2012.</p-->
+    </div>
+<div class="column">
+    <a href="./subscription/form.do">
+        <img src="./content/home/teaser_registration_2.jpg"
+             alt="Registration" title="Registration" />
+    </a>
+    <h2>Registration</h2>
+    <p>
+        Sign up now on line to get your accreditation when you arrive at Visa pour l&#39;Image.
+       All you have to do is collect your welcome pack at
+      the Palais des Congrès in Perpignan.
+    </p>
+</div><hr />
+<div class="columns_4" style="padding-left: 10px;">
+           <div class="column">
+                <div class="more">
+                    <a href="./news/index.do">More</a>	
+                </div>
+                </div>
+           <div class="column">
+               <div class="more">
+            <a href="./festival/exhibitions.do" >More</a>
+                </div>
+        </div>
+   
+           <div class="column">
+    <div class="more">
+            <a href="./festival/meetings/calendar.do" >More</a>
+        </div>       
+    </div>
+           <div class="column">
+    <div class="more">
+        <a href="./subscription/form.do">More</a>	
+    </div>
+    </div>
+    </div><hr /> <div class="column">
+    <a href="./blog/index.do">
+         <img src="/content/home/teaser_blog_2.jpg"
+              alt="Visa pour l&#39;Image Blog"
+              title="Visa pour l&#39;Image Blog" />
+    </a>
+    <h2>Visa pour l&#39;Image Blog</h2>
+    <p>
+        In September every year we meet in Perpignan. 
+        But the rest of the year we find ourselves around the world covering news events,
+        judging shows, and keeping our finger on the pulse of world events.
+    </p>
+</div>
+<div class="column">
+             <a href="./festival/screenings.do"><img src="/content/festival/festival_2_2.jpg" alt="" title="" /></a>
+        <h2>Screenings</h2>
+        <p>Campo Santo is the venue for the evening screenings. The program includes a chronological review of the news stories from the previous year, reports and features on social issues, war, stories that have made the news and others that have been kept quiet.</p>
+</div><div class="column">
+           <a href="./festival/meetings.do"><img src="./content/festival/festival_3_2.jpg" alt="" title="" /></a>
+        <h2>Meetings</h2>
+        <p>Perpignan is the place where professionals can discuss their problems, debating issues involved in producing and using pictures and the future of the profession. The symposium and "meet the photographer" sessions cover a wide range of questions.</p>
+    </div>
+<div class="column"><a href="./info/where_to_stay.do"><img src="/content/festival/festival_5.jpg" alt="" title="" /></a>
+  <h2>Where to stay</h2>
+  <p>Book early as the hotels do get very booked. Don't forget you can always hire a villa or apartment in or near the town. Beaches are only thirty minutes away by car and buses and trains run frequently.</p>
+</div><hr /><div class="columns_4" style="padding-left: 10px;">
+           <div class="column">
+     <div class="more">
+        <a href="./blog/index.do">More</a>	
+    </div>
+    </div>
+           <div class="column">
+     <div class="more">
+            <a href="./festival/screenings.do" >More</a>
+        </div>
+    </div>
+   
+        
+           <div class="column">
+     <div class="more">
+            <a href="./festival/meetings.do" >More</a>
+        </div>
+       
+    </div>
+           <div class="column">
+    <div class="more">
+            <a href="./info/where_to_stay.do">More</a>	
+        </div>
+    </div>
+    </div>
+ 
+
+    <hr/><hr />
+    </div>
+    <div style="display:none;">
+     <a href="/fr/">French</a>,
+     <a href="/es/">Spanish</a>,
+     <a href="/ca/">Catelan</a>,
+    </div>
+<hr/>
+<div id="sponsors_box">
+     <a  href="http://www.canon.com/"><img src="/content/sponsors/01.jpg" /></a>
+     <a href="http://www.paris-match.com/"><img src="/content/sponsors/02.jpg" /></a>
+     <a href="http://www.gettyimages.com/"><img src="/content/sponsors/03.jpg" /></a>
+     <a href="http://nationalgeographic.com/"><img src="/content/sponsors/04.jpg" /></a>
+     <a href="http://www.elle.com/"><img src="/content/sponsors/05.jpg" /></a>
+     <a href="http://www.photo.fr/"><img src="/content/sponsors/06.jpg" /></a>
+     <a  href="http://www.daysjapan.net/e/"><img src="/content/sponsors/07.jpg" /></a>
+     <a href="http://www.france24.com/"><img src="/content/sponsors/08.jpg" /></a>
+     <a href="http://www.rfi.fr/"><img src="/content/sponsors/09.jpg" /></a>
+     <a href="http://www.citroen.fr/"><img src="/content/sponsors/10.jpg" /></a>
+</div>
+<hr/>
+<style>
+#sponsors_box {
+	width:950px;
+	padding: 0 0px 0px 0px;
+	height: 70px;
+	background-color:#fff;
+	margin-top: 10px;
+}
+	#sponsors_box img {
+		margin: 10px 0px 0px 0px;
+                height:48px;
+                
+	}
+</style></div>
+            <!-- Content End -->
+
+            <hr />
+        </div>
+        <!-- Container End -->
+
+        <!-- Footer Begin -->
+        <dl id="footer">
+    <dt>Footer</dt>
+    <dd>
+        <ul>
+            <li id="nav_sponsors"><a href="./sponsors.do"><span>Sponsors</span></a></li>
+            <li id="nav_credits"><a href="./credits.do"><span>Credits</span></a></li>
+            <li id="nav_contact"><a href="./contact.do"><span>Contact</span></a></li>
+<li id="back_to_top"><a href="./index.do#content"><span>Back to top</span></a></li>
+        </ul>
+
+        <div><span>&#169; Visa pour l&#39;Image 2014</span></div>
+    </dd>
+</dl><!-- Footer End -->
+
+        <!-- Google Analytics Begin -->
+        <script type="text/javascript">
+    // <![CDATA[
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    // ]]>
+    </script>
+    <script type="text/javascript">
+    // <![CDATA[
+        var pageTracker = _gat._getTracker("UA-4766472-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+    // ]]>
+    </script>
+<!-- Google Analytics End -->
+    </body></html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.eddieadamsworkshop.com/>====================
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+	
+	<meta charset="UTF-8" />
+	
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame - Remove this if you use the .htaccess -->
+  	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  	<!-- Mobile viewport optimized: j.mp/bplateviewport -->
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Eddie Adams Workshop | The premier tuition-free photography experience. Building an elite photojournalism community for 25 years,          100 students at a time</title>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+	
+	<link rel="stylesheet" type="text/css" href="http://www.eddieadamsworkshop.com/wp-content/themes/buro/style.css" media="screen" />
+	<link rel="pingback" href="http://www.eddieadamsworkshop.com/xmlrpc.php" />
+
+	<link rel="alternate" type="application/rss+xml" title="Eddie Adams Workshop &raquo; Feed" href="http://www.eddieadamsworkshop.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Eddie Adams Workshop &raquo; Comments Feed" href="http://www.eddieadamsworkshop.com/comments/feed/" />
+<script type='text/javascript' src='http://www.eddieadamsworkshop.com/wp-includes/js/jquery/jquery.js?ver=1.7.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woo_slider_settings = {"speed":"5","auto":"6","effect":"slide","nextprev":"true","pagination":"true","hoverpause":"true","autoheight":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.eddieadamsworkshop.com/wp-content/themes/buro/includes/js/general.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://www.eddieadamsworkshop.com/wp-content/themes/buro/includes/js/html5.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://www.eddieadamsworkshop.com/wp-content/themes/buro/includes/js/jquery.fitvids.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://www.eddieadamsworkshop.com/wp-content/themes/buro/includes/js/slides.min.jquery.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://www.eddieadamsworkshop.com/wp-content/themes/buro/includes/js/feedback.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://www.eddieadamsworkshop.com/wp-content/themes/buro/includes/js/jquery.flexslider-min.js?ver=3.3.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.eddieadamsworkshop.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.eddieadamsworkshop.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.3.1" />
+
+<!-- Theme version -->
+<meta name="generator" content="Buro 1.1.9" />
+<meta name="generator" content="WooFramework 5.1.3" />
+	<!-- Woo Custom Styling -->
+<style type="text/css">
+#content-wrapper {background:#2e2d2e}
+</style>
+
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=Droid+Serif:r,b,i,bi|Droid+Sans:r,b" rel="stylesheet" type="text/css" />
+
+<!-- Woo Custom Typography -->
+<style type="text/css">
+body { font:normal 12px/1.5em Arial, sans-serif;color:#c9c9c9; }
+nav, nav .nav a { font:normal 14px/1.4em Arial, sans-serif;color:#c9c9c9; }
+article .title, article .title a, #slides .slide-content h2 a { font:bold 24px/1em Arial, sans-serif;color:#c9c9c9; }
+.post-meta { font:normal 12px/1em Arial, sans-serif;color:#999999; }
+.entry, .entry p { font:normal 14px/1.5em Arial, sans-serif;color:#c9c9c9; } h1, h2, h3, h4, h5, h6 { font-family: Arial, sans-serif, arial, sans-serif; }
+.widget h3 { font:bold 18px/1em Arial, sans-serif;color:#c9c9c9; }
+</style>
+
+<!-- Alt Stylesheet -->
+<link href="http://www.eddieadamsworkshop.com/wp-content/themes/buro/styles/default.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Favicon -->
+<link rel="shortcut icon" href="http://66.147.244.214/~eddieada/wp-content/uploads/2012/01/favicon.ico"/>
+
+<!-- Options Panel Custom CSS -->
+<style type="text/css">
+header nav  { float: left; margin: 0px 0 0; }
+header nav.too-wide  { margin-top: 30px!important; width: 100%; }
+header .nav  {
+	width: 98.5%;
+	z-index:99; margin:0; padding: 5px; list-style:none; line-height:1; font-size: 1em; font-weight: bold; /* 14 / 14 = 1 */
+	/*background: #1f1b1a; / Old browsers /
+	 background: #1f1b1a; / FF3.6+ /
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1f1b1a), color-stop(76%,#332e28)); / Chrome,Safari4+ /
+	background: -webkit-linear-gradient(top, #1f1b1a 0%,#332e28 76%); / Chrome10+,Safari5.1+ /
+	background: -o-linear-gradient(top, #1f1b1a 0%,#332e28 76%); / Opera11.10+ /
+	background: -ms-linear-gradient(top, #1f1b1a 0%,#332e28 76%); / IE10+ /
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1f1b1a', endColorstr='#332e28',GradientType=0 ); / IE6-9 /
+	background: linear-gradient(top, #1f1b1a 0%,#332e28 76%); / W3C /
+	border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px;
+	box-shadow: 0 1px 0 rgba(255,255,255,0.2), 0 0 1px rgba(255,255,255,0.1);
+	-moz-box-shadow: 0 1px 0 rgba(255,255,255,0.2), 0 0 1px rgba(255,255,255,0.1);
+	-webkit-box-shadow: 0 1px 0 rgba(255,255,255,0.2), 0 0 1px rgba(255,255,255,0.1);*/
+}
+header .nav a  {
+	background: #211e1c; /* Old browsers */
+	background: #2B2B2B; /* FF3.6+ */
+	background: #2B2B2B; /* Chrome,Safari4+ */
+	background: #2B2B2B; /* Chrome10+,Safari5.1+ */
+	background:#2B2B2B; /* Opera11.10+ */
+	background: #2B2B2B; /* IE10+ */
+	 /* IE6-9 */
+	background: #2B2B2B; /* W3C */
+	border-top: 1px solid rgba(255,255,255,0.15);
+	border-left: 1px solid rgba(255,255,255,0.15);
+	border-bottom: 1px solid rgba(0,0,0,0.7);
+	border-right: 1px solid rgba(0,0,0,0.7);
+ }
+header .nav li:first-child a  { border-left: none; border-radius: 4px 0 0 4px; -moz-border-radius: 4px 0 0 4px; -webkit-border-radius: 4px 0 0 4px; }
+header .nav li:last-child a  { border-right: none; border-radius: 0 4px 4px 0; -moz-border-radius: 0 4px 4px 0; -webkit-border-radius: 0 4px 4px 0; }
+header .nav li a.sf-with-ul { padding-right:20px; }
+
+header .nav a:hover, header .nav li.sfHover > a  { color: #fff; }
+header .nav li.current_page_item a, 
+header .nav li.current_page_parent a,
+header .nav li.current-menu-ancestor a,
+header .nav li.current-cat a,
+header .nav li.current-menu-item a {
+	color: #fff;
+	background: #6F6F6F; /* Old browsers */
+	background: #6F6F6F; /* FF3.6+ */
+	background: #6F6F6F; /* Chrome,Safari4+ */
+	background: #6F6F6F; /* Chrome10+,Safari5.1+ */
+	background: #6F6F6F; /* Opera11.10+ */
+	background: #6F6F6F; /* IE10+ */
+	/* IE6-9 */
+	background: #6F6F6F; /* W3C */
+	border-bottom: 1px solid rgba(0,0,0,0.7);
+	text-shadow: -1px -1px 0 rgba(0,0,0,0.7);
+</style>
+
+<!-- Woo Shortcodes CSS -->
+<link href="http://www.eddieadamsworkshop.com/wp-content/themes/buro/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="http://www.eddieadamsworkshop.com/wp-content/themes/buro/custom.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body class="home blog chrome layout-left-content">
+
+<div id="wrapper">
+	
+	<div id="content-wrapper">
+
+	
+	<header class="col-full fix">
+
+		<div id="logo">
+
+					<a href="http://www.eddieadamsworkshop.com/" title="The premier tuition-free photography experience. Building an elite photojournalism community for 25 years,          100 students at a time">
+				<img src="http://www.eddieadamsworkshop.com/wp-content/uploads/2012/01/EAW_TopNav_Nameplate-1.png" alt="Eddie Adams Workshop" />
+			</a>
+        
+		<h1 class="site-title"><a href="http://www.eddieadamsworkshop.com/">Eddie Adams Workshop</a></h1>
+		<span class="site-description">The premier tuition-free photography experience. Building an elite photojournalism community for 25 years,          100 students at a time</span>
+
+		</div><!-- /#logo -->
+		
+		<nav>
+			<ul id="main-nav" class="nav fl"><li id="menu-item-257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-257"><a href="http://www.eddieadamsworkshop.com/about/">About the Eddie Adams Workshop</a>
+<ul class="sub-menu">
+	<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="http://www.eddieadamsworkshop.com/contact/">Contact</a></li>
+	<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="http://www.eddieadamsworkshop.com/board-of-directors/">Board of Directors</a></li>
+	<li id="menu-item-261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261"><a href="http://www.eddieadamsworkshop.com/black-team/">Black Team</a></li>
+	<li id="menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-372"><a href="http://www.eddieadamsworkshop.com/notable-alumni/">Notable Alumni</a></li>
+	<li id="menu-item-421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421"><a href="http://www.eddieadamsworkshop.com/accepted-students-barnstorm-class-of-xxv/">Class of XXV</a></li>
+	<li id="menu-item-541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541"><a href="http://www.eddieadamsworkshop.com/class-of-xxvi/">Class of XXVI</a></li>
+</ul>
+</li>
+<li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="http://www.eddieadamsworkshop.com/apply/">Apply</a></li>
+<li id="menu-item-256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256"><a href="http://www.eddieadamsworkshop.com/who-is-eddie-adams/">Who is Eddie Adams?</a></li>
+<li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="http://www.eddieadamsworkshop.com/sponsors/">Sponsors</a></li>
+<li id="menu-item-338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-338"><a href="http://eddieadamsworkshop.tumblr.com/">Blog</a></li>
+<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.eddieadamsworkshop.com/multimedia/">Multimedia</a>
+<ul class="sub-menu">
+	<li id="menu-item-478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-478"><a href="http://www.eddieadamsworkshop.com/2012-xxv-barnstorm-multimedia/">2012 XXV Barnstorm Multimedia</a></li>
+	<li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="http://www.eddieadamsworkshop.com/2011-barnstorm-xxiv-multimedia/">2011 Barnstorm XXIV Multimedia</a></li>
+	<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452"><a href="http://www.eddieadamsworkshop.com/2010-barnstorm-xxiii-multimedia/">2010 Barnstorm XXIII Multimedia</a></li>
+	<li id="menu-item-451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a href="http://www.eddieadamsworkshop.com/2009-barnstorm-xxii-multimedia/">2009 Barnstorm XXII Multimedia</a></li>
+</ul>
+</li>
+</ul>		
+		</nav>
+			
+	</header>
+    <div id="content" class="col-full">
+    
+    	
+    
+	<div id="slides">
+	    <ul class="slides fix">
+	        
+	                
+	            
+	            <li id="slide-1" class="slide slide-id-502">
+	        		
+	        		<div class="slide-img">
+	    	    		<img src="http://www.eddieadamsworkshop.com/wp-content/themes/buro/functions/thumb.php?src=wp-content/uploads/2013/04/EAW_Nikon-Panel_130402.jpg&amp;w=1180&amp;h=&amp;zc=1&amp;q=90" alt="" class="woo-image slide-image"  width="1180"  />	    	    	</div>
+	    	    	
+	    	    	<div class="slide-content">
+	    	    	
+	    	    		<h2 class="title">
+	    	    		</h2>
+	       		     		
+	       		     	<div class="entry">
+	           		     							</div>
+	    	    	
+	    	    	</div>
+	            	
+	            </li><!--/.slide-->
+	            
+			    
+	            
+	            <li id="slide-2" class="slide slide-id-465">
+	        		
+	        		<div class="slide-img">
+	    	    			    	    		<a href="http://www.eddieadamsworkshop.com/black-team/" title="">
+	    	    		<img src="http://www.eddieadamsworkshop.com/wp-content/uploads/2012/10/Screen-Shot-2012-10-11-at-6.48.30-PM1-1180x737.png" alt=""  width="1180"  class="woo-image slide-image" />	    	    		</a>
+	    	    			    	    	</div>
+	    	    	
+	    	    	<div class="slide-content">
+	    	    	
+	    	    		<h2 class="title">
+	    	    			    	    		<a href="http://www.eddieadamsworkshop.com/black-team/" rel="bookmark"  title=""></a></h2>
+	       		     		
+	       		     	<div class="entry">
+	           		     							</div>
+	    	    	
+	    	    	</div>
+	            	
+	            </li><!--/.slide-->
+	            
+			 
+			
+	    </ul><!-- /.slides -->
+	    
+	</div><!-- /#slides -->
+
+
+
+	  
+<script type="text/javascript">
+   jQuery(window).load(function() {
+   	jQuery('#slides').flexslider({
+   		animation: "fade",
+   		directionNav: false,
+   		pauseOnHover: true,
+   		   		slideshowSpeed: 5 * 1000,
+   		   		animationDuration: 0.6 * 1000
+   	});
+   	jQuery('#slides').addClass('loaded');
+   });
+</script>    	
+    	    	
+    	    	
+    	<div id="home-widgets" class="fix">
+	    	<div id="home-widgets-left">
+    		<div id="text-4" class="widget widget_text">			<div class="textwidget"><p><html></p>
+<h3>
+Celebrate Twenty-Seven Incredible Years</h3>
+<p> </html><br />
+The Eddie Adams Workshop is an intense four-day gathering of the top photography professionals, along with 100 carefully selected students. The photography workshop is tuition-free, and the 100 students are chosen based on the merit of their portfolios.<br />
+<br></p>
+</div>
+		</div><div id="woo_twitter-5" class="widget widget_woo_twitter"><h3>Twitter</h3><div class="back"><ul id="twitter_update_list_woo_twitter-5"><li></li></ul>
+			<p>Follow <a href="http://twitter.com/EAWorkshop"><strong>@EAWorkshop</strong></a> on Twitter</p></div><div class="clear"></div>	<script type="text/javascript">
+	<!--//--><![CDATA[//><!--
+
+	    function twitterCallback2(twitters) {
+
+	      var statusHTML = [];
+	      for (var i=0; i<twitters.length; i++){
+	        var username = twitters[i].user.screen_name;
+	        var status = twitters[i].text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function(url) {
+	          return '<a href="'+url+'">'+url+'</a>';
+	        }).replace(/\B@([_a-z0-9]+)/ig, function(reply) {
+	          return  reply.charAt(0)+'<a href="http://twitter.com/'+reply.substring(1)+'">'+reply.substring(1)+'</a>';
+	        });
+	        statusHTML.push( '<li><span class="content">'+status+'</span> <a style="font-size:85%" class="time" href="http://twitter.com/'+username+'/statuses/'+twitters[i].id_str+'">'+relative_time(twitters[i].created_at)+'</a></li>' );
+	      }
+	      document.getElementById( 'twitter_update_list_woo_twitter-5').innerHTML = statusHTML.join( '' );
+	    }
+
+	    function relative_time(time_value) {
+	      var values = time_value.split( " " );
+	      time_value = values[1] + " " + values[2] + ", " + values[5] + " " + values[3];
+	      var parsed_date = Date.parse(time_value);
+	      var relative_to = (arguments.length > 1) ? arguments[1] : new Date();
+	      var delta = parseInt((relative_to.getTime() - parsed_date) / 1000);
+	      delta = delta + (relative_to.getTimezoneOffset() * 60);
+
+	      if (delta < 60) {
+	        return 'less than a minute ago';
+	      } else if(delta < 120) {
+	        return 'about a minute ago';
+	      } else if(delta < (60*60)) {
+	        return (parseInt(delta / 60)).toString() + ' minutes ago';
+	      } else if(delta < (120*60)) {
+	        return 'about an hour ago';
+	      } else if(delta < (24*60*60)) {
+	        return 'about ' + (parseInt(delta / 3600)).toString() + ' hours ago';
+	      } else if(delta < (48*60*60)) {
+	        return '1 day ago';
+	      } else {
+	        return (parseInt(delta / 86400)).toString() + ' days ago';
+	      }
+	    }
+	//-->!]]>
+	</script>
+	<script type="text/javascript" src="http://api.twitter.com/1/statuses/user_timeline/EAWorkshop.json?callback=twitterCallback2&amp;count=6&amp;include_rts=t"></script>
+	</div>    	</div><!-- /#home-widgets-left -->
+    	    	<div id="home-widgets-right" class="fix">
+    		<div id="text-3" class="widget widget_text"><h3>2014 Key Dates</h3>			<div class="textwidget"><p>March 1:  Application Process Opens<br />
+May 31:  Applications Due<br />
+July:  Student Selection<br />
+October 10-13:  Eddie Adams Workshop</p>
+</div>
+		</div><div id="text-7" class="widget widget_text">			<div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FEddieAdamsWorkshop&amp;width=317&amp;height=558&amp;colorscheme=dark&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=false&amp;appId=226939957333096" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:317px; height:558px;" allowTransparency="true"></iframe></div>
+		</div>    	</div><!-- /#home-widgets-righ -->
+    	</div><!-- /#home-widgets -->    	
+    	
+    </div><!-- /#content -->
+		
+</div><!-- /#content-wrapper -->
+
+	    
+    <footer class="col-full">
+    
+    	<div>
+			
+				    		
+				<p><span>&copy; 2014 Eddie Adams Workshop All Rights Reserved. ~ <a href="mailto:info@woothemes.com" title="Email Buro">info@woothemes.com</a> ~ Powered by <a href="http://www.wordpress.org">WordPress</a>. Designed by <a href="http://www.woothemes.com"><img src="http://www.eddieadamsworkshop.com/wp-content/themes/buro/images/woothemes.png" width="74" height="19" alt="Woo Themes" /></a></p>
+			
+				    				
+		</div>
+		
+    </footer>
+
+</div><!-- /#wrapper -->
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.scotiabankcontactphoto.com/>====================
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="revisit-after" content="3 days" /> 
+    <meta name="robots" content="index, follow" /> 
+    <meta name="language" content="en-gb" /> 
+    <meta name="country" content="Canada" /> 
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <meta name="copyright" content="2014" /> 
+    <meta name="company" content="Scotiabank CONTACT photography festival" /> 
+    <meta name="description" content="The largest photography event in the world, is devoted to celebrating, and fostering an appreciation of the art and the profession of photography. CONTACT is held annualy throughout May across the Greater Toronto Area. Includes over 1000 local, national and international artists at over 200 venues. 
+    ">  
+    <meta name="keywords" content="scotiabank, contact photography festival, festival, photography, toronto, photo,
+    Edward burtynsky, Mocca, Royal Ontario museum, Portfolio reviews, Magnum, Camera, Suzy lake, Utac, McLuhan, Public installation, Billboards, Pattison, One stop, Landscape, Figure and ground, AGO, Museum of contemporary Canadian art, Magnum worship, Gladstone hotel, Festival of lights, Tvo, Films on photography, Contact gallery, Curated, Design exchange, Scotiabank photography award, Bmw exhibition prize, Stephen Bulger " />
+    <meta name="author" content="Scotiabank CONTACT Festival">  
+
+    <title>Scotiabank CONTACT Photography Festival</title>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" href="http://scotiabankcontactphoto.com/assets/cache/css_screen_3311b3a4_287bcf01_edec9b16.php" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://scotiabankcontactphoto.com/assets/cache/css_print_5279713f_287bcf01_79f18340.php" type="text/css" media="print" />
+ 
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="/assets/css/font-awesome-ie7.min.css">
+    <![endif]-->
+
+    <script src="/assets/js/modernizr-1.6.min.js?>"></script> 
+
+    
+         
+     
+
+</head>
+
+<body> 
+    <div id='searchbar'>
+    <form action="/search" method='get' name="search">
+        <label for='searchterms'>Search Here</label>
+        <input type="search" placeholder='Search Here' name='q' id='searchterms'/>
+    </form>
+</div>   
+
+<div id="secondarylinks">
+    <ul>
+
+                                                                        <li><a href='/login'>Login</a></li>
+                                    <li><a href='/press'>Press Area</a></li>
+                                    
+                                    
+                                     
+</ul></div> 
+
+<div id="container">
+
+
+
+   <div id="header">  
+    <div id='identity'>
+        <a name='identity' href="http://scotiabankcontactphoto.com/" id="logo"><h1>Scotiabank Contact Photography Festival</h1></a> 
+        <div id="theme" ></div>    
+    </div> 
+    <div id="nav" > <ul class="section ">
+        <li class="sectiontitle">2014 Festival </li>
+  
+	
+			<li >			
+							<a href="festival-theme">Festival Theme</a>					
+					</li>
+			<li >			
+							<a href="portfolio-reviews">Portfolio Reviews</a>					
+					</li>
+			<li >			
+							<a href="openregistration">Open Exhibitions</a>					
+					</li>
+			<li >			
+							<a href="FAQ">FAQ</a>					
+					</li>
+	</ul>
+<ul class="section ">
+        <li class="sectiontitle">About Us </li>
+  
+	
+			<li >			
+							<a href="contactgallery">CONTACT Gallery</a>					
+					</li>
+			<li >			
+							<a href="festival-info">Overview</a>					
+					</li>
+			<li >			
+							<a href="team-info">Team</a>					
+					</li>
+			<li >			
+							<a href="contact-us">Contact Us</a>					
+					</li>
+			<li >			
+							<a href="store">Print Sales</a>					
+					</li>
+			<li >			
+							<a href="Gallery">Gallery</a>					
+					</li>
+	</ul>
+<ul class="section ">
+        <li class="sectiontitle">Supporters </li>
+  
+	
+			<li >			
+							<a href="sponsors">Sponsors</a>					
+					</li>
+			<li >			
+							<a href="partners">Partners</a>					
+					</li>
+			<li >			
+							<a href="scotiabank-message">Scotiabank</a>					
+					</li>
+			<li >			
+							<a href="BMW-Prize">BMW</a>					
+					</li>
+			<li >			
+							<a href="nikon">Nikon</a>					
+					</li>
+			<li >			
+							<a href="cabinet-of-donors">Cabinet of Donors</a>					
+					</li>
+	</ul>
+<ul class="section last">
+        <li class="sectiontitle">Archives </li>
+  
+	
+			<li >			
+							<a href="http://2013.scotiabankcontactphoto.com">2013</a>					
+					</li>
+			<li >			
+							<a href="http://2012.scotiabankcontactphoto.com">2012</a>					
+					</li>
+			<li >			
+							<a href="http://2011.scotiabankcontactphoto.com">2011</a>					
+					</li>
+			<li >			
+							<a href="http://2010.scotiabankcontactphoto.com/">2010</a>					
+					</li>
+			<li >			
+							<a href="http://2009.scotiabankcontactphoto.com">2009</a>					
+					</li>
+	</ul>
+
+
+ </div> 
+</div>
+
+    <div id="social">
+        <div  class="socialcontainer">
+	<a href="http://www.facebook.com/CONTACTPhotography" class='icon-facebook'></a>
+</div>
+
+<div  class="socialcontainer">
+	<a href="https://twitter.com/#!/contactphoto" class='icon-twitter'></a>
+</div>
+
+<div  class="socialcontainer">
+	<a href="http://contactphoto.tumblr.com" class='icon-tumblr'></a>
+</div>
+
+<div id="mailinglistbtn" class="socialcontainer"  >
+	<a href="#" class='icon-envelope' name='mailer_signup'></a>
+	<div id="mailer_signup" class="">
+
+<div id="tail"></div>
+
+<div id="fcontainer" class="">
+
+<form action="http://scotiabankcontactphoto.com/subscribe/optin" method="post" accept-charset="utf-8" id="subscribeform">
+
+	<label for="email">Join Our Mailing list</label>
+	<input type="email"  name="email_address" value="" placeholder="Email" id='emailinput' />
+	<button type="submit" value="Join" id='emailsubmit' class='icon-caret-right' ></button>
+
+</form>
+
+</div>
+
+
+</div>
+	</div>	    </div>
+
+<div class='content' id='content'>
+    
+
+
+    <div id="features" class='row'>
+
+	
+		<ul class='slides'>
+							<li class="slide">
+					<div class='inner'><img src='/files/images/4253_IRW08751WEB2_med.jpg' width="680" height="454" alt='Ian Willms, from the series "The Road to Nowhere", 2012-2013'/></div>					<span class="caption">
+    					Ian Willms, <em>from the series "The Road to Nowhere"</em>, 2012-2013					</span>
+                    <div class='details'>
+                        <div class='blockwrap'>
+					   <!-- <div class='category'></div>  -->
+                        <h1>The Road<br> to Nowhere<br>Ian Willms</h1>
+                        <p class='subtitle'><span><br>
+CONTACT Gallery until March 7 2014<br>
+</span></p>
+												<p class="link">
+							<a href="http://scotiabankcontactphoto.com/contactgallery" class="button">Read More&#9654;</a>	
+                        </p>
+						                        </div>
+					</div>
+				</li>					
+							<li class="slide">
+					<div class='inner'><img src='/files/images/4543_meryl_med.jpg' width="680" height="454" alt='Meryl McMaster, Aphoristic Currents, 2013. Digital C-print'/></div>					<span class="caption">
+    					Meryl McMaster, <em>Aphoristic Currents</em>, 2013. Digital C-print					</span>
+                    <div class='details'>
+                        <div class='blockwrap'>
+					   <!-- <div class='category'></div>  -->
+                        <h1>CONTACT 2014 Festival Launch </h1>
+                        <p class='subtitle'><span><br>Join us on <br>
+May 2, 7pm<br>
+to celebrate the Festival at the Museum of Contemporary Canadian Art</span></p>
+						                        </div>
+					</div>
+				</li>					
+							<li class="slide">
+					<div class='inner'><img src='/files/images/4540_RH120626_SP1710_ConstructionC_med.jpg' width="535" height="440" alt='Rob Hornstra, Coastal Cluster at Black Sea, Adler, Russia, 2011'/></div>					<span class="caption">
+    					Rob Hornstra, <em>Coastal Cluster at Black Sea, Adler, Russia</em>, 2011, © Rob Hornstra / Flatland Gallery. From: An Atlas of War and Tourism in the Caucasus (Aperture, 2013), Organized by Aperture Foundation, New York and The Sochi Project.					</span>
+                    <div class='details'>
+                        <div class='blockwrap'>
+					   <!-- <div class='category'></div>  -->
+                        <h1>CONTACT 2014<br>Upcoming Exhibition</h1>
+                        <p class='subtitle'><span><br>
+The Sochi Project: An Atlas of War + Tourism in the Caucasus<br>by Rob Hornstra + Arnold van Bruggen</span></p>
+						                        </div>
+					</div>
+				</li>					
+							<li class="slide">
+					<div class='inner'><img src='/files/images/4541_for_website2_Cooper_Johana_Foamz_med.jpg' width="714" height="460" alt='James Cooper, Johana Foamz, 2008'/></div>					<span class="caption">
+    					James Cooper, <em>Johana Foamz</em>, 2008, digital photograph, Organized with Wedge Curatorial Projects, Robert & Christopher Publishers and presented with The Power Plant					</span>
+                    <div class='details'>
+                        <div class='blockwrap'>
+					   <!-- <div class='category'></div>  -->
+                        <h1>CONTACT 2014<br>Upcoming Exhibition</h1>
+                        <p class='subtitle'><span><br>
+Pictures from Paradise:<br>A Survey of Contemporary Caribbean Photography</span></p>
+						                        </div>
+					</div>
+				</li>					
+							<li class="slide">
+					<div class='inner'><img src='/files/images/4542_tatanka_for_web_med.jpg' width="576" height="433" alt='Dana Claxton, Tatanka , 2013'/></div>					<span class="caption">
+    					Dana Claxton, <em>Tatanka </em>, 2013					</span>
+                    <div class='details'>
+                        <div class='blockwrap'>
+					   <!-- <div class='category'></div>  -->
+                        <h1>CONTACT 2014<br>Upcoming Public Installation</h1>
+                        <p class='subtitle'><span><br>Indian Candy<br>by Dana Claxton</span></p>
+						                        </div>
+					</div>
+				</li>					
+							<li class="slide">
+					<div class='inner'><img src='/files/images/4544_SPAStanDouglasLrg_med.jpg' width="681" height="454" alt='Stan Douglas, Kung-Fu Fighting,  1975, 2012'/></div>					<span class="caption">
+    					Stan Douglas, <em>Kung-Fu Fighting</em>,  1975, 2012, digital C-print mounted on Dibond,  Courtesy the artist and David Zwirner, New York, London, and Victoria Miro, London					</span>
+                    <div class='details'>
+                        <div class='blockwrap'>
+					   <!-- <div class='category'></div>  -->
+                        <h1>Scotiabank Photography Award<br> Stan Douglas</h1>
+                        <p class='subtitle'><span><br>
+Presented by Scotiabank<br>
+Organized by the Ryerson Image Centre<br>
+May 1 - June 1, 2014</span></p>
+						                        </div>
+					</div>
+				</li>					
+				
+		</ul>
+    </div>
+      
+    <div id='news' class='band'>
+        <div class="headline">
+	<div class="blockwrap">
+		<h1 class='title'>
+			<span class="title">News</span>
+		</h1>
+	</div>
+	</div>
+
+<div class="pagecontent" id="newsfeed">
+	<ul class='slides'>
+		<li>
+
+		 
+			
+		<div class="newscell">			
+						<!-- <span class='date'>2 years ago</span> -->
+			<span class="newstitle">2014 Festival Information</span>
+			<span class="desc">Complete information about CONTACT 2014 exhibitions, events, and other programs, will be available online April 1.</span>			
+				
+		</div>
+
+
+		
+		<div class="newscell">			
+			<!-- <a href="http://portfolios.scotiabankcontactphoto.com/">-->			<!-- <span class='date'>2 years ago</span> -->
+			<span class="newstitle">CONTACT Portfolio Reviews Registration is Now Open</span>
+			<span class="desc">This programme provides opportunities for artists and photographers to meet with international professionals in the field of photography. <br>May 4 & 5 @ The Gladstone Hotel</span>			
+			<a href="http://portfolios.scotiabankcontactphoto.com/" >More<span class='icon-arrow-right'></span></a>	
+		</div>
+
+
+		
+		<div class="newscell">			
+			<!-- <a href="http://prod5.agileticketing.net/WebSales/pages/info.aspx?evtinfo=20963~fff311b7-cdad-4e14-9ae4-a9905e1b9cb0&epguid=6395d239-7dd9-47d4-a22f-81a783873e12&#.UwfOKHmOpby">-->			<!-- <span class='date'>2 years ago</span> -->
+			<span class="newstitle">Film: EVERYBODY STREET</span>
+			<span class="desc">CONTACT is proud to co-present Cheryl Dunn's film "Everybody Street" with HotDocs. Follow @ContactPhoto on Twitter and look out for our giveaway of 4 pairs tickets to the March 4 screening of "Everybody Street."</span>			
+			<a href="http://prod5.agileticketing.net/WebSales/pages/info.aspx?evtinfo=20963~fff311b7-cdad-4e14-9ae4-a9905e1b9cb0&epguid=6395d239-7dd9-47d4-a22f-81a783873e12&#.UwfOKHmOpby" >More<span class='icon-arrow-right'></span></a>	
+		</div>
+
+
+</li><li>
+
+	  
+	</li>
+	</ul>
+
+</div>    </div> 
+  
+
+    <div id='planner_mini'>
+        <!-- <div id="" class="headline"> -->
+<!-- <div id="" class="blockwrap"> -->
+<div id="" class="miniplannerband">
+	
+	<div class='miniplannertitle'>
+		<span>In Your Planner</span>
+	</div>
+
+	<div class="options">
+		<a href="/planner" class='icon-eye-open'>View Full</a>
+		<a href="/planner/print" title="" target="_blank" class='icon-print'>Print</a>  
+		<!-- <a href="" onclick="alert('TODO: this will your itinererary a permanent URL so you can share it with others');return false">Publish</a> -->
+		</div>
+
+</div>
+
+<!-- </div> -->
+<!-- </div> -->
+
+		<div class="itinerary">
+			
+		Add your favourite events by clicking the <span class='icon-star-empty'></span> next to each thumbnail.
+
+			<!-- <a href="#" title="" class='planner-prev'>Prev</a> -->
+	</div>
+
+    </div>
+ 
+
+</div>
+</div>
+</div>
+
+<div id="footer">
+    <div>
+	Scotiabank CONTACT<br>Photography Festival<br/><br/>
+</div>
+
+<div>
+		<address>
+		<a href="http://goo.gl/9WCJE" class="smallbutton">310-80 Spadina Avenue<br>Toronto ON M5V 2J4<br>CANADA </a>				
+	</address>
+</div>
+
+<div>
+	T 416 539 9595<br>
+	E <a href="mailto:info@contactphoto.com">info@contactphoto.com</a>
+</div>
+
+<div class='last'>	
+	&rarr;&nbsp;<a href="http://twitter.com/contactphoto" title='Scotiabank Contact Festival on Twitter'>Twitter</a><br>
+	&rarr;&nbsp;<a href="http://www.facebook.com/pages/Toronto/CONTACT-Photography-Festival/63788995815" title='Scotiabank Contact  Festival on Facebook'>Facebook</a><br>
+	&rarr;&nbsp;<a href="http://www.flickr.com/people/contactphotofestival/" title='Scotiabank Contact Festival on Flickr'>Flickr</a><br/>
+	&rarr;&nbsp;<a href="http://contactphoto.tumblr.com/" title='Scotiabank Contact Festival on Tumblr'>Tumblr</a><br/>
+	&rarr;&nbsp;<a href="#mailer_signup" >Mailing List </a>
+</div>
+
+    
+</div>
+
+<div>
+    <a href="#identity" id='backtotop' class='icon-chevron-up'></a>
+</div>
+
+                    <!--[if lt IE 7 ]>
+                    <script src="js/libs/dd_belatedpng.js"></script>
+                    <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
+                    <![endif]--> 
+
+                
+                <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+        
+        <script src='/assets/js/jquery.user.js' type='text/javascript'></script>
+        <script src='/assets/js/jquery-ui.public.js' type='text/javascript'></script>
+        <script src='/assets/js/jquery.localscroll.js' type='text/javascript'></script>
+        <script src='/assets/js/jquery.flexslider.js' type='text/javascript'></script>
+
+        <script src='/assets/js/jquery.cycle.all.js' type='text/javascript'></script>
+        <script src='/assets/js/lightbox.js' type='text/javascript'></script>
+        <script src='/assets/js/lib/jquery.form.js' type='text/javascript'></script>
+        <script src='/assets/js/jquery.liveupdate.js' type='text/javascript'></script>
+        <script src='/assets/js/jquery.placeholder.js' type='text/javascript'></script>
+        <script src='/assets/js/qs_score.js' type='text/javascript'></script>
+        <script src='/assets/js/main.js' type='text/javascript'></script>
+        <script src='/assets/js/jquery.fancyzoom.js' type='text/javascript'></script>
+        <script src='/assets/js/jquery.tooltipster.min.js' type='text/javascript'></script>
+      
+
+        <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+        <script src='/assets/js/jquery.gmap3.js' type='text/javascript'></script>
+
+
+
+
+
+                          
+                 
+             
+
+
+            <script>
+    var _gaq=[['_setAccount','UA-15836613-1'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+
+  
+        </body>
+        </html>
+++++++++++++++++++++<Over>++++++++++++++++++++

@@ -1,0 +1,74 @@
+DataframeSource         Data Frame Source
+DirSource               Directory Source
+FunctionGenerator       Function Generator
+PCorpus                 Permanent Corpus Constructor
+PlainTextDocument       Plain Text Document
+RCV1Document            RCV1 Text Document
+Reuters21578Document    Reuters-21578 Text Document
+ReutersSource           Reuters-21578 XML Source
+Source                  Create and Access Sources
+TermDocumentMatrix      Term-Document Matrix
+TextDocument            Access and Modify Text Documents
+TextRepository          Text Repository
+URISource               Uniform Resource Identifier Source
+VCorpus                 Volatile Corpus
+VectorSource            Vector Source
+WeightFunction          Weighting Function
+XMLSource               XML Source
+Zipf_plot               Explore Corpus Term Frequency Characteristics
+acq                     50 Exemplary News Articles from the
+                        Reuters-21578 XML Data Set of Topic acq
+as.PlainTextDocument    Create Objects of Class PlainTextDocument
+c.Corpus                Combine Corpora, Documents, Term-Document
+                        Matrices, and Term Frequency Vectors
+crude                   20 Exemplary News Articles from the
+                        Reuters-21578 XML Data Set of Topic crude
+dissimilarity           Dissimilarity
+findAssocs              Find Associations in a Term-Document Matrix
+findFreqTerms           Find Frequent Terms
+getReaders              List Available Readers
+getSources              List Available Sources
+getTokenizers           List Available Tokenizers
+getTransformations      List Available Transformations
+inspect                 Inspect Objects
+makeChunks              Split a Corpus into Chunks
+materialize             Materialize Lazy Mappings
+meta                    Meta Data Management
+ncol.TermDocumentMatrix
+                        The Number of
+                        Rows/Columns/Dimensions/Documents/Terms of a
+                        Term-Document Matrix
+plot.TermDocumentMatrix
+                        Visualize a Term-Document Matrix
+prescindMeta            Prescind Document Meta Data
+readDOC                 Read In a MS Word Document
+readPDF                 Read In a PDF Document
+readPlain               Read In a Text Document
+readRCV1                Read In a Reuters Corpus Volume 1 Document
+readReut21578XML        Read In a Reuters-21578 XML Document
+readTabular             Read In a Text Document
+readXML                 Read In an XML Document
+read_dtm_Blei_et_al     Read Document-Term Matrices
+removeNumbers           Remove Numbers from a Text Document
+removePunctuation       Remove Punctuation Marks from a Text Document
+removeSparseTerms       Remove Sparse Terms from a Term-Document Matrix
+removeWords             Remove Words from a Text Document
+rownames.TermDocumentMatrix
+                        Row, Column, Dim Names, Document IDs, and Terms
+sFilter                 Statement Filter
+scan_tokenizer          Tokenizers
+stemCompletion          Complete Stems
+stemDocument            Stem Words
+stopwords               Stopwords
+stripWhitespace         Strip Whitespace from a Text Document
+termFreq                Term Frequency Vector
+tm_filter               Filter and Index Functions on Corpora
+tm_map                  Transformations on Corpora
+tm_reduce               Combine Transformations
+tm_term_score           Compute Score for Matching Terms
+weightBin               Weight Binary
+weightSMART             SMART Weightings
+weightTf                Weight by Term Frequency
+weightTfIdf             Weight by Term Frequency - Inverse Document
+                        Frequency
+writeCorpus             Write a Corpus to Disk

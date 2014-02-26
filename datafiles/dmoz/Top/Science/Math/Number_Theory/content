@@ -1,0 +1,1164 @@
+<topic r:id="Top/Science/Math/Number_Theory">
+<catid>816565</catid>
+<link r:resource="http://math.usask.ca/fvk/Valth.html" />
+<link r:resource="http://www.math.niu.edu/~rusin/known-math/index/11-XX.html" />
+<link r:resource="http://www.cecm.sfu.ca/organics/papers/granville/index.html" />
+<link r:resource="http://www.sunsite.ubc.ca/DigitalMathArchive/Langlands/intro.html" />
+<link r:resource="http://www.math.umn.edu/~garrett/m/v/" />
+<link r:resource="http://www.math.umbc.edu/~campbell/NumbThy/Class/Glossary.html" />
+<link r:resource="http://grail.cba.csuohio.edu/~somos/somospol.html" />
+<link r:resource="http://www.mathpages.com/home/inumber.htm" />
+<link r:resource="http://mathworld.wolfram.com/topics/NumberTheory.html" />
+<link r:resource="http://www.jasondoucette.com/worldrecords.html" />
+<link1 r:resource="http://www.numbertheory.org/ntw/"></link1>
+<link r:resource="http://www.inwap.com/pdp10/hbaker/hakmem/cf.html" />
+<link r:resource="http://www.alpertron.com.ar/NUMBERT.HTM" />
+<link r:resource="http://numbers.computation.free.fr/Constants/Miscellaneous/bernoulli.html" />
+<link r:resource="http://www.math.ucla.edu/~tao/254a.1.03w/" />
+<link r:resource="http://www.pballew.net/FermLit.html" />
+<link r:resource="http://db.uwaterloo.ca/~alopez-o/math-faq/node21.html" />
+<link r:resource="http://www.cecm.sfu.ca/~mjm/Lehmer/lc.html" />
+<link r:resource="http://oldweb.cecm.sfu.ca/~aszanto/IntegerRelations/" />
+<link r:resource="http://math.nju.edu.cn/~zwsun/csz.htm" />
+<link r:resource="http://keithbriggs.info/klein-polyhedra.html" />
+<link r:resource="http://www.russinoff.com/papers/gauss.html" />
+<link r:resource="http://www.trillia.com/moser-number.html" />
+<link r:resource="http://www.marmet.org/louis/sqfgap/index.html" />
+<link r:resource="http://www.hbmeyer.de/taupaeng.htm" />
+<link r:resource="http://faculty.uml.edu/jpropp/somos.html" />
+<link r:resource="http://www.math.osu.edu/lectures/connes/Connes_course.html" />
+<link r:resource="http://oeis.org/" />
+<link r:resource="http://www.gn-50uma.de/alula/essays/Moree/Moree.en.shtml" />
+<link r:resource="http://www.cecm.sfu.ca/~loki/Papers/Numbers/" />
+<link r:resource="http://staff.spd.dcu.ie/johnbcos/transcendental_numbers.htm" />
+<link r:resource="http://www.lmfdb.org/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Algebraic">
+<catid>816566</catid>
+<link r:resource="http://www.cecm.sfu.ca/organics/papers/hcohen/index.html" />
+<link r:resource="http://www.public.asu.edu/~jjones/java/discrimexpo.html" />
+<link r:resource="http://icarus.math.mcmaster.ca/marshall/dis.html" />
+<link r:resource="http://www.math.lsu.edu/~hoffman/" />
+<link r:resource="http://www.numbertheory.org/courses/MP473/" />
+<link r:resource="http://www.algebra.at/multi.htm" />
+<link r:resource="http://www.math.upenn.edu/~chai/coursenotes.html" />
+<link r:resource="http://empslocal.ex.ac.uk/people/staff/rjchapma/courses/ant99/ant99.html" />
+<link r:resource="http://www.math.utah.edu/~sather/notes.html" />
+<link r:resource="http://modular.math.washington.edu/papers/ant/" />
+<link r:resource="http://math.ucsd.edu/~kedlaya/math254b.html" />
+<link r:resource="http://people.ucalgary.ca/~ramollin/research2.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Analytic">
+<catid>816585</catid>
+<link r:resource="http://www.math.harvard.edu/~elkies/M259.98/index.html" />
+<link r:resource="http://numbers.computation.free.fr/Constants/Miscellaneous/zeta.html" />
+<link r:resource="http://www.maths.tcd.ie/pub/HistMath/People/Riemann/Zeta/" />
+<link r:resource="http://www.dpmms.cam.ac.uk/~wtg10/" />
+<link r:resource="http://wain.mi.ras.ru/zw/" />
+<link r:resource="http://web.maths.unsw.edu.au/~angell/5535/" />
+<link r:resource="http://www.secamlocal.ex.ac.uk/people/staff/mrwatkin/zeta/directoryofzetafunctions.htm" />
+<link r:resource="http://empslocal.ex.ac.uk/people/staff/mrwatkin/isoc/" />
+<link r:resource="http://empslocal.ex.ac.uk/people/staff/mrwatkin/zeta/CSExplorer/CSExplorer.htm" />
+<link r:resource="http://www.ams.org/samplings/feature-column/fcarc-prime-chaos" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Analytic/Riemann_Hypothesis">
+<catid>816586</catid>
+<link r:resource="http://www.zetagrid.net/" />
+<link r:resource="http://www.math.purdue.edu/~branges/" />
+<link r:resource="http://www.dtc.umn.edu/~odlyzko/doc/zeta.html" />
+<link r:resource="http://mathworld.wolfram.com/RiemannHypothesis.html" />
+<link r:resource="http://www.mathpuzzle.com/riemann.html" />
+<link r:resource="http://aimath.org/WWN/rh/" />
+<link r:resource="http://www.coolissues.com/mathematics/Zeta/zeta.htm" />
+<link r:resource="http://www.coolissues.com/mathematics/Riemann/riemann.htm" />
+<link r:resource="http://numbers.computation.free.fr/Constants/Miscellaneous/zetazeroscompute.html" />
+<link r:resource="http://primes.utm.edu/notes/rh.html" />
+<link r:resource="http://people.maths.ox.ac.uk/dusautoy/2soft/music.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Chats_and_Forums">
+<catid>816580</catid>
+<link r:resource="http://groups.yahoo.com/group/goldbach/" />
+<link r:resource="http://groups.yahoo.com/group/numbertheory/" />
+<link r:resource="http://groups.yahoo.com/group/primeform/" />
+<link r:resource="http://groups.yahoo.com/group/primenumbers/" />
+<link r:resource="http://listserv.nodak.edu/archives/nmbrthry.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Computational">
+<catid>816593</catid>
+<link r:resource="http://www.cs.sunysb.edu/~algorith/major_section/1.2.shtml" />
+<link r:resource="http://www.math.uu.nl/people/vdkallen/lllimplementations.html" />
+<link r:resource="http://www.ieeta.pt/~tos/hobbies.html" />
+<link r:resource="http://www.loria.fr/~zimmerma/records/" />
+<link r:resource="http://aimath.org/WWN/primesinp/" />
+<link r:resource="http://www.numbertheory.org/lll.html" />
+<link r:resource="http://www.math.umn.edu/~garrett/crypto/a01/Euclid.html" />
+<link r:resource="http://userpages.umbc.edu/~rcampbel/NumbThy/Class/BasicNumbThy.html" />
+<link r:resource="http://userpages.umbc.edu/~rcampbel/NumbThy/Class/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Diophantine_Equations">
+<catid>816577</catid>
+<link r:resource="http://liinwww.ira.uka.de/bibliography/Math/Hilbert10.html" />
+<link r:resource="http://www.ics.uci.edu/~eppstein/numth/egypt/" />
+<link r:resource="http://math.uindy.edu/swett/esc.htm" />
+<link r:resource="http://finanz.math.tu-graz.ac.at/~cheub/thue.html" />
+<link r:resource="http://logic.pdmi.ras.ru/Hilbert10/" />
+<link r:resource="http://www.ma.utexas.edu/users/voloch/surveylatex/surveylatex.html" />
+<link r:resource="http://www.ltn.lv/~podnieks/gt4.html" />
+<link r:resource="http://www.alpertron.com.ar/QUAD.HTM" />
+<link r:resource="http://www.math.hr/~duje/dtuples.html" />
+<link r:resource="http://grail.cba.csuohio.edu/~somos/rattri.html" />
+<link r:resource="http://www.ieeta.pt/~tos/pell.html" />
+<link r:resource="http://aimath.org/WWN/qptsurface2/" />
+<link r:resource="http://www.boojum.org.uk/maths/quartic-surfaces/" />
+<link r:resource="http://www.thoralf.uwaterloo.ca/htdocs/linear.html" />
+<link r:resource="http://www.hbnweb.de/pythagoras/pythagoras.html" />
+<link r:resource="http://www.hbmeyer.de/pythagen.htm" />
+<link r:resource="http://www-history.mcs.st-andrews.ac.uk/history/Projects/Pearce/Chapters/Ch8_6.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Diophantine_Equations/Equal_Sums_of_Like_Powers">
+<catid>816578</catid>
+<link1 r:resource="http://euler.free.fr/"></link1>
+<link r:resource="http://tom.womack.net/maths/dissert_abstract.htm" />
+<link r:resource="http://www.uwgb.edu/dutchs/RECMATH/rmpowers.htm" />
+<link r:resource="http://cr.yp.to/sortedsums.html" />
+<link r:resource="http://www.asahi-net.or.jp/~KC2H-MSM/mathland/overview.htm" />
+<link r:resource="http://www.cs.uwaterloo.ca/journals/JIS/wilson10.html" />
+<link1 r:resource="http://euler.free.fr/eslp/"></link1>
+<link r:resource="http://archive.numdam.org/ARCHIVE/CM/CM_1996__102_2/CM_1996__102_2_125_0/CM_1996__102_2_125_0.pdf" />
+<link r:resource="http://www.cs.man.ac.uk/~rizos/EqualSums/" />
+<link r:resource="http://sites.google.com/site/tpiezas/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Diophantine_Equations/Fermat's_Last_Theorem">
+<catid>816579</catid>
+<link r:resource="http://www.math.unt.edu/~mauldin/beal.html" />
+<link r:resource="http://www.bealconjecture.com/" />
+<link r:resource="http://math.albany.edu:8010/g/Math/topics/fermat/" />
+<link r:resource="http://www.coolissues.com/mathematics/fermat.htm" />
+<link r:resource="http://www.pbs.org/wgbh/nova/proof/" />
+<link r:resource="http://www-groups.dcs.st-and.ac.uk/~history/HistTopics/Fermat's_last_theorem.html" />
+<link r:resource="http://mathworld.wolfram.com/FermatsLastTheorem.html" />
+<link r:resource="http://www.norvig.com/beal.html" />
+<link r:resource="http://www.coolissues.com/mathematics/Beal/beal.htm" />
+<link r:resource="http://www.coolissues.com/mathematics/Fermat/fermat.htm" />
+<link r:resource="http://www.occampress.com/" />
+<link r:resource="http://fermat.yolasite.com/" />
+<link r:resource="http://beal.yolasite.com/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Education">
+<catid>816632</catid>
+<link r:resource="http://www.jmilne.org/math/" />
+<link r:resource="http://www.maths.nott.ac.uk/personal/ibf/courses.html" />
+<link r:resource="http://www.math.sc.edu/~filaseta/gradcourses/Math780.html" />
+<link r:resource="http://www.math.mun.ca/~drideout/" />
+<link r:resource="http://www.math.umn.edu/~garrett/m/" />
+<link r:resource="http://www.ied.edu.hk/has/webauth/stec98/ngyk/" />
+<link r:resource="http://archives.math.utk.edu/ICTCM/abs/10-P9.html" />
+<link r:resource="http://www.fen.bilkent.edu.tr/~franz/LN.html" />
+<link r:resource="http://cr.yp.to/courses.html" />
+<link r:resource="http://www.mathematicspractice.com/" />
+<link r:resource="http://rutherglen.ics.mq.edu.au/wchen/lndpnfolder/lndpn.html" />
+<link r:resource="http://empslocal.ex.ac.uk/people/staff/NPByott/teaching/oldNT.html" />
+<link r:resource="http://www.numbertheory.org/ntw/lecture_notes.html" />
+<link r:resource="http://staff.spd.dcu.ie/johnbcos/Courses.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Elliptic_Curves_and_Modular_Forms">
+<catid>816633</catid>
+<link r:resource="http://www.loria.fr/~zimmerma/records/ecmnet.html" />
+<link r:resource="http://www.jmilne.org/math/CourseNotes/" />
+<link r:resource="http://math.berkeley.edu/~reb/papers/" />
+<link r:resource="http://www.math.brown.edu/~jhs/" />
+<link r:resource="http://www.ma.utexas.edu/users/voloch/lst.html" />
+<link r:resource="http://tom.womack.net/maths/maths.htm" />
+<link r:resource="http://pauillac.inria.fr/~harley/ecdl/" />
+<link r:resource="http://home.imf.au.dk/matjph/Ell-E99.html" />
+<link r:resource="http://www.math.rutgers.edu/~tunnell/math574.html" />
+<link r:resource="http://www.math.niu.edu/~rusin/known-math/index/14H52.html" />
+<link r:resource="http://www.ams.org/notices/199911/comm-darmon.pdf" />
+<link r:resource="http://www.cms.math.ca/CMS/Events/winter98/w98-abs/node2.html" />
+<link r:resource="http://www.math.umn.edu/~garrett/m/b/bib.html" />
+<link r:resource="http://www.math.washington.edu/~greenber/research.html" />
+<link r:resource="http://www.dpmms.cam.ac.uk/~taf1000/thesis.html" />
+<link r:resource="http://math.scu.edu/~eschaefe/nt.html" />
+<link r:resource="http://www.idaccr.org/reports/reports.html" />
+<link r:resource="http://www.math.hr/~duje/tors/rankhist.html" />
+<link r:resource="http://www.cryptoman.com/elliptic.htm" />
+<link r:resource="http://www.math.jussieu.fr/~fouquet/elliptic.html" />
+<link r:resource="http://www.math.jussieu.fr/~nekovar/co/ln/el/" />
+<link r:resource="http://math.berkeley.edu/~osserman/seminar/" />
+<link r:resource="http://www.math.lsu.edu/~verrill/teaching/math7280/index.html" />
+<link r:resource="http://mat.uab.cat/~xarles/elliptic.html" />
+<link r:resource="http://www.warwick.ac.uk/~masda/MA426/" />
+<link r:resource="http://www.uea.ac.uk/~h090/EDS.html" />
+<link r:resource="http://www.uea.ac.uk/~h090/primeEDS.html" />
+<link r:resource="http://www.math.ias.edu/~rtaylor" />
+<link r:resource="http://math.berkeley.edu/~reb/courses/modularforms/index.html" />
+<link r:resource="http://homepages.warwick.ac.uk/staff/J.E.Cremona/book/" />
+<link r:resource="http://wstein.org/papers/thesis/" />
+<link r:resource="http://www.claymath.org/millenium-problems/birch-and-swinnerton-dyer-conjecture" />
+<link r:resource="http://modular.math.washington.edu/MF.html" />
+<link r:resource="http://www.scienceandreason.net/flt/flt03.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Elliptic_Curves_and_Modular_Forms/Software">
+<catid>816635</catid>
+<link r:resource="http://www.ellipsa.eu/" />
+<link r:resource="http://matha.e-one.uec.ac.jp/~kida/TECC.html" />
+<link r:resource="http://www.mathi.uni-heidelberg.de/~bruinier/Readme.eis" />
+<link r:resource="http://www.math.mcgill.ca/darmon/programs/heegner/heegner.html" />
+<link r:resource="http://www.math.mcgill.ca/darmon/programs/logan/logan.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Elliptic_Curves_and_Modular_Forms/Tables">
+<catid>816634</catid>
+<link r:resource="http://www.math.hr/~duje/tors/generic.html" />
+<link r:resource="http://www.asahi-net.or.jp/~KC2H-MSM/ec/eca1/index.htm" />
+<link r:resource="http://math.berkeley.edu/~reb/papers/siegel/" />
+<link r:resource="http://tom.womack.net/maths/torsion.htm" />
+<link r:resource="http://www.math.hr/~duje/tors/tors.html" />
+<link r:resource="http://tom.womack.net/maths/conductors.htm" />
+<link r:resource="http://matha.e-one.uec.ac.jp/~kida/modularpoly.html" />
+<link r:resource="http://www.tom.womack.net/maths/mordellc.htm" />
+<link r:resource="http://www.math.chalmers.se/~sj/Maass/" />
+<link r:resource="http://www.math.uwaterloo.ca/~mrubinst/modularpolynomials/phi_l.html" />
+<link r:resource="http://math.bu.edu/people/rpollack/Data/data.html" />
+<link r:resource="http://library.wolfram.com/infocenter/Demos/154/" />
+<link r:resource="http://www-ma2.upc.edu/~lario/ellipticm.htm" />
+<link r:resource="http://tnt.math.se.tmu.ac.jp/simath/MORDELL/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Events">
+<catid>816573</catid>
+<link1 r:resource="http://www.numbertheory.org/ntw/N3.html"></link1>
+<link r:resource="http://www.newton.ac.uk/programmes/GAN/index.html" />
+<link r:resource="http://www.msri.org/programs/272" />
+<link r:resource="https://ants2014.kookmin.ac.kr/" />
+<link r:resource="http://users.utu.fi/ksmato/analyticworkshop14/index.html" />
+<link r:resource="http://ja2015.math.unideb.hu/" />
+<link r:resource="http://www.crm.math.ca/Number2014/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Events/Past_Events">
+<catid>816575</catid>
+<link r:resource="http://www.math.leidenuniv.nl/~desmit/ants4/" />
+<link r:resource="http://www.crm.umontreal.ca/act/theme/theme_1998-1999_an.html" />
+<link r:resource="http://www.math.u-bordeaux.fr/~stan/Colloque/mmfenglish.html" />
+<link r:resource="http://math.ucsd.edu/~wntc/" />
+<link r:resource="http://mathnt.mat.jhu.edu/JAMI0001/" />
+<link r:resource="http://www.math.uiuc.edu/~boston/mantd.html" />
+<link r:resource="http://dimacs.rutgers.edu/Workshops/CombNumber/" />
+<link r:resource="http://math.stanford.edu/~bump/workshop.html" />
+<link r:resource="http://www-gat.univ-lille1.fr/~ramare/journees/announce.html" />
+<link r:resource="http://www.math.jussieu.fr/~miw/telecom.html" />
+<link r:resource="http://www.pdmi.ras.ru/EIMI/2000/AG/" />
+<link r:resource="http://www.math.uiuc.edu/nt2000/millennial.html" />
+<link r:resource="http://www.math.uiuc.edu/nt2000/illinois/" />
+<link r:resource="http://www.math.uiuc.edu/nt2000/modeltheory/" />
+<link r:resource="http://www.math.washington.edu/~greenber/CA.html" />
+<link r:resource="http://www.math.uiuc.edu/~boston/workshop.html" />
+<link r:resource="http://www.math.uci.edu/~dwan/ko.html" />
+<link r:resource="http://www.math.leidenuniv.nl/~desmit/numth/kloos.shtml" />
+<link r:resource="http://www.math.wisc.edu/~ono/qseries.html" />
+<link r:resource="http://dimacs.rutgers.edu/Workshops/NumberTheory/" />
+<link r:resource="http://www.math.uiuc.edu/nt2000/probability/" />
+<link r:resource="http://www.math.uiuc.edu/~hildebr/nt2001/" />
+<link r:resource="http://www.math.unipd.it/~dwork01/" />
+<link r:resource="http://www.math.uiuc.edu/VIGRE/reu/" />
+<link r:resource="http://www.osu.cz/prf/katedry/matematiky/cz_announcement.html" />
+<link r:resource="http://www.renyi.hu/~arithgeo/" />
+<link r:resource="http://www.math.mcgill.ca/goren/Workshop/Workshop.html" />
+<link r:resource="http://mathematics.jhu.edu/NTConf/" />
+<link r:resource="http://www.math.uiuc.edu/~hildebr/nt02/" />
+<link r:resource="http://www.math.leidenuniv.nl/~desmit/gtem/" />
+<link r:resource="http://magma.maths.usyd.edu.au/echidna/" />
+<link r:resource="http://www.damtp.cam.ac.uk/user/na/FoCM/FoCM02/CompNumTh.html" />
+<link r:resource="http://www.mathematics.jhu.edu/stark/" />
+<link r:resource="http://www.math.leidenuniv.nl/~psh/EANT/" />
+<link r:resource="http://www.math.klte.hu/~nt2000/" />
+<link r:resource="http://www.math.klte.hu/~stabil/locat/hajdul.html" />
+<link r:resource="http://trout.math.cst.nihon-u.ac.jp/~hirata/RIMS2002.html" />
+<link r:resource="http://www.math.umass.edu/~siman/hayes.html" />
+<link r:resource="http://inst-mat.utalca.cl/qfconference/" />
+<link r:resource="http://www.aimath.org/ARCC/workshops/qptsurface.html" />
+<link r:resource="http://www.math.carleton.ca/~daniel/seaway.html" />
+<link r:resource="http://www.fields.utoronto.ca/programs/scientific/02-03/numtheory" />
+<link r:resource="http://www.math.uiuc.edu/cbms/" />
+<link r:resource="http://www.fields.utoronto.ca/programs/scientific/02-03/automorphic_forms/" />
+<link r:resource="http://www.math.unicaen.fr/Colloques/renc_arith14_engl.htm" />
+<link r:resource="http://magma.maths.usyd.edu.au/~bruin/Workshop" />
+<link r:resource="http://www.pims.math.ca/birs/workshops/2003/03w5032/" />
+<link r:resource="http://www.imath.kiev.ua/~vo/voronoi/first-en.html" />
+<link r:resource="http://www.pims.math.ca/birs/workshops/2003/03w5104/" />
+<link r:resource="http://www.pdmi.ras.ru/EIMI/imiot1.html" />
+<link r:resource="http://www.msri.org/calendar/workshops/WorkshopInfo/8/show_workshop" />
+<link r:resource="http://www.maths.ex.ac.uk/~mwatkins/zeta/huxleynyc.pdf" />
+<link r:resource="http://www.mat.savba.sk/confer/nt14/" />
+<link r:resource="http://www.maths.ed.ac.uk/~chris/curves.html" />
+<link r:resource="http://www.math.mcgill.ca/darmon/farhills/farhills.html" />
+<link r:resource="http://www.ms.u-tokyo.ac.jp/~t-saito/conf/ag/ag.html" />
+<link r:resource="http://aimath.org/ARCC/workshops/motivesdessins.html" />
+<link r:resource="http://www.math.psu.edu/sellersj/ganas/" />
+<link r:resource="http://www.dagstuhl.de/04211/" />
+<link r:resource="http://www.maths.qmw.ac.uk/~fv/noticeboard/ArithmeticDynamics/" />
+<link r:resource="http://www.math.uiuc.edu/intc/intc.html" />
+<link r:resource="http://www.math.unicaen.fr/Colloques/renc_arith15.en.html" />
+<link r:resource="http://www.fields.utoronto.ca/programs/scientific/03-04/brownawell/" />
+<link r:resource="http://www.uni-math.gwdg.de/yuri/SS04/conference.html" />
+<link r:resource="http://www.pdmi.ras.ru/EIMI/2004/AG/" />
+<link r:resource="http://www.fields.utoronto.ca/programs/scientific/03-04/CNTA8/" />
+<link r:resource="http://www.cecm.sfu.ca/~nbruin/WCAG2004/" />
+<link r:resource="http://swc.math.arizona.edu/oldaws/index.html" />
+<link r:resource="http://www.mathstat.dal.ca/~dilcher/workshop.html" />
+<link r:resource="http://www.geometrie.tuwien.ac.at/NumbThAlgo2004/" />
+<link r:resource="http://magma.maths.usyd.edu.au/ihp/" />
+<link r:resource="http://www.math.ru.nl/p-adic2002/" />
+<link r:resource="http://www.fields.utoronto.ca/programs/scientific/04-05/arthurconf/" />
+<link r:resource="http://math.bu.edu/people/rpollack/MWNTS/MWNTS.html" />
+<link r:resource="http://www.pims.math.ca/birs/workshops/2004/04w5502/" />
+<link r:resource="http://www.pims.math.ca/birs/workshops/2004/04w2505/" />
+<link r:resource="http://www.pims.math.ca/birs/workshops/2004/04w5507/" />
+<link r:resource="http://www.dpmms.cam.ac.uk/~ajs1005/jhc.html" />
+<link r:resource="http://magma.maths.usyd.edu.au/~kohel/echidna/2/" />
+<link r:resource="http://www.math.sc.edu/~filaseta/SERMON/SERMON.html" />
+<link r:resource="http://magma.maths.usyd.edu.au/antsv/" />
+<link r:resource="http://math.sun.ac.za/~flo/ArithmeticGeometry.html" />
+<link r:resource="http://www.math.uiuc.edu/mntcg2/" />
+<link r:resource="http://www.math.tamu.edu/~map/nt/arithmetexas/" />
+<link r:resource="http://aimath.org/ARCC/workshops/hilberts10th.html" />
+<link r:resource="http://www.math.ubc.ca/~boyd/niven.html" />
+<link r:resource="http://www.math.sc.edu/~filaseta/SERMON2005/SERMON2005.html" />
+<link r:resource="http://www.pdmi.ras.ru/EIMI/2005/Linnik90/annE.html" />
+<link r:resource="http://www.cs.amherst.edu/~rlb/wopd/" />
+<link r:resource="http://www.math.unicaen.fr/~yaouanc/XVI%20RENCONTRE.html" />
+<link r:resource="http://www.math.tu-berlin.de/~kant/MP60/" />
+<link r:resource="http://www.math.uwaterloo.ca/~mrubinst/nt_rmt/" />
+<link r:resource="http://www.pdmi.ras.ru/EIMI/2005/AG/" />
+<link r:resource="http://www.uni-math.gwdg.de/tschinkel/SS05/conference.html" />
+<link r:resource="http://math.bu.edu/people/rpollack/greenberg.html" />
+<link r:resource="http://www.math.tohoku.ac.jp/~hattori/pnt5.htm" />
+<link r:resource="http://sporadic.stanford.edu/bump/mds_workshop.html" />
+<link r:resource="http://aimath.org/ARCC/workshops/eisenstein.html" />
+<link r:resource="http://ntw.e-one.uec.ac.jp/kagoshima-e.html" />
+<link r:resource="http://www.pims.math.ca/birs/workshops/2005/05w5021" />
+<link r:resource="http://aimath.org/ARCC/workshops/primegaps.html" />
+<link r:resource="http://www.math.mcgill.ca/goren/Workshop.html" />
+<link r:resource="http://www.msri.org/calendar/programs/ProgramInfo/70/show_program" />
+<link r:resource="http://www.msri.org/calendar/workshops/WorkshopInfo/107/show_workshop" />
+<link r:resource="http://www.math.tifr.res.in/~dion2005/" />
+<link r:resource="http://www.msri.org/calendar/workshops/WorkshopInfo/301/show_workshop" />
+<link r:resource="http://www.mat.univie.ac.at/~schwermer/gruppe/Arithmetic.html" />
+<link r:resource="http://www.crm.umontreal.ca/L-functions06/indexen.html" />
+<link r:resource="http://research.microsoft.com/~klauter/PNWNTC.htm" />
+<link r:resource="http://academic.regis.edu/scaulk/AFW2006/" />
+<link r:resource="http://www.msri.org/calendar/workshops/WorkshopInfo/302/show_workshop" />
+<link r:resource="http://magma.maths.usyd.edu.au/~donnelly/NumberTheoryMeeting.html" />
+<link r:resource="http://www.crm.umontreal.ca/Number2005/" />
+<link r:resource="http://www.msri.org/calendar/workshops/WorkshopInfo/303/show_workshop" />
+<link r:resource="http://w3.univ-tlse2.fr/grimm/maire/colloquegras2.html" />
+<link r:resource="http://www.maths.manchester.ac.uk/~mdc/RogerBaker.htm" />
+<link r:resource="http://www.newton.ac.uk/programmes/AMG/" />
+<link r:resource="http://www.newton.ac.uk/programmes/old_progs/ERN/ern.html" />
+<link r:resource="http://www.newton.ac.uk/programmes/NST/nstw03.html" />
+<link r:resource="http://www.newton.ac.uk/programmes/RMA/" />
+<link r:resource="http://www.newton.ac.uk/programmes/RMA/rmaw04.html" />
+<link r:resource="http://www.newton.ac.uk/programmes/RMA/rmaw05.html" />
+<link r:resource="http://www.newton.ac.uk/programmes/LFN/" />
+<link r:resource="http://www.newton.ac.uk/programmes/RMA/rmaw02.html" />
+<link r:resource="http://people.maths.ox.ac.uk/~lauder/focm/cnt.html" />
+<link r:resource="http://www-gat.univ-lille1.fr/~drutu/" />
+<link r:resource="http://www.msri.org/calendar/programs/ProgramInfo/230/show_program" />
+<link r:resource="http://www.math.tu-berlin.de/~kant/ants/" />
+<link r:resource="http://www.math.wisc.edu/~ono/reu06.html" />
+<link r:resource="http://www.math.columbia.edu/~urban/frg-conf.html" />
+<link r:resource="http://math.univ-lille1.fr/~bhowmik/seminaire/june_06.html" />
+<link r:resource="http://www.ipam.ucla.edu/programs/scws1/" />
+<link r:resource="http://aimath.org/ARCC/workshops/subconvexity.html" />
+<link r:resource="http://www.unilim.fr/laco/Iwasawa2006/en/" />
+<link r:resource="http://www.uam.es/otros/aag2006/" />
+<link r:resource="http://mathnt.mat.jhu.edu/jami/jami2003/" />
+<link r:resource="http://tnt.math.se.tmu.ac.jp/want2000/" />
+<link r:resource="http://users.ictp.it/www_users/math/bull1233.html" />
+<link r:resource="http://www.institut.math.jussieu.fr/BSD/" />
+<link r:resource="http://www.birs.ca/workshops/2003/03w5035/" />
+<link r:resource="http://www.birs.ca/workshops/2003/03w5029/" />
+<link r:resource="http://www2.warwick.ac.uk/fac/sci/maths/research/events/2012-2013/numbertheory/" />
+<link r:resource="http://www.cant.ulg.ac.be/cant2012/" />
+<link r:resource="http://math.ucsd.edu/~kedlaya/ants10/" />
+<link r:resource="http://ja03.math.tugraz.at/" />
+<link r:resource="http://math.uci.edu/~krubin/scntd/" />
+<link r:resource="http://www-fourier.ujf-grenoble.fr/ja2013/index-en.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Events/Series">
+<catid>816574</catid>
+<link r:resource="http://www.math.umass.edu/~siman/seminar.html" />
+<link r:resource="http://www.math.columbia.edu/JointNTS.html" />
+<link r:resource="http://www.maths.nottingham.ac.uk/personal/ibf/har.html" />
+<link r:resource="http://magma.maths.usyd.edu.au/users/bruin/CompArithGeom/" />
+<link r:resource="http://www.math.clemson.edu/~kevja/SERMON/" />
+<link r:resource="http://cage.ugent.be/~kulrug/" />
+<link r:resource="http://swc.math.arizona.edu/oldaws/index.html" />
+<link r:resource="http://www.theoryofnumbers.com/" />
+<link r:resource="http://www.dms.umontreal.ca/~andrew/QVNTS/" />
+<link r:resource="http://www.afjarvis.staff.shef.ac.uk/lms/" />
+<link r:resource="http://www2.imperial.ac.uk/~buzzard/LNTS/lnts.html" />
+<link r:resource="http://www2.imperial.ac.uk/~buzzard/LNTS/londonparis.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Factoring">
+<catid>816581</catid>
+<link r:resource="http://www.fermatsearch.org/" />
+<link r:resource="http://wims.unice.fr/~wims/wims.cgi?lang=en&amp;module=tool/algebra/factor.en&amp;cmd=new&amp;" />
+<link r:resource="http://factorzone.tripod.com/" />
+<link r:resource="http://www.prothsearch.net/sierp.html" />
+<link r:resource="http://www.alpertron.com.ar/ECM.HTM" />
+<link r:resource="http://www.crypto-world.com/FactorWorld.html" />
+<link r:resource="http://www.crypto-world.com/announcements/RSA155.txt" />
+<link r:resource="http://xyyxf.at.tut.by/" />
+<link r:resource="http://www.crypto-world.com/FactorPapers.html" />
+<link r:resource="http://homepage2.nifty.com/m_kamada/math/factorizations.htm" />
+<link r:resource="http://www.leyland.vispa.com/numth/factorization/main.htm" />
+<link r:resource="http://www.perfsci.com/freegoods.htm#fermat" />
+<link r:resource="http://www.rsasecurity.com/rsalabs/node.asp?id=2092" />
+<link r:resource="http://www.cs.uwaterloo.ca/~shallit/Papers/carissan.html" />
+<link r:resource="http://amicable.homepage.dk/knwnc2.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Factoring/Division_Rules">
+<catid>816583</catid>
+<link r:resource="http://www.jimloy.com/number/divis.htm" />
+<link r:resource="http://edweb.sdsu.edu/courses/edtec670/Cardboard/card/d/Divisibility.html" />
+<link r:resource="http://mathforum.org/k12/mathtips/ward.html" />
+<link r:resource="http://math.furman.edu/~mwoodard/fuejum/textv/volume3text.html" />
+<link r:resource="http://www.primepuzzles.net/puzzles/puzz_101.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Factoring/Perfect_Numbers">
+<catid>816582</catid>
+<link r:resource="http://www.unirioja.es/dptos/dmc/jvarona/aliquot.html" />
+<link r:resource="http://www-history.mcs.st-and.ac.uk/history/HistTopics/Perfect_numbers.html" />
+<link r:resource="http://www.loria.fr/~zimmerma/records/aliquot.html" />
+<link r:resource="http://www.shyamsundergupta.com/amicable.htm" />
+<link r:resource="http://wwwhomes.uni-bielefeld.de/achim/mpn.html" />
+<link r:resource="http://amicable.homepage.dk/tables.htm" />
+<link r:resource="http://christophe.clavier.free.fr/Aliquot/site/Aliquot.html" />
+<link r:resource="http://mathworld.wolfram.com/PerfectNumber.html" />
+<link r:resource="http://www.math.ru.nl/~bosma/research/nuth/ali.html" />
+<link r:resource="http://www.aliquot.de/aliquote.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Factoring/Tables">
+<catid>816584</catid>
+<link r:resource="http://factorzone.tripod.com/factors.htm" />
+<link r:resource="http://www.cerias.purdue.edu/homes/ssw/cun/" />
+<link r:resource="http://www.asahi-net.or.jp/~KC2H-MSM/cn/" />
+<link r:resource="http://www.asahi-net.or.jp/~KC2H-MSM/mathland/matha1/index.htm" />
+<link r:resource="http://www.prothsearch.net/fermat.html" />
+<link r:resource="http://www.alpertron.com.ar/BRILLIANT.HTM" />
+<link r:resource="http://www.alpertron.com.ar/MODFERM.HTM" />
+<link r:resource="http://www.alpertron.com.ar/googol.htm" />
+<link r:resource="http://www.h4.dion.ne.jp/~rep/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/History">
+<catid>816576</catid>
+<link r:resource="http://aleph0.clarku.edu/~djoyce/mathhist/arithmetic.html" />
+<link r:resource="http://www.rzuser.uni-heidelberg.de/~ci3/manu.html" />
+<link r:resource="http://rabbit.trin.cam.ac.uk/~jon/Msscolls/type.html#Maths" />
+<link r:resource="http://www.spd.dcu.ie/johnbcos/fermat's_little_theorem.htm" />
+<link r:resource="http://www.lib.utexas.edu/taro/utcah/00224/cah-00224.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Open_Problems">
+<catid>816587</catid>
+<link r:resource="http://www.asahi-net.or.jp/~KC2H-MSM/mathland/overview.htm" />
+<link r:resource="http://www.math.umbc.edu/~campbell/Math413Fall98/Conjectures.html" />
+<link r:resource="http://faculty.evansville.edu/ck6/integer/unsolved.html" />
+<link r:resource="http://www.aimath.org/WWN/lrmt/" />
+<link r:resource="http://euler.free.fr/eslp/unsolve.htm" />
+<link r:resource="http://unsolvedproblems.org/" />
+<link r:resource="http://www.math.haifa.ac.il/~seva/problems.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Open_Problems/ABC_Conjecture">
+<catid>816589</catid>
+<link r:resource="http://www.math.unicaen.fr/~nitaj/abc.html" />
+<link r:resource="http://deweger.xs4all.nl/oud/broberg.txt" />
+<link r:resource="http://www.msri.org/realvideo/ln/hosted/ucb/1998/mazur/1/" />
+<link r:resource="http://modular.math.washington.edu/mcs/archive/Fall2001/notes/12-10-01/12-10-01/12-10-01.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Open_Problems/Catalan_Conjecture">
+<catid>816588</catid>
+<link r:resource="http://mathworld.wolfram.com/CatalansConjecture.html" />
+<link r:resource="http://primes.utm.edu/glossary/page.php?sort=CatalansProblem" />
+<link r:resource="http://en.wikipedia.org/wiki/Catalan's_conjecture" />
+<link r:resource="http://mathworld.wolfram.com/news/2002-05-05/catalan/" />
+<link r:resource="http://mathpages.com/home/kmath104/kmath104.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Open_Problems/Collatz_Problem">
+<catid>816590</catid>
+<link r:resource="http://www.occampress.com/" />
+<link r:resource="http://www-personal.ksu.edu/~kconrow/" />
+<link r:resource="http://mathworld.wolfram.com/CollatzProblem.html" />
+<link r:resource="http://www.math.grin.edu/~chamberl/conf.html" />
+<link r:resource="http://www.ieeta.pt/~tos/3x+1.html" />
+<link r:resource="http://did.mat.uni-bayreuth.de/personen/wassermann/fun/3np1_e.html" />
+<link r:resource="http://www.math.lsa.umich.edu/~lagarias/3x+1.html" />
+<link r:resource="http://arxiv.org/abs/math.GM/0312309" />
+<link r:resource="http://oldweb.cecm.sfu.ca/organics/papers/lagarias/" />
+<link r:resource="http://www.onezero.org/collatz-image" />
+<link r:resource="http://www.numbertheory.org/3x+1/" />
+<link r:resource="http://collatz.freehostia.com/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Open_Problems/Goldbach_Conjecture">
+<catid>816592</catid>
+<link r:resource="http://members.tripod.com/~aercolino/goldbach/" />
+<link r:resource="http://pass.maths.org/issue2/xfile/" />
+<link r:resource="http://www.ieeta.pt/~tos/goldbach.html" />
+<link r:resource="http://www-groups.dcs.st-andrews.ac.uk/~history/Mathematicians/Goldbach.html" />
+<link r:resource="http://mathworld.wolfram.com/GoldbachConjecture.html" />
+<link r:resource="http://www.coolissues.com/mathematics/Tprimes/tprimes.htm" />
+<link r:resource="http://www.petrospec-technologies.com/Herkommer/goldbach.htm" />
+<link r:resource="http://primes.utm.edu/glossary/page.php?sort=GoldbachConjecture" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Open_Problems/Lychrel_Numbers">
+<catid>816591</catid>
+<link r:resource="http://mathworld.wolfram.com/LychrelNumber.html" />
+<link r:resource="http://www.fourmilab.ch/documents/threeyears/two_months_more.html" />
+<link r:resource="http://www.fourmilab.ch/documents/threeyears/threeyears.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Organizations">
+<catid>1023816</catid>
+<link r:resource="http://www.math.uiuc.edu/ntf/" />
+<link r:resource="http://mysite.science.uottawa.ca/gwalsh/cnta.html" />
+<link r:resource="http://womeninnumbertheory.org/" />
+<link r:resource="http://people.kth.se/~hytonen/ntproject/index.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People">
+<catid>816594</catid>
+<link1 r:resource="http://www.numbertheory.org/ntw/number_theorists.html"></link1>
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/A">
+<catid>816602</catid>
+<link r:resource="http://www.usc.edu/dept/molecular-science/fm-adleman.htm" />
+<link r:resource="http://www.math.umn.edu/~gwanders/" />
+<link r:resource="http://www.math.ucsb.edu/~agboola/" />
+<link r:resource="http://www.math.u-bordeaux.fr/~allomber/" />
+<link r:resource="http://maths.dur.ac.uk/~dma6jva/" />
+<link r:resource="http://www.math.psu.edu/andrews/" />
+<link r:resource="http://www.math.caltech.edu/people/apostol.html" />
+<link r:resource="http://www.math.carleton.ca/~salaca/" />
+<link r:resource="http://www.cs.uleth.ca/~akbary/" />
+<link r:resource="http://www.math.uoc.gr/dept/persons/antoniad.html" />
+<link r:resource="http://public.csusm.edu/aitken_html/" />
+<link r:resource="http://www.math.colostate.edu/~achter/" />
+<link r:resource="http://www.knox.edu/marmon.xml" />
+<link r:resource="https://wiki.cites.uiuc.edu/wiki/display/~sahlgren/Scott+Ahlgren's+home+page" />
+<link r:resource="http://www.math.ufl.edu/~alladik/" />
+<link r:resource="http://www.sci.unich.it/~acciaro/" />
+<link r:resource="http://pages.uoregon.edu/akhtari/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/B">
+<catid>816610</catid>
+<link r:resource="http://www-irma.u-strasbg.fr/~bugeaud/" />
+<link r:resource="http://www.cs.bgu.ac.il/~bessera/" />
+<link r:resource="http://www.cecm.sfu.ca/~pborwein/" />
+<link r:resource="http://www.cs.bgu.ac.il/~berend/" />
+<link r:resource="http://www.math.uiuc.edu/~berndt/" />
+<link r:resource="http://bratu.oltenia.ro/" />
+<link r:resource="http://www.math.u-bordeaux.fr/~bachoc/" />
+<link r:resource="http://www.maths.gla.ac.uk/~ajb/" />
+<link r:resource="http://www.mth.kcl.ac.uk/staff/cj_bushnell.html" />
+<link r:resource="http://crd.lbl.gov/~dhbailey/" />
+<link r:resource="http://www.math.unm.edu/~buium/" />
+<link r:resource="http://math.stanford.edu/~bump/" />
+<link r:resource="http://mathcs.holycross.edu/~cballant/index.html" />
+<link r:resource="http://www.renyi.hu/~balog/" />
+<link r:resource="http://www.macalester.edu/~bressoud/" />
+<link r:resource="http://math.berkeley.edu/~reb/" />
+<link r:resource="http://www.mat.univie.ac.at/~baxa/" />
+<link r:resource="http://www.renyi.hu/~biroand/" />
+<link r:resource="http://www.mth.kcl.ac.uk/staff/dj_burns.html" />
+<link r:resource="http://www.math.ucla.edu/~blasius/" />
+<link r:resource="http://www.cse.sc.edu/~buell/" />
+<link r:resource="http://www.williams.edu/Mathematics/eburger/" />
+<link r:resource="http://www.math.vt.edu/people/brown/" />
+<link r:resource="http://www.math.uiuc.edu/~fboca/welcome.html" />
+<link r:resource="http://www.math.unipd.it/~baldassa/" />
+<link r:resource="http://www.math.waikato.ac.nz/~kab/" />
+<link r:resource="http://www.math.muni.cz/~bulik/index_en.html" />
+<link r:resource="http://www.math.ubc.ca/~bennett/" />
+<link r:resource="http://www.math.wisc.edu/~boston/" />
+<link r:resource="http://www.math.rutgers.edu/~bumby/" />
+<link r:resource="http://www.cs.amherst.edu/~rlb/" />
+<link r:resource="http://www.math.uga.edu/~sybilla/" />
+<link r:resource="http://www.math.missouri.edu/~bbanks/" />
+<link r:resource="http://www.math.u-bordeaux.fr/~yuri/" />
+<link r:resource="http://www.math.byu.edu/~baker/" />
+<link r:resource="http://alg-geo.epfl.ch/~bayer/" />
+<link r:resource="http://www.math.toronto.edu/vblomer/" />
+<link r:resource="http://www.math.ru.nl/~bosma/" />
+<link r:resource="http://www.math.gatech.edu/~mbaker/" />
+<link r:resource="http://www.math.ohio-state.edu/~vitaly/" />
+<link r:resource="http://www.math.armstrong.edu/faculty/budden/" />
+<link r:resource="http://math.stanford.edu/~brubaker/" />
+<link r:resource="http://jf.burnol.free.fr/" />
+<link r:resource="http://www.maths.bris.ac.uk/~matdb/" />
+<link r:resource="http://mat.uab.cat/~francesc/" />
+<link r:resource="http://www.mathematik.tu-darmstadt.de/fbereiche/AlgGeoFA/staff/bruinier.php" />
+<link r:resource="http://pages.cs.wisc.edu/~pubs/faculty-info/bach.html" />
+<link r:resource="http://sites.google.com/site/teufelpi/" />
+<link r:resource="http://www.math.umaine.edu/~bradley/index.html" />
+<link r:resource="http://math.sun.ac.za/~fbreuer/" />
+<link r:resource="http://www.staff.science.uu.nl/~beuke106/" />
+<link r:resource="http://www.cecm.sfu.ca/~nbruin/index.shtml" />
+<link r:resource="http://www2.imperial.ac.uk/~buzzard/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/C">
+<catid>816611</catid>
+<link r:resource="http://www.math.u-bordeaux.fr/~cohen/" />
+<link r:resource="http://www.math.ubc.ca/~cass/research.html" />
+<link r:resource="http://www.swarthmore.edu/NatSci/gcampbe1/" />
+<link r:resource="http://www.math.byu.edu/~cardon/" />
+<link r:resource="http://www.math.mcgill.ca/connell/" />
+<link r:resource="http://www.maths.gla.ac.uk/people/?id=32" />
+<link r:resource="http://www.spd.dcu.ie/johnbcos/" />
+<link r:resource="http://www.math.upenn.edu/~chai/" />
+<link r:resource="http://www.math.ksu.edu/~cochrane/" />
+<link r:resource="http://math.ntnu.edu.tw/~wchi/EnglishPage.html" />
+<link r:resource="http://www.dm.unipi.it/pages/cornac/public_html/cornacchia.html" />
+<link r:resource="http://www.perisic.com/marc/" />
+<link r:resource="http://www.math.upenn.edu/~ted/" />
+<link r:resource="http://www.maths.mq.edu.au/~wchen/" />
+<link r:resource="http://www.math.nus.edu.sg/~chanhh/" />
+<link r:resource="http://www.math.uconn.edu/~kconrad/" />
+<link r:resource="http://math.berkeley.edu/~coleman/" />
+<link r:resource="http://www.math.gatech.edu/~ecroot/" />
+<link r:resource="http://max.cs.kzoo.edu/~pcutter/" />
+<link r:resource="http://www.math.byu.edu/~jasbir/" />
+<link r:resource="http://www.imar.ro/~ccobeli/" />
+<link r:resource="http://www.institut.math.jussieu.fr/~cornut/" />
+<link r:resource="http://www.utm.edu/staff/caldwell/" />
+<link r:resource="http://www.math.armstrong.edu/faculty/chang/math/math.html" />
+<link r:resource="http://www.aimath.org/~conrey/" />
+<link r:resource="http://www.math.tamu.edu/~ptretkoff/" />
+<link r:resource="http://www.sci.ccny.cuny.edu/~chinta/" />
+<link r:resource="http://www.maths.manchester.ac.uk/~mdc/" />
+<link r:resource="http://pages.cs.wisc.edu/~jyc/" />
+<link r:resource="http://pages.cs.wisc.edu/~cdx/" />
+<link r:resource="http://www.math.sfu.ca/~kkchoi/" />
+<link r:resource="http://www.math.northwestern.edu/~fcale/" />
+<link r:resource="http://math.stanford.edu/~conrad/" />
+<link r:resource="http://www.warwick.ac.uk/staff/J.E.Cremona/" />
+<link r:resource="http://www.albany.edu/~lc802/" />
+<link r:resource="http://people.math.sfu.ca/~ichen/" />
+<link r:resource="http://www.staff.science.uu.nl/~corne102/" />
+<link r:resource="http://www.math.osu.edu/~cogdell/" />
+<link r:resource="http://empslocal.ex.ac.uk/people/staff/rjchapma/rjc.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/D">
+<catid>816617</catid>
+<link r:resource="http://www.math.hr/~duje/" />
+<link r:resource="http://www.math.mcgill.ca/~darmon/" />
+<link r:resource="http://www.math.byu.edu/~doud/" />
+<link r:resource="http://www19.homepage.villanova.edu/alice.deanin/" />
+<link r:resource="http://www-users.york.ac.uk/~mmd1/" />
+<link r:resource="http://home.wlu.edu/~dresdeng/" />
+<link r:resource="http://www.math.u-bordeaux.fr/~diaz/" />
+<link r:resource="http://www.matha.mathematik.uni-dortmund.de/~thilo/" />
+<link r:resource="http://www.math.ias.edu/~phares/deligne/Deligne.html" />
+<link r:resource="http://www.dmg.tuwien.ac.at/drmota/" />
+<link r:resource="http://www.neil-dummigan.staff.shef.ac.uk/" />
+<link r:resource="http://www.math.uni-leipzig.de/~diem/" />
+<link r:resource="http://www.maths.nuim.ie/ddickinson/" />
+<link r:resource="http://wis.kuleuven.be/algebra/denef.html" />
+<link r:resource="http://people.ucsc.edu/~sdasgup2/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/E">
+<catid>816598</catid>
+<link r:resource="http://abel.math.harvard.edu/~elkies/" />
+<link r:resource="http://www.math.wisc.edu/~ellenber/" />
+<link r:resource="http://www.utica.edu/faculty_staff/bemmons/" />
+<link r:resource="http://www.math.tugraz.at/~elsholtz/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/F">
+<catid>816595</catid>
+<link r:resource="http://www.math.u-psud.fr/~fischler/englishindex.html" />
+<link r:resource="http://magma.maths.usyd.edu.au/users/claus/" />
+<link r:resource="http://www.math.tau.ac.il/~grisha/" />
+<link r:resource="http://www.math.osu.edu/~flicker/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/G">
+<catid>816600</catid>
+<link r:resource="http://www.math.umn.edu/~garrett/" />
+<link r:resource="http://www.math.tifr.res.in/~eghate/" />
+<link r:resource="http://www.ma.utexas.edu/text/webpages/gerth.html" />
+<link r:resource="http://www.math.klte.hu/~igaal/" />
+<link r:resource="http://www.math.rochester.edu/people/faculty/gonek/" />
+<link r:resource="http://www.math.osu.edu/~goss/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/H">
+<catid>816601</catid>
+<link r:resource="http://www.math.uwaterloo.ca/~kghare/" />
+<link r:resource="http://www.opt.math.tu-graz.ac.at/~cheub/" />
+<link r:resource="http://personal.kenyon.edu/holdenerj/" />
+<link r:resource="http://www.math.utexas.edu/users/gharcos/" />
+<link r:resource="http://maths.york.ac.uk/www/ch540" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/I">
+<catid>816612</catid>
+<link r:resource="http://www.math.ucsb.edu/~mccammon/people/Imamoglu.html" />
+<link r:resource="http://cau.ac.kr/~bhim/" />
+<link r:resource="http://www.las.osakafu-u.ac.jp/~ishii/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/J">
+<catid>816613</catid>
+<link r:resource="http://www.math.rochester.edu/people/faculty/what/" />
+<link r:resource="http://www.math.umn.edu/~dhjiang/" />
+<link r:resource="http://www.math.tau.ac.il/~jarden/" />
+<link r:resource="http://www.math.uiuc.edu/~janusz/" />
+<link r:resource="http://www.math.clemson.edu/~kevja/" />
+<link r:resource="http://www.afjarvis.staff.shef.ac.uk/" />
+<link r:resource="http://hobbes.la.asu.edu/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/K">
+<catid>816614</catid>
+<link r:resource="http://www.mast.queensu.ca/~kani/" />
+<link r:resource="http://www.math.ku.dk/~kiming/" />
+<link r:resource="http://www-math.mit.edu/~kedlaya/" />
+<link r:resource="http://www.math.princeton.edu/~nmk/" />
+<link r:resource="http://myweb.lmu.edu/lkhadjavi/" />
+<link r:resource="http://www.maths.bris.ac.uk/~majpk/" />
+<link r:resource="http://www.mi.ras.ru/~karatsuba/index_e.html" />
+<link r:resource="http://www.mth.kcl.ac.uk/~kassaei/" />
+<link r:resource="http://evergreen.loyola.edu/mpknapp/www/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/L">
+<catid>816616</catid>
+<link r:resource="http://www.ma.huji.ac.il/~erezla/" />
+<link r:resource="http://www.fen.bilkent.edu.tr/~franz/" />
+<link r:resource="http://www.math.chalmers.se/~sj/" />
+<link r:resource="http://orion.math.iastate.edu/linglong/" />
+<link r:resource="http://www.math.lsa.umich.edu/~lagarias/" />
+<link r:resource="http://www.ntu.edu.sg/home/lingsan/" />
+<link r:resource="http://www.math.mcgill.ca/labute/" />
+<link r:resource="http://www.math.cornell.edu/~alozano/" />
+<link r:resource="http://people.maths.ox.ac.uk/~lauder/" />
+<link r:resource="http://www.math.osu.edu/~leibman/" />
+<link r:resource="http://www.ma.huji.ac.il/~elon/index.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/M">
+<catid>816607</catid>
+<link r:resource="http://www.jmilne.org/math/" />
+<link r:resource="http://www.math.harvard.edu/~mazur/" />
+<link r:resource="http://www.maths.uq.edu.au/~krm/" />
+<link r:resource="http://www.lix.polytechnique.fr/Labo/Francois.Morain/english-index.html" />
+<link r:resource="http://www.math.toronto.edu/murty/" />
+<link r:resource="http://math.bu.edu/people/dmm/" />
+<link r:resource="http://www.maths.bris.ac.uk/~majm/" />
+<link r:resource="http://www-math.uni-paderborn.de/~preda/" />
+<link r:resource="http://www.dm.unipi.it/gauss-pages/melfi/public_html/melfi.html" />
+<link r:resource="http://primes.utm.edu/mersenne/LukeMirror/mersenne.htm" />
+<link r:resource="http://phobos.ramapo.edu/~kmcmurdy/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/N">
+<catid>816596</catid>
+<link r:resource="http://www.math.unicaen.fr/~nitaj/" />
+<link r:resource="http://www.juen.ac.jp/math/nakagawa/jin_e.html" />
+<link r:resource="http://www.math.jussieu.fr/~nekovar/" />
+<link r:resource="http://www.imsc.res.in/~dsn/" />
+<link r:resource="http://www.math.utah.edu/~niziol/" />
+<link r:resource="http://comet.lehman.cuny.edu/nathanson/" />
+<link r:resource="http://www.trnicely.net/" />
+<link r:resource="http://www.math.rwth-aachen.de/homes/Gabriele.Nebe/index.html.en" />
+<link r:resource="http://tnt.math.se.tmu.ac.jp/~nakamula/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/O">
+<catid>816606</catid>
+<link r:resource="http://www.math.wisc.edu/~ono/" />
+<link r:resource="http://www1.doshisha.ac.jp/~rokazaki/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/P">
+<catid>816618</catid>
+<link r:resource="http://www.math.tamu.edu/~map/" />
+<link r:resource="http://www.williams.edu/Mathematics/apacelli/" />
+<link r:resource="http://www.math.rochester.edu/people/faculty/apizer/" />
+<link r:resource="http://www.math.dartmouth.edu/~carlp/" />
+<link r:resource="http://www.math.tifr.res.in/~dprasad/" />
+<link r:resource="http://www.math.colostate.edu/~pries/" />
+<link r:resource="http://www.chalcedon.demon.co.uk/rgep/rcam.html" />
+<link r:resource="http://www.peneva.org/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/Q">
+<catid>816597</catid>
+<link r:resource="http://roland.queme.free.fr/" />
+<link r:resource="http://www-ma2.upc.edu/~quer/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/R">
+<catid>816609</catid>
+<link r:resource="http://www.mtholyoke.edu/~robinson/" />
+<link r:resource="http://www.mathematik.uni-ulm.de/fak/presse/richert.html.en" />
+<link r:resource="http://www.math.tau.ac.il/~rudnick/" />
+<link r:resource="http://math.bu.edu/people/rohrlich/" />
+<link r:resource="http://www.maths.bris.ac.uk/~maher/" />
+<link r:resource="http://www.math.uwaterloo.ca/~mrubinst/" />
+<link r:resource="http://math.uci.edu/~krubin/" />
+<link r:resource="http://www-ma2.upc.edu/~rio/" />
+<link r:resource="http://www.wfu.edu/~rouseja/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/S">
+<catid>816615</catid>
+<link r:resource="http://www.maths.bris.ac.uk/~mancs/" />
+<link r:resource="http://personal.ecu.edu/shlapentokha/" />
+<link r:resource="http://www.tem.uoc.gr/~siligard/" />
+<link r:resource="http://www.maths.ed.ac.uk/~chris/" />
+<link r:resource="http://rene.ma.utexas.edu/users/asofer/" />
+<link r:resource="http://www.mat.uniroma2.it/~schoof/" />
+<link r:resource="http://www.cs.uwaterloo.ca/~shallit/" />
+<link r:resource="http://math.uci.edu/~asilverb/" />
+<link r:resource="http://www.mathematik.uni-regensburg.de/Schmidt/index-en.html" />
+<link r:resource="http://www.math.tifr.res.in/~shorey/" />
+<link r:resource="http://titanic.nyme.hu/~laszalay/" />
+<link r:resource="http://math.nju.edu.cn/~zwsun/" />
+<link r:resource="http://www.mpi-inf.mpg.de/~sschmitt/" />
+<link r:resource="http://math.mit.edu/~drew" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/T">
+<catid>816603</catid>
+<link r:resource="http://www.math.uwaterloo.ca/~eteske/" />
+<link r:resource="http://www.math.nus.edu.sg/~mattanv/" />
+<link r:resource="http://math.ucsd.edu/~aterras/" />
+<link r:resource="http://www.math.leidenuniv.nl/~tijdeman/" />
+<link r:resource="http://finanz.math.tugraz.at/~tichy/" />
+<link r:resource="http://www.math.niu.edu/~jthunder/" />
+<link r:resource="http://www.math.rug.nl/~top/" />
+<link r:resource="http://math.arizona.edu/~thakur/" />
+<link r:resource="http://www.math.sc.edu/people/trifonov.html" />
+<link r:resource="http://www.aha.ru/~tsfasman/" />
+<link r:resource="http://members.aon.at/toplicm/" />
+<link r:resource="http://www.pdmi.ras.ru/~yuri/" />
+<link r:resource="http://www.math.rutgers.edu/~tunnell/" />
+<link r:resource="http://www.unileoben.ac.at/~mathstat/personal/thuswaldner.htm" />
+<link r:resource="http://rene.ma.utexas.edu/text/webpages/tate.html" />
+<link r:resource="http://www.math.klte.hu/~tengely/" />
+<link r:resource="http://www.math.uoc.gr/~tzanakis/" />
+<link r:resource="http://www.math.ias.edu/~rtaylor" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/U">
+<catid>816620</catid>
+<link r:resource="http://www.math.uiuc.edu/~ullom/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/V">
+<catid>816608</catid>
+<link r:resource="http://math.berkeley.edu/~vojta/" />
+<link r:resource="http://users.info.unicaen.fr/~brigitte/" />
+<link r:resource="http://www.math.psu.edu/rvaughan/" />
+<link r:resource="http://rene.ma.utexas.edu/users/voloch/" />
+<link r:resource="http://www.math.ubc.ca/~vatsal/" />
+<link r:resource="http://www.ma.utexas.edu/users/villegas/" />
+<link r:resource="http://logic.pdmi.ras.ru/~vsemir/" />
+<link r:resource="http://math.arizona.edu/~velez/" />
+<link r:resource="http://www2.truman.edu/~tvazzana/" />
+<link r:resource="http://www.dm.unipi.it/pages/viola/public_html/" />
+<link r:resource="http://www.imar.ro/~mvajaitu/" />
+<link r:resource="http://www.math.lsu.edu/~verrill/" />
+<link r:resource="http://www.cims.nyu.edu/~venkatesh/" />
+<link r:resource="http://www.math.nagoya-u.ac.jp/~virdol/" />
+<link r:resource="http://research.uvu.edu/machiel/" />
+<link r:resource="http://wis.kuleuven.be/algebra/veys.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/W">
+<catid>816605</catid>
+<link r:resource="http://www.win.tue.nl/~bdeweger/" />
+<link r:resource="http://www.math.jussieu.fr/~miw/" />
+<link r:resource="http://www.math.okstate.edu/~wrightd/" />
+<link r:resource="http://www.math.ualberta.ca/Weiss_A.html" />
+<link r:resource="http://www.math.lsu.edu/~wamelen/" />
+<link r:resource="http://www.suu.edu/faculty/weingartner/" />
+<link r:resource="http://www.mathi.uni-heidelberg.de/~wingberg/agwingberg/wingberg.html" />
+<link r:resource="http://www.math.uci.edu/~dwan/" />
+<link r:resource="http://www.math.umass.edu/~weston/" />
+<link r:resource="http://www-users.math.umd.edu/~lcw/" />
+<link r:resource="http://www.cs.purdue.edu/people/faculty/ssw/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/X">
+<catid>816619</catid>
+<link r:resource="http://mat.uab.cat/~xarles/Welcomee.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/Y">
+<catid>816604</catid>
+<link r:resource="http://www.math.ust.hk/faculty/makryu/" />
+<link r:resource="http://www.math.uiowa.edu/~yey/" />
+<link r:resource="http://www.math.tohoku.ac.jp/~yukie/" />
+<link r:resource="http://www.math.boun.edu.tr/instructors/yildirim/yildirim.htm" />
+<link r:resource="http://www.math.kyoto-u.ac.jp/~yositomi/index.en.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/People/Z">
+<catid>816599</catid>
+<link r:resource="http://www.math.unipr.it/~zaccagni/home.html" />
+<link r:resource="http://www.loria.fr/~zimmerma/" />
+<link r:resource="http://www.math.buffalo.edu/~hjzhu/" />
+<link r:resource="http://finanz.math.tu-graz.ac.at/~ziegler/" />
+<link r:resource="http://wain.mi.ras.ru/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Prime_Numbers">
+<catid>816622</catid>
+<link r:resource="http://www.trnicely.net/" />
+<link r:resource="http://www.ontko.com/~rayo/primes/index.html" />
+<link1 r:resource="http://www.primepuzzles.net/"></link1>
+<link r:resource="http://www.math.fau.edu/Richman/carm.htm" />
+<link r:resource="http://www.math.utah.edu/~alfeld/math/prime.html" />
+<link r:resource="http://web.tiscali.it/GEB/sfteng.htm" />
+<link r:resource="http://www.rsok.com/~jrm/printprimes.html" />
+<link r:resource="http://www-groups.dcs.st-and.ac.uk/~history/HistTopics/Prime_numbers.html" />
+<link r:resource="http://www.brennen.net/primes/" />
+<link r:resource="http://yoyo.cc.monash.edu.au/~bunyip/primes/" />
+<link r:resource="http://mathforum.org/dr.math/faq/faq.prime.num.html" />
+<link r:resource="http://www.worldofnumbers.com/palpri.htm" />
+<link r:resource="http://numbers.computation.free.fr/Constants/Primes/twin.html" />
+<link r:resource="http://science.kennesaw.edu/~jdemaio/generali.htm" />
+<link r:resource="http://members.aon.at/toplicm/cp09.html" />
+<link r:resource="http://www.prime-numbers.org/" />
+<link r:resource="http://www.opertech.com/primes/k-tuples.html" />
+<link r:resource="http://www.math.utah.edu/~alfeld/math/machine.html" />
+<link r:resource="http://www.numberspiral.com/" />
+<link r:resource="http://www.maths.tcd.ie/pub/coursework/374/Primality.pdf" />
+<link1 r:resource="http://primes.utm.edu/"></link1>
+<link r:resource="http://mathworld.wolfram.com/topics/PrimeNumbers.html" />
+<link r:resource="http://en.wikipedia.org/wiki/Category:Prime_numbers" />
+<link r:resource="http://anthony.d.forbes.googlepages.com/ktuplets.htm" />
+<link r:resource="http://pagesperso-orange.fr/yves.gallot/primes/gfn.html" />
+<link r:resource="http://www.hbmeyer.de/eratosiv.htm" />
+<link r:resource="http://www.naturalnumbers.org/" />
+<link r:resource="http://www.numberempire.com/primenumbers.php" />
+<link r:resource="http://www.g-gloeggler.de/" />
+<link r:resource="http://www.members.tele2.nl/galien8/prime/prime.html" />
+<link r:resource="http://empslocal.ex.ac.uk/people/staff/mrwatkin/zeta/tutorial.htm" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Prime_Numbers/Mersenne">
+<catid>816627</catid>
+<link1 r:resource="http://www.mersenne.org/"></link1>
+<link r:resource="http://www.garlic.com/~wedgingt/mersenne.html" />
+<link r:resource="http://www.isthe.com/chongo/tech/math/prime/mersenne.html" />
+<link r:resource="http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Mersenne.html" />
+<link r:resource="http://www.teamprimerib.com/" />
+<link r:resource="http://www.mersenneforum.org/" />
+<link r:resource="http://primes.utm.edu/mersenne" />
+<link r:resource="http://mersennewiki.org/" />
+<link r:resource="http://www.mersenne.org/primenet/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Prime_Numbers/Primality_Tests">
+<catid>816623</catid>
+<link r:resource="http://www.ieeta.pt/~tos/p-roots.html" />
+<link r:resource="http://web.singnet.com.sg/~huens/paper23.htm" />
+<link r:resource="http://www.pseudoprime.com/pseudo.html" />
+<link r:resource="http://mathworld.wolfram.com/topics/PrimalityTesting.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Prime_Numbers/Primality_Tests/Primality_Proving">
+<catid>816625</catid>
+<link r:resource="http://mathpages.com/home/kmath473.htm" />
+<link1 r:resource="http://primes.utm.edu/prove/proving.html"></link1>
+<link r:resource="http://www.cse.iitk.ac.in/users/manindra/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Prime_Numbers/Primality_Tests/Primality_Proving/Software">
+<catid>816626</catid>
+<link r:resource="http://www.ellipsa.eu/" />
+<link r:resource="http://groups.yahoo.com/group/primeform/" />
+<link1 r:resource="http://primes.utm.edu/links/programs/seeking_large_primes/"></link1>
+<link r:resource="http://www.hermetic.ch/pns/pns.htm" />
+<link r:resource="http://www.lix.polytechnique.fr/~morain/Prgms/ecpp.english.html" />
+<link r:resource="http://primes.utm.edu/bios/page.php?id=431" />
+<link r:resource="http://primes.utm.edu/programs/NewPGen/" />
+<link r:resource="http://primes.utm.edu/programs/gallot/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Prime_Numbers/Primality_Tests/Pseudoprimes">
+<catid>816624</catid>
+<link r:resource="http://mathpages.com/home/kmath003/kmath003.htm" />
+<link r:resource="http://mathworld.wolfram.com/topics/Pseudoprimes.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Publications">
+<catid>816567</catid>
+<link r:resource="http://www.csirik.net/papers.html" />
+<link r:resource="http://www.numbertheory.org/ntw/N12.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Publications/Bibliographies">
+<catid>816570</catid>
+<link r:resource="http://www.mscs.dal.ca/~dilcher/bernoulli.html" />
+<link r:resource="http://liinwww.ira.uka.de/bibliography/Theory/computational.number.theory.html" />
+<link r:resource="http://www.cs.uwaterloo.ca/~shallit/antbib.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Publications/Books">
+<catid>816569</catid>
+<link r:resource="http://www.math.umn.edu/~garrett/crypto/" />
+<link r:resource="http://www.rzuser.uni-heidelberg.de/~hb3/rec.html" />
+<link r:resource="http://www.math.brown.edu/~jhs/frint.html" />
+<link r:resource="http://math.ucsd.edu/~revans/errata/errata.html" />
+<link r:resource="http://math.stanford.edu/~bump/book.html" />
+<link r:resource="http://www.maths.mq.edu.au/~alf/NotesonFLT.html" />
+<link r:resource="http://www.math.uga.edu/~lorenz/book.html" />
+<link r:resource="http://www.canisius.edu/~huard/chowla.html" />
+<link r:resource="http://www.imath.kiev.ua/~syta/vorbook.html" />
+<link r:resource="http://math.la.asu.edu/~jj/dnt/" />
+<link r:resource="http://wain.mi.ras.ru/mian218.htm" />
+<link r:resource="http://math.albany.edu:8000/~lc802/mono.html" />
+<link r:resource="http://www.cs.amherst.edu/~dac/primes.html" />
+<link r:resource="http://www.mathpropress.com/HardyAndWright.html" />
+<link r:resource="http://www.cerias.purdue.edu/homes/ssw/cun/third/" />
+<link r:resource="http://www.ams.org/online_bks/conm22/" />
+<link r:resource="http://www.math.umd.edu/~lcw/cyclo.html" />
+<link r:resource="http://www.math.umd.edu/~lcw/ec.html" />
+<link r:resource="http://www.maths.lancs.ac.uk/~jameson/pntdescr/" />
+<link r:resource="http://www.cs.uwaterloo.ca/~shallit/ant.html" />
+<link r:resource="http://shoup.net/ntb/" />
+<link r:resource="http://fs.gallup.unm.edu/ebooks-otherformats.htm" />
+<link r:resource="http://www.maths.nottingham.ac.uk/personal/ibf/book/book.html" />
+<link r:resource="http://modular.math.washington.edu/Tables/antwerp/" />
+<link r:resource="http://people.ucalgary.ca/~ramollin/fnt2.html" />
+<link r:resource="http://maths.dur.ac.uk/~tpcc68/number/welcome.html" />
+<link r:resource="http://neilsloane.com/doc/splag.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Publications/Journals">
+<catid>816572</catid>
+<link r:resource="http://www.ams.org/mcom/" />
+<link r:resource="http://www.integers-ejcnt.org/" />
+<link r:resource="http://almira.math.u-bordeaux.fr/jtnb/jtnb_english.html" />
+<link r:resource="http://www.elsevier.com/locate/issn/1071-5797" />
+<link r:resource="http://www.sciencedirect.com/science/journal/0022314X" />
+<link r:resource="http://journals.impan.gov.pl/aa/" />
+<link r:resource="http://www.springerlink.com/content/102986/" />
+<link r:resource="http://www.fq.math.ca/" />
+<link r:resource="http://fs.gallup.unm.edu/" />
+<link r:resource="http://www.worldscientific.com/worldscinet/ijnt" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Publications/Preprint_Archives">
+<catid>816568</catid>
+<link r:resource="http://www.math.uiuc.edu/K-theory/" />
+<link1 r:resource="http://front.math.ucdavis.edu/math.NT"></link1>
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Publications/Theses">
+<catid>816571</catid>
+<link r:resource="http://www.its.caltech.edu/~ljpk/abstract/abstract.html" />
+<link r:resource="http://wain.mi.ras.ru/phd.htm" />
+<link r:resource="http://www.ruhr-uni-bochum.de/itsc/tanja/preprints.html" />
+<link r:resource="http://www.fischman.org/ami/math/" />
+<link r:resource="http://www.math.mcmaster.ca/marshall/dis.html" />
+<link r:resource="http://www.numbertheory.org/ntw/N5.html" />
+<link r:resource="http://www.math.rutgers.edu/~sdmiller/thesis.html" />
+<link r:resource="http://www.cs.wisc.edu/~cdx/Sieve.pdf" />
+<link r:resource="http://www.maths.bris.ac.uk/~mancs/thesis/master.ps" />
+<link r:resource="http://www.mat.univie.ac.at/~manfred/habil.pdf" />
+<link r:resource="http://www.csirik.net/csirik-thesis.pdf" />
+<link r:resource="http://www.boojum.org.uk/maths/quartic-surfaces/thesis.html" />
+<link r:resource="http://www.math.jhu.edu/~fspinu/math/thesis.pdf" />
+<link r:resource="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.26.6924" />
+<link r:resource="http://www.uea.ac.uk/~h090/PPthesis.html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Research_Groups">
+<catid>816628</catid>
+<link r:resource="http://www.math.uga.edu/~lorenz/Number_Theory_Group.html" />
+<link r:resource="http://www.maths.nott.ac.uk/personal/ibf/ntag.html" />
+<link r:resource="http://www.ma.utexas.edu/~voloch/numberthy.html" />
+<link r:resource="http://www.math.bgu.ac.il/~efrat/resgroup.html" />
+<link r:resource="http://www.math.sc.edu/~filaseta/numthry.html" />
+<link r:resource="http://math.bu.edu/research/algebra/" />
+<link r:resource="http://www.boku.ac.at/math/nth.html" />
+<link r:resource="http://www.math.leidenuniv.nl/~desmit/numth/" />
+<link r:resource="http://www.math-inst.hu/staff/number.html" />
+<link r:resource="http://www.math.wisc.edu/~ono/algebra.html" />
+<link r:resource="http://www-users.york.ac.uk/~mmd1/numbertheory/" />
+<link r:resource="http://icarus.math.mcmaster.ca/marshall/numbertheorySem.html" />
+<link r:resource="http://www.math.ucsb.edu/~agboola/SGA.html" />
+<link r:resource="http://www.math.lsa.umich.edu/research/number_theory/" />
+<link r:resource="http://www.math.hr/~duje/semeng.html" />
+<link r:resource="http://www.dpmms.cam.ac.uk/Seminars/NumberT/" />
+<link r:resource="http://www.math.okayama-u.ac.jp/number.html" />
+<link r:resource="http://www.math.ubc.ca/~gerg/NT/" />
+<link r:resource="http://www.dm.unipi.it/gauss-pages/melfi/public_html/" />
+<link r:resource="http://www.prime.sdu.edu.cn/" />
+<link r:resource="http://swc.math.arizona.edu/" />
+<link r:resource="http://www.impan.gov.pl/About/numberth.html" />
+<link r:resource="http://www.math.klte.hu/algebra/indexa.htm" />
+<link r:resource="http://math.gc.cuny.edu/seminars/jointnumbertheory.html" />
+<link r:resource="http://www.arithgeom-network.univ-rennes1.fr/" />
+<link r:resource="http://www.maths.gla.ac.uk/research/groups/ntc/" />
+<link r:resource="http://www.math.rochester.edu/research/algebra_and_number_theory/" />
+<link r:resource="http://www.mathematik.uni-regensburg.de/FGAlgZyk/index-en.html" />
+<link r:resource="http://www.mast.queensu.ca/graduate/alge.php" />
+<link r:resource="http://www.math.uiuc.edu/ResearchAreas/numbertheory/index.html" />
+<link r:resource="http://www.maths.ox.ac.uk/groups/number-theory" />
+<link r:resource="http://www.uea.ac.uk/~h090/number_theory.html" />
+<link r:resource="http://www.numbertheory.org/ntw/N2.html" />
+<link r:resource="http://www.math.brown.edu/NTgroup.html" />
+<link r:resource="http://www.math.utu.fi/en/research/.groups/numbertheory/index.html" />
+<link r:resource="http://www.maths.bris.ac.uk/research/pure/themes/number_theory/" />
+<link r:resource="http://www.kcl.ac.uk/nms/depts/mathematics/research/numbertheory/index.aspx" />
+<link r:resource="http://www.crm.umontreal.ca/labs/cicma/en/index.html" />
+<link r:resource="http://www.cs.elte.hu/algebra/index_eng.html" />
+<link r:resource="http://stnb.tk/en/" />
+<link r:resource="http://www.cardiff.ac.uk/maths/research/researchgroups/numbertheory/index.html" />
+<link r:resource="https://www.dur.ac.uk/mathematical.sciences/events/seminars/?series=8" />
+<link r:resource="http://pure.rhul.ac.uk/portal/en/organisations/number-theory(fa282a57-3392-46b6-b4e6-3395d32a6023).html" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Software">
+<catid>816629</catid>
+<link r:resource="http://www.loria.fr/~zimmerma/records/ecmnet.html" />
+<link r:resource="http://www.ginac.de/CLN/" />
+<link r:resource="http://crd.lbl.gov/~dhbailey/mpdist/mpdist.html" />
+<link r:resource="http://fchabaud.free.fr/English/ZEN/" />
+<link r:resource="http://www.math.uu.nl/people/vdkallen/lllimplementations.html" />
+<link r:resource="http://www.math.tu-berlin.de/~kant/kash.html" />
+<link r:resource="http://www.mathematik.uni-muenchen.de/~forster/sw/aribas.html" />
+<link r:resource="http://www.spd.dcu.ie/johnbcos/Maple.htm" />
+<link r:resource="http://www.shoup.net/ntl/" />
+<link r:resource="http://archives.math.utk.edu/software/msdos/number.theory" />
+<link r:resource="http://indigo.ie/~mscott/" />
+<link r:resource="http://archives.math.utk.edu/software/mac/numberTheory/.directory.html" />
+<link r:resource="http://www.schulenberg.com/" />
+<link r:resource="http://www.ics.uci.edu/~eppstein/numth/" />
+<link r:resource="http://www.iaeste.dk/~henrik/projects/nfsnet.html" />
+<link r:resource="http://archives.math.utk.edu/software/msdos/dynamics/aliquot/.html" />
+<link r:resource="http://www.math.miami.edu/~phaser" />
+<link r:resource="http://www.apfloat.org/" />
+<link r:resource="http://www.numbertheory.org/calc/krm_calc.html" />
+<link r:resource="http://www.numbertheory.org/gnubc/gnubc.html" />
+<link r:resource="http://www.hermetic.ch/factors/factors.htm" />
+<link r:resource="http://magma.maths.usyd.edu.au/" />
+<link r:resource="http://sourceforge.net/projects/eisseeker" />
+<link r:resource="http://kaprekar.sourceforge.net/" />
+<link r:resource="http://library.wolfram.com/infocenter/MathSource/556/" />
+<link r:resource="http://largeint.sourceforge.net/" />
+<link r:resource="http://www.imach.uran.ru/cbignum/" />
+<link r:resource="http://tnt.math.se.tmu.ac.jp/simath/" />
+<link r:resource="http://tnt.math.se.tmu.ac.jp/nzmath/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Software/Pari-GP">
+<catid>816631</catid>
+<link r:resource="http://www.math.brown.edu/~jhs/" />
+<link r:resource="http://www.ma.utexas.edu/users/villegas/pari.html" />
+<link r:resource="http://math.scu.edu/~eschaefe/pariprog.html" />
+<link r:resource="http://www.ma.utexas.edu/users/villegas/cnt/cnt.html" />
+<link r:resource="http://packages.debian.org/unstable/math/pari-gp.html" />
+<link1 r:resource="http://pari.math.u-bordeaux.fr/"></link1>
+<link r:resource="http://www.math.uiuc.edu/~r-ash/GPTutorial.pdf" />
+<link r:resource="http://www.mathematik.uni-ulm.de/help/perl5/doc-5.005_03/Math/libPARI.html" />
+<link r:resource="http://www.math.u-bordeaux.fr/~belabas/pari/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Software/UBASIC">
+<catid>816630</catid>
+<link r:resource="ftp://rkmath.rikkyo.ac.jp/pub/ubibm/" />
+<link r:resource="http://archives.math.utk.edu/software/msdos/number.theory/ubasic/.html" />
+<link r:resource="http://www.rkmath.rikkyo.ac.jp/~kida/ubasic.htm" />
+<link r:resource="http://ed-thelen.org/bab/bab-intro.html" />
+<link r:resource="http://dosbeowulf.tripod.com/" />
+</topic>
+<topic r:id="Top/Science/Math/Number_Theory/Tables">
+<catid>816621</catid>
+<link r:resource="http://math.la.asu.edu/~jj/numberfields/" />
+<link r:resource="http://www.trnicely.net/twins/tabpi2.html" />
+<link r:resource="http://digital.library.upenn.edu/webbin/gutbook/lookup?num=65" />
+<link r:resource="http://digital.library.upenn.edu/webbin/gutbook/lookup?num=2586" />
+<link r:resource="http://digital.library.upenn.edu/webbin/gutbook/lookup?num=2583" />
+<link r:resource="http://www.trnicely.net/twins/twins2.html" />
+<link r:resource="http://users.utu.fi/taumets/fermat/fermat.htm" />
+<link r:resource="http://www.math.mcgill.ca/goren/ZetaValues/zeta.html" />
+<link r:resource="http://www.math.harvard.edu/~elkies/ferm.html" />
+<link r:resource="http://www.math.harvard.edu/~elkies/compnt.html" />
+<link r:resource="http://www.dtc.umn.edu/~odlyzko/zeta_tables/" />
+<link r:resource="http://www.numbertheory.org/classnos/" />
+<link r:resource="http://www.algebra.at/CubicNumberFields.htm" />
+<link r:resource="http://www.math.utexas.edu/users/tornaria/cnt/" />
+<link r:resource="http://math.asu.edu/~jj/localfields/" />
+<link r:resource="http://www.math.klte.hu/~igaal/algorithm.htm" />
+<link r:resource="http://www.positiveintegers.org/" />
+<link r:resource="http://www.chalcedon.demon.co.uk/rgep/carpsp.html" />
+<link r:resource="http://www.dm.unipi.it/gauss-pages/melfi/public_html/pratica.html" />
+<link r:resource="http://www.math.uni-duesseldorf.de/~klueners/minimum/" />
+<link r:resource="http://mathematical.com/publications.htm" />
+</topic>
