@@ -46,4 +46,3 @@ dict.wordFreq = as.matrix(colSums(dict.matTf))
 write(x=t(dict.allWords), file="datafiles/Dictionary.txt", sep="\t")
 write.table(x=dict.wordFreq,file="datafiles/DictionaryFrequency.txt",quote=FALSE,sep="\t")
 
-

@@ -1,0 +1,1 @@
+To merge files with same name recursively in all folders -> find Top3 -name "web1" -print0 | xargs -0 cat >> rr
