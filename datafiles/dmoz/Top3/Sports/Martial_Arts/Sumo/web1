@@ -1,0 +1,2260 @@
+====================<http://www.cibersumo.com/>====================
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+	<meta name="designer" content="Juergen Koller - http://www.lernvid.com" />
+<meta name="licence" content="Creative Commons 3.0" />
+<link href="/templates/allrounder-j1.6/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+
+<!--- ADD CSS Files -->
+
+
+
+	<link href="/templates/allrounder-j1.6/css/template.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="/templates/allrounder-j1.6/css/joomla.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="/templates/allrounder-j1.6/css/colors.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="/templates/allrounder-j1.6/css/lvdropdown.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="/templates/allrounder-j1.6/css/typo.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="/templates/allrounder-j1.6/css/modules.css" rel="stylesheet" type="text/css" media="all" />
+	
+<!--- Older Browser CSS -->
+<!--[if IE 7]>
+	<link href="/templates/allrounder-j1.6/css/ie7.css" rel="stylesheet" type="text/css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+	<link href="/templates/allrounder-j1.6/css/ie5x6x.css" rel="stylesheet" type="text/css" media="all" />
+<![endif]-->
+
+
+<!--- ADD JavaScript Files -->
+
+	<script type="text/javascript" src="/templates/allrounder-j1.6/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript">
+		var jq = jQuery.noConflict();
+	</script>
+	<script type="text/javascript" src="/templates/allrounder-j1.6/js/lv-dropdown.js"></script>
+	<script type="text/javascript" src="/templates/allrounder-j1.6/js/jq.easy-tooltip.min.js"></script>
+	<script type="text/javascript" src="/templates/allrounder-j1.6/js/jq.easy-caption.min.js"></script>
+	<script type="text/javascript" src="/templates/allrounder-j1.6/js/jq.corner.packed.js"></script>
+	<script type="text/javascript" src="/templates/allrounder-j1.6/js/reflection.js"></script>
+	<script type="text/javascript" src="/templates/allrounder-j1.6/js/effects.js"></script>
+
+
+<!-- Layout parameters -->
+	<style type="text/css">
+
+	/* Template layout parameters */
+	
+
+	#wrapper {
+		margin-top:10px;
+	}
+	#foot_container {
+		margin-bottom:0px;
+	}
+	#topmenu ul.menu, #topmenu ul.menu li a, #topmenu ul.menu li span.separator {
+		background-image: url('/templates/allrounder-j1.6/images/dropdown-smooth.png');
+	}
+	#topmenu ul.menu li.parent a, #topmenu ul.menu li.parent span.separator {
+		background-image: url('/templates/allrounder-j1.6/images/menu-parent-smooth.png');
+	}
+	#topmenu ul.menu li.parent a:hover, #topmenu ul.menu li.parent span.separator:hover, 
+	#topmenu ul.menu li#current.parent a, #topmenu ul.menu li#current.parent span.separator {
+		background-image: url('/templates/allrounder-j1.6/images/menu-parent-hover-smooth.png');
+	}
+			
+</style>
+<!-- Define fonts -->
+	<style type="text/css">
+
+	/* Template fonts */
+	
+	body {
+		font-size:15px;
+
+							font-family:Trebuchet MS, Arial, Helvetica, sans-serif;
+				line-height:1.3em;
+	}
+
+</style>
+<!-- ADD own template colors -->
+	<style type="text/css">
+
+	/* Template colors */
+
+	body {
+		background-color: #A2CDFD;
+		color: #000000;
+	}
+	span#copy a {
+		color: #000000;
+	}
+	a, a:link, a:visited, a:active, a:focus {
+		color: #A52A2A;
+	}
+
+	#wrapper, #foot_container {
+		background-color: #EFEFEF;
+		border: 1px solid #000000;
+	}
+
+	
+	#header {
+		background-color: #996633;
+		border-top:1px solid #222222;
+		border-left:1px solid #222222;	
+		border-right:1px solid #222222;	
+	}
+	.heckl, .heckr {  
+		border-top: 10px solid #222222;
+	}
+
+	#footer {
+		background-color: #996633;
+		border:1px solid #444444;
+		border-bottom:2px solid #444444;
+	}
+	.feckl, .feckr {  
+		border-bottom: 10px solid #222222;
+	}
+	#footer a#gotop {
+		color: #FFFFFF;
+	}
+	#footermodule1234, #footermodule1234 a, #footermodule1234 ul.menu, #footermodule5, #footermodule5 a {
+		color: #FFFFFF;
+	}
+	#subfoot {
+		background-color: #313131;
+		border-top:1px solid #FFFFFF;
+		border-bottom:1px solid #222222;
+	}
+	.copytext {
+		color: #5B6C71;
+	}
+
+	#maincontent {
+		background-color: #F9F9F9;
+		border: 3px double #E9E9E9;
+	}
+	
+	.item-page, .item, .leading-0, .leading-1, .leading-2, .leading-3, .leading-4, .leading-5 {
+		background-color:#FFFFFF;
+		border: 1px solid #E9E9E9;
+	}
+
+	.contentheading, .contentheading a {
+		color: #008000 !important;
+	}
+	div.item-separator {
+		border-bottom:3px double #EEEEEE !important;
+	}
+
+	#wrapper #leftcol h3.moduleh3, #wrapper #rightcol h3.moduleh3	 {
+		background-color: #990000;
+		border-top:	1px solid #555555;
+		color: #DDDDDD;
+	}
+	#wrapper #leftcol h3.moduleh3	 {
+		border-left: 1px solid #000000;
+		border-right: 1px solid #555555;
+	}
+	#wrapper #rightcol h3.moduleh3	 {
+		border-right: 1px solid #000000;
+		border-left: 1px solid #555555;
+	}
+	.h3eckl, .h3eckr {  
+		border-top: 10px solid #222222;
+	}
+
+	#leftcol .module div.lvround-inner, #leftcol .module_menu div.lvround-inner, #leftcol .module_text div.lvround-inner, 
+	#rightcol .module div.lvround-inner, #rightcol .module_menu div.lvround-inner, #rightcol .module_text div.lvround-inner {
+		background-color: #F9F9F9;
+		border: 1px solid #DDDDDD;
+		color: #505050;
+	}
+	#subhead {
+		background-color: #F7F9C5;
+		border: 1px solid #FFFFFF;
+	}
+	.breadcrumbs, .breadcrumbs span {
+		color: #555555;
+	}
+	#leftcol .module div div, #leftcol .module_menu div div, #leftcol .module_text div div, 
+	#rightcol .module div div, #rightcol .module_menu div div, #rightcol .module_text div div {
+		border: 1px solid #FFFFFF;
+	}
+
+	/**** Global Modules ****/
+
+	div.module {
+		color:#505050;
+		background-color:#FFFFFF;
+		border:1px solid #DDDDDD;
+	}
+	div.module h3.moduleh3 {
+		background-color:#EFEFEF;
+		border:1px solid #DDDDDD;
+	}
+
+
+	.input, .inputbox {
+		color: #555555;
+		background-color: #EFEFEF;
+		border-top: 1px solid #CCCCCC;
+		border-left: 1px solid #CCCCCC;
+		border-right: 1px solid #FFFFFF;
+		border-bottom: 1px solid #FFFFFF;
+	}
+	.input:hover, .inputbox:hover {
+		color: #555555;
+		background-color: #F9F9F9;
+	}
+
+	input.button, button.button, button.validate, .pagenav, ul.pagenav li a {
+		color: #555;
+		background-color: #efefef;
+		color: #555555;
+		background-color: #EFEFEF;
+		border-top: 1px solid #CCCCCC;
+		border-left: 1px solid #CCCCCC;
+		border-right: 1px solid #FFFFFF;
+		border-bottom: 1px solid #FFFFFF;
+	}
+	input.button:hover, button.button:hover, button.validate:hover, .pagenav, ul.pagenav li a:hover {
+		color: #000000;
+		background-color: #FFFFFF;
+	}
+
+	/**** Mainmenu with suffix: _menu ****/
+	
+	.module_menu ul.menu li a, .module_menu ul.menu li span.separator {
+		color: #333333;
+		border-bottom:1px dotted #CCCCCC;
+	}
+	.module_menu ul.menu li a:hover, .module_menu ul.menu li a:active, .module_menu ul.menu li a:focus {
+		color: #000000!important;
+	}
+	.module_menu ul.menu li.current a {
+		color: #000000;
+	}
+	.module_menu ul.menu li.current ul li a {
+		color: #000000;
+	}
+
+	/**** Default Tooltips ****/
+
+	.easy-tooltip-default {
+		border: 1px solid #A6A7AB; 
+		background-color: #F2F3F5; 
+		color: #800000;
+	}
+
+
+</style>
+<!-- ADD own dropdown-menu colors -->
+
+
+
+
+
+<!-- math the width of the 3 columns -->
+<style type="text/css">
+	#leftcol {width: 20%;}
+	#rightcol {width: 20%;}
+	#content_outmiddle {width: 58%;}
+	#content_outright {width: 79%;}
+	#content_outleft {width: 79%;}
+</style>
+
+	  <base href="http://www.cibersumo.com/index.php/en/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="sumo, basho, hatsu, haru, natsu, nagoya, aki, kyushu, rikishi, sekitori, makuuchi, juryo, makushita, jonidan, sandanme, jonokuchi, yokozuna, ozeki, sekiwake, komusubi, maegashira" />
+  <meta name="description" content="El Sumo en español. Noticias, resultados de los torneos y de los sekitoris del deporte nacional japonés. Sumo news and results." />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>CIBERSUMO - Home </title>
+  <link href="/index.php/en/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php/en/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/allrounder-j1.6/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/modules/mod_minifrontpage/themes/default/assets/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_languages/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_maximenuck/themes/css3megamenu/css/moo_maximenuhck.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_maximenuck/themes/css3megamenu/css/maximenuhck.php?monid=maximenuck" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_maximenuck/templatelayers/beez_20-position1.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_maximenuck/assets/maximenuresponsiveck.css" type="text/css" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/modules/mod_minifrontpage/library/jquery-1.8.2.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/modules/mod_maximenuck/assets/moomaximenuck.js" type="text/javascript"></script>
+  <script src="/modules/mod_maximenuck/assets/fancymenuck.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});window.addEvent('domready', function() {new DropdownMaxiMenu(document.getElement('div#maximenuck'),{mooTransition : 'Quad',mooEase : 'easeOut',useOpacity : '0',dureeIn : 0,dureeOut : 500,menuID : 'maximenuck',testoverflow : '0',orientation : '0',style : 'moomenu',opentype : 'open',direction : 'normal',directionoffset1 : '30',directionoffset2 : '30',mooDureeout : '500',showactivesubitems : '0',ismobile : 0,menuposition : '0',langdirection : 'ltr',mooDuree : 500});});window.addEvent('domready', function() {new SlideList(document.getElement('div#maximenuck ul'),{fancyTransition : 'Quad',fancyEase : 'easeOut',fancyDuree : 500});});
+  </script>
+ 
+
+
+<script type="text/javascript" src="/inc/jquery/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="/inc/fancybox/jquery.fancybox.js"></script>
+<link rel="stylesheet" href="/inc/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("a.fotos").fancybox();
+	});
+</script>
+
+	
+</head>
+<body>
+			<div id="wrapper" style="max-width:1180px;">
+							
+		
+			<div id="header_container">
+				
+				<div id="header">
+								
+								
+					<div id="logo">
+										
+							<a class="imglogo" href="/index.php"><img alt="Logo" src="/templates/allrounder-j1.6/images/logo/logo3.gif"/></a>
+																													</div>	
+								
+					<span class="heckl">&nbsp;</span>
+					<span class="heckr">&nbsp;</span>
+				</div>
+						
+				
+		
+								             
+		<!--[if lte IE 7]>
+		<link href="/modules/mod_maximenuck/themes/css3megamenu/css/ie7.css" rel="stylesheet" type="text/css" />
+		<![endif]--><!-- debut Maximenu CK, par cedric keiflin -->
+	    <div class="maximenuckh" id="maximenuck" style="z-index:10;">
+		        <div class="maxiroundedleft"></div>
+        <div class="maxiroundedcenter">
+
+            <ul class="menu maximenuck" style="">
+								<li data-level="1" class="maximenuck item114 current active first level1 " style="z-index : 12000;"><a class="maximenuck " href="/index.php/en/"><span class="titreck">Home </span></a>
+		</li><li data-level="1" class="maximenuck item115 parent level1 " style="z-index : 11999;"><span class="separator "><span class="titreck">SUMO: The Sport</span></span>
+	<div class="floatck" style="width:360px;"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first "  style="width:180px;float:left;">
+	<ul class="maximenuck2"><li data-level="2" class="maximenuck item127 first level2 " style="z-index : 11998;"><span class="separator "><span class="titreck">HISTORY AND DATA</span></span>
+		</li><li data-level="2" class="maximenuck item120 level2 " style="z-index : 11997;"><a class="maximenuck " href="/index.php/en/sumo/history-of-sumo"><span class="titreck">History of Sumo</span></a>
+		</li><li data-level="2" class="maximenuck item116 level2 " style="z-index : 11996;"><a class="maximenuck " href="/index.php/en/sumo/terminology"><span class="titreck">Terminology</span></a>
+		</li><li data-level="2" class="maximenuck item117 level2 " style="z-index : 11995;"><a class="maximenuck " href="/index.php/en/sumo/press-room-news"><span class="titreck">Press Room: News</span></a>
+		</li><li data-level="2" class="maximenuck item122 level2 " style="z-index : 11994;"><a class="maximenuck " href="/index.php/en/sumo/the-sekitori"><span class="titreck">The Sekitori</span></a>
+		</li><li data-level="2" class="maximenuck item124 level2 " style="z-index : 11993;"><a class="maximenuck " href="/index.php/en/sumo/kimarite"><span class="titreck">Kimarite</span></a>
+		</li></ul><div class="clr"></div></div><div class="maximenuck2"  style="width:180px;float:left;"><ul class="maximenuck2"><li data-level="2" class="maximenuck item128 level2 " style="z-index : 11992;"><span class="separator "><span class="titreck">BASHO AND RESULTS</span></span>
+		</li><li data-level="2" class="maximenuck item133 parent level2 " style="z-index : 11991;"><a class="maximenuck " href="#"><span class="titreck">Yusho &amp; Sansho</span></a>
+	<div class="floatck" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item134 first level3 " style="z-index : 11990;"><a class="maximenuck " href="/index.php/en/sumo/yusho-sansho/yusho"><span class="titreck">Yusho</span></a>
+		</li><li data-level="3" class="maximenuck item135 level3 " style="z-index : 11989;"><a class="maximenuck " href="/index.php/en/sumo/yusho-sansho/sansho"><span class="titreck">Sansho</span></a>
+		</li><li data-level="3" class="maximenuck item137 last level3 " style="z-index : 11988;"><a class="maximenuck " href="/index.php/en/sumo/yusho-sansho/stats"><span class="titreck">Stats</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item139 level2 " style="z-index : 11987;"><a class="maximenuck " href="/index.php/en/sumo/banzuke"><span class="titreck">Banzuke</span></a>
+		</li><li data-level="2" class="maximenuck item141 level2 " style="z-index : 11986;"><a class="maximenuck " href="/index.php/en/sumo/hoshitori"><span class="titreck">Hoshitori</span></a>
+		</li><li data-level="2" class="maximenuck item142 level2 " style="z-index : 11985;"><a class="maximenuck " href="/index.php/en/sumo/torikumi"><span class="titreck">Torikumi</span></a>
+		</li><li data-level="2" class="maximenuck item145 last level2 " style="z-index : 11984;"><a class="maximenuck " href="/index.php/en/sumo/makuuchi-meetings"><span class="titreck">Makuuchi meetings</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="1" class="maximenuck item118 parent level1 " style="z-index : 11983;"><span class="separator "><span class="titreck">CIBERSUMO: The Game</span></span>
+	<div class="floatck" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="2" class="maximenuck item147 first level2 " style="z-index : 11982;"><a class="maximenuck " href="/index.php/en/cibersumo/daily-results"><span class="titreck">Daily Results</span></a>
+		</li><li data-level="2" class="maximenuck item149 level2 " style="z-index : 11981;"><a class="maximenuck " href="/index.php/en/cibersumo/the-rules-of-the-game"><span class="titreck">The Rules of the Game</span></a>
+		</li><li data-level="2" class="maximenuck item151 parent level2 " style="z-index : 11980;"><a class="maximenuck " href="#"><span class="titreck">The Winners</span></a>
+	<div class="floatck" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="3" class="maximenuck item153 first level3 " style="z-index : 11979;"><a class="maximenuck " href="/index.php/en/cibersumo/the-winners/the-champions"><span class="titreck">The Champions</span></a>
+		</li><li data-level="3" class="maximenuck item155 level3 " style="z-index : 11978;"><a class="maximenuck " href="/index.php/en/cibersumo/the-winners/ciber-yusho"><span class="titreck">Ciber Yusho</span></a>
+		</li><li data-level="3" class="maximenuck item157 last level3 " style="z-index : 11977;"><a class="maximenuck " href="/index.php/en/cibersumo/the-winners/ciber-sansho"><span class="titreck">Ciber Sansho</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="2" class="maximenuck item159 level2 " style="z-index : 11976;"><a class="maximenuck " href="/index.php/en/cibersumo/ciber-banzuke"><span class="titreck">Ciber Banzuke</span></a>
+		</li><li data-level="2" class="maximenuck item161 level2 " style="z-index : 11975;"><a class="maximenuck " href="/index.php/en/cibersumo/ciber-rikishi"><span class="titreck">Ciber Rikishi</span></a>
+		</li><li data-level="2" class="maximenuck item163 level2 " style="z-index : 11974;"><a class="maximenuck " href="/index.php/en/cibersumo/ciber-heyas"><span class="titreck">Ciber Heyas</span></a>
+		</li><li data-level="2" class="maximenuck item165 last level2 " style="z-index : 11973;"><a class="maximenuck " href="http://www.cibersumo.com/usuarios" target="_blank" ><span class="titreck">PLAYERS ACCESS</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="1" class="maximenuck item169 parent level1 " style="z-index : 11972;"><a class="maximenuck " href="#"><span class="titreck">Multimedia</span></a>
+	<div class="floatck" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><li data-level="2" class="maximenuck item170 first level2 " style="z-index : 11971;"><a class="maximenuck " href="/index.php/en/2013-08-07-18-10-3/basho-pics"><span class="titreck">Basho Pics</span></a>
+		</li><li data-level="2" class="maximenuck item173 last level2 " style="z-index : 11970;"><a class="maximenuck " href="/index.php/en/2013-08-07-18-10-3/basho-videos"><span class="titreck">Basho Videos</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li data-level="1" class="maximenuck item196 level1 " style="z-index : 11969;"><a class="maximenuck " href="/index.php/en/online-shop"><span class="titreck">Online Shop</span></a>
+		</li><li data-level="1" class="maximenuck item206 last level1 " style="z-index : 11968;"><a class="maximenuck " href="http://www.ubs.mn/ubslive1.php" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes');return false;" ><span class="titreck">SUMO LIVE!</span></a></li>            </ul>
+        </div>
+        <div class="maxiroundedright"></div>
+        <div style="clear:both;"></div>
+    </div>
+    <!-- fin maximenuCK -->
+
+				<div class="clr"></div>
+					</div>
+					<div id="subhead">
+					            	
+<div class="breadcrumbs">
+<span class="showHere">You are here: </span><span>Home</span></div>
+
+													<div id="search">
+			             <div class="mod-languages">
+
+	<ul class="lang-inline">
+						<li class="lang-active" dir="ltr">
+			<a href="/index.php/en/">
+							<img src="/media/mod_languages/images/en.gif" alt="English (UK)" title="English (UK)" />						</a>
+			</li>
+								<li class="" dir="ltr">
+			<a href="/index.php/es/">
+							<img src="/media/mod_languages/images/es.gif" alt="Español (Formal Internacional) (ES)" title="Español (Formal Internacional) (ES)" />						</a>
+			</li>
+				</ul>
+
+</div>
+
+					</div>
+							</div>
+				<div id="container">
+							
+		
+							<div id="leftcol">
+		             	<div class="module-outer">
+					<h3 class="moduleh3"><strong>Honbasho</strong>
+				<span class="h3eckl">&nbsp;</span>
+			</h3>
+				<div class="module">
+			<div>
+				<div>
+					<div class="lvround-inner">
+						
+
+<div class="custom"  >
+	 
+<table width="100%" align="center" cellpadding="0" cellspacing="0" style="font-family: Trebuchet MS, Arial, Helvetica, sans-serif; font-size: 13px; color:#000000; line-height:17px"><tr><td colspan="3" align="left" height="30" style="font-size:16px; font-weight:bold; color:#008000; text-transform:uppercase">Hatsu Basho 2014</td></tr><tr><td colspan="3" align="center" height="30" valign="middle"><strong><u>Day 15</u></strong></td></tr><tr><td width="20%">Y1w</td><td width="60%">Hakuho</td><td width="20%" align="right">14 - 1</td><tr><td width="20%">O1w</td><td width="60%">Kakuryu</td><td width="20%" align="right">14 - 1</td><tr><td width="20%">K1w</td><td width="60%">Tochiozan</td><td width="20%" align="right">11 - 4</td><tr><td width="20%">M10w</td><td width="60%">Endo</td><td width="20%" align="right">11 - 4</td><tr><td width="20%">M11w</td><td width="60%">Yoshikaze</td><td width="20%" align="right">10 - 5</td><tr><td width="20%">M12w</td><td width="60%">Chiyootori</td><td width="20%" align="right">10 - 5</td><tr><td width="20%">O2e</td><td width="60%">Kotoshogiku</td><td width="20%" align="right">9 - 6</td><tr><td width="20%">M5e</td><td width="60%">Shohozan</td><td width="20%" align="right">9 - 6</td><tr><td width="20%">M8w</td><td width="60%">Tochinowaka</td><td width="20%" align="right">9 - 6</td><tr><td width="20%">M9e</td><td width="60%">Takayasu</td><td width="20%" align="right">9 - 6</td><tr><td width="20%">M16e</td><td width="60%">Osunaarashi</td><td width="20%" align="right">9 - 6</td><tr><td width="20%">S1e</td><td width="60%">Goeido</td><td width="20%" align="right">8 - 7</td><tr><td width="20%">S1w</td><td width="60%">Kotooshu</td><td width="20%" align="right">8 - 7</td><tr><td width="20%">M1e</td><td width="60%">Toyonoshima</td><td width="20%" align="right">8 - 7</td><tr><td width="20%">M6e</td><td width="60%">Tamawashi</td><td width="20%" align="right">8 - 7</td><tr><td width="20%">M6w</td><td width="60%">Kaisei</td><td width="20%" align="right">8 - 7</td><tr><td width="20%">M12e</td><td width="60%">Gagamaru</td><td width="20%" align="right">8 - 7</td><tr><td width="20%">M15e</td><td width="60%">Tokushoryu</td><td width="20%" align="right">8 - 7</td><tr><td width="20%">O1e</td><td width="60%">Kisenosato</td><td width="20%" align="right">7 - 8</td><tr><td width="20%">M1w</td><td width="60%">Okinoumi</td><td width="20%" align="right">7 - 8</td><tr><td width="20%">M7e</td><td width="60%">Takarafuji</td><td width="20%" align="right">7 - 8</td><tr><td width="20%">M8e</td><td width="60%">Kitataiki</td><td width="20%" align="right">7 - 8</td><tr><td width="20%">M14w</td><td width="60%">Masunoyama</td><td width="20%" align="right">7 - 8</td><tr><td width="20%">M15w</td><td width="60%">Takanoiwa</td><td width="20%" align="right">7 - 8</td><tr><td width="20%">M16w</td><td width="60%">Satoyama</td><td width="20%" align="right">7 - 8</td><tr><td width="20%">M2w</td><td width="60%">Ikioi</td><td width="20%" align="right">6 - 9</td><tr><td width="20%">M3e</td><td width="60%">Aoiyama</td><td width="20%" align="right">6 - 9</td></tr><tr><td colspan="6" align="center" height="35"><a href="/index.php/en/sumo/hoshitori">Full Hoshitori</a></td></tr></table> 
+</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="clr"></div>
+		<span class="shadow-left">&nbsp;</span>
+		<span class="shadow-right">&nbsp;</span>
+	</div>
+		<div class="module-outer">
+					<h3 class="moduleh3"><strong>Yusho & Sansho</strong>
+				<span class="h3eckl">&nbsp;</span>
+			</h3>
+				<div class="module">
+			<div>
+				<div>
+					<div class="lvround-inner">
+						
+
+<div class="custom"  >
+	 
+<table width="100%" style="font-family:Trebuchet MS, Times New Roman, Times, serif; font-size:12px; color:#000000" cellpadding="0"><tr><td height="35" colspan="2" valign="top" style="color:#008000"><font size="3"><strong>HATSU BASHO 2014</strong></td></tr><tr><td width="30%" align="left" valign="top"><strong><font color="#008000">Makuuchi:</font></strong></td><td width="70%" align="left" valign="top"><strong>Y1w Hakuho</strong><br />14-1 (28)</td></tr><tr><td width="30%" align="left" valign="top"><strong><font color="#008000">Juryo:</font></strong></td><td width="70%" align="left" valign="top"><strong>J6e Chiyomaru</strong><br />13-2 (1)</td></tr><tr><td width="30%" align="left" valign="top"><strong><font color="#008000">Makushita:</font></strong></td><td width="70%" align="left" valign="top"><strong>Ms21e Higoarashi</strong><br />7-0</td></tr><tr><td width="30%" align="left" valign="top"><strong><font color="#008000">Sandanme:</font></strong></td><td width="70%" align="left" valign="top"><strong>Sd23w Horikiri</strong><br />7-0</td></tr><tr><td width="30%" align="left" valign="top"><strong><font color="#008000">Jonidan:</font></strong></td><td width="70%" align="left" valign="top"><strong>Jd10w Kotoninsei</strong><br />7-0</td></tr><tr><td width="30%" align="left" valign="top"><strong><font color="#008000">Jonokuchi:</font></strong></td><td width="70%" align="left" valign="top"><strong>Jk15w Tokkoriki</strong><br />6-1</td></tr><tr><td colspan="2"><hr></td></tr><tr><td align="left" valign="top"><strong><font color="#990000">Kantosho:<font></strong></td><td width="85%" align="left" valign="top"><strong>M10w Endo</strong><br />(1)</td></tr></table> 
+</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="clr"></div>
+		<span class="shadow-left">&nbsp;</span>
+		<span class="shadow-right">&nbsp;</span>
+	</div>
+	
+				</div>
+					
+		    <div id="content_outmiddle">
+					
+		
+				<div id="maincontent">
+					
+<div id="system-message-container">
+</div>						
+					<div class="blog-featured">
+
+<div class="items-leading">
+			<div class="leading-0">
+			
+	<h2 class="contentheading">
+					<a href="/index.php/en/sumo/press-room-news/339-kakuryu-relaxed-ahead-of-yokozuna-promotion-bid">
+			Kakuryu relaxed ahead of yokozuna promotion bid</a>
+			</h2>
+
+
+
+
+
+
+	<div class="img-intro-right">
+	<img
+					style="float:right"
+			src="/images/rikishis/Kakuryu02.jpg" alt=""/>
+	</div>
+
+<p>Ozeki Kakuryu said he hopes to stick to his normal preparations ahead of Spring Grand Sumo Tournament, where a victory should see him promoted to sumo’s highest rank of yokozuna. “It doesn’t really do any good to think about it now,” he told a news conference in Osaka. “I’m going to prepare as I usually do. If I’m able to go into the ring relaxed, that will be best.”</p>
+<p>Kakuryu lost his first bout in January’s New Year basho, but reeled off 14 straight wins, including a clutch final-day victory over yokozuna Hakuho that forced a championship playoff. Hakuho, however, won the playoff between the two Mongolians to earn his 28th career championship.</p>
+
+			<p class="readmore">
+				<a href="/index.php/en/sumo/press-room-news/339-kakuryu-relaxed-ahead-of-yokozuna-promotion-bid">
+					Read more...</a>
+		</p>
+
+
+<!-- <div class="item-separator"></div> -->
+		</div>
+			</div>
+
+
+
+</div>
+
+				</div>
+				<div class="clr"></div>
+				<span class="shadow-left">&nbsp;</span>
+				<span class="shadow-right">&nbsp;</span>
+					
+		
+	<div id="advert12out">
+					<div id="advert12">
+	           	<div class="module-outer">
+		<div class="module">
+			<div>
+				<div>
+					<div class="lvround-inner">
+												<!-- MiniFrontPage Module - Another Quality Freebie from TemplatePlazza.com --> 
+<div class="minifrontpage-default" id="minifrontpage-117">
+<div style="display:table;table-layout: fixed;width:100%;padding:0 !important; margin:0 !important;" class="minifrontpageid">
+		<div class="mfp-table-row" style="display:table-row;width:100%">
+				<div class="mfp-table-cell" style="display:table-cell;width:50%;word-wrap:break-word !important">
+			<div class="mfp-table-cell-inner">
+			<span class="mfp-introtitle"><a href="/index.php/en/sumo/press-room-news/337-kakuryu-makes-first-yokozuna-bid-in-osaka">Kakuryu makes first yokozuna bid in Osaka</a></span><br/>						<a href="/index.php/en/sumo/press-room-news/337-kakuryu-makes-first-yokozuna-bid-in-osaka">
+							<img class="mfp-img-left" 
+								src="/images/minifp/imagecache/b175b2072c7dd373996b16f4b60af5f2.jpg" 
+								alt="" title="" 
+								style="height:130px;width:130px;" />
+						</a>
+					
+					<p>Ozeki Kakuryu will make his first bid at promotion to sumo's highest rank of yokozuna, returning to the prestigious east wing after eight tournaments &nbsp;[&nbsp;...&nbsp;]</p><div class='clrfix'></div>			</div>
+		</div>
+				<div class="mfp-table-cell" style="display:table-cell;width:50%;word-wrap:break-word !important">
+			<div class="mfp-table-cell-inner">
+			<span class="mfp-introtitle"><a href="/index.php/en/sumo/press-room-news/335-ex-ozeki-miyabiyama-has-topknot-removed">Ex-ozeki Miyabiyama has topknot removed</a></span><br/>						<a href="/index.php/en/sumo/press-room-news/335-ex-ozeki-miyabiyama-has-topknot-removed">
+							<img class="mfp-img-left" 
+								src="/images/minifp/imagecache/1c6a623f2e21ea11f4c433e5881f93d3.jpg" 
+								alt="" title="" 
+								style="height:130px;width:130px;" />
+						</a>
+					
+					<p>Former ozeki Miyabiyama, who needed just 12 tournaments from his sumo debut before he was promoted to sumo’s second-highest rank, had his topknot re&nbsp;[&nbsp;...&nbsp;]</p><div class='clrfix'></div>			</div>
+		</div>
+			</div>
+		<div class="mfp-table-row" style="display:table-row;width:100%">
+				<div class="mfp-table-cell" style="display:table-cell;width:50%;word-wrap:break-word !important">
+			<div class="mfp-table-cell-inner">
+			<span class="mfp-introtitle"><a href="/index.php/en/sumo/press-room-news/333-juryo-promotions-and-retirees-after-hatsu-basho">Juryo promotions and retirees after Hatsu Basho</a></span><br/>						<a href="/index.php/en/sumo/press-room-news/333-juryo-promotions-and-retirees-after-hatsu-basho">
+							<img class="mfp-img-left" 
+								src="/images/minifp/imagecache/317600d217b34196de93d0143aa7b8a4.jpg" 
+								alt="" title="" 
+								style="height:130px;width:130px;" />
+						</a>
+					
+					<p>As usual, some days after the conclusion of the last tournament, the Nihon Sumo Kyokai has announced the rikishi who will be promoted to Juryo for the&nbsp;[&nbsp;...&nbsp;]</p><div class='clrfix'></div>			</div>
+		</div>
+				<div class="mfp-table-cell" style="display:table-cell;width:50%;word-wrap:break-word !important">
+			<div class="mfp-table-cell-inner">
+			<span class="mfp-introtitle"><a href="/index.php/en/sumo/press-room-news/331-kakuryu-to-get-shot-at-yokozuna-promotion">Kakuryu to get shot at yokozuna promotion</a></span><br/>						<a href="/index.php/en/sumo/press-room-news/331-kakuryu-to-get-shot-at-yokozuna-promotion">
+							<img class="mfp-img-left" 
+								src="/images/minifp/imagecache/52c8457e139647381b7ca8f1be33ac4b.jpg" 
+								alt="" title="" 
+								style="height:130px;width:130px;" />
+						</a>
+					
+					<p>Mongolian ozeki Kakuryu will be a candidate for promotion to sumo’s highest rank in March, the head of the Japan Sumo Association’s Yokozuna Delib&nbsp;[&nbsp;...&nbsp;]</p><div class='clrfix'></div>			</div>
+		</div>
+			</div>
+	</div>
+
+<div class="mfp-other-article" style="display:table;table-layout: fixed; height:100px;width:100%;">
+	<div class="mfp-other-article-inner">
+		<span class="mfp-other-article-title">More News...</span>
+		<ul>
+			<li><a href="/index.php/en/sumo/press-room-news/329-hatsu-day-15-hakuho-wins-tie-breaker-28th-career-title">Hatsu Day 15: Hakuho wins tie-breaker, 28th career title</a></li><li><a href="/index.php/en/sumo/press-room-news/327-hatsu-day-14-hakuho-and-kakuryu-win-extending-outcome-to-last-day">Hatsu Day 14: Hakuho and Kakuryu win, extending outcome to last day</a></li><li><a href="/index.php/en/sumo/press-room-news/325-hatsu-day-13-hakuho-extends-winning-streak-kakuryu-remains-one-back">Hatsu Day 13: Hakuho extends winning streak, Kakuryu remains one back </a></li><li><a href="/index.php/en/sumo/press-room-news/323-hatsu-day-12-hakuho-and-kakuryu-win-endo-dealt-third-loss">Hatsu Day 12: Hakuho and Kakuryu win, Endo dealt third loss</a></li><li><a href="/index.php/en/sumo/press-room-news/321-hatsu-day-11-hakuho-disposes-of-kotooshu-in-a-hurry-to-stay-perfect">Hatsu Day 11: Hakuho disposes of Kotooshu in a hurry to stay perfect</a></li><li><a href="/index.php/en/sumo/press-room-news/319-hatsu-day-10-kakuryu-remains-one-behind-hakuho-two-others-stay-close">Hatsu Day 10: Kakuryu remains one behind Hakuho, two others stay close</a></li><li><a href="/index.php/en/sumo/press-room-news/317-hatsu-day-9-hakuho-looks-unbeatable-while-kakuryu-retains-hopes">Hatsu Day 9: Hakuho looks unbeatable while Kakuryu retains hopes</a></li><li><a href="/index.php/en/sumo/press-room-news/315-hatsu-day-8-kakuryu-stays-1-behind-hakuho-as-kisenosato-s-hopes-end">Hatsu Day 8: Kakuryu stays 1 behind Hakuho as Kisenosato's hopes end</a></li><li><a href="/index.php/en/sumo/press-room-news/313-hatsu-day-7-leader-hakuho-makes-it-look-too-easy">Hatsu Day 7: Leader Hakuho makes it look too easy</a></li><li><a href="/index.php/en/sumo/press-room-news/311-hatsu-day-6-yokozuna-hakuho-maintains-lead-ahead-of-5-others">Hatsu Day 6: Yokozuna Hakuho maintains lead ahead of 5 others</a></li>		</ul>
+	</div>
+</div>
+</div>						<div class="clr"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="clr"></div>
+		<span class="shadow-left">&nbsp;</span>
+		<span class="shadow-right">&nbsp;</span>
+	</div>
+	
+			</div>
+					
+	</div>					
+			</div>
+							<div id="rightcol">
+		             	<div class="module-outer">
+					<h3 class="moduleh3"><strong>Ciber Basho</strong>
+				<span class="h3eckr">&nbsp;</span>
+			</h3>
+				<div class="module">
+			<div>
+				<div>
+					<div class="lvround-inner">
+						
+
+<div class="custom"  >
+	 
+<div style="font-family:Trebuchet MS, Times New Roman, Times, serif;font-size:12px;font-weight:bold;text-decoration:underline;color:#008000;">CIBER HATSU BASHO 2014 - Day 15</div><br /><table style="width:100%; padding:0; border-spacing:0; font-family: Trebuchet MS, Times New Roman, Times, serif; font-size:11px; font-weight:bold; line-height:12px"><tr><td style="font-size:12px; font-weight:bold;text-decoration:underline;color:#008000" colspan="3">OVERALL</td></tr><tr><td style="font-size:12px" width="20%">Ms14w</td><td style="font-size:12px" width="60%">Mimazuma</td><td style="font-size:12px" width="20%" align="right">295</td></tr><tr><td style="font-size:12px" width="20%">M5e</td><td style="font-size:12px" width="60%">Wayatatizo</td><td style="font-size:12px" width="20%" align="right">255</td></tr><tr><td style="font-size:12px" width="20%">Ms18w</td><td style="font-size:12px" width="60%">Garou</td><td style="font-size:12px" width="20%" align="right">252</td></tr><tr><td style="font-size:12px" width="20%">J10e</td><td style="font-size:12px" width="60%">Achiyama</td><td style="font-size:12px" width="20%" align="right">227</td></tr><tr><td style="font-size:12px" width="20%">J9w</td><td style="font-size:12px" width="60%">Pascinosato</td><td style="font-size:12px" width="20%" align="right">224</td></tr></table><p></p><table style="width:100%; padding:0;border-spacing:0;font-family: Trebuchet MS, Times New Roman, Times, serif;font-size:11px;font-weight:bold;line-height:12px;"><tr><td style="font-size:12px; font-weight:bold;text-decoration:underline;color:#008000" colspan="4">Makuuchi</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">M5e</td><td style="font-size:12px;width:40%;font-weight:normal">Wayatatizo</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">12-3</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">255</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">M16e</td><td style="font-size:12px;width:40%;font-weight:normal">Hoshiyama</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">11-4</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">209</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">M9w</td><td style="font-size:12px;width:40%;font-weight:normal">Atukasa</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">11-4</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">189</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">M11e</td><td style="font-size:12px;width:40%;font-weight:normal">Kotosuumi</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">10-5</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">178</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">K2e</td><td style="font-size:12px;width:40%;font-weight:normal">Takahashi</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">10-5</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">158</td></tr></table><p></p><table style="width:100%; padding:0;border-spacing:0;font-family: Trebuchet MS, Times New Roman, Times, serif;font-size:11px;font-weight:bold;line-height:12px;"><tr><td style="font-size:12px; font-weight:bold;text-decoration:underline;color:#008000" colspan="4">Juryo</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">J10e</td><td style="font-size:12px;width:40%;font-weight:normal">Achiyama</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">12-3</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">227</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">J9w</td><td style="font-size:12px;width:40%;font-weight:normal">Pascinosato</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">11-4</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">224</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">J13e</td><td style="font-size:12px;width:40%;font-weight:normal">Vikanoyama</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">11-4</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">219</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">J2e</td><td style="font-size:12px;width:40%;font-weight:normal">Flohrusato</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">11-4</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">192</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">J3w</td><td style="font-size:12px;width:40%;font-weight:normal">Mr Okure</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">10-5</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">180</td></tr></table><p></p><table style="width:100%; padding:0;border-spacing:0;font-family: Trebuchet MS, Times New Roman, Times, serif;font-size:11px;font-weight:bold;line-height:12px;"><tr><td style="font-size:12px; font-weight:bold;text-decoration:underline;color:#008000" colspan="4">Makushita</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">Ms14w</td><td style="font-size:12px;width:40%;font-weight:normal">Mimazuma</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">6-1</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">295</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">Ms18w</td><td style="font-size:12px;width:40%;font-weight:normal">Garou</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">6-1</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">252</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">Ms7w</td><td style="font-size:12px;width:40%;font-weight:normal">Kallio</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">5-2</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">219</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">Ms2w</td><td style="font-size:12px;width:40%;font-weight:normal">Txikito</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">5-2</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">217</td></tr><tr><td style="font-size:12px;width:20%;font-weight:normal">Ms38w</td><td style="font-size:12px;width:40%;font-weight:normal">Goyanishiki</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">5-2</td><td style="font-size:12px;width:20%;font-weight:normal;text-align:right">188</td></tr></table><p></p><table style="width:100%; padding:0; border-spacing:0; font-family: Trebuchet MS, Times New Roman, Times, serif; font-size:11px; font-weight:bold; line-height:12px"><tr><td style="font-size:12px; font-weight:bold;text-decoration:underline;color:#008000" colspan="2">Heyas</td></tr><tr><td style="font-size:12px; font-weight:bold" width="80%">Okinawa</td><td style="font-size:12px; font-weight:bold;text-align:right" width="20%" align="right">414</td></tr><tr><td style="font-size:12px; font-weight:bold" width="80%">Calpisnoyama</td><td style="font-size:12px; font-weight:bold;text-align:right" width="20%" align="right">387</td></tr><tr><td style="font-size:12px; font-weight:bold" width="80%">Noumi</td><td style="font-size:12px; font-weight:bold;text-align:right" width="20%" align="right">383</td></tr><tr><td style="font-size:12px; font-weight:bold" width="80%">Osakans</td><td style="font-size:12px; font-weight:bold;text-align:right" width="20%" align="right">376</td></tr><tr><td style="font-size:12px; font-weight:bold" width="80%">Musashimaru</td><td style="font-size:12px; font-weight:bold;text-align:right" width="20%" align="right">374</td></tr></table><p></p><p style="font-size:13px;text-align:center"><a href="/index.php/en/cibersumo/daily-results">Full Standings</a></p> 
+</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="clr"></div>
+		<span class="shadow-left">&nbsp;</span>
+		<span class="shadow-right">&nbsp;</span>
+	</div>
+		<div class="module-outer">
+					<h3 class="moduleh3"><strong>Ciber Yusho & Sansho</strong>
+				<span class="h3eckr">&nbsp;</span>
+			</h3>
+				<div class="module">
+			<div>
+				<div>
+					<div class="lvround-inner">
+						
+
+<div class="custom"  >
+	 
+<table width="100%" style="font-family: Trebuchet MS, Arial, Helvetica, sans-serif; padding:0"><tr><td colspan="3" style="color: #990000; font-size: 14px; font-weight:bold; text-decoration: underline; text-align: center">Ciber Hatsu 2014</td></tr><tr><td width="30%" style="font-size:12px; font-weight:bold; color:#008000; vertical-align:top">OVERALL:</td><td width="20%" style="font-size:12px; font-weight:bold; color:#008000; vertical-align:top">Ms14w</td><td width="50%" style="font-size:12px; font-weight:bold; color:#008000; vertical-align:top">Mimazuma</td></tr><tr><td width="30%" style="font-size:12px; font-weight:normal; color:#008000; vertical-align:top">Makuuchi:</td><td width="20%" style="font-size:12px; font-weight:normal; color:#008000; vertical-align:top">M5e</td><td width="50%" style="font-size:12px; font-weight:normal; color:#008000; vertical-align:top">Wayatatizo</td></tr><tr><td width="30%" style="font-size:12px; font-weight:normal; color:#008000; vertical-align:top">Juryo:</td><td width="20%" style="font-size:12px; font-weight:normal; color:#008000; vertical-align:top">J10e</td><td width="50%" style="font-size:12px; font-weight:normal; color:#008000; vertical-align:top">Achiyama</td></tr><tr><td width="30%" style="font-size:12px; font-weight:normal; color:#008000; vertical-align:top">Makushita:</td><td width="20%" style="font-size:12px; font-weight:normal; color:#008000; vertical-align:top">Ms14w</td><td width="50%" style="font-size:12px; font-weight:normal; color:#008000; vertical-align:top">Mimazuma</td></tr><tr><td width="30%" style="font-size:12px; font-weight:normal; color:#990000; vertical-align:top">Shukunsho:</td><td width="20%" style="font-size:12px; font-weight:normal; color:#990000; vertical-align:top">J10e</td><td width="50%" style="font-size:12px; font-weight:normal; color:#990000; vertical-align:top">Achiyama</td></tr><tr><td width="30%" style="font-size:12px; font-weight:normal; color:#990000; vertical-align:top">Kantosho:</td><td width="20%" style="font-size:12px; font-weight:normal; color:#990000; vertical-align:top">Ms23w</td><td width="50%" style="font-size:12px; font-weight:normal; color:#990000; vertical-align:top">Sailor Moon</td></tr><tr><td width="30%" style="font-size:12px; font-weight:normal; color:#990000; vertical-align:top">Ginosho:</td><td width="20%" style="font-size:12px; font-weight:normal; color:#990000; vertical-align:top">Ms38w</td><td width="50%" style="font-size:12px; font-weight:normal; color:#990000; vertical-align:top">Goyanishiki</td></tr></table> 
+</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="clr"></div>
+		<span class="shadow-left">&nbsp;</span>
+		<span class="shadow-right">&nbsp;</span>
+	</div>
+	
+				</div>
+				
+			<div class="clr"></div>
+		</div>
+			
+		
+		
+		<div class="clr"></div>
+	</div>
+			<div id="foot_container" style="max-width:1180px;">
+					
+		
+		
+							
+	
+
+			<div id="subfoot">
+
+			</div>
+	
+	
+		<div class="clr"></div>
+			<div id="footer">
+				<div class="footer-inner">
+					<span class="feckl">&nbsp;</span>
+					<span class="feckr">&nbsp;</span>
+					<div id="scroll_up"> <a href="#" class="lv-tooltip" id="gotop" title="Scroll to top">&uarr;&uarr;&uarr;</a></div>
+						<div id="footermodule1234">
+					
+					
+					
+					
+	</div>
+			<div id="footermodule5">
+					<div class="moduletable">
+					
+
+<div class="custom"  >
+	 
+<div align="center"><a href="/./index.php/en">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/./index.php/en/contact">Contact</a></div> 
+</div>
+		</div>
+	
+		</div>
+				
+					
+					</div>
+				<div class="footer-bottom">
+									
+				  		<span id="date" style="color:white; font-weight:bold">Tuesday, 25 February 2014</span>
+								  		<span id="copy" style="color:white;font-weight:bold">CIBERSUMO</span>
+				</div>
+			</div>		
+		<div class="clr"></div>
+	</div>	
+		
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.sumo.cz/>====================
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Czech Sumou Union</title>
+<meta name="Microsoft Border" content="tb, default">
+</head>
+
+<body><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<center>
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#FFFF00" width="580" id="AutoNumber3" bgcolor="#FFFF00">
+  <tr>
+    <td width="106"><img border="0" src="imeiji/csu.gif" width="100" height="107"></td>
+    <td width="384">
+    <p align="center"><b><a href="http://sumo.cz">Czech Sumou Union</a></b><br>
+    <span lang="ja"><b>チェコ相撲協会<br>
+    </b></span><font size="2" color="#0000FF">sumo@sumo.cz</font></td>
+    <td width="86"><a href="peiji/chekogo.htm">
+    <img border="0" src="imeiji/czechflag.gif" width="34" height="21"></a><font size="2">
+    <span lang="cs"><a href="peiji/chekogo.htm">Česky</a></span></font><p>
+    <a href="peiji/eigo.htm">
+    <img border="0" src="imeiji/americanflag.gif" width="34" height="21"></a><font size="2">
+    <a href="peiji/eigo.htm">English</a></font></td>
+  </tr>
+</table>
+</center>
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><!--msnavigation--><td valign="top">
+<center>
+<table border="1" cellspacing="1" style="border-collapse: collapse" bordercolor="#FFFF00" width="580" id="AutoNumber1">
+  <tr>
+    <td width="100%">
+    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber4">
+      <tr>
+        <td width="33%">
+        <p align="center"><span lang="cs"><a href="peiji/chekogo.htm">Vítejte...</a></span></td>
+        <td width="33%"><img border="0" src="imeiji/shiroikumayarbrough.jpg" width="227" height="300"></td>
+        <td width="34%">
+        <p align="center"><a href="peiji/eigo.htm">Welcome...</a></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+</center>
+
+<!--msnavigation--></td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<center>
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#FFFF00" width="580" id="AutoNumber2" bgcolor="#FFFF00">
+  <tr>
+    <td width="100%" colspan="2">
+    <p align="center"><font size="2"><font color="#0000FF"><b>© 2010<br>
+    </b></font>This page is encoded in Unicode UTF-8<br>
+    If you don&#39;t see the same two fields below, change the encoding in your 
+    browser</font></td>
+  </tr>
+  <tr>
+    <td width="50%">
+    <p align="center"><font size="2"><span lang="ja">相撲心技体白い熊<br>
+    </span><span lang="cs">áíéóúÁÍÉÓÚščřžňťďŠČŘŽŇŤĎ</span></font></td>
+    <td width="50%">
+    <p align="center"><img border="0" src="imeiji/test.gif" width="167" height="27"></td>
+  </tr>
+</table>
+</center>
+</td></tr><!--msnavigation--></table></body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.sumo.org.uk/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0032)http://www.sumo.org.uk/index.htm -->
+<HTML><HEAD><TITLE>sumo - the official site of the british sumo federation</TITLE>
+<META content="sumo - the British sumo wrestling federation official site" 
+name=description>
+<META 
+content="sumo, sumo wrestling, british sumo, wrestling, UK, japan, martial arts, Britain, sumo actor,  promotional work, pr, SUMO, wrestling, after dinner speaking, sumo hire, sumo demonstrations, exhibitions, jackie bates" 
+name=keywords>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1"><script language="JavaScript1.2">
+
+// Drop-in content box- By Dynamic Drive
+// For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+// This credit MUST stay intact for use
+
+var ie=document.all
+var dom=document.getElementById
+var ns4=document.layers
+var calunits=document.layers? "" : "px"
+
+var bouncelimit=32 //(must be divisible by 8)
+var direction="up"
+
+function initbox(){
+if (!dom&&!ie&&!ns4)
+return
+crossobj=(dom)?document.getElementById("dropin").style : ie? document.all.dropin : document.dropin
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+crossobj.top=scroll_top-250+calunits
+crossobj.visibility=(dom||ie)? "visible" : "show"
+dropstart=setInterval("dropin()",50)
+}
+
+function dropin(){
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+if (parseInt(crossobj.top)<100+scroll_top)
+crossobj.top=parseInt(crossobj.top)+40+calunits
+else{
+clearInterval(dropstart)
+bouncestart=setInterval("bouncein()",50)
+}
+}
+
+function bouncein(){
+crossobj.top=parseInt(crossobj.top)-bouncelimit+calunits
+if (bouncelimit<0)
+bouncelimit+=8
+bouncelimit=bouncelimit*-1
+if (bouncelimit==0){
+clearInterval(bouncestart)
+}
+}
+
+function dismissbox(){
+if (window.bouncestart) clearInterval(bouncestart)
+crossobj.visibility="hidden"
+}
+
+function truebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+
+window.onload=initbox
+
+</script>
+
+<SCRIPT language=JavaScript1.2>
+
+//Highlight Table Cells Script-- By Dynamic Drive
+//For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+//This credit MUST stay intact for use
+
+var ns6=document.getElementById&&!document.all
+var ie=document.all
+
+function changeto(e,highlightcolor){
+source=ie? event.srcElement : e.target
+if (source.tagName=="TR"||source.tagName=="TABLE")
+return
+while(source.tagName!="TD"&&source.tagName!="HTML")
+source=ns6? source.parentNode : source.parentElement
+if (source.style.backgroundColor!=highlightcolor&&source.id!="ignore")
+source.style.backgroundColor=highlightcolor
+}
+
+function contains_ns6(master, slave) { //check if slave is contained by master
+while (slave.parentNode)
+if ((slave = slave.parentNode) == master)
+return true;
+return false;
+}
+
+function changeback(e,originalcolor){
+if
+(ie&&(event.fromElement.contains(event.toElement)||source.contains(event.toElement)||source.id=="ignore")||source.tagName=="TR"||source.tagName=="TABLE")
+return
+else if (ns6&&(contains_ns6(source, e.relatedTarget)||source.id=="ignore"))
+return
+if (ie&&event.toElement!=source||ns6&&e.relatedTarget!=source)
+source.style.backgroundColor=originalcolor
+}
+
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</SCRIPT>
+
+<META content="MSHTML 6.00.2900.3020" name=GENERATOR></HEAD>
+<BODY text=#ffffff vLink=#ffffff aLink=#ff00ff link=#00ffff bgColor=#0066ff>
+<SCRIPT>
+if (!document.layers)
+document.write('<div id="divStayTopLeft" style="position:absolute">')
+</SCRIPT>
+<LAYER id=divStayTopLeft bgcolor="blue"><!--EDIT BELOW CODE TO YOUR OWN MENU-->
+<TABLE onmouseover="changeto(event, 'lightblue')" 
+onmouseout="changeback(event, 'blue')" cellSpacing=0 cellPadding=0 width=130 
+border=0>
+  <TBODY>
+  <TR>
+    <TD width="100%" bgColor=blue>
+      <DIV align=left><U><B><FONT color=#ffff80><A 
+      href="http://www.sumo.org.uk/index.htm">HOME</A><BR></FONT></B></U></DIV></TD></TR>
+  <TR>
+    <TD width="100%" bgColor=blue>
+      <DIV align=left><U><B><FONT color=#ffff80><A 
+      href="http://www.sumo.org.uk/hire.htm">HIRE A 
+      SUMO</A><BR></FONT></B></U></DIV></TD></TR>
+  <TR>
+    <TD width="100%" bgColor=blue>
+      <DIV align=left><U><B><FONT color=#ffff80><A 
+      href="http://www.sumo.org.uk/news.htm">NEWS</A><BR></FONT></B></U></DIV></TD></TR>
+  <TR>
+    <TD width="100%" bgColor=blue>
+      <DIV align=left><U><B><FONT color=#ffff80><A 
+      href="http://www.sumo.org.uk/pics.htm">PICS</A><BR></FONT></B></U></DIV></TD></TR>
+  <TR>
+    <TD width="100%" bgColor=blue>
+      <DIV align=left><U><B><FONT color=#ffff80><A 
+      href="http://www.sumo.org.uk/history.htm">HISTORY</A><BR></FONT></B></U></DIV></TD></TR>
+  <TR>
+    <TD width="100%" bgColor=blue>
+      <DIV align=left><U><B><FONT color=#ffff80><A 
+      href="http://www.sumo.org.uk/haveago.htm">HAVE A 
+      GO</A><BR></FONT></B></U></DIV></TD></TR>
+  <TR>
+    <TD width="100%" bgColor=blue>
+      <DIV align=left><U><B><FONT color=#ffff80><A 
+      href="http://www.sumo.org.uk/events.htm">EVENTS</A><BR></FONT></B></U></DIV></TD></TR>
+  <TR>
+    <TD width="100%" bgColor=blue>
+      <DIV align=left><U><B><FONT color=#ffff80><A 
+      href="http://www.sumo.org.uk/skills.htm">SKILLS</A><BR></FONT></B></U></DIV></TD></TR>
+  <TR>
+    <TD width="100%" bgColor=blue>
+      <DIV align=left><U><B><FONT color=#ffff80><A 
+      href="http://www.sumo.org.uk/grades.htm">GRADES</A><BR></FONT></B></U></DIV></TD></TR>
+  <TR>
+    <TD width="100%" bgColor=blue>
+      <DIV align=left><U><B><FONT color=#ffff80><A 
+      href="http://www.sumo.org.uk/juniors.htm">JUNIORS</A><BR></FONT></B></U></DIV></TD></TR>
+  <TR>
+    <TD width="100%" bgColor=blue>
+      <DIV align=left><U><B><FONT color=#ffff80><A 
+      href="http://www.sumo.org.uk/links.htm">LINKS</A><BR></FONT></B></U></DIV></TD></TR>
+  <TR>
+    <TD width="100%" bgColor=blue>
+      <DIV align=left><U><B><FONT color=#ffff80><A 
+      href="http://www.sumo.org.uk/sponsors.htm">SPONSORS</A><BR></FONT></B></U></DIV></TD></TR>
+  <TR>
+    <TD width="100%" bgColor=blue>
+      <DIV align=left><U><B><FONT color=#ffff80><A 
+      href="http://www.sumo.org.uk/sales.htm">SALES</A><BR></FONT></B></U></DIV></TD></TR>
+  <TR>
+    <TD width="100%" bgColor=blue>
+      <DIV align=left><U><B><FONT color=#ffff80><A 
+      href="http://www.sumo.org.uk/contact.htm">CONTACT</A> 
+    </FONT></B></U></DIV></TD></TR></TBODY></TABLE><!--END OF EDIT--></LAYER>
+<SCRIPT type=text/javascript>
+
+/*
+Floating Menu script-  Roy Whittle (http://www.javascript-fx.com/)
+Script featured on/available at http://www.dynamicdrive.com/
+This notice must stay intact for use
+*/
+
+//Enter "frombottom" or "fromtop"
+var verticalpos="fromtop"
+
+if (!document.layers)
+document.write('</div>')
+
+function JSFX_FloatTopDiv()
+{
+	var startX = 3,
+	startY = 80;
+	var ns = (navigator.appName.indexOf("Netscape") != -1);
+	var d = document;
+	function ml(id)
+	{
+		var el=d.getElementById?d.getElementById(id):d.all?d.all[id]:d.layers[id];
+		if(d.layers)el.style=el;
+		el.sP=function(x,y){this.style.left=x;this.style.top=y;};
+		el.x = startX;
+		if (verticalpos=="fromtop")
+		el.y = startY;
+		else{
+		el.y = ns ? pageYOffset + innerHeight : document.body.scrollTop + document.body.clientHeight;
+		el.y -= startY;
+		}
+		return el;
+	}
+	window.stayTopLeft=function()
+	{
+		if (verticalpos=="fromtop"){
+		var pY = ns ? pageYOffset : document.body.scrollTop;
+		ftlObj.y += (pY + startY - ftlObj.y)/8;
+		}
+		else{
+		var pY = ns ? pageYOffset + innerHeight : document.body.scrollTop + document.body.clientHeight;
+		ftlObj.y += (pY - startY - ftlObj.y)/8;
+		}
+		ftlObj.sP(ftlObj.x, ftlObj.y);
+		setTimeout("stayTopLeft()", 10);
+	}
+	ftlObj = ml("divStayTopLeft");
+	stayTopLeft();
+}
+JSFX_FloatTopDiv();
+</SCRIPT>
+<MARQUEE><A href="http://www.jaltour.co.uk/"><IMG height=42 
+src="sumo - the official site of the british sumo federation_files/logo-jaltour.gif" 
+width=148 border=0></A> <font size="6">A big THANKYOU to JAL for upgrading seats 
+for Mark and Sharran<A 
+href="http://www.jaltour.co.uk/"><IMG height=42 
+src="sumo - the official site of the british sumo federation_files/logo-jaltour.gif" 
+width=148 border=0></A> the Japan specialists </font></MARQUEE> 
+<DIV align=center>
+<P align=left><FONT color=#0000ff size=6><B><FONT color=#0000ff size=6><B><FONT 
+color=#0000ff size=6><B><FONT color=#0000ff size=6><B><FONT color=#0000ff 
+size=6><B><FONT color=#0000ff size=6><B><FONT color=#0000ff size=6><B><FONT 
+color=#0000ff size=6><B><FONT color=#0000ff size=6><B><FONT color=#5353ff>sumo 
+sumo s</FONT><FONT color=#0000ff size=6><B><FONT color=#0000ff size=6><B><FONT 
+color=#0000ff size=6><B><FONT color=#0000ff size=6><B><FONT color=#0000ff 
+size=6><B><FONT color=#0000ff size=6><B><FONT color=#0000ff size=6><B><FONT 
+color=#0000ff size=6><B><FONT color=#0000ff size=6><B><FONT color=#0000ff 
+size=6><B><FONT color=#0000ff size=6><B><FONT color=#0000ff size=6><B><FONT 
+color=#0000ff size=6><B><FONT color=#0000ff size=6><B><FONT color=#0000ff 
+size=6><B><FONT color=#0000ff size=6><B><FONT color=#0000ff size=6><B><FONT 
+color=#0000ff size=6><B><FONT color=#5353ff><IMG height=42 
+src="sumo - the official site of the british sumo federation_files/logo-jaltour.gif" 
+width=148></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT><FONT 
+color=#ffffff><FONT size=4>discover the real 
+Japan</FONT></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></P>
+<DIV id=Layer7 
+style="BORDER-RIGHT: #000000 1px; BORDER-TOP: #000000 1px; Z-INDEX: 7; LEFT: 160px; BORDER-LEFT: #000000 1px; WIDTH: 546px; BORDER-BOTTOM: #000000 1px; POSITION: absolute; TOP: 79px; HEIGHT: 94px; BACKGROUND-COLOR: #ffffff; layer-background-color: #FFFFFF"><FONT 
+color=#0000ff size=6><B><FONT color=#0000ff size=6><B><FONT color=#0000ff 
+size=6><B><FONT color=#0000ff size=6><B><FONT size=7><IMG height=96 
+src="sumo - the official site of the british sumo federation_files/sumogif.gif" 
+width=96></FONT></B></FONT></B></FONT></B></FONT><FONT size=7><IMG height=96 
+src="sumo - the official site of the british sumo federation_files/sumogif.gif" 
+width=96></FONT><FONT color=#0000ff size=6><B><FONT color=#0000ff 
+size=6><B><FONT color=#0000ff size=6><B><FONT size=7><IMG height=96 
+src="sumo - the official site of the british sumo federation_files/sumogif.gif" 
+width=96></FONT><FONT color=#0000ff size=6><B><FONT color=#0000ff 
+size=6><B><FONT color=#0000ff size=6><B><FONT size=7><IMG height=96 
+src="sumo - the official site of the british sumo federation_files/sumogif.gif" 
+width=96></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></B></FONT></DIV>
+<P><FONT color=#0000ff size=6><B><FONT color=#0000ff size=6><B><FONT 
+color=#0000ff size=6><B></B></FONT></B></FONT></B></FONT><FONT color=#0000ff 
+size=6><B></B></FONT></P>
+<DIV id=Layer1 
+style="BORDER-RIGHT: #000000 1px; BORDER-TOP: #000000 1px; Z-INDEX: 1; LEFT: 160px; BORDER-LEFT: #000000 1px; WIDTH: 546px; BORDER-BOTTOM: #000000 1px; POSITION: absolute; TOP: 176px; HEIGHT: 58px; BACKGROUND-COLOR: #ffffff; layer-background-color: #FFFFFF">
+<DIV align=center><FONT color=#0000ff size=6><B><FONT size=7>Bri</FONT><FONT 
+color=#0000ff size=6><B></B></FONT><FONT size=7>tish Sumo 
+Federation</FONT></B></FONT></DIV></DIV>
+<DIV id=Layer2 
+style="BORDER-RIGHT: #000000 1px; BORDER-TOP: #000000 1px; Z-INDEX: 2; LEFT: 138px; BORDER-LEFT: #000000 1px; WIDTH: 7px; BORDER-BOTTOM: #000000 1px; POSITION: absolute; TOP: 79px; HEIGHT: 489px; BACKGROUND-COLOR: #ffffff; layer-background-color: #FFFFFF"></DIV>
+<DIV id=Layer3 
+style="Z-INDEX: 3; LEFT: 158px; WIDTH: 536px; POSITION: absolute; TOP: 279px; HEIGHT: 64px">
+    <P align=center><font color="#FFFF00"><b>Any man interested in having a go 
+      at Sumo can do so if they come to Derby. There will be no charge for the 
+      session. It may be that you are strong enough to fight for Great Britain. 
+      Sumo is an easy sport to understand and if you are strong and have good 
+      determination you can start winning very quickly. Give us a ring on 07999622079 
+      NOW!!!!!!</b></font></P>
+    <P align=center><b><font color="#FFFF00">If there are any strong ladies out 
+      there we are interested in YOU!!!! Ring 07999622079</font> </b></P>
+    <P align=center><FONT color=#000000 size=4><STRONG><FONT color=#ffffff>The 
+      British Sumo Federation is the official governing body of Sumo in the UK 
+      as recognised by Japan, </FONT></STRONG></FONT><FONT color=#ffffff size=4><STRONG>the 
+      European Sumo Union and the International Sumo Federation.</STRONG></FONT></P>
+    <P align=center><img src="adeleandfans.jpg" width="512" height="384"></P>
+    <P align=center><img src="adeleflag.jpg" width="512" height="384"></P>
+    <P align=left><STRONG><FONT color=#ffffff size=4>WE ARE CURRENTLY LOOKING FOR 
+      SOME BIG GUYS TO TRAIN UP AND POSSIBLY TAKE TO EUROPE TO COMPETE FOR US. 
+      BIG AND STRONG ?? THEN CONTACT US NOW !!!! WE HAVE NO FAVOURITES. WE WANT 
+      THE BEST TO REPRESENT GREAT BRITAIN.</FONT></STRONG></P>
+<P align=left><STRONG><FONT color=#ffffff 
+size=4>Powerlifters/weightlifters/strongmen/judo/shot putters etc. can adapt 
+very easily and very quickly. Get in touch NOW!!!!!!</FONT></STRONG></P>
+    <P><BR>
+    </P>
+    <P align=left><FONT color=#ffff00 size=4><STRONG><FONT color=#ffffff>Great 
+      Britain have been very successful in international events: </FONT></STRONG></FONT><FONT color=#ffffff size=4><STRONG>Bill 
+      Etherington, Steve Pateman, Kevin Emslie and Adele Jones have all won medals 
+      in World Championships.</STRONG></FONT></P>
+    <P align=left><strong><font size="4" color="#ffffff"><i><font size="3">If 
+      you have the determination you could also be a medal winner!</font></i></font></strong></P>
+<P align=left><FONT color=#ffff00 size=4><EM><STRONG><FONT 
+face="Times New Roman, Times, serif">OUR SUMO WRESTLERS ARE AVAILABLE FOR DEMOS, 
+TV/FILM, AND PR WORK. </FONT></STRONG></EM></FONT></P>
+    <P align=center><A href="mailto:stevepateman@hotmail.com"><FONT 
+color=#ffffff><FONT color=#0000ff><FONT 
+color=#ffffff>stevepateman@hotmail.com</FONT></FONT></FONT></A> <A 
+href="mailto:stevepateman@hotmail.com"><FONT color=#ffffff><IMG height=50 
+src="sumo - the official site of the british sumo federation_files/emailgif.gif" 
+width=53 align=middle useMap=#Map border=0></FONT></A> </P>
+<P><FONT color=#ff0000 size=3><STRONG><FONT color=#ffffff size=4>TEL</FONT> 
+</STRONG></FONT><FONT color=#ffffff size=4><STRONG>01332 294788 MOBILE 
+07999622079</STRONG></FONT></P>
+    <P>&nbsp;</P>
+  </DIV><FONT color=#0000ff size=6><B></B></FONT>
+<DIV id=Layer2 
+style="BORDER-RIGHT: #000000 1px; BORDER-TOP: #000000 1px; Z-INDEX: 2; LEFT: 722px; BORDER-LEFT: #000000 1px; WIDTH: 7px; BORDER-BOTTOM: #000000 1px; POSITION: absolute; TOP: 79px; HEIGHT: 490px; BACKGROUND-COLOR: #ffffff; layer-background-color: #FFFFFF"></DIV>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P></DIV>
+<div id="dropin" style="position:absolute;visibility:hidden;left:741px;top:79px;width:233px;height:493px;background-color:#F5F5F5"> 
+  <div align="right"><a href="#" onClick="dismissbox();return false"><font color="#004000">[Close 
+    Box]</font> </a></div>
+
+  <p><font color="#FF0000">THANKYOU, sincerely, to all those people who rang or 
+    emailed to congratulate the girls following the Channel 4 Sumo Documentary. 
+    The response was fantastic and made all the hard work worth while. THANKYOU.</font></p>
+  <p><font color="#FF0000"><b><font size="+3">OK..anyone who wants to have a go 
+    can do so on Saturday afternoons from 2.30 till 4 please email or ring 01332 
+    294788 and leave a message to say you are coming</font></b></font></p>
+  <p><font color="#0000FF">Handford Street, Derby, DE22 3GS</font><font color="#FF0000">. 
+    Gym number is 01332 370413. 20 mins from the M1 and 5 mins from the A38. </font></p>
+  <p><font color="#0000FF">A few words about the Channel 4 documentary Strictly 
+    Lady Sumo... This was a bona fide attempt to train raw recruits up. We were 
+    going to do it irrespective of any TV involvement.</font></p>
+  <p><font color="#0000FF">We had 12 weeks because this was the time left after 
+    we drummed up the interest </font></p>
+  <p><font color="#0000FF">And yes, Pink, Adele, Sharran, Big Jackie will be there 
+    at this years World Championships if they are good enough</font></p>
+  <p>le</p>
+  </div>
+
+</BODY></HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.eurosumo.com/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="nl">
+<!--   (c) Japaveh Webdesign (japaveh.be, mail@japaveh.be)  -->
+<!--       Selected language: en                    -->
+
+<head>
+	<title>European Sumo Union | </title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15">
+	<meta name="description" content="The official website for sumo wrestling in Europe with information on events, results and pictures.">
+	<meta name="keywords" content="Eurosumo, sumo, wrestling, sumowresting, european, union, events, pictures">
+	<meta name="author" content="Japaveh Webdesign">
+	<meta name="generator" content="Nano 1.07">
+	<base href="http://www.eurosumo.com/">
+	<link rel="index" title="Site Index" href="http://www.eurosumo.com">
+	<link rel="stylesheet" href="css/main.style.css" type="text/css" media="all">
+	<link rel="stylesheet" href="css/dl.style.css" type="text/css" media="all">
+	<link rel="stylesheet" href="css/form.style.css" type="text/css" media="all">
+	<link rel="stylesheet" href="css/shop.style.css" type="text/css" media="all">
+	<script src="js/general.js" type="text/javascript"></script>
+	<!--Verstoppen van het e-mailadres voor harvesters-->
+	<script type="text/javascript">addLoadEvent(addemailhrefs)</script>
+</head>
+<body>
+	<div id="container">
+	
+ 	<div id="top">
+ 		<br><br><br>
+		<img id="logo" alt="Webwinkel Logo" src="img/eurosumo_logo.jpg">
+	
+	</div>
+
+	
+
+	<!-- Menu; Powered by Nano -->
+	<div class="menu">
+		<ul id="nav">
+			<li><a class="menu_1" href="http://www.eurosumo.com/home">Home</a></li>
+			<li><a class="menu_2" href="http://www.eurosumo.com/news">News</a></li>
+			<li><a class="menu_3" href="http://www.eurosumo.com/general-info">General Info</a></li>
+			<li><a class="menu_4" href="http://www.eurosumo.com/members">Members</a></li>
+			<li><a class="menu_5" href="http://www.eurosumo.com/ranking">Ranking</a></li>
+			<li><a class="menu_14" href="http://www.eurosumo.com/weight-groups">Weight Groups</a></li>
+			<li><a class="menu_6" href="http://www.eurosumo.com/events">Events</a></li>
+			<li><a class="menu_7" href="http://www.eurosumo.com/foto">Photo's</a></li>
+			<li><a class="menu_13" href="http://www.eurosumo.com/statutes">Statutes</a></li>
+			<li><a class="menu_8" href="http://www.eurosumo.com/links">Links</a></li>
+			<li><a class="menu_16" href="http://www.eurosumo.com/anti-doping">Anti Doping</a></li>
+			<li><a class="menu_9" href="http://www.eurosumo.com/contact">Contact</a></li>
+			<li><a class="menu_10" href="http://www.eurosumo.com/sitemap">Sitemap</a></li>
+			<li><a class="menu_11" href="http://www.eurosumo.com/login">Login</a></li>
+			<li><a class="menu_17" href="http://www.eurosumo.com/fairplay">Fairplay</a></li>
+		</ul>
+	</div>
+	<!-- Einde van het menu -->
+
+	
+
+	<div id="content"><h1>Welcome</h1><p>Please be welcome on the official website of the European Sumo Union</p><p>&nbsp;</p><img src="/img/doyo.gif" border="0" alt="Image of Doyo" title="Doyo" width="137" height="190" />
+	</div>
+	<div id="footer">
+		<address>&copy; 2014 - <a title="Nano: 1.07; Parsetime: 0,02432s; Query's: 4" href="http://japaveh.be">Japaveh Webdesign</a></address>
+	</div>
+</div>
+
+	
+<!-- External Links -->
+<script type="text/javascript">external_links()</script>
+<!-- Parsetime: 0,02432; Query's: 4 -->
+	
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www2.gol.com/users/pbw/sumo.htm>====================
+<HTML>
+
+<HEAD>
+<META HTTP-EQUIV="Content-Language" CONTENT="en-us">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ascii">
+<META NAME="description" CONTENT="Sumo wrestlers also need to have fun sometimes.">
+<TITLE>Some unusual Sumo photos</TITLE>
+</HEAD>
+
+<BODY>
+
+<H1 ALIGN="center"><FONT FACE="Lucida Sans Unicode" COLOR="#009900">Some
+unusual Sumo photos</FONT></H1>
+<H3 ALIGN="center"><FONT FACE="Lucida Sans Unicode" COLOR="#999900">from the
+official Sumo Association calendar 2000</FONT></H3>
+<H5 ALIGN="center"><FONT FACE="Lucida Sans Unicode" COLOR="#336600">(all 10 pictures below are between 50KB and 100KB, so it may take a
+few seconds to load them all)</FONT></H5>
+
+<TABLE BORDER="0" CELLPADDING="5">
+  <TR>
+    <TD><IMG BORDER="0" SRC="photolib/sumo04.jpg" WIDTH="473" HEIGHT="392"></TD>
+    <TD><IMG BORDER="0" SRC="photolib/sumo02.jpg" WIDTH="469" HEIGHT="407"></TD>
+  </TR>
+  <TR>
+    <TD><IMG BORDER="0" SRC="photolib/sumo05.jpg" WIDTH="474" HEIGHT="404"></TD>
+    <TD><IMG BORDER="0" SRC="photolib/sumo03.jpg" WIDTH="468" HEIGHT="401"></TD>
+  </TR>
+</TABLE>
+<P>&nbsp;</P>
+<P ALIGN="center"><IMG BORDER="0" SRC="photolib/sumo01.jpg" WIDTH="468" HEIGHT="808"></P>
+<P>&nbsp;</P>
+<TABLE BORDER="0" CELLPADDING="5">
+  <TR>
+    <TD><IMG BORDER="0" SRC="photolib/sumo09.jpg" WIDTH="473" HEIGHT="365"></TD>
+    <TD><IMG BORDER="0" SRC="photolib/sumo06.jpg" WIDTH="469" HEIGHT="370"></TD>
+  </TR>
+  <TR>
+    <TD><IMG BORDER="0" SRC="photolib/sumo08.jpg" WIDTH="469" HEIGHT="403"></TD>
+    <TD><IMG BORDER="0" SRC="photolib/sumo07.jpg" WIDTH="469" HEIGHT="407"></TD>
+  </TR>
+</TABLE>
+<P>&nbsp;</P>
+<P ALIGN="center"><IMG BORDER="0" SRC="photolib/sumo10.jpg" WIDTH="466" HEIGHT="791"></P>
+
+</BODY>
+
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.artelino.com/articles/japanese_sumo_wrestling.asp>====================
+<!DOCTYPE HTML>
+
+<html lang="en-us">
+<head>
+<title>Sumo Wrestling - artelino</title>
+<meta name="description" content="artelino - About Japanese sumo wrestling and sumo prints." />
+<meta name="keywords" content="Japanese, sumo, wrestling, japanese, prints, print, art" />
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta NAME="ROBOTS" CONTENT="INDEX,FOLLOW" />
+<link rel="stylesheet" type="text/css" href="../common/style_html.css" title="default" />
+<!-- initializing includes identical for all frontoffice pages -->
+<!-- functions for ARTICLES includes -->
+<!-- procedures for ARTICLES -->
+<!-- Collected Library for all programs -->
+<!-- definition (DIM) for articles -->
+
+</HEAD>
+<body>
+<!-- header includes for ARTICLES -->
+
+<div class="frame-site-outer">
+<div class="frame-site">
+
+<div class="header-block1">
+<table style="width: 998px;">
+<tr>
+<td rowspan="3" style="height: 120px; width: 20%; text-align: center; vertical-align: middle;">
+<a href="../default.asp" title="artelino - Art auctions of Japanese prints.">
+<img style="border-style: solid; border-width: 1px; border-color: silver; text-align: center; 
+vertical-align: middle; height: 100px; width: 150px;" 
+src="../images/japanese-small/86.jpg" title="artelino art auctions since 2001." alt="Homepage - artelino Art Auctions of Japanese prints since 2001."></a>
+</td>
+<td rowspan="2" style="height: 90px; font-size: 30px; color: #C63469; font-family: arial black; text-align: center; vertical-align: middle;">
+<a href="../default.asp" title="artelino - Art auctions of Japanese prints."><img style="text-align: center; vertical-align: middle; border-style: none; height: 42px; width: 229px;" src="../images/artelino-header1.png" alt="artelino Art Auctions of Japanese prints since 2001." title="Art auctions of Japanese and Chinese prints."></a>
+</td>
+<td rowspan="2" style="font-size: 25px; text-align: left; vertical-align: bottom; padding-bottom: 25px; padding-left: 10px;">
+</td>
+<td rowspan="2" style="white-space: nowrap; font-size: 25px; color: #C63469; font-family: arial; text-align: left; vertical-align: bottom; padding-bottom: 25px;"><a href="../auction/active-events.asp" class="header-small" title="artelino art auctions since 2001. Japanese prints from all periods - Edo, Meiji, Shin Hanga, Sosaku Hanga, contemporary. ">Japanese Prints</a>
+</td>
+<td style="white-space: nowrap; color: white; text-align: right; vertical-align: top; padding-top: 5px; padding-right: 20px;">
+<a href="../service/myaccount.asp" class="header-small" title="Sign in for registered users.">Sign In</a>&nbsp;&nbsp;|&nbsp;
+<a href="../service/register.asp" class="header-small" title="Registration for new users.">Register</a>&nbsp;&nbsp;|&nbsp;
+<a href="../info/contact.asp" class="header-small" title="Contact artelino by E-Mail, phone or fax.">Contact us</a>&nbsp;&nbsp;|&nbsp;
+<a href="../service/new_user.asp" class="header-small" title="For new users; What can I find on this site?">New User?</a>
+</td></tr>
+<tr>
+<td style="white-space: nowrap; color: white; text-align: right; vertical-align: bottom; padding-bottom: 10px; padding-right: 20px;">
+<!-- SiteSearch Google -->
+<form method="get" action="../service/google_search.asp" target="_top">
+<div style="text-align: right; display: inline-block;">
+<table>
+<tr>
+<td style="white-space:nowrap; background-color: white;">
+<input type="text" name="q" size="20" maxlength="255"></td>
+<td>
+<input type="submit" name="sa" value="Search">
+</td></tr>
+<tr>
+<td colspan="2">
+<input type="hidden" name="domains" value="www.artelino.com">
+<input type="hidden" name="sitesearch" value="www.artelino.com">
+<input type="hidden" name="client" value="pub-2272454274771641">
+<input type="hidden" name="forid" value="1">
+<input type="hidden" name="ie" value="ISO-8859-1">
+<input type="hidden" name="oe" value="ISO-8859-1">
+<input type="hidden" name="safe" value="active">
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:11">
+<input type="hidden" name="hl" value="en">
+</td></tr></table>
+</div>
+</form>
+<!-- SiteSearch Google -->
+</td>
+</tr>
+<tr>
+<td colspan="4" style="height: 30px; white-space: nowrap; text-align: center; background: #E3E4FA; border-top: solid; border-color: silver; border-width: 1px; padding: 0px; margin: 0px;">
+<ul class="header-list2">
+<li class="header-list2"><span><a href="../default.asp" title="Homepage of artelino.">HOME</a></span></li>
+<li class="header-list2"><span><a href="../auction/active-events.asp" title="Current and coming auctions of Japanese and Chinese prints.">AUCTIONS</a></span></li>
+<li class="header-list2"><span><a href="../buydirect/active-events.asp" title="Buy Japanese or contemporary Chinese art direct.">BUY DIRECT</a></span></li>
+<li class="header-list2"><span><a href="../sell/index.asp" title="Consignment of Japanese prints - guidelines, seller login.">SELL</a></span></li>
+<li class="header-list2"><span><a href="../service/index.asp" title="Registration for new users, My Account, Recall Password, Search.">SERVICE</a></span></li>
+<li class="header-list2"><span><a href="../info/index.asp" title="Our Art Products, About Us, Imprint, Terms &amp; Conditions, Shipping, Security, Announcements.">ABOUT US</a></span></li>
+<li class="header-list2"><span><a href="../archive/art_archive.asp" title="Archive of sold Japanese prints, Chinese Prints, Thangkas, Tibetan Rugs, Nepal Statues.">ARCHIVE</a></span></li>
+<li class="header-list2"><span style="background: #FFFF99; padding-left: 10px; padding-right: 10px; padding-top: 2px; padding-bottom: 2px;"><a href="../forum/index.asp" title="Articles on Japanese and Chinese Art Prints, Artist Biographies, Ukiyo-e Signatures, Asian Art News, Ukiyo-e Dealers, Videos.">EDUTAINMENT</a></span></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="frame-enclose-3">
+<div class="frame-column-left">
+<h3 class="left-nav-header1">EDUTAINMENT</h3>
+<div class="left-nav-block1">
+<ul class="left-nav-list1">
+<li class="left-nav-list1"><span><a href="../forum/index.asp" title="Index page for the Edutainment section.">Index</a></span></li>
+<li class="left-nav-list1"><span style="background: #FFFF99; padding-top: 2px; padding-bottom: 2px; padding-right: 5px; padding-left: 1px;"><a href="../forum/articles.asp" title="Search or browse for artist biographies and other articles on art.">Articles on Art</a></span><span>&nbsp;<img style="border: none;" src="../images/icon-go-small.png" alt="Renovated" title="Renovated"></span></li>
+<li class="left-nav-list1"><span><a href="../forum/artikel.asp" title="Artikel ueber Kunst und Kuenstlerbiografien.">Articles in German</a></span></li>
+<li class="left-nav-list1"><span><a href="../forum/artists.asp" title="Directory of mostly Japanese artists - many with short biographies.">Artists</a></span><span>&nbsp;<img style="border: none;" src="../images/icon-go-small.png" alt="Renovated" title="Renovated"></span></li>
+<li class="left-nav-list1"><span><a href="../forum/glossary.asp" title="Art glossary with emphasis on Japanese arts.">Art Glossary</a></span></li>
+<li class="left-nav-list1"><span><a href="../forum/asian-art-news.asp" title="View news from the Asian art scene.">Asian Art News</a></span></li>
+<li class="left-nav-list1"><span><a href="../forum/editorial.asp">Editorial</a></span></li>
+<li class="left-nav-list1"><span><a href="../forum/dealers.asp" title="Directory of commercial web sites of dealers in Japanese prints.">Ukiyo-e Dealers</a></span><span>&nbsp;<img style="border: none;" src="../images/icon-go-small.png" alt="Renovated" title="Renovated"></span></li>
+<li class="left-nav-list1"><span><a href="../forum/ukiyo-e-sites.asp" title="Directory of non-commercial ukiyo-e web sites.">Ukiyo-e Web Sites</a></span><span>&nbsp;<img style="border: none;" src="../images/icon-go-small.png" alt="New" title="New"></span></li>
+<li class="left-nav-list1"><span><a href="../forum/moku-hanga.asp" title="Directory of web sites owned by Japanese printmakers and Western moku hanga artists.">Printmakers</a></span><span>&nbsp;<img style="border: none;" src="../images/icon-go-small.png" alt="New." title="New."></span></li>
+<li class="left-nav-list1"><span><a href="../forum/signatures.asp" title="Database of Ukiyo-e signatures.">Ukiyo-e Signatures</a></span></li>
+<li class="left-nav-list1"><span><a href="../forum/videos.asp" title="artelino videos in English - with a Bavarian accent and some mistakes every now and then. ;-).">Videos in English</a></span></li>
+<li class="left-nav-list1"><span><a href="../forum/videos-german.asp" title="artelino videos in German language.">Videos in German</a></span></li>
+</ul>
+</div>
+</div>
+<div class="frame-column-main-3">
+
+    <form action="../forum/articles.asp" method="post">
+    
+<div class="table-wrapper-control">
+<table>
+<tr>
+<td>Search</td>
+<td><input type="text" name="sea" maxlength="100" size="50" value="Sumo Wrestler" /></td></tr>
+<tr>
+<td>&nbsp;</td>
+<td><input type="submit" name="act" value="GO" />&nbsp;
+<input type="submit" name="act" value="RESET" />&nbsp;
+<input type="submit" name="act" value="HELP" /></td></tr>
+</table>
+</div>
+</form>
+<h1><span class=small>Edutainment&nbsp;&gt;&nbsp;</span>Sumo Wrestling</h1> 
+<div style="display: inline; text-align: center; margin: 0 auto;"><div class="image-wrapper"><table><tr><td style="text-align: center; overflow: hidden;"><span class="constant">Sumo Tournament</span><br /></td></tr><tr><td style="text-align: center; overflow: hidden; vertical-align: middle;"><a href="#" onclick="window.open ('../show/window_flypage.asp?fnm=items/28444g1.jpg&amp;squeezer=0.4286&amp;toptitle=Sumo Tournament&amp;urltext=Japanese woodblock print from ca. 1890-1900 by unknown artist.','window_image','scrollbars=yes,menubar=no,toolbar=no,location=no,directories=no,resizable,width=522,height=750,top=10'); return false;"><img style="text-align: center; vertical-align: middle; width: 500px; height: 224px;" src="http://images.artelino.com/images/items/28444a.jpg" alt="Sumo Tournament - Japanese woodblock print from ca. 1890-1900 by unknown artist." title="Sumo Tournament - Japanese woodblock print from ca. 1890-1900 by unknown artist."></a></td></tr><tr><td style="text-align: center; overflow: hidden;"><a href="#" onclick="window.open ('../show/window_flypage.asp?fnm=items/28444g1.jpg&amp;squeezer=0.4286&amp;toptitle=Sumo Tournament&amp;urltext=Japanese woodblock print from ca. 1890-1900 by unknown artist.','window_image','scrollbars=yes,menubar=no,toolbar=no,location=no,directories=no,resizable,width=522,height=750,top=10'); return false;" title="Sumo Tournament - Japanese woodblock print from ca. 1890-1900 by unknown artist.">Japanese woodblock print from ca. 1890-1900 by unknown artist.</a></td></tr><tr><td style="text-align: center; overflow: hidden;"></td></tr><tr><td style="text-align: right;"><a href="#" onclick="window.open ('../show/window_flypage.asp?fnm=items/28444g1.jpg&amp;squeezer=0.4286&amp;toptitle=Sumo Tournament&amp;urltext=Japanese woodblock print from ca. 1890-1900 by unknown artist.','window_image','scrollbars=yes,menubar=no,toolbar=no,location=no,directories=no,resizable,width=522,height=750,top=10'); return false;"><img style="border-style: none;" src="../images/icon-view.png" title="Enlarge Image" alt="Enlarge Image"></a></td></tr></table></div></div>
+<p style="clear: both;" class="pgray">
+Japanese Sumo Wrestling is one of the oldest 
+martial arts in Japan. Sumo wrestlers were a favorite 
+subject on Japanese woodblock prints. 
+In contrast to some of the 
+traditional Japanese art forms like <i>kabuki</i>, 
+which has a heavy stand in today's world, sumo wrestling is 
+enjoying a rising popularity - comparable to basketball in 
+North America or soccer in Europe. 
+</p>
+<p>
+First Publication: June 2002
+<br />
+Latest Update: April 2013
+</p>
+
+<h2 style="clear: both;">History of Japanese Sumo Wrestling</h2>
+<div style="display: inline; float: left;"><div class="image-wrapper"><table><tr><td style="text-align: center; overflow: hidden;"><span class="constant">Champion Sumo Wrestler Wajima</span><br /></td></tr><tr><td style="text-align: center; overflow: hidden; vertical-align: middle;"><a href="#" onclick="window.open ('../show/window_flypage.asp?fnm=items/25797a.jpg&amp;squeezer=1&amp;toptitle=Champion Sumo Wrestler Wajima&amp;urltext=By Junichiro Sekino 1914-1988','window_image','scrollbars=yes,menubar=no,toolbar=no,location=no,directories=no,resizable,width=559.2,height=750,top=10'); return false;"><img style="text-align: center; vertical-align: middle; width: 145px; height: 200px;" src="http://images.artelino.com/images/items/25797sx.jpg" alt="Champion Sumo Wrestler Wajima - By Junichiro Sekino 1914-1988" title="Champion Sumo Wrestler Wajima - By Junichiro Sekino 1914-1988"></a></td></tr><tr><td style="text-align: center; overflow: hidden;"><a href="#" onclick="window.open ('../show/window_flypage.asp?fnm=items/25797a.jpg&amp;squeezer=1&amp;toptitle=Champion Sumo Wrestler Wajima&amp;urltext=By Junichiro Sekino 1914-1988','window_image','scrollbars=yes,menubar=no,toolbar=no,location=no,directories=no,resizable,width=559.2,height=750,top=10'); return false;" title="Champion Sumo Wrestler Wajima - By Junichiro Sekino 1914-1988">By Junichiro Sekino 1914-1988</a></td></tr><tr><td style="text-align: center; overflow: hidden;"><span class="constant">Woodblock Print</span><br /></td></tr><tr><td style="text-align: right;"><a href="#" onclick="window.open ('../show/window_flypage.asp?fnm=items/25797a.jpg&amp;squeezer=1&amp;toptitle=Champion Sumo Wrestler Wajima&amp;urltext=By Junichiro Sekino 1914-1988','window_image','scrollbars=yes,menubar=no,toolbar=no,location=no,directories=no,resizable,width=559.2,height=750,top=10'); return false;"><img style="border-style: none;" src="../images/icon-view.png" title="Enlarge Image" alt="Enlarge Image"></a></td></tr></table></div></div>
+<p>
+Sumo has its roots in the shinto religion. The 
+matches were dedicated to the gods in prayers for a 
+good harvest. 
+The oldest written records date back to 
+the 8th century. But it is probably more than 1500 years 
+old.
+</p>
+<p>
+Sumo prints from the 18th and 19th century prove the 
+popularity of the sport in the past.  
+During the last two decades the art of 
+sumo wrestling could establish itself even outside of Japan. 
+Akebono, an American born in Hawaii, became the first 
+American champion to reach the highest rank.
+</p>
+
+<h2 style="clear: none;">The Rules of the Game</h2>
+<p>
+A sumo wrestling match is accompanied by a lot of 
+traditional ceremony. The marching-in of the wrestlers 
+is a sequence of formal rituals. The wrestlers are accompanied 
+by two assistants - one walking in front and one behind him 
+- the one behind is usually hard to spot.
+</p>
+<p>
+The referee is clad in a luxurious kimono and wears a strange 
+hat. After performing a series of opening rituals, the contest 
+begins.
+</p>
+<p>
+The wrestling match is all about pushing or throwing the 
+opponent out of the <i>doyo</i> - the ring - or to bring the 
+other guy down on the floor.
+</p>
+<p>
+Sumo does not know any weight categories. There are 
+a few basic techniques - from pulling the opponents legs to 
+grabbing his belt and trying to throw or carry the opponent 
+out of the ring.
+</p>
+
+<h2 style="clear: both;">Sumo Glossary</h2>
+<div style="display: inline; float: right;"><div class="image-wrapper"><table><tr><td style="text-align: center; overflow: hidden;"><span class="constant">Champion Sumo Wrestler Umenotani</span><br /></td></tr><tr><td style="text-align: center; overflow: hidden; vertical-align: middle;"><a href="#" onclick="window.open ('../show/window_flypage.asp?fnm=items/23794a.jpg&amp;squeezer=1&amp;toptitle=Champion Sumo Wrestler Umenotani&amp;urltext=','window_image','scrollbars=yes,menubar=no,toolbar=no,location=no,directories=no,resizable,width=478.8,height=750,top=10'); return false;"><img style="text-align: center; vertical-align: middle; width: 133px; height: 200px;" src="http://images.artelino.com/images/items/23794sx.jpg" alt="Champion Sumo Wrestler Umenotani" title="Champion Sumo Wrestler Umenotani"></a></td></tr><tr><td style="text-align: center; overflow: hidden;"><a href="#" onclick="window.open ('../show/window_flypage.asp?fnm=items/23794a.jpg&amp;squeezer=1&amp;toptitle=Champion Sumo Wrestler Umenotani&amp;urltext=','window_image','scrollbars=yes,menubar=no,toolbar=no,location=no,directories=no,resizable,width=478.8,height=750,top=10'); return false;" title="Champion Sumo Wrestler Umenotani"></a></td></tr><tr><td style="text-align: center; overflow: hidden;"></td></tr><tr><td style="text-align: right;"><a href="#" onclick="window.open ('../show/window_flypage.asp?fnm=items/23794a.jpg&amp;squeezer=1&amp;toptitle=Champion Sumo Wrestler Umenotani&amp;urltext=','window_image','scrollbars=yes,menubar=no,toolbar=no,location=no,directories=no,resizable,width=478.8,height=750,top=10'); return false;"><img style="border-style: none;" src="../images/icon-view.png" title="Enlarge Image" alt="Enlarge Image"></a></td></tr></table></div></div>
+<p>
+Here are some basic Japanese terms.
+</p>
+<ul>
+<li><i>ashi-tori</i> - grabbing the opponents leg to bring him down</li>
+<li><i>banzuke</i> - the official tournament ranking list</li>
+<li><i>basho</i> - a tournament</li>
+<li><i>dohyo</i> - the wrestling ring, a circle</li>
+<li><i>dohyo-iri</i> - the rituals at the beginning of a match</li>
+<li><i>gyoji</i> - name for the referee</li>
+<li><i>hataki-komi</i> - a quick side step and push</li>
+<li><i>ketaguri</i> - pulling the opponent's legs</li>
+<li><i>mawashi</i> - the silk belt of a wrestler</li>
+<li><i>ozumo</i> - another word for wrestling</li>
+<li><i>rikishi</i> - another word for wrestlers</li>
+<li><i>sumotori</i> - the same as <i>rikishi</i></li>
+<li><i>yokozuna</i> - the highest rank for a wrestlers</li>
+<li><i>yorikiri</i> - grabbing the opponent at his belt</li>
+</ul>
+
+<h2 style="clear: both;">Sumo in Ukiyo-e (Japanese Prints)</h2>
+<div style="display: inline; text-align: center; margin: 0 auto;"><div class="image-wrapper"><table><tr><td style="text-align: center; overflow: hidden;"><span class="constant">All Stars Sumo Wrestling</span><br /></td></tr><tr><td style="text-align: center; overflow: hidden; vertical-align: middle;"><a href="#" onclick="window.open ('../show/window_flypage.asp?fnm=items/39133g1.jpg&amp;squeezer=0.6&amp;toptitle=All Stars Sumo Wrestling&amp;urltext=By Chikashige Morikawa active ca. 1869-82','window_image','scrollbars=yes,menubar=no,toolbar=no,location=no,directories=no,resizable,width=958.8,height=738.75,top=10'); return false;"><img style="text-align: center; vertical-align: middle; width: 500px; height: 369px;" src="http://images.artelino.com/images/items/39133a.jpg" alt="All Stars Sumo Wrestling - By Chikashige Morikawa active ca. 1869-82" title="All Stars Sumo Wrestling - By Chikashige Morikawa active ca. 1869-82"></a></td></tr><tr><td style="text-align: center; overflow: hidden;"><a href="#" onclick="window.open ('../show/window_flypage.asp?fnm=items/39133g1.jpg&amp;squeezer=0.6&amp;toptitle=All Stars Sumo Wrestling&amp;urltext=By Chikashige Morikawa active ca. 1869-82','window_image','scrollbars=yes,menubar=no,toolbar=no,location=no,directories=no,resizable,width=958.8,height=738.75,top=10'); return false;" title="All Stars Sumo Wrestling - By Chikashige Morikawa active ca. 1869-82">By Chikashige Morikawa active ca. 1869-82</a></td></tr><tr><td style="text-align: center; overflow: hidden;"><span class="constant">Woodblock Print</span><br /></td></tr><tr><td style="text-align: right;"><a href="#" onclick="window.open ('../show/window_flypage.asp?fnm=items/39133g1.jpg&amp;squeezer=0.6&amp;toptitle=All Stars Sumo Wrestling&amp;urltext=By Chikashige Morikawa active ca. 1869-82','window_image','scrollbars=yes,menubar=no,toolbar=no,location=no,directories=no,resizable,width=958.8,height=738.75,top=10'); return false;"><img style="border-style: none;" src="../images/icon-view.png" title="Enlarge Image" alt="Enlarge Image"></a></td></tr></table></div></div>
+<p style="clear: both;">
+Among the Japanese woodblock print artists are few that 
+made no prints with subjects of sumo wrestlers. 
+Ukiyo-e was a commercial art and was meant to sell. 
+In the 18th and 19th century it was more the publisher 
+who decided about the subjects than the artist. He 
+gave the commissions, risked his money and therefore 
+tended to publish popular themes.
+</p>
+<p>
+A few artists should be mentioned for 
+frequent or outstanding (Junichiro Sekino) sumo prints.
+</p>
+<ul>
+<li><a href="../articles/kunisada.asp" 
+title="Biography of ukiyo-e artist Kunisada Utagawa">Kunisada Utagawa 1786-1864</a></li>
+<li><a href="../articles/kuniyoshi.asp" title="Biogrpahy Kuniyoshi">Kuniyoshi Utagawa 1797-1861</a></li>
+<li>Kuniaki II Utagawa 1835-1888</li>
+<li>Kunisada II Utagawa 1823-1880</li>
+<li>Hironobu Kinoshita active ca. 1851-72</li>
+<li><a href="../articles/junichiro_sekino.asp" 
+title="Biography of Japanese artist Junichiro Sekino">Junichiro Sekino 1914-1988</a></li>
+</ul>
+
+<h2 style="clear: both;">Other Pages Related to Sumo Wrestler</h2><ul><li><a href="../articles/kunisada-prints.asp">Kunisada Prints</a><img style="border-style: none; margin-left: 5px; vertical-align: middle;" src="../images/icon-publish.png" title="Go to related article." alt="Go to related article."></li><li><a href="../articles/sumo-wrestlers.asp">Sumo Wrestlers</a><img style="border-style: none; margin-left: 5px; vertical-align: middle;" src="../images/icon-publish.png" title="Go to related article." alt="Go to related article."></li><li><a href="../articles/yokozuna.asp">Yokozuna</a><img style="border-style: none; margin-left: 5px; vertical-align: middle;" src="../images/icon-publish.png" title="Go to related article." alt="Go to related article."></li><p>&nbsp;<a href="http://www.google.com/#q=Sumo Wrestler" target="_blank"><img style="border: none;" src="../images/icon-google.png" alt="Google for Sumo Wrestler." title="Google for Sumo Wrestler."></a>&nbsp;<a href="http://www.bing.com/search?q=Sumo Wrestler" target="_blank"><img style="border: none;" src="../images/icon-bing.png" alt="Search BING for Sumo Wrestler." title="Search BING for Sumo Wrestler."></a></p></ul>
+
+<h2 style="clear: both;">Japanese Sumo Wrestling - External References</h2>
+<p>
+<a href="http://www.sumo.or.jp/eng/" target="_blank">Nihon Sumo Kyokai Official Grand Sumo Home Page</a>
+</p>
+
+<p style="clear: both; margin-top: 40px;"><a href="#" onclick="window.open ('../show/window_flypage.asp?fnm=images/dieter-wanczura-large.jpg&amp;squeezer=1&amp;toptitle=Dieter Wanczura&amp;urltext=','window_image','scrollbars=yes,menubar=no,toolbar=no,location=no,directories=no,resizable,width=600,height=600,top=10'); return false;"><img style="float: left; vertical-align: top; margin-right: 10px; border-width: 0px;" src="http://images.artelino.com/images/images/dieter-wanczura-small.jpg" alt="Dieter Wanczura" title="Dieter Wanczura"></a>Author: Dieter Wanczura<br />.. more about <a href="../info/about_us.asp">Dieter Wanczura</a></p><p style="clear: both;">&nbsp;</p><!-- trailer includes for articles -->
+
+<p style="clear: both;" class="small">
+The images on this web site are the property of the artist(s) and or 
+the <strong>artelino GmbH</strong> and/or a third company or institution. 
+Reproduction, public display and any commercial use of these images, in 
+whole or in part, require the expressed written consent of the artist(s) 
+and/or the <strong>artelino GmbH</strong>.
+</p>
+
+    <div class="box-universal-border-color">
+    <table style="margin: 10px; float:right;">
+    <tr>
+    <td>
+    <a href="https://www.artelino.com/service/register.asp" title="artelino - Art auctions of Japanese prints.">
+    <img style="border-style: solid; border-width: 1px; text-align: center; 
+    vertical-align: middle; height: 100px; width: 100px;" 
+    src="../images/dieter-wanczura-portrait-100-100.jpg" title="artelino art auctions since 2001." 
+    alt="Homepage - artelino Art Auctions of Japanese prints since 2001."></a>
+    </td>
+    </tr>
+    <tr>
+    <td class="center"><a href="../info/contact.asp">Questions?</a></td></tr>
+    </table>
+    <p>
+    Hi - You are visiting what is presumably the largest website for contents around 
+    Japanese prints. Please enjoy our free services, and if you like it, please 
+    support our work with your <a href="https://www.artelino.com/service/register.asp">registration</a> 
+    and by bidding in our <a href="../auction/active-events.asp">auctions of Japanese prints</a>. 
+    </p>
+    <p>
+    Thank you! - Only registered users have full access to all information.
+    </p>
+    </div>
+    
+</div>
+</div>
+<div class="frame-column-right">
+<div class="featured-block"><p>Auction <a href="../auction/active-events.asp">Japanese Prints and Manga - 1180</a> ending in 1 day, 22 hours and 10 minutes..</p><p class="center"><a href="../auction/active-events.asp"><img style="border-style: solid; border-width: 1px; vertical-align: middle; width: 140px;" src="http://images.artelino.com/images/items/60425sx.jpg" alt="" title="Go to auction Japanese Prints and Manga - 1180"></a></p><p class="center"><a href="../auction/active-events.asp"><img style="border-style: solid; border-width: 1px; vertical-align: middle; width: 100px;" src="http://images.artelino.com/images/thumbnails/japanese-prints-1180.jpg" alt="" title="Go to auction Japanese Prints and Manga - 1180"></a></p><p style="clear: both;">1. <a href="../service/register.asp" title="Registration is free.">Register</a><br />2. We clear your account.<br />3. You can bid.<br /><br />Thank you! - Dieter and Yorie</p></div>
+</div>
+
+<div style="clear: both;" class="footer">
+<hr />
+<div class="small-center">
+<a href="../info/contact.asp" title="Our e-mail and address.">Contact</a>&nbsp;&nbsp;
+<a href="../service/sitemap.asp" title="Sitemap">Sitemap</a>&nbsp;&nbsp;
+<a href="../info/conditions.asp" title="Terms and Conditions">Conditions</a>&nbsp;&nbsp;
+<a href="../info/imprint.asp" title="Address, phone, fax">Imprint</a>&nbsp;&nbsp;
+<a href="../info/contact.asp">E-Mail</a>&nbsp;&nbsp;
+<a href="../info/conditions.asp#copyright" TITLE="copyright">Copyright&nbsp;&copy;2001-2014</a>&nbsp;artelino GmbH.&nbsp;All rights reserved.&nbsp;&nbsp;
+<!-- Google author tag -->
+<a href="https://plus.google.com/103175029061358985094?rel=author">Google</a>
+<a href="../service/myaccount.asp">Remember My Client No.</a>&nbsp;&nbsp;&nbsp;&nbsp;No client group.&nbsp;&nbsp;&nbsp;&nbsp;<br>Current Local Time: Tuesday, February 25, 2014,&nbsp;9:50:36 PM&nbsp;Central European Time<br>
+<div class="box-universal">
+<a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" title="CSS Validity" style="text-decoration: none;">
+<img style="border-style: none;" src="../images/but-css.gif" alt="CSS Validity" />
+</a>
+<a href="http://validator.w3.org/check/referer" target="_blank" title="XHTML Validity" style="text-decoration: none;">
+<img style="border-style: none;" src="../images/but-xhtml10.gif" alt="XHTML Validity" />
+</a>
+</div>
+
+</div>
+</div>
+
+<!-- Place this tag after the last plusone tag -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</div>
+</div>
+<!-- Google Analytics -->
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-4032380-2");
+        pageTracker._trackPageview();
+    } catch (err) { }</script>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.sumoforum.net/>====================
+<html><head>
+<meta http-equiv="refresh" content="0;URL='http://www.sumoforum.net/forums/'">
+</head><body>
+</body></html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.sumotalk.com/>====================
+<html>
+<head>
+<title>Expert Sumo Analysis</title>
+<META name="verify-v1" content="dLQynrzTrSKphonLp5z819KtwxMXE7uwSyzXmEe3A+w=" />
+<META name="keywords" content="Japan, Japanese sumo, meet Japanese girls, cupid, learn Japanese, Japanese culture, travel to Japan, sumo news, sumo history">
+<META name="description" content="Expert Sumo Analysis...the ultimate sumo site on the web.  Enjoy commentary on sumo, Japan, Japanese culture.  Play Fantasy sumo and interact with sumo fans across the globe">
+<META http-equiv="Pragma" content="no-cache">
+</head>
+
+<body bgcolor=#CCCCCC>
+
+<table  align="center" border="0" cellpadding="0" cellspacing="0" width="1062" height="833">
+	<tr>
+		<td valign="top" colspan="6" height="175">
+		<img border="0" src="sumo-a.jpg" width="1062" height="175"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#6A0000" valign="middle" colspan="6" height="28">
+		<p align="center"><b><font color="#FFFF99" face="Arial Narrow">
+		<a href="http://www.sumotalk.com"><font color="#FFFF99">Home</font></a>&nbsp; |&nbsp; 
+		<a target="_blank" href="http://www.sumotalk.com/forum">
+		<font color="#FFFF99">User Forum</font></a>&nbsp; 
+		|&nbsp; <a href="http://www.sumotalk.com/news.htm">
+		<font color="#FFFF99">News</font></a>&nbsp; 
+		|&nbsp; <a href="http://www.sumotalk.com/fantasy-sumo.htm">
+		<font color="#FFFF99">Fantasy Sumo</font></a>&nbsp; |&nbsp; 
+		<a href="http://www.sumotalk.com/media.htm"><font color="#FFFF99">Media Requests</font></a>&nbsp; |&nbsp; 
+		<a href="http://www.sumotalk.com/contributors.htm">
+		<font color="#FFFF99">Contributors</font></a>&nbsp; |&nbsp; 
+		<a href="http://www.sumotalk.com/about.htm"><font color="#FFFF99">About&nbsp;Us</font></a> 
+		|&nbsp; <a href="http://www.sumotalk.com/basics.htm">
+		<font color="#FFFF99">Sumo 101</font></a>&nbsp; |&nbsp; 
+		<a href="http://www.sumotalk.com/links.htm"><font color="#FFFF99">Links</font></a>&nbsp; |&nbsp; 
+		<a href="http://www.sumotalk.com/archive.htm"><font color="#FFFF99">Archives</font></a>&nbsp; |&nbsp; 
+		<a href="http://www.sumotalk.com/swedish.htm"><font color="#FFFF99">Swedish</font></a></font></b></td>
+	</tr>
+	<tr>
+		<td background="sumo-v.jpg" valign="top" width="10" height="530">
+		&nbsp;</td>
+		<td background="sumo-w.jpg" valign="top" width="350" height="530">
+<p align="center"><br>
+		<b><font face="Arial" size="4">Latest Sumo Headlines</font></b></p>
+<p align="center">
+<script type="text/javascript">
+var delay = 8000; //set delay between message change (in miliseconds)
+var maxsteps=30; // number of steps to take to change from start color to endcolor
+var stepdelay=20; // time in miliseconds of a single step
+//**Note: maxsteps*stepdelay will be total time in miliseconds of fading effect
+var startcolor= new Array(255,255,255); // start color (red, green, blue)
+var endcolor=new Array(0,0,0); // end color (red, green, blue)
+
+var fcontent=new Array();
+begintag='<div align="center" style="font: normal 18px Arial; color: black; padding: 5px;">'; //set opening tag, such as font declarations
+fcontent[0]="<a href='http://www.sumotalk.com/newsh1419.htm'><b>01/15 Myogiryu withdraws</b><img src='h14myokyujo.jpg' align='center' width='307' height='246' border='0' /></a>";
+fcontent[1]="<a href='http://www.sumotalk.com/newsh1421.htm'><b>01/09 Harumafuji kyujo likely</b><img src='h14amakyu.JPG' align='center' width='306' height='247' border='0' /></a>";
+fcontent[2]="<a href='http://www.sumotalk.com/newsh1422.htm'><b>01/07 Hakuho roughs up Kisenosato</b><img src='h14hakshow.JPG' align='center' width='307' height='246' border='0' /></a>";
+fcontent[3]="<a href='http://www.sumotalk.com/newsh1423.htm'><b>01/05 More chick hype for Endoh</b><img src='k14endohnchicks.JPG' align='center' width='307' height='247' border='0' /></a>";
+fcontent[4]="<a href='http://www.sumotalk.com/newsh1424.htm'><b>01/05 Nishonoseki Ichimon joint keiko report</b><img src='h14kidtake.JPG' align='center' width='307' height='247' border='0' /></a>";
+fcontent[5]="<a href='http://www.sumotalk.com/newsh1425.htm'><b>01/04 Goeido, Kisenosato keiko reports</b><img src='k14gorengo.JPG' align='center' width='307' height='247' border='0' /></a>";
+fcontent[6]="<a href='http://www.sumotalk.com/newsh1427.htm'><b>12/26 Hakuho roughs up Kisenosato at Soken keiko</b><img src='h14sokenf.jpg' align='center' width='307' height='247' border='0' /></a>";
+fcontent[7]="<a href='http://www.sumotalk.com/newsh1429.htm'><b>12/25 Banzuke reaction from Kisenosato, Harumafuji</b><img src='h14kiseban.JPG' align='center' width='305' height='247' border='0' /></a>";
+closetag='</div>';
+
+var fwidth='340px'; //set scroller width
+var fheight='300px'; //set scroller height
+
+var fadelinks=1;  //should links inside scroller content also fade like text? 0 for no, 1 for yes.
+
+///No need to edit below this line/////////////////
+
+
+var ie4=document.all&&!document.getElementById;
+var DOM2=document.getElementById;
+var faderdelay=0;
+var index=0;
+
+
+/*Rafael Raposo edited function*/
+//function to change content
+function changecontent(){
+  if (index>=fcontent.length)
+    index=0
+  if (DOM2){
+    document.getElementById("fscroller").style.color="rgb("+startcolor[0]+", "+startcolor[1]+", "+startcolor[2]+")"
+    document.getElementById("fscroller").innerHTML=begintag+fcontent[index]+closetag
+    if (fadelinks)
+      linkcolorchange(1);
+    colorfade(1, 15);
+  }
+  else if (ie4)
+    document.all.fscroller.innerHTML=begintag+fcontent[index]+closetag;
+  index++
+}
+
+// colorfade() partially by Marcio Galli for Netscape Communications.  ////////////
+// Modified by Dynamicdrive.com
+
+function linkcolorchange(step){
+  var obj=document.getElementById("fscroller").getElementsByTagName("A");
+  if (obj.length>0){
+    for (i=0;i<obj.length;i++)
+      obj[i].style.color=getstepcolor(step);
+  }
+}
+
+/*Rafael Raposo edited function*/
+var fadecounter;
+function colorfade(step) {
+  if(step<=maxsteps) {	
+    document.getElementById("fscroller").style.color=getstepcolor(step);
+    if (fadelinks)
+      linkcolorchange(step);
+    step++;
+    fadecounter=setTimeout("colorfade("+step+")",stepdelay);
+  }else{
+    clearTimeout(fadecounter);
+    document.getElementById("fscroller").style.color="rgb("+endcolor[0]+", "+endcolor[1]+", "+endcolor[2]+")";
+    setTimeout("changecontent()", delay);
+	
+  }   
+}
+
+/*Rafael Raposo's new function*/
+function getstepcolor(step) {
+  var diff
+  var newcolor=new Array(3);
+  for(var i=0;i<3;i++) {
+    diff = (startcolor[i]-endcolor[i]);
+    if(diff > 0) {
+      newcolor[i] = startcolor[i]-(Math.round((diff/maxsteps))*step);
+    } else {
+      newcolor[i] = startcolor[i]+(Math.round((Math.abs(diff)/maxsteps))*step);
+    }
+  }
+  return ("rgb(" + newcolor[0] + ", " + newcolor[1] + ", " + newcolor[2] + ")");
+}
+
+if (ie4||DOM2)
+  document.write('<div id="fscroller" style="border:1px solid black;width:'+fwidth+';height:'+fheight+'"></div>');
+
+if (window.addEventListener)
+window.addEventListener("load", changecontent, false)
+else if (window.attachEvent)
+window.attachEvent("onload", changecontent)
+else if (document.getElementById)
+window.onload=changecontent
+
+      </script>
+</p>
+<p align="center"><font face="Arial">Hon-basho Links</font></p>
+<p align="center">
+<a href="http://www.sumo.or.jp/en/honbasho/main/torikumi?day=15&rank=1">
+<font face="Arial" color="#000000">Senshuraku</font></a><font face="Arial"><font color="#000000"><a target="_blank" href="http://www.sumo.or.jp/en/honbasho/main/torikumi?day=14&rank=1"><font color="#000000"> Results</font></a></font>&nbsp;&nbsp; |&nbsp;&nbsp; 
+<font color="#000000"><a href="http://www.sumotalk.com/mhatsu14.htm">
+<font color="#000000">Mike's Pre-basho Report</font></a></font></font></p>
+<p align="center"><font color="#000000" face="Arial">
+<a href="http://www.sumotalk.com/standings.php"><font color="#000000">Fantasy 
+Sumo Final Standings</font></a></font></p>
+<p align="center"><font face="Arial">
+<a href="http://www.sumotalk.com/sumo-pics-h14-1.htm"><font color="#000000">The 
+Hatsu Basho in Pictures</font></a></font></p></td>
+		<td background="sumo-x.jpg" valign="middle" align="center" width="25">
+		<p valign="middle" align="center"></td>
+		<td background="sumo-y.jpg" valign="top" width="350" height="530">
+<p align="center"><br>
+		<b><font face="Arial" size="5">
+		<img border="0" src="st-mike.png" width="101" height="110" align="left">Mike 
+Wesemann</font></b></p>
+		<p align="center"><font face="Arial" size="4">Profile</font></p>
+		<p align="center"><font face="Arial">Hatsu Senshuraku comments</font></p>
+		<p><font face="Arial">Jan. 26 - I'm sure all of you were as shocked as I 
+		was to read the retirement announcement of one of our own yesterday. You 
+		don't go through thick and thin with someone and create memories over 
+		the years, and then just treat their moving on as if it was yet another 
+		movie. I'm not sure what direction Sumotalk will take in the near future 
+		or how this will affect the overall landscape, but I want to be the 
+		first one to wish Kimurayama well and declare, &quot;You will be missed!&quot; 
+		Besides Kimurayama's calling it quits, we also learned on the afternoon 
+		of senshuraku that Ozeki Kisenosato officially...<br>
+		<br>
+		<a href="http://www.sumotalk.com/hatsu14.htm"><font color="#000000">Click here for the rest of 
+		Mike's comments&gt;&gt;</font></a><br>
+		<br>
+		<img border="0" align=middle src="metal-bar.png" width="340" height="3"></font></p>
+<p align="center"><font face="Arial" size="4">Up Next:<br>
+</font><font face="Arial">Mike reports on the Senshuraku bouts</font></td>
+		<td background="sumo-z.jpg" valign="middle" height="510" width="25">
+		<p align="center">&nbsp;</td>
+		<td background="sumo-g.jpg" valign="middle" height="530" width="302">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0756358011896814";
+/* STGray-Front */
+google_ad_slot = "2705899969";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br><br><script type="text/javascript"><!--
+google_ad_client = "ca-pub-0756358011896814";
+/* STGray-Front */
+google_ad_slot = "2705899969";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td>
+	</tr>
+	<tr>
+		<td valign="middle" align="center" background="sumo-h.jpg" colspan="6" height="100">
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0756358011896814";
+/* STGray-Front-Bottom */
+google_ad_slot = "2143836761";
+google_ad_width = 970;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td>
+	</tr>
+</table>
+<div align="center"><a href="http://www.amazingcounters.com" target="_top"><img border="0" src="http://www.amazingcounters.com/counter.php?i=40291&c=121186" alt="hit counters" width="137" height="30"></a>
+</div>
+</body>
+
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://sumowrestling.atspace.com/>====================
+<html>
+<head>
+<title>Sumo Wrestling</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="sumostyle.css" type="text/css">
+<meta name="keywords" content="sumo wrestling, wrestlers, japan, marial art, sumo">
+<meta name="description" content="A guide to Sumo Wrestling, with information on the wrestlers, rules and origins of sumo.">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" vlink="#000000">
+<table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td><img src="sumo_wrestling.jpg" width="520" height="130" alt="sumo wrestling"></td>
+  </tr>
+  <tr>
+    <td background="bg.gif">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td valign="top" width="73%"><img src="spacer1.gif" width="380" height="5"></td>
+          <td valign="top" width="27%"><img src="spacer2.gif" width="140" height="5"></td>
+        </tr>
+        <tr> 
+          <td width="73%" valign="top" align="center"> 
+            <table width="95%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td> 
+                  <h1>Sumo Wrestling</h1>
+                </td>
+              </tr>
+              <tr> 
+                <td valign="top"> 
+                  <p class="txt"><b><span class="txt">Sumo Wrestling</span></b><span class="txt">, 
+                    or <b>Sumo</b>, is a competition contact sport where two wrestlers 
+                    or rikishi face off in a circular area. Sumo is of Japanese 
+                    origin and is surrounded with many rituals. The Japanese consider 
+                    sumo wrestling a modern Japanese martial art.</span></p>
+                  <p class="txt"><span class="txt"><script type="text/javascript"><!--
+google_ad_client = "pub-6727445078668769";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_channel ="8439151346";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "990000";
+google_color_url = "FFFFFF";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></span></p>
+                  <p class="txt"><span class="txt">The sumo tradition is very 
+                    ancient, and even today the sport includes many ritual elements 
+                    from when sumo was used in the Shinto religion.</span></p>
+                  <p class="txt"><span class="txt">Use the menu on the right to 
+                    discover more information about sumo, including details on 
+                    the tournaments, rules and referee. There is also a section 
+                    with information on famous sumo wrestlers from past and present.</span></p>
+                  </td>
+              </tr>
+            </table>
+          </td>
+          <td width="27%" valign="top"> 
+            <table width="95%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td>&nbsp;</td>
+              </tr>
+              <tr> 
+                <td><a href="http://sumowrestling.atspace.com"><b>Sumo wrestling</b></a></td>
+              </tr>
+              <tr> 
+                <td><a href="sumo_wrestlers.htm"><b>Sumo wrestlers</b></a></td>
+              </tr>
+              <tr> 
+                <td>&nbsp;</td>
+              </tr>
+              <tr> 
+                <td><a href="sumo_origins.htm">Origins of sumo</a></td>
+              </tr>
+              <tr> 
+                <td><a href="professional_sumo.htm">Professional sumo</a></td>
+              </tr>
+              <tr> 
+                <td><a href="sumo_tournaments.htm">Sumo tournaments</a></td>
+              </tr>
+              <tr> 
+                <td><a href="sumo_rules.htm">Sumo rules</a></td>
+              </tr>
+              <tr> 
+                <td><a href="referee.htm">The referee</a></td>
+              </tr>
+              <tr> 
+                <td>&nbsp;</td>
+              </tr>
+              <tr> 
+                <td><a href="sumo_ranking.htm"><b>Sumo ranking</b></a></td>
+              </tr>
+              <tr> 
+                <td><a href="yokozuna.htm">Yokozuna</a></td>
+              </tr>
+              <tr> 
+                <td><a href="ozeki.htm">Ozeki</a></td>
+              </tr>
+              <tr> 
+                <td><a href="sekiwake.htm">Sekiwake</a></td>
+              </tr>
+              <tr> 
+                <td><a href="komusubi.htm">Komusubi</a></td>
+              </tr>
+              <tr> 
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><a href="sumo_photos.htm"><b>Sumo photos</b></a></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="bot.gif" width="520" height="10"></td>
+  </tr>
+</table>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://ifaq.wap.org/sumo/>====================
+<HTML><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HEAD>		<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">   <TITLE>Infrequently Asked Questions: Sumo</TITLE>	</HEAD><BODY BGCOLOR="#FFFFFF"><H1><IMG SRC="west.gif" ALT="West" WIDTH="31" HEIGHT="31" ALIGN="bottom">InfrequentlyAsked Questions: Sumo<IMG SRC="east.gif" ALT="East" WIDTH="31" HEIGHT="31" ALIGN="bottom"></H1><P><IMG SRC="sumo.gif" alt="Sumo: the world's biggest sport" WIDTH="511" HEIGHT="78" ALIGN="bottom"></P><UL>   <LI><A HREF="akebono.jpg"><B>Nagoya Winter Olympics ring ceremony   by Yokozuna (Grand Champion) Akebono</B></A> (from Hawaii). Nice   outfit for a Winter Olympics outdoor ceremony.</LI>      <LI><A HREF="ringentrance.jpg"><B>Nagoya Winter Olympics ring   ceremony by Makunouchi (top division) rikishi</B></A>   (professional wrestlers)</LI>      <LI><A HREF="everythingiknow.html"><B>Everything I Need to Know I   Learned From Sumo!</B></A></LI>      <LI><A HREF="dohyo.html"><B>The Sumo Ring</B></A></LI>      <LI><A HREF="sumoallowances.html"><B>Sumo Allowances</B></A></LI>      <LI><A HREF="sumosalaries.html"><B>Sumo Salaries</B></A></LI>      <LI><A HREF="largerrikishi.html"><B>Larger Rikishi and Smaller   Rikishi</B></A></LI>      <LI><A HREF="rikishiheightweight.html"><B>Rikishi Height and   Weight</B></A></LI>      <LI><A HREF="yusho.html"><B>Yusho Results from 1909 to   Present</B></A></LI>      <LI><A HREF="sumotech.html"><B>Description of Sumo   Techniques</B></A></LI>      <LI><A HREF="yokozuna.html"><B>Modern Era Yokozuna With 5   Yusho</B></A></LI></UL><P><HR><A HREF="http://ifaq.wap.org/">Return to Infrequently Asked Questions</A></P><P><FONT SIZE="-1">Revised November 12, 1998 Lawrence I. Charters<BR>Washington Apple Pi IFAQ<BR></FONT></P></BODY></HTML>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.usasumo.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=1010px">
+<title>USA SUMO - Sumo Wrestlers, Sumo Models, US Sumo Open, Sumo Events, Sumo Equipment, Sumo Props, Sumo Video </title>
+<meta name="keywords" content="American Sumo, USA SUMO, Sumo Models, Sumo Demo, Sumo Events, Sumo Belt, Sumo Equipment ">
+<meta name="description" content="USA SUMO, Sumo Models, US Sumo Open, Sumo Tournaments, Sumo Equipment, Sumo Props, Sumo Video ">
+<meta name="ROBOTS" content="ALL">
+<script type="text/javascript">
+var crpg = 'LINKS';
+</script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script language="JavaScript" src="./lib/general.js"></script>
+<script language="JavaScript" src="./lib/snav.js"></script>
+<script language="JavaScript" src="./lib/slide.js"></script>
+<link rel="stylesheet" type="text/css" href="./lib/style.css" />
+<style type="text/css">
+<!--
+.h4{
+	color:#990000;
+	padding-top: 20px;
+	border-bottom-width: thin;
+	border-bottom-style: dotted;
+	border-bottom-color: #666;
+	padding-bottom: 5px;
+	clear: both;
+	font-family: 'Arial', sans-serif;
+	font-size: 22px;
+	line-height: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.news {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	/* [disabled]list-style-type: disc; */
+	border-top-width: thin;
+	border-top-style: dotted;
+	border-top-color: #333;
+	display: block;
+	color: #000;
+	text-align: left;
+	/* [disabled]padding-left: 10px; */
+	line-height: 1.6em;
+	padding-top: 15px;
+	/* [disabled]list-style-position: inside; */
+	/* [disabled]height: 250px; */
+	padding-right: 10px;
+	/* [disabled]text-indent: 10px; */
+}
+.news_title {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 16px;
+	color: #000;
+	text-align: center;
+	width: 290px;
+	padding-top: 20px;
+	padding-left: 15px;
+	padding-bottom: 5px;
+	padding-right: 15px;
+	background-image: url(image/news.jpg);
+	background-repeat: repeat-y;
+}
+
+.col2{
+	width: 300px;
+	float:left;
+	padding-right:20px;
+}
+.col2-list{
+	display: block;
+	list-style-type: disc;
+	list-style-position: inside;
+	line-height: 1.6em;
+	font-weight: bold;
+}
+.imgbox640{
+	width: 650px;
+	overflow: hidden;
+	float: left;
+	padding-bottom: 10px;
+}
+.img{
+	margin-right: 10px;
+	float: left;
+	width: 120px;
+}
+-->
+</style>
+</head>
+
+<body>
+<div id="mainbody" style="margin-bottom:-30px;">
+
+<div id="headerbar">
+ <div style="float:left;height:100px;"><h1 ><a href="http://www.usasumo.com/"><img src="./image/logo.png" alt="USA SUMO" height="75" width="260" style="margin:20px 0 0 10px;"></a></h1></div>
+ <div style="float:right;height:100px;text-align:right;padding-right:10px;">
+     <div style="font:bold 18px/34px 'Arial';margin-top:24px;">310.288.3641</div>
+    <a href="joinmailinglist.html" target="_top" style="vertical-align:middle;" />JOIN THE SUMO LIST</a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/USASUMO?sk=wall" target="_blank"><img src="./image/facebook.png" height="20" width="20" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+    <a href="https://www.youtube.com/user/ooicho" target="_blank"><img src="./image/youtube2.gif" width="48" height="20" style="vertical-align:middle;" /></a>
+ </div><br style="clear:both" />
+ <div id="navbar">
+ <ul>
+   <li><a href="./ent_performances.html">ENTERTAINMENT</a></li>
+   <li><a href="./events_calendar.html">EVENTS</a></li>
+   <li><a href="./news_allnews.html">NEWS</a></li>
+   <li><a href="ussumoopen2013.html">US SUMO OPEN</a></li>
+   <li><a href="./sumo_equipment.html">SUMO SHOP</a></li>
+   <li><a href="./what_prosumo.html" >WHAT IS SUMO</a></li>
+   <li><a href="./aboutus_history.html">ABOUT US</a></li>
+ </ul>
+ </div><!-- end navbar -->
+ <div id="subnavbar"></div>
+ <div style="height:10px;background:url('./image/snav-shadow.png') repeat-x;"></div>
+</div><!-- end headerbar -->
+
+<div id="contentbox" class="clearfix">
+<div id="twocolleft"><p>
+  <div id="slide" style="position:relative;">
+<img src="./slide/01.jpg" width="640" height="375" id="slideb" style="" />
+<img src="./slide/01.jpg" width="640" height="375" id="slidef" style="position:absolute;top:0;left:0;z-index:1;" />
+
+
+
+<p class="h4">Video GALLeRy</p>
+       <iframe width="640" height="360" src="http://www.youtube.com/embed/tEAArbyNqzA?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+      <div class="imgbox640">
+      <a href="./ent_videos.html">
+      <p class="img"><img src="./video/img/montage13.jpg" width="120" height="67" alt="byamba"> </p>
+      <p class="img"><img src="./video/img/usso2012a.jpg" width="120" height="67" alt="us sumo open"> </p>
+      <p class="img"><img src="./video/img/riverside_a.jpg" width="120" height="65" alt="sumo event"> </p>
+      <p class="img"><img src="./video/img/usso2010b.jpg" width="120" height="67" alt="sumo match"> </p>
+      <p class="img"><img src="./video/img/gsla_a.jpg" width="120" height="67" alt="grand sumo"></p>
+      </a>
+      US Sumo Open Archives, Sumo Slam, Byamba's Montage, Sumo Demos, and more.     <a href="./ent_videos.html">Watch &gt;&gt;</a></div> 
+
+<p class="h4">SUMO EVENTS</p>
+<p>We produce tons of sumo events  globally. Sumo attracts crowds who flock to a once-in-a-lifetime sumo experience! </p>
+<div class="col2"><img src="./image/event.jpg" width="300" height="200" alt="sumo event" ></div>
+<ul class="col2-list">
+<li>Event Calendar <a href="./events_calendar.html">&gt;&gt;</a></li>
+<li>Sumo Tournaments <a href="./events_tournaments.html">&gt;&gt;</a></li>
+<li>Japanese Sumo Events  <a href="./events_japanesesumo.html">&gt;&gt;</a></li>
+<li>Live Stadium Performances <a href="./events_stadiums.html"> &gt;&gt;</a></li>
+<li>Festivals, Sumo Demos  <a href="./events_festivals.html">&gt;&gt;</a></li>
+<li>Corporate Events, Trade shows   <a href="./events_corporate.html">&gt;&gt;</a></li>
+<li>Private Sumo Parties  <a href="./events_parties.html">&gt;&gt;</a></li>
+<li>Educational Sumo Events  <a href="./events_educational.html">&gt;&gt;</a></li>
+<li>Specialty Sumo Shows  <a href="./events_specialty.html">&gt;&gt;</a></li></ul>
+
+
+<p class="h4">PHOTO GALLERy</p>
+<p>US Sumo Open,  Sumo Exhibition,   Sumo Demos,   Sumo Lecture, and more.<a href="./ent_photos.html" target="_top"> Watch &gt;&gt;</a></p>
+<div class="imgbox640"> <a href="./ent_photos.html">
+<img src="image/p01.JPG" width="120" height="65" class="img" alt="sumo">
+<img src="image/p03.jpg" width="120" height="65" class="img" alt="sumo"> 
+<img src="image/p02.jpg" width="120" height="65" class="img" alt="sumo"> 
+<img src="video/img/speedway.jpg" width="120" height="65" class="img" alt="sumo"> 
+<img src="video/img/img6355.jpg" width="120" height="65" class="img" alt="sumo"></a></div>
+
+<div class="imgbox640"> <a href="./ent_photos.html">
+<img src="video/img/dse1143.jpg" width="120" height="65" class="img" alt="sumo">
+<img src="video/img/usso2010a.jpg" width="120" height="65" class="img" alt="sumo"> 
+<img src="video/img/menil.jpg" width="120" height="65" class="img" alt="sumo"> 
+<img src="video/img/img4497a.jpg" width="120" height="65" class="img" alt="sumo"> 
+<img src="video/img/img0082.jpg" width="120" height="65" class="img" alt="sumo"> </a></div>
+
+</div>
+</div>
+
+<!-- end twocolleft -->
+
+<div id="twocolright" style="padding-top:15px">
+      <div class="news_title">WHAT'S NEW
+        
+       <p class="news">2013 US SUMO OPEN Highlights  <a href="ussumoopen2013.html" target="_top"> <font color="#FFFF33">More &gt;&gt;</font></a></p>
+       <p class="news">ESPN - EPIC Sumo Slam &quot; Top 10 of the Month!&quot;  - Millions of Views<a href="news_allnews.html" target="_top" style="text-decoration:none"> <font color="#FFFF33">More &gt;&gt; </font></a></p>
+       
+ </div>
+
+<p class="topics"><img src="image/usso.jpg" width="300" height="236"><br>
+   <br>
+   One of the most exciting sumo tournaments in the world! The US Sumo Open (since 2001) features elite sumo wrestlers, with many National and World Champions. <a href="./ussumoopen2013.html">More &gt;&gt;</a>
+     <br><br>
+    
+     <img src="event/img/all/usso01.jpg" width="147" height="80"> <img src="event/img/all/usso02.jpg" width="146" height="80"></p>  
+
+  <p><a href="http://www.sumobyamba.com" target="_blank"><img src="image/banner_byamba.jpg" width="320" height="192" alt="sumo byamba"></a></p> 
+
+<p class="topics"><a href="ent_sumomodels.html" target="_top"><img src="image/banner_models295.jpg" width="300" height="88" alt="sumo models"></a><br>
+<br>
+Our Sumo Talents are include well-trained athletes and experienced entertainers. These men are enormous, and we ensure extraordinary sportsmanship, authenticity, and big-impact entertainment at your event. <a href="sumomodels.html" target="_top"> More &gt;&gt;</a><br>
+<br>
+<img src="ent/img/models/sumocm00.jpg" width="96" height="95" alt="sumo models"> <img src="ent/img/models/sumocm01.jpg" width="98" height="95" alt="sumo wrestler"> <img src="ent/img/models/sumocm02.jpg" width="96" height="95" alt="sumo model"></p>
+
+
+
+
+  <p class="topics" ><a href="ent_sumoprops.html" target="_top"><img src="image/banner_props.jpg" width="300" height="88" alt="sumo props"><br>
+    <br>
+  </a>Sumo belt, sumo ring, sumo wig, real authentic sumo costumes,  referee's paddle, and all types of sumo decor are available for entertainment show. <a href="mailto:info@usasumo.com">More &gt;&gt;</a><br>
+    <br>
+    <img src="ent/img/props/ring_rice147.jpg" width="147" height="90" alt="sumo ring"> <img src="ent/img/props/tawara.jpg" width="146" height="90" alt="sumo ring"><br>
+</p>
+<p> <a href="contactus.html"><img src="image/contact13.jpg" width="320" height="55" alt="contact"></a></p>
+</div><!-- end twocolright -->
+
+</div><!-- end contentbox -->
+
+</div><!-- end mainbody -->
+<br />
+
+<footer>
+<div id="footer-nav-wrap">
+<div class="footer-1">
+	<ul class="footer-nav">
+			
+			<li><a href="./ent_performances.html">Sumo Performances</a></li>
+			<li><a href="./ent_sumomodels.html">Sumo Models</a></li>
+			<li><a href="./ent_sumoprops.html">Sumo Props</a></li>
+            <li><a href="./ent_videos.html">Video Gallery</a></li>
+            <li><a href="./ent_photos.html">Photo Gallery</a></li>
+      </ul>      
+</div>
+<div class="footer-2">
+			<ul class="footer-nav">
+			
+			<li><a href="./events_calendar.html">Event Calendar</a></li>
+			<li><a href="./events_tournaments.html">Sumo Tournaments</a></li>
+			<li><a href="./events_japanesesumo.html">Japanese Sumo</a></li>
+           <li><a href="./events_stadiums.html">Stadium Events</a></li>
+           <li><a href="./events_festivals.html">Festivals / Sumo Demo</a></li>
+           <li><a href="./events_corporate.html">Corporate Events</a></li>
+           <li><a href="./events_parties.html">Private Sumo Parties</a></li>
+           <li><a href="./events_educational.html">Educational Events</a></li>
+           <li><a href="./events_specialty.html">Specailty  Show</a></li>
+			</ul>
+</div>
+<div class="footer-3">
+			<ul class="footer-nav">
+		
+			<li><a href="./ussumoopen2013.html">US Sumo Open</a></li>
+            <li>&nbsp;</li>
+			<li><a href="./sumo_equipment.html">Sumo Equipment</a></li>
+            <li><a href="./sumo_goods.html">Sumo Fan Goods</a></li>
+    
+            <li>&nbsp;</li>
+			<li><a href="./news_allnews.html">News</a></li>
+             <li><a href="./news_archives.html">News Archives</a></li>
+             <li><a href="./news_media.html">Media</a></li>
+             <li><a href="./news_legends.html">Sumo Legends</a></li>
+			</ul>
+</div>
+<div class="footer-4">
+			<ul class="footer-nav">
+	
+			<li><a href="./what_prosumo.html">Professional Sumo</a></li>
+			<li><a href="./what_amasumo.html">Amatuer Sumo </a></li>
+            <li><a href="./what_rules.html">Sumo Rules</a></li>
+             <li><a href="what_sumotechniques.html">Sumo Techniques</a></li>
+              <li><a href="./what_classes.html">Sumo Classes</a></li>
+               <li><a href="./what_links.html">Links</a>
+        </ul>
+	</div>		 
+      
+     <div class="footer-4">          
+               <ul class="footer-nav">
+	    
+			       <li><a href="./aboutus_history.html">History</a></li>
+			       <li><a href="./aboutus_stars.html">Our Sumo Stars</a></li>
+			       <li><a href="./aboutus_foundersbio.html">Founder's Bio</a></li>
+			       <li><a href="./aboutus_faq.html">FAQ</a></li>
+			       <li>&nbsp;</li>
+			       <li><a href="./sitemap.html">Site Map</a></li>
+			       <li><a href="./joinmailinglist.html">Join the sumo list</a></li>
+			       <li><a href="./contactus.html">Contact Us</a></li>
+        </ul>
+			 
+</div>
+			
+
+</div>
+<div class="copy">
+<p class="copy">&copy; 2000 - 2014 USA SUMO. All rights reserved.</p>
+</div>
+</footer>
+<!-- end footerbar -->
+
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++

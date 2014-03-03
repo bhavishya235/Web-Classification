@@ -1,0 +1,1806 @@
+====================<http://www.dis.uniroma1.it/~demetres/Leonardo/>====================
+<html><head>   <TITLE>Leonardo IDE: C Compiler and Software Visualization System</TITLE>   <META NAME="Description" CONTENT="The site describes Leonardo IDE, an integrated environment for the development, reversible execution, logic-based animation and visual debugging of C programs.">   <META NAME="Keywords" CONTENT="C compiler Mac, software visualization, debugging, algorithm animation, reversible execution, graphs">   <META NAME="Author-Personal" CONTENT="Camil Demetrescu, Irene Finocchi">   <META NAME="Publisher" CONTENT="Camil Demetrescu">   <META NAME="Publisher-Email" CONTENT="demetres@dis.uniroma1.it">   <META NAME="Content-Language" CONTENT="en-US">   <META NAME="Coverage" CONTENT="Worldwide">   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script language="JavaScript"><!--function MM_reloadPage(init) {  //reloads the window if Nav4 resized  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();}MM_reloadPage(true);// --></script></head><frameset cols="185,*" frameborder="NO" border="0" framespacing="0" rows="*">   <frame name="leftFrame" scrolling="NO" noresize src="Bar.html">  <frame name="mainFrame" src="Home.shtml"></frameset><noframes> <body bgcolor="#FFFFFF" text="#000000">This pages require frames to be viewed. Sorry. </body></noframes> </html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.duke.edu/~rodger/tools/tools.html>====================
+
+
+
+<!-- This is a comment
+
+
+
+
+
+*****   IF YOU MODIFY THIS PAGE THEN ALSO COPY THE FILE TO
+
+   index.html and tools.html
+
+
+
+
+
+
+
+
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TITLE>Visual and Interactive Tools </TITLE>
+
+<Body>
+
+<hr>
+
+<Center>
+<H1>
+Visual and Interactive Tools </H1>
+<p>
+<h2> <a href="http://www.cs.duke.edu/~rodger">Susan H. Rodger</a></h2>
+<p>
+<h2> Duke University </h2>
+</Center>
+<hr>
+
+
+
+<p>
+<a 
+href="http://www.azoft.com/people/seremina/edu/tools-rom.html">View 
+this 
+page in Romanian</a> courtesy of Alexandra Seremina</a>
+	  from May 2011.
+</p>
+
+<br><br>
+
+This research focuses on designing tools for visualizing and
+interacting with theoretical computer science concepts.
+
+<p>
+Tools include:
+
+<br><br>
+
+<tr>
+<td align=center>
+<A href="http://www.jflap.org">
+<IMG ALIGN=MIDDLE SRC="http://www.cs.duke.edu/~rodger/tools/tinyjflap4.gif">
+</a></td>
+<td align=left>
+<A href="http://www.jflap.org">
+JFLAP 6.0</A> <IMG SRC=/images/New.gif ALT="*"> - A new version of JFLAP
+is now available   (Sep. 2006).
+Starting with Version 4.0b14 JFLAP  runs in Java 1.5.
+New features in 6.0 include pumping lemma game, Moore and Mealy machines,
+and Batch grading.
+New features in 4.0 include a completely new interface and incorporating
+both parts from other tools jeLLRap (LL and LR parsing) and Pate (transforming
+grammars from CFG to CNF, parsing restricted and unrestricted grammars).
+<br>
+<strong>To get on the JFLAP mailing list</strong> for notices, send email to
+<image src="http://www.cs.duke.edu/~rodger/rodgeremail.gif">
+</td>
+</a></tr>
+</table>
+<br><br>
+
+
+<table>
+<tr>
+<td align=center>
+<A href="jflap/index.html">
+<IMG ALIGN=MIDDLE SRC="http://www.cs.duke.edu/~rodger/tools/tinyjflap.gif">
+</a></td><td align=left>
+<A href="jflap/index.html">
+  JFLAP 3.1</A>  - the Java version of FLAP, 
+is now available (Aug. 1999).
+New features in 3.1 include regular expressions, including
+conversions of regular expressions to NFA, and DFA to regular expressions.
+New features from 3.0  include
+several conversions from one representation to another. The conversions are
+nondeterministic finite automaton (NFA) to deterministic finite automaton
+(DFA), DFA to minimum state DFA, NFA to regular grammar, regular grammar to
+NFA, nondeterministic pushdown automaton (NPDA) to context-free grammar
+(CFG), and three algorithms for CFG to NPDA. Two of the CFG to NPDA
+conversions are useful in studying LL and LR parsing. In addition, you
+can now slide the labels along the arcs and stretch the loops (grab the
+dot on top) for more
+room.
+<br>
+<br>
+<strong>To get on the JFLAP mailing list</strong> for notices, send email to
+rodger.
+</td>
+</a></tr>
+</table>
+
+
+<br><br>
+
+<table>
+<tr>
+<td align=center>
+<a href="http://www.cs.duke.edu/csed/jawaa2/"> 
+<IMG ALIGN=MIDDLE SRC="http://www.cs.duke.edu/~rodger/tools/tinyqueue.gif">
+</a>
+</td>
+<td align=left>
+<a href="http://www.cs.duke.edu/csed/jawaa2/"> 
+JAWAA 2.0 </a>- A tool for creating algorithm animations on the web.
+- software available now to try out. August 2002 
+<IMG SRC=/images/New.gif ALT="*"> This tool is ready for testing.
+</td>
+</a></tr>
+</table>
+<br><br>
+
+
+
+<table>
+<tr>
+<td align=center>
+<a href="http://www.cs.duke.edu/~rodger/tools/pateweb/"> 
+<IMG ALIGN=MIDDLE SRC="http://www.cs.duke.edu/~rodger/tools/patesamptiny.gif">
+</a>
+</td><td align=left>
+<a href="http://www.cs.duke.edu/~rodger/tools/pateweb"> 
+P&#226t&#233 </a>- A tool for parsing restricted and unrestricted grammars
+and
+transforming context-free grammers to CNF.
+ - New version of pate is now available (March 2000)
+ <IMG SRC=/images/New.gif ALT="*"> 
+</td>
+</a></tr>
+</table>
+<br><br>
+
+
+<table>
+<tr>
+<td align=center>
+<a href="http://www.cs.duke.edu/csed/jawaa/JAWAA.html"> 
+<IMG ALIGN=MIDDLE SRC="http://www.cs.duke.edu/~rodger/tools/tinyqueue.gif">
+</a>
+</td><td align=left>
+<a href="http://www.cs.duke.edu/csed/jawaa/JAWAA.html"> 
+JAWAA </a>- A tool for creating algorithm animations on the web.
+ - This is the OLD version of JAWAA which will no longer be supported.
+</td>
+</a></tr>
+</table>
+<br><br>
+
+
+<br><br>
+
+<table>
+<tr>
+<td align=center>
+<A href="jellrap/index.html">
+<IMG ALIGN=MIDDLE SRC="http://www.cs.duke.edu/~rodger/tools/jellrapsm.gif">
+</a></td><td align=left>
+<A href="jellrap/index.html">
+  jeLLRap</A> - the Java version/combination  of LLparse and LRparse
+  <IMG SRC=/images/New.gif ALT="*">
+is now available (Jan. 26, 1998). LLparse and LRparse have been
+combined into one tool. Additional features show the parse tree or
+a derivation when parsing.
+</td>
+</a></tr>
+</table>
+
+<br><br>
+
+
+<table>
+<tr>
+<td align=center>
+<IMG ALIGN=MIDDLE SRC="http://www.cs.duke.edu/~rodger/tools/tinypump.gif">
+</td><td align=left>
+PumpLemma - A tool for experimenting with the Pumping Lemma for regular
+languages and context-free languages
+ - This is a very old tool from about 1997, and is no longer supported.
+ </td>
+</a></tr>
+</table>
+
+<br><br>
+
+<table>
+<tr>
+<td align=center>
+<A href="flap.html">
+<IMG ALIGN=MIDDLE SRC="http://www.cs.duke.edu/~rodger/tools/tinyflap.gif">
+</a>
+</td><td align=left>
+<A href="flap.html">
+  FLAP </a> - X Windows version (OLD, try the newer Java Version of FLAP
+  above! It is much easier to install and this is no longer supported.)
+</td>
+</a></tr>
+</table>
+<br><br>
+
+
+
+
+<table>
+<tr>
+<td align=center>
+<A href="LLparse.html"> 
+<IMG ALIGN=MIDDLE SRC="http://www.cs.duke.edu/~rodger/tools/tinylr.gif">
+</a>
+</td><td align=left>
+<A href="LLparse.html"> 
+ LLparse </A> - This version is no longer supported. See the JAVA version
+ called jeLLRap above.
+
+</td>
+</a></tr>
+</table>
+
+<br><br>
+
+<table>
+<tr>
+<td align=center>
+<A href="LRparse.html">
+<IMG ALIGN=MIDDLE SRC="http://www.cs.duke.edu/~rodger/tools/tinyll.gif">
+</a>
+</td><td align=left>
+<A href="LRparse.html">
+LRparse </A>- 
+This version is no longer supported. See the JAVA version
+ called jeLLRap above.
+</td>
+</a></tr>
+</table>
+
+
+<br><br>
+
+<table>
+<tr>
+<td align=center>
+<A href="xtango.html">
+<IMG ALIGN=MIDDLE SRC="http://www.cs.duke.edu/~rodger/tools/23t.gif">
+</a>
+</td><td align=left>
+<A href="xtango.html">
+Creating Xtango or Samba
+Animations</A>
+</td>
+</a></tr>
+</table>
+
+
+
+<br><br>
+
+<h2> Obtaining these tools </h2>
+
+
+JFLAP and many of the tools are available on the individual web sites
+above. Click on the tool and it will take you to the web site with more
+information. 
+<p>
+For some of the OLDER tools and OLDER versions of tools there is an OLD
+ftp site with OLD source code 
+<a href="ftp://ftp.cs.duke.edu/pub/rodger/tools">via anonymous 
+ftp here </a>.
+</a>  Xtango and Samba are available from Georgia Tech 
+<A HREF="http://www.cc.gatech.edu/gvu/softviz/algoanim/"> here </a>.
+
+
+<br><br>
+
+<h2> Using these tools in Automata Theory Course</h2>
+
+<p>
+We have used FLAP, LLparse and LRparse in CPS 140, Mathematical Foundations
+of Computer Science, at Duke University. The lecture, lab, and assignments
+for this course are
+<A HREF="http://www.cs.duke.edu/~rodger/courses/cps140/intro.html"> here
+for 1998 </a> and
+<A HREF="http://www.cs.duke.edu/courses/cps140/spring99"> here
+for 1999 </a>.
+<A HREF="http://www.cs.duke.edu/courses/cps140/spring02"> here
+for 2002 </a>.
+<A HREF="http://www.cs.duke.edu/courses/cps140/spring03"> here
+for 2003 </a>.
+
+
+
+<h2> For more information </h2>
+
+Current  work includes tools for experimenting with grammars,
+parsing, the conversion of an automaton into an equivalent
+form, and the animation of algorithms and data structures. 
+<p>
+
+For more information, contact <A HREF="http://www.cs.duke.edu/~rodger">
+Susan Rodger </A> at <A HREF="http://www.duke.edu/"> Duke Univerity </A>
+
+<image src="http://www.cs.duke.edu/~rodger/rodgeremail.gif">
+All these tools have been supported by the Lilly Foundation, Rensselaer,
+and the National Science Foundation
+<A HREF="http://www.cs.duke.edu/~rodger/9354791.txt"> DUE-9354791 </A> (transfered to
+<A HREF="http://www.cs.duke.edu/~rodger/9596002.txt"> DUE-9596002).  </A>
+Additional funding from NSF to continue this work was
+under grant <a href="http://www.cs.duke.edu/~rodger/9555084.txt">
+DUE-9555084</a> And now more funding from NSF to continue this work
+is under grant <a href="http://www.cs.duke.edu/~rodger/9752583.html">
+DUE-9752583</a>.
+Any opinions, finding and conclusions or recommendations expressed in this
+material are those of the author(s) and do not necessarily reflect the
+views of the National Science Foundation.
+
+
+<br><br>
+
+Here are <A HREF="http://www.cs.duke.edu/~rodger/papers.html">references</A> 
+to my recent papers. <br><br>
+
+<br>
+
+</h4>
+
+<HR>
+
+According to <A HREF="http://www.digits.com">Web-Counter</A>
+you are visitor number
+<IMG SRC="http://counter.digits.com/wc/-d/4/-z/rodgerflapcounterF" ALIGN=middle
+ WIDTH=60 HEIGHT=20 BORDER=0 HSPACE=4 VSPACE=2>
+since July 26, 1996
+
+<HR>
+<P>
+<IMG ALIGN=MIDDLE SRC="http://www.cs.duke.edu/~rodger/shrtiny.gif">
+<A href = "http://www.cs.duke.edu/~rodger">
+Back to Susan Rodger's home page </A>
+</P>
+
+
+
+</Body>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://opsis.sourceforge.net/>====================
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<title>Opsis:  Teaching Binary Search Tree Algorithms through Programming, Proof, and Animation</title>
+</head>
+
+<body bgcolor=white>
+
+<A href="http://sourceforge.net"> <IMG
+src="http://sourceforge.net/sflogo.php?group_id=12917"
+   width="88" height="31" border="0" alt="SourceForge Logo"></A>
+<A href="http://cgi.cse.unsw.edu.au/~ideas"> <IMG
+src="http://cgi.cse.unsw.edu.au/~ideas/images/logo.jpg"
+   width="88" height="31" border="0" alt="CleverCS"></A>
+
+<center>
+<hr width=80%>
+
+<!--
+<table width=80% border = 0 cellpadding=1>
+<TR>
+<TD><IMG SRC="opsis2.jpg" ALT="Opsis"></TD>
+<TD><CENTER><font size=+3><b>Teaching Binary Search Tree Algorithms through Programming, Proof, and Animation</B></font></CENTER></TD>
+</TD>
+</TR>
+</table>
+-->
+
+<IMG SRC="opsis2.jpg" ALT="Opsis"><BR>
+<font size=+3><b>Teaching Binary Search Tree Algorithms through Programming, Proof, and Animation</B></font>
+
+
+<hr width=80%>
+<A HREF="http://sourceforge.net/projects/opsis/">Back to SourceForge Project Summary</A>
+</center>
+
+
+&nbsp;<br>
+
+<table width=100% border=0 cellpadding=1>
+
+<tr bgcolor=#000080><td>
+<font color=white size=+2><b>
+Introduction
+</b></font>
+</td></tr>
+
+<tr bgcolor=#d6d6d6><td>
+Opsis is a Java applet designed to teach binary search tree algorithms.
+Opsis is <I>not</I> an animation program; rather, the system uses visual programming
+in an abstract way. That is, the student implements a binary search tree
+algorithm by manipulating abstract tree fragments (and not necessarily
+just single nodes) in a visual manner. Opsis is unique in that it combines
+elements of programming, proof, and animation to enhance the learning experience.
+</td></tr>
+<tr><td>
+&nbsp;
+</td></t>
+
+
+
+
+
+
+<tr bgcolor=#000080><td>
+<font color=white size=+2><b>
+Java Applet
+</b></font>
+</td></tr>
+<tr bgcolor=#d6d6d6><td>
+<B><I>As this applet is rather unconventional, I strongly recommend that you read one of the papers below and the <A HREF="notes.html">user interface notes</A>.</I></B>  You might also want to see some <A HREF="screenshots.html">screenshots</A> first.
+<CENTER>
+<table width=80% border = 0 cellpadding=1>
+<TR>
+<TD><CENTER>JDK 1.0</CENTER></TD>
+<TD><CENTER>JDK 1.1 (IE4 and NS4.5 only)</CENTER></TD>
+</TR>
+<TR>
+<TD><CENTER><APPLET ALT="Not Supported" CODEBASE="opsis"   CODE="Opsis.class" WIDTH=300 HEIGHT = 50></APPLET></CENTER></TD>
+<TD><CENTER><APPLET ALT="Not Supported" CODEBASE="opsis2"   CODE="Opsis.class" WIDTH=300 HEIGHT = 50></APPLET></CENTER></TD>
+</TD>
+</TR>
+</table>
+(The JDK 1.1 version of Opsis is more advanced and less buggy.)
+<P>
+As Opsis is a Java applet, you won't be able to load or save files with
+your browser due to security restrictions. If you would like an application
+version, download the GPL'ed source:
+<UL>
+<LI> <A HREF="http://prdownloads.sourceforge.net/opsis/opsis-1.0beta1.tar.gz">opsis-1.0beta1.tar.gz</A>
+</UL>
+See the README in the package for usage.
+</CENTER>
+</td></tr>
+<tr><td>
+&nbsp;
+</td></tr>
+
+
+<tr bgcolor=#000080><td>
+<font color=white size=+2><b>
+Papers
+</b></font>
+</td></tr>
+
+<tr bgcolor=#d6d6d6><td>
+<UL>
+<LI> Amir Michail. Teaching Binary Tree Algorithms though
+Visual Programming. In <I>Symposium on Visual Languages</I>, pages 38--45, IEEE,
+September 1996.
+[<A HREF="quals/VL96-abs.html">abstract</A>/<A HREF="quals/VL96.pdf">pdf</A>/<A HREF="quals/VL96.ps.gz">ps</A> ]
+<LI> Amir Michail. Imitation:  An Alternative to
+Generalization in Programming by Demonstration Systems. 
+Technical Report UW-CSE-98-08-06.
+[<A HREF="quals/tech-abs.html">abstract</A>/<A HREF="quals/tech.pdf">pdf</A>/<A HREF="quals/tech.ps.gz">ps</A> ] (Optional.)
+<LI> Amir Michail. Teaching Binary Tree Algorithms through 
+Visual Programming. Qualifying Project Paper, University of Washington, 1996.
+[<A HREF="quals/project-abs.html">abstract</A>/<A HREF="quals/project.pdf">pdf</A>/<A HREF="quals/project.ps.gz">ps</A> ]
+<B>(Recommended:  this paper is the most complete and includes user testing.)</B>
+</UL>
+</td></tr>
+<tr><td>
+&nbsp;
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+<tr bgcolor=white><td>
+<hr>
+
+
+    <address><a href="mailto:amichail@cse.unsw.edu.au">Amir Michail</a></address>
+<!-- Created: Sat Oct  3 11:42:53 PDT 1998 -->
+<!-- hhmts start -->
+Last modified: Sat May 15 17:26:28 PDT 1999
+<!-- hhmts end -->
+
+    <hr>
+
+</td></tr>
+
+</table>
+
+  </body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.chalmers.se/~lydian/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+                       "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+  <head>
+    <meta name="KEYWORDS" content="Lydian; distributed algorithms animation; Algorithm Animation; Educational; LYDIAN; distributed computing; Educational Animation Environment; distributed protocols; Visualization; 
+Visualisation">
+    <meta name="DESCRIPTION" content="An
+Extensible Educational AnimationEnvironment for Learning Distributed Algorithm">
+    <meta http-equiv="Content-Type" content="text/html4; charset=ISO-8859-1">
+    <title>LYDIAN:
+An Extensible Educational AnimationEnvironment for Learning Distributed Algorithms</title>
+    <link rel="STYLESHEET" type="text/css" href="lydian.css" title="lydian style">
+  </head>
+
+<body>
+
+<!-- ***************** Left and Right Row *************** -->
+
+<TABLE class=topspace>
+
+<!-- ***************** Left Menu Bar ******************** -->
+
+<TR><TD class=leftrow>
+<TABLE class=leftrow>
+<TR><TD>
+<ul class=toc>
+   <li class=toc> <a class=leftlink href="index.html">Main Page</a> </li>
+   <li class=toc> <a class=leftlink href="page2.html">Description</a> </li>
+   <li class=toc> <a class=leftlink href="page3.html">FAQ</a> </li>
+   <li class=toc> <a class=leftlink href="page13.html">Courses that Use(d) LYDIAN</a> </li>
+   <li class=toc> <a class=leftlink href="http://sourceforge.net/project/showfiles.php?group_id=131800&amp;package_id=144670">Download</a> </li>
+   <li class=toc> <a class=leftlink href="page12.html">Installation</a> </li>
+   <li class=toc> <a class=leftlink href="http://www.cs.chalmers.se/~phuong/lydian/">Manual</a></li>
+   <li class=toc1><a class=leftlink href="http://www.cs.chalmers.se/~phuong/lydian/">html</a></li> 
+   <li class=toc1><a class=leftlink href="http://www.cs.chalmers.se/~phuong/lydian/Lydian_manual.pdf">pdf</a></li>
+   <li class=toc1><a class=leftlink href="http://www.cs.chalmers.se/~phuong/lydian/Lydian_manual.ps.gz">ps.gz</a></li>
+   <li class=toc><a class=leftlink href="page11.html">Updates &amp; Changes</a> </li>
+   <li class=toc><a class=leftlink href="http://sourceforge.net/forum/?group_id=131800">Forums</a></li>
+   <li class=toc><a class=leftlink href="page9.html">A VR Extention</a></li>
+   <li class=toc><a class=leftlink href="page8.html">EXJOBBS</a></li>
+   <li class=toc><a class=leftlink href="page4.html">People</a></li>
+   <li class=toc><a class=leftlink href="page7.html">Related Publications</a></li>
+</ul>
+
+<ul class=toc>
+    <li class=toc><a href="http://sourceforge.net"><img class=noborder src="http://sourceforge.net/sflogo.php?group_id=131800&amp;type=2" width="125" height="37" alt="SourceForge.net Logo" /></a></li>
+   <li class=toc><a href="http://validator.w3.org/check/referer">
+         <img class=noborder src="http://www.w3.org/Icons/valid-html401"
+          alt="Valid HTML 4.01!" height="31" width="88"></a>
+</li></ul>
+
+</TD></TR>
+</TABLE>
+</TD>
+
+<!-- *************** Main Text **************** -->
+
+<TD class=mainrow>
+<TABLE class=mainrow>
+
+<TR><TD>
+<img class=mainrow SRC="img1.gif" ALT="Lydian">
+</TD></TR>
+
+<TR><TD>
+<ul class=block>
+<li class=block> </li>
+</ul>
+</TD></TR>
+
+<TR><TD class=highlight>
+One area in which visualization techniques may be applied to enhance 
+understanding of computer systems is the field of distributed algorithms.
+
+Lydian is a simulation and visualization environment for distributed 
+algorithms that provides to the students an experimental environment to 
+test and visualize the behaviour of distributed algorithms.
+
+It gives to the students the ability to create easily their own
+ experiments and visualize the behaviour of the algorithms on 
+their experiments.
+
+Lydian is easy to use and can also be extended. 
+</TD>
+<TD><img class=mainrow1 SRC="index.1.gif" ALT="Lydian"></TD>
+</TR>
+
+<TR><TD>
+<ul class=block>
+<li class=block> </li>
+</ul>
+</TD></TR>
+
+<TR><TD>
+<img class=mainrow SRC="index.3.jpg" ALT="Lydian">
+</TD></TR>
+
+<TR><TD>
+<ul class=block>
+<li class=block> </li>
+</ul>
+</TD></TR>
+
+<TR><TD>
+<hr>
+
+<!-- Created: Thu Apr 25 16:33:37 MET DST 2002 -->
+<!-- hhmts start -->
+Last modified: Thu May 26 15:19:59 CEST 2005
+<!-- hhmts end -->
+
+</TD></TR>
+
+<TR><TD>
+<a class=leftlink href="http://www.cs.chalmers.se/~dcs/"><img class=noborder SRC="logo-big.gif" ALT="Contact"></a>
+</TD></TR>
+
+</TABLE>
+</TD></TR>
+</TABLE>
+</body></html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.sunysb.edu/~skiena/combinatorica/animations/>====================
+<HTML>
+ <HEAD>
+  <TITLE>Graph Animations with Combinatorica</TITLE>
+ </HEAD>
+ <BODY>
+  <TABLE WIDTH=600>
+   <TR>
+    <TD ALIGN=CENTER>
+     <H2>Graph Animations with Combinatorica</H2>
+    </TD> 
+   </TR>
+   <TR>
+    <TD ALIGN=CENTER>
+     <IMG SRC="anim/dijkstra.gif">
+    </TD>
+   </TR>
+   <TR>
+    <TD>
+     <I>Combinatorica</I>
+(<A HREF="http://www.combinatorica.com">www.combinatorica.com</A>)
+is system for research and teaching
+in discrete mathematics, particularly combinatorics and graph theory.
+<!-- Comprising over 450 functions,--> <I>Combinatorica</I> makes it easy
+to construct graphs and other combinatorial objects, determine
+their properties, and display them in revealing ways.
+<p>
+To highlight the power and beauty of <I>Combinatorica</I> graphics,
+we have put together a collection of animations of several important
+graph-theoretic topics and algorithms.
+For each animation, we provide an animated GIF file as well as a 
+<i>Mathematica</i> notebook providing the code which we used to
+construct the animation.
+<p>
+See our associated book:
+<a href="http://www.amazon.com/exec/obidos/ASIN/0521806860/ref=nosim/thealgorithmrepo/">
+Computational Discrete Mathematics: Combinatorics and Graph Theory with
+Mathematica</a> by
+<A HREF="http://www.cs.uiowa.edu/~sriram/">Sriram Pemmaraju</A> and
+<A HREF="http://www.cs.sunysb.edu/~skiena/">Steven Skiena</A>,
+Cambridge University Press, 2003 for more information about <I>Combinatorica</I>.
+<sp>
+<p>
+
+     <HR>
+    </TD>
+   </TR>
+   <TR>
+    <TD>
+     <B>Animations:</B><BR><BR> 
+     &nbsp;&nbsp;<A HREF="search.html">Breadth First Search/Depth First Search</A><BR>
+     &nbsp;&nbsp;<A HREF="concomp.html">Evolution of Connected Components</A><BR>
+     &nbsp;&nbsp;<A HREF="ham.html">Hamiltonian Cycle</A><BR>
+     &nbsp;&nbsp;<A HREF="euler.html">Eulerian Cycle</A><BR>
+     &nbsp;&nbsp;<A HREF="dijkstra.html">Dijkstra's Algorithm</A><BR>
+     &nbsp;&nbsp;<A HREF="graphpower.html">Transitive Closure with Graph Powering</A><BR>
+     &nbsp;&nbsp;<A HREF="mst.html">Minimal Spanning Tree</A><BR>
+    </TD>
+   </TR>
+  </TABLE>
+<p>
+
+     <HR>
+
+These animations were constructed by King Larry Mak at Stony Brook.
+ </BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://thomas.baudel.name/Visualisation/VisuTri/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="icon" href="http://thomas.baudel.name/favicon.ico"/>
+<link rel="shortcut icon" href="http://thomas.baudel.name/favicon.ico"/>  
+<meta http-equiv="Content-Language" content="en"/>
+<meta http-equiv="Content-Type" content="text/html"/>
+<meta name="copyright" content="1993-2006 Thomas Baudel"/>
+<META NAME="Description" CONTENT="A visualizer of inplace sorting algorithms">
+<META NAME="Keywords" CONTENT="sorting algorithms training programming java quicksort shellsort insertion sort bubble sort scientific vizualisation hci learning teaching algorithmics">
+<link href="../../style.css" rel="stylesheet" type="text/css">
+<TITLE>Sort Algorithms Visualizer</TITLE>
+</HEAD>
+
+<BODY>
+<H1>Sort Algorithms Visualizer</H1>
+<p id="description">Choose up to 6 algorithms you'd like to compare in the <i>first</i> combo box, then choose a distribution  in the <i>second</i> combo box</b>:&nbsp;you'll see the sorting algorithms race against each other. 
+</p>
+<A HREF="../../">grasping the bytes</A> &gt; <a href="../">Information Visualization</a> &gt; <em>Sort Algorithm Visualizer</em> - <A HREF="index.fr.html">(fr)</A>
+<hr/>
+<div id="left">
+<h3>menu</h3>
+<P><A HREF="intro.html">About sorting</A></p>
+<P><A HREF="algorithms.html">Sort algorithms </A></p>
+<ul>
+<li><A HREF="selectionsort.html">Selection Sort</A></li>
+<li><A HREF="bubblesort.html">Bubble Sort &amp; Shaker Sort</A></li>
+<li><A HREF="insertionsort.html">Insertion Sort, Dichotomic insertion (1 &amp; 2)</A></li>
+<li><A HREF="heapsort.html">Heap Sort</A></li>
+<li><A HREF="quicksort.html">QuickSort</A> &amp; <A HREF="quicksort.html">Quicker Sort</A></li>
+<li><A HREF="inplacestablesort.html">In place stable sort</A></li>
+<li><A HREF="shellsort.html">ShellSort</A></li>
+<li><A HREF="dobosort.html">Dobosiewicz sort</A></li>
+</ul>
+<P><A HREF="instructions.html">Instructions</A></p>
+<P><A HREF="exercises.html">Exercises</A></p>
+<P><A HREF="aboutsortVisualizer.html">About the applet</A> (source code).</p>
+</div>
+<div id="content">
+<APPLET height=512 archive="VisuTri.jar"
+alt="Sort Visualizer, requires Java" width=640 code=VisuTri.class 
+name="Sort Visualizer"></APPLET>
+<P>The above pane allows you to compare visually various algorithms. Choose
+up to 6 algorithms you'd like to compare, set a comparison time and an
+exchange time that matches the relative proportion of compare time vs.
+exchange time, then choose a distribution:&nbsp; you'll see an initial
+array that gets sorted before your eyes with the chosen approaches.
+</p><p>
+On the X axes, you see the index values of the array to be sorted. in
+the Y axes, you see the current value of the item in the array's cell.
+Red cells show the last items that where compared again each other, Magenta
+cells show the last moves that where performed.
+</p>
+<P>If you like the sort algorihms visualizer, you should like 
+<a href="http://www2.ilog.com/preview/Discovery/">ILOG Discovery, a visual data 
+analysis tool</a></P>
+</div>
+<p id="footer">Copyright <A HREF="http://thomas.baudel.name">Thomas Baudel</A>, 1998. Project
+made possible with SGI cosmo tools and Netscape.<p>
+</BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cosc.canterbury.ac.nz/mukundan/dsal/appldsal.html>====================
+<HTML>
+<HEAD>
+<title>Java Applets Centre</title>
+</HEAD>
+<BODY BGCOLOR=#888888 TEXT=#000000 VLINK=#000000 ALINK=#000000 LINK=#000000 topmargin="0" leftmargin="0">
+
+
+<TABLE WIDTH=100% ALIGN=CENTER BGCOLOR=#FFFFFF BORDER=0 CELLPPADDING=0 CELLSPACING=0>		
+	<TR>
+		<TD>
+		<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0>
+			<TR>
+				<TD VALIGN=middle bgcolor="#6E7B8A">
+                <p align="center"><img border="0" src="top.jpg" align="middle" width="772" height="71">
+				</TD>
+			</TR>
+		</TABLE>
+		
+		<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 COLS=3>		
+			<TR>
+				<TD VALIGN=TOP  BGCOLOR=#FFFFFF WIDTH=20%>
+	
+				<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0>
+					<TR>
+						<TD VALIGN=TOP>
+						<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 CELLPADDING=0>
+							<TR>
+								<TD VALIGN=TOP>
+								<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+									<TR BGCOLOR=#000000>
+										<TD BGCOLOR=#000000>
+										<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+											<TR>
+												<TD VALIGN=TOP>
+												<TABLE BORDER=0 WIDTH=100% BGCOLOR=#000000>
+													<TR>
+														<TD bgcolor="#6E7B8A"><FONT FACE=arial,helvetica SIZE=+0 color=white><B>R.Mukundan</B></FONT></TD>
+														<TD BGCOLOR=#a1b5cd>&nbsp;</TD>
+														<TD BGCOLOR=#bcd1ee>&nbsp;</TD>
+														<TD BGCOLOR=#c9e0ff>&nbsp;</TD>
+													</TR>
+												</TABLE>
+												</TD>
+											</TR>
+										</TABLE>
+										<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 CELLPADDING=4 CELLSPACING=2>
+											<TR>
+												<TD VALIGN=TOP><FONT FACE=arial,helvetica SIZE=-1>
+												<A HREF="http://www.cosc.canterbury.ac.nz/people/mukundan/">Home</a><br>
+												<A HREF="mailto:mukundan@canterbury.ac.nz">Contact Me</a><br>
+												<A HREF="http://www.canterbury.ac.nz/">U.Canterbury</a><br>
+												<A HREF="http://www.cosc.canterbury.ac.nz/">Computer Science Dept.</a><br>
+												<A HREF="http://www.cosc.canterbury.ac.nz/research/RG/cgip/index.html">CGIP Group</a><br>
+												</TD>
+											</TR>
+										</TABLE>								
+										</TD>
+									</TR>
+								</TABLE>
+								</TD>
+							</TR>
+						</TABLE>
+						</TD>
+					</TR>
+				</TABLE>
+		
+				<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0>
+                    <tr>
+						<TD VALIGN=TOP>
+						<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 CELLPADDING=0>
+							<TR>
+								<TD VALIGN=TOP>
+								<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+									<TR BGCOLOR=#000000>
+										<TD BGCOLOR=#000000>
+										<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+											<TR>
+												<TD VALIGN=TOP>
+												<TABLE BORDER=0 WIDTH=100% BGCOLOR=#000000>
+													<TR>
+														<TD bgcolor="#6E7B8A"><FONT FACE=arial,helvetica SIZE=+0 color=white><B>Applets</B></FONT></TD>
+														<TD BGCOLOR=#a1b5cd>&nbsp;</TD>
+														<TD BGCOLOR=#bcd1ee>&nbsp;</TD>
+														<TD BGCOLOR=#c9e0ff>&nbsp;</TD>
+													</TR>
+												</TABLE>
+												</TD>
+											</TR>
+										</TABLE>
+										<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 CELLPADDING=4 CELLSPACING=2>
+											<TR>
+												<TD VALIGN=TOP><font face="arial,helvetica" size="-1">
+												  <A HREF="http://www.cosc.canterbury.ac.nz/people/mukundan/JavaP.html">Home</A><br>
+                                                  <a HREF="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/appldsal.html">Data Structures, Algo</a><br>
+                                                  <a HREF="http://www.cosc.canterbury.ac.nz/people/mukundan/cogr/applcogr.html">Computer Graphics</a><br>
+                                                  <a HREF="http://www.cosc.canterbury.ac.nz/people/mukundan/covn/applcovn.html">Image Processing</a><br>
+                                                  <a HREF="http://www.cosc.canterbury.ac.nz/people/mukundan/cgeo/applcgeo.html">Computational Geometry</a><br>
+                                                  <a HREF="http://www.cosc.canterbury.ac.nz/people/mukundan/thco/applthco.html">Automata Theory</a><br>
+                    						</TR>
+										</TABLE>								
+										</TD>
+									</TR>
+								</TABLE>
+								</TD>
+							</TR>
+						</TABLE>
+						</TD>
+                    </tr>
+					<TR>
+						<TD VALIGN=TOP>
+						<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 CELLPADDING=0>
+							<TR>
+								<TD VALIGN=TOP>
+								<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+									<TR BGCOLOR=#000000>
+										<TD BGCOLOR=#000000>
+										<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+											<TR>
+												<TD VALIGN=TOP>
+												<TABLE BORDER=0 WIDTH=100% BGCOLOR=#000000>
+													<TR>
+														<TD bgcolor="#6E7B8A"><font face="arial,helvetica" size="+0" color="white"><b>Freebie</b></font></TD>
+														<TD BGCOLOR=#a1b5cd>&nbsp;</TD>
+														<TD BGCOLOR=#bcd1ee>&nbsp;</TD>
+														<TD BGCOLOR=#c9e0ff>&nbsp;</TD>
+													</TR>
+												</TABLE>
+												</TD>
+											</TR>
+										</TABLE>
+										<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 CELLPADDING=4 CELLSPACING=2>
+											<TR>
+												<TD VALIGN=TOP><font face="arial,helvetica" size="-1">
+												  <a HREF="http://www.best-wallpapers.com/">Wallpapers</a><br>
+                                                  <a HREF="http://www.best-wallpapers.com/screensavers.htm">Screensavers</a><br>
+                                                  <a HREF="http://www.best-wallpapers.com/clip-art/">Clip Arts</a><br>
+                                                  <a HREF="http://www.best-wallpapers.com/background/">Backgrounds</a><br>
+                                                  <a HREF="http://www.best-wallpapers.com/web-template/">Templates</a><br>
+                                                  <a HREF="http://www.best-wallpapers.com/msn/">Emoticons</a></font>
+                                                  </TD>
+                                            </TR>
+                                         </TABLE>
+ 										</TD>
+									</TR>
+								</TABLE>
+								</TD>
+							</TR>
+						</TABLE>
+						</TD>
+					</TR>
+				</TABLE>
+				
+				</TD>
+				<TD WIDTH=60% valign=top>
+	
+				<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0 CELLPADDING=2 CELLSPACING=0>
+					<TR BGCOLOR=#000000>
+						<TD BGCOLOR=#000000>
+						<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+							<TR>
+								<TD VALIGN=TOP>
+								<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 CELLPADDING=4 CELLSPACING=2>
+									<TR>
+										<TD VALIGN=TOP>
+										<TABLE BORDER=0 WIDTH=100% BGCOLOR=#000000>
+											<TR>
+												<TD BGCOLOR=#6e7b8a>
+												  <FONT FACE=arial,helvetica SIZE=+0 color="#FFFFFF">
+												      <B>Java Applets Centre</B> - <A HREF="http://www.cosc.canterbury.ac.nz/people/mukundan/JavaP.html">Home</A>
+												       <B>> Data Structures</B>
+												  </FONT></TD>
+												<TD BGCOLOR=#a1b5cd>&nbsp;</TD>
+												<TD BGCOLOR=#bcd1ee>&nbsp;</TD>
+												<TD BGCOLOR=#c9e0ff>&nbsp;</TD>
+											</TR>
+										</TABLE>
+										</td>
+									</tr>
+								</table>
+								<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 CELLPADDING=4 CELLSPACING=2>
+									<TR>
+										<TD VALIGN=TOP>
+								
+										<FONT FACE=arial,helvetica SIZE=+0><B>Data Structures and Algorithms</B></FONT><BR>
+                                          <font face="arial,helvetica" size="-1"> This section contains Java applets that show the operations
+                                          for primitive data structures such as Stacks, Queues, and Binary Trees. Animations for sorting and searching
+                                          algorithms, the Tower of Hanoii puzzle, and graph traversal functions are also included.</font><BR><BR>
+								
+										<FONT FACE=arial,helvetica SIZE=+0><B>Number Systems</B></FONT><BR>
+                                           <font face="arial,helvetica" size="-1">
+                                           <ul>
+                                              <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/NumberAppl.html">Binary, Octal, Hexadecimal Numbers</a></li>
+                                           </ul>
+                                           </font><BR>
+                                           
+  										<FONT FACE=arial,helvetica SIZE=+0><B>Stacks, Queues and Linked Lists</B></FONT><BR>
+                                           <font face="arial,helvetica" size="-1">
+                                           <ul>
+                                              <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/StackAppl.html">Stack</a></li>
+                                               <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/QueueAppl.html">Queue</a></li>
+                                               <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/CQueueAppl.html">Cyclic Queue</a></li>
+                                               <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/LinkListAppl.html">Linked List</a></li>
+                                               <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/MinHeapAppl.html">Priority Queue (Min-Heap)</a></li>
+                                           </ul>
+                                           </font><BR>
+                                           
+ 										<FONT FACE=arial,helvetica SIZE=+0><B>Recursion and Backtracking</B></FONT><BR>
+                                           <font face="arial,helvetica" size="-1">
+                                           <ul>
+                                             <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/ToHdb.html">Tower of Hanoi</a></li>
+                                              <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/NQP.html">N-Queens Problem</a></li>
+                                          </ul>
+                                           </font><BR>
+                                           
+ 										<FONT FACE=arial,helvetica SIZE=+0><B>Sorting Algorithms</B></FONT><BR>
+                                           <font face="arial,helvetica" size="-1">
+                                           <ul>
+                                              <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/BSort.html">Bubble Sort</a></li>
+                                               <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/ISort.html">Insertion Sort</a></li>
+                                              <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/SSort.html">Selection Sort</a></li>
+                                              <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/MSort.html">Merge Sort</a></li>
+                                              <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/QSort.html">Quick Sort</a></li>
+                                           </ul>
+                                           </font><BR>
+                                           
+ 										<FONT FACE=arial,helvetica SIZE=+0><B>Search Algorithms</B></FONT><BR>
+                                           <font face="arial,helvetica" size="-1">
+                                           <ul>
+                                              <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/LSearch.html">Linear Search</a></li>
+                                               <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/BSearch.html">Binary Search</a></li>
+                                           </ul>
+                                           </font><BR>
+                                                                                    								                                           
+ 										  <FONT FACE=arial,helvetica SIZE=+0><B>Trees and Graphs</B></FONT><BR>
+                                           <font face="arial,helvetica" size="-1">
+                                           <ul>
+                                              <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/BTree.html">Binary Tree Traversal</a></li>
+                                               <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/BST.html">Binary Search Tree (Search)</a></li>
+                                               <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/BSTNew.html">Binary Search Tree (Insert, Delete)</a></li>
+                                              <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/TwoThreeTree.html">2-3 Tree (Insert)</a></li>
+                                              <li><a href="http://www.cosc.canterbury.ac.nz/people/mukundan/dsal/GraphAppl.html">Graph Traversal</a></li>
+                                           </ul>
+                                           </font><BR>
+                                           
+                                          </TD>
+									</TR>
+								</TABLE>
+								</TD>
+							</TR>
+						</TABLE>
+						</TD>
+					</TR>
+				</TABLE>
+		
+				</TD>
+				<TD VALIGN=TOP WIDTH=20%>
+	
+				<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0>
+					<TR>
+						<TD VALIGN=TOP>
+						<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 CELLPADDING=0>
+							<TR>
+								<TD VALIGN=TOP>
+								<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+									<TR BGCOLOR=#000000>
+										<TD BGCOLOR=#000000>
+										<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+											<TR>
+												<TD VALIGN=TOP>
+												<TABLE BORDER=0 WIDTH=100% BGCOLOR=#000000>
+													<TR>
+														<TD bgcolor="#6E7B8A"><FONT FACE=arial,helvetica SIZE=+0 color=white><B>Links</B></FONT></TD>
+														<TD BGCOLOR=#a1b5cd>&nbsp;</TD>
+														<TD BGCOLOR=#bcd1ee>&nbsp;</TD>
+														<TD BGCOLOR=#c9e0ff>&nbsp;</TD>
+													</TR>
+												</TABLE>
+												</TD>
+											</TR>
+										</TABLE>
+										<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 CELLPADDING=4 CELLSPACING=2>
+											<TR>
+												<TD VALIGN=TOP><FONT FACE=arial,helvetica SIZE=-1>
+												<A HREF="http://www.programmersheaven.com/zone13/index.htm">Programmer's Heaven</a><br>
+												<A HREF="http://javaboutique.internet.com/">Java Boutique</a><br>
+												<A HREF="http://math.bu.edu/DYSYS/applets/">Chaos & Fractals</a><br>
+												<A HREF="http://www.algolist.net/">Algorithm and Data Structure Tutorials</a><br>
+					                            <a HREF="http://www.cs.ubc.ca/~harrison/Java/sorting-demo.html">Sorting Algorithms</a><br>
+                                                <a HREF="http://www.cse.unsw.edu.au/~lambert/java/3d/hull.html">Convex Hull Algorithms</a><br>
+                                                <a HREF="http://www.cs.sunysb.edu/~skiena/combinatorica/animations/">Graph Algorithms</a><br>
+                                                <a HREF="http://ww3.java3.datastructures.net/resources.html">Goodrich & Tamassia</a><br>
+                  							</font></TD>
+											</TR>
+										</TABLE>
+										</TD>
+									</TR>
+								</TABLE>
+								</TD>
+							</TR>
+						</TABLE>
+						</TD>
+					</TR>
+				</TABLE>
+		
+				<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0>
+					<TR>
+						<TD VALIGN=TOP>
+						<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 CELLPADDING=0>
+							<TR>
+								<TD VALIGN=TOP>
+								<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+									<TR BGCOLOR=#000000>
+										<TD BGCOLOR=#000000>
+										<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+											<TR>
+												<TD VALIGN=TOP>
+												<TABLE BORDER=0 WIDTH=100% BGCOLOR=#000000>
+													<TR>
+														<TD bgcolor="#6E7B8A"><FONT FACE=arial,helvetica SIZE=+0 color=white><B>Algorithms</B></FONT></TD>
+														<TD BGCOLOR=#a1b5cd>&nbsp;</TD>
+														<TD BGCOLOR=#bcd1ee>&nbsp;</TD>
+														<TD BGCOLOR=#c9e0ff>&nbsp;</TD>
+													</TR>
+												</TABLE>
+												</TD>
+											</TR>
+										</TABLE>
+										<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 CELLPADDING=4 CELLSPACING=2>
+											<TR>
+												<TD VALIGN=TOP><font face="arial,helvetica" size="-1">
+												  <a HREF="http://www.nist.gov/dads/">NIST</a><br>
+                                                  <a HREF="http://en.wikipedia.org/wiki/Algorithm">Wikipedia-Algorithms</a><br>
+                                                  <a HREF="http://www.cs.sunysb.edu/~algorith/">Stony Brook</a><br>
+                                                  <a HREF="http://www.cgal.org/">CGAL</a><br>
+                                                  <a HREF="http://www.dcc.uchile.cl/~rbaeza/handbook/hbook.html">Handbook of Algorithms</a><br>
+                                                  <a HREF="http://www.csse.monash.edu.au/~lloyd/tildeAlgDS/">Monash</a><br>
+                                                  <a HREF="http://www.cis.upenn.edu/~wilf/AlgComp3.html">Herbert Wilf</a><br>
+                                                  </font></TD>
+											</TR>
+										</TABLE>								
+										</TD>
+									</TR>
+								</TABLE>
+								</TD>
+							</TR>
+						</TABLE>
+						</TD>
+					</TR>
+				</TABLE>
+		
+				<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0>
+					<TR>
+						<TD VALIGN=TOP>
+						<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 CELLPADDING=0>
+							<TR>
+								<TD VALIGN=TOP>
+								<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+									<TR BGCOLOR=#000000>
+										<TD BGCOLOR=#000000>
+										<TABLE WIDTH=100% BGCOLOR=#000000 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+											<TR>
+												<TD VALIGN=TOP>
+												<TABLE BORDER=0 WIDTH=100% BGCOLOR=#000000>
+													<TR>
+														<TD bgcolor="#6E7B8A"><FONT FACE=arial,helvetica SIZE=+0 color=white><B>Java</B></FONT></TD>
+														<TD BGCOLOR=#a1b5cd>&nbsp;</TD>
+														<TD BGCOLOR=#bcd1ee>&nbsp;</TD>
+														<TD BGCOLOR=#c9e0ff>&nbsp;</TD>
+													</TR>
+												</TABLE>
+												</TD>
+											</TR>
+										</TABLE>
+										<TABLE WIDTH=100% BGCOLOR=#FFFFFF BORDER=0 CELLPADDING=4 CELLSPACING=2>
+											<TR>
+												<TD VALIGN=TOP><font face="arial,helvetica" size="-1">
+												  <a HREF="http://java.sun.com/docs/books/tutorial/index.html">Sun's Java Tutorial</a><br>
+												  <a HREF="http://java.sun.com/docs/books/tutorial/deployment/applet/index.html">Sun's Applets Tutorial</a><br>
+                                                  <a HREF="http://www.dgp.toronto.edu/~mjmcguff/learn/java/">Applet Tutorial</a><br>
+                                                  <a HREF="http://www.realapplets.com/">Real Applets</a><br>
+                                                  <a HREF="http://www.javaworld.com/javaworld/jw-03-1996/jw-03-animation.html">Java World</a><br>
+											</TR>
+										</TABLE>								
+										</TD>
+									</TR>
+								</TABLE>
+								</TD>
+							</TR>
+						</TABLE>
+						</TD>
+					</TR>
+				</TABLE>
+			
+				</td>
+			</TR>
+		</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+
+</body>
+</html>
+			<center><span style="width: 100%; font-family: helvetica; font-size: 8px;">
+			Copyright: R.Mukundan (2006).
+			</span></center><br><br>
+		++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.hbmeyer.de/backtrack/backtren.htm>====================
+<html><head>
+<meta name="description" content="animation of a backtracking algorithm">
+<meta name="author" content="H.B. Meyer">
+<meta name="keywords" content="backtracking, algorithm, programming, Faust-Gymnasium">
+<meta name="date" content="2010-11-18">
+<title>Backtracking</title>
+
+<style type="text/css">
+ input {font-family:Arial;font-size:9pt;text-align:right}
+</style>
+
+<script language="JavaScript"><!--
+
+var field=0; var ready=0; var possible=0;
+var autoon=0; var cano=9; var pono=9; var veloc=250; var timer;
+
+var cardno= new Array(9);
+cardno[0]=9; cardno[1]=9; cardno[2]=9; cardno[3]=9;
+cardno[4]=9; cardno[5]=9; cardno[6]=9; cardno[7]=9; cardno[8]=9;
+var atpool= new Array(9);
+atpool[0]=1; atpool[1]=1; atpool[2]=1; atpool[3]=1;
+atpool[4]=1; atpool[5]=1; atpool[6]=1; atpool[7]=1; atpool[8]=1;
+var posno=new Array(9);
+posno[0]=9; posno[1]=9; posno[2]=9; posno[3]=9; posno[4]=9; posno[5]=9;
+posno[6]=9; posno[7]=9; posno[8]=9;
+
+var b = new Array(9);
+
+b[0] = new Array(4); b[0][0]= new Image(); b[0][0].src = "a11.gif";
+                                   b[0][1]= new Image(); b[0][1].src = "a12.gif";
+                                   b[0][2]= new Image(); b[0][2].src = "a13.gif";
+                                   b[0][3]= new Image(); b[0][3].src = "a14.gif";
+b[1] = new Array(4); b[1][0]= new Image(); b[1][0].src = "a21.gif";
+                                   b[1][1]= new Image(); b[1][1].src = "a22.gif";
+                                   b[1][2]= new Image(); b[1][2].src = "a23.gif";
+                                   b[1][3]= new Image(); b[1][3].src = "a24.gif";
+b[2] = new Array(4); b[2][0]= new Image(); b[2][0].src = "a31.gif";
+                                   b[2][1]= new Image(); b[2][1].src = "a32.gif";
+                                   b[2][2]= new Image(); b[2][2].src = "a33.gif";
+                                   b[2][3]= new Image(); b[2][3].src = "a34.gif";
+b[3] = new Array(4); b[3][0]= new Image(); b[3][0].src = "a41.gif";
+                                   b[3][1]= new Image(); b[3][1].src = "a42.gif";
+                                   b[3][2]= new Image(); b[3][2].src = "a43.gif";
+                                   b[3][3]= new Image(); b[3][3].src = "a44.gif";
+b[4] = new Array(4); b[4][0]= new Image(); b[4][0].src = "a51.gif";
+                                   b[4][1]= new Image(); b[4][1].src = "a52.gif";
+                                   b[4][2]= new Image(); b[4][2].src = "a53.gif";
+                                   b[4][3]= new Image(); b[4][3].src = "a54.gif";
+b[5] = new Array(4); b[5][0]= new Image(); b[5][0].src =  "a61.gif";
+                                   b[5][1]= new Image(); b[5][1].src = "a62.gif";
+                                   b[5][2]= new Image(); b[5][2].src = "a63.gif";
+                                   b[5][3]= new Image(); b[5][3].src = "a64.gif";
+b[6] = new Array(4); b[6][0]= new Image(); b[6][0].src =  "a71.gif";
+                                   b[6][1]= new Image(); b[6][1].src = "a72.gif";
+                                   b[6][2]= new Image(); b[6][2].src = "a73.gif";
+                                   b[6][3]= new Image(); b[6][3].src = "a74.gif";
+b[7] = new Array(4); b[7][0]= new Image(); b[7][0].src =  "a81.gif";
+                                   b[7][1]= new Image(); b[7][1].src = "a82.gif";
+                                   b[7][2]= new Image(); b[7][2].src = "a83.gif";
+                                   b[7][3]= new Image(); b[7][3].src = "a84.gif";
+b[8] = new Array(4); b[8][0]= new Image(); b[8][0].src =  "a91.gif";
+                                   b[8][1]= new Image(); b[8][1].src = "a92.gif";
+                                   b[8][2]= new Image(); b[8][2].src = "a93.gif";
+                                   b[8][3]= new Image(); b[8][3].src = "a94.gif";
+
+var thecard=new Array(9);
+ thecard[0]= new Array(4); thecard[0][0]=1; thecard[0][1]=6; thecard[0][2]=7; thecard[0][3]=4;
+ thecard[1]= new Array(4); thecard[1][0]=5; thecard[1][1]=2; thecard[1][2]=4; thecard[1][3]=8;
+ thecard[2]= new Array(4); thecard[2][0]=8; thecard[2][1]=5; thecard[2][2]=2; thecard[2][3]=3;
+ thecard[3]= new Array(4); thecard[3][0]=5; thecard[3][1]=1; thecard[3][2]=2; thecard[3][3]=6;
+ thecard[4]= new Array(4); thecard[4][0]=3; thecard[4][1]=4; thecard[4][2]=7; thecard[4][3]=5;
+ thecard[5]= new Array(4); thecard[5][0]=2; thecard[5][1]=8; thecard[5][2]=6; thecard[5][3]=4;
+ thecard[6]= new Array(4); thecard[6][0]=7; thecard[6][1]=3; thecard[6][2]=1; thecard[6][3]=5;
+ thecard[7]= new Array(4); thecard[7][0]=2; thecard[7][1]=1; thecard[7][2]=7; thecard[7][3]=6;
+ thecard[8]= new Array(4); thecard[8][0]=5; thecard[8][1]=3; thecard[8][2]=2; thecard[8][3]=8;
+
+function imageout()
+{for(j=0; j<=8; j++){if(cardno[j]!=9){document.images[j].src=b[cardno[j]][posno[j]].src}
+                                               else{document.images[j].src="a00.gif"};
+                                               if(atpool[j]==1){document.images[j+9].src=b[j][0].src}
+                                               else{document.images[j+9].src="a00.gif"}}}
+
+function disoutput()
+{var i=0;
+ with (window.document.laytheA) { i=cardno[0]; if (i!=9){Dis0.value=i+1}else{Dis0.value=''};
+                                                      i=cardno[1]; if (i!=9){Dis1.value=i+1}else{Dis1.value=''};
+                                                      i=cardno[2]; if (i!=9){Dis2.value=i+1}else{Dis2.value=''};
+                                                      i=cardno[3]; if (i!=9){Dis3.value=i+1}else{Dis3.value=''};
+                                                      i=cardno[4]; if (i!=9){Dis4.value=i+1}else{Dis4.value=''};
+                                                      i=cardno[5]; if (i!=9){Dis5.value=i+1}else{Dis5.value=''};
+                                                      i=cardno[6]; if (i!=9){Dis6.value=i+1}else{Dis6.value=''};
+                                                      i=cardno[7]; if (i!=9){Dis7.value=i+1}else{Dis7.value=''};
+                                                      i=cardno[8]; if (i!=9){Dis8.value=i+1}else{Dis8.value=''};
+                                                      i=posno[0]; if (i!=9){Diq0.value=i+1}else{Diq0.value=''};
+                                                      i=posno[1]; if (i!=9){Diq1.value=i+1}else{Diq1.value=''};
+                                                      i=posno[2]; if (i!=9){Diq2.value=i+1}else{Diq2.value=''};
+                                                      i=posno[3]; if (i!=9){Diq3.value=i+1}else{Diq3.value=''};
+                                                      i=posno[4]; if (i!=9){Diq4.value=i+1}else{Diq4.value=''};
+                                                      i=posno[5]; if (i!=9){Diq5.value=i+1}else{Diq5.value=''};
+                                                      i=posno[6]; if (i!=9){Diq6.value=i+1}else{Diq6.value=''};
+                                                      i=posno[7]; if (i!=9){Diq7.value=i+1}else{Diq7.value=''};
+                                                      i=posno[8]; if (i!=9){Diq8.value=i+1}else{Diq8.value=''}}}
+
+function tellme(){imageout(); disoutput()}
+
+
+function begin()
+{if(autoon==0){field=0; ready=0; possible=0; cano=9; pono=9; veloc=250;
+                         for (i=0; i<=8; i++){cardno[i]=9; atpool[i]=1; posno[i]=9};
+                         tellme()}}
+
+function turn(a)
+{if(autoon==0){if (cardno[a] != 9){posno[a]=posno[a]+1; if(posno[a]==4){posno[a]=0};
+                          tellme()}}}
+
+function intothepool(a)
+{if(autoon==0){if(cardno[a] !=9){atpool[cardno[a]]=1; cardno[a]=9;posno[a]=9; if(a<field){field=a}}; tellme()}}
+
+function putto(a)
+{if(autoon==0){if (atpool[a]==1){field=0; while(cardno[field]!=9){field=field+1};
+                                                        cardno[field]=a; posno[field]=0; field=field+1; atpool[a]=0; tellme()}}}
+
+function here(fieldno,Posnr)
+{var i, j; i=cardno[fieldno]; j=Posnr-posno[fieldno]; if (j<0){j=j+4}; return thecard[i][j]}
+
+function poolmin(k)
+{if(k<8){for (i=k+1; i<=8; i++){if(atpool[i]==1){return i}}}; return 9}
+
+function check()
+{possible=0;
+  if(cardno[field]==9){possible=1; cano=poolmin(-1); pono=0}
+  else{if(posno[field]<3){cano=cardno[field]; pono=posno[field]+1; possible=1}
+           else{cano=poolmin(cardno[field]); if(cano==9){pono=9}else{pono=0; possible=1}}}}
+
+function trackback()
+{var kr=0;
+ for(i=field; i<=8; i++){kr=cardno[i]; if (kr !=9){atpool[kr]=1;
+document.images[kr+9].src=b[kr][0].src;
+document.images[i].src="a00.gif"; cardno[i]=9; posno[i]=9}}}
+
+function laydown()
+{trackback(); cardno[field]=cano; posno[field]=pono; atpool[cano]=0;
+ document.images[field].src=b[cano][pono].src; document.images[cano+9].src="a00.gif"}
+
+function cardfits()
+{var p=0;
+ if(field==0){p=1};
+ if(field==1){if(here(0,3)+here(1,1)==9){p=1}};
+ if(field==2){if(here(1,3)+here(2,1)==9){p=1}};
+ if(field==3){if(here(0,2)+here(3,0)==9){p=1}};
+ if(field==4){if(here(1,2)+here(4,0)==9){if(here(3,3)+here(4,1)==9){p=1}}};
+ if(field==5){if(here(2,2)+here(5,0)==9){if(here(4,3)+here(5,1)==9){p=1}}};
+ if(field==6){if(here(3,2)+here(6,0)==9){p=1}};
+ if(field==7){if(here(4,2)+here(7,0)==9){if(here(6,3)+here(7,1)==9){p=1}}};
+ if(field==8){if(here(5,2)+here(8,0)==9){if(here(7,3)+here(8,1)==9){p=1}}};
+ return p}
+
+function autoauto()
+{if(ready==0 && autoon==1){check();
+                                                 if(possible==1){laydown(); if(cardfits()==1){if(field==8){ready=1}
+                                                                                                                        else{field=field+1}}}
+                                                 else{if(field==0){ready=1}
+                                                          else{trackback(); field=field-1}}};
+ disoutput(); if (ready==0 && autoon==1){timer=window.setTimeout("autoauto()",veloc)}}
+
+function auto()
+{if(autoon==1){window.clearTimeout(timer)};
+ autoon=1; window.document.laytheA.velo.value=veloc; autoauto()}
+
+function autooff()
+{if(autoon==1){window.clearTimeout(timer);
+ autoon=0; ready=0; window.document.laytheA.velo.value=''; tellme()}}
+
+function rset()
+{if(autoon==1){window.clearTimeout(timer)};
+ document.laytheA.reset(); autoon=0; begin()}
+
+function notready()
+{ready=0; if (autoon==1){autoauto()}}
+
+function velocplus()
+{if(autoon==1){window.clearTimeout(timer);
+ veloc=Math.round(veloc*1.51); if (veloc>2000){veloc=2000};
+ window.document.laytheA.velo.value=veloc; autoauto()}}
+
+function velocminus()
+{if(autoon==1){window.clearTimeout(timer);
+ veloc=Math.floor(veloc/1.5); if (veloc<1){veloc=1};
+ window.document.laytheA.velo.value=veloc; autoauto()}}
+
+//--></script></head>
+<body  onLoad="begin()"  bgcolor="#a8dcff"><form name="laytheA">
+<table border=0 cellspacing=0 cellpadding=5 align=left><tr><td>
+<table border=0 cellspacing=0 cellpadding=0><tr>
+<td><table border=1 cellspacing=0 cellpadding=0 style="border-color:#f0f0f0">
+        <tr><td  width=64 height=64><a onClick="turn(0)" onDblClick="intothepool(0)">
+               <img src="a00.gif"></a></td>
+               <td width=64><a onClick="turn(1)" onDblClick="intothepool(1)">
+               <img src="a00.gif"></a></td>
+               <td width=64><a onClick="turn(2)" onDblClick="intothepool(2)">
+               <img src="a00.gif"></a></td></tr>
+        <tr><td height=64><a onClick="turn(3)" onDblClick="intothepool(3)">
+               <img src="a00.gif"></a></td>
+               <td><a onClick="turn(4)" onDblClick="intothepool(4)"><img src="a00.gif"></a></td>
+               <td><a onClick="turn(5)" onDblClick="intothepool(5)">
+               <img src="a00.gif"></a></td></tr>
+        <tr><td height=64><a onClick="turn(6)" onDblClick="intothepool(6)">
+               <img src="a00.gif"></a></td>
+               <td><a onClick="turn(7)" onDblClick="intothepool(7)"><img src="a00.gif"></a></td>
+               <td><a onClick="turn(8)" onDblClick="intothepool(8)">
+               <img src="a00.gif"></a></td></tr> </table></td>
+<td width=22>&nbsp;</td>
+<td><table border=1 cellspacing=0 cellpadding=0 style="border-color:#f0f0f0">
+        <tr><td width=64 height=64><a onClick="putto(0)"><img src="a00.gif"></a></td>
+               <td width=64><a onClick="putto(1)"><img src="a00.gif"></a></td>
+               <td width=64><a onClick="putto(2)"><img src="a00.gif"></a></td></tr>
+        <tr><td height=64><a onClick="putto(3)"><img src="a00.gif"></a></td>
+               <td><a onClick="putto(4)"><img src="a00.gif"></a></td>
+               <td><a onClick="putto(5)"><img src="a00.gif"></a></td></tr>
+        <tr><td height=64><a onClick="putto(6)"><img src="a00.gif"></a></td>
+               <td><a onClick="putto(7)"><img src="a00.gif"></a></td>
+               <td><a onClick="putto(8)"><img src="a00.gif"></a></td></tr></table></td>
+</tr></table>
+<table border=1 cellspacing=0 cellpadding=6 style="border-color:#f0f0f0"><tr><td bgcolor="#88bbff">
+<table border=0 cellspacing=0 cellpadding=0><tr>
+<td><font face="Arial" size=2>Card No.:<br><nobr>
+<input type=text name="Dis0" readonly style="width:22px;height:20px;text-align:right"> <input type=text name="Dis1" readonly style="width:22px;height:20px;text-align:right">
+<input type=text name="Dis2" readonly style="width:22px;height:20px;text-align:right"></nobr><br>
+<input type=text name="Dis3" readonly style="width:22px;height:20px;text-align:right"> <input type=text name="Dis4" readonly style="width:22px;height:20px;text-align:right">
+<input type=text name="Dis5" readonly style="width:22px;height:20px;text-align:right"><br>
+<input type=text name="Dis6" readonly style="width:22px;height:20px;text-align:right"> <input type=text name="Dis7" readonly style="width:22px;height:20px;text-align:right">
+<input type=text name="Dis8" readonly style="width:22px;height:20px;text-align:right"></font></td>
+<td width=16>&nbsp;</td>
+<td><font face="Arial" size=2>Pos. No.:<br><nobr>
+<input type=text name="Diq0" readonly style="width:22px;height:20px;text-align:right"> <input type=text name="Diq1" readonly style="width:22px;height:20px;text-align:right">
+<input type=text name="Diq2" readonly style="width:22px;height:20px;text-align:right"></nobr><br>
+<input type=text name="Diq3" readonly style="width:22px;height:20px;text-align:right"> <input type=text name="Diq4" readonly style="width:22px;height:20px;text-align:right">
+<input type=text name="Diq5" readonly style="width:22px;height:20px;text-align:right"><br>
+<input type=text name="Diq6" readonly style="width:22px;height:20px;text-align:right"> <input type=text name="Diq7" readonly style="width:22px;height:20px;text-align:right">
+<input type=text name="Diq8" readonly style="width:22px;height:20px;text-align:right"></font></td>
+<td width=10>&nbsp;</td>
+<td><table border=1 cellspacing=0 cellpadding=5 style="border-color:#f0f0f0"><tr><td bgcolor="#77b0f0"><font face="Arial" size=2>
+<input type=radio name="Automatik" checked value="mouseclick" onClick="autooff()"><nobr>by mouseclick</nobr><br>
+<input type=radio name="Automatik" value="Automatik" onClick="auto()">automatically</font></td></tr>
+<tr><td bgcolor="#62a5d8"><center><font face="Arial" size=2><nobr>delay (in ms)</nobr><br>
+<input type=button value="-" onClick="velocminus()" style="width:20px;text-align:center">
+<input type=text name="velo" readonly style="width:40px;text-align:right">
+<input type=button value="+" onClick="velocplus()" style="width:20px;text-align:center">
+</font></center></td></tr></table></td>
+<td width=12>&nbsp;</td>
+<td><table border=1 cellspacing=0 cellpadding=4 style="border-color:#f0f0f0"><tr><td bgcolor="#77b0f0">
+        <input type=button value="reset" onClick="rset()" style="width:90px;text-align:center"><br><br>
+        <input type=button value="new solution" onClick="notready()" style="width:90px;text-align:center"></td></tr></table></td>
+</tr></table></td></tr></table></td></tr></table><font face="Arial" size=1><br></font>
+<font face="Arial" size=4 color="#0000ff">Backtracking</font>
+<font face="arial" size=2 color="#b04000"> &nbsp;
+requires JavaScript (MSIE recommended)</font>
+<br><font face="Arial" size=2>
+<p>A mouseclick on any card belonging to the array on the right side ("pool") moves that card into the next empty field of the left array ("game-area").</p>
+<p>A single mouseclick on any card in the game-area causes a quarter turn of the card counterclockwise.</p>
+<p>A double mouseclick on any card in the game-area moves the card back to the original place
+in the pool.</p>
+<p><b>Aim</b>: all cards should be placed in the game-area such that all neighbours fit, i.e. 12
+unicolored letters "A" should appear.</p><p>After activation of the option "automatically" a
+ backtracking-algorithm will run down for search of a solution. It may be interrupted by activation of the option "by mouseclick". When a solution is found, the algorithm will end and in that case a search for another solution may be continued with the button <nobr>"new solution"</nobr>.
+The delay (in milliseconds) regulates the frequency of the image output.</p></font>
+<font face="Arial" size=1><!-- This backtracking-visualisation results from lessons in computer-science ("Informatik Grundkurs") at <a href="http://www.faust.fr.bw.schule.de/index.html">Faust-Gymnasium Staufen</a> 1999/2000.//--> <nobr>&copy; <a href="../index.html">H.B. Meyer</a></nobr><br>
+For more backtracking see:</font><font face="Arial" size=2>&nbsp;<a href="achtdamen/autoacht.htm">Eight Queens</a></font>
+<font face="Arial" size=1> or </font> <font face="Arial" size=2>
+<a href="mag5en.htm"> 5 x 5 magic squares</a>.</font></form>
+<font face="Arial" size=2>zur Seite in deutscher Sprache: </font>
+<a href="backtr.htm"><img src="../ge.gif" border=0></a>
+<a href="backtr.htm"><img src="../at.gif" border=0></a>
+<a href="backtr.htm"><img src="../ch.gif" border=0></a><br><br><br><br>
+
+<div id="eXTReMe"><a href="http://extremetracking.com/open?login=mhb05n">
+<img src="http://t1.extreme-dm.com/i.gif" style="border: 0;"
+height="38" width="41" id="EXim" alt="eXTReMe Tracker" /></a>
+<script type="text/javascript"><!--
+EXref="";top.document.referrer?EXref=top.document.referrer:EXref=document.referrer;//-->
+</script><script type="text/javascript"><!--
+var EXlogin='mhb05n' // Login
+var EXvsrv='s10' // VServer
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;EXsrc="src";
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXref?EXref=EXref:EXref=EXd.referrer;
+EXd.write("<img "+EXsrc+"=http://e1.extreme-dm.com",
+"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(EXref)+" height=1 width=1>");//-->
+</script><noscript><div id="neXTReMe"><img height="1" width="1" alt=""
+src="http://e1.extreme-dm.com/s10.g?login=mhb05n&amp;j=n&amp;jv=n" />
+</div></noscript></div>
+
+<script language="JavaScript"><!--
+document.images[21].width=1; document.images[21].height=1 //--></script>
+
+</body></html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cse.buffalo.edu/jive/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link rel="stylesheet" href="./css/site.css" type="text/css" />
+<link rel="shortcut icon" href="./images/shared/favicon.gif" type="image/gif" />
+<link rel="alternate" type="application/rss+xml" href="http://www.cse.buffalo.edu/jive/news.xml" />
+<title>JIVE:  Java Interactive Visualization Environment</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/lightwindow.css" />
+  <!-- JavaScript -->
+  <script type="text/javascript" src="js/prototype.js"></script>
+  <script type="text/javascript" src="js/effects.js"></script>
+  <script type="text/javascript" src="js/lightwindow.js"></script>
+</head>
+<body>
+
+<div id="header">
+  <a href="."><img src="./images/shared/text.png" alt="JIVE" /></a>
+  <ul>
+    <li class="active"><a href=".">Home</a></li>
+    <li><a href="./news.html">News</a></li>
+    <li><a href="./tutorials.html">Tutorials</a></li>
+    <li><a href="./publications.html">Publications</a></li>
+    <li><a href="./download.html">Installation</a></li>
+    <li><a href="./support.html">Support</a></li>
+  </ul>
+</div>
+
+<div id="content">
+  <div class="frame_full">
+    <div class="frame_full_sides">
+
+<!-- ABOUT JIVE -->
+      <div class="home_box">
+        <img class="right" src="./images/home/diagrams.png"/>
+        <h1>About JIVE</h1>
+        <p>
+JIVE is an interactive execution environment for
+<a href="http://www.eclipse.org/">Eclipse</a>.  JIVE can be used
+for:
+ (i) debugging Java programs with rich visualizations of 
+object structure and method interactions;
+(ii) facilitating software maintenance, by providing insight into
+the dynamic behavior of programs; and
+(iii) teaching and learning Java. 
+JIVE extends Eclipse's
+Java debugging features with interactive 
+visualizations, query-based debugging, dynamic slicing,
+and reverse stepping.
+        </p>
+        <br />
+  
+        <h2>Interactive Visualizations</h2>
+        <p>
+JIVE depicts both the runtime state and call history of a program in a visual
+manner.  The runtime state is visualized as an enhanced object diagram,
+showing object structure as well as method activations in their proper object contexts.
+The call history is depicted as an extended sequence diagram,
+clarifying the object interactions that occur at runtime.  The diagrams are
+scalable and can be filtered to show only information pertinent to the task at
+hand.
+        </p>
+      </div>
+      
+      <div class="home_box">
+        <img class="right "src="./images/home/search.png"/>
+        <h2>Query-based Debugging and Dynamic Slicing</h2>
+        <p>
+Traditional debugging is a <em>procedural</em> process in that a 
+programmer must proceed 
+step-by-step and object-by-object to find the casue of an error.  In
+contrast, JIVE supports a <em>declarative</em> approach to debugging by 
+providing an extensible set of queries over a entire
+program's execution history, not just over the stack of outstanding calls.
+Queries are formulated using the source code or the diagrams, and the results 
+are shown in a tabular format and also as diagram annotations.  JIVE also 
+supports <em> dynamic slicing </em> in order to achieve reduced visualizations
+and focus on the root-cause of errors.
+
+        </p>
+      </div>
+  
+      <div class="home_box">
+        <h2>Reverse Stepping</h2>
+         <img class="right" src="./images/home/interactive.png"/>
+        <p>
+JIVE supports both forward and reverse stepping of Java programs.
+Often, a programmer may discover that an error has occurred only <em>after</em> the
+errant statement has been executed.  Providing the ability to step backwards saves a
+programmer the time and effort of re-executing the program until the point of
+error. JIVE also provides the ability to jump directly back to any previous
+point in the execution history in order to observe the object diagram at that point.  Reverse
+stepping and jumping work closely with query-based debugging to narrow down the
+cause of program errors.
+        </p>
+      </div>
+
+<div id="footer">
+<!--  <a href="http://www.eclipse.org/"><img src="./images/home/eclipse.gif" alt=""/></a><hr width="700px" /><br /> -->
+  <a href="http://www.cse.buffalo.edu/"><img src="./images/home/cse.gif" alt=""/></a>
+  <a href="http://www.buffalo.edu/"><img src="./images/home/ub.gif" alt=""/></a>
+</div>
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3073647; 
+var sc_invisible=0; 
+var sc_partition=33; 
+var sc_security="61410db2"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+<noscript>
+  <div class="statcounter">
+    <a class="statcounter" href="http://www.statcounter.com/">
+      <img class="statcounter" src="http://c34.statcounter.com/3073647/0/61410db2/0/" alt="counter free hit invisible" />
+    </a>
+  </div>
+</noscript>
+<!-- End of StatCounter Code -->
+
+</html>
+</body>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.hope.edu/~dershem/ccaa/ccaa/>====================
+<html>
+<head>
+<title>The Complete Collection of Algorithm Animations</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v3.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    if ((nbArr = document[grpName]) != null)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = args[i+1];
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+H3 {  font-family: "Times New Roman", Times, serif; font-size: 16pt; font-weight: bold; color: #990033}
+-->
+</style>
+</head>
+
+<body bgcolor="#FFFFFF" onLoad="MM_preloadImages('images/buttonData3.gif','images/buttonGeometric2.gif','images/buttonGeometric3.gif','images/buttonGraph2.gif','images/buttonGraph3.gif','images/buttonParallel2.gif','images/buttonParallel3.gif','images/buttonSorting2.gif','images/buttonSorting3.gif','images/buttonTree2.gif','images/buttonTree3.gif','images/buttonMiscell2.gif','images/buttonTemplate3.gif','images/buttonData2.gif','images/buttonHome.gif','images/buttonHome3.gif','images/buttonSubmit2.gif','images/buttonSubmit3.gif')" background="images/background.gif">
+<table width="700" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr> 
+    <td colspan="2"><a href="index.html"><img src="images/ccaabanner.gif" width="720" height="86" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td colspan="2" height="10">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="188" valign="top" height="279"> 
+      <table border="0" cellpadding="3" cellspacing="0">
+        <tr> 
+          <td><a href="data.html" onClick="MM_nbGroup('down','group1','Data','images/buttonData2.gif',1)" onMouseOver="MM_nbGroup('over','Data','images/buttonData3.gif','images/buttonData3.gif',1)" onMouseOut="MM_nbGroup('out')"></a><a href="index.html" onClick="MM_nbGroup('down','group1','Home','images/buttonHome2.gif',1)" onMouseOver="MM_nbGroup('over','Home','images/buttonHome3.gif','images/buttonHome3.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="Home" src="images/buttonHome2.gif" border="0" onLoad="MM_nbGroup('init','group1','Home','images/buttonHome.gif',1)" width="149" height="19"></a></td>
+        </tr>
+        <tr> 
+          <td><a href="data.html" onClick="MM_nbGroup('down','group1','Data','images/buttonData2.gif',1)" onMouseOver="MM_nbGroup('over','Data','images/buttonData3.gif','images/buttonData3.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="Data" src="images/buttonData.gif" border="0" onLoad=""></a></td>
+        </tr>
+        <tr> 
+          <td><a href="geometric.html" onClick="MM_nbGroup('down','group1','Geometric','images/buttonGeometric2.gif',1)" onMouseOver="MM_nbGroup('over','Geometric','images/buttonGeometric3.gif','images/buttonGeometric3.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="Geometric" src="images/buttonGeometric.gif" border="0" onLoad="" width="149" height="19"></a></td>
+        </tr>
+        <tr> 
+          <td><a href="graph.html" onClick="MM_nbGroup('down','group1','Graph','images/buttonGraph2.gif',1)" onMouseOver="MM_nbGroup('over','Graph','images/buttonGraph3.gif','images/buttonGraph3.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="Graph" src="images/buttonGraph.gif" border="0" onLoad=""></a></td>
+        </tr>
+        <tr> 
+          <td><a href="parallel.html" onClick="MM_nbGroup('down','group1','Parallel','images/buttonParallel2.gif',1)" onMouseOver="MM_nbGroup('over','Parallel','images/buttonParallel3.gif','images/buttonParallel3.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="Parallel" src="images/buttonParallel.gif" border="0" onLoad=""></a></td>
+        </tr>
+        <tr> 
+          <td><a href="sorting.html" onClick="MM_nbGroup('down','group1','Sorting','images/buttonSorting2.gif',1)" onMouseOver="MM_nbGroup('over','Sorting','images/buttonSorting3.gif','images/buttonSorting3.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="Sorting" src="images/buttonSorting.gif" border="0" onLoad=""></a></td>
+        </tr>
+        <tr> 
+          <td><a href="tree.html" onClick="MM_nbGroup('down','group1','Tree','images/buttonTree2.gif',1)" onMouseOver="MM_nbGroup('over','Tree','images/buttonTree3.gif','images/buttonTree3.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="Tree" src="images/buttonTree.gif" border="0" onLoad=""></a></td>
+        </tr>
+        <tr> 
+          <td><a href="miscell.html" onClick="MM_nbGroup('down','group1','miscellaneous','images/buttonMiscell2.gif',1)" onMouseOver="MM_nbGroup('over','miscellaneous','images/buttonTemplate3.gif','images/buttonTemplate3.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="miscellaneous" src="images/buttonMiscell.gif" border="0" onLoad="" width="149" height="19"></a></td>
+        </tr>
+        <tr>
+          <td><a href="submit/submit.html" onClick="MM_nbGroup('down','group1','Submit','images/buttonSubmit2.gif',1)" onMouseOver="MM_nbGroup('over','Submit','images/buttonSubmit3.gif','images/buttonSubmit3.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="Submit" src="images/buttonSubmit.gif" border="0" onLoad=""></a></td>
+        </tr>
+      </table>
+    </td>
+    <td width="541" valign="top" height="279"> 
+      <h3><font size="5">CCAA Home Page</font></h3>
+      <p><font size="3" face="Times New Roman, Times, serif">The <b>Complete Collection 
+        of Algorithm Animations (CCAA)</b> is a comprehensive collection of links 
+        to all of the algorithm animations that can be run over the Internet. 
+        Each of these sites provides animations that aide the learning and understanding 
+        of algorithms. </font></p>
+      <p><font size="3" face="Times New Roman, Times, serif">The links are organized 
+        according to the algorithm categories on navigation bar. The <b>CCAA</b> 
+        not only provide a list of algorithms found on the sites, it also provides 
+        an overview of the algorithms that can be found on the associated links. 
+        </font></p>
+      <p><font face="Times New Roman, Times, serif" size="3">For convenience, 
+        the customized Goolge Search below can be used to directly search the 
+        <b>CCAA</b> web site for any algorithm animation.</font></p>
+          </td>
+  </tr>
+  <tr>
+    <td colspan="2" height="10">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2" height="10"><!-- Search Google -->
+      <center>
+        <form method=GET action=http://www.google.com/u/hope>
+          <table bgcolor=#FFFFFF cellspacing=0 border=1 width="709" bordercolor="#6094E0">
+            <tr valign=middle> 
+              <td valign="middle" width="137" height="47" align="right"> <a href=http://www.google.com/> 
+                </a><img src="images/googleLogo1.gif" width="82" height="30"> 
+              </td>
+              <td valign="top" width="556" height="47"> <font face="Times New Roman, Times, serif" size="3"><b><font color="#990033">SEARCH 
+                The CCAA</font></b></font> <br>
+                <input type=text name=q size=36 maxlength=255 value="">
+                <input type=submit name=sa value="CCAA Search ">
+                <font face=arial,sans-serif size=-1> 
+                <input type=hidden name=domains value="http://www.cs.hope.edu/~alganim/ccaa">
+                <br>
+                <input type=radio name=sitesearch value="cs.hope.edu" checked>
+                CCAA Search 
+                <input type=radio name=sitesearch value="">
+                Search WWW</font> </td>
+            </tr>
+          </table>
+        </form>
+      </center>
+      <!-- Search Google --> </td>
+  </tr>
+  <tr> 
+    <td colspan="2" height="10">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2" height="15"> 
+      <div align="center"><font size="3" face="Times New Roman, Times, serif"> 
+        <a href="index.html"><font size="3">CCAA Home</font></a><font size="3"> 
+        | <a href="data.html">Data Structures</a> | <a href="geometric.html">Geometric</a> 
+        | <a href="graph.html">Graph</a> | <a href="parallel.html">Parallel</a> 
+        | <a href="sorting.html">Sorting</a> | <a href="tree.html">Tree</a> | 
+        <a href="miscell.html">Miscellaneous</a> | <a href="submit/submit.html">New 
+        Site</a></font></font></div>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2"> 
+      <div align="center">
+        <p><font size="2" face="Times New Roman, Times, serif">This site was originally 
+          created by Peter Brummund, current update by Ngozi V. Uti, through the 
+          Hope College Summer NSF REU Program. Please direct any questions or 
+          comments to <a href="mailto:alganim@cs.hope.edu">alganim@cs.hope.edu</a> Last 
+          Updated - 26 June, 2001</font></p>
+        <p>&nbsp;</p>
+      </div>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

@@ -1,0 +1,1454 @@
+====================<http://www.bioeddie.co.uk/main/emulators.htm>====================
+<html><head>
+<link rel="Shortcut Icon" href="Favicon.ico">
+
+</script>
+<script language=JavaScript>
+<!--
+
+//Disable right click script III- By Renigade (renigade@mediaone.net)
+//For full source code, visit http://www.dynamicdrive.com
+
+var message="";
+///////////////////////////////////
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if 
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers) 
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+
+document.oncontextmenu=new Function("return false")
+// --> 
+</script><html>
+<title>Psion Emulators</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script>
+<meta name="" content="The largest Psion, Epoc or Sibo Emulator site on the net if its not here then its not released and SDK information psion, Bioeddie, sdk, symbian, er5, revo, subst, emulator, emulators, emulater, er6, crystal, quartz, wins,  epoc
+">
+<meta name="keywords" content="Emulators, Emulator, Psion, Epoc, Series 3, 5, ER5 Sibo, Spectrum, Apple, Newton, Linux, Revo, dos 6.22, Acorn  ">
+<meta name="description" content="Bioeddie is the top Psion Site when it comes to Psion Emulators as it carries all that are current and those that have been through the Freeware and Share ware pages currently going through Bioeddie's each month.">
+<link href="/css/machine-page.css" rel="stylesheet" type="text/css">
+</head>
+<div align="center"> 
+  <p> 
+    <style>  
+Body {SCROLLBAR-FACE-COLOR: #000066; SCROLLBAR-HIGHLIGHT-COLOR: #3300ff; SCROLLBAR-SHADOW-COLOR: #3333cc; SCROLLBAR-3DLIGHT-COLOR: #cccccc; SCROLLBAR-ARROW-COLOR:  #cc0000; SCROLLBAR-TRACK-COLOR: #000000; SCROLLBAR-DARKSHADOW-COLOR: black; }
+</style>
+    <a name="Top"></a><br>
+    <font size="6">Psion Emulators</font><br>
+    The only place where you can download all of the Psion emulators in one place.<br>
+    <br>
+    If you know of a psion emulator that are not listed <br>
+    please let me know where i can obtain information about it so that we can 
+    share this <br>
+    information with other emulator users.</p>
+  <p><strong>If you would like all the emulators on this page please feel free 
+    you to contact <a href="mailto:bioeddie@gmail.com">me</a> <br>
+    and for &pound;5 uk plus postage and packaging i will forward them to</strong><br>
+  </p>
+  <table width="33%" border="1">
+    <tr>
+      <th>Emulators Released In 2003</th>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        XTM Psion Revo Emulator v3.05<a name="XTM3-7"></a></th>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 203k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/rvxtm306.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date:</em-2> 15 April 2003</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        XTM Nokia 9210 v3.05</font><a name="XTM3-N"></a></th>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size:193k</td>
+    </tr>
+    <tr> 
+      <td height="30"><a href="../Downloads/emulators/nkxtm306.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td height="30"><em-2>Date:</em-2> 15 April 2003</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        XTM Psion Series 5 Emulator v3.05<a name="XTM3-5"></a></font></th>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 203k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/s5xtm306.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date:</em-2> 15 April 2003</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        XTM Psion Series 7 Emulator v3.05<a name="XTM3-7"></a></th>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 203k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/s7xtm306.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date:</em-2> 15 April 2003</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        XTM Geofox Emulator v3.05</font><a name="XTM3-G"></a></th>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 203k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/g1xtm306.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date:</em-2> 15 April 2003</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >Emu48E v1.3 - 
+        HP 48 Gx</font></th>
+      <td rowspan="4">Is a port of Emu48 on EPOC32, it works 
+        on Psion Revo, series 5 and Osaris. It's an Eikon application programmed 
+        in c++.</td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 459k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/Emu48E_v13gx.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>13 June 2003</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >Emu48E v1.3 - 
+        HP 48 Sx</th>
+      <td rowspan="4">Is a port of Emu48 on EPOC32, it works 
+        on Psion Revo, series 5 and Osaris. It's an Eikon application programmed 
+        in c++.</td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 323k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/Emu48E_v13sx.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>13 June 2003</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        XTM Psion Revo Emulator v3.05<a name="XTM3-7"></a></font></td>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 203k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/rvxtm305.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>17 February 2003</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        XTM Nokia 9210 v3.05</font></td>
+        <a name="XTM3-N"></a>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size:193k</td>
+    </tr>
+    <tr> 
+      <td height="30"><a href="../Downloads/emulators/nkxtm305.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td height="30"><em-2>Date: </em-2>17 February 2003</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        XTM Psion Series 5 Emulator v3.05</font></td>
+        <a name="XTM3-5"></a>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 203k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/s5xtm305.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>17 February 2003</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        XTM Psion Series 7 Emulator v3.05</font></td>
+        <a name="XTM3-7"></a>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 203k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/s7xtm305.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>17 February 2003</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        XTM Geofox Emulator v3.05</font></td>
+        <a name="XTM3-G"></a>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 203k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/g1xtm305.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date:</em-2> 17 February 2003</td>
+    </tr>
+  </table>
+  <br>
+  <table width="33%" border="1">
+    <tr> 
+      <th>Emulators Released In 2002</th>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        XTM Psion Series 7 Emulator v3.03</font></td>
+        <a name="XTM3-7"></a>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 116k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/s7xtm303.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>18 August 2002</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        XTM Psion Series 5 Emulator v3.03</font><a name="XTM3-5"></a></th>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 116k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/s5xtm303.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>18 August 2002</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        XTM Geofox Emulator v3.03</font></td>
+        <a name="XTM3-G"></a>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 174k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/g1xtm303.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date:</em-2> 18 August 2002</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" ><a name="XTM3-N">The 
+        XTM Nokia 9210 v3.03</th>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size:193k</td>
+    </tr>
+    <tr> 
+      <td height="30"><a href="../Downloads/emulators/nkxtm303.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td height="30"><em-2>Date: </em-2>13 August 2002</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >Symbian 
+        OS V5 OPL SDK V2.30</font></td>
+        <a name="5OPL" id="5OPL"></a>
+      <td rowspan="4"><strong>The EPOC Release 5 OPL SDK provides 
+        a PC-hosted development environment for rapid application development 
+        in OPL. It comprises EPOC Release 5 system components,<br>
+        development tools including the EPOC emulator, system documentation and 
+      examples.</strong></td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 25.8Mb</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/opl.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>7 July 2002</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >Nokia 9210 Spectrum 
+        Emulator </font></td>
+      <td rowspan="4">Spectrum image files in .sna, .z80 
+        or .tap files can be played using ZX9200. Select Game Select from the 
+        Game menu, select an image file, then press PLAY to start the emulator 
+        with the file</td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 112k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/Zx9200_11.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>20 June 2002</td>
+    </tr>
+  </table>
+  <table width="89%" border="1" align="center" >
+    <tr> 
+      <th width="31%" > Hugo 
+          v2.5.03a (ER6)</th>
+      <td colspan="11" rowspan="4">Adventures work in a similar way to Infocom 
+        adventures (using FrotzN) except they use a completely different format 
+        and are not compatible with each other. Based on the Unix v2.5.03a sources 
+        of HUGO by Kent Tessman.</td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 44k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/hugonokia.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"> 
+        <div align="left"><em-2>Date: </em-2>March 3rd 2002</div>      </td>
+    </tr>
+  </table>
+  <table width="89%" border="1" align="center" >
+    <tr> 
+      <th width="31%" ><font color="#000000">FrotzN 
+          (ER6)</th>
+      <td colspan="11" rowspan="4">Enjoy Infocom adventures on your Nokia Communicator. 
+        As well as the classic Infocom games such as Zork Series, Hitch Hikers 
+        Guide to the Galaxy, Enchanter Trilogy and A Mind Forever Voyaging, there 
+        is a large library of freely available Infocom files.A good place to get 
+        stories is ftp://ftp.gmd.de/if-archive/games/infocom/. All the stories 
+        there ending with .z1 up to .z8 work. Some .z6 games, which rely on graphics, 
+        may not work. Also Infocom sometimes use .zip extensions for their z6 
+        games, these work fine with FrotzN.</td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 50k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/FrotzN.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td height="39" width="31%"> 
+        <div align="left"><em-2>Date:</em-2>March 3rd 2002</div>      </td>
+    </tr>
+  </table>
+  <br>
+  <table width="33%" border="1">
+    <tr>
+      <th>Emulators Released In 2001</th>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >NewTELnet (ER6) 
+        v1.07</th>
+      <td rowspan="4">Is a TELNET terminal emulator for the 
+        PSION 5, 5mx, 5mxPRO, Revo, NetBook, Series7, and Ericsson mc218 and the 
+        Nokia 9210 (ER6). The terminal engine, and user interface are based on 
+        the successful flyTERM product. The internet connection is made typically 
+        via the IrDa port and a mobile telephone. The PSION serial line can also 
+        be used for internet or direct connections to a host at speeds up to 115Kbps.</td>
+    </tr>
+    <tr> 
+      <td width="31%">Size:54k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/newtelnet9210.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>17th December 2005</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >newTELnet 3.03</th>
+      <td rowspan="4">This TELNET client supports ANSI, VT100, 
+        VT2xx, VT52, TVI950 and ADM3A escape sequences. It can be used with either 
+        a modem or a serial connection. newTELnet makes the most out of the small 
+        screen by using some unique scrolling techniques. It will also allow you 
+        to configure the toolbar to allow easy entry of stardard text and function 
+        keys.<br>
+      It now supports printing by either lead or IR. </td>
+    </tr>
+    <tr> 
+      <td width="31%" height="32">size50k</td>
+    </tr>
+    <tr> 
+      <td width="31%" height="38"><a href="../Downloads/emulators/newtelnet5mx.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date:</em-2> 11th October 2005</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >NewTELnet for 
+        Revo 2.1</th>
+      <td rowspan="4">This is a full Telnet client for the 
+        PSION Revo. It also allows the serial cable in the docking station to 
+        be used to connect directly to servers. ANSI, VT2XX, VT100, VT100, VT52, 
+        TVI950, and ADM3A escape sequences are supported. Data from the screen 
+        can be copied back and forward between Revo applications by cut-and-paste. 
+        The received data can also be captured into a log file for later analysis 
+        or replay. To simplify command entry, texts can be stored in buffers and 
+        sent with a click on the buttonband, or buttonbar</td>
+    </tr>
+    <tr> 
+      <td width="31%" height="42">size47k</td>
+    </tr>
+    <tr> 
+      <td width="31%" height="39"><a href="../Downloads/emulators/newtelnetrevo.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date:</em-2> 18th September 2005</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >EpocDos V2.08</th>
+      <td rowspan="4">Another update of this sophisticated 
+        emulation of MSDOS functionality on the Epoc32 platform. It will not run 
+        dos executables (that is not what its designed for) but it will allow 
+        you to use standard dos commands with very similar syntax to perform low 
+        level system file management and file processing tools.  A free 
+        registration code is now required so that i can track its use. email the 
+        author <a href="mailto:glewarne@plymouth.ac.uk">here</a> to receive one 
+        (include your name)  
+        <p></p>      </td>
+    </tr>
+    <tr> 
+      <td width="31%"><font color="#FFFFFF">size67k</font></td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/epocdos%20-%20epocdos_2.08.zip.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><font color="#FFFFFF"><em-2>Date: </em-2>30th June 2005</font></td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" ><font color="#000000">Hugo 2.5.03a</th>
+      <td rowspan="4"> 
+        <p>Is an emulation engine for EPOC OS devices that enables you to play 
+          HUGO Interactive Fiction text-based adventure games. Please refer to 
+          the author&#146;s Web site for more information on how to obtain these 
+          games.</p>
+        <p><a href="http://www.igs.net/%7Etril/if/" target="_blank">Visit link 
+          address</a></p>      </td>
+    </tr>
+    <tr> 
+      <td width="31%"><font color="#FFFFFF">size104k</font></td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/Hugo_epoc.ZIP">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><font color="#FFFFFF"><em-2>Date: </em-2>30th June 2005</font></td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >MPS 1.07</th>
+      <td rowspan="4"> 
+        <p>Is a virtual computer dedicated to pocket and mobile devices available 
+          for every mobile platform : a unique application development environment 
+          for all mobile platforms - a united developers community offering third-party 
+          softwares, services and free support Actually MPS is supporting 15 operating 
+          systems and 8 different microprocessors. CAUTION : this version runs 
+          Series 5mx, Revo, RevoPlus, Netbook, Serie7, OregonScientific Osaris, 
+          but doesn't on Series 5 <a href="http://www.palmware.fr/index.asp" target="_blank">Visit 
+          link address</a></p>      </td>
+    </tr>
+    <tr> 
+      <td width="31%" height="34"><font color="#FFFFFF">size244k</font></td>
+    </tr>
+    <tr> 
+      <td width="31%" height="35"><a href="../Downloads/emulators/MpsEpoc-but_not-5.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><font color="#FFFFFF"><em-2>Date: </em-2>1st June 2005</font></td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >flyTERM 
+        Ver 2.31<a name="flyTERM"></a></th>
+      <td rowspan="4">This terminal emulation program allows 
+        access to any host system that supports ANSI, vt100, vt200 or vt52 escape 
+        sequences.</td>
+    </tr>
+    <tr> 
+      <td width="31%">size58k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/flyTERM/Flyterm31/flyterm1.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>4th May 2005</td>
+    </tr>
+  </table>
+  <table width="89%" border="1" align="center" cellpadding="1" cellspacing="1" >
+    <tr> 
+      <th width="31%" >Psion48 V2 (Epoc 
+        Devices)</th>
+      <td rowspan="4"> <p><strong>The standard calculator application of all psion 
+          PDA is convenient for common usage, but it is not powerfull enough for 
+          engineers, students and scientific who often need advanced functions 
+          in order to manipulate matrices, compound numbers and so on. Psion48 
+          has the same commands as the HP48, and a similar graphical interface</strong></p></td>
+    </tr>
+    <tr> 
+      <td width="31%">size55k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/psion48.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date:</em-2> April 10th 2005</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%">UniFEP 
+          V3 <a name="UniFEP"></a></th>
+      <td rowspan="4">Is a system that makes an EPOC Release 
+        5 device Unicode-capable. There currently are Chinese, Korean, and Japanese 
+        versions, complete with fonts and input methods for the target locale. 
+        It is quite possible to use multiple languages on a single device by installing 
+        the necessary input methods and fonts.For simplicity, in this documentation 
+        we have used the terms V1, V2 and V3 to describe different levels of Unicode 
+        support and localization. These are only code names, not product names. 
+        <a href="http://www.enfour.co.jp/psion/development/download/sdk/index_7.html" target="_blank">info 
+        Page </a></td>
+    </tr>
+    <tr> 
+      <td width="31%" height="36">size2.72Mb</td>
+    </tr>
+    <tr> 
+      <td width="31%" height="37"><a href="/Downloads/emulators/ufwins.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>February 20th 2005</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >TADS 
+          v2.5.03a</th>
+      <td rowspan="4">This is the EPOC port of Michael J. 
+        Roberts's TADS Interactive Fiction interpreter. Code was ported from the 
+        Unix version.To run this version you'll need STDLIB.SIS and ESHELL.EXE, 
+        both supplied in the ZIP file.Very little use is made of the the EPOC/EIKON 
+        environment, no graphics and not even any file dialogs so it'll keep you 
+        command line junkies happy.</td>
+    </tr>
+    <tr> 
+      <td width="31%">size176k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/Tads_epoc.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>18th January 2005</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" > Magnetic 
+          v1.0</th>
+      <td rowspan="4">Is an interpreter for the games written 
+        between 1985 and 1990 by Magnetic Scrolls, a text adventure producer based 
+        in London, England. Although they only produced seven games they have 
+        acquired legendary status for text adventures of as good quality as Infocom 
+        accompanied by exceptional graphics.</td>
+    </tr>
+    <tr> 
+      <td width="31%">size83k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/Magnetic_epoc.ZIP">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>14th January 2005</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >Level 
+          9 v 2.0</th>
+      <td rowspan="4">During the 1980s a small British company 
+        called Level 9, run by two brothers (Mike and Pete Austin), produced a 
+        series of text adventure games for avariety of computers. These games 
+        received considerable critical acclaim andare probably the best text adventures 
+        written for the small cassette based 8 bit computers common in Britain 
+        in the 80s.</td>
+    </tr>
+    <tr> 
+      <td width="31%">size77k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/Level9_epoc.ZIP">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>13th January 2005</td>
+    </tr>
+  </table>
+  <br>
+  <table width="33%" border="1">
+    <tr> 
+      <th>Emulators Released In 2000</th>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >ZXemul<a name="ZXemul"></a></th>
+      <td rowspan="4">The first ZX Spectrum emulator for 
+        Psion 3a, 3c and 3mx! which was written completely in assembler it has 
+        3 color modes (INK, Black &amp; White, Gray), 3 screen mapping modes (Pan, 
+        Shrink, Fit) with simulation of Kempston, Cursor, Fuller and Sinclair 
+        joysticks.</td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left">Size: 35.8k</div>      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left"><a href="../Downloads/emulators/zxemulfreeman.zip">Download</a>        </div>      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left"><em-2>Date:</em-2> 21st December 2000</div>      </td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >Quartz 
+        Emulator<a name="quartz"></a></th>
+      <td rowspan="4">This emulator is the Quartz which combines 
+        powerful applications with an easy interaction style, to appeal to the 
+        widest possible range of end-users. which has evolved from its EPOC Release 
+        5 roots it is a quarter-VGA portrait colour screen 240 pixels wide, 320 
+        pixels high, standard pixel size 0.24mm square . </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left">Size: 230.5 Mb</div>      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left"><a href="mailto:bioeddie.co.uk">Please contact me</a></div>      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left"><em-2>Date: </em-2>24th October 2000</div>      </td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >EMAME<a name="EMAME"></a></th>
+      <td rowspan="4"> 
+        <p>Stands for Multiple Arcade Machine Emulator. When used in conjunction 
+          with a game's data files (ROMs), MAME will more or less faithfully reproduce 
+          that game on a PC. MAME can currently emulate over 1500 classic arcade 
+          video games from the '70s and '80s. The ROM images that MAME utilizes 
+          are &quot;dumped&quot; from arcade games' original circuit-board ROM 
+          chips. MAME becomes the &quot;hardware&quot; for the games, taking the 
+          place of their original CPUs and support chips. Therefore, these games 
+          are NOT simulations, but the actual, original games that appeared in 
+          arcades. MAME's purpose is to preserve these early decades of video-game 
+          history. As gaming technology continues to rush forward, MAME prevents 
+          these important &quot;vintage&quot; games from being lost and forgotten.        </p>      </td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Size: </i>44.1k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/emame.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td rowspan="3"><em-2>Date: </em-2>7th October 2000</td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="right">Also download the <a href="../Downloads/emulators/emamesrc.zip">source 
+          code</a> </div>      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="right">Read the <a href="http://www.yipton.demon.co.uk/emame/latest/readme.html" target="_blank">readme 
+          file</a></div>      </td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >EGnuBoy<a name="EGnuBoy"></a></th>
+      <td rowspan="4"> 
+        <p>Is the EPOC version of GnuBoy, an open source emulator for the GameBoy 
+          classic and the GameBoy color. Performance is far from perfect on the 
+          Series 5mx, whereas it is acceptable for the Series 7/Netbook. Sound 
+          is not supported yet. read me file</p>
+        <p>Also download the <a href="../Downloads/emulators/egnuboysrc.zip">source 
+          code</a></p>      </td>
+    </tr>
+    <tr> 
+      <td width="31%">size44.1k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/egnuboy.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>7th October 2000</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        Goby Emulator Version 1.2<a name="goby"></a></th>
+      <td rowspan="3">The Nintendo GameBoy is recognized 
+        as the most successful game platform in history. Goby allows games written 
+        for Nintendo's Gameboy to be played on any palmtop computer that uses 
+        Symbian's EPOC Operating System<br>      </td>
+    </tr>
+    <tr> 
+      <td width="31%">size58.3k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/goby1-2.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%" height="22"><em-2>Date: </em-2>5th October 2000</td>
+      <td><strong>Download the <a href="../Downloads/emulators/gobyreggen.zip">Goby 
+        Registration Code Generator</a></strong></td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th  width="31%"> 
+        Linux Emulator 
+          p3nfs 5.4<a name="p3nfs"></a> </th>
+      <td rowspan="4" width="69%">This package lets you mount 
+        Psion drives on your Debian box over a serial cable. You can access all 
+        the files from the psion with the usual commands like tar, cp, vi & co. 
+        Works with Psion series 3 a/c/mx, 5/mx machines. it Has no been tested 
+        it on a Sienna yet. </td>
+    </tr>
+    <tr> 
+      <td width="31%"> 
+        <div align="left">Size: 61.5k</div>      </td>
+    </tr>
+    <tr> 
+      <td width="31%"> 
+        <div align="left"><a href="../Downloads/emulators/P3nfs.zip">Download</a></div>      </td>
+    </tr>
+    <tr> 
+      <td width="31%"> 
+        <div align="left"><em-2>Date: </em-2>18th September 2000</div>      </td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The XTM Geofox 
+        Emulator</th>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 174k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/g1xtm117.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date:</em-2> 4th August 2000</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        Spectrum Emulator Version 4.0<a name="Palmtopbv"></a></th>
+      <td rowspan="4"> 
+        <p>The Spectrum Emulator is a small application that is capable of 
+          running software developed for the Sinclair Spectrum </p>
+        <p align="left"><a href="psionprog.htm">Bioeddie's Psion - Spectrum 
+          Page</a></p>      </td>
+    </tr>
+    <tr> 
+      <td width="31%">size105k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/z80/z80.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>22th July 2000</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >Psi85<a name="Psi85"></a></th>
+      <td rowspan="4">Texas TI-85 is a calculator emulator 
+        for the Psion 5 and compatible handheld devices. I wrote it because I 
+        wanted to carry only one handheld device around at a time! </td>
+    </tr>
+    <tr> 
+      <td width="31%"><font color="#FFFFFF"><em-2>Size:</i> 
+        </font><font color="#FFFFFF">44.1k</font></td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/Psi85.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><font color="#FFFFFF"><em-2>Date: </em-2>20th 
+        July 2000</font></td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" > 
+        The Commodore 
+          64 Emulator      <a name="c64"></a></th>
+      <td rowspan="3">There are two different versions of 
+        this a multitasking Commodore 64 emulator, one in 16 color machines and 
+        the other in 256 for colour machines it is one of the few Open Source 
+        projects for the Epoc platform</td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 126k</td>
+    </tr>
+    <tr>
+      <td width="31%"><a href="../Downloads/emulators/Commodore_from_bioeddies-e32frodo_v025_16colors.zip">16 
+        colours/greys</a></td>
+    </tr>
+    <tr>
+      <td width="31%"><a href="../Downloads/emulators/Commodore_from_bioeddies-e32frodo_v025_256colors.zip">256 
+        colours</a></td>
+      <td> 
+        <div align="right"><a href="../Downloads/emulators/Commodore_from_bioeddies-e32frodo_v026_source.zip">complete 
+          source code</a></div>      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left"><em-2>Date: </em-2>19th June 2000</div>      </td>
+      <td> 
+        <div align="right"><a href="../Downloads/emulators/d64games.zip">Some 
+          Commodore 64games</a></div>      </td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >Psion 
+        Revo Emulator<a name="revo"></a></th>
+      <td rowspan="3">This download contains the Revo Emulator. 
+        It comprises of new and changed libraries which the Revo makes use of 
+        and allows you to run WINS to Emulate a Revo.<br>
+      See also<font color="#FFFFFF"> <a href="#UniFEP">UniFEP</a></font></td>
+    </tr>
+    <tr>
+      <td> 
+        <div align="left">Size: 4.3 Mb</div>      </td>
+    </tr>
+    <tr>
+      <td><a href="../Downloads/emulators/Revo.zip?openform">Download</a></td>
+    </tr>
+    <tr>
+      <td><em-2>Date: </em-2>5th April 2000</td>
+      <td> 
+        <div align="right">You will Also Need the <a href="emulators.htm#ER5">ER5 
+          Emulator</a> </div>      </td>
+    </tr>
+  </table>
+  <br>
+  <table width="33%" border="1">
+    <tr> 
+      <th>Emulators Released In 1999</th>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The XTM Psion 
+        Series 7 Emulator</th>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 116k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/s7xtm111.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>24 December 1999 </td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The XTM Psion 
+        Series 5 Emulator</th>
+      <td rowspan="4">Is a software emulation of a classic 
+        PC/XT computer for the EPOC32 operating system. Within this standard application 
+        for your handheld computer, you can run any software which would run on 
+        a low-end PC clone from the 1980's. </td>
+    </tr>
+    <tr> 
+      <td width="31%">Size: 116k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/s5xtm111.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date: </em-2>24 December 1999 </td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >Psion 
+        - Linux Emulator VT100h<a name="Vt10"></a></th>
+      <td rowspan="4">Full featured vt100 emulation for the 
+        EPOC32 platform. Now with TELNET and socket support!! And Series 5mx compatible      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left">Size: 80.9k</div>      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left"><a href="../Downloads/emulators/hermes05a.zip">Download</a></div>      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left"><em-2>Date: </em-2>17th July 1999</div>      </td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" ><a name="newton">Newton 
+        Keyboard Emulator</th>
+      <td rowspan="4">NewtKEmu, the Newton Keyboard Emulator, 
+        will allow you to control a Newton, a Pilot or a WindowsCE device with 
+        the keyboard of the PsionS5 by emulating the Newton keyboard protocol 
+        through the serial port.</td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left">Size: 19.3k</div>      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left"><a href="../Downloads/emulators/NewtKEmu.ZIP">Download</a></div>      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left"><em-2>Date: </em-2>29th May 1999</div>      </td>
+    </tr>
+  </table>
+  <br>
+  <table width="33%" border="1">
+    <tr> 
+      <th>Emulators Released In 1998</th>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th  width="31%"> 
+        Psion II Emulator      </th>
+      <td rowspan="4" width="69%">This is an accurate machine 
+        code (6303) level emulator for a variety of Psion Organiser 2 models, 
+        starting with the simplest 2 line display with 32k ROM building up to 
+        the 4 line display with up to 64k ROM and 96k RAM...</td>
+    </tr>
+    <tr> 
+      <td width="31%"> 
+        <div align="left">Size: 47.1k</div>      </td>
+    </tr>
+    <tr> 
+      <td width="31%"> 
+        <div align="left"><a href="../Downloads/emulators/org2beta.zip">Download</a></div>      </td>
+    </tr>
+    <tr> 
+      <td width="31%"> 
+        <div align="left"><em-2>Date: </em-2>20th September 1998</div>      </td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        Psi-apple Emulator<a name="Psiapple"></a></th>
+      <td rowspan="4">The first Apple emulator for Psion 
+        Series 5! It emulates an Apple + with 64K and 2 disk drives. The raw CPU 
+        benchmark is about 0.92 MHz on the Series 5, but the average speed is 
+        typically 0.4-0.8 MHz </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left">Size: 43.7k</div>      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left"><a href="../Downloads/Psiapple/psiapple.zip">Download</a></div>      </td>
+    </tr>
+    <tr> 
+      <td><em-2>Date: </em-2>3rd May 1998</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >The 
+        EPOC Emulator (ER5)<a name="ER5"></a></th>
+      <td rowspan="4"> 
+        <p>This Java Emulator provides a generic 
+          emulation of an EPOC Release 5 device, complete with customisable screen 
+          sizes including large (800x600), VGA (640x480), and half-VGA (640x240) 
+          in colour or greyscale.<br>
+          <br>
+          See Also <a href="#revo">Revo</a> Emulator and <font color="#FFFFFF"><a href="#UniFEP">UniFEP</a><br>
+          </font><em>Anyone wishing other versions of this emulator 
+          please contact me </em></p>      </td>
+    </tr>
+    <tr> 
+      <td height="30"> 
+        <div align="left">size20Mb</div>      </td>
+    </tr>
+    <tr> 
+      <td height="26"> 
+        <div align="left"><a href="../Downloads/emulators/Java5.08.041.zip">Download</a></div>      </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left"><em-2>Date: </em-2>18th August 1998</div>      </td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th  width="31%">Psion 
+          Series 3a Emulator German<a name="workabout"></a></th>
+      <td rowspan="4" width="69%"><strong>A German version of 
+        the 3a, with the assistance of the emulator you can read and write data 
+        from a Psion Series 3c on a PC. For example with the emulator it is possible 
+        to update your agenda also on a PC. Or when you want to add lots of addresses 
+        you can do this with the emulator on the PC. Not all applications from 
+        the Series 3c run in the emulator, but most of the applications do work 
+        well on the Series 3c emulator.</strong></td>
+    </tr>
+    <tr> 
+      <td width="31%">size 766k</td>
+    </tr>
+    <tr> 
+      <td width="31%"> <div align="left"><a href="../Downloads/emulators/wrkaemul.zip">Download</a></div></td>
+    </tr>
+    <tr> 
+      <td width="31%"> <em-2>Date:</em-2> 7 January 1998</td>
+    </tr>
+  </table>
+  <br>
+  <table width="33%" border="1">
+    <tr> 
+      <th>Emulators Released In 1997</th>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >Encore<a name="encore"></a></th>
+      <td rowspan="4"> <p>Allows you to run Doom on your 
+          Series 5</p>
+        <p>There is also a DOS application called <a href="/Downloads/emulators/makegame.zip">Make 
+      game</a> which allows you to play any Doom level on ENCORE.</p></td>
+    </tr>
+    <tr> 
+      <td width="31%">size46.7k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/encore02.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date:</em-2> 24th October 1997</td>
+    </tr>
+  </table>
+  <table width="89%" border="1" align="center" cellpadding="1" cellspacing="1" >
+    <tr> 
+      <th width="31%" >Psion48 V1 (Sibo 
+        Devices)</th>
+      <td rowspan="4"> <p><strong>The standard calculator application of all psion 
+          PDA is convenient for common usage, but it is not powerfull enough for 
+          engineers, students and scientific who often need advanced functions 
+          in order to manipulate matrices, compound numbers and so on. Psion48 
+          has the same commands as the HP48, and a similar graphical interface</strong></p></td>
+    </tr>
+    <tr> 
+      <td width="31%">size54k</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/psion48s.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date:</em-2> 26 September 1997</td>
+    </tr>
+  </table>
+  <table width="89%" border="1" align="center" cellpadding="1" cellspacing="1" >
+    <tr> 
+      <th width="31%" >Psion 
+        3c Emulator uk<a name="3c" id="3c"></a></th>
+      <td rowspan="4"> <p><strong>With the assistance of the emulator you can 
+          read and write data from a Psion Series 3c on a PC. For example with 
+          the emulator it is possible to update your agenda also on a PC. Or when 
+          you want to add lots of addresses you can do this with the emulator 
+          on the PC. Not all applications from the Series 3c run in the emulator, 
+          but most of the applications do work well on the Series 3c emulator.</strong><br>
+          <a href="/Downloads/dosbox.zip">Using Dosbox to run this emulator (all files included)</a></p></td>
+    </tr>
+    <tr> 
+      <td width="31%">size1.5mb</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/psion-series-3c-emulator-uk.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date:</em-2> 25 May 1997</td>
+    </tr>
+  </table>
+  <table width="89%" border="1" align="center" cellpadding="1" cellspacing="1" >
+    <tr> 
+      <th width="31%" >Psion 
+        3c Emulator Belgium<a name="3cbel" id="3cbel"></a></th>
+      <td rowspan="4"> <p><strong>A Belgium version of the 3c, with the assistance 
+          of the emulator you can read and write data from a Psion Series 3c on 
+          a PC. For example with the emulator it is possible to update your agenda 
+          also on a PC. Or when you want to add lots of addresses you can do this 
+          with the emulator on the PC. Not all applications from the Series 3c 
+          run in the emulator, but most of the applications do work well on the 
+          Series 3c emulator.</strong></p></td>
+    </tr>
+    <tr> 
+      <td width="31%">size1.3mb</td>
+    </tr>
+    <tr> 
+      <td width="31%"><a href="../Downloads/emulators/psion-series-3c-emulator-belgium.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td width="31%"><em-2>Date:</em-2> 25 May 1997</td>
+    </tr>
+  </table>
+  <br>
+  <table width="33%" border="1">
+    <tr> 
+      <th>Emulators Released In 1996</th>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >Psion 
+        Siena Emulator<a name="siena"></a></th>
+      <td rowspan="4">There is a lot of software available 
+        for the Psion Siena and if you don't have PsiWin, you may have thought 
+        that it was all out of your reach. But, its NOT! The Psion Siena Emulator 
+        allows you to try the software out, without any physical link to your 
+        Siena because it acts exactly like your Psion. Download this <a href="../Downloads/emulators/Sienabat.zip">Download 
+        the Bat File</a></td>
+    </tr>
+    <tr> 
+      <td> <div align="left">size867k</div></td>
+    </tr>
+    <tr> 
+      <td> <div align="left"><a href="../Downloads/emulators/siemul.zip">Download</a></div></td>
+    </tr>
+    <tr> 
+      <td><em-2>Date: </em-2>13th November 1996</td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th  width="31%">Psion 
+          Workabout Emulator<a name="workabout"></a></th>
+      <td rowspan="4" width="69%">If you don't have an actual 
+        WorkAbout, you can still try PsiLog and determine if it meets your needs. 
+        Psion Plc have an emulator that you can download. It isn't compatible 
+        with Windows 95, however, you must shut down Windows and use the emulator 
+        from the DOS prompt. <a href="../Downloads/emulators/Wkaboutbat.zip">Download 
+        the Bat File</a></td>
+    </tr>
+    <tr> 
+      <td width="31%">size: 895k</td>
+    </tr>
+    <tr> 
+      <td width="31%"> 
+        <div align="left"><a href="../Downloads/emulators/wrkaemul.zip">Download</a></div>      </td>
+    </tr>
+    <tr> 
+      <td width="31%"> 
+        <em-2>Date: </em2> 27th October 1996      </td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th  width="31%"> Psion 
+          Series 3a Emulator French<a name="french3a" id="french3a"></a></th>
+      <td rowspan="4" width="69%">Psion have produced an 
+        emulator of the Psion 3a which runs under native DOS (not in a DOS window) 
+        on the PC. Since most PC's these days are very powerful they are often 
+        able to pretend to be a Psion 3a which is much faster than a real one!      </td>
+    </tr>
+    <tr> 
+      <td width="31%">size</td>
+    </tr>
+    <tr> 
+      <td width="31%"> <div align="left"><a href="../Downloads/emulators/psion-series-3a-emulator-French.zip"><strong>Download</strong></a></div></td>
+    </tr>
+    <tr> 
+      <td width="31%"> <div align="left"><em-2>Date: </em-2>8 October 1996</div></td>
+    </tr>
+  </table>
+  <br>
+  <table width="33%" border="1">
+    <tr> 
+      <th>Emulators Released In 1995</th>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >Psion 
+        3 Acorn Emulator Dutch with KeyBoard<a name="Acorn"></a></th>
+      <td rowspan="4"><strong>With the assistance of the emulator 
+        you can read and write data from a Psion S3 on the PC. For example with 
+        the emulator it is possible to update your agenda also on a PC. Or when 
+        you want to add lots of addresses you can do this with the emulator on 
+        the PC. Not all applications from/for the Series 3 will work on the emulator. 
+        Programs which make use of floating point calculations or work with soundfiles 
+        can go wrong. However, most of the applications do work in the same way 
+        as on the Series 3.</strong></td>
+    </tr>
+    <tr> 
+      <td> <div align="left">size: 873k</div></td>
+    </tr>
+    <tr> 
+      <td><a href="../Downloads/emulators/Series-3a-Dutch-with-keyboard.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td> <div align="left"><em-2>Date: </em-2>2 January 1995</div></td>
+    </tr>
+  </table>
+  <br>
+  <table width="33%" border="1">
+    <tr> 
+      <th>Emulators Released In 1993</th>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th  width="31%"> 
+        Psion 3a Emulator<a name="3a"></a> </th>
+      <td rowspan="4" width="69%">Psion have produced an 
+        emulator of the Psion 3a which runs under native DOS (not in a DOS window) 
+        on the PC. Since most PC's these days are very powerful they are often 
+        able to pretend to be a Psion 3a which is much faster than a real one!<br>
+        <a href="../Downloads/emulators/S3abat.zip">Download the Bat File</a> 
+        <br>
+      <a href="/Downloads/dosbox.zip">Using Dosbox to run this emulator (all files included)</a> </td>
+    </tr>
+    <tr> 
+      <td width="31%"> 
+        <div align="left">size: 833k</div>      </td>
+    </tr>
+    <tr> 
+      <td width="31%"> 
+        <div align="left"><a href="../Downloads/emulators/s3aemul.zip">Download</a></div>      </td>
+    </tr>
+    <tr> 
+      <td width="31%"> 
+        <div align="left"><em-2>Date: </em-2>24th September 1993</div>      </td>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >Psion 
+        3 Acorn Emulator Dutch<a name="Acorn"></a></th>
+      <td rowspan="4">Was developed by Psion for testing 
+        the early versions of software in development for the Psion3, and as such, 
+        should be fairly sturdy and accurate. </td>
+    </tr>
+    <tr> 
+      <td> <div align="left">size: 320k</div></td>
+    </tr>
+    <tr> 
+      <td><a href="../Downloads/emulators/s3emuldu.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td> <div align="left"><em-2>Date: </em-2>7th March 1993</div></td>
+    </tr>
+  </table>
+  <br>
+  <table width="33%" border="1">
+    <tr> 
+      <th>Emulators Released In 1992</th>
+    </tr>
+  </table>
+  <table width="89%" align="center" border="2" >
+    <tr> 
+      <th width="31%" >Psion 
+        3 Acorn Emulator<a name="Acorn"></a></th>
+      <td rowspan="4">Was developed by Psion for testing 
+        the early versions of software in development for the Psion3, and as such, 
+        should be fairly sturdy and accurate. <br>
+      <a href="/Downloads/dosbox.zip">Using Dosbox to run this emulator (all files included)</a></td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left">Size: 320k</div>      </td>
+    </tr>
+    <tr> 
+      <td><a href="../Downloads/emulators/s3emul.zip">Download</a></td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="left"><em-2>Date: </em-2>22nd October 1992</div>      </td>
+    </tr>
+  </table>
+  <br>
+  <br>
+  <div align="center"><font face="Times New Roman, Times, serif">If you 
+    would like to be added to this to these pages please contact <a href="mailto:bioeddie@gmail.com">me</a> <br>
+    </font> <br>
+    <table width="248" border="1">
+      <tr>
+        <th><div align="center"><font face="Times New Roman, Times, serif"><a href="../index.htm">Bioeddies 
+          home page</a></th>
+      </tr>
+    </table>
+  </div>
+  <h4 align="center">This web site and all its contents are 
+    Copyright property of Bioeddie's &copy; 1984  - 2006 </h4>
+</div>
+</BODY>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

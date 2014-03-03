@@ -1,0 +1,2323 @@
+====================<http://www.acornemus.freeserve.co.uk/>====================
+<html><head><title>David McEwen's Acorn Emulator Ports Page</title></head>
+
+<frameset cols="140, *" frameborder="0" border=0 frameborder="no" framespacing="no">
+	<frame src="buttons.htm" scrolling=auto frameborder="0" frameborder="no" framespacing="0" noresize name="buttons">
+	<frame src="main.htm" scrolling=auto frameborder="0" frameborder="no" framespacing="0" noresize name="main">
+</frameset>
+
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.business.u-net.com/~backyard/msx-roms.htm>====================
+<html>
+<head>
+<title>
+B.E.L. - MSX Roms</title>
+
+<meta name="description" content="The place to go for all things emulator
+related.  Arcade, SNES, Genesis, PCEngine etc...  You name it, we've got
+links for it!  100's of rom links too.">
+
+<meta name="keywords" content="roms, snes, emulator, genesis, rom, emulators, emulation, game, backyard, nes, emu, atari, neogeo, arcade, mega drive, raine, retrocade, links, playstation, amiga,
+c64, msx, 5200, 2600, romz, sega, pcengine, tg16, bel, intellivision, genecyst, x68000, n64, mame, callus, neorage, pskye, psemu, bleem, saturn, system16, console, snes9x, zsnes,
+computer, nintendo, sega, gamegear, gameboy, vcs, coleco, lynx, spectrum, vectrex, games, nesticle, rage, UltraHLE">
+
+<style>
+<!--
+a:link    {color:cyan;text-decoration:none}
+a:visited {color:blue;text-decoration:none}
+a:hover   {color:yellow; text-decoration:none}
+-->
+</style>
+
+</head>
+<a name="top">
+<body bgcolor=black text=white link=#00DDFF vlink=#0044DD alink=#0044DD>
+<center><font face=Arial>
+
+<img src="gfx/bellogo.jpg" alt="B.E.L."><br>
+
+<br>
+<font face=verdana color=#0044DD size=+2><b>
+MSX
+<br>
+Rom Sites
+</b></font>
+<br><br>
+
+<font size=-1>
+If you know of a site which you think should be listed here please
+<a href="submit.htm">send it to me</a>.<br>
+I'll need the Web/ftp address and the name of the site.<br>
+Also, please report any <a href="broken.htm">broken links</a> to me.
+</font>
+
+<br><br>
+
+<table border=1 bordercolor=#0000E5 cellpadding=5>
+<tr>
+  <td bgcolor=#000088>
+    <font size=-1><b>
+Last cleaned on
+    </b></font>
+  </td>
+  <td bgcolor=#000088>
+    <font size=-1 color=#FFDD44><b>
+06MAR99
+    </b></font>
+  </td>
+  <td bgcolor=#000088>
+    <font size=-1><b>
+info supplied by
+    </b></font>
+  </td>
+  <td bgcolor=#000088>
+    <font size=-1><b>
+<a href="mailto:fur_q@backyard.u-net.com">Fur-Q</a>
+    </b></font>
+  </td>
+</tr>
+</table>
+
+<br>
+<font size=-1 color=#FFDD44><img src="gfx/newsite.gif" border=0 alt="New"> = New Site</font>
+<br>
+
+<br><table border=0 cellpadding=5 width=60%><tr><td bgcolor=#000088>
+<font size=+1 color=cyan><center>
+Site Name
+</font></center></td></tr>
+
+<tr><td bgcolor=#000055><b><center>
+<a href="http://www.emumania.com">
+EmuMania
+</a></b></center></td></tr>
+
+<tr><td bgcolor=#000055><b><center>
+<a href="ftp://ftp.funet.fi/pub/msx/games/">
+Finnish University FTP
+</a></b></center></td></tr>
+
+<tr><td bgcolor=#000055><b><center>
+<a href="ftp://jazz.snu.ac.kr/pub/msx/roms/megarom/">
+Jazz FTP server
+</a></b></center></td></tr>
+
+<tr><td bgcolor=#000055><b><center>
+<a href="ftp://ftp.komkon.org/pub/MSX/Games/">
+Komkon's MSX Archive
+</a></b></center></td></tr>
+
+<tr><td bgcolor=#000055><b><center>
+<a href="http://www.xs4all.nl/~wicherts/msx.htm">
+MSX Nostalgia
+</a></b></center></td></tr>
+
+<tr><td bgcolor=#000055><b><center>
+<a href="http://dynamo.geol.msu.ru/msx/">
+Possi's Konamis MSX page
+</a></b></center></td></tr>
+
+</table>
+<br><font size="1">
+<a href="belmain.htm">[Home]</a>
+</font>
+<br><br>
+<font size="-2">(C) 1999 Cheeky Monkey Productions</font>
+</center>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://fms.komkon.org/fMSX/>====================
+<HTML>
+<HEAD>
+<TITLE>fMSX: Portable MSX Emulator</TITLE>
+<LINK REL="STYLESHEET" HREF="../style.css" TYPE="text/css">
+
+<SCRIPT TYPE="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-69384-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga   = document.createElement('script');
+    ga.type  = 'text/javascript';
+    ga.async = true;
+    ga.src   = ('https:'==document.location.protocol? 'https://ssl':'http://www')+'.google-analytics.com/ga.js';
+    var s    = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ga, s);
+  })();
+ 
+  (function() { 
+    var po   = document.createElement('script'); 
+    po.type  = 'text/javascript';
+    po.async = true; 
+    po.src   = 'https://apis.google.com/js/plusone.js'; 
+    var s    = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(po, s); 
+  })(); 
+</SCRIPT>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#000080" VLINK="#606060">
+
+<TABLE ALIGN=LEFT BORDER=0>
+<TR>  
+<TD CLASS="Icon" STYLE="border: 1px solid black;" ALIGN=MIDDLE VALIGN=BOTTOM>
+<A HREF="../EmuWindows/"><IMG BORDER=0 SRC="../Icons/MSX.gif" WIDTH=32 HEIGHT=32><BR><BR>fMSX</A>
+</TD>
+<TD CLASS="Icon" ALIGN=MIDDLE VALIGN=BOTTOM>
+<A HREF="../VGB/"><IMG BORDER=0 SRC="../Icons/GB.gif" WIDTH=32 HEIGHT=32><BR><BR>VGB</A>
+</TD>
+<TD CLASS="Icon" ALIGN=MIDDLE VALIGN=BOTTOM>
+<A HREF="../VGBA/"><IMG BORDER=0 SRC="../Icons/GBA.gif" WIDTH=32 HEIGHT=32><BR><BR>VGBA</A>
+</TD>
+<TD CLASS="Icon" ALIGN=MIDDLE VALIGN=BOTTOM>
+<A HREF="../iNES/"><IMG BORDER=0 SRC="../Icons/NES.gif" WIDTH=32 HEIGHT=32><BR><BR>iNES</A>
+</TD>
+<TD CLASS="Icon" ALIGN=MIDDLE VALIGN=BOTTOM>
+<A HREF="../MG/"><IMG BORDER=0 SRC="../Icons/SMS.gif" WIDTH=32 HEIGHT=32><BR><BR>MG</A>
+</TD>
+<TD CLASS="Icon" ALIGN=MIDDLE VALIGN=BOTTOM>
+<A HREF="../ColEm/"><IMG BORDER=0 SRC="../Icons/CV.gif" WIDTH=32 HEIGHT=32><BR><BR>ColEm</A>
+</TD>
+<TD CLASS="Icon" ALIGN=MIDDLE VALIGN=BOTTOM>                                 
+<A HREF="../Speccy/"><IMG BORDER=0 SRC="../Icons/ZXS.gif" WIDTH=32 HEIGHT=32><BR><BR>Speccy</A>
+</TD>
+<TD CLASS="Icon" ALIGN=MIDDLE VALIGN=BOTTOM>
+<A HREF="../ATI85/"><IMG BORDER=0 SRC="../Icons/TI85.gif" WIDTH=32 HEIGHT=32><BR><BR>AlmostTI</A>
+</TD>
+</TR>
+</TABLE>
+
+<TABLE ALIGN=RIGHT BORDER=0>
+<TR>
+<TD CLASS="Icon" ALIGN=MIDDLE VALIGN=BOTTOM>
+<A HREF="../EmuWindows/"><IMG BORDER=0 SRC="../Icons/Windows.gif" WIDTH=32 HEIGHT=32><BR><BR>Windows</A>
+</TD>   
+<TD CLASS="Icon" ALIGN=MIDDLE VALIGN=BOTTOM>
+<A HREF="../EmuAndroid/"><IMG BORDER=0 SRC="../Icons/Android.png" WIDTH=32 HEIGHT=32><BR><BR>Android</A>
+</TD>
+<TD CLASS="Icon" ALIGN=MIDDLE VALIGN=BOTTOM>
+<A HREF="../EmuSymbian/"><IMG BORDER=0 SRC="../Icons/Phone.gif" WIDTH=32 HEIGHT=32><BR><BR>Symbian</A>
+</TD>
+<TD CLASS="Icon" ALIGN=MIDDLE VALIGN=BOTTOM>
+<A HREF="../EMUL8/"><IMG BORDER=0 SRC="../Icons/Bottle.gif" WIDTH=32 HEIGHT=32><BR><BR>How?</A>
+</TD>
+<TD CLASS="Icon" ALIGN=MIDDLE VALIGN=BOTTOM>
+<A HREF="../"><IMG BORDER=0 SRC="../Icons/Person.gif" WIDTH=32 HEIGHT=32><BR><BR>Who?</A>
+</TD>
+<TD CLASS="Icon" ALIGN=MIDDLE VALIGN=BOTTOM>
+<A HREF="http://groups.google.com/group/emul8"><IMG BORDER=0 SRC="../Icons/Pencil.gif" WIDTH=32 HEIGHT=32><BR><BR>Tell!</A>
+</TD>
+</TR>
+</TABLE>
+
+<BR CLEAR=ALL>
+
+<P>
+<CENTER>
+<H1><IMG ALT="fMSX" ALIGN=MIDDLE SRC="fMSX.png" WIDTH=425 HEIGHT=154></H1>
+<H4>MSX emulator by <A HREF="../">Marat Fayzullin</A></H4>
+</CENTER>
+</P>
+
+<P ALIGN=CENTER>
+<A HREF="#Announcements">News</A>&nbsp;&nbsp;|
+&nbsp;<A HREF="fMSX.html">Manual</A>&nbsp;&nbsp;|
+&nbsp;<A HREF="#Downloads">Downloads</A>&nbsp;&nbsp;|
+&nbsp;<A HREF="#Screenshots">Screenshots</A>&nbsp;&nbsp;|
+&nbsp;<A HREF="../EmuWindows/">Windows</A>&nbsp;&nbsp;|
+&nbsp;<A HREF="../EmuWindows/">MSDOS</A>&nbsp;&nbsp;|
+&nbsp;<A HREF="../MSX/">MSX Info</A>
+</P>
+<HR>
+
+<P ALIGN=LEFT> 
+<g:plusone annotation="inline"></g:plusone> 
+</P> 
+
+<A NAME="Announcements">
+<CENTER><H1>News</H1></CENTER>
+</A>
+
+<P ALIGN=JUSTIFY>
+<IMG ALIGN=RIGHT ALT="Screenshot" VSPACE=15 HSPACE=15 SRC="snaps/MSX2.png" WIDTH=280 HEIGHT=266>
+<FONT COLOR="#FF0000"><B>The Latest Version of fMSX is 3.7!</B></FONT>
+<BR>
+On December 31 2013, I have made the
+<B><A HREF="fMSX37-Windows-bin.zip" onClick="_gaq.push(['_trackEvent','fMSX','Download','Windows']);">Windows version of fMSX</A>
+free</B> for everyone to
+<A HREF="fMSX37-Windows-bin.zip" onClick="_gaq.push(['_trackEvent','fMSX','Download','Windows']);">download</A>
+and use. As of January 29 2014,
+<A HREF="fMSX37.zip"><B>fMSX 3.7 source code</B></A>, including the
+<A HREF="fMSX37.zip" onClick="_gaq.push(['_trackEvent','fMSX','Download','Unix']);">Unix port</A>,
+is also available. Make sure you also check the 
+<A HREF="https://market.android.com/details?id=com.fms.fmsx" onClick="_gaq.push(['_trackEvent','fMSX','Download','Android']);"><B>fMSX-Android</B></A>.
+fMSX-MSDOS and fMSX-Symbian have been discontinued, due to the death
+of respective platforms. I am going to keep the last binaries here,
+for historical purposes, but will not be able to help you installing
+or using them.
+</P>
+<P ALIGN=JUSTIFY>
+The complete list of features and the list of new features and fixes can 
+be found in the <A HREF="fMSX.html">documentation</A>. Please, <B>look
+for bugs</B> and submit bug reports and fixes to the
+<A HREF="http://groups.google.com/group/EMUL8/">discussion group</A> or
+directly <A HREF="mailto:marat@komkon.org">to me</A>.
+</P>
+
+<BR CLEAR=ALL>
+
+<P ALIGN=JUSTIFY>
+<IMG ALIGN=RIGHT ALT="Screenshot" VSPACE=15 HSPACE=15 SRC="snaps/Menu.png" WIDTH=280 HEIGHT=266>
+<B>What is fMSX?</B>
+<BR>
+<B>fMSX</B> is a program that emulates
+<A HREF="../MSX/">MSX</A>,
+<A HREF="../MSX/">MSX2</A>, and
+<A HREF="../MSX/">MSX2+</A>
+8bit home computers. It runs MSX/MSX2/MSX2+ software on many different 
+platforms including Windows, Android, Symbian, MacOS, Unix, MSDOS, 
+AmigaOS, etc. I started developing <B>fMSX</B> in 1993 when there were 
+only two other MSX emulators available, both exclusively for MSDOS. From 
+the very beginning, I developed <B>fMSX</B> as a <B>portable</B> program 
+able to run on many different computers. The initial development, for 
+example, was done on DEC Alpha workstations running Unix. Since then, 
+<B>fMSX</B> has seen quite a lot of updates and been ported to many 
+systems. It is still being developed, although not as actively as before 
+because most features are pretty much complete now.
+</P>
+
+<P ALIGN=JUSTIFY>
+As I made the source code available for others to see from the very 
+beginning, many MSX emulators derived from the <B>fMSX</B> code have 
+appeared in the past years and still continue to pop up every now and 
+then. My copyright policy is simple: you can use my code for 
+<B>non-profit</B> purposes as long as you give me a proper <B>credit</B> 
+with my name, URL, etc. Using the whole code as it is and calling it a 
+different name is not permitted though, just like any other form of 
+plagiarism. If you wish to use <B>fMSX</B> source code for 
+<B>commercial</B> purposes, you will have to
+<A HREF="mailto:marat@komkon.org"><B>license</B></A> it from me. Latest 
+<B>fMSX</B> news, information, and source code are always available from
+<CENTER>
+<A HREF="http://fms.komkon.org/fMSX/"><B>http://fms.komkon.org/fMSX/</B></A>
+</CENTER>
+</P>
+
+<P ALIGN=JUSTIFY>
+More information about <B>fMSX</B> including FAQ, porting information, 
+command line options, key bindings, and other useful stuff, can be found 
+in the <A HREF="fMSX.html">fMSX documentation</A>. Japanese readers may 
+want to check out the
+<A HREF="http://member.nifty.ne.jp/tamaki/fmsx/">Japanese fMSX Pages</A>
+by Tamaki Katsunobu containing translation of this page, documentation, 
+and a lot of other information.
+</P>
+
+<BR CLEAR=ALL>
+
+<P ALIGN=JUSTIFY>
+<IMG ALIGN=RIGHT ALT="Screenshot" VSPACE=15 HSPACE=15 SRC="snaps/Aleste.png" WIDTH=280 HEIGHT=266>
+<B>Licensing fMSX</B>
+<BR>
+The <B>fMSX</B> source code is written in portable C and will work on any 
+sufficiently fast computing platform, be it a personal computer, a 
+videogame console, a PDA, a cell phone, a set-top box, a DVD or MP3 
+player, or even a digital camera. Some examples of <B>fMSX</B> being 
+ported to various platforms can be found below on this page. If your 
+company intends to use MSX emulation in its products, you can 
+<A HREF="mailto:marat@komkon.org"><B>license</B></A> 
+the fMSX source code from me to use it for commercial purposes. I am also 
+available for consulting work in the software emulation, embedded 
+programming, and other fields. See
+<A HREF="../Resume.html">my resume</A> and
+<A HREF="mailto:marat@komkon.org">contact me</A>
+if interested.
+</P>
+
+<BR CLEAR=ALL>
+
+<A NAME="Downloads">
+<CENTER><H1>Downloads</H1></CENTER>
+</A>
+
+<TABLE CLASS="Notice">
+<TR><TH>At This Site</TH></TR>
+<TR>
+<TD>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/binary.gif">
+<A HREF="fMSX37.zip"><B>fMSX 3.7</B></A>
+source code and related files (core + Unix/X port)
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="https://play.google.com/store/apps/details?id=com.fms.fmsx.deluxe" onClick="_gaq.push(['_trackEvent','fMSX','Buy','Android']);"><B>fMSX Android</B></A>
+for Android 2.2 or newer (also see 
+<A HREF="https://play.google.com/store/apps/details?id=com.fms.fmsx" onClick="_gaq.push(['_trackEvent','fMSX','Download','Android']);">free version</A>)
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/binary.gif">
+<A HREF="fMSX37-Windows-bin.zip" onClick="_gaq.push(['_trackEvent','fMSX','Download','Windows']);"><B>fMSX 3.7 Windows</B></A>
+for all versions of Windows
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/binary.gif">
+<A HREF="fMSX37.zip" onClick="_gaq.push(['_trackEvent','fMSX','Download','Unix']);"><B>fMSX 3.7 Unix</B></A>
+in source code form
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/binary.gif">
+<A HREF="fMSX35-S60e3-bin.sis" onClick="_gaq.push(['_trackEvent','fMSX','Download','S60']);"><B>fMSX 3.5 Symbian</B></A>
+for Nokia S60 3rd Edition
+(see <A HREF="../EmuSymbian/">instructions</A>)
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/binary.gif">
+<A HREF="fMSX35-UIQ3-bin.sis" onClick="_gaq.push(['_trackEvent','fMSX','Download','UIQ']);"><B>fMSX 3.5 Symbian</B></A>
+for Sony Ericsson UIQ3
+(see <A HREF="../EmuSymbian/">instructions</A>)
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/binary.gif">
+<A HREF="fmsx_3.5.5-1_armel.deb" onClick="_gaq.push(['_trackEvent','fMSX','Download','Maemo']);"><B>fMSX 3.5.5 Maemo</B></A>
+for Nokia N800/N810 tablets (or
+<A HREF="../EmuMaemo/fmsx.install" onClick="_gaq.push(['_trackEvent','fMSX','Install','Maemo']);">install directly</A>
+to device)
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<B><A HREF="../MSX/">MSX Page</A></B>
+information about MSX computers and software for them
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/folder.gif">
+<B><A HREF="../EMUL8/">EMUL8 Page</A></B>
+documents, tools, libraries, Z80 core, etc.
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/folder.gif">
+<B><A HREF="../People.html">The Address Book</A></B>
+look up email addresses here
+</TD>
+</TR>
+</TABLE>
+
+<TABLE CLASS="Notice">
+<TR><TH>Other Stuff</TH></TR>
+<TR>
+<TD>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/binary.gif">
+<A HREF="fMSX28-ArnoldMetselaar-Drivers.tar.gz">Improved X11 screen drivers</A>
+from Arnold Metselaar
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/binary.gif">
+<A HREF="DiskUtilities16.tar.gz">Disk management tools</A>
+by Arnold Metselaar
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/binary.gif">
+<A HREF="http://www.watanabe.nuie.nagoya-u.ac.jp/student/sitoh/msx/fmsx/index-e.html">X11 screen drivers and Tk/Tcl frontend</A>
+by Shigeki Itoh
+</TD>
+</TR>
+</TABLE>
+
+<TABLE CLASS="Notice">
+<TR><TH>fMSX Ports to...</TH></TR>
+<TR>
+<TD>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://personal.inet.fi/private/riihimaki/s60/">Symbian/Series60</A>
+by Juha Riihimaki
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://www.bannister.org/software/fmsx.htm">Macintosh</A>
+by Richard Bannister
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://www.emulation.net/msx/">Macintosh</A>
+by John Stiles
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://www5e.biglobe.ne.jp/~happytim/fmsx/">Macintosh</A>
+by Koichi Nishida
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://madeira.cc.hokudai.ac.jp/RD/toku/fmsx.html">Windows</A>
+by Teturo Tokuyama
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://www.komkon.org/~dekogel/fmsx.html">MSDOS</A>
+by Marcel de Kogel
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://psp.akop.org/fmsx/">Sony PSP</A>
+by Akop Karapetyan
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://www.xs4all.nl/~roderick/fmsx/">Amiga</A>
+by Hans Guijt
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://www.lizjay.demon.co.uk/david/fmsx.htm">Acorn</A>
+by David McEwen
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://www.holding.pi.net/~tratax/yaroze/products.html">PlayStation</A>
+by Henk-Jan Ober
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://www.nodus.ne.jp/~ghost/msx/fmsxmg2.html">NetBSD/HPCMIPS</A>
+by Hiroyuki Yanai
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://byron.ext.telia.se/vms/vmsporting.htmlx">OpenVMS</A>
+by Peter Ljungberg
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://www.joyrex.tk/">SDL Toolkit</A>
+by Vincent van Dam
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/binary.gif">
+<A HREF="fMSXOS2.zip">OS/2 (1.5)</A>
+by Alexander Perezhogin
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://www.bluemsx.com/">Windows</A>
+by Daniel Vik
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://my.dreamwiz.com/sharksym/">Windows</A>
+by Yeongman Seo
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://www.sirius.tutkie.tut.ac.jp/~iida/fmsx/">FMTowns</A>
+by Tsuyoshi Iida (in Japanese)
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://www.d4.dion.ne.jp/~tmsugi/">MSDOS</A>
+by Anonymous (in Japanese)
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://www-rd.center.osaka-u.ac.jp/~yamasaki/fmsx/">X68000</A>
+by Yasushi Yamasaki (in Japanese)
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://www.kuai.se/~bellman/html/xfreeapps.html">Xfree86-OS/2</A>
+by Krister Bergman
+<BR>
+<IMG ALT="[#]" ALIGN=MIDDLE SRC="../icons/text.gif">
+<A HREF="http://hp.vector.co.jp/authors/VA005750/fmsx/index_e.html">PC-9801</A>
+by Murakami Reki
+</TD>
+</TR>
+</TABLE>
+
+<TABLE CLASS="Notice">
+<TR><TH COLSPAN=2>Required ROM Images</TH></TR>
+<TR>
+<TD WIDTH="10%"><B><I>File</I></B></TD>
+<TD WIDTH="90%"><B><I>Description</I></B></TD>
+</TR>
+<TR><TD><A HREF="src/MSX.ROM">MSX.ROM</A></TD><TD>MSX BIOS and BASIC</TD></TR>
+<TR><TD><A HREF="src/MSX2.ROM">MSX2.ROM</A></TD><TD>MSX2 BIOS and BASIC</TD></TR>
+<TR><TD><A HREF="src/MSX2EXT.ROM">MSX2EXT.ROM</A></TD><TD>MSX2 ExtROM</TD></TR>
+<TR><TD><A HREF="src/MSX2P.ROM">MSX2P.ROM</A></TD><TD>MSX2+ BIOS and BASIC</TD></TR>
+<TR><TD><A HREF="src/MSX2PEXT.ROM">MSX2PEXT.ROM</A></TD><TD>MSX2+ ExtROM</TD></TR>
+<TR><TD><A HREF="src/FMPAC.ROM">FMPAC.ROM</A></TD><TD>FMPAC BIOS</TD></TR>
+<TR><TD><A HREF="src/DISK.ROM">DISK.ROM</A></TD><TD>DiskROM (BDOS)</TD></TR>
+<TR><TD><A HREF="src/MSXDOS2.ROM">MSXDOS2.ROM</A></TD><TD>MSX-DOS 2</TD></TR>
+<TR><TD><A HREF="src/PAINTER.ROM">PAINTER.ROM</A></TD><TD>Yamaha Painter</TD></TR>
+<TR><TD><A HREF="src/KANJI.ROM">KANJI.ROM</A></TD><TD>Kanji Font</TD></TR>
+</TABLE>
+
+<A NAME="Screenshots">
+<CENTER><H1>Screenshots</H1></CENTER>
+</A>
+
+<CENTER>
+<P>
+<IMG SRC="snaps/Debugger.png" ALT="[Picture]" WIDTH=280 HEIGHT=266><BR>
+<I>Built-in Debugger</I>
+</P>
+<P>
+<IMG SRC="snaps/Arsene.png" ALT="[Picture]" WIDTH=280 HEIGHT=266><BR>
+<I>Arsene</I>
+</P>
+<P>
+<IMG SRC="snaps/GreenBeret.png" ALT="[Picture]" WIDTH=280 HEIGHT=266><BR>
+<I>Green Beret</I>
+</P>
+<P>
+<IMG SRC="snaps/ToppleZip.png" ALT="[Picture]" WIDTH=280 HEIGHT=266><BR>
+<I>Topple Zip</I>
+</P>
+<P>
+<IMG SRC="snaps/Usas.png" ALT="[Picture]" WIDTH=280 HEIGHT=266><BR>
+<I>Treasure of Usas</I>
+</P>
+<P>
+<IMG SRC="snaps/RiseOut.png" ALT="[Picture]" WIDTH=280 HEIGHT=266><BR>
+<I>Rise Out</I>
+</P>
+<P>
+<IMG SRC="snaps/Hinotori.png" ALT="[Picture]" WIDTH=280 HEIGHT=266><BR>
+<I>Hinotori (Fire Bird)</I>
+</P>
+<P>
+<IMG SRC="snaps/MazeOfGalious.png" ALT="[Picture]" WIDTH=280 HEIGHT=266><BR>
+<I>Maze of Galious</I>
+</P>
+<P>
+<IMG SRC="snaps/RasterOverjump.png" ALT="[Picture]" WIDTH=280 HEIGHT=266><BR>
+<I>Raster Overjump Demo from Mantra</I>
+</P>
+<P>
+<IMG SRC="snaps/PhilipsEase.png" ALT="[Picture]" WIDTH=552 HEIGHT=486><BR>
+<I>Philips Ease Desktop</I>
+</P>
+<P>
+<IMG SRC="snaps/Painter.png" ALT="[Picture]" WIDTH=280 HEIGHT=266><BR>
+<I>Yamaha Painter</I>
+</P>
+<P>
+<IMG SRC="snaps/HoleInOnePro.png" ALT="[Picture]" WIDTH=280 HEIGHT=266><BR>
+<I>Hole in One Pro</I>
+</P>
+</CENTER>
+
+<HR>
+<P ALIGN=CENTER>
+<A HREF="#Announcements">News</A>&nbsp;&nbsp;|
+&nbsp;<A HREF="fMSX.html">Manual</A>&nbsp;&nbsp;|
+&nbsp;<A HREF="#Downloads">Downloads</A>&nbsp;&nbsp;|
+&nbsp;<A HREF="#Screenshots">Screenshots</A>&nbsp;&nbsp;|
+&nbsp;<A HREF="../EmuWindows/">Windows</A>&nbsp;&nbsp;|
+&nbsp;<A HREF="../EmuWindows/">MSDOS</A>&nbsp;&nbsp;|
+&nbsp;<A HREF="../MSX/">MSX Info</A>
+</P>
+<I>&copy; Copyright by <A HREF="../">Marat Fayzullin</A></I>
+</BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://nlmsx.generation-msx.nl/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN">
+<html>
+<head>
+  <meta name="keywords" content="NLMSX MSX MSX1 MSX2 MSX2+ Turbo-R Emulators ROMS Forum Mailinglist">
+  <meta name="generator" content="Ibuildings E-business Platform">
+  <meta name="robots" content="index,follow">
+  <meta name="revisit-after" content="10 days">
+  <meta name="Language" content="nl">
+  <meta name="description" content="NLMSX is an msx/msx2/msx2+ emulator that is based upon fMSX 2.0b made by Marat Fayzullin and is being developed by Frits Hilderink, a former member of MSX Computer Club Enschede in the Netherlands.">
+  <meta name="copyright" content="Generation MSX">
+  <title>NLMSX - MSX Emulator</title>
+  <LINK REL="shortcut icon" HREF="nlmsx.ico">
+</head>
+<frameset rows="120,*" border="0" frameborder="0" framespacing="0">
+  <frame src="top.html" name="top" frameborder="no" scrolling="no" framespacing="0" noresize marginwidth="0" marginheight="0">
+  <frame src="news.html" name="main" frameborder="no"  framespacing="0" noresize>
+</frameset>
+<noframes>
+<body>
+<p>Om deze pagina te kunnen bekijken, moet je over een browser beschikken
+die frames ondersteunt, bijvoorbeeld:
+<a href="http://home.netscape.com">Netscape Navigator</a> of
+<a href="http://www.microsoft.com/ie">Microsoft Internet Explorer</a>.</p>
+</body>
+</noframes>
+</frameset>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://home.kabelfoon.nl/~vincentd/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>Vincent's MSX Software</title>
+  </head>
+
+  <body bgcolor="#eeeeee">
+
+    <table width="100%">
+	<tr>
+	  <td colspan=2 bgcolor="#ffffff">
+	    <font size="+4"><b>MSX Software</b></font>
+	  </td>
+	</tr>
+
+	<tr><td>&nbsp;</td></tr>
+
+	<tr><td colspan=2>
+	This page contains some software that I made for MSX. If you don't know what MSX is,
+	<a href="http://www.msx.org" TARGET="_top">this</a> is a good place to start.
+	</tr></td>
+
+	<tr><td>&nbsp;</td></tr>
+
+	<tr>
+	  <td colspan=2 bgcolor="#ffffff"><b>fMSX-SDL</b></td>
+	</tr>
+	<tr>
+	  <td colspan=2>
+      fMSX-SDL is a <a href="http://www.libsdl.org" TARGET="_top">SDL</a> (Simple Direct
+      Media Library) port of Marat Fayzullin's 
+      <a href="http://www.komkon.org/fms/fMSX/" TARGET="_top">fMSX</a> emulator. This port
+      is based on fMSX 2.6 and includes both MSX-AUDIO and MSX-MUSIC
+      emulation (in stereo if desired).
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    <a href="download/fmsx-sdl-2.6.0.40.zip">fmsx-sdl-2.6.0.40.zip</a>
+	  </td>
+	  <td>fMSX-SDL 2.6.0.40 Win32 binary</td>
+	</tr>
+	<tr> 
+	  <td>
+	    <a href="download/fmsx-sdl-2.7.0.40src.tar.gz">fmsx-sdl-2.7.0.40src.tar.gz</a>
+	  </td>
+	  <td>fMSX-SDL 2.7.0.40 source (patch for the original fMSX source)</td>
+ 	</tr>
+	<tr>
+	  <td>
+	    <a href="download/fmsx-sdl-2.6.0.40beos.zip">fmsx-sdl-2.6.0.40beos.zip</a>
+	  </td>
+	  <td>fMSX-SDL 2.6.0.40 BeOS binary</td>
+	</tr>
+
+	<tr><td>&nbsp;</td></tr>
+
+	<tr>
+	  <td colspan=2 bgcolor="#ffffff"><b>CAS Tools</b></td>
+	</tr>
+	<tr>
+	  <td colspan=2>
+      CAS Tools is a set of tools which can read sampled MSX tapes and convert 
+      them to the standard .cas format and back to .wav samples. This package
+      consist of three tools: wav2cas, cas2wav and casdir. Examples of converted
+      tapes are located 
+      <A HREF="http://www.funet.fi/pub/msx/games/tape_cas_images/" TARGET="_top">here</A>.
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    <a href="download/castools-1.3.zip">castools-1.3.zip</a>
+	  </td>
+	  <td>CAS Tools Win32 binaries</td>
+	</tr>
+	<tr> 
+	  <td>
+	    <a href="download/castools-1.3.tar.gz">castools-1.3.tar.gz</a>
+	  </td>
+	  <td>CAS Tools source</td>
+ 	</tr>
+
+	<tr><td>&nbsp;</td></tr>
+
+	<tr>
+	  <td colspan=2 bgcolor="#ffffff"><b>DSK2ROM conversion</b></td>
+	</tr>
+	<tr>
+	  <td colspan=2>
+	  DSK2ROM is a package containing a custom diskrom which can be used to
+	  concatenate .dsk image to. The result will be a romfile. Additionally
+	  it contains a (pc) tool that can compress images to make them smaller,
+	  though the romfile alone is enough to do (uncompressed) conversions
+	  on any platform (including MSX-DOS2).
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    <a href="download/dsk2rom-0.80.zip">dsk2rom-0.80.zip</a>
+	  </td>
+	  <td>Win32 binary and MSX rom file.</td>
+	</tr>
+	<tr> 
+	  <td>
+	    <a href="download/dsk2rom-0.80.tar.gz">dsk2rom-0.80.tar.gz</a>
+	  </td>
+	  <td>DSK2ROM source (tooling only)</td>
+  	</tr>
+  <!--
+	<tr> 
+	  <td>
+	    <a href="download/dsk2rom-kernel-0.80.zip">dsk2rom-kernel-0.80.zip</a>
+	  </td>
+	  <td>DSK2ROM source (kernel only)</td>
+  	</tr>
+  -->
+
+	<tr><td>&nbsp;</td></tr>
+
+	<tr>
+	  <td colspan=2 bgcolor="#ffffff"><b>Various</b></td>
+	</tr>
+	<tr>
+	  <td>
+	    <a href="download/grdump-0.5d.zip">grdump-0.5d.zip</a>
+	  </td>
+	  <td>Dump MSX cartridges using the MSX Game Reader (source + Win32-binary)</td>
+	</tr>
+	<tr>
+	  <td>
+	    <a href="download/midiframework-0.7a.zip">midiframework-0.7a.zip</a>
+	  </td>
+	  <td>Framework to create MIDI applications on the MSX (source)</td>
+	</tr>
+	<tr>
+	  <td>
+	    <a href="download/list.zip">list.zip</a>
+	  </td>
+	  <td>View contents of MSX BASIC files (source + MSDOS-binary)</td>
+	</tr>
+	<tr>
+	  <td>
+	    <a href="download/wb2txt.zip">wb2txt.zip</a>
+	  </td>
+	  <td>View contents of <a href="http://www.xs4all.nl/~wbsoft/msx/">WBASS2</a> files (source + Win32 & MSX-DOS binaries)</td>
+        </tr>
+
+	<tr>
+	  <td>
+	    <a href="golvellius/">Golvellius Map</a>
+	  </td>
+	  <td>Map of the action rpg Golvellius</td>
+	</tr>
+
+    </table>
+
+    <br>
+
+    <hr>
+        This site is maintained by Vincent van Dam. 
+  </body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.jcec.co.uk/Msxemu.htm>====================
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<title>Japanese Computer Emulation Centre : MSX emulators</title>
+<meta NAME="GENERATOR" CONTENT="Microsoft FrontPage 3.0">
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<table border="0" width="700">
+  <tr>
+    <td width="137" bgcolor="#FDFBD9" valign="top">
+      <p align="left"><font face="Arial"
+    color="#0000A0"> <b><font color="#660066">Navigation&nbsp; &gt; </font></b></font></p>
+      <p align="left"><b><a href="index.html"> <font face="Verdana, Arial, Helvetica, sans-serif" size="2">Home 
+        Page</font> </a></b></p>
+      <p align="left"><b><font face="Arial" color="#0000A0"> <font color="#660066">Sections&nbsp; 
+        &gt; </font> </font></b></p>
+      <p align="left"><b><a href="msx_sys.htm"> <font face="Verdana, Arial, Helvetica, sans-serif" size="2">System 
+        Info.</font> </a></b></p>
+      <p align="left"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+        Emulation </font></b></p>
+      <p align="left"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="Msx_gam.htm"> 
+        Games </a></font></b></p>
+      <p align="left"> <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+        </font></b> 
+    </td>
+    <td width="10" valign="top"></td>
+    <td width="540" valign="top"><h2 align="center"><img src="zilog.gif" width="95"
+    height="99" alt="zilog.gif (3352 bytes)"><br>
+     <font face="Arial">Emulators &amp; System Files</font> </h2>
+    <p align="center">&nbsp;</p>
+      <table border="0" cellspacing="1" width="540" >
+        <tr bgcolor="#1E47B5"> 
+          <td valign="top" colspan="2" height="18"><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="2"> 
+            <b>BlueMSX (Windows)</b></font></td>
+        </tr>
+        <tr bgcolor="#E6ECFB"> 
+          <td valign="top" height="18" bgcolor="#E6ECFB"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="2"> 
+            release number </font></b></td>
+          <td valign="top" height="18"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+            <a href="http://www.bluemsx.com/">V2.7</a> <font size="1">(December 
+            2006)</font></font></td>
+        </tr>
+        <tr bgcolor="#E6ECFB"> 
+          <td valign="top" height="18" bgcolor="#E6ECFB"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="2"> 
+            emulation level </font></b></td>
+          <td valign="top" height="18"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+            Excellent emulator, great user interface and many many advanced features.</font></td>
+        </tr>
+        <tr> 
+          <td height="18" colspan="2" valign="top"><font face="Arial" color="#008080"> 
+            &nbsp; &nbsp; </font></td>
+        </tr>
+        <tr bgcolor="#1E47B5"> 
+          <td valign="top" colspan="2" height="18"><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="2"> 
+            <b>OpenMSX by</b> <b>Anon (Windows &amp; Linux)</b></font></td>
+        </tr>
+        <tr bgcolor="#E6ECFB"> 
+          <td valign="top" height="18"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="2"> 
+            release number </font></b></td>
+          <td valign="top" height="18" bgcolor="#E6ECFB"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+            <a href="http://openmsx.sourceforge.net/">0.6.2 <font size="1">(April 
+            2007)</font></a></font></td>
+        </tr>
+        <tr bgcolor="#E6ECFB"> 
+          <td valign="top" height="17"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="2"> 
+            emulation level &nbsp;&nbsp;</font></b></td>
+          <td valign="top" height="17" bgcolor="#E6ECFB"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+            Excellent. Very accurate.</font></td>
+        </tr>
+        <tr> 
+          <td height="18" colspan="2" valign="top"><font face="Arial" color="#008080"> 
+            &nbsp; </font></td>
+        </tr>
+        <tr bgcolor="#1E47B5"> 
+          <td valign="top" colspan="2" height="18"><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="2"> 
+            <b>RuMSX by</b> <b>Rudolf Lechleitner (Windows)</b></font></td>
+        </tr>
+        <tr bgcolor="#E6ECFB"> 
+          <td width="204" valign="top" height="18"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="2"> 
+            release number </font></b></td>
+          <td width="327" valign="top" height="18" bgcolor="#E6ECFB"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+            <a href="http://members.EUnet.at/lexlechz/">0.40 <font size="1">(Feb 
+            2004)</font></a></font></td>
+        </tr>
+        <tr bgcolor="#E6ECFB"> 
+          <td width="204" valign="top" height="17"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="2"> 
+            emulation level &nbsp;&nbsp;</font></b></td>
+          <td width="327" valign="top" height="17" bgcolor="#E6ECFB"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+            Excellent : MSX 1,2,2+ and even Turbo R </font></td>
+        </tr>
+        <tr> 
+          <td height="18" colspan="2" valign="top"><font face="Arial" color="#008080"> 
+            &nbsp; </font></td>
+        </tr>
+        <tr bgcolor="#1E47B5"> 
+          <td valign="top" height="18" colspan="2"><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="2"> 
+            <b>Fmsx by Marat Fayzullin </b> <b>(DOS, Mac, Linux &amp; Windows)</b></font></td>
+        </tr>
+        <tr bgcolor="#E6ECFB"> 
+          <td width="204" valign="top" height="18"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="2"> 
+            release number </font></b></td>
+          <td width="327" valign="top" height="18"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+            <a href="http://www.komkon.org/fms/fMSX/">3.4</a> </font></td>
+        </tr>
+        <tr bgcolor="#E6ECFB"> 
+          <td width="204" valign="top" height="18"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="2"> 
+            platform </font></b></td>
+          <td width="327" valign="top" height="18"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+            DOS &amp; Windows</font></td>
+        </tr>
+        <tr bgcolor="#E6ECFB"> 
+          <td width="204" valign="top" height="18"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="2"> 
+            emulation level </font></b></td>
+          <td width="327" valign="top" height="18"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+            Excellent MSX 1 &amp; 2 emulation (shareware). The original MSX emulator 
+            which has been in development for over 10 years!</font></td>
+        </tr>
+        <tr> 
+          <td valign="top" colspan="2"><b><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+            </font></b></td>
+        </tr>
+        <tr bgcolor="#1E47B5"> 
+          <td valign="top" colspan="2" height="18"><strong><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif">System 
+            Roms and OS</font></strong></td>
+        </tr>
+        <tr bgcolor="#E6ECFB"> 
+          <td width="204" valign="top" height="18"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="2"> 
+            system rom &amp; disk images </font></b></td>
+          <td width="327" valign="top" height="18"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="msx_sys.zip"> 
+            MSX System Roms</a></font></td>
+        </tr>
+        <tr> 
+          <td valign="top" colspan="2" height="38">&nbsp;</td>
+        </tr>
+      </table>
+    <table border="0" width="540" cellspacing="1" cellpadding="2">
+      <tr>
+        <td width="540"><hr>
+            <p> <font face="Verdana, Arial, Helvetica, sans-serif" size="2">News 
+              &amp; Contributions : <strong><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a
+        href="mailto:JCEC_1@yahoo.co.uk">JCEC_1@yahoo.co.uk</a></font></strong> 
+              </font>
+          </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.komkon.org/~dekogel/fmsx.html>====================
+<html>
+
+<head>
+<title>fMSX MS-DOS distribution site</title>
+<link REL="stylesheet" HREF="style.css" TYPE="text/css">
+
+<meta name="Microsoft Border" content="tb, default"></head>
+
+<body><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<div class="header">
+
+<p>fMSX MS-DOS distribution site</p>
+</div>
+
+<hr>
+</td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><!--msnavigation--><td valign="top">
+
+<p align="center"><img src="images/gorby.gif" alt="Gorby Pipeline" class="logo" WIDTH="512" HEIGHT="384"></p>
+<div class="light">
+
+<p><big><strong>About fMSX 2.0 (10-4-99):</strong> </big>A while ago, Marat released fMSX
+2.0b for the Unix platform. This is a <em>beta</em> version containing lots of new bugs. I
+<em>will</em> port this version to MS-DOS, but I'm too busy at the moment to do so. <em>Please,
+don't e-mail me asking when fMSX MS-DOS 2.0 will be released, as I do not know this.</em>
+I ignore such e-mails.</p>
+
+<p>Marat has made an MS-Windows version of fMSX himself, which might be of interest. For
+more information, go to <a href="http://www.komkon.org/fms/fMSX/fMSXWindows.html">Marat's
+fMSX MS-Windows page</a>.</p>
+</div>
+
+<hr>
+<div class="light">
+
+<p>fMSX is a portable emulator for the MSX2 Home Computer. Original code was written by <a href="mailto:fms@cs.umd.edu">Marat Fayzullin</a>, additional coding and porting to the
+MS-DOS platform was done by me. </p>
+</div>
+
+<hr>
+<div class="dark">
+
+<h1>fMSX MS-DOS and utilities</h1>
+</div><div class="light">
+
+<dl>
+  <dt><a href="files/msx/fmsx-dos.zip">fMSX MS-DOS 1.6b2.a (5-9-97)</a></dt>
+  <dt><a href="files/msx/fmsx-dos.txt">fMSX MS-DOS 1.6b2.a Documentation</a></dt>
+  <dt><a href="http://www.hucard.com/ohemulator/fmsxdosj.txt">fMSX MS-DOS Documentation</a> <img src="images/jp_small.gif" alt="Japanese" WIDTH="24" HEIGHT="16"></dt>
+  <dt><a href="http://www.msxsite.hpg.ig.com.br/emul/fmsxdosp.zip">fMSX MS-DOS Documentation</a>
+    <img src="images/br_small.gif" alt="Brazilian Portuguese" WIDTH="24" HEIGHT="16"></dt>
+  <dt><a href="files/msx/fmsx-dos_es.txt">fMSX MS-DOS Documentation</a> <img src="images/es_small.gif" alt="Spanish" WIDTH="24" HEIGHT="16"></dt>
+  <dt><a href="files/msx/msxtape.lzh">MSXTAPE</a></dt>
+  <dd>A program to create tape images.</dd>
+  <dt><a href="files/msx/msxtape.txt">MSXTAPE documentation</a></dt>
+  <dt><a href="files/dcopy.zip">DCOPY</a></dt>
+  <dd>This is a utility that can be used to create disk images.</dd>
+  <dt><a href="files/msx/diskutil.zip">RDDSK and WRDSK</a></dt>
+  <dd>Utilities to read/write disk images written by <a href="http://www.math.utwente.nl/~metselaa/msx/diskutil.html">Arnold Metselaar</a>.</dd>
+  <dt><a href="files/msx/psg2mid.zip">PSG2MID 2.01</a></dt>
+  <dd>A PSG Sound File to MIDI converter.</dd>
+  <dt><a href="files/msx/psg2mids.zip">PSG2MID 2.01 sources</a></dt>
+  <dt><a href="files/msx/msx.sbk.zip">MSX.sbk 1.00</a></dt>
+  <dd>Sound font file for use with MIDI files created by PSG2MID.</dd>
+  <dt><a href="http://www.rtg.se/~niclas/msx/psg2ym/">PSG2YM</a></dt>
+  <dd>A program that converts PSG files to YM files to be used with the YM-player <a href="http://leonard.oxg.free.fr/">ST-Sound</a>, written by <a href="mailto:niclas@rtg.se">Niklas
+    Pennskog</a>.</dd>
+  <dt><a href="ftp://ftp.komkon.org/pub/MSX/fMSX/YAYA12c.exe">YAYA 1.2c</a></dt>
+  <dd>MS-DOS based front end for fMSX-DOS written by <a href="mailto:scatman@maya.dei.unipd.it">Francesco Maida</a>.</dd>
+  <dt><a href="ftp://ftp.komkon.org/pub/MSX/fMSX/MSXMenu102.zip">MSX Menu 1.02</a></dt>
+  <dd>Windows 3.1 based front end for fMSX MS-DOS written by <a href="mailto:lars.lidgard@ban.aid.no">Lars Lindgard</a>.</dd>
+</dl>
+</div>
+
+<hr>
+<div class="dark">
+
+<h1>Other pages of interest</h1>
+</div><div class="light">
+
+<ul>
+  <li>My very own <a href="classic.html">classic system development page</a> features some MSX
+    productions.</li>
+  <li>A large MSX related archive is located at <a href="ftp://ftp.komkon.org/pub/EMUL8/MSX/">ftp.komkon.org</a>.</li>
+  <li><a href="http://www.komkon.org/fms/MSX/">Marat Fayzullin's MSX page</a> is a great
+    resource for all MSX lovers.</li>
+  <li>Additional information on fMSX and ports to various other platforms can be found on the <a href="http://www.komkon.org/fms/fMSX/">fMSX Distribution Site</a>.</li>
+</ul>
+</div>
+
+<p>&nbsp; 
+<!--msnavigation--></td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+<hr>
+<div class="light">
+
+<p align="center"><nobr>[&nbsp;<a href="mission.html">Back</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="index.htm">Home</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="classic.html">Next</a>&nbsp;]</nobr></p>
+
+<p>© <a href="mailto:dekogel@giganda.komkon.org">Marcel de Kogel</a>. All comments are
+welcome.</p>
+
+<p><em>Page last updated: 19-08-01</em></p>
+</div>
+
+<p>&nbsp;</p>
+</td></tr><!--msnavigation--></table></body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.lexlechz.at/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=8"/>
+  <meta name="keywords" content="LexLechz, Lex Lechz, Rudolf Lechleitner, Rudi Lechleitner">
+  <title>LexLechz.at</title>
+  <link rel="stylesheet" href="default.css" type="text/css">
+  <meta name="google-site-verification" content="E6658_Z4j9He7c2RYPs0u8JjuEwo9UAnordrUb8sd94"/>
+</head>
+<body BACKGROUND="images/headline.jpg" style="margin: 0">
+ <table border="0" cellspacing="6" cellpadding="0" width="100%">
+ <tr>
+  <td colspan="2" height="48px">&nbsp;</td>
+ </tr>
+ <tr>
+  <td>Welcome to the homepage of...</td>
+  <td rowspan="2" align="right" valign="middle"><b>Rudolf Lechleitner</b></td>
+ </tr>
+ <tr>
+  <td>Willkommen auf der Homepage von...</td>
+ </tr>
+ </table>
+
+ <br><br><!-- workaround for IE8 beta1 -->
+
+ <table border="0" width="100%">
+ <tr style="height:20em" valign="middle">
+  <td align="center">
+   <table border="0" cellpadding="10" width="250em">
+    <tr>
+     <td align="center"><a href="en/index.html">English</a></td>
+     <td align="center"><a href="de/index.html">Deutsch</a></td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ </table>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.icongames.com.br/msxfiles/redmsx/>====================
+<HTML>
+<HEAD>
+<TITLE>RedMSX</TITLE>
+<STYLE TYPE="text/css">
+   Body { font-family:Arial; font-size: 12pt; line-height: 10pt }
+   TABLE.menu { color:#FFFFFF; background-color:#900000; line-height:12pt;  }
+   TD.news { color:#000000; background-color:#e0e0e0; line-height:12pt; }
+   A.menu { color:#A0A0A0; text-decoration:none }
+   A:Hover.menu { color:#FFFFFF; text-decoration:none }
+   A.news { color:#000000; text-decoration:none }
+   A:Hover.news { color:#FFFFFF; text-decoration:none }
+   A.home { color:#C0C0C0; text-decoration:none }
+</STYLE>
+</HEAD>
+<BODY BGCOLOR="#A71919">
+
+<DIV ID="Logo" STYLE="POSITION:Absolute; TOP:4; LEFT:0; z-index:1">
+<IMG SRC="redmsx.png" ALT="RedMSX Logo">
+</DIV>
+
+<DIV ID="counter" STYLE="POSITION:Absolute; TOP:0; LEFT:500; z-index:10">
+<TABLE ALIGN=RIGHT BORDER=0>
+<TD>
+<!-- Begin Nedstat Basic code -->
+<!-- Title: RedMSX -->
+<!-- URL: http://www.icongames.com.br/msxfiles/redmsx/ -->
+<script language="JavaScript" type="text/javascript" src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript"type="text/javascript">
+<!--
+  nedstatbasic("ACj1SQWkNuGzOKLTxCPd8wZ5gjfA", 0);
+  // -->
+  </script>
+  <noscript>
+  <a target="_blank" href="http://v1.nedstatbasic.net/stats?ACj1SQWkNuGzOKLTxCPd8wZ5gjfA"><img
+  src="http://m1.nedstatbasic.net/n?id=ACj1SQWkNuGzOKLTxCPd8wZ5gjfA"
+  border="0" nosave width="18" height="18"
+  alt="Nedstat Basic - Free web site statistics"></a>
+  </noscript>
+<!-- End Nedstat Basic code -->
+</TD></TABLE>
+</DIV>
+
+<DIV ID="Menu-bkg" STYLE="POSITION:Absolute; background-color:#900000; WIDTH:100%; HEIGHT:18pt; TOP:40; LEFT:0; z-index:0">
+&nbsp;
+</DIV>
+
+<DIV ID="Menu" STYLE="POSITION:Absolute; background-color:#900000; WIDTH:80%; TOP:40; LEFT:60; z-index:0">
+<TABLE ALIGN=RIGHT WIDTH=100% border=0 bgcolor="#900000">
+<TR>
+<TD WIDTH=20% ALIGN=CENTER><A HREF="index.htm" class="menu"> News</A></TD>
+<TD WIDTH=20% ALIGN=CENTER><A HREF="about.htm" class="menu"> About</A></TD>
+<TD WIDTH=20% ALIGN=CENTER><A HREF="shots.htm" class="menu"> Images</A></TD>
+<TD WIDTH=20% ALIGN=CENTER><A HREF="downl.htm" class="menu"> Download</A></TD>
+<TD WIDTH=20% ALIGN=CENTER><A HREF="faq.htm" class="menu"> F.A.Q.</A></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV ID="Version" STYLE="POSITION:Absolute; TOP:63; LEFT:60%; z-index:0">
+<TABLE ALIGN=RIGHT><TD><FONT COLOR=#C0C0C0 SIZE=-1>Version 1.4 - 26, Mar, 2005</FONT></TD></TABLE>
+</DIV>
+
+<DIV ID="Centro" STYLE="POSITION:Absolute; background-color:#FFFFFF; TOP:100; LEFT:50; WIDTH:90%; z-index:2">
+<BR>
+<TABLE ALIGN=CENTER WIDTH=90%><TD>
+  <TABLE WIDTH=100% BORDER=1 CLASS="menu" CELLPADDING=8>
+  <TR><TD><B>[26/03/2005] RedMSX 1.4</B></TD></TR>
+  <TR><TD class="news">
+  New version of RedMSX, what's new:
+  <UL>
+  <LI>cas support! (only not zipped for now)
+  <LI>more mappers supported (R-Type now runs!)
+  <LI>Option to enable/disable sprites collisions
+  <LI>Option to enable/disable sprite rendering
+  <LI>And support to lightgun! The only format I know (sorry), which is used by Duck Hunt! by Karoshi Corp.
+  So now, Duck Hunt is playable! I'm still looking for info on the ASCII lightgun, so I can make Dungeon Hunter work...
+  <LI>A little more of speed hacks when using directdraw render
+  </UL>
+  With this, RedMSX is the first emulator to emulate lightgun! Happy Easter!
+  <BR><BR></TD></TR>
+  </TABLE><BR>
+  <TABLE WIDTH=100% BORDER=1 CLASS="menu" CELLPADDING=8>
+  <TR><TD><B>[09/18/2004] RedMSX 1.3</B></TD></TR>
+  <TR><TD class="news">
+  New version of RedMSX, what's new:
+  <UL>
+  <LI>magnified sprites, for all supported screens!
+  <LI>fixed the bug on disk history for disk A and B
+  <LI>several Direct-X speed hacks
+  <LI>now drag and drop of zip files also works 
+  <LI>mounting directories as dsk implemented
+  <LI>horizontal scroll on screen 4/5 (almost finished: now Space Manbow for MSX2+ and Sonyc both works!)
+  </UL>
+  And since I got a lot of emails calling this emulator a "ripoff", saying that
+  it's useless and worst stuff, there will be no more source relases. Live with it.
+  <BR><BR></TD></TR>
+  </TABLE><BR>
+  <TABLE WIDTH=100% BORDER=1 CLASS="menu" CELLPADDING=8>
+  <TR><TD><B>[12/12/2003] RedMSX 1.2</B></TD></TR>
+  <TR><TD class="news">
+  New version, now in sync with blueMSX 1.0.5 (but with different routines to
+  load zip files), this version has other improvements: great speed up and
+  multiple screenshot support (Press. "Print Screen" key).<BR><BR>
+  ** UPDATE **<BR>
+  I have made a mistake, and uploaded a wrong binary version. New one is online,
+  and if you downloaded the old one, please delete it and use the new one.
+  <BR><BR></TD></TR>
+  </TABLE><BR>
+  <TABLE WIDTH=100% BORDER=1 CLASS="menu" CELLPADDING=8>
+  <TR><TD><B>[12/01/2003] RedMSX 1.1a</B></TD></TR>
+  <TR><TD class="news">
+  Inspite of some bad comments, a new version of RedMSX is born.<BR>
+  This one have support for zipped dsk files. The emulator will extract
+  it to where RedMSX is, and then read the dsk from there, giving full read/write
+  possibilities to it. Get the updated version on the download section.<BR><BR>
+  ** UPDATE ** A small bug has been corrected, the emulator wouldn't find the
+  ROM or DSK file insite the zip if the extension was in uppercase. Now fixed.
+  <BR><BR></TD></TR>
+  </TABLE><BR>
+  <TABLE WIDTH=100% BORDER=1 CLASS="menu" CELLPADDING=8>
+  <TR><TD><B>[12/01/2003] RedMSX 1.0</B></TD></TR>
+  <TR><TD class="news">
+  First version released today... early x-mas gift?<BR>
+  This version is in sync with blueMSX 1.0.4, so you should have no
+  problems when running it.<BR><BR>
+  To learn a little bit more about RedMSX, take a look at the about section.<BR>
+  To see what it looks like, go to the images section.<BR>
+  RedMSX is freeware, and the source code is available at the download section.<BR>
+  Any doubts, check out (you better not) the FAQ!<BR><BR>
+  Fudebas, enjoy!
+  <BR><BR></TD></TR>
+  </TABLE>
+</TD></TABLE>
+<BR>
+<DIV ID="copyright" STYLE="POSITION:absolute; LEFT:0; margin-bottom: auto; padding-top: 1em; padding-bottom: 1em; margin-top: 1em">
+<TABLE WIDTH=100% BORDER=0>
+<TD ALIGN=CENTER><FONT COLOR=#C0C0C0 SIZE=-1>2003 &copy; <A HREF="http://www.icongames.com.br/msxfiles/" CLASS="home" TARGET=_new>The MSX Files</A> - SLotman</FONT></TD>
+</TABLE>
+</DIV>
+</DIV>
+
+</BODY>
+</HTML>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://openmsx.sourceforge.net/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>openMSX &raquo; Home</title>
+  <meta http-equiv="content-type"
+        content="text/html; charset=UTF-8" />
+  <meta name="keywords"
+        content="openmsx msx emulator"/>
+  <link href="styles/keys_style.css" 
+        rel="stylesheet"
+        type="text/css"
+        title="Keyboard" />
+  <link href="styles/blue_style.css"
+        rel="alternate stylesheet"
+        type="text/css"
+        title="Blue" />
+<!--
+  <link href="styles/yellow_style.css"
+        rel="alternate stylesheet"
+        type="text/css"
+        title="Yellow" />
+-->
+  <script type="text/javascript" 
+         src="styleswitcher.js"></script>
+</head>
+<body>
+  <div id="title">
+    <img src="./images/penguin.gif" alt="[*]" />
+    <h1>openMSX</h1>
+    <div id="subtitle">
+      the MSX emulator that aims for perfection
+    </div>
+  </div>
+  <div id="navigation">
+    <div id="navilinks">
+      <h1>Navigation</h1>
+      <div class="linkblock">
+        <ul>
+          <li class="this"><a href="index.php">Home</a></li>
+          <li><a href="docs.php">Documentation</a></li>
+          <li><a href="screenshots.php">Screenshots</a></li>
+          <li><a href="features.php">Features</a></li>
+          <li><a href="3rdparty.php">3rd Party</a></li>
+          <li><a href="contact.php">Contact</a></li>
+          <li><a href="http://www.msx.org/forum/semi-msx-talk/openmsx">Forum (MRC)</a></li>
+          <li><a href="http://sourceforge.net/projects/openmsx/">Project&nbsp;Page</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="navidownloads">
+      <h1><a href="http://sourceforge.net/project/platformdownload.php?group_id=38274">Download</a></h1>
+      <div class="linkblock">
+        <h2>openMSX</h2>
+        <ul>
+          <li><a href="http://downloads.sourceforge.net/openmsx/openmsx-0.10.0-windows-vc-x86-bin-msi.zip">
+            0.10.0 / Win 32bit (install)</a></li>
+          <li><a href="http://downloads.sourceforge.net/openmsx/openmsx-0.10.0-windows-vc-x86-bin.zip">
+            0.10.0 / Win 32bit (zip)</a></li>
+          <li><a href="http://downloads.sourceforge.net/openmsx/openmsx-0.10.0-windows-vc-x64-bin-msi.zip">
+            0.10.0 / Win 64bit (install)</a></li>
+          <li><a href="http://downloads.sourceforge.net/openmsx/openmsx-0.10.0-windows-vc-x64-bin.zip">
+            0.10.0 / Win 64bit (zip)</a></li>
+          <li><a href="http://downloads.sourceforge.net/openmsx/openmsx-0.10.0-mac-x86_64-bin.dmg">
+            0.10.0 / Mac OS X 64bit</a></li>
+          <li><a href="http://downloads.sourceforge.net/openmsx/openmsx-0.10.0-dingux-bin.zip">
+            0.10.0 / Dingux (zip)</a></li>
+          <li><a href="http://downloads.sourceforge.net/openmsx/openmsx-0.10.0.tar.gz">
+            0.10.0 / Source code</a></li>
+        </ul>
+<!--
+        <ul>
+          <li><a href="http://openmsx.sourceforge.net/temp/openmsx-SVN-snapshot.tar.gz">SVN snapshot</a></li>
+        </ul>
+-->
+        <h2>Catapult</h2>
+        <ul>
+          <li><a href="http://downloads.sourceforge.net/openmsx/openmsx-catapult-0.10.0.tar.gz">
+            0.10.0 / Source code</a></li>
+        </ul>
+<!--
+        <ul>
+          <li><a href="http://openmsx.sourceforge.net/temp/catapult-SVN-snapshot.tar.gz">SVN snapshot (of rewrite)</a></li>
+        </ul> 
+-->
+        <h2>Debugger</h2>
+        <ul>
+          <li><a href="http://openmsx.sourceforge.net/temp/openmsx-debugger-win32-bin-snapshot.zip">
+              Snapshot / Win 32bit (MinGW build, zip)</a></li>
+          <li><a href="http://openmsx.sourceforge.net/temp/openmsx-debugger-latest-snapshot-windows-x86-vc-bin.zip">
+              Snapshot / Win 32bit (VC build, zip)</a></li>
+          <li><a href="http://openmsx.sourceforge.net/temp/openmsx-debugger-latest-snapshot-windows-x64-vc-bin.zip">
+              Snapshot / Win 64bit (VC build, zip)</a></li>
+          <li><a href="http://openmsx.sourceforge.net/temp/Qt-4.4.3-x86.zip">
+              Qt libs / Win 32bit (zip)</a></li>
+          <li><a href="http://openmsx.sourceforge.net/temp/Qt-4.4.3-x64.zip">
+              Qt libs / Win 64bit (zip)</a></li>
+        </ul>
+        <h2>Development builds</h2>
+        <ul>
+          <li><a href="http://openmsx.fixato.net/">FiXato's openMSX Builder site</a></li>
+        </ul>
+        <!--
+        <ul>
+          <li><a href="#">Source</a></li>
+        </ul>
+        <ul>
+          <li><a href="http://openmsx.sourceforge.net/temp/openmsx-debugger-SVN-snapshot.tar.gz">SVN snapshot / Source code</a></li>
+          <li><a href="http://openmsx.sourceforge.net/temp/openmsx-debugger-win32-bin-snapshot.zip">SVN snapshot / Win32</a></li>
+        </ul>
+        -->
+        <!-- <p>Note: snapshots may be (very) outdated!</p> -->
+      </div>
+    </div>
+    <div id="sflink">
+      <h1>
+        <a href="http://sourceforge.net/projects/openmsx"><img src="http://sflogo.sourceforge.net/sflogo.php?group_id=38274&type=12" width="120" height="30" border="0" alt="Get openMSX at SourceForge.net. Fast, secure and Free Open Source software downloads" /></a>
+        <script type="text/javascript" src="http://www.ohloh.net/p/5389/widgets/project_thin_badge.js"></script>  
+      </h1>
+    </div>
+    <div id="styleswitcher">
+      <ul>
+        <li>
+          <a href="#"
+             onclick="setActiveStyleSheet('Keyboard'); return false;">
+          <img src="images/theme-keys.png"
+               alt="Theme: keys"/></a></li>
+        <li>
+          <a href="#"
+             onclick="setActiveStyleSheet('Blue'); return false;">
+          <img src="images/theme-blue.png"
+               alt="Theme: blue"/></a></li>
+        <!--
+        <li>
+          <a href="#"
+             onclick="setActiveStyleSheet('Yellow'); return false;">
+          <img src="images/theme-yellow.png"
+               alt="Theme: yellow"/></a></li>
+         -->
+      </ul>
+    </div>
+  </div>
+
+  <div id="content">
+    <h1>News</h1>
+    <h2>
+      <span class="date">2014 January 5</span>
+      openMSX 0.10.0 released
+    </h2>
+    <p>
+    openMSX 0.10.0&mdash;StillNotOne&mdash;adds many larger and smaller features, but most outstanding are: cycle accurate VDP command engine timing, an Android port, subdirectory support for dir-as-disk and Neos MA-20 support. These features meant a lot of work was done in practically all parts of the code, but at the same time we also freshened up much of the code using many of the new C++11 language features. All in all, it was time to release this stuff officially... Together with openMSX an updated version of Catapult, our user-friendly GUI, was released. We actually made some improvements to it this time, mostly code cleanups to make it easier to help us with this subproject, but also some small features, like ability to set up multiple IPS files, control video source and disable sprite settings and DMK support in the file filters, next to some smaller bug fixes. Please <a href="http://sourceforge.net/projects/openmsx/files/openmsx/0.10.0/README_release-notes.txt/view">read the release notes</a> for details of the openMSX changes.
+    </p>
+    <h2>
+      <span class="date">2013 April 23</span>
+      openMSX moves to Git
+    </h2>
+    <p>
+    Today we moved all openMSX projects to Git (still on SourceForge.net), after having used Subversion for about 6 and a half years. Git is now the state of the art on source code management and rapidly getting more popular. Anyway, this means that you have to use a different way to get the latest openMSX sources now: click on <a href="https://sourceforge.net/p/openmsx/_list/git">one of the repos</a> to see the instructions at the top. The Subversion repository will be deleted soon. Also, we've converted the project on SF.net from classic to Allura. You'll notice that when visiting <a href="https://sourceforge.net/projects/openmsx/">the project page</a>, especially when you check the new Tickets system, e.g. the <a href="https://sourceforge.net/p/openmsx/bugs/">bug tracker</a>.
+    </p>
+    <h2>
+      <span class="date">2012 September 30</span>
+      openMSX 0.9.1 released
+    </h2>
+    <p>
+    openMSX 0.9.1&mdash;Enigma Take Two&mdash;mostly fixes a bug in dir-as-disk that was introduced in openMSX 0.9.0, when adding support for the DMK format and low level disk emulation. We not only fixed that bug, we rewrote dir-as-disk almost completely, making it a lot more robust. Together with openMSX an updated version of Catapult, our user-friendly GUI, was released. Please <a href="http://sourceforge.net/projects/openmsx/files/openmsx/0.9.1/README_release-notes.txt/view">read the release notes</a> for details.
+    </p>
+    <h2>
+      <span class="date">2012 August 12</span>
+      openMSX 0.9.0 released
+    </h2>
+    <p>
+    openMSX 0.9.0&mdash;Enigma&mdash;improves a lot on accuracy of floppy support, especially by the introduction of support for the DMK format. This means it should be possible to run all MSX disk software without patching it. Furthermore, our efforts to improve performance has some results: start up time has almost halved on a Dingoo A320! Together with openMSX an updated version of Catapult, our user-friendly GUI, was released. Please <a href="http://sourceforge.net/projects/openmsx/files/openmsx/0.9.0/README_release-notes.txt/view">read the release notes</a> for details.
+    </p>
+    <h2>
+      <span class="date">2012 January 25</span>
+      openMSX 0.8.2 released
+    </h2>
+    <p>
+    openMSX 0.8.2&mdash;Small Guy&mdash;mostly fixes loads of bugs and adds many smaller features and improvements. Together with openMSX an updated version of Catapult, our user-friendly GUI, was released. Please <a href="http://sourceforge.net/projects/openmsx/files/openmsx/0.8.2/README_release-notes.txt/view">read the release notes</a> for details.
+    </p>
+    <h2>
+      <span class="date">2011 March 12</span>
+      openMSX 0.8.1 released
+    </h2>
+    <p>
+    openMSX 0.8.1&mdash;Tasmania&mdash;builds on the previous release, in the sense that we worked out the features a little more. We added a lot of scripts to help you with Tool Assisted Speedruns (TAS), one of the reasons openMSX got <a href="http://tasvideos.org/forum/viewtopic.php?p=249886#249886">officially approved</a> as a TAS capable emulator on <a href="http://tasvideos.org/">tasvideos.org</a>. The reverse feature also got some updates while doing this. For the rest we have again mostly fixed smaller issues and added smaller features. Together with openMSX an updated version of Catapult, our user-friendly GUI, was released. Please <a href="http://sourceforge.net/projects/openmsx/files/openmsx/0.8.1/README_release-notes.txt/view">read the release notes</a> for details.
+    </p>
+    <h2>
+      <span class="date">2010 October 17</span>
+      openMSX approved for TAS
+    </h2>
+    <p>
+    <a href="http://tasvideos.org/WelcomeToTASVideos.html">TASing</a>&mdash;Tool-Assisted-Speedrun&mdash;is the hobby of creating run-throughs of video games that resemble superhuman-like playing sessions. Its main community web site is <a href="http://tasvideos.org/">tasvideos.org</a> and it has a <a href="http://tasvideos.org/EmulatorResources.html">limited list of approved emulators</a> which can be used to create a new TAS and is accepted for <a href="http://tasvideos.org/Subs-List.html">submission</a>. Today, the site <a href="http://tasvideos.org/forum/viewtopic.php?p=249886#249886">announced</a> that openMSX is now officially approved to submit TASes! The <a href="http://tasvideos.org/2884S.html">first MSX TAS</a> has already <a href="http://tasvideos.org/forum/viewtopic.php?p=249884">been submitted</a> by our team member Vampier, which is of course no surprise. Neither is the game: Metal Gear. Who will improve his speedrun and submit a better TAS? The game is on!
+    </p>
+    <h2>
+      <span class="date">2010 June 6</span>
+      openMSX 0.8.0 released
+    </h2>
+    <p>
+    openMSX 0.8.0&mdash;CSI Dresal&mdash;includes two major new features: reverse and Laserdisc. Reverse is similar to what you can do in meisei: you can 'rewind' time with your finger tip, to correct game playing mistakes or inspect what caused a crash. Laserdisc is the Palcom system introduced by Pioneer in 1984: now you can play all the Palcom MSX Laserdisc games in openMSX! With this release we also provide a first official binary package for Dingux on your Dingoo hand held. For the rest we have mostly fixed smaller issues and added smaller features. Together with openMSX an updated version of Catapult, our user-friendly GUI, was released. Please <a href="http://sourceforge.net/projects/openmsx/files/openmsx/0.8.0/release-notes.txt/view">read the release notes</a> for details.
+    </p>
+    <h2>
+      <span class="date">2009 June 30</span>
+      openMSX 0.7.2 released
+    </h2>
+    <p>
+    As promised, openMSX 0.7.2 is now available, identical to 0.7.1, except for the already mentioned bug fix. Enjoy!
+    </p>
+     <h2>
+      <span class="date">2009 June 29</span>
+      openMSX 0.7.2 will be here soon...
+    </h2>
+    <p>
+    Oops, we found a problem in openMSX 0.7.1, just after we had released it... Due to a small bug in a Tcl script,
+openMSX wasn't able to load savestates with paths that contain spaces, which is the most common case on standard Windows installations. 0.7.2 will be available very soon to fix that.
+    </p>
+    <h2>
+      <span class="date">2009 June 28</span>
+      openMSX 0.7.1 released
+    </h2>
+    <p>
+    openMSX 0.7.1&mdash;IWCA approved&mdash;includes a brand new installer with binaries which have been created in a brand new way, using Microsoft Visual C++ 2008. This means smaller binaries and also support for 64-bit Windows operating systems. Also, several long standing problems have been fixed in the Windows release of openMSX. E.g., it now includes full support for unicode! For the rest we have mostly fixed smaller issues and added some cool demonstrations of what one can do with the combination of (Tcl) scripting, the debug command and the OSD. Together with openMSX an updated version of Catapult, our user-friendly GUI, was released. Please <a href="http://sourceforge.net/project/shownotes.php?group_id=38274&release_id=693184">read the release notes</a> for details.
+    </p>
+     <h2>
+      <span class="date">2009 January 7</span>
+      openMSX 0.7.0 released
+    </h2>
+    <p>
+    openMSX 0.7.0&mdash;Lazarus&mdash;includes the long awaited save states feature, fully automatic host to MSX keyboard mapping and an improved dir-as-disk feature with full transparency. Furthermore, we have added a technology preview of our new On-Screen-Display. Also we have an even better performance and several other enhancements and bug fixes on many places. Together with openMSX an updated version of Catapult, our user-friendly GUI, was released. Please <a href="http://sourceforge.net/project/shownotes.php?group_id=38274&release_id=652096">read the release notes</a> for details.
+    </p>
+    <h2>
+      <span class="date">2007 December 11</span>
+      openMSX 0.6.3 released
+    </h2>
+    <p>
+    openMSX 0.6.3&mdash;Crystal Clear&mdash;includes advanced resampling for aliasing-free sound, a stereo balance setting for each sound chip, recording of separate channels, PSG detune and vibrato and some non-sound-related improvements as well. Also, a hang on Windows PCs with multi-core/HT CPUs is fixed. Together with openMSX an updated version of Catapult, our user-friendly GUI, was released. Please <a href="http://sourceforge.net/project/shownotes.php?group_id=38274&release_id=560483">read the release notes</a> for details.
+    </p>
+     <h2>
+      <span class="date">2007 August 27</span>
+      No Windows support anymore?? 
+    </h2>
+    <p>
+    We've said it before: we need someone in our team to help us maintain the Windows port of openMSX. At the moment there is no one who provides us structural support for the Windows port. Without a person who can very regularly build and test openMSX and help in case of (rare) Windows specific issues, we cannot maintain the Windows port any longer. We may find a way to build the next release, but even that is uncertain; if we can manage, it will most likely be released (much) later than the Source and Mac versions. If you care and you want to help: please <a href="http://openmsx.sourceforge.net/contact.php">contact us</a> as soon as possible!
+    </p>
+     <h2>
+      <span class="date">2007 April 15</span>
+      openMSX 0.6.2 released
+    </h2>
+    <p>
+    openMSX 0.6.2&mdash;Oscar&mdash;includes video recording, more realistic PSG and SCC sound, significant optimizations, easier to use game trainers, as well as a lot of other improvements and bugfixes. Together with openMSX a new version of Catapult, our user-friendly GUI, was released. Please <a href="http://sourceforge.net/project/shownotes.php?group_id=38274&release_id=501347">read the release notes</a> for details.
+    </p>
+    <h2>
+      <span class="date">2006 September 17</span>
+      openMSX moves to Subversion
+    </h2>
+    <p>
+    Today we moved the main openMSX project to Subversion (SVN). This means that you have to use a different way to get the latest openMSX sources now. It is explained in the updated online manual, in the <a href="http://openmsx.sf.net/manual/compile.html">Compilation Guide</a>. Snapshots are now also taken from SVN. We removed the snapshot of Catapult, because Catapult as has been released so far is pronounced dead. A rewrite using Python and Qt4 is in the works though. You can get a snapshot of that project, instead.
+    </p>
+    <p>
+    Other news that we forgot to post here: there is a universal binary available for Mac OS X users, see the download section.
+    </p>
+     <h2>
+      <span class="date">2006 July 31</span>
+      openMSX 0.6.1 released
+    </h2>
+    <p>
+    openMSX 0.6.1&mdash;Chernoton Meltdown&mdash;includes runtime switchable machines and extensions, a lot of new video filters (some of which use pixel shaders), as well as a lot of other improvements and bugfixes. Together with openMSX a new version of Catapult, our user-friendly GUI, was released. Please <a href="http://sourceforge.net/project/shownotes.php?release_id=435794&group_id=38274">read the release notes</a> for details.
+    </p>
+    <h2>
+      <span class="date">2006 July 23</span>
+      Web site restyled
+    </h2>
+    <p>
+      A redesign of the openMSX web site was long overdue. And with the
+      restructuring of the site, we've also included 2 different layouts.
+      Hurray for CSS :-)
+    </p>
+    <h2>
+      <span class="date">2006 July 23</span>
+      openMSX needs <em>you</em>!
+    </h2>
+    <p>
+      That is, if you've got some spare time and want to develop
+      fun software for Windows. The openMSX team desperately needs Windows
+      developers, both for coding on the openMSX code itself, and also for
+      Catapult. Don't hesitate! Fire up you IRC client and visit us at
+      #openmsx on Freenode.net. We won't bite. Really!
+    </p>
+
+  </div>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://apps.sourceforge.net/piwik/openmsx/" : "http://apps.sourceforge.net/piwik/openmsx/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+piwik_action_name = '';
+piwik_idsite = 1;
+piwik_url = pkBaseURL + "piwik.php";
+piwik_log(piwik_action_name, piwik_idsite, piwik_url);
+</script>
+<object><noscript><p><img src="http://apps.sourceforge.net/piwik/openmsx/piwik.php?idsite=1" alt="piwik"/></p></noscript></object>
+<!-- End Piwik Tag -->
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.msx-plaza.eu/home.php?page=misc/fmsx>====================
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\">
+<html>
+<head>
+<meta http-equiv="Description" name="description" content="MSX Plaza">
+<meta http-equiv="Keywords" name="keywords" content="MSX,msx,MSX Plaza,msx Plaza,The MSX Plaza">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<title>The MSX Plaza</title>
+
+<link rel="STYLESHEET" type="text/css" href="includes/media_independent.css">
+<link rel="STYLESHEET" type="text/css" href="includes/media_screen.css" media="screen">
+<link rel="STYLESHEET" type="text/css" href="includes/media_print.css" media="print">
+
+<script language="javascript">
+<!--
+if (parent.frames.length != 0) { top.location.href = this.location.href }
+//-->
+</script>
+<script type="text/javascript" src="includes/menu_ddmx.js"></script>
+</head>
+
+<body>
+  <div id="nonFooter">
+    <div id="pageHeader">The MSX Plaza
+      <div id="menuSection">
+        <table id="menu1" class="ddmx" cellpadding="0" cellspacing="0">
+        <tbody>
+        <tr>
+<td>
+  <a id="menu1-0" HREF="home.php?page=home" class="item1">Home</a>
+  <div id="menu1-0-section" class="section">
+    <A id="menu1-0-0" class="item2"  HREF="home.php?page=misc/whatsnew">What's new or changed</A>
+    <A id="menu1-0-1" class="item2"  HREF="home.php?page=misc/cv">CV Alex Wulms</A>
+    <A id="menu1-0-2" class="item2"  HREF="home.php?appl=contact">Contact me</A>
+    <A id="menu1-0-3" class="item2"  HREF="home.php?appl=guestbook">Guestbook</A>
+    <A id="menu1-0-4" class="item2"  HREF="home.php?page=misc/tb95">Photo's MSX Fair Tilburg 1995</A>
+    <A id="menu1-0-5" class="item2"  HREF="home.php?page=misc/msxring">MSX Web Ring</A>
+    <A id="menu1-0-6" class="item2"  HREF="home.php?page=misc/interesting_links">Other MSX sites</A>
+  </div>
+</td>
+<td>
+  <span id="menu1-1" class="item1">Software developers</span>
+  <div id="menu1-1-section" class="section">
+    <A id="menu1-1-0" class="item2"  HREF="home.php?page=misc/xelasoft">XelaSoft &amp; Merla soft<b>&gt;</b></A>
+    <div id="menu1-1-0-section" class="section">
+      <A id="menu1-1-0-0" class="item2"  HREF="home.php?page=misc/xsaformat">XSA format + SOURCES</A>
+      <A id="menu1-1-0-1" class="item2"  HREF="home.php?page=misc/disk_images">XSA Disk images</A>
+      <span id="menu1-1-0-2" class="item2"><hr size=1></span>
+      <A id="menu1-1-0-3" class="item2"  HREF="home.php?page=misc/sme3soft">SME 3 Software</A>
+      <A id="menu1-1-0-4" class="item2"  HREF="home.php?page=misc/sme3music">SME 3 Music</A>
+      <A id="menu1-1-0-5" class="item2"  HREF="home.php?page=misc/sme3docs">SME 3 Documentation</A>
+    </div>
+    <A id="menu1-1-1" class="item2"  HREF="home.php?page=misc/quadrivium">Quadrivium</A>
+    <A id="menu1-1-2" class="item2"  HREF="home.php?page=misc/nyyrikki">Nyyrikki</A>
+  </div>
+</td>
+<td>
+</td>
+<td>
+  <span id="menu1-2" class="item1">News and documentation</span>
+  <div id="menu1-2-section" class="section">
+    <A id="menu1-2-0" class="item2"  HREF="home.php?page=misc/ikeda">MSX-Print from K. Ikeda</A>
+    <A id="menu1-2-1" class="item2"  HREF="http://www.hardwarelist.msxnet.org/?s=1mp">MSX Hardware list</A>
+    <A id="menu1-2-2" class="item2"  HREF="home.php?page=misc/publications">Sunrise Special articles</A>
+    <A id="menu1-2-3" class="item2"  HREF="home.php?page=misc/mccm_articles">MCCM articles (Dutch)</A>
+    <A id="menu1-2-4" class="item2"  HREF="home.php?page=misc/mccm_articles_eng">MCCM articles (English)</A>
+    <A id="menu1-2-5" class="item2"  HREF="home.php?page=misc/yamaha_cx5m">Yamaha cx5m MSX</A>
+  </div>
+</td>
+<td>
+  <span id="menu1-3" class="item1">Emulators</span>
+  <div id="menu1-3-section" class="section">
+    <A id="menu1-3-0" class="item2"  HREF="home.php?page=misc/fmsx">fMSX</A>
+    <A id="menu1-3-1" class="item2"  HREF="home.php?page=misc/openmsx">OpenMSX</A>
+    <A id="menu1-3-2" class="item2"  HREF="home.php?page=misc/msxplayer">MSX Player</A>
+  </div>
+</td>
+<td>
+  <span id="menu1-4" class="item1">New MSX</span>
+  <div id="menu1-4-section" class="section">
+    <A id="menu1-4-0" class="item2"  HREF="home.php?page=misc/esepldmsx">Ese PLD MSX</A>
+    <A id="menu1-4-1" class="item2"  HREF="home.php?page=misc/asciimsx">ASCII MSX</A>
+  </div>
+</td>
+        </tr>
+        </tbody>
+        </table>
+        <script type="text/javascript" src="includes/menu_ddmx_init.js"></script>
+      </div> <!-- menuSection -->
+    </div> <!-- pageHeader -->
+
+
+    <div id="msxDisplayArea">
+<!-- pagemodifiedtime_ts: 1306266852, homemodifiedtime_ts: 1306267979, menumodifiedtime_ts: 1306268470, modifiedtime_ts: 1306268470 --><H1>fMSX</H1>
+
+<DIV ID="lastUpdated">Last updated on: April 20 2000</DIV>
+
+<P>
+This page is dedicated to fMSX, the portable MSX emulator
+from Marat Fayzullin. It contains links to other fMSX related sites
+on the web and a few patches and updates that I made myself.
+</P>
+<HR size=4>
+
+<UL>
+<LI><A  HREF="http://www.komkon.org/fms/MSX/">
+    Marat Fayzullin's fMSX page</A>.
+    Here you can find the latest version of fMSX</LI>
+<LI><A 
+     HREF="http://www.math.utwente.nl/~metselaa/msx/X-drivers.html">
+    Arnold Metselaar's X-Terminal drivers</A>
+    for fMSX. They offer extended support for many different X-Server
+    configurations.</LI>
+<LI><A HREF="downloads/fmsx/fmsx2.0b_fix16bpp.tar.gz">
+    Fix for fMSX 2.0b</A>. This fix offers proper 16 BPP (65000 colors)
+    display support and removes a bug in the vdp byte copy commands. You can
+    get 16 BPP support also from Arnold Metselaar's X-terminal drivers.</LI>
+<LI><A HREF="downloads/fmsx/PatchMSX2.1.tar.gz">
+    Patch for fMSX 2.1</A>. This patch fixes a lot of problems with the VDP
+    command set. As a result, SD-SNATCHER will run correctly after
+    applying the patch. It will most probably solve problems
+    with other games as well.</LI>
+<LI><A HREF="downloads/fmsx/VDPCmdEngine1.0.tar.gz">
+    VDP Command Engine 1.0</A>. A complete new VDP Command engine for fMSX. It
+    replaces the above patch. Highlights of this new VDP command engine:
+    <UL>
+    <LI>SD-Snatcher still works ;-)</LI>
+    <LI>Graphical glitches in Aleste Special are gone</LI>
+    <LI>VDP Command timing is correct</LI>
+    <LI>VDP Command emulation runs interleaved with Z80 emulation, resulting
+        in a more stable music playback and in typical graphical effects
+        where you can see how the screen is build-up by slow commands.</LI>
+    </UL></LI>
+</UL>
+
+    </div> <!-- msxDisplayArea -->
+    <div id="footerspacer"></div>
+  </div> <!--nonFooter -->
+  <div id="footer"></div>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://nocash.emubase.de/msx.htm>====================
+<HTML><HEAD>
+  <TITLE>NO$MSX</TITLE>
+  <META NAME="GENERATOR" CONTENT="nocash XED editor">
+  <META NAME="Author" CONTENT="Nocash / Martin Korth">
+  <META NAME="Description" CONTENT="nocash MSX emulator">
+  <META NAME="KeyWords" CONTENT="MSX,philips,japan,emulator,emu,8-bit,8bit,8 bit,homecomputer,home computer,msdos,dos,windows,win95,win98,pc,ibm,clones,free,freeware,shareware,download,dsk,.dsk,*.dsk,disk image,games,no$msx,no$msx.zip,no$msx.exe,fmsx,rumsx,brmsx,nocash,emulation,martin korth,update">
+</HEAD><BODY bgcolor="#ffffff" text="#000000" link="#0033cc" vlink="#0033cc" alink="#0033cc">
+<!----------------->
+<FONT SIZE=-1>
+<HR><CENTER><TABLE>
+ <TR><TD><IMG SRC="msx.gif" WIDTH=32 HEIGHT=32 ALT="MSX"></TD><TD><CENTER><FONT SIZE=+1>NO$MSX (c) Martin Korth</FONT><FONT SIZE=+0><BR>nocash msx emulator/debugger for dos/windows</FONT></CENTER></TD><TD><IMG SRC="msx.gif" WIDTH=32 HEIGHT=32 ALT="MSX"></TD></TR>
+</TABLE></CENTER><HR>
+
+<TABLE WIDTH=100%><TR bgcolor="#0000ff"><TD><FONT COLOR="#FFFFFF"><CENTER><PRE>
+---------------------------------
+Hello to No$msx - version 1.5
+---------------------------------
+</TD></TR></TABLE><P>
+<FONT SIZE=+0><B>About no$msx...</B></FONT><BR>
+No$msx is a MSX1 + MSX2 emulator for DOS and Windows, like the other no$-emulators
+it's including a comfortable debugger, so that it's more a serious development
+tool than just a emulator. Beside for the development part, the most important
+goals are: User-friendly GUI and lots of options, and the complete lack of
+overload - the program is written in raw assembler language, sized about 150
+KBytes, and works fine on 33MHz computers. That's my contribution against
+modern mainstream programmers.
+<P>
+<FONT SIZE=+0><B>News in Version 1.5</B></FONT><BR>
+There've been no updates for a long time, most news in this version are
+related to the user interface & debugger (mainly improvements from other
+no$-projects). But not so many msx-related things (parts of just because
+there've been not very much msx-related bug reports).<BR>
+Anyways, some of the news are pretty good useful, symbolic debug info,
+preview for ARJ/ZIP compressed files, and various details. On the other hand,
+a couple of new bugs may have crept into the program - please let me know if
+you come accross any new/old bugs or glitches!
+<P>
+<FONT SIZE=+0><B>News in Version 1.4</B></FONT><BR>
+It's a killer update. After last no$gmb version got cracked I have attempted
+to forget that unlucky program, and mostly stopped working on it - and suddenly
+had time to force my energies onto improvement of my cpc and msx emulators.
+So, no$msx 1.4 is the result of three months of rapid action programming,
+including almost 150 new details, fixes and features, for the complete list
+click <A HREF="msxhist.htm">here</A>.<BR>
+The most important news are:
+Digital sound engine, reverse engineering & exact emulation of undocumented
+Z80 flags / undocumented 'memptr' register, imported better windows GUI from
+no$gmb source, various bugfixes, cartridge support, updated Portar docs,
+snapshots, kanji ROM support, etc. Oh, and it's a <I>shareware</I> program now,
+it's still fully functional - anyways, please take the time to
+<A HREF="msxshare.htm">donate</A> some money.
+<P>
+<!--FONT SIZE=+0   No$msx Features
+DOS and Windows versions exists, MSX1 and MSX2 support, all program code
+written assembler language, probably fastest MSX emulator on earth (correct
+me if I am wrong), most accurate Z80 CPU emulation, 8086 compatible XT version
+exists, various user configurable options, local country-specific keyboard
+support, speedup-patches, adlib and digital sound engines, cartridge support
+(windows version only yet), user friendly GUI, built-in debugger, online
+assembler and source code assembler, I/O map screen, etc.-->
+<P>
+All right, that's it, enjoy whatever you are going to use it for.
+<P>
+Martin
+<P>
+<TABLE WIDTH=100%><TR bgcolor="#0000ff"><TD><FONT COLOR="#FFFFFF"><CENTER><PRE>
+----------------------
+Downloading No$msx
+----------------------
+</TD></TR></TABLE><P>
+<TABLE><TR VALIGN=TOP><TD WIDTH=45%>
+ <B>Standard DOS and Windows versions</B><BR><FONT SIZE=-1>
+ For best emulation accuracy, including detailed programming specs.
+ Recommended for computers with at least 66MHz only.<BR>
+</TD><TD WIDTH=45%>
+ <B>High Performance DOS versions</B><BR><FONT SIZE=-1>
+ These versions are assembled for best performance.
+ The emulation is less accurate (still enough in most cases).
+ Programming specs are not included.<BR>
+</TD></TR><TR><TD><FONT SIZE=-1>
+ &nbsp; o &nbsp; <A HREF="no$msx4f.zip"><B>Windows 32bit version</B></A> - includes all features<BR>
+ &nbsp; o &nbsp; <A HREF="no$msx4x.zip"><B>DOS Standard version</B></A> - includes all features<BR>
+ <BR>
+ <CENTER><A HREF="donate.htm"><IMG SRC="donate.gif" WIDTH=62 HEIGHT=31></A></CENETR><BR>
+</TD><TD><FONT SIZE=-1>
+ &nbsp; o &nbsp; <A HREF="no$msx4r.zip"><B>DOS 80486 Real Mode version</B></A><BR>
+ &nbsp; o &nbsp; <A HREF="no$msx4p.zip"><B>DOS 80486 Protected Mode version</B></A><BR>
+ &nbsp; o &nbsp; <A HREF="no$msx3r.zip"><B>DOS 80386 Real Mode version</B></A><BR>
+ &nbsp; o &nbsp; <A HREF="no$msx3p.zip"><B>DOS 80386 Protected Mode version</B></A><BR>
+ &nbsp; o &nbsp; <A HREF="no$msx0r.zip"><B>DOS 80x86 XT/AT compatible version</B></A><BR>
+</TD></TR><TR><TD><FONT SIZE=-1>
+ Size: 190 KBytes (Windows), 165 KBytes (DOS).
+</TD><TD><FONT SIZE=-1>
+ Size: 120 KBytes (each).
+</TD></TR></TABLE>
+To get the emulation as fast and/or accurate as possible, pick the version that
+matches best for your computer. The 'Protected Mode' versions are fastest, but
+won't work with Windows as they need to take over full CPU control.
+<P>
+<TABLE WIDTH=100%><TR bgcolor="#0000ff"><TD><FONT COLOR="#FFFFFF"><CENTER><PRE>
+------------------------------------------
+Games & Docs & Tools & Mail & Homepage
+------------------------------------------
+</TD></TR></TABLE><P>
+ &nbsp; o &nbsp;  <A HREF="msxhist.htm" ><B>No$msx History</B></A> - News, Release Notes<BR>
+ &nbsp; o &nbsp;  <A HREF="msxshare.htm"><B>Registering No$msx</B></A> - Need your help to continue programming<BR>
+ &nbsp; o &nbsp;  <A HREF="http://www.file-hunter.com/"><B>M.E.P. - MSX Emulation Page</B></A> - MSX1 and MSX2 games...<BR>
+ &nbsp; o &nbsp;  <A HREF="portar.htm#top"><B>Portar Docs</B></A> - MSX Programming specs, version 1.7, click <A HREF="portar.txt">here</A> for text version.<BR>
+ &nbsp; o &nbsp;  <A HREF="assdis.htm"  ><B>A22i</B></A> - Standalone version of my Z80 assembler (that is built-in into no$msx also).<BR>
+ &nbsp; o &nbsp;  <A HREF="tape2hdd.htm"><B>TAPE2HDD</B></A> - Tool to copy old MSX cassettes to PC by using the soundcards line-in channel.<BR>
+ &nbsp; o &nbsp;  <A HREF="email.htm"   ><B>Emailing me</B></A> - Send feedback, comments, suggestions, bug reports.<BR>
+ &nbsp; o &nbsp;  <A HREF="address.htm" ><B>Mailing me</B></A> - my mailing address.<BR>
+ &nbsp; o &nbsp;  <A HREF="index.htm"   ><B>Back to Homepage.</B></A><BR>
+</FONT>
+<P>
+<!----------------->
+</BODY></HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.salle.url.edu/~is05562/msx_ing.html>====================
+<HTML>
+<META mskiss is05562 msx roms isaac santaolalla solorzano brmsx fmsx scc psg konami emul gus emulator gravis 486 vesa2.0 interlaced scanline>
+</META>
+<HEAD>
+<TITLE>Isaac Santaolalla MSX Page (English)</TITLE>
+</HEAD>
+
+<BODY BACKGROUND="msx_bg.gif" TEXT="#000080" BGCOLOR="#70BAD8">
+
+<!-- Begin Nedstat Basic code -->
+<!-- Title: ISS'98 MSX-page (English) -->
+<!-- URL: http://www.salleURL.edu/~is05562/msx_ing.html -->
+<script language='JavaScript' src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript">
+<!--
+  nedstatbasic("AAMulwH4Iz/mk6EYx4KjoydBNPEQ", 0);
+  // -->
+  </script>
+  <noscript>
+  <a target=_top
+  href="http://v1.nedstatbasic.net/stats?AAMulwH4Iz/mk6EYx4KjoydBNPEQ"><img
+  src="http://m1.nedstatbasic.net/n?id=AAMulwH4Iz/mk6EYx4KjoydBNPEQ"
+  border=0 nosave width=22 height=22></a>
+  </noscript>
+  <!-- End Nedstat Basic code -->
+
+<CENTER>
+<B><FONT size=6 face="arial">
+Isaac Santaolalla MSX Page
+</FONT></B>
+<A HREF="msx.html"><IMG SRC="esp.gif" BORDER=0 ALT="Version en Castellano"></A>
+<BR>
+<IMG SRC="hbar_azu.gif" HEIGHT=10 WIDTH=100%>
+
+<FONT SIZE=2>
+Page composed with VIM 5.3 for DOS, specially best viewed with Netscape
+Navigator 4.5 under Windows 98<BR>
+Internet Explorer shows the background not OK! WHAT a shame!! :)<BR>
+Of course it's 100% LYNX compatible (LYNX is my favourite WEB browser).<BR>
+The recommended resolution is between 640x480 and 1024x768, with at least
+256 colors.<BR>
+</FONT>
+
+<!-- Begin Motigo Webstats counter code -->
+<a id="mws208535" href="http://webstats.motigo.com/">
+<img width="18" height="18" border="0" alt="Free counter and web stats" src="http://m1.webstats.motigo.com/n.gif?id=AAMulwH4Iz/mk6EYx4KjoydBNPEQ" /></a>
+<script src="http://m1.webstats.motigo.com/c.js?id=208535" type="text/javascript"></script>
+<!-- End Motigo Webstats counter code -->
+
+
+</CENTER>
+
+<div style="border: 2px solid #000000; color: #E0E0E0; background-color: #0000FF; font-size: 20px; font-family: arial, 'lucida console', sans-serif;" align="center">
+<br><br><br>
+MSKISS is (obviously) dead.<br>
+This page won't be updated anymore (In fact it's been unattended for 4 years).<br>
+MSKISS will remain stopped (I don't have the time), and in the case there are some news, they will appear here:<br><br>
+<a href="http://friguron.dyndns.org/msx/" style="color: #FFFF40; font-weight: bold;" target="_blank">MSKISS</a>
+<br><br><br><br>
+</div>
+
+<CENTER>
+<P>
+<FONT SIZE=4>
+<A HREF="iss_ing.html"><IMG SRC="iss_bot.gif" ALT="ISS'98 Home Page" BORDER=0></A>
+<A HREF="links_i.html"><IMG SRC="linksbot.gif" ALT="Links" BORDER=0></A>
+<A HREF="esnes_i.html"><IMG SRC="es_bot.gif" ALT="ESNES" BORDER=0></A><BR>
+</FONT></CENTER>
+
+<CENTER>
+<IMG SRC="hbar_azu.gif" HEIGHT=4 WIDTH=90%><BR>
+
+<FONT size=6 face="arial">
+<B>Main topics:</B>
+<HR WIDTH="300">
+</FONT>
+<FONT size=3 face="arial">
+<A HREF="#emuladores">EMULATORS<BR></A>
+<A HREF="#bios">BIOS<BR></A>
+<A HREF="#tools">TOOLS<BR></A>
+<A HREF="#discos">DISKS<BR></A>
+<A HREF="msxroms.html">CARTRIDGES<BR></A>
+<BR></FONT>
+<IMG SRC="hbar_azu.gif" HEIGHT=10 WIDTH=100%><BR>
+</CENTER>
+
+<FONT size=3>
+<A name=emuladores>
+<B><FONT size=10 face="arial">
+Emulators:<BR><HR>
+</FONT></B>
+
+<TABLE BORDER=2 bgcolor="#A0A0FF">
+<TR><TD bgcolor="#3030C0"><FONT color="#FFFFFF"><B>Name</B></FONT>
+    <TD bgcolor="#3030C0"><FONT color="#FFFFFF"><B>Rating</B></FONT>
+    <TD bgcolor="#3030C0"><FONT color="#FFFFFF"><B>Features</B></FONT>
+
+<TR><TD bgcolor="#A0A0FF"><B><CENTER>
+    <A HREF="http://www.salleURL.edu/~is05562/mskiss.zip">MSKISS 0.2.4</A><BR>(234 KB,<BLINK> ZIP Archive</BLINK>)<BR>
+    13-Mar-2000<BR><BR>
+    Official Web:<BR>
+    <U>Well, you're watching at it RIGHT now :)</U>
+    </CENTER></B>
+    <TD><TT>OOOOO-OOO&#183;&#183;</TT>
+    <TD>Maybe this is not the best existing emulator, but I'm including it
+        here because I've made it, and if I don't speak well about it, nobody
+        will do it neither :) It emulates the MSX1, the MSX2, the MSX2+ and
+        the MSX Turbo-R (the 2 latter ones partially!!). I think it's also the
+        first released spanish MSX emulator. SD-Snatcher is 100% playable.<BR>
+        OK then, let's start with the technical data: if you've got a GUS or
+        a minimally 100% compatible Sound Blaster you'll be able to hear some
+        sound, like the PSG and the SCC chip of the KONAMI MegaROM's (the SCC
+        generates only square waves in SB mode). It has also support for the
+        Adlib soundcard (or SB in FM-Mode). It also has VESA 2.0 support.
+        (joystick support has gone because lack of time changing the Allegro
+        3.12 routines). The emulator understands the typical 16/32 KB ROM
+        format as well as all KONAMI MSX-1 MegaROM's, ASCII 8KB, ASCII 16KB
+        and Original FM-Pac... It's got support for .DSK files (images of REAL
+        MSX diskettes), and now has a little crappy mini-disk browser. It also
+        emulates the memory mapper with up to 1024 KB. There is support for
+        256 KB Mega-RAM in slot 1. It's fully written in C with DJGPP, but in
+        the future I could add some assembler routines. If you want more
+        information read the docs included with the emulator.
+        <BR><BR>
+        Author: Isaac Santaolalla (Me :). Send me a mail to the next address
+        if you have comments about the emulator (or about whatever):<BR>
+        <A HREF="mailto:is05562@salleURL.edu">is05562@salleURL.edu</A> (ICQ
+	Number: 99183199)
+<TR><TD bgcolor="#A0A0FF" COLSPAN=3><CENTER>
+        <B><FONT SIZE=+4 FACE="arial">Other emulators</FONT></B>
+        </CENTER>  
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <A HREF="http://www.salleURL.edu/~is05562/brmsx204.zip">BrMSX 2.4
+(279 KB)</A><BR>
+    31-Mar-2000<BR><BR>
+    Official Web:<BR>
+    <A HREF="http://www.lsi.usp.br/~ricardo/brmsx.htm">BrMSX Official Site</A>
+    </CENTER>
+    <TD><TT>OOOOO-OOOO&#183;</TT>
+    <TD>This emulator IS the definitive MSX emulator, because it's the fastest
+        and smoothest one of all MSX emulators. Besides of that, it's the one
+        which can handle 100% OK the biggest amount of games. It's fully
+        written in 32 bit assembler. It's Z80 emulation is very optimized and
+        it's capable of reading various intructions "at the same time". It
+        also has sound for Sound Blaster and VESA 2.0 support. It emulates the
+        MSX1, the MSX2 and the MSX2+.
+        It has got disk support via DSK files (Port based and patch based).
+        You can also connect 2 PC's and you'll be able to play 2 players via
+        serial-cable remotely. There is also limited SCC support and PCM
+        support (1 bit and 4 bits). Cassete images are supported via .CAS
+        files. Its author might think adding MSX TURBO-R support in the
+        future.<BR>
+        Author: Ricardo Bittencourt: <A HREF="mailto:ricardo@lsi.usp.br">ricardo@lsi.usp.br</A>
+
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <!A HREF="ftp://ftp.komkon.org/pub/MSX/fMSX/fMSXDOS162b.zip">fMSX-DOS_1.6_b2</A><BR>
+    5-Sep-1997<BR><BR>
+    Official Web:<BR>
+    <A HREF="http://www.komkon.org/~dekogel/fmsx.html">fMSX-DOS Official Site</A>
+    </CENTER>
+    <TD><TT>OOOOO-OOO&#183;&#183;</TT>
+    <TD>This is the almost-PERFECT emulator for the MSX1/MSX2/MSX2+ systems
+        (the last one partialy), it can emulate the SCC sound chip (digitally)
+        and the FM-PAC extentions, it can handle real MSX disks and disk images
+        also. It also understands ROM images in 6 different formats. Good speed
+        (486 Dx2 66 at least, so it's good). Compiled with DJGPP. It has support
+        for all common sound cards (ADLIB, SB, SB16, SB AWE 32, GUS)... There
+        are some other neat features I don't remember now...<BR>
+        Author: Marcel de Kogel: <A HREF="mailto:m.dekogel@student.utwente.nl">m.dekogel@student.utwente.nl</A>
+<TR><TD bg color="#A0A0FF"><CENTER>
+    <!A HREF="ftp://ftp.bnc.nl/pub/MSX/MSX10b.arj">MSX2_1.0_beta</A><BR>
+    <BR><BR>
+    Official Web:<BR>
+    <A HREF="http://msx.bnc.nl/msx/">CJS MSX2 Emulator Official Site</A>
+    <TD><TT>OOOOO-OOO&#183;&#183;</TT>
+    <TD>This is an emulator for the MSX1 and MSX2 systems. It doesn't support
+        FM-PAC but SCC only. SCC emulation is FM based so the quality is not
+        very good. It doesn't support ROM images directly, but it's got a
+        small utility to split the ROMS in 8 KB chunks and load them this way.
+        This method isn't very effective though. Totally written in ASM so
+        it's very fast and smooth. The sound (PSG and SCC) is FM based so
+        it's not realistic at all. It can handle MSX formatted disks AND
+        DOS-disks also. There are a few mini-utilities included...<BR>
+        Authors: Compujunks
+</TABLE></B>
+
+<BR>
+
+<TABLE BORDER=2 bgcolor="#A0A0FF"><B>
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <FONT SIZE=-1>       
+    R80 v0.30<BR>
+    8-Mar-2000<BR><BR>
+    Official Web:<BR>
+    <A HREF="http://www.chaosite.com/r80/">R80 Official Web</A>
+    </FONT>
+    </CENTER>
+    <TD><TT>OOOOO-OOOOO</TT>
+    <TD><FONT SIZE=-1>
+        This is NOT an MSX emulator, but a Spectrum one (the eternal enemy :)),
+        and so, it shouldn't appear here, but its author and me MUST HELP
+        ourselves... So, as he put a link on his page, I should put a link to
+        his emulator in my page also (Hola Ra&uacute;l :)<BR>
+        This emulator is very young, but it's the best WIHTOUT ANY DOUBT
+        compared with the large amount of crappy spectrum emulators around.
+        It never hurts trying to see how it works...
+        It's got Adlib, GUS and Sound Blaster sound.<BR>
+        Author:<BR>
+        Ra&uacute;l G&oacute;mez: <A HREF="mailto:raulgomez@retemail.es">raulgomez@retemail.es</A>
+   </FONT>
+</TABLE></B>
+
+<P>
+
+<CENTER><IMG SRC="hbar_azu.gif" HEIGHT=10 WIDTH=100%></CENTER></P>
+<A name=bios>
+<B><FONT size=10 face="arial">
+BIOS:<BR><HR>
+</FONT></B>
+
+Here I put the different BIOS that exist for each MSX model. They're intended
+to be used with MSKISS, but using them with any other emulator will also work.
+Anyway, if you don't have a real MSX machine, then you shouldn't get them, due
+to copyright reasons and blah blah blah... So, if someone gives me a good
+reason to remove these BIOS, I'll do it at once. But I hope that NO one will
+do it, so let's enjoy them...<BR>
+<P>
+
+<TABLE BORDER=2 bgcolor="#A0A0FF"><B>
+<TR><TD bgcolor="#3030C0" COLSPAN=3><FONT color="#FFFFFF"><I><B>MSX1</B></I></FONT>
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <FONT SIZE=-1>       
+    <A HREF="msx1rom.zip">msx1rom.zip</A> (25915 bytes)
+    </FONT>
+    </CENTER>
+    <TD><FONT SIZE=-1>       
+       MSX1 BIOS, the one of my Toshiba HX-20.<BR>
+    </FONT>
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <FONT SIZE=-1>       
+    <A HREF="jmsx1rom.zip">jmsx1rom.zip</A> (25988 bytes)
+    </FONT>
+    </CENTER>
+    <TD><FONT SIZE=-1>       
+       Japanese MSX1 BIOS (thanks to KSH for the dump).<BR>
+    </FONT>
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <FONT SIZE=-1>       
+    <A HREF="kmsx1rom.zip">kmsx1rom.zip</A> (30356 bytes)
+    </FONT>
+    </CENTER>
+    <TD><FONT SIZE=-1>       
+       Korean MSX1 BIOS (thanks to KSH for the dumps).<BR>
+    </FONT>
+<TR><TD bgcolor="#3030C0" COLSPAN=3><FONT color="#FFFFFF"><I><B>MSX2</B></I></FONT>
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <FONT SIZE=-1>       
+    <A HREF="msx2rom.zip">msx2rom.zip</A> (38131 bytes)
+    </FONT>
+    </CENTER>
+    <TD><FONT SIZE=-1>       
+       MSX2 BIOS (I think that they're the ones which come with fMSX).<BR>
+    </FONT>
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <FONT SIZE=-1>       
+    <A HREF="jmsx2rom.zip">jmsx2rom.zip</A> (38477 bytes)
+    </FONT>
+    </CENTER>
+    <TD><FONT SIZE=-1>       
+       Japanese MSX2 BIOS (thanks to KSH for the dumps).<BR>
+    </FONT>
+<TR><TD bgcolor="#3030C0" COLSPAN=3><FONT color="#FFFFFF"><I><B>MSX2+</B></I></FONT>
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <FONT SIZE=-1>       
+    <A HREF="msx2prom.zip">msx2prom.zip</A> (108374 bytes)
+    </FONT>
+    </CENTER>
+    <TD><FONT SIZE=-1>
+       MSX2+ BIOS (I think that these are the ones which come with fMSX as
+       well as some other that I've found here and there...).<BR>
+    </FONT>
+<TR><TD bgcolor="#3030C0" COLSPAN=3><FONT color="#FFFFFF"><I><B>MSX Turbo-R</B></I></FONT>
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <FONT SIZE=-1>
+    <A HREF="msxtrrom.zip">msxtrrom.zip</A> (217545 bytes)
+    </FONT>
+    </CENTER>
+    <TD><FONT SIZE=-1>
+       MSX Turbo-R BIOS (Compilation made by myself. Some of them are the ones
+       which come with RuMSX. I think that MSXDOS2.ROM should also appear here
+       but MSKISS is still NOT able to map it...).<BR>
+    </FONT>
+</TABLE></B>
+<BR>
+
+<HR>
+These BIOS that come now, are different DISK BIOS. They're intended to be used
+with the various MSX emulators around, and so, enabling disk emulation inside
+them. The first 3 are Memory-Based, which means that can only be used with
+MSKISS, fMSX, RuMSX, etc... and they can NOT be used if you want disk access
+through I/O ports D0..D5, like BrMSX does. In this last case, a different
+DISK BIOS dump (Port-Based) is needed. It's the last one which appears on
+this list.<P>
+
+<TABLE BORDER=2 bgcolor="#A0A0FF"><B>
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <FONT SIZE=-1>       
+    <A HREF="ru_disk.zip">ru_disk.zip</A> (12192 bytes)
+    </FONT>
+    </CENTER>
+    <TD><FONT SIZE=-1>       
+       DISK BIOS which comes with RuMSX...<BR>
+    </FONT>
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <FONT SIZE=-1>       
+    <A HREF="fmsxdisk.zip">fmsxdisk.zip</A> (12605 bytes)
+    </FONT>
+    </CENTER>
+    <TD><FONT SIZE=-1>       
+       DISK BIOS which comes with fMSX (I think)...<BR>
+    </FONT>
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <FONT SIZE=-1>       
+    <A HREF="shrpdisk.zip">shrpdisk.zip</A> (12228 bytes)
+    </FONT>
+    </CENTER>
+    <TD><FONT SIZE=-1>
+       Brazilian DISK BIOS from Sharp. Be careful with this one, because even
+       booting the emulator with the CONTROL key pressed, no memory is freed
+       when inside the MSX!
+       <BR>
+    </FONT>
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <FONT SIZE=-1>       
+    <A HREF="gradisk.zip">gradisk.zip</A> (12507 bytes)
+    </FONT>
+    </CENTER>
+    <TD><FONT SIZE=-1>
+       Special DISK BIOS to use with BrMSX. BE CAREFUL BECAUSE THIS ONE IS
+       PORT BASED AND DOES NOT WORK WITH MSKISS, fMSX, RuMSX...! <BR>
+    </FONT>
+</TABLE></B>
+<P>
+
+
+
+<CENTER><IMG SRC="hbar_azu.gif" HEIGHT=10 WIDTH=100%></CENTER></P>
+<A name=tools>
+<B><FONT size=10 face="arial">
+TOOLS:<BR><HR>
+</FONT></B>
+
+Here I put some tools to transfer real disks into disk images (.DSK files) and
+viceversa, and so, you'll be able to use both formats between the different
+emulators and real MSX's without any problem...<BR>
+<P>
+
+<TABLE BORDER=2 bgcolor="#A0A0FF"><B>
+<TR><TD bgcolor="#3030C0" COLSPAN=3><FONT color="#FFFFFF"><I><B>.DSK --> Real Disk</B></I></FONT>
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <FONT SIZE=+0>       
+    <A HREF="rawrite.exe"><B>RAWRITE.EXE v 1.3</B></A> (21592 bytes)
+    </FONT>
+    </CENTER>
+    <TD><FONT SIZE=-1>
+       This little program is useful to transfer at low-level, (sector by
+       sector), a .DSK file (737280 or 368640 bytes) into a physical disk.
+       This program comes with MANY Linux distributions, and it's REALLY old,
+       but this is probably the reason why this is the definitive tool. Its
+       usage is very easy:<BR><BR>
+       <FONT SIZE=+1><TT><B>RAWRITE DISK.DSK A:</B></TT></FONT><BR><BR>
+       With this command line, we are transferring the DISK.DSK file into A:
+       drive in about 2 minutes. If the disk drive you're trying to write to
+       is another one, you MUST act wisely then! (with B: or the letter you
+       need). Anyway, the physical disk you're trying to write into, MUST
+       BE ALREADY FORMATTED with 720 KB or 360 KB (depending on the size of
+       the .DSK file you're trying to transfer!!). Luckily, DOS provides us
+       with some really powerful tools (for example the mythical FORMAT.COM
+       program) that we will use this way, depending on the kind of disk we're
+       trying to format:
+       <BR><BR>
+
+       <UL>
+   <LI>If the real disk is already one-sided and double-density (360 KB) we'll
+       format it before using RAWRITE this way:
+       <FONT SIZE=+1><TT><B>FORMAT A: /F:360</B></TT></FONT>
+   <LI>If the real disk is two-sided and double-density (720 KB) we'll format
+       it this way:
+       <FONT SIZE=+1><TT><B>FORMAT A: /F:720</B></TT></FONT>
+   <LI>If the real disk we have is two-sided and high-density (these ones are
+       the ones that we find nowadays. They can hold 1440KB and have 2 holes),
+       then we have to do a little trick to be able to format them with 720
+       KB, and being able to use them. Just take a small amount of cello-tape
+       or something simmilar, and cover the hole with is ALWAYS open. With
+       this thing, the disk drive will think that the inserted disk is a 720
+       KB one, and then you'll be able to format it like in the latter case:
+       <FONT SIZE=+1><TT><B>FORMAT A: /F:720</B></TT></FONT>
+       </UL>
+       With this nice amount of knowledge hereby explained, you're ready to
+       use .DSK files and/or real disks WITHOUT ANY KIND OF PROBLEM.<BR>
+    </FONT>
+</TABLE></B>
+<P>
+
+<TABLE BORDER=2 bgcolor="#A0A0FF"><B>
+<TR><TD bgcolor="#3030C0" COLSPAN=3><FONT color="#FFFFFF"><I><B>Bunch of files --> .DSK File</B></I></FONT>
+<TR><TD bgcolor="#A0A0FF"><CENTER>
+    <FONT SIZE=+0>
+    <A HREF="dsktool.zip"><B>DSKTOOL.ZIP</B></A> (32486 bytes)
+    </FONT>
+    </CENTER>
+    <TD><FONT SIZE=-1>
+       This program is useful to build .DSK files (of 737280 bytes long!!)
+       under DOS. (After that, and if you need to transfer this .DSK file into
+       a real MSX disk, then you can use RAWRITE, like I explain above.)
+       This program (DSKTOOL) has been done (OF COURSE!! :) by Ricardo
+       Bittencourt, and it's very easy to use. It's like using any other file
+       compressor under DOS, like RAR, ARJ, etc... With DSKTOOL you'll be able
+       to "insert" files that reside in your hard disk (.BIN, .BAS, .LDR,
+       etc...) into the created .DSK file... A typical command line would be:
+       <BR><BR>
+       <FONT SIZE=+1><TT><B>
+       DSKTOOL A DISK.DSK *.BIN *.BAS *.LDR
+       </B></TT></FONT>
+       <BR><BR>
+       This command line creates a .DSK file called DISK.DSK and after that
+       we'll be introducing all *.BIN *.BAS *.LDR files which reside in the
+       current directory "into" the .DSK file (if there is enough space, of
+       course :). And that's it... There are no more things to do. Read the
+       documents that come with this program for more info.<BR>
+    </FONT>
+</TABLE></B>
+<P>
+
+<TABLE BORDER=2 bgcolor="#A0A0FF"><B>
+<TR><TD bgcolor="#3030C0" COLSPAN=3><FONT color="#FFFFFF"><I><B>Real Disk --> .DSK File</B></I></FONT>
+<TR><TD><FONT SIZE=-1>
+       The next thing is not a program, but a method to extract a .DSK file
+       from a real disk. Anyway it's got some kind of "limitation". This
+       "limitation" is that you have to do it under Linux. If you're already
+       under Linux, then insert the disk into the drive (the MSX disk you
+       want to extract), open a shell and type this:
+       <BR><BR>
+       <FONT SIZE=+1><TT><B>
+       dd if=/dev/fd0 of=./disk.dsk bs=512
+       </B></TT></FONT>
+       <BR><BR>
+       With this command you'll extract the disk.dsk file which is the exact
+       copy of the real disk that you've just inserted into the disk drive.
+       Maybe it's a bit painful having to use Linux to do this, but as far as
+       I know, "RAWREAD" for DOS doesn't exist.<BR>
+    </FONT>
+</TABLE></B>
+<P>
+
+
+
+
+<CENTER><IMG SRC="hbar_azu.gif" HEIGHT=10 WIDTH=100%></CENTER></P>
+<A name=discos>
+<B><FONT size=10 face="arial">
+Disks:<BR><HR>
+</FONT></B>
+
+Nothing here for the moment...
+<P>
+
+
+
+<CENTER>
+<IMG SRC="hbar_azu.gif" HEIGHT=10 WIDTH=100%><BR>
+
+<A HREF="iss_ing.html"><IMG SRC="iss_bot.gif" ALT="ISS'98 Home Page" BORDER=0></A>
+<A HREF="links_i.html"><IMG SRC="linksbot.gif" ALT="Links" BORDER=0></A>
+<A HREF="esnes_i.html"><IMG SRC="es_bot.gif" ALT="ESNES" BORDER=0></A><BR>
+
+<IMG SRC="hbar_azu.gif" HEIGHT=10 WIDTH=100%>
+</CENTER>
+
+<P ALIGN=RIGHT><B><I><FONT FACE="Times New Roman" SIZE=2>Last modification: 13 - March - 2000<BR>
+Ideas, doubts or suggestions must go to the next address:<A HREF="mailto:is05562@salleURL.edu">is05562@salleURL.edu</A> (ICQ Number: 99183199)<BR>
+ALL design and graphics are MINE.<BR>
+There could be something not working, but in a near<BR>
+future I expect to correct and add more information to this page.</FONT></I></B></P>
+
+</BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://tsk-tsk.net/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+        <head>
+                <title>tsk-tsk.net - hap's stuff - last updated on 09-01-11 (dd-mm-yy)</title>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                <link rel="shortcut icon" href="http://home.kpn.nl/koele844/favicon.ico" type="image/ico" />
+        </head>
+        <frameset rows="100%">
+                <frame name="default" src="http://pastebin.com/0mfezu8h" />
+                <noframes>
+                        <body>
+                                Deze pagina maakt gebruik van frames, maar uw browser ondersteunt dit niet.<br />
+                                De pagina die u zoekt staat op <a href="http://pastebin.com/0mfezu8h">http://pastebin.com/0mfezu8h</a><br />
+                                <hr />
+                                This page makes use of frames, but your browser does not support this<br />
+                                The page you're trying to view is available at <a href="http://pastebin.com/0mfezu8h">http://pastebin.com/0mfezu8h</a><br />
+                        </body>
+                </noframes>
+        </frameset>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++

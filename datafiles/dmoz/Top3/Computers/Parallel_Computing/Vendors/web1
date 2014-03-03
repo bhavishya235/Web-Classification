@@ -1,0 +1,2928 @@
+====================<http://www.emulex.com/>====================
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7" > <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js lt-ie9 lt-ie8" > <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js lt-ie9" > <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js" > <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<!--
+==============================================================================================
+This site was implemented by the TYPO3 experts at Cast Iron Coding - http://castironcoding.com
+==============================================================================================
+This website is powered by TYPO3 - inspiring people to share!
+TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj
+licensed under GNU/GPL. TYPO3 is copyright 1998-2011 of Kasper Skaarhoj. Extensions are
+copyright of their respective owners. Information and contribution at http://typo3.com/ and
+http://typo3.org/
+==============================================================================================
+-->
+<base href="http://www.emulex.com/">
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_36b8bf2a87.css?1380133495" media="all">
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/t3site/Sites/Main/Resources/Public/Stylesheets/css_ext/colorbox.css?1392080669" media="all">
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/t3site/Sites/Main/Resources/Public/Stylesheets/styles.css?1392080669" media="all">
+<script src="typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Libs/Modernizr/modernizr.min.js?1392080669" type="text/javascript"></script>
+<link rel="shortcut icon" href="typo3conf/ext/t3site/Sites/Main/Resources/Public/Images/Icons/favicon.ico">				<script type="text/javascript" src="//use.typekit.net/wwt3ntu.js"></script>				<meta name="google" content="notranslate" />
+<title>Emulex Corporation</title>
+<meta name="title" content="Emulex Corporation" />
+<meta name="date" content="2014-02-18" />
+<link rel="canonical" href="http://www.emulex.com/" />
+<meta name="google-site-verification" content="y3CdQB9dT4U56vmVLClH35Y5lkZA6wgOMJa-XXG-ie4" />
+<style>.slide3:before, .slide3>.before {background-color: #25285a; } .slide3:after, .slide3>.after {background-color: #313373; } </style>
+<style>.slide4:before, .slide4>.before {background: transparent url("/uploads/tx_cicslide/forresterLeft.jpg") repeat-x left top; }.slide4:after, .slide4>.after {background-color: #1b5da9; } </style>
+</head>
+<body class="home">
+<div class="page-container">
+<header class="page-header">
+<a href="/" class=logo><img src="/typo3conf/ext/t3site/Sites/Main/Resources/Public/Images/logo-emulex.png" alt="Emulex"></a>
+<nav class="primary-nav js-primary-nav">
+<a href="#" class="primary-nav--toggle js-primary-nav-toggle">Menu</a>
+<div class="primary-nav--dropdown js-primary-nav-dropdown"><div class="dropdown-section"><header class="dropdown-section--header"><div class="dropdown-section--header--column">
+<h2 class="dropdown-section--title"><a href="downloads/"  >Downloads</a></h2>
+</div><div class="dropdown-section--header--column">
+<h2 class="dropdown-section--title"><a href="products/"  >Products</a></h2>
+</div><div class="dropdown-section--header--column">
+<h2 class="dropdown-section--title"><a href="solutions/"  >Solutions</a></h2>
+</div><div class="dropdown-section--header--column">
+<h2 class="dropdown-section--title"><a href="company/"  >Company</a></h2>
+</div></header><div class="dropdown-section--content"><div class="dropdown-section--content--column"><ul><li><a href="downloads/emulex/"  >Emulex Standard Downloads</a></li><li><a href="downloads/oem-qualified/"  >OEM Qualified</a></li></ul></div><div class="dropdown-section--content--column"><ul><li><a href="products/network-visibility-products-and-services/"  >Network Visibility Products and Services</a></li><li><a href="products/fibre-channel-hbas/"  >Fibre Channel HBAs</a></li><li><a href="products/ethernet-network-adapters/"  >Ethernet Network Adapters</a></li><li><a href="products/converged-network-adapters/"  >Converged Network Adapters</a></li><li><a href="products/ethernet-network-adapters/"  >10GbE Enterprise Adapters</a></li><li><a href="products/network-xceleration-nx-solutions/"  >Network Xceleration (NX) Solutions</a></li><li><a href="products/onecore-storage-sdk/overview/"  >OneCore Storage SDK</a></li><li><a href="products/software-solutions/"  >Software Solutions</a></li><li><a href="products/controllers/"  >Controllers</a></li><li><a href="products/discontinued-products/"  >Discontinued Products</a></li></ul></div><div class="dropdown-section--content--column"><ul><li><a href="solutions/emulex-connectivity-solutions/"  >Emulex Connectivity Solutions</a></li><li><a href="solutions/endace-network-visibility-solutions/"  >Endace Network Visibility Solutions</a></li></ul></div><div class="dropdown-section--content--column"><ul><li><a href="company/key-executives/"  >Key Executives</a></li><li><a href="company/board-of-directors/"  >Board of Directors</a></li><li><a href="company/press-releases/2014/"  >Press Releases</a></li><li><a href="company/philanthropy/"  >Philanthropy</a></li><li><a href="company/events/trade-shows/"  >Events</a></li><li><a href="company/contact-us/general/"  >Contact Us</a></li><li><a href="company/corporate-social-responsibility/quality/"  >Corporate Social Responsibility</a></li><li><a href="media-center/"  >Media Center</a></li><li><a href="careers/"  >Careers</a></li></ul></div></div></div><div class="dropdown-section"><header class="dropdown-section--header"><div class="dropdown-section--header--column">
+<h2 class="dropdown-section--title"><a href="support/"  >Support</a></h2>
+</div><div class="dropdown-section--header--column">
+<h2 class="dropdown-section--title"><a href="partners/"  >Partners</a></h2>
+</div><div class="dropdown-section--header--column">
+<h2 class="dropdown-section--title"><a href="where-to-buy/network-connectivity-products/"  >Where to Buy</a></h2>
+</div><div class="dropdown-section--header--column">
+<h2 class="dropdown-section--title"><a href="resources/"  >Resources</a></h2>
+</div></header><div class="dropdown-section--content"><div class="dropdown-section--content--column"><ul><li><a href="support/emulex-branded-products/options/"  >Emulex Branded Products</a></li><li><a href="support/oem-branded-products/emc/"  >OEM Branded Products</a></li><li><a href="support/endace-products/overview/"  >Endace Products</a></li></ul></div><div class="dropdown-section--content--column"><ul><li><a href="partners/resellers/"  >Resellers</a></li><li><a href="partners/oem-partners/"  >OEM Partners</a></li><li><a href="partners/alliances/"  >Alliances</a></li><li><a href="partners/onecore-storage-sdk-program/overview/"  >OneCore Storage SDK Program</a></li></ul></div><div class="dropdown-section--content--column"><ul><li><a href="where-to-buy/network-connectivity-products/"  >Network Connectivity Products</a></li><li><a href="where-to-buy/endace-network-visibility-products/"  >Endace Network Visibility Products</a></li></ul></div><div class="dropdown-section--content--column"><ul><li><a href="resources/"  >Search Resource Library</a></li><li><a href="media-center/"  >Media Center</a></li><li><a href="resources/press-releases/2014/"  >Press Releases</a></li><li><a href="resources/webcasts/"  >Webcasts</a></li><li><a href="resources/blogs/"  >Blogs</a></li><li><a href="interoperability/"  >Interoperability Matrix</a></li><li><a href="resources/the-implementers-lab/"  >The Implementer's Lab</a></li></ul></div></div></div></div>
+</nav>
+<nav class="auxillary-nav">
+<ul><li><a href="investors/"  >Investors</a></li><li><a href="careers/"  >Careers</a></li></ul>
+<ul class="language-nav"><li><a class="language-nav--toggle" href="#">Language</a><div class="language-nav--dropdown"><ul><li><a href="http://www-legacy.emulex.com/cn/" target="_blank" >ä¸­æ–‡</a></li></ul></div></li></ul>
+</nav>
+<nav class="search-nav"><form class="search-form" action="search/" method="get">
+<input class="search-form--input" type="search" placeholder="Search" name="q">
+<input class="search-form--button" type="submit" value="">
+</form><a href="https://www.emulex.com/myemulex/login/" class="search-nav--button">Sign in</a></nav>
+</header>
+<div class="home-content">
+<div id="c28123" class="csc-default">
+<figure class="hero js-hero">
+<div class="hero-carousel" data-behavior="hero-carousel">
+<ul class="slides">
+<li class="hero-carousel--slide blue-gradient-blue-gradient-1">
+<a href="/artifacts/2eb01218-d372-4cda-a6d5-6e23bf9956cf/elx_wp_all_virtual_networkexcel_oce14000.pdf" >
+<img alt="Build Better Virtual Machines with OneConnect OCe14000 Adapters" src="uploads/tx_cicslide/ethernet1.jpg" width="980" height="255" title="Build Better Virtual Machines with OneConnect OCe14000 Adapters" />
+</a>
+</li>
+<li class="hero-carousel--slide blue-gradient-blue-gradient-2">
+<a href="products/converged-network-adapters/" >
+<img alt="OneConnect OCe14000 Adapters Provide Secure and Scalable Cloud Connectivity" src="uploads/tx_cicslide/ethernet2.jpg" width="980" height="255" title="OneConnect OCe14000 Adapters Provide Secure and Scalable Cloud Connectivity" />
+</a>
+</li>
+<li class="hero-carousel--slide blue-black-stripe">
+<a href="products/ethernet-network-adapters/" >
+<img alt="Advanced RoCE Architecture Accelerates Application Performance" src="uploads/tx_cicslide/ethernet3.jpg" width="980" height="255" title="Advanced RoCE Architecture Accelerates Application Performance" />
+</a>
+</li>
+<li class="hero-carousel--slide slide3">
+<a href="products/network-visibility-products-and-services/dag-packet-capture-cards/next-gen-endacedag-cards/" >
+<img alt="2014-02EndaceDag" src="uploads/tx_cicslide/2014-02Dag.jpg" width="980" height="255" title="2014-02EndaceDag" />
+</a>
+</li>
+<li class="hero-carousel--slide slide4">
+<a href="products/network-visibility-products-and-services/endaceprobe-intelligent-network-recorders/features/" >
+<img alt="Forrester201402" src="uploads/tx_cicslide/forrester.jpg" width="980" height="255" title="Forrester201402" />
+</a>
+</li>
+</ul>
+</div>
+</figure>
+</div>
+</div>
+<nav class="home-tiles">
+<div id="c1252" class="csc-default"><div class="news">
+<div class="news-bar">
+<div class="news-carousel">
+<h2 class="news-carousel--title"><a href="media-center/">Media Center</a></h2>
+<ul class="news-carousel--list">
+<!--
+=====================
+Partials/List/HomepageItem.html
+-->
+<li>
+<a href="media-center/press-releases/story/?tx_news_pi1%5Bnews%5D=540&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=0564d32b5561522473c80a71517820be">Emulex Upgrades OneCore Storage Software Development Kit with Target Core Module&hellip;</a>
+</li>
+<!--
+=====================
+Partials/List/HomepageItem.html
+-->
+<li>
+<a href="media-center/press-releases/story/?tx_news_pi1%5Bnews%5D=539&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=01891d5797ca4bf678b21100ddfb80b7">Mark Ingolia, Senior Director of Worldwide Channel Sales for the Endace Division&hellip;</a>
+</li>
+<!--
+=====================
+Partials/List/HomepageItem.html
+-->
+<li>
+<a href="media-center/press-releases/story/?tx_news_pi1%5Bnews%5D=538&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=cdf0660183227f639db0a6558a22af13">Emulex Announces Endace Fusion Connector for Sourcefire Defense Center </a>
+</li>
+<!--
+=====================
+Partials/List/HomepageItem.html
+-->
+<li>
+<a href="media-center/press-releases/story/?tx_news_pi1%5Bnews%5D=537&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=4e31fbff6d5e1e8fa3c99ee15fae0df5">Emulex Announces Next Generation of High Performance PCI Express 3.0 EndaceDAG&hellip;</a>
+</li>
+<!--
+=====================
+Partials/List/HomepageItem.html
+-->
+<li>
+<a href="media-center/press-releases/story/?tx_news_pi1%5Bnews%5D=536&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=cf7989a5143b6fd75d85033424262d13">Emulex Gen 5 Fibre Channel HBAs Optimize Performance for HP Customersâ€™&hellip;</a>
+</li>
+<!--
+=====================
+Partials/List/HomepageItem.html
+-->
+<li>
+<a href="media-center/press-releases/story/?tx_news_pi1%5Bnews%5D=535&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=880614c0810765995148e9dc65fae522">Independent Research Study Finds Network Visibility Improves Incident Resolution&hellip;</a>
+</li>
+</ul>
+</div>
+<a class="hero-toggle js-hero-toggle" href="#"><span class="text-open">Hide</span><span class="text-closed">Show</span></a>
+</div>
+</div>
+</div><div id="c17271" class="csc-default">
+<div class="home-tiles--wrapper">
+<div class="home-tiles--carousel" data-class="carousel">
+<ul>
+<li class="home-tiles--column">
+<figure class="home-tiles--tile">
+<a href="downloads/" ><img alt="Downloads" src="fileadmin/home_sliders/tile-downloads.jpg" width="232" height="291" title="Downloads" /></a>
+</figure>
+</li>
+<li class="home-tiles--column">
+<figure class="home-tiles--tile">
+<a href="products/ethernet-network-adapters/" ><img alt="10GbE Ethernet" src="fileadmin/media/images/HomePageTiles/10GbE_40.jpg" width="232" height="291" title="10GbE Ethernet" /></a>
+</figure>
+</li>
+<li class="home-tiles--column">
+<figure class="home-tiles--tile">
+<a href="products/network-visibility-products-and-services/" ><img alt="Endace: Connect &gt; Monitor &gt; Manage" src="fileadmin/home_sliders/tile-endace.jpg" width="239" height="291" title="Endace: Connect &gt; Monitor &gt; Manage" /></a>
+</figure>
+</li>
+<li class="home-tiles--column">
+<figure class="home-tiles--tile">
+<a href="products/fibre-channel-hbas/" ><img alt="Gen 5 Advantage" src="fileadmin/home_sliders/tile-gen5_ver2.jpg" width="232" height="291" title="Gen 5 Advantage" /></a>
+</figure>
+</li>
+</ul>
+</div>
+<a class="home-tiles--previous" data-class="previous" href="#">Previous</a>
+<a class="home-tiles--next" data-class="next" href="#">Next</a>
+</div></div><div id="c17273" class="csc-default">
+<div class="home-tiles--wrapper">
+<div class="home-tiles--carousel" data-class="carousel">
+<ul>
+<li class="home-tiles--column">
+<figure class="home-tiles--tile">
+<a href="support/" ><img alt="Emulex Support" src="fileadmin/home_sliders/tile-support.jpg" width="232" height="291" title="Emulex Support" /></a>
+</figure>
+</li>
+<li class="home-tiles--column">
+<figure class="home-tiles--tile">
+<div class="home-tiles--events">
+<img src="/typo3conf/ext/elxhomesliders/Resources/Public/Images/bg-events-tile.jpg" alt="">
+<h2>Events</h2>
+<ul> <li>Feb 24 - 28 - <a href="http://www.rsaconference.com/" target="_blank" >RSA Conference</a>, San Francisco, CA</li> <li>Mar 4 - 7:Â  Dell EMEA FRS, Copenhagen</li> <li>Mar 10-16:Â  <a href="http://www.toshibaclassic.com/" target="_blank" >Toshiba Classic</a>, Newport Beach, CA</li> </ul>
+</div>
+</figure>
+</li>
+<li class="home-tiles--column">
+<figure class="home-tiles--tile">
+<a href="the-application-zone/overview/" ><img alt="Application Zone" src="fileadmin/home_sliders/tile-app-zone.jpg" width="232" height="291" title="Application Zone" /></a>
+</figure>
+</li>
+<li class="home-tiles--column">
+<figure class="home-tiles--tile">
+<a href="partners/resellers/emulex-connect-partner-program/overview/" ><img alt="Emulex Connect Partner Program" src="fileadmin/home_sliders/tile-partner.jpg" width="232" height="291" title="Emulex Connect Partner Program" /></a>
+</figure>
+</li>
+</ul>
+</div>
+<a class="home-tiles--previous" data-class="previous" href="#">Previous</a>
+<a class="home-tiles--next" data-class="next" href="#">Next</a>
+</div></div><div id="c17272" class="csc-default">
+<div class="home-tiles--wrapper">
+<div class="home-tiles--carousel" data-class="carousel">
+<ul>
+<li class="home-tiles--column">
+<figure class="home-tiles--tile">
+<a href="partners/oem-partners/dell/overview/" ><img alt="Dell SAN Solutions" src="fileadmin/home_sliders/tile-dell.jpg" width="232" height="291" title="Dell SAN Solutions" /></a>
+</figure>
+</li>
+<li class="home-tiles--column">
+<figure class="home-tiles--tile">
+<a href="partners/oem-partners/emc/overview/" ><img alt="EMC2 Storage Arrays" src="fileadmin/home_sliders/tile-emc.jpg" width="232" height="291" title="EMC2 Storage Arrays" /></a>
+</figure>
+</li>
+<li class="home-tiles--column">
+<figure class="home-tiles--tile">
+<a href="partners/oem-partners/hp/overview/" ><img alt="HP Converged I/O" src="fileadmin/home_sliders/tile-hp.jpg" width="232" height="291" title="HP Converged I/O" /></a>
+</figure>
+</li>
+<li class="home-tiles--column">
+<figure class="home-tiles--tile">
+<a href="partners/oem-partners/ibm/overview/" ><img alt="IBM Virtual Fabric" src="fileadmin/media/images/HomePageTiles/IBM-tile.jpg" width="232" height="291" title="IBM Virtual Fabric" /></a>
+</figure>
+</li>
+</ul>
+</div>
+<a class="home-tiles--previous" data-class="previous" href="#">Previous</a>
+<a class="home-tiles--next" data-class="next" href="#">Next</a>
+</div></div>
+</nav>
+</div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+<script src="typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Source/plugins.js?1392080669" type="text/javascript"></script>
+<script src="typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Source/fixedheaders.js?1392080669" type="text/javascript"></script>
+<script src="typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Libs/Colorbox/jquery.colorbox-min.js?1392080669" type="text/javascript"></script>
+<script src="typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Libs/InfiniteCarousel/jquery.infinite-carousel.js?1392080669" type="text/javascript"></script>
+<script src="typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Libs/TouchSwipe/touchSwipe.min.js?1392080669" type="text/javascript"></script>
+<script src="typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Libs/Hoverintent/hoverintent-r6.min.js?1392080669" type="text/javascript"></script>
+<script src="typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Libs/TableSorter/jquery.tablesorter.js?1392080669" type="text/javascript"></script>
+<script src="typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Libs/Eloqua/elqCfg.js?1392080669" type="text/javascript"></script>
+<script src="typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Libs/Eloqua/elqImg.js?1392080669" type="text/javascript"></script>
+<script src="typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Libs/Omniture/Numeric/numericInit.js?1392080669" type="text/javascript"></script>
+<script src="typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Libs/Omniture/Numeric/_numeric_.js?1392080669" type="text/javascript"></script>
+<script src="typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Libs/Flexslider/jquery.flexslider-min.js?1392080669" type="text/javascript"></script>
+<script src="typo3conf/ext/emulexflexeraprov/res/javascript/formRepeater.js?1392080669" type="text/javascript"></script>
+<script src="typo3conf/ext/t3site/Sites/Main/Resources/Public/Javascript/Source/script.js?1392080669" type="text/javascript"></script>
+<script>
+var _gaq=[["_setAccount","UA-29521322-1"],["_trackPageview"]];
+(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+g.src=("https:"==location.protocol?"//ssl":"//www")+".google-analytics.com/ga.js";
+s.parentNode.insertBefore(g,s)}(document,"script"));
+</script>			<script type="text/javascript" src="http://business-path-55.com/js/15603.js" async="async"></script><script type="text/javascript">
+var browserName=navigator.appName;var browserVer=parseInt(navigator.appVersion);var version="";var msie4=(browserName=="Microsoft Internet Explorer"&&browserVer>=4);if((browserName=="Netscape"&&browserVer>=3)||msie4||browserName=="Konqueror"||browserName=="Opera"){version="n3";}else{version="n2";} function blurLink(theObject){if(msie4){theObject.blur();}} function decryptCharcode(n,start,end,offset){n=n+offset;if(offset>0&&n>end){n=start+(n-end-1);}else if(offset<0&&n<start){n=end-(start-n-1);} return String.fromCharCode(n);} function decryptString(enc,offset){var dec="";var len=enc.length;for(var i=0;i<len;i++){var n=enc.charCodeAt(i);if(n>=0x2B&&n<=0x3A){dec+=decryptCharcode(n,0x2B,0x3A,offset);}else if(n>=0x40&&n<=0x5A){dec+=decryptCharcode(n,0x40,0x5A,offset);}else if(n>=0x61&&n<=0x7A){dec+=decryptCharcode(n,0x61,0x7A,offset);}else{dec+=enc.charAt(i);}} return dec;} function linkTo_UnCryptMailto(s){location.href=decryptString(s,-5);}
+function linkToTechSupport(s) { location.href = decryptString(s,-5) + '?Subject= Fill in a brief description of your issue or question&Body=Please fill in a detailed description of your issue or question replacing this text and include any screen shots or files (up to 10 MB).' }
+</script>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.devita.com/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+<META NAME="Author" CONTENT="Gary Walsh">
+<META NAME="Generator" CONTENT="NetObjects Fusion 5.0.2 for Windows">
+<META NAME="Keywords"
+ CONTENT="linux, cluster, beowulf, high availability, failover, bios, custom, turnkey, RAID, amidiag, diagnostics, reseller, data aquisition, motherboards, industrial PC, rackmount, touchscreen, redundant, hyperdisk,ruggedized, Industrial Systems, Supercomputing, P">
+<TITLE>DeVita Associates</TITLE>
+<FRAMESET COLS="232,*">
+    <FRAME NAME="left" SRC="./left_index.html" SCROLLING=AUTO MARGINWIDTH="2" MARGINHEIGHT="1" BORDER=5>
+    <FRAMESET ROWS="102,*">
+        <FRAME NAME="header" SRC="./header_index.html" SCROLLING=NO MARGINWIDTH="0" MARGINHEIGHT="0" BORDER=5>
+        <FRAME NAME="body" SRC="./body_index.html" SCROLLING=AUTO MARGINWIDTH=0 MARGINHEIGHT=0>
+    </FRAMESET>
+</FRAMESET>
+</HEAD>
+</HTML>
+ ++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.par-tec.de/>====================
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2013 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+
+<base href="http://www.par-tec.com/" />
+
+
+<meta name="generator" content="TYPO3 4.5 CMS" />
+<meta name="keywords" content="HPC, high performance computing, parallel computing,  parastation, parastationv5, parastationmpi, cluster competence, cluster operating system ,cluster service oriented, commodity based supercomputing, open source cluster manager, single system view, mpi-2, gridmonitor, petaflop computing, cluster research." />
+<meta name="description" content="ParTec's Cluster Competence Center delivers the software, consultancy and support services necessary to achieve new heights in productivity and availability on todays commodity based supercomputers." />
+<meta name="copyright" content="ParTec GmbH" />
+<meta name="autor" content="ParTec GmbH" />
+<meta name="robots" content="INDEX,FOLLOW, NOARCHIVE" />
+<meta name="Content-language" content="EN" />
+<meta name="language" content="en" />
+
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_6c95307d2e.css?1340719166" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/parastation.com/Templates/media/stylesheets/grid.css?1274369474" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/parastation.com/Templates/media/stylesheets/style.css?1321258166" media="all" />
+
+
+
+<script src="typo3temp/javascript_a708894199.js?1268666654" type="text/javascript"></script>
+
+
+<title>home&nbsp;- par-tec.com</title>		<link rel="shortcut icon" type="image/x-icon" href="fileadmin/parastation.com/Templates/favicon.ico" />		
+		<meta name="google-site-verification" content="T699rBulH7ohq_dVDBxf8jQT1ko-4ujFto1_goxhAfs" />
+		<!--[if IE 6]>
+			<link rel="stylesheet" type="text/css" href="fileadmin/parastation.com/Templates/media/stylesheets/ie6.css" />
+		<![endif]-->
+</head>
+<body id="body">
+<div class="grid_body">
+	<div class="span_1-12_nM grid_span_nM naviBG">
+		<div id="header">
+			<div id="logo">
+				<a href="home.html" class="logo"><img src="fileadmin/parastation.com/Templates/media/images/logo.jpg" alt="ParTec" title="ParTec" /></a>
+			</div>
+
+			<div class="headerNavigation">
+				<ul><li><a href="home.html">home</a></li><li><a href="sitemap.html">sitemap</a></li><li><a href="contact.html">contact</a></li><li><a href="support.html">support</a></li></ul>
+				<ul class="rightNav"><li><a href="login.html">login</a></li></ul>
+				<ul><li><a href="header-navigation-right/imprint.html">imprint</a></li></ul>
+				
+			</div>
+			<div id="topNavigation">
+			<ul class="leftNav"><li><a href="company/about-partec.html">company</a><ul><li><a href="company/about-partec.html">about ParTec</a></li><li><a href="company/locations.html">locations</a></li><li><a href="company/job-offers.html">job offers</a></li><li><a href="company/terms-conditions.html">terms &amp; conditions</a></li><li><a href="company/media-kit.html">media kit</a></li><li><a href="company/download-for-isc-2012.html">Download for ISC 2012</a></li></ul></li><li><a href="news/partec-news.html">news</a><ul><li><a href="news/partec-news.html">ParTec news</a></li><li><a href="news/calender-of-events.html">calender of events</a></li><li><a href="news/newsletter.html">newsletter</a></li></ul></li><li><a href="products/overview.html">products</a><ul><li><a href="products/partec-support.html">ParTec Support</a></li><li><a href="products/parastationv5.html">ParaStationV5</a></li><li><a href="products/parastation-mpi.html">ParaStation MPI</a></li><li><a href="products/parastation-gridmonitor.html">ParaStation GridMonitor</a></li><li><a href="products/parastation-clustertools.html">ParaStation ClusterTools</a></li><li><a href="products/parastation-ticketsuite.html">ParaStation TicketSuite</a></li><li><a href="products/parastation-healthchecker.html">ParaStation HealthChecker</a></li><li><a href="products/intel-software.html">Intel Software</a></li></ul></li><li><a href="co-operations/partners.html">co-operations</a><ul><li><a href="co-operations/partners.html">partners</a></li><li><a href="co-operations/consortium.html">consortium</a></li><li><a href="co-operations/funded-projects.html">funded projects</a></li></ul></li></ul>
+			
+				<form action="index.php?id=98" method="post" name="topForm">
+					<input type="hidden" name="tx_indexedsearch[_sections]" value="0" />
+					<input type="hidden" name="tx_indexedsearch[_freeIndexUid]" value="_" />
+					<input type="hidden" name="tx_indexedsearch[pointer]" value="0" />
+					<input type="hidden" name="tx_indexedsearch[ext]" value="" />
+					<input type="hidden" name="tx_indexedsearch[type]" value="1" />
+					<input type="hidden" name="tx_indexedsearch[defOp]" value="0" />
+					<input type="hidden" name="tx_indexedsearch[media]" value="-1" />
+					<input type="hidden" name="tx_indexedsearch[order]" value="rank_flag" />
+					<input type="hidden" name="tx_indexedsearch[group]" value="flat" />
+					<input type="hidden" name="tx_indexedsearch[lang]" value="-1" />
+					<input type="hidden" name="tx_indexedsearch[desc]" value="0" />
+					<input type="hidden" name="tx_indexedsearch[results]" value="10" />
+					<input type="submit" name="tx_indexedsearch[submit_button]" value="Search" class="searchBtn" />
+					<input type="text" name="tx_indexedsearch[sword]" value="" class="search" />
+				</form>
+			</div>
+		</div>
+	</div>	
+	<div class="span_1-12 grid_span">
+		<div id="contentStart">
+			<div class="siteContentStartLeft">
+				<div id="c265" class="csc-default"><h2>ParTec Cluster Competence Center</h2><p class="bodytext"><i>ParTec</i> <i>Cluster Competence Center</i>&nbsp;delivers the software, consultancy and support services necessary to achieve new heights in productivity and availability on todays commodity based supercomputers.&nbsp; Parastation, an opensource project developed and maintained by ParTec, has unique features&nbsp; specifically designed to address the challenges of scalability and reliability on extremely large clusters.&nbsp; ParTec's unrivaled expertise in delivering professional services, consultancy and support has made it the&nbsp; partner of choice in some of the leading HPC sites across Europe.</p></div>
+			</div>
+			
+			<div class="siteContentStartMiddle">
+				<div id="c220" class="csc-default"><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap" style="width:482px;"><div class="csc-textpic-imagerow" style="width:482px;"><ul><li class="csc-textpic-image csc-textpic-firstcol" style="width:236px;"><a href="hpc-domains/computer-aided-engineering-cae.html"><img src="typo3temp/pics/c1a734fcdf.jpg" width="236" height="120" border="0" alt="" /></a></li><li class="csc-textpic-image csc-textpic-lastcol" style="width:236px;"><a href="hpc-domains/life-sciences.html"><img src="typo3temp/pics/f8506b8295.jpg" width="236" height="120" border="0" alt="" /></a></li></ul></div><div class="csc-textpic-imagerow" style="width:482px;"><ul><li class="csc-textpic-image csc-textpic-firstcol" style="width:236px;"><a href="hpc-domains/financial-services.html"><img src="typo3temp/pics/2ac6977a0e.jpg" width="236" height="121" border="0" alt="" /></a></li><li class="csc-textpic-image csc-textpic-lastcol" style="width:236px;"><a href="hpc-domains/scientific-research.html"><img src="typo3temp/pics/18bd807c98.jpg" width="236" height="121" border="0" alt="" /></a></li></ul></div><div class="csc-textpic-imagerow csc-textpic-imagerow-last" style="width:482px;"><ul><li class="csc-textpic-image csc-textpic-firstcol" style="width:236px;"><a href="hpc-domains/energy-oil-gas-and-petrochemical.html"><img src="typo3temp/pics/fa71a53c4d.jpg" width="236" height="117" border="0" alt="" /></a></li><li class="csc-textpic-image csc-textpic-lastcol" style="width:236px;"><a href="hpc-domains/government-defense.html"><img src="typo3temp/pics/fab4f3a4e8.jpg" width="236" height="117" border="0" alt="" /></a></li></ul></div></div><div class="csc-textpic-text"><p class="bodytext">HPC challenges are characterized by computational, data-intensive, or  numerically intensive tasks involving complex computations with large  data sets requiring exceptionally fast throughput.</p></div></div><div class="csc-textpic-clear"><!-- --></div></div>
+			</div>
+			
+			<div class="siteContentStartRight">
+				<div id="c222" class="csc-default"><h1>Latest News</h1>
+<div class="news-latest-container">
+	
+			<div class="news-latest-item">
+				<a href="news/partec-news/detail/article/industry-and-research-centres-create-a-european-technology-platform-for-high-performance-computing.html" title="Industry and Research Centres Create a European Technology  Platform for High Performance Computing"><img src="typo3temp/pics/3f61a8b973.jpg" width="60" height="40" border="0" alt="" /></a>
+				<h4>14.06.2012</h4><br />
+				<a href="news/partec-news/detail/article/industry-and-research-centres-create-a-european-technology-platform-for-high-performance-computing.html" title="Industry and Research Centres Create a European Technology  Platform for High Performance Computing">Industry and Research Centres Create a European Technology  Platform for High Performance Computing</a>
+				<hr class="clearer" />
+			</div>
+		
+			<div class="news-latest-item">
+				<a href="news/partec-news/detail/article/-a54fd8a578.html" title="Lustre Community Pavillion @SC11"><img src="typo3temp/pics/6352f7e7b2.jpg" width="60" height="40" border="0" alt="" /></a>
+				<h4>25.11.2011</h4><br />
+				<a href="news/partec-news/detail/article/-a54fd8a578.html" title="Lustre Community Pavillion @SC11">Lustre Community Pavillion @SC11</a>
+				<hr class="clearer" />
+			</div>
+		
+			<div class="news-latest-item">
+				<a href="news/partec-news/detail/article/high-tech-consortium-launches-european-technology-platform-for-high-performance-computing.html" title="Booster for Next-Generation Supercomputers"><img src="typo3temp/pics/840bf2f846.jpg" width="60" height="40" border="0" alt="" /></a>
+				<h4>10.11.2011</h4><br />
+				<a href="news/partec-news/detail/article/high-tech-consortium-launches-european-technology-platform-for-high-performance-computing.html" title="Booster for Next-Generation Supercomputers">Booster for Next-Generation Supercomputers</a>
+				<hr class="clearer" />
+			</div>
+		
+			<div class="news-latest-item">
+				<a href="news/partec-news/detail/article/european-industry-and-research-centres-join-forces-to-create-a-european-technology-platform-for-high.html" title="European industry and research centres join forces to create a European Technology Platform for High Performance Computing"><img src="typo3temp/pics/ab78c98038.jpg" width="60" height="40" border="0" alt="" /></a>
+				<h4>10.11.2011</h4><br />
+				<a href="news/partec-news/detail/article/european-industry-and-research-centres-join-forces-to-create-a-european-technology-platform-for-high.html" title="European industry and research centres join forces to create a European Technology Platform for High Performance Computing">European industry and research centres join forces to create a European Technology Platform for High Performance Computing</a>
+				<hr class="clearer" />
+			</div>
+		
+			<div class="news-latest-item">
+				<a href="news/partec-news/detail/article/high-tech-consortium-launches-european-technology-platform-for-high-performance-computing-copy-1.html" title="High-Tech Consortium launches European Technology Platform for High-Performance Computing"><img src="typo3temp/pics/e1f82aeaa5.jpg" width="60" height="40" border="0" alt="" /></a>
+				<h4>22.07.2011</h4><br />
+				<a href="news/partec-news/detail/article/high-tech-consortium-launches-european-technology-platform-for-high-performance-computing-copy-1.html" title="High-Tech Consortium launches European Technology Platform for High-Performance Computing">High-Tech Consortium launches European Technology Platform for High-Performance Computing</a>
+				<hr class="clearer" />
+			</div>
+		
+</div>
+</div><div id="c223" class="csc-default"><h2>Upcoming Events</h2>
+<div class="news-latest-container">
+	
+			<div class="news-latest-item events-latest-item">
+				<a href="news/partec-news/detail/article/international-supercomputing-conference-2012-june17-june-21-2012-hamburggermany.html" title="International Supercomputing Conference 2013, June16 - June 20, 2013, Leipzig/Germany"><img src="typo3temp/pics/0498b78dca.jpg" width="60" height="40" border="0" alt="" /></a>
+				<a href="news/partec-news/detail/article/international-supercomputing-conference-2012-june17-june-21-2012-hamburggermany.html" title="International Supercomputing Conference 2013, June16 - June 20, 2013, Leipzig/Germany">International Supercomputing Conference 2013, June16 - June 20, 2013, Leipzig/Germany</a>
+				<hr class="clearer" />
+			</div>
+		
+</div>
+</div><div id="c341" class="csc-default"><h2>Jobs - We're Hiring</h2><ul><li><h4><a href="company/job-offers/support-analyst.html" title="Opens internal link in current window" class="internal-link">Support Analyst</a></h4></li><li><h4><a href="company/job-offers/software-developer.html" title="Opens internal link in current window" class="internal-link">Software Developer</a></h4></li></ul></div><div id="c286" class="csc-default"><h2>Our Products</h2><div class="csc-textpic csc-textpic-center csc-textpic-above csc-textpic-caption-c"><div class="csc-textpic-imagewrap csc-textpic-single-image" style="width:216px;"><a href="products/partec-support.html"><img src="uploads/pics/Support_01.png" width="216" height="55" border="0" alt="" /></a></div><div class="csc-textpic-text"></div></div><div class="csc-textpic-clear"><!-- --></div></div><div id="c289" class="csc-default"><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap" style="width:210px;"><div class="csc-textpic-imagerow" style="width:210px;"><ul><li class="csc-textpic-image csc-textpic-firstcol" style="width:100px;"><a href="products/parastationv5.html"><img src="typo3temp/pics/77e96324aa.png" width="100" height="26" border="0" alt="" /></a></li><li class="csc-textpic-image csc-textpic-lastcol" style="width:100px;"><a href="products/parastation-mpi.html"><img src="typo3temp/pics/a737d9da0c.png" width="100" height="27" border="0" alt="" /></a></li></ul></div><div class="csc-textpic-imagerow csc-textpic-imagerow-last" style="width:210px;"><ul><li class="csc-textpic-image csc-textpic-firstcol" style="width:100px;"><a href="products/parastation-gridmonitor.html"><img src="typo3temp/pics/d8f361ecff.png" width="100" height="27" border="0" alt="" /></a></li><li class="csc-textpic-image csc-textpic-lastcol" style="width:100px;"><a href="products/parastation-healthchecker.html"><img src="typo3temp/pics/f15f36e15f.png" width="100" height="27" border="0" alt="" /></a></li></ul></div></div><div class="csc-textpic-text"><p class="bodytext"><b><a href="http://docs.par-tec.com/" title="Opens internal link in current window" target="_blank"><b>Latest versions of documentation</b></a></b></p>
+<p class="bodytext"><b><a href="products/intel-cluster-ready.html" title="Opens internal link in current window" class="internal-link">ParaStation is Intel  Cluster Ready</a></b></p>
+<p class="bodytext"><b><a href="products/intel-cluster-ready.html" title="Opens internal link in current window" class="internal-link">Â»  Learn </a></b><b><a href="products/intel-cluster-ready.html" title="Opens internal link in current window" class="internal-link">More</a></b></p></div></div><div class="csc-textpic-clear"><!-- --></div></div><div id="c225" class="csc-default"><h2>Funded Projects</h2><div class="csc-textpic csc-textpic-intext-left"><div class="csc-textpic-imagewrap csc-textpic-single-image"><a href="co-operations/funded-projects.html"><img src="typo3temp/pics/a8b293711d.jpg" width="65" height="38" border="0" alt="" /></a></div><div class="csc-textpic-text"><p class="align-left">ISAR Integrated system and application analysis for massive parallel  computer Members</p></div></div><div class="csc-textpic-clear"><!-- --></div></div><div id="c226" class="csc-default"><div class="csc-textpic csc-textpic-intext-left"><div class="csc-textpic-imagewrap csc-textpic-single-image"><a href="co-operations/funded-projects.html"><img src="typo3temp/pics/481c8f85c9.png" width="65" height="39" border="0" alt="" /></a></div><div class="csc-textpic-text"><p class="align-left">DGI-2 Deutsche Grid-Initiative</p></div></div><div class="csc-textpic-clear"><!-- --></div></div><div id="c227" class="csc-default"><div class="csc-textpic csc-textpic-intext-left"><div class="csc-textpic-imagewrap csc-textpic-single-image"><a href="co-operations/funded-projects.html"><img src="typo3temp/pics/66b4ec9dc6.png" width="65" height="24" border="0" alt="" /></a></div><div class="csc-textpic-text"><p class="align-left">ee-Clust Energy efficient cluster computing</p>
+<p class="align-left"><b>Â» <a href="co-operations/funded-projects.html" title="Opens internal link in current window" class="internal-link">all three projects funded by BMBF</a></b></p></div></div><div class="csc-textpic-clear"><!-- --></div></div><div id="c277" class="csc-default"><h2>Services Overview</h2><ul><li><span lang="EN-US">Technical consultation from our team of HPC engineers, programmers and administrators.</span><br /> </li><li><span lang="EN-US">Procurement, installation and commissioning from a single source.</span><br /> </li><li><span lang="EN-US">Project management and contract negotiation services</span></li><li>Vendor neutral hardware and software selection.<br /> </li><li><span lang="EN-US">Custom software integration.</span><br /> </li><li><a href="products/partec-support.html" title="Opens internal link in current window" class="internal-link"><span lang="EN-US">Flexible service and support packages.</span></a></li></ul></div>
+			</div>
+
+			<div class="siteContentStartBottom">
+				<div id="c229" class="csc-default"><h2>Customer Reference: Research Center JÃ¼lich</h2><div class="csc-textpic csc-textpic-intext-left csc-textpic-caption-l"><div class="csc-textpic-imagewrap"><dl class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol" style="width:330px;"><dt><a href="http://www.fz-juelich.de/jsc/juropa/" target="_blank"><img src="typo3temp/pics/b3b617a9f0.jpg" width="330" height="229" border="0" alt="" /></a></dt><dd class="csc-textpic-caption">picture source: Forschungszentrum JÃ¼lich. </dd></dl></div><div class="csc-textpic-text"><p class="bodytext">In June 2009,&nbsp;<a href="products/parastationv5.html" title="Opens internal link in current window" class="internal-link">ParaStationV5</a>&nbsp; propelled the 3288 node JuRoPA cluster  at the <a href="http://www.fz-juelich.de/jsc/en" title="Opens external link in new window" target="_blank" class="external-link-new-window">JÃ¼lich Supercomputer Centre</a>&nbsp; to an  impressive <b>274,8 Teraflops</b> of sustained performance with a parallel efficiency of <b>91,6%</b>. At that time JuRoPA <b>Ranked No. 10 in the World and&nbsp;</b><b>No. 1 in  Europe</b> of the most powerful general purpose supercomputers (<a href="http://top500.org/lists/2009/06" title="Opens external link in new window" target="_blank" class="external-link-new-window">top500.org</a>). &nbsp;<a href="products/parastation-mpi.html" title="Opens internal link in current window" class="internal-link"> ParaStationMPI</a> was shown to scale to more than <b>25,000 MPI processes</b>  (without threading) on this machine. </p>
+<p class="bodytext"><span lang="EN-US">JuRoPA was inaugurated May 26, 2009&nbsp;by &nbsp;the German Federal Minister for Education and Research, Prof. Dr. Annette Schavan, the Prime Minister of North Rhine-Westphalia, Dr. JÃ¼rgen RÃ¼ttgers, and Prof. Dr. Achim Bachem, Chairman of the Bord of Directors at Research Center JÃ¼lich as well as high-ranking international guests from academia, industry and politics.</span> </p></div></div><div class="csc-textpic-clear"><!-- --></div></div><div id="c266" class="csc-default"><h2>ParTec - Your Trusted Partner delivering -  High Availability - Scalability - Maximum Utilization</h2><p class="bodytext">ParTec understands that in todays economic climate the largest HPC installations have demanding requirements in areas such as power consumption and cooling efficiency. However, effective use of resources demands that equal attention be given to system <b>availability</b>, system <b>utilization</b> and<b> parallel efficiency</b> (scaling). ParTec has developed software, administration tools, maintenance techniques and scheduling policies which maximize machine utilization and give our customers maximum return on their investment. </p></div>
+			</div>
+			
+
+		</div>
+		<div class="clearer">&nbsp;</div>
+	</div>
+	
+	<div class="clearer">&nbsp;</div>
+</div>
+
+
+
+
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.pgroup.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!-- HEADER -->
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+  <meta name="generator" content="BBEdit for Mac" />
+  <title> The Portland Group </title>
+  <link type="image/png" rel="icon" href="favicon.ico" />
+  <meta name="description" content="PGI Product Feature Comparison Chart" />
+  <meta name="author" content="NVIDIA Corporation/The Portland Group" />
+  <meta name="keywords" content="compiler,fortran,F95,F77,HPF,F90,linux,HPC,parallel,OpenMP, MPI,PGI,SMP,debugger,profiler,C,C++,AMD64,Opteron,Xeon,EM64T,64-bit,64bit,accelerator,OpenACC,CUDA,GPU" />
+  <meta name="copyright" content="Copyright 2014 NVIDIA Corp., All Rights Reserved" />
+  <link type="text/css" rel="stylesheet" href="/include/style_home_2011.css" />
+  <link type="text/css" rel="stylesheet" href="/include/div_home_2011.css" />
+  <link type="text/css" rel="stylesheet" href="/include/cssmenu_2011.css" />
+<script type="text/javascript" language="javascript">
+AC_FL_RunContent = 0;</script> <script type="text/javascript" language="JavaScript" src="/include/cssmenu.js"></script> <script type="text/javascript" language="JavaScript" src="/include/AC_RunActiveContent.js"></script> 
+</head>
+<body>
+<div id="fortran-main-container">
+  <div id="fortran-header-container">
+    <div id="fortran-header-logo">
+      <h1>
+        <a href="/index.htm"> <img src="/images/tops/new_pgititle.gif" width="300" height="42" border="0" alt="The Portland Group" /> </a> 
+      </h1>
+    </div>
+    <div id="fortran-header-links">
+      <ul>
+        <li> <a href="/support/map.htm" class="TopNavLinks"> Site Map </a> </li>
+        <li> <a href="/about/contact.htm" class="TopNavLinks"> Contact </a> </li>
+        <li> 
+  <a href="https://www.pgroup.com/account/login.php">Log In</a>
+        </li>
+        <li> <a href="/search/search.php"> Search </a> </li>
+      </ul>
+    </div>
+
+<!--
+    <div id="fortran-header-search">
+      <form action="http://www.pgroup.com/search/search.php" id="cse-search-box">
+        <div>
+        <input type="hidden" name="cx" value="008345799920376471559:prqeovr5bmi" />
+        <input type="hidden" name="cof" value="FORID:11" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input type="text" name="q" size="20" />
+        <input type="submit" name="sa" value="Go" />
+          <input type="submit" name="sa" value="Search" /> 
+        </div>
+      </form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script> 
+    </div>
+-->
+    <div id="fortran-header-nav">
+      <div class="suckertreemenu">
+        <ul id="treemenu1">
+          <li style="border-left: 0px solid white;"> <a href="/index.htm"> Technology </a> 
+          <ul>
+            <li> <a href="/resources/unified_binary.htm" style="border-top: 1px solid navy;"> PGI Unified Binary </a> </li>
+            <li> <a href="/resources/mpitools.htm"> MPI Debugging &amp; Profiling </a> </li>
+            <li> <a href="/resources/accel.htm"> PGI Accelerator with OpenACC </a> </li>
+            <li> <a href="/resources/ccff.htm"> Common Compiler Feedback Format </a> </li>
+            <li> <a href="/resources/cudafortran.htm"> CUDA Fortran </a> </li>
+            <li> <a href="/resources/cuda-x86.htm" style="border-bottom: 1px solid navy;"> CUDA-x86 </a> </li>
+          </ul>
+          </li>
+          <li> <a href="/products/index.htm"> Products </a> 
+          <ul>
+            <li> <a href="" style="border-top: 1px solid navy;"> HPC Products </a> 
+            <ul>
+              <li> <a href="/products/pgiworkstation.htm" style="border-top: 1px solid navy;"> PGI Workstation </a> </li>
+              <li> <a href="/products/pgiserver.htm"> PGI Server </a> </li>
+              <li> <a href="/products/pgicdk.htm"> PGI CDK Cluster Development Kit </a> </li>
+              <li> <a href="/products/pvf.htm"> PGI Visual Fortran for Windows </a> </li>
+              <li> <a href="/pricing/imsl.htm" style="border-bottom: 1px solid navy;"> IMSL Fortran Library for Windows </a> </li>
+            </ul>
+            </li>
+            <li><a href="">HPC Platform Products </a>
+            <ul>
+              <li> <a href="/products/macpgi.htm" style="border-top: 1px solid navy;"> PGI Products for Apple OS X </a> </li>
+              <li> <a href="/products/winpgi.htm" style="border-bottom: 1px solid navy;"> PGI Products for Windows </a> </li>
+            </ul>
+            </li>
+            <li> <a href="/products/feature_compare.htm" style="border-bottom: 1px solid navy;"> HPC Product Feature Comparison </a> </li>
+          </ul>
+          </li>
+          <li> <a href="/"> Services </a> 
+          <ul>
+            <li> <a href="/pricing/subscription.htm" style="border-top: 1px solid navy;"> PGI Subscription Service </a> </li>
+            <li> <a href="/support/training_gpu.htm"> PGI GPU Training </a> </li>
+            <li> <a href="/support/premier.htm"> PGI Premier Service </a> </li>
+            <li> <a href="/support/proserv.htm" style="border-bottom: 1px solid navy;"> PGI Professional Services </a> </li>
+          </ul>
+          </li>
+          <li> <a href="/support/index.htm"> Support </a> 
+          <ul>
+            <li> <a href="/support/index.htm" style="border-top: 1px solid navy;"> Support Options </a> </li>
+            <li> <a href="/support/new_rel.htm"> Current Release Information </a> </li>
+            <li> <a href="/support/release.htm"> Current Version Information </a> </li>
+            <li> <a href="/license/"> Licensing </a> 
+            <ul>
+              <li> <a href="/license/pin_manage.php" style="border-top: 1px solid navy;"> Generate Permanent Keys </a> </li>
+              <li> <a href="/license/trialkey.php"> Generate Trial License Keys </a> </li>
+              <li> <a href="/license/trialkey_faq.php"> Trial License FAQ </a> </li>
+              <li> <a href="/support/install.htm#change_license"> Transfer License </a> </li>
+              <li> <a href="/support/install.htm#pin"> Locating Your PIN </a> </li>
+              <li> <a href="/support/faq.htm#ins" style="border-bottom: 1px solid navy;"> Licensing Troubleshooting </a> </li>
+            </ul>
+            </li>
+            <li> <a href="/support/faq.htm"> FAQ </a> 
+            <ul>
+              <li> <a href="/support/install.htm" style="border-top: 1px solid navy;"> Installation and Licensing </a> </li>
+              <li> <a href="/support/compile.htm"> Compilation </a> </li>
+              <li> <a href="/support/link.htm"> Linking </a> </li>
+              <li> <a href="/support/execute.htm"> Execution </a> </li>
+              <li> <a href="/support/portable.htm"> Portability </a> </li>
+              <li> <a href="/support/interlan.htm"> Inter-language </a> </li>
+              <li> <a href="/support/mpi.htm" style="border-bottom: 1px solid navy;"> MPI </a> </li>
+<!--
+              <li> <a href="/support/tools.htm" style="border-bottom: 1px solid navy;"> PGI Tools </a> </li> -->
+            </ul>
+            </li>
+            <li> <a href="/support/support_request.php" style="border-bottom: 1px solid navy;"> Support Request </a> </li>
+          </ul>
+          </li>
+          <li> <a href="/support/download_current.php"> Download </a> 
+          <ul>
+            <li> <a href="/support/trial.htm" style="border-top: 1px solid navy;"> Free Trial Software </a> </li>
+            <li> <a href="/support/download_current.php"> Current Version </a> </li>
+            <li> <a href="/support/release.htm"> Current Version Information </a> </li>
+            <li> <a href="/support/download_releases.php"> Archive Releases </a> </li>
+            <li> <a href="/support/download_licensing.php" style="border-bottom: 1px solid navy;"> Licensing Daemons </a> </li>
+          </ul>
+          </li>
+          <li> <a href="/resources/index.htm"> 
+<!--Help -->
+          Resources </a> 
+          <ul>
+            <li> <a href="/resources/docs.htm" style="border-top: 1px solid navy;"> Documentation </a> </li>
+<!--
+            <li> <a href="/resources/accel_files/index.htm"> PGI Accelerator Files </a> </li>
+-->
+            <li> <a href="/resources/tips.htm"> Porting &amp; Tuning Guides </a> </li>
+
+<!--  Authored Materials and Submenus -->
+<!--
+            <li> <a href="/resources/articles.htm"> PGI Authored Materials </a> 
+
+             <ul> 
+              <li> <a href="/resources/articles.htm#demos" style="border-top:1px solid navy; width:170px;"> Tutorial Videos </a> </li>
+              <li> <a href="/resources/articles.htm#articles" style="width:170px;"> Articles </a> </li>
+              <li> <a href="/resources/articles.htm#pginsider" style="width:170px;"> <i> PGInsider </i> Newsletters </a> </li>
+              <li> <a href="/resources/articles.htm#specs" style="width:170px;"> White Papers &amp; Specifications </a> </li>
+              <li> <a href="/resources/articles.htm#papers" style="border-bottom:
+1px solid navy;width: 170px;"> Technical Papers &amp; Presentations </a> </li>
+
+            </ul>
+            </li>
+ -->
+<!--  Authored materials as individual menu items -->
+
+            <li> <a href="/resources/articles.htm#demos"> Tutorial Videos </a> </li>
+              <li> <a href="/resources/articles.htm#pginsider"> <i> PGInsider </i> Newsletters </a> </li>
+              <li> <a href="/resources/articles.htm#specs" > White Papers &amp; Specifications </a> </li>
+              <li> <a href="/resources/articles.htm#papers"> Technical Papers &amp; Presentations </a> </li>
+              <li> <a href="/resources/articles.htm#articles">Articles </a> </li>
+
+
+
+            <li> <a href="/benchmark/index.htm"> Benchmarking </a> </li>
+
+<!--            <li> <a href="/resources/isv.htm"> PGI ISV Program </a> </li>
+-->
+
+            <li> <a href="/support/definitions.htm" style="border-bottom: 1px solid navy;"> Glossary </a> </li>
+          </ul>
+          </li>
+          <li> <a href="/userforum/index.php"> User Forums </a> 
+          <ul>
+            <li> <a href="/userforum/viewforum.php?f=4" style="border-top: 1px solid navy;"> Programming and Compiling </a> </li>
+            <li> <a href="/userforum/viewforum.php?f=12"> Accelerator Programming </a> </li>
+            <li> <a href="/userforum/viewforum.php?f=3"> Debugging and Profiling </a> </li>
+            <li> <a href="/userforum/viewforum.php?f=5"> License and Installation </a> </li>
+            <li> <a href="/userforum/viewforum.php?f=10"> Performance and Benchmarking </a> </li>
+            <li> <a href="/userforum/viewforum.php?f=11" style="border-bottom: 1px solid navy;"> PVF Education Program </a> </li>
+          </ul>
+          </li>
+          <li> <a href="/purchase/index.htm"> Purchase </a> 
+          <ul>
+            <li> <a href="/purchase/reseller.htm" style="border-top: 1px solid navy;"> Find a Reseller </a> </li>
+            <li> <a href="/purchase/order.htm"> Product Configurator </a> </li>
+            <li> <a href="/purchase/quote.php"> Quote Request </a> </li>
+            <li> <a href="/pricing/index.htm"> Pricing </a> </li>
+            <li> <a href="/doc/LICENSE.txt"> End-user License Agreement </a> </li>
+            <li> <a href="/support/SUBSCRIPTION_SERVICE"> Subscription Services Agreement </a> </li>
+            <li> <a href="/purchase/newresell.htm" style=" border-bottom: 1px solid navy;"> Become a Reseller </a> </li>
+          </ul>
+          </li>
+          <li> <a href="/about/index.htm" style="border-right: 0px solid white;"> About </a> 
+          <ul>
+            <li> <a href="/about/why_pgi.htm" style="width:110px; border-top: 1px solid navy;"> Why Choose PGI </a> </li>
+            <li> <a href="/about/news.htm" style="width:110px;"> News Center </a> </li>
+
+<!-- 
+            <li> <a href="http://jobs.st.com/" style="width:110px;"> Careers </a> </li>
+ -->
+            <li> <a href="/about/jobs.htm" style="width:110px;"> Job Openings </a> </li>
+            <li> <a href="/about/maps.htm" style="width:110px;"> Locations </a> </li>
+            <li> <a href="/about/contact.htm" style="width:110px;border-bottom: 1px solid navy;"> Contact PGI </a> </li>
+          </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- /HEADER -->
+<div id="homebody">
+	<div class="topleftwhite">
+<!-- 
+		<p style="margin:24px 0 0 0; padding:0 6px 0 18px;">
+			<img src="/images/accel_files/sma_acc_files.png" width="84" height="64" border="0" hspace="0" style="margin: 0px 8px 0px 0px;" align="left" />
+			<span style="font-size: 9pt; font-weight: bold;">
+				<a href="/resources/accel_files/index.htm">
+					PGI Accelerator Files
+				</a>
+			</span>
+			Articles, tutorials, source code and benchmarks to jumpstart your x64+GPU software development. 
+		</p>
+		<p style="margin:15px 0 0 0;padding:0px 6px 0 18px;">
+			PGI multi-core x64 Applications Porting and Tuning pages give step-by-step instructions on how to build popular applications, libraries and benchmarks including 
+			<a href="/resources/tips.htm#MPICH">
+				MPICH &amp; MPICH2</a>, 
+			<a href="/resources/tips.htm#WRF">
+				WRF</a>, 
+			<a href="/resources/tips.htm#NETCDF">
+				netCDF</a>, 
+			<a href="/resources/tips.htm#GAMESS">
+				GAMESS</a>, 
+			<a href="/resources/tips.htm#GOTOBLAS">
+				GotoBLAS</a>, 
+			<a href="/resources/tips.htm#OPENMPI">
+				OpenMPI</a>, and 
+			<a href="/resources/tips.htm">
+				more. 
+			</a>
+		</p>
+ -->
+<p style='text-align:left;margin:1em  0 0 1em;font-size:9pt;font-style:italic;'>PGI in the news...</p><p style='text-align:center;margin-top:1em;line-height:150%;font-size:18pt;color:#1b66ac;'>PGI 2014<br />Is Now Available</p><p style='margin:1em 0 0 8em;font-style:italic;font-size:9pt;'><a href='/support/new_rel.htm'>Read what's new&hellip;</a></p>	</div>
+	<div class="topcenter">
+		&nbsp; 
+	</div>
+	<div class="topright">
+
+<p style='text-align:center;margin-top:.75em;'><a href='/resources/accel.htm'><img src='/images/logos/openacc_logo_new.png' align='center' width='192' height='52' vspace='8' hspace='8' border='0' /></a><p style='margin-top:0em;'>PGI Accelerator&#153; compilers now include comprehensive support for the OpenACC specification for directive-based programming of GPUs and accelerators. <a href='/resources/accel.htm'>Learn more.</a> </p>	</div>
+	<div class="midall">
+		<h3 class="title">
+		</h3>
+		<div class="midleft">
+			<h3 class="title">
+				PGI<sup class="sup">&reg; </sup> Optimizing Fortran, C and C++ Compilers &amp; Tools 
+			</h3>
+			<table class="products" width="92%">
+				<tr>
+					<td> <a href="/products/pgiworkstation.htm"> <img src="/images/badges/work_logo_2.png" width="108" height="120" border="0" hspace="0" title="PGI&reg; Workstation: PGI's suite of compilers and tools" alt="PGI&reg; Workstation: PGI's suite of compilers and tools" align="top" /> </a> </td>
+					<td> 
+					<h4>
+						<a href="/products/pgiworkstation.htm"> PGI Workstation&#153; and PGI Server&#153; for x64 </a> 
+					</h4>
+					<p>
+						PGI optimizing multi-core x64 compilers for Linux, MacOS &amp; Windows with support for debugging and profiling of local MPI processes. A complete OpenMP/MPI SDK for high performance computing on the latest Intel and AMD CPUs. <a href="/support/downloads.php">Try</a>&nbsp;|&nbsp;<a href="/purchase/index.htm">Buy</a> 
+					</p>
+					</td>
+				</tr>
+				<tr>
+					<td> <a href="/resources/cudafortran.htm"> <img src="/images/badges/cuda_logo_2.png" width="108" height="120" hspace="0" border="0" title="PGI CUDA Compilers" alt="CUDA" /> </a> </td>
+					<td> 
+					<h4>
+						<a href="/resources/cudafortran.htm">PGI CUDA Fortran</a> and <a href="/resources/cuda-x86.htm">CUDA-x86</a> Compilers 
+					</h4>
+					<p>
+						<a href="/resources/cudafortran.htm">CUDA Fortran</a> enables GPU acceleration of HPC applications using the NVIDIA CUDA parallel programming model in a native optimizing Fortran 2003 compiler. Use <a href="/resources/cuda-x86.htm">CUDA-x86</a> to compile your CUDA C or CUDA Fortran program to run on x64 targets. Both products are compatible and interoperable with NVIDIA's CUDA C. <a href="/support/downloads.php?platform=workstation">Try</a>&nbsp;|&nbsp;<a href="/purchase/index.htm">Buy</a> 
+					</p>
+					</td>
+				</tr>
+				<tr>
+					<td> <a href="/resources/accel.htm"> <img src="/images/badges/accel_logo_2.png" width="108" height="120" border="0" hspace="0" title="PGI Accelerator Compilers" alt="PGI Accelerator Compilers" /> </a> </td>
+					<td> 
+					<h4>
+						<a href="/resources/accel.htm"> PGI Accelerator&#153; with OpenACC </a> 
+					</h4>
+					<p>
+						PGI Accelerator C99 &amp; Fortran enable high level programming of HPC applications for x64+accelerators using OpenACC compiler directives. Portable, incremental, and easy to use for application domain experts. <a href="/support/downloads.php">Try</a>&nbsp;|&nbsp;<a href="/purchase/index.htm">Buy</a> 
+					</p>
+					</td>
+				</tr>
+				<tr>
+					<td> <a href="/products/pgicdk.htm"> <img src="/images/badges/cdk_logo_2.png" width="108" height="120" border="0" hspace="0" title="PGI CDK&reg; Cluster 
+        Development Kit&reg;: Compilers and tools to develop, debug and 
+    MPI and OpenMP cluster applications" alt="PGI CDK&reg; 
+        Cluster Development Kit&reg;: Compilers and tools to develop,
+        debug and tune MPI and OpenMP cluster applications" /> </a> </td>
+					<td> 
+					<h4>
+						<a href="/products/pgicdk.htm"> The PGI CDK<sup class="sup">&reg; </sup> Cluster Development Kit<sup class="sup">&reg; </sup> </a> 
+					</h4>
+					<p>
+						The PGI CDK includes optimizing Fortran/C/C++ compilers configured to build, debug and profile MPI and hybrid MPI/OpenMP HPC applications for Linux clusters using the major open source MPI implementations. <a href="/support/downloads.php?platform=cdk">Try</a>&nbsp;|&nbsp;<a href="/purchase/index.htm">Buy</a> 
+					</p>
+					</td>
+				</tr>
+				<tr>
+					<td> <a href="/products/pvf.htm"> <img src="/images/badges/pvf_logo_2.png" width="108" height="120" border="0" hspace="0" title="PGI Visual Fortran&reg; 
+        integrates PGI parallel Fortran into Microsoft Windows through 
+        Visual Studio" alt="PGI Visual Fortran&reg; integrates PGI parallel Fortran into Microsoft Windows through Visual Studio" /> </a> </td>
+					<td> 
+					<h4>
+						<a href="/products/pvf.htm"> PGI Visual Fortran<sup class="sup">&reg; </sup> for Microsoft Windows </a> 
+					</h4>
+					<p>
+						PGI Visual Fortran brings optimizing multi-core x64 Fortran with integrated OpenMP/MPI debugging to scientists &amp; engineers on Microsoft Windows within Microsoft Visual Studio. <a href="/support/downloads.php?platform=workstation">Try</a>&nbsp;|&nbsp;<a href="/purchase/index.htm">Buy</a> 
+					</p>
+					</td>
+				</tr>
+			</table>
+<!--
+			<h3 class="title">
+				PGI Compilers for Mobile and Embedded Applications 
+			</h3>
+			<table class="products" width="92%">
+				<tr>
+					<td> <a href="/products/pgcl.htm"> <img src="/images/badges/ocl_logo_2.png" width="108" height="120" border="0" hspace="0" title="PGI OpenCL for STE NovaThor" alt="PGI OpenCL for STE NovaThor" align="top" /> </a> </td>
+					<td> 
+					<h4>
+						<a href="/products/pgcl.htm"> PGI OpenCL Compiler for Multi-core ARM </a> 
+					</h4>
+					<p>
+						PGCL&#153; is PGI's optimizing OpenCL&#153; compiler for the ST-Ericsson NovaThor highly integrated mobile platform. NovaThor is based on ARM&reg; processing cores and includes advanced graphics cores, powerful multimedia engines, and the latest mobile broadband and connectivity technologies. <a href="/support/pgcl_dl.php">Download</a> 
+					</p>
+					</td>
+				</tr>
+			</table>
+-->
+		</div>
+
+<!--  
+This is the scroller frame.  
+ *  The article list is in /include/scroller_settings.js
+ *  The layout is in /about/scroller.htm
+ *  The settings are in /include/scroller_settings.js
+ *  The actual scoller function is /include/scroller*.js
+ *  Old PGCL scroller height was 820
+-->
+		<div class="midright">
+			<iframe width="278" height="656" src="/about/scroller.htm" scrolling="no" frameborder="0"> </iframe> 
+		</div>
+	</div>
+	<div class="bottom">
+		<div class="bottomleft">
+			<h3>
+				Optimizing Performance 
+			</h3>
+			<ul>
+				<li> <a href="/resources/docs.htm"> Documentation </a> </li>
+				<li> <a href="/resources/tips.htm"> Porting and Tuning Guides </a> </li>
+				<li> <a href="/resources/articles.htm"> Tutorials and Specifications </a> </li>
+				<li> <a href="/userforum/index.php"> PGI User Forums </a> </li>
+				<li> <a href="/resources/articles.htm#pginsider"> <i>PGInsider</i> Technical Newsletter </a> </li>
+				<li> <a href="/support/faq.htm"> FAQ </a> </li>
+			</ul>
+		</div>
+		<div class="bottomcenter">
+			<h3>
+				Installation 
+			</h3>
+			<ul>
+				<li> <a href="/support/new_rel.htm"> Current Release Information </a> </li>
+				<li> <a href="/support/release.htm"> Current Version Information </a> </li>
+				<li> <a href="/support/downloads.php"> Software Updates </a> </li>
+				<li> <a href="/license/pin_manage.php"> Manage License Keys </a> </li>
+				<li> <a href="/resources/docs.htm"> Installation Guides </a> </li>
+				<li> <a href="/support/install.htm"> Installation FAQ </a> </li>
+			</ul>
+		</div>
+		<div class="bottomright">
+			<h3>
+				Buying PGI Products 
+			</h3>
+			<ul>
+				<li> <a href="/products/feature_compare.htm"> Product Comparison and Licensing Options </a> </li>
+				<li> <a href="/about/why_pgi.htm"> Why Choose PGI </a> </li>
+<!-- 
+				<li> <a href="/purchase/order.php"> Purchase Online </a> </li>
+ -->
+				<li> <a href="/purchase/order.htm"> Configure Online </a> </li>
+				<li> <a href="/pricing/index.htm"> Pricing </a> </li>
+
+<!-- 
+				<li>
+					<a href="/purchase/eula.pdf">
+						PGI End-user License Agreement 
+					</a>
+				</li>
+				<li>
+					<a href="/purchase/subscription.pdf">
+						PGI Subscription Service Agreement 
+					</a>
+				</li>
+ -->
+				<li> <a href="/purchase/freepvf.php">Free PVF License for US and German Academics</a> </li>
+				<li> <a href="/purchase/quote.php"> Request a Quote </a> </li>
+
+<!-- 
+				<li>
+					<a href="/purchase/reps.htm">
+						Representations and Certifications 
+					</a>
+				</li>
+ -->
+			</ul>
+		</div>
+	</div>
+	<div class="faux">
+	</div>
+</div>
+</div>
+	<div class="footer">
+		Copyright &copy; 2014 NVIDIA Corporation
+		<br />
+<a href="/about/legal.htm" class="Footer">Terms of Use</a> | <a href="http://www.nvidia.com/object/privacy_policy.html" class="Footer">Privacy Policy</a> | <a href="/about/contact.htm" class="Footer">Website Feedback</a> 
+	</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script> <script type="text/javascript">
+_uacct = "UA-1678341-1";
+urchinTracker();
+</script> 
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.utexas.edu/users/psp/welcome.html>====================
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.51 [en] (X11; U; SunOS 5.5.1 sun4u) [Netscape]">
+   <title>PSP group at UT Austin</title>
+<!-- Changed by: Rajeev Joshi, 17-Jul-1996 -->
+<!-- Changed by: Jacob Kornerup, 24-Oct-1996 -->
+<!-- Changed by: Rajeev Joshi, 25-Nov-1996 -->
+<!-- Changed by: Rajeev Joshi, 27-Oct-1997 -->
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#0000EE" vlink="#551A8B" alink="#FF0000">
+
+<center>
+<h1>
+<font color="#CC33CC">PSP Group at UT Austin</font></h1></center>
+This is the home page for the PSP group in the <a href="http://www.cs.utexas.edu/">Department
+of Computer Sciences</a> at <a href="http://wwwhost.cc.utexas.edu/">The
+University of Texas at Austin</a>. PSP stands for Programs, Specifications
+and Proofs. The emphasis of the work of our group is to derive parallel
+and distributed programs in a rigorous manner. The group is supervised
+by <a href="http://www.cs.utexas.edu/users/misra">Jayadev Misra</a>, who
+developed the theories we work on. The research areas are: <a href="#unitysec">UNITY</a>,
+<a href="#plistsec">Powerlists</a>
+and <a href="#seusssec">Seuss</a>.
+<p>Current and former members of the group include:
+<ul>
+<li>
+<a href="http://www.cs.utexas.edu/users/misra/">Jayadev Misra</a></li>
+
+<li>
+Will Adams (<i>graduated 2000</i>)</li>
+
+<li>
+Al Carruth</li>
+
+<li>
+<a href="ftp://ftp.bellcore.com/pub/ernie/research/homepage.html">Ernie
+Cohen</a> (<i>graduated 1992</i>)</li>
+
+<li>
+Rajeev Joshi (<i>graduated 1999</i>)</li>
+
+<li>
+<a href="http://www.cs.utexas.edu/users/psp/markus/">Markus Kaltenbach</a>
+(<i>graduated 1996</i>)</li>
+
+<li>
+Edgar Knapp (<i>graduated 1992</i>)</li>
+
+<li>
+<a href="http://www.cs.utexas.edu/users/kornerup/">Jacob Kornerup</a> (<i>graduated
+1997</i>)</li>
+
+<li>
+Ingolf Kr&uuml;ger (<i>graduated 1996</i>)</li>
+
+<li>
+Josyula R Rao (<i>graduated 1992</i>)</li>
+
+<li>
+Mark Staskauskas (<i>graduated 1992</i>)</li>
+
+<li>
+Steve Roberts</li>
+</ul>
+
+<hr>
+<center>
+<h1>
+<font color="#CC33CC">Publications</font></h1></center>
+Below we summarize the areas we work in; wherever possible we give links
+to papers that are available electronically.
+<center>
+<h2>
+<a NAME="unitysec"></a>UNITY</h2></center>
+UNITY is a programming notation and a logic to reason about parallel and
+distributed programs. UNITY is presented in the book: J. Misra and K. M.
+Chandy, <i>Parallel Program Design: A Foundation</i>, Addison-Wesley, 1988.
+<p>The <a href="http://www.cs.utexas.edu/users/psp/notesunity.html">notes
+on UNITY</a> is a series of papers presenting various results about UNITY
+and its applications. The notes assumes a basic understanding of the UNITY
+theory as presented in Chandy and Misra's book.
+<p>Since the publication of the book several improvements have been made
+in the theory, some of which are reflected in the <a href="http://www.cs.utexas.edu/users/psp/notesunity.html">notes
+on UNITY</a>, Jayadev Misra has written a manuscript for a book that presents
+the <a href="http://www.cs.utexas.edu/users/psp/newunity.html">New UNITY</a>,
+this includes the introduction of a new temporal operator
+<i>co</i> for
+specifying safety.
+<p>&nbsp;See <a href="http://www.cs.utexas.edu/users/psp/unity.html">further
+UNITY references</a> for references to other papers and implementations.
+<p>&nbsp;<a href="http://www.cs.utexas.edu/users/markus/">Markus Kaltenbach</a>
+has written a symbolic model checker for finite state UNITY programs, called
+the <a href="http://www.cs.utexas.edu/users/markus/uv/uv.html">UNITY Verifier
+(UV)</a>. He also extended the UNITY theory in such a way that design knowledge
+can be used to speed up mechanical proofs of progress properties. For more
+details see his
+<a href="http://www.cs.utexas.edu/users/psp/markus/diss.html">dissertation</a>
+<p>Al Carruth has extended the UNITY logic to include real time aspects
+of computing and hybrid systems.
+<center>
+<h2>
+<a NAME="plistsec"></a>Powerlists</h2></center>
+Powerlists is a notation for describing synchronous parallel programs and
+circuits. The data structure is a list of length equal to a power of two,
+with two different operations for balanced divisions of lists. Many parallel
+algorithms have a succinct presentation and simple proofs in the powerlist
+notation. Jayadev Misra's paper <a href="http://www.cs.utexas.edu/users/psp/powerlist.ps">
+Powerlists: A Structure for Parallel Recursion </a>presents the notation and gives
+numerous examples of algorithms and proofs of their correctness, including
+the Fast Fourier Transform and Batcher's sorting network.
+<p>&nbsp;Will Adams has studied how different arithmetic circuits, such
+as adders and multipliers, can be specified and proved correct in the powerlist
+notation. His paper <a href="ftp://ftp.cs.utexas.edu/pub/techreports/tr94-02.ps.Z">Verifying
+adder circuits using powerlists</a> is available.
+<p>&nbsp;<a href="http://www.cs.utexas.edu/users/kornerup">Jacob Kornerup</a>
+has studied how powerlist programs can be mapped efficiently to different
+parallel architectures, specially hypercubes. He has also studied different
+sorting algorithms and extended the theory to lists of arbitrary (positive)
+length lists, called
+<i>Parlists</i>. See his <a href="http://www.cs.utexas.edu/users/kornerup/kornerup-papers.html">List
+of papers</a> for details about this research.
+<center>
+<h2>
+<a NAME="seusssec"></a>Seuss</h2></center>
+Seuss is an offspring of the work on UNITY. It addresses the issue of program
+composition, by restricting how program components interact with each other.
+For an introduction to Seuss, read <a href="http://www.cs.utexas.edu/users/psp/acm.html">Overview
+of Seuss</a>. The book <a href="http://www.softpro.com/0-387-95206-3.html">A
+Discipline of Multiprogramming</a> by Jayadev Misra
+(Springer-Verlag, 2001) treats the topics in detail. A <a href="http://www.cs.utexas.edu/users/psp/discipline.ps.gz">few chapters</a>
+from the book are here.
+A compiler for Seuss that generates C++ code and PVM calls for message
+communicating networks is described in Ingolf Kr&uuml;ger's M.S. thesis
+<a href="http://www-cse.ucsd.edu/~ikrueger/publications/Thesis.ps">An
+experiment in compiler design for a concurrent object-based programming
+language</a>. Recent implementation work has focused on implementing Seuss
+using the Java virtual machine.&nbsp; This work involved adapting the Seuss
+notation for Java programmers; a <a href="http://www.cs.utexas.edu/users/psp/SeussJava.ps">description
+of the resulting language</a>, called <i>Seuss for Java</i>, is available.
+Most of this language was implemented by Raymond Tse; <a href="http://www.cs.utexas.edu/users/psp/rtse/seuss/index.html">details
+of his implementation</a> are also available.
+<br>&nbsp;
+<hr>
+<script LANGUAGE="JavaScript">
+        var theDate = ""
+        theDate = document.lastModified
+        document.write("This page was last updated on: ");
+        document.write(theDate);
+        document.write();
+</script>
+
+<address>
+It is currently maintained by <a href="mailto:joshi@cs.utexas.edu">Rajeev
+Joshi</a>.</address>
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.myri.com/>====================
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+	<head>
+
+
+
+          <base href="http://www.myricom.com/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="myricom, ethernet" />
+  <meta name="description" content="Myricom - Extreme Performance Ethernet" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Home</title>
+  <link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/myricom/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/media/com_finder/css/finder.css" type="text/css" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/com_finder/js/autocompleter.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+  </script>
+  <script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+try { if (undefined == xajax.config) xajax.config = {}; } catch (e) { xajax = {}; xajax.config = {}; };
+xajax.config.requestURI = "http://www.myricom.com/index.php";
+xajax.config.statusMessages = false;
+xajax.config.waitCursor = false;
+xajax.config.version = "xajax 0.5";
+xajax.config.legacy = false;
+xajax.config.defaultMode = "asynchronous";
+xajax.config.defaultMethod = "POST";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.myricom.com/plugins/system/blueflame/xajax/xajax_js/xajax_core.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+window.setTimeout(
+ function() {
+  var scriptExists = false;
+  try { if (xajax.isLoaded) scriptExists = true; }
+  catch (e) {}
+  if (!scriptExists) {
+   alert("Error: the xajax Javascript component could not be included. Perhaps the URL is incorrect?\nURL: http://www.myricom.com/plugins/system/blueflame/xajax/xajax_js/xajax_core.js");
+  }
+ }, 9000);
+/* ]]> */
+</script>
+
+<script type='text/javascript' charset='UTF-8'>
+/* <![CDATA[ */
+xajax_bf_com_form_Handler = function() { return xajax.request( { xjxfun: 'bf_com_form_Handler' }, { parameters: arguments } ); };
+/* ]]> */
+</script>
+  <script type='text/javascript' charset='UTF-8'>var bf_xajax = 'd0c4c39cb16bd892691bba4cd63126cc';</script>
+  <!-- start swMenuPro8.0 gosumenu javascript and CSS links -->
+<script type="text/javascript" src="http://www.myricom.com/modules/mod_swmenupro/DropDownMenuX_Packed.js"></script>
+
+<style type='text/css'>
+<!--
+#outertable91 ,
+#outertable91 table,
+#outertable91 tr,
+#outertable91 td,
+#menu91 table,
+#menu91,
+#menu91 tr,
+#menu91 td{
+border:0 !important; 
+}
+#outerwrap91 {
+ top: 105px !important ; 
+ left: 280px; 
+ border:0px solid #FFFFFF  ; 
+ padding:0px 0px 0px 0px  !important; 
+ display: block; 
+ position: relative; 
+ z-index: 99; 
+}
+.ddmx91 a.item1,
+.ddmx91 a.item1:hover,
+.ddmx91 a.item1-active,
+.ddmx91 a.item1-active:hover {
+ padding: 2px 18px 0px 10px  !important ; 
+ font-size: 11px !important ; 
+ font-family: Arial, Helvetica, sans-serif !important ; 
+ text-align: left !important ; 
+ font-weight: bold !important ; 
+ color: #FFFFFF  ; 
+ font-style: normal !important;
+ text-decoration: none !important;
+ text-transform: none !important;
+ border-top: 0px solid #124170; 
+ border-bottom: 0px solid #124170; 
+ border-left: 0px solid #124170; 
+ border-right: 0; 
+ display: block; 
+ white-space: nowrap; 
+ position: relative; 
+ z-index: 200; 
+ margin:0px 0px 0px 0px  ; 
+background-image:none !important; 
+}
+.ddmx91 td.item11.last a.item1-active,
+.ddmx91 td.item11.last a.item1 {
+ border: 0px solid #124170;
+}
+.ddmx91 a.item1-active,
+.ddmx91 a.item1-active:hover ,
+.ddmx91 .last a:hover,
+.ddmx91 .acton.last a,
+.ddmx91 a.item1:hover{
+ white-space: nowrap; 
+background-image:none !important;
+}
+.ddmx91 .item11:hover,
+.ddmx91 .item11.acton:hover,
+.ddmx91 .item11.last:hover,
+.ddmx91 .item11.acton a.item1,
+.ddmx91 .item11.acton a:hover,
+.ddmx91 .item11 a:hover,
+.ddmx91 .item11.last a:hover,
+.ddmx91 a.item1-active,
+.ddmx91 a.item1-active:hover {
+ color: #8AC6FE  ; 
+}
+.ddmx91 .acton a.item1-active,
+.ddmx91 .acton a.item1:hover,
+.ddmx91 .acton a.item1 {
+ white-space: nowrap; 
+background-image:none !important;
+ color: #8AC6FE !important ; 
+}
+.ddmx91 a.item2,
+.ddmx91 a.item2:hover,
+.ddmx91 a.item2-active,
+.ddmx91 a.item2-active:hover {
+ padding: 5px 5px 5px 5px  !important ; 
+ font-size: 11px !important ; 
+ font-family: Arial, Helvetica, sans-serif !important ; 
+ text-align: left !important ; 
+ font-weight: bold !important ; 
+ font-style: normal !important;
+ text-decoration: none !important;
+ text-transform: none !important;
+ display: block; 
+ white-space: nowrap !important; 
+ opacity:0.82; 
+ filter:alpha(opacity=82) 
+}
+.ddmx91 a.item2-active ,
+.ddmx91 a.item2 {
+background-image:none !important;
+ background-color: #000000 !important ; 
+ color: #FFFFFF !important ; 
+ border-top: 1px solid #124170 !important ; 
+ border-left: 1px solid #124170 !important ; 
+ border-right: 1px solid #124170 !important ; 
+}
+.ddmx91 a.item2-active.last,
+.ddmx91 a.item2.last {
+ border-bottom: 1px solid #124170 !important ; 
+ z-index:500; 
+}
+.ddmx91 .section a.item2:hover,
+.ddmx91 a.item2-active,
+.ddmx91 a.item2-active:hover {
+background-image:none !important;
+ color: #8AC6FE !important ; 
+ border-top: 1px solid #124170 !important ; 
+ border-left: 1px solid #124170 !important ; 
+ border-right: 1px solid #124170 !important ; 
+}
+.ddmx91 .section {
+ border: 0px solid #FFFFFF ; 
+ position: absolute; 
+ visibility: hidden; 
+ display: block; 
+ z-index: -1; 
+}
+.ddmx91 .inner_section {
+ background-color: #000000 ; 
+ display: block; 
+}
+.ddmx91 .subsection a{
+ white-space:normal !important; 
+}
+.ddmx91frame {
+ border: 0px solid #FFFFFF !important ; 
+}
+.ddmx91 .item11.acton.last .item1 img.seq2,
+.ddmx91 .item11.acton .item1 img.seq2,
+.ddmx91 img.seq1
+{
+ display:    inline; 
+}
+.ddmx91 a.item1:hover img.seq2,
+.ddmx91 a.item1-active img.seq2,
+.ddmx91 a.item1-active:hover img.seq2,
+.ddmx91 a.item2:hover img.seq2,
+.ddmx91 a.item2-active img.seq2,
+.ddmx91 a.item2-active:hover img.seq2
+{
+ display:    inline; 
+}
+.ddmx91 img.seq2,
+.ddmx91 .item11.acton.last .item1 img.seq1,
+.ddmx91 .item11.acton .item1 img.seq1,
+.ddmx91 a.item2:hover img.seq1,
+.ddmx91 a.item2-active img.seq1,
+.ddmx91 a.item2-active:hover img.seq1,
+.ddmx91 a.item1:hover img.seq1,
+.ddmx91 a.item1-active img.seq1,
+.ddmx91 a.item1-active:hover img.seq1
+{
+ display:   none; 
+}
+* html .ddmx91 td { position: relative; } /* ie 5.0 fix */
+.ddmx91 .item2-active img,
+.ddmx91 .item2 img,
+.ddmx91 .item1-active img,
+.ddmx91 .item1 img{
+ border:none;
+}
+
+-->
+</style>
+
+<!--End SWmenuPro CSS and Javascript-->
+
+        
+        <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        
+        <link rel="stylesheet" href="/templates/myricom/css/styles.css" media="screen" />
+        <script type="text/javascript" src="/includes/js/jquery.min.js"></script>
+        <script type="text/javascript" src="/includes/js/jquery.cycle.all.2.72.js"></script>
+        <script type="text/javascript" src="/includes/js/jquery.easing.1.1.1.js"></script>
+        <script type="text/javascript" src="/includes/js/DD_roundies_0.0.2a-min.js"></script>
+        
+        		<div class="moduletable">
+					<script type='text/javascript' id='license'>
+function updateversions(product)
+{
+    var product_array = product.split(",");
+        document.getElementById("product").value=product_array[0];
+        document.getElementById("versions").value=product_array[1];
+}
+function isNotQuote(evt) {
+    var charCode = (evt.which) ? evt.which : event.keyCode
+    if (charCode == "'".charCodeAt(0))
+      return false;
+    return true;
+}
+  function isNumberKey(evt) {
+    var charCode = (evt.which) ? evt.which : event.keyCode
+    if (charCode > 31 && (charCode < 48 || charCode > 57) && charCode != ",".charCodeAt(0) && charCode != " ".charCodeAt(0) && charCode != "\n".charCodeAt(0))
+      return false;
+    return true;
+}
+</script>
+
+<script type='text/javascript' id='sourcecode'>
+	$(function()
+	{
+		$('#home-slideshow').cycle({
+			fx:'fade', 
+			speed:    4000
+		});
+	});
+
+	$(function()
+	{
+		$('.mod_placehere').cycle({
+			fx:'fade',
+                        continuous: 1,
+                        speedOut: 3000,
+                        speed: 3750,
+                        delay: 3000,
+                        cleartypeNoBg: 1
+		});
+	});
+</script>
+		</div>
+	
+        
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36979112-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	</head>
+	<body>
+<div id="wrapper">
+
+        <div id="header">
+                <div id="logo">
+                        		<div class="moduletable">
+					<h1><a href="/index.php">Myricom: Extreme Performance Ethernet</a></h1>		</div>
+	
+                </div>
+                <div id="navigation">
+                        		<div class="moduletable">
+					
+<!--SWmenuPro8.0 gosumenu by http://www.swmenupro.com-->
+<table  id="outertable91" align="left" class="outer"><tr><td><div id="outerwrap91">
+<table cellspacing="0" border="0" cellpadding="0" id="menu91" class="ddmx91"  > 
+<tr> 
+<td class='item11 acton'> 
+<a href="/" class="item1">Home</a><div class="section" style="border:0 !important;display:none;"></div> 
+</td> 
+<td class='item11'> 
+<a href="/about-us/myricom-corporate-profile.html" class="item1">About Us</a><div class="section"  ><a href="/about-us/myricom-corporate-profile.html" class="item2 first"  style="" >Myricom Corporate Profile</a>
+<a href="/about-us/contact-us.html" class="item2"  style="" >Contact Us</a>
+<a href="/about-us/directions.html" class="item2"  style="" >Directions</a>
+<a href="/about-us/employment-opportunities.html" class="item2 last"  style="" >Employment Opportunities</a>
+</div></td> 
+<td class='item11'> 
+<a href="/solutions/overview.html" class="item1">Solutions</a><div class="section"  ><a href="/solutions/overview.html" class="item2 first"  style="" >Overview</a>
+<a href="/solutions/10-gigabit-ethernet.html" class="item2"  style="" >10 Gigabit Ethernet</a>
+<div class="section"  ><a href="/solutions/10-gigabit-ethernet/overview.html" class="item2 first"  style="" >Overview</a>
+<a href="/solutions/10-gigabit-ethernet/performance.html" class="item2"  style="" >Performance</a>
+<a href="/solutions/10-gigabit-ethernet/additional-applications.html" class="item2"  style="" >Additional Applications</a>
+<a href="/solutions/10-gigabit-ethernet/recommended-products.html" class="item2 last"  style="" >Recommended Products</a>
+</div><a href="/solutions/financial-trading.html" class="item2"  style="" >Financial Trading</a>
+<a href="/solutions/cybersecurity.html" class="item2"  style="" >Cybersecurity</a>
+<a href="/solutions/video-and-content-delivery.html" class="item2"  style="" >Video and Content Delivery</a>
+<a href="/solutions/industrial-imaging.html" class="item2"  style="" >Industrial Imaging</a>
+<a href="/solutions/hpc-high-performance-computing.html" class="item2"  style="" >HPC (High Performance Computing)</a>
+<a href="/solutions/virtualization.html" class="item2 last"  style="" >Virtualization</a>
+</div></td> 
+<td class='item11'> 
+<a href="/products/network-adapters.html" class="item1">Products</a><div class="section"  ><a href="/products/network-adapters.html" class="item2 first"  style="" >Network Adapters</a>
+<div class="section"  ><a href="/products/network-adapters/product-selector.html" class="item2 first"  style="" >Product Selector</a>
+<a href="/products/network-adapters/10g-pcie2-8c2-2s-sync.html" class="item2"  style="" >10G-PCIE2-8C2-2S-SYNC</a>
+<a href="/products/network-adapters/10g-pcie2-8c2-2s.html" class="item2"  style="" >10G-PCIE2-8C2-2S</a>
+<a href="/products/network-adapters/10g-pcie2-8b2-2s.html" class="item2"  style="" >10G-PCIE2-8B2-2S</a>
+<a href="/products/network-adapters/10g-pcie-8b-2s.html" class="item2"  style="" >10G-PCIE-8B-2S</a>
+<a href="/products/network-adapters/10g-pcie-8b-s.html" class="item2"  style="" >10G-PCIE-8B-S</a>
+<a href="/products/network-adapters/10g-pcie-8a-r.html" class="item2"  style="" >10G-PCIE-8A-R</a>
+<a href="/products/network-adapters/10g-pcie-8b-c.html" class="item2"  style="" >10G-PCIE-8B-C</a>
+<a href="/products/network-adapters/10g-pcie-8b-2c.html" class="item2"  style="" >10G-PCIE-8B-2C</a>
+<a href="/products/network-adapters/10g-pcie2-8b2-2c.html" class="item2"  style="" >10G-PCIE2-8B2-2C</a>
+<a href="/products/network-adapters/10g-pcie-8b-qp.html" class="item2"  style="" >10G-PCIE-8B-QP</a>
+<a href="/products/network-adapters/10g-pcie2-8b2-2qp.html" class="item2"  style="" >10G-PCIE2-8B2-2QP</a>
+<a href="/products/network-adapters/10g-pcie-8b-2i.html" class="item2"  style="" >10G-PCIE-8B-2I</a>
+<a href="/products/network-adapters/10g-pcie-8b2-4i.html" class="item2 last"  style="" >10G-PCIE-8B2-4I</a>
+</div><a href="/products/transceivers.html" class="item2"  style="" >Transceivers</a>
+<div class="section"  ><a href="/products/transceivers/10g-sfp-sr.html" class="item2 first"  style="" >10G-SFP-SR</a>
+<a href="/products/transceivers/10g-sfp-lr.html" class="item2"  style="" >10G-SFP-LR</a>
+<a href="/products/transceivers/10g-xfp-sr.html" class="item2"  style="" >10G-XFP-SR</a>
+<a href="/products/transceivers/10g-xfp-lr.html" class="item2 last"  style="" >10G-XFP-LR</a>
+</div><a href="/products/cables.html" class="item2 last"  style="" >Cables</a>
+<div class="section"  ><a href="/products/cables.html" class="item2 first"  style="" >10G-SR</a>
+<a href="/products/cables.html" class="item2"  style="" >10G-SFPDA</a>
+<a href="/products/cables.html" class="item2"  style="" >10G-QC</a>
+<a href="/products/cables.html" class="item2"  style="" >10G-QP</a>
+<a href="/products/cables.html" class="item2 last"  style="" >10G-CX4</a>
+</div></div></td> 
+<td class='item11'> 
+<a href="/sales.html" class="item1">Sales</a><div class="section"  ><a href="/sales/how-to-buy.html" class="item2 first"  style="" >How to Buy</a>
+<a href="/sales/become-a-partner.html" class="item2 last"  style="" >Become a Partner</a>
+</div></td> 
+<td class='item11'> 
+<a href="/support.html" class="item1">Support</a><div class="section"  ><a href="/support/support-home.html" class="item2 first"  style="" >Support Home</a>
+<a href="/support/downloads.html" class="item2"  style="" >Downloads</a>
+<div class="section"  ><a href="/support/downloads/myri10ge.html" class="item2 first"  style="" >Myri10GE</a>
+<a href="/support/downloads/dbl.html" class="item2"  style="" >DBL</a>
+<a href="/support/downloads/sniffer10g.html" class="item2"  style="" >Sniffer10G</a>
+<a href="/support/downloads/videopump.html" class="item2"  style="" >VideoPump</a>
+<a href="/support/downloads/mva.html" class="item2"  style="" >MVA</a>
+<a href="/support/downloads/mx.html" class="item2"  style="" >MX</a>
+<div class="section"  ><a href="/support/downloads/mx/mx-10g.html" class="item2 first"  style="" >MX-10G</a>
+<a href="/support/downloads/mx/mpich-mx.html" class="item2 last"  style="" >MPICH-MX</a>
+</div><a href="/support/downloads/tools.html" class="item2"  style="" >Tools</a>
+<div class="section"  ><a href="/support/downloads/tools/myri-10g-toolkit.html" class="item2 first"  style="" >Myri-10G Toolkit</a>
+<a href="/support/downloads/tools/fms.html" class="item2 last"  style="" >FMS</a>
+</div><a href="/support/downloads/switches.html" class="item2"  style="" >Switches</a>
+<a href="/support/downloads/legacy-software.html" class="item2 last"  style="" >Legacy Software</a>
+<div class="section"  ><a href="/support/downloads/legacy-software/mx-2g.html" class="item2 first last"  style="" >MX-2G</a>
+</div></div><a href="/support/documentation.html" class="item2"  style="" >Documentation / FAQs</a>
+<div class="section"  ><a href="/support/documentation/hardware.html" class="item2 first"  style="" >Hardware</a>
+<div class="section"  ><a href="/support/documentation/hardware/myri-10g-network-adapters.html" class="item2 first"  style="" >Myri-10G Network Adapters</a>
+<a href="/support/documentation/hardware/myri10g-switches.html" class="item2"  style="" >Legacy Myri-10G HPC Switches</a>
+<a href="/support/documentation/hardware/myrinet-2000-network-adapters.html" class="item2"  style="" >Legacy Myrinet-2000 Network Adapters</a>
+<a href="/support/documentation/hardware/myrinet-2000-switches.html" class="item2 last"  style="" >Legacy Myrinet-2000 Switches</a>
+</div><a href="/support/documentation/software.html" class="item2"  style="" >Software</a>
+<div class="section"  ><a href="/support/documentation/software/myri10ge.html" class="item2 first"  style="" >Myri10GE</a>
+<a href="/support/documentation/software/dbl.html" class="item2"  style="" >DBL</a>
+<a href="/support/documentation/software/sniffer10g.html" class="item2"  style="" >Sniffer10G</a>
+<a href="/support/documentation/software/videopump.html" class="item2"  style="" >VideoPump</a>
+<a href="/support/documentation/software/mva.html" class="item2"  style="" >MVA</a>
+<a href="/support/documentation/software/myri-10g-network-adapter-tool-kit.html" class="item2"  style="" >Myri-10G Network Adapter Tool Kit</a>
+<a href="/support/documentation/software/mx.html" class="item2"  style="" >MX</a>
+<a href="/support/documentation/software/mpi-implementations-with-mx.html" class="item2"  style="" >MPI Implementations with MX</a>
+<a href="/support/documentation/software/fabric-management-system-fms.html" class="item2 last"  style="" >Fabric Management System (FMS)</a>
+</div><a href="/support/documentation/general-information.html" class="item2 last"  style="" >General Information</a>
+<div class="section"  ><a href="/support/documentation/general-information/software-licensing.html" class="item2 first"  style="" >Software Licensing</a>
+<a href="/support/documentation/general-information/rohs-directive.html" class="item2"  style="" >RoHS Directive</a>
+<a href="/support/documentation/general-information/return-merchandise-authorization-rma.html" class="item2 last"  style="" >Return Merchandise Authorization (RMA)</a>
+</div></div><a href="/support/contact-support.html" class="item2"  style="" >Contact Support</a>
+<a href="/support/support-home.html" class="item2 last"  style="" >Customer Login</a>
+</div></td> 
+<td class='item11 last'> 
+<a href="/news-a-events.html" class="item1 last">News & Events</a><div class="section"  ><a href="/news-a-events/media-coverage.html" class="item2 first"  style="" >Media Coverage</a>
+<a href="/news-a-events/press-releases.html" class="item2"  style="" >Press Releases</a>
+<a href="/news-a-events/event-calendar.html" class="item2"  style="" >Event Calendar</a>
+<a href="/news-a-events/rss-feeds.html" class="item2 last"  style="" >RSS Feeds</a>
+<div class="section"  ><a href="/news-a-events/rss-feeds/rss-m10g.html" class="item2 first"  style="" >Myri10GE</a>
+<a href="/news-a-events/rss-feeds/rss-dbl.html" class="item2"  style="" >DBL</a>
+<a href="/news-a-events/rss-feeds/rss-sni.html" class="item2"  style="" >Sniffer10G</a>
+<a href="/news-a-events/rss-feeds/rss-vidpump.html" class="item2 last"  style="" >VideoPump</a>
+</div></div></td> 
+</tr> 
+</table></div></td></tr></table><hr style="display:block;clear:left;margin:-0.66em 0;visibility:hidden;" /> 
+<script type="text/javascript">
+<!--
+function makemenu91(){
+var ddmx91 = new DropDownMenuX('menu91');
+ddmx91.type = 'horizontal/down'; 
+ddmx91.delay.show = 0;
+ddmx91.iframename = 'ddmx91';
+ddmx91.delay.hide = 50;
+ddmx91.effect = 'none';
+ddmx91.position.levelX.left = -1;
+ddmx91.position.levelX.top = 0;
+ddmx91.position.level1.left = 0;
+ddmx91.position.level1.top = -1; 
+ddmx91.fixIeSelectBoxBug = false;
+ddmx91.autoposition = false;
+ddmx91.activesub='' ;
+ddmx91.init(); 
+}
+if ( typeof window.addEventListener != "undefined" )
+window.addEventListener( "load", makemenu91, false );
+else if ( typeof window.attachEvent != "undefined" ) { 
+window.attachEvent( "onload", makemenu91 );
+}
+else {
+if ( window.onload != null ) {
+var oldOnload = window.onload;
+window.onload = function ( e ) { 
+oldOnload( e ); 
+makemenu91() 
+} 
+}  
+else  { 
+window.onload = makemenu91();
+} }
+//--> 
+</script>  
+<script type="text/javascript">
+<!--
+//-->
+</script>
+
+<!--End SWmenuPro menu module-->
+		</div>
+	
+                </div>
+                <div id="scorderbtn">
+                        
+                </div>
+                <div id="search">
+                        		<div class="moduletable">
+					
+<script type="text/javascript">
+//<![CDATA[
+   window.addEvent('domready', function() {
+      var value;
+
+      // Set the input value if not already set.
+      if (!document.id('mod-finder-searchword').getProperty('value')) {
+         document.id('mod-finder-searchword').setProperty('value', 'Search...');
+      }
+
+      // Get the current value.
+      value = document.id('mod-finder-searchword').getProperty('value');
+
+      // If the current value equals the default value, clear it.
+      document.id('mod-finder-searchword').addEvent('focus', function() {
+         if (this.getProperty('value') == 'Search...') {
+            this.setProperty('value', '');
+         }
+      });
+
+      // If the current value is empty, set the previous value.
+      document.id('mod-finder-searchword').addEvent('blur', function() {
+         if (!this.getProperty('value')) {
+            this.setProperty('value', value);
+         }
+      });
+
+      document.id('mod-finder-searchform').addEvent('submit', function(e){
+         e = new Event(e);
+         e.stop();
+
+         // Disable select boxes with no value selected.
+         if (document.id('mod-finder-advanced') != null) {
+            document.id('mod-finder-advanced').getElements('select').each(function(s){
+               if (!s.getProperty('value')) {
+                  s.setProperty('disabled', 'disabled');
+               }
+            });
+         }
+
+         document.id('mod-finder-searchform').submit();
+      });
+
+      /*
+       * This segment of code sets up the autocompleter.
+       */
+                        var url = '/component/finder/?task=suggestions.display&format=json&tmpl=component';
+         var ModCompleter = new Autocompleter.Request.JSON(document.id('mod-finder-searchword'), url, {'postVar': 'q'});
+         });
+//]]>
+</script>
+
+<form id="mod-finder-searchform" action="/component/finder/search.html" method="get">
+   <div class="finder">
+      <input type="text" name="q" id="mod-finder-searchword" class="inputbox" size="17" value="" />
+               </div>
+</form>
+		</div>
+	
+                </div>
+        </div>
+
+        
+<div id="system-message-container">
+</div>
+        		<div class="moduletable">
+					<div id="home-slideshow">
+<div class="slide slide-1">
+<div>Cutting-edge latencies enable fast transaction execution with rapid time to deployment.
+<p class="learnmore"><a href="/solutions/financial-trading.html">Learn how &gt;</a></p>
+</div>
+</div>
+<div class="slide slide-2">
+<div>Line rate, zero loss packet sniffing and injection technology used in government security applications and incorporated into<br />cybersecurity appliances.
+<p class="learnmore"><a href="/solutions/cybersecurity.html">Learn how &gt;</a></p>
+</div>
+</div>
+<div class="slide slide-3">
+<div>Dramatically increases the number of video streams, while maintaining Quality of Experience, enabling service providers to scale capacity with lower infrastructure investment and operating costs.
+<p class="learnmore"><a href="/solutions/video-and-content-delivery.html">Learn how &gt;</a></p>
+</div>
+</div>
+<div class="slide slide-4">
+<div>High performance latency, bandwidth, and low CPU overhead from one of the pioneers<br />in HPC networking.
+<p class="learnmore"><a href="/solutions/hpc-high-performance-computing.html">Learn how &gt;</a></p>
+</div>
+</div>
+<div class="slide slide-5">
+<div>Alleviate the I/O bottleneck associated with virtualization, enabling optimization of the overall computing environment.
+<p class="learnmore"><a href="/solutions/virtualization.html">Learn how &gt;</a></p>
+</div>
+</div>
+</div>		</div>
+	
+    <div id="scroller-wrapper"><div id="scroller">		<div class="moduletable">
+					
+<div  class="mod_placehere"><div style="float:left;width:100%" class="mod_placehere_following even">                       <a href="/component/content/article.html?id=962" class="contentpagetitle">
+            CSP, Inc. to Expand Myricom Product Portfolio        </a>
+            
+</div><br style="clear:both" /><div style="float:left;width:100%" class="mod_placehere_following odd">                       <a href="/component/content/article.html?id=952" class="contentpagetitle">
+            CSP, Inc. Broadens MultiComputer Business Opportunities with Asset Purchase of Myricom, Inc.        </a>
+            
+</div><br style="clear:both" /><div style="float:left;width:100%" class="mod_placehere_following even">                       <a href="/component/content/article.html?id=941" class="contentpagetitle">
+            Reservoir Labs Expands R-ScopeÂ® Cyber Security Monitoring Solutions with Myricom's FastStack Sniffer10G        </a>
+            
+</div><br style="clear:both" /><div style="float:left;width:100%" class="mod_placehere_following odd">                       <a href="/component/content/article.html?id=913" class="contentpagetitle">
+            Myricom Announces FastStack MVA Software for Industrial Imaging Applications with Emergent Vision...        </a>
+            
+</div><br style="clear:both" /><div style="float:left;width:100%" class="mod_placehere_following even">                       <a href="/component/content/article.html?id=901" class="contentpagetitle">
+            Myricom 10-Gigabit Ethernet Solutions Now Distributed by Eureka Pacific        </a>
+            
+</div><br style="clear:both" /><div style="float:left;width:100%" class="mod_placehere_following odd">                       <a href="/component/content/article.html?id=700" class="contentpagetitle">
+            Myricom 10-Gigabit Ethernet Adapters Compatible with mLogicâ€™s mLinkÂ® PCIe-To-Thunderbolt Expansion...        </a>
+            
+</div><br style="clear:both" /><div style="float:left;width:100%" class="mod_placehere_following even">                       <a href="/component/content/article.html?id=674" class="contentpagetitle">
+            Companies Demonstrate Increased System Security for Suricata Applications Using FastStack Sniffer10G...        </a>
+            
+</div><br style="clear:both" /><div style="float:left;width:100%" class="mod_placehere_following odd">                       <a href="/component/content/article.html?id=502" class="contentpagetitle">
+            Myricom Joins Open Information Security Foundation to Add Extreme Performance Ethernet Technology to...        </a>
+            
+</div><br style="clear:both" /><div style="float:left;width:100%" class="mod_placehere_following even">                       <a href="/component/content/article.html?id=501" class="contentpagetitle">
+            Myricom 10-Gigabit Ethernet Adapters Compatible with Sonnetâ€™s Thunderbolt Expansion Products        </a>
+            
+</div><br style="clear:both" /><div style="float:left;width:100%" class="mod_placehere_following odd">                       <a href="/component/content/article.html?id=184" class="contentpagetitle">
+            Myricom Joins the Network Intelligence Alliance        </a>
+            
+</div><br style="clear:both" /><div style="float:left;width:100%" class="mod_placehere_following even"></div><br style="clear:both" /></div>		</div>
+	</div><div id="news-link">		<div class="moduletable">
+					<a href="/component/content/?view=section&amp;layout=blog&amp;id=7&amp;Itemid=28">See All</a> &gt;&gt;		</div>
+	</div></div>
+        <div id="quicklinks">
+                <div id="quicklinks-1">
+                        		<div class="moduletable">
+					<a href="http://www.myricom.com/news-a-events/press-releases/180-myricom-and-emulex-form-strategic-partnership-to-provide-high-performance-networking-solutions.html"></a>		</div>
+	
+                </div>
+                <div id="quicklinks-2">
+                        		<div class="moduletable">
+					<p>Â </p>
+<h3>Information &amp; Events</h3>
+<p><a href="http://www.cspi.com/cspi-to-expand-myricom-product-portfolio-company-introduces-myri-10g-product-with-10base-t-/">CSP, Inc. to Expand Myricom Product Portfolio</a></p>
+<p><a href="http://www.cspi.com/csp--inc--broadens-multicomputer-business-opportunities--with-asset-purchase-of-myricom--inc--/" target="_blank">CSP, Inc. Broadens MultiComputer Business Opportunities With Asset Purchase of Myricom, Inc.</a></p>
+<p><a href="/solutions/10-gigabit-ethernet/performance.html#linux_rx_busy_poll">Myri10GE on Linux supports RX_BUSY_POLL for Low Latency</a></p>		</div>
+	
+                </div>
+                <div id="quicklinks-3">
+                        		<div class="moduletable">
+					<a href="/products/network-adapters/10g-pcie2-8c2-2s-sync.html"></a>		</div>
+	
+                </div>
+        </div>
+        <div class="clear"></div>
+        <div class="blog-featured">
+
+
+
+
+</div>
+
+<div id="connect">
+                		<div class="moduletable">
+					<table style="margin: 0 0 0 270px;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><a href="/sales/how-to-buy.html"><img src="/images/stories/btn_footer_salesch.png" border="0" alt="Contact Our Sales Channels" width="206" height="22" style="margin-right: 65px;" /></a></td>
+<td><a href="/support/contact-support.html"><img src="/images/stories/btn_footer_requestinfo.png" border="0" alt="Request More Information" width="180" height="20" style="margin-right: 110px;" /></a></td>
+<td><img src="/images/stories/btn_footer_followus.png" border="0" alt="Follow Us" width="82" height="21" style="margin-right: 15px;" /></td>
+<td><a href="http://twitter.com/#!/myricom" target="_self"><img src="/images/stories/btn_sm_tw.png" border="0" width="24" height="24" style="margin-right: 5px; margin-top: 15px;" /></a></td>
+<td><a href="http://www.linkedin.com/company/59838" target="_blank"><img src="/images/stories/btn_sm_li.png" border="0" alt="Linked In" width="25" height="25" style="margin-right: 5px; margin-top: 15px;" /></a></td>
+<td><a href="/news-a-events/rss-feeds.html" target="_self"><img src="/media/system/images/livemarks.png" border="0" width="24" height="24" style="margin-right: 5px; margin-top: 15px;" /></a></td>
+</tr>
+</tbody>
+</table>		</div>
+	
+        </div>
+        <div id="footer">
+                <div id="left">
+                        		<div class="moduletable">
+					<a href="/component/content/article.html?id=41:privacy-policy&amp;catid=1">Privacy Policy</a> | <a href="/about-us/contact-us.html">Contact</a>		</div>
+	
+                </div>
+                <div id="right">
+                        		<div class="moduletable">
+					Â© CSP, Inc. The trade names appearing herein are those of their respective owners. Myrinet and Myricom are registered trademarks of CSP, Inc.		</div>
+	
+                </div>
+        </div>
+
+
+
+</div>
+
+	</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.spsoft.com/>====================
+<html>
+<head>
+<META NAME="keywords" CONTENT="Phrap, HMMER, cross_match, bioinformatics, crossmatch, DNA assembly, DNA sequence search, University of Washington, Hmmer,
+hidden markov, hmmpfam, smith-waterman, double-affine, double affine, smith waterman, BLAST, HMM, blastn, blastp, blastx, tblastn, tblastx, Washington University, Eddy, parallel computing, TimeLogic, Geospiza, Montry, SPSOFT">
+<title>SPSOFT Home Page</title>
+</head>
+<body background="images/bg.jpg">
+<table border="0" cellpadding="0" cellspacing="0" width="672">
+<tr>
+<td rowspan="3" valign="TOP" width="150">
+<p><a href="index.html"><strong><font color="#eeecdf" size="-1">
+Home</font></strong></a></p>
+
+<p><a href="download.html"><strong><font color="#eeecdf" size=
+"-1">Download<br>
+Software</font></strong></a></p>
+
+<p><a href="corporate.html"><strong><font color="#eeecdf" size=
+"-1">About Us</font></strong></a><br>
+<font size="-2">&nbsp;&nbsp; Corporate &amp; Contacts</font></p>
+
+<p><a href="products.html"><strong><font color="#eeecdf" size=
+"-1">Products</font></strong></a><br>
+<font size="-2">&nbsp;&nbsp; SPS Phrap<br>
+&nbsp;&nbsp; SPS SWAT<br>
+&nbsp;&nbsp; SPS Cross_Match<br>
+&nbsp;&nbsp; SPS Pfam<br>
+&nbsp;&nbsp; SPS Search</font></p>
+
+<p><a href="sales.html"><strong><font color="#eeecdf" size="-1">
+Sales</font></strong></a></p>
+
+<p><a href="support.html"><strong><font color="#eeecdf" size=
+"-1">Support</font></strong></a><br>
+<font size="-2">&nbsp;&nbsp; Technical Information<br>
+&nbsp;&nbsp; Documentation</font></p>
+
+<p><a href="partners.html"><strong><font color="#eeecdf" size=
+"-1">Partners</font></strong></a></p>
+</td>
+<td width="12"></td>
+<td width="500"><img src="images/toplogo.jpg" alt=
+"toplogo.jpg (15559 bytes)" width="491" height="77"
+naturalsizeflag="0" align="BOTTOM"></td>
+</tr>
+
+<tr>
+<td width="12"></td>
+<td width="500" valign="TOP">
+<br>SPSOFT supplies parallel and optimized versions of Phil
+Green's <b>Phrap</b>, <b>SWAT</b>, and <b>Cross_Match</b> programs.
+<br>SPSOFT supplies parallel and optimized versions of Sean Eddy's <b>HMMpfam</b>.
+<br>SPSOFT also offers <b>SPSsearch</b>, a high-performance single and double affine Smith-Waterman
+search program with full BLAST-like frame translations</b>.
+
+<p>SPSOFT is a leader in providing high-performance and
+high-throughput bioinformatics software solutions for
+general-purpose computer systems.</p>
+
+<p><b><i>Supported Systems:</i></b><br>
+HP Tru64 Unix on Alpha.<br>
+IBM AIX on Power4, 5, &6.<br>
+Suse on Power4, 5 & 6.<br>
+Linux on IA-32 and X86_64.<br>
+SGI Altix on Itanium.<br>
+SUN Solaris on Sparc.<br>
+SUN Solaris on X86_64.<br>
+</p>
+
+<blockquote>
+<p><a href="download.html"><b><i>Download</i></b></a><b><i> SPSOFT
+products for evaluation</i></b></p>
+</blockquote>
+
+<center>
+<table border="1" cellpadding="0" cellspacing="0" width="500"
+bgcolor="#FFFFF0">
+<tr>
+<td>
+<p><b>	What's New?</b></p>
+<ul>
+  <li>
+    <p><i><b>Announcing Solaris support for all SPSoft Products! </b></i>
+	Please send us some e-mail and let us know of your interest!</p>
+  </li>
+  <li>
+    <p><i><b>Announcing SPSsearch! </b></i> - Frame search with Single affine or Double affine Smith-Waterman. World's fastest Double Affine algorithm for general purpose processors!
+	Search options include Blastx, Blastn, Blastp, tBlastn, tBlastx. Click below for a description.
+	</p>
+  </li>
+  <li>
+    <p><i><b>Announcing SPSpfam! </b></i> - Accelerated versions of Sean Eddy's HMMER hmmpfam, latest version 2.3.2,  available on all platforms.  The fastest HMMER for Linux!
+	3X - 60X Performance improvement!  Click below for a description.
+    </p> 
+  </li>
+
+</ul>
+</td>
+</tr>
+</table>
+</center>
+	<p><b><font color="#EEECDF"><font size=+1><a href="searchpages/index.html">SPSsearch - Click Here!</font></a></b></p>
+	<p><b><font color="#EEECDF"><font size=+1><a href="pfampages/index.html">SPSpfam - Click Here!</font></a></b></p>
+</td>
+</tr>
+
+<tr>
+<td width="12"></td>
+<td width="500">&nbsp;
+
+<hr align="LEFT">
+
+
+<p><font size="-1">Copyright © 2000 Southwest Parallel
+Software, Inc.<br>
+All Rights Reserved.</font></p><font size="-3">   Site last modified 5/8/2005
+
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.dolphinics.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="google-site-verification" content="6gk0sKlCfy-QYU2qbLTNRjQM9DLWm0joWJDKja2Z1w0" />
+
+<title>Dolphin Interconnect Solutions</title>
+
+<meta name="description" content="Dolphin provides high speed low latency interconnect solutions for demanding applications." />
+<meta name="keywords" content="PCI Express, SuperSockets, interconnect, , Reflective memory, multicast,StarFabric, fail-over, high availability, embedded" />
+
+
+
+<link rel="stylesheet" href="js/prettyPhoto/css/prettyPhoto.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="styles/blue.css" type="text/css" media="screen" />
+
+<script type='text/javascript' src='js/jquery.js'></script>
+<script type='text/javascript' src='js/custom.js'></script>
+<script type='text/javascript' src='js/jquery.easing.js'></script>
+<script type='text/javascript' src='js/cufon-yui.js'></script>
+<script type='text/javascript' src='js/ColaborateLight_400.font.js'></script>
+<script type='text/javascript' src='js/prettyPhoto/js/jquery.prettyPhoto.js'></script>
+
+<meta name="slider_speed" content="5000" />
+
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery.preloadImages("styles/blue/home_feature.jpg","styles/blue/stage.jpg","styles/blue/header.jpg","images/slider_inactive.png","images/buttons.gif","styles/blue/buttons.gif","images/slider_active.png","styles/blue/drop.png","styles/blue/dropR.png","styles/blue/drop_sub.png");
+/* ]]> */
+</script>
+
+
+<!--[if IE 6]>
+<link rel="stylesheet" href="styles/ie6.css" type="text/css" media="screen" />
+<script src="js/DD_belatedPNG_0.0.8a-min.js"></script>
+<script>
+    DD_belatedPNG.fix('#default_logo, .slider_frame');
+</script>
+<![endif]-->
+<!-- BEGIN Google tracker script -->
+<script type="text/javascript">
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
+Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+   ga('create', 'UA-41928857-1', 'dolphinics.com');
+   ga('send', 'pageview');
+
+</script>
+
+<!-- END Google tracker script -->
+
+
+</head>
+
+<body id="home_page">
+<div id="header">
+	<div class="inner">
+		
+		<div id="logo">
+			<div id="default_logo"><a href="/index.html"></a>
+            <!--<img src='images/dolphin2002web_03.png' alt="" />-->
+            </div>
+		</div>
+		
+		<div id="main_navigation" class="jqueryslidemenu">
+			
+             <ul>
+				<li><a href="/index.html">Home</a></li>
+				<li><a href="/products/index.html">Products</a>
+					<ul>
+						<li><a href="/products/index.html">Hardware</a>
+							<ul>
+								<li><a href="/products/IXH610.html">IXH610 PCI Express Host Adapter</a></li>
+								<li><a href="/products/IXH620.html">IXH620 XMC Adapter</a></li>
+								<li><a href="/products/IXS600.html">IXS600 High Speed Switch</a></li>
+							</ul>
+						</li>
+						<li><a href='/products/index.html'>Software</a>
+							<ul>
+								<li><a href='/products/dolphin-supersockets.html'>SuperSockets Sockets Accelerator</a></li>
+								<li><a href='/products/embedded-sisci-developers-kit.html'>SISCI Developers Kit- low latency API</a></li>
+								<li><a href='/products/embedded-system-reflective-memory.html'>Reflective Memory Solutions</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li><a href="/solutions/index.html">Solutions</a>
+					<ul>
+						<li><a href="/solutions/Index_financial_low_latency_trading.html">Financial Solutions</a></li>
+						<li><a href="/solutions/Index_embedded.html">Embedded Solutions</a></li>
+						<li><a href="/solutions/Index_fast_pcie_networking.html">Enhanced Networks</a></li>
+					</ul>
+				</li>
+				<li><a href="/support/index.html">Support</a>
+					<ul>
+						<li><a href="/support/index.html">Software Download</a></li>
+						<li><a href="/support/index.html">Documentation</a></li>
+						<li><a href="/solutions/whitepapers.html">Whitepapers</a></li>
+						
+                        </ul>
+				</li>
+				<li><a href="/sales/index.html">Sales</a>
+					<ul>
+						<li><a href="/sales/direct.html">Direct Sales</a></li>
+						<li><a href="/sales/reseller.html">Resellers</a></li>
+					</ul>
+				</li>
+				<li><a href="/company/index.html">Company</a></li>
+		  </ul>
+            
+		</div><!-- main_navigation -->
+		
+	</div><!-- inner -->
+</div><!-- header -->
+
+
+<div id="home_feature">
+	<div class="background">
+		<div class="inner">
+			
+			<div id="slider_thumbnails"><div id="slider_preview_img"></div></div>
+			<div id="loading_slider"></div>
+			<div id="slider_img">
+				
+				
+					<!-- start homepage slider stage -->
+					<div class="image_loader slider_cropped">
+						<div class="slider_content">
+							<h2>Deliver High Speed Solutions with PCI Express</h2>
+							<p>A PCI Express network is an ultra-low latency interconnect solution for high availability, shared memory, and reflective memory.  Dolphin supports a complete solution with software, hardware, and development support.</p>
+							<a class="button" href="solutions/index.html">Read More</a>
+						</div>
+						<div class="slider_img_cropped">
+							<a href="solutions/index.html" class="load_slider_img">
+								<span class="rm_img"><img src='slides/Products-Graphic.png' alt="" /></span>	
+							</a>
+						</div>
+					</div>
+					<!-- end homepage slider_cropped -->
+
+
+					<!-- start homepage slider stage -->
+					<div class="image_loader slider_cropped">
+						<div class="slider_content">
+							<h2>PCI Express Software Solution</h2>
+							<p>Dolphin PCI Express Software support fast migration to PCI Express Networks.  A complete software stack, with support for sockets, reflective memory, and shared memory, Dolphin software is a rebust environment for application development.</p>
+							<a class="button" href="products/index.html">Read More</a>
+						</div>
+						<div class="slider_img_cropped">
+							<a href="products/index.html" class="load_slider_img">
+								<span class="rm_img"><img src='slides/PCIArchRTC.png' alt="PCI Express Software" /></span>	
+							</a>
+						</div>
+					</div>
+					<!-- end homepage slider_cropped -->
+
+<!-- start homepage slider stage -->
+					<div class="image_loader slider_cropped">
+						<div class="slider_content">
+							<h2>PCI Express Hardware Product</h2>
+							<p>Dolphin PCI Hardware support both transparent and non-transparent bridging functions.  It enables cabled PCI Express solutions that scale to multiple nodes.  Connect standard PCs, VPX or other embedded systems into a PCI Express network.</p>
+							<a class="button" href="products/index.html">Read More</a>
+						</div>
+						<div class="slider_img_cropped">
+							<a href="products/index.html" class="load_slider_img">
+								<span class="rm_img"><img src='slides/products.png' alt="PCI Express Hardware" /></span>	
+							</a>
+						</div>
+					</div>
+					<!-- end homepage slider_cropped -->
+					
+								
+				
+			</div><!-- end slider_img -->
+			
+			
+			
+		</div><!-- inner -->							
+	</div><!-- background -->							
+</div><!-- home_feature -->
+			
+			
+<div id="call_to_action">
+	<div class="inner">
+		<div id="blurb">Accelerate your applications with a PCI Express Network</div>
+			<div id="call_to_action_button">
+			<a href="solutions/index.html"></a>
+		</div>
+	</div><!-- inner -->							
+</div><!-- call_to_action -->
+
+<div class="clearboth"></div>
+
+
+<div id="body_block">
+	<div class="inner">
+		<div id="primary_full">
+			<div class="content">
+				
+				<!-- start body content -->
+				
+				<div class="entry">
+					
+					<h1>Pick your application!</h1>
+
+						<div class="one_fourth"><h6>Financial Applications</h6><p><span class="dropcap1">1</span>Reduce trading time with an ultra-low latency interconnect.  Deliver data in sub-1 micro-second. Provide a highly reliable low latency fail-over mechanism for key applications. </p> <a class="button" href="solutions/Index_financial_low_latency_trading.html">Read More</a>
+						</div><!-- one_fourth -->
+
+						<div class="one_fourth"><h6>Embedded Applications</h6><p><span class="dropcap1">2</span>Deploy industrial and military applications with a high speed reliable network.  Deliver low latency performance real time applications such as simulation, test and measurement, high speed replication, and distributed video.<br /></p><a class="button" href="solutions/Index_embedded.html">Read More</a>
+						</div><!-- one_fourth -->
+
+						<div class="one_fourth"><h6>Distributed Databases</h6><p><span class="dropcap1">3</span>Get better response times out of your database.  Shared memory networks reduce data latency and improves response time for clustered databases such as MySQL cluster.  Get better performance out of your database applications. </p><a class="button" href="solutions/Index_databases.html">Read More</a>
+						</div><!-- one_fourth -->
+<div class="one_fourth last"><h6>Enhanced Networking</h6><p><span class="dropcap1">4</span>Create local networks that take advantage of the performance of PCI Express.  The high throughput and low latency of PCI Express enables fast data transfers of files and data for storage and system offload.  Collect data faster and replicate data at high speeds.</p> 
+						<a class="button" href="solutions/Index_fast_pcie_networking.html">Read More</a></div><!-- one_fourth -->		
+				</div><!-- entry-->
+				
+				<!-- end body content -->
+				
+				</div> <!-- content -->
+			</div><!-- primary-full -->
+		<div class="clearboth"></div>
+	</div><!-- inner -->								
+</div><!-- body_block -->
+
+
+
+
+<!-- start footer -->
+
+<!-- start footer -->
+
+<div id="footer">
+	<div class="background">
+		<div class="inner">
+			
+			<div class="two_third">					
+					
+				<div class="one_fourth">
+					<div class="widget link_list">
+						<h3 class="widgettitle">Support</h3>
+						<ul>
+							<li><a href="/support/index.html">Software Downloads</a></li>
+							<li><a href="/support/index.html">Documentation</a></li>
+							<li><a href="/solutions/whitepapers.html">Whitepapers</a></li>
+							</ul>
+					</div>				
+				</div><!-- one_fourth -->
+			
+			
+				<div class="one_fourth">
+					<div class="widget link_list">
+						<h3 class="widgettitle">News</h3>
+						<ul>
+							<li><a href="/company/news.html">Press Releases</a></li>
+							<li><a href="/sales/events.html">Upcoming Tradeshows</a></li>
+							
+							</ul>
+					</div>				
+				</div><!-- one_fourth -->
+			
+			
+				<div class="one_fourth">
+					<div class="widget link_list">
+						<h3 class="widgettitle">Archives</h3>
+						<ul>
+							<li><a href="/products/index-starfabric.html">StarFabric Products</a></li>
+							<li><a href="/products/index-dx.html">PCIe Gen1 Products</a></li>
+							<li><a href="/products/index-sci.html">SCI Products</a></li>
+						</ul>
+					</div>				
+				</div><!-- one_fourth -->
+			
+			
+				<div class="one_fourth last">
+					<div class="widget link_list">
+						<h3 class="widgettitle">Categories</h3>
+						<ul>
+							<li class="cat-item cat-item-3"><a title="Dolphin Product Overview" href="/products/index.html">Products</a></li>
+							<li class="cat-item cat-item-1"><a title="Dolphin Solution Overview" href="/solutions/index.html">Solutions</a></li>
+							<li class="cat-item cat-item-1"><a title="Company Information" href="/company/index.html">Company Information</a></li>
+						</ul>
+					</div>
+				</div><!-- one_fourth -->
+
+			</div><!-- two_third -->
+			
+			
+			<div class="one_third last">
+				<div id="contact-form-widget" class="widget webtreats_contact_form_widget">
+					<h3 class="widgettitle">Email Us</h3>
+					
+					<!-- footer contact form -->
+					<a name="_contact"></a> 
+					<form action="#_contact" id="contactFormWidget" method="post">
+					<p>
+						<input type="text" name="contactNameWidget" id="contactNameWidget" value="" class="requiredField textfield" size="22" tabindex="5" />
+						<label class="textfield_label" for="contactNameWidget">Name *</label>
+					</p>
+					<p>
+						<input type="text" name="emailWidget" id="emailWidget" value="" class="requiredField email textfield" size="22" tabindex="6" />
+						<label class="textfield_label" for="emailWidget">Email *</label>
+					</p>
+					<p><textarea name="commentsWidget" id="commentsTextWidget" rows="20" cols="30" tabindex="7" class="requiredField textarea"></textarea></p>
+					<p class="screenReader">
+					<label for="checkingWidget" class="screenReader">do not enter anything in this field</label><input type="text" name="checkingWidget" id="checkingWidget" class="screenReader" value="" /></p>
+					<p class="loadingImgWidgetFt"></p>
+					<p><input name="submittedWidget" id="submittedWidget" class="button in_footer" tabindex="8" value="Submit" type="submit" /></p>
+					<p class="screenReader"><input id="submitUrlWidget" type="hidden" name="submitUrlWidget" value="submit/submit-footer.php" /></p>
+					</form>
+					
+				</div>				
+			</div><!-- one_third last -->
+								
+								
+			<div class="clearboth"></div>
+		</div><!-- inner -->
+	</div><!-- background -->
+</div><!-- footer -->
+
+<!-- end footer -->
+
+
+<div id="sub_footer">
+	<div class="inner">
+		<div class="one_half">Â© Dolphin Interconnect Solutions. All Rights Reserved</div>				
+			<div class="one_half last" style="text-align:right;">
+				<div id="footer_nav">
+					<ul>
+						<li><a href="/company/index.html">Contact Us</a></li>
+						<li><a href="/products/index.html">Products</a></li>
+						<li><a href="http://www.dolphingeo.com">Dolphin GeoPhysical</a></li>
+					</ul>
+				</div>
+			</div>
+		<div class="clearboth"></div>
+	</div><!-- inner -->							
+</div><!-- sub_footer -->
+			
+<script type="text/javascript">Cufon.now();</script>
+
+
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.pallas.de/>====================
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="de-DE" lang="de-DE" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<!--
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2013 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+		<base href="https://www.pallas.com/" />
+		<title>Pallas GmbH: Startseite</title>
+		<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_36eba0c508.css?1354274670" media="all" />
+		<link rel="shortcut icon" type="image/x-icon" href="fileadmin/img/favicon.ico" />
+		<script type="text/javascript" src="fileadmin/js/prototype/prototype.js"></script>
+		<script type="text/javascript" src="fileadmin/js/tooltip/tooltip.js"></script>
+		<link rel="stylesheet" type="text/css" href="fileadmin/style/central_start.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="" media="screen" />
+		<meta name="description" content="www.pallas.de - TÃœV-geprÃ¼fte Managed Security Services zur Miete - vom Basis-Emailschutz bis hin zur umfassenden, mehrstufigen SicherheitslÃ¶sung - sichere Internet-Server und -Applikationen - Beratung zur IT-Sicherheit" />
+		<meta name="keywords" content="Pallas,KÃ¶ln,BrÃ¼hl,IT-Sicherheit,Sicherheit,Security,Managed Security Service,MSS,ASP,Email,proaktiv,Reputation,Virus,Spam,Firewall,Intrusion Detection,Authentifizierung,URL-Filter,VPN,Livelink,Hosting,Consulting,Audit" />
+		<meta name="robots" content="index, follow" />
+		<meta http-equiv="content-language" content="de" />
+		<meta name="author" content="Pallas GmbH" />
+		<meta name="revisit-after" content="14" />
+		<meta name="DC.Description" content="www.pallas.de - TÃœV-geprÃ¼fte Managed Security Services zur Miete - vom Basis-Emailschutz bis hin zur umfassenden, mehrstufigen SicherheitslÃ¶sung - sichere Internet-Server und -Applikationen - Beratung zur IT-Sicherheit" />
+		<meta name="DC.Subject" content="Pallas,KÃ¶ln,BrÃ¼hl,IT-Sicherheit,Sicherheit,Security,Managed Security Service,MSS,ASP,Email,proaktiv,Reputation,Virus,Spam,Firewall,Intrusion Detection,Authentifizierung,URL-Filter,VPN,Livelink,Hosting,Consulting,Audit" />
+		<meta name="DC.Language" scheme="NISOZ39.50" content="de" />
+		<meta name="DC.Creator" content="Pallas GmbH" />
+		<link rel="schema.dc" href="http://purl.org/metadata/dublin_core_elements" />
+	</head>
+	<body>
+		<noscript>
+			<style type="text/css">
+<!--
+.tooltip {display: none;}
+-->
+</style>
+		</noscript>
+		<div id="page_margins"><a class="skip" href="index.php?id=2#navigation" title="skip link">Skip to the navigation</a><span class="hideme">.</span><a class="skip" href="index.php?id=2#content" title="skip link">Skip to the content</a><span class="hideme">.</span>
+			<div id="page">
+				<div id="logolink"><a href="index.php" alt="pallas"><span></span></a></div>
+				<div id="athenelink"><a href="unternehmen/pallas-athene.html" alt="Pallas Athene"><span></span></a></div>
+				<div id="tuevlink"><a href="fileadmin/img/content/images/pallas_tuev-zertifikat.jpg" alt="T&uuml;V" target="_blank"><span></span></a></div>
+				<div id="nav"><a id="navigation" name="navigation"></a> 
+					<div id="nav_main">
+						<ul>
+							<li><a href="leistungen.html" >Leistungen</a></li>
+							<li><a href="referenzen.html" >Referenzen</a></li>
+							<li><a href="aktuelles.html" >Aktuelles</a></li>
+							<li><a href="unternehmen.html" >Unternehmen</a></li>
+							<li><a href="kontakt.html" >Kontakt</a></li>
+						</ul>
+						<ul><a href="http://www.pallas.com/startseite/printversion.html" onclick="window.open('http://www.pallas.com/startseite/printversion.html','print','resizable=yes,toolbar=no,scrollbars=yes,menubar=yes,width=600,height=500'); return false;" target="_blank" class='cronprintlink'><img src='fileadmin/img/layout/print.png'></a></ul>
+						<form action="suche.html" method="post" id="tx_indexedsearch" name="tx_indexedsearch"><input name="tx_indexedsearch[sword]" value="" type="text" id="search" class="searchField" /><input name="tx_indexedsearch[submit_button]" value="Search" type="hidden" /><input type="hidden" name="tx_indexedsearch[_sections]" value="0" /><input type="hidden" name="tx_indexedsearch[_freeIndexUid]" value="_" /><input type="hidden" name="tx_indexedsearch[pointer]" value="0" /><input class="searchButton" type="image" src="fileadmin/img/layout/search.png" type="image" alt="Suche starten" title="" /></form>
+					</div>
+				</div>
+				<div id="main">
+					<div id="col1">
+						<div id="col1_content" class="clearfix">
+							<div class="subcolumns">
+								<div class="c25l">
+									<div class="subcl"></div>
+								</div>
+								<div class="c75r">
+									<div class="subcr">
+										<div class="currentMainNavTarget"></div>
+										 &nbsp; </div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="col3">
+						<div id="col3_content" class="clearfix"><a id="content" name="content"></a> 
+							<!--TYPO3SEARCH_begin-->
+							<div class="pallas-only_content_element">
+								<div id="c14" class="csc-default" >
+									<div id="startcontent">
+										<h1>Unsere Leistungen fÃ¼r die IT-Sicherheit</h1>
+										<div id='tooltip_1' class='tooltip'><b>Security Service</b><br/>Alle Bausteine fÃ¼r professionelle Sicherheit zur Miete</div>
+										<div id='product_1' class='tooltip_hover'><b>Security Service</b> <a href="index.php?id=15">++MEHR</a></div>
+										<script type="text/javascript">var my_tooltip = new Tooltip('product_1', 'tooltip_1')</script>
+										<div id='tooltip_2' class='tooltip'><b>Security Consulting</b><br/>Beratung zur IT-Sicherheit</div>
+										<div id='product_2' class='tooltip_hover'><b>Security Consulting</b> <a href="index.php?id=14">++MEHR</a></div>
+										<script type="text/javascript">var my_tooltip = new Tooltip('product_2', 'tooltip_2')</script>
+										<div id='tooltip_3' class='tooltip'><b>Secure Hosting</b><br/>Sicheres Hosting von Kunden-Servern und -Applikationen</div>
+										<div id='product_3' class='tooltip_hover'><b>Secure Hosting</b> <a href="index.php?id=13">++MEHR</a></div>
+										<script type="text/javascript">var my_tooltip = new Tooltip('product_3', 'tooltip_3')</script>
+										<div id='tooltip_4' class='tooltip'><b>Secure Applications</b><br/>LÃ¶sungen fÃ¼r die sichere Kommunikation und Interaktion</div>
+										<div id='product_4' class='tooltip_hover'><b>Secure Applications</b> <a href="index.php?id=12">++MEHR</a></div>
+										<script type="text/javascript">var my_tooltip = new Tooltip('product_4', 'tooltip_4')</script>
+									</div>
+								</div>
+							</div>
+							<div class="pallas-only_content_element">
+								<div id="c13" class="csc-default" >
+									<div class="tt_news-list-container2">
+										<div class="newsbox_header">Nachrichten</div>
+										<div class="single-news-container">
+											<div class="csc-header csc-header-n3">
+												<h1>PASA - automatisierter Portscanner von Pallas</h1>
+												<a href="aktuelles/nachrichten/nachrichtendetails/article/pasa-automatisierter-portscanner-von-pallas.html" title="PASA - automatisierter Portscanner von Pallas">++ MEHR</a> </div>
+										</div>
+										<div class="single-news-container">
+											<div class="csc-header csc-header-n3">
+												<h1>Pallas beim Sicherheitstag NRW am 04.12.13</h1>
+												<a href="aktuelles/nachrichten/nachrichtendetails/article/pallas-beim-sicherheitstag-nrw.html" title="Pallas beim Sicherheitstag NRW am 04.12.13">++ MEHR</a> </div>
+										</div>
+										<div class="single-news-container">
+											<div class="csc-header csc-header-n3">
+												<h1>Report Okt. 2013: Internet-Gefahren</h1>
+												<a href="aktuelles/nachrichten/nachrichtendetails/article/report-okt-2013-internet-gefahren.html" title="Report Okt. 2013: Internet-Gefahren">++ MEHR</a> </div>
+										</div>
+										<div class="single-news-container">
+											<div class="csc-header csc-header-n3">
+												<h1>Pallas beim 2. Westfalen-Kongress am 18.09.13</h1>
+												<a href="aktuelles/nachrichten/nachrichtendetails/article/pallas-beim-2-westfalen-kongress.html" title="Pallas beim 2. Westfalen-Kongress am 18.09.13">++ MEHR</a> </div>
+										</div>
+										<div class="single-news-container">
+											<div class="csc-header csc-header-n3">
+												<h1>Report Juli 2013: Internet-Gefahren</h1>
+												<a href="aktuelles/nachrichten/nachrichtendetails/article/report-july-2013-internet-gefahren.html" title="Report Juli 2013: Internet-Gefahren">++ MEHR</a> </div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="pallas-only_content_element">
+								<div id="c15" class="csc-default" >
+									<p class="bodytext" style="width: 450px !important">Real-Time-Schutz<a href="index.php?id=51#c232" title="Real-Time-Schutz" target="_top" class="internal-link" >++ MEHR</a>&nbsp; &nbsp; Kostenloser QualitÃ¤tstest<a href="index.php?id=53#c227" title="QualitÃ¤tstest" target="_top" class="internal-link" >++ MEHR</a>&nbsp; &nbsp; Internationaler zweiter Platz Anti-Spam<a href="index.php?id=15#c229" title="2. Platz" target="_top" class="internal-link" >++ MEHR</a>&nbsp; &nbsp; Proaktiver Schutz fÃ¼r Continental (PDF)<a href="fileadmin/img/content/publikationen/continental_proaktiver-emailschutz.pdf" title="Proaktiver Schutz" target="_blank" class="internal-link" >++ MEHR</a>&nbsp; &nbsp; ROLAND nutzt sichere Applikation (PDF)<a href="fileadmin/img/content/publikationen/roland_versand-vertraulicher-daten.pdf" title="ROLAND" target="_blank" class="internal-link" >++ MEHR</a>&nbsp; &nbsp; Security fÃ¼r LÃ¼bbe (PDF)<a href="fileadmin/img/content/publikationen/luebbe_mss.pdf" title="LÃ¼bbe" target="_blank" class="internal-link" >++ MEHR</a>&nbsp; &nbsp; Outbreak Monitor<a href="index.php?id=aktuelles#c40" title="Outbreak Monitor" target="_top" class="internal-link" >++ MEHR</a> <br /><a href="index.php?id=kontakt" title="Kontakt" target="_top"><span style="color: rgb(213, 212, 147); font-weight: bold;">Zentrale: 02232-1896-0</span></a>&nbsp;&nbsp;<span style="color: rgb(213, 212, 147); font-weight: bold;">|</span>&nbsp;&nbsp;<a href="index.php?id=support" title="Support" target="_top"><span style="color: rgb(213, 212, 147); font-weight: bold;">Kundensupport: -94</span></a>&nbsp;&nbsp;<span style="color: rgb(213, 212, 147); font-weight: bold;">|</span>&nbsp;&nbsp;<a href="index.php?id=infodirekt" title="Info Direkt" target="_top"><span style="color: rgb(213, 212, 147); font-weight: bold;"> Info Direkt: -12</span></a> </p>
+								</div>
+							</div>
+							<!--TYPO3SEARCH_end-->
+						</div>
+						<div id="ie_clearing"> &#160; </div>
+					</div>
+				</div>
+				<div id="footer"> &copy; Pallas GmbH. Alle Rechte vorbehalten.&nbsp;&nbsp;&nbsp;<a href="kontakt/impressum.html" >Impressum</a><a href="kontakt/rechtliche-hinweise.html" >Rechtliche Hinweise</a> </div>
+				<div style="clear:both; height: 1%; "> &#160; </div>
+			</div>
+		</div>
+	</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.turbolinux.com/products/index.html>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- InstanceBegin template="/Templates/contents2b.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-jp" />
+<meta name="Keywords" content="Linux, Linux OS, server OS, ¥µ¡¼¥Ð¡¼OS, ¥¯¥é¥¤¥¢¥ó¥ÈOS, ¥Ç¥¹¥¯¥È¥Ã¥×OS, ¥ê¥Ê¥Ã¥¯¥¹, ¥ê¥Ê¥Ã¥¯¥¹ OS, CLUSTERPRO, ¥¯¥é¥¹¥¿¥ê¥ó¥°¥·¥¹¥Æ¥à, ¥·¥ó¥¯¥é¥¤¥¢¥ó¥È, thinclient, wizpy, InfiniTalk, TrueWitness, Zend" />
+<meta name="Description" content="¥¿¡¼¥Ü¥ê¥Ê¥Ã¥¯¥¹¥°¥ë¡¼¥×¤ÎÀ½ÉÊ°ìÍ÷¥Ú¡¼¥¸¤Ç¤¹¡£" />
+<!-- InstanceBeginEditable name="title" -->
+<title>TurbolinuxÀ½ÉÊ°ìÍ÷</title>
+<style type="text/css">
+<!--
+div#box0{
+    padding:10px;
+    width:97%;
+    margin: 0 0 15px 0;
+    background:url(image_products/image_home/index_tli.gif) no-repeat right bottom #e7f2f2;
+}
+div#box1{
+    clear: both;
+    padding:10px;
+    width:42%;
+    float: left;
+    background:url(image_products/image_home/index_tsol.gif) no-repeat right bottom #e2f1e5;
+}
+div#box2{
+    padding:10px;
+    width:97%;
+    background:url(image_products/image_home/index_zend.gif) no-repeat right bottom #e7eaf2;
+}
+div#box0 ul,div#box1 ul,div#box2 ul{
+    color: #aaaaaa;
+    list-style-type: square;
+    margin: 0 0 15px 0;
+    padding: 0 0 0 15px;
+}
+div#box0 ul li a:link,div#box1 ul li a:link,div#box2 ul li a:link{
+    color: #0A50A1;
+}
+div#box0 ul li a:visited,div#box1 ul li a:visited,div#box2 ul li a:visited{
+    color: #0A50A1;
+}
+span.stitle{
+    font-weight: bold;
+    color: #444444;
+}
+span.stitle2{
+    font-weight: bold;
+    font-size:1.1em;
+    color: #555555;
+}
+-->
+</style>
+<!-- InstanceEndEditable -->
+<meta name="author" content="Turbolinux ,Inc." />
+<meta name="copyright" content="Copyright(c) Turbolinux ,Inc." />
+<meta name="Keywords" content="Linux, Turbolinux, Turbo, UNIX, www.turbolinux.co.jp, Open Source" />
+<meta name="Description" content="www.turbolinux.co.jp is a Web Site for Turbolinux that distribute Turbolinux Operating System." />
+<link rev="made" href="mailto:webmaster@turbolinux.co.jp" />
+<link href="/css/navi.css" rel="stylesheet" type="text/css" media="screen,tv" />
+<link href="/css/tb0.css" rel="stylesheet" type="text/css" media="screen,tv" />
+<link href="/css/print.css" rel="stylesheet" type="text/css" media="print" />
+<link rel="stylesheet" type="text/css" href="/js/sdmenu/sdmenu.css" />
+<script language="javascript" type="text/javascript" src="/js/tb1.js"></script>
+<script language="javascript" type="text/javascript" src="/js/curve/curve.js"></script>
+<script language="javascript" type="text/javascript" src="/js/sdmenu/sdmenu.js"></script>
+<script language="javascript" type="text/javascript" src="/js/minmax.js"></script>
+<script language="javascript" type="text/javascript">
+<!--
+addOnloadEvent(function(){
+    pageLocation(url);
+});
+//-->
+</script>
+</head>
+<body>
+<a name="top" id="top"></a>
+<!--START OF CENTERING-->
+<div id="body-contents">
+
+<!--START OF MAIN FRAME-->
+<div id="main-frame">
+
+
+<!--START OF HEADER-->
+<div id="header-wrap">
+<div class="header-logo">
+<a href="/index.html"><img src="/image_common/header_logo.gif" alt="turbolinux" border="0" width="141" height="62" /></a>
+</div>
+
+<div class="header-top-bt">
+<ul>
+<li><a href="/askto.html"><img src="/image_common/header_top_bt01.gif" alt="¤ªÌä¤¤¹ç¤ï¤»" name="topmenu1" width="90" height="28" border="0" id="topmenu1" /></a></li>
+<li><a href="https://service.turbolinux.co.jp/tech/users/common/serial.php?next_phase=../register/userentry01.php"><img src="/image_common/header_top_bt02.gif" alt="¥æ¡¼¥¶¡¼ÅÐÏ¿" name="topmenu3" width="90" height="28" border="0" id="topmenu3" /></a></li>
+<!--li><a href="http://www.turbolinux.com/gtreg.html"><img src="/image_common/header_top_bt03.gif" alt="Worldwide" name="header_lang4" width="125" height="28" border="0" id="header_lang4" /></a></li-->
+</ul>
+<!--div class="livesearch0">
+<script type="text/javascript" src="/js/livesearch0.js"></script>
+</div-->
+</div>
+</div>
+
+<!--END OF HEADER-->
+
+<!--START OF MENU-->
+<div id="menu" class="menu">
+
+<div class="popup">
+
+<div id="popup1" onmouseover="MenuOn(1)" onmouseout="MenuOff(1)">
+<a href="/company/aboutlinux.html" class="menuhead"><img src="/image_common/header_bt_menu01.gif" alt="´ë¶È¾ðÊó" name="menu1" width="97" height="39" border="0" id="menu1" /></a>
+<div class="submenu" id="submenu1">
+<a href="/company/aboutlinux.html">¡¡¥ê¥Ê¥Ã¥¯¥¹¤È¤Ï</a>
+<a href="/company/aboutcompany.html">¡¡²ñ¼Ò³µÍ×</a>
+<a href="/company/map.html">¡¡½êºßÃÏ</a>
+<a href="http://www.tl-holdings.com/recruit/" target="_blank">¡¡ºÎÍÑ¾ðÊó</a>
+<a href="/cgi-bin/newsrelease/index.cgi?mode=index">¡¡¥Ë¥å¡¼¥¹¥ê¥ê¡¼¥¹</a>
+<a href="/company/pressroom.html" class="noborder">¡¡¥×¥ì¥¹¥ë¡¼¥à</a>
+</div>
+</div>
+
+<div id="popup2" onmouseover="MenuOn(2)" onmouseout="MenuOff(2)">
+<a href="/products/index.html"><img src="/image_common/header_bt_menu02.gif" alt="À½ÉÊ¾ðÊó" name="menu2" width="82" height="39" border="0" id="menu2" /></a>
+<div class="submenu" id="submenu2"> 
+<a href="/products/index.html">¡¡À½ÉÊ°ìÍ÷</a>
+<a href="/products/server/index.html">¡¡¥µ¡¼¥Ð¡¼OS</a>
+<a href="/products/tlc125/index.html">¡¡¥¯¥é¥¤¥¢¥ó¥ÈOS</a>
+<a href="/products/middleware/clusterpro_x3/index.html">¡¡¥ß¥É¥ë¥¦¥§¥¢</a>
+<a href="/products/embeddedlinux/micropz1.html">¡¡Linux¥Ü¡¼¥É</a>
+<a href="/products/thinclient/index.html">¡¡¥·¥ó¥¯¥é¥¤¥¢¥ó¥È</a>
+<a href="/products/tizen/index.html">¡¡Tizen</a>
+<a href="/products/compatibility/index.html">¡¡¥Ï¡¼¥É¥¦¥§¥¢Æ°ºî¾ðÊó</a>
+<a href="/products/starterkit.html">¡¡¥Õ¥ê¡¼¥À¥¦¥ó¥í¡¼¥ÉÈÇ</a>
+<a href="/products/purchase/onlineshop.html" class="noborder">¡¡¹ØÆþ</a>
+</div>
+</div>
+
+<div id="popup3" onmouseover="MenuOn(3)" onmouseout="MenuOff(3)">
+<a href="/solution_service/training.html"><img src="/image_common/header_bt_menu03.gif" alt="¥½¥ê¥å¡¼¥·¥ç¥ó/¥µ¡¼¥Ó¥¹" name="menu3" width="161" height="39" border="0" id="menu3" /></a>
+<div class="submenu" id="submenu3"> 
+<a href="/solution_service/training.html">¡¡¥È¥ì¡¼¥Ë¥ó¥°¡õ»ñ³Ê</a>
+<a href="/solution_service/partners/index.html">¡¡¥Ñ¡¼¥È¥Ê¡¼</a>
+<a href="/solution_service/consulting.html">¡¡¥³¥ó¥µ¥ë¥Æ¥£¥ó¥°</a>
+<a href="/solution_service/user_example.html">¡¡¥æ¡¼¥¶¡¼»öÎã</a>
+<a href="/solution_service/books.html">¡¡Turbolinux´ØÏ¢½ñÀÒ</a>
+<a href="/PCKS/" target="_blank" class="noborder">¡¡PC²ó¼ý¥µ¡¼¥Ó¥¹</a>
+</div>
+</div>
+
+<div id="popup4" onmouseover="MenuOn(4)" onmouseout="MenuOff(4)">
+<a href="/support/support_navi.html"><img src="/image_common/header_bt_menu04.gif" alt="¥µ¥Ý¡¼¥È" name="menu4" width="84" height="39" border="0" id="menu4" /></a>
+<div class="submenu" id="submenu4">
+<a href="/support/support_navi.html">¡¡¥µ¥Ý¡¼¥È°ÆÆâ</a>
+<a href="https://service.turbolinux.co.jp/tech/users/common/serial.php?next_phase=../register/userentry01.php">¡¡¥æ¡¼¥¶¡¼ÅÐÏ¿</a>
+<a href="/support/support_center.html">¡¡¥µ¥Ý¡¼¥È¥»¥ó¥¿¡¼</a>
+<a href="/support/document.html">¡¡¥É¥­¥å¥á¥ó¥È¡¦FAQ</a>
+<a href="/support/download.html">¡¡¥À¥¦¥ó¥í¡¼¥É</a>
+<a href="/support/security.html">¡¡¥»¥­¥å¥ê¥Æ¥£</a>
+<a href="/support/lifecycle.html" class="noborder">¡¡¥×¥í¥À¥¯¥È¥é¥¤¥Õ¥µ¥¤¥¯¥ë</a>
+</div>
+</div>
+
+<div id="popup5" onmouseover="MenuOn(5)" onmouseout="MenuOff(5)">
+<a href="/community/usersforum.html"><img src="/image_common/header_bt_menu05.gif" alt="¥³¥ß¥å¥Ë¥Æ¥£" name="menu5" width="103" height="39" border="0" id="menu5" /></a>
+<div class="submenu" id="submenu5">
+<a href="/community/usersforum.html">¡¡¥æ¡¼¥¶¡¼¥º¥Õ¥©¡¼¥é¥à</a>
+<a href="/community/mailinglist.html">¡¡¥á¡¼¥ê¥ó¥°¥ê¥¹¥È</a>
+<a href="/community/bugtracking.html" class="noborder">¡¡¥Ð¥°¥È¥é¥Ã¥­¥ó¥°¥·¥¹¥Æ¥à</a>
+</div>
+</div>
+
+<div id="popup6" onmouseover="MenuOn(6)" onmouseout="MenuOff(6)">
+<a href="http://www.tl-holdings.com/ir/index.html" target="_blank"><img src="/image_common/header_bt_menu06.gif" alt="Åê»ñ²È¤Î³§ÍÍ¤Ø" name="menu6" width="122" height="39" border="0" id="menu6" /></a>
+</div>
+
+
+<div id="popup7">
+<a href="/j-shop.php" target="_blank"><img src="/image_common/header_bt_menu07.gif" alt="¥ª¥ó¥é¥¤¥ó¥·¥ç¥Ã¥×" name="menu7" width="151" height="39" border="0" id="menu7" /></a>
+</div>
+
+
+</div>
+</div>
+
+<!--END OF MENU-->
+
+<script type="text/javascript">
+<!--
+addOnloadEvent(
+function(){
+    Nifty("div#box0");
+    Nifty("div#box1,div#box2","same-height");
+});
+//-->
+</script>
+<!--START OF MAIN CONTENTS-->
+<div class="main-contents">
+<div class="contents-head-spacer">
+</div>
+<table width="785"  border="0" cellspacing="0" cellpadding="0">
+	<tr align="left" valign="top">
+			<!--START OF LEFT SIDE CELL-->
+		<td class="leftsidemenu">
+		<!-- InstanceBeginEditable name="side-menu" -->
+			<img src="image_products/side_caption1a.gif" alt="¥¤¥ó¥Ç¥Ã¥¯¥¹" width="130" height="32" />
+   <div class="broken-line2">
+<img src="../image_common/broken-line-side.gif" width="126" height="1" alt="" />
+</div>
+			<script type="text/javascript">
+<!--
+var leftMenu;
+addOnloadEvent(function(){
+    if(document.getElementById("leftmenu_products")){
+    leftMenu = new SDMenu("leftmenu_products");
+    /*
+    leftMenu.speed = 5; // Menu sliding speed (1 - 5 recomended)
+    leftMenu.oneSmOnly = false; // One expanded submenu at a time
+    leftMenu.markCurrent = false; // Mark current link / page (link.href == location.href)
+    */
+    leftMenu.init();
+    }
+});
+//-->
+</script>
+    <div id="leftmenu_products" class="sdmenu">
+      <div class="collapsed">
+        <span>&nbsp;À½ÉÊ¾ðÊó</span>
+        <a href="/products/index.html" target="_top" onmouseover="MM_swapImage('Image22','','/products/image_products/side_menu1_f2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/products/image_products/side_menu1_f1.gif" alt="À½ÉÊ°ìÍ÷" name="Image22" width="130" height="17" border="0" id="Image22" /></a>
+        <a href="/products/server/index.html" target="_top" onmouseover="MM_swapImage('Image23','','/products/image_products/side_menu2_f2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/products/image_products/side_menu2_f1.gif" alt="¥µ¡¼¥Ð¡¼" name="Image23" width="130" height="17" border="0" id="Image23" /></a>
+        <a href="/products/tlc125/index.html" target="_top" onmouseover="MM_swapImage('Image24','','/products/image_products/side_menu3_f2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/products/image_products/side_menu3_f1.gif" alt="¥Ç¥¹¥¯¥È¥Ã¥×" name="Image24" width="130" height="17" border="0" id="Image24" /></a>
+        <a href="/products/middleware/clusterpro_x3/index.html" target="_top" onmouseover="MM_swapImage('Image25','','/products/image_products/side_menu4_f2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/products/image_products/side_menu4_f1.gif" alt="¥ß¥É¥ë¥¦¥§¥¢" name="Image25" width="130" height="17" border="0" id="Image25" /></a>
+        <a href="/products/embeddedlinux/index.html" target="_top" onmouseover="MM_swapImage('Image32','','/products/image_products/side_menu12_f2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/products/image_products/side_menu12_f1.gif" alt="ÁÈ¹þ¤ßLinux" name="Image32" width="130" height="17" border="0" id="Image32" /></a>
+        <a href="/products/thinclient/index.html" target="_top" onmouseover="MM_swapImage('Image31','','/products/image_products/side_menu10_f2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/products/image_products/side_menu10_f1.gif" alt="¥·¥ó¥¯¥é¥¤¥¢¥ó¥È" name="Image31" width="130" height="17" border="0" id="Image31" /></a>
+        <a href="/products/tizen/index.html" target="_top" onmouseover="MM_swapImage('Image3131','','/products/image_products/side_menu2_tizen2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/products/image_products/side_menu2_tizen.gif" alt="Tizen" name="Image3131" width="130" height="17" border="0" id="Image3131" /></a>
+        <a href="/products/compatibility/index.html" target="_top" onmouseover="MM_swapImage('Image28','','/products/image_products/side_menu7_f2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/products/image_products/side_menu7_f1.gif" alt="¥Ï¡¼¥É¥¦¥§¥¢Æ°ºî¾ðÊó" name="Image28" width="130" height="17" border="0" id="Image28" /></a>
+        <a href="/products/starterkit.html" target="_top" onmouseover="MM_swapImage('Image30','','/products/image_products/side_menu9_f2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/products/image_products/side_menu9_f1.gif" alt="¥¹¥¿¡¼¥¿¡¼¡¦¥­¥Ã¥È" name="Image30" width="130" height="17" border="0" id="Image30" /></a>
+        <a href="/products/purchase/onlineshop.html" target="_top" onmouseover="MM_swapImage('Image29','','/products/image_products/side_menu8_f2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/products/image_products/side_menu8_f1.gif" alt="¹ØÆþ" name="Image29" width="130" height="17" border="0" id="Image29" /></a>
+      </div>
+      <noscript>
+        <div>
+        <a href="/products/index.html" target="_top"><img src="/products/image_products/side_menu1_f1.gif" alt="À½ÉÊ°ìÍ÷" width="130" height="17" border="0" /></a>
+        <a href="/products/server/index.html" target="_top"><img src="/products/image_products/side_menu2_f1.gif" alt="¥µ¡¼¥Ð¡¼" width="130" height="17" border="0" /></a>
+        <a href="/products/tlc125/index.html" target="_top"><img src="/products/image_products/side_menu3_f1.gif" alt="¥Ç¥¹¥¯¥È¥Ã¥×" width="130" height="17" border="0" /></a>
+        <a href="/products/middleware/clusterpro_x2/index.html" target="_top"><img src="/products/image_products/side_menu4_f1.gif" alt="¥ß¥É¥ë¥¦¥§¥¢" width="130" height="17" border="0" /></a>
+        <a href="/products/iptel/infinitalk/index.html" target="_top"><img src="/products/image_products/side_menu5_f1.gif" alt="IP¥Æ¥ì¥Õ¥©¥Ë¡¼" width="130" height="17" border="0" /></a>
+        <a href="/products/wizpy/index.html" target="_top"><img src="/products/image_products/side_menu6c_5_f1.gif" alt="wizpy ¥¦¥£¥º¥Ô¡¼" width="130" height="17" border="0" /></a>
+        <a href="/products/thinclient/index.html" target="_top"><img src="/products/image_products/side_menu10_f1.gif" alt="¥·¥ó¥¯¥é¥¤¥¢¥ó¥È" width="130" height="17" border="0" /></a>
+        <a href="/products/compatibility/index.html" target="_top"><img src="/products/image_products/side_menu7_f1.gif" alt="¥Ï¡¼¥É¥¦¥§¥¢Æ°ºî¾ðÊó" width="130" height="17" border="0" /></a>
+        <a href="/products/starterkit.html" target="_top"><img src="/products/image_products/side_menu9_f1.gif" alt="¥¹¥¿¡¼¥¿¡¼¡¦¥­¥Ã¥È" width="130" height="17" border="0" /></a>
+        <a href="/products/purchase/onlineshop.html" target="_top"><img src="/products/image_products/side_menu8_f1.gif" alt="¹ØÆþ" width="130" height="17" border="0" /></a>
+      </div>
+      </noscript>
+    </div>
+
+<br />
+
+<!-- InstanceEndEditable -->
+		</td>
+		<!--END OF LEFT SIDE CELL-->
+		<!--START OF CENTER CELL-->
+		<td width="20" class="border-line">
+</td>
+		<!--END OF CENTER CELL-->	
+			<!--START OF RIGHT SIDE CELL-->
+		<td width="630">	
+			<div class="contents-frame">
+<!-- InstanceBeginEditable name="main-contents" -->
+<p>¥¿¡¼¥Ü¥ê¥Ê¥Ã¥¯¥¹¥°¥ë¡¼¥×¤ÎÀ½ÉÊ°ìÍ÷¤ò·ÇºÜ¤·¤Æ¤¤¤Þ¤¹¡£¥¿¡¼¥Ü¥ê¥Ê¥Ã¥¯¥¹¥°¥ë¡¼¥×¤Ï¥·¥¹¥Æ¥à¤Î¹½ÃÛ¤äÆ³Æþ¤«¤é±¿ÍÑ¤Î¥µ¥Ý¡¼¥È¤Þ¤Ç¾µ¤ê¤Þ¤¹¡£À½ÉÊ¤Î¤ª¸«ÀÑ°ÍÍê¤ä¥·¥¹¥Æ¥àÆ³ÆþÅù¤Î¥³¥ó¥µ¥ë¥Æ¥£¥ó¥°¤Ë´Ø¤·¤Þ¤·¤Æ¤Ï¡¢<a href="/info/">¤ªÌä¤¤¹ç¤ï¤»¤¯¤À¤µ¤¤¡£</a>
+</p>
+<div id="box0">
+<div style="width: 45%; float: left;">
+<span class="stitle">¥µ¡¼¥Ð¡¼OS</span>
+<br />
+
+<ul style="margin:0 !important;">
+<li>
+<strong>
+<a href="server/11s.html">Turbolinux 11 Server</a></strong></li>
+<li><strong><a href="server/tlas4/index.html">Turbolinux Appliance Server 4.0</a></strong></li>
+<li><strong><a href="server/tlas3/index.html">Turbolinux Appliance Server 3.0</a></strong></li>
+</ul>
+<br />
+<span class="stitle">¥¢¥×¥é¥¤¥¢¥ó¥¹/¥Ï¡¼¥É¥¦¥§¥¢¥×¥ê¥¤¥ó¥¹¥È¡¼¥ë</span>
+<ul style="margin:0 0 20px 0 !important;">
+  <li>
+<a href="server/tlas3/mail-appliance.html">Turbolinux Mail ¥»¥­¥å¥ê¥Æ¥£¥¢¥×¥é¥¤¥¢¥ó¥¹</a>
+</li>
+<li>
+<a href="server/tlas3/mail-appliance.html">Turbolinux Mail ¥¢¡¼¥«¥¤¥Ö¥¢¥×¥é¥¤¥¢¥ó¥¹</a>
+</li>
+</ul>
+<ul style="margin:0 0 20px 0 !important;">
+<li>
+<a href="http://www.turbolinux.co.jp/epsondirect/index.html">Epson Direct Endeavor LX9000</a>
+</li>
+</ul>
+<span class="stitle">¥°¥ë¡¼¥×¥¦¥§¥¢¡¿EIP</span>
+<br />
+
+<ul>
+<li>
+<a href="/products/server/ox/">Open-Xchange¥½¥ê¥å¡¼¥·¥ç¥ó</a>
+</li>
+</ul>
+<span class="stitle">¥¯¥é¥¤¥¢¥ó¥ÈOS¡Ê¥Ç¥¹¥¯¥È¥Ã¥×OS¡Ë</span>
+<br />
+
+<ul>
+<li>
+<strong>
+<a href="/products/tlc125/index.html">Turbolinux Client 12.5</a>
+</strong>
+</li>
+</ul>
+</div>
+<div style="width: 51%; float: right;">
+<span class="stitle">¥ß¥É¥ë¥¦¥§¥¢</span>
+<br />
+
+<div style="margin:3px 0 10px 0;">
+<span class="text-666666-11-16">¥·¥ó¥°¥ë ¥µ¥¤¥ó¥ª¥ó ¥½¥ê¥å¡¼¥·¥ç¥ó</span>
+<ul style="margin:0 0 15px 0;">
+<li><<a href="linuxconnector/index.html">Linux Connector for Active Directory</a></li>
+</ul>
+</div>
+¥Õ¥§¥¤¥ë¥ª¡¼¥Ð¡¼·¿¥¯¥é¥¹¥¿
+<ul style="margin:0 0 15px 0;">
+<li><strong><a href="middleware/clusterpro_x3/index.html">Turbolinux CLUSTERPRO X 3.0</a></strong></li>
+</ul>
+<br />
+<div style="margin:0 0 15px 0;">
+<span class="stitle">ÁÈ¹þ¤ßLinux</span>
+<br />
+<ul style="margin:0;">
+<li><a href="embeddedlinux/micropz1.html">Linux¥Ü¡¼¥É &micro;PZ-1</a></li>
+<li><strong><a href="embeddedlinux/index.html">Turbolinux Embedded Development</a></strong></li>
+</ul>
+</div>
+<br />
+
+<span class="stitle">¥·¥ó¥¯¥é¥¤¥¢¥ó¥È</span>
+<br />
+
+<ul style="margin:0 !important;">
+<li>
+  <a href="thinclient/index.html">wizpy Style¡Ê¥·¥ó¥¯¥é¥¤¥¢¥ó¥È¡Ë</a><!--span class="stitle">wizpy</span><span class="text-666666-11-16" style="font-size:0.9em;">¡Ê·ÈÂÓ¥Þ¥ë¥Á¥á¥Ç¥£¥¢¥×¥ì¡¼¥ä¡ÜLinux OS¡Ë</span>
+<br />
+<ul>
+<li>
+<a href="wizpy/index.html">wizpy</a>
+</li>
+</ul-->
+</li>
+</ul>
+</div>
+<br clear="all" />
+<!--div style="width: 45%; float: left;">
+<span class="stitle">¥¯¥é¥¤¥¢¥ó¥ÈOS¡Ê¥Ç¥¹¥¯¥È¥Ã¥×OS¡Ë</span>
+<br />
+<ul>
+<li>
+<strong>
+<a href="/products/tlc2008/index.html">Turbolinux Client 2008</a>
+</strong>
+</li>
+<li>
+<a href="/products/FUJI/index.html">Turbolinux FUJI</a>
+</li>
+</ul>
+</div>
+
+<div style="width: 51%; float: right;">
+<span class="stitle">wizpy</span><span class="text-666666-11-16">¡Ê·ÈÂÓ¥Þ¥ë¥Á¥á¥Ç¥£¥¢¥×¥ì¡¼¥ä¡ÜLinux OS¡Ë</span>
+<br />
+<ul>
+<li>
+<a href="wizpy/index.html">wizpy</a>
+</li>
+</ul>
+</div>
+<br clear="all" /-->
+</div>
+
+
+<div id="box2">
+<div style="width: 45%; float: left;"><span class="stitle">Tizen ¥½¥ê¥å¡¼¥·¥ç¥ó</span> <br />
+  <ul style="margin:0;">
+    <li> <a href="/products/tizen/">Tizen IVI ¥½¥ê¥å¡¼¥·¥ç¥ó</a> <span style="color:#666;">¡§Tizen IVI ³«È¯¥×¥é¥Ã¥È¥Õ¥©¡¼¥à ¥ï¥ó¥¹¥È¥Ã¥×¥½¥ê¥å¡¼¥·¥ç¥ó</span></li>
+  </ul>
+</div>
+<div style="width: 51%; float: right;"><span class="stitle">LAMP ¥½¥ê¥å¡¼¥·¥ç¥ó</span> <br />
+  <ul style="margin:0;">
+    <li> <a href="http://www.konekto.jp/product/zendstudio8.html" target="_blank">Zend Studio<img src="/image_common/link_open.gif" alt="¿·¤·¤¯¥¦¥£¥ó¥É¥¦¤¬³«¤­¤Þ¤¹" width="11" height="11" border="0" /> </a> <span style="color:#666;">¡§PHP¥¢¥×¥ê¥±¡¼¥·¥ç¥ó¤ÎÅý¹ç³«È¯´Ä¶­</span> </li>
+    <li> <a href="http://www.konekto.jp/product/zendserver.html" target="_blank">Zend Server<img src="/image_common/link_open.gif" alt="¿·¤·¤¯¥¦¥£¥ó¥É¥¦¤¬³«¤­¤Þ¤¹" width="11" height="11" border="0" /> </a> <span style="color:#666;">¡§PHP¥¢¥×¥ê¥±¡¼¥·¥ç¥ó¥µ¡¼¥Ð</span></li>
+    <li> <a href="http://www.konekto.jp/product/zendguard.html" target="_blank">Zend Guard<img src="/image_common/link_open.gif" alt="¿·¤·¤¯¥¦¥£¥ó¥É¥¦¤¬³«¤­¤Þ¤¹" width="11" height="11" border="0" /> </a> <span style="color:#666;">¡§PHP¥³¡¼¥É¤Î°Å¹æ²½</span> </li>
+    <li> <a href="http://www.konekto.jp/product/mysql.html" target="_blank">MySQL¥×¥í¥À¥¯¥È<img src="/image_common/link_open.gif" alt="¿·¤·¤¯¥¦¥£¥ó¥É¥¦¤¬³«¤­¤Þ¤¹" width="11" height="11" border="0" /> </a></li>
+  </ul>
+  <!--span class="stitle">wizpy</span><span class="text-666666-11-16" style="font-size:0.9em;">¡Ê·ÈÂÓ¥Þ¥ë¥Á¥á¥Ç¥£¥¢¥×¥ì¡¼¥ä¡ÜLinux OS¡Ë</span>
+<br />
+<ul>
+<li>
+<a href="wizpy/index.html">wizpy</a>
+</li>
+</ul-->
+
+</div>
+<br clear="all" />
+<!--div style="width: 45%; float: left;">
+<span class="stitle">¥¯¥é¥¤¥¢¥ó¥ÈOS¡Ê¥Ç¥¹¥¯¥È¥Ã¥×OS¡Ë</span>
+<br />
+<ul>
+<li>
+<strong>
+<a href="/products/tlc2008/index.html">Turbolinux Client 2008</a>
+</strong>
+</li>
+<li>
+<a href="/products/FUJI/index.html">Turbolinux FUJI</a>
+</li>
+</ul>
+</div>
+
+<div style="width: 51%; float: right;">
+<span class="stitle">wizpy</span><span class="text-666666-11-16">¡Ê·ÈÂÓ¥Þ¥ë¥Á¥á¥Ç¥£¥¢¥×¥ì¡¼¥ä¡ÜLinux OS¡Ë</span>
+<br />
+<ul>
+<li>
+<a href="wizpy/index.html">wizpy</a>
+</li>
+</ul>
+</div>
+<br clear="all" /-->
+</div>
+<br clear="all" />
+<br />
+
+<table style="border:none;padding:0;margin:10px 0;width:100%;">
+<tbody>
+<tr style="vertical-align:top;">    <td style="padding:5px 0 20px 60px;background:url(image_products/image_home/index_icon01.gif) no-repeat left top;width:46%">
+<span class="stitle2">¾ðÊóÏ³±ÌËÉ»ß/¥»¥­¥å¥ê¥Æ¥£ÂÐºö¤Ë¤Ï</span>
+<br />
+¡Ê£±¡Ë<a href="thinclient/index.html">wizpy Style</a></td>    
+<td style="padding:5px 0 20px 60px;background:url(image_products/image_home/index_icon02.gif) no-repeat left top;width:54%;">
+<span class="stitle2">¥·¥¹¥Æ¥à¤Î²ÄÍÑÀ­¤ò¹â¤á¤Æ¾ã³²ÂÐºö</span>
+<br />
+¡Ê£±¡Ë<a href="middleware/clusterpro_x3/index.html">Turbolinux CLUSTERPRO X 3.0</a>
+<br />
+¡¡¡¡¡¡Turbolinux 11 Server¡ÜCLUSTERPRO X 3.0<br />
+¡Ê£²¡Ë<a href="server/11s-loadbalancer.html">Turbolinux 11 Server Cluster LoadBalancer</a>
+</td>
+</tr>
+<tr style="vertical-align:top;">    <td style="padding:5px 0 20px 60px;background:url(image_products/image_home/index_icon03.gif) no-repeat left top;">
+<span class="stitle2">Web¥µ¡¼¥Ð¡¼¤ò¹½ÃÛ¤·¤¿¤¤</span>
+<br />
+¡Ê£±¡Ë<a href="server/11s.html">Turbolinux 11 Server</a>
+<br />
+¡Ê£²¡Ë<a href="server/tlas3/index.html">Turbolinux Appliance Server 3.0</a>
+</td>    <td style="padding:5px 0 20px 60px;background:url(image_products/image_home/index_icon04.gif) no-repeat left top;">
+<span class="stitle2">Web¥¢¥×¥ê¥±¡¼¥·¥ç¥ó¤ò³«È¯¤¹¤ë¤Ê¤é</span>
+<br />
+    <a href="server/11s.html">Turbolinux 11 Server</a> ¡Ü <a href="http://www.konekto.jp/product/" target="_blank">LAMP¥½¥ê¥å¡¼¥·¥ç¥ó<img src="/image_common/link_open.gif" alt="¿·¤·¤¯¥¦¥£¥ó¥É¥¦¤¬³«¤­¤Þ¤¹" width="11" height="11" border="0" />
+</a>
+</td>
+</tr>
+<tr style="vertical-align:top;">    <td style="padding:5px 0 5px 60px;background:url(image_products/image_home/index_icon05.gif) no-repeat left top;">
+<span class="stitle2">¥Ñ¥½¥³¥ó¤ÇLinux¤òÍøÍÑ¤·¤¿¤¤</span>
+<br />
+¡Ê£±¡Ë<a href="/products/tlc125/index.html">Turbolinux Client 12.5</a>
+<br />
+
+</td>    <td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<br />
+
+<div style="padding:10px 10px 40px 10px;margin:0;background:url(image_products/image_home/index_contact_bg.gif) no-repeat;">
+<span class="stitle2">¤ªÌä¤¤¹ç¤ï¤»</span>
+<br />
+
+<div style="float:left;width:55%;padding:5px 0 0 0;">À½ÉÊ¤Ë´Ø¤¹¤ë¤´¼ÁÌä¤ä¤ª¸«ÀÑ°ÍÍê¡¢À½ÉÊ¤ÎÆ³Æþ¤Ë´Ø¤¹¤ë¤´ÁêÃÌ¤Ï¡¢<a href="/info/" onmouseover="MM_swapImage('button1','','image_products/image_home/index_contact_form-on.gif',1)" onmouseout="MM_swapImgRestore()">¤ªÌä¤¤¹ç¤ï¤»¥Õ¥©¡¼¥à</a>¤è¤ê¾µ¤Ã¤Æ¤ª¤ê¤Þ¤¹¡£</div>
+<div style="float:right;">
+<a href="/info/" onmouseover="MM_swapImage('button1','','image_products/image_home/index_contact_form-on.gif',1)" onmouseout="MM_swapImgRestore()">
+<img src="image_products/image_home/index_contact_form.gif" alt="¤ªÌä¤¤¹ç¤ï¤»¥Õ¥©¡¼¥à" border="0" name="button1" />
+</a>
+</div>
+<br clear="all" />
+</div>
+	      <!-- InstanceEndEditable -->
+</div>
+<hr class="gray_dot_1" />
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1225114-1");
+pageTracker._setDomainName(".turbolinux.co.jp");
+pageTracker._initData();
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</td>
+
+		<!--END OF RIGHT SIDE CELL-->
+			</tr>
+</table>
+
+<br />
+<div id="foot">
+
+<div id="foot-menu1">
+<ul>
+<li><a href="http://www.turbolinux.co.jp/">¥Û¡¼¥à</a></li>
+<li><a href="http://www.turbolinux.co.jp/cgi-bin/newsrelease/index.cgi?mode=index">¥Ë¥å¡¼¥¹¥ê¥ê¡¼¥¹</a></li>
+<li><a href="http://www.turbolinux.co.jp/privacy-policy.html">¥×¥é¥¤¥Ð¥·¡¼¥Ý¥ê¥·¡¼</a></li>
+<li><a href="http://www.turbolinux.co.jp/site-map.html">¥µ¥¤¥È¥Þ¥Ã¥×</a></li>
+<li><a href="http://www.turbolinux.co.jp/askto.html">¤ªÌä¤¤¹ç¤ï¤»</a></li>
+<li>&nbsp;</li>
+</ul>
+<center><span style="color:#666;">¥¿¡¼¥Ü¥ê¥Ê¥Ã¥¯¥¹³ô¼°²ñ¼Ò ÅìµþÅÔ¸ø°Â°Ñ°÷²ñ µö²ÄÈÖ¹æÂè306631206769¹æ</span></center>
+</div>
+
+<div id="foot-menu2">
+<ul class="foot-group">
+<li class="topspace">¥¿¡¼¥Ü¥ê¥Ê¥Ã¥¯¥¹ ¥°¥ë¡¼¥×</li>
+<li><img src="http://www.turbolinux.co.jp/image_common/footer_group.gif" alt="¥¿¡¼¥Ü¥ê¥Ê¥Ã¥¯¥¹ ¥°¥ë¡¼¥×" /></li>
+</ul>
+<ul>
+<li class="nolist"><a href="http://www.turbolinuxhd.com/" target="_blank">TurbolinuxHD</a></li>
+<li><a href="http://www.turbolinux.co.jp/" target="_blank">Turbolinux</a></li>
+<li><a href="http://www.turbolinux.com.cn/" target="_blank">TL China</a></li>
+<li><a href="http://www.konekto.jp/" target="_blank">konekto</a></li>
+<li><a href="http://www.tou-kan.com/" target="_blank">Åì´Ä</a></li>
+<li style="color:#456E8B"><a href="http://www.turbosystems.co.jp/" alt="¥¿¡¼¥Ü¥·¥¹¥Æ¥à¥º³ô¼°²ñ¼Ò" target="_blank">Turbo Systems</a></li>
+</ul>
+
+
+
+</div>
+<div id="foot-copyright">
+<p>
+Copyright &copy; Turbolinux, Inc..All Right Reserved.
+</p>
+
+</div>
+
+
+
+<div class="nakanohito">
+<!-- nakanohito -->
+<script LANGUAGE="Javascript">
+<!--
+var refer = document.referrer;
+document.write("<a href='http://nakanohito.jp/'>");
+document.write("<img src='http://nakanohito.jp/an/?u=211817&h=943924&w=48&guid=ON&t=&version=js&refer="+escape(parent.document.referrer)+"&url="+escape(parent.document.URL)+"' border='0' width='48' height='48' />");
+document.write("</a>");
+//-->
+</script>
+<noscript>
+<img src="http://nakanohito.jp/an/?u=211817&h=943924&w=48&guid=ON&t=" width="48" height="48" alt="" border="0" />
+</noscript>
+<!-- nakanohito end -->
+
+
+</div>
+</div>
+
+</div>
+<!--END OF MAIN CONTENTS-->
+</div>
+<!--ENF OF MAIN FRAME-->
+</div>
+<!--END OF CENTERING-->
+</body>
+<!-- InstanceEnd -->
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

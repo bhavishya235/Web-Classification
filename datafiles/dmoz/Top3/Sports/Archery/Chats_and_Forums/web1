@@ -1,0 +1,1610 @@
+====================<http://www.archery-forum.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" id="vbulletin_html">
+<head>
+	
+<!-- Tapatalk Detect Start -->
+<script type="text/javascript">
+var tapatalk_iphone_msg = "This forum has an app for iPhone and iPod Touch! Click OK to learn more about Tapatalk.";
+var tapatalk_iphone_url = "http://itunes.apple.com/us/app/tapatalk-forum-app/id307880732?mt=8";
+var tapatalk_ipad_msg = "This forum has an app for iPad! Click OK to learn more about Tapatalk.";
+var tapatalk_ipad_url = "http://itunes.apple.com/us/app/tapatalk-hd-for-ipad/id481579541?mt=8";
+var tapatalk_kindle_msg = "This forum has an app for Kindle Fire! Click OK to learn more about Tapatalk.";
+var tapatalk_kindle_url = "http://www.amazon.com/gp/mas/dl/android?p=com.quoord.tapatalkpro.activity";
+var tapatalk_android_msg = "This forum has an app for Android. Click OK to learn more about Tapatalk.";
+var tapatalk_android_url = "market://details?id=com.quoord.tapatalkpro.activity";
+var tapatalk_chrome_enable = true;
+var tapatalkdir = "mobiquo";
+</script>
+<script type="text/javascript" src="http://www.archery-forum.com/mobiquo/tapatalkdetect.js"></script>
+<!-- Tapatalk Detect End -->
+<!-- Forum Runner Begin -->
+<script type="text/javascript" src="http://www.archery-forum.com/forumrunner/detect.js"></script>
+<!-- Forum Runner End --><script type="text/javascript" src="mobiquo/tapatalkdetect.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.archery-forum.com" />
+<base href="http://www.archery-forum.com/" /><!--[if IE]></base><![endif]-->
+<meta name="generator" content="vBulletin 4.2.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+	<link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon" />
+
+
+		<meta name="keywords" content="vbulletin,forum,bbs,discussion,jelsoft,bulletin board" />
+		<meta name="description" content="This is a discussion forum powered by vBulletin. To find out about vBulletin, go to http://www.vbulletin.com/ ." />
+
+
+
+
+
+<script type="text/javascript">
+<!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=421"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=421"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=421"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=00f1aeb7dc8767e7847bf11dbf3611f0&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "421";
+	var BBURL = "http://www.archery-forum.com";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "activity";
+	var RELPATH = "activity.php";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.archery-forum.com/";
+// -->
+</script>
+<script type="text/javascript" src="http://www.archery-forum.com/clientscript/vbulletin-core.js?v=421"></script>
+
+
+
+	<link rel="alternate" type="application/rss+xml" title="Archery Forum RSS Feed" href="http://www.archery-forum.com/external.php?type=RSS2" />
+	
+
+
+
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1379418928&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css," />
+
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1379418928&amp;td=ltr&amp;sheet=popupmenu-ie.css,vbulletin-ie.css,vbulletin-chrome-ie.css,vbulletin-formcontrols-ie.css,editor-ie.css" />
+	<![endif]-->
+<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1379418928&amp;td=ltr&amp;sheet=dbtech_vbshout.css" />
+<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1379418928&amp;td=ltr&amp;sheet=dbtech_vbshout_colours.css" />
+
+<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1379418928&amp;td=ltr&amp;sheet=dbtech_vbshout_editor.css" />
+
+<script type="text/javascript" src="http://www.archery-forum.com/clientscript/vbulletin_textedit.js?v=421"></script>
+<script type="text/javascript" src="http://www.archery-forum.com/dbtech/vbshout/clientscript/vbshout.js?v=544"></script>
+<script type="text/javascript" src="http://www.archery-forum.com/dbtech/vbshout/clientscript/vbshout-smiley.js?v=544"></script>
+<script type="text/javascript" src="http://www.archery-forum.com/dbtech/vbshout/clientscript/vbshout-color.js?v=544"></script>
+<script type="text/javascript" src="http://www.archery-forum.com/dbtech/vbshout/clientscript/vbshout-font.js?v=544"></script>
+<script type="text/javascript" src="http://www.archery-forum.com/dbtech/vbshout/clientscript/vbshout-fontstyle.js?v=544"></script>
+<script type="text/javascript" src="http://www.archery-forum.com/dbtech/vbshout/clientscript/vbshout-sound.js?v=544"></script> 
+	<title>Activity Stream - Archery Forum</title>
+	<script type="text/javascript" src="clientscript/vbulletin_activitystream.js?v=421"></script>
+	<script type="text/javascript">
+	<!--
+		var activity_stream_options = {
+			'type'        : 'home',
+			'mindateline' : '1393317301',
+			'maxdateline' : '1393360803',
+			'minscore'    : '0',
+			'minid'       : '33459',
+			'maxid'       : '33490',
+			'count'       : '28',
+			'totalcount'  : '30',
+			'perpage'     : '30',
+			'sortby'      : 'recent',
+			'time'        : 'anytime',
+			'show'        : 'all',
+			'newcontent'  : '',
+			'refresh'     : '1'
+		};
+	// -->
+	</script>
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1379418928&amp;td=ltr&amp;sheet=activitystream.css" />
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=2&amp;langid=1&amp;d=1379418928&amp;td=ltr&amp;sheet=additional.css" />
+
+</head>
+<body>
+
+	<div class="above_body"> <!-- closing tag is in template navbar -->
+<div id="header" class="floatcontainer doc_header">
+	<div><a name="top" href="forum.php?s=00f1aeb7dc8767e7847bf11dbf3611f0" class="logo-image"><img src="images/misc/aflogo10.png" alt="Archery Forum - Powered by vBulletin" /></a></div>
+	<div id="toplinks" class="toplinks">
+		
+			<ul class="nouser">
+			
+				<li><a href="register.php?s=00f1aeb7dc8767e7847bf11dbf3611f0" rel="nofollow">Register</a></li>
+			
+				<li><a rel="help" href="faq.php?s=00f1aeb7dc8767e7847bf11dbf3611f0">Help</a></li>
+				<li>
+			<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=421"></script>
+			<form id="navbar_loginform" action="login.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+				<fieldset id="logindetails" class="logindetails">
+					<div>
+						<div>
+					<input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" />
+					<input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
+					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;" />
+					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
+						</div>
+					</div>
+				</fieldset>
+				<div id="remember" class="remember">
+					<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /> Remember Me?</label>
+				</div>
+
+				<input type="hidden" name="s" value="00f1aeb7dc8767e7847bf11dbf3611f0" />
+				<input type="hidden" name="securitytoken" value="guest" />
+				<input type="hidden" name="do" value="login" />
+				<input type="hidden" name="vb_login_md5password" />
+				<input type="hidden" name="vb_login_md5password_utf" />
+			</form>
+			<script type="text/javascript">
+			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+			</script>
+				</li>
+				
+			</ul>
+		
+	</div>
+	<div class="ad_global_header">
+		<div id="ad_global_header1"><br><br><a href="http://www.doinker.com"><img src="/banners/doinker_340.gif"</a></div>
+		<div id="ad_global_header2"><h2><a href="http://www.archery-forum.com/showthread.php?23492-Can-t-Register">If you are being denied registration for "being a spammer" then click here and find out what to do about it</a></h2></div>
+	</div>
+	<hr />
+</div>
+
+
+
+
+	<div id="navbar" class="navbar">
+	<ul id="navtabs" class="navtabs floatcontainer">
+		
+		
+	
+		<li class="selected" id="vbtab_whatsnew">
+			<a class="navtab" href="activity.php?s=00f1aeb7dc8767e7847bf11dbf3611f0">What's New?</a>
+		</li>
+		
+		
+			<ul class="floatcontainer">
+				
+					
+						
+							<li id="vbnew_activitystream"><a href="activity.php?s=00f1aeb7dc8767e7847bf11dbf3611f0">Activity Stream</a></li>
+						
+					
+				
+					
+						
+							<li id="vbnew_articles"><a href="search.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;do=getnew&amp;contenttype=vBCms_Article">New Articles</a></li>
+						
+					
+				
+					
+						
+							<li id="vbnew_events"><a href="search.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;do=getnew&amp;contenttype=vBForum_Event">New Events</a></li>
+						
+					
+				
+					
+						
+							<li id="vbnew_entries"><a href="search.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;do=getnew&amp;contenttype=vBBlog_BlogEntry">New Blog Entries</a></li>
+						
+					
+				
+					
+						
+							<li id="vbnew_mfr"><a href="forumdisplay.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;do=markread&amp;markreadhash=guest">Mark Forums Read</a></li>
+						
+					
+				
+			</ul>
+		
+
+	
+		<li  id="vbtab_cms">
+			<a class="navtab" href="content.php?s=00f1aeb7dc8767e7847bf11dbf3611f0">Articles</a>
+		</li>
+		
+		
+
+	
+		<li  id="vbtab_forum">
+			<a class="navtab" href="forum.php?s=00f1aeb7dc8767e7847bf11dbf3611f0">Forum</a>
+		</li>
+		
+		
+
+	
+		<li  id="vbtab_blog">
+			<a class="navtab" href="blog.php?s=00f1aeb7dc8767e7847bf11dbf3611f0">Blogs</a>
+		</li>
+		
+		
+
+		
+	</ul>
+	
+		<div id="globalsearch" class="globalsearch">
+			<form action="search.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;do=process" method="post" id="navbar_search" class="navbar_search">
+				
+				<input type="hidden" name="securitytoken" value="guest" />
+				<input type="hidden" name="do" value="process" />
+				<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+				<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+			</form>
+			<ul class="navbar_advanced_search">
+				<li><a href="search.php?s=00f1aeb7dc8767e7847bf11dbf3611f0" accesskey="4">Advanced Search</a></li>
+				
+			</ul>
+		</div>
+	
+</div>
+</div><!-- closing div for above_body -->
+
+<div class="body_wrapper">
+<div id="breadcrumb" class="breadcrumb">
+	<ul class="floatcontainer">
+		<li class="navbithome"><a href="index.php?s=00f1aeb7dc8767e7847bf11dbf3611f0" accesskey="1"><img src="images/misc/navbit-home.png" alt="Home" /></a></li>
+		
+	<li class="navbit"><a href="forum.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;">Home</a></li>
+
+		
+	<li class="navbit lastnavbit"><span>Activity Stream</span></li>
+
+	</ul>
+	<hr />
+</div>
+
+ 
+<div id="ad_global_below_navbar"><a href="http://www.urbanarchery.com.au"><img src="/banners/urbanbanner2011.gif"></a></div>
+
+
+	<form action="profile.php?do=dismissnotice" method="post" id="notices" class="notices">
+		<input type="hidden" name="do" value="dismissnotice" />
+		<input type="hidden" name="s" value="s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;" />
+		<input type="hidden" name="securitytoken" value="guest" />
+		<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
+		<input type="hidden" name="url" value="" />
+		<ol>
+			<li class="restore" id="navbar_notice_1">
+	
+	If this is your first visit, be sure to
+		check out the <a href="faq.php?s=00f1aeb7dc8767e7847bf11dbf3611f0" target="_blank"><b>FAQ</b></a> by clicking the
+		link above. You may have to <a href="register.php?s=00f1aeb7dc8767e7847bf11dbf3611f0" target="_blank"><b>register</b></a>
+		before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+</li>
+		</ol>
+	</form>
+
+
+
+	<div id="pagetitle"><h1>Activity Stream</h1></div>
+
+	<div class="block activitystream">
+		<div class="blockhead">
+			<div class="popupgroup" id="streamfilter">
+				<div class="popupmenu">
+					<a href="javascript://" class="popupctrl">Filter</a>					
+					<table class="popupbody popuphover filter">
+						<thead>
+							<tr>
+								<th>Sort By</th>
+								<th>Time</th>
+								<th>Show</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									<span class="selected" >Recent</span>
+									<a href="activity.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;sortby=recent&amp;show=all&amp;time=anytime">Recent</a>
+									<span>Popular</span>
+									<a  class="unselected" href="activity.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;sortby=popular&amp;show=all&amp;time=anytime">Popular</a>									
+								</td>
+								<td>
+									<span class="selected" >Anytime</span>
+									<a  href="activity.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;time=anytime&amp;show=all&amp;sortby=recent">Anytime</a>
+									<span>Last 24 Hours</span>
+									<a  class="unselected"  href="activity.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;time=today&amp;show=all&amp;sortby=recent">Last 24 Hours</a>	
+									<span>Last 7 Days</span>
+									<a  class="unselected"  href="activity.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;time=week&amp;show=all&amp;sortby=recent">Last 7 Days</a>
+									<span>Last 30 Days</span>
+									<a  class="unselected"  href="activity.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;time=month&amp;show=all&amp;sortby=recent">Last 30 Days</a>									
+								</td>
+								<td>
+									<span class="selected" >All</span>
+									<a  href="activity.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;show=all&amp;time=anytime&amp;sortby=recent">All</a>
+									<span>Photos</span>
+									<a  class="unselected"  href="activity.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;show=photos&amp;time=anytime&amp;sortby=recent">Photos</a>
+									<span>Forum</span>
+									<a  class="unselected"  href="activity.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;show=forum&amp;time=anytime&amp;sortby=recent">Forums</a>
+									
+										<span>Articles</span>
+										<a  class="unselected"  href="activity.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;show=cms&amp;time=anytime&amp;sortby=recent">Articles</a>
+									
+									
+										<span>Blog</span>
+										<a  class="unselected"  href="activity.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;show=blog&amp;time=anytime&amp;sortby=recent">Blogs</a>
+									
+									
+										
+								</td>
+							</tr>					
+						</tbody>
+					</table>
+				</div>
+			</div>	
+		</div>
+		<div class="blockbody">
+			
+
+			<div id="newactivity_container" class="newactivity hidden">
+				<span id="newactivitylink">New Activity (<span id="newactivitycount"></span>)</span>
+			</div>	
+
+			<div id="newactivity_nomore" class="newactivity hidden">
+				<span>Please reload this page to view the 200+ new activity items that have been created.</span>
+			</div>	
+
+			<ul id="activitylist">
+				<li id="olderactivity" class="hidden">
+					<div class="block1"><hr /></div>
+					<div class="block2">Older Activity</div>
+					<div class="block3"><hr /></div>
+				</li>
+				<li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=7224&amp;dateline=1309238007&amp;type=thumb" alt="markjam51's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">25 Minutes Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?7224-markjam51&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">markjam51</a> replied to a thread  <a href="showthread.php?37319-Stabiliser-extenders&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Stabiliser extenders</a> in <a href="forumdisplay.php?10-Bow-Tuning&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Bow Tuning</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">I wouldn't use one either but I've seen two arguments: 
+ 
+1.   to lower the center of gravity of the bow; and 
+ 
+2.   to get the stabilizer out of...</div>		
+		<div class="fulllink"><a href="showthread.php?37319-Stabiliser-extenders&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=384003#post384003">see more</a></div>
+		
+	</div>
+	<div class="views">170 replies | 7151 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="images/misc/unknown.gif" alt="James Park's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">2 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?34-James-Park&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">James Park</a> replied to a thread  <a href="showthread.php?37319-Stabiliser-extenders&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Stabiliser extenders</a> in <a href="forumdisplay.php?10-Bow-Tuning&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Bow Tuning</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">Ok, I will start it: 
+I see no value in angled down front stabiliser fittings. I would not use one.</div>		
+		<div class="fulllink"><a href="showthread.php?37319-Stabiliser-extenders&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=384002#post384002">see more</a></div>
+		
+	</div>
+	<div class="views">170 replies | 7151 view(s)</div>
+</li><li class="activitybit forum_thread">
+	
+		<div class="avatar">
+			<img src="images/misc/unknown.gif" alt="Steve Clifton's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">3 Hours Ago</span>
+		</div>
+		<div class="title">
+			
+				
+					<a href="member.php?5035-Steve-Clifton&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0" class="username">Steve Clifton</a> started a thread  <a href="showthread.php?38351-2013-Vantage-Elite-Plus-with-C2-Cams&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">2013 Vantage Elite Plus with C2 Cams</a> in <a href="forumdisplay.php?31-Compound-Bows-for-Sale&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Compound Bows for Sale</a>
+							
+			
+				
+		</div>
+		
+		<div class="excerpt">Shot maby 500-800 arrows through this bow, mainly indoor. But can't shoot the longer bows as well as my shorter bows now 
+ 
+29&quot; 60lb 
+ 
+Did come with...</div>
+		<div class="fulllink"><a href="showthread.php?38351-2013-Vantage-Elite-Plus-with-C2-Cams&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">see more</a></div>
+		
+	</div>
+	<div class="views">0 replies | 53 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="images/misc/unknown.gif" alt="Zal's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">5 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?4533-Zal&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Zal</a> replied to a thread  <a href="showthread.php?38309-Binocular-recommendations-All-experiences-welcome&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Binocular recommendations. All experiences welcome.</a> in <a href="forumdisplay.php?11-Archery-Companies-and-Gear&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Archery Companies and Gear</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">I went through couple of binos at lunchtime, while shopping for a new Pentax scope eyepiece. I was quite impressed with Pentax DCF BR 9x42's,...</div>		
+		<div class="fulllink"><a href="showthread.php?38309-Binocular-recommendations-All-experiences-welcome&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383999#post383999">see more</a></div>
+		
+	</div>
+	<div class="views">26 replies | 864 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=8316&amp;dateline=1389295006&amp;type=thumb" alt="scott p's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">8 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?8316-scott-p&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">scott p</a> replied to a thread  <a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Due to a shoulder injury is this  b/s or really true</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">my shoulder is not crash hot either. 
+ 
+the amount of mass in a modern bow is actually quite minimal.  balance, or the lack of it, is what makes it...</div>		
+		<div class="fulllink"><a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383997#post383997">see more</a></div>
+		
+	</div>
+	<div class="views">29 replies | 732 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=2313&amp;dateline=1386200410&amp;type=thumb" alt="Brenton's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">9 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?2313-Brenton&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Brenton</a> replied to a thread  <a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Due to a shoulder injury is this  b/s or really true</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">http://www.google.com.au/search?q=what+is+the+shoulder&amp;ie=UTF-8&amp;oe=UTF-8&amp;hl=en&amp;client=safari 
+ 
+My bow is set at 59lb. 
+As I draw, my left wrist has...</div>		
+		<div class="fulllink"><a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383995#post383995">see more</a></div>
+		
+	</div>
+	<div class="views">29 replies | 732 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="images/misc/unknown.gif" alt="mutton bird's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">9 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?29542-mutton-bird&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">mutton bird</a> replied to a thread  <a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Due to a shoulder injury is this  b/s or really true</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">the shock wave that ripples through the muscles and joints over a few years causing problems we dont known about yet  
+ 
+i am more interested in this...</div>		
+		<div class="fulllink"><a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383994#post383994">see more</a></div>
+		
+	</div>
+	<div class="views">29 replies | 732 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=8316&amp;dateline=1389295006&amp;type=thumb" alt="scott p's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">9 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?8316-scott-p&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">scott p</a> replied to a thread  <a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Better arrow pullers</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">mmm.... or the butt is far too grippy in terms of releasing the shaft so it can be withdrawn reasonably. 
+ 
+I've very receptive to the argument of...</div>		
+		<div class="fulllink"><a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383993#post383993">see more</a></div>
+		
+	</div>
+	<div class="views">18 replies | 348 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="images/misc/unknown.gif" alt="Provo's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">9 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?8339-Provo&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Provo</a> replied to a thread  <a href="showthread.php?38350-Shoulder-mobility&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Shoulder mobility?</a> in <a href="forumdisplay.php?46-Fitness-for-Archery&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Fitness for Archery</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">1.Stand facing a wall about 50cm away. Place your palms on the wall in front of you and use your fingers to crawl your hands up as far as you can go,...</div>		
+		<div class="fulllink"><a href="showthread.php?38350-Shoulder-mobility&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383992#post383992">see more</a></div>
+		
+	</div>
+	<div class="views">1 replies | 61 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=25087&amp;dateline=1381396507&amp;type=thumb" alt="Big Tony's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">10 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?25087-Big-Tony&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Big Tony</a> replied to a thread  <a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Better arrow pullers</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">Yes DVR my club has one of those, They do a good job, just a bit bulky to be carrying around in your quiver</div>		
+		<div class="fulllink"><a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383990#post383990">see more</a></div>
+		
+	</div>
+	<div class="views">18 replies | 348 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=17731&amp;dateline=1388575925&amp;type=thumb" alt="ADO15's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">10 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?17731-ADO15&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">ADO15</a> replied to a thread  <a href="showthread.php?37319-Stabiliser-extenders&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Stabiliser extenders</a> in <a href="forumdisplay.php?10-Bow-Tuning&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Bow Tuning</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">^^^ 
+If by 'interesting' you mean 'circuitous' I agree... very interesting.</div>		
+		<div class="fulllink"><a href="showthread.php?37319-Stabiliser-extenders&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383989#post383989">see more</a></div>
+		
+	</div>
+	<div class="views">170 replies | 7151 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=3&amp;dateline=1376401764&amp;type=thumb" alt="Marcus's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">10 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?3-Marcus&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Marcus</a> replied to a thread  <a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Due to a shoulder injury is this  b/s or really true</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">There should be little pressure on the shoulders if you are drawing correctly. Adding muscle mass won't assist in preventing injury if the technique...</div>		
+		<div class="fulllink"><a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383988#post383988">see more</a></div>
+		
+	</div>
+	<div class="views">29 replies | 732 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="images/misc/unknown.gif" alt="cam b's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">10 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?24246-cam-b&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">cam b</a> replied to a thread  <a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Due to a shoulder injury is this  b/s or really true</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">With 8 months of shooting under my belt I was not making recommendations for improving performance as I am clearly not qualified to do so :) 
+With 17...</div>		
+		<div class="fulllink"><a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383987#post383987">see more</a></div>
+		
+	</div>
+	<div class="views">29 replies | 732 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=1506&amp;dateline=1355998259&amp;type=thumb" alt="wareagle's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">10 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?1506-wareagle&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">wareagle</a> replied to a thread  <a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Better arrow pullers</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">I have a arrowjack, works great but a bit heavy to carry around a 3D course</div>		
+		<div class="fulllink"><a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383986#post383986">see more</a></div>
+		
+	</div>
+	<div class="views">18 replies | 348 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=2313&amp;dateline=1386200410&amp;type=thumb" alt="Brenton's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">11 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?2313-Brenton&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Brenton</a> replied to a thread  <a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Better arrow pullers</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">I watched the kids at the target the other day and saw them struggling. They were trying to pull arrows out from high on the target and the kids were...</div>		
+		<div class="fulllink"><a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383985#post383985">see more</a></div>
+		
+	</div>
+	<div class="views">18 replies | 348 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=2475&amp;dateline=1309063486&amp;type=thumb" alt="dbjac's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">11 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?2475-dbjac&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">dbjac</a> replied to a thread  <a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Better arrow pullers</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">I know Moorabbin Archery Club and Diamond Valley Archery Club have both bought ArrowJacks for use by members. 
+ 
+They're pretty good if you mess up...</div>		
+		<div class="fulllink"><a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383984#post383984">see more</a></div>
+		
+	</div>
+	<div class="views">18 replies | 348 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="images/misc/unknown.gif" alt="DVR's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">11 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?20414-DVR&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">DVR</a> replied to a thread  <a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Better arrow pullers</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">This looks interesting: 
+ 
+http://www.ebay.com.au/itm/121160630184?ssPageName=STRK:MEWAX:IT&amp;_trksid=p3984.m1423.l2649 
+ 
+Anyone got one?</div>		
+		<div class="fulllink"><a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383983#post383983">see more</a></div>
+		
+	</div>
+	<div class="views">18 replies | 348 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=547&amp;dateline=1390554321&amp;type=thumb" alt="Ozzy's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">11 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?547-Ozzy&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Ozzy</a> replied to a thread  <a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Better arrow pullers</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">Andy's pulling ! :o</div>		
+		<div class="fulllink"><a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383982#post383982">see more</a></div>
+		
+	</div>
+	<div class="views">18 replies | 348 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=547&amp;dateline=1390554321&amp;type=thumb" alt="Ozzy's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">12 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?547-Ozzy&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Ozzy</a> replied to a thread  <a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Due to a shoulder injury is this  b/s or really true</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">Having observed the physical condition of some world class archers, it appears that gym work isn't a priority &amp; part of their agenda. 
+ 
+Mind you,...</div>		
+		<div class="fulllink"><a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383981#post383981">see more</a></div>
+		
+	</div>
+	<div class="views">29 replies | 732 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="images/misc/unknown.gif" alt="Dutchiepiet's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">12 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?25056-Dutchiepiet&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Dutchiepiet</a> replied to a thread  <a href="showthread.php?13320-Tuning-a-recurve-bow&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Tuning a recurve bow</a> in <a href="forumdisplay.php?10-Bow-Tuning&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Bow Tuning</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">A question: 
+ 
+I was still shooting indoor, and two weeks ago, i shot 291, a new PB. 
+when last saturday i went outside to 60 meters, my grouping in...</div>		
+		<div class="fulllink"><a href="showthread.php?13320-Tuning-a-recurve-bow&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383980#post383980">see more</a></div>
+		
+	</div>
+	<div class="views">66 replies | 43401 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=3&amp;dateline=1376401764&amp;type=thumb" alt="Marcus's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">12 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?3-Marcus&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Marcus</a> replied to a thread  <a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Due to a shoulder injury is this  b/s or really true</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">BTW my view would change if it wasn't for the 60lb limit.</div>		
+		<div class="fulllink"><a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383979#post383979">see more</a></div>
+		
+	</div>
+	<div class="views">29 replies | 732 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=3&amp;dateline=1376401764&amp;type=thumb" alt="Marcus's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">12 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?3-Marcus&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Marcus</a> replied to a thread  <a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Due to a shoulder injury is this  b/s or really true</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">Totally. It's worth doing for a huge variety of reasons and all are good.  
+ 
+But cam's and Andy's views that it will help archery. Not convinced. I...</div>		
+		<div class="fulllink"><a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383978#post383978">see more</a></div>
+		
+	</div>
+	<div class="views">29 replies | 732 view(s)</div>
+</li><li class="activitybit forum_thread">
+	
+		<div class="avatar">
+			<img src="images/misc/unknown.gif" alt="Dutchiepiet's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">12 Hours Ago</span>
+		</div>
+		<div class="title">
+			
+				
+					<a href="member.php?25056-Dutchiepiet&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0" class="username">Dutchiepiet</a> started a thread  <a href="showthread.php?38350-Shoulder-mobility&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Shoulder mobility?</a> in <a href="forumdisplay.php?46-Fitness-for-Archery&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Fitness for Archery</a>
+							
+			
+				
+		</div>
+		
+		<div class="excerpt">Does anybody have any good exercises to increase/improve your shoulder mobility? 
+ 
+Thanks out front,  
+Piet</div>
+		<div class="fulllink"><a href="showthread.php?38350-Shoulder-mobility&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">see more</a></div>
+		
+	</div>
+	<div class="views">1 replies | 61 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="images/misc/unknown.gif" alt="Darcassius's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">12 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?20759-Darcassius&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Darcassius</a> replied to a thread  <a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Due to a shoulder injury is this  b/s or really true</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">Agree that we've got no evidence of that. I just think that if I want to use my body for something physical, it makes sense that having it in good...</div>		
+		<div class="fulllink"><a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383976#post383976">see more</a></div>
+		
+	</div>
+	<div class="views">29 replies | 732 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=2475&amp;dateline=1309063486&amp;type=thumb" alt="dbjac's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">12 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?2475-dbjac&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">dbjac</a> replied to a thread  <a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Better arrow pullers</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">They have a replaceable core design, but unlike Elevens and Danage, the centre is more difficult to get the arrows out of (probably to improve life...</div>		
+		<div class="fulllink"><a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383975#post383975">see more</a></div>
+		
+	</div>
+	<div class="views">18 replies | 348 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=3&amp;dateline=1376401764&amp;type=thumb" alt="Marcus's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">12 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?3-Marcus&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Marcus</a> replied to a thread  <a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Due to a shoulder injury is this  b/s or really true</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">This was raised a few years ago. It's good in theory but still has not seen evidence that it makes one better.  
+Mike Schlosser sat and watched the...</div>		
+		<div class="fulllink"><a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383974#post383974">see more</a></div>
+		
+	</div>
+	<div class="views">29 replies | 732 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="images/misc/unknown.gif" alt="Darcassius's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">12 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?20759-Darcassius&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Darcassius</a> replied to a thread  <a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Due to a shoulder injury is this  b/s or really true</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">Actually, it makes sense that general physical conditioning outside of archery will indeed help your archery. Of course, I have no scientific backing...</div>		
+		<div class="fulllink"><a href="showthread.php?38345-Due-to-a-shoulder-injury-is-this-b-s-or-really-true&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383973#post383973">see more</a></div>
+		
+	</div>
+	<div class="views">29 replies | 732 view(s)</div>
+</li><li class="activitybit forum_post">
+	
+		<div class="avatar">
+			<img src="image.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;u=8316&amp;dateline=1389295006&amp;type=thumb" alt="scott p's Avatar" />
+		</div>
+	
+	<div class="content hasavatar">
+		<div class="datetime">
+			 <span class="date">12 Hours Ago</span>
+		</div>
+		<div class="title">
+		
+			
+				<a href="member.php?8316-scott-p&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">scott p</a> replied to a thread  <a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">Better arrow pullers</a> in <a href="forumdisplay.php?14-General&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0">General</a>
+			
+		
+		</div>
+		
+		<div class="excerpt">I have not seen the BCEs, what's the issue with them?  I know some foam targets stop arrows OK, but the &quot;sticktion&quot; makes getting them back...</div>		
+		<div class="fulllink"><a href="showthread.php?38348-Better-arrow-pullers&amp;s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;p=383972#post383972">see more</a></div>
+		
+	</div>
+	<div class="views">18 replies | 348 view(s)</div>
+</li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="moreactivity_container" class="moreactivity userprof_headers userprof_headers_border">
+		<a id="moreactivitylink" href="activity.php?s=00f1aeb7dc8767e7847bf11dbf3611f0&amp;">More Activity</a>
+		<span id="noresults" class="hidden">No More Results</span>
+		<span id="noactivity" class="hidden">No Recent Activity</span>
+		<img id="moreactivityprogress" class="hidden" src="images/misc/progress3.gif" alt="" />	
+	</div>
+
+	
+<div style="clear: left">
+   
+  <div id="ad_global_above_footer"><a href="http://www.urbanarchery.net/index.php?route=product/manufacturer&manufacturer_id=11"><img src="/banners/Maxima_340x62.jpg"></a></div>
+</div>
+
+<div id="footer" class="floatcontainer footer">
+
+	<form action="forum.php" method="get" id="footer_select" class="footer_select">
+
+		
+		
+		
+	</form>
+
+	<ul id="footer_links" class="footer_links">
+		<li><a href="sendmessage.php?s=00f1aeb7dc8767e7847bf11dbf3611f0" rel="nofollow" accesskey="9">Contact Us</a></li>
+		<li><a href="http://www.archery-forum.com">Archery Forum - Australia's Archery Forum</a></li>
+		
+		
+		<li><a href="archive/index.php?s=00f1aeb7dc8767e7847bf11dbf3611f0">Archive</a></li>
+		<li><a href="http://glowhost.com" target="_blank">Web Hosting</a></li><li><a href="http://glowhost.com" target="_blank">Web Hosting</a></li>
+		
+		
+		<li><a href="activity.php#top" onclick="document.location.hash='top'; return false;">Top</a></li>
+	</ul>
+	
+	
+	
+	
+	<script type="text/javascript">
+	<!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+	</script>
+        
+</div>
+</div> <!-- closing div for body_wrapper -->
+
+<div class="below_body">
+<div id="footer_time" class="shade footer_time">All times are GMT +11. The time now is <span class="time">08:05 AM</span>.</div>
+
+<div id="footer_copyright" class="shade footer_copyright">
+	<!-- Do not remove this copyright notice -->
+	Powered by <a href="https://www.vbulletin.com" id="vbulletinlink">vBulletin&reg;</a> Version 4.2.1 <br />Copyright &copy; 2014 vBulletin Solutions, Inc. All rights reserved. 
+	<!-- Do not remove this copyright notice -->	
+</div>
+<div id="footer_morecopyright" class="shade footer_morecopyright">
+	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+	
+	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+	
+	
+</div>
+ 
+
+</div>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.longbow-archers.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+
+<title>Longbow Archers - The Reference site for the longbow</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META NAME="description" CONTENT=
+"Longbow Archers.com: Reference Site for the Longbow and traditional archery. History, Sport, Associations, latest research and trends.">   
+<META NAME="keywords" CONTENT="Longbow,longbows,Long Bow,Long Bows,Archery,Archers,English Longbow,Old English Longbow,Warbow,Blbs,bristish,society,
+Strings,DIY,medieval,traditional,bowmaking,shooting,fletchings,archery,ilaa,roving marks,roving,marks,Rovingmarks,competition,insurance,Fraternity of St George,Fraternity, Rove,Clout,Popinjay,York,target,competions,events,Royal,Windsor,Deer Park,warbows,ILAA,International,archers,associaton,ROBIN HOOD,ROBINHOOD,Robin des bois,the International Longbow Archers,Fraternité,St Georges,1509,1537,guilde,HAC,Hourable Artillery Company,Royal Archers,Tuition,Have a go,121 tuition,Learning,Lesson,Marks,Association,archerie,Company,Compagnie,Fraternity,Fraternite,St,George,Georges,rolling loose,heavy,wararrow,military,militaryarrow,roberthardy,robert,hardy,Windsor Deer Park,non-profit,professional documentation,stance,100+lbs,tutors,alumni,presicion,technique,distance,get in the bow,hand-on workshops,knowledge,experience,
+english,longbowman,haveago,have a go,HAVE A GO,Leeds Castle,leeds,LEEDS,CASTLE,scotney,SCOTNEY,HAMPTONCOURT,hamptoncourt,henry VIII,Henry 8th,Henry,100yearwar,flight,shooting,standard,clout,Bristish,Association,Artillery,Kilwinning,Finsbury,Toxophilite,Scorton,Arden,Arthur,arc,archers,tuition,lessons,initiation,training,lesson,hire,hiring,equipement,children,tab, brace,toxophilite,royal,scorton,woodmen,arden,company,companies,
+crecy,poitiers,flight,clout,roving,target,bearing,arrowheads,medieval,compagnie,compagnies,francais,mascottes,tirs,compétition,montleveque,mont,eveque,paris,musee,museum,maryrose,southhampton,shoots,buy,secondhand,FFTA,
+France,mediévale,arc,tir,compétitions,charity,fraternité,Gueules,Cassées,UBFT,Kent,Moussy,Chateau,Castle,Park,caritatif,Gueules-Cassées,Charité,caritative,méritoire,torryhill,hall place,
+scotney castle,hac,honourable artillery company,mont l'eveque,crepy en valois,musée,museum,london,godinton,B&B,Hotels,hostels,charity,duke,Edinburg,award,UBFT,neil harrington,harrington,bowyer, 
+bowyers,bowyer,making,facteurs arcs,artisans,fletcher,fletchers,Parc,Park,Domaine,Longbow-events,traditional-archery,British,Society,St,Saint,George,BLBS,NFAS,Finsbury,Mark,Fraternity,Artillery,England,Belmont,Park,maryrose,mary,rose,portsmouth,finsbury,Britishlongbowsociety,society,
+Estate,Constitution,Rules,Roving,Clout,Target,Two-way,battle,livery,archer-antiquaries,clubs,associations,corporations,companies,1346,1356,droit,tir,traditionel,heavy,english,penetration,
+fleche,Azincourt,Agincourt,Longbow,Shoot,Arrows,Medievale,Guerre,cent,ans,Henry,V,Charles,VI,war,compétition,internationale,bataille,battle,artisans,musiciens,archers,traders,artisanat, 
+champ,histoire,1415,site,france,époque,armée,army,anglais,english,connétable,albret,armure,knights,chevalier,armour,armor,
+15th,century,history,weapons,boucicault,constable,"> 
+<style type="text/css">
+      html, body { height: 100%; padding: 0; margin: 0; }
+      table { text-align: center; height: 100%; width: 100%; border: 0; }
+    #calendar {
+	color: #030;
+}
+</style>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+a:visited {
+	color: #030;
+}
+</style>
+</head>
+<body>
+<!-- DO NOT MOVE! The following AllWebMenus linking code section must always be placed right AFTER the BODY tag-->
+<!-- ******** BEGIN ALLWEBMENUS CODE FOR menuontheright ******** -->
+<script type="text/javascript">var MenuLinkedBy="AllWebMenus [4]",awmMenuName="menuontheright",awmBN="904";</script><script charset="UTF-8" src="menuontheright.js" type="text/javascript"></script><script type="text/javascript">awmBuildMenu();</script>
+<!-- ******** END ALLWEBMENUS CODE FOR menuontheright ******** -->
+
+<!-- ******** BEGIN ALLWEBMENUS CODE FOR longbowarchersSmall ******** -->
+<script type="text/javascript">var MenuLinkedBy="AllWebMenus [4]",awmMenuName="longbowarchersSmall",awmBN="868";awmAltUrl="";</script><script charset="UTF-8" src="longbowarchersSmall.js" type="text/javascript"></script><script type="text/javascript">awmBuildMenu();</script>
+<!-- ******** END ALLWEBMENUS CODE FOR longbowarchersSmall ******** -->
+
+<!-- ******** BEGIN ALLWEBMENUS CODE FOR longbowarchers2010 ******** -->
+<script type="text/javascript">var MenuLinkedBy="AllWebMenus [4]",awmMenuName="longbowarchers2010",awmBN="832";awmAltUrl="";</script><script charset="UTF-8" src="longbowarchers2010.js" type="text/javascript"></script><script type="text/javascript">awmBuildMenu();</script>
+<!-- ******** END ALLWEBMENUS CODE FOR longbowarchers2010 ******** -->
+
+<div id="wrap">
+  <div id="header">
+   <p id="awmAnchor-longbowarchers2010">
+    <div class="clear"></div>
+    <h1 id="sitename">Longbow archers<span class="description">The Reference site for the longbow</span></h1>
+  </div>  <div id="content">
+    <div id="sidebar">
+      <div class="sidebartop"> </div>
+      <div id="sidebarcontent">
+        <div  id="awmAnchor-menuontheright" >
+         
+      
+      </div>
+      </div>
+    </div>
+    <div id="left">
+      <div id="tab">
+        <div id="tabhead">
+          <ul>
+            <li class="activetab"><a href="http://www.longbow-archers.com/index.html">Longbow-archers.com</a></li>
+                        <li><a href="http://www.longbow-archers.com/photoalbumrecent2/photoalbumrecent.html">Recent Photos</a></li>
+            <li><a href="http://www.longbow-archers.com/videoalbum.html">Videos</a></li>
+            <li><a href="http://www.longbow-archers.com/contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div id="tabcontent"> <img class="leftimg" src="images/mainphoto.jpg" alt="" />
+          <h3>Longbow Archers<span class="postinfo">THE REFERENCE SITE FOR THE LONGBOW</span></h3>
+          <p align="center">&nbsp; </p>
+          <p align="center">The longbow is truly about man  extending his (or her) reach. </p>
+          <p align="center">One hour's tuition and this peerless wooden spring will enable you to shoot 160 yards and more ! </p>
+          <p align="center">The evolution of the longbow we shoot today is different from any other bow.</p>
+          <p align="center"> Today's longbows have a direct connection with history. Longbow shoots also have that connection, 
+          which                   comes directly from the way the medieval longbow man practiced.</p>
+<p align="center">Target bows, Victorian bows, Warbows;  all are longbows.</p>
+<p align="center">The longbow is the base of modern archery 
+  and its popularity is on the increase.</p>
+<p align="center">How did it happen, what was it for, where is it going, how easy is it for you to take up . . .</p>
+<p><a href="http://www.longbow-archers.com/introsport.html">Read More</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="clear"></div>
+    <div id="footer">
+      <p>Copyright &copy; longbow-archers.com | <a href="http://www.longbow-archers.com/index.html">Home</a> | <a href="http://www.longbow-archers-association.org/">ILAA</a> | <a href="http://www.longbow-archers.com/contact.html">Contact</a> </p>
+      <p id="credit"><a href="http://www.lemust-web.com/">LeMust Web Design</a></p>
+    </div>
+  </div>
+</div>
+<script type="text/javascript"> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7659614-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.onlinearchery.org.uk/>====================
+<html>
+<head><META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Online Archery UK :: The Speacialist Archery Web Site</title>
+
+<meta name="description"
+CONTENT="The best source for archery on the internet with links advice/information bow making, style and more.">
+<meta name="keywords"
+CONTENT="archery, sports, arrows, archers, bows, shooting, targets, recurve, compound, robin hood">
+</head>
+
+<frameset border=0 frameborder=0 framespacing=0 cols="148,*">
+  <frame name="Navigation" src="navigation.html" scrolling="no" noresize marginheight=0
+  marginwidth=0 target="main">
+  <frameset border=0 frameborder=0 framespacing=0 rows="82,*">
+    <frame name="Title_Image" src="title_banner.html" scrolling="no" noresize marginheight=0
+    marginwidth=0 target="main">
+    <frame name="Page" scrolling="auto" src="menu.php" marginheight=10 marginwidth=10
+    target="C" noresize>
+  </frameset>
+  <noframes>
+  <body>
+  <p align=center><img border="0" src="standard_images/logosmallpaws.gif" width="218" height="68"></p>
+  <p align=left><font face="Arial">Welcome to Online Archery UK. The online 
+  archery community, where you will find all the latest archery news, advice, 
+  tournament listings and more. If you are looking for a club then why not try 
+  our Beginners section, we have many clubs listed from all over the country.</font></p>
+  <p align=center><font face="Arial"><font color="#0000FF"><b>You are seeing 
+  this page because your page does not support frames</b>. </font><br>
+  <b>Please follow the link below to take you to the main site.</b></font></p>
+  <p align=center><font face="Arial"><a href="menu.php">Click Here</a></font></p>
+  </body>
+  </noframes>
+</frameset>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.archeryinterchange.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr" lang="en" id="vbulletin_html"> <head> <link rel="canonical" href="http://www.archeryinterchange.com/" />  <script type="text/javascript" src="http://www.archeryinterchange.com/forumrunner/detect.js"></script> <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" /> <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.archeryinterchange.com" /> <meta http-equiv="X-UA-Compatible" content="IE=9" /> <base href="http://www.archeryinterchange.com/" /><!--[if IE]></base><![endif]--> <meta name="generator" content="vBulletin 4.2.0" /> <link rel="Shortcut Icon" href="http://www.archeryinterchange.com/favicon.ico" type="image/x-icon" /> <meta name="keywords" content="Archery, United Kingdom, Great Britain, Equipment, Training, Coaching, Field, Advice, Classifieds, Target, Bows, Arrows, GNAS, NFAS, FITA, Calendar, Events, Tournaments, Compound, Recurve, Longbow, Horsebow" /> <meta name="description" content="Archery Interchange, the largest United Kingdom based online target and field archery community with a worldwide membership." /> <meta property="fb:app_id" content="346511782036428" /> <meta property="og:site_name" content="Archery Interchange UK Forums" /> <meta property="og:description" content="Archery Interchange, the largest United Kingdom based online target and field archery community with a worldwide membership." /> <meta property="og:url" content="http://www.archeryinterchange.com/" /> <meta property="og:type" content="website" /> <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yuiloader-dom-event/yuiloader-dom-event.js"></script> <script type="text/javascript"> <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=420"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=420"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/connection/connection-min.js"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=d2ac2514fd20513756053ba2c9530eb4&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "420";
+	var BBURL = "http://www.archeryinterchange.com";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "index";
+	var RELPATH = "";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.archeryinterchange.com/";
+// --> </script> <script type="text/javascript" src="http://www.archeryinterchange.com/clientscript/vbulletin-core.js?v=420"></script> <link rel="alternate" type="application/rss+xml" title="Archery Interchange UK Forums RSS Feed" href="http://www.archeryinterchange.com/external.php?type=RSS2" /> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/main-rollup.css?d=1392758512" /> <!--[if lt IE 8]> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/popupmenu-ie.css?d=1392758512" /> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/vbulletin-ie.css?d=1392758512" /> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/vbulletin-chrome-ie.css?d=1392758512" /> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/vbulletin-formcontrols-ie.css?d=1392758512" /> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/editor-ie.css?d=1392758512" /> <![endif]--> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/dbtech_vbshout.css" /> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/dbtech_vbshout_colours.css" /> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/dbtech_vbshout_editor.css" /> <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> <script type="text/javascript" src="http://www.archeryinterchange.com/dbtech/vbshout/clientscript/jquery.tmpl.min.js"></script> <script type="text/javascript" src="http://www.archeryinterchange.com/dbtech/vbshout/clientscript/vbshout.js?v=610"></script> <script type="text/javascript"> <!--
+					if (window.opener) { window.opener.vB_Editor['dbtech_vbshout_editor1'] = {}; window.opener.vB_Editor['dbtech_vbshout_editor1'].init_smilies = function(smilie_container) { vBShout_initSmilies(smilie_container, 1); }; };
+					// --> </script>   <meta name="twitter:card" content="app" /> <meta name="twitter:app:id:iphone" content="307880732" /> <meta name="twitter:app:url:iphone" content="tapatalk://www.archeryinterchange.com?location=index" /> <meta name="twitter:app:id:ipad" content="307880732" /> <meta name="twitter:app:url:ipad" content="tapatalk://www.archeryinterchange.com?location=index" /> <meta name="twitter:app:id:googleplay" content="com.quoord.tapatalkpro.activity" /> <meta name="twitter:app:url:googleplay" content="tapatalk://www.archeryinterchange.com?location=index" />   <link href="http://www.archeryinterchange.com/mobiquo/smartbanner/appbanner.css" rel="stylesheet" type="text/css" media="screen" /> <script type="text/javascript">
+            var is_mobile_skin     = 0;
+            var app_ios_id         = "";
+            var app_android_id     = "";
+            var app_kindle_url     = "";
+            var app_banner_message = "";
+            var app_forum_name     = "Archery Interchange UK Forums";
+            var app_location_url   = "tapatalk://www.archeryinterchange.com?location=index";
+            var app_board_url      = "http%3A%2F%2Fwww.archeryinterchange.com";
+            var functionCallAfterWindowLoad = 0;
+            
+            var app_forum_code = "6ec94e5e128a118b910ca87d3f448cdf";
+            var app_referer = "http%3A%2F%2Fwww.archeryinterchange.com%2F";
+            var app_welcome_url = "http://www.archeryinterchange.com/mobiquo/smartbanner/welcome.php";
+            var app_welcome_enable = "1";
+        </script> <script src="http://www.archeryinterchange.com/mobiquo/smartbanner/appbanner.js" type="text/javascript"></script>   <link href="android-app://tapatalk-byo/www.archeryinterchange.com%3Flocation%3Dindex" rel="alternate" /> <title>Archery Interchange UK Forums</title> <script type="text/javascript" src="clientscript/vbulletin_read_marker.js?v=420"></script> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/forumhome-rollup.css?d=1392758512" /> <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/forumbits-ie.css?d=1392758512" /> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/options-ie.css?d=1392758512" /><![endif]--> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/sidebar.css?d=1392758512" /> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/widgets.css?d=1392758512" /> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/tagcloud.css?d=1392758512" /> <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/sidebar-ie.css?d=1392758512" /><![endif]--> <script type="text/javascript"> <!--
+		document.write('<script type="text/javascript" src="' + yuipath + '/animation/animation-min.js?v=420"></script>');
+		var sidebar_align = 'right';
+		var content_container_margin = parseInt('224px');
+		var sidebar_width = parseInt('200px');
+	//--> </script> <script type="text/javascript" src="http://www.archeryinterchange.com/clientscript/vbulletin-sidebar.js?v=420"></script> <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00058l/additional.css?d=1392758512" /> 
+<script type="text/javascript"><!--
+window.google_analytics_uacct = 'UA-10273807-1'; var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-10273807-1'], ['_trackPageview'], ['_trackPageLoadTime']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();
+//--></script>
+</head> <body>  <style type="text/css">
+.ui-mobile [data-role="page"], .ui-mobile [data-role="dialog"], .ui-page 
+{
+top:auto;
+}
+</style> <script type="text/javascript">tapatalkDetect()</script>  <div class="above_body">  <div id="header" class="floatcontainer doc_header"> <div><a href="http://www.archeryinterchange.com/" class="logo-image"><img src="images/misc/vbulletin4_logo.png" alt="Archery Interchange UK Forums - Powered by Archery Capybaras" width="280px" height="248px" /></a></div> <div id="toplinks" class="toplinks"> <ul class="nouser"> <li><a href="http://www.archeryinterchange.com/register.php" rel="nofollow">Register</a></li> <li><a rel="help" href="http://www.archeryinterchange.com/faq.php">Help</a></li> <li> <script type="text/javascript" src="clientscript/vbulletin_md5.js?v=420"></script> <form id="navbar_loginform" action="http://www.archeryinterchange.com/login.php?do=login" method="post" onSubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)"> <fieldset id="logindetails" class="logindetails"> <div> <div> <label for="username">Username</label> <input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" /> <label for="password">Password</label> <input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" /> <input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;" /> <input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" /> </div> </div> </fieldset> <div id="remember" class="remember"> <label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /> Remember Me?</label> </div> <input type="hidden" name="s" value="d2ac2514fd20513756053ba2c9530eb4" /> <input type="hidden" name="securitytoken" value="guest" /> <input type="hidden" name="do" value="login" /> <input type="hidden" name="vb_login_md5password" /> <input type="hidden" name="vb_login_md5password_utf" /> </form> <SCRIPT language="JavaScript" SRC="/customScript/aiukYahoo.js"></SCRIPT> </li> <li id="fb_headerbox" class="hidden"> <a id="fb_loginbtn" href="#"><img src="images/misc/facebook_login.gif" alt="The Facebook Platform" /></a> </li> </ul> </div> <div class="ad_global_header"> <div id="ad_global_header1"><br /><br /><br /><br />  <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2368241067795812";
+/* AIUK Google Banners */
+google_ad_slot = "2152468238";
+google_ad_width = 728;
+google_ad_height = 90;
+//--> </script> <script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> </script> <br /><br />  <div id='div-gpt-ad-1392758411593-0' style='width:225px; height:60px;'> <script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1392758411593-0'); });
+</script> </div>  </div> </div> </div>  <SCRIPT language="JavaScript" SRC="/customScript/aiukAnalytics.js"></SCRIPT> </script>  <script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script> <script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/44459570/Aim4Sport-300x250-Ad', [300, 250], 'div-gpt-ad-1382805801849-0').addService(googletag.pubads());
+googletag.defineSlot('/44459570/AIUK-2nd-Post-1st-Position', [131, 50], 'div-gpt-ad-1382805801849-1').addService(googletag.pubads());
+googletag.defineSlot('/44459570/AIUK-571-Header-Banner', [571, 85], 'div-gpt-ad-1382805801849-2').addService(googletag.pubads());
+googletag.defineSlot('/44459570/AIUK-668-Footer-Banner', [668, 60], 'div-gpt-ad-1382805801849-3').addService(googletag.pubads());
+googletag.defineSlot('/44459570/AIUK-A4S-250-Sponsor-Ad', [250, 250], 'div-gpt-ad-1382805801849-4').addService(googletag.pubads());
+googletag.defineSlot('/44459570/AIUK-Button-2nd-Position', [131, 50], 'div-gpt-ad-1382805801849-5').addService(googletag.pubads());
+googletag.defineSlot('/44459570/AIUK-Button-3rd-Position', [131, 50], 'div-gpt-ad-1382805801849-6').addService(googletag.pubads());
+googletag.defineSlot('/44459570/AIUK-Button-4th-Position', [131, 50], 'div-gpt-ad-1382805801849-7').addService(googletag.pubads());
+googletag.defineSlot('/44459570/AIUK-Button-5th-Position', [131, 50], 'div-gpt-ad-1382805801849-8').addService(googletag.pubads());
+googletag.defineSlot('/44459570/AIUK-Channel-Shop', [250, 250], 'div-gpt-ad-1382805801849-9').addService(googletag.pubads());
+googletag.defineSlot('/44459570/AIUK-Winter-League-460', [460, 80], 'div-gpt-ad-1382805801849-10').addService(googletag.pubads());
+googletag.defineSlot('/44459570/AIUK_728_Forum_Ads', [728, 90], 'div-gpt-ad-1382805801849-11').addService(googletag.pubads());
+googletag.defineSlot('/44459570/AIUK-2nd-Post-Ebay-2014', [850, 250], 'div-gpt-ad-1390303824408-0').addService(googletag.pubads());
+googletag.defineSlot('/44459570/New_Ebay_225_Replacements', [225, 60], 'div-gpt-ad-1392758411593-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script> <div id="navbar" class="navbar"> <ul id="navtabs" class="navtabs floatcontainer"> <li class="selected" id="vbtab_forum"> <a class="navtab" href="http://www.archeryinterchange.com/forum.php">Forum</a> <ul class="floatcontainer"> <li id="link_otm2_946"><a href="/payments.php">Upgrade Account</a></li> <li id="vbflink_newposts"><a rel="nofollow" href="http://www.archeryinterchange.com/search.php?do=getnew&amp;contenttype=vBForum_Post">New Posts</a></li> <li id="vbflink_faq"><a href="http://www.archeryinterchange.com/faq.php">FAQ</a></li> <li id="vbflink_calendar"><a href="http://www.archeryinterchange.com/calendar.php">Calendar</a></li> <li class="popupmenu" id="vbmenu_qlinks"> <a href="javascript://" class="popupctrl">Quick Links</a> <ul class="popupbody popuphover"> <li id="vbqlink_posts"><a href="http://www.archeryinterchange.com/search.php?do=getdaily&amp;contenttype=vBForum_Post">Today's Posts</a></li> <li id="link_otaz_442"><a href="http://www.archeryinterchange.com/rules.php">Rules</a></li> </ul> </li> <li id="vbalink_mfr"><a rel="nofollow" href="http://www.archeryinterchange.com/forumdisplay.php?do=markread&amp;markreadhash=guest">Mark Forums Read</a></li> </ul> </li> <li id="vbtab_blog"> <a class="navtab" href="http://www.archeryinterchange.com/blogs/">Blogs</a> </li> <li id="tab_mdu1_245"> <a class="navtab" href="http://www.archeryinterchange.com/competitions.php">Competitions</a> </li> <li id="tab_ndi3_430"> <a class="navtab" href="./shop/shop.html">Shop</a> </li> <li id="vbtab_whatsnew"> <a rel="nofollow" class="navtab" href="http://www.archeryinterchange.com/search.php?do=getnew&amp;contenttype=vBForum_Post">What's New?</a> </li> <li id="tab_oda4_957"> <a class="navtab" href="http://www.archeryinterchange.com/downloads.php">Downloads</a> </li> <li id="tab_odk0_366"> <a rel="nofollow" class="navtab" href="http://www.archeryinterchange.com/index_CMPS.php?page=archersmart&amp;tabid=80">Archers Mart</a> </li> <li id="tab_otex_489"> <a rel="nofollow" class="navtab" href="http://www.archeryinterchange.com/productforums.php?tabid=89">Reviews</a> </li> <li id="tab_otmy_314"> <a rel="nofollow" class="navtab" href="http://www.archeryinterchange.com/index_CMPS.php?page=aiukGoogleSearch&amp;tabid=117">Moogle</a> </li> <li> <a class="navtab" href="http://www.archeryinterchange.com/links/index.php">Directory</a> </li> </ul> <div id="globalsearch" class="globalsearch"> <form action="http://www.archeryinterchange.com/search.php?do=process" method="post" id="navbar_search" class="navbar_search"> <input type="hidden" name="securitytoken" value="guest" /> <input type="hidden" name="do" value="process" /> <span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span> <span class="buttoncontainer"><span><input type="image" class="searchbutton" src="images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span> </form> <ul class="navbar_advanced_search"> <li><a href="http://www.archeryinterchange.com/search.php" accesskey="4">Advanced Search</a></li> </ul> </div> </div> </div> <div class="body_wrapper"> <div id="breadcrumb" class="breadcrumb"> <ul class="floatcontainer"> <li class="navbithome"><a href="http://www.archeryinterchange.com/" accesskey="1"><img src="images/misc/navbit-home.png" alt="Home" /></a></li> <h1> <li class="navbit lastnavbit"><span>Forum</span></li> </h1> </ul> <hr /> </div> <div id="ad_global_below_navbar"><div align="right"><br />  <div id='div-gpt-ad-1382805801849-2' style='width:571px; height:85px;'> <script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1382805801849-2'); });
+</script> </div></div></div> <div id="pagetitle"> <h1>Archery Interchange UK Forums</h1> <p id="welcomemessage" class="description">Welcome to Archery Interchange UK Forums.</p> </div> <div id="content_container" class=" "> <div id="content" >  <ol id="forums" class="floatcontainer"> <!-- google_ad_section_start --><li class="forumbit_nopost old L1" id="cat333"> <div class="forumhead foruminfo L1 collapse"> <h2> <span class="forumtitle"><a href="http://www.archeryinterchange.com/f333/">The 8th AIUK Annual Ironman Challenge 2013</a></span> <span class="forumthreadpost">&nbsp;</span> <span class="forumlastpost">&nbsp;</span> <a class="collapse" id="collapse_c_cat333" href="#top"><img src="images/buttons/collapse_40b.png" alt="" /></a> </h2> </div> <ol id="c_cat333" class="childforum"> <li id="forum334" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_334" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f334/">The Ironman Challenge 2013 Information Forum</a></h2> </div> <p class="forumdescription"><br />
+&nbsp; <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="17%" rowspan="2" align="left" valign="top"><img src="ironman/Ironman-2013-logo-200-Penguin.png" alt="Archery Interchange Ironman Challenge" border="0" align="top" /><br /><br /></td> <td width="83%" align="left" valign="top"><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Date: </b>28th &amp; 29th December<br /> <br> <strong>&nbsp;&nbsp;&nbsp;&nbsp; ALL VENUES EXPCEPT WARWICKSHIRE SIGHTERS: 
+      11.00am <br>
+          &nbsp;&nbsp;&nbsp;&nbsp; WARWICKSHIRE 12.00pm Sighters</strong><br> <br />
+        &nbsp;&nbsp;&nbsp;&nbsp; <b>Seniors: �9.00</b><br />&nbsp;&nbsp;&nbsp;&nbsp; <b>Juniors (16 and under): �6.50</b></p> <p> &nbsp;&nbsp;&nbsp;&nbsp;<b>Venues confirmed so far:</b><br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Bowmen of Adel, Yorkshire<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Gordano Valley Archers, Bristol<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Aim4Sport, Bedfordshire<br />
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Giffnock Archers, Glasgow<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Redruth Archers, Cornwall<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Pentref Bowmen, South Wales     
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Guildford AC, Surrey<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Stratford Archery Centre, Warwickshire<br> </p> <p>&nbsp;&nbsp;&nbsp;&nbsp;REGISTRATION IS NOW CLOSED<br />&nbsp;&nbsp;&nbsp;&nbsp;<b>CLOSING DATE FOR <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;ENTRIES SUNDAY 15th December</b></p></td> </tr> <tr> <td align="left" valign="top"></td> </tr> </table><br /><br /><br /></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <div class="forumactionlinks"></div> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 17</li> <li>Posts: 226</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div>
+				Private
+			</div> </div> </div> </li> </ol> </li><li class="forumbit_nopost old L1" id="cat345"> <div class="forumhead foruminfo L1 collapse"> <h2> <span class="forumtitle"><a href="http://www.archeryinterchange.com/f345/">AIUK Shoot Forums</a></span> <span class="forumthreadpost">&nbsp;</span> <span class="forumlastpost">&nbsp;</span> <a class="collapse" id="collapse_c_cat345" href="#top"><img src="images/buttons/collapse_40b.png" alt="" /></a> </h2> </div> <ol id="c_cat345" class="childforum"> <li id="forum344" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/wl-forum_old-48.png" class="forumicon" id="forum_statusicon_344" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f344/">AIUK Winter League 2013</a></h2> <span class="viewing">(1 Viewing)</span> </div> <p class="forumdescription"><table width="100%" border="0" cellspacing="4" cellpadding="4"> <tr> <td width="11%" rowspan="3" align="left" valign="top"><br /> <br /> <img src="http://www.archeryinterchange.com/league-icons/AIUK-Winter-League-Cow-Logo-150.png" alt="Click to join this year's Winter League" width="150" height="150" /><br /> <br /></td> <td height="70" colspan="9" align="left" valign="top"><br /> <br /> <br /> <br /> <a href="http://www.archeryinterchange.com/competitions.php" target="_self"><img src="http://www.archeryinterchange.com/league-icons/AIUK-Winter-League-Logotype-420.png" alt="Click here to enter this year's Winter League" width="420" height="43" border="0" /></a></td> </tr> <tr> <td colspan="9" align="left" valign="top">This year's <strong>Free to enter </strong>AIUK Winter League is now open for registration. <br />
+      This year's tournament categories are: 
+      American Flatbow (Af) Compound (barebow (Cb), limited (Cl) and unlimited (Cu)) Horsebow (unmounted) (Hb) Longbow (Lb) Recurve (barebow (Rb) and freestyle (Rf)) and Crossbow<br /> <br />
+    Click on one of the icons below to take you to the tournaments.<br /><br /></td> </tr> <tr> <td width="4%" align="left" valign="top"><a rel="nofollow" href="http://www.archeryinterchange.com/competitions.php?20-American-Flatbow" target="_top"><img src="./league-icons/aiuk-american-flatbow-icon.png" alt="Click here to enter American Flatbow" width="50" height="50" border="0" /></a>&nbsp;</td> <td width="4%" align="left" valign="top"><a rel="nofollow" href="http://www.archeryinterchange.com/competitions.php?18-Compound-(Barebow)" target="_self"><img src="./league-icons/aiuk-compound-barebow-icon.png" alt="Click here to enter Compound Barebow" width="50" height="50" border="0" /></a>&nbsp;</td> <td width="5%" align="left" valign="top"><a rel="nofollow" href="http://www.archeryinterchange.com/competitions.php?17-Compound-(Limited)" target="_self"><img src="./league-icons/aiuk-compound-limited-icon.png" alt="Click here to enter Compound Limited" width="50" height="50" border="0" /></a>&nbsp;</td> <td width="5%" align="left" valign="top"><a rel="nofollow" href="http://www.archeryinterchange.com/competitions.php?16-Compound-(Unlimited)" target="_self"><img src="./league-icons/aiuk-compound-unlimited-icon.png" alt="Click here to enter the Compound Unlimited category" width="50" height="50" border="0" /></a>&nbsp;</td> <td width="4%" align="left" valign="top"><a rel="nofollow" href="http://www.archeryinterchange.com/competitions.php?14-Longbow" target="_self"><img src="./league-icons/aiuk-longbow-icon.png" alt="Click here to enter the Longbow category" width="50" height="50" border="0" /></a>&nbsp;</td> <td width="4%" align="left" valign="top"><a rel="nofollow" href="http://www.archeryinterchange.com/competitions.php?13-Recurve-(Barebow)" target="_self"><img src="./league-icons/aiuk-recurve-barebow-icon.png" alt="Click here to enter the Recurve Barebow category" width="50" height="50" border="0" /></a>&nbsp;</td> <td width="4%" align="left" valign="top"><a rel="nofollow" href="http://www.archeryinterchange.com/competitions.php?12-Recurve-(Freestyle)" target="_self"><img src="./league-icons/aiuk-recurve-freestyle-icon.png" alt="Click here to enter the Recurve Freestyle category" width="50" height="50" border="0" /></a>&nbsp;</td> <td width="4%" align="left" valign="top"><a rel="nofollow" href="http://www.archeryinterchange.com/competitions.php?19-Horsebow-(Unmounted)" target="_self"><img src="./league-icons/aiuk-recurve-horsebow-icon.png" alt="Click here to enter the Horsebow category" width="50" height="50" border="0" /a>&nbsp;<br /> <br /> </a></td> <td width="55%" align="left" valign="top"><a rel="nofollow" href="http://www.archeryinterchange.com/tournaments.php?t22-Crossbow-Winter-2013" target="_self"><img src="./league-icons/aiuk-crossbow-icon.png" alt="Click here to enter the Crossbow category" width="50" height="50" border="0" /a /></a></td> </tr> </table></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=344" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 25</li> <li>Posts: 1,092</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f344/archery-interchange-uk-winter-league-2013-posted-scores-191744/" class="threadtitle" >AIUK Winter League 2013...</a> <a href="http://www.archeryinterchange.com/f344/archery-interchange-uk-winter-league-2013-posted-scores-191744-post683812/#post683812"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/badgers-dad/" title="Badgers Dad is offline"><strong>Badgers Dad</strong></a> </div> </div> <p class="lastpostdate">Today, <span class="time">06:51 PM</span></p> </div> </div> </div> </li> </ol> </li><li class="forumbit_nopost old L1" id="cat155"> <div class="forumhead foruminfo L1 collapse"> <h2> <span class="forumtitle"><a href="http://www.archeryinterchange.com/f155/">Archery Discussion</a></span> <span class="forumthreadpost">&nbsp;</span> <span class="forumlastpost">&nbsp;</span> <a class="collapse" id="collapse_c_cat155" href="#top"><img src="images/buttons/collapse_40b.png" alt="" /></a> </h2> </div> <ol id="c_cat155" class="childforum"> <li id="forum22" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_22" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f22/">Introduce Yourself!</a></h2> </div> <p class="forumdescription">Wherever you're from in the world, welcome to Archery Interchange UK. We're a friendly bunch so after you've registered pop in here to say hello and tell us a little about yourself! Looking forward to meeting you! <br /><br /><br /></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <div class="forumactionlinks"></div> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 2,441</li> <li>Posts: 21,015</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div>
+				Private
+			</div> </div> </div> </li><li id="forum16" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_16" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f16/">General Archery Discussion &amp; News</a></h2> <span class="viewing">(33 Viewing)</span> </div> <p class="forumdescription"><table width="100%" border="0" cellspacing="2" cellpadding="2"> <tr> <td><b>General Archery Discussion &amp; News is sponsored by</b> <a onclick="_gaq.push(['_trackEvent', 'Outgoing', 'www.aim4sport.com', '']);" rel="nofollow" href="http://www.aim4sport.com" target="_blank">Aim4Sport.com</a></td> <td><br /></td> </tr> </table><br /><br /></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=16" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 6,696</li> <li>Posts: 101,669</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f16/sebastien-flute-elite-plus-riser-197347/" class="threadtitle" >Sebastien Flute Elite Plus...</a> <a href="http://www.archeryinterchange.com/f16/sebastien-flute-elite-plus-riser-197347-post683821/#post683821"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/medpilot1/" title="medpilot1 is offline"><strong>medpilot1</strong></a> </div> </div> <p class="lastpostdate">Today, <span class="time">08:22 PM</span></p> </div> </div> </div> </li><li id="forum37" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_37" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f37/">Methodology, Tuning, Coaching etc.</a></h2> <span class="viewing">(14 Viewing)</span> </div> <p class="forumdescription">For the discussion of methodology, coaching and bow tuning.</p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=37" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 2,106</li> <li>Posts: 36,911</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f37/using-clicker-kisser-same-time-199275/" class="threadtitle" >Using a clicker and a kisser...</a> <a href="http://www.archeryinterchange.com/f37/using-clicker-kisser-same-time-199275-post683636/#post683636"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/geoffretired/" title="geoffretired is offline"><strong>geoffretired</strong></a> </div> </div> <p class="lastpostdate">Yesterday, <span class="time">09:41 AM</span></p> </div> </div> </div> </li><li id="forum271" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_271" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f271/">Target Archery</a></h2> <span class="viewing">(10 Viewing)</span> </div> <p class="forumdescription">For the discussion of things relating specifically to Target Archery.</p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=271" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 175</li> <li>Posts: 2,598</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f271/tips-making-good-homemade-archery-target-please-194399/" class="threadtitle" >Tips for making a good...</a> <a href="http://www.archeryinterchange.com/f271/tips-making-good-homemade-archery-target-please-194399-post683119/#post683119"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/cynicg/" title="Cynicg is offline"><strong>Cynicg</strong></a> </div> </div> <p class="lastpostdate">19-02-14, <span class="time">12:16 PM</span></p> </div> </div> </div> </li><li id="forum26" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_26" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f26/">3D &amp; Field Archery</a></h2> <span class="viewing">(4 Viewing)</span> </div> <p class="forumdescription">For the discussion of things relating specifically to 3D &amp; Field Archery.</p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=26" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 622</li> <li>Posts: 6,977</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f26/national-field-archery-society-southwest-challenge-2014-a-199152/" class="threadtitle" >NFAS SouthWest Challenge 2014</a> <a href="http://www.archeryinterchange.com/f26/national-field-archery-society-southwest-challenge-2014-a-199152-post683822/#post683822"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/robing-hood/" title="Robing Hood is offline"><strong>Robing Hood</strong></a> </div> </div> <p class="lastpostdate">Today, <span class="time">08:37 PM</span></p> </div> </div> </div> </li><li id="forum15" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_15" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f15/">Club &amp; Personal Achievements</a></h2> <span class="viewing">(2 Viewing)</span> </div> <p class="forumdescription">Achieved something good archery-wise? Tell us here.</p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=15" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 1,036</li> <li>Posts: 9,963</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f15/january-challange-2014-a-199352/" class="threadtitle" >January Challange 2014</a> <a href="http://www.archeryinterchange.com/f15/january-challange-2014-a-199352-post683817/#post683817"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/furface/" title="Furface is offline"><strong>Furface</strong></a> </div> </div> <p class="lastpostdate">Today, <span class="time">07:44 PM</span></p> </div> </div> </div> </li> </ol> </li><li class="forumbit_nopost old L1" id="cat315"> <div class="forumhead foruminfo L1 collapse"> <h2> <span class="forumtitle"><a href="http://www.archeryinterchange.com/f315/">Equipment &amp; Bow Style Discussion</a></span> <span class="forumthreadpost">&nbsp;</span> <span class="forumlastpost">&nbsp;</span> <a class="collapse" id="collapse_c_cat315" href="#top"><img src="images/buttons/collapse_40b.png" alt="" /></a> </h2> <div class="forumrowdata"> <p class="subforumdescription">The forums contained below are for the discussion of Olympic Recurve, Compound and Traditional bows (e.g. Longbows, Flatbows, Horsebows, Traditional Style Recurves).</p> </div> </div> <ol id="c_cat315" class="childforum"> <li id="forum316" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_316" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f316/">Bow Styles</a></h2> <span class="viewing">(99 Viewing)</span> </div> <p class="forumdescription"><br><b>Sub Forums:</b><br> <a href="./f11/" title="Recurve Bows">Recurve Bows</a> | <a href="./f12/" title="Compound Bows">Compound Bows</a> | <a href="./f13/" title="Traditional Bow Styles">Traditional Bows</a> | <a href="./f336/">English Longbow </a> | <a href="./f335/" title="Horsebows">Horsebow</a> | <a href="./f338/" title="Warbow">Warbow</a> | <a href="./f337/" title="American Flatbow">American Flatbow</a> <br /> <br /></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=316" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 9,431</li> <li>Posts: 134,626</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f11/very-light-draw-weight-limbs-best-quality-available-199248/" class="threadtitle" >(Very) light draw weight...</a> <a href="http://www.archeryinterchange.com/f11/very-light-draw-weight-limbs-best-quality-available-199248-post683829/#post683829"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/borderbows/" title="BorderBows is offline"><strong>BorderBows</strong></a> </div> </div> <p class="lastpostdate">Today, <span class="time">09:26 PM</span></p> </div> </div> </div> </li><li id="forum319" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_319" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f319/">Equipment &amp; Kit Discussion</a></h2> <span class="viewing">(32 Viewing)</span> </div> <p class="forumdescription"><br> <b>Sub Forums: </b> <br /> <a href="./f319">Arrows &amp; Components</a> | <a href="./f292">Bags, Boxes &amp; Cases</a> | <a href="./f291">Bow Strings &amp; Cables</a> | <a href="./f280">Buttons, Plungers, Rests &amp; Launchers</a> | <a href="./f293">Archery Clothing</a> | <a href="./f290">Release Aids</a> | <a href="./f278">Sights, Scopes &amp; Peeps</a> | <a href="./f282">Software Apps &amp; Gadgets</a> | <a href="./f283">Spotting Scopes &amp; Optics</a> | <a href="./f277">Stabilisers &amp; Weights</a> | <a href="./f279">Tabs, Slings &amp; Things</a> | <a href="http://www.archeryinterchange.com/.f275">Targets, Stands &amp; Accessories</a> <br/><br/><br/></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=319" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 3,361</li> <li>Posts: 39,361</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f283/alternative-scope-199345/" class="threadtitle" >Alternative to a scope</a> <a href="http://www.archeryinterchange.com/f283/alternative-scope-199345-post683830/#post683830"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username online " href="http://www.archeryinterchange.com/members/senlac/" title="Senlac is online now"><strong>Senlac</strong></a> </div> </div> <p class="lastpostdate">Today, <span class="time">09:52 PM</span></p> </div> </div> </div> </li><li id="forum312" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_312" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f312/">The Archery DIY Boards</a></h2> <span class="viewing">(7 Viewing)</span> </div> <p class="forumdescription"><br /> <b>Sub Forums: </b> <br /> <a href="./f137">Bow Building</a> | <a href="./f138">Making arrows for archery</a> | <a href="./f139">Bowstring Making</a> | <a href="./f140">Materials &amp; Tools</a> | <a href="./f294">Bow Repairs</a> | <a href="./f285">Other Equipment </a><br /> <br /></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=312" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 636</li> <li>Posts: 6,131</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f294/recurve-damaged-limb-tips-repairable-199321/" class="threadtitle" >Recurve: Damaged limb tips -...</a> <a href="http://www.archeryinterchange.com/f294/recurve-damaged-limb-tips-repairable-199321-post683783/#post683783"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/del-the-cat/" title="Del the Cat is offline"><strong>Del the Cat</strong></a> </div> </div> <p class="lastpostdate">Today, <span class="time">03:09 PM</span></p> </div> </div> </div> </li><li id="forum276" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_276" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f276/">User Reviews</a></h2> </div> <p class="forumdescription"><b>NO RETAILER REVIEWS - KEEP THEM IN THE DIRECTORY!</b><br /><br /></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 81</li> <li>Posts: 107</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f265/carter-only-114627/" class="threadtitle" >Carter Only</a> <a href="http://www.archeryinterchange.com/f265/carter-only-114627-post674987/#post674987"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/gonebad/" title="GoneBad is offline"><strong>GoneBad</strong></a> </div> </div> <p class="lastpostdate">09-12-13, <span class="time">09:25 PM</span></p> </div> </div> </div> </li> </ol> </li><li class="forumbit_nopost old L1" id="cat313"> <div class="forumhead foruminfo L1 collapse"> <h2> <span class="forumtitle"><a href="http://www.archeryinterchange.com/f313/">Archers Mart &amp; Classifieds</a></span> <span class="forumthreadpost">&nbsp;</span> <span class="forumlastpost">&nbsp;</span> <a class="collapse" id="collapse_c_cat313" href="#top"><img src="images/buttons/collapse_40b.png" alt="" /></a> </h2> </div> <ol id="c_cat313" class="childforum"> <li id="forum314" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_314" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f314/">Archers Mart &amp; Classifieds</a></h2> <span class="viewing">(7 Viewing)</span> </div> <p class="forumdescription"><br> <b>For Sale:</b><br> <a href="./f346/" title="Recurve Bows">Recurve Bows</a> | <a href="./f347/" title="Compound Bows">Compound Bows</a> | <a href="./f348/" title="Traditional Bow Styles">Arrows &amp; Components</a> | <a href="./f349/">Stabilisers</a> | <a href="./f351/" title="Horsebows">Bow Sights &amp; Scopes</a> | <a href="./f350/" title="Warbow">Release Aids</a> | <a href="./f352/" title="American Flatbow">Crossbows</a> 
+| <a href="./f354/">Archery Tools</a> | <a href="./f356/">Complete Kits &amp; Job Lots</a> | <a href="./f353/">Archery Media</a> | <a href="./f355/">Bags, Boxes, Quivers and Cases<br /> <br /> </a></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=314" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 1,448</li> <li>Posts: 4,837</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <span style="color: #9E3039"><b>[For Sale]</b></span> <a href="http://www.archeryinterchange.com/f346/hoyt-nexus-sf-carbon-pro-199355/" class="threadtitle" >Hoyt Nexus &amp; SF Carbon PRO</a> <a href="http://www.archeryinterchange.com/f346/hoyt-nexus-sf-carbon-pro-199355-post683799/#post683799"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username online " href="http://www.archeryinterchange.com/members/max30/" title="max30 is online now"><strong>max30</strong></a> </div> </div> <p class="lastpostdate">Today, <span class="time">05:21 PM</span></p> </div> </div> </div> </li><li id="forum69" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_69" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f69/">Lost, Found &amp; Stolen Notices</a></h2> </div> <p class="forumdescription">If you've had any archery equipment stolen or lost, or found any equipment left after a shoot please post here.</p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=69" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 57</li> <li>Posts: 359</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f69/stolen-recurve-equipment-east-sussex-198141/" class="threadtitle" >Stolen Recurve Equipment -...</a> <a href="http://www.archeryinterchange.com/f69/stolen-recurve-equipment-east-sussex-198141-post681005/#post681005"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/druidsplace/" title="Druidsplace is offline"><strong>Druidsplace</strong></a> </div> </div> <p class="lastpostdate">31-01-14, <span class="time">07:59 PM</span></p> </div> </div> </div> </li><li id="forum357" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_357" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f357/">Archers Mart RSS Feeds</a></h2> <span class="viewing">(7 Viewing)</span> </div> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 38,684</li> <li>Posts: 38,687</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f251/rab-waterproof-jacket-199372/" class="threadtitle" >Rab waterproof jacket</a> <a href="http://www.archeryinterchange.com/f251/rab-waterproof-jacket-199372-post683827/#post683827"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/archery-auction-trader/" title="Archery Auction Trader is offline"><strong>Archery Auction Trader</strong></a> </div> </div> <p class="lastpostdate">Today, <span class="time">09:20 PM</span></p> </div> </div> </div> </li> </ol> </li><li class="forumbit_nopost old L1" id="cat126"> <div class="forumhead foruminfo L1 collapse"> <h2> <span class="forumtitle"><a href="http://www.archeryinterchange.com/f126/">Commercial Forums</a></span> <span class="forumthreadpost">&nbsp;</span> <span class="forumlastpost">&nbsp;</span> <a class="collapse" id="collapse_c_cat126" href="#top"><img src="images/buttons/collapse_40b.png" alt="" /></a> </h2> </div> <ol id="c_cat126" class="childforum"> <li id="forum127" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_127" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f127/">Border Archery</a></h2> <span class="viewing">(24 Viewing)</span> </div> <p class="forumdescription">This forum is run and moderated by border Archery.</p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=127" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 863</li> <li>Posts: 10,317</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f127/what-string-do-you-recommend-199336/" class="threadtitle" >What string do you...</a> <a href="http://www.archeryinterchange.com/f127/what-string-do-you-recommend-199336-post683828/#post683828"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/borderbows/" title="BorderBows is offline"><strong>BorderBows</strong></a> </div> </div> <p class="lastpostdate">Today, <span class="time">09:21 PM</span></p> </div> </div> </div> </li><li id="forum260" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_260" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f260/">Aim4Sport</a></h2> </div> <p class="forumdescription">This forum is run and moderated by Aim4Sport.</p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=260" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 17</li> <li>Posts: 160</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f260/compound-vs-recurve-48472/" class="threadtitle" >Compound Vs Recurve</a> <a href="http://www.archeryinterchange.com/f260/compound-vs-recurve-48472-post667298/#post667298"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/chrisg333/" title="chrisg333 is offline"><strong>chrisg333</strong></a> </div> </div> <p class="lastpostdate">17-10-13, <span class="time">11:38 AM</span></p> </div> </div> </div> </li> </ol> </li><li class="forumbit_nopost old L1" id="cat317"> <div class="forumhead foruminfo L1 collapse"> <h2> <span class="forumtitle"><a href="http://www.archeryinterchange.com/f317/">Community Forums, Archery Shoots &amp; Local Info.</a></span> <span class="forumthreadpost">&nbsp;</span> <span class="forumlastpost">&nbsp;</span> <a class="collapse" id="collapse_c_cat317" href="#top"><img src="images/buttons/collapse_40b.png" alt="" /></a> </h2> </div> <ol id="c_cat317" class="childforum"> <li id="forum318" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_318" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f318/">Archery Interchange Community Forums</a></h2> <span class="viewing">(5 Viewing)</span> </div> <p class="forumdescription"><br /> <a href="./f9/">Archery Interchange News</a> | <a href="./f72/">Problem, Suggestions &amp; Questions</a> | <a href="./f133/">Brian's Archery Trivia</a> | <a href="./f38/">The Gold Flinger Fonz Award </a> | <a href="./f130/">Dropbox Discussion Threads</a> | <a href="./f36/">Photographs &amp; Video</a> | <a href="./f34/">Off-Topic </a> | <a href="./f21/">Archery Polls</a> <br /><br /> <div id="snIcons"> <br /><span><a onclick="_gaq.push(['_trackEvent', 'Outgoing', 'www.facebook.com', '/pages/Archery-Interchange/301412843249587']);" rel="nofollow" href="https://www.facebook.com/pages/Archery-Interchange/301412843249587" target="_blank"> <img src="http://www.archeryinterchange.com/images/statusicon/fb-forum_link-48.png" alt="AIUK On Facebook" width="48" height="48" border="0" longdesc="https://www.facebook.com/pages/Archery-Interchange/301412843249587"></a></span>&nbsp;&nbsp;
+<span><a onclick="_gaq.push(['_trackEvent', 'Outgoing', 'twitter.com', '/']);" rel="nofollow" href="https://twitter.com/#!/ArcheryIntercha" target="_blank"><img src="http://www.archeryinterchange.com/images/statusicon/tw-forum_link-48.png" alt="AIUK on Twitter" width="48" height="48" border="0" longdesc="https://twitter.com/#!/ArcheryIntercha"></a></span>&nbsp;&nbsp;
+<span><a onclick="_gaq.push(['_trackEvent', 'Outgoing', 'plus.google.com', '/114243140537246157800/posts']);" rel="nofollow" href="https://plus.google.com/114243140537246157800/posts" target="_blank"><img src="http://www.archeryinterchange.com/images/statusicon/gp-forum_link-48.png" alt="AIUK on Google +" width="48" height="48" border="0" longdesc="https://plus.google.com/114243140537246157800/posts"></a></span> </div> <br /><br /></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=318" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 2,657</li> <li>Posts: 32,586</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <img src="images/icons/icon7.png" class="postimg" alt="Smile" border="0" /> <a href="http://www.archeryinterchange.com/f36/bimbles-archery-photos-171955/" class="threadtitle" >Bimble's archery photos</a> <a href="http://www.archeryinterchange.com/f36/bimbles-archery-photos-171955-post682877/#post682877"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/bimble/" title="bimble is offline"><strong>bimble</strong></a> </div> </div> <p class="lastpostdate">17-02-14, <span class="time">03:21 AM</span></p> </div> </div> </div> </li><li id="forum296" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_296" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f296/">Archery Event Calendars</a></h2> </div> <p class="forumdescription"><br /><br /> <br /> <br /></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=296" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 14</li> <li>Posts: 44</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f296/south-wilts-archery-club-3rd-open-triple-wand-shoot-downton-2nd-february-2014-a-197018/" class="threadtitle" >South Wilts Archery Club -...</a> <a href="http://www.archeryinterchange.com/f296/south-wilts-archery-club-3rd-open-triple-wand-shoot-downton-2nd-february-2014-a-197018-post678641/#post678641"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/retreating-blade/" title="Retreating Blade is offline"><strong>Retreating Blade</strong></a> </div> </div> <p class="lastpostdate">11-01-14, <span class="time">11:44 PM</span></p> </div> </div> </div> </li><li id="forum200" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/english-forum_old-48.png" class="forumicon" id="forum_statusicon_200" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f200/">English Archery</a></h2> <span class="viewing">(1 Viewing)</span> </div> <p class="forumdescription"><br /> <b>Sub Forums:</b><br /> <a href="./f201">News &amp; Discussion</a> | <a href="./f202">Tournaments &amp; Events</a> | <a href="./f203">Archery Clubs</a><br /><a href="./f204">Beginners Courses</a> | <a href="./f205">Reports</a><br /> <br /></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 352</li> <li>Posts: 975</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle">
+	
+	Midlands (East)
+	<a href="http://www.archeryinterchange.com/f202/22-june-2014-burton-trent-burton-bridge-archers-50th-anniversary-open-western-199151/" class="threadtitle" >22 June 2014 -...</a> <a href="http://www.archeryinterchange.com/f202/22-june-2014-burton-trent-burton-bridge-archers-50th-anniversary-open-western-199151-post683301/#post683301"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/geoff76/" title="Geoff76 is offline"><strong>Geoff76</strong></a> </div> </div> <p class="lastpostdate">21-02-14, <span class="time">01:26 PM</span></p> </div> </div> </div> </li><li id="forum181" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/scotland-forum_old-48.png" class="forumicon" id="forum_statusicon_181" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f181/">Scottish Archery</a></h2> </div> <p class="forumdescription"><br /> <b>Sub Forums: </b><br /> <a href="./f187">News &amp; Discussion</a> | <a href="./f186">Tournaments &amp; Events</a> | <a href="./f185">Archery Clubs</a><br /><a href="./f190">Beginners Courses</a> | <a href="./f188">Reports</a><br /> <br /></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 100</li> <li>Posts: 738</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle">
+	
+	Scotland
+	<a href="http://www.archeryinterchange.com/f187/true-false-196328/" class="threadtitle" >True or False?</a> <a href="http://www.archeryinterchange.com/f187/true-false-196328-post676923/#post676923"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/babylon5/" title="babylon5 is offline"><strong>babylon5</strong></a> </div> </div> <p class="lastpostdate">27-12-13, <span class="time">03:03 PM</span></p> </div> </div> </div> </li><li id="forum182" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/ire-forum_old-48.png" class="forumicon" id="forum_statusicon_182" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f182/">Northern Ireland Archery</a></h2> </div> <p class="forumdescription"><br /> <b>Sub Forums: </b><br /> <a href="./f193">News &amp; Discussion</a> | <a href="./f192">Tournaments &amp; Events</a> | <a href="./f189">Archery Clubs</a><br /><a href="./f191">Beginners Courses</a> | <a href="./f194">Reports</a><br /> <br /></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 7</li> <li>Posts: 43</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <strong>County Londonderry</strong> <a href="http://www.archeryinterchange.com/f191/maiden-city-archery-193179/" class="threadtitle" >Maiden City Archery</a> <a href="http://www.archeryinterchange.com/f191/maiden-city-archery-193179-post666249/#post666249"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/hitbear/" title="HitBear is offline"><strong>HitBear</strong></a> </div> </div> <p class="lastpostdate">09-10-13, <span class="time">11:21 AM</span></p> </div> </div> </div> </li><li id="forum183" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/wales-forum_old-48.png" class="forumicon" id="forum_statusicon_183" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f183/">Welsh Archery</a></h2> <span class="viewing">(1 Viewing)</span> </div> <p class="forumdescription"><br /> <b>Sub Forums: </b><br /> <a href="./f195">News &amp; Discussion</a> | <a href="./f196">Tournaments &amp; Events</a> | <a href="./f197">Archery Clubs</a><br /><a href="./f198">Beginners Courses</a> | <a href="./f199">Reports</a><br /> <br /></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 54</li> <li>Posts: 277</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <strong>North</strong> <a href="http://www.archeryinterchange.com/f197/colwyn-bowmen-184054/" class="threadtitle" >Colwyn Bowmen</a> <a href="http://www.archeryinterchange.com/f197/colwyn-bowmen-184054-post677058/#post677058"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/nickk/" title="Nickk is offline"><strong>Nickk</strong></a> </div> </div> <p class="lastpostdate">29-12-13, <span class="time">01:06 AM</span></p> </div> </div> </div> </li><li id="forum206" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/europe-forum_old-48.png" class="forumicon" id="forum_statusicon_206" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f206/">European Archery</a></h2> </div> <p class="forumdescription"><br /> <b>Sub Forums: </b><br /> <a href="./f240">Northern Europe</a> | <a href="./f243">Western Europe</a> | <a href="./f241">Easton Europe</a><br /> <a href="./f242">Southern Europe</a> | <a href="./f244">Central Europe</a><br /> <br /></p> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 14</li> <li>Posts: 84</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f243/west-essex-bowmen-postal-long-metric-compound-league-184610/" class="threadtitle" >West Essex Bowmen Postal Long...</a> <a href="http://www.archeryinterchange.com/f243/west-essex-bowmen-postal-long-metric-compound-league-184610-post639015/#post639015"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/schme1440/" title="Schme1440 is offline"><strong>Schme1440</strong></a> </div> </div> <p class="lastpostdate">20-03-13, <span class="time">09:48 PM</span></p> </div> </div> </div> </li><li id="forum239" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/int-forum_old-48.png" class="forumicon" id="forum_statusicon_239" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f239/">International Archery</a></h2> </div> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> <li class="forumactionlink rsslink"><a rel="nofollow" href="http://www.archeryinterchange.com/external.php?type=RSS2&amp;forumids=239" title="View this forum's RSS feed">View this forum's RSS feed</a></li> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 39</li> <li>Posts: 360</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f239/world-cup-finals-2013-paris-186198/" class="threadtitle" >World Cup Finals 2013 - Paris</a> <a href="http://www.archeryinterchange.com/f239/world-cup-finals-2013-paris-186198-post643996/#post643996"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/rdr/" title="Rdr is offline"><strong>Rdr</strong></a> </div> </div> <p class="lastpostdate">23-04-13, <span class="time">08:27 PM</span></p> </div> </div> </div> </li><li id="forum245" class="forumbit_post old L2"> <div class="forumrow table"> <div class="foruminfo td"> <img src="images/statusicon/arc-forum_old-48.png" class="forumicon" id="forum_statusicon_245" alt="" /> <div class="forumdata"> <div class="datacontainer"> <div class="titleline"> <h2 class="forumtitle"><a href="http://www.archeryinterchange.com/f245/">UK, European &amp; International Archery Archive</a></h2> </div> </div> </div> </div> <h4 class="nocss_label">AIUK Actions:</h4> <ul class="forumactionlinks td"> </ul> <h4 class="nocss_label">Forum Statistics:</h4> <ul class="forumstats td"> <li>Threads: 1,293</li> <li>Posts: 14,460</li> </ul> <div class="forumlastpost td"> <h4 class="lastpostlabel">Last Post:</h4> <div> <p class="lastposttitle"> <a href="http://www.archeryinterchange.com/f245/new-field-archery-club-189002/" class="threadtitle" >New Field Archery Club</a> <a href="http://www.archeryinterchange.com/f245/new-field-archery-club-189002-post664964/#post664964"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a> </p> <div class="lastpostby">
+	
+		by <div class="popupmenu memberaction"> <a rel="nofollow" class="username offline " href="http://www.archeryinterchange.com/members/rmh/" title="RMH is offline"><strong>RMH</strong></a> </div> </div> <p class="lastpostdate">30-09-13, <span class="time">08:49 PM</span></p> </div> </div> </div> </li> </ol> </li><!-- google_ad_section_end --> </ol>  <div class="navlinks"> <a href="http://www.archeryinterchange.com/forumdisplay.php?do=markread&amp;markreadhash=guest" rel="nofollow">Mark Archery Interchange Read</a> </div>    </div> </div> <div id="sidebar_container" class=""> <a id="sidebar_button_link" href="#"> <img id="sidebar_button" src="images/misc/tab-collapsed.png" alt="" /> </a> <ul id="sidebar"  > <li> <div class="block smaller"> <div class="blocksubhead"> <a class="collapse" id="collapse_block_html_17" href="#top"><img alt="" src="images/buttons/collapse_40b.png" id="collapseimg_html_17"/></a> <span class="blocktitle">Forthcoming Events</span> </div> <div class="widget_content blockbody floatcontainer"> <div id="block_html_17" class="blockrow"> <div class = "cms_widget_post_bit"><h4 class="cms_widget_post_header"><a rel="nofollow" href="http://www.archeryinterchange.com/calendar.php?do=getinfo&amp;e=370">2014 SCAS Junior Championships</a></h4> <p class="cms_widget_post_content">On 29th Aug 2014</p> </div> <div class = "cms_widget_post_bit"><h4 class="cms_widget_post_header"><a rel="nofollow" href="http://www.archeryinterchange.com/calendar.php?do=getinfo&amp;e=371">Rayleigh Town Archery Club 2014 Open Championships</a></h4> <p class="cms_widget_post_content">On 30th Aug 2014</p> </div> </div> </div> </div> <div class="underblock"></div> </li><li> <div class="block smaller"> <h4 class="blocksubhead"> <a class="collapse" id="collapse_block_blogentries_1" href="#top"><img alt="" src="images/buttons/collapse_40b.png" id="collapseimg_blogentries_1"/></a> <img src="images/cms/widget-blog.png" alt="" /> <span class="blocktitle">Blog Entries</span> </h4> <div class="widget_content blockbody floatcontainer"> <ul id="block_blogentries_1" class="blockrow"> <li class="avatarcontent floatcontainer widget_post_bit"> <div class="widget_post_userinfo"> <div class="cms_widget_post_useravatar widget_post_useravatar"> <a rel="nofollow" class="smallavatar comments_member_avatar_link" href="http://www.archeryinterchange.com/members/simonw/"> <img src="images/misc/unknown.gif" alt="SimonW" /> </a> </div> </div> <div class="smallavatartext widget_post_comment"> <h5 class="widget_post_header"><a href="http://www.archeryinterchange.com/blogs/simonw/6436-wow-its-2014.html" class="title">Wow - its 2014</a></h5> <p class="widget_post_content">A bit late, but I thought I ought to put down another marker. 
+ 
+Think of this as a sighter blog. 
+ 
+I bought some 1816 shafts a couple of weeks ago and fletched them up on Saturday. I have a feeling...</p> <div class="meta">
+						Posted By <a rel="nofollow" href="http://www.archeryinterchange.com/members/simonw/">SimonW</a> (0 Comments)
+						<br />10-02-14, <span class="time">11:50 PM</span> in <a href="http://www.archeryinterchange.com/blogs/simonw/">SimonW</a> </div> </div> </li> <li class="avatarcontent floatcontainer widget_post_bit"> <div class="widget_post_userinfo"> <div class="cms_widget_post_useravatar widget_post_useravatar"> <a rel="nofollow" class="smallavatar comments_member_avatar_link" href="http://www.archeryinterchange.com/members/marcus1962/"> <img src="images/misc/unknown.gif" alt="marcus1962" /> </a> </div> </div> <div class="smallavatartext widget_post_comment"> <h5 class="widget_post_header"><a href="http://www.archeryinterchange.com/blogs/marcus1962/6434-archery-world-cup-2014.html" class="title">Archery World Cup 2014</a></h5> <p class="widget_post_content">Hello All 
+ 
+Not blogged in a while due to various things but I thought a special one was needed due to the past weekends shoot at Telford and the 3rd leg of the World Cup. 
+ 
+It was the biggest...</p> <div class="meta">
+						Posted By <a rel="nofollow" href="http://www.archeryinterchange.com/members/marcus1962/">marcus1962</a> (2 Comments)
+						<br />28-01-14, <span class="time">02:46 PM</span> in <a href="http://www.archeryinterchange.com/blogs/marcus1962/">marcus1962</a> </div> </div> </li> </ul> </div> </div> <div class="underblock"></div> </li><li> <div class="block smaller"> <div class="blocksubhead"> <a class="collapse" id="collapse_block_newposts_22" href="#top"><img alt="" src="images/buttons/collapse_40b.png" id="collapseimg_newposts_22"/></a> <img src="images/cms/widget-comment.png" alt="" /> <span class="blocktitle">New Forum Posts</span> </div> <div class="widget_content blockbody floatcontainer"> <ul id="block_newposts_22" class="blockrow"> <li class="avatarcontent floatcontainer widget_post_bit"> <div class="widget_post_userinfo"> <div class="cms_widget_post_useravatar widget_post_useravatar"> <a rel="nofollow" class="smallavatar comments_member_avatar_link" href="http://www.archeryinterchange.com/members/medpilot1/"> <img src="images/misc/unknown.gif" alt="medpilot1" /> </a> </div> </div> <div class="smallavatartext widget_post_comment"> <p class="widget_post_content">Hey Nobby. Yes, I did get one - speedy delivery and tracked parcel from Bowsports meant it arrived quickly and safely. I was pleased that came with its own cover, which I have never had for a riser...</p> <h5 class="widget_post_header"><a href="http://www.archeryinterchange.com/f16/sebastien-flute-elite-plus-riser-197347-post683821/#post683821" class="title">Sebastien Flute Elite Plus Riser</a></h5> <div class="meta">
+						Today, <span class="time">08:22 PM</span> <br/> </div> </div> </li> <li class="avatarcontent floatcontainer widget_post_bit"> <div class="widget_post_userinfo"> <div class="cms_widget_post_useravatar widget_post_useravatar"> <a rel="nofollow" class="smallavatar comments_member_avatar_link" href="http://www.archeryinterchange.com/members/furface/"> <img src="customavatars/thumbs/avatar15_1.gif" alt="Furface" /> </a> </div> </div> <div class="smallavatartext widget_post_comment"> <p class="widget_post_content">This was a set of results, sent absolutely correctly within time to the correct address that just did not arrive in my inbox. For every email i received, as soon as I had read it, i sent a reply...</p> <h5 class="widget_post_header"><a href="http://www.archeryinterchange.com/f16/archery-gb-january-challenge-results-199202/#post683819" class="title">AGB January Challenge Results</a></h5> <div class="meta">
+						Today, <span class="time">08:04 PM</span> <br/> </div> </div> </li> <li class="avatarcontent floatcontainer widget_post_bit"> <div class="widget_post_userinfo"> <div class="cms_widget_post_useravatar widget_post_useravatar"> <a rel="nofollow" class="smallavatar comments_member_avatar_link" href="http://www.archeryinterchange.com/members/kevin-sutherland/"> <img src="images/misc/unknown.gif" alt="Kevin Sutherland" /> </a> </div> </div> <div class="smallavatartext widget_post_comment"> <p class="widget_post_content">Just to let you know AGB has missed the results from Deer Park Archers for the January Challenge so it maybe a day or two before the official results are posted on their website</p> <h5 class="widget_post_header"><a href="http://www.archeryinterchange.com/f16/archery-gb-january-challenge-results-199202/#post683771" class="title">AGB January Challenge Results</a></h5> <div class="meta">
+						Today, <span class="time">02:25 PM</span> <br/> </div> </div> </li> <li class="avatarcontent floatcontainer widget_post_bit"> <div class="widget_post_userinfo"> <div class="cms_widget_post_useravatar widget_post_useravatar"> <a rel="nofollow" class="smallavatar comments_member_avatar_link" href="http://www.archeryinterchange.com/members/nobby/"> <img src="customavatars/thumbs/avatar4243_1.gif" alt="Nobby" /> </a> </div> </div> <div class="smallavatartext widget_post_comment"> <p class="widget_post_content">Did you get one? I put it off for a couple of weeks intending to make a journey and get the black riser. Unfortunately the UK seemed to have run out of this colour. I settled for the blue after...</p> <h5 class="widget_post_header"><a href="http://www.archeryinterchange.com/f16/sebastien-flute-elite-plus-riser-197347-post683752/#post683752" class="title">Sebastien Flute Elite Plus Riser</a></h5> <div class="meta">
+						Today, <span class="time">11:47 AM</span> <br/> </div> </div> </li> <li class="avatarcontent floatcontainer widget_post_bit"> <div class="widget_post_userinfo"> <div class="cms_widget_post_useravatar widget_post_useravatar"> <a rel="nofollow" class="smallavatar comments_member_avatar_link" href="http://www.archeryinterchange.com/members/wookster/"> <img src="customavatars/thumbs/avatar19672_1.gif" alt="Wookster" /> </a> </div> </div> <div class="smallavatartext widget_post_comment"> <p class="widget_post_content">Oh dear......wrong thread!!! Fat fingers and touch screen don't match! :raspberry</p> <h5 class="widget_post_header"><a href="http://www.archeryinterchange.com/f16/bracing-height-possible-dumb-question-about-23-risers-190599/#post683721" class="title">Bracing height: possible dumb...</a></h5> <div class="meta">
+						Yesterday, <span class="time">11:47 PM</span> <br/> </div> </div> </li> </ul> </div> </div> <div class="underblock"></div> </li><li> <div class="block smaller"> <div class="blocksubhead"> <a class="collapse" id="collapse_block_newthreads_23" href="#top"><img alt="" src="images/buttons/collapse_40b.png" id="collapseimg_newthreads_23"/></a> <img src="images/cms/widget-forum.png" alt="" /> <span class="blocktitle">Forum Threads</span> </div> <div class="widget_content blockbody floatcontainer"> <ul id="block_newthreads_23" class="blockrow"> <li class="avatarcontent floatcontainer widget_post_bit"> <div class="widget_post_userinfo"> <div class="cms_widget_post_useravatar widget_post_useravatar"> <a rel="nofollow" class="smallavatar comments_member_avatar_link" href="http://www.archeryinterchange.com/members/bizgamer99/"> <img src="images/misc/unknown.gif" alt="bizgamer99" /> </a> </div> </div> <div class="smallavatartext widget_post_comment"> <h5 class="widget_post_header"><a href="http://www.archeryinterchange.com/f11/win-win-vs-hoyt-risers-199284/" class="title">Win &amp; Win VS. HOYT RISERS</a></h5> <div class="meta">
+						
+						 Posted By <a rel="nofollow" href="http://www.archeryinterchange.com/members/bizgamer99/">bizgamer99</a> (6 replies)
+						<br />23-02-14, <span class="time">09:32 PM</span> in <a href="http://www.archeryinterchange.com/f11/">Recurve Bow</a> </div> </div> </li> <li class="avatarcontent floatcontainer widget_post_bit"> <div class="widget_post_userinfo"> <div class="cms_widget_post_useravatar widget_post_useravatar"> <a rel="nofollow" class="smallavatar comments_member_avatar_link" href="http://www.archeryinterchange.com/members/hooktonboy/"> <img src="customavatars/thumbs/avatar609_1.gif" alt="hooktonboy" /> </a> </div> </div> <div class="smallavatartext widget_post_comment"> <h5 class="widget_post_header"><a href="http://www.archeryinterchange.com/f11/very-light-draw-weight-limbs-best-quality-available-199248/" class="title">(Very) light draw weight limbs -...</a></h5> <div class="meta">
+						
+						 Posted By <a rel="nofollow" href="http://www.archeryinterchange.com/members/hooktonboy/">hooktonboy</a> (11 replies)
+						<br />23-02-14, <span class="time">05:27 PM</span> in <a href="http://www.archeryinterchange.com/f11/">Recurve Bow</a> </div> </div> </li> <li class="avatarcontent floatcontainer widget_post_bit"> <div class="widget_post_userinfo"> <div class="cms_widget_post_useravatar widget_post_useravatar"> <a rel="nofollow" class="smallavatar comments_member_avatar_link" href="http://www.archeryinterchange.com/members/junoha/"> <img src="images/misc/unknown.gif" alt="junoha" /> </a> </div> </div> <div class="smallavatartext widget_post_comment"> <h5 class="widget_post_header"><a href="http://www.archeryinterchange.com/f11/f7-grand-prix-inno-cxt-199220/" class="title">F7 Grand Prix on Inno CXT?</a></h5> <div class="meta">
+						
+						 Posted By <a rel="nofollow" href="http://www.archeryinterchange.com/members/junoha/">junoha</a> (10 replies)
+						<br />23-02-14, <span class="time">03:39 AM</span> in <a href="http://www.archeryinterchange.com/f11/">Recurve Bow</a> </div> </div> </li> <li class="avatarcontent floatcontainer widget_post_bit"> <div class="widget_post_userinfo"> <div class="cms_widget_post_useravatar widget_post_useravatar"> <a rel="nofollow" class="smallavatar comments_member_avatar_link" href="http://www.archeryinterchange.com/members/dansig/"> <img src="images/misc/unknown.gif" alt="Dansig" /> </a> </div> </div> <div class="smallavatartext widget_post_comment"> <h5 class="widget_post_header"><a href="http://www.archeryinterchange.com/f11/new-recurve-199140/" class="title">New recurve :)</a></h5> <div class="meta">
+						
+						 Posted By <a rel="nofollow" href="http://www.archeryinterchange.com/members/dansig/">Dansig</a> (1 replies)
+						<br />20-02-14, <span class="time">09:37 PM</span> in <a href="http://www.archeryinterchange.com/f11/">Recurve Bow</a> </div> </div> </li> <li class="avatarcontent floatcontainer widget_post_bit"> <div class="widget_post_userinfo"> <div class="cms_widget_post_useravatar widget_post_useravatar"> <a rel="nofollow" class="smallavatar comments_member_avatar_link" href="http://www.archeryinterchange.com/members/netballman/"> <img src="images/misc/unknown.gif" alt="Netballman" /> </a> </div> </div> <div class="smallavatartext widget_post_comment"> <h5 class="widget_post_header"><a href="http://www.archeryinterchange.com/f11/samick-mizar-limb-release-problem-199006/" class="title">Samick Mizar limb release problem</a></h5> <div class="meta">
+						
+						 Posted By <a rel="nofollow" href="http://www.archeryinterchange.com/members/netballman/">Netballman</a> (7 replies)
+						<br />17-02-14, <span class="time">12:06 PM</span> in <a href="http://www.archeryinterchange.com/f11/">Recurve Bow</a> </div> </div> </li> </ul> </div> </div> <div class="underblock"></div> </li> </ul> </div> <script type="text/javascript"> <!--
+	vbphrase['doubleclick_forum_markread'] = "Double-click this icon to mark this forum and its contents as read";
+	init_forum_readmarker_system();
+	//--> </script> <div style="clear: left"> <div id="ad_global_above_footer"> <div id='div-gpt-ad-1382805801849-3' style='width:668px; height:60px;'> <script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1382805801849-3'); });
+</script> </div></div> </div> <div id="footer" class="floatcontainer footer"> <form action="http://www.archeryinterchange.com/" method="get" id="footer_select" class="footer_select"> <select name="styleid" onchange="switch_id(this, 'style')"> <optgroup label="Quick Style Chooser"><option class="hidden"></option></optgroup> <optgroup label="&nbsp;Standard Styles"> <option value="58" class="" selected="selected">-- vB4 Default Style</option><option value="73" class="" >---- AIUK Christmas</option> </optgroup> <optgroup label="&nbsp;Mobile Styles"> <option value="72" class="" >-- Default Mobile Style</option> </optgroup> </select> </form> <ul id="footer_links" class="footer_links"> <li><a href="http://www.archeryinterchange.com/sendmessage.php" rel="nofollow" accesskey="9">Contact Us</a></li> <li><a href="http://www.archeryinterchange.com">Archery Interchange</a></li> <li><a href="archive/">Archive</a></li> <li><a onclick="_gaq.push(['_trackEvent', 'Outgoing', 'glowhost.com', '']);" rel="nofollow" href="http://glowhost.com" target="_blank">Web Hosting</a></li> <li><a href="#top" onclick="document.location.hash='top'; return false;">Top</a></li> </ul> <script type="text/javascript"> <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//--> </script> </div> </div>  <div class="below_body"> <div id="footer_time" class="shade footer_time">All times are GMT +1. The time now is <span class="time">10:06 PM</span>.</div> <div id="footer_copyright" class="shade footer_copyright"> 
+	Powered by <a onclick="_gaq.push(['_trackEvent', 'Outgoing', 'www.vbulletin.com', '']);" rel="nofollow" href="https://www.vbulletin.com" id="vbulletinlink">vBulletin&reg;</a> Version 4.2.0 <br />Copyright &copy; 2014 vBulletin Solutions, Inc. All rights reserved. 
+	
+<br /><!-- google_ad_section_start(weight=ignore) -->Search Engine Optimization by <a onclick="_gaq.push(['_trackEvent', 'Outgoing', 'www.crawlability.com', '/vbseo/']);" rel="nofollow" href="http://www.crawlability.com/vbseo/">vBSEO</a> 3.6.1<!-- google_ad_section_end --> </div> <div id="footer_morecopyright" class="shade footer_morecopyright">  
+	ArcheryInterchange.com &copy; 2005-2013 D. Renton. <br/>All rights reserved worldwide.
+	
+</div> <div id="fb-root"></div> <script type="text/javascript" src="http://www.archeryinterchange.com/clientscript/vbulletin_facebook.js?v=420"></script> <script type="text/javascript"> <!--
+	loadFacebookAPI('en_US');
+	function fbAsyncInit()
+	{
+		vBfb = new vB_Facebook({
+			appid : "346511782036428",
+			connected : 0,
+			active : 0,
+			autoreg : 0,
+			feed_newthread : 1,
+			feed_postreply : 1,
+			feed_blogentry : 1,
+			feed_blogcomment : 1,
+			feed_newarticle : 1,
+			feed_articlecomment : 1
+		});
+	}
+// --> </script> </div>  <script type="text/javascript">
+        var vglnk = { api_url: '//api.viglink.com/api',
+                      key: '29ea4acdb808fd9093041c26e943f26c' };
+
+        (function(d, t) {
+          var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
+          s.src = ('https:' == document.location.protocol ? vglnk.api_url :
+                   '//cdn.viglink.com/api') + '/vglnk.js';
+          var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+        }(document, 'script'));
+      </script>  
+<script type="text/javascript">
+//<![CDATA[
+
+window.orig_onload = window.onload;
+window.onload = function() {
+if (is_ie || is_moz) { var cpost=document.location.hash;if(cpost){ if(cobj = fetch_object(cpost.substring(1,cpost.length)))cobj.scrollIntoView(true); }}
+
+if(typeof window.orig_onload == "function") window.orig_onload();
+}
+
+//]]>
+</script>
+</body> </html>++++++++++++++++++++<Over>++++++++++++++++++++

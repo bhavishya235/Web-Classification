@@ -1,0 +1,612 @@
+====================<http://www.masteryi.com/>====================
+<!-- 
+S!teFormer Neo 3.4 Build 188
+
+Copyright (c) 2004-2006. d3141c.net All Rights Reserved.
+Copyright (c) 2004-2006. S!teFormer All Rights Reserved.
+Copyright (c) 2004-2006. HanU.net   All Rights Reserved.
+
+Release date : 2006/05/07 22:43:08
+Developer : S.H.Dong (d3141c)
+Official distribute : http://www.hanu.net
+Contact at http://www.hanu.net
+Developing enviornment: PHP 4.x.x/5.x.x MySQL 4.0.x (may not compatible with MySQL 4.1.x/5.x.x)
+
+Re-distribution is prohibited.
+//-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="TEXT/HTML; CHARSET=euc-kr">
+	<META NAME="DESCRIPTION" CONTENT="masteryi.com">
+	<META NAME="KEYWORDS" CONTENT="tukong,martial arts,grandmaster yi,master yi,grandmaster,master">
+	<META NAME="AUTHOR" CONTENT="d3141c">
+	<META NAME="COPY-RIGHT" CONTENT="2004-2005 by d3141c">
+	<META NAME="GENERATOR" CONTENT="S!teFormer 2005">
+	<TITLE>Master Yi Tukong: Main</TITLE>
+	<SCRIPT NAME='JAVASCRIPT'>
+		var language = "en";
+		var script_name = "/index.php";
+		var sf_system_path = "./_includes/";
+	</SCRIPT>
+	<SCRIPT NAME='JAVASCRIPT' SRC="./_includes/html/scripts/script.shared.js"></SCRIPT>
+	<LINK REL="STYLESHEET" TYPE="TEXT/CSS" HREF="./style/masteryi/style.css">
+</HEAD>
+<BODY>
+<SCRIPT NAME='JAVASCRIPT' SRC="./_includes/html/scripts/jscookmenu/JSCookMenu.js"></SCRIPT>
+<LINK REL="stylesheet" HREF="./style/masteryi/theme.css" TYPE="text/css">
+<SCRIPT LANGUAGE="JavaScript" SRC="./_includes/html/scripts/jscookmenu/ThemeOffice/theme.js"></SCRIPT>
+
+<script language='javascript'>
+function showTV() {
+	window.open('./style/masteryi/tv/showTV.php', 'TV',
+		'toolbar=no,location=(20,20),directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=600,height=500'
+	);
+}
+
+function showChat() {
+	window.open('http://www.tukongworld.com/chat/phpMyChat.php3', 'Chat',
+		'toolbar=no,location=(30,30),directories=no,status=no,menubar=no,scrollbars=auto,resizable=yes,width=500,height=600'
+	);
+}
+</script>
+<table width='1000' border='0' cellpadding='0' cellspacing='0'>
+	<tr>
+		<td valign='top' bgcolor='#f6f6f6' style='padding-top: 7px;'>
+		</td>
+    </tr>
+</table>
+
+
+
+
+<table width='1000' border='0' cellpadding='0' cellspacing='0' style='border-style: solid; border-width: 0px 1px 0px 0px; border-color: #cccccc;'>
+
+    <tr>
+		<td bgcolor='#cccccc' colspan='2' style='padding-top: 1px;'>
+			<p><img src="./style/masteryi/images/banner.main.jpg" border='0' id="banner" name="banner"><br>
+		</td>
+	</tr>
+	
+	<tr>
+		<td width='1000' nowrap bgcolor='#000000' height='38' style='padding-left: 10px;' background="./style/masteryi/images/top.ptrn.gif">
+			<div id="myMenuID"></div>
+			<script type="text/javascript">
+			var myMenu = [[null, "Main", '/index.php?db=main', '', 'main'],
+_cmSplit,
+[null, "About Us", '/index.php?db=tk_aboutus', '', 'tk_aboutus'],
+_cmSplit,
+[null, "Grandmaster Yi", '/index.php?db=tk_gm', '', 'tk_gm'],
+_cmSplit,
+[null, "Program", '/index.php?db=tk_training', '', 'tk_training'],
+_cmSplit,
+[null, "G.M. Message", '/index.php?db=tk_message', '', 'tk_message'],
+_cmSplit,
+[null, "Announcement", '/index.php?db=tk_announce', '', 'tk_announce'],
+_cmSplit,
+[null, "Tukong TV", '/index.php?db=tk_films', '', 'tk_films'],
+_cmSplit,
+[null, "Testimonials", '/index.php?db=testimonials', '', 'testimonials'],
+_cmSplit,
+[null, "Forum", '/index.php?db=tk_forum', '', 'tk_forum'],
+_cmSplit,
+[null, "Schedule", '/index.php?db=tk_schedule', '', 'tk_schedule'],
+_cmSplit,
+];
+			cmDraw ('myMenuID', myMenu, 'hbr', cmThemeOffice, 'ThemeOffice');
+			</script>
+		</td>
+	</tr>
+
+
+</table>
+
+
+
+
+
+
+
+			<!-- <table width='100%' border='0' cellpadding='0' cellspacing='0'>
+				<tr>
+					<td width='800'>
+						<p><img src="./style/masteryi/images/banner.gif" border='0'></p>
+					</td>
+					<td align='center'>
+						<p><img src="./style/masteryi/images/logo2.gif" border='0'></p>
+					</td>
+				</tr>
+			</table> -->
+
+
+
+
+
+
+<table width='1000' border='0' cellpadding='0' cellspacing='0' style='border-style: solid; border-width: 0px 1px 0px 0px; border-color: #cccccc;'>
+
+
+
+
+       <td width='153' nowrap align='center'>
+       </td>
+       <td width='847' nowrap align='center'>
+       </td>
+
+
+       
+       
+	<tr>
+
+		<td valign='top' bgcolor='#f6f6f6' style='padding-top: 7px; width: 153px;'>
+				<img src="./style/masteryi/images/title.login.gif" border='0'>
+	<FORM NAME="LOG_IN" METHOD="POST" ACTION="/index.php" style='margin: 0; padding: 0;'>
+	<INPUT TYPE=HIDDEN NAME=zKey VALUE='login'>
+
+	<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+		<tr>
+			<td align='right' style='padding-right: 4px;'><img src="./style/masteryi/images/id.gif" border='0'></td>
+			<td><input type=text name=id size=10 class='loginBox'></td>
+		</tr>
+		<tr>
+			<td align='right' style='padding-right: 4px;'><img src="./style/masteryi/images/password.gif" border='0'></td>
+			<td> <input type=password name=password size=10 class='loginBox' AUTOCOMPLETE="off"></td>
+		</tr>
+		<tr>
+			<td colspan='2' align='center' height='30' valign='bottom'>
+				<input type='image' src="./style/masteryi/images/loginbutton.gif" border='0'>
+				<a href='/index.php?db=member&actKey=register'><img src="./style/masteryi/images/registerbutton.gif" border='0'></a>
+			</td>
+		</tr>
+		<tr>
+			<td colspan='2' align='center'>
+				<input type=checkbox name=autologin value=1 style='vertical-align: middle'>
+				<img src="./style/masteryi/images/autologin.gif" border='0'>
+			</td>
+		</tr>
+		<tr>
+			<td colspan='2' align='center'>
+				<a href='/index.php?db=member&actKey=find.pwd'>Forgot Password?</a>
+			</td>
+		</tr>
+	</table>
+
+	</FORM>
+
+	<!-- search form -->
+	<a href='/index.php?iKey=search'><img src="./style/masteryi/images/title.search.gif" border='0'></a>
+	<form name='searchcont' method='get' action='/index.php' style='margin: 0; padding: 0;'>
+		<input type='hidden' name='iKey' value='search'>
+	<input type='hidden' name='sdb' value='all'>
+	<input type='hidden' name='sc' value='or'>
+	<input type='hidden' name='ssubj' value='1'>
+	<input type='hidden' name='scont' value='1'>
+
+	<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+		<tr>
+			<td align='center'>
+				<input type='text' name='sw' value='Type your keyword.' size='20' class='loginBox' onblur='OnExit(this)' onfocus='OnEnter(this)' style='width: 126px;'> 
+			</td>
+		</tr>
+		<tr>
+			<td align='center' style='padding-top: 4px;'>
+				<input type='image' src="./style/masteryi/images/searchbutton.gif" border='0'>
+			</td>
+		</tr>
+	</table>
+	</form>
+	<!-- end search form -->				<br>
+
+			<a href='/index.php?db=tk_message'><img src="./style/masteryi/images/title.gm_message.gif" border='0'></a>
+			
+			<br>	
+
+				
+
+			<a href='/index.php?db=tk_announce'><img src="./style/masteryi/images/title.event_school.jpg" border='0'></a>
+			<div class='eventList'>
+		<a class='subjLnk' href='/index.php?db=tk_announce&actKey=read&no=27'>Wednesday Ip Sun (Tai Chi) classes discontinu&#8203;ed</a></div><div class='eventList'>
+		<a class='subjLnk' href='/index.php?db=tk_announce&actKey=read&no=25'>Happy Thanksgiving 2012</a></div>			<br>	
+			
+
+
+		</td>
+		<td valign='top'>
+						
+							<script language='javascript'>
+
+
+
+	img_url = new Array();
+	//img_url[0] = new Image();
+	img_url[1] = new Image();
+	img_url[2] = new Image();
+	img_url[3] = new Image();
+	img_url[4] = new Image();
+	img_url[5] = new Image();
+	img_url[6] = new Image();
+
+	//img_url[0].src = "./style/masteryi/images/m0.gif";
+	img_url[1].src = "./style/masteryi/images/tt.1.gif";
+	img_url[2].src = "./style/masteryi/images/tt.2.gif";
+	img_url[3].src = "./style/masteryi/images/tt.3.gif";
+	img_url[4].src = "./style/masteryi/images/sc.1.gif";
+	img_url[5].src = "./style/masteryi/images/sc.2.gif";
+	img_url[6].src = "./style/masteryi/images/sc.3.gif";
+
+	img_a_url = new Array();
+	img_a_url[1] = new Image();
+	img_a_url[2] = new Image();
+	img_a_url[3] = new Image();
+	img_a_url[4] = new Image();
+	img_a_url[5] = new Image();
+	img_a_url[6] = new Image();
+
+	img_a_url[1].src = "./style/masteryi/images/tt.o1.gif";
+	img_a_url[2].src = "./style/masteryi/images/tt.o2.gif";
+	img_a_url[3].src = "./style/masteryi/images/tt.o3.gif";
+	img_a_url[4].src = "./style/masteryi/images/sc.o1.gif";
+	img_a_url[5].src = "./style/masteryi/images/sc.o2.gif";
+	img_a_url[6].src = "./style/masteryi/images/sc.o3.gif";
+
+	function changetab (no) {
+		obj = eval("document.images.tab"+no);
+		obj.src = img_a_url[no].src;
+	}
+
+	function restoretab (no){
+		obj = eval("document.images.tab"+no);
+		obj.src = img_url[no].src;
+	}
+</script>
+
+<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+	<tr>
+		<td valign='top'>
+		
+
+			<div style='padding: 10px; width: 100%;'>
+			<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+				<tr>
+					<td width='12' height='12'><p><img src="./style/masteryi/images/headline.01.gif" border='0'></p></td>
+					<td background="./style/masteryi/images/headline.top.gif"><p><img src="./style/masteryi/images/headline.top.gif" border='0'></p></td>
+					<td width='12'><p><img src="./style/masteryi/images/headline.02.gif" border='0'></p></td>
+				</tr>
+				<tr>
+					<td background="./style/masteryi/images/headline.left.gif"><p><img src="./style/masteryi/images/headline.left.gif" border='0'></p></td>
+					<td valign='top'>
+						<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+							<tr>
+								<td>
+									<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+	<tr>
+		<td width='100'>
+			<a href="/index.php?db=tk_message&actKey=read&no=3"><img src="./data/bbs/tk_message/3/Grandmaster_Yi.jpg" border='1' width='80' style='border-color: #333333;'></a>
+		</td>
+		<td valign='top'>
+			<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+				<tr>
+					<td class='headlineTitle'><a class='headlineTitle' href="/index.php?db=tk_message&actKey=read&no=3">I will be teaching full-time classes from Monday - Thursday starting October 1st.</a></td>
+				</tr>
+				<tr>
+					<td class='headlineContent' valign='top' style='padding-left: 10px;'><a href="/index.php?db=tk_message&actKey=read&no=3">Hello students,As I have promised, I will be teaching classes from Monday - Thursday starting Octobe...</a></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan='2'>
+			<p><img src="./_includes/html/images/blank.gif" border='0' height='6'></p>
+		</td>
+	</tr>
+</table><table width='100%' border='0' cellpadding='0' cellspacing='0'>
+	<tr>
+		<td width='100'>
+			<a href="/index.php?db=tk_message&actKey=read&no=4"><img src="./data/bbs/tk_message/4/copy_of_11F.jpg" border='1' width='80' style='border-color: #333333;'></a>
+		</td>
+		<td valign='top'>
+			<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+				<tr>
+					<td class='headlineTitle'><a class='headlineTitle' href="/index.php?db=tk_message&actKey=read&no=4">Master Cotton Hayes Knee Surgery Recovery</a></td>
+				</tr>
+				<tr>
+					<td class='headlineContent' valign='top' style='padding-left: 10px;'><a href="/index.php?db=tk_message&actKey=read&no=4">(Left, Master Cotton Hayes, Right His son Master DJ)&nbsp;Dear students,As you may or may not have k...</a></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan='2'>
+			<p><img src="./_includes/html/images/blank.gif" border='0' height='6'></p>
+		</td>
+	</tr>
+</table><table width='100%' border='0' cellpadding='0' cellspacing='0'>
+	<tr>
+		<td width='100'>
+			<a href="/index.php?db=tk_forum&actKey=read&no=21"><img src="./data/bbs/tk_forum/21/1366455923924.jpg" border='1' width='80' style='border-color: #333333;'></a>
+		</td>
+		<td valign='top'>
+			<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+				<tr>
+					<td class='headlineTitle'><a class='headlineTitle' href="/index.php?db=tk_forum&actKey=read&no=21">Another branch school has opened in Korea</a></td>
+				</tr>
+				<tr>
+					<td class='headlineContent' valign='top' style='padding-left: 10px;'><a href="/index.php?db=tk_forum&actKey=read&no=21">April 21, 2013Tukong has expanded and a new branch school has opened in Korea.&nbsp;Please welcome M...</a></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan='2'>
+			<p><img src="./_includes/html/images/blank.gif" border='0' height='6'></p>
+		</td>
+	</tr>
+</table><table width='100%' border='0' cellpadding='0' cellspacing='0'>
+	<tr>
+		<td width='100'>
+			<a href="/index.php?db=tk_forum&actKey=read&no=20"><img src="./data/bbs/tk_forum/20/oct2013.jpg" border='1' width='80' style='border-color: #333333;'></a>
+		</td>
+		<td valign='top'>
+			<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+				<tr>
+					<td class='headlineTitle'><a class='headlineTitle' href="/index.php?db=tk_forum&actKey=read&no=20">Please check our Oct - Dec 2013 Training schedule</a></td>
+				</tr>
+				<tr>
+					<td class='headlineContent' valign='top' style='padding-left: 10px;'><a href="/index.php?db=tk_forum&actKey=read&no=20">&nbsp;Oct - Dec 2013 Training schedule...</a></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan='2'>
+			<p><img src="./_includes/html/images/blank.gif" border='0' height='6'></p>
+		</td>
+	</tr>
+</table><table width='100%' border='0' cellpadding='0' cellspacing='0'>
+	<tr>
+		<td width='100'>
+			<a href="/index.php?db=tk_forum&actKey=read&no=19"><img src="./data/bbs/tk_forum/19/hall2.jpg" border='1' width='80' style='border-color: #333333;'></a>
+		</td>
+		<td valign='top'>
+			<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+				<tr>
+					<td class='headlineTitle'><a class='headlineTitle' href="/index.php?db=tk_forum&actKey=read&no=19">USA Martial Arts "Hall of Fame"</a></td>
+				</tr>
+				<tr>
+					<td class='headlineContent' valign='top' style='padding-left: 10px;'><a href="/index.php?db=tk_forum&actKey=read&no=19">&nbsp;USA Martial Arts &quot;Hall of Fame&quot;On August 17, 2013 at the Marriott Hotel in Dallas, T...</a></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan='2'>
+			<p><img src="./_includes/html/images/blank.gif" border='0' height='6'></p>
+		</td>
+	</tr>
+</table>								</td>
+								<td align='right' width='230'>
+								<div>
+									<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' width='232' height='184' id='single1' name='single1'><param name='movie' value='player.swf'><param name='allowfullscreen' value='true'><param name='allowscriptaccess' value='always'><param name='wmode' value='transparent'><param name='flashvars' value='file=http://www.frogentertainment.com/films-tukong/tukong_intro/tukong_intro2.flv&volume=0&autostart=true&shuffle=true'>
+									<embed type='application/x-shockwave-flash'id='single2'name='single2'src='player.swf'width='232'height='184'bgcolor='undefined'allowscriptaccess='always'allowfullscreen='true'wmode='transparent'flashvars='file=http://www.frogentertainment.com/films-tukong/tukong_intro/tukong_intro2.flv&volume=0&autostart=true&shuffle=true'/></object>
+								</div>
+								<div style='padding-top: 8px;'>
+				                  <a href="http://www.masteryi.com/index.php?db=best_instructor"  target="_blank">
+                                  <img src="http://www.masteryi.com/style/masteryi/images/grandmasteryi.gif" border='0'></a>
+			                    </div>
+								</td>
+							</tr>
+						</table>
+					</td>
+					<td background="./style/masteryi/images/headline.right.gif"><p><img src="./style/masteryi/images/headline.right.gif" border='0'></p></td>
+				</tr>
+				<tr>
+					<td width='12' height='12'><p><img src="./style/masteryi/images/headline.03.gif" border='0'></p></td>
+					<td background="./style/masteryi/images/headline.bottom.gif"><p><img src="./style/masteryi/images/headline.bottom.gif" border='0'></p></td>
+					<td><p><img src="./style/masteryi/images/headline.04.gif" border='0'></p></td>
+				</tr>
+			</table>
+			</div>
+
+
+
+
+			<table width='100%' border='0' cellpadding='10' cellspacing='0'>
+				<tr>
+					<td width='50%' valign='top'>
+					<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+						<tr>
+							<td width='5'><p><img src="./style/masteryi/images/box.01.gif" border='0'></p></td>
+							<td background="./style/masteryi/images/box.top.gif"><p><img src="./style/masteryi/images/title.rpost.gif" border='0'></p></td>
+							<td background="./style/masteryi/images/box.top.gif">&nbsp;</td>
+							<td width='5'><p><img src="./style/masteryi/images/box.02.gif" border='0'></p></td>
+						</tr>
+						<tr>
+							<td background="./style/masteryi/images/box.left.gif">
+							<td colspan='2' valign='top' style='padding-left: 6px;'>
+								<div style='height: 175px; overflow:auto;'>
+																</div>
+							</td>
+							<td background="./style/masteryi/images/box.right.gif">
+						</tr>
+						<tr>
+							<td><p><img src="./style/masteryi/images/box.03.gif" border='0'></p></td>
+							<td colspan='2' background="./style/masteryi/images/box.bottom.gif"><p><img src="./style/masteryi/images/box.bottom.gif" border='0'></p></td>
+							<td><p><img src="./style/masteryi/images/box.04.gif" border='0'></p></td>
+						</tr>
+					</table>
+
+
+
+					</td>
+					<td width='50%' valign='top'>
+						<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+							<tr>
+								<td width='5'><p><img src="./style/masteryi/images/box.01.gif" border='0'></p></td>
+								<td background="./style/masteryi/images/box.top.gif"><p><a href='/index.php?db=tk_forum'><img src="./style/masteryi/images/title.freeboard_1.jpg" border='0'></a></p></td>
+								<td background="./style/masteryi/images/box.top.gif" align='right'>
+									<p><a href='/index.php?db=tk_forum'><img src="./style/masteryi/images/more.gif" border='0'></a></p>
+								</td>
+								<td width='5'><p><img src="./style/masteryi/images/box.02.gif" border='0'></p></td>
+							</tr>
+							<tr>
+								<td background="./style/masteryi/images/box.left.gif">
+								<td colspan='2' valign='top' style='padding-left: 6px;'>
+									<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+	<tr>
+		<td width='60'>
+<a href='/index.php?db=tk_forum&actKey=read&no=21'><img src="./data/bbs/tk_forum/21/1366455923924.jpg" border=0 width=55 height=55></a>
+		</td>
+		<td><div class='bbsList'> <a class='subjLnk' href='/index.php?db=tk_forum&actKey=read&no=21'>Another branch school has opened in Korea</a>  <font color="red" size='1'><b></b></font></div></td>
+	</tr>
+</table>
+<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+	<tr>
+		<td width='60'>
+<a href='/index.php?db=tk_forum&actKey=read&no=20'><img src="./data/bbs/tk_forum/20/oct2013.jpg" border=0 width=55 height=55></a>
+		</td>
+		<td><div class='bbsList'> <a class='subjLnk' href='/index.php?db=tk_forum&actKey=read&no=20'>Please check our Oct - Dec 2013 Training schedule</a>  <font color="red" size='1'><b></b></font></div></td>
+	</tr>
+</table>
+<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+	<tr>
+		<td width='60'>
+<a href='/index.php?db=tk_forum&actKey=read&no=19'><img src="./data/bbs/tk_forum/19/hall2.jpg" border=0 width=55 height=55></a>
+		</td>
+		<td><div class='bbsList'> <a class='subjLnk' href='/index.php?db=tk_forum&actKey=read&no=19'>USA Martial Arts "Hall of Fame"</a>  <font color="red" size='1'><b></b></font></div></td>
+	</tr>
+</table>
+								</td>
+								<td background="./style/masteryi/images/box.right.gif">
+							</tr>
+							<tr>
+								<td><p><img src="./style/masteryi/images/box.03.gif" border='0'></p></td>
+								<td colspan='2' background="./style/masteryi/images/box.bottom.gif"><p><img src="./style/masteryi/images/box.bottom.gif" border='0'></p></td>
+								<td><p><img src="./style/masteryi/images/box.04.gif" border='0'></p></td>
+							</tr>
+						</table>
+
+	
+					</td>
+				</tr>
+
+			</table>
+			
+
+<table border='0' cellpadding='0' cellspacing='0' style="width: 97%" align="center">
+				<tr>
+					<td width='12' height='12'><p><img src="./style/masteryi/images/headline.01.gif" border='0'></p></td>
+					<td background="./style/masteryi/images/headline.top.gif"><p><img src="./style/masteryi/images/headline.top.gif" border='0'></p></td>
+					<td width='12'><p><img src="./style/masteryi/images/headline.02.gif" border='0'></p></td>
+				</tr>
+				<tr>
+					<td background="./style/masteryi/images/headline.left.gif"><p><img src="./style/masteryi/images/headline.left.gif" border='0'></p></td>
+					<td valign='top'>
+						<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+							<tr>
+								
+								<td align='center' >
+                                 
+								<div >
+                                  <img style="visibility:hidden;width:0px;height:0px;" border=0 width=0 height=0 src="http://counters.gigya.com/wildfire/IMP/CXNID=2000002.11NXC/bT*xJmx*PTEyNjI2MzM4NzEwNjgmcHQ9MTI2MjYzMzg3NTYxOCZwPTkwMjA1MSZkPSZnPTEmb2Y9MA==.gif" /><object id="ci_65288_o" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="600" height="248"><param name="movie" value="http://apps.cooliris.com/embed/cooliris.swf"/><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="bgColor" value="#121212" /><param name="flashvars" value="feed=api%3A%2F%2Fpicasaweb.google.com%2F%3Fuser%3Dseahoonkorea%26album%3DSeaHoonKorea&backgroundcolor=%23000000&backgroundimage=http%3A%2F%2Fwww.cooliris.com%2Fexpress%2Fbuilder%2Fimages%2Fthemes%2Fstars.jpg&style=dark&glowcolor=%23FFFFFF" /><param name="wmode" value="opaque" /><embed id="ci_65288_e" type="application/x-shockwave-flash" src="http://apps.cooliris.com/embed/cooliris.swf" width="600" height="248" allowFullScreen="true" allowScriptAccess="always" bgColor="#121212" flashvars="feed=api%3A%2F%2Fpicasaweb.google.com%2F%3Fuser%3Dseahoonkorea%26album%3DSeaHoonKorea&backgroundcolor=%23000000&backgroundimage=http%3A%2F%2Fwww.cooliris.com%2Fexpress%2Fbuilder%2Fimages%2Fthemes%2Fstars.jpg&style=dark&glowcolor=%23FFFFFF" wmode="opaque"></embed></object>
+			                    </div>
+
+							
+								</td>
+							</tr>
+						</table>
+					</td>
+					<td background="./style/masteryi/images/headline.right.gif"><p><img src="./style/masteryi/images/headline.right.gif" border='0'></p></td>
+				</tr>
+				<tr>
+					<td width='12' height='12'><p><img src="./style/masteryi/images/headline.03.gif" border='0'></p></td>
+					<td background="./style/masteryi/images/headline.bottom.gif">
+					<div style="position: absolute; width: 300px; height: 28px; z-index: 1; left: 180px; top: 1379px;" id="layer1">
+									<img src="http://www.masteryi.com/style/masteryi/images/banner_pic_2.gif" width="208" height="28"></div>
+									<p><img src="./style/masteryi/images/headline.bottom.gif" border='0'></p></td>
+					<td><p><img src="./style/masteryi/images/headline.04.gif" border='0'></p></td>
+				</tr>
+			</table>
+
+			
+
+
+
+
+	
+			<br>	
+
+		</td>
+		<td valign='top' width='200' nowrap bgcolor='#f6f6f6'>
+
+			<div style='padding-top: 8px;'>
+				<a href="http://www.tukongworld.com/"  target="_blank">
+                <img src="http://www.masteryi.com/style/masteryi/images/tk_korea.gif" border='0'></a>
+          </div>    
+		   
+			<div style='padding-top: 8px;'>
+				<script language='javascript'>
+
+function openEvent(url){
+
+	window.open(url, 'eventCal',
+
+		'toolbar=no,location=(30,30),directories=no,status=no,menubar=no,scrollbars=auto,resizable=yes,width=1000,height=680'
+
+	);
+
+}
+
+</script>
+
+<a name=''></a><center><div><a href='/index.php?db=main&month=1&year='><b>Jan</b></a> &lt;&lt;  <font color=green><b>Feb, 2014</b></font>  &gt;&gt; <a href='/index.php?db=main&month=3&year='><b>Mar</b></a></div></center><table width=100% border=0 cellpadding=0 cellspacing=1 style='table-layout: fixed;'><tr align=center bgcolor=#aaaaaa><td style='font-size: 8pt; font-family: Helvetica;'><b>Sun</b></td><td style='font-size: 8pt; font-family: Helvetica;'><b>Mon</b></td><td style='font-size: 8pt; font-family: Helvetica;'><b>Tue</b></td><td style='font-size: 8pt; font-family: Helvetica;'><b>Wed</b></td><td style='font-size: 8pt; font-family: Helvetica;'><b>Thu</b></td><td style='font-size: 8pt; font-family: Helvetica;'><b>Fri</b></td><td style='font-size: 8pt; font-family: Helvetica;'><b>Sat</b></td></tr><tr><td bgcolor='#cccccc'>&nbsp;</td><td bgcolor='#cccccc'>&nbsp;</td><td bgcolor='#cccccc'>&nbsp;</td><td bgcolor='#cccccc'>&nbsp;</td><td bgcolor='#cccccc'>&nbsp;</td><td bgcolor='#cccccc'>&nbsp;</td><td bgcolor='#EBEFFC' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='blue'>1</font></b><br></p></td></tr><tr><td bgcolor='#FFDFE0' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='red'>2</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>3</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>4</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>5</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>6</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>7</font></b><br></p></td><td bgcolor='#EBEFFC' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='blue'>8</font></b><br></p></td></tr><tr><td bgcolor='#FFDFE0' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='red'>9</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>10</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>11</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>12</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>13</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>14</font></b><br></p></td><td bgcolor='#EBEFFC' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='blue'>15</font></b><br></p></td></tr><tr><td bgcolor='#FFDFE0' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='red'>16</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>17</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>18</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>19</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>20</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>21</font></b><br></p></td><td bgcolor='#EBEFFC' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='blue'>22</font></b><br></p></td></tr><tr><td bgcolor='#FFDFE0' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='red'>23</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>24</font></b><br></p></td><td bgcolor='#FEE0B8' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>25</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>26</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>27</font></b><br></p></td><td bgcolor='#f5f5f5' valign=top style='line-height:130%; word-break:keep-all; font-size: 7pt; font-family: Helvetica; height: 30px;'><p><b><font color='black'>28</font></b><br></p></td><td bgcolor='#cccccc'>&nbsp;</td></tr><tr><td colspan=7><div style="border: 1px solid rgb(204, 204, 204); padding: 3px; background-color: rgb(246, 246, 246); font-size: smaller">Click the running tiger (<img src='http://www.masteryi.com/_includes/components/eventCal/icon/ico7.gif' border=0 width='30'>) to view event details.</div></td></tr></table>			</div>
+			
+			<div style='padding-top: 8px;'>
+				<a href='/index.php?db=tk_coupon' target=_blank><img src="./style/masteryi/images/free_trial.gif" border='0'></a>
+			</div>
+
+			<div style='padding-top: 8px;'>
+				<a href="/index.php?db=tk_films"><img src="./style/masteryi/images/tv.gif" border='0'></a>
+			</div>
+			
+			
+			
+			
+
+			<div style='padding-top: 8px;'>
+				<a href="http://www.fightingstunts.com/"  target="_blank">
+                <img src="http://www.masteryi.com/style/masteryi/images/log_fsa.jpg" border='0'></a>
+          </div>
+			
+
+
+			
+		</td>
+	</tr>
+</table>					</td>
+	</tr>
+	<tr>
+		<td colspan='2' style='border-style: solid; border-width: 1px 0px 0px 0px; border-color: #cccccc; padding: 10px; color: gray;' bgcolor='#f6f6f6'>
+		
+			<table width='100%' border='0' cellpadding='0' cellspacing='0'>
+				<tr>
+					<td align='center' style='padding-left: 20px;'>
+						<img src="./style/masteryi/images/bottomlogo.gif" border='0'>
+					</td>
+					<td style='color: gray; line-height: 160%; padding-left: 30px;' width='80%'>
+
+						<strong>9421 Burnet Rd. Ste B, Austin, TX 78758&nbsp;</strong><br>
+						<strong>512-565-7298&nbsp;</strong>
+						&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:sf_mailer('bWFzdGVyQHR1a29uZ3dvcmxkLmNvbQ==');"><img src="./style/masteryi/images/copyright.line2.email.gif" border='0'></a><br>
+						<img src="./style/masteryi/images/copyright.line3.gif" border='0'>
+					</td>
+				</tr>
+			</table>
+
+
+		</td>
+	</tr>
+</table>
+</BODY></HTML>
+
+<!-- execute time : 0.64021015167236 seconds -->
+++++++++++++++++++++<Over>++++++++++++++++++++

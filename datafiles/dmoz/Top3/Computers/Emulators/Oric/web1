@@ -1,0 +1,1053 @@
+====================<http://freespace.virgin.net/james.groom/homepage.htm>====================
+<!DOCTYPE HTML PUBLIC "-//SoftQuad//DTD HoTMetaL PRO 4.0::19971010::extensions to HTML 4.0//EN"
+ "hmpro4.dtd">
+
+<HTML>
+  
+  <HEAD>
+    <TITLE>The Reluctant Dragon - we've moved!</TITLE>
+  </HEAD>
+  
+  <BODY>
+    <TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0" BORDER="0">
+      <TR>
+        <TD><IMG SRC="images/lildrag.png" WIDTH="100" HEIGHT="100" BORDER="0" ALT="Picture courtesy of Richard Normandy"></TD>
+        <TD><IMG SRC="images/title.png" WIDTH="310" HEIGHT="100" BORDER="0"></TD>
+        <TD WIDTH="100%" BACKGROUND="images/vert.png">&nbsp;</TD>
+        <TD><IMG SRC="images/vro.png" WIDTH="44" HEIGHT="100" BORDER="0"></TD>
+      </TR>
+      <TR>
+        <TD HEIGHT="100%" BACKGROUND="images/horz.png" ALIGN="CENTER" 
+        WIDTH="100" VALIGN="TOP"><BR>
+        <A HREF="index.htm"><IMG SRC="images/home.png" ALT="Click for Homepage" WIDTH="80" HEIGHT="20" BORDER="0"></A><BR>
+         <BR>
+        <A HREF="oric/oricfaq.htm"><IMG SRC="images/faq.png" ALT="Click here for the Oric FAQ" WIDTH="80" HEIGHT="20" BORDER="0"></A><BR>
+         <BR>
+        <A HREF="oric/cheats.htm"><IMG SRC="images/ocd.png" ALT="Click here for the Oric Cheats Directory" WIDTH="80" HEIGHT="40" BORDER="0"></A><BR>
+         <BR>
+        <A HREF="oric/oricrevs.htm"><IMG SRC="images/softrevs.png" ALT="Click here for reviews of Oric software" WIDTH="80" HEIGHT="40" BORDER="0"></A><BR>
+         <BR>
+        <A HREF="oric/oricadv.htm"><IMG SRC="images/oadvs.png" ALT="Click here for details of Oric adventure games" WIDTH="80" HEIGHT="40" BORDER="0"></A><BR>
+         <BR>
+        <A HREF="oric/download.htm"><IMG SRC="images/download.png" ALT="Click here for Downloads" WIDTH="80" HEIGHT="20" BORDER="0"></A><BR>
+         <BR>
+        <A HREF="oric/oriclinx.htm"><IMG SRC="images/linx.png" ALT="Click here for lots of Oric links" WIDTH="80" HEIGHT="20" BORDER="0"></A><BR>
+         <BR>
+        <A HREF="oric/forsale.htm"><IMG SRC="images/sale.png" ALT="Click here for my sale and trade items" WIDTH="80" HEIGHT="40" BORDER="0"></A><BR>
+         <BR>
+        <A HREF="http://www.webring.org/cgi-bin/webring?ring=oric;list"><IMG SRC="images/webring.png" ALT="Click here to go to the Oric Webring" WIDTH="80" HEIGHT="40" BORDER="0"></A><BR>
+         <BR>
+        <A HREF="mailto:james.groom@virgin.net"><IMG SRC="images/contact.png" ALT="Click here to mail The Reluctant Dragon" WIDTH="80" HEIGHT="20" BORDER="0"></A><BR>
+         <BR>
+        <A HREF="about.htm"><IMG SRC="images/dragon.png" ALT='Click here for more information about "The Reluctant Dragon"' WIDTH="80" HEIGHT="60" BORDER="0"></A><BR>
+        </TD>
+        <TD ROWSPAN="2" COLSPAN="3" VALIGN="TOP" ALIGN="CENTER">
+        <TABLE WIDTH="100%">
+          <TR>
+            <TD ALIGN="CENTER"><B><FONT SIZE="+3">The Reluctant Dragon Has
+            Moved.....</FONT></B></TD>
+          </TR>
+        </TABLE>
+        <TABLE WIDTH="100%">
+          <TR>
+            <TD>....but only a few bytes away. Use the links on the left to get
+            to the new site (try Home first) and please update your bookmarks.</TD>
+          </TR>
+        </TABLE></TD>
+      </TR>
+      <TR>
+        <TD><IMG SRC="images/hro.png" WIDTH="100" HEIGHT="44" BORDER="0"></TD>
+      </TR>
+    </TABLE>
+  </BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.bannister.org/software/oric.htm>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Software: Oric</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="../style.css" type="text/css" media="screen" charset="utf-8" />   
+    <script type="text/javascript" src="/external.js"></script>
+</head>
+<body>
+<div id="header">
+			<div class="wrapper">
+			<h1>Richard Bannister</h1>
+			<h3>Sic friatur crustum dulce.</h3>
+			</div> <!-- END WRAPPER -->
+</div> <!-- END HEADER -->
+<div id="navbar">
+	<div class="wrapper">
+			<ul>
+            	<li><a href="../index.htm">About</a></li>
+            	<li><a href="../software/index.htm">Software</a></li>
+            	<li><a href="../coasters/index.htm">Coaster Trips</a></li>
+            	<li><a href="../photo/index.htm">Photo Gallery</a></li>
+            	<li><a href="../email/index.php">Contact</a></li>
+        	</ul>
+			</div> <!-- END WRAPPER -->
+	</div> <!-- END NAVBAR -->
+<div id="mainarea">
+	<div class="wrapper">
+        <div id="content">
+			<div class="story">
+				<div class="headline">
+					<h2>Oric v1.7.8</h2>Oric 1/Oric Atmos Emulator
+				</div>
+				<p class="text">Oric emulates an Oric 1 and an Oric Atmos. It supports full cycle exact sound, allowing speech effects such as that in Megademo to work perfectly, and almost perfect compatibility with a real Oric.</p>
+				<p class="screenshot"><img src="../images/shots/oric.jpg" width="250" height="251" alt="Oric Screenshot" /></p>
+				<h4>Features</h4>
+				<ul>
+					<li>Includes ROM support for six languages.</li>
+				</ul>
+				<h4>Download</h4>			
+				<p>
+					<a href="/cgi-bin/download.cgi?oric">Oric (1MB)</a><br />
+				</p>
+				<p><i>Oric has been downloaded 7066 times to date.</i></p>
+				<h4>Optional Extras</h4>
+				<p>
+					<a href="/cgi-bin/download.cgi?ee">Emulator Enhancer v2.4.0 (747K)</a><br />
+
+      
+				</p>
+			</div> <!-- END STORY -->
+			
+		</div> <!-- END CONTENT -->
+	    <div id="sidebar">
+	    	<h3>Software</h3>
+	    	<p><b>Emulators:</b></p>
+	    	<p><i>Note that the current releases of these projects all require Mac OS X 10.5 or later. Older releases are available from <a href="http://www.mac-emu.net/~bannister/filemirror/">the archive</a> but are strictly unsupported.</i></p>
+	    	<ul>
+	    		<li><a href="arnold.htm">Arnold v1.7.8</a></li>
+	    		<li><a href="ba.htm">Boycott Advance v0.4.0</a></li>
+	    		<li><a href="bsnes.htm">BSNES v0.6.8</a></li>
+	    		<li><a href="ee.htm">Emulator Enhancer v2.3.2</a></li>
+	    		<li><a href="fmsx.htm">fMSX v3.5.1</a></li>
+	    		<li><a href="frodo.htm">Frodo v4.4.0</a></li>
+	    		<li><a href="fuzzbug.htm">Fuzzbug v0.0.1</a></li>
+				<li><a href="generator.htm">Generator v0.4.4</a></li>
+				<li><a href="gplus.htm">Genesis Plus v1.3.1</a></li>
+				<li><a href="handy.htm">Handy v0.9.7</a></li>
+				<li><a href="horizon.htm">Horizon v1.3.9</a></li>
+				<li><a href="jum52.htm">Jum52 v1.1.0</a></li>
+				<li><a href="kigb.htm">KiGB v2.0.5</a></li>
+				<li><a href="mo5.htm">MO5 v2.6.3</a></li>
+				<li><a href="mugrat.htm">Mugrat v0.4.3</a></li>
+				<li><a href="neopocott.htm">Neopocott v0.5.1</a></li>
+				<li><a href="nestopia.htm">Nestopia v1.4.1</a></li>
+				<li><a href="o2em.htm">O2Em v1.1.1</a></li>
+				<li><a href="oric.htm">Oric v1.7.8</a></li>
+				<li><a href="oswan.htm">Oswan v0.8.1</a></li>
+				<li><a href="rainbow.htm">Rainbow v1.5.7</a></li>
+				<li><a href="simcoupe.htm">SimCoupe v0.8.3</a></li>
+				<li><a href="sms.htm">SMS Plus v1.3.3</a></li>
+				<li><a href="teo.htm">TEO v1.8.3</a></li>
+				<li><a href="tgemu.htm">TGEmu v0.3.4</a></li>
+				<li><a href="thom.htm">Thom v1.6.1</a></li>
+				<li><a href="vecx.htm">Vecx v0.1.6</a></li>
+				<li><a href="vibe.htm">ViBE v1.0b12</a></li>				
+	    	</ul>
+	    	<p><b>Video Game Music:</b></p>
+	    	<ul>
+ 	    		<li><a href="ao.htm">Audio Overload v2.0</a></li>
+ 	    		<li><a href="m1.htm">M1 v0.7.9a1</a></li>
+ 	    	</ul>
+ 	    	<p><b>Other:</b></p>
+ 	    	<ul>
+ 	    		<li><a href="bb.htm">Brain Box v0.3</a></li>
+ 	    		<li><a href="cacophony.htm">Cacophony v1.3.1</a></li>
+ 	    	</ul>
+	    </div> <!-- END SIDEBAR -->
+	</div> <!-- END WRAPPER -->
+	</div> <!-- MAIN AREA END -->
+	<div id="footer">
+    	<div class="wrapper">
+    		<ul id="sitemap">
+            	<li><a href="../index.htm">About</a></li>
+            	<li><a href="../software/index.htm">Software</a></li>
+            	<li><a href="../coasters/index.htm">Coaster Trips</a></li>
+            	<li><a href="../photo/index.htm">Photo Gallery</a></li>
+            	<li><a href="../email/index.php">Contact</a></li>
+        	</ul>
+        	<p class="copy">&copy; 1994-2012 Richard F. Bannister. All rights reserved.<br />26 user(s) online, 153571 visitors, since 1994.</p>
+    	</div> <!-- END WRAPPER -->
+	</div> <!-- END FOOTER -->
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://oric.skarstad.net/>====================
+<html>
+
+
+
+<head>
+
+
+
+<title>Skarstad.net</title>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
+
+</head>
+
+
+
+
+
+
+
+<body bgcolor="#FFFFFF">
+
+
+
+<p align="center"><img src="skarstad.gif" width="434" height="199"></p>
+
+
+
+<table width="645" border="0" align="center">
+
+
+
+  <tr>
+
+
+
+    <th scope="col"><font size="+2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://webbmail.skarstad.net">Webmail</a></font></th>
+
+
+
+    <th scope="col">&nbsp;</th>
+
+
+
+    <th scope="col"><div align="center"><font size="+2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://sf.skarstad.net">Hemsida Sl&auml;ttens F&ouml;rk&auml;mpar</a></font></div></th>
+
+
+
+  </tr>
+
+
+
+  <tr>
+
+
+
+    <th scope="col"><font size="+2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.skarstad.net/oric">Oric</a></font></th>
+
+
+
+    <th scope="col">&nbsp;</th>
+
+
+
+    <th scope="col"><a href="http://www.skarstad.net/forum"><font size="+2" face="Verdana, Arial, Helvetica, sans-serif">Forum Sl&auml;ttens F&ouml;rk&auml;mpar </font></a> </th>
+
+
+
+  </tr>
+
+
+
+</table>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<p>&nbsp; </p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+</body>
+
+
+
+</html>
+
+
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.oric.org/index.php?page=ceo&langue=en>====================
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;" charset="windows-1254">
+		<title>The Oric Site</title>
+		<LINK rel="stylesheet" href="/wwworicorg.css" type="text/css">
+		<link rel="shortcut icon" href="http://www.oric.org/favicon.ico"/>
+		<link rel='alternate' href='http://www.oric.org/oricorg.rss' type='application/rss+xml' title='PicLens' id='gallery'/>
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	</head>
+<body>
+<table width="994" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" align="center">
+	<tr>
+		<td>
+			<table width="994" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000">
+				<tr bgcolor="#000000">
+					<td valign="top">
+						<table border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tr>
+								<td width="750"><a href="/index.php?PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e"><img src="/images/www/logoceo_small.png" border="0" hspace="18" vspace="13" align="left"></a>
+							</td>
+							<td valign="bottom" align="right" STYLE="background-image: url(/images/www/logo_droite.gif)">
+								<table border="0"  cellpadding="0" cellspacing="1" width="100%">
+									<tr>
+										<td width="220" valign="bottom" align="right"><div class="g-plusone" data-size="medium"></div></td>
+										<td  valign="bottom" align="right">
+										<a href="http://www.facebook.com/ClubEuropeOric" target="_Blank"><img src="/images/www/bouton-facebook.gif" width="16" height="16" border="0" vspace="10"></a>
+										<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.oric.org&layout=button_count&show_faces=true&width=90&action=like&font=arial&colorscheme=light&height=65"
+    scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:20px; margin-top:1px;" allowTransparency="true"></iframe>
+    									</td>
+    								</tr>
+    							</table>
+							</td>
+							</tr>
+							<tr>
+     							<td width="994" align="left" valign="top" colspan="2">
+									<table cellpadding="0" cellspacing="0" border="0" width="100%">
+										<tr>
+											<td>
+												<table width="100%" cellpadding="0" cellspacing="0" border="0" background="/images/www/bande_menu_rouge.png">
+													<tr>
+														<td width="79" align="left" height="23" valign="top"><a href="/news/?PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e"><img src="/images/www/news.png" border="0" hspace="0" vspace="0" align="left"></a></td>
+														<td width="115" align="left" height="23" valign="top"><a href="/software/?PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e"><img src="/images/www/software.png" border="0" align="left" hspace="0" vspace="0"></a></td>
+														<td width="115" align="left" height="23" valign="top"><a href="/magazine/?PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e"><img src="/images/www/magazine.png" border="0" align="left"></a></td>
+														<td width="126" align="left" height="23" valign="top"><a href="/community/?PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e"><img src="/images/www/community.png" border="0" align="left" hspace="0" vspace="0"></a></td>
+														<td align="left" width="110" height="23" valign="top"><a href="/hardware/?PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e"><img src="/images/www/menu_hardware.png" border="0" align="left" hspace="0" vspace="0"></a></td>
+														<td align="left" height="23"  width="67" valign="top"><a href="/ceo/?PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e"><img src="/images/www/button_ceo.png" border="0" align="left" hspace="0" vspace="0"></a></td>
+														<td align="left" height="23"  width="67" valign="top"><a href="http://forums.oric.org/" target="_blank"><img src="/images/www/menu_forums.png" border="0" align="left" hspace="0" vspace="0"></a></td>
+														<td align="left" height="23" valign="top"><a href="/faq/?PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e"><img src="/images/www/faq.png" border="0" align="left" hspace="0" vspace="0"></a></td>
+														<td align="right" valign="top" height="23"></td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+          									<td valign="top">
+												<table width="100%"><tr><td colspan="2"><H1 ALIGN=CENTER>Welcome to<BR>
+		<blink>Club Europe <IMG SRC="/images/www/oriclogo.gif" ALT="Oric" WIDTH=57 HEIGHT=27 ALIGN=middle> Home Page</blink><!-- </H1><IMG SRC="/images/www/ligne_separation.png">-->
+</td>
+	</tr>
+	<tr>
+		<td valign="top" width="100">
+		<A HREF="/index.php?page=ceo&langue=fr&PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e"><IMG SRC="/images/www/flagfr.gif" ALIGN=middle border="0" hspace="2"></A><A HREF="/index.php?page=ceo&langue=en&PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e"><IMG SRC="/images/www/flagen.gif" ALIGN=middle border="0"  hspace="2"></A><br/><br/>
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+       			<tr>
+       				<td id="side_nav" rowspan="3" valign="top">
+						<p class="second"><a href="/ceo/?PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e" class="lienBlanc">CEO</a></p>
+                        <p class="second"><a href="/index.php?page=ceo&fille=account&PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e" class="lienBlanc">Account</a></p>
+						<p class="second"><a href="/index.php?page=ceo&fille=contact&PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e" class="lienBlanc">Contact</a></p>
+						<p class="second"><a href="/index.php?page=ceo&fille=photos&PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e" class="lienBlanc">Pictures</a></p>
+					</td>
+				</tr>
+		</table>
+		</td>
+		<td height="100" width="800" valign="top"><br>
+						<a href=/ceosearch/search.html?PHPSESSID=c0dd4c7705c16201f4bf8eaa1709312e class=lienBlanc>-> &nbsp;<b>Ceomag search engine</b></a>
+							<br><br><!-- *************************************************** -->
+<!-- *************************************************** -->
+
+
+
+<P ALIGN=CENTER><B><A HREF="http://www.oric.org/index.php?page=ceo&fille=contact" class="lienBlanc"><B><H1>Club Europe Oric</H1></A><H2>33 avenue Henri Barbusse, 93140 BONDY - FRANCE</H2></B></B><BR></P>
+
+
+<P><A NAME="CEO"></A></P>
+<h2>Ceomag Status</h2><br> 
+Numéro 286 Février: Les fichiers correspondants à la page du "Ceo-Mag du mois" (accès pour tout public) et au mag proprement dit (réservé aux adhérents du CEO) sont disponibles sur www.oric.org<br />
+<br />
+Issue 286 February: The files corresponding to "Ceo-Mag of the month" page (access for any public) and to the mag itself (reserved to CEO members) are available on www.oric.org
+<BR><HR SIZE="1">
+
+<!-- *************************************************** -->
+
+<h2>What is it all about?</h2><br> 
+
+<UL>
+
+<LI><B>Oric</B> is the brand name of 8-bit computers which were quite popular in Europe -- especially in France and UK -- in the mid-80s.
+   
+<LI><B>Club Europe Oric</B> (or <B>CEO</B> for short) is a user group which has about 50 members.
+   
+<LI>CEO subscribers receive a monthly magazine <B>Ceo-Mag</B> (mostly in French & somewhat in English) containing news, feature articles, hints & tips, program listings, tutorials, etc. This magazine is released in "electronic form" (emag) or "physical form" (paper mag).
+
+<LI>Moreover, CEO release quarterly disks with a selection of Oric software. The disks are offered either in Oric (Sedoric DOS) 3.5-inch format or in PC (MS-DOS) format (the latter for use as disk images for the Euphoric emulator). These disks are diffused in electronic form (edisk) or "physical form" (real diskettes).
+
+<LI>Subscription to the club for 2011 costs 20 euros, a single price giving right to all the services of the club, in particular a subscription to the emag and the edisk (providing an email address of course). Note that the "traditional" services continue to be offered to you without overcost, but you will have to address a specific request to the person in charge concerned: Jean, for the paper issues and Sedoric physical disks or Andre, for the physical PC disks. The co-ordinates (postal and email) of Jean and André are reproduced on the subscription form. Note that this form, which is to send to Simon, does not comprise any line concerning the “traditional” services and that you must address directly to Jean and/or André.
+
+<!-- *************************************************** -->
+
+<P ALIGN=CENTER>See présentation of this month's issue:<BR>
+<A HREF="http://www.oric.org/index.php?page=community&fille=ceomagdetail" class="lienBlanc"><B><H3>CEO-MAG OF THIS MONTH CONTENTS</H3></B></A></P>
+
+<!-- *************************************************** -->
+
+<P ALIGN=CENTER>Special offer: The 30th Anniversary Magazine freely downloadable!<BR>
+<A HREF="http://www.oric.org/ftp/ceo/ceomag/specimen/ceomag.pdf" class="lienBlanc">
+<B><H3>CEO-MAG SPECIMEN</H3></B></A></P>
+
+<!-- *************************************************** -->
+
+<P ALIGN=CENTER>If you would like to subscribe to Club Europe Oric, you may download our subscription form (requires Adobe Acrobat Reader).<BR>
+<A HREF="http://www.oric.org/ftp/ceo/abonnement/Adhesion-CEO.pdf" class="lienBlanc"><B><H3>SUBSCRIPTION FORM</H3></B></A></P>
+
+<!-- *************************************************** -->
+
+<P ALIGN=CENTER>For more information, feel free to <BR>
+<A HREF="http://www.oric.org/index.php?page=ceo&fille=contact" class="lienBlanc"><B><H3>CONTACT US</H3></B></A></P>
+   
+<!-- *************************************************** -->
+
+<P ALIGN=CENTER>You can also see our page<BR>
+<A HREF="http://www.facebook.com/ClubEuropeOric" class="lienBlanc"><B><H3>FACEBOOK</H3></B></A></P>
+<BR>
+   
+<!-- *************************************************** -->
+<LI>CEO also stages periodic <B>Oric Meets</B> in Paris (usually twice a year, in January and June).
+
+</UL>
+
+<!-- *************************************************** -->
+<!--                DATE INDETERMINEE                    -->
+<!-- *************************************************** -->
+
+<!--
+
+<H4 ALIGN=CENTER><B>THE NEXT ORIC MEET will take place in JANUARY 2014/B></H4>
+-->
+
+<!-- *************************************************** -->
+<!--         DANS LE LOCAL MO5 (ou alternative)          -->
+<!-- *************************************************** -->
+
+<!--
+<H4 ALIGN=CENTER><B>THE NEXT ORIC MEET will take place on Saturday, June 7th, 2008 from 2 to 6 p.m.</B></H4>
+<A>in the room of the MO5.COM association, near the Subway Station "Mairie de Saint-Ouen". As the blue gate for access to the room has neither number, nor doorbell, the rendezvous will be at the nearby restaurant "Dragon d'Or", 18 avenue Gabriel Péri, 93400 Saint-Ouen, from 12:00 to 2 p.m. (possible lunch there together). See the access map below. ATTENTION: please  join by email at ceo@oric.org and clarify 1) if you want to have lunch and 2) if it is necessary to welcome you after 14 hours (the access to the room is impossible except on rendezvous).</A>
+<P ALIGN=CENTER><B><IMG SRC="http://www.oric.org/images/www/PlanVisuMo5.gif"
+WIDTH=591 HEIGHT=531 ALIGN=bottom></B></P>
+--> 
+
+<!-- *************************************************** -->
+<!--      DANS LE LOCAL DE L'EGLISE DE LA RENCONTRE      -->
+<!-- *************************************************** -->
+
+<!--
+-->
+<H4 ALIGN=CENTER><B>THE NEXT ORIC MEET will take place on Saturday, January 11th, 2014<BR> from 2 to 6 p.m., on the 1st floor of 17 rue des Petits Hotels, PARIS, FRANCE.</B></H4>
+<P ALIGN=CENTER>Within walking distance (5 mins) of Eurostar railway terminal.
+
+Possible lunch, around 12:00, at "Le Moderne" 87 boulevard de Strasbourg 75010 Paris,  next to Rue des Petits Hotels. 
+<BR></A>
+<P ALIGN=CENTER><B><IMG SRC="http://www.oric.org/images/www/PlanVisu2.gif"
+WIDTH=693 HEIGHT=706 ALIGN=bottom></B></P>
+
+<!--
+Possible lunch, around 12:00, at "Relais des Deux Gares", on boulevard Magenta, opposite Rue des Petits Hotels. See the access map below.
+<BR></A>
+<P ALIGN=CENTER><B><IMG SRC="http://www.oric.org/images/www/PlanVisu.gif"
+WIDTH=693 HEIGHT=706 ALIGN=bottom></B></P>
+-->
+
+
+<!-- *************************************************** -->
+<!-- *************************************************** -->
+
+<HR SIZE="1"><BR>
+
+<H1 ALIGN=CENTER>SOME PHOTOS TAKEN DURING OUR VISUS</H1><BR>
+
+<H4 ALIGN=CENTER><B><IMG SRC="http://www.oric.org/images/www/atmos.jpg" ALT="Atmos" WIDTH=384 HEIGHT=288 ALIGN=bottom></B></H4>
+<H1 ALIGN=CENTER><B>Oric Atmos Custom Setup</B></H1>
+
+<H4 ALIGN=CENTER><B><IMG SRC="http://www.oric.org/images/www/telestrat.jpg" ALT="Telestrat" WIDTH=384 HEIGHT=288 ALIGN=bottom></B></H4>
+<H1 ALIGN=CENTER><B>Oric Telestrat Custom Setup</B></H1>
+
+.
+
+
+
+<!--
+-->
+
+<!-- *************************************************** -->
+<!-- *************************************************** -->
+
+
+						<p>&nbsp;</p>
+						</td>
+					</tr>
+					
+</table>
+</td>
+</tr>
+</table>
+												<br><br>
+											</td>
+										</tr>
+										<tr>
+      										<td  align="center" valign="bottom" class="texteNormal">
+												<table  cellspacing="0" cellpadding="0" border="0" height="9" width="100%">
+													<tr>
+														<td colspan="8" height="2">
+															<img src="/images/www/px_gris.png" width="100%" height="1">
+														</td>
+													</tr>
+													<tr  bgcolor="#504F4F">
+														<td align="right"><b><font color="#9C9C9C" size="-2"> Hosted By oric.org server</font></b></td>
+														<td><img src="/images/www/separation_bas.png" hspace="5" vspace="2"></td>
+														<td><b><font color="#9C9C9C" size="-2">www.oric.org V 2.6en</font></b></td>
+														<td><img src="/images/www/separation_bas.png" hspace="5" vspace="2"></td>
+														<td><b><font color="#9C9C9C"  size="-2"> CNIL ID : 872370</font></b></td>
+														<td><img src="/images/www/separation_bas.png" hspace="5" vspace="2"></td>
+														<td><b><font color="#9C9C9C" size="-2">Write to <a href="mailto:jede[at]oric[dot]org"><font color="#9C9C9C"> Webmaster</font></a> &copy; 2000-2014</font></b></td>
+														<td><b><font color="#9C9C9C" size="-2"><img src="/images/www/separation_bas.png" hspace="5" vspace="2" align="center"> Built in 0.54 Seconds</font></b></td>
+													</tr>
+												</table>
+											<img src="/images/www/px_noir.png" width="100%" height="2" border="0">
+	  										</td>
+  										</tr>
+									</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>			
+</body>
+</html>     ++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://freecode.com/projects/xeuphoric>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Xeuphoric â€“ Freecode</title>
+    <link href="http://a.fsdn.com/fm/stylesheets/base_packaged.css?1386111739" media="screen" rel="stylesheet" type="text/css" />
+    <!--[if IE]>
+    <link href="http://a.fsdn.com/fm/stylesheets/ie.css?1386111726" media="screen" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <link href="http://freecode.com/?format=atom" rel="alternate" title="Freecode Releases" type="application/atom+xml" />
+    
+  <link href="http://freecode.com/projects.atom" rel="alternate" title="Freecode Projects" type="application/atom+xml" />
+  <link href="http://freecode.com/projects/xeuphoric/releases.atom" rel="alternate" title="Freecode releases feed for Xeuphoric" type="application/atom+xml" />
+  <link href="http://freecode.com/projects/xeuphoric/comments.atom" rel="alternate" title="Freecode comments feed for Xeuphoric" type="application/atom+xml" />
+  <meta property="og:title" content="Xeuphoric"/>
+  <meta property="og:description" content="An Oric emulator."/>
+    <meta property="og:image" content="/screenshots/a4/f3/a4f3c7bd8a68ccbc93674dfa35cce6db_thumb.png?1237050410"/>
+  
+          <meta name="description" content="An Oric emulator."/>
+      <meta name="keywords" content="Emulators">
+        <meta name="google-site-verification" content="LuyhdevGU_34uCpdk-MN6giihtzaQ50K89IEnf2GkQ0" />
+    <script language="JavaScript" type="text/javascript">
+      var immersion_adcode = '';
+      if (!window.FC) { window.FC = {}; }
+
+      FC.loadAd = function(id, src) {
+        var isImmersion = id.indexOf('immersion') >= 0;
+        if (immersion_adcode && !isImmersion) {
+          return;
+        }
+
+        document.write('<scr' + 'ipt type="text/javascript" src="' + src + '"><\/scr' + 'ipt>');
+      }
+
+      dfp_ord=Math.random()*10000000000000000;
+      dfp_tile = 1;
+
+      window.google_analytics_uacct = "UA-32013-4";
+
+      var _gaq = _gaq || [];
+
+      _gaq.push(
+          ['_setAccount', 'UA-32013-4'],
+          ['_trackPageview'],
+          ['t2._setAccount', 'UA-36126581-1'],
+          ['t2._trackPageview']
+      );
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+  </head>
+  <body>
+    
+    <div id="page">
+      <div id="topnav">
+        <div class="topnav-container clearfix">
+          <div class="top-login">
+            <ul>
+              
+                <li><a href="https://freecode.com/session/new?return_to=%2Fprojects%2Fxeuphoric">Login</a></li>
+                <li><a href="https://freecode.com/users/new">Signup</a></li>
+                <li><a href="https://freecode.com/password_resets/new">Lost password?</a></li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div id="container">
+        <div id="header" class="clearfix">
+          <div id="leaderboard">
+            <div class="banner1">
+                              <!-- DoubleClick Ad Tag -->
+<script language="JavaScript" type="text/javascript">
+  FC.loadAd('main_p1_leader', document.location.protocol+'//ad.doubleclick.net/adj/ostg.freshmeat/main_p1_leader;pg=%2Fprojects%2Fxeuphoric;logged_in=0;sz=728x90;tile='+dfp_tile+';ord='+dfp_ord+'?');
+   dfp_tile++;
+</script>
+<!-- End DoubleClick Ad Tag -->
+
+                          </div>
+            <div class="logo">
+              <a href="/"><img alt="Freecode Logo" src="http://a.fsdn.com/fm/images/fm_logo.png?1386111726" /></a>
+            </div>
+          </div>
+          <div class="clearfix"></div>
+          <div class="navbarblock">
+            <div class="navbar">
+              <span class="navleft"></span>
+              <ul class="navigation">
+                <li><a href="/">Home</a></li>
+                <li><a href="/articles">Articles</a></li>
+                <li><a href="/tags">Browse Projects by Tag</a></li>
+                <li><a href="/projects/new">Submit new Project</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/blog">Blog</a></li>
+                <li><a href="http://help.freecode.com/" onclick="window.open(this.href);return false;">Help</a></li>
+                <li class="sites bubbleInfo"><a href="#" class="trigger">Sites</a>
+                  <div class="popup">
+                      <span class="p1"><img alt="" src="http://a.fsdn.com/fm/images/fm_sites_menu_01.gif?1386111726" /></span>
+                      <span class="p2"></span>
+                      <div class="menuitems">
+                        <ul class="sites-sub">
+                          <li><a href="http://freecode.com">All</a></li>
+                          
+                            <li><a href="http://mac.freecode.com">Mac OS X</a></li>
+                          
+                            <li><a href="http://mobile.freecode.com">Mobile</a></li>
+                          
+                            <li><a href="http://unix.freecode.com">Unix</a></li>
+                          
+                        </ul>
+                      </div>
+                      <span class="p3"><img alt="" src="http://a.fsdn.com/fm/images/fm_sites_menu_03.gif?1386111726" /></span>
+                  </div>
+                </li>
+              </ul>
+              <div class="top-search">
+                <form action="/search" id="navSearch" method="get">
+                  <input id="q" name="q" type="text" /><input type="submit" name="submit" value="Search" />
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
+    
+        
+          <div class="crumbs"><a href="/projects">Projects</a> / <span>Xeuphoric</span></div>
+    
+        <div class="clearfix">
+          
+
+
+
+<h1>
+  Xeuphoric
+</h1>
+
+<div class="project-detail">
+  <p>Xeuphoric is a port of Euphoric, Fabrice FrancÃ¨s&#39; Oric emulator, to the X
+window system. It emulates the Oric-1, the Oric Atmos, and the Telestrat.
+</p>
+
+  
+    <table id="project-tag-cloud">        <tr>
+          <th><span>Tags</span></th>
+          <td><a href="/tags/emulators" class="tagSize4" rel="tag">Emulators</a></td>
+        </tr>
+        <tr>
+          <th><span>Licenses</span></th>
+          <td><a href="/tags/gnu-general-public-license-gpl" class="tagSize4" rel="tag">GPL</a></td>
+        </tr>
+        <tr>
+          <th><span>Operating Systems</span></th>
+          <td><a href="/tags/posix" class="tagSize4" rel="tag">POSIX</a> <a href="/tags/bsd" class="tagSize1" rel="tag">BSD</a> <a href="/tags/netbsd" class="tagSize1" rel="tag">NetBSD</a> <a href="/tags/linux" class="tagSize4" rel="tag">Linux</a> <a href="/tags/freebsd" class="tagSize1" rel="tag">FreeBSD</a></td>
+        </tr>
+        <tr>
+          <th><span>Implementation</span></th>
+          <td><a href="/tags/c" class="tagSize4" rel="tag">C</a> <a href="/tags/assembly" class="tagSize1" rel="tag">Assembly</a></td>
+        </tr>
+</table>
+  
+  
+  <div class="clearfix project-cta">
+    <div class="width50" id="more_info_download">
+      
+        <div class="moreinfolink"><a href="/urls/6ab1f19e1fadd2348ed181b36cdc9307" onclick="_gaq.push(['_trackEvent', 'Projects', 'Website', 'Xeuphoric']);" title="Website at teaser.fr">Website</a></div>
+      
+      
+        <div class="downloadlink">
+          <a href="/urls/26818c2070454dadab9d929b04b9d235" class="" onclick="_gaq.push(['_trackEvent', 'Projects', 'Download', 'Xeuphoric']);" title="Tar/GZ at teaser.fr">Download</a>
+        </div>
+      
+    </div>
+    <div class="width50" id="social-sharing">
+      <div class="google-plus">
+        <div class="g-plusone" data-size="medium"></div>
+
+        <script type="text/javascript">
+          (function() {
+           var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+           po.src = 'https://apis.google.com/js/plusone.js';
+           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+           })();
+  </script>
+      </div>
+      <div class="twitter">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-text="Xeuphoric 0.19.0" data-count="horizontal" data-via="freecode_com">Tweet</a>
+        <script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+      </div>
+    </div>
+  </div>
+
+  <div class="clearfix">
+
+      <div class="recent-releases">
+        <h2>
+          <a href="http://freecode.com/projects/xeuphoric/releases.atom" class="pushright padleft5" title="Release feed for this project"><img alt="RSS" src="http://a.fsdn.com/fm/images/rss.png?1386111726" /></a>
+          <ul class="recents-sub-navigation">
+            <li><a href="/projects/xeuphoric/tags">Release tags</a></li>
+            <li><a href="/projects/xeuphoric/releases">All releases</a></li>
+          </ul>Recent releases
+        </h2>
+
+        
+  <div class="release clearfix" id="release_321367">
+    <div class="clearfix">
+      <ul class="release-badge">
+        <li class="before"><img alt="" src="http://a.fsdn.com/fm/images/rrelease-before.png?1386111726" /></li>
+        <li class="release"><a href="/projects/xeuphoric/releases/321367">0.19.0</a></li>
+      </ul>
+      <ul class="rdate">
+        <li><img alt="" src="http://a.fsdn.com/fm/images/rrelease-mid.png?1386111726" /></li>
+        <li class="rdate">&nbsp;02 Sep 2010 13:04</li>
+        <li><img alt="" src="http://a.fsdn.com/fm/images/rrelease-after.png?1386111726" /></li>
+      </ul>
+      
+      
+
+      <div class="meta clearfix">
+        <ul class="tagList"></ul>
+      </div>
+    </div>
+
+      
+        <p class="truncate changes"><strong>Release Notes:</strong> The quality of the audio output was improved. The arrow keys and the file selector were fixed. Color schemes were added to distinguish ink from paper. There are no longer stuck keys on the Oric after leaving the Xeuphoric window with [alt]-[tab].</p>
+      
+  </div>
+
+
+  <div class="release clearfix" id="release_170558">
+    <div class="clearfix">
+      <ul class="release-badge">
+        <li class="before"><img alt="" src="http://a.fsdn.com/fm/images/rrelease-before.png?1386111726" /></li>
+        <li class="release"><a href="/projects/xeuphoric/releases/170558">0.18.2</a></li>
+      </ul>
+      <ul class="rdate">
+        <li><img alt="" src="http://a.fsdn.com/fm/images/rrelease-mid.png?1386111726" /></li>
+        <li class="rdate">&nbsp;21 Aug 2004 13:43</li>
+        <li><img alt="" src="http://a.fsdn.com/fm/images/rrelease-after.png?1386111726" /></li>
+      </ul>
+      
+      
+
+      <div class="meta clearfix">
+        <ul class="tagList"><li class="release-tags"><a href="/projects/xeuphoric/tags/minor-bugfixes" rel="tag">Minor bugfixes</a></li></ul>
+      </div>
+    </div>
+
+      
+        <p class="truncate changes"><strong>Release Notes:</strong> A video emulation bug was fixed, and the licence
+was changed to completely GPL.
+</p>
+      
+  </div>
+
+
+  <div class="release clearfix" id="release_138482">
+    <div class="clearfix">
+      <ul class="release-badge">
+        <li class="before"><img alt="" src="http://a.fsdn.com/fm/images/rrelease-before.png?1386111726" /></li>
+        <li class="release"><a href="/projects/xeuphoric/releases/138482">0.18.1</a></li>
+      </ul>
+      <ul class="rdate">
+        <li><img alt="" src="http://a.fsdn.com/fm/images/rrelease-mid.png?1386111726" /></li>
+        <li class="rdate">&nbsp;09 Oct 2003 20:36</li>
+        <li><img alt="" src="http://a.fsdn.com/fm/images/rrelease-after.png?1386111726" /></li>
+      </ul>
+      
+      
+
+      <div class="meta clearfix">
+        <ul class="tagList"><li class="release-tags"><a href="/projects/xeuphoric/tags/major-bugfixes" rel="tag">Major bugfixes</a></li></ul>
+      </div>
+    </div>
+
+      
+        <p class="truncate changes"><strong>Release Notes:</strong> The disk image selector works again.</p>
+      
+  </div>
+
+
+  <div class="release clearfix" id="release_133014">
+    <div class="clearfix">
+      <ul class="release-badge">
+        <li class="before"><img alt="" src="http://a.fsdn.com/fm/images/rrelease-before.png?1386111726" /></li>
+        <li class="release"><a href="/projects/xeuphoric/releases/133014">0.18.0</a></li>
+      </ul>
+      <ul class="rdate">
+        <li><img alt="" src="http://a.fsdn.com/fm/images/rrelease-mid.png?1386111726" /></li>
+        <li class="rdate">&nbsp;18 Aug 2003 04:59</li>
+        <li><img alt="" src="http://a.fsdn.com/fm/images/rrelease-after.png?1386111726" /></li>
+      </ul>
+      
+      
+
+      <div class="meta clearfix">
+        <ul class="tagList"><li class="release-tags"><a href="/projects/xeuphoric/tags/major-feature-enhancements" rel="tag">Major feature enhancements</a></li></ul>
+      </div>
+    </div>
+
+      
+        <p class="truncate changes"><strong>Release Notes:</strong> XShm is now used, if available. This provides a
+big performance boost, especially at high zoom
+factors.
+</p>
+      
+  </div>
+
+
+  <div class="release clearfix" id="release_132474">
+    <div class="clearfix">
+      <ul class="release-badge">
+        <li class="before"><img alt="" src="http://a.fsdn.com/fm/images/rrelease-before.png?1386111726" /></li>
+        <li class="release"><a href="/projects/xeuphoric/releases/132474">0.17.0</a></li>
+      </ul>
+      <ul class="rdate">
+        <li><img alt="" src="http://a.fsdn.com/fm/images/rrelease-mid.png?1386111726" /></li>
+        <li class="rdate">&nbsp;12 Aug 2003 15:36</li>
+        <li><img alt="" src="http://a.fsdn.com/fm/images/rrelease-after.png?1386111726" /></li>
+      </ul>
+      
+      
+
+      <div class="meta clearfix">
+        <ul class="tagList"><li class="release-tags"><a href="/projects/xeuphoric/tags/minor-feature-enhancements" rel="tag">Minor feature enhancements</a></li></ul>
+      </div>
+    </div>
+
+      
+        <p class="truncate changes"><strong>Release Notes:</strong> This release adds the ability to slow the emulation (as well as
+increase it beyond 64x).
+</p>
+      
+  </div>
+
+
+      </div>
+
+    <div class="recent-comments">
+      
+
+    </div>
+  </div>
+</div>
+
+<div class="sbblock">
+  <div class="sidebar first">
+    <div class="sidebar-content">
+      <h3>Links</h3>
+      <ul class="sub-navigation divide"><a name="downloads"></a>
+        <li class="url changelog" title="Changelog - teaser.fr"><a href="/urls/5858969d2684a624e95c4de603363e08" onclick="_gaq.push(['_trackEvent', 'Projects', 'Changelog', 'Xeuphoric']);">Changelog</a></li>
+<li class="url " title="Tar/GZ - teaser.fr"><a href="/urls/26818c2070454dadab9d929b04b9d235" onclick="_gaq.push(['_trackEvent', 'Projects', 'Tar/GZ', 'Xeuphoric']);">Tar/GZ</a></li>
+<li class="url website" title="Website - teaser.fr"><a href="/urls/6ab1f19e1fadd2348ed181b36cdc9307" onclick="_gaq.push(['_trackEvent', 'Projects', 'Website', 'Xeuphoric']);">Website</a></li>
+
+      </ul>
+    </div>
+  </div>
+  <div class="sidebar">
+    <div class="sidebar-content">
+        <div class="submitter clearfix">
+          <ul>
+            <li class="avatar"><a href="/users/aym" class="avatar" title="aym"><img class="gravatar" alt="" width="30" height="30" src="http://www.gravatar.com/avatar/53d55977a9723e91b9cb557c1f61009e?rating=PG&amp;size=30&amp;default=http%3A%2F%2Fa.fsdn.com%2Ffm%2Fimages%2Fdefault_small_avatar.png" /></a></li>
+            <li><p><a href="/users/aym" class="submitter">aym</a><br />
+              <span>16 Aug 2002 08:17</span></p></li>
+          </ul>
+        </div>
+
+        <div class="sidebar-screen">
+          
+            <a href="/screenshots/a4/f3/a4f3c7bd8a68ccbc93674dfa35cce6db_medium.png?1237050410" class="fancybox" rel="project-screenshots" title=" (Image 1 of 1)"><img alt="Screenshot" class="screenshotsidebar" src="http://a.fsdn.com/fm/screenshots/a4/f3/a4f3c7bd8a68ccbc93674dfa35cce6db_thumb.png?1237050410" /></a>
+          
+        </div>
+
+      <ul class="sub-navigation split">
+        <li class="dependency"><a href="/projects/xeuphoric/dependencies">Dependencies</a></li>
+          <li class="owner-change"><a href="/projects/xeuphoric/owner_changes/new">Request ownership</a></li>
+        <li class="report-problem"><a href="/projects/xeuphoric/tickets/new">Report problem</a></li>
+      </ul>
+
+      <ul class="sub-navigation split">
+        <li class="graphs"><a href="/projects/xeuphoric/date_metrics">Graphs</a></li>
+        <li class="submit-comment"><a href="/projects/xeuphoric/comments/new">Submit a comment</a></li>
+      </ul>
+
+      <div class="project-filter">
+        <div class="pfleft"><form method="post" action="/account/project_filters?project_id=30437" class="button-to"><div><input class="filter-project-30437" title="Ignore this project across the site" type="submit" value="ignore" /></div></form></div>
+        <div class="pfright"><form method="post" action="/account/subscriptions?subscription%5Bproject_id%5D=30437" class="button-to"><div><input class="subscribe-project-30437 " title="Receive notifications when this project is updated" type="submit" value="follow" /></div></form></div>
+      </div>
+    </div>
+  </div>
+  <div class="sidebar">
+    <div class="sidebar-content">
+      <h3>Heartbeat</h3>
+      
+      <div class="sidebar-sparkline">
+        
+          <a href="/projects/xeuphoric/date_metrics"><img src="//chart.googleapis.com/chart?chco=6090C0,008800&amp;chd=s:2PXfAXmXPPHfPHPXfPXPuPfPXHHXXHPHHfHHPPPuXHHPHfAXfmPufPf9mfuHPPHH2HfumXPmPPPPmmffPuuXHumHP,AAPAPPHAPAAPAAPAHAAAAHAfAAAAAPAAAAAAPPAAAAAAAAAAHAAAAAAAAPPHAAAAAAAHHHAPHAAAHAfAXAPHAPAAA&amp;cht=ls&amp;chs=200x30&amp;chxr=0,7,2|1,0,0" width="200" height="30" alt="Google Chart" /></a>
+        
+      </div>
+      
+      <dl class="heartbeat">
+        <dt>Popularity Score</dt>
+        <dd>35.55</dd>
+        <dt>Vitality Score</dt>
+        <dd>6.56</dd>
+        <dt>Subscriptions</dt>
+        <dd>3</dd>
+      </dl>
+      <div class="voting">
+        <div class="voting-total">
+          <span class="votingScore">Voting Score: 1</span>
+          <span class="votingCount">(1 vote)</span>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+
+
+  <div class="banner-imu">
+    <!-- DoubleClick Ad Tag -->
+<script language="JavaScript" type="text/javascript">
+  FC.loadAd('main_p6_imu', document.location.protocol+'//ad.doubleclick.net/adj/ostg.freshmeat/main_p6_imu;pg=%2Fprojects%2Fxeuphoric;logged_in=0;sz=300x250,300x600;tile='+dfp_tile+';ord='+dfp_ord+'?');
+   dfp_tile++;
+</script>
+<!-- End DoubleClick Ad Tag -->
+
+  </div>
+  
+</div>
+
+        </div>
+      </div>
+    </div>
+
+    <div id="mashup">
+      <div class="mashup-container clearfix">
+        
+          
+          <div class="col-1">
+            <a href="/projects/sysfunc"><img alt="Screenshot" class="screenshotThumb" src="http://a.fsdn.com/fm/images/no-screenshot.png?1386111726" /></a>
+            <h2>Project Spotlight</h2>
+            <h3><a href="/projects/sysfunc">sysfunc</a></h3>
+            <p>A shell library intended for Unix sysadmins.</p>
+          </div>
+          
+          <div class="col-2">
+            <a href="/projects/ujorm"><img alt="Screenshot" class="screenshotThumb" src="http://a.fsdn.com/fm/screenshots/1e/2c/1e2c63ac9de97c16443df66c54b20d3a_thumb.png?1262673230" /></a>
+            <h2>Project Spotlight</h2>
+            <h3><a href="/projects/ujorm">Ujorm</a></h3>
+            <p>A high performance ORM for Java.</p>
+          </div>
+          
+        
+      </div>
+    </div>
+
+    <div id="footer">
+      <div class="footer-container">
+        <div class="twitter-icon floatright">
+          <a href="http://twitter.com/freecode_com"><img src="//twitter-badges.s3.amazonaws.com/follow_us-b.png" alt="Follow Freecode on Twitter"/></a>
+        </div>
+        <div class="footerLinks">
+          <a href="/about">About Freecode</a>
+          <a target="_blank" href="http://slashdotmedia.com/privacy-statement/">Privacy</a>
+          <a target="_blank" href="http://slashdotmedia.com/opt-out-choices">Cookies/Opt Out</a>
+          <a target="_blank" href="http://slashdotmedia.com/terms-of-use">Terms</a>
+          <a target="_blank" href="http://slashdotmedia.com/">Advertise</a>
+          <a href="http://help.freecode.com/" onclick="window.open(this.href);return false;">Contact Us</a>
+        </div>
+        <div class="copyright">
+          Copyright &copy; 2014 Dice.
+          All Rights Reserved.
+          Freecode is a <a target="_blank" href="http://www.diceholdingsinc.com/phoenix.zhtml?c=211152&amp;p=irol-landing">DiceHoldings, Inc.</a> service.
+        </div>
+      </div>
+    </div>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+
+    <script src="http://a.fsdn.com/fm/javascripts/base_packaged.js?1386111741" type="text/javascript"></script>
+
+    
+    
+    <!-- Begin comScore Tag -->
+    <script type="text/javascript">
+      document.write(unescape("%3Cscript src='" +
+      (document.location.protocol == "https:" ? "https://sb" : "http://b") +
+      ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+      COMSCORE.beacon({
+          c1:2,
+          c2:6035546,
+          c3:"",
+          c4:"",
+          c5:"",
+          c6:"",
+          c15:""
+      });
+    </script>
+
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035546&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="comScore2" />
+    </noscript>
+    <!-- End comScore Tag -->
+    <script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0794.js"%3E%3C%2Fscript%3E'))</script>
+  </body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

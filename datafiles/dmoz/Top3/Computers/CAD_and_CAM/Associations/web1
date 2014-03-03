@@ -1,0 +1,890 @@
+====================<http://www.adda.org/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+<head>
+  <base href="http://www.adda.org/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>American Design Drafting Association</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link rel="stylesheet" href="/modules/mod_plus_social_bookmark/css/plus.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_plusarticlescroller/assets/style.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_plusarticlesslideshow/assets/jstyle.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_toppanel/assets/style.css" type="text/css" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/validate.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/modules/mod_plusarticlescroller/assets/script_12.js" type="text/javascript"></script>
+  <script src="/modules/mod_plusarticlesslideshow/assets/jscript.js" type="text/javascript"></script>
+  <script src="/modules/mod_toppanel/assets/script.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(3600000); });
+  </script>
+
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<link rel="shortcut icon" href="http://www.adda.org/images/favicon.ico" />
+<link href="http://www.adda.org/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+<link href="http://www.adda.org/templates/system/css/general.css" rel="stylesheet" type="text/css" />
+<link href="http://www.adda.org/templates/pjo_landscape/css/template_css.css" rel="stylesheet" type="text/css" />
+<link href="http://www.adda.org/templates/pjo_landscape/css/typo.css" rel="stylesheet" type="text/css" />
+<link href="http://www.adda.org/templates/pjo_landscape/css/setts.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="http://www.adda.org/templates/pjo_landscape/css/colors/default.css" type="text/css" />
+<link href="http://www.adda.org/templates/pjo_landscape/css/ict_menu.css" rel="stylesheet" type="text/css" media="screen" />
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<link href="http://www.adda.org/templates/pjo_landscape/css/lytebox.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://www.adda.org/templates/pjo_landscape/scripts/lytebox.js"></script>
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<style type="text/css">
+/*----------------------------------------------------------------------------*/
+body 
+{ 
+color:#696969; 
+background-color:#151515; 
+background-image: url(http://www.adda.org/templates/pjo_landscape/images/patterns/bg2.png); 
+background-repeat: repeat;
+}
+/*----------------------------------------------------------------------------*/
+.downsite 
+{ 
+color:#696969; 
+}
+/*----------------------------------------------------------------------------*/
+.ict-bodyset2, #slider img 
+{ 
+height: 350px; padding-top: 10px;
+}
+/*----------------------------------------------------------------------------*/
+#ict-rootbgr 
+{ 
+color:#696969; 
+background-color:#151515; 
+background-image: url(http://www.adda.org/templates/pjo_landscape/images/patterns/bg2.png);
+}
+/*----------------------------------------------------------------------------*/
+#ict-coltop 
+{ 
+background-color:#151515; 
+background-image: url(http://www.adda.org/templates/pjo_landscape/images/patterns/bg2.png);
+}
+/*----------------------------------------------------------------------------*/
+#ict-root, #ict-rootdown, #ict-rootheader, #ict-toproot 
+{ 
+width: 940px ; 
+}
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+#middle, #centerbread 
+{
+margin-left:270px;
+}
+/*----------------------------------------------------------------------------*/
+.mcolor, .dark, .white, .noshadow, .tempjo, .mainbody, #ict-search div.search 
+{
+behavior: url(http://www.adda.org/templates/pjo_landscape/css/PIE.htc);
+}
+/*----------------------------------------------------------------------------*/
+</style>
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<script language="javascript" type="text/javascript" src="http://www.adda.org/templates/pjo_landscape/scripts/ict.script.js"></script>
+
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<script type="text/javascript" src="http://www.adda.org/templates/pjo_landscape/scripts/jquery-1.4.4.min.js"></script>
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<script type="text/javascript">
+jQuery.noConflict();
+jQuery(window).load(function() {
+setTimeout(function(){
+jQuery(document).ready(function(){
+jQuery(function () {
+var scrollDiv = document.createElement('div');
+jQuery(scrollDiv).attr('id', 'toTop').html('^ Back to top').appendTo('body');    
+jQuery(window).scroll(function () {
+if (jQuery(this).scrollTop() != 0) {
+jQuery('#toTop').fadeIn();
+} else {
+jQuery('#toTop').fadeOut();
+}
+});
+jQuery('#toTop').click(function () {
+jQuery('body,html').animate({scrollTop: 0},800);
+});
+});
+});
+});     
+}); 
+</script>
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<script type="text/javascript" src="http://www.adda.org/templates/pjo_landscape/scripts/jquery.js"></script>
+<script type="text/javascript" src="http://www.adda.org/templates/pjo_landscape/scripts/jquery_no_conflict.js"></script>
+<script type="text/javascript">
+var ict_fading_menu = "no";
+function ict_mmenu(){ jQuery(" #navlist ul ").css({display: "none"}); jQuery(" #ict_hor li").hover(function(){ jQuery(this).find('ul:first').css({visibility: "visible",display: "none"}).slideDown(600); },function(){jQuery(this).find('ul:first').css({visibility: "hidden"});	});} jQuery(document).ready(function(){ ict_mmenu();});
+</script>
+<script language="javascript" type="text/javascript" >var ict_txmenu_1 = '';var ict_txmenu_2 = '';var ict_txmenu_3 = '';var ict_txmenu_4 = '';var ict_txmenu_5 = '';var ict_txmenu_6 = '';var ict_txmenu_7 = '';var ict_txmenu_8 = '';var ict_txmenu_9 = '';var ict_txmenu_10 = '';</script> <!--[if lte IE 6]><script src="http://www.adda.org/templates/pjo_landscape/scripts/ie6/warning.js"></script><script>window.onload=function(){e("/templates/pjo_landscape/scripts/ie6/")}</script><![endif]-->
+<!--[if lte IE 6]>
+<link href="http://www.adda.org/templates/pjo_landscape/css/ie6.php" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/templates/pjo_landscape/javascript/menu-fix.js"></script>
+<script type="text/javascript">
+var siteurl = 'http://www.adda.org/'; window.addEvent ('load', makeTransBG); function makeTransBG() {
+makeTransBg($$('img'));
+}
+</script>
+<![endif]-->
+<!--[if gte IE 7.0]>
+<link href="http://www.adda.org/templates/pjo_landscape/css/ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="/plugins/editors/jckeditor/typography/typography.php"></head>
+<body id="bd"> 
+
+<div id="ict-headcol"><!-- ==================================================================== -->
+<div id="ict-toproot"><!-- ==================================================================== -->
+<div class="ict-bodyset1"><!-- ================================================================ -->	<!-- ....... BODYSET 1 ........ -->	
+
+<div id="ict-highcol"><!-- -------------------------------------------------------------------- -->
+<!-- //////////////// START PATHWAY BREADCRUMBS ///////// -->
+<!-- //////////////////////////////////////////////////// -->
+ 
+<div id="ict-highhead" class="contset"><!-- --------------------------------------------------- -->
+
+<!-- ////////////// START CPANEL //////////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<script type="text/javascript">
+window.addEvent('load', function(){
+new ICTToppanel('ict-tp-mainwrap25929442', {modulenid:'88', duration: 500, auto: 0, delay: 0, overlay: 0, $cookie_suffix:'icttoppanel_'});		
+})
+</script>
+<div class="ict-tp-mainwrap">
+<div class="ict-tp-container" id="ict-tp-mainwrap25929442">
+<div class="ict-tp-panels">
+<div class="ict-tp-wraper bg-transparent">
+<div class="ict-tp-content">
+<div id="ict-base">
+<ul class='ict-tp-row'><li title="Design Drafting News"><div class='ict-tp-article'><h3><span><a href='/index.php/2-uncategorised/3-test-article-three' title='Design Drafting News'>Design Drafting News</a></span></h3><p style="text-align: center;">
+	<span style="font-size:14px;"><strong><span style="font-family: verdana,geneva,sans-serif;"><span style="color: rgb(218, 165, 32);">Download the Latest Copy</span></span></strong></span><br />
+	<img alt="" height="119" src="/images/newsletters/DDNewsLogoWeb3x1-300dpi2.png" width="334" /> <span style="font-size:14px;"><strong><span style="font-family: verdana,geneva,sans-serif;"><span style="color: rgb(218, 165, 32);"> </span></span></strong></span></p>
+<p style="text-align: center;">
+	<a href="/files/2014-DDN_15jan14.pdf"><strong><span style="font-size:18px;">Current Issue&nbsp; January 2014</span></strong></a></p>
+<p style="text-align: center;">
+	&nbsp;</p>
+<p style="text-align: center;">
+	<span style="font-size:18px;"><span style="color: rgb(218, 165, 32);"><span style="font-family: verdana,geneva,sans-serif;"><strong>Design Drafting News Archives</strong></span></span></span></p>
+<p style="text-align: center;">
+	<span style="font-size: 16px;"><strong><a href="/files/DDNOctober2013.pdf" onclick="if(!confirm('Open this file with Google Docs?'))return true;window.location='http://docs.google.com/gview?url='+this.href;return false;" target="_blank"> October 2013 4th Quarter&nbsp; </a></strong><br />
+	<a href="/files/2013_June_-_DDNews.pdf" onclick="if(!confirm('Open this file with Google Docs?'))return true;window.location='http://docs.google.com/gview?url='+this.href;return false;">July 2013&nbsp;&nbsp; 3rd Quarter</a></span><br />
+	<span style="font-size:16px;"> <span style="font-family: tahoma,geneva,sans-serif;"><a href="/files/2013_April_-_DDNews.pdf" onclick="if(!confirm('Open this file with Google Docs?'))return true;window.location='http://docs.google.com/gview?url='+this.href;return false;">April 2013&nbsp;&nbsp;&nbsp; 2nd Quarter</a></span><br />
+	<a href="/files/2012_Dec_-_DDNews.pdf" onclick="if(!confirm('Open this file with Google Docs?'))return true;window.location='http://docs.google.com/gview?url='+this.href;return false;">January 2013&nbsp;&nbsp; 1st Quarter</a><br />
+	<a href="/files/2012_Sept_-_DDNews.pdf" onclick="if(!confirm('Open this file with Google Docs?'))return true;window.location='http://docs.google.com/gview?url='+this.href;return false;">October&nbsp; 2012</a>&nbsp;<br />
+	</span><span style="font-size: 16px;"><a href="/files/2012_July_-_DDNews.pdf" onclick="if(!confirm('Open this file with Google Docs?'))return true;window.location='http://docs.google.com/gview?url='+this.href;return false;">July 2012</a></span><br />
+	&nbsp;</p>
+</div></li></ul></div>
+</div>
+</div>
+<div class="ict-tp-kuti-wraper " id="ict-tp-kuti-wraper-88">
+<div class="ict-tp-kuti-subwap left">
+<div class="ict-tp-kuti-l"></div>
+<div class="ict-tp-kuti">ADDA ALERTS</div>
+<div class="ict-tp-kuti-r"></div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<!-- ////////////// START DATE ////////////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<div id="date-arrange">
+<span class="ict-date">Tuesday 25 Feb 2014</span>
+</div>
+
+<!-- /////////// START COLOR AND FONT TOOLS ///////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<div id="ict-highnavwrap">
+<div id="ict-wtools">
+			<ul class="ict-wtools-font">
+	      <li><img style="cursor: pointer;" title="Increase font size" src="/templates/pjo_landscape/images/tool-increase.gif" alt="Increase font size" id="ict-tool-increase" onclick="changeFontSize(1); return false;" /></li>
+		    <li><img style="cursor: pointer;" title="Default size" src="/templates/pjo_landscape/images/tool-reset.gif" alt="Default font size" id="ict-tool-reset" onclick="revertStyles(4); return false;" /></li>
+		    <li><img style="cursor: pointer;" title="Decrease font size" src="/templates/pjo_landscape/images/tool-decrease.gif" alt="Decrease font size" id="ict-tool-decrease" onclick="changeFontSize(-1); return false;" /></li>
+			</ul>
+			<script type="text/javascript">
+		var curtool = document.getElementById('ict-tool-');
+		var curcolor = document.getElementById('ict-tool-defaultcolor');
+		</script>
+					<ul class="ict-wtools-color">
+			      <li><img style="cursor: pointer;" src="/templates/pjo_landscape/images/default-hilite.gif" title="default style" alt="default style" id="ict-tool-defaultstyle" onclick="setActiveStyleSheet('default');return false;" /></li>
+			      <li><img style="cursor: pointer;" src="/templates/pjo_landscape/images/blue.gif" title="blue style" alt="blue style" id="ict-tool-bluestyle" onclick="setActiveStyleSheet('blue');return false;" /></li>
+			      <li><img style="cursor: pointer;" src="/templates/pjo_landscape/images/green.gif" title="green style" alt="green style" id="ict-tool-greenstyle" onclick="setActiveStyleSheet('green');return false;" /></li>
+			      <li><img style="cursor: pointer;" src="/templates/pjo_landscape/images/red.gif" title="red style" alt="red style" id="ict-tool-redstyle" onclick="setActiveStyleSheet('red');return false;" /></li>
+			      <li><img style="cursor: pointer;" src="/templates/pjo_landscape/images/orange.gif" title="orange style" alt="orange style" id="ict-tool-orangestyle" onclick="setActiveStyleSheet('orange');return false;" /></li>
+				</ul>
+				<script type="text/javascript">
+		var curtool = document.getElementById('ict-tool-');
+		var curcolor = document.getElementById('ict-tool-defaultcolor');
+		</script>
+		</div>
+</div>
+
+<!-- //////////////// SOCIAL BOOKMARK /////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+
+<!-- /////////////// START HEADER IN ///////////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<div id="header_in"></div>
+
+<!-- /////////////// START LOGO ///////////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<a href="/"><span id="logo"></span></a>
+
+</div><!-- ------------------------------------------------------------------------------------ -->
+</div><!-- ------------------------------------------------------------------------------------ -->
+
+<!-- //////////// START HORIZONTAL MENU ///////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<div id="ict_horset">
+<div id="ict_hor">	
+<ul>
+<li id="item-101" class="active"><span class="ict_pos_active"><span class="ict_item"><a  class="active" href="/" >Home<span class="ict_get_text"></span></a></span></span></li><li id="item-114"><span class="ict_pos_active"><span class="ict_item"><a  class="active" href="/index.php/about-adda" >About ADDA<span class="ict_get_text"></span></a></span></span></li><li id="item-115"><span class="ict_pos_active"><span class="ict_item"><a  class="active" href="/index.php/about-adda/contact" >Contact Us<span class="ict_get_text"></span></a></span></span></li><li id="item-196"><span class="ict_pos_active"><span class="ict_item"><a  class="active" href="/" >American Design Drafting Association<span class="ict_get_text"></span></a></span></span></li><li id="item-197"><span class="ict_pos_active"><span class="ict_item"><a  class="active" href="/" >American Digital Design Association<span class="ict_get_text"></span></a></span></span></li></ul>
+</div>
+</div>
+<script type="text/javascript" src="http://www.adda.org/templates/pjo_landscape/scripts/ict_textmenu.js"></script>											
+
+</div><!-- ======================================================================================= -->
+</div><!-- ======================================================================================= -->
+</div><!-- ======================================================================================= -->
+
+<!-- ///////////////// START SLIDESHOW ////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<div id="ict-rootbgr">
+<div id="ict-root">
+<div class="ict-bodyset"><!-- .................................................................................... BODYSET   ........ -->					
+<div style="clear:both;"></div>
+
+<!-- ///////////////////// START WRAP /////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<div class="wrap">
+<div class="controllermiddle">
+
+<div id="system-message-container">
+</div>
+
+<!-- ///////////////////// START MAIN BODY ////////////// -->
+<div style="width:100%;overflow:hidden;position:relative;">
+<div id="centerfullw">
+<div id="centerwrapper">
+<div id="centerbread">	
+
+<!-- ///////////////////// START SLIDESHOW /////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+
+<div class="noshadow">
+<!------------------------------------- THE CONTENT ------------------------------------------------->
+<div id="plusass93" class="plus-ass " style="height:auto; width:auto">
+<div class="plusass-container  plus-css3  ">
+    
+        <div class="preload"><div></div></div>
+         <!-- MAIN CONTENT --> 
+      <div class="plus-main-wapper" style="height:213px;width:650px;">
+                      <div class="plus-main-item ">
+                                   <img src="http://www.adda.org/images/plusthumbs/650x213/images/slideshow/joinadda-adssbanner.jpg" title="~ Slide1-JoinADDA" > 
+                 
+                                              </div> 
+                        <div class="plus-main-item">
+                                   <img src="http://www.adda.org/images/plusthumbs/650x213/images/slideshow/2014ConferenceAdSSBannerR1.jpg" title="~ Slide2-2014Conference" > 
+                 
+                                              </div> 
+                        <div class="plus-main-item">
+                                   <img src="http://www.adda.org/images/plusthumbs/650x213/images/slideshow/DDCon-AdSSBanner15aug13.jpg" title="~ Slide3 DDPoster Contest" > 
+                 
+                                              </div> 
+                        <div class="plus-main-item">
+                                   <img src="http://www.adda.org/images/plusthumbs/650x213/images/slideshow/2013BizSupplyTopSSBanner.jpg" title="~ Slide5-BizSupplies" > 
+                 
+                                              </div> 
+                        <div class="plus-main-item">
+                                   <img src="http://www.adda.org/images/plusthumbs/650x213/images/slideshow/2013-imdd-bannerdonate.jpg" title="~Slide6-Donate IMDD" > 
+                 
+                                              </div> 
+                        <div class="plus-main-item">
+                                    
+                 
+                                              </div> 
+                        <div class="plus-main-item">
+                                   <img src="http://www.adda.org/images/plusthumbs/650x213/images/slideshow/2013ddnewsssbanner.jpg" title="~Slide 3 Design Drafting News" > 
+                 
+                                              </div> 
+                        <div class="plus-main-item">
+                                    
+                 
+                                              </div> 
+                        <div class="plus-main-item">
+                                    
+                 
+                                              </div> 
+                        <div class="plus-main-item">
+                                    
+                 
+                                              </div> 
+                    
+      </div>
+      <!-- END MAIN CONTENT --> 
+        <!-- NAVIGATOR -->
+                      <div class="plus-buttons-control">
+                  <a href="/" onclick="return false;" class="plus-previous">Previous</a>
+                  <a href="/" class="plus-next"  onclick="return false;">Next</a>
+                </div>
+                           
+  </div>
+ </div> <script type="text/javascript">
+
+  var _plusmain =  $('plusass93'); 
+  var object = new PlusSlideshow( _plusmain,
+                  { 
+                    fxObject:{
+                    transition:Fx.Transitions.Quad.easeInOut,  
+                    duration:500                    },
+                    startItem:0,
+                    interval:5000,
+                    direction :'opacity', 
+                    navItemHeight:100,
+                    navItemWidth:310,
+                    navItemsDisplay:3,
+                    navPos:'0'
+                  } );
+      object.registerButtonsControl( 'click', {next:_plusmain.getElement('.plus-next'),
+                         previous:_plusmain.getElement('.plus-previous')} );
+      object.start( 1, _plusmain.getElement('.preload') );
+
+</script>
+
+
+</div>
+
+
+<!-- <div id="ict_slideshow_bottom"> -->
+<div style="clear:both;"></div>	
+
+<!-- ///////////////////// START SHOWNEWS /////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+
+<div class="noshadow">
+<h3 class="title">ADDA<span class="color"> Article Scroller</span></h3> 
+<div id="plusarticlessroller92" class="plus-articlessroller" style="height:170px; width:650px">
+<div class="plus-bottom plus-vertical plus-container ">
+    <!-- NAVIGATOR -->    
+      <div class="plus-navigator-outer">
+            <ul class="plus-navigator plus-bullets">
+                            <li><span>1</span></li>
+                             <li><span>2</span></li>
+                             <li><span>3</span></li>
+                             <li><span>4</span></li>
+                             <li><span>5</span></li>
+                             <li><span>6</span></li>
+              		
+            </ul>
+        </div>
+   
+
+ <!-- MAIN CONTENT of ARTICLESCROLLER MODULE --> 
+  <div class="plus-main-wapper" style="height:170px;width:650px">
+ 		  		<div class="plus-main-item page-1">
+        		        		 <div class="plus-row" style="width:49.9%">
+                   <div class="plus-inner">
+    
+           <a class="plus-title" target="_parent" title=">Continuing Education" href="/index.php/programs-services/programs">
+       >Continuing Education     </a>
+                
+	
+	ADDA supports and endorses continuing education and training at every level and stage of your...
+          <a target="_parent" class="plus-readmore" title=">Continuing Education" href="/index.php/programs-services/programs">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        		 <div class="plus-row" style="width:49.9%">
+                   <div class="plus-inner">
+    
+           <a class="plus-title" target="_parent" title=">Employment Center" href="/index.php/programs-services/employment-center">
+       >Employment Center     </a>
+                
+	
+	ADDA Employment Center is operated by JobTarget.&nbsp; Within this area you seek a job by...
+          <a target="_parent" class="plus-readmore" title=">Employment Center" href="/index.php/programs-services/employment-center">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        </div> 
+   		  		<div class="plus-main-item page-2">
+        		        		 <div class="plus-row" style="width:49.9%">
+                   <div class="plus-inner">
+    
+           <a class="plus-title" target="_parent" title=">Design Drafting Week" href="/index.php/programs-services/design-drafting-week">
+       >Design Drafting Week     </a>
+                
+	
+	Design Drafting Week takes place the same week as the ADDA National Conference.&nbsp;&nbsp; It...
+          <a target="_parent" class="plus-readmore" title=">Design Drafting Week" href="/index.php/programs-services/design-drafting-week">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        		 <div class="plus-row" style="width:49.9%">
+                   <div class="plus-inner">
+    
+           <a class="plus-title" target="_parent" title=">Chapters" href="/index.php/educators/chapters">
+       >Chapters     </a>
+                
+	
+	Chapters are ADDA&#39;s Student Organizations.
+	ADDA Chapters are typically students which...
+          <a target="_parent" class="plus-readmore" title=">Chapters" href="/index.php/educators/chapters">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        </div> 
+   		  		<div class="plus-main-item page-3">
+        		        		 <div class="plus-row" style="width:49.9%">
+                   <div class="plus-inner">
+    
+           <a class="plus-title" target="_parent" title=">Design Drafting Contest" href="/index.php/programs-services/design-drafting-contest">
+       >Design Drafting Contest     </a>
+                
+	
+	The ADDA Design Drafting Contest is an annual event which is open to any student member of...
+          <a target="_parent" class="plus-readmore" title=">Design Drafting Contest" href="/index.php/programs-services/design-drafting-contest">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        		 <div class="plus-row" style="width:49.9%">
+                   <div class="plus-inner">
+    
+           <a class="plus-title" target="_parent" title=">Poster Contest" href="/index.php/programs-services/poster-contest">
+       >Poster Contest     </a>
+                
+	
+	The ADDA Annual Poster Contest is specifically designed for students who wish to challenge...
+          <a target="_parent" class="plus-readmore" title=">Poster Contest" href="/index.php/programs-services/poster-contest">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        </div> 
+   		  		<div class="plus-main-item page-4">
+        		        		 <div class="plus-row" style="width:49.9%">
+                   <div class="plus-inner">
+    
+           <a class="plus-title" target="_parent" title="Curriculum Certification" href="/index.php/programs-services/curriculum-certification">
+       Curriculum Certification     </a>
+                
+	
+	Curriculum Certification is a specialized copyrighted program certification process developed...
+          <a target="_parent" class="plus-readmore" title="Curriculum Certification" href="/index.php/programs-services/curriculum-certification">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        		 <div class="plus-row" style="width:49.9%">
+                   <div class="plus-inner">
+    
+           <a class="plus-title" target="_parent" title=">Volunteer to Serve" href="/index.php/programs-services/volunteer-to-serve">
+       >Volunteer to Serve     </a>
+                
+	
+	Bring your Career within ADDA
+
+	ADDA offers many opportunities for individuals to become a...
+          <a target="_parent" class="plus-readmore" title=">Volunteer to Serve" href="/index.php/programs-services/volunteer-to-serve">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        </div> 
+   		  		<div class="plus-main-item page-5">
+        		        		 <div class="plus-row" style="width:49.9%">
+                   <div class="plus-inner">
+            <a target="_parent" class="plus-image-link " style=" height:150px; width:280px; display:block" title=">Student of the Year" href="/index.php/awards-and-recognitions/student-of-the-year">
+          <img src="http://www.adda.org/cache/plusthumbs/280x150-Densford1.png" title=">Student of the Year" />
+        </a> 
+    
+           <a class="plus-title" target="_parent" title=">Student of the Year" href="/index.php/awards-and-recognitions/student-of-the-year">
+       >Student of the Year     </a>
+                
+	
+	Student of the year is an annual Award given by ADDA to acknowledge student and chapter...
+          <a target="_parent" class="plus-readmore" title=">Student of the Year" href="/index.php/awards-and-recognitions/student-of-the-year">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        		 <div class="plus-row" style="width:49.9%">
+                   <div class="plus-inner">
+    
+           <a class="plus-title" target="_parent" title=">Instructor of the Year" href="/index.php/awards-and-recognitions/instructor-of-the-year">
+       >Instructor of the Year     </a>
+                
+	
+	Instructor of the Year is an Annual Award given to an instructor which has shown outstanding...
+          <a target="_parent" class="plus-readmore" title=">Instructor of the Year" href="/index.php/awards-and-recognitions/instructor-of-the-year">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        </div> 
+   		  		<div class="plus-main-item page-6">
+        		        		 <div class="plus-row" style="width:49.9%">
+                   <div class="plus-inner">
+    
+           <a class="plus-title" target="_parent" title=">Member of the Year" href="/index.php/awards-and-recognitions/member-of-the-year">
+       >Member of the Year     </a>
+                
+	
+	Member of the Year and Professional of the Year are the same award.&nbsp; The award is based...
+          <a target="_parent" class="plus-readmore" title=">Member of the Year" href="/index.php/awards-and-recognitions/member-of-the-year">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        		 <div class="plus-row" style="width:49.9%">
+                   <div class="plus-inner">
+    
+           <a class="plus-title" target="_parent" title=">Professional of the Year" href="/index.php/2-uncategorised/66-professionaloftheyear">
+       >Professional of the Year     </a>
+                
+	
+	Professional of the Year and Member of the Year are the same award.&nbsp; The award is based...
+          <a target="_parent" class="plus-readmore" title=">Professional of the Year" href="/index.php/2-uncategorised/66-professionaloftheyear">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        </div> 
+   		  </div>
+ </div> 
+  <!-- END MAIN CONTENT of ARTICLESCROLLER MODULE --> 
+ </div> 
+<script type="text/javascript">
+var _plusmain =  $('plusarticlessroller92'); 
+var object = new PlusSlideshow ( _plusmain,
+							  { 
+								  fxObject:{
+									transition:Fx.Transitions.Quad.easeInOut,  
+									duration:500								  },
+								  startItem:0,
+								  interval:5000,
+								  direction :'opacity', 
+								  navItemHeight:32,
+								  navItemWidth:32,
+								  navItemsDisplay:3,
+								  navPos:'bottom'
+							  } );
+	object.start( 1, null );	
+</script>
+
+
+</div>
+
+
+<div style="clear:both;"></div>
+
+<!-- ///////////////////// START FRONTPAGE ////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<div class="mainbody">
+
+<div id="system" class="">
+
+		<h1 class="title">American Design Drafting Association</h1>
+	
+			<div class="items leading">
+		
+<div class="item">
+
+		<div class="icon email"><a href="/index.php/component/mailto/?tmpl=component&amp;template=pjo_landscape&amp;link=ae09fd36ab9027809c0b6ac29cb952a288c8b6fd" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/media/system/images/emailButton.png" alt="Email"  /></a></div>
+	
+		<div class="icon print"><a href="/index.php/2-uncategorised/3-test-article-three?tmpl=component&amp;print=1&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a></div>
+	
+<div class="title">
+<h2>
+<a href="/index.php/2-uncategorised/3-test-article-three">
+<span>Design</span> Drafting News</a>
+</h2>
+</div>
+
+	
+	
+	<div class="content"><p style="text-align: center;">
+	<span style="font-size:14px;"><strong><span style="font-family: verdana,geneva,sans-serif;"><span style="color: rgb(218, 165, 32);">Download the Latest Copy</span></span></strong></span><br />
+	<img alt="" height="119" src="/images/newsletters/DDNewsLogoWeb3x1-300dpi2.png" width="334" /> <span style="font-size:14px;"><strong><span style="font-family: verdana,geneva,sans-serif;"><span style="color: rgb(218, 165, 32);"> </span></span></strong></span></p>
+<p style="text-align: center;">
+	<a href="/files/2014-DDN_15jan14.pdf"><strong><span style="font-size:18px;">Current Issue&nbsp; January 2014</span></strong></a></p>
+<p style="text-align: center;">
+	&nbsp;</p>
+<p style="text-align: center;">
+	<span style="font-size:18px;"><span style="color: rgb(218, 165, 32);"><span style="font-family: verdana,geneva,sans-serif;"><strong>Design Drafting News Archives</strong></span></span></span></p>
+<p style="text-align: center;">
+	<span style="font-size: 16px;"><strong><a href="/files/DDNOctober2013.pdf" onclick="if(!confirm('Open this file with Google Docs?'))return true;window.location='http://docs.google.com/gview?url='+this.href;return false;" target="_blank"> October 2013 4th Quarter&nbsp; </a></strong><br />
+	<a href="/files/2013_June_-_DDNews.pdf" onclick="if(!confirm('Open this file with Google Docs?'))return true;window.location='http://docs.google.com/gview?url='+this.href;return false;">July 2013&nbsp;&nbsp; 3rd Quarter</a></span><br />
+	<span style="font-size:16px;"> <span style="font-family: tahoma,geneva,sans-serif;"><a href="/files/2013_April_-_DDNews.pdf" onclick="if(!confirm('Open this file with Google Docs?'))return true;window.location='http://docs.google.com/gview?url='+this.href;return false;">April 2013&nbsp;&nbsp;&nbsp; 2nd Quarter</a></span><br />
+	<a href="/files/2012_Dec_-_DDNews.pdf" onclick="if(!confirm('Open this file with Google Docs?'))return true;window.location='http://docs.google.com/gview?url='+this.href;return false;">January 2013&nbsp;&nbsp; 1st Quarter</a><br />
+	<a href="/files/2012_Sept_-_DDNews.pdf" onclick="if(!confirm('Open this file with Google Docs?'))return true;window.location='http://docs.google.com/gview?url='+this.href;return false;">October&nbsp; 2012</a>&nbsp;<br />
+	</span><span style="font-size: 16px;"><a href="/files/2012_July_-_DDNews.pdf" onclick="if(!confirm('Open this file with Google Docs?'))return true;window.location='http://docs.google.com/gview?url='+this.href;return false;">July 2012</a></span><br />
+	&nbsp;</p>
+</div>
+
+	
+	
+		
+</div>	</div>
+	
+	
+	
+	
+</div>
+
+
+<div style="clear:both;"></div>
+</div>
+<div style="clear:both;"></div>
+
+<!-- /////////////////////// END FRONTPAGE/////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+
+<!-- ///////////////////// START TABS /////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+
+<!-- ///////////////////// START NEWSLETTER MODULE /////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+
+<div style="clear:both;"></div>	
+</div>
+</div>	
+
+<!-- /////////////////// START LEFT COLUMN/////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+	
+<div id="leftcolumn" style="width:253px;">
+<div class="fixcolumside" style="width:256px;">
+
+<div class="noshadow">
+<div class="plus_container" align="center"><a id="l1" target="_blank" rel="nofollow" href="http://www.facebook.com/pages/American-Design-Drafting-Assoc/158133370886199"><img title="Facebook" border="0" src="/modules/mod_plus_social_bookmark/icons/facebook_aqu_24.png" alt="Facebook" /></a><a id="l3" target="_blank" rel="nofollow" href="http://twitter.com/home?status=http://www.adda.org/&amp;title="><img title="Twitter" border="0" src="/modules/mod_plus_social_bookmark/icons/twitter_aqu_24.png" alt="Twitter" /></a><a id="l7" target="_blank" rel="nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http://www.adda.org/&amp;title="><img title="Google Bookmarks" border="0" src="/modules/mod_plus_social_bookmark/icons/google_aqu_24.png" alt="Google Bookmarks" /></a><a id="ll1" target="_blank" rel="nofollow" href="http://www.linkedin.com/company/american-design-drafting-association"><img title="LinkedIn" border="0" src="/modules/mod_plus_social_bookmark/icons/linkedin_aqu_24.png" alt="LinkedIn" /></a></div><div style="clear:both;"></div>
+</div>
+
+
+<div class="noshadow">
+<h3 class="title">Navigation<span class="color"> Menu</span></h3> 
+
+<ul class="menu">
+<li class="item-102 parent"><a href="/index.php/about-adda" >About ADDA</a></li><li class="item-108 parent"><a href="/index.php/membership" >Membership</a></li><li class="item-109 parent"><a href="/index.php/professional" >Professional</a></li><li class="item-110 parent"><a href="/index.php/educators" >Educators</a></li><li class="item-111 parent"><a href="/index.php/students" >Students</a></li><li class="item-116 parent"><a href="/index.php/programs-services" >Programs &amp; Services</a></li><li class="item-117"><a href="/index.php/lists-data" >Lists &amp; Data</a></li><li class="item-118"><a href="/index.php/mercantile" >Mercantile</a></li><li class="item-163"><a href="/index.php/documents" >Documents</a></li><li class="item-184"><a href="/index.php/publications-and-books" >Publications</a></li><li class="item-185 parent"><a href="/index.php/awards-and-recognitions" >Awards</a></li><li class="item-189"><a href="/index.php/links-and-information" >Links &amp; Information</a></li><li class="item-190"><a href="/index.php/2014-conference" >2014 Conference</a></li><li class="item-195"><a href="/index.php/recertification" >Re-Certification</a></li></ul>
+
+</div>
+
+
+<div class="noshadow">
+<h3 class="title">Login<span class="color"> Form</span></h3> 
+<form action="/index.php" method="post" id="login-form" >
+		<fieldset class="userdata">
+	<p id="form-login-username">
+		<label for="modlgn-username">User Name</label>
+		<input id="modlgn-username" type="text" name="username" class="inputbox"  size="18" />
+	</p>
+	<p id="form-login-password">
+		<label for="modlgn-passwd">Password</label>
+		<input id="modlgn-passwd" type="password" name="password" class="inputbox" size="18"  />
+	</p>
+		<p id="form-login-remember">
+		<label for="modlgn-remember">Remember Me</label>
+		<input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"/>
+	</p>
+		<input type="submit" name="Submit" class="button" value="Log in" />
+	<input type="hidden" name="option" value="com_users" />
+	<input type="hidden" name="task" value="user.login" />
+	<input type="hidden" name="return" value="aW5kZXgucGhwP0l0ZW1pZD0xMDE=" />
+	<input type="hidden" name="43a665929a8da437730fb871cf4b69e6" value="1" />	</fieldset>
+	<ul>
+		<li>
+			<a href="/index.php/component/users/?view=reset">
+			Forgot your password?</a>
+		</li>
+		<li>
+			<a href="/index.php/component/users/?view=remind">
+			Forgot your username?</a>
+		</li>
+				<li>
+			<a href="/index.php/component/users/?view=registration">
+				Create an account</a>
+		</li>
+			</ul>
+	</form>
+
+</div>
+
+
+
+<div style="clear:both;"></div>
+</div>
+</div>
+
+<!-- ///////////////////// START RIGHT COLUMN//////////// -->
+<!-- //////////////////////////////////////////////////// -->
+</div>
+<div id="fix-hi"></div>
+
+<!-- ////////////////////// START BOTTOM MODULES///////// -->
+<!-- //////////////////////////////////////////////////// -->
+
+<!--
+-->
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<!-- ///////////////////////////// END WRAP////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+<!-- //////////////////////////////////////////////////// -->
+
+<!-- ////////////// START FOOTER + FOOTER_MODULES /////// -->
+<!-- //////////////////////////////////////////////////// -->
+<div id="ict-rootdown">
+<div class="ict-bodyset3"><!-- ................................................................................... BODYSET 3 ........ -->	
+<!--
+-->
+<div id="ict-footer">
+
+Copyright &copy; 2014 ADDA International. 
+<!-- Designed by <a href="http://www.atict.com/" title="Visit atict.com!" target="blank">atict.com</a> -->
+<br />
+<!--   -->
+</div>
+
+</div>
+</div>
+<!-- ////////////// END FOOTER +FOOTER_MODULES ////////// -->
+<!-- //////////////////////////////////////////////////// -->
+
+
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cadsociety.org/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link type="text/css" rel="stylesheet" href="/styles/main.css" />
+<title>The CAD Society - A not-for-profit organization which has the goal of encouraging open communication among those in the CAD industry.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="Join The CAD Society, an association which has the goal of fostering a sense of community and encouraging open communication among those who make their living within the CAD industry" /><!-- meta tag -->
+<meta name="keywords" content="CAD Society, association, interoperability, community" /><!-- meta tag -->
+<meta name="copyright" content="Copyright 2008 The CAD Society. All rights reserved." />
+</head>
+<body> 
+<div id="container"> 
+	<!-- begin header... -->
+	<div id="header">
+		<a href="/"><img alt="The CAD Society" src="/images/HomePageBanner.png" /></a>
+		<div class="social">
+			Tel: +1 888.537.6434<br/>
+			<a href="https://twitter.com/thecadsociety" class="twitter-follow-button" data-show-count="false">Follow @thecadsociety</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div>
+  </div> 
+	<!-- end header... -->
+
+  <div id="menu"> 
+    <ul> 
+      <li id="current"><a href="/">Home</a></li>
+      <li><a href="about.html">About Us</a></li> 
+      <li><a href="organization.html">Our History</a></li> 
+      <li><a href="membership.html">Membership</a></li> 
+      <li><a href="news.html">News</a></li> 
+      <li><a href="heros.html">Engineering Heros</a></li> 
+    </ul> 
+  </div>
+
+	<!-- begin sidebar... -->
+  <div id="sidebar"><br /> 
+    <div id="Login"><!-- <!--<h3><a href="login.php">Member Login</a></h3>--></div>
+
+    <p>&nbsp;</p>
+
+		<div>
+			<div><img src="images/RickStavanja.165x220.png" alt="President, Rick Stavanja" height="220" width="165" border="1" /></div>
+			<div>Rick Stavanja</div>
+			<div>President</div>
+		</div>
+
+    <p>&nbsp;</p>
+
+		<div id="tw-tl">
+		<a class="twitter-timeline" href="https://twitter.com/thecadsociety" data-widget-id="251164534302183425">Tweets by @thecadsociety</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div>
+
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+
+  </div>
+	<!-- end sidebar... -->
+
+  <div id="content"> 
+    <p>&nbsp;</p> 
+    <h3>Welcome to The CAD Society</h3> 
+    <p>Over 20 years ago, The CAD Society was formed to bring together a community of CAD users of all types, levels and generations. Today&rsquo;s CAD Society is a way for users to have an industry voice that is related to all the CAD products, industry-wide and across the entire globe. The CAD Society is global:  It is created to be appropriate to users of every level: students, users of every level, vendors, developers and pundits. And we are currently &lsquo;freshening up&rsquo; the CAD Society web site to reflect its expanded mission to all members, everywhere. </p> 
+    <br /> 
+    <br /> 
+    <a href="join.php" class="story_title">Join the CAD Society Now!!</a>
+    <p>Being a member of the CAD Society has its benefits! As a student or Full member, you get to access valuable CAD software and engineering hardware discounts that more than offset the cost of membership.</p>
+    <p>Benefit from hundreds of dollars of discounts from CAD and hardware vendors, as a member of The CAD Society!<br />
+      <br /> 
+      &bull; Current Member-only offers include: up to 10% discount from HP workstations and plotters<br />
+      &bull; Up to 80% discount from a 3D model from Innovate3D<br />
+      &bull; Up to 50% discount from OpenCAD's Online training<br />
+      &bull; Up to 30% off VersaCAD from Archway Systems<br />
+      &bull; Up to 20% off Rhino3D via Archway Systems<br />
+    &bull; And much more.</p>
+    <p><a href="join.php" target="_self">Join The CAD Society Now!</a></p>
+    <p><br />
+					<a href="join.php" class="story_title">Become a Volunteer!!</a></p>
+				<p>Are you concerned about the decline in qualified engineers in your region? We are, and feel that promoting engineering is of the utmost importance at every level - local schools through to federal government. The CAD Society is working hard to develop volunteer programs that promote engineering and design in all its forms. And even if you have just one spare hour in a month, or a few spare hours per week, you can make a difference. </p>
+				<p><a href="volunteer.html">Find out more about volunteering</a></p>
+				<p><strong>But wait! There&rsquo;s more!</strong> As we build membership, so we will be opening the web site up to Forums, discussions, job listing and member communication tools, that will be relevant to everyone.</p>
+				<p><a href="#" class="story_title">News:</a> </p>
+    <p><a href="releases/masconet_engineering_2010.html">04/22/10 - <strong>20 Engaging Engineer Volunteers Needed for High School Engineering Fair, May 26th 2010</strong></a><strong></strong></p>
+    <p><a href="news.html">04/12/10 - <b>CAD Society Announces Roopinder Tara of Tenlinks as the winner of the 2010 CAD Society Community Award</b></a></p>
+    <p><a href="news.html">04/12/10 - <strong>CAD Society Announces Ping Fu of Geomagic as</strong> <strong>Winner of the 2010 CAD Society Leadership Award</strong></a><strong></strong></p>
+    <p><a href="news.html">04/12/10 -<strong>CAD Society Announces Michael Payne as the winner of  the 2010 CAD Society Lifetime Achievement Award</strong></a></p>
+	<p>&nbsp;</p>
+<p></p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p><br /> 
+      </p>
+  </div>
+  <div id="footer"> 
+    <p><a href="about.html">About Us</a> | <a href="organization.html">Our Organization</a> | <a href="membership.html">Membership</a> | <a href="news.html">News</a> | <a href="heros.html">Engineering Heros</a> | CAD Society &copy; 2012. All Rights Reserved. &bull; <a href="mailto:info@cadsociety.org">info@cadsociety.org</a></p> 
+  </div> 
+</div> 
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

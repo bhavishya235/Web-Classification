@@ -1,0 +1,273 @@
+====================<http://home.student.uu.se/jowi4905/svi/>====================
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<meta http-equiv="content-language" content="en"/>
+<meta name="DC.Creator.PersonalName" content="Regina Ledung"/>
+<meta name="DC.Description" content="The possibility for students to host private websites on home.student.uu.se was discontinued on 2013-08-30. If you have files you need access to contact helpdesk@uu.se no later than 2013-10-01."/>
+<meta name="DC.Identifier" content="http://home.student.uu.se/?languageId=1jowi4905/svi/"/>
+<meta name="DC.Publisher" content="Uppsala University, Sweden"/>
+<meta name="keywords" content="homestudent"/>
+<meta name="robots" content="index, follow"/>
+<meta name="verify-v1" content="C0Lsm7Gfb0ZBOR7asOdLqJT3nmC1KjgMGl9Nn7YINpA="/>
+<link href="//infoglue.uu.se/common/CSS/aggregated-css-general" rel="stylesheet" type="text/css"/>
+<link href="//infoglue.uu.se/common/CSS/aggregated-css-menus" rel="stylesheet" type="text/css"/>
+<link href="//infoglue.uu.se/common/CSS/aggregated-css-page-layout" rel="stylesheet" type="text/css"/>
+<link href="//infoglue.uu.se/common/CSS/aggregated-css-components" rel="stylesheet" type="text/css"/>
+<link href="//infoglue.uu.se/common/CSS/aggregated-css-print" rel="stylesheet" type="text/css"/>
+<link rel="apple-touch-icon-precomposed" href="/digitalAssets/155/155976_appletouch57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/digitalAssets/155/155978_appletouch72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/digitalAssets/155/155980_appletouch114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/digitalAssets/155/155982_appletouch144.png" />
+<link rel="shortcut icon" href=""/>
+<title>
+Service discontinued - Uppsala University, Sweden
+</title>
+<script language="javascript" type="text/javascript" src="/script/uu/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="/jsp/errorjs.jsp"></script>
+<script type="text/javascript">
+function truncateCustomVarAndSet(index, name, value, scope) {
+"use strict";
+while (value.length && encodeURIComponent(name + value).length > 64) {
+value = value.substring(0, value.length-1);
+} 
+_gaq.push(['_setCustomVar', index, name, value, scope]);
+} 
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-10963324-1']);
+_gaq.push(['_setDomainName', 'none']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_setAllowAnchor', true]);
+truncateCustomVarAndSet(3, 'lang', 'en', 3);		
+_gaq.push(['_trackPageview']);
+_gaq.push(function() {
+if (window.history &&
+window.history.replaceState &&
+location.href.indexOf("__utma") > 0) {
+var hash = location.hash;
+if (hash.indexOf("#") === 0) {
+hash = hash.substring(1);
+}
+var hashParameters = hash.split("&");
+var newHashParameters = [];
+var newHash = "";
+for (var index = 0; index < hashParameters.length; index++) { 
+var param = hashParameters[index];
+if (!param.startsWith('__utm')) {
+newHashParameters.push(param);
+}
+}
+if(newHashParameters.length > 0) {
+newHash = "#" + newHashParameters.join("&");
+}
+window.history.replaceState({}, "", document.location.href.split("#")[0] + newHash);
+}
+});
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+</script>
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div class="headerComponent componentContainer">
+<div class="toppImg">
+<div class="logo">
+<a href="http://www.uu.se/en"  accesskey="1" tabindex="2"><img id="uuLogga" height="125" width="125" src="/digitalAssets/22/22975_UU_logga_transp.png" alt="Uppsala University" title="Uppsala University"/></a>
+<span class="alt-logo">Uppsala University</span> </div>
+</div>
+<div class="toppNav"> 
+<ul class="icons">
+<li class="searchField">
+
+</li>
+<li class="login">
+| <a href="#">Login</a>
+<ul class="dropdown">
+<li class="sp-link" >
+<a title="Student" href="https://studentportalen.uu.se/portal/portal/uusp?uusp.doLogin=true&uusp-locale=en>">Student</a>
+</li>
+<li class="mp-link">
+<a title="Employee" href="http://www.mp.uu.se">Employee</a>
+</li>
+<li class="alumni-link">
+<a title="Alumni" href="https://www.alumnnatverk.uu.se/portal/public/Default.aspx?lan=0">Alumni</a>
+</li>
+</ul>
+</li>
+<li class="languageName"> | <a href="/?languageId=3" title="svenska">svenska</a></li>
+<li class="rs_skip listen">
+<a accesskey="L" name="Readspeaker18293"
+href="http://app.readspeaker.com/cgi-bin/rsent?customerid=4462&amp;lang=en_uk&amp;readid=readSpeakerContent&amp;url=http%3A%2F%2Fhome.student.uu.se%2F%3FlanguageId%3D1" 
+target="_blank" 
+onclick="readpage(this.href, 'xp1'); return false;">Listen</a>
+</li>
+</ul>
+<span class="siteName">home.student.uu.se</span>
+</div>
+</div>
+	</div>
+	<div id="containerflarp">
+		<div id="flik"></div>
+
+		<div id="topMenu">
+			 
+			<ul id="menucontainer"></ul>
+			
+		</div>
+		<div id="container">
+			<div id="breadcrumbsRow">
+				
+				
+				
+			</div>
+			<div id="leftCol">
+				
+				
+				
+				
+				
+				
+			</div>
+		
+			<div id="centerColWide">
+				<div id='xp1'></div> 
+				<div id="readSpeakerContent">
+					<!-- RSPEAK_STOP -->
+					
+					<div class="articleContainer componentContainer  clearfix" id="article_component_2_6">
+<div class="header" id="articleHeader_component_2_6">
+<!-- RSPEAK_START -->
+<h1>Service discontinued</h1>
+<!-- RSPEAK_STOP -->
+</div>
+<div class="articleContent">
+<div class="articleExtraInfo">				
+</div>	
+<div class="articleText" id="articleText_component_2_6">
+<!-- RSPEAK_START -->				
+<p>The possibility for students to host private websites on home.student.uu.se was discontinued on 2013-08-30. If you have files you need access to contact <a title="Linkification: mailto:helpdesk@uu.se" href="mailto:helpdesk@uu.se" class="linkification-ext">helpdesk@uu.se</a> no later than 2013-10-01.</p>
+<!-- RSPEAK_STOP -->
+</div>
+<div class="articleExtrasBar">
+</div> 
+</div>
+</div>
+<div class="clear"></div>
+					
+					<div id="centerBottomArea">
+						<div id="cBALeftColWide">
+							
+							
+							
+						</div>
+						<div id="cBARightColWide">
+							
+							
+							
+						</div>
+						<div id="cBARightRightColWide">
+							
+							
+							
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="clear: both;"></div>
+		</div>
+	</div>
+	 
+	<div id="footer">
+		
+	</div>
+ </div>
+<script type="text/javascript">
+try {
+jQuery(function() {
+"use strict";
+function getFirstGroup(regex, string) {
+var matches = string.match(regex);
+return matches ? matches[1] : undefined;
+}
+function getHostname(httpUrl) {
+var re = new RegExp('^http(?:s)?://((?:(?:[a-zA-Z]|[a-zA-Z][a-zA-Z0-9\\-]*[a-zA-Z0\\-9])\\.)*(?:[A-Za-z]|[A-Za-z][A-Za-z0-9\\-]*[A-Za-z0-9]))(?:/|$)', 'i');
+return getFirstGroup(re, httpUrl);
+}
+function trackVirtual(gaq, href, prefix) {
+var urlWithoutProtocol = getFirstGroup(/^(?:(?:http(?:s)?)|ftp):\/(\/.+)$/i, href) || href;
+gaq.push(['_trackPageview', '/virtual' + (prefix || '') + urlWithoutProtocol]);
+}
+jQuery('a:not([name=Readspeaker18293])').click(function(e) {
+var protocol, hostName, tracker, recipient, delay,
+isFileLink = false,
+fileTypes = /\.(pdf|doc|docx|ppt|pptx|pps|ppsx|xls|xlsx|exe|vcf|eps|jpg|png|zip|txt)$/i,
+jThis = jQuery(this),
+href = jQuery.trim(jThis.attr("href")),
+target = jThis.attr("target");
+if (href) {
+isFileLink = fileTypes.test(href);
+protocol = getFirstGroup(/^(http|https|mailto|ftp):.+$/, href);
+switch(protocol) {	
+case "ftp":
+isFileLink = true;
+break;
+case "http":
+case "https":
+hostName = getHostname(href);
+if (hostName && hostName.indexOf("uu.se") !== -1) {
+if (_gat &&
+getHostname(location.href) !== hostName
+&& !(new RegExp('m\.teknat\.uu\.se|rektorsbloggen\.uu\.se|mp\.uu\.se|studentportalen\.uu').test(hostName))) {
+tracker = _gat._getTrackerByName();
+jQuery(this).attr("href", tracker._getLinkerUrl(href, true));
+}	    
+} else if (_gaq) { 
+trackVirtual(_gaq, href, '/external');
+if (!target) {
+delay = 100;
+e.preventDefault();
+}
+}
+break;
+case "mailto":
+recipient = getFirstGroup(/^[^:]+:(.+)$/, href);
+if (_gaq && recipient) {
+_gaq.push(['_trackPageview', '/virtual/email/' + recipient]);
+}
+break;
+}
+if (isFileLink) {
+trackVirtual(_gaq, href, '/documents');
+if (!target) {
+delay = 100;
+e.preventDefault();
+}
+}
+if (delay) {
+setTimeout('document.location = "' + href + '"', delay);
+}				
+}
+});
+});
+} catch (e) {
+if (typeof UU !== 'undefined' && UU.logError) {
+UU.logError(e);
+}
+}
+</script>
+<script type="text/javascript" src="http://infoglue.uu.se/common/js/docreader"></script>
+<script type="text/javascript" src="/script/uu/readspeaker_embhl_en.js"></script>
+</body>
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++

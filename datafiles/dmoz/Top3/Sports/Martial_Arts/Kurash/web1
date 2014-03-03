@@ -1,0 +1,481 @@
+====================<http://www.kurash-ika.org/>====================
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>IKA | Международная Ассоциация Кураш</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+        <link rel="pingback" href="http://kurash-ika.org/xmlrpc.php">
+        <link rel="stylesheet" href="http://kurash-ika.org/wp-content/themes/IKAtheme/css/normalize.min.css">
+		<link rel="stylesheet" href="http://kurash-ika.org/wp-content/themes/IKAtheme/css/movingboxes.css">        
+		<link rel="stylesheet" type="text/css" href="http://kurash-ika.org/wp-content/themes/IKAtheme/css/jquery.jscrollpane.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="http://kurash-ika.org/wp-content/themes/IKAtheme/css/sliderkit-core.css" media="all" />
+		<link rel="stylesheet" href="http://kurash-ika.org/wp-content/themes/IKAtheme/style.css" type="text/css" media="screen">
+		<link rel="shortcut icon" href="http://kurash-ika.org/wp-content/themes/IKAtheme/img/favicon.png" type="image/x-icon"/>
+		<link rel="alternate" type="application/rss+xml" title="IKA &raquo; Лента" href="http://kurash-ika.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="IKA &raquo; Лента комментариев" href="http://kurash-ika.org/comments/feed/" />
+	<style type="text/css">
+	.wp-pagenavi{float:left !important; }
+	</style>
+  <link rel='stylesheet' id='contact-form-7-css'  href='http://kurash-ika.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='videogallery_css-css'  href='http://kurash-ika.org/wp-content/plugins/contus-video-gallery/css/style.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://kurash-ika.org/wp-content/themes/IKAtheme/fonts/genericons.css?ver=2.09' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-style-css'  href='http://kurash-ika.org/wp-content/themes/IKAtheme/style.css?ver=2013-07-18' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentythirteen-ie-css'  href='http://kurash-ika.org/wp-content/themes/IKAtheme/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='column-styles-css'  href='http://kurash-ika.org/wp-content/plugins/ultimate-tinymce/css/column-style.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-style-css'  href='http://kurash-ika.org/wp-content/plugins/wp-pagenavi-style/css/orange.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-ui-css'  href='http://kurash-ika.org/wp-content/plugins/wp-ui/css/wp-ui.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpui-light-css'  href='http://kurash-ika.org/wp-content/plugins/wp-ui/css/themes/wpui-light.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-ui-all-css'  href='http://kurash-ika.org/wp-content/plugins/wp-ui/css/themes/wpui-all.css?ver=3.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://kurash-ika.org/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var photocrati_ajax = {"url":"http:\/\/kurash-ika.org\/photocrati_ajax","wp_site_url":"http:\/\/kurash-ika.org","wp_site_static_url":"http:\/\/kurash-ika.org"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.js?ver=3.6'></script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-includes/js/jquery/ui/jquery.ui.button.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-includes/js/jquery/ui/jquery.ui.sortable.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://kurash-ika.org/?wpui-script=before&#038;ver=3.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpUIOpts = {"wpUrl":"http:\/\/kurash-ika.org","pluginUrl":"http:\/\/kurash-ika.org\/wp-content\/plugins\/wp-ui\/","enableTabs":"on","enableAccordion":"on","enableSpoilers":"on","enableDialogs":"on","tabsEffect":"none","effectSpeed":"","accordEffect":"none","alwaysRotate":"disable","tabsEvent":"click","collapsibleTabs":"off","accordEvent":"click","singleLineTabs":"off","accordAutoHeight":"off","accordCollapsible":"off","accordEasing":"false","mouseWheelTabs":"false","bottomNav":"on","tabPrevText":"","tabNextText":"","spoilerShowText":"","spoilerHideText":"","cookies":"off","hashChange":"off","docWriteFix":"off","linking_history":"off","misc_options":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-content/plugins/wp-ui/js/wp-ui.js?ver=0.8.8'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://kurash-ika.org/xmlrpc.php?rsd" />
+<!-- <meta name="NextGEN" version="2.0.17" /> -->
+	<style type="text/css">
+	 .wp-pagenavi
+	{
+		font-size:12px !important;
+	}
+	</style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	<style type="text/css" id="twentythirteen-header-css">
+			.site-header {
+			background: url(http://kurash-ika.org/wp-content/themes/IKAtheme/images/headers/circle.png) no-repeat scroll top;
+			background-size: 1600px auto;
+		}
+		</style>
+	    	<style type="text/css">
+	.wp-pagenavi{float:left !important; }
+	</style>
+  </head>
+    <body>
+	<div class="main_wrap">
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+		<div class="top">
+			<div class="logo wrapper">
+				<object type="application/x-shockwave-flash" data="http://kurash-ika.org/wp-content/themes/IKAtheme/img/IKA logo10.swf" width="328" height="90">
+					<param name="movie" value="http://kurash-ika.org/wp-content/themes/IKAtheme/img/IKA logo10.swf">
+				</object>
+			<!--
+				<a href="http://kurash-ika.org/" title="IKA" rel="home"><img src="http://kurash-ika.org/wp-content/themes/IKAtheme/img/logo.png" alt=""/></a>
+			--->
+			</div>
+			
+		</div>
+        <div class="header-container">		
+            <header class="wrapper clearfix">
+                <a href="http://kurash-ika.org/" class="home"><img src="http://kurash-ika.org/wp-content/themes/IKAtheme/img/home.png" alt=""/></a>
+				        <nav class="site_navigation">
+                    <div class="menu-verhnee-menyu-container"><ul id="menu-verhnee-menyu" class="menu"><li id="menu-item-35" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35"><a href="http://kurash-ika.org/category/news/">Новости</a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92"><a href="#">Мир Кураша</a>
+<ul class="sub-menu">
+	<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://kurash-ika.org/kurash_world/">Приветствие Почетного Президента IKA</a></li>
+	<li id="menu-item-945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-945"><a href="http://kurash-ika.org/privetstvie-prezidenta-ika/">Приветствие Президента IKA</a></li>
+	<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="http://kurash-ika.org/istoriya-kurasha/">История Кураша</a></li>
+	<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="http://kurash-ika.org/biblioteka/">Библиотека</a></li>
+	<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="http://kurash-ika.org/razvitie-kurasha-v-mire/">Развитие Кураша в мире</a></li>
+</ul>
+</li>
+<li id="menu-item-96" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96"><a href="#">Об ассоциации</a>
+<ul class="sub-menu">
+	<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="http://kurash-ika.org/ob-assotsiatsii/">Устав</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36"><a href="http://kurash-ika.org/category/members/">Члены ассоциации</a></li>
+	<li id="menu-item-704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-704"><a href="http://kurash-ika.org/pochetny-e-prezidenty/">Почетные Президенты</a></li>
+	<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="http://kurash-ika.org/ispolkom/">Исполком</a></li>
+	<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="http://kurash-ika.org/prezident-ika/">Президент IKA</a></li>
+	<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354"><a href="http://kurash-ika.org/zolotoj-orden/">Золотой Орден</a></li>
+	<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="http://kurash-ika.org/frankofony/">Франкофоны</a></li>
+	<li id="menu-item-352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-352"><a href="http://kurash-ika.org/zolotaya-medal-pocheta/">Золотая Медаль Почета</a></li>
+	<li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a href="http://kurash-ika.org/anti-dopping/">Анти-доппинг</a></li>
+</ul>
+</li>
+<li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"><a href="#">Соревнования</a>
+<ul class="sub-menu">
+	<li id="menu-item-184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-184"><a href="http://kurash-ika.org/chempiony-mira/">Чемпионы мира</a></li>
+	<li id="menu-item-183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-183"><a href="http://kurash-ika.org/kalendar/">Календарь</a></li>
+	<li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="http://kurash-ika.org/pravila/">Правила</a></li>
+</ul>
+</li>
+<li id="menu-item-469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-469"><a href="#">Галерея</a>
+<ul class="sub-menu">
+	<li id="menu-item-1514" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1514"><a href="http://kurash-ika.org/category/gallery/2010/">Фото галерея</a></li>
+	<li id="menu-item-471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-471"><a href="http://kurash-ika.org/video-home/">Видео галерея</a></li>
+</ul>
+</li>
+<li id="menu-item-99" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99"><a href="#">Партнеры IKA</a>
+<ul class="sub-menu">
+	<li id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="http://kurash-ika.org/linki/">Линки</a></li>
+	<li id="menu-item-1389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1389"><a href="http://kurash-ika.org/sponsory/">Спонсоры</a></li>
+</ul>
+</li>
+<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://kurash-ika.org/kontakty/">Контакты</a></li>
+</ul></div>                    <aside id="search-4" class="widget widget_search"><div class="widget_btn"></div><form role="search" method="get" class="search-form" action="http://kurash-ika.org/">
+				<label>
+					<span class="screen-reader-text">Найти:</span>
+					<input type="search" class="search-field" placeholder="Поиск&hellip;" value="" name="s" title="Найти:" />
+				</label>
+				<input type="submit" class="search-submit" value="Поиск" />
+			</form></aside><aside id="lang_widget-2" class="widget widget_lang_widget"><div class="widget_btn"></div><h3 class="widget-title">RU</h3><ul><li><a href="http://kurash-ika.org/">Russian</a></li><li><a href="http://kurash-ika.org/en/">English</a></li></ul></aside>                </nav>
+            </header>
+        </div>
+
+        <div class="main-container">
+            <div class="main wrapper clearfix">	<div class="ika_p">
+		Почетные Президенты в структурах IKA		
+	</div>
+	<section class="box presidents">	
+		<ul>
+									<li class="p1">
+				<img width="155" height="134" src="http://kurash-ika.org/wp-content/uploads/2013/08/africa-new.png" class="attachment-post-thumbnail wp-post-image" alt="africa-new" />				<div>
+					<strong>Лассана Паленфо</strong>
+					<p>Почетный президент Африканского Союза Кураш / Президент АНОКА / Член МОК / Кот-д&#8217;Ивуар</p>
+				</div>
+			</li>
+						<li class="p2">
+				<img width="155" height="134" src="http://kurash-ika.org/wp-content/uploads/2013/08/hicky-new.png" class="attachment-post-thumbnail wp-post-image" alt="hicky-new" />				<div>
+					<strong>Патрик Хики</strong>
+					<p>Почетный президент Европейской Конфедерации Кураш / Президент ЕОК / Член Исполкома МОК / Ирландия</p>
+				</div>
+			</li>
+						<li class="p3">
+				<img width="137" height="206" src="http://kurash-ika.org/wp-content/uploads/2013/08/karimov_order.jpg" class="attachment-post-thumbnail wp-post-image" alt="karimov_order" />				<div>
+					<strong>Ислам Каримов</strong>
+					<p>Почетный президент Международной Ассоциации Кураш / Президент Республики Узбекистан</p>
+				</div>
+			</li>
+						<li class="p4">
+				<img width="155" height="134" src="http://kurash-ika.org/wp-content/uploads/2013/08/kuveit-new.png" class="attachment-post-thumbnail wp-post-image" alt="kuveit-new" />				<div>
+					<strong>Шейх Ахмад  Ал-Фахад Ал-Сабах</strong>
+					<p>Почетный президент Конфедерации Кураш Азии / Президент АНОК / Президент ОСА / Член МОК / Кувейт</p>
+				</div>
+			</li>
+						<li class="p5">
+				<img width="155" height="134" src="http://kurash-ika.org/wp-content/uploads/2013/08/mexico-new.png" class="attachment-post-thumbnail wp-post-image" alt="mexico-new" />				<div>
+					<strong>Марио Вазкез Ранья</strong>
+					<p>Почетный президент Панамериканского Союза Кураш / Президент ПАСО / Член МОК / Мексика</p>
+				</div>
+			</li>
+				
+		</ul>
+	</section>
+	<section class="box">
+		<div class="sliderSection">
+			<div class="sliderkit newslider-vertical">
+				
+				<div class="sliderkit-panels">
+				<div class="sliderkit-go-btn sliderkit-go-prev"></div>
+				<div class="sliderkit-go-btn sliderkit-go-next"></div>
+				<a href="/category/news" class="allnews">Все новости</a>
+																		<div class="sliderkit-panel">
+						<div class="sliderkit-news">
+							<img width="630" height="338" src="http://kurash-ika.org/wp-content/uploads/23dfw42.jpg" class="attachment-630x400 wp-post-image" alt="32OCAGASA065_32nd_OCA_Gener" />						</div>
+					</div>
+																			<div class="sliderkit-panel">
+						<div class="sliderkit-news">
+							<img width="630" height="338" src="http://kurash-ika.org/wp-content/uploads/977ghft6f.jpg" class="attachment-630x400 wp-post-image" alt="977ghft6f" />						</div>
+					</div>
+																			<div class="sliderkit-panel">
+						<div class="sliderkit-news">
+							<img width="630" height="339" src="http://kurash-ika.org/wp-content/uploads/35gw5543s.jpg" class="attachment-630x400 wp-post-image" alt="35gw5543s" />						</div>
+					</div>
+																			<div class="sliderkit-panel">
+						<div class="sliderkit-news">
+							<img width="630" height="338" src="http://kurash-ika.org/wp-content/uploads/45wet463.jpg" class="attachment-630x400 wp-post-image" alt="45wet463" />						</div>
+					</div>
+																			<div class="sliderkit-panel">
+						<div class="sliderkit-news">
+							<img width="630" height="338" src="http://kurash-ika.org/wp-content/uploads/IMG_3490.jpg" class="attachment-630x400 wp-post-image" alt="IMG_3490" />						</div>
+					</div>
+																			<div class="sliderkit-panel">
+						<div class="sliderkit-news">
+							<img width="630" height="338" src="http://kurash-ika.org/wp-content/uploads/ncist2013.jpg" class="attachment-630x400 wp-post-image" alt="ncist2013" />						</div>
+					</div>
+																			<div class="sliderkit-panel">
+						<div class="sliderkit-news">
+							<img width="630" height="338" src="http://kurash-ika.org/wp-content/uploads/dcist2013.jpg" class="attachment-630x400 wp-post-image" alt="dcist2013" />						</div>
+					</div>
+																			<div class="sliderkit-panel">
+						<div class="sliderkit-news">
+							<img width="630" height="340" src="http://kurash-ika.org/wp-content/uploads/634gw346w4t.jpg" class="attachment-630x400 wp-post-image" alt="634gw346w4t" />						</div>
+					</div>
+																			<div class="sliderkit-panel">
+						<div class="sliderkit-news">
+							<img width="630" height="338" src="http://kurash-ika.org/wp-content/uploads/20131113_121534_1.jpg" class="attachment-630x400 wp-post-image" alt="20131113_121534_1" />						</div>
+					</div>
+																			<div class="sliderkit-panel">
+						<div class="sliderkit-news">
+							<img width="630" height="338" src="http://kurash-ika.org/wp-content/uploads/76865hgf5.jpg" class="attachment-630x400 wp-post-image" alt="76865hgf5" />						</div>
+					</div>
+												
+				</div>
+				<div class="sliderkit-nav">
+					<div class="sliderkit-nav-clip">
+						<ul>
+
+															
+							<li id="post-1"><a href="http://kurash-ika.org/general-naya-assambleya-olimpijskogo-soveta-azii-v-manile/" title="Генеральная Ассамблея Олимпийского Совета Азии в Маниле">Генеральная Ассамблея Олимпийского Совета Азии в Маниле</a></li>
+						
+															
+							<li id="post-2"><a href="http://kurash-ika.org/ofitsial-noe-soobshhenie-ispolkoma-mezhdunarodnoj-assotsiatsii-kurash/" title="Официальное сообщение Исполкома Международной Ассоциации Кураш">Официальное сообщение Исполкома Международной Ассоциации Кураш</a></li>
+						
+															
+							<li id="post-3"><a href="http://kurash-ika.org/itogi-vtorogo-dnya-chempionata-mira/" title="Итоги второго дня Чемпионата мира">Итоги второго дня Чемпионата мира</a></li>
+						
+															
+							<li id="post-4"><a href="http://kurash-ika.org/itogi-pervogo-dnya-chempionata-mira/" title="Итоги первого дня Чемпионата мира">Итоги первого дня Чемпионата мира</a></li>
+						
+															
+							<li id="post-5"><a href="http://kurash-ika.org/xiv-kongress-mezhdunarodnoj-assotsiatsii-kurash/" title="XIV Конгресс Международной Ассоциации Кураш">XIV Конгресс Международной Ассоциации Кураш</a></li>
+						
+															
+							<li id="post-6"><a href="http://kurash-ika.org/press-konferentsiya-ix-chempionata-mira/" title="Пресс-конференция IX Чемпионата мира">Пресс-конференция IX Чемпионата мира</a></li>
+						
+															
+							<li id="post-7"><a href="http://kurash-ika.org/zasedanie-ispolkoma-ika-v-stambule/" title="Заседание Исполкома IKA в Стамбуле">Заседание Исполкома IKA в Стамбуле</a></li>
+						
+															
+							<li id="post-8"><a href="http://kurash-ika.org/v-turtsii-nachinaetsya-chempionat-mira-2/" title="В Турции начинается Чемпионат мира">В Турции начинается Чемпионат мира</a></li>
+						
+															
+							<li id="post-9"><a href="http://kurash-ika.org/aziatskie-plyazhny-e-igry-2014-v-tailande/" title="Азиатские пляжные игры 2014 в Таиланде">Азиатские пляжные игры 2014 в Таиланде</a></li>
+						
+															
+							<li id="post-10"><a href="http://kurash-ika.org/delegatsiya-ika-na-forume-peace-and-sport-2013/" title="Делегация IKA на форуме Peace and Sport 2013">Делегация IKA на форуме Peace and Sport 2013</a></li>
+						
+												
+						</ul>
+					</div>
+                    <div class="arrow">
+                        <div>
+    						<ul>
+    						    						    						    						    						    						    						    						    						    						    						    							<li id="arr-1"><a href="http://kurash-ika.org/rezul-taty-turnira-v-novoj-zelandii/" title="Результаты турнира в Новой Зеландии">Результаты турнира в Новой Зеландии</a></li>
+    						    						    						    							<li id="arr-2"><a href="http://kurash-ika.org/rezul-taty-chempionata-afriki/" title="Результаты Чемпионата Африки">Результаты Чемпионата Африки</a></li>
+    						    						    						    							<li id="arr-3"><a href="http://kurash-ika.org/kurash-v-tsentral-no-aziatskih-igrah/" title="Кураш в Центрально-Азиатских Играх">Кураш в Центрально-Азиатских Играх</a></li>
+    						    						    						    							<li id="arr-4"><a href="http://kurash-ika.org/itogi-pervogo-chempionata-okeanii/" title="Итоги Первого Чемпионата Океании">Итоги Первого Чемпионата Океании</a></li>
+    						    						    						    							<li id="arr-5"><a href="http://kurash-ika.org/rezul-taty-ii-chempionata-pan-ameriki/" title="Результаты II Чемпионата Пан Америки">Результаты II Чемпионата Пан Америки</a></li>
+    						    						    						    							<li id="arr-6"><a href="http://kurash-ika.org/chempionat-evropy-v-stambule/" title="Чемпионат Европы в Стамбуле">Чемпионат Европы в Стамбуле</a></li>
+    						    						    						</ul>
+    					</div>
+                    </div>
+				</div>
+				
+			</div>
+		</div>
+	</section>
+	<section class="media_wrap">
+	<div class="photo_of_day media">
+		<div class="sliderkit newslider-horizontal photo_slider">
+			<div class="media_head">
+					<div>Фото дня</div>
+				</div>
+			<div class="sliderkit-panels">
+												<div class="sliderkit-panel">
+					<div class="sliderkit-news">						
+						<a href="/?p=2340" target="_blank"><img src="/wp-content/uploads/lon2011.jpg" alt=""/></a>
+					</div>
+				</div>				
+								<div class="sliderkit-panel">
+					<div class="sliderkit-news">						
+						<a href="/?p=2333" target="_blank"><img src="/wp-content/uploads/arch11.jpg" alt=""/></a>
+					</div>
+				</div>				
+								<div class="sliderkit-panel">
+					<div class="sliderkit-news">						
+						<a href="/?p=2325" target="_blank"><img src="/wp-content/uploads/gree11.jpg" alt=""/></a>
+					</div>
+				</div>				
+								<div class="sliderkit-panel">
+					<div class="sliderkit-news">						
+						<a href="/?p=1489" target="_blank"><img src="/wp-content/uploads/2010/10/10.jpg" alt=""/></a>
+					</div>
+				</div>				
+							</div>
+			<div class="sliderkit-nav">
+				<a href="/category/gallery/" class="allnews">Все фото</a>
+				<div class="left-btn"><div class="sliderkit-go-btn sliderkit-go-prev"></div></div>
+				<div class="sliderkit-go-btn sliderkit-go-next"></div>
+				<div class="sliderkit-nav-clip photo-nav">
+					<ul>
+													<li><a href="/?p=2340" target="_blank">Международный турнир Ислама Каримова в Лондоне 2011 г</a></li>
+													<li><a href="/?p=2333" target="_blank">Чемпионат Арабских стран в Ливане 2011 г</a></li>
+													<li><a href="/?p=2325" target="_blank">Международный турнир Ислама Каримова в Греции 2011 г</a></li>
+													<li><a href="/?p=1489" target="_blank">Заседание Исполкома IKA в Стамбуле, Турция</a></li>
+											</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="media video">
+		<div class="sliderkit newslider-horizontal videonews">
+			<div class="media_head">
+					<div>Видео новости</div>
+				</div>
+			<div class="sliderkit-panels">
+												<div class="sliderkit-panel">
+					<div class="sliderkit-news">					
+						<embed src="/wp-content/plugins/contus-video-gallery/hdflvplayer/hdplayer.swf" flashvars="baserefW=http://ika&vid=23&playlist_autoplay=false&playlist_auto=false&shareIcon=false&email=false&showPlaylist=false&zoomIcon=false&copylink=http://ika.erava.uz/videogallery//&embedplayer=true" width="470" height="250" allowfullscreen="true" allowscriptaccess="always" type="application/x-shockwave-flash" wmode="transparent">
+					</div>
+				</div>
+								<div class="sliderkit-panel">
+					<div class="sliderkit-news">					
+						<embed src="/wp-content/plugins/contus-video-gallery/hdflvplayer/hdplayer.swf" flashvars="baserefW=http://ika&vid=22&playlist_autoplay=false&playlist_auto=false&shareIcon=false&email=false&showPlaylist=false&zoomIcon=false&copylink=http://ika.erava.uz/videogallery//&embedplayer=true" width="470" height="250" allowfullscreen="true" allowscriptaccess="always" type="application/x-shockwave-flash" wmode="transparent">
+					</div>
+				</div>
+								<div class="sliderkit-panel">
+					<div class="sliderkit-news">					
+						<embed src="/wp-content/plugins/contus-video-gallery/hdflvplayer/hdplayer.swf" flashvars="baserefW=http://ika&vid=21&playlist_autoplay=false&playlist_auto=false&shareIcon=false&email=false&showPlaylist=false&zoomIcon=false&copylink=http://ika.erava.uz/videogallery//&embedplayer=true" width="470" height="250" allowfullscreen="true" allowscriptaccess="always" type="application/x-shockwave-flash" wmode="transparent">
+					</div>
+				</div>
+								
+				
+				
+			</div>
+			<div class="sliderkit-nav">
+				<a href="/video-home/" class="allnews">Все видео</a>
+				<div class="sliderkit-go-btn sliderkit-go-prev"></div>
+				<div class="sliderkit-go-btn sliderkit-go-next"></div>
+				<div class="sliderkit-nav-clip">
+					<ul>
+											<li><a href="#" title="I World Kurash Senior Championships 1999, Tashkent, Uzbekistan">I World Kurash Senior Championships 1999, Tashkent, Uzbekistan</a></li>						
+											<li><a href="#" title="II World Kurash Senior Championships 2000, Antalya, Turkey">II World Kurash Senior Championships 2000, Antalya, Turkey</a></li>						
+											<li><a href="#" title="III World Kurash Senior Championships 2001, Budapest, Hungary">III World Kurash Senior Championships 2001, Budapest, Hungary</a></li>						
+										</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	</section>
+
+	
+	
+				<section>					
+					<a href="/?p=135" class="calendar">Краткий календарь <span>СОРЕВНОВАНИЙ</span></a>
+					<div class="social">
+						<a href="http://twitter.com/ika_kurash" class="tw">
+							Официальный аккаунт в <span>ТВИТТЕРе</span>						</a>
+						<a href="https://www.facebook.com/ika.kurash.official" class="fb">
+							Официальная страница в <span>Фейсбуке</span>						</a>
+						<a href="http://www.youtube.com/channel/UCNR2zarcF8i0e-25_nfViVw" class="yt">
+							Официальный канал на <span>Youtube</span>						</a>
+					</div>
+				</section>
+				<div id="simple-links-2" class="box sl-links-main"><ul class="simple-links-list simple-links-2"><li class="simple-links-widget-item"><a href="http://www.olympic.org/" target="_blank" title="" ><img width="93" height="70" src="http://kurash-ika.org/wp-content/uploads/2013/08/Resources-Images-layout-olympiclogo.gif" class="attachment-thumbnail wp-post-image" alt="-Resources-Images-layout-olympiclogo" /><br></a></li><li class="simple-links-widget-item"><a href="http://www.ocasia.org/" target="_blank" title="" ><img width="150" height="93" src="http://kurash-ika.org/wp-content/uploads/2013/08/logo-150x93.jpg" class="attachment-thumbnail wp-post-image" alt="logo" /><br></a></li><li class="simple-links-widget-item"><a href="http://www.eurolympic.org/" target="_blank" title="" ><img width="85" height="85" src="http://kurash-ika.org/wp-content/uploads/2013/08/logo_eoc.gif" class="attachment-thumbnail wp-post-image" alt="logo_eoc" /><br></a></li><li class="simple-links-widget-item"><a href="http://africaolympic.net/" target="_blank" title="" ><img width="122" height="120" src="http://kurash-ika.org/wp-content/uploads/2013/08/s5_logo.png" class="attachment-thumbnail wp-post-image" alt="s5_logo" /><br></a></li><li class="simple-links-widget-item"><a href="http://www.wada-ama.org/" target="_blank" title="" ><img width="150" height="69" src="http://kurash-ika.org/wp-content/uploads/2013/08/anti-doping-150x69.png" class="attachment-thumbnail wp-post-image" alt="anti-doping" /><br></a></li><li class="simple-links-widget-item"><a href="http://www.kurash-kca.org/" target="_blank" title="" ><img width="150" height="150" src="http://kurash-ika.org/wp-content/uploads/2013/08/kurashOrginal-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="kurashOrginal" /><br></a></li><li class="simple-links-widget-item"><a href="http://evo.uz/en" target="_blank" title="" ><img width="127" height="36" src="http://kurash-ika.org/wp-content/uploads/Evo_Logo.jpg" class="attachment-thumbnail wp-post-image" alt="Evo_Logo" /><br></a></li></ul><!-- End .simple-links-list --></div>			</div> <!-- #main -->
+        </div> <!-- #main-container -->
+
+        <div class="footer-container">
+            <footer class="wrapper">
+				<div class="bottom-menu">
+					<aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-nizhnee-menyu-container"><ul id="menu-nizhnee-menyu" class="menu"><li id="menu-item-103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103"><a href="#">Мир Кураша</a>
+<ul class="sub-menu">
+	<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="http://kurash-ika.org/kurash_world/">Приветствие Почетного Президента IKA</a></li>
+	<li id="menu-item-956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-956"><a href="http://kurash-ika.org/privetstvie-prezidenta-ika/">Приветствие Президента IKA</a></li>
+	<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="http://kurash-ika.org/istoriya-kurasha/">История Кураша</a></li>
+	<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://kurash-ika.org/biblioteka/">Библиотека</a></li>
+	<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="http://kurash-ika.org/razvitie-kurasha-v-mire/">Развитие Кураша в мире</a></li>
+</ul>
+</li>
+<li id="menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104"><a href="#">Об ассоциации</a>
+<ul class="sub-menu">
+	<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="http://kurash-ika.org/ob-assotsiatsii/">Устав</a></li>
+	<li id="menu-item-115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="http://kurash-ika.org/category/members/">Члены</a></li>
+	<li id="menu-item-842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-842"><a href="http://kurash-ika.org/pochetny-e-prezidenty/">Почетные Президенты</a></li>
+	<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="http://kurash-ika.org/ispolkom/">Исполком</a></li>
+	<li id="menu-item-960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-960"><a href="http://kurash-ika.org/prezident-ika/">Президент IKA</a></li>
+	<li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="http://kurash-ika.org/zolotoj-orden/">Золотой Орден</a></li>
+	<li id="menu-item-961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-961"><a href="http://kurash-ika.org/frankofony/">Франкофоны</a></li>
+	<li id="menu-item-958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-958"><a href="http://kurash-ika.org/zolotaya-medal-pocheta/">Золотая Медаль Почета</a></li>
+	<li id="menu-item-957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-957"><a href="http://kurash-ika.org/anti-dopping/">Анти-доппинг</a></li>
+</ul>
+</li>
+<li id="menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105"><a href="#">Соревнования</a>
+<ul class="sub-menu">
+	<li id="menu-item-195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="http://kurash-ika.org/chempiony-mira/">Чемпионы мира</a></li>
+	<li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="http://kurash-ika.org/kalendar/">Календарь</a></li>
+	<li id="menu-item-193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a href="http://kurash-ika.org/pravila/">Правила</a></li>
+</ul>
+</li>
+<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106"><a href="#">Партнеры IKA</a>
+<ul class="sub-menu">
+	<li id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="http://kurash-ika.org/linki/">Линки</a></li>
+	<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="http://kurash-ika.org/sponsory/">Спонсоры</a></li>
+</ul>
+</li>
+</ul></div></aside>                    <aside id="text-3" class="widget widget_text">
+                                            <h3 class="widget-title">Контакты</h3>			
+                        <div class="textwidget">
+                        <p class="none">Телефон: +998 71 244 71 98 <br class="none" />
+Факс: +998 71 244 71 97<br class="none" />
+
+Email: info@kurash-ika.org</p>
+
+<p class="none">Адрес: Республика Узбекистан 100128, г. Ташкент
+ул. Усмана Юсупова, 70 А</p>                        </div>
+   		           </aside>
+				</div>
+				<a target="_blank" href="http://erava.uz" class="copy">Разработка сайта: </a>
+            </footer>
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+		<script type="text/javascript" src="http://kurash-ika.org/wp-content/themes/IKAtheme/js/jquery-ui-1.10.3.custom.js"></script>
+        <script type="text/javascript" src="http://kurash-ika.org/wp-content/themes/IKAtheme/js/jquery.easing.1.3.js"></script>
+		<!-- the jScrollPane script -->
+		<script type="text/javascript" src="http://kurash-ika.org/wp-content/themes/IKAtheme/js/jquery.mousewheel.js"></script>
+		<script type="text/javascript" src="http://kurash-ika.org/wp-content/themes/IKAtheme/js/jquery.contentcarousel.js"></script>
+		<script type="text/javascript" src="http://kurash-ika.org/wp-content/themes/IKAtheme/js/jquery.sliderkit.1.4.js"></script>
+		<script src="http://kurash-ika.org/wp-content/themes/IKAtheme/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        
+		<script>
+            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src='//www.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g,s)}(document,'script'));
+        </script>
+		</div>
+    <script type='text/javascript' src='http://kurash-ika.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.40.0-2013.08.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/kurash-ika.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"\u041e\u0442\u043f\u0440\u0430\u0432\u043a\u0430..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-includes/js/jquery/jquery.masonry.min.js?ver=2.1.05'></script>
+<script type='text/javascript' src='http://kurash-ika.org/wp-content/themes/IKAtheme/js/functions.js?ver=2013-07-18'></script>
+</body>
+</html>
+            ++++++++++++++++++++<Over>++++++++++++++++++++

@@ -1,0 +1,650 @@
+====================<http://www.ssrc.org/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Social Science Research Council (SSRC) | Brooklyn, NY, USA</title>
+    <link rel="icon" type="images/png" href="http://www.ssrc.org/workspace/images/icons/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="http://www.ssrc.org/workspace/css/reset.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.ssrc.org/workspace/css/grid.css?111820121206" />
+    <link rel="stylesheet" type="text/css" href="http://www.ssrc.org/workspace/css/base.css?111820121208" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.ssrc.org/workspace/css/programs.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.ssrc.org/workspace/css/jquery.autocomplete.css" />
+    <link rel="stylesheet" type="text/css" href="http://www.ssrc.org/workspace/css/form.css" />
+    <link rel="stylesheet" type="text/css" href="http://www.ssrc.org/workspace/css/colorbox.css" />
+    <link rel="stylesheet" type="text/css" href="http://www.ssrc.org/workspace/css/lightbox.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.ssrc.org/workspace/css/home.css?12042012" />
+    <link rel="stylesheet" type="text/css" media="print" href="http://www.ssrc.org/workspace/css/print-home.css" />
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://www.ssrc.org/workspace/css/ie7.css"><![endif]-->
+    <link rel="stylesheet" type="text/css" media="print" href="http://www.ssrc.org/workspace/css/print.css" />
+    <link rel="alternate" type="application/atom+xml" href="/feed/" />
+    <script src="http://www.ssrc.org/workspace/js/jquery.js"></script>
+    <script type="text/javascript" src="http://www.ssrc.org/workspace/js/jquery.autocomplete.min.js"></script>
+    <script type="text/javascript" src="http://www.ssrc.org/workspace/js/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="http://www.ssrc.org/workspace/js/lightbox.js"></script>
+    <script type="text/javascript" src="http://www.ssrc.org/workspace/js/forms.js"></script>
+    <script type="text/javascript" src="http://www.ssrc.org/workspace/js/jcarousellite.js"></script>
+    <script type="text/javascript" src="http://www.ssrc.org/workspace/js/home.js"></script>
+    <script type="text/javascript" src="http://www.ssrc.org/workspace/js/functions.js"></script>
+    <script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-1557817-1']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+  </head>
+  <body class="home">
+    <div id="package">
+      <div id="masthead">
+        <div id="banner">
+          <a href="/">
+            <img src="http://www.ssrc.org/workspace/images/ssrc_logo.gif" alt="The Social Science Research Council" width="177" height="59" />
+          </a>
+          <div id="banner_utils">
+            <ul id="utils">
+              <li>
+                <a href="http://www.ssrc.org/">Home</a>
+              </li>
+              <li>
+                <a href="http://www.ssrc.org/events/search/?m=eventcalendar">Events</a>
+              </li>
+              <li class="donate-top">
+                <a href="https://donations.ssrc.org">Donate Now</a>
+              </li>
+              <li class="follow-us-top">Follow Us:
+								<a href="http://www.ssrc.org/feed" rel="me"><img class="sm-icon-rss" src="http://www.ssrc.org/workspace/images/icons/rssfeed_16.gif" /></a><a href="http://www.twitter.com/SSRC_org" rel="me"><img class="sm-icon-twitter" src="http://www.ssrc.org/workspace/images/icons/twitter.png" /></a><a href="http://www.facebook.com/pages/Social-Science-Research-Council/86430571223" rel="me"><img class="sm-icon-facebook" src="http://www.ssrc.org/workspace/images/icons/facebook.png" /></a></li>
+            </ul>
+          </div>
+        </div>
+        <div xmlns:dc="http://purl.org/dc/elements/1.1/" id="navbar" class="home">
+          <div id="nav">
+            <ul><li class="about two-column"><a href="/about" title="About" id="nav-about">About</a><div class="subnav-container"><div class="subnav-main"><ul class="column"><li><a href="/about" title="Overview" id="nav-overview">Overview</a></li> <li><a href="/about/mission" title="Mission" id="nav-mission">Mission</a></li> <li><a href="/about/history" title="History" id="nav-history">History</a></li> <li><a href="http://www.ssrc.org/staff/katznelson-ira/" title="President" id="nav-president">President</a></li> </ul><ul class="column"><li><a href="/about/board-of-directors" title="Board of Directors" id="nav-board-of-directors">Board of Directors</a></li> <li><a href="/about/employment" title="Employment" id="nav-employment">Employment</a></li> <li><a href="/directory" title="Staff" id="nav-staff">Staff</a></li> <li><a href="/about/creative-commons" title="Creative Commons" id="nav-creative-commons">Creative Commons</a></li> </ul></div></div></li> <li class="programs two-column"><a href="/programs/" title="Programs" id="nav-programs">Programs</a><div class="subnav-container"><div class="subnav-main"><ul class="column"><li><a href="/programs/abe-fellowship-program/" title="Abe Fellowship Program" id="nav-abe-fellowship-program">Abe Fellowship Program</a></li> <li><a href="/programs/academia-in-the-public-sphere-grants-program/" title="Academia in the Public Sphere Grants Program" id="nav-academia-in-the-public-sphere-grants-program">Academia in the Public Sphere Grants Program</a></li> <li><a href="/programs/apn" title="African Peacebuilding Network" id="nav-african-peacebuilding-network">African Peacebuilding Network</a></li> <li><a href="/programs/china-environment-and-health/" title="China Environment and Health Initiative" id="nav-china-environment-and-health-initiative">China Environment and Health Initiative</a></li> <li><a href="/programs/cppf" title="Conflict Prevention and Peace Forum" id="nav-conflict-prevention-and-peace-forum">Conflict Prevention and Peace Forum</a></li> <li><a href="/programs/cuba-program" title="Cuba Program" id="nav-cuba-program">Cuba Program</a></li> <li><a href="/programs/digital-culture/" title="Digital Culture" id="nav-digital-culture">Digital Culture</a></li> <li><a href="/programs/dpdf/" title="Dissertation Proposal Development Fellowship Program" id="nav-dissertation-proposal-development-fellowship-program">Dissertation Proposal Development Fellowship Program</a></li> <li><a href="/programs/dsd/" title="Drugs, Security and Democracy Program" id="nav-drugs-security-and-democracy-program">Drugs, Security and Democracy Program</a></li> <li><a href="/programs/education-research-program/" title="Education Research Program" id="nav-education-research-program">Education Research Program</a></li> <li><a href="/programs/eurasia-program" title="Eurasia Program" id="nav-eurasia-program">Eurasia Program</a></li> </ul><ul class="column"><li><a href="/programs/gender-and-security-program" title="Gender, Security &amp; HIV/AIDS" id="nav-gender-security-and-hiv-aids">Gender, Security & HIV/AIDS</a></li> <li><a href="/programs/interasia-Program" title="Inter-Asia Program" id="nav-inter-asia-program">Inter-Asia Program</a></li> <li><a href="/programs/idrf" title="International Dissertation Research Fellowship Program" id="nav-international-dissertation-research-fellowship-program">International Dissertation Research Fellowship Program</a></li> <li><a href="/programs/moa/" title="Measure of America" id="nav-measure-of-america">Measure of America</a></li> <li><a href="/programs/mellon-mays-graduate-initiatives-program/" title="Mellon Mays Graduate Initiatives Program" id="nav-mellon-mays-graduate-initiatives-program">Mellon Mays Graduate Initiatives Program</a></li> <li><a href="/programs/middle-east-and-north-africa-program/" title="Middle East and North Africa Program" id="nav-middle-east-and-north-africa-program">Middle East and North Africa Program</a></li> <li><a href="/programs/migration-program" title="Migration Program" id="nav-migration-program">Migration Program</a></li> <li><a href="/programs/nextgenafrica/" title="Next Generation Social Sciences in Africa" id="nav-next-generation-social-sciences-in-africa">Next Generation Social Sciences in Africa</a></li> <li><a href="/programs/northeast-asia-cooperative-security-project/" title="Northeast Asia Cooperative Security Project" id="nav-northeast-asia-cooperative-security-project">Northeast Asia Cooperative Security Project</a></li> <li><a href="/programs/religion-and-the-public-sphere" title="Religion and the Public Sphere" id="nav-religion-and-the-public-sphere">Religion and the Public Sphere</a></li> <li><a href="/programs/vietnam-program" title="Vietnam Program" id="nav-vietnam-program">Vietnam Program</a></li> </ul><div class="featured-item"><a href="http://www.ssrc.org/programs/apn/" title="African Peacebuilding Network" target="_blank" class="has-image"><img alt="African Peacebuilding Network" src="http://www.ssrc.org/image/1/0/50/uploads/images/f72437df-9972-e111-bb1a-001cc477ec84-.jpg" /></a><h5><a href="http://www.ssrc.org/programs/apn/" title="African Peacebuilding Network" target="_blank">African Peacebuilding Network</a></h5><p>Supporting independent African research and its integration into global policy communities</p></div></div><div class="offset"><h4>Program News</h4><ol class="column"><li><span class="date">February 21<sup>st</sup> 2014</span><a title="Measure of America research applied by CNNMoney for a close look at &quot;Where the Middle Class Thrives&quot;" target="_blank" href="http://money.cnn.com/gallery/news/economy/2014/02/20/middle-class-thrives/index.html"><strong>Measure of America</strong> research applied by <em>CNNMoney</em> for a close look at "Where the Middle Class Thrives" →</a></li><li><span class="date">February 20<sup>th</sup> 2014</span><a title="Islam for Journalists, a free digital primer funded by the Academia in the Public Sphere Grants Program, has been released by the University of Missouri's Donald W. Reynolds Journalism Institute" target="_blank" href="http://news.wsu.edu/2014/02/18/murrow-dean-releases-free-digital-primer-islam-for-journalists/#.UwTkbF56rJx"><em>Islam for Journalists</em>, a free digital primer funded by the <strong>Academia in the Public Sphere Grants Program</strong>, has been released by the University of Missouri's Donald W. Reynolds Journalism Institute →</a></li><li><span class="date">February 19<sup>th</sup> 2014</span><a title="The New York Times reports on the JFK Presidential Library and Museum's newly digitized Hemingway Collection, a collaborative preservation project pioneered by the Cuba Program" target="_blank" href="http://www.nytimes.com/2014/02/11/books/batch-of-hemingway-ephemera-from-cuba-is-digitized.html">The <em>New York Times</em> reports on the JFK Presidential Library and Museum's newly digitized Hemingway Collection, a collaborative preservation project pioneered by the <strong>Cuba Program</strong> →</a></li></ol><a class="nav-all-link" href="/news/">All News</a></div></div></li> <li class="fellowships-and-grants"><a href="/fellowships/" title="Fellowships &amp; Prizes" id="nav-fellowships-and-prizes">Fellowships & Prizes</a><div class="subnav-container"><div class="subnav-main"><ul class="column"><li><a href="/fellowships/all/" title="All Fellowships &amp; Prizes" id="nav-all-fellowships-and-prizes">All Fellowships & Prizes</a></li> <li><a href="/fellowships/map/" title="Fellows Map" id="nav-fellows-map">Fellows Map</a></li> </ul><div class="featured-item"><a href="http://www.ssrc.org/programs/mellon-mays-graduate-initiatives-program/" title="Mellon Mays Graduate Initiatives Program" target="_blank" class="has-image"><img alt="Mellon Mays Graduate Initiatives Program" src="http://www.ssrc.org/image/1/0/50/uploads/images/mellonicon4.png" /></a><h5><a href="http://www.ssrc.org/programs/mellon-mays-graduate-initiatives-program/" title="Mellon Mays Graduate Initiatives Program" target="_blank">Mellon Mays Graduate Initiatives Program</a></h5><p>Eliminating racial disparities in the faculties of colleges and universities in the United States and South Africa</p></div></div><div class="offset"><h4>Open Competitions</h4><ol class="column"><li><a href="/fellowships/ksfacultyworkshop/">Korean Studies Workshop for Junior Faculty</a><span>Deadline:
+											<strong>April 15<sup>th</sup></strong></span></li><li><a href="/fellowships/ksdw/">Korean Studies Dissertation Workshop</a><span>Deadline:
+											<strong>May 1<sup>st</sup></strong></span></li></ol><a class="nav-all-link" href="/fellowships/" title="All open competitions">All open competitions</a></div></div></li> <li class="publications two-column"><a href="/publications/" title="Publications" id="nav-publications">Publications</a><div class="subnav-container"><div class="subnav-main"><ul class="column"><li><a href="/publications/books/" title="SSRC Books" id="nav-ssrc-books">SSRC Books</a></li> <li><a href="/publications/fellows/" title="Books by Fellows" id="nav-books-by-fellows">Books by Fellows</a></li> <li><a href="/search/?t=publications" title="Search Publications" id="nav-search-publications">Search Publications</a></li> </ul><div class="featured-item"><a href="http://www.ssrc.org/publications/view/habermas-and-religion/" title="Habermas and Religion" target="_blank" class="has-image"><img alt="Habermas and Religion" src="http://www.ssrc.org/image/1/0/50/uploads/images/habermas-icon.png" /></a><h5><a href="http://www.ssrc.org/publications/view/habermas-and-religion/" title="Habermas and Religion" target="_blank">Habermas and Religion</a></h5><p>eds. Craig Calhoun, Eduardo Mendieta and Jonathan VanAntwerpen</p></div></div><div class="offset"><h4>Publications News</h4><ol class="column"><li><span class="date">February 25<sup>th</sup> 2014</span><a title="The Northeast Asia Cooperative Security Project has released the 2013 edition of the North Korea Chronology, the latest annual installment of a detailed chronology of events relevant to North Korea’s nuclear and missile programs and negotiations with North Korea dating back to 2001 [PDF]" href="http://webarchive.ssrc.org/NK/NKCHRON%202013.pdf">The <strong>Northeast Asia Cooperative Security Project</strong> has released the 2013 edition of the <em>North Korea Chronology</em>, the latest annual installment of a detailed chronology of events relevant to North Korea’s nuclear and missile programs and negotiations with North Korea dating back to 2001 [PDF] →</a></li><li><span class="date">February 19<sup>th</sup> 2014</span><a title="New from the Justice and Security Research Program: JSRP Paper No. 11, coauthored by Tatiana Carayannis, deputy director of the Conflict Prevention and Peace Forum, and former program associate Nathaniel Olin: &quot;Practice without Evidence: Interrogating Conflict Resolution Approaches and Assumptions&quot; " target="_blank" href="http://blogs.lse.ac.uk/jsrp/2014/02/13/practice-without-evidence-interrogating-conflict-resolution-approaches-and-assumptions/">New from the <strong>Justice and Security Research Program</strong>: JSRP Paper No. 11, coauthored by <strong>Tatiana Carayannis</strong>, deputy director of the <strong>Conflict Prevention and Peace Forum</strong>, and former program associate Nathaniel Olin: "Practice without Evidence: Interrogating Conflict Resolution Approaches and Assumptions"  →</a></li></ol><a class="nav-all-link" href="/news/">All News</a></div></div></li> <li><a href="http://www.ssrc.org/pages/digital-forums/" title="Forums" id="nav-forums">Forums</a><div class="subnav-container"><div class="subnav-main"><ul class="column"><li><a href="http://forums.ssrc.org/african-futures" title="African Futures" id="nav-african-futures">African Futures</a></li> <li><a href="http://blogs.ssrc.org/tif" title="The Immanent Frame" id="nav-the-immanent-frame">The Immanent Frame</a></li> <li><a href="http://forums.ssrc.org/kujenga-amani/" title="Kujenga Amani" id="nav-kujenga-amani">Kujenga Amani</a></li> <li><a href="http://www.ssrc.org/pages/research-matters/" title="Research Matters" id="nav-research-matters">Research Matters</a></li> <li><a href="http://forums.ssrc.org/ndsp/" title="Reverberations" id="nav-reverberations">Reverberations</a></li> <li><a href="http://essays.ssrc.org/10yearsafter911/" title="10 Years After Sept. 11" id="nav-10-years-after-sept-11">10 Years After Sept. 11</a></li> </ul><div class="featured-item"><a href="http://forums.ssrc.org/ndsp/" title="Reverberations" target="_blank" class="has-image"><img alt="Reverberations" src="http://www.ssrc.org/image/1/0/50/uploads/images/screen-shot-2014-02-18-at-3.47.37-pm.png" /></a><h5><a href="http://forums.ssrc.org/ndsp/" title="Reverberations" target="_blank">Reverberations</a></h5><p>New Directions in the Study of Prayer</p></div></div><div class="offset"><h4>Featured Essays</h4><ol class="column"><li><span class="date">February 18<sup>th</sup> 2014</span><a title="A new series from The Immanent Frame, Beyond Critique, opens with &quot;Three Approaches to the Study of Religion,&quot; by Cécile Laborde" href="http://blogs.ssrc.org/tif/2014/02/05/three-approaches-to-the-study-of-religion/">A new series from <strong><em>The Immanent Frame</em></strong>, Beyond Critique, opens with "Three Approaches to the Study of Religion," by Cécile Laborde →</a></li></ol></div></div></li> </ul>
+          </div>
+          <span id="menu-rightshadow"></span>
+        </div>
+        <div id="srch">
+          <form id="searchsite" name="searchsite" method="get" action="/search/">
+            <fieldset>
+              <a href="#" onclick="document.searchsite.submit();">
+                <label class="go-button" for="s" onclick="document.searchsite.submit();">Go</label>
+              </a>
+              <input id="s" type="text" name="q" accesskey="s" tabindex="1" maxlength="128" value="Search the site" onfocus="this.value=''" />
+              <input type="hidden" name="start" value="0" />
+            </fieldset>
+          </form>
+        </div>
+      </div>
+      <div class="home_header">
+        <div class="hp-title">
+          <ul>
+            <li>
+              <p>Welcome to the <strong>Social Science Research Council</strong>, leader in international social science.<strong><br /></strong></p>
+            </li>
+            <li>
+              <p>SSRC research informs and influences <strong>public conversation and policy debates.</strong></p>
+            </li>
+            <li>
+              <p>The SSRC produces <strong>high-quality social science</strong> both in print and online.</p>
+            </li>
+            <li>
+              <p>Many SSRC fellowships<strong> support overseas fieldwork</strong> on non-US cultures and societies.</p>
+            </li>
+            <li>
+              <p>SSRC fellowships support the <strong>next generation of scholars </strong>in doing vital research.</p>
+            </li>
+            <li>
+              <p>The SSRC engages <strong>academic and non-academic audiences </strong>on public issues.</p>
+            </li>
+            <li>
+              <p>The SSRC <strong>assists social scientists in other countries</strong> with scholarly resources.</p>
+            </li>
+            <li>
+              <p>The SSRC <strong>builds social science research capacity</strong> in other countries.</p>
+            </li>
+            <li>
+              <p>The SSRC <strong>links researchers from across the globe</strong> to study issues on the ground.</p>
+            </li>
+          </ul>
+        </div>
+        <div class="slideShowImg">
+          <ul>
+            <li>
+              <a href="/about">
+                <img src="http://www.ssrc.org/workspace/uploads/images/billboards/winterbkglobe.jpg" width="720" height="355" alt="winterbkglobe.jpg" />
+              </a>
+            </li>
+            <li>
+              <a href="http://www.measureofamerica.org/blog/2012/08/moa-life-expectancy-data-featured-in-california-billboard-capaign/">
+                <img src="http://www.ssrc.org/workspace/uploads/images/billboards/hhs-billboard-slider.jpg" width="720" height="355" alt="hhs-billboard-slider.jpg" />
+              </a>
+            </li>
+            <li>
+              <a href="http://www.ssrc.org/publications/view/media-piracy-in-emerging-economies/">
+                <img src="http://www.ssrc.org/workspace/uploads/images/billboards/mpee-slider.jpg" width="720" height="355" alt="mpee-slider.jpg" />
+              </a>
+            </li>
+            <li>
+              <a href="/programs/idrf/">
+                <img src="http://www.ssrc.org/workspace/uploads/images/billboards/mthom_makere-lcm-cropped.jpg" width="720" height="355" alt="mthom_makere-lcm-cropped.jpg" />
+              </a>
+            </li>
+            <li>
+              <a href="/programs/mellon-mays-graduate-initiatives-program/">
+                <img src="http://www.ssrc.org/workspace/uploads/images/billboards/mellonmaysmarch2013.jpg" width="720" height="355" alt="mellonmaysmarch2013.jpg" />
+              </a>
+            </li>
+            <li>
+              <a href="programs/apn/">
+                <img src="http://www.ssrc.org/workspace/uploads/images/billboards/groupshotedit.jpg" width="720" height="355" alt="groupshotedit.jpg" />
+              </a>
+            </li>
+            <li>
+              <a href="/symphony/publish/home-page-billboards/edit/648/programs/hemingway-document-preservation-project">
+                <img src="http://www.ssrc.org/workspace/uploads/images/billboards/hemingway-homepage.jpg" width="720" height="355" alt="hemingway-homepage.jpg" />
+              </a>
+            </li>
+            <li>
+              <a href="/programs/idrf">
+                <img src="http://www.ssrc.org/workspace/uploads/images/billboards/vietnam-homepage.jpg" width="720" height="355" alt="vietnam-homepage.jpg" />
+              </a>
+            </li>
+            <li>
+              <a href="/programs/china-environment-and-health">
+                <img src="http://www.ssrc.org/workspace/uploads/images/billboards/china-field-photo.jpg" width="720" height="355" alt="china-field-photo.jpg" />
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="slideShowBox">
+          <div id="slideShowBg">
+            <div id="slideShowBoxContent">
+              <img src="http://www.ssrc.org/workspace/images/btnPrev.png" width="24" height="24" alt="Previous" class="prev" />
+              <img src="http://www.ssrc.org/workspace/images/btnNext.png" width="24" height="24" alt="Next" class="next" />
+              <div class="slideShow">
+                <ul>
+                  <li>
+                    <p>Brooklyn is the base from which the<strong> </strong>Social Science Research Council (SSRC) <strong>pursues collaborative research projects with partners all over the world</strong>, on topics of pressing global concern. <a href="../../../../about">Read more about us.</a></p>
+                  </li>
+                  <li>
+                    <p>The SSRC publishes quality social science research that informs both academic and public debate. Look at the impact that <a title="Measure of America" href="http://www.measureofamerica.org/" target="_blank"><em>Measure of America</em></a> is having on <a title="MOA life expectancy data featured in california billboard capaign" href="http://www.measureofamerica.org/blog/2012/08/moa-life-expectancy-data-featured-in-california-billboard-capaign/" target="_blank">public health campaigns</a> in California.</p>
+                  </li>
+                  <li>
+                    <p><strong><a href="http://piracy.ssrc.org/"><em>Media Piracy in Emerging Economies</em></a> </strong>is the first independent, large-scale study of music, film, and software piracy in emerging economies, with a focus on Brazil, India, Russia, South Africa, Mexico, and Bolivia.<em><br /><br /></em><em></em></p>
+                  </li>
+                  <li>
+                    <p class="p1">Marnie Thomson explores t<span class="s1">he fields of Makere village, just outside Nyarugusu refugee camp</span> in Tanzania, as part of her SSRC-sponsored fieldwork for the <a href="../../../../programs/idrf"><strong>International Dissertation Research Fellowship</strong></a>.<strong> </strong></p>
+                  </li>
+                  <li>
+                    <p>Fellows in the <strong>early stages of their graduate career</strong> at universities in the <strong>United States and South Africa</strong> convene at Bryn Mawr College for the <strong><a href="../../../../../programs/mellon-mays-graduate-initiatives-program">Mellon Mays Graduate Initiatives Program</a> </strong>Summer Conference.</p>
+                  </li>
+                  <li>
+                    <p class="p1">The <a href="../../../../programs/apn/"><span class="s1"><strong>African Peacebuilding Network</strong></span></a><strong> </strong>promotes independent <strong>African peacebuilding knowledge</strong>, connecting African researchers, policy analysts, practitioners, and networks with each other and with policymaking communities around the world.</p>
+                  </li>
+                  <li>
+                    <p>As a result of an SSRC-led collaboration between U.S. and Cuban researchers, scholars and the public now have access to <strong>Ernest Hemingway’s Cuba papers</strong>. <a href="programs/hemingway-document-preservation-project">Read more about the Hemingway Document Preservation Project.</a></p>
+                    <p>
+<!--<i>Credit: Cuba Program Coordinator Sarah Doty</i><-->
+                    </p>
+                  </li>
+                  <li>
+                    <p>A Vietnamese doctor speaks to SSRC executive
+director Mary McDonnell about the
+<strong>challenges his health center faces in providing primary health care</strong>, the subject of an SSRC-led study. <a href="../../../../../programs/vietnam">Read more about the Vietnam Program.</a></p>
+                  </li>
+                  <li>
+                    <p>A Chinese public-health expert (far right) teams up with a British anthropologist to <strong>interview members of rural families in Yunnan</strong> about environmental health concerns. Read more about the <a href="../../../../../programs/china-environment-and-health">China Environment and Health Initiative</a>.</p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="homenews">
+        <a href="/news">
+          <img width="160" src="http://www.ssrc.org/workspace/images/council-news-title.png" alt="Newsbites" id="newstitle" />
+        </a>
+        <dl class="newsbloglist">
+          <dt>February 25<sup>th</sup> 2014</dt>
+          <dd>
+            <a title="The Northeast Asia Cooperative Security Project has released the 2013 edition of the North Korea Chronology, the latest annual installment of a detailed chronology of events relevant to North Korea’s nuclear and missile programs and negotiations with North Korea dating back to 2001 [PDF]" href="http://webarchive.ssrc.org/NK/NKCHRON%202013.pdf">The <strong>Northeast Asia Cooperative Security Project</strong> has released the 2013 edition of the <em>North Korea Chronology</em>, the latest annual installment of a detailed chronology of events relevant to North Korea’s nuclear and missile programs and negotiations with North Korea dating back to 2001 [PDF] →</a>
+          </dd>
+          <dt>February 24<sup>th</sup> 2014</dt>
+          <dd>
+            <a title="In the latest Off the Cuff at The Immanent Frame, respondents, including philosophy scholars Georges Leroux and Charles Taylor and law scholars Jeremy Webber and Daniel Weinstock, discuss the controversial Charter of Quebec Values" href="http://blogs.ssrc.org/tif/2014/02/20/the-charter-of-quebec-values/">In the latest Off the Cuff at <strong><em>The Immanent Frame</em></strong>, respondents, including philosophy scholars Georges Leroux and Charles Taylor and law scholars Jeremy Webber and Daniel Weinstock, discuss the controversial Charter of Quebec Values →</a>
+          </dd>
+          <dt>February 21<sup>st</sup> 2014</dt>
+          <dd>
+            <a title="Measure of America research applied by CNNMoney for a close look at &quot;Where the Middle Class Thrives&quot;" target="_blank" href="http://money.cnn.com/gallery/news/economy/2014/02/20/middle-class-thrives/index.html"><strong>Measure of America</strong> research applied by <em>CNNMoney</em> for a close look at "Where the Middle Class Thrives" →</a>
+          </dd>
+        </dl>
+        <p><a href="/news" class="more-link">All news</a> | <a href="/pages/council-update/" class="more-link">Council Update Archive</a></p>
+      </div>
+      <div id="content-wide">
+        <div id="hp-features">
+          <div class="mid_column">
+            <h3>Featured Publication</h3>
+            <a href="http://www.ssrc.org/publications/view/transitional-justice-and-development-beyond-outreach/">
+              <img src="http://www.ssrc.org/workspace/uploads/images/222a3d3d-c177-e311-a360-001cc477ec84-.jpg" />
+            </a>
+            <p style="float: left; width: 80px;"><a href="http://www.ssrc.org/publications/view/transitional-justice-and-development-beyond-outreach/"><strong><em> 
+Transitional Justice, Culture, and Society: Beyond Outreach </em></strong></a><br />
+ed. Clara Ramírez-Barat</p>
+          </div>
+          <div class="mid_column">
+            <h3>NEW SSRC PROGRAM</h3>
+            <a href="http://www.ssrc.org/programs/digital-culture/">
+              <img src="http://www.ssrc.org/workspace/uploads/images/digital-culture.png" />
+            </a>
+            <p><a href="http://www.ssrc.org/programs/digital-culture/"><strong>DIGITAL CULTURE</strong>:</a> Exploring the intersections of technology, knowledge, and culture in a digital age</p>
+          </div>
+          <div class="mid_column">
+            <h3>Call for Applications</h3>
+            <a href="http://www.ssrc.org/fellowships/ksfacultyworkshop/">
+              <img src="http://www.ssrc.org/workspace/uploads/images/korean-home-feature.png" />
+            </a>
+            <p><a href="http://www.ssrc.org/fellowships/ksdw/"><strong>Korean Studies Workshop for Junior Faculty</strong></a><br />
+Deadline: <strong>April 15th, 2014</strong><br /><br />
+<a href="http://www.ssrc.org/fellowships/ksfacultyworkshop/"><strong>Korean Studies Dissertation Workshop</strong></a><br />
+Deadline: <strong>May 1st, 2014</strong></p>
+          </div>
+        </div>
+        <div id="rm-ad">
+          <h2 class="forums-header">
+            <a href="http://www.ssrc.org/digital-forums/">SSRC Forums</a>
+          </h2>
+          <div class="rm-teaser">
+            <div class="imgdiv">
+              <a href="http://forums.ssrc.org/kujenga-amani/">
+                <img src="http://www.ssrc.org/workspace/images/amani_home.png" alt="Kujenga Amani" title="Kujenga Amani" width="85" />
+              </a>
+            </div>
+            <h4>
+              <a href="http://forums.ssrc.org/kujenga-amani/">Kujenga Amani</a>
+            </h4>
+            <p>
+            A forum for the exchange of ideas and information on peacebuilding in Africa</p>
+          </div>
+        </div>
+      </div>
+      <div id="footer">
+        <ul id="faddress" class="vcard ">
+          <li class="fn org">Social Science Research Council</li>
+          <span class="adr">
+            <li class="street-address">One Pierrepont Plaza, 15th Floor</li>
+            <li class="street-address">300 Cadman Plaza West</li>
+            <li><span class="locality">Brooklyn</span>, <abbr class="region" title="New York">NY</abbr> <span class="postal-code">11201</span> <span class="country-name">USA</span></li>
+          </span>
+          <li>P: <span class="tel">212-377-2700</span></li>
+          <li>F: 212-377-2727</li>
+          <li>E: <a href="mailto:info@ssrc.org" class="email">info@ssrc.org</a></li>
+        </ul>
+        <ul id="tools">
+          <li>
+            <script type="text/javascript" src="http://w.sharethis.com/widget/?tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;style=default&amp;publisher=2ef70bc4-7f9d-4a97-af64-3cc76e51bc67"></script>
+          </li>
+          <li>
+            <a href="javascript:window.print()" title="Print This Page"><img src="http://www.ssrc.org/workspace/images/printer_icon.gif" alt="print" width="16" height="16" class="icon" />Print This Page</a>
+          </li>
+          <li>
+            <a href="http://www.ssrc.org/feed" title="Subscribe"><img src="http://www.ssrc.org/workspace/images/rssfeed_16.gif" alt="feed" width="16" height="16" class="icon" />Subscribe to our Newsfeed</a>
+          </li>
+          <li id="cm-link">
+            <a href="#"><img src="http://www.ssrc.org/workspace/images/email_go.png" alt="mailing list" class="icon" />Get our monthly Council Update</a>
+            <form action="http://ssrcmail.createsend.com/t/y/s/dkcc/" method="post">
+              <label for="cm-name">Name</label>
+              <input type="text" name="cm-name" id="name" />
+              <label for="cm-dkcc-dkcc">Email</label>
+              <input type="text" name="cm-dkcc-dkcc" id="dkcc-dkcc" />
+              <input type="submit" id="submit" value="Subscribe" />
+            </form>
+          </li>
+        </ul>
+        <ul id="socialmediatools" style="width:190px; margin-left:2em;float:left;">
+          <h4 style="padding-left:2px;">Follow the SSRC on:</h4>
+          <li style="padding-top: 6px;">
+            <a href="http://www.twitter.com/SSRC_org">
+              <img alt="SSRC on Twitter" src="/workspace/images/twitter.png" />
+            </a>
+          </li>
+          <li style="padding-left: 2px;">
+            <a href="http://www.facebook.com/pages/Social-Science-Research-Council/86430571223">
+              <img alt="SSRC on Facebook" src="/workspace/images/facebook.png" />
+            </a>
+          </li>
+          <li style="padding-left: 3px;">
+            <a href="http://www.youtube.com/user/SSRCorg">
+              <img alt="SSRC on YouTube" src="/workspace/images/youtube.png" />
+            </a>
+          </li>
+        </ul>
+        <div id="boilerplate">
+          <h4>About the SSRC</h4>
+          <p>The Social Science Research Council (SSRC) is an independent, international, 
+nonproﬁt organization founded in 1923. It fosters innovative research, nurtures new generations of 
+social scientists, deepens how inquiry is practiced within and across disciplines, and mobilizes necessary 
+knowledge on important public issues. </p>
+        </div>
+        <ul id="site-links">
+          <li>
+            <a href="/pages/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+          </li>
+          <li>
+            <a href="/about/directions/" title="Directions to SSRC">Directions to the SSRC</a>
+          </li>
+          <li>
+            <a href="/contact/" title="Directions to SSRC">Contact Us</a>
+          </li>
+          <li>
+            <a href="/sitemap" title="Site Map">Site Map</a>
+          </li>
+          <li class="last">
+            <a href="/about/creative-commons">
+              <img class="cc-logo" src="/workspace/images/cc.png" />
+            </a>
+            <a href="/about/creative-commons">Creative Commons</a>
+          </li>
+        </ul>
+        <div style="width:100%;clear:both;height:0;visibility:hidden;"></div>
+        <script type="text/javascript">
+       jQuery(document).ready(function($) {
+               jQuery("a[href$='pdf']").click(function(index) {
+                       pdfLabel = $(this).attr('href');
+                       _gaq.push(['_trackEvent', 'PDF', 'Download', pdfLabel]);
+               });
+       });
+</script>
+        <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/8721.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+      </div>
+    </div>
+  </body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.unesco.org/ngo/issc/>====================
+<!DOCTYPE html> <!--[if lt IE 7]><html
+class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]--> <!--[if IE 7]><html
+class="no-js lt-ie9 lt-ie8"> <![endif]--> <!--[if IE 8]><html
+class="no-js lt-ie9"> <![endif]--> <!--[if gt IE 8]><!--><html
+class="no-js"> <!--<![endif]--><head><meta
+charset="utf-8"><meta
+http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>International Social Science Council &raquo; strengthening the social sciences...</title><meta
+name="viewport" content="width=device-width"><link
+rel="canonical" href="http://www.worldsocialscience.org/" /><link
+rel="next" href="http://www.worldsocialscience.org/page/2/" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="website" /><meta
+property="og:title" content="International Social Science Council - strengthening the social sciences..." /><meta
+property="og:url" content="http://www.worldsocialscience.org/" /><meta
+property="og:site_name" content="International Social Science Council" /> <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.4 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-35885886-1']);
+				            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script><link
+rel='stylesheet' id='gce_styles-css'  href='http://www.worldsocialscience.org/wp-content/plugins/google-calendar-events/css/gce-style.css?ver=3.8.1' type='text/css' media='all' /><link
+rel='stylesheet' id='wpt-twitter-feed-css'  href='http://www.worldsocialscience.org/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=3.8.1' type='text/css' media='all' /><link
+rel='stylesheet' id='normalize-css'  href='http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/css/normalize.min.css?ver=3.8.1' type='text/css' media='all' /><link
+rel='stylesheet' id='worldsocialscience-main-css'  href='http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/css/style.css?ver=3.8.1' type='text/css' media='all' /><script type='text/javascript' src='http://www.worldsocialscience.org/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script><script type='text/javascript' src='http://www.worldsocialscience.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script><script type='text/javascript' src='http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/js/vendor/modernizr-2.6.1.min.js?ver=3.8.1'></script><meta
+property="og:type" content="article" /><meta
+property="og:title" content="International Social Science Council" /><meta
+property="og:url" content="http://www.worldsocialscience.org"/><meta
+property="og:description" content="strengthening the social sciences&#8230;" /><meta
+property="og:site_name" content="International Social Science Council" /> <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--><style type="text/css">div.socialicons{float:left;display:block;margin-right: 10px;line-height: 1;}div.socialiconsv{line-height: 1;}div.socialicons p{margin-bottom: 0px !important;margin-top: 0px !important;padding-bottom: 0px !important;padding-top: 0px !important;}div.social4iv{background: none repeat scroll 0 0 #FFFFFF;border: 1px solid #aaa;border-radius: 3px 3px 3px 3px;box-shadow: 3px 3px 3px #DDDDDD;padding: 3px;position: fixed;text-align: center;top: 55px;width: 68px;display:none;}div.socialiconsv{padding-bottom: 5px;}</style><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link
+rel="stylesheet" media="only screen and (min-width: 60em)" href="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/css/screen-960.css" /> <!--[if lt IE 9]><!--<link
+rel="stylesheet" media="only screen and (min-width: 60em)" href="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/css/screen-960.css" /><![endif]--></head><body
+class="home blog"> <!--[if lt IE 7]><p
+class="chromeframe">You are using an outdated browser. <a
+href="http://browsehappy.com/">Upgrade your browser today</a> or <a
+href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p> <![endif]--><div
+id="wrapper"><header
+class="header"><div
+class="logo"> <a
+href="http://www.worldsocialscience.org/"> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/issc-logo.png" width="329" height="148" alt=""> </a></div><div
+class="social-links"> <a
+href="https://twitter.com/ISSCWorld"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/header/social-twitter.png" /></a> <a
+href="https://www.facebook.com/IntSocialScience"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/header/social-facebook.png" /></a> <a
+href="http://www.youtube.com/user/ISSCWorld"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/header/social-youtube.png" /></a> <a
+href="http://www.flickr.com/photos/isscworld/"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/header/social-flickr.png" /></a></div><div
+class="search"><form
+action="http://www.worldsocialscience.org/"><form
+role="search" method="get" id="searchform" action="http://www.worldsocialscience.org/" ><div><label
+class="screen-reader-text" for="s">Search the website</label> <input
+type="text" value="" name="s" id="s" /> <input
+type="submit" id="searchsubmit" value="Go" /></div></form></form></div><nav
+class="clearfix"><ul
+id="menu-main" class=""><li
+id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23"><a
+href="http://www.worldsocialscience.org/about/" >About</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a><ul
+class="sub-menu"><li
+id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a
+href="http://www.worldsocialscience.org/about/history-mission/" >History and Mission</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a
+href="http://www.worldsocialscience.org/about/governance/" >Governance</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a
+href="http://www.worldsocialscience.org/about/the-secretariat/" >The Secretariat</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a
+href="http://www.worldsocialscience.org/about/internship-program/" >Internship programme</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-1859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1859"><a
+href="http://www.worldsocialscience.org/about/membership/" >Membership</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li></ul></li><li
+id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-77"><a
+href="http://www.worldsocialscience.org/activities/" >Activities</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a><ul
+class="sub-menu"><li
+id="menu-item-78" class="key-section menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a
+href="http://www.worldsocialscience.org/activities/world-social-science-report/" >World Social Science Report</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-79" class="key-section menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a
+href="http://www.worldsocialscience.org/activities/world-social-science-forum/" >World Social Science Forum</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-80" class="key-section menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a
+href="http://www.worldsocialscience.org/activities/world-social-science-fellows-programme/" >World Social Science Fellows Programme</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a
+href="http://www.worldsocialscience.org/activities/networking-conferences-for-young-scientists/" >Networking Conferences for Young Scientists</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a
+href="http://www.worldsocialscience.org/activities/scientific-prizes/" >Scientific Prizes</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a
+href="http://www.worldsocialscience.org/activities/scientific-programs-and-networks/" >Programmes and networks</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li></ul></li><li
+id="menu-item-187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-187"><a
+href="http://www.worldsocialscience.org//our-members" >Our Members</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a><ul
+class="sub-menu"><li
+id="menu-item-322" class="menu-item menu-item-type-taxonomy menu-item-object-member-group menu-item-322"><a
+href="http://www.worldsocialscience.org/member-group/associations-unions/" >Associations &#038; unions</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-323" class="menu-item menu-item-type-taxonomy menu-item-object-member-group menu-item-323"><a
+href="http://www.worldsocialscience.org/member-group/member-organisations/" >Member Organisations</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-324" class="menu-item menu-item-type-taxonomy menu-item-object-member-group menu-item-324"><a
+href="http://www.worldsocialscience.org/member-group/associate-members/" >Associate Members</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-1860" class="menu-item menu-item-type-taxonomy menu-item-object-member-group menu-item-1860"><a
+href="http://www.worldsocialscience.org/member-group/member-institution/" >Member Institution</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li></ul></li><li
+id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-94"><a
+href="http://www.worldsocialscience.org/resources/" >Resources</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a><ul
+class="sub-menu"><li
+id="menu-item-2085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2085"><a
+href="http://www.worldsocialscience.org/resources/publications/" >Publications</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a
+href="http://www.worldsocialscience.org/resources/event-calendar/" >Event Calendar</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-176"><a
+href="http://www.worldsocialscience.org//documents/" >Document archive</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167"><a
+href="http://www.worldsocialscience.org//resources/links" >Web resources</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-3669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3669"><a
+href="http://www.worldsocialscience.org/resources/survey-surveys/" >Survey of International Social Surveys</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li></ul></li><li
+id="menu-item-3262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3262"><a
+href="http://www.worldsocialscience.org/activities/world-social-science-report/the-2013-report/read-changing-global-environments/" >Changing Global Environments</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li><li
+id="menu-item-3670" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3670"><a
+href="http://blog.worldsocialscience.org" >Blog</a><a
+href="#" class="menu-toggle"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/menu-toggle.png"  /></a></li></ul></nav> </header><div
+class="carousel clearfix"><div
+class="illustrations"><ul><li> <a
+href="http://www.worldsocialscience.org/2014/02/issc-blog-launches-today/"> <img
+width="614" height="266" src="http://www.worldsocialscience.org/wp-content/uploads/2014/02/ppp-614x266.jpg" class="attachment-front-page-slide wp-post-image" alt="ppp" /> </a></li><li> <a
+href="http://www.worldsocialscience.org/2014/02/call-applications-world-social-science-fellows/"> <img
+width="614" height="266" src="http://www.worldsocialscience.org/wp-content/uploads/2013/05/Featured-image-CC3-614x266.jpg" class="attachment-front-page-slide wp-post-image" alt="Featured image CC3" /> </a></li><li> <a
+href="http://www.worldsocialscience.org/2014/01/transnational-institute-joins-issc/"> <img
+width="614" height="266" src="http://www.worldsocialscience.org/wp-content/uploads/2014/01/7413360698_1e2540a12e_b-614x266.jpg" class="attachment-front-page-slide wp-post-image" alt="7413360698_1e2540a12e_b" /> </a></li><li> <a
+href="http://www.worldsocialscience.org/2014/01/ethnografilm-festival/"> <img
+width="600" height="266" src="http://www.worldsocialscience.org/wp-content/uploads/2014/01/ethnografilm2-600x266.jpg" class="attachment-front-page-slide wp-post-image" alt="ethnografilm2" /> </a></li><li> <a
+href="http://www.worldsocialscience.org/2013/12/world-social-science-report-2013-changing-global-environments/"> <img
+width="614" height="266" src="http://www.worldsocialscience.org/wp-content/uploads/2013/11/10196213175_1cb81e461c_o-614x266.jpg" class="attachment-front-page-slide wp-post-image" alt="10196213175_1cb81e461c_o" /> </a></li></ul></div><div
+class="captions"><ul><li><h3>Read and comment on the new ISSC blog</h3><p></p> <a
+href="http://www.worldsocialscience.org/2014/02/issc-blog-launches-today/">Read more</a></li><li><h3>Call for Applications: World Social Science Fellows</h3><p></p> <a
+href="http://www.worldsocialscience.org/2014/02/call-applications-world-social-science-fellows/">Read more</a></li><li><h3>Transnational Institute Joins ISSC</h3><p></p> <a
+href="http://www.worldsocialscience.org/2014/01/transnational-institute-joins-issc/">Read more</a></li><li><h3>Ethnografilm Festival</h3><p></p> <a
+href="http://www.worldsocialscience.org/2014/01/ethnografilm-festival/">Read more</a></li><li><h3>World Social Science Report 2013: Changing Global Environments</h3><p></p> <a
+href="http://www.worldsocialscience.org/2013/12/world-social-science-report-2013-changing-global-environments/">Read more</a></li></ul></div><div
+class="navigation"> <a
+href="" class="previous"> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/carousel-navigation-previous.png" /> </a><div
+class="carousel-selection"></div> <a
+href="" class="next"> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/carousel-navigation-next.png" /> </a></div></div><hr
+class="wide" /><aside
+class="home-sidebar"><p
+class="welcome"> Strengthening the social sciences to help solve global problems</p><ul
+class="activities clearfix"><li> <a
+href="http://www.worldsocialscience.org/activities/world-social-science-report/"> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/issc_brandings_report.png" alt="World Social Science Report" /> </a></li><li> <a
+href="http://www.worldsocialscience.org/activities/world-social-science-forum/"> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/issc_brandings_forum.png" alt="World Social Science Forum" /> </a></li><li> <a
+href="http://www.worldsocialscience.org/activities/world-social-science-fellows-programme/"> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/issc_brandings_fellows_programme.png" alt="World Social Science Fellows Programme" /> </a></li></ul><div
+class="twitter-feed"> <a
+class="twitter-timeline" href="https://twitter.com/ISSCWorld" data-widget-id="312175800407441408">Tweets by @ISSCWorld</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></aside><section
+class="main"><article
+class="home-article home-article-1"><div><h1> <a
+href="http://www.worldsocialscience.org/2014/02/seeking-future-earth-engagement-committee/">Seeking Future Earth Engagement Committee</a></h1> <span
+class="post-date">February 17, 2014</span></div><div
+class="excerpt"><p>The Science and Technology Alliance for Global Sustainability is inviting applications for the Future Earth Engagement Committee. Future Earth is a 10-year international research programme that will provide the knowledge required for societies to face global environmental change and identify opportunities for transformations to global sustainability. Future Earth brings together thousands of scientists of all disciplines, [&hellip;]</p></div> <a
+href="http://www.worldsocialscience.org/2014/02/seeking-future-earth-engagement-committee/" class="read-more">Read more</a> </article> <article
+class="home-article home-article-2"><div><h1> <a
+href="http://www.worldsocialscience.org/2014/02/science-and-tech-for-women/">Science and technology for and about women</a></h1> <span
+class="post-date">February 17, 2014</span></div><div
+class="excerpt"><p>&nbsp; ISSC Director, Heide Hackmann, recently participated in the Organization for Women in Science for the Developing World&#8217;s GenderInSITE Coordinating Group meeting in Italy as an external expert. GenderInSITE, or Gender in Science, Innovation, Technology and Engineering, is a global initiative involving stakeholders from different sectors to promote the role of women in science, innovation, technology and engineering, and [&hellip;]</p></div> <a
+href="http://www.worldsocialscience.org/2014/02/science-and-tech-for-women/" class="read-more">Read more</a> </article> <article
+class="home-article home-article-3"><div><h1> <a
+href="http://www.worldsocialscience.org/2014/02/submit-abstract-international-disaster-risk-conference/">Submit an abstract to the International Disaster and Risk Conference</a></h1> <span
+class="post-date">February 12, 2014</span></div><div
+class="excerpt"><p>Be part of the unique Davos spirit and submit your abstract for the International Disaster and Risk Conference IDRC Davos 2014! The 5th International Disaster and Risk Conference will take place from 24 to 28 August 2014 in Davos, Switzerland. Organised in close cooperation with the United Nations Office for Disaster Risk Reduction, the conference will serve [&hellip;]</p></div> <a
+href="http://www.worldsocialscience.org/2014/02/submit-abstract-international-disaster-risk-conference/" class="read-more">Read more</a> </article> <article
+class="home-article home-article-4"><div><h1> <a
+href="http://www.worldsocialscience.org/2014/02/issc-blog-launches-today/">Read and comment on the new ISSC blog</a></h1> <span
+class="post-date">February 4, 2014</span></div><div
+class="excerpt"><p>The new World Social Science Blog, run by the International Social Science Council in Paris, is for our partners and members, for social scientists, natural scientists and other researchers, policymakers, funders, think tanks, and government agencies – indeed anyone interested in how the social sciences and other disciplines can contribute to social transformation and change [&hellip;]</p></div> <a
+href="http://www.worldsocialscience.org/2014/02/issc-blog-launches-today/" class="read-more">Read more</a> </article> <article
+class="home-article home-article-5"><div><h1> <a
+href="http://www.worldsocialscience.org/2014/02/geneva-summer-school-global-environmental-policy/">Geneva summer school on global environmental policy</a></h1> <span
+class="post-date">February 4, 2014</span></div><div
+class="excerpt"><p>&nbsp; &nbsp; Organised in partnership with UNEP, the Executive Summer School on Global Environmental Policy in Geneva will help professionals bridge the gap between scientific knowledge and professional expertise related to core environmental themes. It is organised by the University of Geneva and UNEP and will take place from 31st August to 12th September 2014 in Geneva. [&hellip;]</p></div> <a
+href="http://www.worldsocialscience.org/2014/02/geneva-summer-school-global-environmental-policy/" class="read-more">Read more</a> </article> <a
+href="http://www.worldsocialscience.org/category/news/" class="news-archive"> <span>news archive</span><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/news-arrow.png"> </a></section><footer><div
+class="footer-menu"> <nav
+class="footer-links clearfix"><ul
+id="menu-footer" class=""><li
+id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a
+href="http://www.worldsocialscience.org/legal/" >Legal</a></li><li
+id="menu-item-2437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2437"><a
+href="http://www.worldsocialscience.org/resources/event-calendar/" >Event Calendar</a></li><li
+id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a
+href="http://www.worldsocialscience.org/contact-us/" >Contact</a></li></ul></nav><div
+class="social-links"> <a
+href="https://twitter.com/ISSCWorld"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/social-icon-twitter.png" /></a> <a
+href="https://www.facebook.com/IntSocialScience"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/social-icon-facebook.png" /></a> <a
+href="http://www.youtube.com/user/ISSCWorld"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/social-icon-youtube.png" /></a> <a
+href="http://www.flickr.com/photos/isscworld/"><img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/social-icon-flickr.png" /></a></div></div><div
+class="affiliated"><h3>Our Partners</h3><div
+class="logo-container"> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/footer/footer-members_01.png" /> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/footer/footer-members_02.png" /> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/footer/footer-members_03.png" /> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/footer/footer-members_04.png" /> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/footer/footer-members_05.png" /> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/footer/footer-members_06.png" /> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/footer/footer-members_07.png" /> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/footer/footer-members_09.png" /> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/footer/footer-members_10.png" /> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/footer/footer-members_11.png" /> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/footer/footer-members_12.png" /> <img
+src="http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/img/footer/footer-members_13.png" /></div></div> </footer></div><script type='text/javascript' src='http://www.worldsocialscience.org/wp-content/plugins/google-calendar-events/js/jquery-qtip.js'></script><script type='text/javascript'>
+/* <![CDATA[ */
+var GoogleCalendarEvents = {"ajaxurl":"http:\/\/www.worldsocialscience.org\/wp-admin\/admin-ajax.php","loading":"Loading..."};
+/* ]]> */
+</script><script type='text/javascript' src='http://www.worldsocialscience.org/wp-content/plugins/google-calendar-events/js/gce-script.js'></script><script type='text/javascript' src='http://www.worldsocialscience.org/wp-includes/js/underscore.min.js?ver=1.4.4'></script><script type='text/javascript' src='http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/js/script.min.js'></script><script type='text/javascript' src='http://www.worldsocialscience.org/wp-content/themes/worldsocialscience/js/carousel.jquery.js?ver=3.8.1'></script><div
+id="fb-root"></div><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script></body></html>++++++++++++++++++++<Over>++++++++++++++++++++

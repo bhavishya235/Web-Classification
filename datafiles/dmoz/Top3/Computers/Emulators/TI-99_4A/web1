@@ -1,0 +1,387 @@
+====================<http://www.mrousseau.org/programs/ti99sim/>====================
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+
+  <head>
+    <meta name="Author" content="Marc Rousseau"/>
+    <title>The Official Home Page of TI-99/Sim</title>
+    <meta name="KeyWords" content="TI-99/4A ti99sim emulator"/>
+    <link rel="stylesheet" href="main.css" type="text/css" title="Default"/>
+    <link rel="shortcut icon" href="/images/ti.ico" type="image/x-icon"/>
+  </head>
+
+  <body>
+
+    <div class="header">
+      <div class="title">TI-99/Sim</div>
+      <div class="navigation">
+        <a href="README.html">Readme</a>
+        <a href="CHANGES.html">History</a>
+        <a href="CREDITS.html">Credits</a>
+        <a href="archives/">Downloads</a>
+        <a href="http://www.gnu.org/licenses/gpl.html">License</a>
+      </div>
+    </div>
+
+    <div class="body">
+
+      <div class="menu">
+        <a href="/">Home</a><br/>
+        <a href="../">Up</a><br/>
+      </div>
+
+      <div class="content">
+
+        <h3>History</h3>
+
+        <div>
+
+          <p>Well, here's my contribution to the TI-99/4A community. A few years back, I thought it would be neat to be able to play my old TI games on my PC. Instead of doing the smart thing (looking for an existing emulator), I sat down and wrote my own. At first is was a simple text-based simulation of the TI. Then I added graphical support for the OS/2 Presentation Manager. When I got bored with that, I ported it to Windows and added sound support. Now I've decided to try my hand at a Linux/cross-platform version. In the spirit of Linux and Open Source, I'm releasing the code under the <a href="http://www.gnu.org/licenses/gpl.html"><acronym title="GNU Public License">GPL</acronym></a> license.</p>
+
+          <p><b>Note</b>: In order to run the emulator, you need to create a cartridge that contains the console <acronym title="Read-Only Memory">ROM</acronym> &amp; <acronym title="Graphics Read-Only Memory">GROM</acronym>s from the TI. Texas Instruments will not allow these to be distributed, so you'll need to find a way to get them yourself. Please don't e-mail me asking for a copy - I won't even bother to respond. If you have a working copy of <a href="http://www.99er.net/emul.shtml#V9T9">v9t9</a>, instructions are included to help you create the required cartridge.</p>
+
+        </div>
+
+        <h3>What's New</h3>
+
+        <div>
+
+          <img class="screen-dump" src="/images/ti.png" width="256" height="192" alt="TI Screen" align="right"/>
+
+          <p class="release-date"> 14-Jul-2012</p>
+
+          <p class="indent">Version 0.0.11: It's been a while, but this project is still alive. There hasn't been any single feature that warranted a new release, but since it's been so long since the last release, I thought I'd make a new one. The biggest change is the support for 64-bit systems. New Makefiles should make it easier to build on the Mac. There have also been a number of minor changes to the utilities and internal code (see the <a href="README.html">README</a> file for details). Finally, limited support for CF7+/nanoPEB images has been added.</p>
+
+          <p class="release-date"> 20-Sep-2003</p>
+
+          <p class="indent">Version 0.0.10: Minor improvements to some of the utilities and a fix for the install. The most notable improvement to the utilities is the ability to read .ark files (files compressed using Barry Boone's archiver). Using the <b>disk</b> utility, files in an archive can be extracted to a file and added to an existing disk image (oh yeah, <b>disk</b> can now add files as well).</p>
+
+          <p class="release-date">30-Aug-2003</p>
+
+          <p class="indent">Version 0.0.9: Finally, ti99sim now runs on Mac OS X! I managed to convince my <a href="http://www.craigrousseau.com/">brother</a> to let me play around on his Mac in an effort to get ti99sim working. The good news: It compiles and runs just fine on the Mac (last time I checked). The bad news: 1) I don't currently have access to the Mac, so no Mac release in the archives yet. 2) I'm not familiar enough with Mac OS X to make a proper install package. In order to use ti99sim, you'll need to open a terminal window and use the command line (just like everybody else).</p>
+          <p class="indent">For those of you that don't have a Mac, this release also adds resizable window support, new scaling routines (<a href="http://scale2x.sourceforge.net/">Scale2X &amp; Scale3X</a> from the <a href="http://advancemame.sourceforge.net/">AdvanceMAME</a> project) for double-size and triple-size windows, an alternate color palette selection, selectable master volume level, and several minor improvements. There is also a new utility that will let you play speech samples from the speech synthesizer ROM from the command line.</p>
+
+          <p class="release-date">30-Aug-2002</p>
+
+          <p class="indent">Version 0.0.8: Changes include: improved support for international keyboards, more accurate clock cycle emulation, proper support of reduced frame rates, better audio quality under Windows NT, and a <q>verbose</q> mode added to most programs. Emulation of the TMS9901 has also been rewritten to provide programs access to the chip's timer mode. There is also a new utility: <b>dumpspch</b>. This program allows you to dump a valid TI Speech ROM to either a hexadecimal or parsed text file. The parsed file allows you to more easily edit the individual <acronym title="Linear Predictive Code">LPC</acronym>-10 speech frames. The modified file can then be converted back to a valid spchrom.bin file using <b>mkspch</b>. The <b>decode</b> utility has also been reworked to do a better job at detecting and recovering audio data from .wav files. The number of different .wav file formats supported has also been expanded. The README.html file has been updated and cleaned up as well.</p>
+
+          <p class="release-date">06-Dec-2001</p>
+
+          <p class="indent">Version 0.0.7: There was a bug in the <b>convert-ctg</b> utility released in v0.0.6 that resulted in the inability to create a DSR cartridge (which meant no disk I/O). The TMS9918A (<acronym title="Video Display Processor">VDP</acronym>) emulation support has also been improved and includes multicolor mode support, 4 sprite/line limit, 5th sprite detection, and coincidence checking. A few more minor changes and one new utility: <b>list</b> - a simple command line tool to list a TI BASIC/Extended BASIC program.</p>
+
+        </div>
+
+        <h3>Features</h3>
+
+        <p class="release-date">General</p>
+
+        <ul>
+          <li>Emulation of the TI-99/4A Home Computer.</li>
+          <li>Core emulator written in C for portability to multiple platforms.</li>
+          <li>Tracks the emulated CPU speed so it runs at the right speed even on the fastest processors.</li>
+          <li>Runs under Linux, Mac OS X, and Win32 (Windows 9X, Windows NT)</li>
+          <li>Speed is kept as close as possible to the actual speed of the TI.</li>
+          <li>Supports banked cartridges (like TI Extended BASIC).</li>
+          <li>32K RAM Expansion emulation.</li>
+          <li>Save/restore the complete computer state (So you can pick up that game you were playing right where you left off).</li>
+          <li>Save/restore the contents of battery-backed <acronym title="Random-Access Memory">RAM</acronym> cartridges (Mini-Memory, Gram Kracker&#8482;, etc&#8230;) to disk when cartridge is removed.</li>
+          <li>Support for Gram Kracker&#8482; emulation (requires actual <acronym title="Gram Kracker">GK</acronym> GROM images).</li>
+
+          <li>TMS9901 emulation support.</li>
+        </ul>
+
+        <p class="release-date">Graphics</p>
+
+        <ul>
+          <li>Uses <a href="http://www.libsdl.org/"><acronym title="Simple DirectMedia Layer">SDL</acronym></a> for graphics, sound, and joysticks - supports X11 and Win32.</li>
+          <li>All documented modes emulated.</li>
+          <li>Full sprite support: 4 sprite per line limit / co-incidence checking / 5th sprite flag/index.</li>
+          <li>Scalable &amp; Resizable window.</li>
+          <li>Full screen mode.</li>
+        </ul>
+
+        <p class="release-date">Sound Support</p>
+
+        <ul>
+          <li>Three voice support using native sound device.</li>
+          <li>Noise generation supported.</li>
+        </ul>
+
+        <p class="release-date">Speech Synthesis</p>
+
+        <ul>
+          <li>Access the built-in speech ROM (TI Extended BASIC). <em>NOTE: Requires a speech synthesizer ROM dump.</em></li>
+          <li>Modules with external speech samples (Parsec, Alpiner, Terminal Emulator II, ...).</li>
+        </ul>
+
+        <p class="release-date">Joystick Support</p>
+
+        <ul>
+          <li>Hardware joystick support.</li>
+          <li>Emulated joystick using the numeric keypad.</li>
+        </ul>
+
+        <p class="release-date">Disk Support</p>
+
+        <ul>
+          <li>Emulation of the floppy disk controller (currently limited to SSSD and DSSD images).</li>
+          <li>Complete read/write support for floppy disks. <em>NOTE: Requires a <acronym title="Texas Instruments">TI</acronym> disk controller ROM dump.</em></li>
+          <li>Supports disk images created by AnaDisk, v9t9, PC99, and CF7+.</li>
+          <li>The <b>disk</b> utility can convert between formats, add, remove, and extract files.</li>
+        </ul>
+
+        <h3>Coming soon</h3>
+
+        <ul>
+          <li>Cassette I/O support.</li>
+          <li>Add a GUI and port menus/hot-keys/features from Windows version.</li>
+        </ul>
+
+        <h3>Programs included</h3>
+
+        <ul>
+          <li><b>ti99sim-sdl</b> - The SDL based version of the emulator.</li>
+          <li><b>ti99sim-console</b> - A simple, text-based emulator with an <acronym title="Miller's Graphics">MG</acronym> Explorer style interface.</li>
+          <li><b>convert-ctg</b> - A utility to convert various files to the cartridge format used by ti99sim. It will convert cartridge files on a TI disk created by a Gram Kracker&#8482;, specially formatted hex dumps, and .hex/.bin files from v9t9 to the native cartridge file format.</li>
+          <li><b>decode</b> - A simple program to convert a .wav file recording of a TI audio tape into a binary file. Supports all integer PCM formats (8/16/32-bit, mono/stereo/multi-track).</li>
+          <li><b>disk</b> - A simple program to display a listing of files on a TI disk image created by AnaDisk, v9t9, or PC99. All disk densities are supported, from SSSD to DSDD. In addition to listing disk contents, it can add and delete files to/from the disk image as well as extract files from a disk image to <q>normal</q> PC files or v9t9 FIAD files.</li>
+          <li><b>dumpcpu</b> - A TMS9900 disassembler that will dump the ROM code in a cartridge file.</li>
+          <li><b>dumpgrom</b> - A <acronym title="Graphics Programming Language">GPL</acronym> disassembler to dump the contents of GPL code in a cartridge.</li>
+          <li><b>dumpspch</b> - A utility to dump the contents of the TI Speech ROM to a text file.</li>
+          <li><b>list</b> - A utility to list TI BASIC/Extended BASIC programs stored in <q>normal</q> PC format or FIAD format.</li>
+          <li><b>mkspch</b> - A utility to create a spchrom.bin file for the emulator.</li>
+          <li><b>say</b> - A utility to playback speech samples found in the spchrom.bin file.</li>
+        </ul>
+
+        <h3>Latest</h3>
+
+        <div class="indent">
+          <a href="archives/ti99sim-0.0.11.src.tar.gz">ti99sim-0.0.11.src.tar.gz</a><br/>
+          <a href="archives/ti99sim-0.0.11.x86.tar.gz">ti99sim-0.0.11.x86.tar.gz</a><br/>
+          <a href="archives/ti99sim-0.0.11.amd64.tar.gz">ti99sim-0.0.11.amd64.tar.gz</a><br/>
+          <a href="archives/ti99sim-0.0.11.win32.zip">ti99sim-0.0.11.win32.zip</a><br/>
+          <p>Past versions can be found in the <a href="archives/">archives</a>.</p>
+        </div>
+
+        <h3>Requirements</h3>
+
+        <ul>
+          <li><a href="http://www.libsdl.org/">Simple DirectMedia Layer</a> - A cross-platform multimedia library</li>
+          <li>Linux distributions using the provided binaries require gcc 4.6 run-time libraries (libstdc++.so.6, libm.so.6, libgcc_s.so.1, and libc.so.6).</li>
+        </ul>
+
+        <h3>Contact</h3>
+
+        <div class="indent">
+          If you have any questions, comments, or suggestions, let <script language="JavaScript">user="ti99sim"; site="mrousseau.org"; document.write('<a href="mailto:'+user+'@'+site+'">me</a>');</script><noscript>me</noscript> know.
+        </div>
+
+        <h3>Interesting TI-99/4A related links</h3>
+
+        <ul>
+          <li><a href="http://www.stanford.edu/~thierry1/ti99/titechpages.htm">The TI-99/4A Tech Pages</a> - An excellent collection of all sorts of information about the TI-99/4A.</li>
+          <li><a href="http://www.netten.net/~garycox/vend0396.htm">TI-99/4A Vendors</a> - A list of companies dealing with the TI.</li>
+        </ul>
+        <div class="footer">
+          <div class="copyright">
+            <p>Copyright &copy; 2012 - This page was last updated on 14-Jul-2012</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://shawweb.myzen.co.uk/stephen/TI.htm>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<HEAD>
+<link rel="stylesheet" type="text/css" href="maincss.css"> 
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+
+  <LINK REL="shortcut icon" href="favicon.ico">
+<link rel="Icon" href="favicon.ico">
+
+<!-- next line used by search engines -->
+<meta name="keywords" content="Texas Instruments, TI99, TI99/4A, home computer, pc99, stephen shaw, extended basic, TI99/4A picture, Jim Peterson, Logo, Cadd,  TI99/4a book, mess TI disks " >
+<!-- next line appears in search engine description -->
+<meta name="description" content="Texas Instruments TI99/4A Home Computer, tips on programming TI99/4a, programs for PC99, and music composed for the TI99/4a" >
+
+
+<title>TI99/4A Computer Resources</title>
+
+</head>
+
+<BODY TEXT="#000099" BGCOLOR="#ffe4b5" LINK="#990000" ALINK="#0000ff" VLINK="#2b7813">
+<a href="#sn" title="skip navigation (access key s)" accesskey="s"><img src="blank.png" alt="skip navigation access key s"
+width="2" height="2" border="0"></a>
+
+<a href="access.htm" accesskey="0">Access Key Details </a> || A cookie may have been set <a href="afs.htm" title="Cookie from addfreestats, expiry 4 years, for analytical purposes; not used to target adverts; cookie only readable by addfreestats servers not other domains; may be refused without affecting site operation"> Read about refusing and controlling cookies</a>  
+
+<br>
+
+<center>
+<br>
+Links to other parts of this web site are at the bottom of the page.<br>
+
+</center> 
+<img src="ti.jpg" align="right" height="150" width="250" alt="small image of TI99/4a console" title="TI-99/4a Console">
+
+<P> Go to other TI pages:    <br>         <a  href="http://shawweb.myzen.co.uk/stephen/book.htm">TI Book front page</a> | 
+<a href="articles.htm" title="Index of articles on this site from UK magazines of interest to users of the TI99/4a and its emulations">TI Articles</a> 
+   | <a href="pc99.htm">PC99 Review</a>        | <a href="pc99dsk.htm">Programs for emulators</a> (PC99/ v9t9, Mess)   <br> <a name="sn" id="sn">  </a>
+
+
+
+
+<FORM method="GET" action="https://www.google.com/search"><fieldset>
+<legend>Search ONLY this web site using Google:</legend>
+<label for="shawweb">Search for:</label> 
+   <INPUT TYPE="text" name="as_q" id="shawweb" size="38" maxlength="255" value="enter term here">
+   <input type="hidden" name="as_sitesearch" value="shawweb.myzen.co.uk"> 
+   <input name="num" type="hidden" value="31">
+   <input name="safe" type="hidden" value="active">
+       <INPUT type=submit VALUE="Search this web site"><p>
+READ ME: One visitor to this web site arrived by a Google search on Turbo Pascal. He came to the Articles  page, found an article on uscd Pascal, went to it and left. If he had read the details on the Articles page more carefully *OR USED THIS SEARCH FACILITY* he would have found the pages referring to Turbo Pasc 99.
+    </fieldset>  </form>
+
+
+<p>
+The full book <a  href="book.htm" title="Book: Getting Started with the TI-99/4a">Getting Started with the Texas Instruments TI99/4A  by Stephen Shaw</a> online. <p>
+<font size="+1">   This site has a number of <a href="articles.htm">articles about the TI99/4A</a> (some quite long)- this link will take you to a descriptive menu.
+</font> <p>    
+
+<b>Request</b> - Has anyone in the UK succeeded in connecting the video output of a TI99/4a to a modern monitor with component video (YUV) input? I suspect a direct connection could be harmful as the TI was not manufactured for this usage. Analog tv sets are quite difficult to buy these days...  thanks.<p>
+
+Now on the internet, details of the many programs that were sold in the UK in the <a href="stainless1.htm">Stainless Software catalogue</a> starting with the programs still on sale in 1985 and then towards the end adding the programs that had been dropped by then. With links to the commercially published reviews and where possible new screen shots.<p>
+
+  <A name="after" title="publicity photograph of TI-99/4a" href="ti99pic.jpg">An official  photograph</a> (32k) - taken for publicity purposes showing 
+  the console (keyboard)   and (not connected) behind it the Expansion Box (for 32k ram, disk controller and 90k 5.25" disk drive). 
+  To the left a pair of joysticks. To the right   a speech synthesiser and an acoustic modem (modem never sold in the UK).
+  Photo by Jim Childress of Lubbock, Texas. This image has not been taken from another web site but is a scan of an original print I own.
+  <p>
+  A very early module for the TI99/4a, used in stores, was the Demonstration   Module. A short tune was written for this by 
+<a href="http://www.webfeats.com/diary/bio.html">Hank (Henry C) Mishkoff</a> (in his own time)
+  and Hank has supplied two Midi arrangements of the tune, <a href="ti1.mid">TI1.MID</a> and 
+  <a href="ti2.mid">TI2.MID</a> - under 3k each. If you do not have .MID files
+  associated with a .MID player, save the files and play them later.   Hank left TI before the computer was marketed. Hank has a 
+<a href="http://www.webfeats.com/">web site</a> too. One reader wrote to tell me these two files were identical- nope, I've printed out the music. The TUNE is the same but
+the instruments differ, the odd note is slightly different and one has an added counter-melody. Perhaps you need a musical ear to detect the changes Hank made!<p>
+
+There is a huge variety of TI99/4A related material- documents and software- at <a href="ftp://ftp.whtech.com/">Western Horizon</a> ftp site which should probably be your first port of call for historic TI items, including emulators and programs for them.<p> 
+
+Tunnels of Doom was an early graphic rpg, and was very popular indeed. It was written over some 18 months by Kevin Kenney, a TI employee, but not paid to write TI99/4 software - who did it in his own time, including the original music. You can still play Tunnels of Doom with the original hardware, a remarkable amount of which is still functional (except there are problems hitching a 99/4a to a none-analogue tv these days). Or you can use one of the fine emulators such as pc99, v9t9 or MESS. Or, someone has written an excellent cross platform version of <a href="http://www.dreamcodex.com/todr.php">Java 1.6 Tunnels of Doom</a> which will run on almost any platform supporting java version 1.6 - that is, Windows, Linux and so on. The music has been rescored symphonically, and game play has been subject to a few adjustments. On our version of java there were problems with music playing and with leakage- we had to remove a java heap limit and we find memory usage is generally over 200 meg after an hour or so. <p>
+
+Jim Muller began working with LOGO while public relations manager for Texas Instruments in 1979.  After introducing TI LOGO, the first
+commercial Logo package, in April 1981, Muller organised the first Logo users group, The Young Peoples Logo Association. TI Logo is
+available for the TI emulators. In 1997 Jim had a book published <a href="http://www.softronix.com/download/tgla.zip">The Great 
+Logo Adventure</a>(here as a 3.6 megabyte zipped download), complete with CD Rom for PC and Mac, supporting 
+<a href="http://www.softronix.com/logo.html">MSW Logo</a>. <p> 
+ 
+One of the educational modules for the TI99/4A was <a href="http://en.wikipedia.org/wiki/PLATO_System">PLATO</a>, a mini-PLATO from CDC, 
+which used a huge number of data disks to teach almost anything. The PLATO courseware system is
+still in use despite several changes of ownership and technology. <p>
+
+
+
+  A long standing supporter of the TI99/4a was Jim Peterson of Columbus,   Ohio. Jim produced a monthly column, reprinted in 
+  virtually every user group newsletter, for many years. Jim died some years ago, however in his 
+  memory here are two issues presented in TXT format in the original 28 
+  columns that Jim used, to fit 3 columns per A4 page. 
+  <a href="jimp.jpg">Picture of Jim (12k)</a> |   <a href="jp.txt">Jim Peterson Tips from the Tigercub</a> (24k)
+  <hr>
+  Visit <a href="http://www.cadd99.com/">CaDD Electronics</a> for
+details of the PC99 TI99/4a Emulator for the PC.<br> To run PC99 in its native DOS operating system you may need to get a copy of <a href="freedos.htm">FreeDOS</a>, one
+flavour of which runs from a floppy with no hard disk install or partitioning.<p>
+A very strongly recommended product from CaDD, supporting their PC99 product is a very handsomely full DVD-ROM (The Cyc) for just US$25 inclusive, which includes a lot of printed material in PDF format, and many  programs (thousands) to run with the PC99 emulator including the entire Tigercub and Amnion software libraries. A lot of work has gone into this and  it is excellent value. Even if you choose not to run PC99 (for copyright reasons relating to the licence Mike has, you have to buy a copy of PC99 in order  to buy the Cyc), the Cyc still has very much material of use including for example all the TI modules in PC99 format and  9900 assembly language primers. The content is readily and easily searchable. Cost with PC99 Lite is US$74, well worth it for the immense value of the fully legal content. (Want to see a photo of a TI99/7?).
+
+<p>
+<a href="pc99.htm">A review of PC99 release 5 &amp; 6.</a><p>
+
+DOWNLOAD <a href="pc99dsk.htm" title="Programs for the TI-99/4a emulators PC99 and MESS">TI99/4A Programs</a> to run on the PC99 emulator, or the MESS emulator. <br>
+ <a href="http://www.ricks-graphics.co.uk/area99/emulate.htm" title="Emulating a TI99/4a with MESS">How to emulate a TI99/4A with MESS</a> includes downloads for W** systems. On Opensuse Linux I am using Mandrake/Mandriva rpm packages of MESS with no problems.<p>
+
+I had to do a bit of work with the groms, but the Linux emulator <a href="http://www.mrousseau.org/programs/ti99sim/">ti99sim</a> now works nicely for me. Somewhat sensitive to the console grom format but certainly doable. Just unpack the tar-gz - no installation- and then my command line is:<br>
+/windoze/dos3/TI/ti99sim-0.0.10/ti99sim-sdl   --dsk1=exbas2.dsk   sxba.ctg<br>
+which sets which dsk file to use and which cartridge (Super Extended Basic in this instance). My grom files are called ti-disk.ctg and TI-994A.ctg - note the upper/lower case. <p> 
+
+The TI Module Munchmobile was based upon an arcade game known outside the US as Joyful Road. The TI Module Car Wars was based upon an arcade machine game variously called Head On, Dodgem, and Crash. The arcade game Kangaroo was emulated in the  Extended Basic game Roo. The arcade game Astro Invader was emulated in the Basic game by Not Polyoptics, 99Vaders. Arcade game Crazy Climber was emulated in the Basic game called Crazy Cliff. Many arcade games kept their original titles when transferred to TI Modules. <p>
+
+
+<h3>PC99 Menu (Shareware)</H3>
+To help you easily select modules in PC99: PC99 Menu, by George Shaw. The program will read the PC99.MOD file to make up a menu of modules available, for easy selection with mouse or keyboard. Written in Quickbasic to run on any platform PC99 is happy with. Shareware ($8 suggested). Tested  on PC99 VN 5 and Vn 6.
+<a href="menuinst.exe">Download PC99 Menu program</a> - 95k self extracting exe format.<br>
+The EXE file includes documentation but you can read it before you download the program:  
+<a href="pc99menu.htm">Read the documentation</a> first  or 
+<a href="pc99.gif">View a screen grab</a> of the program in action (53k).
+<hr>
+My TI99/4 and 4A led me to meet and correspond with many people over the years, sometimes over many years. Some of these have inevitably but sadly died.  Here in the UK especially missed are R Matthews of TX Software, who died much too young and so early in the TI's lifetime that few will know of him. He was a first class programmer- sufficient to lead a Cornish software pirate to offer me Mr Matthew's programs as his own. Ian Martin of Timeless Software published several fine programs and also died much too young. Christine Godman of Christine Computing was a great supporter of the TI and has now gone. I corresponded for many years with Americans Ray Kazmer, Jim Peterson,  and Guy Stefan Romano,  sadly missed. Thomas Weithoffer lived just long enough to release a TI99 version of the language Pilot.<p>
+Apparently I was awarded an "Edgar Mauk Award" for services to UK TI Owners back in the year 2000, but I only learned about this in 2013! Nobody told me, and the award itself seems to have been trashed. Thanks guys.<br>
+Later in May 2013 I was entered into the 99ers Hall of Fame- founded in 2004 - the first British person to be so honoured. The original published biography about me was not approved and mostly in error, but was corrected in 2014 - and the honour is real and much appreciated.
+<hr>
+This website was archived by the British Library on <a href="http://www.webarchive.org.uk/wayback/archive/20100805220016/http://www.btinternet.com/~shawweb/stephen/TI.htm">5th August 2010</a> and again on <a href="http://www.webarchive.org.uk/wayback/archive/20120805220030/http://shawweb.myzen.co.uk/stephen/TI.htm">5th August 2012</a>.
+ <br>
+  Thank you for visiting.  <br>
+<center>Stephen Shaw  -  - <a href="contact.htm">Contact me</a>
+</center>
+
+                  <br>
+
+<center>
+ 
+  <a href="index.htm">Return to Stephen's Entry Page</a></center>
+<hr>
+
+<P><A HREF="http://validator.w3.org/"><IMG BORDER=0
+     SRC="w3.gif"
+     ALT="Valid HTML 3.2!" HEIGHT=31 WIDTH=88></A> 
+
+
+<hr>
+<!-- ADDFREESTATS.COM AUTOCODE V4.0 -->
+<script type="text/javascript">
+<!--
+var AFS_Account="00915281";
+var AFS_Tracker="auto";
+var AFS_Server="www9";
+var AFS_Page="DetectName";
+var AFS_Url="DetectUrl";
+// -->
+</script>
+<script type="text/javascript" src="http://www9.addfreestats.com/cgi-bin/afstrack.cgi?usr=00915281">
+</script>
+<noscript>
+<a href="http://www.addfreestats.com" >
+<img src="http://www9.addfreestats.com/cgi-bin/connect.cgi?usr=00915281Pauto" border=0 alt="AddFreeStats.com Free Web Stats!">Web Stats</a>
+</noscript>
+
+<!-- ENDADDFREESTATS.COM AUTOCODE V4.0  -->
+
+
+<small>  <a href="afs.htm">A note about the addfreestats</a> tracker used on this web site and the use of cookies. </small> 
+<hr>
+<a href="access.htm" accesskey="0">Access Key Details </a> <br>
+<center><font size="2">
+<a href="index.htm" accesskey="1">Stephen's Entry Page</a> |  
+<a href="TI.htm" accesskey="2">TI99/4a</a> |<a href="linux.htm" accesskey="3">Linux</a> |<a href="sch.htm" accesskey="4">Search</a> |
+<a href="thomas0.htm" accesskey="5">History St Thomas Church Heaton Chapel</a> |
+  <a href="ent.htm" accesskey="6">Entertainment</a> | <a href="music.htm" accesskey="7">Music Links</a> 
+<br>
+
+ <a href="ref.htm">Light Reference</a> | <a href="ref2.htm">Educational Reference</a> |  <a href="sf.htm">Science Fiction</a> |
+ 
+   <a href="travel.htm">Travel</a>  | <a href="newspap.htm">News Links</a> | <a href="anime.htm">Anime</a>
+</font></center>
+
+
+
+
+</BODY></HTML>
+
+++++++++++++++++++++<Over>++++++++++++++++++++

@@ -1,0 +1,2648 @@
+====================<http://www.kstreet.com/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title> K STREET TRAINING</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+</head>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25430808-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<body>
+<table width="900" height="593" border="0">
+  <tr> 
+    <td height="111"><img src="images/TOPMENU.png" width="900" height="125" border="0" usemap="#Map" lowsrc="images/CONTACTTOP.png"></td>
+  </tr>
+  <tr> 
+    <td height="70"><img src="images/KSTINFO.png" width="900" height="60"></td>
+  </tr>
+  <tr>
+    <td height="315" align="left" valign="bottom"><font size="-3">UPDATED 9 APR 
+      2011</font></td>
+  </tr>
+  <tr> 
+    <td><img src="images/BOTTOMINFO.png" width="900" height="60"></td>
+  </tr>
+</table>
+<map name="Map">
+  <area shape="rect" coords="156,66,215,84" href="HISTORY.htm">
+  <area shape="rect" coords="98,64,145,84" href="index.html">
+  <area shape="rect" coords="228,66,303,85" href="contact.htm">
+  <area shape="rect" coords="372,61,432,82" href="reviews.htm">
+  <area shape="rect" coords="435,62,474,83" href="#">
+  <area shape="rect" coords="618,61,732,86" href="#">
+  <area shape="rect" coords="762,61,870,82" href="#">
+  <area shape="rect" coords="314,67,364,82" href="client.htm">
+</map>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.tecedu.com/>====================
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+
+
+
+<!--The Title-->
+
+<title>Tech Ed Concepts - Educators’ Source for Engineering / STEM Teaching &amp; Lab Solutions</title>
+
+
+
+ 
+<script type="text/javascript" src="swfobject.js"></script>
+
+ <!--The Meta Info-->
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+ <script src="/js/jquery-1.2.6.min.js" type="text/javascript"></script> 
+<script type="text/javascript">
+            $(document).ready(function(){
+
+                $("#contactLink").click(function(){
+                    if ($("#contactForm").is(":hidden")){
+                        $("#contactForm").slideDown("slow");
+                    }
+                    else{
+                        $("#contactForm").slideUp("slow");
+                    }
+                });
+                
+            });
+            
+            function closeForm(){
+                $("#messageSent").show("slow");
+                setTimeout('$("#messageSent").hide();$("#contactForm").slideUp("slow")', 2000);
+           }
+        </script>
+
+
+<!--The Stylesheets-->
+
+<link rel="stylesheet" href="http://www.tecedu.com/wp-content/themes/FlexxDark/style.css" type="text/css" media="screen" />
+
+<!--[if lte IE 7]>
+
+    <link rel="stylesheet" href="http://www.tecedu.com/wp-content/themes/FlexxDark/css/lte-ie7.css" type="text/css" media="screen" />
+
+<![endif]-->
+
+<!--[if lt IE 7]>
+
+    <link rel="stylesheet" href="http://www.tecedu.com/wp-content/themes/FlexxDark/css/lt-ie7.css" type="text/css" media="screen" />
+
+    <script src="http://www.tecedu.com/wp-content/themes/FlexxDark/js/dropdown.js" type="text/javascript"></script>
+
+<![endif]-->
+
+
+
+<!--The RSS and Pingback-->
+
+<link rel="alternate" type="application/rss+xml" title="Technology Education Concepts, Inc RSS Feed" href="http://www.tecedu.com/feed/" />
+
+<link rel="pingback" href="http://www.tecedu.com/xmlrpc.php" />
+
+
+
+<link rel='stylesheet' id='nextgen_gallery_related_images-css'  href='http://www.tecedu.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/nextgen_gallery_related_images.css?ver=3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-face-daniel-css'  href='http://www.tecedu.com/wp-content/plugins/wp-font-face/fonts/daniel/stylesheet.css?ver=3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-face-gen-css'  href='http://www.tecedu.com/wp-content/plugins/wp-font-face/generated.css?ver=3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-face-css'  href='http://www.tecedu.com/wp-content/plugins/wp-font-face/additional.css?ver=3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mp-store-theme-css'  href='http://www.tecedu.com/wp-content/plugins/wordpress-ecommerce/marketpress-includes/themes/icons.css?ver=2.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ithemes_feedburner_widget-theme-options-css'  href='http://www.tecedu.com/wp-content/themes/FlexxDark/lib/feedburner-widget/css/style.css.php?ver=3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ssbaFont-css'  href='http://fonts.googleapis.com/css?family=Indie+Flower&#038;ver=3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ssba-page-styles-css'  href='http://www.tecedu.com/wp-content/plugins/simple-share-buttons-adder/css/page-style.css?ver=3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-lightbox-2.min.css-css'  href='http://www.tecedu.com/wp-content/plugins/wp-lightbox-2/styles/lightbox.min.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://www.tecedu.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.tecedu.com/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-form-revisited-plugin-style-css'  href='http://www.tecedu.com/wp-content/plugins/simple-contact-form-revisited-plugin/assets/css/style.css?ver=2.0.9' type='text/css' media='screen' />
+<link rel='stylesheet' id='page-list-style-css'  href='http://www.tecedu.com/wp-content/plugins/sitemap/css/page-list.css?ver=4.2' type='text/css' media='all' />
+<link rel="stylesheet" type="text/css" href="http://www.tecedu.com/wp-content/plugins/wp-facebox-gallery/facebox3.css" />
+<script type="text/javascript">/* wp-facebox */
+	WPFB = { root: "http://www.tecedu.com/wp-content/plugins/wp-facebox-gallery", home: "http://www.tecedu.com", site: "http://www.tecedu.com" };
+	WPFB.options = {
+		image_types     : [ 'png', 'jpg', 'jpeg', 'gif' ],
+		loadingImage	: WPFB.root + '/images/v3/loading.gif',
+		closeImage		: WPFB.root + '/images/v3/closelabel.png',
+		next_image      : WPFB.root + '/images/v3/fast_forward.png',
+        prev_image      : WPFB.root + '/images/v3/rewind.png',
+        play_image      : WPFB.root + '/images/v3/play.png',
+        pause_image     : WPFB.root + '/images/v3/pause.png'
+	};
+</script>
+<script type='text/javascript' src='http://www.tecedu.com/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.tecedu.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.tecedu.com/wp-content/plugins/wp-facebox-gallery/facebox3.js?ver=3.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var photocrati_ajax = {"url":"http:\/\/www.tecedu.com\/photocrati_ajax","wp_site_url":"http:\/\/www.tecedu.com","wp_site_static_url":"http:\/\/www.tecedu.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.tecedu.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.js?ver=3.7.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var MP_Ajax = {"ajaxUrl":"http:\/\/www.tecedu.com\/wp-admin\/admin-ajax.php","emptyCartMsg":"Are you sure you want to remove all items from your cart?","successMsg":"Item(s) Added!","imgUrl":"http:\/\/www.tecedu.com\/wp-content\/plugins\/wordpress-ecommerce\/marketpress-includes\/images\/loading.gif","addingMsg":"Adding to your cart...","outMsg":"In Your Cart"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.tecedu.com/wp-content/plugins/wordpress-ecommerce/marketpress-includes/js/store.js?ver=2.5.1'></script>
+<script type='text/javascript' src='http://www.tecedu.com/wp-content/themes/FlexxDark/lib/featured-images/js/jquery.cross-slide.js?ver=3.7.1'></script>
+<script type='text/javascript' src='http://www.tecedu.com/wp-content/themes/FlexxDark/lib/contact-page-plugin/js/md5.js?ver=3.7.1'></script>
+<script type='text/javascript' src='http://www.tecedu.com/wp-content/themes/FlexxDark/lib/contact-page-plugin/js/contact-page-plugin.js?ver=3.7.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.tecedu.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.tecedu.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.7.1" />
+<link rel='shortlink' href='http://www.tecedu.com/?p=3' />
+
+<link rel="stylesheet" href="http://www.tecedu.com/wp-content/plugins/fv-wordpress-flowplayer/css/flowplayer.css?ver=2.1.50" type="text/css" media="screen" />
+
+
+
+<style type="text/css">
+			.flowplayer { border: 1px solid #666666 !important; }
+	
+	.flowplayer, flowplayer * { margin: 0 auto 28px auto; display: block; }
+	.flowplayer .fp-controls { background-color: #1b1b1d !important; }
+	.flowplayer { background-color: #ffffff !important; }
+	.flowplayer .fp-duration { color: #ffffff !important; }
+	.flowplayer .fp-elapsed { color: #ededed !important; }
+	.flowplayer .fp-volumelevel { background-color: #707070 !important; }  
+	.flowplayer .fp-volumeslider { background-color: #4d4d4d !important; }
+	.flowplayer .fp-timeline { background-color: #666666 !important; }
+	.flowplayer .fp-progress { background-color: #707070 !important; }
+	.flowplayer .fp-buffer { background-color: #4d4d4d !important; }
+	#content .flowplayer, .flowplayer { font-family: Tahoma, Geneva, sans-serif; }
+	#content .flowplayer .fp-embed-code textarea, .flowplayer .fp-embed-code textarea { line-height: 1.4; white-space: pre-wrap; color: #ffffff !important; height: 160px; font-size: 10px; }
+	
+	.fvplayer .mejs-container .mejs-controls { background: #1b1b1d!important; } 
+	.fvplayer .mejs-controls .mejs-time-rail .mejs-time-current { background: #707070!important; } 
+	.fvplayer .mejs-controls .mejs-time-rail .mejs-time-loaded { background: #4d4d4d!important; } 
+	.fvplayer .mejs-horizontal-volume-current { background: #707070!important; } 
+	.fvplayer .me-cannotplay span { padding: 5px; }
+	#content .fvplayer .mejs-container .mejs-controls div { font-family: Tahoma, Geneva, sans-serif; }
+
+	.wpfp_custom_background { display: none; }	
+	.wpfp_custom_popup { display: none; position: absolute; top: 10%; z-index: 2; text-align: center; width: 100%; color: #fff; }
+	.is-finished .wpfp_custom_popup, .is-finished .wpfp_custom_background { display: block; }	
+	.wpfp_custom_popup_content {  background: #1b1b1d; padding: 1% 5%; width: 65%; margin: 0 auto; }
+
+	.wpfp_custom_ad { position: absolute; bottom: 10%; z-index: 2; width: 100%; }
+.wpfp_custom_ad_content { background: white; margin: 0 auto; position: relative }	.wpfp_custom_ad { color: #dddddd; }
+	.wpfp_custom_ad a { color: #ffffff }
+</style>
+ 
+<script src="/wp-content/plugins/get-post-list-with-thumbnails/ajaxhandlergplwt.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+	function goprocess_gplwt(elemid,goval){
+		consulta_gplwt(elemid,1+'&v='+goval,'/wp-content/plugins/get-post-list-with-thumbnails/ajaxgplwt.php');	
+	}
+</script> 
+
+<script type='text/javascript'>
+var g_hanaFlash = false;
+try {
+  var fo = new ActiveXObject('ShockwaveFlash.ShockwaveFlash');
+  if(fo) g_hanaFlash = true;
+}catch(e){
+  if(navigator.mimeTypes ['application/x-shockwave-flash'] != undefined) g_hanaFlash = true;
+}
+function hanaTrackEvents(arg1,arg2,arg3,arg4) { if ( typeof( pageTracker ) !=='undefined') { pageTracker._trackEvent(arg1, arg2, arg3, arg4);} else if ( typeof(_gaq) !=='undefined'){  _gaq.push(['_trackEvent', arg1, arg2, arg3, arg4]);}}
+function hana_check_mobile_device(){ if(navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/iPad/i)  || navigator.userAgent.match(/Android/i)) { return true; }else return false; }
+</script>
+<!-- <meta name="NextGEN" version="2.0.23" /> -->
+
+<!-- Simple Google Analytics Begin -->
+<script type="text/javascript">
+var _gaq = [['_setAccount','UA-2058139-3'],['_trackPageview']];(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- Simple Google Analytics End -->
+<style type="text/css">	#ssba {
+										
+										
+										
+										
+									}
+									#ssba img		
+									{ 	
+										width: 35px !important;
+										padding: 6px;
+										border:  0;
+										box-shadow: none !important;
+										display: inline;
+										vertical-align: middle;
+									}
+									#ssba, #ssba a		
+									{
+										background: none;
+										font-family: Indie Flower;
+										font-size: 	20px;
+										
+										
+									}</style>
+<!-- WP Simple Shopping Cart plugin v3.9.0 - http://www.tipsandtricks-hq.com/wordpress-simple-paypal-shopping-cart-plugin-768/ -->
+<link type="text/css" rel="stylesheet" href="http://www.tecedu.com/wp-content/plugins/wordpress-simple-paypal-shopping-cart/wp_shopping_cart_style.css" />
+
+	<script type="text/javascript">
+	<!--
+	//
+	function ReadForm (obj1, tst) 
+	{ 
+	    // Read the user form
+	    var i,j,pos;
+	    val_total="";val_combo="";		
+	
+	    for (i=0; i<obj1.length; i++) 
+	    {     
+	        // run entire form
+	        obj = obj1.elements[i];           // a form element
+	
+	        if (obj.type == "select-one") 
+	        {   // just selects
+	            if (obj.name == "quantity" ||
+	                obj.name == "amount") continue;
+		        pos = obj.selectedIndex;        // which option selected
+		        val = obj.options[pos].value;   // selected value
+		        val_combo = val_combo + " (" + val + ")";
+	        }
+	    }
+		// Now summarize everything we have processed above
+		val_total = obj1.product_tmp.value + val_combo;
+		obj1.product.value = val_total;
+	}
+	//-->
+	</script><script type="text/javascript">if (jQuery && jQuery.facebox) jQuery(function($) { $("a[rel*='facebox'], .gallery-item a").facebox(WPFB.options); });</script>
+	<style type="text/css">
+		body {
+																									background-image: url(http://tec2.com/wp-content/uploads/2012/05/bg.jpg);
+																																	background-color: #012385;
+																																	background-position: top left;
+																																	background-attachment: fixed;
+																																	background-repeat: repeat-x;
+																				}
+	</style>
+
+<!-- All in One SEO Pack 2.1 by Michael Torbert of Semper Fi Web Design[243,284] -->
+<meta name="description" content="The Educators&#039; Choice for Engineering Solutions Since 1987" />
+
+<meta name="keywords" content="Tech Ed Concepts" />
+
+<link rel="canonical" href="http://www.tecedu.com/" />
+<!-- /all in one seo pack -->
+	<style type="text/css">
+		#title,
+		#header{
+			width: 1000px;
+			height: 134px;
+		}
+		#title_overlay{
+			width: 980px;
+			color: #FFFFFF;
+			font-size: 36px;
+			line-height: 36px;
+			position: absolute;
+			text-align: center;
+			top: 39px;
+			padding: 10px;
+			display: block;
+		}
+		#title_overlay span{
+			display: block;
+			color: #FFFFFF;
+			font-size: 18px;
+			line-height: 18px;
+		}
+	</style>
+	    
+	<script type='text/javascript'>
+		/* <![CDATA[ */
+			jQuery(function($) {$(document).ready(function() {
+				$('#title').html('<a href="http://www.tecedu.com"><img src="http://www.tecedu.com/wp-content/uploads/2013/01/tecedu.jpg" alt="Header Image" /></a>');
+			});});
+		/* ]]> */
+	</script>
+	
+
+</head>
+
+<body id="default" > 
+
+<div class="c1000 center wrap" id="container">
+
+
+
+	
+
+
+	<div id="header">
+
+		<div id="title">
+
+			<noscript>
+
+				
+					<a href="http://www.tecedu.com">
+
+						<img src="http://www.tecedu.com/wp-content/uploads/2013/01/tecedu.jpg" alt="Header Image" />
+
+					</a>
+
+				
+			</noscript>
+
+		</div>
+
+		
+	</div>
+
+  
+
+ 
+  <div style="width: 100px;height:32px;
+    text-align: left;
+    position:absolute;
+       top:5px;
+    left: 50%;
+    margin-left: 392px;z-index:1000;
+"><img src="/images/social.png" width="100" height="32" border="0"   usemap="#Map" />
+<map name="Map" id="Map">
+  <area shape="rect" coords="9,3,35,29" href="http://www.facebook.com/TECedu" target="_blank" alt="Facebook" />
+  <area shape="rect" coords="39,2,64,29" href="http://twitter.com/TechEdConcepts" target="_blank" alt="Twitter" />
+  <area shape="rect" coords="70,5,96,28" href="http://www.linkedin.com/company/technology-education-concepts-inc." target="_blank" alt="LinkedIn" />
+</map> </div>
+
+
+
+
+
+	<div id="below-header">
+<div id="pagemenu" class="wrap">
+	<ul class="wrap">
+								
+													<li class="page_item page-item-3 current_page_item"><a href="http://www.tecedu.com/">Home</a></li>
+<li class="page_item page-item-918 page_item_has_children"><a href="http://www.tecedu.com/about/">About Us</a>
+<ul class='children'>
+	<li class="page_item page-item-950"><a href="http://www.tecedu.com/about/corporate-profile/">Corporate Profile</a></li>
+</ul>
+</li>
+<li class="page_item page-item-939 page_item_has_children"><a href="http://www.tecedu.com/products/">Products</a>
+<ul class='children'>
+	<li class="page_item page-item-971 page_item_has_children"><a href="http://www.tecedu.com/products/prototype/">Prototype</a>
+	<ul class='children'>
+		<li class="page_item page-item-1767"><a href="http://www.tecedu.com/products/prototype/cube/">Cube 3D Printer</a></li>
+		<li class="page_item page-item-999"><a href="http://www.tecedu.com/products/prototype/roland-3d-products/">Roland 3D Products</a></li>
+		<li class="page_item page-item-1001"><a href="http://www.tecedu.com/products/prototype/zprinters-3d-printers/">ProJet x60 3D Printers</a></li>
+		<li class="page_item page-item-1003"><a href="http://www.tecedu.com/products/prototype/projet-series-3d-printers/">ProJet Series 3D Printers</a></li>
+		<li class="page_item page-item-1005"><a href="http://www.tecedu.com/products/prototype/laserpro-laser-engravers/">LaserPro Laser Engravers</a></li>
+		<li class="page_item page-item-2960"><a href="http://www.tecedu.com/products/prototype/optomec-additive-manufacturing-solutions/">Optomec Additive Manufacturing Solutions</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-967 page_item_has_children"><a href="http://www.tecedu.com/products/design/">Design</a>
+	<ul class='children'>
+		<li class="page_item page-item-975"><a href="http://www.tecedu.com/products/design/keycreator/">KeyCreator</a></li>
+		<li class="page_item page-item-977"><a href="http://www.tecedu.com/products/design/envisioneer/">Envisioneer</a></li>
+		<li class="page_item page-item-979"><a href="http://www.tecedu.com/products/design/surfcam/">SURFCAM</a></li>
+		<li class="page_item page-item-981"><a href="http://www.tecedu.com/products/design/tec-cad-institute/">TEC CAD Institute</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-969 page_item_has_children"><a href="http://www.tecedu.com/products/manufacture/">Manufacture</a>
+	<ul class='children'>
+		<li class="page_item page-item-983"><a href="http://www.tecedu.com/products/manufacture/roland-3d-products/">Roland 3D Products</a></li>
+		<li class="page_item page-item-985"><a href="http://www.tecedu.com/products/manufacture/tec-cnc/">TEC CNC Centers</a></li>
+		<li class="page_item page-item-987"><a href="http://www.tecedu.com/products/manufacture/surfcam/">SURFCAM</a></li>
+		<li class="page_item page-item-989"><a href="http://www.tecedu.com/products/manufacture/zprinters-3d-printers/">ProJet x60 3D Printers</a></li>
+		<li class="page_item page-item-991 page_item_has_children"><a href="http://www.tecedu.com/products/manufacture/projet-series-3d-printers/">ProJet Series 3D Printers</a>
+		<ul class='children'>
+			<li class="page_item page-item-1192"><a href="http://www.tecedu.com/products/manufacture/projet-series-3d-printers/projet-10001500-3d-printer/">ProJet™ 1000/1500 3D Printer</a></li>
+			<li class="page_item page-item-1202"><a href="http://www.tecedu.com/products/manufacture/projet-series-3d-printers/projet-3500-series-3d-printer/">ProJet™ 3500 Series 3D Printer</a></li>
+			<li class="page_item page-item-2838"><a href="http://www.tecedu.com/products/manufacture/projet-series-3d-printers/projet-4500/">ProJet® 4500 Series Printer</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-993 page_item_has_children"><a href="http://www.tecedu.com/products/manufacture/laserpro-laser-engravers/">LaserPro Laser Engravers</a>
+		<ul class='children'>
+			<li class="page_item page-item-1092"><a href="http://www.tecedu.com/products/manufacture/laserpro-laser-engravers/laserpro-c180-desktop/">C180 Desktop</a></li>
+			<li class="page_item page-item-1095"><a href="http://www.tecedu.com/products/manufacture/laserpro-laser-engravers/laserpro-spirit-spirit-ls/">Spirit &#038; Spirit LS</a></li>
+			<li class="page_item page-item-1097"><a href="http://www.tecedu.com/products/manufacture/laserpro-laser-engravers/mercury-iii/">Mercury III</a></li>
+			<li class="page_item page-item-1099"><a href="http://www.tecedu.com/products/manufacture/laserpro-laser-engravers/spirit-gls/">Spirit GLS</a></li>
+			<li class="page_item page-item-1608"><a href="http://www.tecedu.com/products/manufacture/laserpro-laser-engravers/essential-options-for-the-classroom/">Options for the Classroom</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-1619 page_item_has_children"><a href="http://www.tecedu.com/products/manufacture/laserpro-vinyl-cutters/">LaserPro Vinyl Cutters</a>
+		<ul class='children'>
+			<li class="page_item page-item-1908"><a href="http://www.tecedu.com/products/manufacture/laserpro-vinyl-cutters/expert/">Expert</a></li>
+			<li class="page_item page-item-1910"><a href="http://www.tecedu.com/products/manufacture/laserpro-vinyl-cutters/expert-lx/">Expert LX</a></li>
+			<li class="page_item page-item-1912"><a href="http://www.tecedu.com/products/manufacture/laserpro-vinyl-cutters/expert-pro/">Expert Pro</a></li>
+			<li class="page_item page-item-1914"><a href="http://www.tecedu.com/products/manufacture/laserpro-vinyl-cutters/puma/">Puma</a></li>
+			<li class="page_item page-item-1916"><a href="http://www.tecedu.com/products/manufacture/laserpro-vinyl-cutters/jaguar/">Jaguar</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-1777"><a href="http://www.tecedu.com/products/manufacture/fab-labs/">Fab Labs</a></li>
+		<li class="page_item page-item-2934"><a href="http://www.tecedu.com/products/manufacture/optomec/">Optomec Additive Manufacturing Solutions</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-973 page_item_has_children"><a href="http://www.tecedu.com/products/classroom-trainers/">Classroom Trainers</a>
+	<ul class='children'>
+		<li class="page_item page-item-1007"><a href="http://www.tecedu.com/products/classroom-trainers/edibon-technical-teaching-equipment/">Edibon Technical Teaching Equipment</a></li>
+		<li class="page_item page-item-1009"><a href="http://www.tecedu.com/products/classroom-trainers/progressive-ed/">Progressive Ed. Energy Trainers</a></li>
+		<li class="page_item page-item-1011"><a href="http://www.tecedu.com/products/classroom-trainers/crosstec-classroom-management-software/">CrossTec Classroom Management Software</a></li>
+		<li class="page_item page-item-1694"><a href="http://www.tecedu.com/products/classroom-trainers/energy-concepts/">Energy Concepts Training Systems</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-2733 page_item_has_children"><a href="http://www.tecedu.com/products/science-equipment-labs/">Science Equipment &#038; Labs</a>
+	<ul class='children'>
+		<li class="page_item page-item-2582"><a href="http://www.tecedu.com/products/science-equipment-labs/smartscope-digital-microscopes/">SmartMicroScope Digital Microscopes</a></li>
+		<li class="page_item page-item-2737"><a href="http://www.tecedu.com/products/science-equipment-labs/edibon-technical-teaching-equipment/">Edibon Technical Teaching Equipment</a></li>
+		<li class="page_item page-item-2739"><a href="http://www.tecedu.com/products/science-equipment-labs/energy-concepts-training-system/">Energy Concepts Training System</a></li>
+		<li class="page_item page-item-2741"><a href="http://www.tecedu.com/products/science-equipment-labs/progressive-ed-energy-trainers/">Progressive Ed. Energy Trainers</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="page_item page-item-1896"><a href="http://www.tecedu.com/teacher-training/">Teacher Training</a></li>
+<li class="page_item page-item-923 page_item_has_children"><a href="http://www.tecedu.com/technical-support/">Technical Support</a>
+<ul class='children'>
+	<li class="page_item page-item-1013"><a href="http://www.tecedu.com/technical-support/email-a-question/">Email A Question</a></li>
+</ul>
+</li>
+<li class="page_item page-item-921 page_item_has_children"><a href="http://www.tecedu.com/news-events/">News &#038; Events</a>
+<ul class='children'>
+	<li class="page_item page-item-1015"><a href="http://www.tecedu.com/news-events/news/">News</a></li>
+	<li class="page_item page-item-1017"><a href="http://www.tecedu.com/news-events/events/">Events</a></li>
+</ul>
+</li>
+<li class="page_item page-item-944"><a href="http://www.tecedu.com/online-store/">Online Store</a></li>
+<li class="page_item page-item-316 page_item_has_children"><a href="http://www.tecedu.com/contact-us/">Contact Us</a>
+<ul class='children'>
+	<li class="page_item page-item-953"><a href="http://www.tecedu.com/contact-us/directions/">Directions</a></li>
+	<li class="page_item page-item-956"><a href="http://www.tecedu.com/contact-us/employment/">Employment</a></li>
+	<li class="page_item page-item-959"><a href="http://www.tecedu.com/contact-us/request-information/">Request Information or Quote</a></li>
+</ul>
+</li>
+		</ul>
+</div>
+</div>
+<div class="wrap" id="feature-top">
+
+	<div class="w1000-" >
+				</div>
+	
+
+
+</div>
+<div style="width: 380px;height:92px;;
+    text-align: left;
+    position:absolute;
+       top:202px;
+    left: 50%;
+    margin-left: 112px;z-index:1000;
+">
+
+<div id="FSContact5" style="width:370px;font-size:12px;padding-left:5px;">
+<img src="/images/news.png" align="right" style="margin-right:120px;margin-top:-5px;"><b><span style="font-size:24px;font-family:book antiqua;times new roman;color:#3c5081;">Stay Connected </span></b><br/>
+<form action='http://subscribe.delivra.com/subscribe.ashx' method='POST'>
+   <div style="float:left;width:230px;">
+                 <div style="width:50px;height:12px; text-align:left; float:left; padding-top:8px; margin-left:3px; padding-right:3px;">*Name:</div> <div style="text-align:left; float:left; padding-top:5px;"><INPUT  style="text-align:left; height:12px;float:left; padding:2px; margin:0;" TYPE='text' NAME='name' VALUE='' SIZE=20 MAXLENGTH=100></div>
+                <div style="width:50px;height:12px; text-align:left; float:left; padding-top:8px; margin-left:3px; padding-right:3px;">*Email:</div> <div style="text-align:left; float:left; padding-top:5px;"><input style="text-align:left; height:12px;float:left; padding:2px; margin:0;" type='text' name='email' value='' SIZE=20></div>       
+                
+   </div>
+
+   <div style="float:left;width:100px;"><input type='image' border='0'  title='subscribe' alt='subscribe' src='http://www.tecedu.com/images/signup.png'  name='subscribe' align='left'>
+   </div>
+<input type='hidden' name='list' value='tecedu'>
+ <input type='hidden' name='category' value='Mailing List New'> 
+<input type='hidden' name='demographics' value=''>
+<input type='hidden' name='confirm' value='one'>
+<input type='hidden' name='showconfirm' value='T'>
+<input type='hidden' name='name_required' value='T'>
+</form>
+</div>
+
+<a href="/contact-us/request-information/"><img src="/images/quote1.png" border="0" align="left" style="margin-top:20px;margin-left:45px;"></a>
+
+</div> 
+<center>
+<div style="height:290px;">
+<iframe src="indexhome.html" frameborder="0" style="width: 1000px; height: 251px" scrolling="no"></iframe>
+</div><img src="/images/logos.jpg">
+</center>
+<!--page.php-->
+<div class="w600-" id="content">
+
+			
+	<!--Post Wrapper Class-->
+	<div class="post">
+	
+	<!--Title-->
+	 
+
+	<!--post text with the read more link-->
+	<div style="width: 250px; height: 220px; float: left; border-left: #e2e7ec 23px solid; margin: 10px; padding: 0px; font-size: 12px;">
+<h4>Prototype</h4>
+<ul>
+<li><a href="/products/prototype/cube/" target="_blank">Cube 3D Printer</a></li>
+<li><a href="http://www.tecedu.com/products/prototype/roland-3d-products/">Roland 3D Products</a></li>
+<li><a href="http://www.tecedu.com/products/prototype/zprinters-3d-printers/">ProJet x60 </a>| <a href="http://www.tecedu.com/products/prototype/projet-series-3d-printers/">ProJet 3D Printers</a></li>
+<li><a href="http://www.tecedu.com/products/prototype/laserpro-laser-engravers/">LaserPro Laser Engravers</a></li>
+<li><a href="/products/manufacture/optomec/">Optomec Additive Manufacturing Solutions</a></li>
+</ul>
+</div>
+<div style="width: 250px; height: 220px; float: left; border-left: #e2e7ec 23px solid; margin: 10px; margin-left: 5px; padding: 0px; font-size: 12px;">
+<h4>Manufacture</h4>
+<ul>
+<li><a href="http://www.tecedu.com/products/manufacture/roland-3d-products/">Roland 3D Products</a></li>
+<li><a href="http://www.tecedu.com/products/manufacture/tec-cnc/">TEC CNC Centers</a></li>
+<li><a href="http://www.tecedu.com/products/manufacture/surfcam/">SURFCAM</a></li>
+<li><a href="http://www.tecedu.com/products/manufacture/zprinters-3d-printers/">ProJet x60</a> | <a href="http://www.tecedu.com/products/manufacture/projet-series-3d-printers/">ProJet 3D Printers</a></li>
+<li><a href="/products/manufacture/laserpro-laser-engravers/">LaserPro Laser Engravers</a></li>
+<li><a href="/products/manufacture/laserpro-vinyl-cutters/">LaserPro Vinyl Cutters</a></li>
+<li><a href="/products/manufacture/fab-labs/">Fab Labs</a></li>
+<li><a href="/products/manufacture/optomec/">Optomec Additive Manufacturing Solutions</a></li>
+</ul>
+</div>
+<div style="width: 250px; height: 180px; float: left; border-left: #e2e7ec 23px solid; margin: 10px; padding: 0px; font-size: 12px;">
+<h4>Design</h4>
+<ul>
+<li><a href="/products/design/keycreator/">KeyCreator</a></li>
+<li><a href="/products/design/envisioneer/">Envisioneer</a></li>
+<li><a href="/products/design/surfcam/">SURFCAM</a></li>
+<li><a href="/products/design/tec-cad-institute/">TEC CAD Institute</a></li>
+</ul>
+</div>
+<div style="width: 260px; height: 180px; float: left; border-left: #e2e7ec 23px solid; margin: 10px; margin-right: 0px; padding: 0px; font-size: 12px;">
+<h4>Classroom Trainers</h4>
+<ul>
+<li><a href="http://www.tecedu.com/products/classroom-trainers/edibon-technical-teaching-equipment/">Edibon Technical Teaching Equip.</a></li>
+<li><a href="http://www.tecedu.com/products/classroom-trainers/progressive-ed/">Progressive Ed. Energy Trainers</a></li>
+<li><a href="/products/classroom-trainers/energy-concepts/">Energy Concepts, Inc. Technical Training Systems</a></li>
+<li><a href="http://www.tecedu.com/products/classroom-trainers/crosstec-classroom-management-software/">CrossTec Classroom Management Software</a></li>
+</ul>
+</div>
+<div style="width: 450px; height: 130px; float: left; border-left: #e2e7ec 23px solid; margin: 10px; padding: 0px; font-size: 12px;">
+<h4>Science Equipment &amp; Labs</h4>
+<ul>
+<li><a href="/products/science-equipment-labs/smartscope-digital-microscopes/">SmartMicroScope™ Digital Microscopes</a></li>
+<li><a href="/products/classroom-trainers/energy-concepts/">Energy Concepts, Inc.</a></li>
+<li><a href="/products/classroom-trainers/progressive-ed/">Progressive Ed. Technical Equip. &amp; Energy Trainers</a></li>
+<li><a href="/products/classroom-trainers/edibon-technical-teaching-equipment/">Edibon Technical Teaching Equip.</a></li>
+</ul>
+</div>
+<!-- I got these buttons from simplesharebuttons.com --><div id="ssba"><a href="http://www.simplesharebuttons.com" target="_blank" class="ssba_tooptip" id="ssba_tooptip""><span>www.simplesharebuttons.com</span>Share<a id="ssba_google_share" href="https://plus.google.com/share?url=http://www.tecedu.com/" target="_blank"><img title="Google+" class="ssba" alt="Google+" src="http://www.tecedu.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/google.png" rel="facebox" /></a><a id="ssba_linkedin_share" class="ssba_share_link" href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.tecedu.com/" target="_blank"><img title="Linkedin" class="ssba" alt="LinkedIn" src="http://www.tecedu.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/linkedin.png" rel="facebox" /></a><a id='ssba_pinterest_share' href='javascript:void((function()%7Bvar%20e=document.createElement(&apos;script&apos;);e.setAttribute(&apos;type&apos;,&apos;text/javascript&apos;);e.setAttribute(&apos;charset&apos;,&apos;UTF-8&apos;);e.setAttribute(&apos;src&apos;,&apos;http://assets.pinterest.com/js/pinmarklet.js?r=&apos;+Math.random()*99999999);document.body.appendChild(e)%7D)());'><img title="Pinterest" class="ssba" alt="Pinterest" src="http://www.tecedu.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/pinterest.png" rel="facebox" /></a><a id="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://www.tecedu.com/" target="_blank"><img title="Facebook" class="ssba" alt="Facebook" src="http://www.tecedu.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/facebook.png" rel="facebox" /></a><a id="ssba_stumbleupon_share" class="ssba_share_link" href="http://www.stumbleupon.com/submit?url=http://www.tecedu.com/&title=Home" target="_blank"><img title="StumbleUpon" class="ssba" alt="StumbleUpon" src="http://www.tecedu.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/stumbleupon.png" rel="facebox" /></a><a id="ssba_reddit_share" href="http://reddit.com/submit?url=http://www.tecedu.com/&title=Home" target="_blank"><img title="Reddit" class="ssba" alt="Reddit" src="http://www.tecedu.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/reddit.png" rel="facebox" /></a><a id="ssba_twitter_share" href="http://twitter.com/share?url=http://www.tecedu.com/&text=Home+" target="_blank"><img title="Twitter" class="ssba" alt="Twitter" src="http://www.tecedu.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/twitter.png" rel="facebox" /></a></div>
+	<!--post meta info-->
+	<div class="meta-bottom wrap">
+	</div>
+    
+	</div><!--end .post-->
+	
+	  
+		
+</div><!--end #content-->
+
+<div class="w180- left sidebar">
+
+<!--sidebar.php-->
+		<div class="widget">		<h4>Announcements</h4>		<ul>
+					<li>
+				<a href="http://www.tecedu.com/3d-systems-prints-first-hybrid-robotic-exoskeleton-enabling-amanda-boxtel-to-walk-tall/">3D Systems Prints First Hybrid Robotic Exoskeleton Enabling Amanda Boxtel To Walk Tall</a>
+						</li>
+					<li>
+				<a href="http://www.tecedu.com/3d-printing-and-math-common-core-standards-what-they-have-in-common/">3D Printing and Math Common Core Standards: What They Have in Common</a>
+						</li>
+					<li>
+				<a href="http://www.tecedu.com/igo-wireless-smartmicroscopes-flatten-the-classroom/">iGO Wireless SmartMicroScopes &#8220;Flatten the Classroom&#8221;</a>
+						</li>
+					<li>
+				<a href="http://www.tecedu.com/optomec-receives-two-project-awards-from-america-makes/">Optomec Receives Two Project Awards from America Makes</a>
+						</li>
+				</ul>
+		</div></div>
+<div class="wrap" id="feature-bottom">
+
+	<div class="w1000-" >
+				</div>
+	
+
+
+</div>
+ 
+</div><!--end #container-->
+
+<div class="c1000 center wrap" id="footer">
+	<div class="alignleft">
+
+<div id="contactFormContainer">
+                <div id="contactForm">
+ 
+<div id="FSContact5" style="width:270px;font-size:12px;margin-left:30px;"><br/> 
+<form action="http://www.tecedu.com/form/#FSContact5" id="si_contact_form5" method="post">
+ <input type="hidden" name="si_contact_CID" value="1" />
+ <label for="si_contact_name5">Name:</label>
+ <input style="text-align:left; margin:0;" type="text" id="si_contact_name5" name="si_contact_name" value=""  size="20" />
+ <label for="si_contact_email5">E-Mail Address:</label>
+ <input style="text-align:left; margin:0;" type="text" id="si_contact_email5" name="si_contact_email" value=""  size="20" />
+  <label for="si_contact_ex_field5_1">Phone:</label>
+ <input style="text-align:left; margin:0;" type="text" id="si_contact_ex_field5_1" name="si_contact_ex_field1" value=""  size="20" />
+  <label for="si_contact_message5">Message:</label>
+ <textarea style="text-align:left; margin:0;" id="si_contact_message5" name="si_contact_message"  cols="25" rows="3"></textarea>
+
+
+<div style="text-align:left; padding-top:5px;"> </div>
+ <div style="width:175px; height:50px; padding-top:2px;">
+    <img class="ctf-captcha" id="si_image_ctf5" style="border-style:none; margin:0; padding:0px; padding-right:5px; float:left;" src="http://www.tecedu.com/wp-content/plugins/si-contact-form/captcha/securimage_show.php?ctf_sm_captcha=1&#038;ctf_form_num=5" width="132" height="45" alt="CAPTCHA Image" title="CAPTCHA Image" />
+    <div id="si_refresh_ctf5">
+      <a href="#" rel="nofollow" title="Refresh Image" onclick="document.getElementById('si_image_ctf5').src = 'http://www.tecedu.com/wp-content/plugins/si-contact-form/captcha/securimage_show.php?ctf_sm_captcha=1&#038;ctf_form_num=5&amp;sid=' + Math.random(); return false;">
+      <img src="http://www.tecedu.com/wp-content/plugins/si-contact-form/captcha/images/refresh.png" width="22" height="20" alt="Refresh Image" style="border-style:none; margin:0; padding:0px; vertical-align:bottom;" onclick="this.blur();" /></a>
+   </div>
+   </div>
+
+      <div style="text-align:left; padding-top:5px;">
+                <label for="si_contact_captcha_code5">CAPTCHA Code:</label>
+        </div>
+        <div style="text-align:left;">
+                <input style="text-align:left; margin:0; width:50px;" type="text" value="" id="si_contact_captcha_code5" name="si_contact_captcha_code"  size="6" />
+       </div>
+
+        <div style="display:none;">
+          <label for="email_5"><small>Leave this field empty</small></label>
+          <input type="text" name="email_5" id="email_5" value="" />
+        </div>
+
+
+
+ <input type="hidden" name="si_postonce_5" value="83025ec71be6fe4976fa2a1cb16cbfbd,1383232415" />
+<div style="text-align:left; padding-top:2px;">
+  <input type="hidden" name="si_contact_action" value="send" />
+  <input type="hidden" name="si_contact_form_id" value="5" /><br/> 
+  <input type="submit" id="fsc-submit-5" style="cursor:pointer; clear:both;float:left;margin:0;" value="Submit" />
+</div>
+
+</form>
+</div>
+
+                </div>
+                <div id="contactLink"></div>
+            </div>
+
+	<strong>Technology Education Concepts, Inc., North American Academic Distributor</strong><br />
+32 Commercial Street, Concord, NH 03301<br />
+Telephone: (800) 338-2238, (603) 224-8324<br />Fax: (603) 225-7766<br />
+	Copyright &copy; 2014 All Rights Reserved	</div>
+	<div class="alignright"><a href="/sitemap/">Sitemap</a> | <a href="/contact-us/">Contact Us</a><br/><a href="http://www.whitemountainwebarts.com" target="_blank">NH Web Design</a>
+	 	</div>
+       
+	</div>
+
+<link rel="stylesheet" type="text/css" href="http://www.tecedu.com/wp-content/plugins/wp-facebox-gallery/facebox3.css" />
+<script type="text/javascript">/* wp-facebox */
+	WPFB = { root: "http://www.tecedu.com/wp-content/plugins/wp-facebox-gallery", home: "http://www.tecedu.com", site: "http://www.tecedu.com" };
+	WPFB.options = {
+		image_types     : [ 'png', 'jpg', 'jpeg', 'gif' ],
+		loadingImage	: WPFB.root + '/images/v3/loading.gif',
+		closeImage		: WPFB.root + '/images/v3/closelabel.png',
+		next_image      : WPFB.root + '/images/v3/fast_forward.png',
+        prev_image      : WPFB.root + '/images/v3/rewind.png',
+        play_image      : WPFB.root + '/images/v3/play.png',
+        pause_image     : WPFB.root + '/images/v3/pause.png'
+	};
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fv_flowplayer_playlists = [];
+var fv_fp_ajaxurl = "http:\/\/www.tecedu.com\/wp-admin\/admin-ajax.php";
+var fv_flowplayer_conf = {"embed":{"library":"\/\/www.tecedu.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/fv-flowplayer.min.js","script":"\/\/www.tecedu.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/embed.min.js","skin":"\/\/www.tecedu.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/css\/flowplayer.css","swf":"\/\/www.tecedu.com\/wp-content\/plugins\/fv-wordpress-flowplayer\/flowplayer\/flowplayer.swf"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.tecedu.com/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js?ver=2.1.50'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JQLBSettings = {"fitToScreen":"0","resizeSpeed":"400","displayDownloadLink":"0","navbarOnTop":"0","loopImages":"","resizeCenter":"","marginSize":"","linkTarget":"_self","help":"","prevLinkTitle":"previous image","nextLinkTitle":"next image","prevLinkText":"\u00ab Previous","nextLinkText":"Next \u00bb","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.tecedu.com/wp-content/plugins/wp-lightbox-2/wp-lightbox-2.min.js?ver=1.3.4.1'></script>
+<script type='text/javascript' src='http://www.tecedu.com/wp-content/plugins/simple-contact-form-revisited-plugin/assets/js/jquery.tools.min.js?ver=1.2.5'></script>
+<script type='text/javascript' src='http://www.tecedu.com/wp-content/plugins/simple-contact-form-revisited-plugin/assets/js/simple-contact-form-revisited-plugin.js?ver=2.0.9'></script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+
+ Served from: www.tecedu.com @ 2014-02-21 21:56:31 by W3 Total Cache -->++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.westech.edu/>====================
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-US"> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<title>Westech College  </title>
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link rel="stylesheet" href="http://westech.edu/wp-content/themes/westech/style.css" type="text/css" />
+<link rel="stylesheet" href="http://westech.edu/wp-content/themes/westech/stylesheet/skeleton.css">
+<link rel="stylesheet" href="http://westech.edu/wp-content/themes/westech/stylesheet/layout.css">	
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="http://westech.edu/wp-content/themes/westech/stylesheet/ie-style.php?path=http://westech.edu/wp-content/themes/westech" type="text/css" media="screen, projection" /> 
+<style type="text/css">div.social-icon{background-color: #2478d6 !important;}</style>
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="http://westech.edu/wp-content/themes/westech/stylesheet/ie7-style.css" /> 
+<![endif]-->
+<link rel="shortcut icon" href="http://westech.edu/wp-content/uploads/2012/11/favicon.ico" type="image/x-icon" /><link rel="alternate" type="application/rss+xml" title="Westech College &raquo; Feed" href="http://westech.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Westech College &raquo; Comments Feed" href="http://westech.edu/comments/feed/" />
+<link rel='stylesheet' id='style-custom-css'  href='http://westech.edu/wp-content/themes/westech/style-custom.php?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='Google-Font-css'  href='http://fonts.googleapis.com/css?family=Droid+Serif%3Asubset%3Dlatin%3An%2Ci%2Cb%2Cbi%7CLato%3Asubset%3Dlatin%3An%2Ci%2Cb%2Cbi%7CMerriweather%3Asubset%3Dlatin%3An%2Ci%2Cb%2Cbi%7C&#038;ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://westech.edu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css'  href='http://westech.edu/wp-content/themes/westech/stylesheet/superfish.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://westech.edu/wp-content/themes/westech/stylesheet/prettyPhoto.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nivo-slider-css'  href='http://westech.edu/wp-content/themes/westech/stylesheet/nivo-slider.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nivo-slider-style-css'  href='http://westech.edu/wp-content/themes/westech/stylesheet/nivo-slider-style.css?ver=3.8.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://westech.edu/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://westech.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var URL = {"goodlayers":"http:\/\/westech.edu\/wp-content\/themes\/westech"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://westech.edu/wp-content/themes/westech/javascript/jquery.preloader.js?ver=1.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://westech.edu/xmlrpc.php?rsd" />
+<link rel='prev' title='Contact Us' href='http://westech.edu/contact-westech-college/' />
+<link rel='next' title='Student Resources' href='http://westech.edu/student-resources/' />
+<link rel='canonical' href='http://westech.edu/' />
+<link rel='shortlink' href='http://westech.edu/?p=31' />
+	
+</head>
+<body class="home page page-id-31 page-template-default">
+	<div class="body-wrapper">
+		<div class="top-navigation container">
+		<div class="top-navigation-wrapper">
+			<div class="top-navigation-right">1 (866) 684-1717</div>			<div class="top-navigation-left">
+				<div class="menu-top-menu-container"><ul id="menu-top-menu" class="menu"><li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="http://westech.edu/contact-westech-college/">Contact Us</a></li>
+</ul></div>				<br class="clear">
+			</div>			
+		</div>
+	</div>
+		<div class="container">
+		<div class="header-wrapper">
+			<div class="inner-header-wrapper">
+				<!-- Get Logo -->
+				<div class="logo-wrapper fade">
+					<a href="http://westech.edu/"><img src="http://westech.edu/wp-content/uploads/2012/11/logo1.png" alt="logo"/></a>				</div>
+				<!-- Get Search -->
+								<div class="search-wrapper"><form method="get" id="searchform" action="http://westech.edu/">
+	<div id="search-text">
+				<input type="text" value="Type your keywords..." name="s" id="s" autocomplete="off" data-default="Type your keywords..." />
+	</div>
+	<input type="submit" id="searchsubmit" value="Search"/>
+	<br class="clear">
+</form>
+</div> 
+								<br class="clear">
+			</div> <!-- Inner header wrapper -->
+			<!-- Navigation -->
+			<div class="sixteen columns mb0">
+								<div class="navigation-wrapper">
+					<!-- Get Navigation -->
+					<div id="main-superfish-wrapper" class="menu-wrapper"><ul id="menu-main-menu" class="sf-menu"><li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-31 current_page_item menu-item-253"><a href="http://westech.edu/">Home</a></li>
+<li id="menu-item-257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-257"><a href="http://westech.edu/about-westech-college/">About Westech</a>
+<ul class="sub-menu">
+	<li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a href="http://westech.edu/about-westech-college/">About Us</a></li>
+	<li id="menu-item-437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-437"><a href="http://westech.edu/student-resources/admissions/">Admissions</a></li>
+	<li id="menu-item-890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-890"><a href="http://westech.edu/about-westech-college/consumer-information-disclosures/">Consumer Information Disclosures</a></li>
+	<li id="menu-item-931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-931"><a href="http://westech.edu/federal-disclosures/">Federal Disclosures</a></li>
+	<li id="menu-item-438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-438"><a href="http://westech.edu/student-resources/facilities/">Facilities</a></li>
+	<li id="menu-item-412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a href="http://westech.edu/about-westech-college/personnel/">Personnel</a></li>
+</ul>
+</li>
+<li id="menu-item-413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-413"><a href="http://westech.edu/programs-overview/">Programs Overview</a>
+<ul class="sub-menu">
+	<li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a href="http://westech.edu/programs-overview/computerized-office-administration/">Computerized Office Administration</a></li>
+	<li id="menu-item-1010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1010"><a href="http://westech.edu/programs-overview/fitness-training/">Fitness Training</a></li>
+	<li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-417"><a href="http://westech.edu/programs-overview/medical-office-administration/">Medical Office Administration</a></li>
+	<li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-418"><a href="http://westech.edu/programs-overview/medical-assisting/">Medical Assisting</a></li>
+	<li id="menu-item-420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420"><a href="http://westech.edu/programs-overview/veterinary-assistant/">Veterinary Assistant</a></li>
+	<li id="menu-item-432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-432"><a href="http://westech.edu/state-funded-programs/">State Funded Programs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-433"><a href="http://westech.edu/state-funded-programs/autocad/">AutoCAD</a></li>
+		<li id="menu-item-434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-434"><a href="http://westech.edu/state-funded-programs/revit/">REVIT</a></li>
+		<li id="menu-item-435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a href="http://westech.edu/state-funded-programs/solidworks/">SolidWorks</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="http://westech.edu/enrollment/">Enrollment</a></li>
+<li id="menu-item-423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-423"><a href="http://westech.edu/student-resources/">Student Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-424"><a href="http://westech.edu/student-resources/admissions/">Admissions</a></li>
+	<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="http://westech.edu/student-resources/attendance-policies/">Attendance Policies</a></li>
+	<li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="http://westech.edu/student-resources/campus-safety-handbook/">Campus Safety Handbook</a></li>
+	<li id="menu-item-551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a href="http://westech.edu/student-resources/courses/">Courses</a></li>
+	<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="http://westech.edu/student-resources/facilities/">Facilities</a></li>
+	<li id="menu-item-427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427"><a href="http://westech.edu/student-resources/financial-aid/">Financial Aid</a></li>
+	<li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="http://westech.edu/student-resources/leave-of-absence-loa-policy/">Leave of Absence (LOA) Policy</a></li>
+	<li id="menu-item-429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-429"><a href="http://westech.edu/student-resources/student-conduct-policy/">Student Conduct Policy</a></li>
+	<li id="menu-item-430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="http://westech.edu/student-resources/student-services/">Student Services</a></li>
+	<li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-431"><a href="http://westech.edu/student-resources/tuition-fees-and-costs/">Tuition, Fees and Costs</a></li>
+	<li id="menu-item-862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-862"><a href="http://westech.edu/student-resources/va_benefits/">Veterans Educational Benefits</a></li>
+</ul>
+</li>
+<li id="menu-item-436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436"><a href="http://westech.edu/contact-westech-college/">Contact Us</a></li>
+<li id="menu-item-708" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-708"><a href="http://westech.edu/westech_fact/">Fact Sheet</a></li>
+</ul></div>					<div class="social-wrapper">
+						<div class="social-icon-wrapper">
+							<div class="social-icon"><a href="https://www.facebook.com/westech.edu" target="_blank"><img src="http://westech.edu/wp-content/themes/westech/images/icon/light/social/facebook.png" alt="facebook"/></a></div><div class="social-icon"><a href="http://www.youtube.com/user/WestechCollege" target="_blank"><img src="http://westech.edu/wp-content/themes/westech/images/icon/light/social/youtube.png" alt="youtube"/></a></div>						</div>
+					</div>
+					<br class="clear">
+				</div>
+			</div>
+			<br class="clear">
+		</div>
+        <!-- header-wrapper -->		<div class="content-wrapper sidebar-included right-sidebar">
+			
+		<div class="page-wrapper">
+			<div class="sixteen columns mb0"><div class="slider-wrapper fullwidth"><div id="slider" class="nivoSlider" style="width:940px; height:400px;"><img class="no-preload" src="http://westech.edu/wp-content/uploads/2013/10/WestechStreetView-940x400.jpg" alt="" /><img class="no-preload" src="http://westech.edu/wp-content/uploads/2012/11/medical-assistant-940x400.jpg" alt="" /><img class="no-preload" src="http://westech.edu/wp-content/uploads/2013/10/VA-WEBSITE1-940x400.jpg" alt="" /><img class="no-preload" src="http://westech.edu/wp-content/uploads/2013/10/westech-lobby-940x400.jpg" alt="" /><img class="no-preload" src="http://westech.edu/wp-content/uploads/2013/10/COA-WEBSITE-940x400.jpg" alt="" /><a href="http://westech.edu/student-resources/va_benefits/" ><img class="no-preload" src="http://westech.edu/wp-content/uploads/2013/03/900x400-Flag-940x400.jpg" alt="" /></a><a href="programs-overview/" ><img class="no-preload" src="http://westech.edu/wp-content/uploads/2012/11/celebrate-940x400.jpg" title="#nivo-caption0" alt="" /></a><img class="no-preload" src="http://westech.edu/wp-content/uploads/2012/11/hands-on-training-940x400.jpg" alt="" /></div><div class='nivo-caption gdl-slider-caption' id='nivo-caption0' ><div class='gdl-slider-title gdl-title'>Enroll Today</div>Graduate in as little as 7 months!</div><div class='slider-top-shadow slider-gimmick'></div><div class='slider-bottom-shadow slider-gimmick'></div><div class='slider-bottom-gimmick slider-gimmick'></div></div></div><div class="clear"></div><div class="sixteen columns wrapper overflow-hidden"><div class="under-slider-left" id="under-slider-left"><h1>Welcome to Westech College</h1></div><div class="under-slider-right" id="under-slider-right"><div class="underslide"><a href="enrollment/"><img class="fade" src="images/apply.png" alt="New Students Application" width="137" height="33"></a></div>
+</div><div class="clear"></div></div><div class='gdl-page-float-left'><div class='gdl-page-item'><div class="sixteen columns mb20"><div class="gdl-page-content"><h2><strong><a href="http://s158135.gridserver.com/wp-content/uploads/2012/11/hm-thumb.jpg"><img class="alignleft  wp-image-626" title="Westech College Programs" alt="" src="http://s158135.gridserver.com/wp-content/uploads/2012/11/hm-thumb.jpg" width="175" height="175" /></a></strong>Teaching Tomorrow&#8217;s Future Today!</h2>
+<p><strong>There are no more excuses!</strong> Westech College offers several financial aid programs, grants, and loans to full time students. Financial Aid is available for those who qualify. These financial services are provided to ensure our students can be at ease when it comes to the cost of education, which may include fees such as books and supplies. For more information on how to fill out the FASFA form, contact Westech’s Financial Aid Office today by calling 1 (866) 684-1717. Download the <a href="http://westech.edu/pdfs/westech-catalog.pdf">2013-2014 Student Catalog</a> for additional information.</p>
+<p>&nbsp;</p>
+</div></div><div class="sixteen columns "><div class="divider"><div class="scroll-top"></div></div></div><br class="clear"><div class="sixteen columns "><h3 class="column-header-title title-color gdl-title">Programs Offered</h3><div class="clear"></div><div class="column-item"></div></div><br class="clear"><div class="one-third column "><div class="gdl-header-dropcap"><div class="gdl-header-dropcap-center"><img src="http://westech.edu/wp-content/uploads/2012/11/Medical-assisting.png" class="no-preload" alt="" /></div></div><h3 class="column-header-title title-color gdl-title"><a href="programs-overview/medical-assisting/">Medical Assisting</a></h3><div class="clear"></div><div class="column-item"></div></div><div class="one-third column "><div class="gdl-header-dropcap"><div class="gdl-header-dropcap-center"><img src="http://westech.edu/wp-content/uploads/2012/11/health-insurance-claims-examiner.png" class="no-preload" alt="" /></div></div><h3 class="column-header-title title-color gdl-title"><a href="programs-overview/health-insurance-claims-examiner/">Medical Office Administration </a></h3><div class="clear"></div><div class="column-item"></div></div><div class="one-third column "><div class="gdl-header-dropcap"><div class="gdl-header-dropcap-center"><img src="http://westech.edu/wp-content/uploads/2012/11/Computerized-Office-administration.png" class="no-preload" alt="" /></div></div><h3 class="column-header-title title-color gdl-title"><a href="programs-overview/computerized-office-administration/">Computerized Office Administration</a></h3><div class="clear"></div><div class="column-item"></div></div><br class="clear"><div class="one-third column "><div class="gdl-header-dropcap"><div class="gdl-header-dropcap-center"><img src="http://westech.edu/wp-content/uploads/2012/11/VA-Icon.jpg" class="no-preload" alt="" /></div></div><h3 class="column-header-title title-color gdl-title"><a href="programs-overview/veterinary-assistant/">Veterinary Assistant</a></h3><div class="clear"></div><div class="column-item"></div></div><div class="one-third column "><div class="gdl-header-dropcap"><div class="gdl-header-dropcap-center"><img src="http://westech.edu/wp-content/uploads/2013/10/FitnessIconWebsite.jpg" class="no-preload" alt="" /></div></div><h3 class="column-header-title title-color gdl-title"><a href="programs-overview/fitness/">Fitness Training</a></h3><div class="clear"></div><div class="column-item"></div></div><div class="one-third column "><div class="gdl-header-dropcap"><div class="gdl-header-dropcap-center"><img src="http://westech.edu/wp-content/uploads/2012/11/california-state.png" class="no-preload" alt="" /></div></div><h3 class="column-header-title title-color gdl-title"><a href="state-funded-programs/">State Funded Programs</a></h3><div class="clear"></div><div class="column-item"></div></div><br class="clear"><div class="one-third column "><div class="gdl-header-dropcap"><div class="gdl-header-dropcap-center"><img src="http://westech.edu/wp-content/uploads/2012/11/graduate.png" class="no-preload" alt="" /></div></div><h3 class="column-header-title title-color gdl-title"><a href="enrollment/">Apply Today!</a></h3><div class="clear"></div><div class="column-item"></div></div><div class="sixteen columns "><div class="divider"><div class="scroll-top"></div></div></div><br class="clear"><div class="one-third column "><h3 class="column-header-title title-color gdl-title">Student Enrollment</h3><div class="clear"></div><div class="column-item">The Financial Aid Office is committed to assisting the funding of career education. Westech College provides educational options for students looking to advance or change their careers. Find out more by contacting an Admissions Representative at a Westech Campus near you.</div></div><div class="two-thirds column "><h3 class="column-header-title title-color gdl-title">Why Westech College</h3><div class="clear"></div><div class="column-item"><p>Westech College offers <a href="student-resources/facilities/"> several convenient locations including Fontana, Victorville and Moreno Valley California</a> with state-of-the-art facilities that provide effective career training in several <a href="programs-overview/">programs</a>. Each instructor has industry experience and understands what it takes for students to succeed in their chosen fields.</p>
+<p><strong>Westech College gives you the skills you need to succeed in today's competitive work environment!</strong></p></div></div><br class="clear"><div class="sixteen columns "><div class="divider"><div class="scroll-top"></div></div></div><br class="clear"><div class="two-thirds column "><h3 class="column-header-title title-color gdl-title">Career Services Department</h3><div class="clear"></div><div class="column-item">The Career Services Department will assist all graduates with their job search. Contacts are maintained with local and national companies, as well as our vast database of employers who participate in our State Funded Training Programs. Interviews can be coordinated for students and graduates. The Career Services Department will begin assisting the student in their job search by providing a career development seminar and resume writing assistance. Although the school provides placement assistance, Westech cannot guarantee employment. </div></div><div class="one-third column "><h3 class="column-header-title title-color gdl-title">More Information</h3><div class="clear"></div><div class="column-item">Westech College representatives are available to answer any questions you may have! Call us today at 1 (866) 684-1717</div></div></div></div><div class='five columns mt0 gdl-right-sidebar'><div class='right-sidebar-wrapper'><div class="custom-sidebar gdl-divider"><h3 class="custom-sidebar-title sidebar-title-color gdl-title">Contact Westech College</h3>			<div class="textwidget"><div class="sidebarphoto"><img src="http://westech.edu/images/sidebar-photo.jpg" alt="Contact Westech College" width="280" height="130"></div>
+<div class="padme">
+<div id="ui_contact_form_wrapper">
+<ul id="ui_errors"></ul>
+<form method="post" id="ui_contact"><label for="ui_fullname">Full Name*</label><input id="ui_fullname" name="ui_fullname" type="text" size="40"><label for="ui_email">Email*</label><input id="ui_email" name="ui_email" type="text" size="40"><label for="ui_phone">Phone*</label><input id="ui_phone" name="ui_phone" type="text" size="40"><label for="ui_preferred_campus">Preferred Campus *</label><br />
+<select name="ui_preferred_campus" class="" id="ui_preferred_campus">
+<option value="Select a Campus">Select a Campus</option>
+<option value="Fontana Campus">Fontana Campus</option>
+<option value="Moreno Valley Campus">Moreno Valley Campus</option>
+<option value="Victorville Campus">Victorville Campus</option>
+<option value="Irvine Campus (State Funded Only)">Irvine Campus (State Funded Only)</option>
+<option value="Los Angeles">Los Angeles (State Funded)</option>
+<option value="General Inquiries">General Inquiries</option>
+</select>
+<div id="ui_programs_wrapper"></div>
+<p><label for="ui_your_message">Your Message*</label><textarea name="ui_your_message" class="" id="ui_your_message" cols="40" rows="10"></textarea><input id="ui_contact_submit" name="ui_contact_submit" type="submit" value="Submit"></form>
+</div>
+</div>
+</div>
+		</div><div class="custom-sidebar gdl-divider"><h3 class="custom-sidebar-title sidebar-title-color gdl-title">Westech College Catalog</h3>			<div class="textwidget"><div class="padded"><a href="pdfs/westech-catalog.pdf" class="gdl-button shortcode-medium-button" style="color:#ffffff; background-color:#2478D6; border-color:#2272cb; ">Download the Westech Catalog!</a></div>
+</div>
+		</div><div class='pt30'></div></div></div>		
+						
+			<br class="clear">
+		</div>
+	</div> <!-- content-wrapper -->
+	
+			<div class="clear"></div>
+			<div class="content-bottom-gimmick"></div>
+		</div> <!-- container -->
+		<div class="footer-wrapper">
+			<div class="footer-blank-space"></div>
+					
+			<div class="container mt0">
+			<!-- Get Footer Widget -->
+									<!-- Get Copyright Text -->
+							<div class="copyinfo copyright-wrapper gdl-divider">
+                <div class="fcn">Call Us Toll Free</div>
+                <div class="fcb">1 (866) 684-1717</div>
+				<p><strong>Westech College is an accredited ACCSC college. For more information on ACCSC visit <a href="http://www.accsc.org" onclick="target='newwindow'">www.Accsc.org</a></strong></p>
+                <p><a href="http://westech.edu/federal-disclosures/">Federal Disclosure</a> | <a href="http://westech.edu/contact-westech-college/">Contact Us</a><br />
+				&copy; 2014. Westech College. All Rights Reserved.</p>
+				<p class="urge"><a href="http://www.urgeinteractive.com" onclick="target='newwindow'"><img class="fadein" src="http://westech.edu/images/urge-footer.png" width="150" height="47" alt="Website Development by Urge Interactive Los Angeles"></a></p>
+				</div>
+			</div>
+            <!-- container-wrapper -->
+		</div>
+        <!-- footer-wrapper -->
+</div>
+<!-- body-wrapper -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36090233-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>	<script>
+		var getElementsByClassName=function(a,b,c){if(document.getElementsByClassName){getElementsByClassName=function(a,b,c){c=c||document;var d=c.getElementsByClassName(a),e=b?new RegExp("\\b"+b+"\\b","i"):null,f=[],g;for(var h=0,i=d.length;h<i;h+=1){g=d[h];if(!e||e.test(g.nodeName)){f.push(g)}}return f}}else if(document.evaluate){getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e="",f="http://www.w3.org/1999/xhtml",g=document.documentElement.namespaceURI===f?f:null,h=[],i,j;for(var k=0,l=d.length;k<l;k+=1){e+="[contains(concat(' ', @class, ' '), ' "+d[k]+" ')]"}try{i=document.evaluate(".//"+b+e,c,g,0,null)}catch(m){i=document.evaluate(".//"+b+e,c,null,0,null)}while(j=i.iterateNext()){h.push(j)}return h}}else{getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e=[],f=b==="*"&&c.all?c.all:c.getElementsByTagName(b),g,h=[],i;for(var j=0,k=d.length;j<k;j+=1){e.push(new RegExp("(^|\\s)"+d[j]+"(\\s|$)"))}for(var l=0,m=f.length;l<m;l+=1){g=f[l];i=false;for(var n=0,o=e.length;n<o;n+=1){i=e[n].test(g.className);if(!i){break}}if(i){h.push(g)}}return h}}return getElementsByClassName(a,b,c)},
+			dropdowns = getElementsByClassName( 'dropdown-menu' );
+		for ( i=0; i<dropdowns.length; i++ )
+			dropdowns[i].onchange = function(){ if ( this.value != '' ) window.location.href = this.value; }
+	</script>
+	<script type='text/javascript' src='http://westech.edu/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.49.0-2014.02.05'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/westech.edu\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://westech.edu/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.7.1'></script>
+<script type='text/javascript' src='http://westech.edu/wp-content/themes/westech/javascript/superfish.js?ver=1.0'></script>
+<script type='text/javascript' src='http://westech.edu/wp-content/themes/westech/javascript/supersub.js?ver=1.0'></script>
+<script type='text/javascript' src='http://westech.edu/wp-content/themes/westech/javascript/hoverIntent.js?ver=1.0'></script>
+<script type='text/javascript' src='http://westech.edu/wp-content/themes/westech/javascript/gdl-scripts.js?ver=1.0'></script>
+<script type='text/javascript' src='http://westech.edu/wp-content/themes/westech/javascript/jquery.easing.js?ver=1.0'></script>
+<script type='text/javascript' src='http://westech.edu/wp-content/themes/westech/javascript/jquery.prettyPhoto.js?ver=1.0'></script>
+<script type='text/javascript' src='http://westech.edu/wp-content/themes/westech/javascript/underscore-min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://westech.edu/wp-content/themes/westech/javascript/contact.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var NIVO = {"effect":"fade","pauseOnHover":"enable","controlNav":"enable","directionNav":"enable","directionNavHide":"enable","animSpeed":"500","pauseTime":"8000","captionOpacity":"0.68"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://westech.edu/wp-content/themes/westech/javascript/jquery.nivo.slider.pack.js?ver=1.0'></script>
+<script type="text/javascript">jQuery(document).ready(function(){
+	});</script>
+</body>
+<!-- Segment Pixel - 54921_http://westech.edu/state-funded-programs/_120413 - DO NOT MODIFY -->
+<script src="http://ib.adnxs.com/seg?add=1299725&t=1" type="text/javascript"></script>
+<!-- End of Segment Pixel -->
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://library.thinkquest.org/C0116628/home.htm>====================
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="Microsoft Theme" content="modular 111, default">
+<meta name="Microsoft Border" content="none">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<title>SpaceCAD</title>
+</head>
+
+<body background="_themes/modular/modbkgnd.jpg" bgcolor="#FFFFFF"
+text="#000000" link="#CC0000" vlink="#330099" alink="#FFCC33"
+onload="dynAnimation()"><!-- tql_banner_head --><script type="text/javascript" src="/banner/banner.js"></script></script><script>tql_drawTop();</script>
+<!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
+<script language="JavaScript" fptype="dynamicanimation">
+<!--
+function dynAnimation() {}
+function clickSwapImg() {}
+//-->
+</script><script
+language="JavaScript1.2" fptype="dynamicanimation"
+src="animate.js">
+</script><!--mstheme--></font>
+<table border="0">
+  <tr>
+    <td width="600" height="300"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica"><font face="Trebuchet MS, Arial, Helvetica"><map name="FPMap0">
+      <area href="lessons.htm" shape="rect" coords="5, 18, 232, 294">
+      <area href="design.htm" shape="rect" coords="232, 0, 422, 217">
+      <area href="history.htm" shape="rect" coords="440, 0, 637, 223">
+      <area href="map.htm" shape="rect" coords="0, 359, 228, 602">
+      <area href="about.htm" shape="rect" coords="424, 230, 637, 445">
+      <area href="links.htm" shape="rect" coords="228, 218, 422, 388">
+      <area href="links.htm#Permissions" shape="polygon" coords="602, 620, 230, 614, 231, 393, 422, 394, 423, 456, 597, 458"></map><!--webbot
+      bot="ImageMap" startspan
+      text=" (481,361) (582, 409) {About} {Times New Roman} 24 B #ffffff CT 0  "
+      text=" (322,464) (510, 575) {Permissions &amp;
+References} {Times New Roman} 24 B #ffffff CT 0  "
+      text=" (13,418) (187, 543) {Site Map} {Times New Roman} 24 B #ffffff CT 0  "
+      text=" (303,302) (422, 387) {Contest Links} {Times New Roman} 24 B #ffffff CT 0  "
+      text=" (479,105) (597, 183) {NASA History} {Times New Roman} 24 B #ffffff CT 0  "
+      text=" (232,53) (389, 137) {Design Challenges} {Times New Roman} 24 B #ffffff CT 0  "
+      text=" (88,154) (210, 200) {Lessons} {Times New Roman} 24 B #ffffff CT 0  "
+      rectangle=" (5,18) (232,294) lessons.htm"
+      rectangle=" (232,0) (422,217) design.htm"
+      rectangle=" (440,0) (637,223) history.htm"
+      rectangle=" (0,359) (228,602) map.htm"
+      rectangle=" (424,230) (637,445) about.htm"
+      rectangle=" (228,218) (422,388) links.htm"
+      polygon=" (602,620) (230,614) (231,393) (422,394) (423,456) (597,458) links.htm#Permissions"
+      src="images/ISS.gif" align="left" border="0" hspace="0"
+      u-originalsrc="images/ISS.gif"
+      u-overlaysrc="home.htm_txt_ISS.gif"
+      width="638" height="624" --><img src="home.htm_txt_ISS_cmp.gif" align="left" border="0" hspace="0" width="638" height="624" usemap="#FPMap0"><!--webbot
+      bot="ImageMap" I-CheckSum="14787" endspan --></font><!--mstheme--></font></td>
+    <td width="324" height="332"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
+
+<p align="center" mstheme>&nbsp;</p>
+
+<p align="center" dynamicanimation="fpAnimdropWordFP1"
+id="fpAnimdropWordFP3"
+style="position: relative !important; visibility: hidden"
+language="Javascript1.2"><font color="#0000FF" size="7"
+face="Westminster"><b>SPACE C.A.D.</b></font></p>
+
+<p align="center" dynamicanimation="fpAnimdropWordFP2"
+id="fpAnimdropWordFP4"
+style="position: relative !important; visibility: hidden"
+language="Javascript1.2"><font color="#0000FF" size="7"
+face="Westminster"><b>2<i>K</i>1</b></font></p>
+
+<p align="center" dynamicanimation="fpAnimdropWordFP2"
+id="fpAnimdropWordFP5"
+style="position: relative !important; visibility: hidden"
+language="Javascript1.2"><a href="svgView.exe"><font
+color="#0000FF" size="7" face="Westminster"><b><img
+src="images/svganimated.gif" border="0" width="88" height="31"></b></font></a></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><font face="Trebuchet MS, Arial, Helvetica">&nbsp;Click here to use
+other languages:</font></p>
+
+<p><font face="Trebuchet MS, Arial, Helvetica">&nbsp;</font><a href="/C006970F/Spanish/home.htm"
+dynamicanimation="fpAnimformatRolloverFP1"
+fprolloverstyle="color: #0000FF" onmouseover="rollIn(this)"
+onmouseout="rollOut(this)" language="Javascript1.2"><font
+face="Trebuchet MS, Arial, Helvetica">Spanish</font></a><font
+face="Trebuchet MS, Arial, Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font><a href="/C006970F/French/home.htm"
+dynamicanimation="fpAnimformatRolloverFP1"
+fprolloverstyle="color: #0000FF" onmouseover="rollIn(this)"
+onmouseout="rollOut(this)" language="Javascript1.2"><font
+face="Trebuchet MS, Arial, Helvetica">French</font></a></p>
+
+<p>&nbsp;</p>
+
+      <p>&nbsp;<!--mstheme--></font></td>
+  </tr>
+</table>
+<!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
+
+<p align="center"><a href="http://www.thinkquest.org"><font
+color="#FFFFFF" face="Trebuchet MS, Arial, Helvetica"><img
+src="tq_header_t.gif"
+border="0" width="120" height="74"></font></a></p>
+<font face="Trebuchet MS, Arial, Helvetica"></font><!--mstheme--></font>
+<!-- tql_banner_foot --><script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-174705-4']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga); })(); </script></body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cad.strath.ac.uk/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>CAD Centre - Home</title><base href="http://www.cad.strath.ac.uk/">
+<!-- <base href="http://localhost/"> -->
+<link rel="stylesheet" type="text/css" href="css/default.css" title="Default">
+<link rel="stylesheet" type="text/css" href="css/controlpanel.css" title="panel">
+<link rel="stylesheet" type="text/css" href="css/publications.css" title="Publications">
+<script src="js/datetime.js" type="text/javascript"></script>
+<script src="js/validMail.js" type="text/javascript"></script>
+<script src="js/navigationbuttons.js" type="text/javascript"></script>
+<script src="js/emailcontact.js" type="text/javascript"></script></head>
+<body>
+<!-- link to fake emails -->
+<a href="http://www.cad.strath.ac.uk/script/cademails.pl"></a>
+
+<!-- Cad Centre logo and University of Strathclyde table -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0" >
+<tr>
+<td class="tdCad"> 
+<div><A HREF="/"><img name="cclogo" id="cclogo" src="images/smCADCentre.jpg" alt="CAD Centre Home" title="CAD Centre Home" class="cadLogo" border="0"></A></div>
+</td>
+ <td class="tdUni"> 
+<div><img name="strathuni" id="strathuni"  src="images/strathtext4.gif" title="The University of Strathclyde in Glasgow" alt="The University of Strathclyde in Glasgow" class="uniText"><br>
+<img id="uselearning" name="uselearning" src="images/excellenceinthecity.gif" class="uniLearn" title="Useful Learning in the Heart of the City" alt="Useful Learning in the Heart of the City"></div>
+</td>
+<td class="tdCrest"> 
+<div><A HREF="http://www.strath.ac.uk/"><img name="strathCrest" id="strathCrest" src="images/crest_small.gif" alt="University of Strathclyde" title="University of Strathclyde" class="strathLogo" border="0"></A></div>
+</td>
+</tr>
+</table>
+<!-- End of CAD Centre logos--> 
+
+<!-- Start of Navigation bar --> 
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tr class="navTopEnd"> 
+<td class="navTopEnd" width="45%" >&nbsp;</td>
+<td class="navTopEnd">
+<a href="index.php"> 
+<img id="home" name="home" src="navimages/homeAct.jpg"  border="0" title="Home" alt="Home" class="homeButt"></a> </td>
+<td class="navTopEnd"><p></p></td>
+<td class="navTopEnd">
+<a href="courses/courses.php"> 
+<img id="courses" name="courses" src="navimages/coursesDea.jpg"  border="0" title="Courses" alt="Courses" class="coursesButt" onMouseOver="coursesIn()" onMouseOut="coursesOut()" >
+</a> 
+</td>
+    <td class="navTopEnd"><p></p></td>
+    <td class="navTopEnd">
+<a href="eig/eig.php"> 
+<img id="eig" name="eig" src="navimages/eigDea.jpg"  border="0" title="EIG" alt="EIG" class="eigButt" onMouseOver="eigIn()" onMouseOut="eigOut()" >
+</a> </td>
+    <td class="navTopEnd"><p></p></td>
+    <td  class="navTopEnd">
+
+<a href="enquiries.php"> 
+<img id="enquiries" name="enquiries" src="navimages/enquiriesDea.jpg"  border="0" title="Enquiry" alt="Enquiry" class="enqButt" onMouseOver="enquiriesIn()" onMouseOut="enquiriesOut()" >
+</a> </td>
+<td class="navTopEnd"><p></p></td>
+<td class="navTopEnd">
+<a href="location.php"> 
+<img id="locmap" name="locmap" src="navimages/locationDea.jpg" border="0" title="Location" alt="Location" class="locatButt" onMouseOver="locationIn()" onMouseOut="locationOut()" >
+</a> </td>
+    <td class="navTopEnd"><p></p></td>
+    <td  class="navTopEnd">
+<a href="local/local.php"> 
+<img id="local" name="local" src="navimages/localDea.jpg"  border="0" title="Local" alt="Local" class="localButt" onMouseOver="localIn()" onMouseOut="localOut()" >
+</a> </td>
+<td class="navTopEnd"><p></p></td>
+<td class="navTopEnd" >
+<a href="people/people.php"> 
+<img id="people" name="people"  src="navimages/peopleDea.jpg"  border="0" title="people" alt="people" class="peopleButt" onMouseOver="peopleIn()" onMouseOut="peopleOut()" >
+</a> </td>
+    <td class="navTopEnd"><p></p></td>
+    <td class="navTopEnd" >
+<a href="publications/publications_cad.php"> 
+<img id="publications" name="publications"  src="navimages/publicationsDea.jpg"  border="0" title="Publications" alt="Publications"  class="pubButt" onMouseOver="publicationsIn()" onMouseOut="publicationsOut()" >
+</a> </td>
+    <td class="navTopEnd"><p></p></td>
+    <td class="navTopEnd" >
+<a href="research/research.php"> 
+<img id="research" name="research"  src="navimages/researchDea.jpg"  border="0" title="Research" alt="Research"  class="researchButt" onMouseOver="researchIn()" onMouseOut="researchOut()" >
+</a> </td>
+    <td class="navTopEnd"><p></p></td>
+    <td class="navTopEnd">
+<a href="search.php"> 
+<img id="search" name="search"  src="navimages/searchDea.jpg"  border="0" title="Search" alt="Search"  class="searchButt" onMouseOver="searchIn()" onMouseOut="searchOut()" >
+</a> </td>
+<!--
+<td class="navTopEnd"><p></p></td>
+    
+<td class="navTopEnd">
+
+<a href="faqs.php"> 
+<img id="faqs" name="faqs"  src="navimages/faqDea.jpg"  border="0" title="Frequently Asked Questions"  alt="Frequently Asked Questions"  class="faqsButt" onMouseOver="faqsIn()" onMouseOut="faqsOut()" >
+</a> </td>
+//-->
+    <td class="navTopEnd" width="45%" >&nbsp;</td>
+</tr>
+  <tr class="navBottom"> 
+    <td class="navBottom"> 
+      <div align="left"><img name="leftbar" id="leftbar" src="navimages/leftEnd.jpg" class="leftEnd"></div>
+    </td>
+<!-- REMEMBER to change rowspan depending on number of menu options -->
+    <td class="navBottom" colspan="19">&nbsp;</td>
+    <td class="navBottom">
+      <div align="right"><img src="navimages/rightEnd.jpg" name="rightend" id="rightend" class="rightEnd"></div>
+    </td>
+  </tr>
+</table>
+<!-- End of navigation bar --><table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+<tr>
+<td align="right"> 
+<p><a href="getbar.php?type=graphic&&myurl=/index.php" class="choicenav">Image Navigation</a> &nbsp;<a href="getbar.php?type=text&&myurl=/index.php" class="choicenav">Text Navigation</a></p></td></tr></table><p align="center"> 
+
+<!-- Flash animation -->
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="35%" height="35%">
+      <param name="movie" value="text.swf">
+      <param name="quality" value="high">
+      <embed src="text.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="35%" height="35%"></embed></object>
+<!-- end flash animation -->
+</p>
+
+<table width="90%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr> 
+    <td width="100%" colspan="3"> 
+      <p align="left">The CAD Centre is a Postgraduate teaching and research unit 
+        at <a href="http://www.strath.ac.uk/">Strathclyde University</a>, 
+        <a href="http://www.glasgowguide.co.uk/">Glasgow</a> in 
+        <a href="http://www.lib.strath.ac.uk/Reference/Scotland.htm">Scotland.</a> 
+        The CAD Centre is part of the department of <a href="http://www.dmem.strath.ac.uk/">Design 
+        Manufacture and Engineering Management</a> within the Faculty of Engineering. 
+        Our research focuses on design methods and computer support of the design 
+        process for engineering applications.</p>
+    </td>
+  </tr>
+  <tr> 
+    <td width="30%"> <!-- Space Filler--> </td>
+    <td> 
+      <p align="left">Design Manufacture &amp; Engineering Management <br/>
+        University of Strathclyde<br/>
+        75 Montrose Street<br/>
+        Glasgow, G1 1XJ<br/>
+        Scotland, UK<br/>
+        <b>Tel:</b> +44-141-548 3134<br/>
+        <b>Fax:</b> +44-141-552 3148
+	</p>
+    </td>
+  </tr>
+<tr>
+<td colspan="2">
+<p align="center">If you wish to contact a member of CAD Centre, then go to <a href="people/people.php">People</a></p>
+</td>
+</tr>
+</table>
+
+<div class="wplogo">
+<a href="http://www.monkeys.com/wpoison/" target="_top"><img src="images/wpoison-logo.gif" border="0" title="Protected by Wpoison" alt="Protected by Wpoison"></a></div>
+
+<div class="footnote"> 
+<script type="text/javascript">myFiledate()</script>
+</div>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.kishwaukeecollege.edu/cad/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+	<title>Kishwaukee College CAD Technology Program</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="author" content="Mark S. Schwendau">
+<META NAME="description" content="Kishwaukee College's Computer-Aided Design Technology Web site.">
+<META NAME="keywords" content="CAD, Kishwaukee College, drafting, design, AutoCAD, Solidworks architecture, engineering, computer-aided design, computer-aided drafting, CAD education, illustration, 2-D CAD, 3-D CAD, free AutoCAD calendar, design contests, property mesh, topo mesh, 3d topo, Illinois, isometric arrowheads, online descriptive goemetry course, mechanical, online GD&T course, free AutoCAD Help Sheet, AutoCAD system variables,">
+
+<link rel="image_src" href="http://www.kishwaukeecollege.edu/cad/thumbnail.png"/>
+ 
+<META content=index,follow name=robots>
+<META content="7 days" name=revisit-after>
+
+
+	<link rel="stylesheet" media="screen" type="text/css" href="style.css" />
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+  </head>
+
+
+  <body>
+    <div id="page">
+	  <div id="header">
+	    <div id="logo">
+		<!-- type your logo and small slogan here -->
+		<p>Kishwaukee <span class="green">College</span></p>
+		<div id="slogan"><p>CAD Technology Program</p></div>
+		<!-- end logo -->
+		</div>
+		<div id="nav">
+		  <div id="nav-menu-left"></div>
+		  <div id="nav-menu">
+		  <!-- start of navigation -->
+		    <ul>
+			  <li><a href="http://www.kishwaukeecollege.edu/programs_of_study/computer_aided_design/index.php?page=76">Home</a></li>
+			  <li><a href="visitors.htm">Visitors</a></li>
+			  <li><a href="students.htm">Students</a></li>
+			  <li><a href="graduates.htm">Graduates</a></li>
+			  <li><a href="free.htm">Free Stuff</a></li>
+			  <li><a href="contact.htm" style="background-image: none;">Contact</a></li>
+			</ul>
+			<!-- end navigation -->
+          </div>
+		  <div id="nav-menu-right"></div>
+		</div>
+	  </div>
+	  <div class="clearfloats"></div>
+	  <div id="header2">
+	    <!-- the large header slogan which is over top of the grass image can either be changed, or removed below -->
+	    <div id="header2-slogan1"><p>drawing out</p></div>
+	    <div id="header2-slogan2"><p>the best!</p></div>
+	    <!-- end header slogan -->
+	  </div>
+	  
+	  <div id="content">
+	    <div class="content-padding">
+		  <!-- page content below -->
+	      <h1>Welcome!</h1>
+<font color="ffffff">
+<SCRIPT LANGUAGE="Javascript">
+<!-- 
+
+// Array of day names
+var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday",
+				"Thursday","Friday","Saturday");
+
+// Array of month Names
+var monthNames = new Array(
+"January","February","March","April","May","June","July",
+"August","September","October","November","December");
+
+var now = new Date();
+document.write(dayNames[now.getDay()] + ", " + 
+monthNames[now.getMonth()] + " " + 
+now.getDate() + ", " + now.getFullYear());
+
+// -->
+</SCRIPT>
+<p/>
+<p/>
+          <p>Welcome to our program!  This historic program has been around since Kishwaukee College opened in 1968.  It has served many different populations of students from all over the world as well as the employers who hire them.</p>
+
+<p>For those who don't know, CAD professionals prepare drawings for architects and engineers.  CAD is an area of STEM (Science-Technology-Engineering-Math) education.  We have often taken the lead in the use of CAD graphics conventions on the worldwide web as demonstrated <a href="vrml.htm" target="_blank">HERE</a>, an interactive 2-D (DWF) and 3-D (VRML) CAD demonstration of our college campus on the web.  We also are now into 3-D CAD modeling of raster-vector overlays as demonstrated <a href="gallery/Marsh.pdf" target="_blank">HERE</a>.  Most currently, we are experimenting with CAD cloud computing and collaborative design as discussed <a href="pdfs/p26-29_schwendau.pdf">HERE</a>.</p>
+
+          <p>The largest population of students served are here to learn this profession to be able to achieve work with architects and engineers.</p>
+          
+<p>Another group comes to this program to learn this profession to transfer to four year institutions to become architects, engineers and CAD educators themselves.  We have cooperative agreements with Illinois State University, Northern Illinois University and Southern Illinois University for students to transfer our two year A.A.S. degrees to these institutions.</p>
+
+<p>Others are here for job skill update training as they take individual courses on an as-needed basis.  Because CAD software changes so frequently, we now offer some CAD courses repeatable for credit.  This helps those who have been away from the AutoCAD &reg; and Solidworks &reg; software programs for awhile.  Whatever your learning desire happens to be, Kishwaukee College is here to serve you!</p>
+
+<p>If you are an employer wishing to hire one of our students as an intern, or one of our graduates as a drafter or designer, click <a href="http://www.kishwaukeecollege.edu/cad/jobs.htm" target="new">here</a>.
+
+<p>
+<p>Also, if you are a prospective student wishing to see a sample lecture presentation, here is an introductory lesson from our all new CAD210 course, "Principles of Consumer Design", click <a href="http://www.kishwaukeecollege.edu/cad/CAD210-1.ppsx" target="new">here</a>.  Enjoy!
+<p/>
+
+<p>Finally, if you want to know what three forms of media I suggest for you to further your interest in design; Movie: "The Future by Design", TV: "The CBS Sunday Morning Show", and Book: "Do you matter?: How great design will make people love your company".  
+<p/>
+
+<p><a href="mailto:marks@kishwaukeecollege.edu"><i>Mark Schwendau</i></a>, Program Instructor</p>
+
+
+
+
+
+	    </div>
+	  </div>
+	  <div id="body-divider"></div><!-- the division between the light green content section, and the dark -->
+	  <div id="content2">
+	    <div class="content-padding">
+		  <!-- content blocks (three side by side), can remove if needed, this was just an example -->
+		  <div class="content2-block">
+                   <h3>CAD Online</h3>
+		    <p>Spring semester (January to May) we offer <a href="pdfs/CAD221_pp.pdf" target="_blank">CAD221 Descriptive Geometry</a>, a 3 credit, 16 week course.  We also offer <a href="pdfs/CAD231_pp.pdf" target="_blank">CAD231 Geometric Dimensioning and Tolerancing</a>, a 2 credit, 8 week course running March to May.</p>  
+
+<p>Both CAD221 and CAD231 may be completed entirely online using board or CAD methods!  Get more information by selecting the above links to view a Course Preview page.</p>
+
+<p>Drawing assignments for both of these courses may be completed using the FREE <a href="http://www.draftsight.com" target="new"> Draftsight</a> &reg; software program!</p>
+
+		  </div>
+
+		  <div class="content-divider"></div>
+		  <div class="content2-block">
+                  <h2>Program Majors</h2>
+<p>This program offers instruction in four curriculum as follows:
+
+<p><a href="docs/CAD412.doc">#412 Architectural Design <font size="1">(AAS)</font> Degree</a></p>
+<p><a href="docs/CAD413.doc">#413 Mechanical Design <font size="1">(AAS)</font> Degree</a></p>
+<p><a href="docs/CAD414.doc">#414 Architectural Drafting Certificate</a></p>
+<p><a href="docs/CAD415.doc">#415 Mechanical Drafting Certificate</a></p>
+<p/>
+<p>Check out our Scheduling Page for more information: <a href="scheduling.htm">Scheduling</a>.</p>
+
+
+
+
+
+<center>
+<a href="http://www2.clustrmaps.com/counter/maps.php?url=http://www.kishwaukeecollege.edu/cad" id="clustrMapsLink"><img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.kishwaukeecollege.edu/cad" style="border:0px;" alt="Locations of visitors to this page" title="Locations of visitors to this page" id="clustrMapsImg" onerror="this.onerror=null; this.src='http://clustrmaps.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://clustrmaps.com';" />
+</a>
+</center>
+</p>
+
+
+
+</div>
+		  <div class="content-divider"></div>
+  		  <div class="content2-block">
+		    <h4>Media</h4>
+			<div class="newsletter">
+			<p>Get our program <a href="free/acadhelp.pdf">AutoCAD HELP!</a>.</p>
+			<p>Get our program <a href="newsletters.htm">Newsletters</a>.</p>
+			<p>Get our program <a href="pdfs/calendar.pdf">Calendar.PDF</a>.</p>
+			<p>Get our program <a href="pdfs/system.pdf">CAD System.PDF</a>.</p>
+			<p>System Variables <a href="pdfs/ACAD2013.pdf">ACAD2013.PDF</a>.</p>
+                        <p>Our Famous <a href="airbrush.htm" target="new"> Airbrush</a> History Page.</p>
+                        <p><font color="yellow"><b>NEW</b></font color></p>
+
+                        <p>H.S. Competition 2014 <a href="pdfs/KC_HS_CAD_Design_Competition_2014.pdf" target="blank">HERE!</a>.</p>
+
+                        
+<p/>
+<p>Our <a href="http://www.youtube.com/user/KougarCAD?feature=mhum#p/a/u/1/YP0_u9pzX6o" target="_blank"><img src="images/youtube.jpg" alt="See us on YouTube!" width="100" border="0"></a> channel!
+
+<p/>
+<p>Also be sure to check out TJ's, Heather's and Jacob J's Whirligig entries while in YouTube!
+		    </div>
+		  <!-- end content blocks -->
+		  </div>
+		  <div class="clearfloats"></div>
+		</div>
+      </div>
+	  <div id="footer-div"></div>
+<center>
+<script language="JavaScript1.2">
+
+
+
+/*
+Cross browser Marquee script- � Dynamic Drive (www.dynamicdrive.com)
+For full source code, 100's more DHTML scripts, and Terms Of Use, visit http://www.dynamicdrive.com
+Credit MUST stay intact
+*/
+
+//Specify the marquee's width (in pixels)
+var marqueewidth="900px"
+//Specify the marquee's height
+var marqueeheight="25px"
+//Specify the marquee's marquee speed (larger is faster 1-10)
+var marqueespeed=2
+//configure background color:
+var marqueebgcolor="#002200"
+//Pause marquee onMousever (0=no. 1=yes)?
+var pauseit=1
+
+//Specify the marquee's content (don't delete <nobr> tag)
+//Keep all content on ONE line, and backslash any single quotations (ie: that\'s great):
+
+
+var marqueecontent='<nobr><font face="Arial">Welcome Genoa-Kingston and Rochelle High Schools to the I.D.E.A. Region #4 CAD/Drafting Competitions March 7th!  <> Our 2014 KC High School CAD Competition is going on NOW!  See the link above!<> Our Spring-14 program newsletter, <u>Between</u> the <u>Lines</u> is now posted above. <> Our 2013 CAD Technology Program Review 5 Year Report for the ICCB reveals this program has some of the highest paid graduates of the college! <> New CAD majors be sure to pick up a FREE 2013 program t-shirt!  See Instructor Schwendau! <> The Workforce Investment (WIA) Act has a limited amount of money for NEW prospective CAD students!  Conditions apply. <> Students needing a full-time release signed should see program faculty or division deans.</font></nobr>'
+
+
+////NO NEED TO EDIT BELOW THIS LINE////////////
+marqueespeed=(document.all)? marqueespeed : Math.max(1, marqueespeed-1) //slow speed down by 1 for NS
+var copyspeed=marqueespeed
+var pausespeed=(pauseit==0)? copyspeed: 0
+var iedom=document.all||document.getElementById
+if (iedom)
+document.write('<span id="temp" style="visibility:hidden;position:absolute;top:-100px;left:-9000px">'+marqueecontent+'</span>')
+var actualwidth=''
+var cross_marquee, ns_marquee
+
+function populate(){
+if (iedom){
+cross_marquee=document.getElementById? document.getElementById("iemarquee") : document.all.iemarquee
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+cross_marquee.innerHTML=marqueecontent
+actualwidth=document.all? temp.offsetWidth : document.getElementById("temp").offsetWidth
+}
+else if (document.layers){
+ns_marquee=document.ns_marquee.document.ns_marquee2
+ns_marquee.left=parseInt(marqueewidth)+8
+ns_marquee.document.write(marqueecontent)
+ns_marquee.document.close()
+actualwidth=ns_marquee.document.width
+}
+lefttime=setInterval("scrollmarquee()",20)
+}
+window.onload=populate
+
+function scrollmarquee(){
+if (iedom){
+if (parseInt(cross_marquee.style.left)>(actualwidth*(-1)+8))
+cross_marquee.style.left=parseInt(cross_marquee.style.left)-copyspeed+"px"
+else
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+
+}
+else if (document.layers){
+if (ns_marquee.left>(actualwidth*(-1)+8))
+ns_marquee.left-=copyspeed
+else
+ns_marquee.left=parseInt(marqueewidth)+8
+}
+}
+
+if (iedom||document.layers){
+with (document){
+document.write('<table border="0" cellspacing="0" cellpadding="0"><td>')
+if (iedom){
+write('<div style="position:relative;width:'+marqueewidth+';height:'+marqueeheight+';overflow:hidden">')
+write('<div style="position:absolute;width:'+marqueewidth+';height:'+marqueeheight+';background-color:'+marqueebgcolor+'" onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed">')
+write('<div id="iemarquee" style="position:absolute;left:0px;top:0px"></div>')
+write('</div></div>')
+}
+else if (document.layers){
+write('<ilayer width='+marqueewidth+' height='+marqueeheight+' name="ns_marquee" bgColor='+marqueebgcolor+'>')
+write('<layer name="ns_marquee2" left=0 top=0 onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed"></layer>')
+write('</ilayer>')
+}
+document.write('</td></table>')
+}
+}
+</script>
+</center>
+	  <div id="footer">
+<TABLE width=100%>
+<TR>
+
+
+<TD>
+<p><a href="https://kish.desire2learn.com/" target="_blank"><img SRC="images/D2L-Logo.jpg" ALT="Desire2Learn Entrance" BORDER=0></a>
+</TD>
+
+<TD>
+<a href="http://www.kishwaukeecollege.edu/admissions/index.php?page=317"> <target="blank"><img SRC="images/admissions.jpg" border=0 ></a>
+</TD>
+<TD>
+<div id="eXTReMe"><a href="http://extremetracking.com/open?login=mss1954">
+<img src="http://t1.extreme-dm.com/i.gif" style="border: 0;"
+height="38" width="41" id="EXim" alt="eXTReMe Tracker" /></a>
+<script type="text/javascript"><!--
+var EXlogin='mss1954' // Login
+var EXvsrv='s11' // VServer
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXd.write("<img src=http://e2.extreme-dm.com",
+"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(EXd.referrer)+" height=1 width=1>");//-->
+</script><noscript><div id="neXTReMe"><img height="1" width="1" alt=""
+src="http://e2.extreme-dm.com/s11.g?login=mss1954&amp;j=n&amp;jv=n" />
+</div></noscript></div>
+
+</TD>
+
+
+
+<TD>
+<a href="http://www.kishwaukeecollege.edu/kishsos/" target="_blank"><img src="images/myKC-logo.png" border="0" alt=" My KC Student Online Services"></a>
+</TD>
+<TD>
+<a href="http://www.kishcareerlink.org/" target="_blank"><img src="images/Kish_Career_Link.png" border="0" alt="Kish Career Link"></a>
+</TD>
+</TR>
+</TABLE>
+<p/>
+
+<center>
+<!-- Start FastOnlineUsers.com -->
+<a href="http://www.fastonlineusers.com"><font color="white"><script type="text/javascript" src="http://fastonlineusers.com/on3.php?d=www.kishwaukeecollege.edu/cad"></script> Online</a></font><br>
+<!-- End FastOnlineUsers.com -->
+</center>
+<br>
+	    <p>&copy; 1998-2014 Kishwaukee College.  All rights reserved.</p>
+<br>
+<p>This college CAD/drafting website went online September of 1998. We believe we were the first!</p>
+<br>
+<a href="http://www.kishwaukeecollege.edu" target="new"><img SRC="images/logo.png" border="0"></a>
+<p/>
+<p/>
+
+</div>
+
+	  </div>
+
+	</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10894868-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+  </body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.streamingteacher.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Streamingteacher Home page</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=8" >
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Professional quality online training for Mastercam." />
+<meta name="keywords" content="mastercam, mastercam training, mastercam,  certification, mastercam learning, courseware, computer based training, streaming, streaming courseware, cad/cam, cad, cam, streamingteacher, video training, X2, X3, X4, X5, X6, X7" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="icon" href="http://www.streamingteacher.com/skin/frontend/default/streaming/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://www.streamingteacher.com/skin/frontend/default/streaming/favicon.ico" type="image/x-icon" />
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.streamingteacher.com/js/blank.html';
+    var BLANK_IMG = 'http://www.streamingteacher.com/js/spacer.gif';
+    
+//]]>
+</script>
+<![endif]-->
+<script type="text/javascript">
+  var SKIN_URL = 'http://www.streamingteacher.com/skin/frontend/default/streaming/';
+</script>
+<link rel="stylesheet" type="text/css" href="http://www.streamingteacher.com/skin/frontend/default/streaming/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.streamingteacher.com/skin/frontend/base/default/css/widgets.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.streamingteacher.com/skin/frontend/default/streaming/css/shadowbox.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.streamingteacher.com/skin/frontend/default/streaming/css/wysiwyg.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.streamingteacher.com/skin/frontend/default/streaming/css/local.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.streamingteacher.com/skin/frontend/default/default/css/print.css" media="print" />
+<script type="text/javascript" src="http://www.streamingteacher.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/varien/js.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/varien/form.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/jquery/jquery-min-1.6.1.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/jquery/jquery.tools.min.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/jquery/jquery-ui-1.8.14.custom.min.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/steach/downloads.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/steach/video.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/sb/src/js/lib/yui-utilities.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/sb/src/js/adapter/shadowbox-prototype.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/sb/src/js/shadowbox.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/zoom/tjpzoom.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/skin/frontend/default/streaming/js/local.js"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.streamingteacher.com/skin/frontend/default/streaming/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://www.streamingteacher.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.streamingteacher.com/skin/frontend/default/streaming/js/ie6.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.streamingteacher.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script>
+<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script></head>
+<body class=" cms-index-index cms-home">
+
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">
+//<![CDATA[
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+
+    var _gaq = _gaq || [];
+
+_gaq.push(['_setAccount', 'UA-43443920-2']);
+_gaq.push(['_trackPageview']);
+
+
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE --><div class="wrapper">
+        <noscript>
+        <div class="noscript">
+            <div class="noscript-inner">
+                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
+                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        <div class="header-container">
+    <div class="header">
+                <h1 class="logo"><strong>Mastercam Training and Certification online - Streamingteacher</strong><a href="http://www.streamingteacher.com/" title="Mastercam Training and Certification online - Streamingteacher" class="logo"><img src="http://www.streamingteacher.com/skin/frontend/default/streaming/images/logo.gif" alt="Mastercam Training and Certification online - Streamingteacher" /></a></h1>
+                <div class="quick-access">
+                        <p class="welcome-msg">Welcome to Streaming Teacher!</p>
+            <ul class="links">
+                        <li class="first" ><a href="https://www.streamingteacher.com/customer/account/" title="My Account" >My Account</a></li>
+                                <li ><a href="http://www.streamingteacher.com/faqs/" title="FAQs" class="top-link-faqs">FAQs</a></li>
+                                <li ><a href="http://www.streamingteacher.com/checkout/cart/" title="My Cart" class="top-link-cart">My Cart</a></li>
+                                <li class=" last" ><a href="https://www.streamingteacher.com/customer/account/login/" title="Log In" >Log In</a></li>
+            </ul>
+                    </div>
+            </div>
+</div>
+<div class="nav-container">
+    <ul id="nav">
+        <li class='level0 nav-1'><a href='http://www.streamingteacher.com/'><span>Home</span></a></li><li class="level0 nav-1 level-top first">
+<a href="http://www.streamingteacher.com/testimonials.html" class="level-top">
+<span>Testimonials</span>
+</a>
+</li><li class="level0 nav-2 level-top">
+<a href="http://www.streamingteacher.com/contact.html" class="level-top">
+<span>Contact</span>
+</a>
+</li><li class="level0 nav-3 level-top">
+<a href="http://www.streamingteacher.com/about-us.html" class="level-top">
+<span>About Us</span>
+</a>
+</li><li class="level0 nav-4 level-top">
+<a href="http://www.streamingteacher.com/instructors-1.html" class="level-top">
+<span>Instructors</span>
+</a>
+</li><li class="level0 nav-5 level-top">
+<a href="http://www.streamingteacher.com/visitor-world-map.html" class="level-top">
+<span>Visitor World Map</span>
+</a>
+</li><li class="level0 nav-6 level-top last">
+<a href="http://www.streamingteacher.com/classroom.html" class="level-top">
+<span>Classroom</span>
+</a>
+</li>    </ul>
+</div>
+        <div class="main-container col3-layout">
+            <div class="main">
+                                <div class="col-wrapper">
+
+                    <div class="col-main" style="">
+                                                                                                <div class="std"><p style="position: absolute; left: -25000px;">&nbsp;</p></div><script type="text/javascript">
+    jQuery(document).ready( function() {
+
+      });
+</script>
+
+<script type="text/javascript" src="http://www.streamingteacher.com/js/jquery/jquery.jscrollpane.min.js"></script>
+<link rel="stylesheet" type="text/css" media="all" href="http://www.streamingteacher.com/skin/frontend/default/streaming/css/jquery.scrollpane.css" />
+<div id="courseware">
+    <h2>COURSEWARE AVAILABLE</h2>
+    <div class="jScrollPaneContainer" style="height: 724px; width: 478px;">
+        <div id="channels" style="">
+            <div id="accordion" style="height: 400px;" class="ui-accordion ui-widget ui-helper-reset">
+                                                <!-- Mastercam X5 Channel -->
+                <h3 style="padding-left: 0px;" id="button-47" class="button ui-accordion-header ui-helper-reset ui-state-default ui-corner-all">
+                    <span class="ui-icon ui-icon-triangle-1-e">&nbsp;</span>
+                    <a tabindex="-1"  href="http://www.streamingteacher.com/mastercam-x7.html" style="background-image: url( http://www.streamingteacher.com/media/catalog/product/cache/1/steach_catalog_image/9df78eab33525d08d6e5fb8d27136e95/m/a/mastercamvc_1_1_2.gif );">
+                        <span style="display: none;">Mastercam Video Courseware</span>
+                        <span class="ui-corner-left" >
+                                                        Version <strong>X7</strong></span>
+                                                    </span>
+                    </a>
+                    <span class="expand">More Information</span>
+                </h3>
+
+                <div id="content-47" class="content ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none;">
+                    <dl>
+	<dt>Mastercam X7 Video Courseware is Intended for:</dt>
+	<dd>Users migrating from older versions</dd>
+	<dd>Use as reference material that changes as Mastercam updates</dd>
+	<dd>Those who desire self paced / self guided learning</dd>
+</dl>                    <!--
+                    <dl>
+                        <dt>Mastercam X5 Video Courseware is Intended for:</dt>
+                        <dd>Users migrating from older versions</dd>
+                        <dd>Use as reference material that changes as Mastercam updates</dd>
+                        <dd>Those who desire self paced / self guided learning </dd>
+                    </dl>
+                    -->
+                    <div class="sample">
+                                                                        
+                        <p><a onclick="openSample('\'X7 - Backplot / Verify Utility\'', '6','850','653','47');" href="javascript:void(0);"><img src="http://www.streamingteacher.com/media/images/samples/6708.jpg" alt=""X7 - Backplot / Verify Utility"" width="150" height="112" /></a></p>
+                        <p><a href="http://www.streamingteacher.com/mastercam-x7.html">View more samples</a></p>
+
+                                            </div>
+                    <div class="moreInfo ui-corner-bottom">
+                        <a class="subscription" href="http://www.streamingteacher.com/mastercam-x7.html">
+                            <div style="display: none;">More Information</div>
+                        </a>
+                    </div>
+                </div><!--id="mcamX5_content"-->
+                                                <!-- Mastercam X5 Channel -->
+                <h3 style="padding-left: 0px;" id="button-6" class="button ui-accordion-header ui-helper-reset ui-state-default ui-corner-all">
+                    <span class="ui-icon ui-icon-triangle-1-e">&nbsp;</span>
+                    <a tabindex="-1"  href="http://www.streamingteacher.com/mastercam-x6.html" style="background-image: url( http://www.streamingteacher.com/media/catalog/product/cache/1/steach_catalog_image/9df78eab33525d08d6e5fb8d27136e95/m/a/mastercamvc_1.gif );">
+                        <span style="display: none;">Mastercam Video Courseware</span>
+                        <span class="ui-corner-left" >
+                                                        Version <strong>X6</strong></span>
+                                                    </span>
+                    </a>
+                    <span class="expand">More Information</span>
+                </h3>
+
+                <div id="content-6" class="content ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none;">
+                    <dl>
+	<dt>Mastercam X6 Video Courseware is Intended for:</dt>
+	<dd>Users migrating from older versions</dd>
+	<dd>Use as reference material that changes as Mastercam updates</dd>
+	<dd>Those who desire self paced / self guided learning</dd>
+</dl>                    <!--
+                    <dl>
+                        <dt>Mastercam X5 Video Courseware is Intended for:</dt>
+                        <dd>Users migrating from older versions</dd>
+                        <dd>Use as reference material that changes as Mastercam updates</dd>
+                        <dd>Those who desire self paced / self guided learning </dd>
+                    </dl>
+                    -->
+                    <div class="sample">
+                                                                        
+                        <p><a onclick="openSample('\'X7 - Backplot / Verify Utility\'', '6','850','653','6');" href="javascript:void(0);"><img src="http://www.streamingteacher.com/media/images/samples/6708.jpg" alt=""X7 - Backplot / Verify Utility"" width="150" height="112" /></a></p>
+                        <p><a href="http://www.streamingteacher.com/mastercam-x6.html">View more samples</a></p>
+
+                                            </div>
+                    <div class="moreInfo ui-corner-bottom">
+                        <a class="subscription" href="http://www.streamingteacher.com/mastercam-x6.html">
+                            <div style="display: none;">More Information</div>
+                        </a>
+                    </div>
+                </div><!--id="mcamX5_content"-->
+                                                <!-- Mastercam X5 Channel -->
+                <h3 style="padding-left: 0px;" id="button-2" class="button ui-accordion-header ui-helper-reset ui-state-default ui-corner-all">
+                    <span class="ui-icon ui-icon-triangle-1-e">&nbsp;</span>
+                    <a tabindex="-1"  href="http://www.streamingteacher.com/mastercam-x5.html" style="background-image: url( http://www.streamingteacher.com/media/catalog/product/cache/1/steach_catalog_image/9df78eab33525d08d6e5fb8d27136e95/m/a/mastercamvc.gif );">
+                        <span style="display: none;">Mastercam Video Courseware</span>
+                        <span class="ui-corner-left" >
+                                                        Version <strong>X5</strong></span>
+                                                    </span>
+                    </a>
+                    <span class="expand">More Information</span>
+                </h3>
+
+                <div id="content-2" class="content ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none;">
+                    <dl>
+	<dt>Mastercam X5 Video Courseware is Intended for:</dt>
+	<dd>Users migrating from older versions</dd>
+	<dd>Use as reference material that changes as Mastercam updates</dd>
+	<dd>Those who desire self paced / self guided learning</dd>
+</dl>                    <!--
+                    <dl>
+                        <dt>Mastercam X5 Video Courseware is Intended for:</dt>
+                        <dd>Users migrating from older versions</dd>
+                        <dd>Use as reference material that changes as Mastercam updates</dd>
+                        <dd>Those who desire self paced / self guided learning </dd>
+                    </dl>
+                    -->
+                    <div class="sample">
+                                                                        
+                        <p><a onclick="openSample('\'X7 - Backplot / Verify Utility\'', '6','850','653','2');" href="javascript:void(0);"><img src="http://www.streamingteacher.com/media/images/samples/6708.jpg" alt=""X7 - Backplot / Verify Utility"" width="150" height="112" /></a></p>
+                        <p><a href="http://www.streamingteacher.com/mastercam-x5.html">View more samples</a></p>
+
+                                            </div>
+                    <div class="moreInfo ui-corner-bottom">
+                        <a class="subscription" href="http://www.streamingteacher.com/mastercam-x5.html">
+                            <div style="display: none;">More Information</div>
+                        </a>
+                    </div>
+                </div><!--id="mcamX5_content"-->
+                                                <!-- Mastercam X5 Channel -->
+                <h3 style="padding-left: 0px;" id="button-18" class="button ui-accordion-header ui-helper-reset ui-state-default ui-corner-all">
+                    <span class="ui-icon ui-icon-triangle-1-e">&nbsp;</span>
+                    <a tabindex="-1"  href="http://www.streamingteacher.com/mastercam-x4.html" style="background-image: url( http://www.streamingteacher.com/media/catalog/product/cache/1/steach_catalog_image/9df78eab33525d08d6e5fb8d27136e95/m/a/mastercamvc_5.gif );">
+                        <span style="display: none;">Mastercam Video Courseware</span>
+                        <span class="ui-corner-left" >
+                                                        Version <strong>X4</strong></span>
+                                                    </span>
+                    </a>
+                    <span class="expand">More Information</span>
+                </h3>
+
+                <div id="content-18" class="content ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none;">
+                    <dl>
+					<dt>Mastercam X4 Video Courseware is Intended for:</dt>
+					<dd>Users migrating from older versions</dd>
+					<dd>Use as reference material that changes as Mastercam updates</dd>
+					<dd>Those who desire self paced / self guided learning
+				</dd>
+
+				</dl>                    <!--
+                    <dl>
+                        <dt>Mastercam X5 Video Courseware is Intended for:</dt>
+                        <dd>Users migrating from older versions</dd>
+                        <dd>Use as reference material that changes as Mastercam updates</dd>
+                        <dd>Those who desire self paced / self guided learning </dd>
+                    </dl>
+                    -->
+                    <div class="sample">
+                                                                        
+                        <p><a onclick="openSample('\'X7 - Backplot / Verify Utility\'', '6','850','653','18');" href="javascript:void(0);"><img src="http://www.streamingteacher.com/media/images/samples/6708.jpg" alt=""X7 - Backplot / Verify Utility"" width="150" height="112" /></a></p>
+                        <p><a href="http://www.streamingteacher.com/mastercam-x4.html">View more samples</a></p>
+
+                                            </div>
+                    <div class="moreInfo ui-corner-bottom">
+                        <a class="subscription" href="http://www.streamingteacher.com/mastercam-x4.html">
+                            <div style="display: none;">More Information</div>
+                        </a>
+                    </div>
+                </div><!--id="mcamX5_content"-->
+                                                <!-- Mastercam X5 Channel -->
+                <h3 style="padding-left: 0px;" id="button-23" class="button ui-accordion-header ui-helper-reset ui-state-default ui-corner-all">
+                    <span class="ui-icon ui-icon-triangle-1-e">&nbsp;</span>
+                    <a tabindex="-1"  href="http://www.streamingteacher.com/mastercam-x3.html" style="background-image: url( http://www.streamingteacher.com/media/catalog/product/cache/1/steach_catalog_image/9df78eab33525d08d6e5fb8d27136e95/images/catalog/product/placeholder/steach_catalog_image.jpg );">
+                        <span style="display: none;">Mastercam Video Courseware</span>
+                        <span class="ui-corner-left" >
+                                                        Version <strong>X3</strong></span>
+                                                    </span>
+                    </a>
+                    <span class="expand">More Information</span>
+                </h3>
+
+                <div id="content-23" class="content ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none;">
+                    <dl>
+					<dt>Mastercam X3 Video Courseware is Intended for:</dt>
+					<dd>Users migrating from older versions</dd>
+					<dd>Use as reference material that changes as Mastercam updates</dd>
+					<dd>Those who desire self paced / self guided learning</dd>
+				</dl>                    <!--
+                    <dl>
+                        <dt>Mastercam X5 Video Courseware is Intended for:</dt>
+                        <dd>Users migrating from older versions</dd>
+                        <dd>Use as reference material that changes as Mastercam updates</dd>
+                        <dd>Those who desire self paced / self guided learning </dd>
+                    </dl>
+                    -->
+                    <div class="sample">
+                                                                        
+                        <p><a onclick="openSample('\'X7 - Backplot / Verify Utility\'', '6','850','653','23');" href="javascript:void(0);"><img src="http://www.streamingteacher.com/media/images/samples/6708.jpg" alt=""X7 - Backplot / Verify Utility"" width="150" height="112" /></a></p>
+                        <p><a href="http://www.streamingteacher.com/mastercam-x3.html">View more samples</a></p>
+
+                                            </div>
+                    <div class="moreInfo ui-corner-bottom">
+                        <a class="subscription" href="http://www.streamingteacher.com/mastercam-x3.html">
+                            <div style="display: none;">More Information</div>
+                        </a>
+                    </div>
+                </div><!--id="mcamX5_content"-->
+                                                <!-- Mastercam X5 Channel -->
+                <h3 style="padding-left: 0px;" id="button-19" class="button ui-accordion-header ui-helper-reset ui-state-default ui-corner-all">
+                    <span class="ui-icon ui-icon-triangle-1-e">&nbsp;</span>
+                    <a tabindex="-1"  href="http://www.streamingteacher.com/mastercam-x2.html" style="background-image: url( http://www.streamingteacher.com/media/catalog/product/cache/1/steach_catalog_image/9df78eab33525d08d6e5fb8d27136e95/images/catalog/product/placeholder/steach_catalog_image.jpg );">
+                        <span style="display: none;">Mastercam Video Courseware</span>
+                        <span class="ui-corner-left" >
+                                                        Version <strong>X2</strong></span>
+                                                    </span>
+                    </a>
+                    <span class="expand">More Information</span>
+                </h3>
+
+                <div id="content-19" class="content ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none;">
+                     <dl xmlns="http://www.w3.org/1999/xhtml">
+<dt>Mastercam X2 Video Courseware is Intended for:</dt>
+					<dd>Users migrating from older versions</dd>
+					<dd>Use as reference material that changes as Mastercam updates</dd>
+					<dd>Those who desire self paced / self guided learning</dd></dl>                    <!--
+                    <dl>
+                        <dt>Mastercam X5 Video Courseware is Intended for:</dt>
+                        <dd>Users migrating from older versions</dd>
+                        <dd>Use as reference material that changes as Mastercam updates</dd>
+                        <dd>Those who desire self paced / self guided learning </dd>
+                    </dl>
+                    -->
+                    <div class="sample">
+                                                                        
+                        <p><a onclick="openSample('\'X7 - Backplot / Verify Utility\'', '6','850','653','19');" href="javascript:void(0);"><img src="http://www.streamingteacher.com/media/images/samples/6708.jpg" alt=""X7 - Backplot / Verify Utility"" width="150" height="112" /></a></p>
+                        <p><a href="http://www.streamingteacher.com/mastercam-x2.html">View more samples</a></p>
+
+                                            </div>
+                    <div class="moreInfo ui-corner-bottom">
+                        <a class="subscription" href="http://www.streamingteacher.com/mastercam-x2.html">
+                            <div style="display: none;">More Information</div>
+                        </a>
+                    </div>
+                </div><!--id="mcamX5_content"-->
+                                                <!-- Mastercam X5 Channel -->
+                <h3 style="padding-left: 0px;" id="button-14" class="button ui-accordion-header ui-helper-reset ui-state-default ui-corner-all">
+                    <span class="ui-icon ui-icon-triangle-1-e">&nbsp;</span>
+                    <a tabindex="-1"  href="http://www.streamingteacher.com/mastercam-x.html" style="background-image: url( http://www.streamingteacher.com/media/catalog/product/cache/1/steach_catalog_image/9df78eab33525d08d6e5fb8d27136e95/images/catalog/product/placeholder/steach_catalog_image.jpg );">
+                        <span style="display: none;">Mastercam Video Courseware</span>
+                        <span class="ui-corner-left" >
+                                                        Version <strong>X</strong></span>
+                                                    </span>
+                    </a>
+                    <span class="expand">More Information</span>
+                </h3>
+
+                <div id="content-14" class="content ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none;">
+                    <dl xmlns="http://www.w3.org/1999/xhtml">
+					<dt>Mastercam X Video Courseware is Intended for:</dt>
+					<dd>Users migrating from older versions</dd>
+					<dd>Use as reference material that changes as Mastercam updates</dd>
+					<dd>Those who desire self paced / self guided learning</dd>
+				</dl>                    <!--
+                    <dl>
+                        <dt>Mastercam X5 Video Courseware is Intended for:</dt>
+                        <dd>Users migrating from older versions</dd>
+                        <dd>Use as reference material that changes as Mastercam updates</dd>
+                        <dd>Those who desire self paced / self guided learning </dd>
+                    </dl>
+                    -->
+                    <div class="sample">
+                                                                        
+                        <p><a onclick="openSample('\'X7 - Backplot / Verify Utility\'', '6','850','653','14');" href="javascript:void(0);"><img src="http://www.streamingteacher.com/media/images/samples/6708.jpg" alt=""X7 - Backplot / Verify Utility"" width="150" height="112" /></a></p>
+                        <p><a href="http://www.streamingteacher.com/mastercam-x.html">View more samples</a></p>
+
+                                            </div>
+                    <div class="moreInfo ui-corner-bottom">
+                        <a class="subscription" href="http://www.streamingteacher.com/mastercam-x.html">
+                            <div style="display: none;">More Information</div>
+                        </a>
+                    </div>
+                </div><!--id="mcamX5_content"-->
+                                                <!-- Mastercam X5 Channel -->
+                <h3 style="padding-left: 0px;" id="button-11" class="button ui-accordion-header ui-helper-reset ui-state-default ui-corner-all">
+                    <span class="ui-icon ui-icon-triangle-1-e">&nbsp;</span>
+                    <a tabindex="-1"  href="http://www.streamingteacher.com/mastercam-v9.html" style="background-image: url( http://www.streamingteacher.com/media/catalog/product/cache/1/steach_catalog_image/9df78eab33525d08d6e5fb8d27136e95/images/catalog/product/placeholder/steach_catalog_image.jpg );">
+                        <span style="display: none;">Mastercam Video Courseware</span>
+                        <span class="ui-corner-left" >
+                                                        Version <strong>v9</strong></span>
+                                                    </span>
+                    </a>
+                    <span class="expand">More Information</span>
+                </h3>
+
+                <div id="content-11" class="content ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none;">
+                    <dl xmlns="http://www.w3.org/1999/xhtml">
+					<dt>Mastercam V9 Video Courseware is Intended for:</dt>
+					<dd>Users migrating from older versions</dd>
+					<dd>Use as reference material that changes as Mastercam updates</dd>
+					<dd>Those who desire self paced / self guided learning</dd>
+                                        				</dl>                    <!--
+                    <dl>
+                        <dt>Mastercam X5 Video Courseware is Intended for:</dt>
+                        <dd>Users migrating from older versions</dd>
+                        <dd>Use as reference material that changes as Mastercam updates</dd>
+                        <dd>Those who desire self paced / self guided learning </dd>
+                    </dl>
+                    -->
+                    <div class="sample">
+                                                                        
+                        <p><a onclick="openSample('\'X7 - Backplot / Verify Utility\'', '6','850','653','11');" href="javascript:void(0);"><img src="http://www.streamingteacher.com/media/images/samples/6708.jpg" alt=""X7 - Backplot / Verify Utility"" width="150" height="112" /></a></p>
+                        <p><a href="http://www.streamingteacher.com/mastercam-v9.html">View more samples</a></p>
+
+                                            </div>
+                    <div class="moreInfo ui-corner-bottom">
+                        <a class="subscription" href="http://www.streamingteacher.com/mastercam-v9.html">
+                            <div style="display: none;">More Information</div>
+                        </a>
+                    </div>
+                </div><!--id="mcamX5_content"-->
+                                                <!-- Mastercam X5 Channel -->
+                <h3 style="padding-left: 0px;" id="button-60" class="button ui-accordion-header ui-helper-reset ui-state-default ui-corner-all">
+                    <span class="ui-icon ui-icon-triangle-1-e">&nbsp;</span>
+                    <a tabindex="-1"  href="http://www.streamingteacher.com/spaceclaim.html" style="background-image: url( http://www.streamingteacher.com/media/catalog/product/cache/1/steach_catalog_image/9df78eab33525d08d6e5fb8d27136e95/s/p/spaceclaim-homepage_1.png );">
+                        <span style="display: none;">Mastercam Video Courseware</span>
+                        <span class="ui-corner-left" >
+                                                        Version <strong>SC</strong></span>
+                                                    </span>
+                    </a>
+                    <span class="expand">Free Subscription</span>
+                </h3>
+
+                <div id="content-60" class="content ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display: none;">
+                    <dl xmlns="http://www.w3.org/1999/xhtml">
+					<dt>Spaceclaim Video Courseware:</dt>
+					<dd>Free 90 day courseware subscription</dd>
+					<dd>Start learning Spaceclaim today!</dd>
+					<dd>3D solid modeling software for mechanical engineering.</dd>
+				</dl>                    <!--
+                    <dl>
+                        <dt>Mastercam X5 Video Courseware is Intended for:</dt>
+                        <dd>Users migrating from older versions</dd>
+                        <dd>Use as reference material that changes as Mastercam updates</dd>
+                        <dd>Those who desire self paced / self guided learning </dd>
+                    </dl>
+                    -->
+                    <div class="sample">
+                                                                        
+                        <p><a onclick="openSample('\'X7 - Backplot / Verify Utility\'', '6','850','653','60');" href="javascript:void(0);"><img src="http://www.streamingteacher.com/media/images/samples/6708.jpg" alt=""X7 - Backplot / Verify Utility"" width="150" height="112" /></a></p>
+                        <p><a href="http://www.streamingteacher.com/spaceclaim.html">View more samples</a></p>
+
+                                            </div>
+                    <div class="moreInfo ui-corner-bottom">
+                        <a class="subscription" href="http://www.streamingteacher.com/spaceclaim.html">
+                            <div style="display: none;">More Information</div>
+                        </a>
+                    </div>
+                </div><!--id="mcamX5_content"-->
+                            </div><!--id="accordion"-->
+        </div><!--id="channels"-->
+    </div><!--class="jScrollPaneContainer"-->
+</div><!--id="courseware"-->
+<style type="text/css">
+    #channels {
+        width: 100%;
+        overflow: auto;
+        height: 701px; width: 461px; padding-right: 0px;;
+    }
+</style>
+<script type="text/javascript">
+
+    jQuery(document).ready( function() {
+            Shadowbox.init({
+        players: ['img', 'iframe', 'html'],
+        skipSetup: true
+    });
+
+    g_base_video_size = {};
+    g_sb_oversize_width = "50";
+    g_sb_oversize_height = "75";
+    g_segment_display = 'shadowbox';
+    g_video_window = null;
+    g_debug = 1;
+    g_video_base_url = "http://www.streamingteacher.com";
+
+    g_video_popup_width = "1000";
+    g_video_popup_height = "675";
+
+    g_video_popup_max_screen_width = "10000";
+    g_video_popup_max_screen_height = "775";
+
+        jQuery(".expand").each( function() {
+           if( jQuery(this).html().indexOf('Free') != -1 ) {
+                jQuery(this).addClass( 'expand-free' );
+           }
+        });
+
+        jQuery("q").prepend("&ldquo;").append("&rdquo;");
+        jQuery("q q").prepend("&lsquo;").append("&rsquo;");
+        // Add classes to input pseudotypes
+        jQuery("input[type='text'], input[type='password']").addClass("text");
+        jQuery("input[type='button'], input[type='submit'], input[type='checkbox'], input[type='image'], input[type='radio'], input[type='reset'], button").addClass("nontext");
+        jQuery("input[type='button'], input[type='submit'], input[type='reset'], button").addClass("button");
+        // Focus on the first text input field in the first field on the page
+        jQuery("input[type='text']:first").focus();
+        // Add focus class to inputs
+        focusfix("input.text", "focus");
+        // Courseware buttons
+        jQuery("#accordion").accordion({ active: false, autoHeight: false, collapsible: true });
+        // Add scrollbars
+
+        //jQuery('#channels, #articles').jScrollPane({showArrows:true, scrollbarMargin: 0,  scrollbarWidth: 17, arrowSize: 16});
+        //jQuery('#channels').jScrollPane({showArrows:true, scrollbarMargin: 0,  scrollbarWidth: 17, arrowSize: 16});
+       // jQuery('#channels').jScrollPane({showArrows:true});
+       // jQuery('.jScrollPaneDrag').append('<div class="jScrollPaneGrip" style="width: 9px"></div>');
+        // Pop-up windows for videos
+        //jQuery('.popupwindow').popupwindow(profiles);
+
+        // Round Corners
+        jQuery('#merchant_info, #dealer-logo').addClass('ui-corner-all');
+        jQuery('.moreInfo').addClass('ui-corner-bottom');
+        jQuery('#courseware h3 a span').addClass('ui-corner-left');
+    });
+
+    // Adds a class focus to input text when focused
+    function focusfix(selector, className) {
+        jQuery(selector).focus(function() {
+            jQuery(this).addClass(className);
+        });
+        // Removes class when focus is lost
+        jQuery(selector).blur(function() {
+            jQuery(this).removeClass(className);
+        });
+    }
+
+</script>                    </div>
+                    <div class="col-left sidebar" ><div class="logo-icon"><a href='http://www.streamingteacher.com/'><img src="http://www.streamingteacher.com/skin/frontend/default/streaming/images/st_logo_small.png" alt="Streaming Teacher Logo" /></a></div>
+<p><style type="text/css">
+    a.loggedin {
+      color: #FFFFFF;
+      font-size: 13px;
+      text-decoration: none;
+    }
+    a.loggedin:hover {
+        text-decoration: underline;
+    }
+</style>
+<div class="account-login">
+            <form action="https://www.streamingteacher.com/customer/account/loginPost/" method="post" id="login-form">
+            <ul class="form-list">
+                <li>
+                    <label for="email" class="required"><em>*</em>EMAIL ADDRESS</label>
+                    <div class="input-box">
+                        <input style="width: 195px;" type="text" name="login[username]" value="" id="email" class="input-text required-entry validate-email" title="Email Address" />
+                    </div>
+                </li>
+                <li>
+                    <label for="pass" class="required"><em>*</em>PASSWORD</label>
+                    <div class="input-box">
+                        <input style="width: 195px;" type="password" name="login[password]" class="input-text required-entry validate-password" id="pass" title="Password" />
+                    </div>
+                </li>
+            </ul>
+            <div class="left-column-login-buttons-set">
+                <a href="https://www.streamingteacher.com/customer/account/forgotpassword/" class="f-left" style="font-size: 10px;">Forgot Your Password?</a><br/>
+                <button type="submit" class="button btn-left-login" title="Login" name="send" id="send2"><span><span>Login</span></span></button>
+            </div>
+        </form>
+
+        <script type="text/javascript">
+        //<![CDATA[
+            var dataForm = new VarienForm('login-form', true);
+        //]]>
+        </script>
+    </div>
+<style type="text/css">
+    .validation-advice {
+        width: 190px;
+    }
+</style>
+</p>
+<div id="help">Headphones and Help Icon</div>
+<div id="merchant_info" class="ui-corner-all">
+<p><img src="http://www.streamingteacher.com/skin/frontend/default/streaming/images/pay_options.gif" alt="credit cards and paypal" /></p>
+<p><a title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications." href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.STREAMINGTEACHER.COM&amp;lang=en" target="_blank"><img src="http://www.streamingteacher.com/skin/frontend/default/streaming/images/verisign.gif" alt="versign" /></a></p>
+<p><a title="Click to Verify Authorize.net" href="http://verify.authorize.net/anetseal/?pid=9c0174eb-3739-41ca-be55-bcab276c1475&amp;rurl=http%3A//www.streamingteacher.com/home/index.aspx" target="_blank"><img src="http://www.streamingteacher.com/skin/frontend/default/streaming/images/authorize_net.gif" alt="authorize.net" width="87" height="69" /></a></p>
+</div></div>
+                </div>
+                <div class="col-right sidebar" ><div id="feature">
+<h2>FEATURE</h2>
+<div class="mastercamX4"><a href="http://www.streamingteacher.com/mastercam-x7.html" target="_self"><img src="https://www.streamingteacher.com/skin/frontend/default/streaming/images/Ad_Right_Column/AdSpace.png" alt="Mastercam X7 Coming Soon" width="280" height="286" /></a></div>
+</div>
+<!-- .style1 {color: #FF0000} .style3 { color: #FF0000; font-size: 16px; } .style4 { color: #990000; font-weight: bold; } .style5 {color: #990000} .style6 {color: #000000; } -->
+<div id="news">
+<h2><a href="http://www.facebook.com/pages/Oregon-City-OR/Streamingteacher/184780255427#/pages/Oregon-City-OR/Streamingteacher/184780255427?v=wall" target="_blank"><img src="http://www.streamingteacher.com/skin/frontend/default/streaming/images/STonFacebook2.jpg" alt="facebook" width="250" height="22" /></a></h2>
+<!-- Entry 49 -->
+<p class="date">01/22/2014</p>
+<h3 class="p1"><span class="s1">New Free Spaceclaim Engineer Training Courseware<br /><strong><span style="font-size: 10px;">Now available for subscription</span></strong><br /></span></h3>
+<p><strong><span class="s1"><a href="http://www.streamingteacher.com/spaceclaim.html" target="_self">Click here</a></span></strong><span class="s2"> for a <em><span style="color: #ff0000;"><strong>no charge</strong></span></em> 90 day subscription.&nbsp; These training videos have been developed by Spaceclaim Corp.&nbsp; Check back periodically for additional content.</span></p>
+<p class="date">12/18/2013</p>
+<h3 class="style6">Holiday Office Hours</h3>
+<div class="entry">The Streamingteacher.com office will be closed Wednesday, January 1st, 2013. &nbsp;We will be open for business as usual on Thursday, January 2nd, 2014. &nbsp;This <span style="text-decoration: underline;">will not</span> affect the access to your training.</div>
+<div class="entry" style="text-align: center;"><span style="color: #008000;"><strong>We would like to&nbsp;wish all the best to you and your families during this holiday season,&nbsp;and look forward to continuing our relationship in the coming year.</strong></span></div>
+<p class="date">09/13/2013</p>
+<h3 class="style6">3 New Vertical Tombstone Machining videos added!</h3>
+<div class="entry">We have added 3 new videos to our Mastercam X7 Courseware - check the Tombstone Machining lesson or the revision history page to see what's new.</div>
+<p class="date">08/22/2013</p>
+<h3 class="style6">5 New Videos&nbsp;added to Mastercam X7 Training!</h3>
+<div class="entry">We have added 5 new videos to our Mastercam X7 Courseware - check the revision history page to see what's new.</div>
+<p class="date">08/07/2013</p>
+<h3 class="style6">New<span>&nbsp;Tombstone Machining lesson</span><br /> added to Mastercam X7 Training!</h3>
+<div class="entry">We have added a <span style="color: #9e3d3d;"><em><strong>NEW</strong></em> </span><span>Horizontal Tombstone Machining&nbsp;</span>Lesson and videos to our Mastercam X7 Courseware. &nbsp;Search for the word "Tombstone" in your X7 courseware subscription to access this new training.</div>
+<p class="date">07/01/2013</p>
+<h3 class="style6">Mastercam X7 HLE Now Available!</h3>
+<div class="entry">The Mastercam X7 HLE software is now available for download with an active Streamingteacher X7 subscription or 2 Day trial.</div>
+<p class="date">06/13/2013</p>
+<h3 class="style6">Mastercam X7 Free 2 Day Trial!</h3>
+<div class="entry">Try our Mastercam X7 Industrial Courseware - order a FREE 2 Day Trial today! (Note: only 1 free trial is allowed per subscriber).</div>
+<p class="date">05/15/2013</p>
+<h3 class="style6">Mastercam X7 Training <span style="color: #d83f26;">NOW AVAILABLE</span>!</h3>
+<div class="entry">Our NEW Streamingteacher Mastercam X7 Industrial Courseware is now available for subscription. &nbsp;If you already had a Mastercam X6 Courseware subscription you will soon be receiving an additional subscription to our new X7 training at no additional cost that will last for the duration of your X6 subscription.&nbsp;</div>
+<p class="date">05/06/2013</p>
+<h3 class="style6">New Multi Axis Lesson added to X6 Training!</h3>
+<div class="entry">We have just added a new Multi-Axis lesson the our Mastercam X6 courseware along with four new Intro to Multi-Axis video segments. &nbsp;</div>
+<p class="date">04/30/2013</p>
+<div class="entry">
+<h3 class="style6">X6 Subscribers, get Mastercam X7 Training FREE!</h3>
+<div class="entry">The release of Mastercam X7 is just around the corner. As with previous releases we will be giving everyone with an active Mastercam X6 Courseware subscription a no cost Streamingteacher Mastercam X7 Courseware subscription that will last for the duration of their X6 Courseware subscription. You will continue to have access to your X6 courseware as well.</div>
+</div>
+<p class="date">04/15/2013</p>
+<h3 class="style6">WELCOME!<br /><span style="font-size: 1.17em;">The NEW ST Website is LIVE!</span></h3>
+<div class="entry">
+<p>You will notice a change to your active Streamingteacher  subscription, we have gone live with our new site. &nbsp;You will find the  user screens enhanced with new features that make for a better and more  immersive learning experience.</p>
+<p>To log into your existing subscription please use your email address  as your "User Name". &nbsp;Your password has not changed. &nbsp;If you have any  problems please feel free to contact us for assistance.</p>
+</div>
+<p class="date">10/30/2012</p>
+<h3 class="style6">Mastercam X5 HLE Software - Final Expiration</h3>
+<div class="entry">
+<p>We have replaced the Mastercam X5 HLE software download in the Mastercam X4 and X5 courseware with the newer Mastercam X6 HLE software. The X5 HLE software is to due to permanently expire on 10/31/2012. At this time you will no longer be able to use that version of the HLE software. We recommend that you download and install the X6 HLE software to replace the X5 version.</p>
+<p>Available only with an active subscription.</p>
+</div>
+<!-- Entry 50 -->
+<p class="date">09/28/2012</p>
+<h3 class="style6">Mastercam X5 HLE Software Expiration</h3>
+<div class="entry">
+<p>Notice: The Mastercam X5 HLE software is set to permanently <em><strong>expire on October 31, 2012</strong></em>.  At this time you will no longer be able un-install and re-install the software as you have been allowed to do in the past.  Now is the perfect opportunity to update your training skills and subscribe to our Mastercam X6 courseware where you will be able to download the Mastercam X6 HLE software&hellip;..  Subscribe today&hellip; Start training today&hellip;</p>
+</div>
+<!-- Entry 48 -->
+<p class="date">08/07/2012</p>
+<h3 class="style6">NEW Video added!</h3>
+<div class="entry">
+<p>We just added A "Coolant Indicator Tips" video to the Introduction to Toolpaths Lesson in our Mastercam X6 courseware.</p>
+</div>
+<!-- Entry 47 -->
+<p class="date">05/30/2012</p>
+<h3 class="style6">Another Mill/Turn Project Video added!</h3>
+<div class="entry">
+<p>We just added Mill/Turn Project #7 to our Mastercam X6 courseware.  Go to the Mill/Turn Projects lesson to view this new material.</p>
+</div>
+<!-- Entry 46 -->
+<p class="date">05/29/2012</p>
+<h3 class="style6">New Mill/Turn Project Videos Added!</h3>
+<div class="entry">
+<p>We have added 2 new Mill/Turn Project videos to our Mastercam X6 Courseware.  Look for them in the Mill Turn: Projects lesson.</p>
+</div>
+<!-- Entry 45 -->
+<p class="date">05/11/2012</p>
+<h3 class="style6">Streamingteacher Mastercam X6 Certification NOW Available!</h3>
+<div class="entry">
+<p>Our Certification class is now open to enrollment.  This class is in collaboration with Clackamas Community College and upon completion/passing you will receive 3 transferable college credits and an ST Certificate of Completion. Click on the Streamingteacher Certificaton link for more information.</p>
+</div>
+<!-- Entry 44 -->
+<p class="date">04/12/2012</p>
+<h3 class="style6">Notice of Purchasing site down for 15 Minutes</h3>
+<div class="entry">
+<p>The company we use to process our credit card payments will be down on Saturday, April 14, 2012 from 10:30 PM to about 10:45 PM. This may interfere with purchasing Streamingteacher during that time. However, it should not affect existing subscribers from accessing active subscriptions.</p>
+</div>
+<!-- Entry 43 -->
+<p class="date">12/30/2011</p>
+<h3 class="style6">Having trouble purchasing Streamingteacher?</h3>
+<div class="entry">
+<p>If you are trying to purchase Streamingteacher and are using  Internet Explorer version 9 you may encounter issues which will keep you from  being able to complete the transaction. Temporarily to resolve this issue  please turn on the compatibility mode option in IE9. &nbsp;Click the link below to watch a video on how  to make this change:</p>
+<p><a href="http://windows.microsoft.com/en-US/windows7/How-to-use-Compatibility-View-in-Internet-Explorer-9">WATCH VIDEO</a></p>
+<p>This problem only interferes with the purchase process, it  will not interfere with anything after that.</p>
+</div>
+<!-- Entry 42 -->
+<p class="date">10/26/2011</p>
+<h3 class="style6">Get Streamingteacher Mastercam X6 Training FREE!</h3>
+<div class="entry">The release of Mastercam X6 is just around the corner. As with previous releases we will be giving everyone with an active Mastercam X5 Courseware subscription a no cost Streamingteacher Mastercam X6 Courseware subscription that will last for the duration of their X5 Courseware subscription.</div>
+<!-- Entry 41 -->
+<p class="date">09/21/2011</p>
+<h3 class="style1"><em>NOTICE!</em></h3>
+<div class="entry">Due to overwhelming demand our <strong>ST Certification class is temporarily closed for registration</strong>.  We have reached the maximum number of students we are able to accommodate. Registration will re-open January 9, 2012 for Winter term.</div>
+<!-- Entry 40 -->
+<p class="date">09/16/2011</p>
+<h3 class="style1"><em>NOW AVAILABLE!</em></h3>
+<div class="entry">C+Y Axis Mill/Turn training is now available! It has been  included in our Mastercam X5 courseware at no additional cost. All current (active) X5 Courseware subscribers automatically received the new Mill/Turn lessons.</div>
+<!-- Entry 39 -->
+<p class="date">08/02/2011</p>
+<h3>COMING SOON!<span class="style5">&nbsp;</span></h3>
+<div class="entry">C+Y Axis Mill/Turn training coming soon! All current (active) X5 Courseware subscribers will automatically receive the new Mill/Turn lessons.</div>
+<!-- Entry 38 -->
+<p class="date">08/01/2011</p>
+<h3>NOTICE - X4 Subscribers<span class="style5">&nbsp;</span></h3>
+<div class="entry">The Mastercam X4 HLE software timed out permanently on July 31, 2011 and will no longer allow you to re-install it.  It has been replaced with the Mastercam X5 HLE software and can be downloaded with an active subscription to the X4 or X5 Courseware.</div>
+<!-- Entry 37 -->
+<p class="date">03/01/2011</p>
+<h3>New Videos added to X5 Courseware</h3>
+<div class="entry">Four new videos (3 Lathe and 1 What's New in X5) have been added to our Mastercam X5 courseware.  See the revision log for details.</div>
+<!-- Entry 36 -->
+<p class="date">12/31/2010</p>
+<h3>Mastercam X5 HLE Software NOW AVAILABLE</h3>
+<div class="entry">Download the new Mastercam X5 HLE software free if you have an active X5 courseware subscription.  To find the installation instructions and download search for 4100-14 in the Introduction lesson.</div>
+<!-- Entry 35 -->
+<p class="date">12/21/2010</p>
+<h3>Mastercam X5 HLE Software</h3>
+<div class="entry">The new Mastercam X5 HLE software has a projected release time from CNC Software, Inc. of early February and will be made available to X5 courseware subscribers as soon as it is available.</div>
+<!-- Entry 34 -->
+<p class="date">12/20/2010</p>
+<h3>Two new videos added to Tech Tips</h3>
+<div class="entry">We have added two new Machine Simulation Overview videos to our Tech Tips courseware. They can be found in both the X5 Tech Tips and X5 courseware (Tech Tips lesson).</div>
+<!-- Entry 33 -->
+<p class="date">11/24/2010</p>
+<h3>Streamingteacher Holiday Closure</h3>
+<div class="entry">Our office will be closed from Thursday, November 25, 2010 until Monday, November 29, 2010 in observance of our Thanksgiving holiday. This <em><strong>will not</strong></em> affect your ability to access existing subscriptions or purchase new subscriptions. If you need to contact our office we will return phone calls on Monday or you can email <a href="mailto:pattir@streamingteacher.com">pattir@streamingteacher.com</a> for assistance.</div>
+<!-- Entry 32 -->
+<p class="date">11/10/2010</p>
+<h3>Mastercam X5 Courseware <span class="style5">NOW AVAILABLE!</span></h3>
+<div class="entry">Streamingteacher's Mastercam X5 courseware is now available for subscription including new Machine Simulation videos and updated HST videos and projects. Anyone with an active X4 subscription when we released X5 should see a subscription to the new courseware on their quicklaunch page.</div>
+<!-- Entry 31 -->
+<p class="date">11/09/2010</p>
+<h3>Release of Mastercam X5 Courseware</h3>
+<div class="entry">Time is running out to get a <span class="style4">FREE</span> subscription to our Mastercam X5 courseware that lasts for the duration of your X4 subscription. You must have an active X4 subscription when we release the X5 Courseware to get the free subscription. We are planning on releasing our new Mastercam X5 Courseware late in the afternoon on <strong>Wednesday, November 10th</strong>. Once it is released this offer will expire. (Offer does not apply to Certification courseware.)</div>
+<!-- Entry 30 -->
+<p class="date">07/16/2010</p>
+<h3>Mastercam X5 Training <span class="style1">Coming Soon!</span></h3>
+<div class="entry">The release of Mastercam X5 is just around the corner and once again  all Streamingteacher subscribers with an active X4 subscription will get a FREE subscription to our Mastercam X5 courseware that lasts for the duration of their X4 subscription. This offer is for a limited time only and does not apply to Certification courseware.</div>
+<!-- Entry 29 -->
+<p class="date">06/15/2010</p>
+<h3>See Streamingteacher in Action at Clackamas Community College</h3>
+<!-- Entry 28 -->
+<p class="date">05/18/2010</p>
+<h3>Welcome Clackamas Community College!</h3>
+<div class="entry">
+<p>Streamingteacher would like to welcome Clackamas Community College to our Streamingteacher in the Classroom program!</p>
+<p><img src="/skin/frontend/default/streaming/images/CCC_news.jpg" alt="" width="200" height="36" /></p>
+</div>
+<p class="date">02/22/2010</p>
+<h3>Welcome Monroe Career &amp; Technical Institute!</h3>
+<div class="entry">
+<p>Streamingteacher would like to welcome Monroe Career &amp; Technical Institute to our Streamingteacher in the Classroom program!</p>
+<p><img src="/skin/frontend/default/streaming/images/Monroe.jpg" alt="" width="250" height="21" /></p>
+</div>
+<!-- Entry 28 -->
+<p class="date">01/18/2010</p>
+<h3>Welcome Clackamas Community College!</h3>
+<div class="entry">
+<p>Streamingteacher would like to welcome Clackamas Community College to our Streamingteacher in the Classroom program!</p>
+<p><img src="/skin/frontend/default/streaming/images/CCC_news.jpg" alt="" width="200" height="36" /></p>
+</div>
+<!-- Entry 27 --> 12/01/2009
+<h3>Holiday Office Closures</h3>
+<div class="entry">
+<p>Our office will be closed from Dec 21st&nbsp;thru Dec   27th.&nbsp; Voice messages left at the   office will be returned Dec 28th.&nbsp; Orders made through the website will be   completed as usual.</p>
+</div>
+<!-- Entry 26 -->
+<p class="date">10/08/2009</p>
+<h3>Welcome Lewis and Clark State College!</h3>
+<div class="entry">
+<p>Streamingteacher would like to welcome Lewis and Clark State College to our Streamingteacher in the Classroom program!<br /> <img src="/skin/frontend/default/streaming/images/Lewis_clark.jpg" alt="" width="150" height="53" /></p>
+</div>
+<!-- Entry 25 -->
+<p class="date">09/16/2009</p>
+<h3>Welcome Harvard University!</h3>
+<div class="entry">
+<p>Streamingteacher would like to welcome Harvard University to our Streamingteacher in the Classroom program!</p>
+<p><img src="/skin/frontend/default/streaming/images/harvardUniversity.jpg" alt="HarvardUniversity" width="250" height="30" /></p>
+</div>
+<!-- Entry 24 -->
+<p class="date">08/22/2009</p>
+<h3>Mastercam X4 HLE Now Available!</h3>
+<div class="entry">
+<p>Streamingteacher now offers the new Mastercam X4 HLE (Home Learning Edition) software included with our Mastercam X4 courseware. The new HLE software is a timed software that will allow you to save files while you learn in Streamingteacher and work along side in Mastercam.</p>
+<p>&nbsp;</p>
+</div>
+<!-- Entry 23 -->
+<p class="date">08/15/2009</p>
+<h3>Mastercam X4 Courseware <br /> <span class="style3">Available  NOW!</span></h3>
+<div class="entry">
+<p>12 new videos   and projects have just been added to our Mastercam X4 courseware.</p>
+<p><span class="style3"><strong>Available NOW!</strong> <strong><br /> </strong> </span><strong>Streamingteacher&rsquo;s Tech Tips for Mastercam</strong></p>
+<p>A complimentary channel with tips for installation, configuration and customization for Mastercam X4.</p>
+</div>
+<!-- Entry 22 -->
+<p class="date">07/01/2009</p>
+<h3>Mastercam X4 Courseware <br /> <span class="style1">AVAILABLE NOW!</span></h3>
+<div class="entry">
+<p>Start training now for the most current version of CNC Softwares <span id="lw_1220400135_">Mastercam software</span> - X4!&nbsp;</p>
+<p>All&nbsp;current  subscribers of our Mastercam X3 courseware have received a free  subscription to our Mastercam X4 courseware that will last for the  duration of their X3 subscription. (This does not apply to our X3 Mill  Certification courseware).&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+<!-- Entry 21 -->
+<p class="date">05/11/2009</p>
+<h3>New Look For Streamingteacher Homepage</h3>
+<div class="entry">
+<p>Not only does our homepage have a fresh new look ... subscribers to Art, v9 and X channels have been upgraded to the New Streamingteacher Table of Contents format.</p>
+<p>Coming Soon: Mastercam X4 Courseware. All subscribers with an active X3 subscription will get a FREE subscription to our Mastercam X4 courseware that lasts for the duration of their X3 subscription. This offer is for a limited time only and does not apply to Certification courseware.</p>
+</div>
+<!-- Entry 20 -->
+<p class="date">02/06/2009</p>
+<h3>New Streamingteacher User Forum</h3>
+<div class="entry">
+<p>Register for the new Streamingteacher user forum by clicking on the "Forum" link above.  On the Forum you can ask other users questions about Streamingteacher or Mastercam.  You must be a Streamingteacher subscriber to register.</p>
+</div>
+<!-- Entry 19 -->
+<p class="date">12/18/2008</p>
+<h3>New Re-Subscription Discount Added</h3>
+<div class="entry">
+<p>All subscribers with an active X3, X2, X or v9 subscription can now renew their subscription with a 15% discount. This one time discount will apply to all subscription renewals and new subscriptions purchased thru the "Renew with Discount" link found on your User Account page. This discount offer is only good while your current subscription is active and the option disappears when your subscription expires.</p>
+<p>This discount does not apply to Streamingteacher Certification for Mastercam classes or Streamingteacher in the Classroom packages.</p>
+</div>
+<!-- Entry 18 -->
+<p class="date">11/24/2008</p>
+<h3>New Workshop Videos added to the X3 Courseware</h3>
+<div class="entry">
+<p>8 new videos have been added to our Mastercam X3 courseware that cover Machine Definition, Control Definition and Posts.</p>
+</div>
+<!-- Entry 17 -->
+<p class="date">11/12/2008</p>
+<h3>Streamingteacher is relocating!</h3>
+<div class="entry">
+<p>Our phone lines may be down for a few hours on Friday November 14, 2008 while we make the transition,  if you have any questions or problems please feel free to email us at <a href="mailto:support@streamingteacher.com">support</a><a href="support@streamingteacher.com"></a>. We will be back to business as usual on Monday November 17th.</p>
+<p><strong>Note</strong>: this will not affect your ability to access your existing subscriptions or place orders for new subscriptions.</p>
+</div>
+<!-- Entry 16 -->
+<p class="date">11/10/2008</p>
+<h3>Streamingteacher in the Classroom</h3>
+<div class="entry">
+<p>Welcome Lewis &amp; Clark State College Students!</p>
+<p><img src="/skin/frontend/default/streaming/images/Lewis_clark.jpg" alt="" width="167" height="36" /></p>
+</div>
+<!-- Entry 15 -->
+<p class="date">10/27/2008</p>
+<h3>Meet the Instructors!</h3>
+<div class="entry">
+<p>Streamingteacher has added a new "Instructors" tab to each of our courseware landing pages. Now you can see photos of each of our instructors and learn a little about their backgrounds and experience.</p>
+</div>
+<!-- Entry 14 -->
+<p class="date">10/03/2008</p>
+<h3>Mastercam X3 Art Videos Now Available!</h3>
+<div class="entry">
+<p>We have added 7 new videos for Mastercam X3 Art to our complimentary Art channel.</p>
+</div>
+<!-- Entry 13 -->
+<p class="date">10/02/2008</p>
+<h3>More New videos added to the X3, X2 and Certification Courseware.</h3>
+<div class="entry">
+<p>We have added 2  new introduction videos to the X3, X2 and Certification Coursewares;  See the Revision logs for details.</p>
+<p>Now Available:  Mastercam Art X3 videos have been added to the X3 Courseware.</p>
+</div>
+<!-- Entry 12 -->
+<p class="date">09/30/2008</p>
+<h3>New videos added to the X3, X2 and Certification Courseware.</h3>
+<div class="entry">
+<p>We have added multiple new videos for Router, Lathe, Solids and Importing &amp; Exporting to the X3 Courseware; and two new videos to the Solids and Importing &amp; Exporting lessons in the X2 and Certification Courseware. See the Revision logs for details.</p>
+<p>Art X3 Videos Coming soon!</p>
+</div>
+<!-- Entry 11 -->
+<p class="date">09/16/2008</p>
+<h3>Streamingteacher in the Classroom</h3>
+<div class="entry">
+<p>Welcome Monroe Career &amp; Technology Institute Students!</p>
+<p><img src="/skin/frontend/default/streaming/images/MCTI_logo_80x30.jpg" alt="MCTI_logo" width="80" height="30" /></p>
+</div>
+<!-- Entry 10 -->
+<p class="date">09/05/2008</p>
+<h3>New Streamingteacher Website</h3>
+<div class="entry">
+<p>The new site contains many features that make finding the right courseware easier and faster.</p>
+<p>Streamingteacher was built and optimized for Mozilla Firefox and Internet Explorer 7. We realize many of you use IE 6 and other browsers so we ask that you notify us at <a href="mailto:support@streamingteacher.com">support@streamingteacher.com</a> if you encounter a bug or display problem. Please be as descriptive as possible and include your browser name and version or a screenshot.</p>
+<p>Thank you for your support and help as we work to create a better streaming experience for you.</p>
+</div>
+<!-- Entry 9 -->
+<p class="date">09/02/2008</p>
+<h3>Streamingteacher's Mastercam X3 Courseware Now Available for Subscription!</h3>
+<div class="entry">
+<p>Start training now for the most current version of CNC Softwares <span id="lw_1220400135_4">Mastercam software</span> - X3!&nbsp;</p>
+<p>All&nbsp;current  subscribers of our Mastercam X2 courseware will receive a free  subscription to our Mastercam X3 courseware that will last for the  duration of their X2 subscription. (This does not apply to our X2 Mill  Certification courseware).&nbsp;</p>
+</div>
+<!-- Entry 8 -->
+<p class="date">07/02/2008</p>
+<div class="entry">
+<p>When <strong>Mastercam X3</strong> releases, X2 subscribers receive a free Mastercam X3 subscription good for the duration of their X2 subscription.</p>
+</div>
+<!-- Entry 7 -->
+<p class="date">04/28/2008</p>
+<div class="entry">
+<p><strong>Four new videos added</strong> to the X2 Courseware.&nbsp; See the Revision Log for details.</p>
+</div>
+<!-- Entry 6 -->
+<p class="date">04/11/2008</p>
+<div class="entry">
+<p><strong>New Workshop Video Series video added</strong> to the Mastercam X2 Courseware. See the Revision Log for details.</p>
+</div>
+<!-- Entry 5 -->
+<p class="date">03/19/2008</p>
+<div class="entry">
+<p><strong>Two (2) new videos added</strong> to the X2 Workshop Video Series.&nbsp; See the Revision Log for details. Streamingteacher Certification for Mastercam X2 Mill now available!</p>
+</div>
+<!-- Entry 4 -->
+<p class="date">03/10/2008</p>
+<div class="entry">
+<p><strong>Streamingteacher Certification for Mastercam X2 Mill now available.</strong> Click on the Certification button for more information.</p>
+</div>
+<!-- Entry 3 -->
+<p class="date">02/18/2008</p>
+<div class="entry">
+<p><strong>Two (2) videos added</strong> to the Solid Modeling Lesson on the "Boolean Remove Function" and the "Solid Find Features Function" in the Mastercam X2 courseware.&nbsp; See the Revision Log for details.</p>
+</div>
+<!-- Entry 2 -->
+<p class="date">02/13/2008</p>
+<div class="entry">
+<p>New Solid Shell Function video added to the Solid Modeling Lesson in the Mastercam X2 courseware. See the Revision Log for details.</p>
+</div>
+<!-- Entry 1 -->
+<p class="date">01/29/2008</p>
+<div class="entry">
+<p>Three (3) new videos added to the Mastercam X2 courseware. See the Revision Log for details.</p>
+</div>
+</div></div>
+            </div>
+        </div>
+        <div class="footer-container">
+    <div class="footer">
+
+<div class="footer-links">            
+<!--p>&nbsp;</p>
+<ul>
+<li><a href="http://www.streamingteacher.com/catalog/seo_sitemap/category/" _mce_href="http://www.streamingteacher.com/catalog/seo_sitemap/category/">Sitemap</a></li>
+<li><a href="http://www.streamingteacher.com/catalogsearch/term/popular/" _mce_href="http://www.streamingteacher.com/catalogsearch/term/popular/">Search Terms</a></li>
+<li><a href="http://www.streamingteacher.com/catalogsearch/advanced/" _mce_href="http://www.streamingteacher.com/catalogsearch/advanced/">Advanced Search</a></li>
+<li class="last"><a href="http://www.streamingteacher.com/customer-service" _mce_href="http://www.streamingteacher.com/customer-service">Customer Service</a></li>
+</ul>
+<p>&nbsp;</p-->
+<p>Use of this website constitutes acceptance of the Streamingteacher <a href="/terms-and-conditions">TERMS, CONDITIONS</a> and <a href="/privacy-policy">PRIVACY POLICY</a></p>        </div>
+
+        <address>© Copyright 2014, Streaming Teacher, Inc. All rights reserved. Designated trademarks and brands are the property of their respective owners.</address>
+    </div>
+</div>
+            </div>
+</div>
+<!-- Begin Web-Stat code v 6.0 -->
+<span id="wts"></span><script type="text/javascript">
+var wts=document.createElement('script');wts.type='text/javascript';wts.async=true;
+wts.src=('https:'==document.location.protocol?'https://server2':'http://server2')
++'.web-stat.com/4/6856/log6.js';
+document.getElementById('wts').appendChild(wts);
+</script><noscript><a href="http://www.web-stat.net">
+<img src="http://server2.web-stat.com/6/4/6856.gif" 
+style="border:0px;" alt="hit counter"></a></noscript>
+<!-- End Web-Stat code v 6.0 --></body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

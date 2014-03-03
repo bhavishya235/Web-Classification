@@ -1,0 +1,1581 @@
+====================<http://www.cos.com/>====================
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!-- fix blocking comments -->
+<!--[if IE 8 ]> <html class="ie8" xmlns:ng="http://angularjs.org" id="ng-app"> <![endif]-->
+<!--[if IE 9 ]> <html class="ie9"> <![endif]-->
+<!--[if (gte IE 10)]> <html class="ie"> <!<![endif]-->
+<!--[if !(IE)]> <html> <!<![endif]-->
+
+  <head>
+     <!--[if lte IE 8]>
+      <script type="text/javascript">
+        var customTags = ["ng-include", "ng-pluralize", "ng-view", "ng-cloak", "ng-src", 
+                          "alert", "tabset", "tab", "nav", "footer", "header", 
+                          "typeahead-popup", "typeahead-match",
+                          "tooltip-popup", "tooltip-html-unsafe-popup" ]
+        .concat(["ng:include", "ng:pluralize", "ng:view", "ng:cloak", "ng:src"]);  // Optionally these for CSS
+        for (var t=0; t<customTags.length; t++) document.createElement(customTags[t]);
+      </script>
+    
+      <script src="json3.js"></script>
+    <![endif]-->
+  
+    <!--[if IE]>
+      <script type="text/javascript">
+        if (!document.documentMode || (document.documentMode < 9)) {
+          document.write('<script src="html5.js"><\/script>');
+       }
+      </script>
+    <![endif]-->
+    
+    <title>COS</title>
+    
+    <!-- CSS - load stylesheets and any pre-processing code -->
+    <link href="/assets/application-000f74496e63d613b2aaaf2dbf5eab6c.css" media="all" rel="stylesheet" type="text/css" />
+    
+
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="6kemuNxTM9rRQ3y2oXrq9xuCuubzctQ1qcxQ0od3Izs=" name="csrf-token" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+   
+  </head>
+  
+  <body class="ng-cloak" data-view="{{$root.activetab}}">
+
+    <div class="container" ng-controller="CosCtrl">
+      
+      <!-- HEADER AND NAVBAR -->
+      <div class="row" role="header"> 
+         <div id="skiplinkholder_main" class="skiplinkholder span12"><p><a id="skiplink_main" accesskey="S" ng-click="anchorScrollTo('feedbackbutton')" href="">Skip over main content to the Feedback link</a></p></div>
+         <!-- header -->
+<div id="header" class="span12">
+  &nbsp;
+  <!--<a href="/" class="icon_logo" title="Community of Scholars"></a>-->
+  <!-- comment out for now - login functionality to be added later -->
+  <!--<div class="login-header" data-login-header=""></div>-->
+</div>
+      </div>
+      
+      <!-- MAIN CONTENT AND INJECTED VIEWS -->
+      <div class="row">
+         <div id="flash_error" class="alert alert-block alert-error fade in clearfix  hide">
+  <a class="close" href="#" role="button" title="Close error message">×</a>
+  <i class="icon_error_red pull-left"></i>
+  <p class="errmsg pull-left">
+    
+  </p>
+</div>
+
+        <div class="ng-view page-content span12"></div>
+      </div>
+      
+      <!-- FOOTER -->
+      <div class="row footer-row" role="contentinfo"> 
+        <!-- footer -->   
+<div id="footer" class="footer span12">
+  <!--Footer content-->
+  <span class="logo-text">Community of Scholars</span>
+  <ul class="footer-links inline pull-right">
+    <li><a href="https://pivot.desk.com" target="_blank">Support/Help</a><span class="divider">|</span></li>
+    <li><a href="http://www.proquest.com/en-US/site/privacy.shtml" target="_blank">Privacy</a><span class="divider">|</span></li>
+    <li><a href="#terms" target="_blank">Terms of Use</a></li>
+  </ul>
+  <div class="copyright">&copy; 2014, ProQuest, LLC. All rights reserved.</div>
+</div>
+      </div>
+      
+      <!-- Feedback button -->
+      <div ng-controller="FeedbackCtrl">
+        <a href="" ng-hide="isOpen || isHomePage" ng-click="open()" title="Click to send us feedback" alt="Click to send us feedback" id="feedbackbutton" name="feedbackbutton" class="btn-primary">&nbsp;</a>
+      </div>
+      
+    </div>
+
+    <!-- JAVASCRIPT -->
+    <!-- load js defines, js files, etc.-->
+    <script type="text/javascript">
+      <!--
+        // set omniture env variable
+        var s_account="proq-cos-prod";
+
+        // set basepath for ckeditor (wysiwyg editor)
+        var CKEDITOR_BASEPATH = '/assets/ckeditor/';
+      //-->
+    </script>
+    <script src="/assets/application-f7d56cca41700cd8095176f3f90d1bab.js" type="text/javascript"></script>
+    
+     <!--[if lte IE 9]>
+       <script src="/assets/es5-shim-92a2a4a504460236a7ae8b0993c51e28.js" type="text/javascript"></script>
+     <![endif]-->
+          
+  <script type="text/javascript">
+<!-- SiteCatalyst code version: H.23.3.Copyright 1996-2011 Adobe, Inc. All Rights Reserved More info available at http://www.omniture.com -->
+<!--
+
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName  = "cos:home"
+s.server    = ""
+s.channel   = "cos:home";
+s.pageType  = ""
+
+
+  s.prop1 = "";
+
+  s.prop2 = "";
+
+  s.prop11 = "103.246.106.9";
+
+  s.prop15 = "user";
+
+  s.prop16 = "";
+
+  s.prop19 = "Group ID    ";
+
+  s.prop21 = "Account ID  ";
+
+  s.prop23 = "";
+
+  s.prop25 = "";
+
+
+/* Conversion Variables */
+s.campaign   = ""
+s.state      = ""
+s.zip        = ""
+s.events     = "";
+s.products   = ""
+s.purchaseID = ""
+
+
+  s.eVar15 = "user";
+
+  s.eVar16 = "";
+
+  s.eVar19 = "Group ID    ";
+
+  s.eVar21 = "Account ID  ";
+
+  s.eVar23 = "";
+
+  s.eVar24 = "103.246.106.9";
+
+  s.eVar25 = "";
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://proquestllc.112.2o7.net/b/ss/proq-cos-prod/1/H.23.3--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.23.3. -->
+
+
+  
+  
+  
+</body>
+  
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.bbsrc.ac.uk/>====================
+
+<!DOCTYPE html>
+<html>
+<!-- AE_CONTENT_START -->
+
+ <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>
+	BBSRC - Biotechnology and Biological Sciences Research Council (BBSRC) - Home
+</title><meta name="keywords" content="grant funding, fellowships, studentships, government, research, training, grants, biosciences, biotechnology, food security, industrial biotechnology, health, postgraduate" /><meta name="description" content="Investing in world-class bioscience research and training on behalf of the UK public. Funded by government, we fund research and postgraduate training at universities and research institutes in the UK through research grants." />    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" /><link href="/Web/StyleSheets/bbsrc-2012.css" rel="stylesheet" media="all" /><link href="/upload/structure/css/layout-mobile.css" rel="stylesheet" media="screen" />
+       <link href="/upload/structure/css/layout-tablet.css" rel="stylesheet" media="screen and (min-width: 481px)" />
+       <link href="/upload/structure/css/layout-largetablet.css" rel="stylesheet" media="screen and (min-width: 720px)" />
+       <link href="/upload/structure/css/layout-desktop.css" rel="stylesheet"  media="screen and (min-width: 840px)" />
+
+
+<link href="/upload/structure/css/print.css" rel="stylesheet" media="print" />
+  
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js" type="text/javascript"></script>
+  <script src="/upload/structure/js/jquery.jshowoff.js"></script>
+  <script src="/upload/structure/js/main.js"></script>
+  
+  <!--[if (IE)]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <link href="/upload/structure/css/ie.css" rel="stylesheet" />
+  <![endif]-->
+  <!--[if (IE 7)|(IE 8)]>
+  <link href="/upload/structure/css/layout-tablet.css" rel="stylesheet" /><link href="/upload/structure/css/layout-largetablet.css" rel="stylesheet" /><link href="/upload/structure/css/layout-desktop.css" rel="stylesheet" /><link href="/upload/structure/css/ie8.css" rel="stylesheet" />
+  <![endif]-->
+  <!--[if (IE 7)]>
+  <link href="/upload/structure/css/ie7.css" rel="stylesheet" />
+  <![endif]-->
+ <meta name="GENERATOR" content="Generated by Activedition 4.2.2" /></head>
+<body class="tContent sHome">
+<!-- AE_CONTENT_END --> 
+  	<!-- header -->
+    <header id="header">
+    	<div class="wrap">
+    		<div id="logo">
+    			
+    			<img src="/web/multimediafiles/anniversary-logo.png" alt="BBSRC - 20 Years of Pioneering Great British Bioscience" />
+    			
+    		</div>
+                <a id="skipToContent" href="#content" accesskey="s" tabindex="1">Skip to content</a>
+<p class="keynote">Investing in world-class bioscience research and training on behalf of the UK public</p>
+
+            <nav id="siteTools">
+            	<ul>
+    <li>
+        <a href="http://www.bbsrc.ac.uk/site/accessibility.aspx" accesskey="0"  
+>Accessibility</a></li>
+    <li><a accesskey="7" href="http://www.bbsrc.ac.uk/site/contact/contact-index.aspx">Contact us</a></li>
+    <li>
+        <a href="http://www.bbsrc.ac.uk/ces5/default.aspx?__EVENTTARGET=c%24ctl01%24ctl00%24i%24aln" title="(opens in a new window)" target="_blank"  
+>Advanced search<img src="/upload/structure/img/i-external.png" alt="" class="BBSRCExternalLink" /></a></li>    
+</ul>
+<form method="get" action="/ces5/default.aspx">
+       <label style="position: absolute; left: -9999em" for="q">Search website</label>
+       <input type="text" name="q" id="q" value="search" onfocus="this.value=''" accesskey="4"/>
+       <input type="submit" value="Search" />
+</form>
+
+
+
+
+
+            </nav>
+
+
+
+        
+            <a href="#primaryNav" id="togglePrimaryNav" class="open">Site navigation <i>&darr;</i></a>
+            
+            <nav id="primaryNav" role="navigation">
+                <ul>
+                    <li class="sHome" id="primaryNavHome"><a href="http://www.bbsrc.ac.uk/home/home.aspx" accesskey="1" ><img src="/upload/structure/img/i-home.png" alt="Home" /> Home</a></li>
+                    <li class="sNews"><a href="http://www.bbsrc.ac.uk/news/news-index.aspx" accesskey="2" >News and events</a></li>
+                    <li class="sFunding"><a href="http://www.bbsrc.ac.uk/funding/funding-index.aspx">Research funding</a></li>
+                    <li class="sBusiness"><a href="http://www.bbsrc.ac.uk/business/business-index.aspx">Working with business</a></li>
+                    <li class="sSociety"><a href="http://www.bbsrc.ac.uk/society/science-in-society-index.aspx">Science in society</a></li>
+                    <li class="sOrganisation"><a href="http://www.bbsrc.ac.uk/organisation/organisation-index.aspx">Our organisation</a></li>
+                    <li class="sResearch"><a href="http://www.bbsrc.ac.uk/research/research-index.aspx">Our research</a></li>
+                    <li class="sPublications"><a href="http://www.bbsrc.ac.uk/publications/publications-index.aspx">Publications</a></li>
+                </ul>
+            </nav>
+    	</div>
+    </header>
+    <!-- header end -->
+
+<div class="wrap">
+
+ <section id="content" class="home">
+<h1 class="hide">BBSRC - Biotechnology and Biological Sciences Research Council</h1>
+<h2 class="hide">Latest news slideshow</h2>
+  
+  <ul id="featuredSlider" class="imgBox">
+   <!-- AE_CONTENT_START -->
+   <li style="MARGIN-BOTTOM: 0px">
+<a class="" href="http://www.bbsrc.ac.uk/news/health/2014/140224-n-princess-royal-safeguard-livestock.aspx">
+<img src="/web/MultimediaFiles/140224-hrh-princess-royal-visit-kevin-mccollum-moredun-940.jpg" alt="" /><h3>Princess Royal praises collaborations to safeguard livestock</h3></a></li>
+<li style="MARGIN-BOTTOM: 0px">
+<a class="" href="http://www.bbsrc.ac.uk/news/food-security/2014/140224-pr-biodiesel-by-product-protect-soil-quality.aspx">
+<img src="/web/MultimediaFiles/140221-top-soil-rothamsted-research-940.jpg" alt="" /><h3>Biodiesel by-product could be used to protect soil quality</h3></a></li>
+<li style="MARGIN-BOTTOM: 0px">
+<a class="" href="http://www.bbsrc.ac.uk/news/people-skills-training/2014/140221-n-free-pe-and-media-training-courses.aspx">
+<img src="/web/MultimediaFiles/140221-dialogue-rothamsted-940.jpg" alt="" /><h3>Free public engagement and media training courses</h3></a></li>
+   <!-- AE_CONTENT_END --> 
+  </ul>
+  
+  <section id="newsStories">
+   <!-- AE_CONTENT_START -->
+   <h2>News stories</h2>
+   
+   <ul class="imgBox">
+    <li>
+     <a class="" href="http://www.bbsrc.ac.uk/news/policy/2014/140221-pr-report-details-impact-of-jic.aspx">
+<img src="/web/MultimediaFiles/140221-investment-istock-360.JPG" alt="" /><h3>Report details the impact of the John Innes Centre</h3></a>
+    </li>
+    <li style="margin-right: 1.4%;">
+     <a class="" href="http://www.bbsrc.ac.uk/news/people-skills-training/2014/140220-pr-new-director-for-rothamsted.aspx">
+<img src="/web/MultimediaFiles/140219-dobermann-rres-istock-165.jpg" alt="" /><h3>New Director for Rothamsted Research</h3></a>
+    </li>
+    <li>
+     <a class="" href="http://www.bbsrc.ac.uk/news/food-security/2014/140219-pr-managed-honeybees-new-diseases.aspx">
+<img src="/web/MultimediaFiles/140219-bumblebee-matthias-fuerst-royal-holloway-london-165.jpg" alt="" /><h3>Managed honeybees linked to diseases in wild bees</h3></a>
+    </li>   
+   </ul>
+   <!-- AE_CONTENT_END --> 
+  </section>
+  
+  <section id="latestVideo">
+   <!-- AE_CONTENT_START -->
+   <h2>Latest video</h2>
+   <div class="iframeContainer">
+    <!--Don't forget to change template for each type also--><!--THIS TOP LINE FOR VIDEO - keep '?rel=0' bit, but change YouTube URL bit--><iframe tabindex="-1" src="http://www.youtube-nocookie.com/embed/7JzELgqdicQ?rel=0"></iframe>
+<p><a href="http://www.bbsrc.ac.uk/news/fundamental-bioscience/2014/140219-f-camouflage-games-can-you-spot-the-bird.aspx">Accessible version of this video</a></p><!-- THESE LINES FOR IMPACT STORY--><!--<a class="imgBox" href="http://www.bbsrc.ac.uk/research/impact/pyrethroids.aspx">
+<h3>Pyrethroids timeline</h3><img alt="Pyrethroids timeline" src="/web/multimediafiles/120227-pyrethroids-flickr-340.jpg"/></a>-->
+   </div>
+   
+   <noscript>
+    <p>You need Javascript enabled to view this YouTube video. You can view an accessible version of the video using the link below.</p>
+   </noscript>
+   
+      <!-- AE_CONTENT_END -->  
+  </section>
+  
+
+ </section>
+ 
+ <aside id="contentAside" class="home">
+  <!-- AE_CONTENT_START -->
+  <span class="cta highlightedBlue">
+        <a href="http://www.bbsrc.ac.uk/news/twenty/20-years-of-bioscience-index.aspx"  
+>20 years of bioscience</a> </span><!--<span class="cta highlighted">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <a href="http://www.bbsrc.ac.uk/organisation/vision.aspx"  
+>Our vision</a> </span>--><span class="cta highlighted">
+        <a href="http://www.bbsrc.ac.uk/research/impact/impact-index.aspx"  
+>Our impact</a> </span><span class="cta highlighted">
+        <a href="http://www.bbsrc.ac.uk/pa/grants" title="(opens in a new window)" target="_blank"  
+>Search awarded grants<img src="/upload/structure/img/i-external.png" alt="" class="BBSRCExternalLink" /></a> </span><nav class="responsiveMode">
+<h2>
+        <a href="http://www.bbsrc.ac.uk/funding/apply/deadlines.aspx"  
+>Responsive mode</a></h2>
+<ul>
+<li><i class="deadline"><strong>Deadline:</strong> 29/04/2014</i> </li></ul></nav>
+<nav class="fundingCalls">
+          <h2><a href="http://www.bbsrc.ac.uk/funding/opportunities/opportunities-index.aspx">Special opportunities</a></h2>
+          <ul><li class="Closing soon"><a href="http://www.bbsrc.ac.uk/business/collaborative-research/tsb-competitions/data-exploration.aspx">Data exploration - creating new insight and value<i class="deadline"><strong>Deadline: </strong>26/02/2014</i><b class="importance">Closing soon</b></a></li><li class="Closing soon"><a href="http://www.bbsrc.ac.uk/funding/opportunities/2014/animal-health-veterinary-immune-reagents.aspx">Animal health and disease and veterinary immune reagents<i class="deadline"><strong>Deadline: </strong>27/02/2014</i><b class="importance">Closing soon</b></a></li><li class="Closing soon"><a href="http://www.bbsrc.ac.uk/funding/opportunities/2014/wi-expert-working-group-wheat-phenotyping.aspx">Wheat Initiative Expert Working Group<i class="deadline"><strong>Deadline: </strong>01/03/2014</i><b class="importance">Closing soon</b></a></li><li class="New"><a href="http://www.bbsrc.ac.uk/funding/opportunities/2014/horticulture-knowledge-exchange-fellowship.aspx">Horticulture Knowledge Exchange Fellowship<i class="deadline"><strong>Deadline: </strong>06/05/2014</i><b class="importance">New</b></a></li></ul></nav><span class="cta ceo">
+        <a href="http://blogs.bbsrc.ac.uk" title="(opens in a new window)" target="_blank"  
+>Chief Executive's blog<img src="/upload/structure/img/i-external.png" alt="" class="BBSRCExternalLink" /></a> </span>
+  <!-- AE_CONTENT_END -->
+<span class="sponsor"><a href="https://je-s.rcuk.ac.uk/" target="_blank"><img src="/web/multimediafiles/jes_logo.gif" alt="Visit the Je-S website" style="padding-top: 8px;" /></a></span>
+
+<span class="sponsor"><a href="http://www.rcuk.ac.uk/" target="_blank"><img src="/web/multimediafiles/logo_rcuk.gif" alt="Visit the RCUK website" /></a></span>
+
+<span class="sponsor GtR"><a href="http://gtr.rcuk.ac.uk/" target="_blank"><img src="/web/multimediafiles/gateway-to-research.gif" alt="Visit the Gateway to Research website" /></a></span>
+
+ </aside>
+
+</div>
+
+<!-- footer -->
+    <footer id="footer">
+            <div class="wrap">
+                        <section class="additionalInfo">
+                <h2>Additional information</h2>
+                <ul>
+                    <li class="long">
+        <a href="http://www.bbsrc.ac.uk/site/site-index.aspx"  
+>About this site</a></li>
+                    <li>
+        <a href="http://www.bbsrc.ac.uk/site/help/help-index.aspx" accesskey="6"  
+>Help</a></li>
+<li class="long">
+        <a href="http://www.bbsrc.ac.uk/site/contact/contact-index.aspx" accesskey="7"  
+>Contact us</a></li>
+
+<li>
+        <a href="http://www.bbsrc.ac.uk/site/privacy.aspx" accesskey="5"  
+>Privacy and cookies</a></li>
+                    <li class="long">
+        <a href="http://www.bbsrc.ac.uk/organisation/policies/position/policy/data-protection-policy.aspx"  
+>Data protection policy</a></li>
+                    <li>
+        <a href="http://www.bbsrc.ac.uk/site/site-sitemap.aspx" accesskey="3"  
+>Site map</a></li>
+
+                    <li class="long">
+        <a href="http://www.bbsrc.ac.uk/site/download-logo.aspx"  
+>Download logo</a></li>
+
+                    
+<li>
+        <a href="http://www.bbsrc.ac.uk/site/terms-and-conditions.aspx" accesskey="8"  
+>Terms of use</a></li>
+                    <li class="long">
+        <a href="http://www.bbsrc.ac.uk/organisation/policies/position/foi/foi-index.aspx"  
+>Freedom of Information</a></li>
+                </ul>
+                                                    </section>
+    
+            <section class="socialMedia">
+                <h2>BBSRC on social media</h2>
+                <ul>
+                    <li><a href="https://twitter.com/bbsrc" target="_blank"><img src="/upload/structure/img/i-twitter.png" alt="Twitter" title="Follow us on Twitter" /></a></li>
+                    <li><a href="http://bbsrc.tumblr.com/" target="_blank"><img src="/web/multimediafiles/i-tumblr.png" alt="Tumblr" title="Read our Great British Bioscience Blog" /></a></li>
+                    <li><a href="http://www.youtube.com/user/bbsrcmedia" target="_blank"><img src="/upload/structure/img/i-youtube.png" alt="YouTube" title="See our YouTube videos" /></a></li>
+                    <li><a href="http://www.linkedin.com/company/bbsrc" target="_blank"><img src="/web/multimediafiles/i-linkedin.png" alt="LinkedIn" title="Follow us on LinkedIn" /></a></li>
+                    <li><a href="https://www.facebook.com/bbsrcnews" target="_blank"><img src="/upload/structure/img/i-facebook.png" alt="Facebook" title="Visit our Facebook page" /></a></li>  
+                    <li><a href="https://plus.google.com/+BBSRC" target="_blank"><img src="/web/multimediafiles/i-googleplus.png" alt="Google+" title="Visit our Google+ page" /></a></li>    
+                    <li><a href="http://www.scoop.it/t/bioscience-news" target="_blank"><img src="/web/multimediafiles/i-scoopit.png" alt="Scoop.it" title="Visit our Scoop.it page" /></a></li>                    
+                    <li><a href="http://feeds.feedburner.com/bbsrc" target="_blank"><img src="/upload/structure/img/i-rss.png" alt="RSS" title="Our RSS Feed" /></a></li>
+                </ul>
+
+<ul>
+    <li class="ceo"><a href="http://blogs.bbsrc.ac.uk/">Chief Executive's <b>blog</b></a></li>
+    <li class="email"><a href=" http://www.bbsrc.ac.uk/news/news-email/news-email-index.aspx">Subscribe to <b>news email</b></a></li>
+   </ul>
+
+            </section>
+    
+            <section class="contactDetails">
+                <h2>Contact details</h2>
+                <address>
+                    <span>BBSRC</span>
+                    <span>Polaris House</span>
+                    <span>North Star Avenue</span>
+                    <span>Swindon SN2 1UH</span>
+                </address>
+                <p class="email">Tel: +44 (0)1793 413200<br />Email: <a href="mailto:webmaster@bbsrc.ac.uk">webmaster@bbsrc.ac.uk</a></p>
+<p class="legal">&copy; 2014 <abbr title="Biotechnology and Biological Sciences Research Council">BBSRC</abbr></p>
+
+            </section>
+
+<form name="aspnetForm" method="post" action="/home/home.aspx"><div>
+
+	<div>
+	<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWJAIBD2QWCgIBD2QWAmYPFQFFQmlvdGVjaG5vbG9neSBhbmQgQmlvbG9naWNhbCBTY2llbmNlcyBSZXNlYXJjaCBDb3VuY2lsIChCQlNSQykgLSBIb21lZAICD2QWAmYPZBYCZg9kFgICAQ8VAasBZ3JhbnQgZnVuZGluZywgZmVsbG93c2hpcHMsIHN0dWRlbnRzaGlwcywgZ292ZXJubWVudCwgcmVzZWFyY2gsIHRyYWluaW5nLCBncmFudHMsIGJpb3NjaWVuY2VzLCBiaW90ZWNobm9sb2d5LCBmb29kIHNlY3VyaXR5LCBpbmR1c3RyaWFsIGJpb3RlY2hub2xvZ3ksIGhlYWx0aCwgcG9zdGdyYWR1YXRlZAIDD2QWAmYPZBYCZg9kFgICAQ8VAeEBSW52ZXN0aW5nIGluIHdvcmxkLWNsYXNzIGJpb3NjaWVuY2UgcmVzZWFyY2ggYW5kIHRyYWluaW5nIG9uIGJlaGFsZiBvZiB0aGUgVUsgcHVibGljLiBGdW5kZWQgYnkgZ292ZXJubWVudCwgd2UgZnVuZCByZXNlYXJjaCBhbmQgcG9zdGdyYWR1YXRlIHRyYWluaW5nIGF0IHVuaXZlcnNpdGllcyBhbmQgcmVzZWFyY2ggaW5zdGl0dXRlcyBpbiB0aGUgVUsgdGhyb3VnaCByZXNlYXJjaCBncmFudHMuZAIED2QWAmYPZBYCZg9kFgJmD2QWAmYPFgIeBFRleHQFaDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSwgbWluaW11bS1zY2FsZT0xLCBtYXhpbXVtLXNjYWxlPTEiIC8+ZAIHD2QWAmYPZBYCAgIPFgIeB1Zpc2libGVoZAIFD2QWAmYPZBYCZg9kFgJmD2QWAmYPZBYCZg9kFgJmD2QWAmYPZBYGAgEPFgIfAWgWAmYPFQEAZAICDxYCHwFoZAIEDxYCHwFoZAIHD2QWAmYPZBYCZg9kFgJmD2QWAmYPZBYCZg9kFgJmD2QWAmYPZBYIAgEPFgIfAWgWAmYPFQEAZAICDxYCHwFoZAIDD2QWBAIBD2QWAmYPZBYCZg9kFhBmDxUBLmh0dHA6Ly93d3cuYmJzcmMuYWMudWsvc2l0ZS9hY2Nlc3NpYmlsaXR5LmFzcHhkAgEPZBYCZg8VAQ1hY2Nlc3NpYmlsaXR5ZAICDxYCHwFoFgJmDxUBAGQCAw8WAh8BaBYCZg8VAQBkAgQPZBYCZg8VAQEwZAIFDxUBAGQCBw8VAQ1BY2Nlc3NpYmlsaXR5ZAIJDxYCHwFoZAIDD2QWAmYPZBYCZg9kFg5mDxUBUmh0dHA6Ly93d3cuYmJzcmMuYWMudWsvY2VzNS9kZWZhdWx0LmFzcHg/X19FVkVOVFRBUkdFVD1jJTI0Y3RsMDElMjRjdGwwMCUyNGklMjRhbG5kAgEPZBYCZg8VARVjb3Zlby1hZHZhbmNlZC1zZWFyY2hkAgIPZBYCZg8VARcob3BlbnMgaW4gYSBuZXcgd2luZG93KWQCAw9kFgJmDxUBBl9ibGFua2QCBA8WAh8BaBYCZg8VAQBkAgUPFQEAZAIHDxUBD0FkdmFuY2VkIHNlYXJjaGQCBA8WAh8BaGQCCQ9kFgJmD2QWAmYPZBYCZg8VASVodHRwOi8vd3d3LmJic3JjLmFjLnVrL2hvbWUvaG9tZS5hc3B4ZAILD2QWAmYPZBYCZg9kFgJmDxUBK2h0dHA6Ly93d3cuYmJzcmMuYWMudWsvbmV3cy9uZXdzLWluZGV4LmFzcHhkAg0PZBYCZg9kFgJmD2QWAmYPFQExaHR0cDovL3d3dy5iYnNyYy5hYy51ay9mdW5kaW5nL2Z1bmRpbmctaW5kZXguYXNweGQCDw9kFgJmD2QWAmYPZBYCZg8VATNodHRwOi8vd3d3LmJic3JjLmFjLnVrL2J1c2luZXNzL2J1c2luZXNzLWluZGV4LmFzcHhkAhEPZBYCZg9kFgJmD2QWAmYPFQE8aHR0cDovL3d3dy5iYnNyYy5hYy51ay9zb2NpZXR5L3NjaWVuY2UtaW4tc29jaWV0eS1pbmRleC5hc3B4ZAITD2QWAmYPZBYCZg9kFgJmDxUBO2h0dHA6Ly93d3cuYmJzcmMuYWMudWsvb3JnYW5pc2F0aW9uL29yZ2FuaXNhdGlvbi1pbmRleC5hc3B4ZAIVD2QWAmYPZBYCZg9kFgJmDxUBM2h0dHA6Ly93d3cuYmJzcmMuYWMudWsvcmVzZWFyY2gvcmVzZWFyY2gtaW5kZXguYXNweGQCFw9kFgJmD2QWAmYPZBYCZg8VATtodHRwOi8vd3d3LmJic3JjLmFjLnVrL3B1YmxpY2F0aW9ucy9wdWJsaWNhdGlvbnMtaW5kZXguYXNweGQCGQ9kFgJmD2QWAmYPZBYCZg9kFggCAQ8WAh8BaBYCZg8VAQBkAgIPFgIfAWhkAgMPZBYGAgEPZBYCZg9kFgJmD2QWAmYPFgIfAAWfAjxhIGNsYXNzPSIiIGhyZWY9Imh0dHA6Ly93d3cuYmJzcmMuYWMudWsvbmV3cy9oZWFsdGgvMjAxNC8xNDAyMjQtbi1wcmluY2Vzcy1yb3lhbC1zYWZlZ3VhcmQtbGl2ZXN0b2NrLmFzcHgiPg0KPGltZyBzcmM9Ii93ZWIvTXVsdGltZWRpYUZpbGVzLzE0MDIyNC1ocmgtcHJpbmNlc3Mtcm95YWwtdmlzaXQta2V2aW4tbWNjb2xsdW0tbW9yZWR1bi05NDAuanBnIiBhbHQ9IiIgLz48aDM+UHJpbmNlc3MgUm95YWwgcHJhaXNlcyBjb2xsYWJvcmF0aW9ucyB0byBzYWZlZ3VhcmQgbGl2ZXN0b2NrPC9oMz48L2E+ZAIDD2QWAmYPZBYCZg9kFgJmDxYCHwAFmQI8YSBjbGFzcz0iIiBocmVmPSJodHRwOi8vd3d3LmJic3JjLmFjLnVrL25ld3MvZm9vZC1zZWN1cml0eS8yMDE0LzE0MDIyNC1wci1iaW9kaWVzZWwtYnktcHJvZHVjdC1wcm90ZWN0LXNvaWwtcXVhbGl0eS5hc3B4Ij4NCjxpbWcgc3JjPSIvd2ViL011bHRpbWVkaWFGaWxlcy8xNDAyMjEtdG9wLXNvaWwtcm90aGFtc3RlZC1yZXNlYXJjaC05NDAuanBnIiBhbHQ9IiIgLz48aDM+QmlvZGllc2VsIGJ5LXByb2R1Y3QgY291bGQgYmUgdXNlZCB0byBwcm90ZWN0IHNvaWwgcXVhbGl0eTwvaDM+PC9hPmQCBQ9kFgJmD2QWAmYPZBYCZg8WAh8ABYgCPGEgY2xhc3M9IiIgaHJlZj0iaHR0cDovL3d3dy5iYnNyYy5hYy51ay9uZXdzL3Blb3BsZS1za2lsbHMtdHJhaW5pbmcvMjAxNC8xNDAyMjEtbi1mcmVlLXBlLWFuZC1tZWRpYS10cmFpbmluZy1jb3Vyc2VzLmFzcHgiPg0KPGltZyBzcmM9Ii93ZWIvTXVsdGltZWRpYUZpbGVzLzE0MDIyMS1kaWFsb2d1ZS1yb3RoYW1zdGVkLTk0MC5qcGciIGFsdD0iIiAvPjxoMz5GcmVlIHB1YmxpYyBlbmdhZ2VtZW50IGFuZCBtZWRpYSB0cmFpbmluZyBjb3Vyc2VzPC9oMz48L2E+ZAIEDxYCHwFoZAIbD2QWAmYPZBYCZg9kFgJmD2QWCAIBDxYCHwFoFgJmDxUBAGQCAg8WAh8BaGQCAw9kFgJmD2QWAmYPZBYCZg9kFgJmDxYCHwAF8gE8YSBjbGFzcz0iIiBocmVmPSJodHRwOi8vd3d3LmJic3JjLmFjLnVrL25ld3MvcG9saWN5LzIwMTQvMTQwMjIxLXByLXJlcG9ydC1kZXRhaWxzLWltcGFjdC1vZi1qaWMuYXNweCI+DQo8aW1nIHNyYz0iL3dlYi9NdWx0aW1lZGlhRmlsZXMvMTQwMjIxLWludmVzdG1lbnQtaXN0b2NrLTM2MC5KUEciIGFsdD0iIiAvPjxoMz5SZXBvcnQgZGV0YWlscyB0aGUgaW1wYWN0IG9mIHRoZSBKb2huIElubmVzIENlbnRyZTwvaDM+PC9hPmQCBA8WAh8BaGQCHQ9kFgJmD2QWAmYPZBYCZg9kFggCAQ8WAh8BaBYCZg8VAQBkAgIPFgIfAWhkAgMPZBYCZg9kFgJmD2QWAmYPZBYCZg8WAh8ABfcBPGEgY2xhc3M9IiIgaHJlZj0iaHR0cDovL3d3dy5iYnNyYy5hYy51ay9uZXdzL3Blb3BsZS1za2lsbHMtdHJhaW5pbmcvMjAxNC8xNDAyMjAtcHItbmV3LWRpcmVjdG9yLWZvci1yb3RoYW1zdGVkLmFzcHgiPg0KPGltZyBzcmM9Ii93ZWIvTXVsdGltZWRpYUZpbGVzLzE0MDIxOS1kb2Jlcm1hbm4tcnJlcy1pc3RvY2stMTY1LmpwZyIgYWx0PSIiIC8+PGgzPk5ldyBEaXJlY3RvciBmb3IgUm90aGFtc3RlZCBSZXNlYXJjaDwvaDM+PC9hPmQCBA8WAh8BaGQCHw9kFgJmD2QWAmYPZBYCZg9kFggCAQ8WAh8BaBYCZg8VAQBkAgIPFgIfAWhkAgMPZBYCZg9kFgJmD2QWAmYPZBYCZg8WAh8ABZgCPGEgY2xhc3M9IiIgaHJlZj0iaHR0cDovL3d3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" />
+	</div>
+	
+    
+    
+
+</div></form>
+  
+            </div>
+    </footer>
+    <!-- footer end -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1503913-1']);
+  _gaq.push(['_setDomainName', 'bbsrc.ac.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- AE_CONTENT_START -->
+</body>
+<!-- AE_CONTENT_END -->
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.sciencewise.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="research news, research funding, research analysis, research policy, research jobs" />
+  <meta name="title" content="Research USA" />
+  <meta name="author" content="" />
+  <meta name="description" content="Research – news, analysis, funding and data for the academic research and policy community" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Research USA</title>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <link href="/templates/rr/css/colorbox.css" type="text/css" rel="stylesheet" media="screen" />
+    <link href="/templates/rr/css/theme.css" type="text/css" rel="stylesheet" media="screen" />
+    <link rel="shortcut icon" href="/templates/rr/img/rr.ico" />
+
+    <script type="text/javascript" src="/templates/rr/js/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="/includes/js/jquery.colorbox.js"></script>
+    <script type="text/javascript" src="/includes/js/jquery.jcarousel.js"></script>
+    <script type="text/javascript" src="/templates/rr/js/shared.js"></script>
+    <script type="text/javascript" src="/templates/rr/js/scripts.js"></script>
+    <script type="text/javascript" src="/includes/js/rr.js"></script>
+    <!--[if IE]>
+    	<link href="/templates/rr/css/ie.css" type="text/css" rel="stylesheet" media="screen" />
+    <![endif]-->
+    <!--[if IE 6]>
+	   <script type="text/javascript" src="/templates/rr/js/DD_belatedPNG.js"></script>
+    	<script type="text/javascript" src="/templates/rr/js/png-fix.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="header">
+					<div class="moduletable">
+					<strong class="logo"><a href="/" class="pngFix">ResearchResearch.com</a></strong>
+<p class="byline pngFix">News, analysis, funding, data</p>
+<div class="rProLogin">
+    <strong class="rPro pngFix">ResearchProfessional</strong>
+    <a href="http://www.researchprofessional.com/login.html?loginTarget=/" class="login pngFix">Login</a>
+</div>		</div>
+			<div class="moduletable clr">
+					<ul class="menuTop" id="topMenu"><li class="parent item87 buy"><a href="http://shop.researchresearch.com"><span>Buy</span></a><ul><li class="item86 contact-us"><a href="/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=14"><span>Contact Us</span></a></li><li class="item69 shop"><a href="http://shop.researchresearch.com"><span>Shop</span></a></li></ul></li><li class="parent item24 research-professional"><a href="/index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=24"><span>Research Professional</span></a></li><li class="parent item82 news"><a href="/index.php?option=com_content&amp;view=article&amp;id=177&amp;Itemid=82"><span>News</span></a><ul><li class="item16 research-fortnight-uk-"><a href="/index.php?option=com_content&amp;view=article&amp;id=16&amp;Itemid=16"><span>Research Fortnight (UK)</span></a></li><li class="item17 research-europe"><a href="/index.php?option=com_content&amp;view=article&amp;id=17&amp;Itemid=17"><span>Research Europe</span></a></li><li class="item19 onderzoek-nederland"><a href="/index.php?option=com_content&amp;view=article&amp;id=19&amp;Itemid=19"><span>Onderzoek Nederland</span></a></li><li class="item3 news-showcase"><a href="/index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=3"><span>News Showcase</span></a></li></ul></li><li class="parent item4 funding"><a href="/index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=4"><span>Funding</span></a><ul><li class="item80 funding-insight"><a href="/index.php?option=com_content&amp;view=article&amp;id=151&amp;Itemid=80"><span>Funding Insight</span></a></li><li class="item25 benchmarks"><a href="/index.php?option=com_content&amp;view=article&amp;id=25&amp;Itemid=25"><span>Benchmarks</span></a></li></ul></li><li class="parent item85 he"><a href="/index.php?option=com_content&amp;view=article&amp;id=183&amp;Itemid=85"><span>HE</span></a></li><li class="parent item8 events"><a href="/index.php?option=com_content&amp;view=article&amp;id=26&amp;Itemid=8"><span>Events</span></a></li><li class="parent item9 jobs"><a href="/index.php?option=com_jobs&amp;view=jobs&amp;Itemid=9"><span>Jobs</span></a></li><li class="parent item2 about-us"><a href="/index.php?option=com_content&amp;view=article&amp;id=10&amp;Itemid=10"><span>About Us</span></a><ul><li class="item10 the-company"><a href="/index.php?option=com_content&amp;view=article&amp;id=10&amp;Itemid=10"><span>The Company</span></a></li><li class="item56 media-centre"><a href="/index.php?option=com_content&amp;view=article&amp;id=53&amp;Itemid=56"><span>Media Centre</span></a></li><li class="item11 work-with-us"><a href="/index.php?option=com_content&amp;view=article&amp;id=11&amp;Itemid=11"><span>Work with us</span></a></li><li class="item12 contributors"><a href="/index.php?option=com_content&amp;view=article&amp;id=12&amp;Itemid=12"><span>Contributors</span></a></li><li class="item13 advertise-with-us"><a href="/index.php?option=com_content&amp;view=article&amp;id=13&amp;Itemid=13"><span>Advertise with us</span></a></li><li class="item14 contact-us"><a href="/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=14"><span>Contact us</span></a></li></ul></li></ul>		</div>
+	
+		</div>
+		<div id="content" class="clr pngFix">
+			<div id="sideBar" class="pngFix">
+						<div class="moduletable">
+					<dl class="quickLinks">
+<dt>Quick Links</dt> 
+<dd class="fortnight"><a href="/index.php?option=com_content&amp;view=article&amp;id=16&amp;Itemid=16">Research Fortnight</a></dd> 
+<dd class="europe"><a href="/index.php?option=com_content&amp;view=article&amp;id=17&amp;Itemid=17">Research Europe</a></dd> 
+<!-- <dd class="ireland"><a href="/index.php?option=com_content&amp;view=article&amp;id=20&amp;Itemid=20">Research Ireland</a></dd> -->
+<dd class="nederland"><a href="/index.php?option=com_content&amp;view=article&amp;id=19&amp;Itemid=19" style="padding:0 0 7px;">Onderzoek Nederland</a></dd> 
+<!-- <dd class="usa"><a href="/index.php?option=com_content&amp;view=article&amp;id=21&amp;Itemid=21">Research USA</a></dd>
+<a href="/index.php?option=com_content&amp;view=article&amp;id=49&amp;Itemid=52"><img alt="Research Caribbean" src="/images/stories/companyimages/researchcaribbean.gif" style="width:57px; height:43px; border:0; padding:0 7px 7px 0; float:left;" /></a>
+<dd class="africa"><a href="/index.php?option=com_content&amp;view=article&amp;id=18&amp;Itemid=18"  style="padding:0 7px 7px 0;">Research Africa</a></dd> 
+<dd class="nordic"><a href="/index.php?option=com_content&amp;view=article&amp;id=22&amp;Itemid=22">Research Nordic</a></dd>
+<a href="/index.php?option=com_content&amp;view=article&amp;id=87&amp;Itemid=63"><img alt="Research ANZ" src="/images/stories/companyimages/ranz_rgb.jpg" style="width:57px; height:43px; border:0;float:left;" /></a>  -->
+<dd class="clr professional"><a class="pngFix" href="/index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=24">Research Professional</a>
+<p class="clr">Customise. Connect. Collaborate.</p>
+</dd> 
+<!-- <dd class="benchmarks"><a class="pngFix" href="/index.php?option=com_content&amp;view=article&amp;id=25&amp;Itemid=25">Research Benchmarks</a>
+<p class="clr">Compare and Compete.</p>
+</dd> --> </dl>		</div>
+			<div class="moduletable">
+					<div class="clr ad">
+	<script type='text/javascript'>
+		<!--//<![CDATA[
+		   var m3_u = '/libraries/openx/www/delivery/ajs.php';
+		   var m3_r = Math.floor(Math.random()*99999999999);
+		   if (!document.MAX_used) document.MAX_used = ',';
+		   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+		   document.write ("?zoneid=1");
+		   document.write ('&amp;cb=' + m3_r);
+		   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+		   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+		   document.write ("&amp;loc=" + escape(window.location));
+		   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+		   if (document.context) document.write ("&context=" + escape(document.context));
+		   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+		   document.write ("'><\/scr"+"ipt>");
+		//]]>-->
+	</script><noscript><a href='/libraries/openx/www/delivery/ck.php?n=a21846ac&amp;cb=32g4hj3gjhg12g4j2h3g4j2g44gj' target='_blank'><img src='/libraries/openx/www/delivery/avw.php?zoneid=1&amp;cb=32g4hj3gjhg12g4j2h3g4j2g44gj&amp;n=a21846ac' border='0' alt='' /></a></noscript>
+</div>
+
+<div class="ad">
+	<script type='text/javascript'>
+		<!--//<![CDATA[
+		   var m3_u = '/libraries/openx/www/delivery/ajs.php';
+		   var m3_r = Math.floor(Math.random()*99999999999);
+		   if (!document.MAX_used) document.MAX_used = ',';
+		   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+		   document.write ("?zoneid=2");
+		   document.write ('&amp;cb=' + m3_r);
+		   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+		   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+		   document.write ("&amp;loc=" + escape(window.location));
+		   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+		   if (document.context) document.write ("&context=" + escape(document.context));
+		   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+		   document.write ("'><\/scr"+"ipt>");
+		//]]>-->
+	</script><noscript><a href='/libraries/openx/www/delivery/ck.php?n=acfd0821&amp;cb=32g4hg234k23g34k2ggg' target='_blank'><img src='/libraries/openx/www/delivery/avw.php?zoneid=2&amp;cb=32g4hg234k23g34k2ggg&amp;n=acfd0821' border='0' alt='' /></a></noscript>
+</div>
+		</div>
+			<div class="moduletable">
+					<dl class="testimonials">
+    <dt>What our customers think</dt>
+    <dd>
+        <ul id="testimonials">
+                            <li style="display:none;">
+                    <p><span>"</span>We found the benchmarking service extremely useful... It saved us a great deal of work and prompted thinking around the critical areas. The accuracy of your predictions was much appreciated.<span>"</span></p>
+                    <p class="name">Dr Elizabeth Robertson, Dean, Graduate Research School, University of Teesside</p>
+                </li>
+                            <li style="display:none;">
+                    <p><span>"</span>I’ve found Research Professional to be really useful. Getting a regular email update of upcoming funding opportunities tailored to my subject area has saved me a lot of time and has even revealed extra sources of possible funding that I hadn’t considered before.<span>"</span></p>
+                    <p class="name">Dr Adam Baldwin, University of Warwick</p>
+                </li>
+                            <li style="display:none;">
+                    <p><span>"</span>If the research funding opportunity isn’t on Research Africa, it doesn’t exist.<span>"</span></p>
+                    <p class="name">Riana Coetsee, Manager: Research Capacity Development & International Funding, University of Stellenbosch, South Africa</p>
+                </li>
+                            <li style="display:none;">
+                    <p><span>"</span>I know Research Europe very well. It is the most important magazine on research policy out there. It's brilliant. We all read Research Europe religiously.<span>"</span></p>
+                    <p class="name">Lise Lotte Toft, Chief Adviser, Danish Agency for Science</p>
+                </li>
+                            <li style="display:none;">
+                    <p><span>"</span>I am finding Research Professional very useful. It keeps me up-to-date and well informed about potential funding opportunities from a large number of different sources. I doubt if I would have time to check for this sort of information from all sources on a regular basis.<span>"</span></p>
+                    <p class="name">Professor Colin Murrell, University of Warwick</p>
+                </li>
+                            <li style="display:none;">
+                    <p><span>"</span>The introduction of the new workgroup functionality [on Research Professional] has allowed us to set-up homepages of tailored saved searches and folders of selected funding opportunities for our academic divisions and some departments and research groups. It is early days yet, but it is hoped that this will save our researchers time, as they can now browse and subscribe to these pre-configured searches/email alerts instead of having to reinvent the wheel and set-up their own searches.<span>"</span></p>
+                    <p class="name">Zoë Power, University of Oxford</p>
+                </li>
+                    </ul>
+    </dd>
+</dl>		</div>
+	
+			</div>
+			<div id="mainContent">
+				<div id="sideColumn">
+							<div class="moduletable">
+					<dl class="pubIntro"> <dd> <img class="pngFix" src="/templates/rr/img/logos/usa120.png" border="0" alt="Research USA" title="Research USA" />
+<p><em>Research USA</em> is a leading independent source of online news and analysis of research funding and policy in the United States. We also provide a comprehensive listing of research funding opportunities from organisations in the US, which are open to applications from researchers in other countries.</p>
+</dd> </dl>
+<div class="clr"></div>		</div>
+	
+				</div>
+				<div id="middleColumn">
+							<div class="moduletable">
+					<dl>
+                    	<dt>Subscriptions to Research USA</dt>
+                        <dd>
+                            <p><em>Research USA</em> is currently only available as part of a subscription to <a href="/index.php?option=com_content&view=article&id=24&Itemid=24">Research Professional</a></p>
+                        </dd>
+                        <dd class="clr border">
+                        	<ol class="subsButtons">
+                            	<!-- <li><a href="#" class="individual pngFix">Individual Subscription</a></li> -->
+                                <li><a href="/index.php?option=com_content&view=article&id=24&Itemid=24" class="institution pngFix">Institution Subscription</a></li>
+                                <!-- <li><a href="#" class="freeTrail pngFix">Get a free trial</a></li> -->
+                                <!-- <li><a href="#" class="viewPDF pngFix">View a sample PDF</a></li> -->
+                            </ol>
+                        </dd>
+                    </dl>
+<div class="clr"></div>		</div>
+			<div class="moduletable">
+					<dl class="funding bottomLine">
+    <dt>Find Funding Opportunities</dt>
+    <dd>
+        <p>Our comprehensive database of funding opportunities currently contains over 7,000 open calls for funding.</p>
+<p>Use the search box below to find out how many opportunities we have in your area of research. (Please note, the result shows all matching calls - you may not be eligible to apply for all of them)</p>
+<br />    </dd>
+    <dd>
+        <form action="#" id="find-funding-opertunities">
+            <fieldset>
+                <legend>Search open funding opportunities</legend>
+                <ol>
+                    <li><input id="find-funding-opertunities-keywords" type="text"/></li>
+                    <li class="btn"><input type="image" src="/images/btns/btn-go.png"/></li>
+                </ol>
+            </fieldset>
+        </form>
+        <div id="find-funding-opertunities-ajax-content"></div>
+    </dd>
+</dl>		</div>
+			<div class="moduletable">
+					<script type="text/javascript">// <![CDATA[
+//[CDATA[
+   var m3_u = (location.protocol=='https:'?'/libraries/openx/www/delivery/ajs.php':'/libraries/openx/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=9");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]
+// --&gt;
+// ]]></script>
+<p><noscript><a href='/libraries/openx/www/delivery/ck.php?n=a02dd662&amp;cb=g638g56h8jgfk94gf8gh6f8hj54' target='_blank'><img src='/libraries/openx/www/delivery/avw.php?zoneid=9&amp;cb=g638g56h8jgfk94gf8gh6f8hj54&amp;n=a02dd662' border='0' alt='' /></a></noscript></p>		</div>
+			<div class="moduletable">
+					<dl><dt>About Research USA</dt><dd>
+<p><em>Research USA</em> is the only publication that connects research to funding and policymaking in the US. Researchers read us to get an inside track on the people and institutions who make US research policy and funding decisions. Policymakers read us to keep abreast of how knowledge and learning affects people, politics, the economy and the environment in America. Our team of reporters and analysts closely scrutinises the work of the White House, individual government departments, the House of Representatives and the Senate. We also track individual agencies such as the National Institutes of Health, the National Science Foundation and NASA, as well as policies affecting universities. </p></dd>
+<dd><p>To keep up to date with the latest developments in research policy across other territories, subscribe to our other newsletters:</p>
+                            <ol class="linkList">
+                            	<li><a href="/index.php?option=com_content&view=article&id=16&Itemid=16">Research Fortnight (UK)</a></li>
+                                <li><a href="/index.php?option=com_content&view=article&id=17&Itemid=17">Research Europe</a></li>
+                                <li><a href="/index.php?option=com_content&view=article&id=20&Itemid=20">Research Ireland</a></li>
+                                <li><a href="/index.php?option=com_content&view=article&id=19&Itemid=19">Onderzoek Nederland</a></li>
+                                <li><a href="/index.php?option=com_content&view=article&id=18&Itemid=18">Research Africa</a></li>
+                            </ol>
+</dd></dl>		</div>
+	
+				</div>
+			</div>
+			<div class="clear">&nbsp;</div>
+		</div>
+		<div id="footer">
+			<!-- <a href="http://uk.linkedin.com/pub/research-research-ltd/14/804/463" class="social pngFix">LinkedIn</a> -->
+					<div class="moduletable">
+					
+		</div>
+			<div class="moduletable">
+					<ul class="menuFooter"><li class="parent item34 contact-us"><a href="/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=14"><span>Contact Us</span></a></li><li class="parent item35 blog"><a href="http://www.researchresearch.com/blog" target="_blank"><span>Blog</span></a></li><li class="parent item36 terms-and-conditions"><a href="/index.php?option=com_content&amp;view=article&amp;id=31&amp;Itemid=36"><span>Terms and Conditions</span></a></li><li class="parent item37 privacy-policy"><a href="/index.php?option=com_content&amp;view=article&amp;id=32&amp;Itemid=37"><span>Privacy Policy</span></a></li><li class="parent item38 advertise-with-us"><a href="/index.php?option=com_content&amp;view=article&amp;id=13&amp;Itemid=13"><span>Advertise with us</span></a></li><li class="parent item44 sitemap"><a href="/index.php?option=com_xmap&amp;Itemid=44"><span>Sitemap</span></a></li></ul>		</div>
+	
+			<p>2014 &copy; Copyright ResearchResearch Ltd | All Rights Reserved</p>
+		</div>
+	</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-607858-9");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.hfsp.org/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" >
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Home | Human Frontier Science Program</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/hfsp/favicon.ico" type="image/x-icon" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/www.hfsp.org/files/css/css_dfec98456032f5e22ab54c04a51d3bf6.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/www.hfsp.org/files/css/css_f21bf701b7084e93f847b8b66d7d7008.css" />
+        <!--[if IE 7]><link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/hfsp/css/ie7.css" /><![endif]-->        <!--[if IE 6]><link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/hfsp/css/ie6.css" /><![endif]-->        <script type="text/javascript" src="/sites/www.hfsp.org/files/js/js_de247bff08bcec9823e2f11ae138e55d.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/www.hfsp.org/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": true, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": false, "disable_resize": false, "disable_zoom": false, "force_show_nav": false, "show_caption": true, "loop_items": false, "node_link_text": "View Image Details", "node_link_target": false, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "", "image_node_sizes": "(\\.thumbnail)", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "img.thumbnail, img.image-thumbnail", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": false } });
+//--><!]]>
+</script>
+    </head>
+    <body class="home">
+        <div id="container">
+            <div id="header">
+                <a href="/"><img class="site_logo" src="/sites/all/themes/hfsp/images/design/logo_hfsp.png" alt="Human frontier science program - Funding frontier research into complex biological systems" /></a>
+                <form action="/"  accept-charset="UTF-8" method="post" id="search-theme-form" class="site_search">
+<div><fieldset>
+    <label for="search_theme_form">Search</label>
+    <input type="text" value="Search" id="search_keywords" name="search_theme_form" maxlength="128" />
+    <input type="image" src="/sites/all/themes/hfsp/images/design/icon_search.png" class="submit" name="op" value="Go" />
+    <input type="hidden" name="form_build_id" id="form-d5f927aaa72dabed9b6a4995684821aa" value="form-d5f927aaa72dabed9b6a4995684821aa"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</fieldset>
+</div></form>
+                <a class="newsletter_subscribe" href="/newsletter/">Subscribe to our newsletter</a>
+		
+		<!-- AddThis Button BEGIN -->
+    		<div class="addthis_toolbox addthis_default_style ">
+    		    <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4d23347332762b7d" class="addthis_button_compact">Share</a>
+    		</div>
+    		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4d23347332762b7d"></script>
+    		<!-- AddThis Button END -->
+
+                <ul id="navigation">
+                    <li>
+  <a href="/funding" title="Funding">Funding</a>
+  <div class="mega_container funding">
+    <ul class="mega_dd">
+<li>
+    <a href="/funding" title="Funding"><img src="/sites/www.hfsp.org/files/Funding_MD.jpg" alt="" /></a>
+    <a href="/funding">Funding</a>
+    <span>Support for frontier scientific research</span>
+</li>
+<li>
+    <a href="/funding/eligible-countries" title="Eligible countries"><img src="/sites/www.hfsp.org/files/Related_organisations_MD_1.jpg" alt="" /></a>
+    <a href="/funding/eligible-countries">Eligible countries</a>
+    <span>Eligible countries for HFSP programs</span>
+</li>
+<li>
+    <a href="/funding/research-grants" title="Research Grants"><img src="/sites/www.hfsp.org/files/Research_Grants_MD.jpg" alt="" /></a>
+    <a href="/funding/research-grants">Research Grants</a>
+    <span>Research Grants for international teams of independent researchers</span>
+</li>
+<li>
+    <a href="/funding/career-development-awards" title="Career Development Awards"><img src="/sites/www.hfsp.org/files/CDA_MD.jpg" alt="" /></a>
+    <a href="/funding/career-development-awards">Career Development Awards</a>
+    <span>Support former HFSP Fellows in setting up their own laboratories</span>
+</li>
+<li>
+    <a href="/funding/postdoctoral-fellowships" title="Postdoctoral Fellowships"><img src="/sites/www.hfsp.org/files/Postdoctoral_Fellowships.jpg" alt="" /></a>
+    <a href="/funding/postdoctoral-fellowships">Postdoctoral Fellowships</a>
+    <span>Funding for Postdoc Work abroad</span>
+</li>
+<li>
+    <a href="/funding/fellowship-resources" title="Fellowship Resources"><img src="/sites/www.hfsp.org/files/Paths-to-take_0.jpg" alt="" /></a>
+    <a href="/funding/fellowship-resources">Fellowship Resources</a>
+    <span>Useful information for "wanna be" postdocs</span>
+</li>
+<li>
+    <a href="/funding/art-grantsmanship" title="Art of Grantsmanship"><img src="/sites/www.hfsp.org/files/ArtofGrantsmanship_MD_0.jpg" alt="" /></a>
+    <a href="/funding/art-grantsmanship">Art of Grantsmanship</a>
+    <span>Good practice in writing grant applications</span>
+</li>
+<li>
+    <a href="/funding/scientific-misconduct-policy" title="Scientific misconduct policy"><img src="/sites/www.hfsp.org/files/ScientificMisconduct_MD.jpg" alt="" /></a>
+    <a href="/funding/scientific-misconduct-policy">Scientific misconduct policy</a>
+    <span>HFSP policy on scientific misconduct</span>
+</li>
+<li>
+    <a href="/funding/technical-help" title="Technical help"><img src="/sites/www.hfsp.org/files/iMac_by_Artdesigner.lv_.png" alt="" /></a>
+    <a href="/funding/technical-help">Technical help</a>
+    <span>Technical help for applicants using the online submission forms</span>
+</li>
+    </ul>
+  </div
+</li>
+<li>
+  <a href="/awardees" title="Awardees">Awardees</a>
+  <div class="mega_container awardees">
+    <ul class="mega_dd">
+<li>
+    <a href="/awardees" title="Awardees"><img src="/sites/www.hfsp.org/files/Awardees_MD.jpg" alt="" /></a>
+    <a href="/awardees">Awardees</a>
+    <span>Awardees</span>
+</li>
+<li>
+    <a href="/awardees/newly-awarded" title="Newly awarded"><img src="/sites/www.hfsp.org/files/New_Awards_MD.jpg" alt="" /></a>
+    <a href="/awardees/newly-awarded">Newly awarded</a>
+    <span>List of awards made in March 2013</span>
+</li>
+<li>
+    <a href="/awardees/awards-archive" title="Awards archive"><img src="/sites/www.hfsp.org/files/AwardsArchive_MD_1.jpg" alt="" /></a>
+    <a href="/awardees/awards-archive">Awards archive</a>
+    <span>Awards Archive</span>
+</li>
+<li>
+    <a href="/awardees/hfsp-nakasone-award" title="HFSP Nakasone Award"><img src="/sites/www.hfsp.org/files/NakasoneAward_MD.jpg" alt="" /></a>
+    <a href="/awardees/hfsp-nakasone-award">HFSP Nakasone Award</a>
+    <span>The HFSP Nakasone Award for Frontier Research </span>
+</li>
+<li>
+    <a href="/awardees/2014-awardees-meeting" title="2014 Awardees Meeting"><img src="/sites/www.hfsp.org/files/Lugano.gif" alt="" /></a>
+    <a href="/awardees/2014-awardees-meeting">2014 Awardees Meeting</a>
+    <span>2014 Awardees Meeting</span>
+</li>
+<li>
+    <a href="/awardees/past-awardees-meetings" title="Past Awardees Meetings"><img src="/sites/www.hfsp.org/files/PreviousAwardeesMeetings_MD.jpg" alt="" /></a>
+    <a href="/awardees/past-awardees-meetings">Past Awardees Meetings</a>
+    <span>Previous Awardees Meetings</span>
+</li>
+<li>
+    <a href="/awardees/hfsp-goes-nobel" title="HFSP goes Nobel"><img src="/sites/www.hfsp.org/files/Logo-KreisEducateInspireCon_0.jpg" alt="" /></a>
+    <a href="/awardees/hfsp-goes-nobel">HFSP goes Nobel</a>
+    <span>HFSP Nobel Laureates and opportunities for HFSP Fellows</span>
+</li>
+    </ul>
+  </div
+</li>
+<li>
+  <a href="/about-us" title="About Us">About Us</a>
+  <div class="mega_container about_us">
+    <ul class="mega_dd">
+<li>
+    <a href="/about-us" title="About Us"><img src="/sites/www.hfsp.org/files/logo-100-blue.png" alt="" /></a>
+    <a href="/about-us">About Us</a>
+    <span>Everything you need to know about the HFSP as an organization</span>
+</li>
+<li>
+    <a href="/about-us/strategic-outlook" title="Strategic Outlook 2010-2016"><img src="/sites/www.hfsp.org/files/StrategicOutlook_MD_0.jpg" alt="" /></a>
+    <a href="/about-us/strategic-outlook">Strategic Outlook 2010-2016</a>
+    <span> Looking to the future</span>
+</li>
+<li>
+    <a href="/about-us/history" title="History"><img src="/sites/www.hfsp.org/files/History_MD_0.jpg" alt="" /></a>
+    <a href="/about-us/history">History</a>
+    <span>Historical highlights</span>
+</li>
+<li>
+    <a href="/about-us/annual-reports" title="Annual Reports"><img src="/sites/www.hfsp.org/files/Annual_Reports_MD.jpg" alt="" /></a>
+    <a href="/about-us/annual-reports">Annual Reports</a>
+    <span>Annual Reports of HFSPO activities</span>
+</li>
+<li>
+    <a href="/about-us/governance" title="Governance"><img src="/sites/www.hfsp.org/files/Governance_MD.jpg" alt="" /></a>
+    <a href="/about-us/governance">Governance</a>
+    <span>The HFSP Organization: Board, Council, Secretariat ...</span>
+</li>
+<li>
+    <a href="/about-us/new-membership" title="New membership"><img src="/sites/www.hfsp.org/files/New-members.jpg" alt="" /></a>
+    <a href="/about-us/new-membership">New membership</a>
+    <span>Information for countries interested in joining HFSPO</span>
+</li>
+<li>
+    <a href="/about-us/reviews-hfsp" title="Reviews of HFSP"><img src="/sites/www.hfsp.org/files/ReviewsofHFSP_MD.jpg" alt="" /></a>
+    <a href="/about-us/reviews-hfsp">Reviews of HFSP</a>
+    <span>External reviews of HFSPO and its activities</span>
+</li>
+<li>
+    <a href="/about-us/announcements" title="Announcements"><img src="/sites/www.hfsp.org/files/Announcements_MD_0.jpg" alt="" /></a>
+    <a href="/about-us/announcements">Announcements</a>
+    <span>Announcements of calls for applications, events ...</span>
+</li>
+<li>
+    <a href="/about-us/hfsp-articles" title="HFSP Articles"><img src="/sites/www.hfsp.org/files/HFSP_Articles_MD_0.jpg" alt="" /></a>
+    <a href="/about-us/hfsp-articles">HFSP Articles</a>
+    <span>Publications by and about HFSP</span>
+</li>
+<li>
+    <a href="/about-us/press-and-media-centre" title="Press and media centre"><img src="/sites/www.hfsp.org/files/PressandMedia_MD_0.jpg" alt="" /></a>
+    <a href="/about-us/press-and-media-centre">Press and media centre</a>
+    <span>Read news and press releases. Download HFSP logo for your presentations.</span>
+</li>
+<li>
+    <a href="/about-us/contact-hfsp" title="Contact HFSP"><img src="/sites/www.hfsp.org/files/Contact_US_MD_0.jpg" alt="" /></a>
+    <a href="/about-us/contact-hfsp">Contact HFSP</a>
+    <span>How to contact HFSP</span>
+</li>
+<li>
+    <a href="/about-us/related-organizations" title="Related organizations"><img src="/sites/www.hfsp.org/files/Related_organisations_MD_0.jpg" alt="" /></a>
+    <a href="/about-us/related-organizations">Related organizations</a>
+    <span>Links to HFSP members and other funding sources throughout the world</span>
+</li>
+    </ul>
+  </div
+</li>
+<li>
+  <a href="/frontier-science" title="Frontier Science">Frontier Science</a>
+  <div class="mega_container frontier_science">
+    <ul class="mega_dd">
+<li>
+    <a href="/frontier-science" title="Frontier Science"><img src="/sites/www.hfsp.org/files/FrontierScience_MD.jpg" alt="" /></a>
+    <a href="/frontier-science">Frontier Science</a>
+    <span>HFSP-funded research and related issues</span>
+</li>
+<li>
+    <a href="/frontier-science/hfsp-success-stories" title="HFSP success stories"><img src="/sites/www.hfsp.org/files/SuccessStories_MD_0.jpg" alt="" /></a>
+    <a href="/frontier-science/hfsp-success-stories">HFSP success stories</a>
+    <span>Articles on HFSP-funded research and researchers</span>
+</li>
+<li>
+    <a href="/frontier-science/international-science" title="International science"><img src="/sites/www.hfsp.org/files/Related_organisations_MD_2.jpg" alt="" /></a>
+    <a href="/frontier-science/international-science">International science</a>
+    <span>Articles on international science issues</span>
+</li>
+<li>
+    <a href="/frontier-science/frontier-science-matters" title="Frontier science matters"><img src="/sites/www.hfsp.org/files/FrontierScienceMatters_MD.jpg" alt="" /></a>
+    <a href="/frontier-science/frontier-science-matters">Frontier science matters</a>
+    <span>Articles about frontier research, researchers and institutions</span>
+</li>
+<li>
+    <a href="/frontier-science/awardees-articles" title="Awardees Articles"><img src="/sites/www.hfsp.org/files/AwardeesArticles_MD.gif" alt="" /></a>
+    <a href="/frontier-science/awardees-articles">Awardees Articles</a>
+    <span>Recent publications by HFSP awardees</span>
+</li>
+<li>
+    <a href="/frontier-science/frontier-science-archive" title="Frontier Science Archive"><img src="/sites/www.hfsp.org/files/AwardsArchive_MD.jpg" alt="" /></a>
+    <a href="/frontier-science/frontier-science-archive">Frontier Science Archive</a>
+    <span>Archive of articles</span>
+</li>
+    </ul>
+  </div
+</li>
+<li>
+  <a href="/alumni" title="Alumni">Alumni</a>
+  <div class="mega_container alumni">
+    <ul class="mega_dd">
+<li>
+    <a href="/alumni" title="Alumni"><img src="/sites/www.hfsp.org/files/Alumni_MD.jpg" alt="" /></a>
+    <a href="/alumni">Alumni</a>
+    <span>The community portal for the HFSP alumni</span>
+</li>
+<li>
+    <a href="/alumni/my-profile" title="My Profile"><img src="/sites/www.hfsp.org/files/MyProfile_MD_0.jpg" alt="" /></a>
+    <a href="/alumni/my-profile">My Profile</a>
+    <span>My Profile</span>
+</li>
+<li>
+    <a href="/alumni/search-alumni" title="Search for Alumni"><img src="/sites/www.hfsp.org/files/AlumniSearch_MD_0.jpg" alt="" /></a>
+    <a href="/alumni/search-alumni">Search for Alumni</a>
+    <span>Search for Alumni</span>
+</li>
+<li>
+    <a href="/alumni/browse-alumni" title="Browse for Alumni"><img src="/sites/www.hfsp.org/files/BrowseForAlumni_MD_0.jpg" alt="" /></a>
+    <a href="/alumni/browse-alumni">Browse for Alumni</a>
+    <span>Browse for Alumni</span>
+</li>
+<li>
+    <a href="/alumni/discussion-forum" title="Discussion forum"><img src="/sites/www.hfsp.org/files/DiscussionForum_MD.jpg" alt="" /></a>
+    <a href="/alumni/discussion-forum">Discussion forum</a>
+    <span>Discuss science, regional interests, post job offers ...</span>
+</li>
+<li>
+    <a href="/alumni/alumni-meetings" title="Alumni meetings"><img src="/sites/www.hfsp.org/files/AlumniMeeting_MD.jpg" alt="" /></a>
+    <a href="/alumni/alumni-meetings">Alumni meetings</a>
+    <span>Alumni meetings</span>
+</li>
+    </ul>
+  </div
+</li>
+                </ul>
+            </div><!-- /header -->
+            <ul id="breadcrumb"><li>You are here:</li><li class="first"><a href="/">Home</a></li><li>Home</li></ul>                        <div id="content">
+                <div class="two_col">
+                    <div class="article scientific_activities">
+                        <img class="hero_image" src="sites/www.hfsp.org/files/grey_microscope_pattern.jpg" alt="Axon elongation and centrosomes" />
+                        <h2><a href="#">Scientific activities</a></h2>
+                        <ul class="tabs"><li class="hfsp-mission"><a href="#">HFSP Mission</a></li><li class="research-grants"><a href="#">Research Grants</a></li><li class="postdoctoral-fellowships"><a href="#">Postdoctoral Fellowships</a></li><li class="career-development"><a href="#">Career Development</a></li></ul><div class="tab_content"><div class="section hfsp-mission"><p class="intro">The Human Frontier Science Program (HFSP) is an international program of research support, funding frontier research on the complex mechanisms of living organisms. Research is funded at all levels of biological complexity from biomolecules to the interactions between organisms. </p><a href="/funding"></a><p>Key elements of HFSP&rsquo;s mission are:</p>
+<ul>
+	<li>
+		Support for innovative, cutting edge research at the frontiers of the life sciences</li>
+	<li>
+		Encouragement of high risk research</li>
+	<li>
+		Promotion of international collaboration in the spirit of science without borders</li>
+	<li>
+		Support for financial and intellectual independence for early career researchers</li>
+</ul>
+<p>Selection of awards is made by high level, expert international review committees. <strong>Research Grants</strong> enable scientists from different countries to collaborate on focused innovative projects that are expected to open new fields of investigation. Interdisciplinary collaborations are especially encouraged. <strong>Postdoctoral fellowships</strong> enable the most talented early career scientists, trained in the life sciences or in the physical sciences, to extend their scientific repertoire in laboratories abroad. Former HFSP Fellows who return to their home country or move to a third HFSP member country can apply for a <strong>Career Development Award</strong> to support their transition to independence.</p>
+<p>HFSP awardees are brought together in an annual meeting to help build a global network of like-minded scientists working on a broad range of subjects within the life sciences and to stimulate new collaborations.</p>
+<p><em>HFSP funding programs are strictly project-related and begin at the postdoctoral level. We have no support for PhD students nor for travel grants to scientific meetings. Nor do we provide sponsorship or funds to organisers of scientific meetings.</em></p>
+<a class="read_more" href="/funding">More on HFSP funding programs</a></div><div class="section research-grants"><p class="intro"><p>HFSP supports international scientific collaborations. Research Grants are awarded for innovative research projects involving extensive collaboration among teams of independent scientists working in different countries and in different disciplines.</p></p><a href="/funding/research-grants/information-and-guidelines"></a><p>Two types of grants are available: <strong>Young Investigator Grants</strong> for teams where all members are within 5 years of starting their first independent position (and within 10 years of receiving a PhD) and <strong>Program Grants</strong> for teams of scientists at any stage of their careers.</p>
+<p>Applicants must first submit a letter of intent via the HFSP extranet. More details are available in the guidelines.</p>
+<p><strong>The 2015 competition (applications in March 2014) is now open. </strong></p>
+<p><strong>Compulsory registration (to obtain an application reference number) via the website: March 20th, 2014 </strong></p>
+<p><strong>Submission of Letters of Intent: March 27th, 2014.</strong></p>
+<p>The application site is now open. Follow the link below for information and guidelines.</p>
+<a class="read_more" href="/funding/research-grants/information-and-guidelines">Further information on Grant Programs</a></div><div class="section postdoctoral-fellowships"><p class="intro"><p>HFSP fellowships support top postdoctoral researchers that propose innovative, ground-breaking projects that have the potential to advance the knowledge in their field of study and open a new approach to the research problem.</p>
+</p><a href="/funding/postdoctoral-fellowships"></a><p>Two international programs for basic research training are available:<br />
+	<br />
+	<strong>Long-Term Fellowships (LTF)</strong> are reserved for applicants with a Ph.D. in a biological discipline to embark on a new project in a different field of the life sciences. Preference is given to applicants who propose an original study in biology that marks a departure from their previous Ph.D. or postdoctoral work so as to learn new methods or change study system.<br />
+	<br />
+	<strong>Cross-Disciplinary Fellowships (CDF)</strong> are open to applicants with a Ph.D. from outside the life sciences e.g. in physics, chemistry, mathematics, engineering or computer sciences who have had limited exposure to biology during their previous training. Applicants for the CDF should propose a significant departure from their past research by changing e.g. from material science or physics to cell biology, from chemistry to molecular biology, or from computer science to neuroscience.</p>
+<p><span><strong><span><span><span><span>The registration for the 2014 fellowships is closed.</span></span></span></span><br />
+	<br />
+	<span><span><span><span><span><span>The next deadline will be in </span></span></span></span></span></span></strong><span><span><span><span><span><strong><span>August or September 2014</span></strong></span></span></span></span></span><span><span><span><strong><span>.</span></strong></span></span></span></span></p>
+<a class="read_more" href="/funding/postdoctoral-fellowships">More on HFSP Fellowships</a></div><div class="section career-development"><p class="intro"><p>The Career Development Award (CDA) is open only to former HFSP Fellows and offers three years of support for starting their first independent laboratory.</p>
+</p><a href="/funding/career-development-awards"></a><p>The goal of CDA is to support former HFSP fellows to return to their home country or move to an HFSP member country to initiate an original research program in their own laboratories as independent researchers. Candidates are furthermore encouraged to select research institutions that are different from their PhD institutes to facilitate their scientific independence.</p>
+<p>Applicants for the CDA are expected to propose an original and innovative frontier research program that holds promise for the development of new approaches to problems in the life sciences with potential to advance the field of research significantly.</p>
+<p>The three-year award aims to provide initial support during a critical period of career development. Host institutions are expected to contribute additional resources in support of the awardees and their independent research program.</p>
+<p>Eligible HFSP fellows will receive information in good time to apply for the Award.</p>
+<a class="read_more" href="/funding/career-development-awards">More on the HFSP Career Development Award</a></div></div>                    </div>
+                </div>
+
+                <div class="one_col">
+                    <div class="article announcements">
+    <h2 class="view-header">
+      <a href="/about-us/announcements" title="Announcements">Announcements</a>
+      <a href="/about-us/announcements/rss.xml" class="rss">RSS</a>
+    </h2>
+    <div class="cycle">
+        <div class="section views-row views-row-1 views-row-odd views-row-first">
+        <p><p><a href="/about-us/announcements" class="plain_link">The end of ambiguity concerning author names is near! In the past there was always the challenge to distinguish between authors...</a></p></p>
+  </div>
+  <div class="section views-row views-row-2 views-row-even views-row-last">
+        <p><p><a href="/about-us/announcements" class="plain_link">HFSP Fellowship Director Carmen Gervais is offering a full day proposal writing workshop as part of SEB&rsquo;s &ldquo;Bioscience...</a></p></p>
+  </div>
+    </div>
+    <a href="/about-us/announcements" class="read_more">All announcements</a>
+</div><div class="article news">
+    <h2 class="view-header">
+      <a href="/about-us/press-and-media-centre/news-items/" title="News">News</a>
+      <a href="/about-us/press-and-media-centre/news-items/rss.xml" class="rss">RSS</a>
+    </h2>
+      <div class="section views-row views-row-1 views-row-odd views-row-first">
+        <p class="date">13th February</p>    <h3><a href="/about-us/press-and-media-centre/news-items/first-hfsp-fellow-receive-louis-jeantet-prize">The first HFSP fellow to receive the Louis-Jeantet Prize</a></h3>    <p>HFSP cordially congratulates Elena Conti, Director of the Department of Structural Cell Biology at the Max-Planck Institute of...</p>  </div>
+  <div class="section views-row views-row-2 views-row-even">
+        <p class="date">10th February</p>    <h3><a href="/about-us/press-and-media-centre/news-items/hfsp-grantees-win-nsfaaas-photography-competition">HFSP grantees win NSF/AAAS photography competition</a></h3>    <p>HFSP grant awardees Roman Stocker (MIT, Cambridge, USA) and Assaf Vardi (Weizmann Institute of Science, Rehovot, Israel),...</p>  </div>
+  <div class="section views-row views-row-3 views-row-odd views-row-last">
+        <p class="date">10th January</p>    <h3><a href="/about-us/press-and-media-centre/news-items/registration-opens-2015-hfsp-grant-applications">Registration opens for the 2015 HFSP grant applications</a></h3>    <p>The next call for HFSP Research Grants is open. Compulsory registration for interested&nbsp; teams to obtain a registration...</p>  </div>
+
+    <a href="/about-us/press-and-media-centre/news-items/" class="read_more">More news items</a>
+</div>                </div>
+
+                <div class="two_col last">
+                    <div class="article awardees_articles">
+                        <h2 class="view-header">
+  <a href="/frontier-science/awardees-articles/" title="Awardees Articles">Awardees' Articles</a>
+  <a href="/frontier-science/awardees-articles/rss.xml" class="rss">RSS</a>
+</h2>
+<div class="one_col">
+<div class="section views-row views-row-1 views-row-odd views-row-first"><h3><a href="/frontier-science/awardees-articles/engaging-microtubules-successful-cell-division">Engaging microtubules in successful cell division</a></h3>
+<p>MAP65 family proteins function as microtubule cross-linking proteins, and localise to the phragmoplast equator in the moss...</p>
+</div>
+<div class="section views-row views-row-2 views-row-even"><h3><a href="/frontier-science/awardees-articles/speed-dating-method-%E2%80%98engineer%E2%80%99-interdisciplinarity">Speed dating - a method to ‘engineer’ interdisciplinarity</a></h3>
+<p>Everybody is talking about interdisciplinarity these days but how do we provoke it? In the current issue of the journal eLife,...</p>
+</div>
+<div class="section views-row views-row-3 views-row-odd"><h3><a href="/frontier-science/awardees-articles/bacteria-super-resolution">Bacteria at super-resolution</a></h3>
+<p>A new method that couples microfluidics and super-resolution microscopy to image live bacteria at unsurpassed spatial and...</p>
+</div>
+<div class="section views-row views-row-4 views-row-even"><h3><a href="/frontier-science/awardees-articles/rebuilding-initial-steps-bacterial-cell-division">Rebuilding the initial steps of bacterial cell division</a></h3>
+<p>For a long time it was assumed that a cytoskeleton would be exclusive to eukaryotes. However, proteins related to actin and...</p>
+</div>
+<div class="section views-row views-row-5 views-row-odd"><a href="/frontier-science/awardees-articles/bacterial-pathogen-hunt-stressed-corals" class="imagefield imagefield-nodelink imagefield-field_homepage_image"><img  class="imagefield imagefield-field_homepage_image" width="180" height="145" alt="" src="http://www.hfsp.org/sites/www.hfsp.org/files/Stocker2014a.jpg?1391764735" /></a>
+<h3><a href="/frontier-science/awardees-articles/bacterial-pathogen-hunt-stressed-corals">Bacterial pathogen on the hunt for stressed corals</a></h3>
+<p>Coral reefs are threatened by disease. Using microfluidics and video microscopy to spy on the behavior of a coral pathogen, we...</p>
+</div>
+</div><div class="one_col last"><div class="section views-row views-row-6 views-row-even views-row-last"><h3><a href="/frontier-science/awardees-articles/cracking-lipidome">Cracking the lipidome</a></h3>
+<p>Organisms use different types of biological building blocks to perform and regulate all of their functions. These building blocks...</p>
+</div>
+<a href="/frontier-science/awardees-articles/" class="read_more">More articles</a>
+<div class="article frontier_science">
+  <h2><a href="/frontier-science/">Frontier Science</a></h2>
+  <a href="/frontier-science/" title="Frontier Science">
+    <img src="/sites/www.hfsp.org/files/chalkboard-3.jpg" alt="Frontier Science" width="191" />
+  </a>
+  <p><p>Articles about HFSP-funded research and matters related to international frontier science</p>
+</p>
+<div class="view view-FrontierScienceHome view-id-FrontierScienceHome view-display-id-default view-dom-id-5">
+    
+  
+  
+      <div class="view-content">
+        <div class="section views-row views-row-1 views-row-odd views-row-first">
+        <h3><a href="/frontier-science/hfsp-success-stories/happenchance-and-hedgehogs">Happenchance and hedgehogs</a></h3>    <p>Earlier this year, the European Medicines Agency approved the use of a new anti-cancer drug, Erivedge, developed by Genentech in...</p>  </div>
+  <div class="section views-row views-row-2 views-row-even">
+        <h3><a href="/frontier-science/frontier-science-matters/crowdsourcing-design-swarming-nanoparticles-cancer-applica">Crowdsourcing the design of swarming nanoparticles for cancer applications</a></h3>    <p>The treatment of cancer is undergoing what could be called a revolution. The field has attracted the attention of bioengineers...</p>  </div>
+  <div class="section views-row views-row-3 views-row-odd views-row-last">
+        <h3><a href="/frontier-science/frontier-science-matters/insect-jumping-ancient-question">Insect jumping, an ancient question</a></h3>    <p>The acrobatic leaps of insects have fascinated both storytellers and scientists for the scope of human history.&nbsp;...</p>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   <a href="/frontier-science/" title="More Frontier Science" class="read_more">More Frontier Science</a>
+</div>                    </div>
+                </div>
+            </div>
+        </div><!-- /content -->
+            <div id="footer">
+                <div class="primary">
+                    <p class="copyright">&copy; 2010 Human Frontier Science Program</p>
+                    <ul class="footer_links">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/copyright/">Copyright</a></li>
+                        <li><a href="/about-us/contact-hfsp/">Contact us</a></li>
+                        <li><a href="/sitemap/">Site map</a></li>
+                    </ul>
+                    <a class="rr_link" href="http://www.readingroom.com/">Design and technology by Reading Room</a>
+                </div>
+                <div class="secondary">
+                    <ul class="social_media">
+                        <li><a class="external" href="http://www.facebook.com/pages/Human-Frontier-Science-Program-HFSP/166939256131"><img src="/sites/all/themes/hfsp/images/design/icon_facebook.png" alt="Facebook" /></a></li>
+                        <li><a class="external" href="http://www.twitter.com/hfsp"><img src="/sites/all/themes/hfsp/images/design/icon_twitter.png" alt="Twitter" /></a></li>
+                        <li><a class="external" href="http://www.linkedin.com/groups?mostPopular=&amp;gid=3235811"><img src="/sites/all/themes/hfsp/images/design/icon_linkedin.png" alt="LinkedIn" /></a></li>
+                    </ul>
+                    <a class="japan_link external" href="http://jhfsp.jsf.or.jp/">Japanese sister site</a>
+                </div>
+            </div><!-- /footer -->
+        </div><!-- /container -->
+        <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-20944536-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+    </body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.bbsrc.ac.uk/funding/>====================
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="Content-Script-Type" content="text/javascript" />
+<!-- Style sheets start -->
+<link href="/upload/print.css" rel="stylesheet" type="text/css" media="print" /><link href="/web/StyleSheets/bbsrc.css" rel="stylesheet" media="all" />  
+
+<!--[if lt IE 7]>
+<link href="/upload/ie.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="/upload/ie7.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
+
+<!-- Style sheets end -->
+
+<!-- Javascript start -->
+<script src="/upload/home_files/scripts.js" type="text/javascript"></script>
+<script type="text/javascript" src="/upload/AC_RunActiveContent.js"></script>
+<!-- Javascript end -->
+
+<!-- Stylesheet and JavaScripts for Accessible Controls for the YouTube Embedded Video Player -->
+    <link rel="stylesheet" type="text/css" href="/upload/ytp.css" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
+    <script type="text/javascript" src="/uploadedfiles/ytp.js"></script>
+<!--YTP code end-->
+
+
+<!-- RSS auto discovery start -->
+<link rel="alternate" type="application/rss+xml" title="BBSRC news RSS" href="http://feeds.feedburner.com/bbsrc" /><link rel="alternate" type="application/rss+xml" title="BBSRC funding opportunities RSS" href="http://feeds.feedburner.com/bbsrcfunding" />
+<!-- RSS auto discovery end -->
+
+<!-- Meta data start -->
+<meta name="keywords" content="" /><meta name="description" content="Funding research: the process of obtaining funding, types of funding, including studentships funding and fellowships funding; current opportunities (initiatives) and how to apply for funding; information for applicants, award holders and referees" />    
+<!-- Meta data end -->
+<!-- DC/eGIF Meta data start -->
+<meta name="DC.title" content="Research funding" /><meta name="DC.creator" content="BBSRC author" /><meta name="DC.publisher" content="Biotechnology and Biological Sciences Research Council, Polaris House, North Star Avenue, Swindon, SN2 1UH, UK, email: webmaster@bbsrc.ac.uk" /><meta name="eGMS.accessibility" scheme="WCAG" content="Double-A" /> 
+<meta name="DC.date.created" scheme="W3CDTF" content="2009/08/17"/>
+<meta name="DC.date.modified" content="2012/03/26"/>
+<meta name="DC.rights" content="Unless otherwise stated, the contents of these pages are copyright BBSRC" /><meta content="Public bodies, Biology and applied life sciences, Biotechnology" scheme="GCL" name="eGMS.subject.category" />
+<!-- DC/eGIF Meta data end -->
+
+<title>
+	Research funding - BBSRC
+</title>
+
+    <!-- new template includes -->
+    <link href="/upload/structure/css/nonresponsive-headerfooter.css" rel="stylesheet" media="all" /><link href="/upload/structure/css/print.css" rel="stylesheet" media="print" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js" type="text/javascript"></script>
+    <script src="/upload/structure/js/jquery.jshowoff.js"></script>
+    <script src="/upload/structure/js/main.js"></script>
+	<!--[if IE]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+    <!--[if (IE 7)|(IE 8)]>
+    <link href="/upload/structure/css/nonresponsive-headerfooter-ie8.css" rel="stylesheet" />
+    <![endif]-->
+    <!--[if (IE 7)]>
+    <link href="/upload/structure/css/nonresponsive-headerfooter-ie7.css" rel="stylesheet" />
+    <![endif]-->
+    <!-- end new template includes -->
+	
+<meta name="GENERATOR" content="Generated by Activedition 4.2.2" /></head>
+<body class="tLanding sFunding">
+<!-- Container start -->
+
+  	<!-- header -->
+    <header id="header">
+    	<div class="wrap">
+    		<div id="logo">
+    			<a href="http://www.bbsrc.ac.uk/home/home.aspx">
+    			<img src="/web/multimediafiles/anniversary-logo.png" alt="BBSRC - 20 Years of Pioneering Great British Bioscience" />
+    			</a>
+    		</div>
+                
+            	<a id="skipToContent" href="#content" accesskey="s" tabindex="1">Skip to content</a>
+<p class="keynote">Investing in world-class bioscience research and training on behalf of the UK public</p>
+            
+    
+            <nav id="siteTools">
+            	<ul>
+    <li>
+        <a href="http://www.bbsrc.ac.uk/site/accessibility.aspx" accesskey="0"  
+>Accessibility</a></li>
+    <li><a accesskey="7" href="http://www.bbsrc.ac.uk/site/contact/contact-index.aspx">Contact us</a></li>
+    <li>
+        <a href="http://www.bbsrc.ac.uk/ces5/default.aspx?__EVENTTARGET=c%24ctl01%24ctl00%24i%24aln" title="(opens in a new window)" target="_blank"  
+>Advanced search<img src="/upload/structure/img/i-external.png" alt="" class="BBSRCExternalLink" /></a></li>    
+</ul>
+<form method="get" action="/ces5/default.aspx">
+       <label style="position: absolute; left: -9999em" for="q">Search website</label>
+       <input type="text" name="q" id="q" value="search" onfocus="this.value=''" accesskey="4"/>
+       <input type="submit" value="Search" />
+</form>
+
+
+
+            </nav>
+        
+            <a href="#primaryNav" id="togglePrimaryNav" class="open">Site navigation <i>&darr;</i></a>
+            
+            <nav id="primaryNav" role="navigation">
+                <ul>
+                    <li class="sHome" id="primaryNavHome"><a href="http://www.bbsrc.ac.uk/home/home.aspx" accesskey="1" ><img src="/upload/structure/img/i-home.png" /> Home</a></li>
+                    <li class="sNews"><a href="http://www.bbsrc.ac.uk/news/news-index.aspx" accesskey="2" >News and events</a></li>
+                    <li class="sFunding"><a href="http://www.bbsrc.ac.uk/funding/funding-index.aspx">Research funding</a></li>
+                    <li class="sBusiness"><a href="http://www.bbsrc.ac.uk/business/business-index.aspx">Working with business</a></li>
+                    <li class="sSociety"><a href="http://www.bbsrc.ac.uk/society/science-in-society-index.aspx">Science in society</a></li>
+                    <li class="sOrganisation"><a href="http://www.bbsrc.ac.uk/organisation/organisation-index.aspx">Our organisation</a></li>
+                    <li class="sResearch"><a href="http://www.bbsrc.ac.uk/research/research-index.aspx">Our research</a></li>
+                    <li class="sPublications"><a href="http://www.bbsrc.ac.uk/publications/publications-index.aspx">Publications</a></li>
+                </ul>
+            </nav>
+    	</div>
+    </header>
+    <!-- header end -->
+	
+<div id="container">
+
+<!--COLUMN RIGHT - related *****************************************************************************************************************-->
+
+        <div id="rightColumn">
+           
+                <p class="heading"><strong>Related links</strong></p>
+                <div id="relatedLinks">
+                    <ul>
+<li>
+        <a href="http://www.bbsrc.ac.uk/research/science-remit.aspx"  
+>Our portfolio</a> </li>
+<li>
+        <a href="http://www.bbsrc.ac.uk/funding/apply/deadlines.aspx"  
+>Application deadlines</a> </li>
+<li>
+        <a href="http://www.bbsrc.ac.uk/funding/apply/grants-guide.aspx"  
+>Grants guide</a> </li>
+<li>
+        <a href="http://www.bbsrc.ac.uk/site/contact/pre-and-post-awards-contacts.aspx"  
+>Pre- and post-award contacts</a></li>
+<li>
+        <a href="http://www.bbsrc.ac.uk/organisation/spending/spending-index.aspx"  
+>Spending overview</a> </li>
+<li>
+        <a href="http://www.bbsrc.ac.uk/research/grants/search-grants-index.aspx"  
+>Search awarded grants</a> </li>
+<li>
+        <a href="http://www.bbsrc.ac.uk/site/contact/science-contacts.aspx"  
+>Science contacts</a></li></ul> <!--name="Related-Links"-->
+                </div>
+            
+                <p class="heading"><strong>External links</strong></p>
+                <div id="externalLinks">
+                    <p>BBSRC is not responsible for the content of external websites</p>
+
+
+                    <ul>
+<li>
+        <a href="https://logon.rcuk.ac.uk" title="(opens in a new window)" target="_blank"  
+>Research Outcomes System<img src="/upload/structure/img/i-external.png" alt="" class="BBSRCExternalLink" /></a></li></ul> <!--name="External-Links"-->
+                </div>
+            
+        </div>
+       
+       
+       
+      <!--/columnRight -->
+
+	<div id="contentContainer">
+            
+<!--breadcrumbs *****************************************************************************************************************-->
+
+		<div id="pageInfo">
+			<!-- Breadcrumbs start -->
+
+			<p class="hide"><strong>You are in</strong></p>
+			
+			<ul class="breadCrumbs">
+<li class="first"><a href="http://www.bbsrc.ac.uk/home/home.aspx">Home</a></li>
+<li>Research funding</li></ul>
+
+
+		</div>
+
+        
+<!--LEFT COLUMN - news/nav *****************************************************************************************************************-->
+
+     <div id="columnLeft">
+        <p class="heading"><a href="http://www.bbsrc.ac.uk/home/home.aspx">Home:</a></p>
+        <div id="subNav">
+            <!--SubMenu Bar START-->
+<ul id='ae_menu'>
+		<li><a  href='http://www.bbsrc.ac.uk/news/news-index.aspx'>News and events</a></li>
+
+	<li class='ae_menuopen'><a href='http://www.bbsrc.ac.uk/funding/funding-index.aspx' class="open">Research funding</a>
+
+		<ul>
+		<li><a  href='http://www.bbsrc.ac.uk/funding/priorities/priorities-index.aspx'>Strategic priorities</a></li>
+
+		<li><a  href='http://www.bbsrc.ac.uk/funding/apply/apply-index.aspx'>Apply for funding</a></li>
+
+		<li><a  href='http://www.bbsrc.ac.uk/funding/studentships/studentships-index.aspx'>Studentships</a></li>
+
+		<li><a  href='http://www.bbsrc.ac.uk/funding/fellowships/fellowships-index.aspx'>Fellowships</a></li>
+
+		<li><a  href='http://www.bbsrc.ac.uk/funding/grants/grants-index.aspx'>Research grants</a></li>
+
+		<li><a  href='http://www.bbsrc.ac.uk/funding/opportunities/opportunities-index.aspx'>Special opportunities</a></li>
+
+		<li><a  href='http://www.bbsrc.ac.uk/funding/internationalfunding/international-funding-index.aspx'>International funding</a></li>
+
+		<li><a  href='http://www.bbsrc.ac.uk/funding/awardholders/awardholders-index.aspx'>Information for award holders and research staff</a></li>
+
+		<li><a  href='http://www.bbsrc.ac.uk/funding/referees.aspx'>Information for reviewers</a></li>
+
+		<li><a  href='http://www.bbsrc.ac.uk/funding/facilities/facilities-index.aspx'>Facilities and resources</a></li>
+
+</ul></li>
+	<li><a  href='http://www.bbsrc.ac.uk/business/business-index.aspx'>Working with business</a></li>
+
+	<li><a  href='http://www.bbsrc.ac.uk/society/science-in-society-index.aspx'>Science in society</a></li>
+
+	<li><a  href='http://www.bbsrc.ac.uk/organisation/organisation-index.aspx'>Our organisation</a></li>
+
+	<li><a  href='http://www.bbsrc.ac.uk/research/research-index.aspx'>Our research</a></li>
+
+	<li><a  href='http://www.bbsrc.ac.uk/publications/publications-index.aspx'>Publications</a></li>
+
+</ul>
+<!--SubMenu Bar END-->
+        </div>
+     </div>
+		<!-- Modules end -->
+
+        
+<!--MIDDLE COLUMN - content *****************************************************************************************************************-->
+
+    <div id="content">
+        <h1>Research funding</h1>
+         <!--name="Main-Content"-->
+        <!-- Landing Page Nav System -->
+        
+        <!-- /Landing Page Nav System -->
+        <ul>
+
+<li class="listBlock small bBlue">
+<h2><a href="http://www.bbsrc.ac.uk/funding/priorities/priorities-index.aspx">Strategic priorities</a></h2>
+<p>Strategic priorities for science, highlighted areas</p>
+</li>
+
+<li class="listBlock small bBlue">
+<h2><a href="http://www.bbsrc.ac.uk/funding/apply/apply-index.aspx">Apply for funding</a></h2>
+<p>Grants guide, eligibility, application information, application and review processes, online application, funding equality and diversity</p>
+</li>
+
+<li class="listBlock small bBlue">
+<h2><a href="http://www.bbsrc.ac.uk/funding/studentships/studentships-index.aspx">Studentships</a></h2>
+<p>Postgraduate studentships, research experience placements</p>
+</li>
+
+<li class="listBlock small bBlue">
+<h2><a href="http://www.bbsrc.ac.uk/funding/fellowships/fellowships-index.aspx">Fellowships</a></h2>
+<p>Postdoctoral awards at different career stages</p>
+</li>
+
+<li class="listBlock small bBlue">
+<h2><a href="http://www.bbsrc.ac.uk/funding/grants/grants-index.aspx">Research grants</a></h2>
+<p>Subject areas in which applications may be made at any time - responsive mode, including strategic longer and larger grants (sLoLaS), and New investigator scheme</p>
+</li>
+
+<li class="listBlock small bBlue">
+<h2><a href="http://www.bbsrc.ac.uk/funding/opportunities/opportunities-index.aspx">Special opportunities</a></h2>
+<p>Calls for applications through specific initiatives, including tools and resources, and joint research council programmes</p>
+</li>
+
+<li class="listBlock small bBlue">
+<h2><a href="http://www.bbsrc.ac.uk/funding/internationalfunding/international-funding-index.aspx">International funding</a></h2>
+<p>Schemes to enable international collaboration</p>
+</li>
+
+<li class="listBlock small bBlue">
+<h2><a href="http://www.bbsrc.ac.uk/funding/awardholders/awardholders-index.aspx">Information for award holders and research staff</a></h2>
+<p>Requirements and opportunities for grant holders, fellows, students and research staff</p>
+</li>
+
+<li class="listBlock small bBlue">
+<h2><a href="http://www.bbsrc.ac.uk/funding/referees.aspx">Information for referees</a></h2>
+<p>Guidance and report forms</p>
+</li>
+
+<li class="listBlock small bBlue">
+<h2><a href="http://www.bbsrc.ac.uk/funding/facilities/facilities-index.aspx">Facilities and resources</a></h2>
+<p>Including synchrotron radiation, central laser and computing facilities</p>
+</li>
+
+</ul>
+
+
+<p>&nbsp;</p> <!--name="Second-Content" -->
+          <!--name="Contacts"-->
+      
+
+    </div><!--/ #content -->
+	
+	<div class="clear"></div>
+
+	</div><!-- /container-->
+	
+</div><!-- /contentContainer-->
+ 
+<!-- footer -->
+    <footer id="footer">
+            <div class="wrap">
+                        <section class="additionalInfo">
+                <h2>Additional information</h2>
+                <ul>
+                    <li class="long">
+        <a href="http://www.bbsrc.ac.uk/organisation/policies/position/foi/foi-index.aspx"  
+>Freedom of Information</a></li>
+                    <li>
+        <a href="http://www.bbsrc.ac.uk/site/terms-and-conditions.aspx" accesskey="8"  
+>Terms of use</a></li>
+                    <li>
+        <a href="http://www.bbsrc.ac.uk/site/contact/contact-index.aspx" accesskey="7"  
+>Contact us</a></li>
+                                        <li class="long">
+        <a href="http://www.bbsrc.ac.uk/organisation/policies/position/policy/data-protection-policy.aspx"  
+>Data protection policy</a></li>
+
+
+<li>
+        <a href="http://www.bbsrc.ac.uk/site/site-sitemap.aspx" accesskey="3"  
+>Site map</a></li>
+<li>
+        
+        <a href="http://www.bbsrc.ac.uk/site/site-index.aspx"  
+>About this site</a></li>
+
+
+<li class="long">
+        <a href="http://www.bbsrc.ac.uk/site/privacy.aspx" accesskey="5"  
+>Privacy and cookies</a></li>
+<li>
+        <a href="http://www.bbsrc.ac.uk/site/download-logo.aspx"  
+>Download logo</a></li>
+                    <li>
+        <a href="http://www.bbsrc.ac.uk/site/help/help-index.aspx" accesskey="6"  
+>Help</a></li>
+
+
+
+
+
+
+                </ul>
+                <p class="legal">&copy; 2014 BBSRC - Biotechnology and Biological Sciences Research Council</p>
+                                    </section>
+    
+            <section class="socialMedia">
+                <h2>Social media</h2>
+                <ul>
+                    <li><a href="https://www.facebook.com/bbsrcnews" target="_blank"><img src="/upload/structure/img/i-facebook.png" alt="Facebook" title="Visit our Facebook page" /></a></li>
+                    <li><a href="https://twitter.com/bbsrc" target="_blank"><img src="/upload/structure/img/i-twitter.png" alt="Twitter" title="Follow us on Twitter" /></a></li>
+                    <li><a href="http://feeds.feedburner.com/bbsrc" target="_blank"><img src="/upload/structure/img/i-rss.png" alt="RSS" title="Our RSS Feed" /></a></li>
+                    <li><a href="http://www.youtube.com/user/bbsrcmedia" target="_blank"><img src="/upload/structure/img/i-youtube.png" alt="YouTube" title="See our YouTube videos" /></a></li>
+                </ul>
+            </section>
+    
+            <section class="contactDetails">
+                <h2>Contact details</h2>
+                <address>
+                    <span>BBSRC</span>
+                    <span>Polaris House</span>
+                    <span>North Star Avenue</span>
+                    <span>Swindon, SN2 1UH</span>
+                </address>
+<p class="email">Tel: +44 (0)1793 413200<br />                Email: <a href="mailto:webmaster@bbsrc.ac.uk">webmaster@bbsrc.ac.uk</a></p>
+            </section>
+
+  <!-- Only output this if we detect a known mobile user agent,
+       and we DON'T detect a 'go to desktop site' cookie -->
+       
+  <!--<a id="goToDesktop" href="#">View desktop layout of site</a>-->
+  
+  <!-- / -->
+  <!-- Only output this if we detect a known mobile user agent,
+       and we DO detect a 'go to desktop site' cookie -->
+       
+  <!--<a id="goToMobile" href="#">Go back to device-optimised view of site</a>-->
+  
+  <!-- / -->
+
+            </div>
+    </footer>
+    <!-- footer end --> 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1503913-1']);
+  _gaq.push(['_setDomainName', 'bbsrc.ac.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+ 
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

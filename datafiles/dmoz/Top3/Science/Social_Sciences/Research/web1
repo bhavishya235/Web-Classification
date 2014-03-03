@@ -1,0 +1,3384 @@
+====================<http://www.ssrn.com/>====================
+
+
+<script type="text/javascript" src="http://papers.ssrn.com/sol3/Scripts/jquery.js"></script>
+
+	<script language="javascript">
+		//Language functions
+		function changeLanguage(language, response){
+
+			$.ajax({
+				url: '/AltLanguage_ajax.cfm?type=changeLanguage&partid=1&strCode=' + language,
+				cache: false,
+				success: function(data) {
+					// Update values in cookies
+					Set_Cookie('SITEID',language,'-1','/','.ssrn.com','');
+					Set_Cookie('SITEID',language,'1000','/','.ssrn.com','');
+
+					// Finally, perform redirection
+					if (response == 'reload') {
+						window.location.reload();
+					}
+					else {
+						window.location.href=response;
+					}
+				}
+			});
+		}
+
+		function Set_Cookie( name, value, expires, path, domain, secure ) {
+			// set time, its in milliseconds
+			var today = new Date();
+			today.setTime( today.getTime() );
+
+			/*
+			if the expires variable is set, make the correct
+			expires time, the current script below will set
+			it for x number of days, to make it for hours,
+			delete * 24, for minutes, delete * 60 * 24
+			*/
+			if ( expires ) {
+				expires = expires * 1000 * 60 * 60 * 24;
+			}
+
+			var expires_date = new Date( today.getTime() + (expires) );
+
+			document.cookie = name + "=" +escape( value ) +
+			( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
+			( ( path ) ? ";path=" + path : "" ) +
+			( ( domain ) ? ";domain=" + domain : "" ) +
+			( ( secure ) ? ";secure" : "" );
+		}
+
+
+		/*
+		* We use this function when the language should be stripped from an object, like a form RADIO
+		*/
+		function getLanguage ( oObj ) {
+			var specialChars = "!@#$^&%*()+=-[]\/{}|:<>?,.";
+
+			// Need to clean up code if object came from Mura site.
+			sCode = oObj.value;
+			if (sCode.length > 2) {
+				for (var i = 0; i < specialChars.length; i++) {
+					sCode = sCode.replace(new RegExp("\\" + specialChars[i], 'gi'), '');
+				}
+				// After cleaning up special chars, we take the first two chars.
+				sCode = sCode.substring(0,2).trim();
+			}
+
+			return sCode;
+		}
+	</script>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	
+	<meta name="generator" content="Mura CMS 5.6" />
+	
+	<title>Home :: SSRN</title>
+
+	<!--<link rel="icon" href="/en/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/en/images/favicon.ico" type="image/x-icon" />-->
+	<link rel="icon" href="/en/includes/themes/merced/images/ssrn/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/en/includes/themes/merced/images/ssrn/favicon.ico" type="image/x-icon" />
+
+	
+	<link rel="stylesheet" href="/en/css/reset.min.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/en/css/mura.min.css" type="text/css" media="all" />
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+	   
+
+
+
+       
+       
+       
+               
+       
+
+
+	<link rel="stylesheet" href="/en/includes/themes/merced/compiled/core.min.20131211031749.css" media="all" /><!--[if lt IE 8]><link rel="stylesheet" href="/en/includes/themes/merced/compiled/ie.lte7.min.20130715045020.css" media="all" /><![endif]--><link rel="stylesheet" href="/en/includes/themes/merced/compiled/print.min.20130715045020.css" media="print" />
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+       
+               
+			  
+              	 
+			  
+       
+
+
+	
+
+	
+	<!--[if lte IE 8]>
+	<script src="/en/includes/themes/merced/js/ie/lte8/html5.js" type="text/javascript" language="Javascript"></script>
+	<![endif]-->
+
+	
+	
+
+
+					
+
+
+
+	<script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en";
+	</script>
+		
+<script type="text/javascript" src="/en/js/global.min.js"></script>
+<script type="text/javascript">
+var loginURL="?display=login";
+var siteid="en"; 
+var siteID="en"; 
+var context=""; 
+var jslib="jquery";
+var assetpath="/en";
+var themepath="/en/includes/themes/merced";
+var htmlEditorType="";
+var rb="en";
+</script>
+			 <script type="text/javascript"> 
+<!--
+!window.jQuery && document.write(unescape('%3Cscript type="text/javascript" src="/en/js/jquery/jquery.js"%3E%3C/script%3E'))
+//-->
+</script>
+<link rel="stylesheet" href="/plugins/LocaleTransMgr/css/ltm.css" type="text/css" media="all" />
+</head>
+
+<body id="homepage" class="depth1">
+
+<div id="container" class="sysHomeSsrn">
+	
+
+	
+
+
+
+
+
+
+
+
+	<header class="clearfix">
+		<hgroup>
+			<h1><a href="/en/">SSRN</a></h1>
+			
+		</hgroup>
+		
+			<form action="http://papers.ssrn.com/sol3/results.cfm" id="searchForm" method="post" target="_top" name="formQuickSearch">
+				<fieldset>
+					<input type="text" name="txtKey_Words" id="txtKeywords" class="textltr" value="QuickSearch SSRN eLibrary" title="Enter a Keyword Search" onfocus="this.style.color='black';" onclick="value='';" maxlength="250" />
+					<a onclick="javascript:document.formQuickSearch.submit();" href="javascript:void(0);">
+						<img src="http://static.ssrn.com/Images/Header/btnSearch.png" alt="QuickSearch SSRN eLibrary" >
+					</a>
+					<input type="hidden" name="searchallfields" value="true">
+					
+				</fieldset>
+			</form>
+		
+	</header>
+
+
+
+
+
+	<div id="content" class="clearfix">
+		<aside id="left">
+			<div class="login">
+				
+
+				
+				
+
+
+
+
+
+
+	
+	
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    	
+	
+		
+	
+	
+	
+   	
+	
+	
+	
+	        
+	
+
+
+
+
+
+<div style="position:absolute">
+	<form name="formErr" action="https://hq.ssrn.com/login/pubSignInJoin.cfm" method="post" target="_parent"><input type="hidden" id="errorMessage" name="errorMessage" value=""></form>
+</div>
+<p class="sidebarTitleLink" align="center"><a href="http://hq.ssrn.com">MEMBER SIGN IN</a></p>
+<p class="fistTime" align="center"><a href="http://hq.ssrn.com">First-time user? Free Registration</a></p>
+<form name="frmLoginBox" action="javascript:void(0);" onSubmit="return submitForm();">
+<input id="txtLogin" name="txtLogin" value="USER ID" style="color: rgb(153, 153, 153); width: 125px;direction:ltr;" onfocus="this.style.color='black';" onclick="if(this.value && this.value == 'USER ID') { this.value = '';} else { this.select(); }" />
+<div id="passwordbox" style="position:relative; float:left; width: 90px;">
+	<input type="text" maxlength="10" value="PASSWORD" onfocus="changeType();" id="txtPassword" name="txtPassword" style="color: rgb(153, 153, 153); width: 90px;direction:ltr;" />
+</div>
+<div id="signinbox">
+	<input type="submit" class="go" id="go" value="Sign In" name="Process"/>
+</div>
+</form>
+<div style="position:relative;  float:left; font-size: 10px; font-family: sans-serif; color: rgb(32, 50, 118);display:none;visibility:hidden;" id="processingMessage">
+	<span id="progressBar">
+	<span>Processing request. </span>
+	<span style="position:relative; top:3px;">
+	<img src="http://hq.ssrn.com/submissions/Images/progress_bar_2.gif" border="0" title="Please wait, login in process." width="50" height="13">
+	</span>
+	</span>
+</div>
+
+<div style="position:relative;" id="errorMessageDiv"></div>
+<div style="position:relative;  float:left;">
+<p class="forgot"><a href="http://hq.ssrn.com/login/passwordAssistance.cfm?userEmail=&rootPage=signIn">Forgot ID or Password?</a> | <a href="http://www.ssrn.com/en/index.cfm/contactus/" target="_blank" title="Contact">Contact Us</a>
+</p>
+</div>
+<div style="margin-top: 40px;">&nbsp;</div>
+
+
+
+
+<script type="text/javascript" src="http://hq.ssrn.com/validations.js"></script>
+<script type="text/javascript" src="http://static.ssrn.com/libraries/JQuery/jquery.min.js"></script>
+<script language="JavaScript">
+	function validateFields (){
+	  // size of form is currently 2 items any additions need to be accounted for
+	   if(document.getElementById("txtLogin") == null || document.getElementById("txtLogin").value == "")
+	   {
+		 alert ('The following field is empty: "User ID"');
+		 document.getElementById("txtLogin").focus();
+		 return false;
+	   }
+	   if(document.getElementById("txtPassword") == null || document.getElementById("txtPassword").value == "" )
+	   {
+		 alert ('The following field is empty: "Password"');
+		 document.getElementById("txtPassword").focus();
+		 return false;
+	   }
+	}
+
+
+	function changeType(){
+		document.getElementById("passwordbox").innerHTML = '<input type="password" style="color:black; width: 90px;" value="" name="txtPassword" id="txtPassword" maxlength="10" />';
+		setTimeout("document.getElementById('txtPassword').focus()",10);
+	}
+
+
+	function login () {
+		var completeURL = '/loginAjaxHeader.cfm?login=true&username='+document.getElementById("txtLogin").value+'&pass='+document.getElementById("txtPassword").value;
+
+		$.ajax({
+			url: completeURL,
+			cache: false,
+			success: function(data) {
+				if(data.indexOf('redirectFrom=true') != -1){
+					document.location.href = Trim(data);
+				} else {
+					document.getElementById("go").disabled=false;
+					document.getElementById("processingMessage").style.display="none";
+					document.getElementById("processingMessage").style.visibility="hidden";
+					document.getElementById("errorMessage").value = "User ID and Password do not match.";
+					document.getElementById("errorMessageDiv").style.display="block";
+					document.getElementById("errorMessageDiv").style.visibility="visible";
+					document.getElementById("errorMessageDiv").innerHTML = document.getElementById("errorMessage").value;
+				}
+
+			}
+		});
+	}
+
+
+	function submitForm(){
+		   if (validateFields() != false) {
+			document.getElementById("go").disabled=true;
+			document.getElementById("processingMessage").style.display="block";
+			document.getElementById("processingMessage").style.visibility="visible";
+			login ();
+		   }
+		   else {
+		   	return false;
+		   }
+	}
+</script>
+
+			</div>
+			<div class="sidebarLinks">
+				
+				
+
+
+
+
+
+
+
+<p align="center" class="sidebarTitle">RESEARCH NETWORKS:</p>
+
+<ul>
+	<li class="link-arn">
+		<a class="first linkSideA" href="/en/index.cfm/arn/">
+		<div class="sideLinkTextLeftltr">Accounting</div>
+		<div class="sideLinkTextRightltr">ARN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/arn/arn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/arn/arn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/arn/arn-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/arn/arn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/arn/arnjob/arn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/arn/arnann/arn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/arn/arn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to ARN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to ARN</a></li>
+		</ul>
+	</li>
+	<li class="link-aarn">
+		<a class="first linkSideA" href="/en/index.cfm/aarn/">
+		<div class="sideLinkTextLeftltr">Anthropology<br>& Archaeology</div>
+		<div class="sideLinkTextRightltr">AARN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/aarn/aarn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li class="line"><a href="/en/index.cfm/aarn/aarn-research-paper-series/">Research Paper Series</a></li>
+			<li><a href="/en/index.cfm/aarn/aarn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/aarn/aarnjob/aarn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/aarn/aarnann/aarn_ann.html">Professional Announcements</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to AARN</a></li>
+		</ul>
+	</li>
+	<li class="link-csn">
+		<a class="first linkSideA" href="/en/index.cfm/csn/">
+		<div class="sideLinkTextLeftltr">Cognitive Science</div>
+		<div class="sideLinkTextRightltr">CSN</div>
+		</a>
+		<ul>
+			<li class="line"><a href="/en/index.cfm/csn/csn-conferences-meetings/">Conference &amp; Meetings</a></li>
+			<li><a href="/en/index.cfm/csn/csn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/csn/csnjob/csn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/csn/csnann/csn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/csn/csn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to CSN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to CSN</a></li>
+		</ul>
+	</li>
+	<li class="link-cgn">
+		<a class="first linkSideA" href="/en/index.cfm/cgn/">
+		<div class="sideLinkTextLeftltr">Corporate Governance</div>
+		<div class="sideLinkTextRightltr">CGN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/cgn/cgn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li class="line"><a href="/en/index.cfm/cgn/cgn-research-paper-series/">Research Paper Series</a></li>
+			<li><a href="/en/index.cfm/cgn/cgn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/cgn/cgnjob/cgn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/cgn/cgnann/cgn_ann.html">Professional Announcements</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to CGN</a></li>
+		</ul>
+	</li>
+	<li class="link-ern">
+		<a class="first linkSideA" href="/en/index.cfm/ern/">
+		<div class="sideLinkTextLeftltr">Economics</div>
+		<div class="sideLinkTextRightltr">ERN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/ern/ern-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/ern/ern-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/ern/ern-conferences-meetings/">Conference & Meetings</a></li>
+			<li><a href="/en/index.cfm/ern/ern-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/ern/ernjob/ern_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/ern/ernann/ern_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/ern/ern-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to ERN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to ERN</a></li>
+		</ul>
+	</li>
+	<li class="link-erpn">
+		<a class="first linkSideA" href="/en/index.cfm/erpn/">
+		<div class="sideLinkTextLeftltr">Entrepreneurship</div>
+		<div class="sideLinkTextRightltr">ERPN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/erpn/erpn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/erpn/erpn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/erpn/erpn-conferences-meetings/">Conference & Meetings</a></li>
+			<li><a href="/en/index.cfm/erpn/erpn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/erpn/erpnjob/erpn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/erpn/erpnann/erpn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/erpn/erpn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to ERPN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to ERPN</a></li>
+		</ul>
+	</li>
+	<li class="link-fen">
+		<a class="first linkSideA" href="/en/index.cfm/fen/">
+		<div class="sideLinkTextLeftltr">Finance</div>
+		<div class="sideLinkTextRightltr">FEN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/fen/fen-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/fen/fen-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/fen/fen-conferences-meetings/">Conference & Meetings</a></li>
+			<li><a href="/en/index.cfm/fen/fen-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/fen/fenjob/fen_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/fen/fenann/fen_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/fen/fen-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to FEN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to FEN</a></li>
+		</ul>
+	</li>
+	<li class="link-hen">
+		<a class="first linkSideA" href="/en/index.cfm/hen/">
+		<div class="sideLinkTextLeftltr">Health Economics</div>
+		<div class="sideLinkTextRightltr">HEN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/hen/hen-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/hen/hen-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/hen/hen-conferences-meetings/">Conference & Meetings</a></li>
+			<li><a href="/en/index.cfm/hen/hen-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/hen/henjob/hen_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/hen/henann/hen_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/hen/hen-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to HEN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to HEN</a></li>
+		</ul>
+	</li>
+	<li class="link-hrn">
+		
+		
+		
+			
+			<a class="first linkSideA" href="javascript:void(0);" onclick="changeLanguage('il','/il/index.cfm/hrn/?switch=1');">
+		
+		<div class="sideLinkTextLeftltr">Hebrew</div>
+		<div class="sideLinkTextRightltr">HRN</div>
+		</a>
+		<ul>
+			<li><a href="http://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&journal_id=2152362">Legal</a></li>
+			<li><a href="http://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&journal_id=2188559">Business</a></li>
+			<li><hr style="margin:10px 0; border-color:#666699;" /></li>
+			<li><a href="http://hq.ssrn.com/Subscriptions.cfm">Subscribe</a></li>
+			<li><a href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit</a></li>
+		</ul>
+	</li>
+	<li class="link-crn">
+		<a class="first linkSideA" href="/en/index.cfm/crn/">
+		<div class="sideLinkTextLeftltr">Humanities: Classics</div>
+		<div class="sideLinkTextRightltr">CRN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/crn/crn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/crn/crn-conferences-meetings/">Conference & Meetings</a></li>
+			<li><a href="/en/index.cfm/crn/crn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/crn/crnjob/crn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/crn/crnann/crn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/crn/crn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to CRN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to CRN</a></li>
+		</ul>
+	</li>
+	<li class="link-lit">
+		<a class="first linkSideA" href="/en/index.cfm/lit/">
+		<div class="sideLinkTextLeftltr">Humanities: Literature</div>
+		<div class="sideLinkTextRightltr">LIT</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/lit/lit-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/lit/lit-conferences-meetings/">Conference & Meetings</a></li>
+			<li><a href="/en/index.cfm/lit/lit-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/lit/litjob/lit_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/lit/litann/lit_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/lit/lit-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to LIT eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to LIT</a></li>
+		</ul>
+	</li>
+	<li class="link-mrcn">
+		<a class="first linkSideA" href="/en/index.cfm/mrcn/">
+		<div class="sideLinkTextLeftltr">Humanities: Music  <br> & Composition</div>
+		<div class="sideLinkTextRightltr">MRCN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/mrcn/mrcn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li class="line"><a href="/en/index.cfm/mrcn/mrcn-research-paper-series/">Research Paper Series</a></li>
+			<li><a href="/en/index.cfm/mrcn/mrcn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/mrcn/mrcnjob/mrcn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/mrcn/mrcnann/mrcn_ann.html">Professional Announcements</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to MRCN</a></li>
+		</ul>
+	</li>
+	<li class="link-prn">
+		<a class="first linkSideA" href="/en/index.cfm/prn/">
+		<div class="sideLinkTextLeftltr">Humanities: Philosophy</div>
+		<div class="sideLinkTextRightltr">PRN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/prn/prn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/prn/prn-conferences-meetings/">Conference & Meetings</a></li>
+			<li><a href="/en/index.cfm/prn/prn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/prn-/prnjob/prn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/prn-/prnann/prn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/prn/prn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to PRN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to PRN</a></li>
+		</ul>
+	</li>
+	<li class="link-rcrn">
+		<a class="first linkSideA" href="/en/index.cfm/rcrn/">
+		<div class="sideLinkTextLeftltr">Humanities: Rhetoric <br> & Communication</div>
+		<div class="sideLinkTextRightltr">RCRN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/rcrn/rcrn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li class="line"><a href="/en/index.cfm/rcrn/rcrn-research-paper-series/">Research Paper Series</a></li>
+			<li><a href="/en/index.cfm/rcrn/rcrn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/rcrn/rcrnjob/rcrn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/rcrn/rcrnann/rcrn_ann.html">Professional Announcements</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to RCRN</a></li>
+		</ul>
+	</li>
+	<li class="link-isn">
+		<a class="first linkSideA" href="/en/index.cfm/isn/">
+		<div class="sideLinkTextLeftltr">Information Systems<br> & eBusiness</div>
+		<div class="sideLinkTextRightltr">ISN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/isn/isn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/isn/isn-conferences-meetings/">Conference & Meetings</a></li>
+			<li><a href="/en/index.cfm/isn/isn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/isn/isnjob/isn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/isn/isnann/isn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/isn/isn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to ISN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to ISN</a></li>
+		</ul>
+	</li>
+	<li class="link-irpn">
+		<a class="first linkSideA" href="/en/index.cfm/irpn/">
+		<div class="sideLinkTextLeftltr">Innovation</div>
+		<div class="sideLinkTextRightltr">IRPN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/irpn/irpn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/irpn/irpn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/irpn/irpn-conferences-meetings/">Conference & Meetings</a></li>
+			<li><a href="/en/index.cfm/irpn/irpn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/irpn/irpnjob/irpn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/irpn/irpnann/irpn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/irpn/irpn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to IRPN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to IRPN </a></li>
+		</ul>
+	</li>
+	<li class="link-lsn">
+		<a class="first linkSideA" href="/en/index.cfm/lsn/">
+		<div class="sideLinkTextLeftltr">Law</div>
+		<div class="sideLinkTextRightltr">LSN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/lsn/lsn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/lsn/lsn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/lsn/lsn-conferences-meetings/">Conference & Meetings</a></li>
+			<li><a href="/en/index.cfm/lsn/lsn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/lsn/lsnjob/lsn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/lsn/lsnann/lsn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/lsn/lsn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to LSN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to LSN</a></li>
+		</ul>
+	</li>
+	<li class="link-lrn">
+		<a class="first linkSideA" href="/en/index.cfm/lrn/">
+		<div class="sideLinkTextLeftltr">Leadership</div>
+		<div class="sideLinkTextRightltr">LRN</div>
+		</a>
+		<ul>
+			<li class="line"><a href="/en/index.cfm/lrn/lrn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/lrn/lrn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/lrn/lrnjob/lrn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/lrn/lrnann/lrn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/lrn/lrn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to LRN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to LRN</a></li>
+		</ul>
+	</li>
+	<li class="link-mrn">
+		<a class="first linkSideA" href="/en/index.cfm/mrn/">
+		<div class="sideLinkTextLeftltr">Management</div>
+		<div class="sideLinkTextRightltr">MRN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/mrn/mrn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/mrn/mrn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/mrn/mrn-conferences-meetings/">Conference & Meetings</a></li>
+			<li><a href="/en/index.cfm/mrn/mrn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/mrn/mrnjob/mrn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/mrn/mrnann/mrn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/mrn/mrn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to MRN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to MRN</a></li>
+		</ul>
+	</li>
+	<li class="link-mkt">
+		<a class="first linkSideA" href="/en/index.cfm/mkt/">
+		<div class="sideLinkTextLeftltr">Marketing</div>
+		<div class="sideLinkTextRightltr">MKT</div>
+		</a>
+		<ul>
+			<li class="line"><a href="/en/index.cfm/mkt/mkt-research-paper-series/">Research Paper Series</a></li>
+			<li><a href="/en/index.cfm/mkt/mkt-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/mkt/mktjob/mkt_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/mkt/mktann/mkt_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/mkt/mkt-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to MKT eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to MKT</a></li>
+		</ul>
+	</li>
+	<li class="link-neg">
+		<a class="first linkSideA" href="/en/index.cfm/neg/">
+		<div class="sideLinkTextLeftltr">Negotiation</div>
+		<div class="sideLinkTextRightltr">NEG</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/neg/neg-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/neg/neg-conferences-meetings/">Conference & Meetings</a></li>
+			<li><a href="/en/index.cfm/neg/neg-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/neg/negjob/neg_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/neg/negann/neg_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/neg/neg-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to NEG eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to NEG</a></li>
+		</ul>
+	</li>
+	<li class="link-psn">
+		<a class="first linkSideA" href="/en/index.cfm/psn/">
+		<div class="sideLinkTextLeftltr">Political Science</div>
+		<div class="sideLinkTextRightltr">PSN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/psn/psn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li><a href="/en/index.cfm/psn/psn-research-paper-series/">Research Paper Series</a></li>
+			<li class="line"><a href="/en/index.cfm/psn/psn-conferences-meetings/">Conference & Meetings</a></li>
+			<li><a href="/en/index.cfm/psn/psn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/psn/psnjob/psn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/psn/psnann/psn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/psn/psn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to PSN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to PSN</a></li>
+		</ul>
+	</li>
+	<li class="link-sirn">
+		<a class="first linkSideA" href="/en/index.cfm/sirn/">
+		<div class="sideLinkTextLeftltr">Social Insurance</div>
+		<div class="sideLinkTextRightltr">SIRN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/sirn/sirn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/sirn/sirnjob/sirn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/sirn/sirnann/sirn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/sirn/sirn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to SIRN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to SIRN</a></li>
+		</ul>
+	</li>
+
+	<li class="link-srpn">
+		<a class="first linkSideA" href="/en/index.cfm/srpn/">
+		<div class="sideLinkTextLeftltr">Sustainability</div>
+		<div class="sideLinkTextRightltr">SRPN</div>
+		</a>
+		<ul>
+			<li><a href="/en/index.cfm/srpn/srpn-partners-in-publishing/">Partners in Publishing</a></li>
+			<li class="line"><a href="/en/index.cfm/srpn/srpn-research-paper-series/">Research Paper Series</a></li>
+			<li><a href="/en/index.cfm/srpn/srpn-ejournals/">Subject Matter eJournals</a></li>
+			<li><a target="_blank" href="http://www.ssrn.com/update/srpn/srpnjob/srpn_job.html">Job Openings</a></li>
+			<li class="line"><a target="_blank" href="http://www.ssrn.com/update/srpn/srpnann/srpn_ann.html">Professional Announcements</a></li>
+			<li><a href="/en/index.cfm/srpn/srpn-subscribe-orgs/">Subscribing Organizations</a></li>
+			<li><a href="javascript:void(0);" onclick="window.open('/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe to SRPN eJournals</a></li>
+			<li><a target="_blank" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submit a paper to SRPN</a></li>
+		</ul>
+	</li>
+</ul>
+<p class="textLinks">
+	<a title="Section 508 Text Only Pages" href="/en/index.cfm/section-508/">Section 508 Text Only Pages</a>
+	<br>
+	<a title="SSRN's Database and Services (FAQ)" href="/en/index.cfm/ssrn-faq/">FAQ</a>
+	&nbsp;&nbsp;
+	<a title="Terms of Use" href="/en/index.cfm/terms-of-use/">Terms of Use</a>
+	<br>
+	<a title="Privacy Policy" href="/en/index.cfm/privacy-policy/">Privacy Policy</a>
+	&nbsp;&nbsp;
+	<a title="Copyright" href="/en/index.cfm/dmca-notice-policy/">Copyright</a>
+</p>
+
+			</div>
+		</aside>
+		<nav>
+			<ul id="navPrimary">
+				<div id="navTopMenu">
+					
+
+
+
+
+	<table valign="middle" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td class="tdLinks" color="CCCCCC" background="" width="100%">
+		<nobr>
+			<div style="position:relative">
+				
+				
+				
+				 
+
+				
+
+				<div class="ltrMenu">
+					<a class="textMenu" href="http://www.ssrn.com" TARGET="_parent">Home</a>
+					<a class="textMenu" href="http://papers.ssrn.com" target="_parent">Search</a>
+					<a class="textMenu" href="http://papers.ssrn.com/sol3/DisplayJournalBrowse.cfm" target="_parent">Browse</a>
+					<a class="textMenu" href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm" target="_parent">Submit</a>
+					<a class="textMenu" href="javascript:void(0);" onclick="window.open('http://www.ssrn.com/en/index.cfm/subscribe/','_blank','toolbar=yes, scrollbars=yes, resizable=yes, top=100, left=500, width=900, height=600');">Subscribe</a>
+					<a class="textMenu" href="http://papers.ssrn.com/sol3/ShoppingCart.cfm" target="_parent">Shopping Cart</a>
+					<a class="textMenu" href="http://hq.ssrn.com/Briefcase/myBriefcase.cfm" target="_parent">MyBriefcase</a>
+					<a class="textMenu" href="http://hq.ssrn.com/rankings/Ranking_display.cfm?TRN_gID=10" target="_parent">Top Papers</a>
+					<a class="textMenu" href="http://www.ssrn.com/en/index.cfm/top-authors/" target="_parent">Top Authors</a>
+					<a class="textMenu" href="http://www.ssrn.com/en/index.cfm/top-organizations/" target="_parent">Top Organizations</a>
+					<a class="textMenu" href="http://ssrnblog.com/" target="new">SSRN Blog</a>
+				</div>
+
+			</div>
+		</nobr>
+		</td>
+	<td color="FFFFFF" background="" width="100%">
+	</td>
+	</tr>
+	</tbody></table>
+
+
+				</div>
+			</ul>
+		</nav>
+		<div style="float:right;direction:ltr;margin-top:-30px;">
+			<select id="svLTM" class="dropdown" onchange="changeLanguage(getLanguage(this),this.value);">
+<option value="">English</option>
+
+	
+	<option value="/il/?linkServID=00000000000000000000000000000000001&amp;switch=1">Hebrew</option>
+
+</select>
+		</div>
+		<div class="maincontent">
+			<article>
+				
+				
+		
+			
+				 
+					
+								
+				
+				
+				
+				
+					
+				
+				
+				
+					
+								
+						
+
+	<table border="0" cellpadding="10" width="500">
+	<tbody><!--<tr>
+			<td colspan="2">
+				<div style="margin-top:5px; margin-bottom:5px; color: red; font-family: myriad roman, verdana, arial, helvetica, sans-serif; font-size: 12px; font-weight: bold; width: 545px; text-align: left; ">IMPORTANT: The SSRN site will be unavailable starting Thursday night, 26 December 2013 from 9:00 pm EST to approximately 4:30 am EST on Friday, 27 December 2013 for general maintenance. We apologize for the inconvenience. If you have any questions, please email <a>support@ssrn.com</a>.</div>
+			</td>
+		</tr>-->
+		<tr>
+			<td align="left" valign="top" width="250">
+				<div align="left"><a class="hbt-title" href="http://papers.ssrn.com">Enter SSRN eLibrary</a> <a> <img alt="SSRN eLibrary" border="0" src="/en/includes/themes/merced/images/ssrn/home/eLibhead.gif" style="margin-left: -3px;" usemap="#eLibhead_Map" width="227" /></a><br />
+					<a class="hbt-small" href="http://hq.ssrn.com/rankings/Ranking_display.cfm?TRN_gID=10" id="img_toppap" target="new">Top Papers</a> <a class="hbt-small" href="/en/index.cfm/top-authors/" id="img_topauth" target="new">Top Authors</a> <a class="hbt-small topOrganizationButton" href="/en/index.cfm/top-organizations/" id="img_topinst" target="new">Top Organizations</a><br />
+					<!-- 
+<a class="hbt-small" href="/en/index.cfm/top-authors/" id="img_topauth" target="new">Top Authors</a> 
+<a class="hbt-small topOrganizationButton" href="/en/index.cfm/top-organizations/" id="img_topinst" target="new">Top Organizations</a>
+--><a class="hbt-medium" href="http://papers.ssrn.com" id="img_srch">Search</a> <a class="hbt-medium" href="http://papers.ssrn.com/sol3/DisplayJournalBrowse.cfm" id="img_brws">Browse</a><br />
+					<a class="hbt-large" href="http://www.ssrn.com/en/index.cfm/rps/" id="img_rps">Research Paper Series</a><br />
+					<a class="hbt-large" href="http://papers.ssrn.com/sol3/DisplayPipPublishers.cfm" id="img_pip">Partners in Publishing</a><br />
+					<a class="hbt-large" href="/en/index.cfm/org-homepage/" id="img_insthmpg">Organization Home Pages</a><br />
+					<a class="hbt-large" href="/en/index.cfm/conferences/" id="img_conf">Conferences</a></div>
+				<br />
+				<br />
+				<br />
+				<br />
+				<font color="#203276" face="ARIAL, HELVETICA" size="3" style="clear: both; float: left; margin: 20px 0;"><b>Leading Social Science Research Delivered Daily</b> </font><br />
+				<br />
+				<font face="ARIAL, HELVETICA" size="2"><span align="justify">Social Science Research Network (SSRN) is devoted to the rapid worldwide dissemination of social science research and is composed of a number of specialized research networks in each of the social sciences. We have received several <a href="/en/index.cfm/awards/"><b>excellence awards</b></a> for our web site.</span><br />
+				<br />
+				Each of SSRN's networks encourages the early distribution of research results by distributing <b><a href="http://hq.ssrn.com/submissions/CreateNewAbstract.cfm">Submitted</a></b> abstracts and by soliciting abstracts of top quality research papers around the world. We now have hundreds of journals, publishers, and institutions in <b><a href="http://papers.ssrn.com/sol3/DisplayPipPublishers.cfm" target="new"> Partners in Publishing</a></b> that provide working papers for distribution through <b><a href="http://papers.ssrn.com/sol3/DisplayJournalBrowse.cfm" target="_top">SSRN's eLibrary</a></b> and abstracts for publication in SSRN's electronic journals.<br />
+				<br />
+				The SSRN eLibrary consists of two parts: an Abstract Database containing abstracts on over 531,900 scholarly working papers and forthcoming papers and an Electronic Paper Collection currently containing over 436,700 downloadable full text documents in Adobe Acrobat pdf format. The eLibrary also includes the research papers of a number of Fee Based Partner Publications.<br />
+				<br />
+				The Networks encourage readers to communicate directly with authors and other subscribers concerning their own and others' research. To facilitate this we publish detailed author contact information including email addresses for authors of each paper. We also provide electronic delivery of the papers when authors wish us to do so from the SSRN eLibrary. You may also <b><a href="http://papers.ssrn.com/sol3/DisplayJournalBrowse.cfm" target="_top"> Browse the SSRN eLibrary</a></b>, view our current <b> <a href="http://papers.ssrn.com/sol3/topten/topTenResults.cfm?groupingtype=3&amp;groupingId=1" target="_body">Top Papers</a></b> or search the electronic library for papers by <b><a href="http://papers.ssrn.com/sol3/DisplayAbstractSearch.cfm" target="_top"> Title</a></b>, <b><a href="http://papers.ssrn.com/sol3/DisplayAbstractSearch.cfm" target="_top"> Author</a></b>, or <b><a href="http://papers.ssrn.com/sol3/DisplayJournalBrowse.cfm" target="_top"> Journal/Topic</a></b>.<br />
+				<br />
+				SSRN also offers a range of high-visibility <b><a href="MAILTO:advertise@ssrn.com">Advertising Opportunities</a></b> for companies seeking to market their products to professionals in the social science or law areas. </font></td>
+			<td align="left" valign="top" width="250"><font color="#203276" face="ARIAL, HELVETICA" size="3"><strong>SSRN's Objective and Commitments to Users</strong></font><br />
+				<br />
+				<font face="ARIAL, HELVETICA" size="2"><a href="/en/index.cfm/mjensen-20th/">20th Anniversary Message from:<br />
+				Michael C. Jensen, SSRN Chairman</a></font><br />
+				<br />
+				<font color="#203276" face="ARIAL, HELVETICA" size="3"><strong>Recent Announcements</strong></font><br />
+				<br />
+				<font face="ARIAL, HELVETICA" size="2"><!--
+SSRN has again been named the Number 1 Open Access Repository in the World (for July, 2012) by the <a href="http://repositories.webometrics.info/en/world" target="new">Ranking Web of World Repositories</a>. Our thanks to all of the SSRN community who helped make this happen.<br />
+<br />
+-->
+<a href="http://www.ssrn.com/update/psn/psnann/annA003.html" target="_blank">Announcing Expansion of PSN Political Institutions: International Institutions eJournal</a><!--posted 2/20--><br />
+<br />
+<a href="http://www.ssrn.com/update/fen/fenann/annA002.html" target="_blank">Swedish House of Finance Joins Finance Research Centers Papers</a><!--posted 2/6--><br />
+				<br />
+				<a href="http://www.ssrn.com/update/lsn/lsnann/annA004.html" target="_blank">Announcing New LSN African Law Sponsored Subject Matter eJournal</a><!--posted 2/5--><br />
+				<br />
+				<a href="http://www.ssrn.com/update/lsn/lsnann/annA003.html" target="_blank">European University Institute (EUI) Joins Law Research Centers Papers</a><!--posted 1/30--><br />
+				<br />
+				<a href="http://www.ssrn.com/update/fen/fenann/annA001.html" target="_blank">Announcing 26th Australasian Finance &amp; Banking Conference 2013 eJournal on SSRN</a><!--posted 1/28--><br />
+				<br />
+				<a href="http://www.ssrn.com/update/hrn/hrnann/annA001.html" target="_blank">Announcing New Hebrew Research Network</a><!--posted 1/27--><br />
+				<br />
+				<a href="http://www.ssrn.com/update/psn/psnann/annA002.html" target="_blank">Announcing Expansion of PSN Conflict Studies eJournal</a><!--posted 1/27--><br />
+				<br />
+				<a href="http://www.ssrn.com/update/lsn/lsnann/annA002.html" target="_blank">Touro Law Center Joins Law School Research Papers - Legal Studies</a><!--posted 1/24--><br />
+				<br />
+				<a href="http://www.ssrn.com/update/psn/psnann/annA001.html" target="_blank">Robert Schuman Centre for Advanced Studies (RSCAS) Joins Political Science Research Centers Papers</a><!--posted 1/21--><br />
+				<br />
+				<a href="http://www.ssrn.com/update/arn/arnann/annA002.html" target="_blank">Announcing AAA MAS 2014 Meeting eJournal on SSRN</a><!--posted 1/20--><br />
+				<br />
+				<a href="http://www.ssrn.com/update/lsn/lsnann/annA001.html" target="_blank">Announcing ESIL 2013 5th Research Forum eJournal on SSRN</a><!--posted 1/8--><br />
+				<br />
+				<a href="http://www.ssrn.com/update/arn/arnann/annA001.html" target="_blank">Announcing Expansion of ARN Auditing, Litigation &amp; Tax eJournal</a><!--posted 1/6--><br />
+				<br />
+<!--
+				<a href="http://www.ssrn.com/update/ern/ernann/annA012.html" target="_blank">Alfred P. Sloan Foundation Joins Economics Research Centers Papers</a>posted 12/18<br />
+				<br />
+				<a href="http://www.ssrn.com/update/fen/fenann/annA012.html" target="_blank">Singapore Management University Joins Finance Research Centers Papers</a>posted 12/17<br />
+				<br />
+				<a href="http://www.ssrn.com/update/lsn/lsnann/annA025.html" target="_blank">King's College London Joins Law School Research Papers - Legal Studies</a>posted 12/11<br />
+				<br />
+				<a href="http://www.ssrn.com/update/fen/fenann/annA011.html" target="_blank">Announcing New FEN Financial Literacy Sponsored Subject Matter eJournal</a>posted 12/10<br />
+				<br />
+				<a href="http://www.ssrn.com/update/psn/psnann/annA009.html" target="_blank">University of Southern California Joins Political Science Research Centers Papers</a>posted 12/3<br />
+				<br />
+				<a href="http://www.ssrn.com/update/mrn/mrnann/annA009.html" target="_blank">Humanistic Management Network Joins MRN Management Research Centers Papers</a>posted 11/26<br />
+				<br />
+				<a href="http://www.ssrn.com/update/psn/psnann/annA008.html" target="_blank">Announcing New PSN Political Science Educator: Courses, Cases &amp; Teaching Subject Matter eJournal</a>posted 11/19<br />
+				<br />
+				<a href="http://www.ssrn.com/update/rcrn/rcrnann/annA001.html" target="_blank">Announcing New RCRN Organizational Communication Subject Matter eJournal</a>posted 11/7<br />
+				<br />
+				<a href="http://www.ssrn.com/update/lsn/lsnann/annA024.html" target="_blank">University of Ottawa Joins Law School Research Papers - Legal Studies</a>posted 11/5<br />
+				<br />
+				<a href="http://www.ssrn.com/update/lsn/lsnann/annA023.html" target="_blank">Harvard Law School Joins Law Research Centers Papers</a>posted 10<br />
+				</font><br />
+				<font color="#203276" face="ARIAL, HELVETICA" size="3"><strong>SSRN President's Letter</strong></font><br />
+				<br />
+				<font face="ARIAL, HELVETICA" size="2"><a href="http://www.ssrn.com/update/all/2013_Year-End_Pres.html" target="_blank"><b>SSRN's 2013 Year-End President's Letter</b></a><br />
+				<br />
+				<font face="ARIAL, HELVETICA" size="2"><a href="http://www.ssrn.com/update/all/2013_Mid-Year_Pres.html" target="_blank"><b>SSRN's 2013 Mid-Year President's Letter</b></a><br />
+				<br />
+				<a href="http://ssrnblog.com/" target="_blank"><b>SSRN Blog</b></a><br />
+				<br />
+				<br />
+				<font color="#203276" face="ARIAL, HELVETICA" size="3"><strong>SSRN In The News</strong></font><br />
+				<br />
+				<font face="ARIAL, HELVETICA" size="2"><a href="/en/index.cfm/ny-times-ssrn/"><b>The New York Times on SSRN</b></a><br />
+				(Monday, June 9, 2008)<br />
+				<br />
+				<font face="ARIAL, HELVETICA" size="2"><a href="/en/index.cfm/growthology-jensen/"><b>Growthology Blog Posts Interview with SSRN Chairman Michael Jensen</b></a><br />
+				(Thursday, June 5, 2008)<br />
+				<br />
+				<font face="ARIAL, HELVETICA" size="2"><a href="/en/index.cfm/napster-for-nerds/"><b>Napster for Nerds</b></a><br />
+				(Montreal Gazette, January 13, 2004)<br />
+				<br />
+				<font face="ARIAL, HELVETICA" size="2"><a href="/en/index.cfm/warsh-on-ssrn/"><b>David Warsh on SSRN</b></a><br />
+				(Excerpted from &quot;The Publisher&quot;, November 30, 2003)<br />
+				<br />
+				<font color="#203276" face="ARIAL, HELVETICA" size="3"><b>Network Directors</b></font><br />
+				<br />
+				<font face="ARIAL, HELVETICA" size="2"><!--<a href="http://www.ssrn.com/update/arn/arn_java.html">--><b>Accounting Research Network</b><br />
+				Ross Watts<br />
+				<br />
+				<!--<a href="http://www.ssrn.com/update/csn/csn_java.html">--><b>Cognitive Science Network</b><br />
+				Mark Turner<br />
+				<br />
+				<!--<a href="http://www.ssrn.com/update/cgn/cgn_java.html">--><b>Corporate Governance Network</b><br />
+				Lucian Bebchuk<br />
+				<br />
+				<!--<a href="http://www.ssrn.com/update/ern/ern_java.html">--><b>Economics Research Network</b><br />
+				Michael C. Jensen<br />
+				<br />
+				<!--<a href="http://www.ssrn.com/update/erpn/erpn_java.html">--><b>Entrepreneurship Research &amp; Policy Network</b><br />
+				Robert Litan<br />
+				<br />
+				<!--<a href="http://www.ssrn.com/update/fen/fen_java.html">--><b>Financial Economics Network</b><br />
+				Michael C. Jensen<br />
+				<br />
+				<b>Health Economics Network</b><br />
+				Thomas E. Getzen<br />
+				<br />
+				<!--<a href="http://www.ssrn.com/update/isn/isn_java.html">--><b>Information Systems Network</b><br />
+				Erik Brynjolfsson<br />
+				<br />
+				<b>Leadership Research Network</b><br />
+				Nitin Nohria &amp; Rakesh Khurana<br />
+				<br />
+				<!--<a href="http://www.ssrn.com/update/lsn/lsn_java.html">--><b>Legal Scholarship Network</b><br />
+				Bernard Black &amp; Ronald Gilson<br />
+				<br />
+				<!--<a href="http://www.ssrn.com/update/mrn/mrn_java.html">--><b>Management Research Network</b><br />
+				Michael C. Jensen<br />
+				<br />
+				<!--<a href="http://www.ssrn.com/update/mkt/mkt_java.html">--><b>Marketing Research Network</b><br />
+				Al Silk<br />
+				<br />
+				<!--<a href="http://www.ssrn.com/update/neg/neg_java.html">--><b>Negotiations Research Network</b><br />
+				Max H. Bazerman<br />
+				<br />
+				<!--<a href="http://www.ssrn.com/update/psn/psn_java.html">--><b>Political Science Network</b><br />
+				David A. Lake &amp; Mathew D. McCubbins<br />
+				<br />
+				<!--<a href="http://www.ssrn.com/update/sirn/sirn_java.html">--><b>Social Insurance Research Network</b><br />
+				Janice Gregory<br />
+				<br />
+				<b>Music Research &amp; Composition Network</b><br />
+				Andre de Quadros<br />
+				<br />
+				<b>Rhetoric &amp; Communication Research Network</b><br />
+				David C. Logan </font><br />
+				<br />
+				<font color="#203276" face="ARIAL, HELVETICA" size="3"><b>Board of Trustees</b> </font><br />
+				<br />
+				<font face="ARIAL, HELVETICA" size="2">Eugene F. Fama<br />
+				Ronald J. Gilson<br />
+				J. Richard Hackman<br />
+				Michael C. Jensen<br />
+				Richard Quandt<br />
+				William F. Sharpe<br />
+				Hal Varian </font></td>
+		</tr>
+	</tbody>
+</table>
+<p><map name="eLibhead_Map"><area alt="Stanford Law School" coords="125,55,225,100" href="http://www.law.stanford.edu/" shape="rect" target="_blank" title="Stanford Law School" /> <area alt="Korea University" coords="0,55,115,100" href="http://www.korea.edu/" shape="rect" target="_blank" title="Korea University" /> <area alt="European Corporate Governance Institute" coords="125,10,225,50" href="http://www.ecgi.org/" shape="rect" target="_blank" title="European Corporate Governance Institute" /> <area alt="Chicago GSB" coords="0,15,120,50" href="http://www.chicagobooth.edu/" shape="rect" target="_blank" title="Chicago GSB" /></map></p>
+<hr size="3" width="100%" />
+<table border="0" cellpadding="10" width="500">
+	<tbody>
+		<tr>
+			<td>
+				<p><font color="#203276" face="ARIAL, HELVETICA" size="3"><b>About the Board of Trustees</b> </font></p>
+				<p><font face="ARIAL, HELVETICA" size="2"><a href="http://www.chicagobooth.edu/fac/eugene.fama/" target="_top"><b>Professor Eugene F. Fama</b></a></font></p>
+				<blockquote><font face="ARIAL, HELVETICA" size="2">Robert R. McCormick Distinguished Service Professor of Finance, University of Chicago Booth School of Business, Chairman, Center for Research in Security at Chicago Booth, Advisory Editor of the Journal of Financial Economics, Director of Research, Dimensional Fund Advisors, and Chairman of Social Science Electronic Publishing</font></blockquote>
+				<p><font face="ARIAL, HELVETICA" size="2"><b>Professor Ronald J. Gilson</b> </font></p>
+				<blockquote><font face="ARIAL, HELVETICA" size="2">Charles J. Meyers Professor of Law and Business, Stanford Law School and Marc and Eva Stern Professor of Law and Business, Columbia University School of Law </font></blockquote>
+				<p><font face="ARIAL, HELVETICA" size="2"><b>Professor J. Richard Hackman</b> </font></p>
+				<blockquote><font face="ARIAL, HELVETICA" size="2">Edgar Pierce Professor of Social and Organizational Psychology, John F. Kennedy School of Government, Harvard University </font></blockquote>
+				<p><font face="ARIAL, HELVETICA" size="2"><b><a href="http://drfd.hbs.edu/fit/public/facultyInfo.do?facInfo=ovr&amp;facId=6484" target="_top">Professor Michael C. Jensen</a></b> </font></p>
+				<blockquote><font face="ARIAL, HELVETICA" size="2">Jesse Isidor Straus Professor of Business Administration, Emeritus, Harvard Business School; Founding Editor of the Journal of Financial Economics, Chairman, Social Science Electronic Publishing, Past President of the American Finance Association, and of the Western Economics Association International. </font></blockquote>
+				<p><font face="ARIAL, HELVETICA" size="2"><b>Professor Richard Quandt</b> </font></p>
+				<blockquote><font face="ARIAL, HELVETICA" size="2">Hughes-Rogers Professor Emeritus, Princeton University and Senior Advisor, The Andrew W. Mellon Foundation </font></blockquote>
+				<p><font face="ARIAL, HELVETICA" size="2"><b><a href="http://www.wsharpe.com" target="_top">Professor William F. Sharpe</a></b> </font></p>
+				<blockquote><font face="ARIAL, HELVETICA" size="2">The STANCO 25 Professor of Finance, Emeritus, Graduate School of Business, Stanford Business School, Past President of the American Finance Association, 1990 Nobel Laureate in Economic Sciences </font></blockquote>
+				<p><font face="ARIAL, HELVETICA" size="2"><b><a href="http://info.berkeley.edu/~hal/" target="_top">Professor Hal Varian</a></b> </font></p>
+				<blockquote><font face="ARIAL, HELVETICA" size="2">Professor, School of Information Management and Systems at the University of California at Berkeley, Professor of Economics in the Haas School of Business at UC Berkeley, Chief Economist at Google </font></blockquote>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<hr size="3" width="100%" />
+<blockquote><font face="ARIAL, HELVETICA" size="2">For general questions or comments about SSRN, email <a href="mailto:management@SSRN.Com">management@ssrn.com</a> or contact 877-SSRNHelp (877.777.6435 or 585.442.8170), <a href="mailto:Gregg_Gordon@SSRN.Com">Gregg Gordon</a> , SSRN President (585) 442.8170, or <a href="mailto:Michael_Jensen@SSRN.Com">Michael C. Jensen</a> , SSRN Chairman (617) 510.3363. </font></blockquote>
+
+
+
+					
+					
+						
+			 
+		
+	
+				
+			</article>
+		</div>
+	</div>
+	
+	<footer>
+		<div class="wrap clearfix">
+			
+			
+			
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+	
+	
+		
+	
+
+			
+
+
+
+
+	
+		
+	
+
+
+
+	
+
+	
+        
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+  		
+
+			<!-- includes piwik Trakcer -->
+ 
+
+
+	 
+
+
+<!-- Piwik --> 
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.ssrn.com/" : "http://piwik.ssrn.com/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 7);
+	piwikTracker.trackPageView();
+	
+
+
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://piwik.ssrn.com/piwik.php?idsite=7" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+
+<!--Includesss footer -->
+
+
+
+	
+	<p align="center" class="ssrn_ft">&#169; 2014 Social Science Electronic Publishing, Inc. All Rights Reserved.&nbsp;
+	<a href="http://www.ssrn.com/en/index.cfm/ssrn-faq/" target="_blank" title="SSRN's Database and Services (FAQ)">FAQ</a>&nbsp;&nbsp;
+	<a href="http://www.ssrn.com/en/index.cfm/terms-of-use/" target="_blank" title="Terms of Use">Terms of Use</a>&nbsp;&nbsp;
+	<a href="http://www.ssrn.com/en/index.cfm/privacy-policy/" target="_blank" title="Privacy Policy">Privacy Policy</a>&nbsp;&nbsp;
+	<a href="http://www.ssrn.com/en/index.cfm/dmca-notice-policy/" target="_blank" title="Copyright">Copyright</a>&nbsp;&nbsp;
+	<a href="http://www.ssrn.com/en/index.cfm/contactus/" target="_blank" title="Contact">Contact Us</a>
+	<br>This page was processed by apollo2 in <span id="serverTime">  0.360</span> seconds
+    <span id="loadingtime"></span></p>
+	<a href="/bots.not.allowed/"></a>
+
+	
+	
+
+	
+
+
+
+<script language="javascript">
+	if (window.loadingTime) {
+	addLoadEvent(loadingTime); }
+</script>
+
+		</div>
+	</footer>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+	   
+
+
+
+       
+       
+       
+               
+       
+
+
+	<!--[if lt IE 8]><script type="text/javascript" src="/en/includes/themes/merced/compiled/ie.lte7.min.20130715045020.js"></script><![endif]--><!--[if lt IE 8]><script type="text/javascript" src="/en/includes/themes/merced/compiled/ie.lte7.roundies.min.20130715045020.js"></script><![endif]-->
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+       
+               
+			  
+              	 
+			  
+       
+
+
+	
+
+</div>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.air.org/>====================
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="ie6 lt-ie9 lt-ie8 lt-ie7 no-js"  lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7]>         <html class="ie7 lt-ie9 lt-ie8 no-js"  lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8]>         <html class="ie8 lt-ie9 no-js"  lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 9]>         <html class="ie9 no-js"  lang="en" dir="ltr"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js"  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns# owl: http://www.w3.org/2002/07/owl#"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.type" content="Text" />
+<meta property="og:site_name" content="American Institutes for Research" />
+<meta name="twitter:card" content="summary" />
+<link rel="shortcut icon" href="http://www.air.org/sites/all/themes/f1ux/favicon.ico" />
+<meta name="twitter:url" content="http://www.air.org/home" />
+<meta name="twitter:title" content="American Institutes for Research" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta property="og:url" content="http://www.air.org/" />
+<link rel="canonical" href="http://www.air.org/" />
+<meta about="/topic/workforce" typeof="skos:Concept" property="rdfs:label skos:prefLabel" content="Workforce" />
+<link rel="shortlink" href="http://www.air.org/" />
+<meta name="dcterms.title" content="American Institutes for Research" />
+<meta property="og:type" content="website" />
+<meta name="dcterms.identifier" content="http://www.air.org/" />
+<meta property="og:title" content="American Institutes for Research" />
+    <title>American Institutes for Research</title>
+    <meta name="HandheldFriendly" content="true">
+    <meta name="MobileOptimized" content="width">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cleartype" content="on">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="http://www.air.org/sites/default/files/css/css_ym9rUMK2Ks675cKAvcHGzm_Pawtp3drG-7J4Yrojrw8.css" media="all" />
+<link rel="stylesheet" href="http://www.air.org/sites/default/files/css/css_qdiQGtHwn9y4K6f4j2zTMO5DLlr2feVnrFW6Dz3CmQw.css" media="all" />
+
+<!--[if gte IE 9]><!-->
+<link rel="stylesheet" href="http://www.air.org/sites/default/files/css/css_RdB30opkqFmfywFjpnljbkF9UHGWI_zoTBE1X1WFqK4.css" media="all" />
+<!--<![endif]-->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="http://www.air.org/sites/default/files/css/css_gS_nq7Kq-FpS6XrO5TdPb9DUdiufK9W3iVhEM4Xy5yw.css" media="all" />
+<![endif]-->
+    <script src="http://www.air.org/sites/all/libraries/modernizr/modernizr-2.6.2.js?n17nqb"></script>
+<script src="http://www.air.org/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script>
+window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
+</script>
+<script>
+window.html5.elements = 'main';window.html5.shivDocument(document);
+</script>
+<script>
+window.html5.elements = 'main';window.html5.shivDocument(document);
+</script>
+<script>
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"f1ux","theme_token":"ZYVI6qWsh06Ak95lHs5wUrE1zDCCqDcmnxnLoPKr-Dc","css":{"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"modules\/taxonomy\/taxonomy.css":1,"sites\/all\/modules\/contrib\/field_group\/field_group.css":1,"sites\/all\/themes\/f1ux\/css\/styles.css":1,"sites\/all\/themes\/f1ux\/css\/no-mq.css":1},"js":{"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/js\/flexslider.load.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/f1ux\/js\/back-to-top.js":1,"sites\/all\/themes\/f1ux\/js\/mobile-menu.js":1,"sites\/all\/themes\/f1ux\/js\/skiplinks.js":1,"sites\/all\/themes\/f1ux\/js\/collapse.js":1,"sites\/all\/themes\/f1ux\/js\/waitforimages.min.js":1,"sites\/all\/themes\/f1ux\/js\/scripts.js":1,"sites\/all\/libraries\/modernizr\/modernizr-2.6.2.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"1":1,"2":1,"3":1}},"field_group":{"fieldset":"slide","div":"compact_teaser"},"flexslider":{"optionsets":{"homepage_vertical_slideshow":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"vertical","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"slide","slideshow":true,"slideshowSpeed":"7000","directionNav":true,"controlNav":true,"prevText":"Previous","nextText":"Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":true,"manualControls":""}},"instances":{"flexslider-1":"homepage_vertical_slideshow"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+</script>
+  </head>
+  <body class="front not-logged-in page-home">
+    <div class="skiplinks">
+      <a href="#main" class="skiplinks__link element-invisible element-focusable">Skip to main content</a>
+    </div>
+        
+
+<header class="header" role="banner">
+        <div class="region-header l-constrain">  <div id="block-menu-block-3" class="block  block-menu-block-3 block--menu-block block--menu-block-3">      <ul class="nav nav--menu-utility-menu nav--menu-block-3 has-parent-mlid-0 is-level-1 has-depth-1">
+  <li class="nav__item nav__item--first has-children menu-mlid-1869"><a href="/news-events" class="nav__link">News &amp; Events</a></li>
+<li class="nav__item menu-mlid-3009"><a href="/experts" class="nav__link">Experts</a></li>
+<li class="nav__item menu-mlid-3006"><a href="/page/careers" title="Work at AIR" class="nav__link">Careers</a></li>
+<li class="nav__item menu-mlid-3007"><a href="/page/contracting-air" title="Contracting with AIR" class="nav__link">Contracting</a></li>
+<li class="nav__item nav__item--last menu-mlid-1681"><a href="/contact" class="nav__link">Contact</a></li>
+</ul>
+  </div><div id="block-search-form" class="block  block-search-form block--search block--search-form">      <form action="/" method="post" id="search-block-form--2" accept-charset="UTF-8"><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-item--searchfield form-item--search-block-form">
+  <label class="form-item__label element-invisible" for="edit-search-block-form--4">Search </label>
+ <input title="Enter the terms you wish to search for." type="search" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" class="form-text form-search" />
+</div>
+<div class="form-actions" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Search" class="button button--submit" /></div><input type="hidden" name="form_build_id" value="form-3Ze32Mp7RxGvgI5057stlUBhY8IwnXCw9UyqhielCN0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</form>  </div><span class="site-name">
+  <a class="site-name__link" href="/" rel="home">
+    <h1 class="site-name__text">American Institutes for Research</h1>
+  </a>
+</span>
+<div id="block-menu-block-2" class="block  block-menu-block-2 block--menu-block block--menu-block-2">      <ul class="nav nav--main-menu nav--menu-block-2 has-parent-mlid-0 is-level-1 has-depth-1">
+  <li class="nav__item nav__item--first has-children menu-mlid-3008"><a href="/about-us" class="nav__link">About Us</a></li>
+<li class="nav__item has-children menu-mlid-3010"><a href="/expertise" title="" class="nav__link">Our Topics</a></li>
+<li class="nav__item menu-mlid-3011"><a href="/our-work" class="nav__link">Our Work</a></li>
+<li class="nav__item nav__item--last menu-mlid-3013"><a href="/services" title="" class="nav__link">Client Services</a></li>
+</ul>
+  </div>  </div>  </header>
+
+
+  <main id="main" class="main" role="main">
+      <div class="region-content">  
+<div class="l-panels-left-sidebar-three-column preface sidebar row-1 row-2-first row-2-second row-2-third-empty row-3-first row-3-second-empty row-3-third-empty row-4-first-empty row-4-second-empty row-4-third-empty postscript">
+ 
+  <div class="l-preface">
+    <div class="pane-fpid-1 pane-bundle-air-slide-pane-bundle pane pane--fpid1">
+
+  
+      
+  <div class="pane__content">
+    <div class="fieldable-panels-pane">
+    <div class="field field-name-field-slideshow-pane-slide field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even"><div  id="flexslider-1" class="flexslider">
+  <ul class="slides"><li><div  about="/content/93-mothers-homeless-families-have-lifetime-history-trauma" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--slide view-mode-slide clearfix">
+
+  
+  <div class="field field-name-field-slide-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div id="file-343" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/343">shiftfamily.jpg</a></h2>
+    
+  
+  <div class="content">
+    <a href="http://www.air.org/resource/service-and-housing-interventions-families-transition-shift-study-final-report"><img typeof="foaf:Image" src="http://www.air.org/sites/default/files/styles/air_homepage_slideshow/public/images/slide/shiftfamily.jpg?itok=25qNf5OC" width="1200" height="350" alt="" title="" /></a></div>
+
+  
+</div>
+</div></div></div><fieldset class="group-slide-text field-group-fieldset fieldset" id="node_slide_slide_group_slide_text"><div class="fieldset__content"><h1 class="slide-title"><a href="http://www.air.org/resource/service-and-housing-interventions-families-transition-shift-study-final-report">93%</a></h1><h2 class="slide-subtitle"><a href="http://www.air.org/resource/service-and-housing-interventions-families-transition-shift-study-final-report">of mothers in homeless families have a lifetime history of trauma</a></h2><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Report: Trauma-informed care is key</p>
+</div></div></div></div></fieldset>
+</div>
+
+</li>
+<li><div  about="/content/educating-girls-literacy-rate-rural-liberian-women-26" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--slide view-mode-slide clearfix">
+
+  
+  <div class="field field-name-field-slide-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div id="file-3151" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/liberiaschoolgirl247-jpg">liberia_schoolgirl_247.jpg</a></h2>
+    
+  
+  <div class="content">
+    <a href="http://www.air.org/resource/she-looks-back-video"><img typeof="foaf:Image" src="http://www.air.org/sites/default/files/styles/air_homepage_slideshow/public/images/slide/liberia_schoolgirl_247.jpg?itok=0Vx9TOWK" width="1200" height="350" alt="classroom in Liberia" title="" /></a></div>
+
+  
+</div>
+</div></div></div><fieldset class="group-slide-text field-group-fieldset fieldset" id="node_slide_slide_group_slide_text"><div class="fieldset__content"><h1 class="slide-title"><a href="http://www.air.org/resource/she-looks-back-video">Educating Girls</a></h1><h2 class="slide-subtitle"><a href="http://www.air.org/resource/she-looks-back-video">Literacy rate for rural Liberian women: 26%</a></h2><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Video: Educating girls to help move post-war countries forward</p>
+</div></div></div></div></fieldset>
+</div>
+
+</li>
+<li><div  about="/content/adapting-students-providing-equal-access-testing-helps-ensure-all-students-learn-more" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--slide view-mode-slide clearfix">
+
+  
+  <div class="field field-name-field-slide-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div id="file-3156" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/braille-248k-jpg">braille-248k.jpg</a></h2>
+    
+  
+  <div class="content">
+    <a href="http://www.air.org/news/press-release/oregon-blind-students-first-nation-access-online-adaptive-testing"><img typeof="foaf:Image" src="http://www.air.org/sites/default/files/styles/air_homepage_slideshow/public/images/slide/braille-248k.jpg?itok=3OX1RajR" width="1200" height="350" alt="student on computer" title="" /></a></div>
+
+  
+</div>
+</div></div></div><fieldset class="group-slide-text field-group-fieldset fieldset" id="node_slide_slide_group_slide_text"><div class="fieldset__content"><h1 class="slide-title"><a href="http://www.air.org/news/press-release/oregon-blind-students-first-nation-access-online-adaptive-testing">Adapting to Students</a></h1><h2 class="slide-subtitle"><a href="http://www.air.org/news/press-release/oregon-blind-students-first-nation-access-online-adaptive-testing">Providing equal access to testing helps ensure all students learn more</a></h2><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Technology: refreshable Braille display</p>
+</div></div></div></div></fieldset>
+</div>
+
+</li>
+<li><div  about="/content/70-detained-juveniles-have-mental-health-issues-0" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--slide view-mode-slide clearfix">
+
+  
+  <div class="field field-name-field-slide-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div id="file-338" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/338">juvenilejustice.jpg</a></h2>
+    
+  
+  <div class="content">
+    <a href="http://www.air.org/resource/addressing-mental-health-needs-youth-contact-juvenile-justice-system-system-care"><img typeof="foaf:Image" src="http://www.air.org/sites/default/files/styles/air_homepage_slideshow/public/images/slide/juvenilejustice_0.jpg?itok=tanicd0i" width="1200" height="350" alt="" title="" /></a></div>
+
+  
+</div>
+</div></div></div><fieldset class="group-slide-text field-group-fieldset fieldset" id="node_slide_slide_group_slide_text"><div class="fieldset__content"><h1 class="slide-title"><a href="http://www.air.org/resource/addressing-mental-health-needs-youth-contact-juvenile-justice-system-system-care">70%</a></h1><h2 class="slide-subtitle"><a href="http://www.air.org/resource/addressing-mental-health-needs-youth-contact-juvenile-justice-system-system-care">of detained juveniles have mental health issues</a></h2><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Report: Most detention facilities are not prepared to provide for mental health needs</p>
+</div></div></div></div></fieldset>
+</div>
+
+</li>
+</ul></div>
+</div></div></div></div>
+  </div>
+
+  
+  
+  
+</div>
+  </div>
+    
+  <div class="l-constrain">  
+    <div class="l-main">
+      <section class="l-row-1">
+                  <div class="l-row-1">
+            <div class="pane-fpid-2 pane-bundle-air-pane-bundle pane pane--fpid2">
+
+  
+        <h2 class="pane__title">RESEARCH. EVALUATION. APPLICATION. <STRONG>IMPACT</STRONG>.</h2>
+    
+  <div class="pane__content">
+    <div  class="ds-1col fieldable-panels-pane view-mode-full clearfix">
+
+  
+  <div class="field field-name-field-featured-work field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even"><div  about="/resource/changing-staffing-and-compensation-patterns-higher-education" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--resource view-mode-featured clearfix">
+
+  
+  <div id="node_resource_featured_group_meta"class = "group-meta field-group-div"><div class="field field-name-field-resource-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-02-05T00:00:00-05:00">Feb 5, 2014</span></div></div></div><div class="field field-name-field-resource-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Report</div></div></div></div><div class="field field-name-field-resource-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div id="file-3461" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/3614159-college-instructor-234px-jpg">3614159-college-instructor-234px.jpg</a></h2>
+    
+  
+  <div class="content">
+    <a href="http://www.air.org/resource/changing-staffing-and-compensation-patterns-higher-education"><img typeof="foaf:Image" src="http://www.air.org/sites/default/files/styles/air_medium/public/3614159-college-instructor-234px.jpg?itok=7xQULmgD" width="234" height="165" alt="college classroom" title="" /></a></div>
+
+  
+</div>
+</div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/resource/changing-staffing-and-compensation-patterns-higher-education">Changing Staffing and Compensation Patterns in Higher Education</a></h2></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Skyrocketing college tuitions and trillion-dollar student loan debt have put college and university spending in the spotlight. "Labor Intensive or Labor Expensive? Changing Staffing and Compensation Patterns in Higher Education," a new report by the Delta Cost Project at AIR, finds that colleges and universities increasingly rely on part-time faculty to meet instructional demands and rein in costs, but rising benefit costs and increased hiring for other types of positions have undercut those savings. </p>
+</div></div></div><div class="field field-name-field-global-topic field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Topic:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/topic/education">Education</a>, <a href="/topic/education/higher-education">Higher Education</a>, <a href="/topic/education/school-finance">School Finance</a></div></div></div></div>
+
+</div><div class="field-item odd"><div  about="/resource/long-story-short-which-matters-more-class-size-or-teacher-quality" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--resource view-mode-featured clearfix">
+
+  
+  <div id="node_resource_featured_group_meta"class = "group-meta field-group-div"><div class="field field-name-field-resource-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-02-21T00:00:00-05:00">Feb 21, 2014</span></div></div></div><div class="field field-name-field-resource-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Video</div></div></div></div><div class="field field-name-field-resource-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div id="file-3631" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/hansen-video-still-jpg">Hansen video still.jpg</a></h2>
+    
+  
+  <div class="content">
+    <a href="http://www.air.org/resource/long-story-short-which-matters-more-class-size-or-teacher-quality"><img typeof="foaf:Image" src="http://www.air.org/sites/default/files/styles/air_medium/public/images/thumbnails/resource/Hansen%20video%20still.jpg?itok=82tqsONP" width="234" height="165" alt="AIR Expert Michael Hansen" title="" /></a></div>
+
+  
+</div>
+</div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/resource/long-story-short-which-matters-more-class-size-or-teacher-quality">Long Story Short: Which Matters More, Class Size or Teacher Quality?</a></h2></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Many people assume that smaller classes lead to more individualized instruction and hence to better student achievement. But do they? In this 90-second video interview, Michael Hansen, senior researcher at AIR, argues that's not always the case.</p>
+</div></div></div><div class="field field-name-field-global-topic field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Topic:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/topic/education">Education</a>, <a href="/topic/education/teacher-and-leader-effectiveness">Teacher and Leader Effectiveness</a></div></div></div></div>
+
+</div><div class="field-item even"><div  about="/project/understanding-americas-college-drop-out-population" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--project view-mode-featured clearfix">
+
+  
+  <div id="node_project_featured_group_meta"class = "group-meta field-group-div"><div class="field field-name-field-project-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-02-01T00:00:00-05:00">Feb, 2014</span></div></div></div><div class="field field-name-content-type field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="content-type-project">Project</div>
+</div></div></div></div><div class="field field-name-field-project-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div id="file-3531" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/drop-outs-jpg">drop-outs.jpg</a></h2>
+    
+  
+  <div class="content">
+    <a href="http://www.air.org/project/understanding-americas-college-drop-out-population"><img typeof="foaf:Image" src="http://www.air.org/sites/default/files/styles/air_medium/public/drop-outs.jpg?itok=iW9b8Sos" width="234" height="165" alt="graduation cap illustration" title="" /></a></div>
+
+  
+</div>
+</div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/project/understanding-americas-college-drop-out-population">Understanding America&#039;s College Drop-Out Population</a></h2></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Over 40% of full time four-year college students fail to earn a bachelorâ€™s degree within six years, and many never complete their education. This CALDER Center paper finds that if students who dropped out from four-year institutions started college at a two-year school, their chances of earning a degree would be much higher.</p>
+</div></div></div></div>
+
+</div></div></div></div>
+
+  </div>
+
+  
+  
+  
+</div>
+<div class="pane pane--recent-reports-panel-pane-1">
+
+  
+        <h2 class="pane__title">Recent Publications</h2>
+    
+  <div class="pane__content">
+    <div class="view view--recent-reports view--id-recent_reports view--display-id-panel_pane_1 view--dom-id-866da560475a7fc52f980bad570d1175">
+            <div class="view-header">
+      <p><a href="/our-work/archive/resource-type/19/resource-type/11/resource-type/24/resource-type/14/resource-type/20/resource-type/13">View Publications</a></p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div  about="/resource/do-we-need-use-seclusion-and-restraint-our-schools" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--resource view-mode-compact_teaser clearfix">
+
+  
+  <div id="node_resource_compact_teaser_group_meta"class = "group-meta field-group-div"><div class="field field-name-field-resource-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-02-12T00:00:00-05:00">Feb 12, 2014</span></div></div></div><div class="field field-name-field-resource-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Commentary</div></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/resource/do-we-need-use-seclusion-and-restraint-our-schools">Do We Need to Use Seclusion and Restraint in Our Schools?</a></h2></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div  about="/resource/mental-training-seniors-pays" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--resource view-mode-compact_teaser clearfix">
+
+  
+  <div id="node_resource_compact_teaser_group_meta"class = "group-meta field-group-div"><div class="field field-name-field-resource-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-02-10T00:00:00-05:00">Feb 10, 2014</span></div></div></div><div class="field field-name-field-resource-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Brief</div></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/resource/mental-training-seniors-pays">Mental Training for Seniors Pays Off</a></h2></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <div  about="/resource/considerations-regarding-release-individual-teacher-value-added-scores" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--resource view-mode-compact_teaser clearfix">
+
+  
+  <div id="node_resource_compact_teaser_group_meta"class = "group-meta field-group-div"><div class="field field-name-field-resource-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-02-07T00:00:00-05:00">Feb 7, 2014</span></div></div></div><div class="field field-name-field-resource-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Commentary</div></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/resource/considerations-regarding-release-individual-teacher-value-added-scores">Considerations Regarding Release of Individual Teacher Value-Added Scores</a></h2></div></div></div></div>
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  
+  
+</div>
+          </div>
+              </section>
+      
+      <section class="l-row-2">
+                  <div class="l-row-2-first">
+            <div class="pane-uuid-954c8388-e761-4547-b1be-7cb3e5e50c35 pane-bundle-air-row-pane-bundle pane pane--uuid954c8388-e761-4547-b1be-7cb3e5e50c35">
+
+  
+      
+  <div class="pane__content">
+    <div  class="ds-1col fieldable-panels-pane view-mode-full clearfix">
+
+  
+  <div class="field field-name-field-homepage-image"><div id="file-3551" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/bmi-app-grid-jpg">bmi-app-grid.jpg</a></h2>
+    
+  
+  <div class="content">
+    <a href="http://www.air.org/resource/body-mass-index-calculator-app-iphone" title="Body Mass Index Calculator App for the iPhone"><img typeof="foaf:Image" src="http://www.air.org/sites/default/files/styles/air_play_area/public/bmi-app-grid.jpg?itok=Jy4yT6zU" width="708" height="408" alt="iphone with bmi calculator app" title="" /></a></div>
+
+  
+</div>
+</div><div class="field field-name-field-homepage-url"><a href="http://www.air.org/resource/body-mass-index-calculator-app-iphone" title="View more">Body Mass Index Calculator App for the iPhone</a></div></div>
+
+  </div>
+
+  
+  
+  
+</div>
+          </div>
+                          <div class="l-row-2-second">
+            <div class="pane-uuid-889047e2-8ba3-4f6d-aca2-236ddd152929 pane-bundle-air-row-pane-bundle pane pane--uuid889047e2-8ba3-4f6d-aca2-236ddd152929">
+
+  
+      
+  <div class="pane__content">
+    <div  class="ds-1col fieldable-panels-pane view-mode-full clearfix">
+
+  
+  <div class="field field-name-field-homepage-image"><div id="file-3561" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/ellen-sherratt-photo-jpg">Ellen Sherratt photo.jpg</a></h2>
+    
+  
+  <div class="content">
+    <a href="http://www.air.org/resource/teacher-evaluations-explained-video" title="Ellen Sherratt explains teacher evaluations"><img typeof="foaf:Image" src="http://www.air.org/sites/default/files/styles/air_play_area/public/Ellen%20Sherratt%20photo.jpg?itok=NTAHEvFj" width="708" height="408" alt="Ellen Sherratt" title="" /></a></div>
+
+  
+</div>
+</div><div class="field field-name-field-homepage-url"><a href="http://www.air.org/resource/teacher-evaluations-explained-video" title="View more">Ellen Sherratt explains teacher evaluations</a></div></div>
+
+  </div>
+
+  
+  
+  
+</div>
+          </div>
+                      </section>
+     
+      <section class="l-row-3">
+                  <div class="l-row-3-first">
+            <div class="pane-uuid-c717a97c-2610-4e8c-a767-ca0a678925e8 pane-bundle-air-row-pane-bundle pane pane--uuidc717a97c-2610-4e8c-a767-ca0a678925e8">
+
+  
+      
+  <div class="pane__content">
+    <div  class="ds-1col fieldable-panels-pane view-mode-full clearfix">
+
+  
+  <div class="field field-name-field-homepage-image"><div id="file-3416" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/delta-report-ft-vs-pt-infographic-708x408-01-jpg">delta-report-ft-vs-pt-infographic-708x408-01.jpg</a></h2>
+    
+  
+  <div class="content">
+    <a href="http://www.air.org/news/press-release/report-colleges-trim-costs-hiring-part-time-faculty-savings-undercut-increases" title="Snapshots from recent AIR work. "><img typeof="foaf:Image" src="http://www.air.org/sites/default/files/styles/air_play_area/public/delta-report-ft-vs-pt-infographic-708x408-01.jpg?itok=VljRCyXz" width="708" height="408" alt="colleges part-time versus full-time faculty" title="" /></a></div>
+
+  
+</div>
+</div><div class="field field-name-field-homepage-url"><a href="http://www.air.org/news/press-release/report-colleges-trim-costs-hiring-part-time-faculty-savings-undercut-increases" title="View more">Snapshots from recent AIR work. </a></div></div>
+
+  </div>
+
+  
+  
+  
+</div>
+          </div>
+                              </section>
+      
+      <section class="l-row-4">
+                              </section>    
+    </div>
+
+          <aside class="l-sidebar">
+        <div class="pane pane--making-research-relevant-panel-pane-1">
+
+  
+        <h2 class="pane__title">Making Research Relevant</h2>
+    
+  <div class="pane__content">
+    <div class="view view--making-research-relevant view--id-making_research_relevant view--display-id-panel_pane_1 view--dom-id-1d4a0264b1973a35658304d449dbe18e">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div  class="ds-1col taxonomy-term vocabulary-topic view-mode-compact_teaser clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h3><a href="/topic/assessment">Assessment</a></h3></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div  class="ds-1col taxonomy-term vocabulary-topic view-mode-compact_teaser clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h3><a href="/topic/education">Education</a></h3></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div  class="ds-1col taxonomy-term vocabulary-topic view-mode-compact_teaser clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h3><a href="/topic/health">Health</a></h3></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <div  class="ds-1col taxonomy-term vocabulary-topic view-mode-compact_teaser clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h3><a href="/topic/international">International</a></h3></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    <div  class="ds-1col taxonomy-term vocabulary-topic view-mode-compact_teaser clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h3><a href="/topic/social-development">Social Development</a></h3></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+    <div  class="ds-1col taxonomy-term vocabulary-topic view-mode-compact_teaser clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h3><a href="/topic/workforce">Workforce</a></h3></div></div></div></div>
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  
+  
+</div>
+<div class="pane pane--the-latest-panel-pane-1 panel-pane" >      
+              <h2 class="element-invisible pane__title">The Latest</h2>
+        
+    
+          <div class="view view--the-latest view--id-the_latest view--display-id-panel_pane_1 view--dom-id-e999051ddfce3f9628e4ea60d4736880">
+            <div class="view-header">
+      <h2 class="title">The Latest</h2>
+<p><a href="http://www.facebook.com/pages/American-Institutes-for-Research-AIR/93244499633?ref=share" target="_blank" class="facebook-icon">Facebook</a><a href="/twitter/" target="_blank" class="twitter-icon">Twitter</a><a href="http://www.linkedin.com/companies/6904/American%20Institutes%20for%20Research" target="_blank" class="linkedin-icon">LinkedIn</a><a href="http://www.youtube.com/user/AmInstForResearch" target="_blank" class="youtube-icon">YouTube</a></p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div  about="/event/expanding-access-great-teachers" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--event view-mode-compact_teaser clearfix">
+
+  
+  <div id="node_event_compact_teaser_group_meta"class = "group-meta field-group-div"><div class="field field-name-field-event-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-02-20T12:00:00-05:00">Feb 20, 2014</span></div></div></div><div class="field field-name-content-type field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="content-type-event">Event</div>
+</div></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/event/expanding-access-great-teachers">Expanding Access to Great Teachers</a></h2></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div  about="/resource/do-we-need-use-seclusion-and-restraint-our-schools" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--resource view-mode-compact_teaser clearfix">
+
+  
+  <div id="node_resource_compact_teaser_group_meta"class = "group-meta field-group-div"><div class="field field-name-field-resource-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-02-12T00:00:00-05:00">Feb 12, 2014</span></div></div></div><div class="field field-name-field-resource-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Commentary</div></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/resource/do-we-need-use-seclusion-and-restraint-our-schools">Do We Need to Use Seclusion and Restraint in Our Schools?</a></h2></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div  about="/news/press-release/my-future-tx-website-provides-texas-students-and-counselors-information-make" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--news view-mode-compact_teaser clearfix">
+
+  
+  <div id="node_news_compact_teaser_group_meta"class = "group-meta field-group-div"><div class="field field-name-field-news-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-02-11T00:00:00-05:00">Feb 11, 2014</span></div></div></div><div class="field field-name-content-type field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="content-type-news">Press Release</div>
+</div></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/news/press-release/my-future-tx-website-provides-texas-students-and-counselors-information-make">My Future TX Website Provides Texas Students and Counselors with Information to Make Strong College and Career Choices</a></h2></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+    <div  about="/resource/considerations-regarding-release-individual-teacher-value-added-scores" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--resource view-mode-compact_teaser clearfix">
+
+  
+  <div id="node_resource_compact_teaser_group_meta"class = "group-meta field-group-div"><div class="field field-name-field-resource-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-02-07T00:00:00-05:00">Feb 7, 2014</span></div></div></div><div class="field field-name-field-resource-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Commentary</div></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/resource/considerations-regarding-release-individual-teacher-value-added-scores">Considerations Regarding Release of Individual Teacher Value-Added Scores</a></h2></div></div></div></div>
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    
+    
+      </div><div class="pane pane--block-1 panel-pane twitter-sidebar-pane" >      
+              <h2 class="pane__title">Twitter Feed</h2>
+        
+    
+          <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/AIR_Info/air-tweets" data-widget-id="394290987893145602" data-tweet-limit="6">Twitter Feed</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>    
+    
+      </div>      </aside>
+      </div>
+
+      <div class="l-postscript">
+      <div class="pane pane--homepage-programs-homepage-programs">
+
+  
+        <h2 class="pane__title">Programs</h2>
+    
+  <div class="pane__content">
+    <div class="view view--homepage-programs view--id-homepage_programs view--display-id-homepage_programs view--dom-id-be66364881e5f2405b2cda10d3000037">
+        
+  
+  
+      <div class="view-content">
+      
+<div class="l-grid l-grid--cols-6 l-grid--homepage-programs">
+
+      <div class="l-grid__row l-grid__row--1 l-grid__row--first l-grid__row--last">
+
+              <div class="l-grid__column l-grid__column--1 l-grid__column--first">
+          <div  about="/program/air-assessment-program" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--program view-mode-compact_teaser clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/program/air-assessment-program">AIR Assessment Program</a></h2></div></div></div></div>
+
+        </div>
+              <div class="l-grid__column l-grid__column--2">
+          <div  about="/program/analysis-longitudinal-data-education-research-program" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--program view-mode-compact_teaser clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/program/analysis-longitudinal-data-education-research-program">Analysis of Longitudinal Data in Education Research Program</a></h2></div></div></div></div>
+
+        </div>
+              <div class="l-grid__column l-grid__column--3">
+          <div  about="/program/education-program" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--program view-mode-compact_teaser clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/program/education-program">Education Program</a></h2></div></div></div></div>
+
+        </div>
+              <div class="l-grid__column l-grid__column--4">
+          <div  about="/program/health-and-social-development-program" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--program view-mode-compact_teaser clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/program/health-and-social-development-program">Health and Social Development Program</a></h2></div></div></div></div>
+
+        </div>
+              <div class="l-grid__column l-grid__column--5">
+          <div  about="/program/international-development-evaluation-and-research-program" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--program view-mode-compact_teaser clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/program/international-development-evaluation-and-research-program">International Development, Evaluation, and Research Program</a></h2></div></div></div></div>
+
+        </div>
+              <div class="l-grid__column l-grid__column--6 l-grid__column--last">
+          <div  about="/program/workforce-and-lifelong-learning-program" typeof="sioc:Item foaf:Document" role="article" class="ds-1col node node--program view-mode-compact_teaser clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/program/workforce-and-lifelong-learning-program">Workforce and Lifelong Learning Program</a></h2></div></div></div></div>
+
+        </div>
+      
+    </div>
+  
+</div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  
+  
+</div>
+    </div>
+    
+</div>
+  </div>  </main>
+
+
+<footer class="footer" role="contentinfo">
+      <div class="footer-top">
+      <div class="footer-top-border"></div>
+        <div class="region-footer-top l-constrain">  <div id="block-boxes-air-footer-tagline" class="block block-boxes-simple  block-boxes-air-footer-tagline block--boxes block--boxes-air-footer-tagline">      <div id='boxes-box-air_footer_tagline' class='boxes-box'><div class="boxes-box-content"><h2>MAKING RESEARCH RELEVANT</h2>
+</div></div>  </div><div id="block-boxes-air-footer-about" class="block block-boxes-simple  block-boxes-air-footer-about block--boxes block--boxes-air-footer-about">      <div id='boxes-box-air_footer_about' class='boxes-box'><div class="boxes-box-content"><h2><a href="/about-us">About Us</a></h2>
+<p><a href="/content/overview">Overview</a><br /><a href="/page/board-directors">Board of Directors</a><br /><a href="/page/leadership">Leadership</a><br /><a href="/experts">Experts</a><br /><a href="/page/our-clients">Our Clients</a><br /><a href="/page/careers">Careers</a><br /><a href="/page/contracting-air">Contracting with AIR</a><br /><a href="/contact">Contact Us</a></p>
+</div></div>  </div><div id="block-boxes-air-footer-expertise" class="block block-boxes-simple  block-boxes-air-footer-expertise block--boxes block--boxes-air-footer-expertise">      <div id='boxes-box-air_footer_expertise' class='boxes-box'><div class="boxes-box-content"><h2><a href="/programs">Our Programs</a></h2>
+<h2><a href="/expertise">Our Topics</a></h2>
+<p><a href="/topic/education">Education</a><br /><a href="/topic/assessment">Assessment</a><br /><a href="/topic/health">Health</a><br /><a href="/topic/social-development">Social Development</a><br /><a href="/topic/international">International</a><br /><a href="/topic/workforce">Workforce</a></p>
+</div></div>  </div><div id="block-boxes-air-footer-our-work" class="block block-boxes-simple  block-boxes-air-footer-our-work block--boxes block--boxes-air-footer-our-work">      <div id='boxes-box-air_footer_our_work' class='boxes-box'><div class="boxes-box-content"><h2><a href="/our-work">Our Work</a></h2>
+<h2><a href="/services">Our Services</a></h2>
+<h2><a href="/news-events">News &amp; Events</a></h2>
+</div></div>  </div><div id="block-boxes-air-footer-other-links" class="block block-boxes-simple  block-boxes-air-footer-other-links block--boxes block--boxes-air-footer-other-links">      <div id='boxes-box-air_footer_other_links' class='boxes-box'><div class="boxes-box-content"><p></p>
+</div></div>  </div><div id="block-search-form--2" class="block  block-search-form--2 block--search block--search-form">      <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-item--searchfield form-item--search-block-form">
+  <label class="form-item__label element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text form-search" />
+</div>
+<div class="form-actions" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="button button--submit" /></div><input type="hidden" name="form_build_id" value="form-h04EheDtlgbxufwoZOBgroysl50rF_-gH3tl7f3PNuk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</form>  </div><div id="block-boxes-air-footer-newsletter-form" class="block block-boxes-simple  block-boxes-air-footer-newsletter-form block--boxes block--boxes-air-footer-newsletter-form">      <div id='boxes-box-air_footer_newsletter_form' class='boxes-box'><div class="boxes-box-content"><form action="/page/newsletter-signup" method="_GET"><label>Stay informed about AIR's work</label><br /><input class="input" name="signup[email]" placeholder="enter your email address" type="text" /><input class="submit" value="Submit" type="submit" />Â </form>
+</div></div>  </div><div id="block-boxes-air-footer-social-links" class="block block-boxes-simple  block-boxes-air-footer-social-links block--boxes block--boxes-air-footer-social-links">      <div id='boxes-box-air_footer_social_links' class='boxes-box'><div class="boxes-box-content"><h2 class="title">Connect</h2>
+<p><a href="http://www.facebook.com/pages/American-Institutes-for-Research-AIR/93244499633?ref=share" target="_blank" class="facebook-icon">Facebook</a><a href="/twitter/" target="_blank" class="twitter-icon">Twitter</a><a href="http://www.linkedin.com/companies/6904/American%20Institutes%20for%20Research" target="_blank" class="linkedin-icon">Linkedin</a><a href="https://plus.google.com/101506836799444748907" target="_blank" class="google-icon">Google+</a><a href="http://www.youtube.com/user/AmInstForResearch" target="_blank" class="youtube-icon">YouTube</a><a href="https://www.pinterest.com/aminstresearch" target="_blank" class="pinterest-icon">Pinterest</a></p>
+</div></div>  </div>  </div>    </div>
+        <div class="footer-bottom">
+        <div class="region-footer-bottom l-constrain">  <span class="site-name">
+  <a class="site-name__link" href="/" rel="home">
+    <h1 class="site-name__text">American Institutes for Research</h1>
+  </a>
+</span>
+<div id="block-boxes-air-footer-logo-contact" class="block block-boxes-simple  block-boxes-air-footer-logo-contact block--boxes block--boxes-air-footer-logo-contact">      <div id='boxes-box-air_footer_logo_contact' class='boxes-box'><div class="boxes-box-content"><div class="footer-address">1000 Thomas Jefferson Street, NW<br />Washington, DC 20007</div>
+<div class="footer-phone-fax">Call: (202) 403-5000<br />Fax: (202) 403-5001</div>
+</div></div>  </div><div id="block-boxes-air-footer-copyright" class="block block-boxes-simple  block-boxes-air-footer-copyright block--boxes block--boxes-air-footer-copyright">      <div id='boxes-box-air_footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>Â© 2014 American Institutes for Research. All rights reserved.</p>
+</div></div>  </div><div id="block-menu-block-4" class="block  block-menu-block-4 block--menu-block block--menu-block-4">      <ul class="nav nav--menu-footer-menu nav--menu-block-4 has-parent-mlid-0 is-level-1 has-depth-1">
+  <li class="nav__item nav__item--first menu-mlid-1676"><a href="/page/privacy-policy" class="nav__link">Privacy Policy</a></li>
+<li class="nav__item nav__item--last menu-mlid-1677"><a href="/sitemap" title="Display a site map with RSS feeds." class="nav__link">Sitemap</a></li>
+</ul>
+  </div>  </div>    </div>
+  </footer>
+ 
+    <script src="http://www.air.org/sites/default/files/js/js_iZYSX0kOd9yUvhHOyKbr4CHuwMjNR3q8RaSLByKmGKI.js"></script>
+<script>
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-2463739-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+</script>
+<script src="http://www.air.org/sites/default/files/js/js_HN4QqCKqZ-4bBdqyhlk9FYXdD4a7bOdCfNkkvrgI3UQ.js"></script>
+  </body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.ibss.ac.uk/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta HTTP-EQUIV="Content-Type" content="text/html; charset=utf-8" />
+<meta name="SearchScopes" content="fullsite; product" />
+<meta name="Keywords" content="" />
+<meta name="Adv Keywords" content="" />
+<meta name="Description" content="The International Bibliography of the Social Sciences (IBSS) is an essential online resource for social science and interdisciplinary research." />
+<meta name="Language" content="en-UK" />
+	
+<meta name="Productline" content="ProQuest" />
+<meta name="Subjects" content="Social Sciences" />
+<meta name="LibraryTypes" content="" />
+<meta name="MediaFormats" content="Electronic" />
+
+<title>ProQuest - IBSS: International Bibliography of the Social Sciences</title>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/globals.js"></script>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/search.js"></script>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/multi.js"></script>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/scope_search.js"></script>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/pagination.js"></script>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/navigation.js"></script>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/old_tooltip.js"></script>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/aculo/prototype.js"></script>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/aculo/scriptaculous.js"></script>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/aculo/tooltip.js"></script>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/similar.js"></script>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/bl.js"></script>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/qs.js"></script>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/dtree.js"></script>
+  <script type="text/javascript" language="JavaScript" src="/sfe/include/proquest.js"></script>
+
+
+<style>
+
+
+#priIBSSInternationalBibliographyoftheSocialSciences a {
+	font-weight: bold;
+}
+
+
+
+#secIBSSInternationalBibliographyoftheSocialSciences a {
+	font-weight: bold;
+    margin 0;
+	width: 90%;
+	height:19px;
+	line-height:19px;
+	display: block;
+	voice-family: inherit;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.field1 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #999999;
+	font-size: 12px;
+}
+</style>
+
+ 
+<link href="/css/product.css" rel="stylesheet" type="text/css" />
+<link href="/css/chrome.css" rel="stylesheet" type="text/css" />
+<link href="/css/splashproquest.css" rel="stylesheet" type="text/css" />
+<link href="/css/leftnav.css" rel="stylesheet" type="text/css" />
+<link href="/sfe/stylesheets/sfemainpage.css" rel="stylesheet" type="text/css" />
+<link href="/en-UK/products/highlight.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/en-UK/inc/navdropdown.js"></script>
+
+<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="/css/splashstyleIE7tier2.css" />
+<![endif]-->
+<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/splashstyleIE8tier2.css" />
+<![endif]-->
+
+<!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="/css/splashstyleIEtier2.css" />
+<![endif]-->
+
+<SCRIPT language="JavaScript">
+//reftitle = document.getElementsByTagName("title")[0].innerHTML;
+
+function openwindow()
+{
+	window.open("/en-UK/inc/email.shtml","ProQuestLink","toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=689,height=345");
+}
+</SCRIPT>
+
+</head>
+<body class="background" onload="setFocus()" onclick="mouseClick(-1,-1)"> 
+
+
+
+
+<div style="position:relative; width:965px; margin:0 auto;">
+    <div>
+   		 <div id="whitetext">
+   			Europe, Middle East, Africa (English) <b><a href="/en-UK/site/select_region.shtml" class="whitetext">Change</a></b>
+    	</div>
+
+        <div id="social"> <a href="http://www.linkedin.com/groups?gid=1281467&trk=hb_side_g" target="_blank" ><img src="/images/core/linkedIcon0.png" title="LinkedIn/Proquest" alt="" width="16" height="16" border="0" id="Image3"></a>
+<a href="http://twitter.com/proquest" target="_blank" ><img src="/images/core/twitterIcon1.png " title="Twitter/Proquest" width="16" height="16" border="0" id="Image1"></a>&nbsp;<a href="http://www.facebook.com/proquest" target="_blank" ><img src="/images/core/fbicon0.png " width="16" height="16" border="0" title="Facebook/Proquest" id="Image2"></a>&nbsp;<a href="http://pinterest.com/proquest/" target="_blank"><img src="/images/core/pinterestsm.png" width="16" height="16" border="0" id="Image6" title="Pinterest"></a>&nbsp;<a href="http://www.youtube.com/proquestvideo/" target="_blank"><img src="/images/core/youtubeIcon0.png" width="16" height="16" border="0" id="Image5" title="Youtube"></a>
+&nbsp;&nbsp;<a href="/en-UK/support/"><img src="/images/core/helpbutton0.png" width="29" height="16" border="0" id="Image4" title="Help"></a></div>
+
+  </div>
+
+
+
+  
+  <a href="http://proquest.com" border="0">
+  <div class="logo"></div></a>
+
+
+<div id="searchDivmain">
+<div class="pageContainer">
+<div id="completion_tooltip" style="position: absolute; top:0px; left: 0px; visibility: hidden; border: 1px solid black; background-color: white; text-align: left; padding:1px; margin:0px auto; line-height: 14px; font-size: 11px; white-space: nowrap; overflow:hidden; margin-left:0px;"></div>
+    <form action="/sfe/site.fast" method="get" id="search_form">
+    <span>
+      <input type="hidden" name="view" value="emeafullsitesppublished"/>
+      <input type="hidden" name="mode" value="multiField"/>
+      <select name="s.ac.filterTerms" size="1">
+        <option value="" selected>All Pages</option>
+        <option value="searchscopes:product">Product Descriptions</option>
+
+        <!-- <option value="searchscopes:support">Support Information</option> -->
+      </select>
+      <input type="text" name="s.sm.terms" id="query" maxlength="60" style="width:210px; position: absolute;  margin-left:0px;" autocomplete="off" onkeydown="doOnEnter(event,submitSearch);"/>
+      <input type="hidden" name="s.sm.fields" value="content"/>
+      <input type="hidden" name="s.sm.types" value="simpleall"/>
+	  <div class="searchbtn" style="position: absolute;  margin-left:215px;">
+	  <input name="Submit" type="image" id="Submit" SRC="/en-UK/images/splash/searchbutton.gif" alt="Search" title="Search" />
+		</div>
+		</span>
+	<br />
+    </form>
+</div>
+	<script type="text/javascript">
+<!--
+    var sqs = new QuerySuggester();
+    sqs.initialize("/sfe/autoCompleteProxy?q=", "search_form", "completion_tooltip", "query");
+    sqs.setDebugAreaId("completion_debug");
+// -->
+</script>
+
+      <div align="right"></div>
+ </div>
+<!-Search bar end-->
+<div class="bubbles"> </div>
+  
+ 
+    <div id="nav">
+    <ul class="menu" id="menu">
+	<li><a href="/en-UK/default.shtml" class="homelink"  id="menufont">Home</a></li>
+				
+		<li>
+		<a href="/en-UK/products/default.shtml" class="prodlink" id="menufont">Products & Services</a>
+		<ul>
+			<li><a href="/en-UK/products/audience/default.shtml" id="submenufont">Library Types</a></li>
+			<li><a href="/en-UK/products/brands/default.shtml" id="submenufont">Product Lines</a></li>
+			<li><a href="/en-UK/products/titlelists/default.shtml" id="submenufont">Title Lists</a></li>
+			<li><a href="/go/trials" id="submenufont">Product Trials</a></li>
+			<li><a href="/en-UK/products/literature/default.shtml" id="submenufont">Product Literature</a></li>
+			<li><a href="/en-UK/products/dissertations/default.shtml" id="submenufont">Order a Dissertation</a></li>
+			<li><a href="/acctreps/?lang=en_US" id="submenufont">Find an Account Rep</a></li>
+		</ul>
+	</li>
+	<li>
+		<a href="/en-UK/support/default.shtml" class="supportlink" id="menufont">Support & Training</a>
+		<ul>
+			<li><a href="/en-UK/support/contact.shtml" id="submenufont">Contact Support</a></li>
+			<li><a href="/en-UK/support/supportdirectory.shtml" id="submenufont">Support Directory</a></li>
+			<li><a href="http://support.proquest.com/" id="submenufont">ProQuest Support Center</a></li>
+			<li><a href="/en-UK/support/training/default.shtml" id="submenufont">Training</a></li>
+			<li><a href="/en-UK/support/training/webinars.shtml" id="submenufont">Training Webinars</a></li>
+			<li><a href="/en-UK/support/training/materials.shtml" id="submenufont">Training Materials</a></li>
+        </ul>
+            
+      </li>
+            	<li>
+		<a href="/en-UK/utilities/default.shtml" class="liblink" id="menufont">Library Tools</a>
+		<ul>
+			<li><a href="/en-UK/utilities/toolkits/default.shtml" id="submenufont">Library Marketing Toolkits</a></li>
+			<li><a href="/en-UK/products/literature/default.shtml" id="submenufont">Product Literature</a></li>
+            </ul>
+            
+            </li>                      
+
+            <li>
+		<a href="/en-UK/affiliates/default.shtml" class="publink" id="menufont">Publishers & Partners</a>
+		<ul>
+			<li><a href="/en-UK/affiliates/pub-benefits.shtml" id="submenufont">Benefits of Partnership</a></li>
+			<li><a href="/en-UK/affiliates/pub-partner.shtml" id="submenufont">Content Evaluation Process</a></li>
+			<li><a href="/en-UK/affiliates/toolkits/default.shtml" id="submenufont">Publisher Toolkit</a></li>
+			<li><a href="/en-UK/site/forms/globalcontentalliances.shtml" id="submenufont">Contact Global Content Alliances</a></li>
+              </ul>
+      </li>
+                        
+      <li>
+		<a href="/en-UK/aboutus/default.shtml" class="aboutlink" id="menufont">About Us</a>
+		<ul>
+			<li><a href="/en-UK/aboutus/contactus.shtml" id="submenufont">Contact Us</a></li>
+			<li><a href="/en-UK/aboutus/events.shtml" id="submenufont">Events</a></li>
+			<li><a href="/en-UK/aboutus/awards/" id="submenufont">Awards & Recognition</a></li>
+			<li><a href="/en-UK/aboutus/pressroom/" id="submenufont">Press Room</a></li>
+			<li><a href="/en-UK/aboutus/execbios/" id="submenufont">Management Team</a></li>
+			<li><a href="/en-UK/aboutus/history.shtml" id="submenufont">History & Milestones</a></li>
+          
+			<li><a href="/en-UK/aboutus/advocacy/" id="submenufont">Library Advocacy</a></li>
+			<li><a href="/go/careers" id="submenufont">Careers</a></li>
+			
+        </ul>      
+      </li>
+      </ul>
+    </div>
+   
+    
+  <div id="backdropDiv">
+  
+        <span class="noindex">
+
+<div id="leftnav">
+     
+ <ul class="rollmenu">
+  <div ID="priLibraryTypes">
+  <li><a href="/en-UK/products/audience/default.shtml" >Library Types</a></li>
+ </div></ul>
+
+    
+     
+ <ul class="rollmenu">
+  <div ID="priProductLines">
+  <li><a href="/en-UK/products/brands/default.shtml" >Product Lines</a></li>
+ </div></ul>
+
+    
+     
+ <ul class="rollmenu">
+  <div ID="priTitleLists">
+  <li><a href="/en-UK/products/titlelists/default.shtml" >Title Lists</a></li>
+ </div></ul>
+
+    
+     
+ <ul class="rollmenu">
+  <div ID="priProductTrials">
+  <li><a href="http://www.proquest.co.uk/go/trials" >Product Trials</a></li>
+ </div></ul>
+
+    
+     
+ <ul class="rollmenu">
+  <div ID="priProductLiterature">
+  <li><a href="/en-UK/products/literature/default.shtml" >Product Literature</a></li>
+ </div></ul>
+
+    
+  
+</div>
+</span>
+
+
+
+
+ 
+   <div class="leftbubbles">&nbsp;</div>
+
+    <div id="CentercontentDiv">
+ 
+      <p class="pageHeading">IBSS: International Bibliography of the Social Sciences<br />
+      <img src="/images/core/horzbar.gif" alt="Divided line" height="16px" width="441px"></p>
+
+
+       
+ 
+            
+             
+      <span class="subheader">Key Facts</span>
+      <div id="OrangeBox">  
+    
+      
+          <b>Format:</b> Abstract and index
+          <br /> 
+	   
+      
+          <b>Media:</b> Electronic/Online
+	   <br /> 
+       
+          <b>Coverage:</b> 1951-Current 
+        <br /> 
+       
+          <b>Total Sources Covered:</b> Over 2,628,800 records
+        <br /> 
+		
+        
+        
+        
+        
+
+        </div>
+ 
+       
+<span class="bodyMain"><p><p>The International Bibliography of the Social Sciences (IBSS) is an essential online resource for social science and interdisciplinary research. IBSS includes over two million bibliographic references to journal articles and to books, reviews and selected chapters dating back to 1951. It is unique in its broad coverage of international material and incorporates over 100 languages and countries. Over 2,800 journals are regularly indexed and some 7,000 books are included each year. Abstracts are provided for half of all current journal articles and full text availability is continually increasing.</p>
+<p><br>
+<b>Subject Coverage</b><br />
+Major areas of coverage include:</p>
+<p></p>
+<ul>
+<li>Anthropology</li>
+<li>Politics</li>
+<li>Sociology</li>
+<li>Economics</li>
+<li>Area studies</li>
+<li>Development studies</li>
+<li>Gender and sexuality</li>
+<li>Human geography and environment</li>
+<li>Business and management</li>
+<li>Policy studies</li>
+<li>Health</li>
+<li>Education</li>
+<li>International relations</li>
+<li>Media and communication</li>
+<li>Psychology</li>
+<li>History</li>
+<li>Law</li>
+<li>Philosophy<br /></li>
+</ul></p>
+
+<p><b>Update Frequency</b><br />
+Weekly, with approximately 100,000 new records added each year.</p></p></span>
+
+      <p>&nbsp;</p>
+      <p class="bodyMain">&nbsp;</p>
+      <p class="bodyMain">&nbsp;</p>
+      
+      
+         </div>
+     
+     <div id="rightColumnDiv">
+
+      
+    <div id="tools">
+    <P align="left">
+  <form name="url" method="post">
+      <p>
+       <input type="hidden" value="reftitle" id="reftitle" />
+        <a href="javascript:openwindow();" class="toolLink">
+          Email This Page</a></p>
+      <p><a href="?print" class="toolLink" target="_blank">    Print Friendly Version</a></p>
+      <p><a href="/en-UK/catalogs/databases/infotxt/ibss-set-c.txt" class="toolLink" target="_blank">Download in .txt Format</a><br />
+      </p>
+    </form></div>
+
+  
+
+<br/>
+
+
+
+       <span class="heading">Discover More</span><br/>   
+      
+        <a href="/assets/downloads/titlelists/databases/titlelist_ibss.xls" class="bodyMain">View Serials Title List (.xls)</a><br />  
+  
+        <a href="/assets/literature/products/databases/ibss_en_uk.pdf" class="bodyMain">IBSS Brochure (PDF)</a><br />  
+  
+        <a href="/assets/downloads/catalogs/databases/social_sciences_catalog_en_uk.pdf" class="bodyMain">Social Sciences Catalogue (PDF)</a><br />  
+  
+        <a href="/assets/downloads/products/ibss_editorialpoliciesprinciples.pdf" class="bodyMain">Editorial Policies and Principles (PDF)</a><br />  
+  
+        <a href="/assets/downloads/products/ibss_researchassessment.pdf" class="bodyMain">IBSS for Research Assessment (PDF)</a><br />  
+  
+        <a href="/assets/literature/products/databases/ibssinprint_en_uk.pdf" class="bodyMain">IBSS in Print</a><br />  
+  
+        <a href=" " class="bodyMain"> </a><br />  
+  
+        <a href="/go/trials" class="bodyMain">Request a Free Trial</a><br />  
+  
+        <a href="/acctreps/" class="bodyMain">Find an Account Rep</a><br />  
+
+  
+
+   
+ 
+<p class="heading">Already Subscribed?<br/>
+<a href="http://search.proquest.com/"><img src="/en-UK/images/products/productbegin.jpg" width="150" height="25" border="0" /></a></p>
+
+      
+
+        </p> 
+
+  
+
+    
+       <p class="heading">You might also like:
+ 
+      <a href="/en-UK/catalogs/databases/detail/pq_social_science.shtml" class="bodyMain">ProQuest Social Science Journals</a><br />
+ 
+      <a href="/en-UK/catalogs/databases/detail/socioabs-set-c.shtml" class="bodyMain">Sociological Abstracts</a><br />
+ 
+      <a href="/en-UK/catalogs/databases/detail/sociology.shtml" class="bodyMain">ProQuest Sociology</a><br />
+ 
+      <a href="/en-UK/catalogs/databases/detail/prisma.shtml" class="bodyMain">PRISMA</a><br />
+
+
+        </p>
+      <p class="heading">&nbsp;</p>
+    </div>
+  </div>
+               
+		  <div id="floatbarfooter">
+    <div id="footer"><div id="footercenter"><div class="footerfont"><a href="/go/copyright" class="whitetext">Copyright</a> | <a href="/go/contactus" class="whitetext">Contact Us</a> | <a href="/go/sitemap" class="whitetext">Site Map</a> | <a href="/go/privacy" class="whitetext">Privacy Policy</a> | <a href="/go/terms_conditions" class="whitetext">Terms and Conditions</a> | <a href="/go/accessibility" class="whitetext">Accessibility</a> | <a href="http://sj.tbe.taleo.net/CH17/ats/careers/jobSearch.jsp?org=PROQUEST&cws=1" class="whitetext">Careers</a></div></div>
+	 </div>
+</div>
+<script type="text/javascript">
+var menu=new menu.dd("menu");
+	menu.init("menu","menuhover");
+</script>
+<!-- START OF SDC UK Created: 5/23/2013 v10.2.91 -->
+<script type="text/javascript" src="/inc/webtrends.load.js"></script>
+<!-- END OF SDC TAG -->
+</body>
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.ifg.cc/>====================
+<?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="verify-v1" content="8kTfkA925TvqsfXyKBuoEs/4TbvOn283X4mlaxeC52U=" >
+
+<!--
+ <title>IfG.CC - The Potsdam eGovernment Competence Center</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ -->
+
+<title>IfG.CC - The Potsdam eGovernment Competence Center - Home</title>
+<meta name="description" content="The Potsdam eGovernment Competence Center (IfG.CC), with its head office in the capital region in Potsdam, Germany, is a group of different organizations that research and develop sustainable solutions for modern governance and administration that make extensive use of new information and communication technology (ICT). The IfG.CC specializes in all questions that relate to the use of ICT in state and society, particularly transformational effects related to ICT. Specific subjects include new organizational models, the application of ICT as part of regional strategies, as well as selected questions in the areas of security, critical infrastructures and health." />
+<meta name="keywords" content="Potsdam,
+E-Government in Potsdam,
+E-Governance in Potsdam,
+Wissenschaft in Potsdam,
+Science in Potsdam,
+Forschung in Potsdam,
+Research in Potsdam,
+Global E-Government,
+Global E-Governance,
+E-Government Think Tank,
+E-Governance Think Tank,
+Global Science,
+Strategic Research,
+Political Consulting,
+Transfer Management,
+Change Management,
+E-Governance,
+E-Government,
+E-Health,
+Electronic Governance,
+Electronic Government,
+Electronic Regional Governance,
+elogo Electronic Local Government,
+e-lo-go,
+Government,
+Governance,
+IfG.CC - The Potsdam eGovernment Competence Center,
+IfG.CC,
+IfG.Media - The IfG Digital Media Services,
+IfG.Research - The Institute for Electronic Government,
+IfG.Transfer - The IfG eGovernment Transfer,
+Institut für E-Government,
+Institut für Electronic Government,
+Institute for E-Government, 
+Institute for Electronic Government,
+Institute for Government,
+Institute für Government,
+Kommunalwissenschaft,
+Public Administration,
+Public Management,
+Shared Service Center,
+Telehealth,
+Telemedicine,
+Telemedizin,
+Telepräsenzlernen,
+Telepresence Learning," />
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2007 Open Source Matters. All rights reserved." />
+<meta name="robots" content="index, follow" />
+	<link rel="shortcut icon" href="http://www.ifg.cc/images/favicon.ico" />
+	
+<script language="JavaScript" type="text/javascript">
+
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+</script>
+
+
+<link rel="shortcut icon" href="http://www.ifg.cc/templates/ifgcc/images/icon.gif" />
+<!-- <link rel="stylesheet" type="text/css" href="/templates/ifgcc/css/template_css.css"  /> -->
+<link rel="stylesheet" type="text/css" href="templates/ifgcc/css/template_css.css"  />
+
+
+<!--###### CSS-Style für das Tabmenu ######-->
+<style type="text/css">
+
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+    
+#slidetabsmenu {
+float:left;
+width:100%;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:100%;
+line-height:normal;
+border-bottom: 1px solid gray;
+background:#ffffff;
+}
+
+* html #slidetabsmenu{ /*IE only. Add 1em spacing between menu and rest of content*/
+margin-bottom: 1em;
+}
+
+#slidetabsmenu ul{
+list-style-type: none;
+margin:0;
+margin-left: 10px;
+padding:0;
+}
+
+#slidetabsmenu li{
+display:inline;
+margin:0;
+padding:0;
+}
+
+#slidetabsmenu a {
+float:left;
+background:url(templates/ifgcc/images/menu/tab-left-neu.gif) no-repeat left top;
+margin:0;
+padding:0 0 0 9px;
+text-decoration:none;
+}
+
+#slidetabsmenu a span {
+float:left;
+display:block;
+background:url(templates/ifgcc/images/menu/tab-right-neu.gif) no-repeat right top;
+padding:3px 14px 3px 5px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-weight:bold;
+color:#1e4e7f;
+}
+
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#slidetabsmenu a span {float:none;}
+/* End IE5-Mac hack */
+
+#slidetabsmenu a:hover span {
+color: #1e4e7f;
+}
+
+#slidetabsmenu #current a {
+background-position:0 -125px;
+}
+
+#slidetabsmenu #current a span {
+background-position:100% -125px;
+color: #1e4e7f;
+}
+
+#slidetabsmenu a:hover {
+background-position:0% -125px;
+}
+
+#slidetabsmenu a:hover span {
+background-position:100% -125px;
+}
+
+</style>
+<!--###### Ende CSS-Style für das Tabmenu ######--> 
+
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<map name="home"><area shape="circle" coords="70,60,59" href="index.php" alt="IfG.CC Home"></map>
+<div align="center"> 
+  <table width="800" border="0" cellspacing="0" cellpadding="0" class="frame" height="600">
+	<tr valign="bottom"> 
+		<td bgcolor="#ffffff" colspan="5" style="background-image:url(templates/ifgcc/images/header-back3.jpg); background-repeat:repeat-x; height: 120px">
+			<img src="templates/ifgcc/images/header4.jpg" border="0" height="100%" usemap="#home">
+		</td>
+    </tr>
+
+	    <tr>
+    <td bgcolor="#ffffff" colspan="5" style="background-image:url(templates/ifgcc/images/pixel.gif); background-repeat:repeat-x; height: 10px; border:0px"></td>
+    </tr>
+	
+	    <tr> 
+		<td align="left" valign="bottom" colspan="5">
+		<!--
+     	<td align="left" valign="bottom" class="bg-dark" colspan="5">
+		-->
+		
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td>
+					<jdoc:include type="modules" name="top" />
+					<!--###### Definition - TabMenu ######-->
+					<div id="slidetabsmenu">
+						<ul>
+							<li id="current"><a href="http://www.ifg.cc" title="IFG.CC"><span>
+							IfG.CC</span></a></li>
+							<li><a href="http://www.research.ifg.cc" title="IFG.Research"><span>
+							IfG.Research</span></a></li>
+							<li><a href="http://www.transfer.ifg.cc" title="IFG.Transfer"><span>
+							IfG.Transfer</span></a></li>
+							<li><a href="http://www.sh20.ifg.cc" title="IFG.SH20"><span>
+							IfG.SH20</span></a></li>	
+							<li><a href="http://www.proketta.ifg.cc" title="IFG.Proketta"><span>
+							IfG.Proketta</span></a></li>	
+							<li><a href="http://www.g-group.cc" title="G.Group"><span>
+							G.Group</span></a></li>								
+						</ul>
+					</div>
+					
+					<br style="clear:left;" />
+					<!--###### Ende Definition - TabMenu ######-->
+					</td>	
+					<!-- <td class="bg-dark"></td> -->
+				</tr>
+			</table>
+		</td>
+	</tr>
+
+	
+		<tr>
+		<td colspan="5" align="left">
+		<div id="pathway">
+				<img src="images/M_images/arrow.png" alt="arrow"><span class="pathway">Home </span></a>
+		</div>
+		</td>
+	</tr>
+
+<!--	
+    <tr> 
+		<td align="left" valign="center" class="bg-dark" colspan="5">
+		<img src="images/M_images/arrow.png" alt="arrow"></a>
+		</td>
+	</tr>
+-->
+
+	<tr>
+		<td height="6" colspan="5" valign="top" bgcolor="#c9cbdb"><img src="templates/ifgcc/images/pixel.gif" width="1" height="6" /></td>
+	</tr>		
+
+    <tr> 
+		<td width="140" valign="top" class="bg-grey">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td align="left" valign="center" class="bg-grey" >
+						<table border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td valign="middle" align="left">		<table cellpadding="0" cellspacing="0" class="moduletable-top">
+				<tr>
+			<td>
+				<ul id="mainlevel-nav"><li><a href="http://www.ifg.cc/index.php" class="mainlevel-nav" >Home</a></li></ul>			</td>
+		</tr>
+		</table>
+		</td>
+								<td>		<table cellpadding="0" cellspacing="0" class="moduletable">
+				<tr>
+			<td>
+				<link href="http://www.ifg.cc/modules/mod_jflanguageselection.css" rel="stylesheet" type="text/css"/>
+	<div class="rawimages"><span id="active_language"><a href="http://www.ifg.cc/index.php?lang=english"><img src="http://www.ifg.cc/components/com_joomfish/images/flags/english.gif" alt="English" title="English" /></a></span><span><a href="http://www.ifg.cc/index.php?lang=german"><img src="http://www.ifg.cc/components/com_joomfish/images/flags/german.gif" alt="German" title="German" /></a></span></div><!--Joom!fish V1.8.2 (2007-12-16)-->
+<!-- &copy; 2003-2007 Think Network, released under the GPL. -->
+<!-- More information: at http://www.joomfish.net -->			</td>
+		</tr>
+		</table>
+		</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td><DIV id="blok-left">		<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					News				</th>
+			</tr>
+					<tr>
+			<td>
+				
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="http://www.ifg.cc/index.php" class="mainlevel" >Latest</a></td></tr>
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=my_archive&amp;task=archivelist&amp;Itemid=128" class="mainlevel" >Archive</a></td></tr>
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=section&amp;id=11&amp;Itemid=93" class="mainlevel" >Regions</a></td></tr>
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=section&amp;id=10&amp;Itemid=92" class="mainlevel" >Topics</a></td></tr>
+</table>			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Resources				</th>
+			</tr>
+					<tr>
+			<td>
+				
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=27001&amp;Itemid=186" class="mainlevel" >eGov-Library</a></td></tr>
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=category&amp;sectionid=17&amp;id=496&amp;Itemid=140" class="mainlevel" >Infoletter</a></td></tr>
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=18168&amp;Itemid=129" class="mainlevel" >Publications</a></td></tr>
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=18289&amp;Itemid=141" class="mainlevel" >Studies</a></td></tr>
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_events&amp;Itemid=87" class="mainlevel" >Events</a></td></tr>
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=43761&amp;Itemid=188" class="mainlevel" >Workshops</a></td></tr>
+</table>			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					The IfG.CC				</th>
+			</tr>
+					<tr>
+			<td>
+				
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=26068&amp;Itemid=142" class="mainlevel" >Overview</a></td></tr>
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=26651&amp;Itemid=182" class="mainlevel" >IfG.Research</a></td></tr>
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=26653&amp;Itemid=183" class="mainlevel" >IfG.Transfer</a></td></tr>
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=26654&amp;Itemid=184" class="mainlevel" >IfG.Media</a></td></tr>
+</table>			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable-infopoint">
+					<tr>
+				<th valign="top">
+					InfoPoint				</th>
+			</tr>
+					<tr>
+			<td>
+				
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=18173&amp;Itemid=115" class="mainlevel" >Adress</a></td></tr>
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=18174&amp;Itemid=116" class="mainlevel" >SiteInfo </a></td></tr>
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=26104&amp;Itemid=179" class="mainlevel" >Imprint</a></td></tr>
+<tr align="left"><td><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=26106&amp;Itemid=180" class="mainlevel" >Disclaimer </a></td></tr>
+</table>			</td>
+		</tr>
+		</table>
+		</DIV></td>
+				</tr>
+				<tr>
+					<td><img src="templates/ifgcc/images/pixel.gif" width="1" height="20" /></td>
+				</tr>
+				<tr>
+					<td align="center"><a href="http://www.uni-potsdam.de"target="_blank"><img src="templates/ifgcc/images/uni2.gif" border="0" /></a></td>
+				</tr>	
+				<tr>
+					<td><img src="templates/ifgcc/images/pixel.gif" width="1" height="20"/></td>
+				</tr>
+				<tr>
+					<td align="center"><a href="http://www.brandenburg.de/" target="_blank"><img src="templates/ifgcc/images/brb2.gif" border="0"/></a></td>
+				</tr>
+				<tr>
+					<td><img src="templates/ifgcc/images/pixel.gif" width="1" height="20"/></td>
+				</tr>
+				<tr>
+					<td align="center"><a href="http://www.prowissen-potsdam.de/" target="_blank"><img src="templates/ifgcc/images/prowi.gif" border="0"/></a></td>
+				</tr>
+				<tr>
+					<td><img src="templates/ifgcc/images/pixel.gif" width="1" height="20"/></td>
+				</tr>
+				<tr>
+					<td align="center">
+											</td>
+				</tr>
+				<tr>
+					<td><img src="templates/ifgcc/images/pixel.gif" width="1" height="40"/></td>
+				</tr>
+			</table>
+		</td>
+		<td width="4" valign="top" bgcolor="#FFFFFF"><img src="images/pixel.gif" width="4" height="1" /></td>
+		<td width="500" align="center" valign="top" class="mainpage">
+					<table cellpadding="0" cellspacing="0" class="moduletable-mitteilungen">
+				<tr>
+			<td>
+							<fieldset>
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					2001 - 2014: eGovernment Forschung | eGovernment Research									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+				<table align="center" border="0" cellpadding="0"
+ cellspacing="0" width="99%">
+  <tbody>
+
+    <tr style="background-color: rgb(30, 78, 124);">
+      <td colspan="3">&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+
+
+    <tr style="background-color: rgb(30, 78, 124);"
+ align="center" valign="middle">
+      <td colspan="3"><font color="white"><b>IfG.CC - German eGovernment Architects</b></font>
+</td>
+   </tr>
+
+    <tr style="background-color: rgb(30, 78, 124);">
+      <td colspan="3">&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+
+    <tr style="background-color: rgb(30, 78, 124);">
+      <td align="center" valign="middle">
+      <font color="white"><b>2001 - 2014:<br />
+eGovernment-Forschung <br />
+aus Deutschland</b>
+      </font></td>
+      <td align="center" valign="middle">
+<img src="http://www.ifg.cc/images/stories/messages/ifgcclogo_klein.png"width="80" height="80" align="center" hspace="6" alt="Image" title="Image" border="0" />
+      </td>
+      <td align="center" valign="middle">
+      <font color="white"><b>2001 - 2014:<br />
+eGovernment Research <br />
+from Germany </b>
+      </font></td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center" border="0" cellpadding="0"
+ cellspacing="0" width="99%">
+  <tbody>
+    <tr style="background-color: rgb(30, 78, 124);">
+      <td align="center" valign="middle" width="45%">
+      <font color="white">eGovernment ist mehr als nur IT<br /> in der Öffentlichen Verwaltung</font></td>
+      <td align="center" valign="middle" width="10%">
+       &nbsp;
+      </td>
+      <td align="center" valign="middle" width="45%">
+      <font color="white">eGovernment is more than just IT<br /> in the Public Administration</font></td>
+    </tr>
+
+
+    <tr style="background-color: rgb(30, 78, 124);">
+      <td colspan="3">&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+
+  </tbody>
+</table>
+			</td>
+		</tr>
+				</table>
+		</fieldset>	<br />
+		<!--<span class="article_seperator">&nbsp;</span>-->
+
+					<fieldset>
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					IfG.CC Forum: Hands-on Seminare & Workshops									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+				<img src="http://www.ifg.cc/images/stories/messages/ifgccforum.gif"width="148" height="31" align="left" hspace="6" alt="Image" title="Image" border="0" />Aus der Wissenschaft für die Praxis: Aktuelle <b>Hands-on-Workshops</b> der IfG.CC-Forum-Reihe:
+<p>
+
+<table border="1" bgcolor="white">
+  <tr>
+    <td>Der Workshop "<a href="http://www.ifg.cc/_pdf/forum/ifgcc_prozesspriorisierungsworkshop.pdf" target="_blank">Prozesspriorisierung</a>" zeigt Vorgehensweisen des IfG.CC zur Auswahl und Priorisierung von Geschäftsprozessen auf.</td>
+    <td>Der Workshop "<a href="http://www.ifg.cc/_pdf/forum/ifgcc_prozessmodellierungsworkshop.pdf" target="_blank">Prozessmodellierung</a>" vermittelt Einblicke in die innovativen Methoden des IfG.CC bei der Modellierung von Geschäftsprozessen.</td>
+  </tr>
+  <tr>
+    <td>Der Workshop "<a href="http://www.ifg.cc/_pdf/forum/ifgcc_mobileservicesworkshop.pdf" target="_blank">Mobile Services</a>" informiert über Einsatzmöglichkeiten und Anwendungsperspektiven von mobilen Dienstleistungen.</td>
+    <td>Der Workshop "<a href="http://www.ifg.cc/_pdf/forum/ifgcc_sharedservicesworkshop_1.pdf" target="_blank">Shared Services</a>" zeigt mögliche Bereiche der Bündelung von Unterstützungsprozessen anhand praktischer Beispiele auf.</td>
+  </tr>
+</table> 
+<p>
+Die Teilnahme ist für Beschäftigte der öffentlichen Verwaltung bzw. öffentlicher Unternehmen kostenlos. Die Teilnehmerzahl ist begrenzt.<br />
+Wir freuen uns, auch Sie demnächst in Potsdam begrüßen zu dürfen. 
+<p>
+<center><b> >>>>>> Vorankündigung <<<<<< </b></center>
+<p>
+<b>NEU: Prozessschwerpunkt-Workshops:</b> Die schon seit einigen Jahren vom IFGCC angebotenen Hands-on-Workshops aus dem Bereich "Prozessmodellierung" werden in den nächsten Wochen durch Prozessschwerpunkt-Workshops ergänzt. 
+<p>
+			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=41653&amp;Itemid=1" class="readon">
+							Read more...</a>
+					</td>
+				</tr>
+						</table>
+		</fieldset>	<br />
+		<!--<span class="article_seperator">&nbsp;</span>-->
+
+					</td>
+		</tr>
+		</table>
+						<table class="blog-frontpage" cellpadding="0" cellspacing="0"><tr><td valign="top"><div>				<fieldset>
+			<table class="contentpaneopen-frontpage">
+			<tr>
+								<td class="contentheading-frontpage" width="100%">
+					PH: eHealth technologies for smarter health care pushed									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen-frontpage">
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+					Tuesday, 25 February 2014				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<span><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=category&amp;sectionid=11&amp;id=195&amp;Itemid="><img src="images/stories/philippinenk1.gif" border="0" align="right"></a></span>The Department of Science and Technology’s (DOST) trailblazing projects for the health sector took the spotlight at the recent First Philippine eHealth Summit to pave the way for smarter health care by maximizing information and communications technology (ICT).
+<p>
+Using ICT for health, also known as eHealth, “is envisioned to transcend the constraints brought about by the country’s archipelagic setup and limited budget,” Science Secretary Mario G. Montejo said during the summit.
+<p>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=46211&amp;Itemid=1" class="readon-frontpage">
+							Read more...</a>
+					</td>
+				</tr>
+						</table>
+		</fieldset>	<br />
+		<!--<span class="article_seperator">&nbsp;</span>-->
+
+		</div><div>			<fieldset>
+			<table class="contentpaneopen-frontpage">
+			<tr>
+								<td class="contentheading-frontpage" width="100%">
+					US: Virginia: Telehealth visits bring convenience, some worries									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen-frontpage">
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+					Tuesday, 25 February 2014				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<span><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=category&amp;sectionid=11&amp;id=12&amp;Itemid="><img src="images/stories/usa06.gif" border="0" align="right"></a></span>The last thing Briana Diver felt like doing on day five of a sinus infection was drag herself and her 2-year-old daughter to the doctor’s office during the peak of the flu season.
+<p>
+Instead, the Virginia Beach woman logged into “virtual doctor visit” website MDLIVE and had a doctor treat her over the phone within 30 minutes, leaving her the rest of the day to recuperate.
+<p>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=46212&amp;Itemid=1" class="readon-frontpage">
+							Read more...</a>
+					</td>
+				</tr>
+						</table>
+		</fieldset>	<br />
+		<!--<span class="article_seperator">&nbsp;</span>-->
+
+		</div><div>			<fieldset>
+			<table class="contentpaneopen-frontpage">
+			<tr>
+								<td class="contentheading-frontpage" width="100%">
+					JO: Gov't open to 4G bids by local telecom operators -- ICT minister									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen-frontpage">
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+					Tuesday, 25 February 2014				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<span><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=category&amp;sectionid=11&amp;id=189&amp;Itemid="><img src="images/stories/jordanienk1.gif" border="0" align="right"></a></span>The government will seriously look into any requests by existing telecom operators to acquire frequencies to provide fourth generation (4G) services after it turned down two bids from other companies, according to top government officials.
+<p>
+The government received two bids from KULACOM Jordan and a US-based company called "Ameriphone" to acquire licences to provide 4G services in the country, but the bids were rejected, Mohammad Taani, chief commissioner of the Telecommunications Regulatory Commission, said at a meeting with the press on Thursday.
+<p>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=46213&amp;Itemid=1" class="readon-frontpage">
+							Read more...</a>
+					</td>
+				</tr>
+						</table>
+		</fieldset>	<br />
+		<!--<span class="article_seperator">&nbsp;</span>-->
+
+		</div><div>			<fieldset>
+			<table class="contentpaneopen-frontpage">
+			<tr>
+								<td class="contentheading-frontpage" width="100%">
+					IN: Maharashtra: Thane: Rs 1.25 crore for biometric attendance in civic schools									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen-frontpage">
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+					Tuesday, 25 February 2014				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<span><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=category&amp;sectionid=11&amp;id=126&amp;Itemid="><img src="images/stories/indienk1.gif" border="0" align="right"></a></span>The Thane Municipal Corporation (TMC) has finally decided to allot Rs 1.25 crore to introduce biometric attendance system in all civic schools.
+<p>
+The proposal to install such a system has come for discussions during meetings in the education department several times in the past following reports of manipulation of attendance by teachers.
+<p>
+The system would be implemented on an experimental basis and later would be installed in schools based on how helpful it is.
+<p>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=46214&amp;Itemid=1" class="readon-frontpage">
+							Read more...</a>
+					</td>
+				</tr>
+						</table>
+		</fieldset>	<br />
+		<!--<span class="article_seperator">&nbsp;</span>-->
+
+		</div><div>			<fieldset>
+			<table class="contentpaneopen-frontpage">
+			<tr>
+								<td class="contentheading-frontpage" width="100%">
+					ZA: The DA’s broadband, Internet plans									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen-frontpage">
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+					Tuesday, 25 February 2014				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<span><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=category&amp;sectionid=11&amp;id=151&amp;Itemid="><img src="images/stories/suedafrikak.gif" border="0" align="right"></a></span>Affordable, reliable and efficient internet must be available to all South Africans, the DA said
+<p>
+The Democratic Alliance (2014) released its 2014 election manifesto today, which states that the party plans to establish a new regulatory framework for the ICT sector to ensure that broadband capacity improves, that prices fall and that the internet becomes accessible to all.
+<p>
+The DA said that new information and communication technologies continue to break down traditional boundaries between people, businesses and nations by making it easier to engage, to exchange information, to transact and to deliver services.
+<p>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=46215&amp;Itemid=1" class="readon-frontpage">
+							Read more...</a>
+					</td>
+				</tr>
+						</table>
+		</fieldset>	<br />
+		<!--<span class="article_seperator">&nbsp;</span>-->
+
+		</div><div>			<fieldset>
+			<table class="contentpaneopen-frontpage">
+			<tr>
+								<td class="contentheading-frontpage" width="100%">
+					GH: GIFEC, NCA and NITA Boards inaugurated									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen-frontpage">
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+					Tuesday, 25 February 2014				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<span><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=category&amp;sectionid=11&amp;id=219&amp;Itemid="><img src="images/stories/ghanak2.gif" border="0" align="right"></a></span>Dr Edward Kofi Omane Boamah, Minister of Communication on Friday inaugurated the Boards of three institutions under the Ministry of Communications.
+<p>
+The institutions are the Ghana Investment Fund for Electronic Communications (GIFEC) with the Minister as its Chairman, the National Communication Authority (NCA) with Mr. Eugene Baffoe Bonnie as Chairman and the National Information Technology Agency (NITA), with Professor Nii Quaynor as Chairman.
+<p>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=46216&amp;Itemid=1" class="readon-frontpage">
+							Read more...</a>
+					</td>
+				</tr>
+						</table>
+		</fieldset>	<br />
+		<!--<span class="article_seperator">&nbsp;</span>-->
+
+		</div><div>			<fieldset>
+			<table class="contentpaneopen-frontpage">
+			<tr>
+								<td class="contentheading-frontpage" width="100%">
+					US: Florida: Telemedicine Ready for Reboot									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen-frontpage">
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+					Monday, 24 February 2014				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<span><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=category&amp;sectionid=11&amp;id=12&amp;Itemid="><img src="images/stories/usa06.gif" border="0" align="right"></a></span>Ernestine Marshall's every move is being watched: morning, noon and night. 
+<p>
+Motion-activated sensors are everywhere in her Tampa apartment: on the toilet, the front door, even the kitchen cabinet where she stores medications help manage her multiple sclerosis.
+<p>
+It's been a year since the 60-year-old former teacher volunteered to let her health insurance company track her daily activities. If she oversleeps or if she’s up and down during the night, sensors around the house or those tucked into her bed trigger a check-in call from a Humana nurse.
+<p>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=46204&amp;Itemid=1" class="readon-frontpage">
+							Read more...</a>
+					</td>
+				</tr>
+						</table>
+		</fieldset>	<br />
+		<!--<span class="article_seperator">&nbsp;</span>-->
+
+		</div><div>			<fieldset>
+			<table class="contentpaneopen-frontpage">
+			<tr>
+								<td class="contentheading-frontpage" width="100%">
+					US: Pennsylvania: Telemedicine breaks down international barriers									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen-frontpage">
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+					Monday, 24 February 2014				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<span><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=category&amp;sectionid=11&amp;id=12&amp;Itemid="><img src="images/stories/usa06.gif" border="0" align="right"></a></span>Telemedicine has long been considered an ideal means of connecting healthcare providers with people in remote parts of the country. Now a growing number of providers are using the technology to push their expertise across the globe.
+<p>
+Pittsburgh-based UPMC, for instance, recently announced two deals to enable video access to its physicians in Afghanistan and India. That's on top of the health network's ongoing telemedicine partnerships in China, Kazakhstan, Italy, Colombia, Singapore, Mexico and Ireland, and ongoing conversations with Germany, Brazil and Israel, among other countries.
+<p>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=46205&amp;Itemid=1" class="readon-frontpage">
+							Read more...</a>
+					</td>
+				</tr>
+						</table>
+		</fieldset>	<br />
+		<!--<span class="article_seperator">&nbsp;</span>-->
+
+		</div><div>			<fieldset>
+			<table class="contentpaneopen-frontpage">
+			<tr>
+								<td class="contentheading-frontpage" width="100%">
+					US: Costs of and benefits resulting from public library e-government services 									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen-frontpage">
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+					Monday, 24 February 2014				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<span><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=category&amp;sectionid=11&amp;id=12&amp;Itemid="><img src="images/stories/usa06.gif" border="0" align="right"></a></span>America has more than 16,000 public libraries, and many have seen significant changes in recent years. In particular, the rise of the Internet has modified demands for their services and expanded their mission, even as their budgets have frequently been slashed. Paradoxically, though information is now much more plentifully available on the Web — making libraries potentially less necessary — it has turned out that the facilities themselves, the computers and information technology that they house and the basic Internet access that they offer, has made them essential service providers in communities. Further, the skills of trained information professionals are greatly in demand, as Web literacy does not come easily to many citizens.
+<p>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=46206&amp;Itemid=1" class="readon-frontpage">
+							Read more...</a>
+					</td>
+				</tr>
+						</table>
+		</fieldset>	<br />
+		<!--<span class="article_seperator">&nbsp;</span>-->
+
+		</div><div>			<fieldset>
+			<table class="contentpaneopen-frontpage">
+			<tr>
+								<td class="contentheading-frontpage" width="100%">
+					OM: NCSI, ITA mull ways to boost e-government capabilities									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen-frontpage">
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+					Monday, 24 February 2014				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<span><a href="http://www.ifg.cc/index.php?option=com_content&amp;task=category&amp;sectionid=11&amp;id=150&amp;Itemid="><img src="images/stories/omank.gif" border="0" align="right"></a></span>Plans for supporting government agencies to share information were discussed by top executives of National Centre for Statistics and Information (NCSI) and Information Technology Authority (ITA) in course of  Knowledge Oasis Muscat recently.
+<p>
+Dr Khalifa bin Abdullah Al Barwani, the CEO of NCSI, and Dr. Salim bin Sultan Al Ruzaiqi, CEO of ITA focused on the importance of sharing knowledge and information between government agencies to assist in the future development of the Sultanate. A number of senior officials from both organisations were also present. 
+<p>			</td>
+		</tr>
+						<tr>
+					<td align="left" colspan="2">
+						<a href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=46207&amp;Itemid=1" class="readon-frontpage">
+							Read more...</a>
+					</td>
+				</tr>
+						</table>
+		</fieldset>	<br />
+		<!--<span class="article_seperator">&nbsp;</span>-->
+
+		</div></td></tr><tr><td valign="top"><div class="blog_more-frontpage">			<div>
+				<strong>
+				More...				</strong>
+			</div>
+			<ul>
+					<ul>
+					<li>
+				<a class="blogsection" href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=46208&amp;Itemid=1">
+					US: Collaboration focuses on standards for eHealth, Internet of Things </a>
+			</li>
+						<li>
+				<a class="blogsection" href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=46209&amp;Itemid=1">
+					US: 40 Percent Of Enrollees Through eHealth Website Are Young Adults</a>
+			</li>
+						<li>
+				<a class="blogsection" href="http://www.ifg.cc/index.php?option=com_content&amp;task=view&amp;id=46210&amp;Itemid=1">
+					IN: Experts want health ministry to focus on implementing health data standards</a>
+			</li>
+					</ul>
+		</div></td></tr><tr><td valign="top" align="center"><span class="pagenav">&lt;&lt;&nbsp;Start</span> <span class="pagenav">&lt;&nbsp;Prev</span> <span class="pagenav">1</span> <a href="http://www.ifg.cc/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=13&amp;limitstart=13" class="pagenav"><strong>2</strong></a> <a href="http://www.ifg.cc/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=13&amp;limitstart=26" class="pagenav"><strong>3</strong></a> <a href="http://www.ifg.cc/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=13&amp;limitstart=39" class="pagenav"><strong>4</strong></a> <a href="http://www.ifg.cc/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=13&amp;limitstart=52" class="pagenav"><strong>5</strong></a> <a href="http://www.ifg.cc/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=13&amp;limitstart=65" class="pagenav"><strong>6</strong></a> <a href="http://www.ifg.cc/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=13&amp;limitstart=78" class="pagenav"><strong>7</strong></a> <a href="http://www.ifg.cc/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=13&amp;limitstart=91" class="pagenav"><strong>8</strong></a> <a href="http://www.ifg.cc/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=13&amp;limitstart=104" class="pagenav"><strong>9</strong></a> <a href="http://www.ifg.cc/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=13&amp;limitstart=117" class="pagenav"><strong>10</strong></a> <a href="http://www.ifg.cc/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=13&amp;limitstart=13" class="pagenav" title="Next">Next&nbsp;&gt;</a> <a href="http://www.ifg.cc/index.php?option=com_frontpage&amp;Itemid=1&amp;limit=13&amp;limitstart=27625" class="pagenav" title="End">End&nbsp;&gt;&gt;</a><br /><br /></td></tr><tr><td valign="top" align="center">Results 1 - 13 of 27632</td></tr></table>		</td>
+		<td width="4" valign="top" bgcolor="#FFFFFF"><img src="images/pixel.gif" width="4" height="1" /></td>
+		<td width="150" valign="top" class="bg-grey" align="center">
+			<DIV id="blok-right"> 
+						<table cellpadding="0" cellspacing="0" class="moduletable-search">
+				<tr>
+			<td>
+				
+<form action="index.php?option=com_search" method="get">
+	<div class="search-search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="search" class="inputbox-search" type="text" size="13" value="search..."  onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';" /><input type="submit" value="go" class="button-search"/>	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+	<input type="hidden" name="searchphrase" value="all" />
+</form>			</td>
+		</tr>
+		</table>
+								<table cellpadding="0" cellspacing="0" class="moduletable">
+				<tr>
+			<td>
+							</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Events				</th>
+			</tr>
+					<tr>
+			<td>
+				<link href="modules/mod_events_cal.css" rel="stylesheet" type="text/css" />
+<table width="140" align="center">
+<tr><td class="mod_events_monthyear">
+<div align="center">February 2014</div>
+</td></tr></table>
+<table align="center" class="mod_events_table" cellspacing="0" cellpadding="2" ><tr class="mod_events_dayname">
+<td class="mod_events_td_dayname">M</td>
+<td class="mod_events_td_dayname">T</td>
+<td class="mod_events_td_dayname">W</td>
+<td class="mod_events_td_dayname">T</td>
+<td class="mod_events_td_dayname">F</td>
+<td class="mod_events_td_dayname">S</td>
+<td class="mod_events_td_dayname"><font color="red">S</font></td>
+</tr><tr>
+<td class="mod_events_td_dayoutofmonth">27</td><td class="mod_events_td_dayoutofmonth">28</td><td class="mod_events_td_dayoutofmonth">29</td><td class="mod_events_td_dayoutofmonth">30</td><td class="mod_events_td_dayoutofmonth">31</td><td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=01&amp;Itemid=">1</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=02&amp;Itemid=">2</a></td>
+</tr>
+<tr><td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=03&amp;Itemid=">3</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=04&amp;Itemid=">4</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=05&amp;Itemid=">5</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=06&amp;Itemid=">6</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=07&amp;Itemid=">7</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=08&amp;Itemid=">8</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=09&amp;Itemid=">9</a></td>
+</tr>
+<tr><td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=10&amp;Itemid=">10</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=11&amp;Itemid=">11</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=12&amp;Itemid=">12</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=13&amp;Itemid=">13</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=14&amp;Itemid=">14</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=15&amp;Itemid=">15</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=16&amp;Itemid=">16</a></td>
+</tr>
+<tr><td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=17&amp;Itemid=">17</a></td>
+<td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=18&amp;Itemid="><b>18</b></a></td>
+<td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=19&amp;Itemid="><b>19</b></a></td>
+<td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=20&amp;Itemid="><b>20</b></a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=21&amp;Itemid=">21</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=22&amp;Itemid=">22</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=23&amp;Itemid=">23</a></td>
+</tr>
+<tr><td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=24&amp;Itemid=">24</a></td>
+<td class="mod_events_td_todaynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=25&amp;Itemid=">25</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=26&amp;Itemid=">26</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=27&amp;Itemid=">27</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=02&amp;day=28&amp;Itemid=">28</a></td>
+<td class="mod_events_td_dayoutofmonth">1</td>
+<td class="mod_events_td_dayoutofmonth">2</td>
+</tr></table><table width="140" align="center"><tr><td class="mod_events_thismonth" >
+<div align="center"><a class="mod_events_link" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_month&amp;Itemid=&amp;month=02&amp;year=2014">This month</a></div>
+</td></tr>
+</table>
+<table width="140" align="center">
+<tr><td class="mod_events_monthyear">
+<div align="center">March 2014</div>
+</td></tr></table>
+<table align="center" class="mod_events_table" cellspacing="0" cellpadding="2" ><tr class="mod_events_dayname">
+<td class="mod_events_td_dayname">M</td>
+<td class="mod_events_td_dayname">T</td>
+<td class="mod_events_td_dayname">W</td>
+<td class="mod_events_td_dayname">T</td>
+<td class="mod_events_td_dayname">F</td>
+<td class="mod_events_td_dayname">S</td>
+<td class="mod_events_td_dayname"><font color="red">S</font></td>
+</tr><tr>
+<td class="mod_events_td_dayoutofmonth">24</td><td class="mod_events_td_dayoutofmonth">25</td><td class="mod_events_td_dayoutofmonth">26</td><td class="mod_events_td_dayoutofmonth">27</td><td class="mod_events_td_dayoutofmonth">28</td><td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=01&amp;Itemid=">1</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=02&amp;Itemid=">2</a></td>
+</tr>
+<tr><td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=03&amp;Itemid=">3</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=04&amp;Itemid=">4</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=05&amp;Itemid=">5</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=06&amp;Itemid=">6</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=07&amp;Itemid=">7</a></td>
+<td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=08&amp;Itemid="><b>8</b></a></td>
+<td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=09&amp;Itemid="><b>9</b></a></td>
+</tr>
+<tr><td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=10&amp;Itemid="><b>10</b></a></td>
+<td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=11&amp;Itemid="><b>11</b></a></td>
+<td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=12&amp;Itemid="><b>12</b></a></td>
+<td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=13&amp;Itemid="><b>13</b></a></td>
+<td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=14&amp;Itemid="><b>14</b></a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=15&amp;Itemid=">15</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=16&amp;Itemid=">16</a></td>
+</tr>
+<tr><td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=17&amp;Itemid=">17</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=18&amp;Itemid=">18</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=19&amp;Itemid=">19</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=20&amp;Itemid=">20</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=21&amp;Itemid=">21</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=22&amp;Itemid=">22</a></td>
+<td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=23&amp;Itemid="><b>23</b></a></td>
+</tr>
+<tr><td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=24&amp;Itemid="><b>24</b></a></td>
+<td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=25&amp;Itemid="><b>25</b></a></td>
+<td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=26&amp;Itemid="><b>26</b></a></td>
+<td class="mod_events_td_daywithevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=27&amp;Itemid="><b>27</b></a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=28&amp;Itemid=">28</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=29&amp;Itemid=">29</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=30&amp;Itemid=">30</a></td>
+</tr>
+<tr><td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_day&amp;year=2014&amp;month=03&amp;day=31&amp;Itemid=">31</a></td>
+<td class="mod_events_td_dayoutofmonth">1</td>
+<td class="mod_events_td_dayoutofmonth">2</td>
+<td class="mod_events_td_dayoutofmonth">3</td>
+<td class="mod_events_td_dayoutofmonth">4</td>
+<td class="mod_events_td_dayoutofmonth">5</td>
+<td class="mod_events_td_dayoutofmonth">6</td>
+</tr></table><table width="140" align="center"><tr><td class="mod_events_thismonth" >
+<div align="center"><a class="mod_events_link" href="http://www.ifg.cc/index.php?option=com_events&amp;task=view_month&amp;Itemid=&amp;month=03&amp;year=2014">Next month</a></div>
+</td></tr>
+</table>
+			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Media Partner				</th>
+			</tr>
+					<tr>
+			<td>
+							</td>
+		</tr>
+		</table>
+									</DIV>
+			<br>
+						
+			<a href="http://www.verwaltung-management.de" target="_blank"><img src="templates/ifgcc/images/vm.gif" border="0"/></a><br>
+			
+			<img src="templates/ifgcc/images/pixel.gif" width="1" height="20"/><br>
+			
+			<a href="http://www.epracticejournal.eu/" target="_blank"><img src="templates/ifgcc/images/epracticejournal115.png" border="0"/></a><br>
+			
+			<img src="templates/ifgcc/images/pixel.gif" width="1" height="20"/><br>
+			
+			<a href="http://www.egov-praesenz.ch" target="_blank"><img src="templates/ifgcc/images/egovpraesenz.gif" border="0"/></a><br>
+					
+			<img src="templates/ifgcc/images/pixel.gif" width="1" height="20"/><br>
+			
+			<a href="http://www.egovernment-computing.de" target="_blank"><img src="templates/ifgcc/images/egovernmentcomputing.gif" border="0"/></a><br>
+								
+			<img src="templates/ifgcc/images/pixel.gif" width="1" height="20"/><br>
+			
+			<a href="http://www.igi-global.com" target="_blank"><img src="templates/ifgcc/images/igi.gif" border="0"/></a><br>
+			
+			<img src="templates/ifgcc/images/pixel.gif" width="1" height="20"/><br>
+			
+			<a href="http://soc.kuleuven.be/io/egpa/pub/index.htm" target="_blank"><img src="templates/ifgcc/images/pababel.gif" border="0"/></a><br>	
+			
+			<img src="templates/ifgcc/images/pixel.gif" width="1" height="20"/><br>
+			
+			<a href="http://www.behoerden-spiegel.de" target="_blank"><img src="templates/ifgcc/images/behoerdenspiegel.gif" border="0"/></a><br>
+			
+			<img src="templates/ifgcc/images/pixel.gif" width="1" height="20"/><br>
+			
+			<a href="http://www.government2020.de" target="_blank"><img src="templates/ifgcc/images/blog_egovernment2020.gif" border="0"/></a><br>
+			
+			<img src="templates/ifgcc/images/pixel.gif" width="1" height="20"/><br>
+			
+			<a href="http://www.edition-sigma.de" target="_blank"><img src="templates/ifgcc/images/editionsigma.gif" border="0"/></a><br>
+			
+			<img src="templates/ifgcc/images/pixel.gif" width="1" height="20"/><br>
+			
+		</td>
+    </tr>
+	<tr valign="middle"> 
+		<td colspan="5" align="center" class="bg-dark"><table cellspacing="1" cellpadding="0" border="0" width="100%">
+<tr>
+<td valign="top">
+		<table cellpadding="0" cellspacing="0" class="moduletable-footer">
+				<tr>
+			<td>
+							</td>
+		</tr>
+		</table>
+		</td>
+</tr>
+</table>
+</td>
+    </tr>
+  </table>
+</div>
+
+
+</body>
+</html><!-- 1393363601 -->++++++++++++++++++++<Over>++++++++++++++++++++

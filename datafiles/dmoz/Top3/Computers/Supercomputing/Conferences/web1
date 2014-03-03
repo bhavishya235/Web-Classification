@@ -1,0 +1,932 @@
+====================<http://www.supercomp.de/>====================
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!--
+
+	This website is powered by Contao Open Source CMS :: Licensed under GNU/LGPL
+	Copyright ©2005-2014 by Leo Feyer :: Extensions are copyright of their respective owners
+	Visit the project website at http://www.contao.org for more information
+
+//-->
+<title>International Supercomputing Conference - ISC</title>
+<base href="http://www.isc-events.com/isc14/">
+<meta name="robots" content="index,follow">
+<meta name="description" content="ISC is an IEEE-recognized key global conference and exhibition for high performance computing, networking and storage.">
+<meta name="keywords" content="">
+<link rel="stylesheet" href="system/contao.css" media="screen">
+<style media="screen">
+#wrapper{width:978;margin:0 auto;}
+#right{width:222px;}
+#main{margin-right:222px;}
+</style>
+<link rel="stylesheet" href="system/modules/pk_noobSlide/html/pkNoobSlide.css" media="all">
+<link rel="stylesheet" href="plugins/mediabox/1.3.4/css/mediaboxAdvBlack21.css" media="screen">
+<link rel="stylesheet" href="system/scripts/1229ed8b4e12.css" media="all">
+<!--[if lte IE 8]><link rel="stylesheet" href="system/scripts/ie.css" media="all"><![endif]-->
+<!--[if IE 9]><link rel="stylesheet" href="system/scripts/ie9.css" media="all"><![endif]-->
+<script src="system/scripts/6bb6ab418aaa.js"></script>
+<script src="system/modules/pk_noobSlide/html/class.noobSlide.packed.js"></script>
+<style type="text/css" media="screen">
+/* noobslide-css-start */
+ #noobContainer498 section.block{ width:978px; float:left; vertical-align: text-top; } #noobContainer498{ position:absolute; } #noobContainer498 .buttons{ text-align:left; } #noobContainer498 .next{ float:right; } 
+/* noobslide-css-end */
+</style>
+<script type="text/javascript">
+window.addEvent('domready',function(){
+/* noobslide-js-start */
+var nS498=new noobSlide({box:$('noobContainer498'),items:[0],fade:'true',divElements:'#noobContainer498 >section',size:978,interval:6000,autoPlay:false});nS498.walk(0,false,true);
+/* noobslide-js-end */
+});
+</script>
+<!--[if IE ]>
+<link rel="stylesheet" type="text/css" href="tl_files/isc/ie.css">
+<![endif]-->
+<!--[if IE 9 ]>
+<link rel="stylesheet" type="text/css" href="tl_files/isc/ie9.css">
+<![endif]-->
+<link type="text/css" href="tl_files/isc/jquery.jscrollpane.css" rel="stylesheet" media="all" />
+<script type="text/javascript" src="tl_files/isc/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="tl_files/isc/js/jquery.jcarousellite.min.js"></script>
+<script type="text/javascript" src="tl_files/isc/js/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="tl_files/isc/js/jquery.jscrollpane.min.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery(function() {
+		jQuery(".jCarouselLite").jCarouselLite({
+			auto: 0,
+			speed: 500,
+			visible: 4,
+			circular: true,
+			start: 0,
+			btnNext: ".photos-box .next",
+		    btnPrev: ".photos-box .prev"
+
+		});
+	});
+});
+</script>
+<script type="text/javascript">
+  $.noConflict();
+  // Code that uses other library's $ can follow here.
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery(".item-show-details").hide();
+	jQuery(".show").toggle(function()
+	{ 
+		jQuery(".show").addClass("hide");
+		jQuery(".show").text("Hide"); 
+		jQuery(".item-show-details").slideDown();
+	},function()
+	{
+		jQuery(".show").text("Show All");  
+		jQuery(".item-show-details").slideUp();
+		jQuery(".show").removeClass("hide");
+	});	
+});
+</script>
+<!--[if lt IE 9]><script src="plugins/html5shim/html5-1.6.2.js"></script><![endif]-->
+</head>
+<body id="top" class="unix chrome ch23">
+
+<!--[if lte IE 6]>
+<div style="background:#ffc;padding:12px;border-bottom:1px solid #e4790f;font-size:14px;color:#000;text-align:center;"><strong>Attention!</strong> Your web browser is <a href="http://ie6countdown.com" style="font-size:14px;color:#e4790f;">out of date</a> and <strong>you cannot use all features of this website</strong>.</div>
+<![endif]-->
+
+<div id="wrapper" class="layout-1">
+
+<header id="header">
+<div class="inside">
+
+<a href="#" id="logo"><img src="tl_files/isc/img/logo-isc.png" id="logo-isc" width="397" height="74" alt="logo-isc" /></a>
+<span class="header-sticker alignleft"></span>
+<div class="header-event alignleft clearfix">
+	<div class="isc-event alignleft">
+                <strong>ISC’14</strong>
+		<span>The HPC Event</span>
+	</div>
+	<p class="header-contact alignleft">
+		Leipzig, Germany<br>
+		June 22–26, 2014
+	</p>
+</div>
+<span class="meta-navi alignleft"> </span><article class="mod_article block" id="home">
+<a name="home"></a>
+<!-- indexer::continue -->
+<!--<h2>Latest Photos</h2>-->
+<section class="ce_noobSlideStart block">
+<div class="noobWrapper" style="width: 978px;height: 323px;">
+    <div id="noobContainer498">
+<section class="ce_image block">
+
+<figure class="image_container">
+<img src="tl_files/isc/images/topSlider/slider-img_2.png" width="978" height="322" alt="">
+</figure>
+
+</section>
+</div>
+  </div>
+  
+     
+      
+   	    
+  
+  
+</section>
+
+
+		
+		 	
+		
+		
+</article>
+
+<!-- indexer::stop -->
+<nav class="mod_navigation block" id="mainNavigation">
+
+<a href="#skipNavigation52" class="invisible">Skip navigation</a>
+
+<ul class="level_1 ">
+<li class="active first">
+
+<a class="active first"><span>Home</span></a></li>
+<li class="submenu sibling">
+
+<a href="Overview.html" title="Program" class="submenu sibling"><span>Program</span></a>
+
+
+<ul class="level_2 ">
+<li class="first">
+
+<a href="Overview.html" title="Overview" class="first"><span>Overview</span></a>
+
+</li>
+<li class="submenu">
+
+<a href="tuesday_keynote.html" title="ISC'14 Keynotes" class="submenu"><span>ISC'14 Keynotes</span></a>
+
+
+<ul class="level_3 ">
+<li class="first">
+
+<a href="tuesday_keynote.html" title="Tuesday Keynote" class="first"><span>Tuesday Keynote</span></a>
+
+</li>
+<li>
+
+<a href="wednesday-keynote.html" title="Wednesday Keynote"><span>Wednesday Keynote</span></a>
+
+</li>
+<li class="last">
+
+<a href="thursday_keynote.html" title="Thursday Keynote" class="last"><span>Thursday Keynote</span></a>
+
+</li>
+</ul>
+</li>
+<li>
+
+<a href="research-papers.html" title="Research Papers"><span>Research Papers</span></a>
+
+</li>
+<li>
+
+<a href="research-posters.html" title="Research Posters"><span>Research Posters</span></a>
+
+</li>
+<li>
+
+<a href="hpc-in-asia-posters.html" title="HPC in Asia Posters"><span>HPC in Asia Posters</span></a>
+
+</li>
+<li>
+
+<a href="tutorials.html" title="Tutorials"><span>Tutorials</span></a>
+
+</li>
+<li>
+
+<a href="bof-sessions.html" title="BoF Sessions"><span>BoF Sessions</span></a>
+
+</li>
+<li class="last">
+
+<a href="isc-committees.html" title="ISC Committees" class="last"><span>ISC Committees</span></a>
+
+</li>
+</ul>
+</li>
+<li class="submenu sibling">
+
+<a href="exhibiting_sponsoring.html" title="Sponsors &amp; Exhibitors" class="submenu sibling"><span>Sponsors &amp; Exhibitors</span></a>
+
+
+<ul class="level_2 ">
+<li class="first">
+
+<a href="exhibiting_sponsoring.html" title="Exhibiting &amp; Sponsoring" class="first"><span>Exhibiting &amp; Sponsoring</span></a>
+
+</li>
+<li class="last">
+
+<a href="sponsor-exhibitor-listing.html" title="Sponsor/Exhibitor Listing" class="last"><span>Sponsor/Exhibitor Listing</span></a>
+
+</li>
+</ul>
+</li>
+<li class="submenu sibling">
+
+<a href="online_registration.html" title="Registration" class="submenu sibling"><span>Registration</span></a>
+
+
+<ul class="level_2 ">
+<li class="first last">
+
+<a href="online_registration.html" title="Online Registration" class="first last"><span>Online Registration</span></a>
+
+</li>
+</ul>
+</li>
+<li class="submenu sibling">
+
+<a href="venue.html" title="Travel &amp; Stay" class="submenu sibling"><span>Travel &amp; Stay</span></a>
+
+
+<ul class="level_2 ">
+<li class="first">
+
+<a href="venue.html" title="Venue" class="first"><span>Venue</span></a>
+
+</li>
+<li>
+
+<a href="travel.html" title="Travel"><span>Travel</span></a>
+
+</li>
+<li class="last">
+
+<a href="isc-hotel-booking-service.html" title="ISC Hotel Booking Service" class="last"><span>ISC Hotel Booking Service</span></a>
+
+</li>
+</ul>
+</li>
+<li class="submenu sibling">
+
+<a href="newsletter.html" title="Newsroom" class="submenu sibling"><span>Newsroom</span></a>
+
+
+<ul class="level_2 ">
+<li class="first">
+
+<a href="newsletter.html" title="ISC Newsletter" class="first"><span>ISC Newsletter</span></a>
+
+</li>
+<li>
+
+<a href="isc-interviews.html" title="ISC Interviews"><span>ISC Interviews</span></a>
+
+</li>
+<li>
+
+<a href="press-releases.html" title="Press Releases"><span>ISC Press Releases</span></a>
+
+</li>
+<li>
+
+<a href="media-sponsors.html" title="Media Sponsors"><span>Media Sponsors</span></a>
+
+</li>
+<li class="last">
+
+<a href="image-logo-audio-video.html" title="Images, Logo, Audio, Video" class="last"><span>Images, Logo, Audio, Video</span></a>
+
+</li>
+</ul>
+</li>
+<li class="submenu sibling last">
+
+<a href="team.html" title="Community" class="submenu sibling last"><span>Community</span></a>
+
+
+<ul class="level_2 ">
+<li class="first">
+
+<a href="team.html" title="ISC Team" class="first"><span>ISC Team</span></a>
+
+</li>
+<li>
+
+<a href="isc-fellows.html" title="ISC Fellows"><span>ISC Fellows</span></a>
+
+</li>
+<li>
+
+<a href="isc-committees.html" title="ISC Committees"><span>ISC Committees</span></a>
+
+</li>
+<li>
+
+<a href="student-cluster-competition.html" title="Student Cluster Competition"><span>Student Cluster Competition</span></a>
+
+</li>
+<li>
+
+<a href="student-volunteers.html" title="Student Volunteers"><span>Student Volunteers</span></a>
+
+</li>
+<li>
+
+<a href="social-networking.html" title="Social Networking"><span>Social Networking</span></a>
+
+</li>
+<li>
+
+<a href="blogs.html" title="Blog"><span>ISC HPC Blog</span></a>
+
+</li>
+<li class="last">
+
+<a href="video-testimonials.html" title="Video Testimonials" class="last"><span>Video Testimonials</span></a>
+
+</li>
+</ul>
+</li>
+</ul>
+
+<a id="skipNavigation52" class="invisible">&nbsp;</a>
+
+</nav>
+<!-- indexer::continue -->
+ 
+</div>
+</header>
+
+<div id="container">
+
+<aside id="right">
+<div class="inside">
+<article class="mod_article block" id="home-important-dates-245">
+<a name="home-important-dates-245"></a>
+<!-- indexer::continue -->
+
+<section class="ce_text block" style="margin-top:0px; margin-bottom:15px;">
+
+<h2>Conference Dates</h2>
+
+<table dir="ltr">
+<tbody>
+<tr style="background-color: #f5f5f5;">
+<td style="width: 142px;">
+<p>Tutorials</p>
+</td>
+<td style="width: 80px;">
+<p>June 22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Conference</p>
+</td>
+<td>
+<p>June 23–26</p>
+</td>
+</tr>
+<tr style="background-color: #f5f5f5;">
+<td>
+<p>Exhibition</p>
+</td>
+<td>
+<p>June 23–25</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</section>
+
+</article>
+<article class="mod_article block" id="videoblog_home">
+<a name="videoblog_home"></a>
+<!-- indexer::continue -->
+
+<h2 class="ce_headline" style="margin-bottom:20px;">Testimonials</h2>
+<section class="ce_videobox ce_videobox block">
+		<!-- indexer::stop -->
+<section id="video_3_0494ab048a970dbb067177b3f80a9491">
+<iframe width="220" height="141" src="http://www.youtube.com/embed/6j_uTUiqx0Q?rel=1&amp;color1=0x000000&amp;color2=0xFFFFFF&showinfo=0"></iframe>
+</section>
+<!-- indexer::continue -->	<p><strong>Jack Dongarra<br></strong><span style="font-size: 11px;">University Distinguished Professor</span><br><span style="font-size: 11px;">University of Tennessee, US<strong><br></strong></span><strong></strong></p></section>
+<section class="ce_text block">
+
+<p><strong><a class="p-link" href="http://www.youtube.com/user/VideoISCEvents?feature=watch" target="_blank">More videos are available here »</a></strong></p>
+</section>
+
+</article>
+
+<!--<div class="social-media clearfix">
+  <a href="http://www.isc-events.com/ct.php?id=24" title="twitter" target="_blank"><img src="tl_files/isc/img/icon-twitter.png" title="twitter" alt="twitter" /></a>
+  <a href="http://www.isc-events.com/ct.php?id=25" title="facebook" target="_blank"><img src="tl_files/isc/img/icon-facebook.png" title="facebook" alt="facebook" /></a>
+  <a href="http://www.isc-events.com/ct.php?id=26" title="linkedin" target="_blank"><img src="tl_files/isc/img/icon-linkedin.png" title="linkedin" alt="linkedin" /></a>
+  <a href="http://www.isc-events.com/ct.php?id=27" title="youtube" target="_blank"><img src="tl_files/isc/img/icon-youtube.png" title="youtube" alt="youtube" /></a>
+  <a href="http://www.isc-events.com/ct.php?id=28" title="flickr" target="_blank"><img src="tl_files/isc/img/icon-flickr.png" title="flickr" alt="flickr" /></a>				
+  <a href="http://digg.com/" title="digg" target="_blank"><img src="tl_files/isc/img/icon-digg.png" title="digg" alt="digg" /></a>
+  <a href="http://delicious.com/" title="delicious" target="_blank"><img src="tl_files/isc/img/icon-delicious.png" title="delicious" alt="delicious" /></a>
+</div> --><!-- indexer::stop -->
+<div class="mod_contentbox block">
+
+
+</div>
+<!-- indexer::continue --><!-- indexer::stop -->
+<div class="mod_contentbox block">
+
+<div class="ce_module  mod_box_items block">
+<!-- indexer::stop -->
+<div class="buzz-block buzz-redius clearfix">
+    <div class="buzz-block-inner clearfix">
+        <h2 class="buzz-heading">
+            The Buzz
+            <span class="buzz-block-top"></span>
+            <span class="buzz-heading-shadow"></span>
+        </h2>
+        <div class="buzz-details clearfix" style="position:relative;">
+			<img src="tl_files/isc/img/ajax-loader.gif" alt="" id="loader" style="position:absolute;top:100px;left:95px;" />
+			<iframe src="tl_files/isc/thebuzz.php" onload="document.getElementById('loader').style.display = 'none';" width="220" height="245" frameborder="0" style="border:0;"></iframe>
+        </div>
+        <span class="buzz-btm-bg"></span>
+    </div>
+</div>
+<!-- indexer::continue --></div>
+</div>
+<!-- indexer::continue --><!-- indexer::stop -->
+<div class="mod_contentbox block">
+
+
+</div>
+<!-- indexer::continue --> 
+</div>
+</aside>
+
+<section id="main">
+<div class="inside">
+<article class="mod_article block" id="isc-happenings">
+<a name="isc-happenings"></a>
+<!-- indexer::continue -->
+
+<section class="ce_text block" style="margin-bottom:40px;">
+
+<h2>ISC Happenings</h2>
+
+<p><em>February 25, 2014 -<span style="color: #000000;">&nbsp;</span></em><strong><span style="color: #000000;"><span style="color: #000000;"><a class="p-link" href="http://www.isc-events.com/isc14/isc-interview/items/upgraded-air-conditioning-and-more-robust-internet-await-attendees-and-exhibitors.html">Upgraded Air-Conditioning and More Robust Internet Await Attendees and Exhibitors</a></span></span></strong></p>
+<p>Congress center Leipzig (CCL) director reveals the latest refurbishments that await attendees in June.</p>
+<p>&nbsp;</p>
+<p><em style="font-size: 13.333333969116211px;">February 14, 2014</em><strong style="font-size: 13.333333969116211px;"> - <span style="color: #000000;"><a class="p-link" href="https://www.tacc.utexas.edu/news/feature-stories/2014/tacc-welcomes-the-2014-south-african-student-cluster-team-to-austin">ISC'14 South African Student Cluster Team Visits TACC in Austin</a></span></strong></p>
+<p>The 2014 team arrived in TACC eager to gain a competitive edge and to tour Stampede, the 7th most powerful supercomputer in the world.</p>
+<p>&nbsp;</p>
+<p><em>February 12, 2014</em><strong> - <span style="color: #000000;"><a class="p-link" href="http://www.isc-events.com/isc14/isc-interview/items/brain-derived-computing.html">Karlheinz Meier on Brain-Inspired Computing</a></span></strong></p>
+<p>Thursday keynoter talks about the emerging field of neuromorphic computing and the Human Brain Project. &nbsp;</p>
+</section>
+
+</article>
+<article class="mod_article block" id="exhibition-almost-sold-out">
+<a name="exhibition-almost-sold-out"></a>
+<!-- indexer::continue -->
+
+<section class="ce_text block" style="margin-bottom:40px;">
+
+<h2>Exhibition - Almost Sold Out!</h2>
+
+<p>The ISC Exhibition, the biggest HPC showcase in Europe connects HPC vendors and research centers with over 2500 users and potential collaborators. A decisive factor that ensures the success of exhibiting at ISC is that the attendees have a proven interest in the subject matter and, more importantly, have the purchasing power to buy products and services.<br>Around 95 percent of exhibiting space has already been taken. If you are interested in getting your company’s products and services in front of this select international audience, book soon, before the remaining spaces are gone.<br><a class="p-link" href="exhibiting_sponsoring.html">» More</a></p>
+</section>
+
+</article>
+<article class="mod_article block" id="conference-program">
+<a name="conference-program"></a>
+<!-- indexer::continue -->
+
+<section class="ce_text block" style="margin-bottom:40px;">
+
+<h2>Conference Program</h2>
+
+<p>Once again we will be providing our attendees with exclusive and timely content that matches their needs. By attending ISC, you will be connecting with 300 expert speakers who can share their perspectives on the latest developments in high performance computing. Featured this year, are topics such as the future direction of HPC technologies, life science applications, big data, quantum computing, and the real-world value of HPC.<br><a class="p-link" href="Overview.html">» More</a></p>
+</section>
+
+</article>
+<article class="mod_article block" id="industry-innovation-through-hpc">
+<a name="industry-innovation-through-hpc"></a>
+<!-- indexer::continue -->
+
+<section class="ce_text block">
+
+<h2>Industry Innovation through HPC</h2>
+
+<p>Businesses increasingly report that they are able to boost their productivity and competitiveness in the global market by deploying computer simulations and digital modeling. Such applications require high-end computing power and storage that are provided by HPC products and services. The challenge for many commercial users is that they don’t have the depth of knowledge and expertise necessary to leverage these quickly evolving technologies. <br><br>Our two-day track will help engineers, manufacturers and designers gain the right set of tools and methods they will need for acquiring and operating HPC systems. This track is all about return on investment and market competitiveness.<br>&nbsp;<br>More information about this new format will be published soon.<br><br></p>
+</section>
+
+</article>
+<!-- indexer::stop -->
+<div class="mod_contentbox block">
+
+
+</div>
+<!-- indexer::continue --> 
+</div>
+ 
+<div id="clear"></div>
+</section>
+
+</div>
+
+<div class="custom">
+
+<div id="platinum_sponsors">
+<div class="inside">
+<!-- indexer::stop -->
+<div class="mod_contentbox block">
+
+
+<div class="ce_text  mod_box_items block" style="margin-bottom:40px;">
+
+<div class="photos-box clearfix" style="height: 190px;">
+<div class="jCarouselLite clearfix" style="height: 190px;">
+<ul class="photos-slider clearfix" style="height: 190px;">
+<li><a title="title" href="Overview.html"> <img title="A lineup of 300 expert speakers will share their perspectives on the latest developments in HPC." src="tl_files/isc/images/footerSlider/Banner_final_neu1Conf.jpg" alt="Conference" width="189" height="150"> </a></li>
+<li><a title="title" href="#"> <img title="This program is all about return on investment and market competitiveness with the help of HPC." src="tl_files/isc/images/footerSlider/Banner_final_neu2Indu.jpg" alt="Industry Innovation through HPC" width="189" height="150"> </a></li>
+<li><a title="title" href="exhibiting_sponsoring.html"> <img title="The ISC Exhibition, the biggest HPC showcase in Europe connects HPC vendors with over 2500 users." src="tl_files/isc/images/footerSlider/Banner_final_neu3_Exhi.jpg" alt="Exhibition" width="189" height="150"> </a></li>
+<li><a title="title" href="newsletter.html"> <img title="Our ISC news section is dedicated to providing you with around the clock updates on our event." src="tl_files/isc/images/footerSlider/Banner_final_neu5_News.jpg" alt="News" width="189" height="150"> </a></li>
+</ul>
+</div>
+<span class="prevDisabled" title="">Previous</span> <span class="nextDisabled" title="">Next</span></div>
+</div>
+
+<div class="ce_text  mod_box_items block">
+
+<h2>ISC'14 Keynote Speakers</h2>
+
+<div class="photos-box clearfix">
+<div class="jCarouselLite clearfix">
+<ul class="photos-slider clearfix">
+<li><img title="Klaus Schulten" src="tl_files/isc/images/footerSlider/keynote_monday.jpg" alt="Klaus Schulten" width="189" height="150"><span>Conference Keynote<br>Klaus Schulten, University of Illinois at Urbana-Champaign</span></li>
+<li><img title="Satoshi Matsuoka" src="tl_files/isc/images/footerSlider/keynote_tuesday.jpg" alt="Satoshi Matsuoka" width="189" height="150"><span>Tuesday Keynote<br>Satoshi Matsuoka, Tokyo Institute of Technology</span></li>
+<li><img title="Thomas Sterling" src="tl_files/isc/images/footerSlider/keynote_wednesday.jpg" alt="Thomas Sterling" width="189" height="150"><span>Wednesday Keynote<br>Thomas Sterling, Indiana University</span></li>
+<li><img title="Karlheinz Meier" src="tl_files/isc/images/footerSlider/keynote_thursday.jpg" alt="Karlheinz Meier" width="189" height="150"><span>Thursday Keynote<br>Karlheinz Meier, Heidelberg University</span></li>
+</ul>
+</div>
+<span class="prevDisabled" title="">Previous</span> <span class="nextDisabled" title="">Next</span></div>
+</div>
+
+</div>
+<!-- indexer::continue -->
+<div class="sponsors-block clearfix">
+       <div class="platinum-sponsors alignleft" style="margin-top:40px;">
+            <h2>Platinum Sponsors</h2>
+            <ul class="sponsors-logo clearfix">
+                  <li><a title="Bull" href="http://www.bull.com" target="_blank"><img title="Bull" alt="Bull" src="tl_files/isc/images/logos/bull-logo.jpg"></a></li>
+             	  <li><a title="Intel" href="http://www.intel.com" target="_blank"><img title="Intel" alt="Intel" src="tl_files/isc/images/logos/Intel_201x56px.png"></a></li>
+                  <li><a title="Samsung" href="http://www.samsung.com/greenmemory" target="_blank"><img title="Samsung" alt="Samsung" src="tl_files/isc/images/logos/samsung-logo.jpg"></a></li>
+                  <li><a title="Supermicro" href="http://www.supermicro.com" target="_blank"><img title="Supermicro" alt="Supermicro" src="tl_files/isc/images/logos/supermicro-logo.png"></a></li></ul>
+           </ul>
+      </div>
+      <div class="partner alignright" style="margin-top:40px;">
+            <h2>ISC Partner</h2>
+            <ul class="partner-logo clearfix">
+                  <li><a title="IEEE" href="http://www.computer.org" target="_blank"><img title="IEEE" alt="computer society" src="tl_files/isc/images/logos/computer-society-logo.jpg"></a></li>
+            </ul>
+      </div>                 
+</div>
+<div class="isc-events-site clearfix">
+	<a title="ISC events" href="http://www.isc-events.com/" class="event-logo" target="_blank">
+          <img alt="ISC events" title="ISC events" src="tl_files/isc/images/logos/isc-event-logo.png" />
+	</a>
+	<a title="To ISC events site" href="http://www.isc-events.com/" class="site-arrow" target="_blank">To ISC events site</a>				
+</div>
+</div>
+</div>
+
+</div>
+
+
+</div>
+
+
+
+<footer id="footer">
+<div class="inside" id="footer-inner">
+
+<div class="footer-meta clearfix">
+			<div class="newsletter-block alignleft">
+				<span>Newsletter</span>
+				<a title="Sign up for regular ISC infos" href="http://isc-events.us1.list-manage1.com/subscribe?u=f8143844ff9ef5d2f467e52cd&amp;id=9a0830918a" target="_blank">Sign up for regular ISC infos</a>
+			</div>
+			<ul class="meta-link alignright">
+                        	<li><a title="Contact" href="contact.html">Contact</a></li>
+                                <li><a title="FAQ" href="faq.html">FAQ</a></li>
+				<li><a title="Imprint" href="imprint.html">Imprint</a></li>
+                                <li><a title="Sitemap" href="sitemap.html">Sitemap</a></li>
+				<!--<li><a title="About" href="about.html">About</a></li>-->
+				<li class="social-icon"><span>Follow us:</span>                              
+					<a title="twitter" href="http://www.isc-events.com/ct.php?id=24" target="_blank"><img alt="twitter" title="twitter" src="tl_files/isc/img/icon-twitter.png"></a>
+					<a title="facebook" href="http://www.isc-events.com/ct.php?id=25" target="_blank"><img alt="facebook" title="facebook" src="tl_files/isc/img/icon-facebook.png"></a>
+					<a title="linkedin" href="http://www.isc-events.com/ct.php?id=26" target="_blank"><img alt="linkedin" title="linkedin" src="tl_files/isc/img/icon-linkedin.png"></a>
+					<a title="youtube" href="http://www.isc-events.com/ct.php?id=27" target="_blank"><img alt="youtube" title="youtube" src="tl_files/isc/img/icon-youtube.png"></a>
+					<a title="flickr" href="http://www.isc-events.com/ct.php?id=28" target="_blank"><img alt="flickr" title="flickr" src="tl_files/isc/img/icon-flickr.png"></a>				
+					<a title="digg" href="http://digg.com/" target="_blank"><img alt="digg" title="digg" src="tl_files/isc/img/icon-digg.png"></a>
+					<a title="delicious" href="http://delicious.com/" target="_blank"><img alt="delicious" title="delicious" src="tl_files/isc/img/icon-delicious.png"></a>
+				</li>
+			</ul>
+		</div>
+<!-- indexer::stop -->
+<nav class="mod_selectnav block" id="footer_navi">
+
+<a href="#skipNavigation5" class="invisible">Skip navigation</a>
+
+<ul class="level_1 ">
+<li class="submenu sibling first">
+
+<a href="Overview.html" title="Program" class="submenu sibling first"><span>Program</span></a>
+
+
+<ul class="level_2 ">
+<li class="first">
+
+<a href="Overview.html" title="Overview" class="first"><span>Overview</span></a>
+
+</li>
+<li>
+
+<a href="tuesday_keynote.html" title="ISC'14 Keynotes"><span>ISC'14 Keynotes</span></a>
+
+</li>
+<li>
+
+<a href="research-papers.html" title="Research Papers"><span>Research Papers</span></a>
+
+</li>
+<li>
+
+<a href="research-posters.html" title="Research Posters"><span>Research Posters</span></a>
+
+</li>
+<li>
+
+<a href="hpc-in-asia-posters.html" title="HPC in Asia Posters"><span>HPC in Asia Posters</span></a>
+
+</li>
+<li>
+
+<a href="tutorials.html" title="Tutorials"><span>Tutorials</span></a>
+
+</li>
+<li class="last">
+
+<a href="bof-sessions.html" title="BoF Sessions" class="last"><span>BoF Sessions</span></a>
+
+</li>
+</ul>
+</li>
+<li class="submenu sibling">
+
+<a href="exhibiting_sponsoring.html" title="Sponsors &amp; Exhibitors" class="submenu sibling"><span>Sponsors &amp; Exhibitors</span></a>
+
+
+<ul class="level_2 ">
+<li class="first">
+
+<a href="exhibiting_sponsoring.html" title="Exhibiting &amp; Sponsoring" class="first"><span>Exhibiting &amp; Sponsoring</span></a>
+
+</li>
+<li class="last">
+
+<a href="sponsor-exhibitor-listing.html" title="Sponsor/Exhibitor Listing" class="last"><span>Sponsor/Exhibitor Listing</span></a>
+
+</li>
+</ul>
+</li>
+<li class="submenu sibling">
+
+<a href="venue.html" title="Travel &amp; Stay" class="submenu sibling"><span>Travel &amp; Stay</span></a>
+
+
+<ul class="level_2 ">
+<li class="first">
+
+<a href="venue.html" title="Venue" class="first"><span>Venue</span></a>
+
+</li>
+<li>
+
+<a href="travel.html" title="Travel"><span>Travel</span></a>
+
+</li>
+<li class="last">
+
+<a href="isc-hotel-booking-service.html" title="ISC Hotel Booking Service" class="last"><span>ISC Hotel Booking Service</span></a>
+
+</li>
+</ul>
+</li>
+<li class="submenu sibling">
+
+<a href="newsletter.html" title="Newsroom" class="submenu sibling"><span>Newsroom</span></a>
+
+
+<ul class="level_2 ">
+<li class="first">
+
+<a href="newsletter.html" title="ISC Newsletter" class="first"><span>ISC Newsletter</span></a>
+
+</li>
+<li>
+
+<a href="press-releases.html" title="Press Releases"><span>ISC Press Releases</span></a>
+
+</li>
+<li class="last">
+
+<a href="image-logo-audio-video.html" title="Images, Logo, Audio, Video" class="last"><span>Images, Logo, Audio, Video</span></a>
+
+</li>
+</ul>
+</li>
+<li class="submenu sibling last">
+
+<a href="team.html" title="Community" class="submenu sibling last"><span>Community</span></a>
+
+
+<ul class="level_2 ">
+<li class="first">
+
+<a href="team.html" title="ISC Team" class="first"><span>ISC Team</span></a>
+
+</li>
+<li>
+
+<a href="isc-fellows.html" title="ISC Fellows"><span>ISC Fellows</span></a>
+
+</li>
+<li>
+
+<a href="isc-committees.html" title="ISC Committees"><span>ISC Committees</span></a>
+
+</li>
+<li>
+
+<a href="student-cluster-competition.html" title="Student Cluster Competition"><span>Student Cluster Competition</span></a>
+
+</li>
+<li>
+
+<a href="student-volunteers.html" title="Student Volunteers"><span>Student Volunteers</span></a>
+
+</li>
+<li>
+
+<a href="social-networking.html" title="Social Networking"><span>Social Networking</span></a>
+
+</li>
+<li>
+
+<a href="blogs.html" title="Blog"><span>ISC HPC Blog</span></a>
+
+</li>
+<li class="last">
+
+<a href="video-testimonials.html" title="Video Testimonials" class="last"><span>Video Testimonials</span></a>
+
+</li>
+</ul>
+</li>
+</ul>
+
+<a id="skipNavigation5" class="invisible">&nbsp;</a>
+
+</nav>
+<!-- indexer::continue -->
+ 
+</div>
+</footer>
+
+<script>
+window.addEvent('domready', function() {
+  new Accordion($$('div.toggler'), $$('div.accordion'), {
+    opacity: false,
+    alwaysHide: true,
+    onActive: function(toggler, elem) {
+      elem.setProperty('aria-hidden', 'false');
+      toggler.addClass('active');
+      toggler.getNext('div').setStyle('visibility', 'visible').fade('in');
+      toggler.setProperty('aria-expanded', 'true');
+      return false;
+    },
+    onBackground: function(toggler, elem) {
+      elem.setProperty('aria-hidden', 'true');
+      toggler.removeClass('active');
+      toggler.getNext('div').fade('out').setStyle('visibility', 'hidden');
+      toggler.setProperty('aria-expanded', 'false');
+      return false;
+    }
+  });
+  $$('div.toggler').each(function(elem) {
+    elem.setProperty('role', 'tab');
+    elem.setProperty('tabindex', 0);
+    elem.addEvents({
+      'keypress': function(event) {
+        if (event.code == 13) {
+          this.fireEvent('click');
+        }
+      },
+      'focus': function() {
+        this.addClass('hover');
+      },
+      'blur': function() {
+        this.removeClass('hover');
+      },
+      'mouseenter': function() {
+        this.addClass('hover');
+      },
+      'mouseleave': function() {
+        this.removeClass('hover');
+      }
+    });
+  });
+  $$('div.ce_accordion').each(function(elem) {
+    elem.setProperty('role', 'tablist');
+  });
+  $$('div.accordion').each(function(elem) {
+    elem.setProperty('role', 'tabpanel');
+  });
+});
+</script>
+
+<script src="plugins/mediabox/1.3.4/js/mediabox.js"></script>
+<script>
+Mediabox.scanPage = function() {
+  var links = $$('a').filter(function(el) {
+    return el.rel && el.rel.test(/^lightbox/i);
+  });
+  $$(links).mediabox({/* Put custom options here */}, null, function(el) {
+    var rel0 = this.rel.replace(/[[]|]/gi,' ');
+    var relsize = rel0.split(' ');
+    return (this == el) || ((this.rel.length > 8) && el.rel.match(relsize[1]));
+  });
+};
+window.addEvent('domready', Mediabox.scanPage);
+</script>
+
+<script>
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-10875064-19']);
+_gaq.push(['_trackPageview']);
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Signika:400,300,600,700:latin,latin-ext' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+<script type="text/javascript">
+	jQuery(function()
+	{
+		jQuery('.scroll-pane').jScrollPane(
+				{
+					verticalDragMinHeight: 11,
+					verticalDragMaxHeight: 11
+				}
+			);
+	});
+</script>
+
+<script>
+new Request({
+  url:'system/html/cron.txt',
+  onComplete: function(txt) {
+    if (!txt) txt = 0;
+    if (parseInt(txt) < (Date.now()/1000 - 300)) {
+      new Request({url:'cron.php'}).get();
+    }
+  }
+}).get();
+</script>
+
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++

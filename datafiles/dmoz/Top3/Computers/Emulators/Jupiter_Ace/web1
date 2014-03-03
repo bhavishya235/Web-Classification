@@ -1,0 +1,637 @@
+====================<http://jupiter-ace.co.uk/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<!-- Jupiter Ace Archive Project    -->
+<!-- www.jupiter-ace.co.uk          -->
+<!-- version    12.3.29             -->
+<!-- File Name: index.html  -->
+<head>
+
+<TITLE>Jupiter Ace Resource Site - Intro and Home page.</TITLE>
+
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+
+  <meta name="keywords" content="Jupiter Ace ,Jupiter Ace Resource Site, Jupiter Cantab Ltd, Ace, Z80A, Forth, Forth-83 , Forth-79, Fig-Forth, Charles Moore, Elizabeth Rather, Steve Vickers, Richard Altwasser, Sinclair, ZX80, ZX81,ZX Spectrum, RAM, ROM, Memory, Computer, Retro, Programming, Stacks, reverse Polish notation">
+
+<meta name="description" content="Jupiter Ace Resourece site. Intro and Home page. The information included on this site is provided as a restoration and preservation project ">
+
+
+
+ <link rel="stylesheet" title="Jupiter Ace default style" type="text/css" href="JADefult_CSS.css">
+
+
+
+</head>
+
+
+
+<body>
+ <script type="text/javascript" src="milonic_src.js"></script>
+
+<script	type="text/javascript">
+<!--
+if(ns4)_d.write("<scr"+"ipt type=text/javascript src=mmenuns4.js><\/scr"+"ipt>");
+else _d.write("<scr"+"ipt type=text/javascript src=mmenudom.js><\/scr"+"ipt>");
+// -->
+</script>
+
+
+<div id="wrapper">
+	<div id="header">
+
+    </div>
+
+		<div class="main">
+	 	  	www.jupiter-ace.co.uk
+
+ 		</div>
+
+		<div id="space">&nbsp;
+		</div>
+
+		<div id="menu">
+
+ 			<script type="text/javascript" src="jupiter_menu_data.js"></script>
+		</div>
+
+		<div id="bar">
+
+			<a class="bar" href="index.html">Home</a> &gt; Welcome to the Jupiter Ace Archive site.
+
+    </div>
+
+
+
+
+		<div id="acepic"></div>
+		<div class="line"></div>
+
+  		<div class="main">
+
+              <h2> Welcome to the Jupiter Ace Archive site</h2>
+                                                              <br><br>
+
+
+			<!--<div class="paratitles">Introduction.</div>      -->
+
+
+
+            <div class="indentjust">
+
+
+                   <div  style="padding-left: 12px; margin-left: 60px; margin-right: 60px">
+
+					"The information on this site is provided as a restoration and preservation project,
+                    as my Jupiter Ace Manual has started to fall apart I wanted to do something to save it.
+                     Also, with the emulation software now from many talented programmers its very easy to use this software which would otherwise be lost forever." - Archive team.   <br> <br>
+We would also like the thank all Jupiter Ace users and enthusiasts because without their help much of the software in the archive would have been lost. We are still missing a large number of software titles so if you can help out please <a href="contactme.html">contact us</a>. If you are Ace user from the past we would very much like to hear from you!
+
+
+</div>
+
+</div>
+
+
+
+
+			  	<div class="center">
+				<br>
+				<a href="http://jupiterace.proboards.com">Jupiter Ace Message Forums</a>
+                                                                       <br><br>
+
+<center>Jupiter Ace IRC chat on <a href="http://www.efnet.org/">EFnet</a> and join #jupiterace
+
+ <script type="text/javascript"><!--
+function setjs() {
+ if(navigator.product == 'Gecko') {
+   document.getElementById('webchat_login')["interface"].value = 'mozilla';
+ }else if(window.opera && document.childNodes) {
+   document.getElementById('webchat_login')["interface"].value = 'opera7';
+ }else if(navigator.appName == 'Microsoft Internet Explorer' &&
+    navigator.userAgent.indexOf("Mac_PowerPC") > 0) {
+    document.getElementById('webchat_login')["interface"].value = 'konqueror';
+ }else if(navigator.appName == 'Microsoft Internet Explorer' &&
+ document.getElementById && document.getElementById('ietest').innerHTML) {
+   document.getElementById('webchat_login')["interface"].value = 'ie';
+ }else if(navigator.appName == 'Konqueror') {
+    document.getElementById('webchat_login')["interface"].value = 'konqueror';
+ }else if(window.opera) {
+   document.getElementById('webchat_login')["interface"].value = 'opera';
+ }
+}
+function setcharset() {
+	if(document.charset && document.getElementById('webchat_login')["Character set"]) {
+                var opt = document.createElement("option")
+                opt.value = document.charset
+		document.getElementById('webchat_login')['Character set'].appendChild(opt)
+
+        }
+}
+function selectOther(sel) {
+  if(sel.value == '_Other...') {
+    var opt=document.createElement('option')
+    if(opt.value=prompt(sel.name.replace(/_/, ' '), '')) {
+      opt.appendChild(document.createTextNode(opt.value))
+      sel.insertBefore(opt, sel.lastChild)
+      sel.selectedIndex=sel.length-2
+    } else {
+      sel.selectedIndex=0
+    }
+  }
+}
+//-->
+</script>
+
+<form id="webchat_login" action="http://chat.efnet.org:9090/" method="get" onsubmit="setjs();">
+
+  <br>
+	<fieldset style="width: 400px;">
+		<legend style="margin-left: 140px">Jupiter ACE IRC Login</legend>
+		<ul>
+			<li>
+				<label for="username">Nickname</label>
+
+				<input type="text" id="Nickname" name="nick" size="10" maxlength="10" value="ace_guest" onfocus="this.select();" onblur="if (this.value=='') {this.value='ace_guest';}" />
+			</li>
+			<li>
+				<label for="channel">Channel</label>
+				<input type="text" id="Channel" name="channels" size="10" maxlength="50" value="#jupiterace" onfocus="this.select();" onblur="if (this.value=='') {this.value='#jupiterace';}" />
+			</li>
+		</ul>
+		<input type="submit" id="Login" name="Login" value="Login"/>
+	</fieldset>
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</center>
+				</div>
+             	<div class="center">
+					For the latest updates to the Archive see <a  href="whatsnew.html">What's New</a>, or <a href="sitemap.html">Site map</a> for non standard web browser users.
+				</div>
+
+
+				<form action="/search/search.php" method="get">
+
+<br><br>Jupiter Ace Archive Search
+					<input type="text" name="query" size="24" value="" style="font-size: 14px;" >
+					<input type="submit" value="Go" name="input" class="submitBtn" >
+					<input type="hidden" name="search" value="1" >  <br>
+                  <a href="/search/search.php?adv=1">Advanced Search</a>
+				</form>
+
+
+
+<div class="clear"></div>
+
+<div class="footer"></div>
+<a href="copyright_infomation.html">&copy; 2004 - 2014</a>
+</div>
+</div>
+
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.jupiter-ace.co.uk/emulators_win.html#spudace>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="en">
+<!-- Jupiter Ace Archive Project    -->
+<!-- www.jupiter-ace.co.uk          -->
+<!-- version    12.3.17             -->
+<!-- File Name: emulators_win.html  -->
+
+<head>
+  <title>Jupiter Ace Resource Site - Jupiter Ace Emulators that run on Windows XP, Windows Vista, Windows 7</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
+
+  <meta name="keywords" content="Jupiter Ace ,Jupiter Ace Resource Site, Jupiter Cantab Ltd, Ace, Z80A, Forth, Forth-83 , Forth-79, Fig-Forth, Charles Moore, Elizabeth Rather, Steve Vickers, Richard Altwasser, Sinclair, ZX80, ZX81,ZX Spectrum, RAM, ROM, Memory, Computer, Retro, Programming, Stacks, reverse Polish notation">
+
+
+<meta name="description" content="Jupiter Ace Emulators for Windows such as SpudACE EightyOne Ace32xp Vace 3d Multi Machine MESS">
+
+  <link rel="stylesheet" title="Jupiter Ace default style" type="text/css" href="JADefult_CSS.css">
+</head>
+<body>
+  <!-- Begin Wrapper -->
+  <div id="wrapper">
+    <!-- Begin Header -->
+    <div id="header"></div>
+    <div class="main">
+      www.jupiter-ace.co.uk
+    </div><!-- End Header -->
+    <!-- menu bar -->
+    <div id="space">
+      
+    </div><!-- menu end -->
+    <!-- Menu -->
+    <div id="menu">
+      <script type="text/javascript" src="milonic_src.js">
+</script> <script type="text/javascript">
+
+<!--
+if(ns4)_d.write("<scr"+"ipt type=text/javascript src=mmenuns4.js><\/scr"+"ipt>");
+else _d.write("<scr"+"ipt type=text/javascript src=mmenudom.js><\/scr"+"ipt>");
+// -->
+</script> <script type="text/javascript" src="jupiter_menu_data.js">
+</script>
+    </div><!-- Menu End -->
+    <!-- menu bar -->
+
+    <div id="bar">
+      <a class="bar" href="index.html">Home</a> &gt; Jupiter Ace Emulators for Windows.
+    </div><!-- menu end -->
+    <!-- ace pic-->
+
+    <div id="acepic"></div>
+
+    <div class="footer"></div><!-- start main -->
+
+    <div class="main">
+      <div class="paratitles">
+        Jupiter Ace Emulators for Windows
+      </div>
+
+      <div class="indentjust">
+        We are lucky as there have been a few emulators over the years. Some are more useful than others, the
+        odd one has features that none of the others have such as EightyOne with its WAV loader.
+        Some have been abandoned for different reasons by their authors so  development has
+        stopped on some.
+      </div>
+
+  <div  style="text-align: left; margin-left: 3em">
+    <dl>
+        <dt>&nbsp;</dt>
+        <dd><a href="#spudace">SpudACE</a></dd>
+         <dd><a href="#mkorth">no$zx</a></dd>
+        <dd><a href="#eightyone">EightyOne</a></dd>
+        <dd><a href="#ace32_dosbox">Ace32xp &amp; DOSBox</a></dd>
+        <dd><a href="#vace10">Vace</a></dd>
+        <dd><a href="#vace3d">Vace 3d</a></dd>
+        <dd><a href="#mess">MESS</a></dd>
+        <dd><a href="#mm">Multi Machine</a></dd>
+    </dl>
+</div>
+
+
+       <div class="line"></div>
+
+   <!-- SpudACE start -->
+            <a name="spudace" id="spudace">&nbsp;</a>
+          <div class="paratitles">
+        SpudACE
+      </div>
+
+      <div style="float: right; padding: 4%">
+       <img src="graphics/spudace/spudACE_1.png" width="300" height="262" border="0" alt="SpudACE">
+      </div>
+
+
+      <div class="indentjust">
+        Is a new (2012) emulator written by Richard Chandler which will emulate the Jupiter ACE. Some features so far:
+       </div>
+
+
+
+       <div  style="margin-left: 5%; text-align: left">
+
+        100% accurate Z80 emulation.<br>
+        Drag and drop file loading.<br>
+        File Formats supported  .tap .wav .ace .txt<br>
+        text file spooling<br>
+        Accurate sound emulation.<br>
+        Soft &amp; hard rest.<br>
+        Generate NMI<br>
+        Save screenshot as a .bmp file<br>
+        View modes 100%, 200% Full screen. <br>
+        Tape browser<br>
+        WAV browser<br>
+        Snapshot save (.ACE)<br>
+        Set screen colours white (Ace default), green or amber.<br>
+        Folder locations for snapshots &amp; taps (see Options &gt; Folders)<br>
+        Tools - SpudACE calculator<br>
+        Save &amp; Load configuration<br>
+        Debugger<br>
+        Keyboard help window (see Tools &gt; display keyboard) <br>
+        View Registers<br>
+        View Memory<br>
+        View Disassembly<br>
+        load files from command line<br>
+        PC logging<br><br>
+
+        Keyboard layout &amp; Keys:<br><br>
+        Full Jupiter Ace keyboard emulated.<br>
+
+        PC shift keys = Ace shift key (shift+8 = <strong>(</strong> , shift+9 = <strong>)</strong>  shift+0 delete ) <br>
+        PC CNTRL keys = Ace symbol shift (cntrl+3 = <strong>#</strong> ,cntrl+z = <strong>:</strong> )<br>
+        PC ESC will pause / restart.<br>
+        PC F2 - will run SpudACE at full throttle (no sound)
+        PC F3 - SpudACE debug tools<br>
+        PC F4 - full screen mode, when in full screen F4 reverts back to normal window screen <br><br>
+
+
+  <dl>
+    <dt>New to version 0.313 May 2012</dt>
+    <dd>FIXED: Re-opening Load File dialog and selecting CANCEL crashed SpudACE. </dd>
+    <dd>FIXED: Rewind button on tape browser wasn't working.   </dd>
+    <dd>FIXED: Killing the WAV browser half way through a load crashed SpudACE.</dd>
+    <dd>FIXED: WAV browser now display correct info if selected half way through a load.</dd>
+    <dd>FIXED: Files weren't loading when being re-selected.  </dd>
+</dl>
+
+<dl>
+    <dt>New to version 0.314 August 2012</dt>
+    <dd>ADDED: BORDER can now be set to full size, medium size or no BORDER.  </dd>
+    <dd>ADDED: AY sound card emulation.  </dd>
+    <dd>ADD: another screen colour option. </dd>
+    <dd>FIXED: A very obscure bug in the Z80 core which no-one has noticed (including me until I fixed it).</dd>
+
+
+
+
+
+
+
+
+
+
+
+
+</dl>
+
+        <br><br>
+        Current version Download <a href="downloads/SpudACE[V0.314].zip">SpudACE 0.314</a>
+        <br><br>older versions
+(<a href="downloads/SpudACE[V0.313].zip">V0.313</a>)&nbsp;  
+(<a href="downloads/SpudACE[V0.312].zip">V0.312</a>)&nbsp;
+(<a href="downloads/SpudACE[V0.311].zip">V0.311</a>)&nbsp;
+(<a href="downloads/SpudACE[V0.310].zip">V0.310</a>)&nbsp;
+(<a href="downloads/SpudACE[V0.302].zip">V0.302</a>)&nbsp;
+(<a href="downloads/SpudACE[V0.301].zip">V0.301</a>)&nbsp;
+(<a href="downloads/SpudACE[V0.010].zip">V0.010</a>)&nbsp;
+(<a href="downloads/SpudACE[V0.008].zip">V0.008</a>)&nbsp;
+(<a href="downloads/SpudACE[V0.004].zip">V0.004</a>)
+        <br><br>
+        </div>
+
+
+
+      <div class="indentjust">
+        SpudACE runs very well with Windows XP/Vista/7 &amp; Linux with WINE installed.
+     </div>
+
+
+      <div class="center">
+       <img src="graphics/spudace/spudACE-v312.png" width="700" height="600" border="0" alt="SpudACE V0.312"><br><br>
+      <img src="graphics/spudace/SpudACE-WAV-loader.png" width="490" height="246" border="0" alt=""><br><br>
+       <img src="graphics/spudace/spudACE-v312-windows.png" width="700" height="600" border="0" alt="SpudAce windows"> <br><br>
+         <img src="graphics/spudace/spudACE-Linux.png" width="700" height="525" border="0" alt="spudACE-Linux"><br>
+        SpudACE running on <a href="http://www.debian.org/">Debian Linux 6.0 (Squeeze)</a> with <a href="http://www.winehq.org/">WINE</a>
+      </div>
+
+
+     <div class="line"></div>
+
+   <!-- SpudACE end -->
+
+    <!-- no$zx start -->
+
+        <a name="mkorth" id="no$zx">&nbsp;</a>
+      <div class="paratitles">
+      no$zx emulator
+      </div>
+
+
+      <div class="indentjust">
+        no$zx v2.0. The program has originally started as a two-weeks hack for emulating the ZX81, but now grew to a decent six-months project. Aside from improved ZX80/ZX81 emulation, it's now also supporting the Lambda and Jupiter ACE, alongsides with the complete ZX Spectrum series (though the older monochrome sinclair models are still looking more fascinating to me ..<a href="http://nocash.emubase.de/zx.htm">Martin Korth</a>).
+
+                                <br><br>
+<center><img src="downloads/nozx/nozx-windows.png" width="477" height="647" alt="">   <br><br></center>
+      </div>
+
+
+
+      <div class="center">
+
+        Download <a href="downloads/nozx/no$zx-4f.zip">no$zx emulator V2.00</a> [other versions can be found <a href="http://nocash.emubase.de/zx.htm">no$zx website</a>]
+      </div>
+
+    <!-- no$zx end -->
+
+
+
+
+
+
+
+    <!-- EightyOne start -->
+
+          <a name="eightyone" id="eightyone">&nbsp;</a>
+      <div class="paratitles">
+      EightyOne
+      </div>
+
+      <div class="indentjust">
+        Is an emulator written by Mike Wynne which will emulate a number of simple machines
+        including the ACE.
+      </div>
+
+      <div class="indentjust">
+        " <span class="italic">It may or may not work on Windows 95/98/ME/NT4/2k/XP. I have no
+        means of testing it except that it runs on my Windows XP laptop. It comes with no warranty,
+        use it at your own risk. I think the "Simple ZX81 emulator" is a little outdated now -
+        EightyOne is the most accurate ZX81 emulator available for Windows (And probably any other
+        system too)</span>" :- Mike Wynne.
+      </div>
+
+      <div class="indentjust">
+        EightyOne Version 1.00 runs fine with Windows 95/98/ME/NT4/2k/XP and now Vista compatible.
+      </div>
+
+      <div class="center">
+        Download <a href="downloads/eightyone/eightyoneV1.00.zip">EightyOne V1.00</a> [Version 1.00 is
+        used by the archive team]
+      </div>
+
+      <div class="center">
+        Older Versions of Eightyone [<a class="nlink" href=
+        "downloads/eightyone/EightyOneV36.zip">V36</a>] [<a href=
+        "downloads/eightyone/EightyOneV36b.zip">V36b</a>] [<a href=
+        "downloads/eightyone/EightyOneV42.zip">V42</a>] [<a href=
+        "downloads/eightyone/EightyOneV42z.zip">V42z</a>] [<a href=
+        "downloads/eightyone/EightyOneV43a.zip">V43a</a>] [<a href=
+        "downloads/eightyone/EightyOneV43b.zip">V43b</a>] [<a href=
+        "downloads/eightyone/EightyOneV43c.zip">V43c</a>]  [<a href=
+        "downloads/eightyone/EightyOneV52.zip">V52</a>]
+      </div>
+
+      <div class="center">
+
+             <img src="graphics/eightyone/EightyOne_V1_splashscreen.jpg" width="400" height="252" alt="EightyOne V1.00 splash screen"> <br>
+
+        <img src="graphics/eightyone/eightyone_screenshot.png" border="0" width="400" height="554"
+        alt="">
+        <br>
+
+      </div>
+
+      <div class="center">
+        EighytOne running on Windows XP with its Wav loader.
+      </div><!-- EightyOne end -->
+
+              <div class="footer"></div>
+
+        <!-- ace32_dosbox start -->
+         <a name="ace32_dosbox" id="ace32_dosbox">&nbsp;</a>
+       <div class="paratitles">
+        Ace32XP and DOSBox (version 0.74)
+      </div>
+
+           <img src="graphics/ace32/ace-32-with-dosbox.png" width="600" height="436" alt="Ace 32 running under dos Box 0.74 and windows 7">
+         <br><br>
+      See <a href="faq_Ace32_DosBox.html">FAQ's for Ace32 and DOSBox installation</a>.
+
+
+
+
+
+        <!-- ace32_dosbox end -->
+        <a name="vace10" id="vace10">&nbsp;</a>
+      <div class="footer"></div><!-- VACE -->
+
+      <div class="paratitles">
+       Vace
+      </div>
+
+      <div class="indentjust">
+        Vace version 1.0 was programmed for fun by Edward Patel. It has some loading and saving
+        capabilities, but no snapshot function or sound.
+      </div>
+
+      <div class="center">
+       <a href="graphics/vace/vace10.zip">Download Vace</a> or visit  <a href="http://hem.passagen.se/tiletech/ace.html">Edwards Home Page</a>
+
+      </div>
+
+      <div class="center">
+        <img src="graphics/vace/vace_screen.png" border="0" width="310" height="284" alt="">
+      </div>
+
+      <div class="center">
+        Vace running Atic Raid on Windows XP
+      </div><!-- VACE End -->
+
+      <div class="footer"></div><!-- VACE 3d Start -->
+            <a name="vace3d" id="vace3d">&nbsp;</a>
+      <div class="paratitles">
+      Vace 3D
+      </div>
+
+      <div class="indentjust">
+        Vace 3d , Yes!, a 3d version also programmed for fun by Edward Patel.
+      </div>
+
+      <div class="center">
+       <a href="graphics/vace/vace3d.zip">Download Vace 3D</a> or visit <a href="http://hem.passagen.se/tiletech/ace.html">Edwards Home Page</a>
+      </div>
+
+      <div class="center">
+        <img src="graphics/vace/vace3d_screen.png" border="0" width="400" height="300" alt="">
+      </div>
+
+      <div class="center">
+        Vace 3d running on Windows XP
+      </div><!-- VACE 3d end -->
+
+      <div class="footer"></div><!-- Mess Start -->
+         <a name="mess" id="mess">&nbsp;</a>
+      <div class="paratitles">
+        MESS
+      </div>
+
+      <div class="indentjust">
+        What is MESS?
+      </div>
+
+      <div class="indentjust">
+        MESS is an acronym that stands for Multiple Emulator Super System. MESS will more or less
+        faithfully reproduce computer and console systems on a PC. MESS can currently emulate over
+        250 systems from the last 5 decades, including the Jupiter Ace.
+      </div>
+
+      <div class="indentjust">
+        MESS emulates the hardware of the systems and sometimes utilizes ROM images to load
+        programs and games. Therefore, these systems are NOT simulations, but the actual emulations
+        of the hardware.
+      </div>
+
+      <div class="center">
+       <a href="http://www.mess.org/download.php">Download MESS</a> or visit the <a href="http://www.mess.org">MESS Home page</a>
+
+      </div>
+
+      <div class="center">
+        <img src="graphics/vace/mess.png" border="0" width="400" height="362" alt="">
+      </div>
+
+      <div class="center">
+        MESS 098 running on Windows XP
+      </div><!-- Mess end -->
+
+      <div class="footer"></div><!-- Multi Machine Start -->
+          <a name="mm" id="mm">&nbsp;</a>
+      <div class="paratitles">
+       Multi Machine
+      </div>
+
+      <div class="indentjust">
+        Multi Machine was programmed by Paul Hodgson. This emulator supports the Ace snapshot
+        format.
+      </div>
+
+      <div class="center">
+       <a href=
+        "ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/pc/windows/MTMW130b.ZIP">Download Multi Machine</a>
+      </div>
+
+      <div class="center">
+        <img src="graphics/vace/mm.png" border="0" width="400" height="330" alt="">
+      </div>
+
+      <div class="center">
+        Multi Machine running on Windows XP
+      </div>
+    </div><!-- end main -->
+
+    <div class="clear"></div><!-- Begin Footer -->
+
+    <div class="footer"></div><!-- End Footer -->
+  </div><!-- End Wrapper -->
+
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

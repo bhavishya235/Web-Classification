@@ -1,0 +1,2109 @@
+====================<http://www.aaai.org/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script language="JavaScript1.1">
+<!--
+
+/*
+JavaScript Image slideshow:
+By JavaScript Kit (www.javascriptkit.com)
+Over 200+ free JavaScript here!
+*/
+
+var slideimages=new Array()
+var slidelinks=new Array()
+function slideshowimages(){
+for (i=0;i<slideshowimages.arguments.length;i++){
+slideimages[i]=new Image()
+slideimages[i].src=slideshowimages.arguments[i]
+}
+}
+
+function slideshowlinks(){
+for (i=0;i<slideshowlinks.arguments.length;i++)
+slidelinks[i]=slideshowlinks.arguments[i]
+}
+
+function gotoshow(){
+if (!window.winslide||winslide.closed)
+winslide=window.open(slidelinks[whichlink])
+else
+winslide.location=slidelinks[whichlink]
+winslide.focus()
+}
+
+//-->
+</script><meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Window-target" content="_top" />
+<meta name="revisit-after" content="60 days" />
+<meta name="robots" content="all" />
+<meta name="description" content="AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines." />
+<meta name="keywords" content="AAAI AI artificial intelligence AI topics" />
+<title>Association for the Advancement of Artificial Intelligence</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="styles/aaai.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+@import url("styles/layout.css");
+-->
+</style>
+<meta property="fb:page_id" content="36428078710" />
+</head>
+<body class="backgrnd2">
+<div id="header" class="backgrnd1">
+<div id="logo">
+<h1>Association for the Advancement of Artificial Intelligence</h1>
+</div>
+<div id="search">
+<form action="http://www.aaai.org/search-results.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="016314354884912110518:gwmynp16xuu" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+</div>
+</div>
+<div id="menu" class="backgrnd3">
+<ul class="char11">
+
+<li class="first"><a href="http://www.aaai.org/Organization/organization.php" accesskey="1" title="Information about AAAI, Inc., including bylaws, officers, and staff" class="link1">About Us</a></li>
+<li><a href="http://www.aaai.org/Forms/donate.php" accesskey="2" title="Giving to AAAI" class="link1">Gifts</a></li>
+<li><a href="http://aitopics.org" accesskey="3" title="Information about AI (geared especially for students) and AI in the news" class="link1" rel="nofollow">AITopics</a></li>
+<li><a href="http://www.aaai.org/Magazine/magazine.php" accesskey="4" title="AI Magazine pages" class="link1">AI Magazine</a></li>
+<li><a href="http://www.aaai.org/Conferences/conferences.php" accesskey="5" title="AAAI, IAAI, and AIIDE conferences" class="link1">Conferences</a></li>
+<li><a href="http://www.aaai.org/Library/library.php" accesskey="6" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library" class="link1">Library</a></li>
+<li><a href="http://www.aaai.org/Membership/membership.php" accesskey="7" title="AAAI Membership Materials" class="link1">Membership</a></li>
+<li><a href="http://www.aaai.org/Publications/publications.php" accesskey="8" title="Information for Authors and Links to AI Publications" class="link1">Publications</a></li>
+<li><a href="http://www.aaai.org/Symposia/symposia.php" accesskey="9" title="Information about AAAI's spring and fall symposia" class="link1">Symposia</a></li>
+<li><a href="https://www.aaai.org/scripts/Contact/contact.php" title="Contact Form" class="link1">Contact</a></li>
+</ul>
+
+</div>
+<div id="content" class="backgrnd4">
+<div id="right">
+<div id="box1">
+
+<a href="javascript:gotoshow()"><img src="./Graphics/SlideShow/aaai14.jpg" name="slide" border=0></a>
+<script>
+<!--
+
+//configure the paths of the images, plus corresponding target links
+slideshowimages("./Graphics/SlideShow/ss-aaai14.jpg",
+"./Graphics/SlideShow/ss-aiide.jpg",
+"./Graphics/SlideShow/ss-hcomp.jpg",
+"./Graphics/SlideShow/ss-iaai.jpg",
+"./Graphics/SlideShow/ss-icwsm.jpg",
+"./Graphics/SlideShow/ss-magazine.jpg",
+"./Graphics/SlideShow/ss-press.jpg",
+"./Graphics/SlideShow/ss-symposium.jpg")
+slideshowlinks("http://www.aaai.org/Conferences/AAAI/aaai14.php",
+"http://www.aiide.org",
+"http://www.hcomp.org",
+"http://www.aaai.org/Conferences/IAAI/iaai14.php",
+"http://www.icwsm.org",
+"http://www.aaai.org/Magazine/magazine.php",
+"http://www.aaai.org/Press/press.php",
+"http://www.aaai.org/Symposia/symposia.php")
+
+//configure the speed of the slideshow, in miliseconds
+var slideshowspeed=7000
+
+var whichlink=0
+var whichimage=0
+function slideit(){
+if (!document.images)
+return
+document.images.slide.src=slideimages[whichimage].src
+whichlink=whichimage
+if (whichimage<slideimages.length-1)
+whichimage++
+else
+whichimage=0
+setTimeout("slideit()",slideshowspeed)
+}
+slideit()
+
+//-->
+</script>
+<script type="text/javascript">jQuery(window).load(function(){jQuery('#slider').nivoSlider({effect:'random',slices:9,boxCols:9,boxRows:3,animSpeed:500,pauseTime:5000,startSlide:0,directionNav:true,directionNavHide:true,controlNav:true,controlNavThumbs:false,pauseOnHover:true,manualAdvance:false,prevText:'Prev',nextText:'Next',randomStart:false,beforeChange:function(){},afterChange:function(){},slideshowEnd:function(){},lastSlide:function(){},afterLoad:function(){}});});</script>
+
+
+
+
+<p>&nbsp;</p>
+<h2 class="bg7"><span class="text1">Welcome to the Association for the Advancement of Artificial Intelligence!</span></h2></div>
+<div id="box2">
+<div class="content">
+<p>Founded in 1979, the Association for the Advancement of Artificial 
+Intelligence (AAAI) (formerly the American Association for Artificial 
+Intelligence) is a nonprofit scientific society devoted to advancing 
+the scientific understanding of the mechanisms underlying thought and 
+intelligent behavior and their embodiment in machines. AAAI aims to 
+promote research in, and responsible use of, artificial intelligence. 
+AAAI also aims to increase public understanding of artificial 
+intelligence, improve the teaching and training of AI practitioners, 
+and provide guidance for research planners and funders concerning the 
+importance and potential of current AI developments and future 
+directions. <a href="Organization/name-change.php">More&#8230;</a></p>
+<div class="hr1">
+<hr />
+</div>
+
+
+
+<img src="styles/images/sign.jpg" alt="AAAI-08" width="123" height="82" class="img1" />
+<h3 class="text2">Major Activities of the Association</h3>
+<p>Major AAAI activities include organizing and sponsoring <a href="Conferences/conferences.php">conferences</a>, <a href="Symposia/symposia.php">symposia</a>, and <a href="Workshops/workshops.php">workshops,</a> publishing a quarterly <a href="Magazine/magazine.php">magazine</a> for all members, publishing <a href="Press/Books/books.php">books</a>, <a href="Press/Proceedings/proceedings.php">proceedings</a>, and <a href="Press/Reports/reports.php">reports</a>, and awarding grants, scholarships, and other <a href="Awards/awards.php">honors</a>. <!-- <a href="#">More&#8230;</a>--></p>
+<div class="hr1">
+<hr />
+</div>
+
+<h3 class="text2"><a href="https://aaai.memberclicks.net" rel="nofollow">Announcing the NEW AAAI Member Site!</a></h3>
+<p>AAAI is pleased to announce the <a href="https://aaai.memberclicks.net" rel="nofollow">new member site</a> for current and prospective members of the Association. From this location, you can join AAAI, change your address, and learn more about the advantages available only to members of AAAI!</p>
+
+<h3 class="text2"><a href="Conferences/AAAI/aaai15.php">The AAAI 2015 Conference Moves to January!</a></h3>
+<p>AAAI is pleased to announce that AAAI-15 will be held in its NEW 
+winter timeframe in Austin, Texas, USA. Details about paper 
+submissions will be available soon./p>
+
+<h3 class="text2">Please Support AAAI!</h3>
+<p>It is the generosity and loyalty of our members that enables us to continue to promote and further the science of artificial intelligence. Membership dues and program fees and endowment income cover only a portion of the costs of our programs. Donations and grants must supply the rest. Your gift will help sustain the many and varied programs that AAAI provides. In today’s economic climate, we depend even more on the generosity of members like you to help us fulfill our mission.</p>
+<p>Contributions make possible projects such as the AI poster, the open access initiative, components of the AAAI annual conference, a lowered membership rate for students as well as student scholarships, and more. To enable us to continue these and other efforts, please consider a generous gift. For information on how you can contribute, please click on <a href="https://www.aaai.org/Forms/donate.php">&ldquo;Gifts.&rdquo;</a></p>
+<h3 class="text2">Please Note Our New Address!</h3>
+<p>As of November 1, 2011, AAAI has officially moved its offices from Menlo Park to Palo Alto, California. Please make a note of our new address:<br />
+Association for the Advancement of Artificial Intelligence<br />
+2275 East Bayshore Road, Suite 160<br />
+Palo Alto, California 94303 USA<br />
+Telephone: 650-328-3123<br />
+Fax: 650-321-4457</p>
+<div class="hr1">
+<hr />
+</div>
+
+<!--
+<a href="Magazine/magazine.php"><img src="Magazine/aimag-issue.jpg" alt="" width="78" height="100" class="img2" /></a>
+-->
+<h3 class="text2">Site Contents</h3>
+<p>The major sections of this site (and some popular pages) can be accessed from the links on this page. If you want to learn more about artificial intelligence, you should visit the <a href="http://aaai.org/AITopics/">AI Topics</a> page. To join or learn more about AAAI membership, choose <a href="Membership/membership.php">Membership.</a> Choose <a href="Publications/publications.php">Publications</a> to learn more about  AAAI Press, <i>AI Magazine,</i> and AAAI&rsquo;s journals. To access AAAI&rsquo;s digital library of more than 10,000 AI technical papers, choose  <a href="Library/library.php">Library.</a> Choose <a href="Awards/awards.php">Awards</a> to learn more about AAAI&rsquo;s awards and honors and fellows program. To learn more about AAAI&rsquo;s conferences and meetings choose <a href="Meetings/meetings.php"> Meetings.</a> For links to policy papers, presidential addresses, and outside AI resources, choose <a href="Resources/resources.php">Resources.</a> For information about the AAAI organization, including its officers and staff, choose <a href="Organization/organization.php">About Us</a> (also Organization). The search box, powered by Google, will return results restricted to the AAAI site.</p>
+</div>
+</div>
+<div id="box3" class="backgrnd9">
+<div class="backgrnd8">
+
+<div id="box1"><a href="https://aaai.memberclicks.net/" rel="nofollow"><img src="Graphics/Logos/aaai-logo.png" alt="AAAI" width="178" height="130" border="0" /></a></div>
+<h2 class="text2"><a href="https://aaai.memberclicks.net/" rel="nofollow">Not a Member? Please Join!</a></h2>
+<br />
+<h2 class="text2"><a href="http://regonline.com/sss14" rel="nofollow">Register Online for the 2014 AAAI Spring Symposium!</a></h2>
+<br />
+<!--<h2 class="text2"><a href="https://www.regonline.com/builder/site/Default.aspx?EventID=1271720">Register Online for the 2013 AIIDE Conference!</a></h2>
+<br />
+<h2 class="text2"><a href="https://www.regonline.com/hcomp13">Register Online for the 2013 HCOMP Conference!</a></h2>
+<br />
+
+<h2 class="text2"><a href=" https://www.regonline.com/fss13">Register Online for the 2013 AAAI Fall Symposium!</a></h2>
+<br />
+-->
+<h2 class="text2"><a href="https://www.aaai.org/Forms/donate.php">Support AAAI with Your Gift!</a></h2>
+
+<div class="hr1">
+<hr />
+</div>
+<p><a href="http://aaai.org/ojs/index.php/aimagazine/issue/current"><img src="Magazine/aimag-issue.jpg" alt="" width="185.2" height="237.5" class="img2" /></a>
+</p>
+<h2 class="text2"><a href="http://aaai.org/ojs/index.php/aimagazine/issue/current"><i>AAAI Members: Read the Latest Issue of AI Magazine!</i></a></h2>
+
+
+<div class="hr1">
+<hr />
+</div>
+</div>
+<!--
+<table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+<tr>
+<td width="135" align="center" valign="top"><script src=s://seal.verisign.com/getseal?host_name=www.aaai.org&size=S&use_flash=NO&use_transparent=NO&lang=en></script><br />
+<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</table> -->
+<div class="backgrnd10" style="height: 20px;"></div>
+</div>
+</div>
+<div id="left">
+<div id="box4">
+<h2 class="backgrnd5"><span class="text1">Upcoming AAAI Events</span></h2>
+<div class="content">
+
+
+
+
+
+
+<!--
+<h3 class="text2">July 2013</h3>
+<p class="backgrnd6">The <a href="Conferences/ICWSM/icwsm13.php">Seventh International AAAI Conference on Weblogs and Social Media</a> begins July 8 in Cambridge, Massachusetts, USA</p> 
+
+<p class="backgrnd6">The <a href="Conferences/AAAI/aaai13.php">Twenty-Seventh AAAI Conference</a> will be held in Bellevue, Washington July 14&ndash;18.</p>
+
+<p class="backgrnd6">The <a href="Conferences/IAAI/iaai13.php">Twenty-Fifth IAAI Conference</a>  will be held in Bellevue, Washington July 14&ndash;18.</p>
+ 
+<p class="backgrnd6">The <a href="http://www.aaai.org/Symposia/EAAI/eaai13.php">Fourth AAAI Symposium on Educational Advances in Artificial Intelligence</a> will be held in Bellevue Washington July 15&ndash;16.</p>
+
+<h3 class="text2">October 2013</h3>
+<p class="backgrnd6">The <a href="http://www.aaai.org/Conferences/AIIDE/aiide13.php">Ninth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment</a> will be held October 14&ndash;18 in Boston, Massachusetts USA</p>
+
+<h3 class="text2">November 2013</h3>
+<p class="backgrnd6">The <a href="http://www.humancomputation.com/2013/" rel="nofollow">First AAAI Conference on Human Computation and Crowdsourcing</a> will be held November 6&ndash;9 in Palm Springs, California USA</p>
+
+<p class="backgrnd6">The <a href="Symposia/Fall/fss13.php">AAAI Fall Symposium</a> begins on November 15 near Washington, DC. </p>
+-->
+<h3 class="text2">March 2014</h3>
+<p class="backgrnd6">The <a href="Symposia/Spring/sss14.php">AAAI Spring Symposium</a> begins on March 24 in Palo Alto, CA USA.</p>
+
+<h3 class="text2">June 2014</h3>
+<p class="backgrnd6">The <a href="http://www.icwsm.org/2014/" rel="nofollow">Eighth International AAAI Conference on Weblogs and Social Media</a> will be held in Ann Arbor, Michigan, USA, June 1 &ndash; 4.</p>
+
+<h3 class="text2">July 2014</h3>
+<p class="backgrnd6">The <a href="Conferences/AAAI/aaai14.php">Twenty-Eighth AAAI Conference</a> will be held in Qu&eacute;bec City, Qu&eacute;bec, Canada July 27&ndash;31.</p>
+
+<h3 class="text2">July 2014</h3>
+<p class="backgrnd6">The <a href="Conferences/IAAI/iaai14.php">Twenty-Sixth AAAI Conference on Innovative Applications of Artificial Intelligence</a> will be held in Qu&eacute;bec City, Qu&eacute;bec, Canada July 29&ndash;31.</p>
+
+<h3 class="text2">November 2014</h3>
+<p class="backgrnd6">The <a href="Symposia/Fall/fss14.php">AAAI Fall Symposium</a> begins on November 13 near Washington, DC USA. </p>
+
+<h3 class="text2">January 2015</h3>
+<p class="backgrnd6">The <a href="Conferences/AAAI/aaai15.php">Twenty-Ninth AAAI Conference</a> begins on January 25 in Austin, Texas USA. </p>
+
+</div>
+</div>
+<div id="box5">
+<h2 class="backgrnd5"><span class="text1">Resources &amp; Links</span></h2>
+<div class="content">
+<b><a href="http://www.facebook.com/pages/AAAI-Association-for-the-Advancement-of-Artificial-Intelligence/36428078710" rel="nofollow">&bull; AAAI Is on Facebook!</a></b><br />
+<p><b><a href="Meetings/aimeetings.php">&bull; AAAI Affiliates</a></b><br />
+<b><a href="Membership/membership-chapters.php">&bull; AAAI Chapter Program</a></b><br />
+<b><a href="Press/press.php">&bull; AAAI Press</a></b><br />
+<b><a href="Pressroom/pressroom.php">&bull; AAAI Press Room</a></b><br />
+<b><a href="Awards/fellows.php">&bull; AAAI Fellows</a></b><br />
+<b><a href="Magazine/magazine.php">&bull; AI Magazine</a></b><br />
+<b><a href="Publications/Author/author.php">&bull; Author Pages</a></b><br />
+<b><a href="Awards/awards.php">&bull; Awards</a></b><br />
+<b><a href="Magazine/calendar.php">&bull; Calendar</a></b><br />
+<b><a href="http://www.aaai.org/Library/library.php">&bull; Digital Library</a></b><br />
+<b><a href="http://www.aiinternational.org">&bull; International AI Site</a></b><br />
+<b><a href="Magazine/job-bank.php">&bull; Job Bank</a></b><br />
+<b><a href="Meetings/meetings.php">&bull; Meetings</a></b><br />
+<b><a href="Resources/resources.php">&bull; Resources</a></b><br />
+<b><a href="Publications/Journals/sponsored-journals.php">&bull; Sponsored Journals</a></b><br />
+<b><a href="Workshops/workshops.php">&bull; Workshops</a> </b></p>
+</div>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div id="footer" class="backgrnd11">
+<p class="text3">This site is protected by copyright and trademark laws under US and International law. All rights reserved. <a href="http://www.aaai.org/Organization/copyright.php">Copyright</a> &copy; 1995&ndash;2008 Association for the Advancement of Artificial Intelligence.<br />Your use of this site is subject to our <a href="http://www.aaai.org/Organization/terms.php">Terms and Conditions</a> and <a href="http://www.aaai.org/Organization/privacy.php">Privacy Policy</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/home.php" title="AAAI Home Page">Home</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Organization/organization.php" title="Information about AAAI, Inc., including bylaws, officers, and staff">About AAAI</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Organization/search.php" title="Search the AAAI Web Site">Search</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/scripts/Contact/contact.php" title="Send a Message to AAAI">Contact&nbsp;AAAI</a><br />
+<a href="http://www.aaai.org/Conferences/conferences.php" title="AAAI, IAAI, and AIIDE conferences">AAAI Conferences</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Magazine/magazine.php" title="AI Magazine home page">AI Magazine</a>&nbsp;|&nbsp;<a href="http://aaai.org/AITopics/" title="Information about AI (geared especially for students) and AI in the news">AITopics</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Awards/awards.php" title="Fellows and Awards Pages">Awards</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Magazine/calendar.php" title="International Calendar of AI Events">Calendar</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Library/library.php" title="Abstracts, with links to full text (for members), of AI papers in the AAAI digital library">Digital Library</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Magazine/job-bank.php" title="Jobs for AI Scientists">Jobs</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Meetings/meetings.php" title="AAAI Sponsored and Affiliated Conferences, Workshops, and Symposia">Meetings</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Membership/membership.php" title="AAAI Membership Materials">Membership</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Press/press.php" title="AI books, proceedings, and technical reports">Press</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Pressroom/pressroom.php" title="News Releases and Information for Journalists">Press Room</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Publications/publications.php" title="Information for Authors and Links to AI Publications">Publications</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Resources/resources.php" title="Links to Outside AI Pages">Resources</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Symposia/symposia.php" title="Information about AAAI's spring and fall symposia">Symposia</a>&nbsp;|&nbsp;<a href="http://www.aaai.org/Workshops/workshops.php" title="Information about AAAI sponsored workshops">Workshops</a></p>
+</div>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://cscsi.sfu.ca/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.caiac.ca/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta content="Welcome to CAIAC!" about="/en/home" property="dc:title" />
+<link rel="canonical" href="/en/home" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/1" />
+  <title>Welcome to CAIAC! | CAIAC</title>
+  <link type="text/css" rel="stylesheet" href="https://www.caiac.ca/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.caiac.ca/sites/default/files/css/css_sIvYAVmbKVB9xcQMp_RC9rdCCs0EwB2QokqyI2rcXcY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.caiac.ca/sites/default/files/css/css_e9i1o2m_GsLXCsIe3pJwpeNkUjTw8sddNBrCOrjat7I.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.caiac.ca/sites/default/files/css/css_ooiRSnMfEe5jacYt9-B2jtvpX3jOiGIA1pdquBPqBbI.css" media="all" />
+  <script type="text/javascript" src="https://www.caiac.ca/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript" src="https://www.caiac.ca/sites/default/files/js/js_rv_BKYv7yieH0IgHddhWHDC-bWGan8yiJbusyOpr0mw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-42383167-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.caiac.ca/sites/default/files/js/js_v03BWEpFZc8SV5WKRdjhYrHgCdu-_LejJ2TKJVJiAVo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"en\u002F", "ajaxPageState":{"theme":"CaiacDerived05", "theme_token":"N0IFc8-TEGspNoBVvSz9Rskx-FSntrA6W_ASX6rNI8c", "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "sites\u002Fall\u002Fmodules\u002Fgoogle_analytics\u002Fgoogleanalytics.js":1, "0":1, "sites\u002Fall\u002Fthemes\u002FCaiac05\u002Fscript.js":1}, "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Fsystem\u002Fsystem.menus.css":1, "modules\u002Fsystem\u002Fsystem.messages.css":1, "modules\u002Fsystem\u002Fsystem.theme.css":1, "sites\u002Fdefault\u002Fmodules\u002Fai_directory\u002Fai_directory.css":1, "sites\u002Fdefault\u002Fmodules\u002Fcaiac_membership\u002Fcaiac_membership.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "sites\u002Fdefault\u002Fmodules\u002Fjob_postings\u002Fjob_postings.css":1, "modules\u002Fnode\u002Fnode.css":1, "sites\u002Fdefault\u002Fmodules\u002Fpublications\u002Fpublications.css":1, "modules\u002Fsearch\u002Fsearch.css":1, "sites\u002Fall\u002Fmodules\u002Fubercart\u002Fuc_order\u002Fuc_order.css":1, "sites\u002Fall\u002Fmodules\u002Fubercart\u002Fuc_product\u002Fuc_product.css":1, "sites\u002Fall\u002Fmodules\u002Fubercart\u002Fuc_store\u002Fuc_store.css":1, "modules\u002Fuser\u002Fuser.css":1, "sites\u002Fdefault\u002Fmodules\u002Fuser_lists\u002Fuser_lists.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "modules\u002Flocale\u002Flocale.css":1, "sites\u002Fall\u002Fthemes\u002FCaiac05\u002Fstyle.css":1, "sites\u002Fall\u002Fthemes\u002FCaiacDerived05\u002Fderived-styles.css":1, "sites\u002Fall\u002Fthemes\u002FCaiacDerived05\u002Fadditional-styles.css":1}}, "googleanalytics":{"trackOutbound":1, "trackMailto":1, "trackDownload":1, "trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+  <!--[if IE 6]><link rel="stylesheet" href="/sites/all/themes/Caiac05/style.ie6.css" type="text/css" media="screen" /><![endif]-->  
+  <!--[if IE 7]><link rel="stylesheet" href="/sites/all/themes/Caiac05/style.ie7.css" type="text/css" media="screen" /><![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1 node-type-page i18n-en" >
+    
+<div id="art-main">
+    <div class="cleared reset-box"></div>
+<div id="art-hmenu-bg" class="art-bar art-nav">
+</div>
+<div class="cleared reset-box"></div>
+<div class="art-header">
+<div class="art-header-position">
+    <div class="art-header-wrapper">
+        <div class="cleared reset-box"></div>
+        <div class="art-header-inner">
+<div class="art-headerobject"></div>
+<div class="art-logo">
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div class="art-bar art-nav">
+<div class="art-nav-outer">
+<div class="art-nav-wrapper">
+<div class="art-nav-inner">
+            <div class="art-hmenu-extra2">  <div class="region region-extra2">
+    <div class="block block-locale" id="block-locale-language">
+	<div class="art-article content">
+		<ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/home" class="language-link active" lang="en" title="Welcome to CAIAC!">English</a></li>
+<li class="fr last"><a href="/fr/home" class="language-link" lang="fr" title="Bienvenue sur le site de CAIAC!">Français</a></li>
+</ul>	</div>
+</div>
+  </div>
+</div>
+              <div class="region region-navigation">
+    
+<div class="art-hmenu-id"><ul class="art-hmenu">
+<li class="first leaf"><a href="/en">Home</a></li>
+<li class="expanded">
+<a title="" class="nolink">About CAIAC</a><ul>
+<li class="first leaf"><a href="/en/what-is-caiac">What is CAIAC?</a></li>
+<li class="leaf"><a href="/en/executive">Current Executive</a></li>
+<li class="leaf"><a href="/en/ai-expert-directory" title="">AI Expert Directory</a></li>
+<li class="leaf"><a href="/en/contact-caiac">Contact CAIAC</a></li>
+<li class="leaf"><a href="/en/about-caiac-logo">About the CAIAC Logo</a></li>
+<li class="leaf"><a href="/en/caiac-constitution">CAIAC Constitution</a></li>
+<li class="leaf"><a href="/en/history-of-caiac">History of CAIAC</a></li>
+<li class="last leaf"><a href="/en/past-executive-committees">Past Executive Committees</a></li>
+</ul>
+</li>
+<li class="expanded">
+<a title="" class="nolink">Eminent Members</a><ul>
+<li class="first leaf"><a href="/en/winners">Award Winners</a></li>
+<li class="leaf"><a href="/en/fellows">CAIAC Fellows</a></li>
+<li class="last leaf"><a href="/en/best-theses-dissertations">Best theses and dissertations</a></li>
+</ul>
+</li>
+<li class="leaf"><a href="https://www.caiac.ca/en/conferences-and-events" title="">Conferences and Events</a></li>
+<li class="expanded">
+<a title="" class="nolink">Publications</a><ul>
+<li class="first leaf"><a href="/en/masters-thesis-doctoral-dissertations">Theses in AI</a></li>
+<li class="last leaf"><a href="/en/caiac-herald-newsletter" title="CAIAC's official newsletter">The CAIAC Herald</a></li>
+</ul>
+</li>
+<li class="last leaf"><a href="/en/job_postings_ai">Careers</a></li>
+</ul></div>
+  </div>
+    </div>
+</div>
+</div>
+</div>
+<div class="cleared reset-box"></div>
+
+</div>
+<div class="cleared reset-box"></div>
+<div class="art-box art-sheet">
+    <div class="art-box-body art-sheet-body">
+<div class="art-layout-wrapper">
+    <div class="art-content-layout">
+        <div class="art-content-layout-row">
+<div class="art-layout-cell art-content"><div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+<div class="art-post-inner art-article">
+<div class="art-postcontent">
+<h2 class="element-invisible art-postheader">You are here</h2><div class="breadcrumb art-postcontent"><a href="/en">Home</a></div>
+</div>
+<div class="cleared"></div>
+
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+              
+                                  <div class="region region-content">
+      <div class="region region-content">
+    <div class="block block-system" id="block-system-main">
+    
+	    
+			
+
+<div id="node-1" class="node node-page" about="/en/home" typeof="foaf:Document">
+<div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+<div class="art-post-inner art-article">
+<h2 class="art-postheader" property="dc:title" datatype="">Welcome to CAIAC!</h2>
+<div class="art-postcontent">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>CAIAC is the <strong>Canadian Artificial Intelligence Association</strong>.</p>
+<p><img src="/sites/default/files/imce/common/art/neuron.jpg" alt="Neurone" width="666" height="105" class="nodressing" /></p>
+<p>Formerly known as the Canadian Society for the Computational Studies of Intelligence (or Société canadienne pour l'étude de l'intelligence par ordinateur), CAIAC's mission is to foster excellence and leadership in research, development and education in Canada's artificial intelligence community by facilitating the exchange of knowledge through various media and venues. CAIAC is the official arm of the AAAI in Canada. We are proud to note that Dr. Alan Mackworth, former President of the AAAI, was a founding member of our society.</p>
+<h2>Membership</h2>
+<p>A yearly membership of $30 buys you a significant saving on registration for the annual <a href="http://ai2009.site.uottawa.ca/" class="sMenu">AI/GI/CRV/IS conference</a> and access to valuable information at this web site such as: Competition Dates and Links, Research Groups and Projects, Recent Doctoral / Masters Theses, Projects looking for Students, Students looking for Projects, Funding Sources, Scholarships and Awards, and Job Opportunities.</p>
+<p><a href="/user/register">Become a member!</a></p>
+<p> </p>
+<h2 style="margin-bottom: -30px;">Recent articles</h2>
+</div></div></div>
+</div>
+<div class="cleared"></div>
+
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+
+</div>
+	</div><div class="block block-views" id="block-views-articles-english-block">
+    
+	    
+			
+<div class="view view-articles-english view-id-articles_english view-display-id-block article-mosaic view-dom-id-89853cc95397f73cda88ba289627a0a0">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid cols-2">
+  
+  <tbody>
+          <tr class="row-1">
+                  <td class="col-1">
+            
+<div id="node-98" class="node node-article node-promoted node-teaser" about="/en/node/98" typeof="sioc:Item foaf:Document">
+<div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+<div class="art-post-inner art-article">
+<h2 class="art-postheader" property="dc:title" datatype=""><a href="/en/node/98" title="The first edition of the CAIAC Herald is out!">The first edition of the CAIAC Herald is out!</a></h2>
+<div class="art-postheadericons art-metadata-icons">
+    <span class="art-postdateicon"><span property="dc:date dc:created" content="2014-02-01T20:37:15-05:00" datatype="xsd:dateTime">Sat, 01/02/2014 - 20:37</span>    </span>
+</div>
+<div class="art-postcontent">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="https://www.caiac.ca/sites/default/files/styles/medium/public/field/image/newsletter_link.png?itok=3g9X26ow"><a href="/en/node/98"><img typeof="foaf:Image" src="https://www.caiac.ca/sites/default/files/styles/medium/public/field/image/newsletter_link.png?itok=3g9X26ow" width="220" height="155" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>CAIAC now has an official newsletter, The CAIAC Herald, <a href="/en/caiac-herald-newsletter">available on our  website</a>.</p>
+<p>In this issue, our guest of honour is David Poole of the University of British Columbia. In this edition, the Herald will also feature an article introducing the members of CAIAC’s executive committee and explain their roles. We will also list the new developments at CAIAC and those that we are planning and currently working on. Moreover, we will list all the upcoming events.</p></div></div></div>
+</div>
+<div class="cleared"></div>
+<div class="art-postfootericons art-metadata-icons">
+        <span class="art-postcategoryicon"><a href="/en/node/98" rel="tag" title="The first edition of the CAIAC Herald is out!">Read more<span class="element-invisible"> about The first edition of the CAIAC Herald is out!</span></a>        </span>
+</div>
+
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+
+</div>          </td>
+                  <td class="col-2">
+            
+<div id="node-33" class="node node-article node-teaser" about="/en/ai-masters-thesis-award-call-for-nominations" typeof="sioc:Item foaf:Document">
+<div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+<div class="art-post-inner art-article">
+<h2 class="art-postheader" property="dc:title" datatype=""><a href="/en/ai-masters-thesis-award-call-for-nominations" title="2014 AI Masters Thesis Award Nomination">2014 AI Masters Thesis Award Nomination</a></h2>
+<div class="art-postheadericons art-metadata-icons">
+    <span class="art-postdateicon"><span property="dc:date dc:created" content="2013-11-10T17:54:22-05:00" datatype="xsd:dateTime">Sun, 10/11/2013 - 17:54</span>    </span>
+</div>
+<div class="art-postcontent">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="https://www.caiac.ca/sites/default/files/styles/medium/public/field/image/CAIAC_PhD_MSc_Awards_poster_medium.jpg?itok=HiDjxrsX"><a href="/en/ai-masters-thesis-award-call-for-nominations"><img typeof="foaf:Image" src="https://www.caiac.ca/sites/default/files/styles/medium/public/field/image/CAIAC_PhD_MSc_Awards_poster_medium.jpg?itok=HiDjxrsX" width="155" height="220" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The Canadian Artificial Intelligence Association/L'Association pour l'Intelligence Artificielle au Canada (CAIAC) is happy to announce its AI Masters Thesis Award</p></div></div></div>
+</div>
+<div class="cleared"></div>
+<div class="art-postfootericons art-metadata-icons">
+        <span class="art-postcategoryicon"><a href="/en/ai-masters-thesis-award-call-for-nominations" rel="tag" title="2014 AI Masters Thesis Award Nomination">Read more<span class="element-invisible"> about 2014 AI Masters Thesis Award Nomination</span></a>        </span>
+</div>
+
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+
+</div>          </td>
+              </tr>
+          <tr class="row-2">
+                  <td class="col-1">
+            
+<div id="node-32" class="node node-article node-promoted node-teaser" about="/en/2013-ai-doctoral-dissertation-award" typeof="sioc:Item foaf:Document">
+<div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+<div class="art-post-inner art-article">
+<h2 class="art-postheader" property="dc:title" datatype=""><a href="/en/2013-ai-doctoral-dissertation-award" title="2014 AI Doctoral Dissertation Award Nomination">2014 AI Doctoral Dissertation Award Nomination</a></h2>
+<div class="art-postheadericons art-metadata-icons">
+    <span class="art-postdateicon"><span property="dc:date dc:created" content="2013-11-10T17:52:15-05:00" datatype="xsd:dateTime">Sun, 10/11/2013 - 17:52</span>    </span>
+</div>
+<div class="art-postcontent">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="text-align: left;">CAIAC: The Canadian Artificial Intelligence Association/L'Association pour l'intelligence artificielle au Canada is happy to announce its fourth AI Doctoral Dissertation Award.</p></div></div></div>
+</div>
+<div class="cleared"></div>
+<div class="art-postfootericons art-metadata-icons">
+        <span class="art-postcategoryicon"><a href="/en/2013-ai-doctoral-dissertation-award" rel="tag" title="2014 AI Doctoral Dissertation Award Nomination">Read more<span class="element-invisible"> about 2014 AI Doctoral Dissertation Award Nomination</span></a>        </span>
+</div>
+
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+
+</div>          </td>
+                  <td class="col-2">
+            
+<div id="node-80" class="node node-article node-promoted node-teaser" about="/en/2013-best-thesis-awards" typeof="sioc:Item foaf:Document">
+<div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+<div class="art-post-inner art-article">
+<h2 class="art-postheader" property="dc:title" datatype=""><a href="/en/2013-best-thesis-awards" title="2013 Best Thesis Awards">2013 Best Thesis Awards</a></h2>
+<div class="art-postheadericons art-metadata-icons">
+    <span class="art-postdateicon"><span property="dc:date dc:created" content="2013-07-08T10:27:54-04:00" datatype="xsd:dateTime">Mon, 08/07/2013 - 10:27</span>    </span>
+</div>
+<div class="art-postcontent">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="https://www.caiac.ca/sites/default/files/styles/medium/public/field/image/diploma.png?itok=D4qOXcZ2"><a href="/en/2013-best-thesis-awards"><img typeof="foaf:Image" src="https://www.caiac.ca/sites/default/files/styles/medium/public/field/image/diploma.png?itok=D4qOXcZ2" width="220" height="200" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="art-postcontent">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+<div class="field-items">
+<div class="field-item even">
+<p>We are pleased to announce the 2013 CAIAC best thesis winners:</p>
+<ul><li>Doctoral Dissertation Award: <a href="node/78">Gabor Bartok</a></li>
+<li>Master's Thesis Award: <a href="node/79">Hang Shao</a></li>
+</ul><p>For more information visit our <a href="winners">award winners</a> page and the page for the <a href="best-theses-dissertations">best theses</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+</div></div></div>
+</div>
+<div class="cleared"></div>
+<div class="art-postfootericons art-metadata-icons">
+        <span class="art-postcategoryicon"><a href="/en/2013-best-thesis-awards" rel="tag" title="2013 Best Thesis Awards">Read more<span class="element-invisible"> about 2013 Best Thesis Awards</span></a>        </span>
+</div>
+
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+
+</div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+	</div>  </div>
+  </div>
+</div>
+<div class="art-layout-cell art-sidebar1">  <div class="region region-sidebar-right">
+    <div class="block block-search" id="block-search-form">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+  
+    
+	    
+	<div class="art-box art-blockcontent">
+		    <div class="art-box-body art-blockcontent-body">
+		<div class="content">
+		
+			
+<form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><span class="art-button-wrapper"><span class="art-button-l"></span><span class="art-button-r"></span><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit art-button" /></span></div><input type="hidden" name="form_build_id" value="form-WM1ptQWlITG597dUjoYKCkH6Xpw4g40OTknayd6Yt1E" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+	
+		</div>
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+	</div><div class="block block-block" id="block-block-3">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+  
+    
+	    
+	<div class="art-box art-blockcontent">
+		    <div class="art-box-body art-blockcontent-body">
+		<div class="content">
+		
+			
+<h2>News</h2>
+<p><img src="/sites/default/files/imce/common/art/CAIAC_PhD_MSc_Awards_poster_sliver.jpg" alt="2013 AI Doctoral and MSC thesis awards" width="230" height="53" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><a href="https://cs.uwaterloo.ca/conferences/ai2014/index.html" target="_blank" style="line-height: 1.538em;">AI 2014</a></p>
+<p style="text-align: center;"><a href="https://cs.uwaterloo.ca/conferences/ai2014/index.html" target="_blank">27th Canadian Conference on Artificial Intelligence</a></p>
+<p style="text-align: center;">May 6-9, 2014, Montréal, Québec, Canada</p>
+<p style="text-align: center;">+++ </p>
+<p style="text-align: center;"><a href="2013-ai-doctoral-dissertation-award" style="line-height: 1.538em;">2014 CAIAC AI Doctoral Dissertation Awards</a></p>
+<p style="text-align: center;">&amp;</p>
+<p style="text-align: center;"><a href="ai-masters-thesis-award-call-for-nominations">2014 AI Masters Thesis Awards<br /></a></p>
+<p style="text-align: center;"> </p>
+<h2>Featured Links</h2>
+<p style="text-align: center;"><img src="/sites/default/files/imce/common/art/newsletter_link_0.png" alt="The CAIAC Herald" width="161" height="113" /></p>
+<p style="text-align: center;"><a href="caiac-herald-newsletter">Read CAIAC's official newsletter</a></p>
+
+	
+		</div>
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+	</div><div class="block block-user" id="block-user-login">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+  
+    
+	    			
+			<div class="art-bar art-blockheader">
+				    <h3 class="t subject">
+						
+			Member login			
+			</h3>
+				</div>
+				
+			
+	    
+	<div class="art-box art-blockcontent">
+		    <div class="art-box-body art-blockcontent-body">
+		<div class="content">
+		
+			
+<form action="/en/home?destination=node/1" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/en/user/register" title="Create a new user account.">Become a member!</a></li>
+<li class="last"><a href="/en/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-m_M3LvuxXHXLxWK5rUNzXOkRbMMvbFMIBBBkd428Y_c" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions--2"><span class="art-button-wrapper"><span class="art-button-l"></span><span class="art-button-r"></span><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit art-button" /></span></div></div></form>
+	
+		</div>
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+	</div><div class="block block-node" id="block-node-recent">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+  
+    
+	    			
+			<div class="art-bar art-blockheader">
+				    <h3 class="t subject">
+						
+			Recent content			
+			</h3>
+				</div>
+				
+			
+	    
+	<div class="art-box art-blockcontent">
+		    <div class="art-box-body art-blockcontent-body">
+		<div class="content">
+		
+			
+<table>
+<tbody>
+ <tr class="odd"><td class="title-author"><div class="node-title"><a href="/en/node/98">The first edition of the CAIAC Herald is out!</a></div><div class="node-author"><span class="username" xml:lang="" about="/en/user/4" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</span></div></td><td class="edit"></td><td class="delete"></td> </tr>
+ <tr class="even"><td class="title-author"><div class="node-title"><a href="/en/caiac-herald-newsletter">The CAIAC Herald</a></div><div class="node-author"><span class="username" xml:lang="" about="/en/user/4" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</span></div></td><td class="edit"></td><td class="delete"></td> </tr>
+ <tr class="odd"><td class="title-author"><div class="node-title"><a href="/en/node/51">Docteur Guy Lapalme</a></div><div class="node-author"><span class="username" xml:lang="" about="/en/user/4" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</span></div></td><td class="edit"></td><td class="delete"></td> </tr>
+ <tr class="even"><td class="title-author"><div class="node-title"><a href="/en/node/93">Intensional Cyberforensics</a></div><div class="node-author"><span class="username" xml:lang="" about="/en/user/482" typeof="sioc:UserAccount" property="foaf:name" datatype="">mokhov</span></div></td><td class="edit"></td><td class="delete"></td> </tr>
+ <tr class="odd"><td class="title-author"><div class="node-title"><a href="/en/node/92">Algorithmes d’apprentissage profonds supervisés et non-supervisés: applications et résultats théoriques</a></div><div class="node-author"><span class="username" xml:lang="" about="/en/user/494" typeof="sioc:UserAccount" property="foaf:name" datatype="">thiboeri</span></div></td><td class="edit"></td><td class="delete"></td> </tr>
+ <tr class="even"><td class="title-author"><div class="node-title"><a href="/en/node/90">Random Walk Planning: Theory, Practice, and Application</a></div><div class="node-author"><span class="username" xml:lang="" about="/en/user/493" typeof="sioc:UserAccount" property="foaf:name" datatype="">mmueller</span></div></td><td class="edit"></td><td class="delete"></td> </tr>
+ <tr class="odd"><td class="title-author"><div class="node-title"><a href="/en/node/3">Bienvenue sur le site de CAIAC!</a></div><div class="node-author"><span class="username" xml:lang="" about="/en/user/4" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</span></div></td><td class="edit"></td><td class="delete"></td> </tr>
+ <tr class="even"><td class="title-author"><div class="node-title"><a href="/en/home" class="active">Welcome to CAIAC!</a></div><div class="node-author"><span class="username" xml:lang="" about="/en/user/4" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</span></div></td><td class="edit"></td><td class="delete"></td> </tr>
+ <tr class="odd"><td class="title-author"><div class="node-title"><a href="/en/node/87">Offres d&#039;emploi en IA</a></div><div class="node-author"><span class="username" xml:lang="" about="/en/user/4" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</span></div></td><td class="edit"></td><td class="delete"></td> </tr>
+ <tr class="even"><td class="title-author"><div class="node-title"><a href="/en/job_postings_ai">Career opportunities in AI</a></div><div class="node-author"><span class="username" xml:lang="" about="/en/user/4" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</span></div></td><td class="edit"></td><td class="delete"></td> </tr>
+</tbody>
+</table>
+
+	
+		</div>
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+	</div>  </div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="cleared"></div>
+
+
+		<div class="cleared"></div>
+    </div>
+</div>
+<div class="art-footer">
+    <div class="art-footer-body">
+        <div class="art-footer-center">
+            <div class="art-footer-wrapper">
+                <div class="art-footer-text">
+                                          <div class="region region-footer-message">
+    <div class="block block-block" id="block-block-1">
+    
+	    
+			
+<p style="text-align: center;"><a href="/en/contact-caiac">Contact Us</a> | <a href="/en/rss.xml">Syndication</a> | <a href="/en/sitemap">Site map</a><br />Copyright © Canadian Artificial Intelligence Association, 2014</p>
+
+	</div>  </div>
+                                </div>
+            </div>
+        </div>
+		<div class="cleared"></div>
+    </div>
+</div>
+    <div class="cleared"></div>
+</div>
+
+
+  </body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.eccai.org/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>European Coordinating Committee for Artificial Intelligence (ECCAI)</title>
+<meta NAME="description" CONTENT="ECCAI European Coordinating Committee for Artificial Intelligence Homepage">
+<meta NAME="keywords" CONTENT="ECCAI European Coordinating Committee for Artificial Intelligence">
+<script src="/jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+	$(document).ready(function(){
+		$.ajax({
+				type: "GET",
+				url: "/config.xml",
+				dataType: "xml",
+				success: function(xml) {
+					processConfig(xml);
+
+				}
+		});		 
+	});
+
+	var flag = new Array; 
+	var country = new Array;
+	var label = new Array;
+	var linkimage = new Array;
+	var linklabel = new Array;
+	
+	function processConfig(xml){
+		$(xml).find("country").each(function (){
+			country = country.concat($(this).attr("name")); 
+			flag = flag.concat($(this).attr("image")); 
+			label = label.concat($(this).attr("label")); 
+			linkimage = linkimage.concat($(this).attr("linkimage"));
+			linklabel = linklabel.concat($(this).attr("linklabel"));
+		});
+		
+	var myDiv=document.getElementById("flag_div");
+	doit(600,480,flag,country,label,linkimage,linklabel,90,myDiv); // 215
+		
+	}
+	
+	function doit(width,height,flag,country,label,linkimage,linklabel,a,txt){
+		n=flag.length;
+		xs=new Array(n);
+		ys=new Array(n);
+		centerx=width/2;
+		centery=height/2;
+		alpha = 2*Math.PI/n;
+		R = 250;
+		for (i=0; i<n; i++) {
+  			xs[i] = centerx + R*Math.sin(i*alpha);
+  			ys[i] = centery - R*Math.cos(i*alpha);
+		
+			//document.write(beta + ";");
+			txt.innerHTML +='<div style="position:absolute; left:'+xs[i]+'; top:'+ys[i]+';text-align:center;width:80px;font-size:55%;color:#666666"><a href="'+linkimage[i]+'"><img style="border:solid 1px black" src="/img/flags/'+flag[i]+'" height="23" width="33"></a><br/>'+country[i]+ '<a href="'+linklabel[i]+'"><br/>'+label[i]+'</a></div>';
+		}
+		
+		txt.innerHTML += '<div style="position:absolute; left:170; top:200;text-align:center;width:320px"><font size=2 color=#00007f>ECCAI, the European Coordinating Committee for Artificial Intelligence, was established in July 1982 as a representative body for the European Artificial Intelligence community. Its aim is to promote the study, research and application of Artificial Intelligence in Europe.</font></div>';
+	}
+
+</script>
+
+<meta http-equiv="Content-Type" content="text/html;">
+<link rel="stylesheet" href="/eccaitext.css" type="text/css">
+</head>
+<body bgcolor="#FFFFFF">
+<table valign="top" align="left" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+<!-- left: ECCAI Logo -->
+<TD ALIGN="left" VALIGN="top">
+<a href="/"><img SRC="/img/eccailogo0.gif" ALT="ECCAI Homepage" border=0 width=174 height=45></a>
+</TD>
+
+<!-- top right: "ECCAI" -->
+<TD ALIGN="center" VALIGN="middle" width="630px">
+<font size="4" color="#002194">European Coordinating Committee for Artificial Intelligence</font>
+</TD></TR>
+
+<tr><td valign="top" align="left">
+<table border="0" cellpadding="0" cellspacing="1">
+<TR><TD ALIGN="left"><font size="3" color="#002194">
+<b>topical</b>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/join-us.shtml">Join us!</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/bulletin/current.shtml">ECCAI Bulletin</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<A HREF="http://www.lirmm.fr/ecai2012/" target="_blank">ECAI 2012</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<A HREF="http://www.inf.kcl.ac.uk/events/acai13/" target="_blank">ACAI 2013</a>
+</FONT></TD></TR> 
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<A HREF="http://www.ecai2014.org/" target="_blank">ECAI 2014</a>
+</FONT></TD></TR> 
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<A HREF="http://www.eccai.org/ecai.shtml" target="_blank">ECAI 2016</a>
+</FONT></TD></TR> 
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<A HREF="http://www.eccai.org/ecai-call.shtml" target="_blank">IJCAI/ECAI 2018</a>
+</FONT></TD></TR> 
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/aicom-access.shtml">AICom</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/education.shtml">AI Education</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/conf.php">AI Conferences</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="3" color="#002194">
+<b>organisation</b>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/member/index.shtml">Member Societies</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/fellow.php">Fellows</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/board.shtml">Board</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/admin/ga.shtml">General Assembly</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="3" color="#002194">
+<b>activities</b>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/benefits.shtml">Membership Benefits</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/ecai.shtml">ECAI Conferences</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/ecai-proceedings.shtml">ECAI Proceedings Online</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/acai.shtml">ACAI Summer Schools</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/bulletin/bulletins.shtml">ECCAI Bulletins</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/travelaw.shtml">Travel Grants</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/diss-award/current.shtml">Dissertation Award</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/fellows.shtml">Fellows Program</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/ecai-proceedings.shtml">ECAI Proceedings</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/aicom.shtml">AI Communications</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/eficst.shtml">Eur. Forum on ICST</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/ieee-is.shtml">IEEE Intelligent Systems</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/50years.shtml">50 Years AI</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="3" color="#002194">
+<b>administration</b>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/admin/procedures.shtml">Procedures, etc.</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/admin/charter.shtml">Charter</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/contact.shtml">Contact</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left"><font size="2" color="#002194">
+<img src="/img/r_arrow_blue.gif" width=6 heigth=10 border=0>
+<a href="/impressum.shtml">Impressum</a>
+</FONT></TD></TR>
+<TR><TD ALIGN="left">
+<BR>
+</TD></TR>
+</TABLE>
+</td>
+
+<!-- bot right: BODY -->
+<TD ALIGN="center" VALIGN="top">
+<div style="position:absolute; vertical-align: middle; text-align: center; left:155;top:100; width:600px; height:400" id="flag_div"></div>
+</TD>
+</TR>
+
+<TR><TD colspan=2><font size="1" color="#002194">
+Last update: 18-Oct-2010
+</font></td></tr>
+<tr><td colspan=2>
+<font size="1" color="#002194">Powered by </font><a href="http://www.cs.kuleuven.be/cwis/research/dtai/"><img ALIGN=center SRC="/img/DTAI-logo-xxs.png" WIDTH=45 HEIGHT=43 ALT="DTAI" Border="0"></a>
+</FONT>
+</td></tr>
+</table>
+<p></p>
+</body>
+</html>
+
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.aisb.org.uk/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+        <head>
+                  <base href="http://www.aisb.org.uk/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="The Society for the Study of Artificial Intelligence and Simulation of Behaviour" />
+  <meta name="description" content="The Society for the Study of Artificial Intelligence and Simulation of Behaviour" />
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management" />
+  <title>AISB - The Society for the Study of Artificial Intelligence and Simulation of Behaviour - Home</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/beez_20/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://www.aisb.org.uk/component/search/?format=opensearch" rel="search" title="Search AISB - The Society for the Study of Artificial Intelligence and Simulation of Behaviour" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="http://www.aisb.org.uk/modules/mod_freeslider_sp1/assets/css/style.css" type="text/css" />
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/templates/beez_20/javascript/md_stylechanger.js" type="text/javascript" defer="defer"></script>
+  <script src="http://www.aisb.org.uk/modules/mod_freeslider_sp1/assets/js/script.js" type="text/javascript"></script>
+
+                <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/position.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/layout.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/print.css" type="text/css" media="print" />
+                <link rel="stylesheet" href="/templates/beez_20/css/general.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/personal.css" type="text/css" />
+                <style type="text/css">
+                    .leo-main-wapper{ margin-left:50px; }
+                    .leo-item-carousel h3 a { font-size:0.6em; }
+                    .leo-content h6 { font-size:1.1em; }
+                </style>
+                <!--[if lte IE 6]>
+                <link href="/templates/beez_20/css/ieonly.css" rel="stylesheet" type="text/css" />
+
+                                <style type="text/css">
+                #line
+                {      width:98% ;
+                }
+                .logoheader
+                {
+                        height:200px;
+
+                }
+                #header ul.menu
+                {
+                display:block !important;
+                      width:98.2% ;
+
+
+                }
+                 </style>
+                                <![endif]-->
+                <!--[if IE 7]>
+                        <link href="/templates/beez_20/css/ie7only.css" rel="stylesheet" type="text/css" />
+                <![endif]-->
+                <script type="text/javascript" src="/templates/beez_20/javascript/hide.js"></script>
+
+                <script type="text/javascript">
+                        var big ='72%';
+                        var small='53%';
+                        var altopen='is open';
+                        var altclose='is closed';
+                        var bildauf='/templates/beez_20/images/plus.png';
+                        var bildzu='/templates/beez_20/images/minus.png';
+                        var rightopen='Open info';
+                        var rightclose='Close info';
+                        var fontSizeTitle='Font size';
+                        var bigger='Bigger';
+                        var reset='Reset';
+                        var smaller='Smaller';
+                        var biggerTitle='Increase size';
+                        var resetTitle='Revert styles to default';
+                        var smallerTitle='Decrease size';
+                </script>
+
+        </head>
+
+        <body>
+
+<div id="all">
+        <div id="back">
+                <div id="header">
+                                <div class="logoheader">
+                                        <h1 id="logo">
+
+                                                                                  <a style="border:none;" href="/"><img style="border:none;" src="/images/aisb.png"  alt="AISB" /></a>
+                                                                                                                        <span class="header1">
+                                                                                </span></h1>
+                                        
+                                </div><!-- end logoheader -->
+
+                        </div><!-- end header -->
+                        <div id="contentarea">
+                                                                                <div id="breadcrumbs">
+                                            <div style="float:right;"><form action="/index.php" method="post">
+	<div class="search">
+		<label for="mod-search-searchword">Search...</label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="435" />
+	</div>
+</form>
+</div>
+                                                        
+<div class="breadcrumbs">
+<span class="showHere">You are here: </span><span>Home</span></div>
+
+                                            
+                                        </div>
+
+                                        
+
+                                                        <div class="left1 leftbigger" id="nav">
+                                                   <div class="moduletable_menu">
+ <h3><span
+	class="backh"><span class="backh2"><span class="backh3">Main Menu</span></span></span></h3>
+ 
+<ul class="menu">
+<li class="item-435 current active"><a href="/" >Home</a></li><li class="item-494"><a href="/news" >News</a></li><li class="item-474"><a href="/weekly-bulletin" >Weekly Bulletin</a></li><li class="item-465 deeper parent"><a href="/about" >About the AISB</a><ul><li class="item-467"><a href="/about/join" >Joining the AISB</a></li><li class="item-476"><a href="/about/fellows" >Fellows</a></li><li class="item-466"><a href="/about/contact" >Contact Information</a></li></ul></li><li class="item-468 deeper parent"><a href="/committee" >Committee</a><ul><li class="item-478"><a href="/committee/secretary" >Secretary</a></li><li class="item-477"><a href="/committee/treasurer" >Treasurer</a></li></ul></li><li class="item-469 deeper parent"><a href="/events" >Events</a><ul><li class="item-475"><a href="/events/convention" >Annual Convention</a></li><li class="item-528"><a href="http://www.aisb.org.uk/convention/aisb12" >AISB 2012</a></li><li class="item-529"><a href="/events/aisb13" >AISB 2013</a></li><li class="item-532"><a href="/events/aisb14" >AISB 2014</a></li><li class="item-531"><a href="/events/members-workshop-series" >Members workshop series</a></li></ul></li><li class="item-470 deeper parent"><a href="/asibpublications" >Publications</a><ul><li class="item-479"><a href="/asibpublications/quarterly" >Quarterly</a></li><li class="item-480"><a href="/asibpublications/journal" >Journal</a></li><li class="item-481"><a href="/asibpublications/convention-proceedings" >Convention Proceedings</a></li></ul></li><li class="item-482 deeper parent"><a href="/public-engagement" >Public Engagement</a><ul><li class="item-473"><a href="/public-engagement/studenttravelawards" >Travel Awards and Grants</a></li><li class="item-483"><a href="/public-engagement/what-is-ai" >What is AI?</a></li><li class="item-484"><a href="/public-engagement/getting-involved" >Getting Involved</a></li><li class="item-487"><a href="/public-engagement/studying-ai" >Studying AI</a></li><li class="item-486"><a href="/public-engagement/sources-of-funding" >Sources of Funding</a></li><li class="item-485"><a href="/public-engagement/resources" >Resources</a></li></ul></li><li class="item-472"><a href="/login-link" >Login</a></li></ul>
+</div>
+
+                                                                
+                                                                <div id="area-3" class="tabouter"><ul class="tabs"><li class="tab"><a href="#" id="link_77" class="linkopen" onclick="tabshow('module_77');return false">Latest News</a></li></ul><div tabindex="-1" class="tabcontent tabopen" id="module_77"><ul class="latestnews">
+	<li>
+		<a href="/news/148-yasemin-erden-on-bbc">
+			Yasemin Erden on BBC</a>
+	</li>
+	<li>
+		<a href="/news/145-call-for-symposia-proposals-for-aisb-50">
+			AISB Convention 2014</a>
+	</li>
+	<li>
+		<a href="/news/144-mark-bishop-and-noel-sharkey-discuss-intelligent-robots-on-city-am">
+			Mark Bishop on BBC & CITY A.M.</a>
+	</li>
+	<li>
+		<a href="/news/76-lighthill-debates">
+			Lighthill Debates</a>
+	</li>
+	<li>
+		<a href="/news/133-aisb-youtube-channel">
+			AISB YouTube Channel</a>
+	</li>
+</ul></div></div>
+
+
+                                                        </div><!-- end navi -->
+               
+                                        <div id="wrapper2" >
+
+                                                <div id="main">
+
+                                                                                                        <div id="top"><script type="text/javascript">
+	window.addEvent('domready',function(){
+				var walkers79 = document.getElements('#fs-sp1-handlers79 span');
+				var fssp1_id79 = new freeSlide_sp1($('fs-sp1-79'), {
+			size: {width: 720, height: 200},
+			fxOptions: {duration:  2000, transition: Fx.Transitions.Sine.easeOut},
+						onWalk: function(i, j){
+				$$(walkers79[i]).addClass('active');
+				$$(walkers79[j]).removeClass('active');
+			},
+			onInitialized: function () {
+				walkers79[0].addClass('active');
+			},	
+				
+			transition: 'cover-horizontal-fade'			
+		});
+				fssp1_id79.addItemWalkers(walkers79);
+		fssp1_id79.addPlayerControls('previous', [$('fs-sp1-prev79')]);
+		fssp1_id79.addPlayerControls('next', [$('fs-sp1-next79')]);
+				
+				fssp1_id79.play(10000);
+			
+	});
+</script>
+<div id="freeSlide_sp1_id79" class="fs-sp1">
+	<div id="fs-sp1-79" style="overflow:hidden;position:relative;height:200px;width:720px">
+					<div class="fs-sp1-content">
+				<div class="fs-sp1-inner">
+						
+													<a href="/news/148-yasemin-erden-on-bbc"><img src="/images/YErden.jpg" alt="" class="fs-sp1-image" /></a>
+									
+										<div class="fs-sp1-desc">
+																					<h2 class="fs-sp1-title"><a href="/news/148-yasemin-erden-on-bbc">Yasemin Erden on BBC</a></h2>
+								
+								
+						
+													<p class="fs-sp1-intro">AISB Committee member, and Philosophy Programme Director and Lecturer, Dr Yasemin J. Erden interviewed for the BBC on 29 October 2013. Speaking on the Today programme for BBC Radio 4, as well as the Business Report for BBC world N...</p>
+												
+													<br /><a class="fs-sp1-morein" href="/news/148-yasemin-erden-on-bbc">Read More...</a>
+											</div>	
+				</div>
+			</div>
+					<div class="fs-sp1-content">
+				<div class="fs-sp1-inner">
+						
+													<a href="/news/145-call-for-symposia-proposals-for-aisb-50"><img src="/images/AISB-50.jpg" alt="" class="fs-sp1-image" /></a>
+									
+										<div class="fs-sp1-desc">
+																					<h2 class="fs-sp1-title"><a href="/news/145-call-for-symposia-proposals-for-aisb-50">AISB Convention 2014</a></h2>
+								
+								
+						
+													<p class="fs-sp1-intro">AISB-50: a convention commemorating both 50 years since the founding of the society for the study of Artificial Intelligence and the Simulation of Behaviour (the AISB) and sixty years since the death of Alan Turing, founding fathe...</p>
+												
+													<br /><a class="fs-sp1-morein" href="/news/145-call-for-symposia-proposals-for-aisb-50">Read More...</a>
+											</div>	
+				</div>
+			</div>
+					<div class="fs-sp1-content">
+				<div class="fs-sp1-inner">
+						
+													<a href="/news/144-mark-bishop-and-noel-sharkey-discuss-intelligent-robots-on-city-am"><img src="/images/bish.jpg" alt="" class="fs-sp1-image" /></a>
+									
+										<div class="fs-sp1-desc">
+																					<h2 class="fs-sp1-title"><a href="/news/144-mark-bishop-and-noel-sharkey-discuss-intelligent-robots-on-city-am">Mark Bishop on BBC  ...</a></h2>
+								
+								
+						
+													<p class="fs-sp1-intro">Mark Bishop, Chair of the Study of Artificial Intelligence and the Simulation of Behaviour, appeared on Newsnight to discuss the ethics of ‘killer robots’. He was approached to give his view on a report raising questions on the et...</p>
+												
+													<br /><a class="fs-sp1-morein" href="/news/144-mark-bishop-and-noel-sharkey-discuss-intelligent-robots-on-city-am">Read More...</a>
+											</div>	
+				</div>
+			</div>
+					<div class="fs-sp1-content">
+				<div class="fs-sp1-inner">
+						
+													<a href="/news/133-aisb-youtube-channel"><img src="/images/youtube.jpg" alt="" class="fs-sp1-image" /></a>
+									
+										<div class="fs-sp1-desc">
+																					<h2 class="fs-sp1-title"><a href="/news/133-aisb-youtube-channel">AISB YouTube Channel</a></h2>
+								
+								
+						
+													<p class="fs-sp1-intro">
+The AISB has launched a YouTube channel: http://www.youtube.com/user/AISBTube (http://www.youtube.com/user/AISBTube).
+The channel currently holds a number of videos from the AISB 2010 Convention. Videos include the AISB round t...</p>
+												
+													<br /><a class="fs-sp1-morein" href="/news/133-aisb-youtube-channel">Read More...</a>
+											</div>	
+				</div>
+			</div>
+					<div class="fs-sp1-content">
+				<div class="fs-sp1-inner">
+						
+													<a href="/news/76-lighthill-debates"><img src="/images/lighthill.jpg" alt="" class="fs-sp1-image" /></a>
+									
+										<div class="fs-sp1-desc">
+																					<h2 class="fs-sp1-title"><a href="/news/76-lighthill-debates">Lighthill Debates</a></h2>
+								
+								
+						
+													<p class="fs-sp1-intro">
+The Lighthill debates from 1973 are now available on YouTube.
+You need to a flashplayer enabled browser to view this YouTube video
+ </p>
+												
+													<br /><a class="fs-sp1-morein" href="/news/76-lighthill-debates">Read More...</a>
+											</div>	
+				</div>
+			</div>
+			</div>
+			<div id="fs-sp1-handlers79" class="fs-sp1-controllers">
+			<div id="fs-sp1-prev79" class="fs-sp1-prev"></div>
+			<span>0</span><span>1</span><span>2</span><span>3</span><span>4</span>	
+			<div id="fs-sp1-next79" class="fs-sp1-next"></div>
+		</div>
+		
+</div>
+                                                        </div>
+                                                
+                                                                                                        <div class="error">
+                                                                <h2>
+                                                                        Notice                                                                </h2>
+                                                                
+<div id="system-message-container">
+</div>
+                                                        </div>
+                                                
+                                                        
+<div class="blog-featured">
+
+<div class="items-leading">
+			<div class="leading-0">
+			
+	<h2>
+					<a href="/77-aisb/24-welcome">
+			Welcome to the AISB</a>
+			</h2>
+
+
+	
+
+
+
+<p>The Society for the Study of Artificial Intelligence and the Simulation of Behaviour (AISB) is the largest Artificial Intelligence Society in the United Kingdom. Founded in 1964, the society has an international membership drawn from both academia and industry. It is a member of <a href="http://www.eccai.org/"> the European Coordinating Committee for Artificial Intelligence</a> <img src="/images/eccai_logo.png" border="0" height="16" /> (see ECCAI benefits).</p>
+<p>AISB is a thriving learned society which invites membership from people with a serious interest in Artificial Intelligence, Cognitive Science and related areas. There are six types of membership: student, ordinary, benefactor, patron, corporate and institutional. The society hosts an annual convention. Members of the Society receive a quarterly newsletter <em>AISBQ</em> which includes short reports on current AI and Cognitive Science research. Members are also entitled to discounts to the ECAI conference.</p>
+
+
+<div class="item-separator"></div>
+		</div>
+			</div>
+	
+	
+			<div class="items-row cols-1 row-0">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/77-aisb/109-whatsnew">
+			What's New</a>
+			</h2>
+
+
+	
+
+
+
+<ul>
+<li><strong>AISB-50</strong>, the Society's Convention for 2014, will be held at Goldsmiths, University of London, from 1st to 4th April 2014.</li>
+<li>The <a href="http://emps.exeter.ac.uk/computer-science/research/aisb/" title="AISB'13">AISB'13 convention</a> was held at the University of Exeter from 2nd to the 5th April 2013.</li>
+<li>2012 marks the centenary of Alan Turing's birth. <a href="http://www.turingcentenary.eu/">Alan Turing Year</a>, seeks to bring together news of all the events and organisations which will be marking the occasion.</li>
+<li>The AISB'12 <a href="/convention/aisb12">Convention</a> held at the University of Birmingham, was a great success: honouring Alan Turing and seeing a variety of symposia.</li>
+<li>Postgraduate Conference for Computing: Applications and Theory (PCCAT 2011) was held in Exeter with AISB-sponsored prizes for best poster and best paper.</li>
+<li>Winners:
+<ul>
+<li>Mr Ali Hussain Ali, CNRS, University of Plymouth</li>
+<li>Mr Martin Peniak, PhD student - artificial intelligence, University of Plymouth</li>
+</ul>
+</li>
+</ul>
+<p> </p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-1">
+				<div class="item column-1">
+			
+	<h2>
+					<a href="/91-aisb/committee/treasurer/111-awardsandsponsorship">
+			Awards and Sponsorship</a>
+			</h2>
+
+
+	
+
+
+
+<ul>
+<li>The AISB offers regular <a href="/component/content/article/91-aisb/committee/treasurer/108">Student Travel Awards</a> of up to £300 for conference trips. A list of <a href="/component/content/article/91-aisb/committee/treasurer/107">Student Travel Award Recipients</a> is available.</li>
+<li>AISB members are eligible for the ECCAI dissertation award, and can also apply for ECCAI travel grants to attend the ECAI conference and ACAI summer school.   
+<ul>
+<li><a href="http://www.eccai.org/admin/procedures.shtml">Procedures for applying for ECCAI Awards and Travel Grants</a>.</li>
+</ul>
+</li>
+<li><a href="/component/content/article/87-aisb/publicrelations/93">Mutual Benefit Ideas</a> - including sponsorship details.</li>
+</ul>
+<p> </p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+
+
+</div>
+
+
+
+                                                                                                        <h2>Latest News</h2>
+                                                        <div class="no-bullets"><ul class="latestnews">
+	<li>
+		<a href="/news/148-yasemin-erden-on-bbc">
+			Yasemin Erden on BBC</a>
+	</li>
+	<li>
+		<a href="/news/145-call-for-symposia-proposals-for-aisb-50">
+			AISB Convention 2014</a>
+	</li>
+	<li>
+		<a href="/news/144-mark-bishop-and-noel-sharkey-discuss-intelligent-robots-on-city-am">
+			Mark Bishop on BBC & CITY A.M.</a>
+	</li>
+	<li>
+		<a href="/news/76-lighthill-debates">
+			Lighthill Debates</a>
+	</li>
+	<li>
+		<a href="/news/133-aisb-youtube-channel">
+			AISB YouTube Channel</a>
+	</li>
+</ul></div>
+                                                
+                                                </div><!-- end main -->
+
+                                        </div><!-- end wrapper -->
+
+                                
+                        
+                                <div class="wrap"></div>
+
+                                </div> <!-- end contentarea -->
+
+                        </div><!-- back -->
+
+                </div><!-- all -->
+
+                <div id="footer-outer">
+                        
+                        <div id="footer-sub">
+
+
+                                <div id="footer">
+                                  <p style="text-align:center">Site maintained by: <a href="http://www.gold.ac.uk/computing/staff/pg-research/m-majid/" target="_top">Mohammad Majid al-Rifaie</a> and <a href="http://people.exeter.ac.uk/km314/index.php" target="_top">Kent McClymont</a>.<p>
+                                  <p style="text-align:center">Email: webmasterXX@aisb.org.uk to send any comments or questions where (XX are the last two digits of the current year).</p>
+                                  <br /><br />
+                                  <p style="text-align:center"><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/uk/"><img alt="Creative Commons License" style="border-width: 0pt;" src="http://i.creativecommons.org/l/by-nc-nd/2.0/uk/88x31.png"></a><br><span xmlns:dc="http://purl.org/dc/elements/1.1/" property="dc:title">All Content of the AISB Web Pages</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.aisb.org.uk" property="cc:attributionName" rel="cc:attributionURL">the Society for the Study of Artificial Intelligence and Simulation of Behaviour</a> (unless stated otherwise on the page or in the relevant document) are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/uk/">Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 UK: England &amp; Wales License</a>.<br>Permissions beyond the scope of this license are  available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.aisb.org.uk/copyright.shtml" rel="cc:morePermissions">http://www.aisb.org.uk/copyright.shtml</a><br /></p>
+                                    <br /><br />
+
+                                        
+                                        <p>
+                                                Powered by <a href="http://www.joomla.org/">Joomla!&#174;</a>
+                                        </p>
+
+                                </div><!-- end footer -->
+
+                        </div>
+
+                </div>
+                                    
+                                    <script>
+                                      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                                          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                                            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                                      
+                                      ga('create', 'UA-2860376-9', 'aisb.org.uk');
+                                      ga('send', 'pageview');
+                                      
+                                    </script>
+        </body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.acia.org/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<link href="estil.css" rel="stylesheet" type="text/css">
+<link rel="icon"       type="image/png" href="favicon.PNG">
+<title>ACIA - Associaci&oacute; Catalana d'Intel�lig�ncia Artificial</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> <script type="text/javascript" language="javascript">
+<!--
+var secc=0;
+function posaText(num) {
+		document.getElementById('submenu').style.visibility = 'hidden';
+		document.getElementById('submenuNodes').style.visibility = 'hidden';
+		document.getElementById('submenubuit').style.visibility = 'hidden';
+		document.getElementById('submenubuit').style.top	= document.getElementById('submenu').style.top;
+		document.getElementById('submenubuit2').style.visibility = 'hidden';
+		document.getElementById('submenubuit2').style.top	= document.getElementById('submenuNodes').style.top;
+
+		if (num==0){
+			document.getElementById('submenu').style.visibility = 'visible';
+		}else if (num==1) {
+			document.getElementById('submenubuit').style.visibility = 'visible';
+			document.getElementById('submenubuit2').style.visibility = 'visible';
+		}else if (num==2) {
+			document.getElementById('submenuNodes').style.visibility = 'visible';
+		}
+	return;
+}
+
+function treuText(num) {
+	if ((secc>=1 && secc<=5)) {
+		document.getElementById('submenubuit').style.visibility = 'hidden';
+		document.getElementById('submenubuit').style.top	= document.getElementById('submenu').style.top;
+		document.getElementById('submenubuit2').style.visibility = 'hidden';
+		document.getElementById('submenubuit2').style.top	= document.getElementById('submenu').style.top;
+		document.getElementById('submenu').style.visibility = 'visible';
+	}else if (secc==8 || secc==13) {
+		document.getElementById('submenubuit2').style.visibility = 'hidden';
+		document.getElementById('submenubuit2').style.top	= document.getElementById('submenuNodes').style.top;
+		document.getElementById('submenuNodes').style.visibility = 'visible';
+	}
+	return;
+}
+function altaUser()
+{
+	var frm = document.frmReg;
+	frm.submit();
+}
+//-->
+</script>
+</head><body>
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td width="587px">
+				<div id="contingutMenu"> 
+					<div id="menu"> <table>
+							<tr><td>
+								<a href="welcome" onMouseOver="javascript:posaText(1);" onMouseOut="javascript:treuText(1);" style="color: #FFFFFF" >Home<br>
+								<font size="1">all the latest stuff</a>
+							</td><td width="11px"></td><td>
+								<a href="#" onMouseOver="javascript:posaText(0);" onMouseOut="javascript:treuText(0);"  >ACIA<br>
+								<font size="1">about us</font></a>
+							</td><td width="11px"></td><td>
+								<a href="conferencies" onMouseOver="javascript:posaText(1);" onMouseOut="javascript:treuText(1);" >Conferences<br>
+								<font size="1">catalan and sponsored</font></a>
+							</td><td width="11px"></td><td>
+								<a href="#" onMouseOver="javascript:posaText(2);" onMouseOut="javascript:treuText(2);" >Nodes<br>
+								<font size="1">ACIA bulletin</font></a>
+							</td><td width="11px"></td><td>
+								<a href="pointers" onMouseOver="javascript:posaText(1);" onMouseOut="javascript:treuText(1);" >Pointers<br>
+								<font size="1">research groups</font></a>
+							</td></tr>
+						</table>
+					</div><div id="submenu"> 
+						<a href="charter" id="link1" >Charter</a>
+						&nbsp;|&nbsp;
+						<a href="board" id="link3" >Board</a>
+						 &nbsp;|&nbsp;
+						<a href="individualmembers" id="link2" >Individual members</a>
+						 &nbsp;|&nbsp;
+						<a href="institutionalmembers" id="link4" >Institutional members</a>
+						 &nbsp;|&nbsp;
+						<a href="documents" id="link5" >Docs.</a>
+						&nbsp;|&nbsp;
+						<a href="beques" id="link14" >Grants</a>
+						 &nbsp;|&nbsp;
+						<a href="javascript:altaUser();" id="link6" >Register</a>
+					</div>
+					<div id="submenubuit"> 	</div>
+					<div id="submenuNodes"> 
+						<a href="bulletins" id="linkN1" >Old bulletins</a>
+						 &nbsp;|&nbsp;
+						<a href="nodes/index.php" id="linkN2" >New electronic bulletin</a>
+					</div>
+					<div id="submenubuit2"> </div>
+					
+				</div>
+	</td><td><div id="logo"><img src="LOGO.jpg" height="132" /></div>
+	</td></tr>
+</table>
+<form name="frmReg" action="nodes/modules.php?name=registro" method="POST">
+<input type="hidden" name="d_op" value="altauser"/>
+</form>
+<script type="text/javascript" language="javascript">
+<!--
+	if ((secc>=1 && secc<=5)) {
+		document.getElementById('submenu').style.visibility = 'visible';
+		document.getElementById('submenubuit').style.visibility = 'hidden';
+	}else if (secc==8 || secc==13) {
+		document.getElementById('submenuNodes').style.visibility = 'visible';
+		document.getElementById('submenubuit2').style.visibility = 'hidden';
+	}
+-->
+</script>
+<div id="contingut">
+
+	    <img src="imatges/marcSup_complet.jpg"/><div id="titol">WELCOME TO THE ACIA HOME PAGE</div>
+	<div id="barraTexte">&nbsp;<hr>&nbsp;</div>
+	<div id="texte">
+		<!--b>The Main Heading</B-->
+		<table border="0">
+			<tr><td>
+				<!--img src="imatges/homeimage.jpeg" height="230px"/-->
+			</td><td>
+				<p> The Associaci� Catalana d�Intel�lig�ncia Artificial (ACIA) is a non profit association 
+				for the advancement of Artificial Intelligence (AI) in the Catalan society. Its main goal 
+				is to support communication between the persons and the organisations involved in AI and 
+				promote social, cultural, scientific, economic and governmental awareness on AI.
+				</p> 
+<br>
+			</td></tr>
+		</table>
+        <center>
+		<a href="http://www.maia.ub.edu/~ccia2014/"><img src='imatges/ccia2014.jpg' width='500px'/></a>
+        </center>
+		<br />
+		<br />
+		<div id="titol">Books</div>
+		<div id="texte">
+			<ul>
+			<li><a href="llibres/barcelo.pdf">Intel&middot;lig&egrave;ncia Ficci&oacute; - Miquel Barcel&oacute;</a></li>
+			<li><a href="llibres/plaza.pdf">El Cau del H&agrave;cker - Enric Plaza</a></li>
+			<li><a href="llibres/sales.pdf">Intel&middot;lig&egrave;ncia a Tones - Ton Sales</a></li>
+			<li><a href="llibres/valverde.pdf">Amorrat al Teclat - Lloren&ccedil; Valverde</a></li>
+			</ul>
+		</div>
+		<center>
+		<img src="imatges/ACIA_Presentacio_SenseAninmacio.png" width='500px' />
+		</center>
+	</div>
+	<div id="peu">
+		<hr>
+		<table border=0 >
+			<tr><td>
+				<p class="textpeu">&copy; 2009 ACIA | <a href="termes"> Terms of use & Privacy policy</a> </p>
+			</td><td width="30px">
+			</td><td border="10px"><p class="textpeu"></p>
+			</td><!--td><p class="textpeu">Catal� | Castellano | English</p-->
+			</td><td> <p class="textpeu" align="right">|  Webmaster:
+				<script language="javascript" type="text/javascript">
+				var pre = "smartinez";
+				document.write("<a href='mailto:" + pre + "@iiia.csic.es'>" + pre
+				+ "@iiia.csic.es</a>");
+				</script>
+				<noscript>Enable javascript to see our email!</noscript></p>
+			</td></tr>
+		</table>
+	</div>
+</div> 
+<script type="text/javascript" language="javascript"><!--posaText(1);//--></script>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.ai-gakkai.or.jp/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>人工知能学会 (The Japanese Society for Artificial Intelligence)</title>
+<link rel="alternate" href="http://www.ai-gakkai.or.jp/en/feed/" type="application/rss+xml" title="RSS" />
+<meta name="author" content="ShinRa" />
+<link rel="pingback" href="http://www.ai-gakkai.or.jp/en/wp/xmlrpc.php" />
+<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta property="http://ogp.me/ns#image" content="http://www.ai-gakkai.or.jp/new_jsai_logo.png" />
+
+	<link rel="stylesheet" type="text/css" media="screen" href="http://www.ai-gakkai.or.jp/wp/wp-content/themes/shinra-of-the-sun/English/style_en.css" />
+
+
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://www.ai-gakkai.or.jp/wp/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=3.8.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.ai-gakkai.or.jp/wp/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.ai-gakkai.or.jp/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.ai-gakkai.or.jp/wp/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.7.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ai-gakkai.or.jp/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ai-gakkai.or.jp/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.8.1" />
+
+<meta http-equiv="Content-Language" content="en-US" />
+<style type="text/css" media="screen">
+.qtrans_flag span { display:none }
+.qtrans_flag { height:12px; width:18px; display:block }
+.qtrans_flag_and_text { padding-left:20px }
+.qtrans_flag_ja { background:url(http://www.ai-gakkai.or.jp/wp/wp-content/plugins/qtranslate/flags/jp.png) no-repeat }
+.qtrans_flag_en { background:url(http://www.ai-gakkai.or.jp/wp/wp-content/plugins/qtranslate/flags/gb.png) no-repeat }
+</style>
+<link hreflang="ja" href="http://www.ai-gakkai.or.jp/" rel="alternate" />
+<!-- BEGIN: WP Social Bookmarking Light -->
+<script type="text/javascript" src="http://connect.facebook.net/ja_JP/all.js#xfbml=1"></script>
+<style type="text/css">
+.wp_social_bookmarking_light{
+    border: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.wp_social_bookmarking_light div{
+    float: left !important;
+    border: 0 !important;
+    padding: 0 !important;
+    margin: 0 5px 0px 0 !important;
+    height: 23px !important;
+    text-indent: 0 !important;
+}
+.wp_social_bookmarking_light img{
+    border: 0 !important;
+    padding: 0;
+    margin: 0;
+    vertical-align: top !important;
+}
+.wp_social_bookmarking_light_clear{
+    clear: both !important;
+}
+.wsbl_twitter{
+    width: 100px;
+}</style>
+<!-- END: WP Social Bookmarking Light -->
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><!-- Google Analytics Tracking by Google Analyticator 6.4.7.3: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+                var analyticsFileTypes = [''];
+                            var analyticsSnippet = 'enabled';
+                var analyticsEventTracking = 'enabled';
+            </script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-20670270-1']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+</head>
+<body>
+<div id="wrapper">
+
+		<div id="header">
+		<div style="height:220px; width:100%;">
+			<div style="height: 210px; width: 246px; float: left; margin-left: 5px; margin-right: 2px; margin-top: 5px;">
+				<h1><a href="http://www.ai-gakkai.or.jp/en/" title="人工知能学会 (The Japanese Society for Artificial Intelligence)"><img src="http://www.ai-gakkai.or.jp/wp/wp-content/themes/shinra-of-the-sun/images/logo.png"></a></h1>
+			</div>
+			<div id="title"><a href="http://www.ai-gakkai.or.jp/jsai2014/" target="_blank"><img src="http://www.ai-gakkai.or.jp/wp/wp-content/themes/shinra-of-the-sun/English/images/header_img_en.jpg"></a></div>
+		</div>
+		<div style="height:auto; width:100%;">
+			<!--// <div id="navi">
+				//<a class="whatsai_img" href="http://www.ai-gakkai.or.jp/jsai/whatsai/" > </a>
+				//<a class="admission_img" href="http://www.ai-gakkai.or.jp/en/membership/" > </a>
+			//</div> -->
+			<div id="h_list">
+				<span style="height:10px; width:auto; margin-left:10px;">
+					<a href="http://www.ai-gakkai.or.jp/">◆Japanese</a>
+				</span>
+			
+			</div>
+		</div>
+	</div>
+
+	
+	
+
+		<div id="left_side">
+	<div id="left_side_menu">
+		<ul>
+			<li>
+				<ul>
+					<li><a href="http://www.ai-gakkai.or.jp/en">Home</a></li>
+					<li><a href="http://www.ai-gakkai.or.jp/en/journals_of_jsai/">Journals of jsai</a></li>
+					<li><a href="http://www.ai-gakkai.or.jp/jsaiml/ml-form-eng.cgi">Mailing List</a></li>
+					<li><a href="/isai/">JSAI International Symposia on AI</a></li>
+				</ul>
+			<li>
+		</ul>
+	</div>
+	<!-- //<div id="left_side_twitter">
+		//		//	<li>
+		//		<ul>
+		//			<li><form id="searchform" action="http://www.ai-gakkai.or.jp/en/index.php" method="get">
+	<input type="text" value="" name="s" id="s" placeholder="検索"/>
+	<input type="submit" id="searchsubmit" value="Search" />
+</form>
+</li>
+		//		</ul>
+		//	</li>
+		//	<li>
+		//		<ul>
+		//			<li><a href="http://www.ai-gakkai.or.jp/en">Home</a></li>
+		//			<li><a href="http://www.ai-gakkai.or.jp/en/journals_of_jsai/">Journals_of_jsai</a></li>
+		//			<li><a href="http://www.ai-gakkai.or.jp/jsaiml/ml-form-eng.cgi">MailingList</a></li>
+		//		</span>
+		//		</ul>
+		//	<li>
+		//	//</div> -->
+</div>
+
+<div id="main"><div id="s-plagin" style="margin-left: 10px;">
+       <div class='wp_social_bookmarking_light'><div class="wsbl_facebook_like"><fb:like href="" send="false" layout="button_count" width="70" show_faces="false" action="like" colorscheme="light" font=""></fb:like></div><div class="wsbl_twitter"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=&amp;text=&amp;lang=ja&amp;count=horizontal" style="width:130px; height:20px;"></iframe></div><div class="wsbl_hatena_button"><a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-title="" data-hatena-bookmark-layout="standard" title="Bookmark this on Hatena Bookmark"> <img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="Bookmark this on Hatena Bookmark" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button_wo_al.js" charset="utf-8" async="async"></script></div><div class="wsbl_google_plus_one"><g:plusone size="medium" annotation="none" href="" ></g:plusone></div></div><br class='wp_social_bookmarking_light_clear' /></div>
+<br>
+
+
+	<div id="main">
+     <div class="post">
+<h2>About The Japanese Society for AI</h2>
+Though almost all the content on this site is written in Japanese, the
+following information will be useful for English speakers:
+
+<dl>
+<dt><h3><a href="#ONLINE">Transactions of the JSAI (online since 2001): </a></h3></dt>
+<dd>
+From 2001, JSAI separated the publication of technical papers into
+    its "Transactions of the JSAI". These transactions are available
+    for online access (papers are placed on the web once they are
+    accepted), and also released as hardcopy once per year.
+    Some of the papers in the Transactions are written in English,
+    so they will be of  interest    to English speakers.
+    Instructions to get articles are available here.
+</dd>
+<dt><h3><a href="#JOURNAL">Journals of JSAI: </a></h3></dt>
+<dd>
+The JSAI Journal now contains announcements, tutorial papers, and
+    articles on AI-related topics.  Though almost all articles
+    in JSAI journals are in Japanese, all authors are required to
+    provide abstracts of theirs in English.
+    The JSAI journal tables of contents since vol.11 no.3 are
+    available in English.
+    Some of the abstracts of the technical papers carried in the
+    JSAI journal (before technical papers were  separated into the
+    Transactions of the JSAI) are also available in English.
+</dd>
+<dt><h3><a href="#ML">JSAI announcement mailing list: </a></h3></dt>
+<dd>
+We manage a mailing list to announce AI related conferences or workshops.
+CFPs can be circulated to thousands of Japanese AI researchers.
+</dd>
+<!--
+<dt><h3><a href="#RSSICAL">JSAI RSS/iCalendar information service: </a></h3></dt>
+<dd>
+Summary of our mailing-list and AI-related event and CFP announcements
+are provided in the form of <a href="http://web.resource.org/rss/1.0/">RSS</a>
+or <a href="http://www.ietf.org/rfc/rfc2445.txt">iCalendar</a>
+formats.
+</dd>
+-->
+<dt><h3><a href="#CONTACT">Contact information: </a></h3></dt>
+<dd>
+How to contact The Japanese Society for Artificial Intelligence.
+</dd>
+</dl>
+
+<hr>
+
+<h3 class="S_f_Title"><a name="ONLINE">
+Online Transactions of the JSAI (since 2001)</a></h3>
+
+<h4><a target="_blank" href="http://www.jstage.jst.go.jp/browse/imt/">
+IMT Joint Technical Paper Archive</a></h4>
+This archive provides the technical papers published in English from the
+Japanese societies which are the members of
+<a href="http://www.ipsj.or.jp/08editt/imt/index.htm">
+Information and Media Technologies</a>.
+You can access our technical papers published in English from the
+following archive.
+<p align="center">
+<a target="_blank" href="http://www.jstage.jst.go.jp/browse/imt/">
+IMT Joint Technical Paper Archive</a></p>
+
+
+<h4>To read Transactions of the JSAI:</h4>
+
+<p> 
+Since vol.16 (2001), technical papers published by JSAI are carried in
+the Transactions of the JSAI and are available free of charge from the
+web, even for non-members of JSAI.
+</p>
+
+<p align="center"><a target="_blank" href="http://www.jstage.jst.go.jp/browse/tjsai/-char/en">
+Online Transactions of the JSAI</a></p>
+
+<em>CAUTION</em>:
+All the abstracts are written in English.
+The body of almost all the article is written in Japanese, and others
+are written in English.
+
+<h3 class="S_f_Title"><a name="JOURNAL">
+Journals of JSAI</a></h3>
+
+<h4>To read the table of contents:</h4>
+
+Though the bodies of almost all articles are written in Japanese, 
+the JSAI tables of contents are written in English.
+The table of contents since vol.11 no.3. is available from this
+<a href="http://www.ai-gakkai.or.jp/en/journals_of_jsai/">"Table of Contents"</a> page.
+
+<h3 class="S_f_Title"><a name="ML">
+JSAI announcement mailing list</a></h3>
+
+<h4>To announce AI related conferences or workshops:</h4>
+
+We manage the JSAI announce mailing-list to announce AI related
+conferences, workshops, and other events of interest to Japanese AI
+researchers (thousands of researchers are subscribing this mailing-list)
+If you wish to make an announcement, please fill in the following form and send an announcement,
+
+<blockquote>
+<span>the JSAI announce mailing-list form : <a href="http://www.ai-gakkai.or.jp/jsaiml/ml-form-eng.cgi">http://www.ai-gakkai.or.jp/jsaiml/ml-form-eng.cgi</a></span></blockquote>
+Article format should be as follows:
+<ul>
+  <li>body of article should be plain text, and each line should be
+      shorter than 76 characters.
+  <li>do not use characters whose code is greater than 0x7f, i.e.,
+      characters with umlaut or accent marks, 
+      because such characters might be incorrectly displayed as
+      Japanese characters.
+</ul>
+
+Since this mailing-list is moderated, the following articles cannot be
+posted:
+<ol>
+  <li>commercial messages</li>
+  <li>including slanders</li>
+  <li>messages not relevant to the activity of JSAI</li>
+  <li>not announcements</li>
+  <li>over-sized messages (ex. including large attachments &gt;300kb)</li>
+  <li>articles that we consider inappropriate</li>
+</ol>
+                                
+<h4>To subscribe mailing-list:</h4>
+Announcements and topics about AI related activities are mainly
+provided in Japanese.
+If you can read Japanese articles and want to subscribe our
+mailing-list, please refer the instructions in the following page:
+<p><span><a href="http://www.ai-gakkai.or.jp/mailing-list/">JSAI announce mailing-list (in Japanese)</a></span></p>
+
+<!--
+<h3 class="S_f_Title"><a name="RSSICAL">
+JSAI RSS/iCalendar information service: </a></h3>
+
+<em>CAUTION</em>:
+Entries of our RSS/iCalendar services are provided mainly in Japanese,
+and about 30-40% of entries are published in English.
+Detailed information is available in
+<a href="http://www.ai-gakkai.or.jp/announce20111201-2/">JSAI RSS/iCalendar services (in Japanese)</a>.
+
+
+<h4>To subscribe our RSS service:</h4>
+<a href="http://web.resource.org/rss/1.0/">RSS</a> is a 
+meta-data format that is designed for fast and simple access to information.
+You can access these RSS files by using RSS readers/clients or RSS
+reader services on the Web.
+We provide the following RSS services:
+<ul>
+<li><a href="/rss/jsai-ann.rdf">
+jsai-ann mailing-list: </a>
+latest articles of our mailing-list</li>
+<li><a href="/rss/event.rdf">
+AI-related events: </a>
+AI-related event announcements extracted from our ML.</li>
+(sorted according to the opening dates)
+<li><a href="/rss/cfp.rdf">
+AI-related CFPs: </a>
+AI-related event call for papers extracted from our ML.</li>
+(sorted according to the dead-line dates)
+</ul>
+
+<h4>To subscribe our iCalendar service:</h4>
+<a href="http://www.ietf.org/rfc/rfc2445.txt">iCalendar</a> is a 
+format to exchange schedule information.
+You can access these by using iCalendar clients such as the
+<a href="http://www.mozilla.org/projects/calendar/sunbird/">Sunbird</a>.
+We provide the following iCalendar services:
+<ul>
+<li><a href="/cal/">calendar service: </a>
+entries in our iCalendar files are displayed by using 
+the <a href="http://phpicalendar.net/">PHP iCalendar</a>.</li>
+<li><a href="/ics/event.ics">AI related events: </a>
+iCaleandar files providing information about 
+opening dates of evnets.</li>
+<li><a href="/ics/cfp.ics">AI related CFPs: </a>
+iCaleandar files providing information about 
+deadline dates.</li>
+</ul>
+-->
+
+<h3 class="S_f_Title"><a name="CONTACT">
+Contact information</a></h3>
+
+<ul>
+  <li>General Information:
+      <code>info [at] ai-gakkai.or.jp</code>
+  <li>About our WWW pages: 
+      <code>jsai-admin [at] ai-gakkai.or.jp</code>
+</ul>
+
+<p align="center">
+<table width="70%">
+<tr>
+<td nowrap>[link banner]</td>
+<td width="100%">
+<img src="http://www.ai-gakkai.or.jp/wp/wp-content/themes/shinra-of-the-sun/images/jsai_english_banner.gif" width="88" height="31" alt="JSAI" border=0><a>
+</td>
+</tr>
+<tr>
+<td nowrap>[URL]</td>
+<td width="100%"><tt>http://www.ai-gakkai.or.jp/en/</tt></td>
+</tr>
+<tr>
+<td nowrap>[tag format]</td>
+<td width="100%">
+<tt>
+&lt;a href="http://www.ai-gakkai.or.jp/en/"&gt;<br>
+&lt;img src="http://www.ai-gakkai.or.jp/wp/wp-content/themes/shinra-of-the-sun/images/jsai_english_banner.gif" width="88" height="31" alt="JSAI" border=0&gt;&lt;a&gt;
+</tt>
+</td>
+</tr>
+</table>
+<p>
+
+<hr>
+
+<!--
+<p>
+You are visitor no.
+<img src="/cgi-bin/Count.cgi?df=jsai.dat&amp;dd=A&amp;ft=0&amp;md=8&amp;trgb=000000&amp;srgb=00ff00&amp;prgb=0000ff"
+height="20" width="120" alt="00000000">
+since Sep. 16th, 1997.
+</p>
+-->
+</p>
+</div>
+</div>
+
+
+</div>
+
+	
+	<div id="right_side">
+</div>
+
+	
+		<div id="footer">
+		<ul>
+			<li><a href="http://www.ai-gakkai.or.jp/en/journals_of_jsai/">Journals of jsai</a></li>
+		</ul>
+        <br>
+        <div style="text-align: right; color: white;">
+            All Rights Reserved. Copyright 2013 The Japanese Society for Artificial Intelligence
+        </div>
+	</div>
+</div>	
+
+	
+	
+<!-- Powered by WPtouch: 3.1.5 --><!-- BEGIN: WP Social Bookmarking Light -->
+<script type="text/javascript">
+  window.___gcfg = {lang: 'ja'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!-- END: WP Social Bookmarking Light -->
+
+</body>
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++

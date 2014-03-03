@@ -1,0 +1,2344 @@
+====================<http://www.fastcad.com/>====================
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+
+		<title>Products</title>
+
+		<meta name="keywords" content="fastcad, easycad,evolution computing,
+			computer aided design, drafting, evcomp,collected thought">
+		<meta name="description" 
+			content="Evolution Computing, makers of
+			FastCAD, EasyCAD, and CollectedThought computer aided design
+			and drafting software">
+		<meta name="MSSmartTagsPreventParsing" content="TRUE">
+		<meta http-equiv="expires" content="-1">
+		<meta http-equiv=" pragma" content="no-cache">
+
+		<link rel="stylesheet" type="text/css" href="evcomp.css">
+	</head>
+
+	<body>
+	
+		<div id="pagetitlebar">
+			<div id="pagetitlelogo">
+				<img src="images/dome.png" alt="FastCAD" height="62" width="64" />
+			</div>
+			<div id="companyname">Evolution Computing</div>
+			<div id="pagetitle">
+Products
+			</div>
+			<div id="pagedate">
+February 25, 2014
+			</div>
+		</div> <!-- end pagetitlebar -->
+		<div id="navbar">
+		<span id="thispage">Home</span>
+|
+		<a href="news.php">News</a>|
+		<a href="products.php">Products</a>|
+		<a href="buy.php">Buy</a>|
+		<a href="updates.php">Updates</a>|
+		<a href="support.php">Support</a>|
+		<a href="http://fastcad.com/cgi-bin/ultimatebb.cgi">Forum</a>|
+		<a href="gallery.php">Gallery</a>|
+		<a href="developer.php">Developer</a>|
+		<a href="resources.php">Resources</a>|
+		<a href="about.php">About Us</a>		</div>
+
+<!-- home.inc.php -->
+
+			<div id="showcase">
+				<p>
+				<a href="news.php">New Version 6.57 and 7.57 posted! More Information...</a>
+				</p>
+				<p>
+				Our products are hand-crafted programs designed with ease of use and ease of
+				learning in mind. They are all highly customizeable and they <strong>will</strong> help you be more
+				productive. We've been in business since 1977, and have earned a reputation for dedication
+				to supporting our customers. We offer a 30-day money-back guarantee if you are not satisfied.
+				</p>
+			
+				<div class="product">
+					<img src="images/FCBox.png" alt="FastCAD" height="100" width="67" />
+					<ul>
+						<li><strong>FastCAD</strong> Complete high-precision professional 2d/3d CAD System</li>
+						<li>Available for Windows/7, Vista/SP2, XP/SP3</li>
+						<li>DWG, DXF and FCW import/export support</li>
+						<li><a href="https://fastcad.com/buyfc7.php">Buy now:</a> $595 new, updates from $125</li>
+						<li><a href="https://fastcad.com/tryfc7.php">Download</a> our 14-day free demo now!</li>
+						<li><a href="infofc7.php">More information</a> about FastCAD&reg;</li>
+					</ul>
+				</div>
+				
+				<div class="product">
+					<img src="images/ECBox.png" alt="EasyCAD" height="100" width="67" />
+					<ul>
+						<li><strong>EasyCAD</strong> Easy to use 2d CAD System</li>
+						<li>Available for Windows/7, Vista/SP2, XP/SP3</li>
+						<li>DWG, DXF and FCW import/export support</li>
+						<li><a href="https://fastcad.com/buyec7.php">Buy now:</a> $295 new, updates from $125</li>
+						<li><a href="https://fastcad.com/tryec7.php">Download</a> our 14-day free demo now!</li>
+						<li><a href="infoec7.php">More information</a> about EasyCAD&reg;</li>
+					</ul>
+				</div>
+				
+				<div class="product">
+					<img src="images/CTBox.png" alt="CollectedThought" height="100" width="67" />
+					<ul>
+						<li><strong>CollectedThought</strong>&#153; Visual information organizer</li>
+						<li>Available for Windows/7, Vista/SP2, XP/SP3, Max OS-X 10.5+, Linux</li>
+						<li>FC7 import/export support</li>
+						<li><a href="https://fastcad.com/fastnote/buyct.html">Buy now:</a> $195 (Now in BETA - Available Soon!)</li>
+						<li><a href="http://fastcad.com/fastnote/ctdownload.html">Download</a> our 14-day free demo now!</li>
+						<li><a href="http://fastcad.com/fastnote/index.html">More information</a> about CollectedThought&#153;</li>
+					</ul>
+				</div>
+				
+				<div class="endproducts"></div>
+				
+				<p>
+				If you are considering buying a CAD program, please read
+				<a href="whyus.php">Why use our programs?</a>
+				or browse through the<a href="gallery.php"> sample drawings gallery</a>
+				to see examples of the work that can be done with our programs.
+				</p>
+				<p>
+				Check out the <a href="products.php">feature and price comparison chart</a>
+				of our current products.
+				<p>
+	
+			</div> <!-- end showcase -->
+<!-- footer.inc.php -->
+
+		<div id="contact">
+		
+			<div id="contactadr">
+				Evolution&nbsp;Computing:
+				<br />7000&nbsp;N.&nbsp;16th&nbsp;St.&nbsp;
+				<br />Suite&nbsp;120-514
+				<br />Phoenix&nbsp;Arizona&nbsp;85020
+			</div>
+			
+			<div id="contactphone">
+				Sales: 800-874-4028 9am to 5pm MST (GMT-7)
+				<br />Outside US: +1-765-327-8223 9am to 5pm MST (GMT-7)
+				<br />Support: 480-967-6967 9am to 5pm MST (GMT-7)
+			</div>
+			
+			<div id="contactemail">
+				<a href="mailto:order_request@fastcad.com">e-mail:&nbsp;order_request@fastcad.com</a>
+				<br /><a href="mailto:support@fastcad.com">e-mail:&nbsp;support@fastcad.com</a>
+			</div>
+			
+			<div id="fineprint">
+				CollectedThought, FastCAD and EasyCAD are registered trademarks of <b>Evolution Computing, Inc.</b>
+				<br />Other product names mentioned herein are trademarks or
+				registered trademarks of their respective companies.
+				<br />&copy;1998-2013 Evolution Computing, Inc. All Rights Reserved.
+			</div>
+		</div> <!-- end contact -->
+		<div id="bottomspace">&nbsp;</div>
+					
+	</body>
+</html>
+	
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://joelorr.squarespace.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="index,follow" />  
+   <meta name="description" content="Joel Orr, engineering, CAD, CAD/CAM, computer graphics, autocad, dassault, ugs, IBM, bentley systems, technology, robots, nanotechnology, home business for engineers, single mom, good marriage, fix marriage, avoid divorce, architect, bim, plm, pdm" /> 
+
+  <!-- joelorr -->
+
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=1834985&amp;RK=1390323515917&amp;CE=75"/>
+  
+
+  
+    <link rel="alternate" type="application/atom+xml" title="ATOM" href="http://joelorr.squarespace.com/blog/atom.xml" />
+  
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://joelorr.squarespace.com/blog/rss.xml" />
+  
+    <link rel="alternate" type="application/rdf+xml" title="RDF" href="http://joelorr.squarespace.com/blog/rdf.xml" />
+  
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://joelorr.squarespace.com/blog/rsd.xml" />
+  
+  
+  <!-- Google Web Fonts! -->
+  <script type="text/javascript">
+  
+  
+  
+   (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/universal/scripts/image-folder-modules.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/yui2-yui3-bridge.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/squarespace-gallery-slideshow.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+
+     Squarespace.Constants.CURRENT_MODULE_ID = "127719"; 
+    Squarespace.Constants.WEBSITE_TITLE =  "Joel Orr\'s World"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+     Squarespace.Constants.LEGACY_LAYOUT = "true"; 
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://five.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "18751";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title>Joel Orr's Blog - Joel Orr&#39;s World of Technology|CADCAM|PLM</title>
+    <meta property="og:title" content="Joel Orr's Blog - Joel Orr&#39;s World of Technology|CADCAM|PLM" />
+  
+
+    
+
+  
+  
+  <!-- End Heading -->
+
+  
+
+  <script type="text/javascript" src="/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="/universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+  <body id="modulePage127719">
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/squarespace-login/?returnUrl=%2F"; } });
+  </script>
+
+
+
+  <div id="pageBodyWrapper">
+  <div id="pageBody">
+
+  <div id="sidebarWrapper">
+  <div id="sidebar">
+
+    
+
+      <div id="sectionContent809228" class="sectionWrapper"><div class="section">
+         <div class="caption">Search joelorr.com</div> 
+                  <div class="content-passthrough"><div id="moduleContentWrapper1560989" class="widget-wrapper  widget-type-search"><div id="moduleContent1560989"><form class="search-form-pt" method="get" action="/display/Search">
+  <input type="text" class="text queryField" name="searchQuery" value=""/>
+  <input type="submit" class="button queryButton" value="&raquo;"/>
+  <input type="hidden" name="moduleId" value="1560989"/>
+</form></div></div></div>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent59661" class="sectionWrapper"><div class="section">
+         <div class="caption">Joel&#39;s books AVAILABLE NOW!</div> 
+                  <ul class="content-navigation">
+  <li class="module" >
+
+    <div id="moduleContent353362">
+
+      
+        
+        
+        
+
+        <span  class="offsite-link" ><a href="http://awesomemarriage.com" onclick="this.target='new';" >&quot;Every Man a Hero, Every Woman a Coach&quot; available!</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent1895461">
+
+      
+        
+        
+        
+
+        <span ><a href="/structure-is-destiny-the-dande/"  >&quot;Structure is Destiny: The Dandelion Paradox&quot;</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent34607" class="sectionWrapper"><div class="section">
+         <div class="caption">This is me; click image for video</div> 
+                  <div class="content-passthrough"><div id="moduleContentWrapper131264" class="widget-wrapper  widget-type-page"><div id="moduleContent131264">
+
+<p><a href="/video-interview-with-joel/"><span class="full-image-block ssNonEditable"><span><img style="width: 150px;" src="/storage/Joel Orr at COFES 2009 face_440w.jpg?__SQUARESPACE_CACHEVERSION=1249941143578" alt="" /></span></span></a></p></div></div></div>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent470752" class="sectionWrapper"><div class="section">
+         <div class="caption">Consider...</div> 
+                  <div class="content-passthrough"><div id="moduleContentWrapper950914" class="widget-wrapper  widget-type-page"><div id="moduleContent950914">
+
+<a href="http://www.configureone.com/"><b>Product Configurator from Configureone</b></a><p><br><br>
+<a href="http://joeltrainsauthors.com/"><b><i>Need a Coach to Write Your Book? FREE Book-Writing Help From Joel--Click Here!</i></b></a><p><br><br>
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-0566534742150998";
+/* 120x600, created 3/14/08 */
+google_ad_slot = "7476243050";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div></div></div>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent33281" class="sectionWrapper"><div class="section">
+         <div class="caption">Navigation</div> 
+                  <ul class="content-navigation">
+  <li class="module"  id="active-module" >
+
+    <div id="moduleContent127719">
+
+      
+        
+         <span id="active-module-marker">&mdash;&nbsp;</span> 
+        
+
+        <span ><a href="/"  >Joel Orr&#39;s Blog</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent130034">
+
+      
+        
+        
+        
+
+        <span ><a href="/welcome-to-joel-orrs-world/"  >Welcome to Joel Orr&#39;s World!</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent131272">
+
+      
+        
+        
+        
+
+        <span ><a href="/about-joel/"  >About Joel</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent127731">
+
+      
+        
+        
+        
+
+        <span ><a href="/joel-speaks/"  >Joel Speaks</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent127732">
+
+      
+        
+        
+        
+
+        <span ><a href="/joel-consults/"  >Joel is an Executive Coach</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent127733">
+
+      
+        
+        
+        
+
+        <span ><a href="/joel-writes/"  >Joel Writes</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent406399">
+
+      
+        
+        
+        
+
+        <span ><a href="/internet-business-for-engineer/"  >Internet Business for Engineers</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent133086">
+
+      
+        
+        
+         <span id="folderControl133086" class="folder-link-expand" onclick="javascript:toggleFolder(133086);">&nbsp;</span> 
+
+        <span ><a href="/articles-by-joel/"  >Articles by Joel</a></span>
+
+      
+
+      
+        <ul class="folder" id="folderContent133086" style="display: none;">
+          
+  <li class="module" >
+
+    <div id="moduleContent133087">
+
+      
+        
+        
+        
+
+        <span ><a href="/a-clear-path/"  >A Clear Path</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent133145">
+
+      
+        
+        
+        
+
+        <span ><a href="/do-the-right-thing/"  >Do the Right Thing!</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent133105">
+
+      
+        
+        
+        
+
+        <span ><a href="/the-family-plan/"  >The Family Plan</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent133106">
+
+      
+        
+        
+        
+
+        <span ><a href="/the-end-of-cad/"  >The End of CAD</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent133107">
+
+      
+        
+        
+        
+
+        <span ><a href="/eat-a-toad/"  >Eat a Toad</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+        </ul>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent133848">
+
+      
+        
+        
+         <span id="folderControl133848" class="folder-link-expand" onclick="javascript:toggleFolder(133848);">&nbsp;</span> 
+
+        <span ><a href="/joels-tablet-pc-world/"  >Joel&#39;s Tablet PC World</a></span>
+
+      
+
+      
+        <ul class="folder" id="folderContent133848" style="display: none;">
+          
+  <li class="module" >
+
+    <div id="moduleContent133850">
+
+      
+        
+        
+        
+
+        <span ><a href="/joel-loves-tablets/"  >Joel Loves Tablets</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent133853">
+
+      
+        
+        
+        
+
+        <span ><a href="/joels-tablet-pc-blog/"  >Joel&#39;s Tablet PC Blog</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent133854">
+
+      
+        
+        
+        
+
+        <span ><a href="/take-a-tablet/"  >Take a Tablet</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+        </ul>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent138613">
+
+      
+        
+        
+         <span id="folderControl138613" class="folder-link-expand" onclick="javascript:toggleFolder(138613);">&nbsp;</span> 
+
+        <span ><a href="javascript:toggleFolder(138613);"  >Other articles</a></span>
+
+      
+
+      
+        <ul class="folder" id="folderContent138613" style="display: none;">
+          
+  <li class="module" >
+
+    <div id="moduleContent138614">
+
+      
+        
+        
+        
+
+        <span ><a href="/the-neural-lyre-poetic-meter-t/"  >The Neural Lyre: Poetic Meter, the Brain, and Time</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+        </ul>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent127743">
+
+      
+        
+        
+        
+
+        <span ><a href="/health/"  >Health</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent127744">
+
+      
+        
+        
+        
+
+        <span ><a href="/education/"  >Education</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent127745">
+
+      
+        
+        
+        
+
+        <span ><a href="/cadd-plm/"  >CADD &amp; PLM</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent127747">
+
+      
+        
+        
+        
+
+        <span ><a href="/joels-book-picks/"  >Joel&#39;s Book Picks</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent127800">
+
+      
+        
+        
+        
+
+        <span ><a href="/humor/"  >Humor</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent3959958">
+
+      
+        
+        
+        
+
+        <span ><a href="/bizresources/"  >Biz Resources</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent4064784">
+
+      
+        
+        
+        
+
+        <span ><a href="/video-interview-with-joel/"  >Video Interview with Joel</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent33501" class="sectionWrapper"><div class="section">
+         <div class="caption">Links</div> 
+                  <ul class="content-navigation">
+  <li class="module" >
+
+    <div id="moduleContent128323">
+
+      
+        
+        
+        
+
+        <span  class="offsite-link" ><a href="http://www.cadwire.net" onclick="this.target='new';" >CADwire.net</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent128320">
+
+      
+        
+        
+        
+
+        <span  class="offsite-link" ><a href="http://www.cofes.com" onclick="this.target='new';" >COFES</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent232451" class="sectionWrapper"><div class="section">
+         <div class="caption">Blogroll</div> 
+                  <div class="content-passthrough"><div id="moduleContentWrapper130980" class="widget-wrapper  widget-type-page"><div id="moduleContent130980">
+
+</div></div></div>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent34453" class="sectionWrapper"><div class="section">
+         <div class="caption">Resources</div> 
+                  <ul class="content-navigation">
+  <li class="module" >
+
+    <div id="moduleContent127782">
+
+      
+        
+        
+        
+
+        <span ><a href="/the-lost-tools-of-learning/"  >The Lost Tools of Learning</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent127789">
+
+      
+        
+        
+        
+
+        <span ><a href="/community-caddcam-history-proj/"  >Community CADD/CAM History Project</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent127822">
+
+      
+        
+        
+        
+
+        <span ><a href="/cognitive-dissonance/"  >Cognitive Dissonance</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent130862">
+
+      
+        
+        
+        
+
+        <span ><a href="/blogstreet/"  >blogstreet</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent232465" class="sectionWrapper"><div class="section">
+        
+                  <div class="content-passthrough"><div id="moduleContentWrapper505622" class="widget-wrapper  widget-type-page"><div id="moduleContent505622">
+
+<a href="http://www.blogtopsites.com/technology/"><img border="0" src="http://www.blogtopsites.com/tracker.php?do=in&amp;id=16782" alt="Technology Blog Top Sites" /></a>
+<br><br><script src="http://widgets.technorati.com/t.js" type="text/javascript"> </script>
+<a href="http://technorati.com/blogs/www.joelorr.com?sub=tr_authority_t_ns" class="tr_authority_t_js" style="color:#4261DF">View blog authority</a></div></div></div>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent34688" class="sectionWrapper"><div class="section">
+         <div class="caption">Webfeeds</div> 
+                  <ul class="content-navigation">
+  <li class="module" >
+
+    <div id="moduleContent131520">
+
+      
+        
+        
+        
+
+        <span ><a href="http://joelorr.squarespace.com/blog/rss.xml"  >RSS</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent131521">
+
+      
+        
+        
+        
+
+        <span ><a href="http://joelorr.squarespace.com/blog/atom.xml"  >ATOM</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent94295" class="sectionWrapper"><div class="section">
+         <div class="caption">Login</div> 
+                  <ul class="content-navigation">
+  <li class="module" >
+
+    <div id="moduleContent265026">
+
+      
+        
+        
+        
+
+        <span ><a href="/squarespace-login/?returnUrl=%2F"  >squarespace login</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent94297" class="sectionWrapper"><div class="section">
+        
+                  <div class="content-passthrough"><div id="moduleContentWrapper265028" class="widget-wrapper  widget-type-poweredby"><div id="moduleContent265028">
+  <div id="squarespace-powered">
+    <a onclick="this.target='new';" href="http://www.squarespace.com/?associateTag=joelorr"><img src="/universal/images/squarespace/squarespace-powered-button.png" alt="Powered by Squarespace"/></a>
+  </div>
+
+</div></div><div id="moduleContentWrapper2579302" class="widget-wrapper  widget-type-page"><div id="moduleContent2579302">
+
+<a href="http://www.blogged.com/blogs/joel-orr-s-blog-joel-orr-s-world-of-technology-cadcam-plm.html">
+<img src="http://www.blogged.com/icons/rt_179075.gif" border="0" alt="Joel Orrs Blog at Blogged" title="Joel Orrs Blog at Blogged" /></a>
+
+</div></div><div id="moduleContentWrapper2931495" class="widget-wrapper  widget-type-page"><div id="moduleContent2931495">
+
+<a href="http://biznik.com/members/joel-orr"><img src="http://biznik.com/images/dingbats/biznik/view_my_biznik_profile.gif" width="158" height="25" border="0" alt="Biznik - Business Networking"></a></div></div></div>
+        
+      </div></div>
+
+    
+
+  </div><!-- sidebar -->
+  </div><!-- sidebarWrapper -->
+
+
+  <div id="contentWrapper">
+  <div id="content">
+
+  <div id="pageHeaderWrapper">
+  <div id="pageHeader">
+
+    
+      
+
+      <h1 id="siteTitle"><a href="http://joelorr.squarespace.com/">Joel Orr&#39;s World</a></h1>
+      
+
+    
+
+  </div><!-- pageHeader -->
+  </div><!-- pageHeaderWrapper -->
+
+
+  
+
+
+  
+
+  
+    
+
+  
+
+  
+    
+<div id="item34580524" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2014/1/21/cadd-history-corrections-additions-elucidations-welcome.html">CADD History Corrections, Additions, Elucidations&nbsp;Welcome!</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <p>Kevin de Smet just pointed out a 15-year error in <a href="http://joelorr.squarespace.com/community-caddcam-history-proj/">the history page's</a> date for ALGOR at JoelOrr.com. Thanks, Kevin!</p>
+<p>What do YOU see that is wrong or missing in that listing? Please<a href="mailto:joel.orr@gmail.com"> send me</a> corrections and additions!</p>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Tuesday, January 21, 2014 at 11:41AM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/joelorr">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Joel
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2014/1/21/cadd-history-corrections-additions-elucidations-welcome.html#comments">
+                  <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>Post a Comment
+      
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+<div id="item34531028" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2013/12/29/amazing-cubli.html">Amazing&nbsp;Cubli</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <iframe width="640" height="360" src="//www.youtube.com/embed/n_6p-1J551Y?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Sunday, December 29, 2013 at 01:18AM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/joelorr">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Joel
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2013/12/29/amazing-cubli.html#comments">
+                  <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>Post a Comment
+      
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+          | <a href="/blog/2013/12/29/amazing-cubli.html#references">
+      <img title="References" alt="References" class="inline-icon" src="/layout/iconSets/dark/reference.png"/>7 References
+      </a>
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+<div id="item34002657" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2013/7/11/check-out-my-new-paperli-collection.html">Check out my new paper.li&nbsp;collection</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <script src="http://widgets.paper.li/javascripts/sr.embeddable.js" type="text/javascript"></script>
+<script>Paperli.PaperFrame.Show({id: '4487d432-c26d-4437-982b-e0c7fd47a02b', width: 390, height: 480, background: '#ECECEC', borderColor: '#DDDDDD'})</script>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Thursday, July 11, 2013 at 10:07AM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/joelorr">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Joel
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2013/7/11/check-out-my-new-paperli-collection.html#comments">
+                  <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>Post a Comment
+      
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+<div id="item33524744" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2013/5/1/ibm-moves-molecules-to-make-worlds-smallest-movie.html">IBM Moves Molecules To Make World’s Smallest&nbsp;Movie</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <p>Back in the eighties, IBM <a href="http://www.fourmilab.ch/autofile/www/section2_84_14.html">created the "world's tiniest billboard,"</a> writing "IBM" in letters 5 nanometers high, made of a few atoms. <a href="http://www.siliconbeat.com/2013/04/30/ibm-moves-molecules-to-make-worlds-smallest-movie/">Now they've made a movie in that scale</a>.</p>
+<p><span class="full-image-block ssNonEditable"><span><img src="http://www.siliconbeat.com/wp-content/uploads/2013/04/8676926202_a556d5e4a0_o-640x403.jpg?__SQUARESPACE_CACHEVERSION=1367442877625" alt="" /></span></span></p>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Wednesday, May 1, 2013 at 04:09PM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/joelorr">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Joel
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2013/5/1/ibm-moves-molecules-to-make-worlds-smallest-movie.html#comments">
+                  <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>Post a Comment
+      
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+<div id="item33177085" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2013/3/31/its-finally-here.html">It's finally&nbsp;here!</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <p><iframe width="560" height="315" src="http://www.youtube.com/embed/Zr4JwPb99qU" frameborder="0" allowfullscreen></iframe></p>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Sunday, March 31, 2013 at 09:42PM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/joelorr">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Joel
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2013/3/31/its-finally-here.html#comments">
+                  <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>Post a Comment
+      
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+<div id="item33170796" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2013/3/29/omg-5d-simulation.html">OMG! 5D&nbsp;Simulation!</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <p><iframe width="560" height="315" src="http://www.youtube.com/embed/BmTB77mGRzY" frameborder="0" allowfullscreen></iframe></p>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Friday, March 29, 2013 at 01:09PM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/joelorr">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Joel
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2013/3/29/omg-5d-simulation.html#comments">
+                  <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>Post a Comment
+      
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+          | <a href="/blog/2013/3/29/omg-5d-simulation.html#references">
+      <img title="References" alt="References" class="inline-icon" src="/layout/iconSets/dark/reference.png"/>2 References
+      </a>
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+<div id="item32796893" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2013/2/12/water-vapor-powered-muscle.html">Water-vapor-powered&nbsp;&quot;muscle&quot;</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <iframe src="http://video.techbriefs.com/video/Artificial-muscles-at-MIT/player?layout=&read_more=1" width="420" height="361" frameborder="0" scrolling="no"></iframe>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Tuesday, February 12, 2013 at 11:25AM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/joelorr">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Joel
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2013/2/12/water-vapor-powered-muscle.html#comments">
+                  <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>Post a Comment
+      
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+          | <a href="/blog/2013/2/12/water-vapor-powered-muscle.html#references">
+      <img title="References" alt="References" class="inline-icon" src="/layout/iconSets/dark/reference.png"/>7 References
+      </a>
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+<div id="item32734751" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2013/1/31/ram-and-intel-processors-through-the-years-click-for-full-wi.html">RAM and Intel processors through the years (click for full&nbsp;width)</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <p><a href="http://www.chassis-plans.com/blog/2013/01/30/evolution-of-ram-processors-infographic-chassis-plans/"><img src="http://www.chassis-plans.com/blog/wp-content/uploads/2013/01/evolution-of-ram-and-processors.jpg" border="0" alt="The Evolution of RAM &amp; Processors" width="700" height="5796" /></a><br />Enjoyed this infographic? Check out <a href="http://www.chassis-plans.com/">Chassis-Plans.com</a></p>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Thursday, January 31, 2013 at 04:06PM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/joelorr">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Joel
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2013/1/31/ram-and-intel-processors-through-the-years-click-for-full-wi.html#comments">
+                  <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>Post a Comment
+      
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+          | <a href="/blog/2013/1/31/ram-and-intel-processors-through-the-years-click-for-full-wi.html#references">
+      <img title="References" alt="References" class="inline-icon" src="/layout/iconSets/dark/reference.png"/>1 Reference
+      </a>
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+<div id="item32547148" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2013/1/14/the-future-is-ours.html">The future is&nbsp;ours</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <iframe src="http://player.vimeo.com/video/44658040?title=0&amp;portrait=0&amp;badge=0&amp;color=ffffff" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Monday, January 14, 2013 at 02:27PM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/joelorr">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Joel
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2013/1/14/the-future-is-ours.html#comments">
+                  <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>Post a Comment
+      
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+<div id="item24388795" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2012/8/21/carl-machover-1927-2012.html">Carl Machover&nbsp;1927-2012</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <p>I always thought Carl preceded me in the world of computer graphics consulting. But when we met, in the seventies, he pointed out that he was actually a vendor executive for a few years after I became a consultant, in 1974.</p><p>Nevertheless, his entry into the world of CG long predated mine. He was into radar screens, the precessors of computer graphics displays, and his knowledge of both the surrounding technologies and their historical progression was unpretentious but authoritative.</p><p>In our time together in the NCGA (National Computer Graphics Association), and through our occasional platform-sharing at Frost &amp; Sulivan events, I learned a great deal from Carl--about presenting, about researching, about writing, and about running a good meeting.&nbsp;</p><p>I'll miss him. I hope Wilma and the kids take comfort from the wonderful legacy of good will and caring that Carl leaves.</p><p>Here's a great summary, courtesy of Andy Van Dam:<a href="http://web.media.mit.edu/~tod/media/pdfs/Andy-CM-g4inm-proof3-good.pdf">&nbsp;http://web.media.mit.edu/~tod/media/pdfs/Andy-CM-g4inm-proof3-good.pdf</a></p>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Tuesday, August 21, 2012 at 01:54PM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/joelorr">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Joel
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2012/8/21/carl-machover-1927-2012.html#comments">
+                  <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>Post a Comment
+      
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+
+  
+
+
+  
+  <div  class="journal-navigation" >
+
+    <!-- 1 - 10 of 711 (page 1 of 72) -->
+
+    
+
+                  Page |
+      
+    
+    
+              <strong>1</strong>
+      
+     | 
+              <a  href="/blog/?currentPage=2" >2</a>
+      
+     | 
+              <a  href="/blog/?currentPage=3" >3</a>
+      
+     | 
+              <a  href="/blog/?currentPage=4" >4</a>
+      
+     | 
+              <a  href="/blog/?currentPage=5" >5</a>
+      
+    
+          | <a  href="/blog/?currentPage=2" >
+              Next 10 Entries
+      
+      </a>
+    
+    
+
+  </div>
+
+
+
+
+  
+
+
+</div><!-- content -->
+  </div><!-- contentWrapper -->
+
+  </div><!-- pageBody -->
+  </div><!-- pageBodyWrapper -->
+
+  <div id="pageFooterWrapper">
+  <div id="pageFooter">
+
+              <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-238330-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+Copyright &copy; 2010, Joel Orr.  All rights reserved.
+<script type="text/javascript"><!--
+var AdDecMember_ID = "67";
+//--></script>
+<script type="text/javascript" src="http://www.adsensedetective.com/adstrker.js"></script>
+      
+
+      
+
+  </div><!-- pageFooter -->
+  </div><!-- pageFooterWrapper -->
+
+
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.imsidesign.com/Products/DesignCADSeries/tabid/321/Default.aspx>====================
+<!DOCTYPE html>
+<html  lang="en-US">
+<head id="Head"><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	DesignCAD
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta id="MetaDescription" name="DESCRIPTION" content="With an award-winning interface that pushes the envelope in terms of innovation and ease-of-use, DesignCAD – and the more powerful DesignCAD 3D MAX – is the ideal consumer CAD. 2D drafting and 3D modeling at your fingertips." /><meta id="MetaKeywords" name="KEYWORDS" content="With an award-winning interface that pushes the envelope in terms of innovation and ease-of-use, DesignCAD – and the more powerful DesignCAD 3D MAX – is the ideal consumer CAD. 2D drafting and 3D modeling at your fingertips." /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright&amp;copy; 2014 by IMSI/Design, LLC. All Rights Reserved." /><meta id="MetaAuthor" name="AUTHOR" content="IMSI Design" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link href="/portals/_default/default.css?cdv=52" type="text/css" rel="stylesheet"/><link href="/desktopmodules/html/module.css?cdv=52" type="text/css" rel="stylesheet"/><link href="/portals/4/skins/960gridskin-blue/skin.css?cdv=52" type="text/css" rel="stylesheet"/><link href="/portals/4/containers/960gridskin-blue/container.css?cdv=52" type="text/css" rel="stylesheet"/><link href="/portals/4/containers/960gridskin-blue/grayhead.css?cdv=52" type="text/css" rel="stylesheet"/><link href="/portals/4/portal.css?cdv=52" type="text/css" rel="stylesheet"/><link href="/resources/search/searchskinobjectpreview.css?cdv=52" type="text/css" rel="stylesheet"/><script src="/resources/libraries/jquery/1.9.1/jquery.js?cdv=52" type="text/javascript"></script><script src="/resources/libraries/jquery-migrate/1.2.1/jquery-migrate.js?cdv=52" type="text/javascript"></script><script src="/resources/libraries/jquery-ui/1.10.3/jquery-ui.js?cdv=52" type="text/javascript"></script><link rel='SHORTCUT ICON' href='/Portals/4/favicon.ico' type='image/x-icon' /><link rel="stylesheet" type="text/css" href="/Portals/4/Skins/960GridSkin-Blue/DNNMega/StandardMenu.css"></link></head>
+<body id="Body">
+    
+    <form method="post" action="/Products/DesignCAD" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=tpSjKnTmdRbL8SLzv5DjYJH5DJWc6sRj-aYjQeBj3F_E0BYD-SrRHzgdU2Hoa7hOnzLI5CYca2Og82T50&amp;t=635116921265614829" type="text/javascript"></script>
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3ad618f02c-bda7-40f1-bb64-308e08f719c3%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<script src="/js/dnn.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="iqC2zqqXsaUjKOTCTySTFpNy/adFIXR/efhyiPduiao/aG147H0LQSeZXGYQpYMt8p7/wwGZaXFE6gJ5Nhu20xNjOvwr6h24qr8DyjZIK9hHYx04Pr7XIbSQghDMms9pqtx/pmu6RVebx0d6bB7BR6FgDYbGN/mfacF3uLnyN0FO41vH614lhNQoWg4=" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        <script src="/js/dnn.modalpopup.js?cdv=52" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery.hoverintent.min.js?cdv=52" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=52" type="text/javascript"></script><script src="/resources/shared/scripts/dnn.jquery.js?cdv=52" type="text/javascript"></script><script src="/js/dnncore.js?cdv=52" type="text/javascript"></script><script src="/resources/search/searchskinobjectpreview.js?cdv=52" type="text/javascript"></script>
+        
+        
+<!--[if lt IE 9]> 
+	<script src="/Portals/4/Skins/960GridSkin-Blue/js/css3-mediaqueries.js"></script> 
+	<style type="text/css">.radius4{behavior:url(/Portals/4/Skins/960GridSkin-Blue/js/pie.htc)}#fadedTestimonial ul li .author{margin-top:-2px}</style>
+<![endif]--> 	
+<script type="text/javascript" language="javascript">
+	<!--
+	$(document).ready(function() {
+		$('head').append('<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=2.0"/>');
+	});
+	/**/
+	$(function()
+	{
+	$("#mostrar").click(function(event) {
+	event.preventDefault();
+	$("#menubox").slideToggle();
+	});	});
+	//for search value:
+	$(document).ready(
+	function(){
+	var s="Search...";
+	$("#dnn_dnnSEARCH_txtSearch").val(s).click(function(){
+	var ss=$(this).val();if(ss==s)$(this).val("") })
+	.blur(function(){
+	var ss=$(this).val();if(ss=="")$(this).val(s) });});
+	-->
+</script>
+
+
+<div id="DNN6">
+	  <div class="row">
+		<div class="topbar">
+			<!--<a id="dnn_dnnLogin_loginLink" title="Login" class="fright login" href="http://www.imsidesign.com/IMSI-Design/Login?returnurl=%2fProducts%2fDesignCAD">Login</a>
+-->
+			
+
+			<div class="clr"></div>
+		</div>
+		<div id="dnnheader">
+			<div class="fleft logo">
+				<a id="dnn_dnnLogo_hypLogo" title="IMSI Design" href="http://www.imsidesign.com/"><img id="dnn_dnnLogo_imgLogo" src="/Portals/4/Main%20Logo/imsi-logo-80x72.gif" alt="IMSI Design" style="border-width:0px;" /></a>
+			</div>
+			<div id="dnn_HeadPane" class="HeadPane fright"><div class="DnnModule DnnModule-DNN_HTML DnnModule-7077"><a name="7077"></a>
+<div id="dnn_ctr7077_ContentPane"><!-- Start_Module_7077 --><div id="dnn_ctr7077_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	
+<div id="dnn_ctr7077_HtmlModule_lblContent" class="Normal">
+	<!--<span style="font-size: 20px; color: #ff0000;"><strong><span style="font-size: 20px;"></span></strong></span><a href="http://collateral.imsidesign.com/THIS_WEEKS_OFFERS_EMAIL/index.htm" target="blank"><span style="font-size: 20px; color: #ff0000;"><strong><span style="font-size: 20px;">Weekly Special</span></strong></span></a>--><br /><br /><strong>SALES &amp; SUPPORT</strong><strong> 1-800-833-8082</strong><br /><a href="http://www.turbocad.com/">HOME</a> | <a href="http://store.imsidesign.com/account_login.html">ACCOUNT LOGIN</a>
+</div>
+
+</div><!-- End_Module_7077 --></div>
+
+</div></div>
+			<div class="clr"></div>
+		</div>
+	</div>
+	<div class="row">
+		<div id="dnnmenu">
+			<div class="menuback">
+				<a href="#" id="mostrar">Menu</a>
+				<a href="http://www.imsidesign.com/" class="backhome"></a>
+				<div class="searchbox">
+					<span id="dnn_dnnSEARCH_ClassicSearch">
+    
+    
+    <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+        <input name="dnn$dnnSEARCH$txtSearch" type="text" maxlength="255" size="20" id="dnn_dnnSEARCH_txtSearch" class="NormalTextBox" autocomplete="off" placeholder="Search..." />
+        <a class="dnnSearchBoxClearText"></a>
+    </span>
+    <a id="dnn_dnnSEARCH_cmdSearch" class="SkinObject" href="javascript:__doPostBack(&#39;dnn$dnnSEARCH$cmdSearch&#39;,&#39;&#39;)"><span></span></a>
+</span>
+
+
+<script type="text/javascript">
+    $(function() {
+        if (typeof dnn != "undefined" && typeof dnn.searchSkinObject != "undefined") {
+            var searchSkinObject = new dnn.searchSkinObject({
+                delayTriggerAutoSearch : 400,
+                minCharRequiredTriggerAutoSearch : 2,
+                searchType: 'S',
+                enableWildSearch: true,
+                cultureCode: 'en-US',
+                portalId: -1
+                }
+            );
+            searchSkinObject.init();
+            
+            
+            // attach classic search
+            var siteBtn = $('#dnn_dnnSEARCH_SiteRadioButton');
+            var webBtn = $('#dnn_dnnSEARCH_WebRadioButton');
+            var clickHandler = function() {
+                if (siteBtn.is(':checked')) searchSkinObject.settings.searchType = 'S';
+                else searchSkinObject.settings.searchType = 'W';
+            };
+            siteBtn.on('change', clickHandler);
+            webBtn.on('change', clickHandler);
+            
+            
+        }
+    });
+</script>
+
+				</div>
+				<div id="menubox">
+					<!-- DDRmenu v02.00.01 - DNNMega template --><ul class="level">
+	    
+	<li  id="root214" class="item first"><a href="http://www.imsidesign.com/"><span>IMSI/Design</span></a></li>
+
+	<li  id="root485" class="item Breadcrumb haschild"><a href="http://www.imsidesign.com/Products/All-Products"><span>Products</span></a>
+			    <ul class="level0">
+				
+	<li class="box1"><a href="http://www.imsidesign.com/Products/All-Products" class="">All Products</a></li>
+
+	<li class="box1"><a href="http://www.turbocad.com" class="">TurboCAD</a></li>
+
+	<li class="box1"><a href="http://www.imsidesign.com/Products/TurboFLOORPLAN" class="">TurboFLOORPLAN</a></li>
+
+	<li class="box1"><a href="http://www.imsidesign.com/Products/DesignCAD" class="">DesignCAD</a></li>
+
+	<li class="box1"><a href="http://www.DoubleCAD.com" class="">DoubleCAD</a></li>
+
+	<li class="box1"><a href="http://www.imsidesign.com/Products/Renditioner" class="">Renditioner</a></li>
+
+	<li class="box1"><a href="http://www.imsidesign.com/Products/CAD-Companion-Products" class="">CAD Companion Products</a></li>
+
+	<li class="box1"><a href="http://www.turbocad.com/3DPrinters/tabid/1935/Default.aspx" class="">3D Printers</a></li>
+
+	<li class="box1"><a href="http://www.turboapps.com" class="">Mobile Apps</a></li>
+
+	<li class="box1"><a href="http://www.imsidesign.com/Products/Free-Trials" class="">Free Trials</a></li>
+
+			    </ul></li>
+
+	<li  id="root894" class="item haschild"><a href="http://www.imsidesign.com/Purchase/Store"><span>Purchase</span></a>
+			    <ul class="level0">
+				
+	<li class="box1"><a href="http://www.imsidesign.com/Purchase/Store" class="">Store</a></li>
+
+	<li class="box1"><a href="http://www.imsidesign.com/Purchase/North-America-Sales" class="">North America Sales</a></li>
+
+	<li class="box1"><a href="http://www.imsidesign.com/Purchase/International-Sales" class="">International Sales</a></li>
+
+			    </ul></li>
+
+	<li  id="root1231" class="item"><a href="http://www.imsidesign.com/Support/Overview"><span>Support</span></a></li>
+
+	<li  id="root522" class="item end haschild"><a href="http://www.imsidesign.com/Company/Contact-Us"><span>Company</span></a>
+			    <ul class="level0">
+				
+	<li class="box1"><a href="http://www.imsidesign.com/Company/About-Us" class="">About Us</a></li>
+
+	<li class="box1"><a href="http://www.imsidesign.com/Company/In-The-News" class="">In The News</a></li>
+
+	<li class="box1"><a href="http://www.imsidesign.com/Company/Partners" class="">Partners</a></li>
+
+	<li class="box1"><a href="http://www.imsidesign.com/Company/Board-of-Directors" class="">Board of Directors</a></li>
+
+	<li class="box1"><a href="http://www.imsidesign.com/Company/Green-Information" class="">Green Information</a></li>
+
+	<li class="box1"><a href="http://www.imsidesign.com/Company/Affiliate-Program" class="">Affiliate Program</a></li>
+
+	<li class="box1"><a href="http://www.imsidesign.com/Company/Education-Program" class="">Education Program</a></li>
+
+	<li class="box1"><a href="http://www.imsidesign.com/Company/Contact-Us" class="">Contact Us</a></li>
+
+			    </ul></li>
+
+</ul>
+
+
+
+				</div>
+				<div class="clr"></div>
+			</div>
+		</div>
+		<div id="dnncontent">
+			<div id="dnn_BannerPane" class="FullPane DNNEmptyPane"></div>
+			<div class="breaderbox radius4 shadow1">
+				<a onclick="history.back()" class="fright tabback" title="Back">&lt; Back</a>
+				<div class="fleft">Your are here &raquo; <span id="dnn_dnnBREADCRUMB_lblBreadCrumb"><a href="http://www.imsidesign.com/Products/All-Products" class="breadcrumb">Products</a>  »  <a href="http://www.imsidesign.com/Products/DesignCAD" class="breadcrumb">DesignCAD</a></span>
+</div>
+				<div class="clr"></div>
+			</div>
+			<div id="dnn_TopPane" class="FullPane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-5727"><a name="5727"></a><div id="dnn_ctr5727_ContentPane"><!-- Start_Module_5727 --><div id="dnn_ctr5727_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr5727_HtmlModule_lblContent" class="Normal">
+	<img alt="" width="960" height="200" src="/Portals/4/Headers/headersesCADv23-960x200A.jpg" />
+</div>
+
+</div><!-- End_Module_5727 --></div>
+</div></div>
+				<div class="panes">
+					<div id="dnn_FAColPane" class="fleft FAColPane DNNEmptyPane"></div>
+					<div id="dnn_FBColPane" class="fleft FBColPane DNNEmptyPane"></div>
+					<div id="dnn_FCColPane" class="fleft FCColPane DNNEmptyPane"></div>
+					<div id="dnn_FDColPane" class="fright FDColPane DNNEmptyPane"></div>
+					<div class="clr"></div>
+				</div>
+				<div class="panes">
+					<div id="dnn_TopleftPane" class="fleft TopLeftPane DNNEmptyPane"></div>
+					<div id="dnn_TopRightPane" class="fright TopRightPane DNNEmptyPane"></div>
+					<div class="clr"></div>
+				</div>
+			<div id="dnn_ContentPane" class="FullPane DNNEmptyPane"></div>
+				<div class="panes">
+					<div id="dnn_LeftThreePane" class="fleft LeftThreePane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-5990"><a name="5990"></a>
+<div class="grayheadc radius4 shadow1">
+	<div class="chead radius3">
+		<div class="visi"></div>
+		<h2><span id="dnn_ctr5990_dnnTitle_titleLabel" class="ctitle">DesignCAD Topics</span>
+
+
+</h2>
+	</div>
+	<div class="c_middle">
+		<div id="dnn_ctr5990_ContentPane" class="containerpane"><!-- Start_Module_5990 --><div id="dnn_ctr5990_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr5990_HtmlModule_lblContent" class="Normal">
+	<a href="http://www.imsidesign.com/Products/DesignCADSeries/tabid/321/Default.aspx">DesignCAD</a><br />
+<a href="http://www.imsidesign.com/Products/DesignCADSeries/DesignCADTraining/tabid/1844/Default.aspx">DesignCAD Training</a><br />
+<a href="http://www.imsidesign.com/Products/DesignCADSeries/DesignCADSymbols/tabid/1845/Default.aspx">DesignCAD Symbols</a><br />
+<a href="http://www.imsidesign.com/Products/DesignCADSeries/DesignCADAddons/tabid/1846/Default.aspx">DesignCAD Add-on</a><br />
+<a href="http://www.imsidesign.com/Products/DesignCADSeries/Showcase/tabid/2393/Default.aspx">Showcase</a><br />
+<a href="http://www.imsidesign.com/Products/DesignCADSeries/DeeringBanjosCaseStudy/tabid/1742/Default.aspx">Case Study</a>
+</div>
+
+</div><!-- End_Module_5990 --></div>
+	</div>
+	<div class="c_footer">
+        
+        
+        
+        
+	</div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-5722"><a name="5722"></a>
+<div class="grayheadc radius4 shadow1">
+	<div class="chead radius3">
+		<div class="visi"></div>
+		<h2><span id="dnn_ctr5722_dnnTitle_titleLabel" class="ctitle">New e-Catalog</span>
+
+
+</h2>
+	</div>
+	<div class="c_middle">
+		<div id="dnn_ctr5722_ContentPane" class="containerpane"><!-- Start_Module_5722 --><div id="dnn_ctr5722_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr5722_HtmlModule_lblContent" class="Normal">
+	<div style="text-align: center;"><a href="http://collateral.imsidesign.com/collateral/prodcat/summer2013prodcat1-lowres.pdf" target="blank"><img alt="" src="/Portals/1/Charts/imsi_productcat2013icon.gif" /></a></div>
+</div>
+
+</div><!-- End_Module_5722 --></div>
+	</div>
+	<div class="c_footer">
+        
+        
+        
+        
+	</div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-5828"><a name="5828"></a><div id="dnn_ctr5828_ContentPane" class="DNNAligncenter"><!-- Start_Module_5828 --><div id="dnn_ctr5828_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr5828_HtmlModule_lblContent" class="Normal">
+	<center><!-- BEGIN LivePerson Button Code --><br /><br /><div id="lpButDivID-1331675921872"></div><br /><script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/50683390/?cmd=mTagRepstate&site=50683390&buttonID=1&divID=lpButDivID-1331675921872&bt=1&c=1"></script><br /><!-- END LivePerson Button code --></center>
+</div>
+
+</div><!-- End_Module_5828 --></div>
+</div></div>
+					<div id="dnn_RightNinePane" class="fright RightNinePane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-7000"><a name="7000"></a>
+<div class="grayheadc radius4 shadow1">
+	<div class="chead radius3">
+		<div class="visi"></div>
+		<h2><span id="dnn_ctr7000_dnnTitle_titleLabel" class="ctitle">DesignCAD</span>
+
+
+</h2>
+	</div>
+	<div class="c_middle">
+		<div id="dnn_ctr7000_ContentPane" class="containerpane"><!-- Start_Module_7000 --><div id="dnn_ctr7000_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr7000_HtmlModule_lblContent" class="Normal">
+	<table style="width: 100%;">
+    <thead>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="width: 300px; height: 150px;"><a href="http://www.imsidesign.com/Products/DesignCAD/DesignCAD3DMax23/tabid/2482/Default.aspx"><img alt="" src="/Portals/4/Boxshots/DesignCAD/dc3dmaxv23dvdpaclftx100.jpg" style="border-width: 0px; border-style: solid; float: left;" /></a>
+            <h2 style="text-align: left;">DesignCAD 3D MAX v23</h2>
+            <div style="text-align: left;"> Easy to learn 2D drafting with powerful and precise 3D modeling.<br />
+            <a href="http://www.imsidesign.com/Products/DesignCAD/DesignCAD3DMax23/tabid/2482/Default.aspx">Learn more</a> | <a href="http://store.imsidesign.com/cart.html?REF=765917">Buy now </a></div>
+            </td>
+            <td style="width: 300px; height: 150px;"><a href="http://www.imsidesign.com/Products/DesignCAD/DesignCAD23/tabid/2490/Default.aspx"><img alt="" src="/Portals/4/Boxshots/DesignCAD/dc2dv23dvdpaclftx100.jpg" style="float: left; border-width: 0px; border-style: solid;" /></a>
+            <h2 style="text-align: left;">DesignCAD 23</h2>
+            <div style="text-align: left;"> 2D Comprehensive drafting and design tool.<a href="http://www.imsidesign.com/Products/DesignCAD/DesignCAD23/tabid/2490/Default.aspx">Learn more</a> | <a href="http://store.imsidesign.com/cart.html?REF=765860">Buy now </a></div>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 300px; height: 150px;"><a href="http://www.imsidesign.com/Products/DesignCADSeries/DesignCAD3DMAXandContourCAMBundle/tabid/2384/Default.aspx"><img alt="" src="/Portals/4/Boxshots/DesignCAD/dc3dmaxcontourCAMbundx100.jpg" style="border-width: 0px; border-style: solid; float: left;" /></a>
+            <h2 style="text-align: left;">DesignCAD 3D MAX and ContourCAM Bundle</h2>
+            <div style="text-align: left;"> he DesignCAD 3D MAX and ContourCAM Bundle combines easy-to-use 2D/3D design software.<a href="http://www.imsidesign.com/Products/DesignCADSeries/DesignCAD3DMAXandContourCAMBundle/tabid/2384/Default.aspx"><br />
+            Learn more</a> |<a href="http://store.imsidesign.com/cart.html?REF=768842"> Buy now</a><a href="http://store.imsidesign.com/cart.html?REF=758818"> </a></div>
+            </td>
+            <td style="width: 300px; height: 150px;"><a href="http://www.imsidesign.com/Products/DesignCAD/DesignCAD3DMAXPlus/tabid/2526/Default.aspx"><img alt="" style="border-width: 0px; border-style: solid; float: left;" src="/Portals/4/Boxshots/DesignCAD/dc3dmaxv23bundlex100.jpg" /></a>
+            <h2 style="text-align: left;">DesignCAD 3D Max Plus</h2>
+            <div style="text-align: left;"> Combines easy-to-use 2D/3D design software, with essential video training and over 30 million CADsymbols to boost your productivity.<br />
+            <a href="http://www.imsidesign.com/Products/DesignCAD/DesignCAD3DMAXPlus/tabid/2526/Default.aspx">Learn More</a> | <a href="http://store.imsidesign.com/cart.html?REF=770205">Buy now</a><br />
+            </div>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 300px; height: 150px;"><a href="http://imsidesign.com/Products/DesignCADSeries/DeeringBanjosCaseStudy/tabid/1742/Default.aspx"><img alt="" src="/Portals/4/Feature%20Images/DesignCAD/banjoeBx100.gif" style="border-width: 0px; border-style: solid; float: left;" /></a>
+            <h2 style="text-align: left;">Case Study</h2>
+            <div style="text-align: left;"> Deering Banjos, one of the oldest, best known, banjo manufactures in the world, has been using DesignCAD.<br />
+            <a href="http://www.imsidesign.com/Products/DesignCADSeries/DeeringBanjosCaseStudy/tabid/1742/Default.aspx"> Read Case Study</a><a href="http://store.imsidesign.com/cart.html?REF=743785"><br />
+            </a></div>
+            </td>
+            <td style="width: 300px; height: 150px;">&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+</div><!-- End_Module_7000 --></div>
+	</div>
+	<div class="c_footer">
+        
+        
+        
+        
+	</div>
+</div>
+</div></div>
+					<div class="clr"></div>
+				</div>
+				<div class="panes">
+					<div id="dnn_LeftPane" class="fleft LeftPane DNNEmptyPane"></div>
+					<div id="dnn_CenterPane" class="fleft CenterPane DNNEmptyPane"></div>
+					<div id="dnn_RightPane" class="fright RightPane DNNEmptyPane"></div>
+					<div class="clr"></div>
+				</div>
+				<div class="panes">
+					<div id="dnn_LeftNinePane" class="fleft LeftNinePane DNNEmptyPane"></div>
+					<div id="dnn_RightThreePane" class="fright RightThreePane DNNEmptyPane"></div>
+					<div class="clr"></div>
+				</div>
+			<div id="dnn_MiddlePane" class="FullPane DNNEmptyPane"></div>
+				<div class="panes">
+					<div id="dnn_TAColPane" class="fleft TAColPane DNNEmptyPane"></div>
+					<div id="dnn_TBColPane" class="fleft TBColPane DNNEmptyPane"></div>
+					<div id="dnn_TCColPane" class="fright TCColPane DNNEmptyPane"></div>
+					<div class="clr"></div>
+				</div>
+			<div id="dnn_BottomPane" class="FullPane DNNEmptyPane"></div>
+		</div>
+		<div id="dnnfooter"><br><td><strong>Follow Us</strong></a></td> <td><a href="http://www.facebook.com/IMSIdesign" target="blank" ><img border=10 src="/Portals/4/Skins/960GridSkin-Blue/images/logo-facebookx30.gif" /></a>
+</td><td><a href="http://www.linkedin.com/" target="blank" ><img border=0 src="/Portals/4/Skins/960GridSkin-Blue/images/logo-linkedx30.gif" /></a></td> <td><a href="http://www.twitter.com/turboviewer" target="blank" ><img border=0 src="/Portals/4/Skins/960GridSkin-Blue/images/logo-twitterx30.gif"/></a>
+</td><td><a href="http://www.youtube.com/user/IMSIDesign" target="blank" ><img border=0 src="/Portals/4/Skins/960GridSkin-Blue/images/logo-youtubex30.gif" /></a></td><br/> 
+			<a href="#" id="top-link"></a>
+			<span id="dnn_dnnLINKS_lblLinks"><a class="links" href="http://www.imsidesign.com/">IMSI/Design</a><span class="links">|</span><a class="links" href="http://www.imsidesign.com/Products/All-Products">Products</a><span class="links">|</span><a class="links" href="http://www.imsidesign.com/Purchase/Store">Purchase</a><span class="links">|</span><a class="links" href="http://www.imsidesign.com/Support/Overview">Support</a><span class="links">|</span><a class="links" href="http://www.imsidesign.com/Company/Contact-Us">Company</a></span>
+
+			<br />
+			<span id="dnn_dnnCopyright_lblCopyright" class="SkinObject">Copyright&copy; 2014 by IMSI/Design, LLC. All Rights Reserved.</span>
+
+			<a id="dnn_dnnTerms_hypTerms" class="SkinObject" rel="nofollow" href="http://www.imsidesign.com/Terms">Terms Of Use</a> |
+			<a id="dnn_dnnPrivacy_hypPrivacy" class="SkinObject" rel="nofollow" href="http://www.imsidesign.com/Privacy">Privacy Statement</a>
+
+		</div>
+	</div>
+	
+</div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1379875-4";
+urchinTracker();
+</script>
+<!-- BEGIN LivePerson Monitor. --><script language='javascript'> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "50683390",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=31985,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`321`}" />
+        <input name="__RequestVerificationToken" type="hidden" value="Yro1ZfBokU-mkrnSfJ7mnueyz5HY_KRRL22CxTlY_A3m7vm223UTGj9PKyOfP2UWLUO26kMWlU6LrMCGUYIXAJ0BXfjtTB83Btk1lh2JzADJiHk7JDevmqI9LrE1" />
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script></form>
+    
+    
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++

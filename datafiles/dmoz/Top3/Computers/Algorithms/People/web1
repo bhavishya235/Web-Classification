@@ -1,0 +1,2949 @@
+====================<http://www.dehne.carleton.ca/>====================
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+    
+    
+    
+    
+    
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="http://www.dehne.carleton.ca/welcome" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        <meta content="2013-12-05T08:35:39-05:00" name="DC.date.modified" /><meta content="2012/08/19 - " name="DC.date.valid_range" /><meta content="Page" name="DC.type" /><meta content="text/html" name="DC.format" /><meta content="2012-08-07T17:32:52-04:00" name="DC.date.created" /><meta content="en" name="DC.language" />
+<link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.dehne.carleton.ca/welcome/" />
+
+  
+    <link rel="stylesheet" type="text/css" href="http://www.dehne.carleton.ca/portal_css/Sunburst%20Theme/base-cachekey-b5bc7cfee9a92d3fa114da76cc8e16ae.css" />
+    <style type="text/css" media="screen">@import url(http://www.dehne.carleton.ca/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-6e47f7139c8b3e43833deaf45ecb6e56.css);</style>
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.dehne.carleton.ca/portal_css/Sunburst%20Theme/IEFixes-cachekey-96f45e8710d81132690ad85827b73f43.css" />
+        <![endif]-->
+    
+    <link rel="stylesheet" type="text/css" media="all" href="http://www.dehne.carleton.ca/portal_css/Sunburst%20Theme/ploneCustom-cachekey-02a128dfded08effa2e41e5df0d6c069.css" />
+
+  
+    <link rel="stylesheet" data-rel="kinetic-stylesheet" type="text/kss" href="http://www.dehne.carleton.ca/portal_kss/Sunburst%20Theme/at-cachekey-34bb01f762162b14ca6ff81029339cf1.kss" />
+  
+    <script type="text/javascript" src="http://www.dehne.carleton.ca/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-31ef38e3bb26e99579ba4947f6be52c3.js"></script>
+
+
+<title>Welcome to the Parallel Computing &amp; Data Science Research Lab &mdash; Prof. Frank Dehne</title>
+        
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.dehne.carleton.ca/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://www.dehne.carleton.ca/touch_icon.png" />
+
+
+
+
+
+
+    <link rel="search" href="http://www.dehne.carleton.ca/@@search" title="Search this site" />
+
+
+
+        
+        
+        
+        
+        
+
+        <meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666" />
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+</head>
+
+<body class="template-document_view portaltype-document site-Plone section-welcome icons-on" dir="ltr">
+
+<div id="visual-portal-wrapper">
+
+        <div id="portal-top" class="row">
+<div class="cell width-full position-0">
+            <div id="portal-header">
+    <p class="hiddenStructure">
+  <a accesskey="2" href="http://www.dehne.carleton.ca/#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://www.dehne.carleton.ca/#portal-globalnav">Skip to navigation</a>
+</p>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+
+
+<ul class="actionMenu deactivated" id="portal-personaltools">
+  <li id="anon-personalbar">
+    
+        <a href="http://www.dehne.carleton.ca/login" id="personaltools-login">Log in</a>
+    
+  </li>
+</ul>
+
+</div>
+
+
+
+<div id="portal-searchbox">
+
+    <form name="searchform" id="searchGadget_form" action="http://www.dehne.carleton.ca/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="searchGadget">Search Site</label>
+
+        <input name="SearchableText" type="text" size="18" title="Search Site" placeholder="Search Site" accesskey="4" class="searchField" id="searchGadget" />
+
+        <input class="searchButton" type="submit" value="Search" />
+
+        <div class="searchSection">
+            <input id="searchbox_currentfolder_only" class="noborder" type="checkbox" name="path" value="/Plone" />
+            <label for="searchbox_currentfolder_only" style="cursor: pointer">
+                only in current section
+            </label>
+        </div>
+
+        <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://www.dehne.carleton.ca/@@search" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<a id="portal-logo" title="Prof. Frank Dehne" accesskey="1" href="http://www.dehne.carleton.ca">
+    <img src="http://www.dehne.carleton.ca/logo.png" alt="Prof. Frank Dehne" title="Prof. Frank Dehne" height="67" width="492" /></a>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li class="selected" id="portaltab-index_html"><a href="http://www.dehne.carleton.ca" title="">Home</a></li><li class="plain" id="portaltab-lab"><a href="http://www.dehne.carleton.ca/lab" title="Parallel Computing &amp; Bioinformatics Research">Lab</a></li><li class="plain" id="portaltab-publications"><a href="http://www.dehne.carleton.ca/publications" title="">Publications</a></li><li class="plain" id="portaltab-grants"><a href="http://www.dehne.carleton.ca/grants" title="">Grants &amp; Awards</a></li><li class="plain" id="portaltab-program-committees"><a href="http://www.dehne.carleton.ca/program-committees" title="">Prog. Comm.</a></li><li class="plain" id="portaltab-students"><a href="http://www.dehne.carleton.ca/students" title="">Students</a></li><li class="plain" id="portaltab-teaching"><a href="http://www.dehne.carleton.ca/teaching" title="">Teaching</a></li><li class="plain" id="portaltab-biography"><a href="http://www.dehne.carleton.ca/biography" title="">Biography</a></li><li
+    class="plain" id="portaltab-contact"><a href="http://www.dehne.carleton.ca/contact" title="">Contact</a></li></ul>
+
+</div>
+
+</div>
+        </div>
+    <div id="portal-columns" class="row">
+
+        <div id="portal-column-content" class="cell width-1:2 position-1:4">
+
+            <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="http://www.dehne.carleton.ca">Home</a>
+        
+    </span>
+
+</div>
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Welcome to the Parallel Computing &amp; Data Science Research Lab
+                </h1>
+            
+            
+        
+                             
+                             <div id="viewlet-below-content-title">
+</div>
+
+                             
+                                 
+                                 
+            
+                
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+
+</div>
+                             <div id="content-core">
+                                 
+    
+        
+        <div class="" id="parent-fieldname-text-5ba67f21c9424c05a2a8b01a5d68c8c8">
+            <table class="invisible">
+<tbody>
+<tr>
+<td>
+<p><i>Big data analytics</i> systems, to be useful, require <i>high performance</i> computing. For example, Google's data analytics <span>systems </span>require processor clusters that fill large factory halls.</p>
+<p>My research program is focused on improving the <i>performance</i> of big data analytics systems, in particular for <i>business intelligence</i> and <i>computational biochemistry</i>, through efficientÂ <i>parallel computing</i> methods for multi-core processors, GPUs, processor clusters and clouds.</p>
+</td>
+<th></th><th><a class="internal-link" href="http://www.dehne.carleton.ca/biography"><img class="image-inline" src="http://www.dehne.carleton.ca/frank-dehne" title="Frank Dehne" alt="Frank Dehne" /></a><br /></th>
+</tr>
+</tbody>
+</table>
+<h1>Current Projects</h1>
+<ul>
+<li><a class="internal-link" href="http://www.dehne.carleton.ca/research-OLAP"><strong>Parallel <i>Big Data</i> Analytics For Business Intelligence</strong></a>: Real-time online analytical processing (OLAP) for multi-core and cloud architectures.</li>
+<li><a class="internal-link" href="http://www.dehne.carleton.ca/research-bio"><strong>Parallel <i>Big Data Analytics</i> For Computational Biochemistry</strong></a>: Protein-protein interaction networks.</li>
+</ul>
+<ul>
+<li><a class="internal-link" href="http://www.dehne.carleton.ca/research-parco"><strong>Parallel Computing Methods</strong></a>: Auto-tuned parallel software for multi-core processors, GPUs, clusters &amp; clouds.</li>
+</ul>
+<p style="text-align: left; "><a class="external-link" href="http://www.parallelcomputing.ca/"><img class="image-inline" src="http://www.dehne.carleton.ca/images/software" title="Software" alt="Software" /></a></p>
+<p>Â </p>
+<p>Research supported by <br /><a class="external-link" href="https://www-927.ibm.com/ibm/cas/canada/research/people/visit.jsp"><img class="image-inline" src="http://www.dehne.carleton.ca/logos/ibm.jpeg/@@images/ba4cfff1-7561-4a1b-b90f-e923197daba3.jpeg" title="IBM Center For Advanced Studies Canada" alt="IBM Center For Advanced Studies Canada" /></a><img class="image-inline" src="http://www.dehne.carleton.ca/space.jpg" title="space.jpg" alt="space.jpg" /><a class="external-link" href="http://www.nserc-crsng.gc.ca/index_eng.asp"><img class="image-inline" src="http://www.dehne.carleton.ca/logos/nserc.png/@@images/42b08b37-2f01-46fa-a55c-06eb7c3bbc37.png" title="Natural Sciences And Engineering Research Council of Canada" alt="Natural Sciences And Engineering Research Council of Canada" /></a><img class="image-inline" src="http://www.dehne.carleton.ca/space.jpg" title="space.jpg" alt="space.jpg" /><a class="external-link" href="http://www.mitacs.ca/"><img class="image-inline" src="http://www.dehne.carleton.ca/logos/mitacs.bmp/@@images/5bbe159b-37a7-46e5-877f-85c21ba02cac.jpeg" title="MITACS" alt="MITACS" /></a><img class="image-inline" src="http://www.dehne.carleton.ca/space.jpg" title="space.jpg" alt="space.jpg" /><a class="external-link" href="http://computecanada.ca"><img class="image-inline" src="http://www.dehne.carleton.ca/logos/compute-canada/@@images/03cc0c58-1984-4575-81cd-c12012af852e.jpeg" title="Compute Canada" alt="Compute Canada" /></a><img class="image-inline" src="http://www.dehne.carleton.ca/space.jpg" title="space.jpg" alt="space.jpg" /><a class="external-link" href="http://www.hpcvl.org/"><img class="image-inline" src="http://www.dehne.carleton.ca/logos/hpcvl.png/@@images/b19b77c5-8f0c-462d-bbf3-5334df83fede.png" title="HPCVL" alt="HPCVL" /></a><img class="image-inline" src="http://www.dehne.carleton.ca/space.jpg" title="space.jpg" alt="space.jpg" /><a class="external-link" href="http://www.innovation.ca/en"><img class="image-inline" src="http://www.dehne.carleton.ca/logos/cfi.png" title="Canada Foundation for Innovation" alt="Canada Foundation for Innovation" /></a><img class="image-inline" src="http://www.dehne.carleton.ca/space.jpg" title="space.jpg" alt="space.jpg" /><a class="external-link" href="http://www.mri.gov.on.ca/english"><img class="image-inline" src="http://www.dehne.carleton.ca/logos/ont.png/@@images/636d75ee-789d-471c-beda-d7844575041b.png" title="Ontario Ministry Of Economic Development And Innovation" alt="Ontario Ministry Of Economic Development And Innovation" /></a><img class="image-inline" src="http://www.dehne.carleton.ca/space.jpg" title="space.jpg" alt="space.jpg" /><a class="external-link" href="http://www.arc.gov.au/"><img class="image-inline" src="http://www.dehne.carleton.ca/logos/arc.png/@@images/5d7c220b-38a2-4499-ab76-7a59b1aa196a.png" title="Australian Research Council" alt="Australian Research Council" /></a><img class="image-inline" src="http://www.dehne.carleton.ca/space.jpg" title="space.jpg" alt="space.jpg" /><a class="external-link" href="http://www.qcif.edu.au/"><img class="image-inline" src="http://www.dehne.carleton.ca/logos/qcif.png/@@images/d79244f0-eff4-4347-b978-6251135693cc.png" title="Queensland Cyber Infrastructure Foundation" alt="Queensland Cyber Infrastructure Foundation" /></a></p>
+            
+        </div>
+    
+    
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+</div>
+        </div>
+
+        
+        <div id="portal-column-one" class="cell width-1:4 position-0">
+            
+                
+<div class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a61" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a61">
+<dl class="portlet portletStaticText portlet-static-parallel-computing-data-science-research-lab">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <span>
+           <a class="tile" href="lab">Parallel Computing &amp; Data Science Research Lab</a>
+        </span>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        <p><a class="internal-link" href="http://www.dehne.carleton.ca/lab"><img class="image-inline" src="http://www.dehne.carleton.ca/lab.jpeg/@@images/5c92f2cd-ed66-46a9-9359-f3aced69cc58.jpeg" title="Research Lab" alt="Research Lab" /></a></p>
+        
+            <span class="portletBottomLeft"></span>
+            <span class="portletBottomRight"></span>
+        
+    </dd>
+    
+    
+
+</dl>
+</div>
+
+<div class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a7363686f6f6c2d6f662d636f6d70757465722d736369656e6365" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a7363686f6f6c2d6f662d636f6d70757465722d736369656e6365">
+<dl class="portlet portletStaticText portlet-static-school-of-computer-science">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <span>
+           <a class="tile" href="http://www.scs.carleton.ca">School of Computer Science</a>
+        </span>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        <p><a class="external-link" href="http://www.carleton.ca"><img class="image-inline" src="http://www.dehne.carleton.ca/carleton.logo.jpg" title="Carleton University" alt="Carleton University" /></a></p>
+<p>Â </p>
+<p><i> </i></p>
+<p><a class="external-link" href="http://sciencewatch.com/dr/sci/09/feb22-09_2/"><img class="image-inline" src="http://www.dehne.carleton.ca/thomson-reuters-research-impact-survey" title="THOMSON REUTERS Research Impact Survey" alt="THOMSON REUTERS Research Impact Survey" /></a></p>
+        
+            <span class="portletBottomLeft"></span>
+            <span class="portletBottomRight"></span>
+        
+    </dd>
+    
+    
+
+</dl>
+</div>
+
+
+
+
+            
+        </div>
+
+        <div id="portal-column-two" class="cell width-1:4 position-3:4">
+            
+                
+<div class="portletWrapper kssattr-portlethash-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e650a656565" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e650a656565">
+<dl class="portlet portletStaticText portlet-static-news">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <span>
+           News
+        </span>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        <p><span class="internal-link"><i>Jan. 1, 2014</i> - New <a class="external-link" href="http://computecanada.ca">Compute Canada</a> resource allocation grant (</span>5400 core years = $1,890,000).</p>
+<p><i>Nov. 1, 2013</i> - <a class="external-link" href="http://soscip.org/">SOSCIP</a>'s board approves access toÂ <a class="external-link" href="http://wiki.scinethpc.ca/wiki/index.php/BGQ">BlueGene/Q</a> (32,768 processor cores)Â for our new proteome analytics project.</p>
+<p><i>Oct. 5-9, 2013</i> - New paper on <a class="external-link" href="http://www.scs.carleton.ca/~dehne/publications/2-94.pdf">real-time OLAP for cloud architectures</a> published at <a class="external-link" href="http://www.ischool.drexel.edu/bigdata/bigdata2013/">IEEE BigData 2013</a> in California.</p>
+<p><i>June 1, 2013</i> - Official start of our secondÂ <a class="external-link" href="https://www-927.ibm.com/ibm/cas/canada/research/people/visit.jsp">IBM Canada</a> funded <a class="internal-link" href="http://www.dehne.carleton.ca/large-scale-data-analytics"><i>parallel big data analytics</i></a> project (3 years).</p>
+<p><i>Apr. 16, 2013</i> - New<span class="internal-link"> <a class="external-link" href="http://www.nserc-crsng.gc.ca/index_eng.asp">NSERC</a> equipment grant to expand our <a class="internal-link" href="http://www.dehne.carleton.ca/lab/lab-cluster">lab cluster</a></span><span class="internal-link">.</span></p>
+<p><i>Nov. 6, 2012 </i>- IBM Canada<span class="internal-link"> <a class="internal-link" href="http://www.dehne.carleton.ca/news-items/ibm-award">"Innovation Impact of the Year" Award</a> for our work on parallel real-time data analytics.</span></p>
+<p><span class="external-link"> </span></p>
+        
+            <span class="portletBottomLeft"></span>
+            <span class="portletBottomRight"></span>
+        
+    </dd>
+    
+    
+
+</dl>
+</div>
+
+<div class="portletWrapper kssattr-portlethash-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e650a6576656e74732d31" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f506c6f6e650a6576656e74732d31">
+<dl class="portlet portletStaticText portlet-static-events">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <span>
+           Events
+        </span>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        <p><span>Weekly </span><a class="internal-link" href="http://www.dehne.carleton.ca/news-items/bioinformatics-research-group"><i>Bioinformatics Group</i></a><span> meetings (room 6210 VSIM).</span></p>
+<p><span class="external-link"> </span></p>
+        
+            <span class="portletBottomLeft"></span>
+            <span class="portletBottomRight"></span>
+        
+    </dd>
+    
+    
+
+</dl>
+</div>
+
+
+
+
+            
+        </div>
+        
+    </div>
+
+
+    <div id="portal-footer-wrapper" class="row">
+        <div class="cell width-full position-0">
+            <div id="portal-footer">
+
+<center>
+    
+    <i>Tel.:</i> +1-613-520-2600 ext. 1236  &#149;
+    <i>E-mail:</i> <a href="contact"><img src="email.jpg"></a> &#149;
+    <i>Home Page:</i> <a href="http://www.dehne.net"><font color="black">www.dehne.net</font></a>
+    
+</center>
+
+</div>
+<div id="portal-colophon">
+
+<div class="colophonWrapper">
+<ul>
+  <li>
+    <a href="http://plone.org" title="This site was built using the Plone Open Source CMS/WCM.">
+      Powered by Plone &amp; Python</a>
+  </li>
+</ul>
+</div>
+</div>
+
+<ul id="portal-siteactions">
+
+    <li id="siteaction-sitemap"><a href="http://www.dehne.carleton.ca/sitemap" title="Site Map" accesskey="3">Site Map</a></li>
+    <li id="siteaction-accessibility"><a href="http://www.dehne.carleton.ca/accessibility-info" title="Accessibility" accesskey="0">Accessibility</a></li>
+</ul>
+
+
+            <div id="kss-spinner">
+                <img alt="" src="http://www.dehne.carleton.ca/spinner.gif" />
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
+</body>
+</html>
+
+
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://theory.stanford.edu/~rajeev/>====================
+<html>
+<BODY BACKGROUND="paper3.gif" TEXT="#000000" LINK="#00006f" VLINK="#003f00" ALINK="#7f0000">
+
+<A name="Start">
+
+<p>
+
+<TABLE BORDER=0 CELLSPACING=2 width="741">
+<TR>
+<TD WIDTH=246 VALIGN=Top>
+<font face="Comic Sans MS">
+<BR>
+<a name="Start" href="http://theory.stanford.edu/~rajeev/rajeev.jpg">
+<IMG SRC="http://theory.stanford.edu/~rajeev/rajeev1-color.jpg" ALIGN="Center"
+height="300"></a> </font>
+</TD>
+<TD WIDTH=485 VALIGN="Left">
+<head>
+<font face="Comic Sans MS">
+<TITLE>Rajeev Motwani</TITLE>
+</head>
+</font><font face="Comic Sans MS">
+<BR>
+</font>
+<H1><font face="Comic Sans MS" color="#0000FF">Rajeev Motwani</font></H1>
+
+<P><font face="Comic Sans MS">Former Professor and Director of Graduate Studies<BR>
+ <A HREF= "http://www-db.stanford.edu">Database Group</A>/<A HREF=
+"http://infolab.stanford.edu">InfoLab</A>,
+ and
+ <A HREF="http://theory.stanford.edu/index.html">Foundations Group</A>
+ <BR>
+ <A HREF="http://www-cs.stanford.edu/">Computer Science Department</A><BR>
+ <A HREF="http://www.stanford.edu">Stanford University</A></font></P>
+<!--
+<P>
+Alfred P. Sloan Research Fellow
+<BR>
+NSF National Young Investigator
+</P>
+-->
+<P>
+<font face="Comic Sans MS">Ph.D. 1988 (<A HREF="http://www.cs.berkeley.edu">Computer Science</A>,
+<A HREF="http://www.berkeley.edu">U.C. Berkeley</A>)<BR>
+B.Tech. 1983 (<A HREF="http://www.cs.umd.edu/~gagan/IITK/index.html">Computer
+Science</A>,
+ <A HREF="http://www.iitk.ac.in">IIT Kanpur</A>)</font></P>
+</TD>
+</TR>
+</TABLE>
+<font face="Comic Sans MS">
+<BR>
+
+</a>
+<a name="Start" href="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif">
+
+<IMG SRC="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif" ALT="-----" width="640" height="4"></a><A name="Start">
+
+
+
+</a> </font><font face="Comic Sans MS"><br>
+&nbsp;</font><table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#FFFFFF" width="71%">
+  <tr>
+    <td width="100%"><font face="Comic Sans MS"><font color="#0000FF"><STRONG>Research Interests:</STRONG></font>
+    </font><font face="Comic Sans MS" size="2">Databases, data mining, information retrieval, and web searching.
+Privacy and security, particularly in the context of databases and
+information retrieval.
+Optimization and scheduling problems, particularly for
+applications in computer systems, compilers, and databases. Computational
+and combinatorial geometry with applications to robotics and vision.
+Computational biology and automated drug design.
+Design and analysis of algorithms with emphasis on approximations,
+online computations, and randomized algorithms, as well as related
+complexity theory. </font></td>
+  </tr>
+</table>
+&nbsp;<p><font face="Comic Sans MS">
+<A HREF="http://theory.stanford.edu/~rajeev/bio.html"><font color="#0000FF">Biographical Information</font></A><font color="#0000FF"> 
+
+<!--
+<A HREF = "#Contents"> Click here for contents menu</A>.
+
+<IMG SRC="gifs/line.red2.gif" ALT="-----">
+-->
+
+</font></font></p>
+<p><font face="Comic Sans MS">
+
+<a href="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif">
+
+<IMG SRC="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif" ALT="-----" width="640" height="4"></a> </font></p>
+<font face="Comic Sans MS">
+  <p align="left"><b><font face="Comic Sans MS" size="4" color="#0000FF">Table of
+<A name="Contents">
+Contents: </font></b>
+
+  </p>
+
+<DL>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/projects.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"> <font color="#0000FF">Research Projects</font></A>
+<font size="2">(Algorithms, DataMining/Internet/Web/Search, Databases/Streams, Privacy, P2P, Drug Design, Robotics).</font></font></DD>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/students.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"> <font color="#0000FF">Graduate Students</font></A>
+<font size="2">(Current and "Graduated"). </font></font> </DD>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/papers.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"> <font color="#0000FF">Publications</font></A></font></DD>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/books.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif"  ALT="*" width="14" height="14"> <font color="#0000FF">Books
+& Book Chapters</font></A></font></DD>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/talks.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"> <font color="#0000FF">Recent and Forthcoming 
+Talks</font></A></font></DD>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/courses.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"> <font color="#0000FF">Teaching and Courses</font></A><font color="#0000FF">
+</font>
+(Spring 08-09: <a href="http://theory.stanford.edu/~rajeev/cs154.html"><font
+color="#0000FF"> CS 154 - Automata & Complexity Theory</font></a>)
+ </DD>
+ <!--
+<DD><A href=http://www.stanford.edu/group/tbp/courseguide/CS_index.html><img src="gifs/"http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*">
+ Teaching Reviews. </A> </DD>
+-->
+</font>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/awards.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"> <font
+color="#0000FF"> Selected Awards and Honors</font></A><font color="#0000FF">
+</font>
+<DD><font face="Comic Sans MS"><A href="#Services">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"></A> <font color="#0000FF">Professional Activities:
+</font></font>
+<DL>
+<DD><font face="Comic Sans MS"><A href="#Misc">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"></A>
+Member:&nbsp; </font>
+<A Href="http://www.icsi.berkeley.edu/about/trustee.html">Board of
+Trustees</A>,
+<A Href="http://www.icsi.berkeley.edu/index.html">International Computer
+Science Institute (ICSI)</a>, Berkeley.
+</DD>
+<DD><font face="Comic Sans MS"><A href="#Editor">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"></A>
+Journal Editorial Boards:&nbsp; </font>
+<font face="Comic Sans MS">
+<a href="http://tkdd.cs.uiuc.edu/">ACM Transactions on Knowledge Discovery from Data</a></font></DD>
+<DD><font face="Comic Sans MS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<A href="http://www.academicpress.com/www/journal/ss/sseb.htm">Journal
+of Computer and System Sciences</A></font></DD>
+<DD><font face="Comic Sans MS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<A href="http://www.siam.org/journals/sicomp.php">SIAM Journal
+on Computing</A></font></DD>
+<DD><font face="Comic Sans MS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.jdmr.org">VLDB Journal of Data Management Research</a></font></DD>
+<DD><font face="Comic Sans MS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.computer.org/tkde/index.htm">IEEE Transactions on Knowledge 
+and Data Engineering</a> (2002-2007)</font></DD>
+</dt>
+<DD><font face="Comic Sans MS"><A href="#CurrentCommittees">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif"
+ALT="*" width="14" height="14"></A> Current Program Committees</A>:
+<A href="http://www2009.org/"> WWW 2009</A>,
+<A href="http://www.siam.org/meetings/da09/"> SODA 2009</A>,
+<A href="http://www.cs.umbc.edu/ICDM09/"> ICDM 2009</A>,
+<A href="http://www.sigkdd.org/kdd2009/"> KDD 2009</A>,
+<A href="http://www.se.cuhk.edu.hk/~wine2008/"> WINE 2008</A>,
+<A href="http://www.siam.org/meetings/calendar.php?id=275"> SIAM Annual Meeting 2008</A>,
+<A href="http://wsdm2008.org/."> WSDM 2008</A>,
+<A href="http://www.sigkdd.org/kdd2008/"> WebKDD 2008</A>.
+<BR>
+<font face="Comic Sans MS"><A href="#PastCommittees">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"></A>
+<A href=http://theory.stanford.edu/~rajeev/committees.html>Past Conference Program Committees</A> </font>
+</DD>
+<DD><font face="Comic Sans MS"><A href="#SIGACT">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"></A>
+Vice-Chair, Executive Committee, <A HREF="http://sigact.acm.com">ACM SIGACT</A> (2001-2005)
+</font>
+</DD>.
+</DL>
+</DL>
+<DD><font face="Comic Sans MS"><A href="#Mail">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"></A>
+Want to contact <A href="http://theory.stanford.edu/~rajeev/contact.html">me</A> or <A href="#Admin">my admin</A>?</font></DD>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/others.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"> Other Links.</A></DD>
+<!--
+<DD><A href="wwwstat/rajeev-index.html"><img src="gifs/"http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*"> Access Statistics.</A></DD>
+-->
+<A HREF = "http://theory.stanford.edu/people/rajeev/asha.html"> </A>
+<A HREF = "http://www.doteduventures.com"> </A>
+</font>
+<p>
+<a href="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif">
+
+<IMG SRC="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif" ALT="-----" width="640" height="4"></a>
+</p>
+<H3>
+<font color="#0000FF">Recent survey talks on </font> <A HREF="http://www-db.stanford.edu/stream">
+<font color="#0000FF">Data Streams</font></A><font color="#0000FF">: </font>
+</H3>
+<EM>Randomization for Massive and Streaming Data Sets</EM>
+<BR>
+<A HREF="http://forum.stanford.edu/events/annual-meeting-2003.html"> Stanford Computer Science Forum -
+Annual Affiliates Meeting</A>,
+Stanford, May 2003. 
+<BR>
+Here are the <A HREF="forum-2003-talk.ppt">slides</A> from this talk.
+</LI>
+<br>
+<br>
+<EM>Models and Issues in Data Stream Systems</EM>
+<BR>
+<A HREF="http://www-db.cs.wisc.edu/sigmodpods2002/"> PODS Plenary Talk
+at the ACM SIGMOD/PODS 2002 Conference</A>,
+June 2002.
+<BR>
+Here are the <A HREF="http://theory.stanford.edu/~rajeev/pods-short-talk.ppt">slides</A> from this talk.
+<br>
+If I had more time (say 3 hours :)), here are the
+<A HREF="http://theory.stanford.edu/~rajeev/pods-full-talk.ppt">slides</A> I would have used.
+<br>
+&nbsp;<font face="Comic Sans MS"><a href="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif"><IMG SRC="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif" ALT="-----" width="640" height="4"></a>
+<br>
+&nbsp;</font><table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#FFFFFF" width="71%">
+  <tr>
+    <td width="60%"><font face="Comic Sans MS">
+
+<B>
+<A HREF="http://www.awlonline.com/product/0,2627,0201441241,00.html">
+    <font color="#0000FF">Introduction to Automata Theory, </font></A>
+    <font color="#0000FF"><br>
+    </font>
+<A HREF="http://www.awlonline.com/product/0,2627,0201441241,00.html">
+    <font color="#0000FF">Languages, and Computation</font></A></B><br>
+    (with Hopcroft and Ullman) <br>
+    Addison-Wesley, 2000.</font><p><font face="Comic Sans MS">
+<A HREF="http://www.awlonline.com/product/0,2627,0201441241,00.html"><br>
+<IMG SRC = "http://www.awlonline.com/coverimage/0201441241.jpg" width="180" height="276"></A><br>
+ 
+<BR>
+
+<A HREF="http://www-db.stanford.edu/~ullman"><font color="#0000FF">Jeff Ullman</font></A><font color="#0000FF"> maintains the
+    </font><a href="http://www-db.stanford.edu/~ullman/ialc.html">
+    <font color="#0000FF">book web
+    page</font></a><font color="#0000FF">.</font> <br>
+&nbsp;</font></td>
+    <td width="40%"><font face="Comic Sans MS">
+
+<B>
+<A HREF="http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=0521474655">
+    <font color="#0000FF">Randomized
+Algorithms</font></A></B><br>
+    (with Raghavan) <br>
+    Cambridge University Press, 1995. <br>
+    <br>
+<A HREF="http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=0521474655">
+<br>
+<IMG SRC = "http://theory.stanford.edu/~rajeev/gifs/mybook.gif" width="189" height="284"></A><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <br>
+&nbsp;</font></td>
+  </tr>
+</table>
+<font face="Comic Sans MS">
+
+<a href="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif">
+
+<IMG SRC="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif" ALT="-----" width="640" height="4"></a> </font>
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#FFFFFF" width="71%" height="19">
+  <tr>
+    <td width="50%" height="19">
+
+<H3>
+<br>
+<A name="Mail">
+<font face="Comic Sans MS" color="#0000FF">Rajeev Motwani </font>
+</H3>
+<PRE><font face="Comic Sans MS">Department of Computer Science
+Room 474
+Gates Computer Science Building 4B
+Stanford University
+Stanford, CA 94305-9045
+
+<B>Phones:</B> 650-723-6045 (office)</font></a><font face="Comic Sans MS">
+<A name="Mail">             650-725-4671 (fax) </font></PRE>
+
+<A name="Mail">
+
+<H4>
+<span style="font-weight: 400">
+<font face="Comic Sans MS" color="#0000FF">"first name" AT cs.stanford.edu</font></span></H4>
+
+    </td>
+    <td width="50%" height="19">
+
+<H3>
+<br>
+
+    </td>
+  </tr>
+</table>
+<font face="Comic Sans MS">
+<a href="http://cs.stanford.edu/info/directions">
+Directions to Gates Building</a></font><p>
+<font face="Comic Sans MS"><a href="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif"><IMG SRC="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif" ALT="-----" width="640" height="4"></a> </font>
+</p>
+
+<P>
+<A href="#Start">
+<IMG src="http://theory.stanford.edu/~rajeev/gifs/uparrow.xbm" width="32" height="32">
+ Top of Rajeev Motwani's home page </A>.</P>
+
+<!--
+<TABLE BORDER=0 CELLSPACING=2 width="642">
+<TR>
+<TD WIDTH=445 VALIGN=Top>
+<P>
+<A href="#Start">
+<IMG src="http://theory.stanford.edu/~rajeev/gifs/uparrow.xbm" width="32" height="32">
+ Top of Rajeev Motwani's home page </A>.</P>
+</TD>
+<TD WIDTH=187 VALIGN="Left">
+Visitors since January 1, 1999:
+-->
+<!-- begin Ultimate Counter code -->
+<!-- Visit http://www.ultimatecounter.com for more info-->
+<!--
+<a href="http://home.qpt.com/counter.html">
+<img src="http://www.ultimatecounter.com/count/count.cgi?96201">
+</a>
+</TD>
+</TR>
+</TABLE>
+-->
+
+<a href="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif">
+
+<IMG SRC="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif" ALT="-----" width="640" height="4"></a>
+</font></font>
+<!-- <P><IMG src="gifs/end2.gif"  align="Middle"></P>  -->
+<!-- BEGIN GOOGLE-ANALYTICS CODE -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1293697-1";
+urchinTracker();
+</script>
+<!-- END GOOGLE-ANALYTICS CODE -->
+
+<!-- BEGIN Jawed-tagging CODE -->
+<!-- -->
+<script src="http://tags.stanford.edu/tags.js"
+type="text/javascript"></script>
+<!-- -->
+<!-- END Jawed-tagging CODE -->
+</body>
+
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.ams.sunysb.edu/~nkfr/>====================
+<html>
+
+<head>
+<title>A.Nikiforov. Home page.</title>
+<meta NAME="GENERATOR" CONTENT="Microsoft FrontPage 4.0">
+<meta HTTP-EQUIV="Author" CONTENT="A.Nikiforov">
+<meta NAME="Description" CONTENT="A.Nikiforov,  Computer scientist, Ph.D. Image, speech and  signal processing and recognition">
+<meta NAME="Keywords" CONTENT="Image, speech, signal, Nikiforov, fingerprint processing, FVC, FVC 2002,
+   Andrey Nikiforov, fingerprint, resume, image processing, image recognition, fingerprint recognition,
+   speech processing, speech recognition, pattern recognition,statistics,
+   signal processing, signal recognition, algorithm, algorithm acceleration, autoregression, missing data, Smirnov test,
+   statistical analysis, exact statistical test">
+<meta HTTP-EQUIV="distribution" CONTENT="Global">
+</head>
+
+<body TEXT="#000000" BGCOLOR="#F9FFFD" LINK="#004488" VLINK="#770011" ALINK="#444444" BACKGROUND="modtextb.gif">
+
+<font face="Times New Roman"><div align="center"><center>
+
+<table BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%">
+  <tr>
+    <td width="16%" align="center"><a href="index.html"><img src="home.gif" alt="home.gif" width="120" height="24"></a></td>
+    <td width="16%" align="center"><a href="2PROJ.HTM"><img src="Proj.gif" alt="Proj.gif" WIDTH="120" HEIGHT="24"></a></td>
+    <td width="16%" align="center"><a href="3TECH.HTM"><img src="tech.gif" alt="tech.gif" WIDTH="120" HEIGHT="24"></a></td>
+    <td width="16%" align="center"><a href="4RESU.HTM"><img src="Res.gif" alt="Res.gif" WIDTH="120" HEIGHT="24"></a></td>
+    <td width="16%" align="center"><a href="5PUBL.HTM"><img src="Publ.gif" alt="Publ.gif" WIDTH="120" HEIGHT="24"></a></td>
+    <td width="16%" align="center"><a href="6PERS.HTM"><img src="Pers.gif" alt="Pers.gif" width="120" height="24"></a></td>
+  </tr>
+</table>
+</center></div>
+
+<p align="center"><font face="Times New Roman"><img src="urbhorsa.gif" alt="urbhorsa.gif (4511 bytes)" WIDTH="300" HEIGHT="10"></font></p>
+</font><div align="right">
+
+<table CELLPADDING="0" width="100%" cellspacing="0">
+  <tr ALIGN="left">
+    <td width="30%" valign="middle" align="center"><font face="Verdana"><img src="And.jpg" width="219" height="283" alt="And.jpg (25340 bytes)"><a HREF="6PERS.HTM"> </a></font></td>
+    <td width="40%">&nbsp;<h2 align="center"><font color="#666699" face="Verdana">Andrey Nikiforov, Ph.D.</font></h2>
+    <h3 align="center"><font color="#993300" face="Verdana"><!--, Ph.D. Computer scientist, a--> Algorithm designer and analyst
+    in: </font></h3>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+        <td valign="baseline" width="42"><img src="topbul1a.gif" hspace="11" WIDTH="20" HEIGHT="20"></td>
+        <td valign="top" width="100%"><font face="Verdana"><b><p align="left"><font face="Times New Roman">Fingerprint recognition </font></b></font></td>
+      </tr>
+      <tr>
+        <td valign="baseline" width="42"><img src="topbul1a.gif" hspace="11" WIDTH="20" HEIGHT="20"></td>
+        <td valign="top" width="100%"><font face="Verdana"><b><p align="left"><font face="Times New Roman">Image processing and recognition </font></b></font></td>
+      </tr>
+      <tr>
+        <td valign="baseline" width="42"><img src="topbul1a.gif" hspace="11" WIDTH="20" HEIGHT="20"></td>
+        <td valign="top" width="100%"><font face="Verdana"><b><p align="left"><font face="Times New Roman">Mathematical statistics and data analysis</font></b></font></td>
+      </tr>
+      <tr>
+        <td valign="baseline" width="42"><img src="topbul1a.gif" hspace="11" WIDTH="20" HEIGHT="20"></td>
+        <td valign="top" width="100%"><font face="Verdana"><b><p align="left"><font face="Times New Roman">Pattern recognition</b> </font></font></td>
+      </tr>
+      <tr>
+        <td valign="baseline" width="42"><img src="topbul1a.gif" hspace="11" WIDTH="20" HEIGHT="20"></td>
+        <td valign="top" width="33%" rowspan="6"><font face="Verdana"><b><p align="left"><font face="Times New Roman">Speech and signal processing and
+          recognition</font></b></font></td>
+      </tr>
+    </table>
+    </td>
+
+
+    <td width="30%" valign="top" align="right"><blockquote>
+<p>
+<!--img src="fvc2002_logo.gif" width="120" alt="fvc2002_head.bmp" align="texttop"-->
+</p>
+<!--
+    <p><img src="mini_new.gif" width="42" height="25" alt="mini_new.gif (713 bytes)">
+-->
+    <font face="Times New Roman"><big>My fingerprint recognition algorithm </big></font></p>
+    <p><font face="Times New Roman"><big>is one of the best in the world</big></font></p>
+    <p><big><font face="Times New Roman">(<a href="2PROJ.HTM">Click here</a> for details)</font></big></td>
+
+  </tr>
+</table>
+</div><font face="Verdana">
+
+<p align="center"><font face="Times New Roman"><img src="urbhorsa.gif" alt="urbhorsa.gif (4511 bytes)" WIDTH="300" HEIGHT="10"></font></p>
+
+<p>
+<font face="Times New Roman">WWW (this URL): <i><a href="http://www.ams.sunysb.edu/~nkfr/">http://www.ams.sunysb.edu/~nkfr</a></i>
+<!--
+<font face="Times New Roman">WWW (shortcut): <i><a href="http://nkf.w3.to">http://nkf.w3.to</a> </i></font>
+<br>
+-->
+
+<br>
+(Please note: my corporate email is no longer valid as I left BIO-key International, Inc. in April 2007). Email to andreynikiforov (hotmail.com account).
+<br>
+
+</font><font face="Verdana"></p>
+
+<p align="center"><font face="Times New Roman"><img src="urbhorsa.gif" alt="urbhorsa.gif (4511 bytes)" WIDTH="300" HEIGHT="10"></font></p>
+</font><font face="Verdana" SIZE="-0">
+
+<p>Created: </font><font SIZE="-0" face="Times New Roman"><i>May 23, 1998</i></font><font face="Verdana" SIZE="-0">.
+  Last update: </font><font face="Times New Roman" SIZE="-0"><i>May 2009</i>. <!--Accessed <!--by LinkExchange<a href="http://member.linkexchange.com/cgi-bin/fc/fastcounter-login?659876" target="_top"> <a HREF="9LINK.HTM"><img border="0"src="http://fastcounter.linkexchange.com/fastcounter?659876+1319759"> </a>times <fontsize="1">(<a href="http://www.fastcounter.com/fc-join" target="_top">LE</a>)</font>. </font></p></font></font>--> </p>
+</font>
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t27.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: number of visitors and pageviews"+
+" is shown' "+
+"border=0 width=88 height=120><\/a>")//--></script><!--/LiveInternet-->
+
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www-math.mit.edu/~goemans/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Your description goes here" />
+	<meta name="keywords" content="your,keywords,goes,here" />
+	<meta name="author" content="Michel Goemans" />
+	<link rel="stylesheet" type="text/css" href="andreas07.css" title="andreas07" media="screen,projection" />
+	<title>Michel Goemans</title>
+</head>
+
+<body>
+<div id="wrap">
+
+<div id="leftside">
+	<h1>Michel Goemans</h1>
+
+	<div id="menu">
+		<a class="active" href="index.html">Home</a>
+		<a href="bio.html">Bio</a> 
+		<a href="http://math.mit.edu/~goemans/publ.html">Publications</a> 
+		<a href="teaching.html">Teaching</a> 
+		<a href="students.html">Students</a> 
+	</div>
+	
+</div>
+
+<div id="content">
+
+<h2>Leighton Family Professor of Applied Mathematics</h2>
+
+<h3>Contact info</h3>
+
+<p>
+<a href="http://web.mit.edu">MIT</a>, Room E17-322
+<br><a href="http://www-math.mit.edu">Department of Mathematics</a>
+<br>Cambridge, MA  02139
+<br>USA
+
+<br><br>Phone: 617-253-2688 
+<br>Fax:   617-253-4358
+<br>"lastname"@math.mit.edu
+
+<br><br>To book a short appointment, click <a href="http://goemans.youcanbook.me">here</a>
+	<h3>site info</h3>
+	<p>&copy; 2009 <a href="index.html">Michel Goemans</a> | Original design by <a href="http://andreasviklund.com/">Andreas Viklund</a></p>
+</div>
+
+</div>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.usc.edu/dept/molecular-science/fm-adleman.htm>====================
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="fm-adleman_files/filelist.xml">
+<link rel=Edit-Time-Data href="fm-adleman_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Adleman</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author> Manoj</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor> Manoj</o:LastAuthor>
+  <o:Revision>4</o:Revision>
+  <o:TotalTime>7</o:TotalTime>
+  <o:Created>2007-10-05T22:19:00Z</o:Created>
+  <o:LastSaved>2007-10-07T17:18:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>345</o:Words>
+  <o:Characters>1970</o:Characters>
+  <o:Company>USC</o:Company>
+  <o:Lines>16</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2311</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	color:white;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-noshow:yes;
+	mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	color:white;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:#FFFFCC;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:red;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	color:white;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="4098"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=black lang=EN-US link="#FFFFCC" vlink=red style='tab-interval:
+.5in' alink="#0000FF">
+
+<div class=Section1>
+
+<p align=center style='text-align:center'><span style='font-size:18.0pt;
+font-family:Georgia'>Laboratory for Molecular Science</span> </p>
+
+<p align=center style='text-align:center'><img width=177 height=262
+id="_x0000_i1025" src="pictures/fi-len-mankin-pic.jpg" border=0></p>
+
+<p align=center style='text-align:center'><span style='font-family:Georgia'>Professor
+Len Adleman</span></p>
+
+<p align=center style='text-align:center'>&nbsp;</p>
+
+<p>&nbsp;&nbsp;<img width=32 height=32 id="_x0000_i1026"
+src="images/Bullet1.gif" align=absmiddle> <a href="fm-adleman-papers.htm"><span
+style='font-family:Georgia;color:white'>Papers</span></a></p>
+
+<p>&nbsp;&nbsp;<img border=0 width=32 height=32 id="_x0000_i1027"
+src="images/Bullet1.gif" align=absmiddle> <a
+href="http://www.usc.edu/dept/molecular-science/fm-adleman-address.htm"><span
+style='font-family:Georgia;color:white'>Address and phone number</span></a></p>
+
+<p>&nbsp;&nbsp;<img border=0 width=32 height=32 id="_x0000_i1028"
+src="images/Bullet1.gif" align=absmiddle> <a href="mailto:adleman@usc.edu"><span
+style='font-family:Georgia;color:white'>mailto:adleman[x]usc.edu</span></a> <span
+style='color:red'>replace [x] with @</span></p>
+
+<p style='text-indent:6.0pt'><img border=0 width=32 height=32 id="_x0000_i1029"
+src="images/Bullet1.gif" align=absmiddle><span
+style='mso-spacerun:yes'> </span><a href="fi-len-mad-scientist.htm"><span
+style='font-family:Georgia;color:white'>A picture of the mad scientist at work</span></a></p>
+
+<p style='text-indent:6.0pt'><img border=0 width=32 height=32 id="_x0000_i1030"
+src="images/Bullet1.gif" align=absmiddle><span style='mso-spacerun:yes'> 
+</span><a
+href="http://video.google.com/videoplay?docid=-4844815748117943530&amp;hl=en">Video:
+the big fight! James &#8220;lights-out&#8221; Toney v/s Len
+&#8220;fiat-lux&#8221; Adleman</a></p>
+
+<p style='text-indent:6.0pt'><img border=0 width=32 height=32 id="_x0000_i1031"
+src="images/Bullet1.gif" align=absmiddle><span style='mso-spacerun:yes'> 
+</span><a
+href="http://video.google.com/videoplay?docid=5450196728653862138&amp;hl=en">Video:
+The tiniest treasure chest.</a></p>
+
+<p>&nbsp;&nbsp;<img border=0 width=32 height=32 id="_x0000_i1032"
+src="images/Bullet1.gif" align=absmiddle><a href="fm-sneakers.htm"><span
+style='font-family:Georgia;color:white'>My involvement with the movie sneakers</span></a></p>
+
+<p>&nbsp;&nbsp;<img border=0 width=32 height=32 id="_x0000_i1033"
+src="images/Bullet1.gif" align=absmiddle> <a href="fm-adleman-vitae.htm"><span
+style='font-family:Georgia;color:white'>Vitae</span></a></p>
+
+<p>&nbsp;&nbsp;<img border=0 width=32 height=32 id="_x0000_i1034"
+src="images/Bullet1.gif" align=absmiddle> <span style='color:#FFFF66'><a
+href="RSApics.htm"><span style='font-family:Georgia;color:white'>Len-Ron-Adi</span></a></span></p>
+
+<p>&nbsp;&nbsp;<img border=0 width=32 height=32 id="_x0000_i1035"
+src="images/Bullet1.gif" align=absmiddle> <span style='color:#FFFF66'><a
+href="pictures/Adleman-Goodman.gif"><span style='font-family:Georgia;
+color:white'>Len and Myron</span></a></span></p>
+
+<p>&nbsp;&nbsp;<img border=0 width=32 height=32 id="_x0000_i1036"
+src="images/Bullet1.gif" align=absmiddle> <span style='color:#FFFF66'><a
+href="RSA-2003.htm"><span style='font-family:Georgia;color:white'>RSA-2003</span></a></span></p>
+
+<p>&nbsp;&nbsp;<img border=0 width=32 height=32 id="_x0000_i1037"
+src="images/Bullet1.gif" align=absmiddle> <span style='color:#FFFF66'><a
+href="http://www.usc.edu/dept/molecular-science/index.html"><span
+style='font-family:Georgia;color:white'>Laboratory for Molecular Science - Home
+Page</span></a></span></p>
+
+<p>&nbsp;&nbsp;<img border=0 width=39 height=17 id="_x0000_i1038"
+src="images/rsa.gif" align=absmiddle><b><a
+href="http://www.rsasecurity.com/products/" target=parent><span
+style='font-size:10.0pt;font-family:Georgia'> </span></a></b><a
+href="http://www.rsasecurity.com/products/" target=parent><span
+style='font-family:Georgia;color:white'>RSA Security</span></a> </p>
+
+<p align=center style='text-align:center'>&nbsp;</p>
+
+<p align=center style='text-align:center'>&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cs.ucy.ac.cy/~chryssis/>====================
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 14">
+<meta name=Originator content="Microsoft Word 14">
+<base target="_blank">
+<link rel=File-List href="index_files/filelist.xml">
+<link rel=Edit-Time-Data href="index_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Chryssis Georgiou</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Chryssis Georgiou</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Chryssis Georgiou</o:LastAuthor>
+  <o:Revision>336</o:Revision>
+  <o:TotalTime>583</o:TotalTime>
+  <o:Created>2004-12-16T15:00:00Z</o:Created>
+  <o:LastSaved>2014-01-09T06:22:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>1111</o:Words>
+  <o:Characters>6339</o:Characters>
+  <o:Company> UCY</o:Company>
+  <o:Lines>52</o:Lines>
+  <o:Paragraphs>14</o:Paragraphs>
+  <o:CharactersWithSpaces>7436</o:CharactersWithSpaces>
+  <o:Version>14.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData href="index_files/themedata.thmx">
+<link rel=colorSchemeMapping href="index_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>88</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SplitPgBreakAndParaMark/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" LatentStyleCount="267">
+  <w:LsdException Locked="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="99" Name="No List"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+   Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+a:link, span.MsoHyperlink
+	{mso-style-unhide:no;
+	color:black;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-unhide:no;
+	color:black;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-unhide:no;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+span.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;
+	color:black;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:135534397;
+	mso-list-template-ids:1261889130;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:850293057;
+	mso-list-template-ids:384310868;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2
+	{mso-list-id:989021264;
+	mso-list-template-ids:-177185754;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;
+	letter-spacing:1.0pt;}
+@list l2:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3
+	{mso-list-id:1025249233;
+	mso-list-template-ids:-857183546;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;
+	letter-spacing:1.0pt;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A8;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;
+	color:windowtext;
+	letter-spacing:1.0pt;}
+@list l3:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4
+	{mso-list-id:1409305191;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1362107494 -795052148 67633155 67633157 67633153 67633155 67633157 67633153 67633155 67633157;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;
+	letter-spacing:1.0pt;}
+@list l4:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5
+	{mso-list-id:1632978943;
+	mso-list-template-ids:1872889364;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6
+	{mso-list-id:2035836504;
+	mso-list-template-ids:6483504;}
+@list l6:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]-->
+<meta name=author content="Chryssis Georgiou">
+<meta name=description
+content="Research interests and publications &#13;&#10;of Dr. Chryssis Georgiou,Computer Science, University of Cyprus">
+
+<script language="JavaScript">
+      if (top !=self) {         top.location = location;      }   
+</script>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor="#D1EDFE" lang=EN-US link=black vlink=black style='tab-interval:
+.5in' alink="#000000">
+
+<div class=WordSection1>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EL
+style='mso-ansi-language:EL'>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<table class=MsoNormalTable border=0 cellpadding=0 width=567 style='width:425.25pt;
+ mso-cellspacing:1.5pt;mso-yfti-tbllook:1184;mso-padding-alt:1.5pt 1.5pt 1.5pt 1.5pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=125 valign=top style='width:1.3in;padding:1.5pt 1.5pt 1.5pt 1.5pt'>
+  <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
+   id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+   path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="Picture_x0020_10" o:spid="_x0000_i1033" type="#_x0000_t75"
+   alt="photo" style='width:94.5pt;height:94.5pt;visibility:visible;
+   mso-wrap-style:square'>
+   <v:imagedata src="index_files/image001.jpg" o:title="photo"/>
+  </v:shape><![endif]--><![if !vml]><img width=126 height=126
+  src="index_files/image003.jpg" alt=photo v:shapes="Picture_x0020_10"><![endif]></span></p>
+  </td>
+  <td width=436 valign=top style='width:327.15pt;padding:1.5pt 1.5pt 1.5pt 1.5pt'>
+  <p class=MsoNormal><span style='font-size:18.0pt'>Dr. Chryssis Georgiou</span><br>
+  &nbsp;</p>
+  <p class=MsoNormal><span style='font-size:14.0pt'>Associate Professor</span></p>
+  <p class=MsoNormal><span style='font-size:14.0pt'><a
+  href="http://www.cs.ucy.ac.cy/"><span style='text-decoration:none;text-underline:
+  none'>Department of Computer Science</span></a><br>
+  <a href="http://www.ucy.ac.cy/"><span style='text-decoration:none;text-underline:
+  none'>University of Cyprus</span></a></span></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EL
+style='mso-ansi-language:EL'>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<p class=MsoNormal style='margin-bottom:3.0pt;mso-layout-grid-align:none;
+text-autospace:none'><b><span lang=EL style='color:windowtext'><span
+style='mso-spacerun:yes'> </span></span></b><b><span lang=EN-GB
+style='color:windowtext;mso-ansi-language:EN-GB'><a
+href="http://www.pdp2014.org/">PDP 201<span lang=IT style='mso-ansi-language:
+IT'>4</span></a></span></b><span lang=EN-GB style='color:windowtext;mso-ansi-language:
+EN-GB;mso-bidi-font-weight:bold'>, </span>Turin<span lang=EL style='mso-ansi-language:
+EL'>, </span>Italy<span lang=EL style='mso-ansi-language:EL'>, </span>February<span
+lang=EL style='mso-ansi-language:EL'> 1</span>2<span lang=EL style='mso-ansi-language:
+EL'>-1</span>4<span lang=EL style='mso-ansi-language:EL'>, 201</span>4</p>
+
+<p class=MsoNormal style='margin-bottom:3.0pt;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-ansi-language:EL'><span
+style='mso-spacerun:yes'> </span></span><b style='mso-bidi-font-weight:normal'><a
+href="http://lsd.ls.fi.upm.es/icdcs2014/">ICDCS 2014</a></b>, Madrid, Spain,
+June 30 – July 3, 2014 </p>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+class=msonormal0><b><span style='color:windowtext'><span
+style='mso-spacerun:yes'> </span></span></b></span><span class=msonormal0><b><span
+lang=EN-GB style='color:windowtext;mso-ansi-language:EN-GB'><a
+href="http://www.podc.org/">PODC 201<span lang=IT style='mso-ansi-language:
+IT'>4</span></a></span></b></span><span class=msonormal0><span lang=EN-GB
+style='color:windowtext;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>, </span>Paris</span><span
+class=msonormal0><span lang=EL style='mso-ansi-language:EL'>, </span>France</span><span
+class=msonormal0><span lang=EL style='mso-ansi-language:EL'>, October 1</span>5</span><span
+class=msonormal0><span lang=EL style='mso-ansi-language:EL'>-18, 201</span>4</span><span
+class=msonormal0><span style='color:windowtext;mso-bidi-font-weight:bold'><o:p></o:p></span></span></p>
+
+<div style='margin-bottom:3.0pt'>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+lang=EL style='mso-ansi-language:EL'>&nbsp;</span><span class=msonormal0><b><span
+lang=IT style='color:windowtext;mso-ansi-language:IT'><a
+href="http://www.podc.org/dissertation/home.shtml"><span lang=FR
+style='mso-ansi-language:FR'>Principles of Distributed Computing Doctoral
+Disseration Award</span></a></span></b><span lang=IT> </span><o:p></o:p></span></p>
+
+<div style='margin-bottom:3.0pt'>
+
+<div class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+</div>
+
+</div>
+
+<table class=MsoNormalTable border=0 cellpadding=0 width=588 style='width:440.8pt;
+ mso-cellspacing:1.5pt;mso-yfti-tbllook:1184;mso-padding-alt:3.0pt 3.0pt 3.0pt 3.0pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=584 valign=top style='width:437.8pt;padding:3.0pt 3.0pt 3.0pt 3.0pt'>
+  <p class=MsoNormal style='margin-bottom:6.0pt'><b><span style='font-size:
+  13.5pt'>Education</span> <o:p></o:p></b></p>
+  <ul style='margin-top:0in' type=disc>
+   <li class=MsoNormal style='mso-list:l1 level1 lfo1;tab-stops:list .5in'>Ph.D.
+       in Computer Science &amp; Engineering, <a href="http://www.uconn.edu/"
+       target="_blank">University of Connecticut</a>, December 2003</li>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l1 level1 lfo1;tab-stops:list .5in'>M.S. in Computer
+       Science &amp; Engineering, <a href="http://www.uconn.edu/"
+       target="_blank">University of Connecticut</a>,&nbsp; May 2002 </li>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l1 level1 lfo1;tab-stops:list .5in'>B.S. in Mathematics, <a
+       href="http://www.ucy.ac.cy/" target="_blank">University of Cyprus</a>,&nbsp;
+       June 1998 </li>
+  </ul>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  margin-left:.25in'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=584 valign=top style='width:437.8pt;padding:3.0pt 3.0pt 3.0pt 3.0pt'>
+  <p class=MsoNormal style='margin-bottom:6.0pt'><b><span style='font-size:
+  13.5pt'>Research Interests</span><o:p></o:p></b></p>
+  <ul style='margin-top:0in' type=disc>
+   <li class=MsoNormal style='mso-list:l6 level1 lfo2;tab-stops:list .5in'>Design,
+       Analysis, Verification, and Implementation of Algorithms</li>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l6 level1 lfo2;tab-stops:list .5in'>Parallel and
+       Distributed Computing</li>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l6 level1 lfo2;tab-stops:list .5in'>Dependability,
+       Survivability, and Fault-Tolerance</li>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l6 level1 lfo2;tab-stops:list .5in'>Dynamic Computing
+       Environments (including P2P and Grids)</li>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l6 level1 lfo2;tab-stops:list .5in'>Algorithmic Game
+       Theory&nbsp; </li>
+  </ul>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  margin-left:.25in'><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+  <td width=584 valign=top style='width:437.8pt;padding:3.0pt 3.0pt 3.0pt 3.0pt'>
+  <p class=MsoNormal style='margin-bottom:6.0pt'><b><span style='font-size:
+  13.5pt'>Publications</span><o:p></o:p></b></p>
+  <table class=MsoNormalTable border=0 cellpadding=0 width=582
+   style='width:436.3pt;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+   1.5pt 1.5pt 1.5pt 1.5pt'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+    height:634.65pt'>
+    <td width=578 valign=top style='width:433.3pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+    height:634.65pt'>
+    <div>
+    <ul type=disc>
+     <li class=MsoNormal style='mso-margin-top-alt:auto;margin-bottom:2.0pt;
+         text-align:justify;mso-list:l2 level1 lfo3;tab-stops:list .5in'><a
+         href="pubs.html" target="_self">Publication List</a></li>
+     <li class=MsoNormal style='mso-margin-top-alt:auto;margin-bottom:2.0pt;
+         text-align:justify;mso-list:l2 level1 lfo3;tab-stops:list .5in'><i><a
+         href="http://dx.doi.org/10.2200/S00376ED1V01Y201108DCT007">Cooperative
+         Task-Oriented Computing: Algorithms and Complexity</a></i><span
+         style='mso-spacerun:yes'>  </span></li>
+     <li class=MsoNormal style='mso-margin-top-alt:auto;margin-bottom:2.0pt;
+         text-align:justify;mso-list:l2 level1 lfo3;tab-stops:list .5in'><i
+         style='mso-bidi-font-style:normal'><a
+         href="http://www.springer.com/west/home/computer/communications?SGWID=4-148-22-173660320-detailsPage=ppmmedia|aboutThisBook"
+         target="_blank">Do-All Computing in Distributed Systems</a></i></li>
+     <li class=MsoNormal style='mso-margin-top-alt:auto;margin-bottom:2.0pt;
+         text-align:justify;mso-list:l2 level1 lfo3;tab-stops:list .5in'><a
+         href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Georgiou:Chryssis.html"
+         target="_blank">List of publications from DBLP</a> </li>
+    </ul>
+    <p class=MsoNormal style='margin-bottom:6.0pt'><span style='font-size:13.5pt'><o:p>&nbsp;</o:p></span></p>
+    <p class=MsoNormal style='margin-bottom:6.0pt'><b><span style='font-size:
+    13.5pt'>Conference Committees<o:p></o:p></span></b></p>
+    <ul style='margin-top:0in' type=disc>
+     <li class=MsoNormal style='mso-list:l5 level1 lfo4;tab-stops:list .5in'><b
+         style='mso-bidi-font-weight:normal'><a
+         href="http://www.disc-conference.org/">DISC</a></b>, <b
+         style='mso-bidi-font-weight:normal'>S</b>teering <b style='mso-bidi-font-weight:
+         normal'>C</b>ommittee member, <b style='mso-bidi-font-weight:normal'>2008-2010,
+         2010-2012</b></li>
+    </ul>
+    <ul style='margin-top:0in' type=disc>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><span
+         class=msonormal0><b style='mso-bidi-font-weight:normal'><a
+         href="http://www.podc.org/">PODC</a></b>, Steering Committee member, <b
+         style='mso-bidi-font-weight:normal'>2014-2015</b><o:p></o:p></span></li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><span
+         class=msonormal0><b><a
+         href="http://www.podc.org/podc2014-conference-committee/">PODC 2014</a></b>,<b>
+         Treasurer</b></span></li>
+    </ul>
+    <ul style='margin-top:0in' type=disc>
+     <li class=MsoNormal style='mso-list:l5 level1 lfo4;tab-stops:list .5in'><b
+         style='mso-bidi-font-weight:normal'><a
+         href="http://lsd.ls.fi.upm.es/icdcs2014/pc-members">ICDCS 2014</a></b>,
+         <b style='mso-bidi-font-weight:normal'>PC</b> member</li>
+     <li class=MsoNormal style='mso-list:l5 level1 lfo4;tab-stops:list .5in'><b><a
+         href="http://www.pdp2014.org/">PDP 2014</a></b>, <b>PC</b> member</li>
+    </ul>
+    <ul style='margin-top:0in' type=disc>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b><a
+         href="http://www.podc.org/">PODC 2013</a></b>, <b>PC</b> member</li>
+    </ul>
+    <ul style='margin-top:0in' type=disc>
+     <li class=MsoNormal style='mso-list:l5 level1 lfo4;tab-stops:list .5in'><b><a
+         href="http://www.temple.edu/cis/icdcs2013/">ICDCS 2013</a></b>, <b>PC</b>
+         member</li>
+     <li class=MsoNormal style='mso-list:l5 level1 lfo4;tab-stops:list .5in'><b><a
+         href="http://www.csc.uvic.ca/conferences/fomc2013/">FOMC 2013</a></b>,
+         <b>PC</b> member</li>
+     <li class=MsoNormal style='mso-list:l5 level1 lfo4;tab-stops:list .5in'><b><a
+         href="http://icdcn.tcs.tifr.res.in/">ICDCN 2013</a></b>, <b>PC</b>
+         member</li>
+     <li class=MsoNormal style='mso-list:l5 level1 lfo4;tab-stops:list .5in'><b><a
+         href="http://www.ieee-nca.org/"><span class=spelle41>NCA</span> 2013</a></b>,
+         <b>PC</b> member</li>
+     <li class=MsoNormal style='mso-list:l5 level1 lfo4;tab-stops:list .5in'><b><a
+         href="http://www.cloudbus.org/cdn/idcs13/">IDCS 2013</a></b>, <b>PC</b>
+         member</li>
+     <li class=MsoNormal style='mso-list:l5 level1 lfo4;tab-stops:list .5in'><b><a
+         href="http://trust.csu.edu.cn/conference/hpcc2013/">HPCC 2013</a></b>,
+         <b>PC</b> member</li>
+     <li class=MsoNormal style='mso-list:l5 level1 lfo4;tab-stops:list .5in'><b><a
+         href="http://www.pdp2013.org/">PDP 2013</a></b>, <b>PC</b> member</li>
+     <li class=MsoNormal style='mso-list:l5 level1 lfo4;tab-stops:list .5in'><b><a
+         href="http://www.pdp2012.org/">PDP 2012</a></b>, <b>PC</b> member</li>
+     <li class=MsoNormal style='mso-list:l5 level1 lfo4;tab-stops:list .5in'><b><a
+         href="http://www.scim.brad.ac.uk/~hmibrahi/HPCC2012/">HPCC 2012</a></b>,
+         <b>PC</b> member</li>
+     <li class=MsoNormal style='mso-list:l5 level1 lfo4;tab-stops:list .5in'><b><a
+         href="http://anss.org.au/ica3pp12/">ICA3PP 2012</a></b>, <b>PC</b>
+         member</li>
+     <li class=MsoNormal style='mso-list:l5 level1 lfo4;tab-stops:list .5in'><b><a
+         href="http://www.opodis.net/">OPODIS 2011</a></b>, <b>PC</b> member </li>
+    </ul>
+    <ul style='margin-top:0in' type=disc>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b><a
+         href="http://cse.stfx.ca/~hpcc2011/">HPCC 2011</a></b>, <b>PC</b>
+         member</li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b><a
+         href="http://upgrade-cn2011.cs.ucy.ac.cy/">UPGRADE-CN 2011</a></b>, <b>PC</b>
+         member</li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b><a
+         href="http://www.pdp2011.org/">PDP 2011</a></b>, <b>PC</b> member</li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b><span
+         style='color:windowtext'><a href="http://sites.google.com/site/wgtadc/">Workshop
+         on Game Theoretic Aspects of Distributed Computing</a>, </span></b><span
+         style='color:windowtext'>Co-Chair</span></li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b><span
+         lang=DA style='color:windowtext;mso-ansi-language:DA'><a
+         href="http://www.algosensors.org/algosensors09/" target="_blank"><span
+         lang=EN-US style='mso-ansi-language:EN-US'>ALGOSENSORS 2009</span></a>,
+         PC </span></b><span lang=DA style='color:windowtext;mso-ansi-language:
+         DA'>member</span></li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b
+         style='mso-bidi-font-weight:normal'><a
+         href="http://ica3pp09.csie.ntust.edu.tw/">ICA3PP 2009</a></b>, <b
+         style='mso-bidi-font-weight:normal'>PC</b> member</li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b><span
+         lang=DA style='color:windowtext;mso-ansi-language:DA'><a
+         href="http://www.imfm.si/sirocco09/">SIROCCO 2009</a></span></b><span
+         lang=DA style='color:windowtext;mso-ansi-language:DA'>, <b>PC</b>
+         member</span></li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b><a
+         href="http://www.cs.ucy.ac.cy/~mavronic/sagt2009/">SAGT 2009</a>, OC</b>
+         member</li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b
+         style='mso-bidi-font-weight:normal'><a href="http://disc08.labri.fr/">DISC
+         2008</a></b>, <b style='mso-bidi-font-weight:normal'>PC</b> member</li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b
+         style='mso-bidi-font-weight:normal'><a
+         href="http://www.cs.ucy.ac.cy/ica3pp08/cfp.html">ICA3PP 2008</a></b>, <b
+         style='mso-bidi-font-weight:normal'>PC</b> member</li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b
+         style='mso-bidi-font-weight:normal'><a
+         href="http://www.engin.umd.umich.edu/icdcs/">ICDCS 2008</a></b>, <b
+         style='mso-bidi-font-weight:normal'>PC</b> member</li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b
+         style='mso-bidi-font-weight:normal'><a
+         href="http://www2.cs.ucy.ac.cy/~disc07/">DISC 2007</a></b>, <b
+         style='mso-bidi-font-weight:normal'>OC</b> <i style='mso-bidi-font-style:
+         normal'>Chair</i> &amp; <b style='mso-bidi-font-weight:normal'>PC</b>
+         member [<span style='color:blue'><a
+         href="http://picasaweb.google.com/chryssis"><span style='color:blue;
+         text-decoration:none;text-underline:none'>photos</span></a></span>]</li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b
+         style='mso-bidi-font-weight:normal'><a
+         href="http://cosy.univ-reims.fr/~opodis07/ARCHIVES/opodis06/index.html">OPODIS
+         2006</a></b>, <b style='mso-bidi-font-weight:normal'>P</b>rogram <b
+         style='mso-bidi-font-weight:normal'>C</b>ommittee member</li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b
+         style='mso-bidi-font-weight:normal'><a
+         href="http://sttt.cs.uni-dortmund.de/isola2006/"><span class=SpellE>ISoLA</span>
+         2006</a></b>, <b style='mso-bidi-font-weight:normal'>OC</b> member</li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b
+         style='mso-bidi-font-weight:normal'><a
+         href="http://sttt.cs.uni-dortmund.de/isola2004/dflt/cfp.html"><span
+         class=SpellE>ISoLA</span> 2004</a></b>, <b style='mso-bidi-font-weight:
+         normal'>OC</b> member</li>
+     <li class=MsoNormal style='mso-list:l4 level1 lfo5;tab-stops:list .5in'><b
+         style='mso-bidi-font-weight:normal'><a
+         href="http://www.podc.org/podc2001/">PODC 2001</a></b>, <b
+         style='mso-bidi-font-weight:normal'>O</b>rganizing <b
+         style='mso-bidi-font-weight:normal'>C</b>ommittee member</li>
+    </ul>
+    <p class=MsoNormal><span style='font-size:13.5pt'><o:p>&nbsp;</o:p></span></p>
+    <p class=MsoNormal style='margin-bottom:6.0pt'><b><span style='font-size:
+    13.5pt'>Funded Projects<o:p></o:p></span></b></p>
+    <ul type=disc>
+     <li class=MsoNormal style='mso-margin-top-alt:auto;margin-bottom:2.0pt;
+         text-align:justify;mso-list:l2 level1 lfo3;tab-stops:list .5in'><b>Reliable
+         Master-Worker Internet-based Computing</b>, <i><a
+         href="http://www.research.org.cy/">Cyprus Research Promotion
+         Foundation</a></i>, 2010-2012 (PI) [<b><span style='color:blue'><a
+         href="http://www.cs.ucy.ac.cy/ric"><span style='color:blue'>website</span></a></span></b>]</li>
+     <li class=MsoNormal style='mso-margin-top-alt:auto;margin-bottom:2.0pt;
+         text-align:justify;mso-list:l2 level1 lfo3;tab-stops:list .5in'><b>Seeking
+         Fastness in Multiple-Writer Multiple-Reader Atomic Register
+         Implementations, </b><i><a href="http://www.research.org.cy/">Cyprus
+         Research Promotion Foundation</a></i>, 2010-2011 (PI) [<b><span
+         style='color:blue'><a href="http://www.cs.ucy.ac.cy/fastMWMR"><span
+         style='color:blue'>website</span></a></span></b>]</li>
+     <li class=MsoNormal style='mso-margin-top-alt:auto;margin-bottom:2.0pt;
+         text-align:justify;mso-list:l2 level1 lfo3;tab-stops:list .5in'><b><span
+         lang=ES style='mso-ansi-language:ES'>CLOUDS: Cloud Computing para
+         Servicios Escalabkes, Confiables y Ubicuios, </span></b><i><span
+         lang=ES style='mso-ansi-language:ES'><a
+         href="http://www.madrimasd.org/">Comunidad Autonoma de Madrid</a></span></i><span
+         lang=ES style='mso-ansi-language:ES'>,<i> </i>2010-2013 (external
+         participant) <o:p></o:p></span></li>
+     <li class=MsoNormal style='mso-margin-top-alt:auto;margin-bottom:2.0pt;
+         text-align:justify;mso-list:l2 level1 lfo3;tab-stops:list .5in'>Past
+         Project Participation:</li>
+    </ul>
+    <p class=MsoNormal style='margin-left:55.5pt;text-align:justify;text-indent:
+    -.25in;mso-list:l3 level2 lfo6;tab-stops:list 55.5pt 1.0in'><![if !supportLists]><span
+    style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+    Symbol;color:windowtext;letter-spacing:1.0pt'><span style='mso-list:Ignore'>¨<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><i><a
+    href="http://www.research.org.cy/">Cyprus Research Promotion Foundation</a></i>:
+    <a href="http://www.cs.ucy.ac.cy/proodos/indexGB.htm">&#928;&#929;&#927;&#927;&#916;&#927;&#931;</a>
+    scientific leader<span style='mso-spacerun:yes'>  </span>(2006-2007), AGT
+    (2006-2007), PATRAS (2007-2008)</p>
+    <p class=MsoNormal style='margin-left:55.5pt;text-align:justify;text-indent:
+    -.25in;mso-list:l3 level2 lfo6;tab-stops:list 55.5pt 1.0in'><![if !supportLists]><span
+    style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+    Symbol;color:windowtext;letter-spacing:1.0pt'><span style='mso-list:Ignore'>¨<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><i><a
+    href="http://cordis.europa.eu/home_en.html">European Commission</a></i>: <a
+    href="http://aeolus.ceid.upatras.gr/">AEOLUS</a> (2005-2009), <a
+    href="http://grid.ucy.ac.cy/CoreGrid/index.html"><span class=SpellE>CoreGrid</span></a>
+    (2004-2008), <a href="http://delis.upb.de/">DELIS</a> (2004-2007), <a
+    href="http://www.eu-egee.org/">EGEE</a> (2008-2010)</p>
+    <p class=MsoNormal style='margin-left:55.5pt;text-align:justify;text-indent:
+    -.25in;mso-list:l3 level2 lfo6;tab-stops:list 55.5pt 1.0in'><![if !supportLists]><span
+    lang=ES style='font-family:Symbol;mso-fareast-font-family:Symbol;
+    mso-bidi-font-family:Symbol;color:windowtext;letter-spacing:1.0pt;
+    mso-ansi-language:ES'><span style='mso-list:Ignore'>¨<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><i><a
+    href="http://www.madrimasd.org/"><span lang=ES style='mso-ansi-language:
+    ES'>Comunidad Autonoma de Madrid</span></a></i><span lang=ES
+    style='mso-ansi-language:ES'>: </span><a
+    href="http://lsd.ls.fi.upm.es/autonomic"><span lang=ES style='mso-ansi-language:
+    ES'>AUTONOMIC</span></a><span lang=ES style='mso-ansi-language:ES'>
+    (2006-2009)<span style='mso-spacerun:yes'>    </span><o:p></o:p></span></p>
+    <p class=MsoNormal><span lang=ES style='font-size:13.5pt;mso-ansi-language:
+    ES'><o:p>&nbsp;</o:p></span></p>
+    <p class=MsoNormal><b><span lang=EN-GB style='font-size:13.5pt;mso-ansi-language:
+    EN-GB'>Courses</span></b><b><span lang=EN-GB style='mso-ansi-language:EN-GB'>
+    <o:p></o:p></span></b></p>
+    <p class=MsoNormal style='margin-left:.25in'><b style='mso-bidi-font-weight:
+    normal'><span lang=EN-GB style='font-size:6.0pt;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:
+    3.0pt;margin-left:.25in'><b style='mso-bidi-font-weight:normal'>Spring 2014
+    <o:p></o:p></b></p>
+    <ul style='margin-top:0in' type=disc>
+     <li class=MsoNormal style='margin-bottom:6.0pt;mso-list:l0 level1 lfo7;
+         tab-stops:list .5in'><span class=msonormal0><a
+         href="http://www.cs.ucy.ac.cy/~chryssis/EPL336/" target="_blank">EPL336</a>:
+         Algorithms and Complexity<o:p></o:p></span></li>
+     <li class=MsoNormal style='margin-bottom:6.0pt;mso-list:l0 level1 lfo7;
+         tab-stops:list .5in'><span class=msonormal0><a
+         href="http://www.cs.ucy.ac.cy/~chryssis/EPL431/">EPL431</a>: Synthesis
+         of Parallel Algorithms</span></li>
+    </ul>
+    <p class=MsoNormal style='margin-top:5.0pt;margin-right:0in;margin-bottom:
+    3.0pt;margin-left:.25in'><b style='mso-bidi-font-weight:normal'>Previous
+    Semesters<o:p></o:p></b></p>
+    <ul style='margin-top:0in' type=disc>
+     <li class=MsoNormal style='mso-list:l0 level1 lfo7;tab-stops:list .5in'><a
+         href="http://www.cs.ucy.ac.cy/~chryssis/EPL601/" target="_blank">EPL601</a>:
+         Distributed Systems, Fall 2006 – 2013 </li>
+     <li class=MsoNormal style='mso-list:l0 level1 lfo7;tab-stops:list .5in'><a
+         href="http://www.cs.ucy.ac.cy/~chryssis/EPL431/" target="_blank">EPL431</a>:
+         Synthesis of Parallel Algorithms, Fall 2004, Spring 2006 – 2013 </li>
+     <li class=MsoNormal style='mso-list:l0 level1 lfo7;tab-stops:list .5in'><a
+         href="http://www.cs.ucy.ac.cy/~chryssis/EPL336">EPL336</a>: Algorithms
+         and Complexity, Spring 2011 – 2013 </li>
+     <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+         auto;mso-list:l0 level1 lfo7;tab-stops:list .5in'>EPL231: Data
+         Structures and Algorithms, Spring 2005</li>
+     <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+         auto;mso-list:l0 level1 lfo7;tab-stops:list .5in'><a
+         href="http://www.cs.ucy.ac.cy/~chryssis/EPL131/">EPL131</a>:
+         Programming Principles I, Fall 2005 – 2009 </li>
+     <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+         auto;mso-list:l0 level1 lfo7;tab-stops:list .5in'><a
+         href="EPL031/index.html" target="_blank">EPL031</a>: Introduction to
+         Programming (Fortran), Spring 2004 –2006 </li>
+     <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+         auto;mso-list:l0 level1 lfo7;tab-stops:list .5in'>EPL003: Computer
+         Science &amp; Information Systems, Fall &amp; Spring 2004</li>
+     <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+         auto;mso-list:l0 level1 lfo7;tab-stops:list .5in'>EPL001: Introduction
+         to Computer Science, Fall &amp; Spring 2004</li>
+    </ul>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><o:p>&nbsp;</o:p></p>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><b>CS-UCY Student Theses Specifications </b>[<a
+    href="master-specs.html">Master</a>][<a href="phd-specs.html">PhD</a>] </p>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;margin-bottom:2.0pt;
+    margin-left:.25in;text-align:justify'><b><span style='font-size:6.0pt'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=MsoNormal style='mso-margin-top-alt:auto;margin-bottom:2.0pt;
+    margin-left:1.5pt;text-align:justify'><b>CS Colloquia [<a
+    href="http://www.cs.ucy.ac.cy/colloquium/">site</a>] <o:p></o:p></b></p>
+    </div>
+    </td>
+   </tr>
+  </table>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EL
+style='mso-ansi-language:EL'>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<p class=MsoNormal><i>Chryssis Georgiou<br>
+Department of Computer Science,<br>
+University of Cyprus,<br>
+75 <span class=SpellE>Kallipoleos</span> Str., P.O. Box 20537,</i><br>
+<i>CY-1678, Nicosia, Cyprus<br>
+<br>
+Office: </i><i style='mso-bidi-font-style:normal'>FST 01 016<span
+style='mso-bidi-font-style:italic'><o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i>Tel.: ++ 357 22892745</i><br>
+<i>Fax: ++ 357 22895398 <o:p></o:p></i></p>
+
+<p class=MsoNormal><i>Email: <span class=SpellE>chryssis</span> (at) <span
+class=SpellE>cs</span> (dot) <span class=SpellE>ucy</span> (dot) ac (dot) cy</i></p>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EL
+style='mso-ansi-language:EL'>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<p class=MsoNormal><i><span style='color:windowtext'>Last modified on Monday, January
+6, 2014</span></i><span style='mso-ansi-language:EL'> </span><span
+style='font-size:10.0pt;color:windowtext'><o:p></o:p></span></p>
+
+<div>
+
+<p class=MsoNormal><span style='font-size:10.0pt;color:windowtext'><script  type="text/javascript">
+var sc_project=4358502; 
+var sc_invisible=0; 
+var sc_partition=55; 
+var sc_click_stat=1; 
+var sc_security="57192bf3"; 
+</script><script  type="text/javascript" src="http://www.statcounter.com/counter/counter.js">
+</script></span><a href="http://www.statcounter.com/" target="_blank"
+title="site stats"><!-- Start of StatCounter Code --><span style='mso-no-proof:
+yes;text-decoration:none;text-underline:none'><img border=0 width=1 height=1
+id="_x0000_i1032" src="http://c.statcounter.com/4358502/0/57192bf3/0/"
+alt="site stats"></span></a><span lang=EL style='color:windowtext;mso-ansi-language:
+EL'><o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+</noscript><!-- End of StatCounter Code -->
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://infolab.stanford.edu/~ullman/>====================
+<HEAD>
+<TITLE>Jeffrey D. Ullman</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="E0F7F0">
+
+<H1 ALIGN=CENTER>Jeffrey D. Ullman</H1>
+
+<CENTER><IMG SRC = "gifs/ULLMAN.jpg"></CENTER>
+<P>
+Jeff Ullman is the <A HREF = "stanasch.html">Stanford W. Ascherman</A>
+Professor of
+Computer Science (Emeritus).
+His interests include database theory, database integration, data
+mining, and
+education using the information infrastructure.<P>
+
+<P>
+<CENTER>
+<A HREF = "#What's New">What's New</A> |
+<A HREF = "#polemics">Polemics</A> |
+<A HREF = "ullman-books.html">Books</A> |
+<A HREF = "#bio">Biographical Information</A>
+</CENTER>
+
+<!--P>
+If you are reading this page in connection with the <A href="niac.html">NIAC Vendetta</a>,
+you should <A href="niac2.html">Read This First</a>.
+<P-->
+
+<A NAME = "What's New"></A>
+<H2 ALIGN = CENTER>What's New</H2>
+
+<H3>Workshop on Algorithms for MapReduce and Beyond</h3>
+
+I have gotten involved in a Workshop "Algorithms for MapReduce and Beyond" that will be held March 28, 2014 in Athens, in
+conjunction with EDBT/ICDT.  Here is the link for information.  The submission deadline is Dec. 7, 2013.
+<A href = "http://www.deluge.ntua.gr/beyondmr14/">The Workshop Home Page</a>.
+If you are working on algorithms for MapReduce, graph-oriented systems like Pregel, or any of the
+various extensions of
+MapReduce, we'd like to hear from you.
+
+<H3>New Polemic</h3>
+
+<A href = "pub/experiments.pdf"><I>Experiments as Research Validation -- Have We Gone too Far?</i></a>.
+
+<H3>Follow Me on Google+</h3>
+
+I refuse to get involved with Facebook, or Twitter, or LinkedIn, or any of the old social-network
+sites, but I have started to post observations and reports of my trips and such on Google+.
+I'm ullmanAtGmailDotCom (you can figure it out!).
+
+<H3>Map-Reduce Algorithms</h3>
+Along with a number of colleagues, I have been looking at the question of algorithm design
+for Hadoop (MapReduce).  Foto Afrati and I started with a technique for optimal implementation of multiway
+joins using a single MR job: <A href = "http://ilpubs.stanford.edu:8090/957/">Optimizing Joins in a Map-Reduce
+Environment</a>.  This idea was applied to the problem of finding triangles and more complex structures in
+graphs using MR: <A href = "http://ilpubs.stanford.edu:8090/1020/">Enumerating Subgraph Instances Using Map-Reduce</a>.
+We then started looking at the problem of similarity joins using MR: <A href =
+"http://ilpubs.stanford.edu:8090/1006/"</a>Fuzzy Joins Using MapReduce</a>.
+<P>
+The outgrowth of these studies was something that I believe is really important: a model of MapReduce
+computation that gets at the heart of what makes it different from plain old parallel computing.
+In <A href =
+"http://arxiv.org/abs/1206.4377">Upper and Lower Bounds on the Cost of a Map-Reduce Computation</a>.
+The theory explained here lets you get lower bounds on the amount of communication needed, as a function
+of how much work each reducer is assigned.  That, in turn, lets you know when your algorithm can be
+improved and when it cannot.  We already have a number of surprises in this regard, and we invite interested researchers
+to help explore the many problems and algorithms that can be analyzed this way.
+There is a <A href = "http://www.socc2012.org/home/tutorials">Tutorial</a>
+at the SoCC on Oct. 17, 2012.  The tutorial covers these developments and a number of others related to MapReduce
+and its extensions.
+
+<H3>Gradiance News</h3>
+
+Gradiance is a system for creating and administering class exercises.
+These homeworks and progamming labs are designed to teach students, rather than merely
+to test.  Through the concept of a "root question," students can repeat the same
+work several times, and are given advice when they make an error.
+<P>
+The Gradiance contract with Pearson (Addison-Wesley + Prentice-Hall) has terminated, and
+we have decided to turn Gradiance into a FREE service.
+If you are an instructor who wants to use the system, start
+by creating an account for yourself at <A href =
+"http://www.gradiance.com/services"><TT>www.gradiance.com/services</tt></a>
+NOT at the Pearson site.
+Note: passwords are >= 10 letters+digits,
+with at least one of each.  Also, we cannot make an account be an
+instructor account for a book if the same account has registered
+as a student for a course using the same materials.
+<P>
+Then, email your chosen login,
+with the book whose materials you want, to support@gradiance.com
+We'll enable you to create a class using those materials.
+There are manuals at <A href =
+"http://www.gradiance.com/info.html"><TT>www.gradiance.com/info.html</tt></a>
+that should enable
+you to use the system without problems, but feel free to email
+support@gradiance.com if you encounter difficulties.
+<P>
+In addition, we have created eleven free "omnibus classes" covering Databases,
+Automata, Compilers, Operating Systems, Introductory Java, Data Structures,
+and Data Mining.  Students wishing to join either one of these classes
+will find the <A href = "pub/stud-guide.html">Student Directions</a> useful.
+
+<H3>Free Book: Mining of Massive Datasets</h3>
+
+The book <EM>Mining of Massive Dataasets</em> by Anand Rajaraman and me,
+based on the CS345A course we have been teaching (now CS246 in the Winter and CS341 in the Spring),
+Has just been
+published in hardcopy by Cambridge University Press.  It can be purchased in hardcopy
+<A href = "http://www.cambridge.org/ca/knowledge/isbn/item6628195/?site_locale=en_CA">Here</a>.
+By agreement with Cambridge Press, it may still be downloaded gratis <A href = "mmds.html">Here</a>.
+
+<H3>Another Free Book: Foundations of Computer Science</H3>
+
+In 1992, Al Aho and I published a book called <EM>Foundations of
+Computer Science</em>, whose goal was to present CS theory as something
+integrally connected to CS practice.  For example, we viewed recursive
+programs, recursive definitions, and inductive proofs as the same thing.
+We believe the book deserved a better fate, but the publisher took it
+out of print years ago.  Having received back the rights to the book, we
+are happy to make it freely available <A href="focs.html">Here</a>.
+
+<H3>I Would Like to Hear From You, But...</H3>
+
+I generally enjoy getting emails, even if it is to tell me of a mistake
+in a book.
+In fact, those notes are particularly important; they help not only me
+and my coauthors, but more importantly, later readers of the book.
+I try to respond helpfully and in a timely manner to email that isn't spam.
+However, there are two classes of emails that I think should not be
+written and that get a form response.
+<A HREF = "pub/formresponse.html">Read More</A>.
+
+<HR>
+
+<A NAME = "polemics"></A>
+<H2>Polemics</H2>
+
+As part of my role as old curmudgeon (replacing my previous role as
+young curmudgeon), I have been writing a few articles about things I
+think especially stupid.  I hope to write more.
+<P>
+<UL>
+<LI>
+<A href = "pub/experiments.pdf"><I>Experiments as Research Validation -- Have We Gone too Far?</i></a>.
+For a long time, I've had the feeling that we -- the database community and maybe the CS community at large -- put too much
+stock in experiments to justify research, and not enough stock in traditional analysis of algorithms.  So I wrote a little
+essay on the topic.
+<P>
+<LI>
+<A HREF = "pub/iranian.html"><I>Answers to All Questions Iranian</I></A>.
+Am I the only one who gets peppered with questions from Iranians?  They're
+technical questions or political questions, but there seems to be a system
+behind them.  So I decided to save time and answer them all here.
+<P>
+<LI>
+<A HREF = "pub/fundamentalism.html"><I>Fundamentalism</I></A>.
+Shortly after 9/11/01, I wrote this article on
+fundamentalism --- the nonnegotiable belief in some unproven hypothesis.
+It's been added to periodically, and rambles a bit, over the foolishness
+of the Palestinian leadership, the drug warriors, the politically correct, the
+anti-abortion crowd, and a few others.
+This article also advocated research on a system like "Total
+Information Awareness," (now known as PRISM) although I doubt that it had any
+influence on that development.
+<P>
+<LI>
+<A HREF = "pub/traffic.html"><I>4-Way Stop Signs</I></A>.
+Dumb traffic policies have always been way up on my list of things I'd
+like to fix but can't.  The global problem is that those with the power
+to decide, focus on specific risks, which they can see.
+But in solving one problem, they
+often introduce far more harmful effects --- e.g., pollution.
+The problem is that the harm is distributed sufficiently widely so that
+no one can point to a particular death and attribute it to a particular
+instance of some dumb
+traffic policy.  This polemic, originally written for Club Nexus (the
+prototype for Orkut),
+focuses on the 4-way stop signs on Stanford Campus, but the principles
+apply broadly.
+<P>
+<LI>
+<A HREF = "pub/nimby.html">Attack of the Fifty Foot NIMBY's</A>.
+Throughout my life, I've been infuriated by the tendency of our social
+structure to allow theft, as long as the loss is distributed in tiny
+parcels among a large number of people.  "Affirmative action" is probably
+the best known of
+these subtle thefts, but this essay is not about affirmative action.
+Rather, it's about a theft that occurs on our streets every day, yet no
+one notices.
+<P>
+<LI>
+<A HREF = "pub/focs00.html"><I>Software Patents</I></A>.
+This article was written for the Knuth Prize.  Don, who is of course
+ineligible for the Knuth Prize, would probably say we should get rid of
+all patents.  I don't agree, but I do feel that in the software area,
+things have gotten out of hand.  Here, I tried to argue that courts
+should apply the same standards that are used when choosing papers
+worthy of presentation at a conference, to the matter of whether a
+certain software idea deserves a patent.
+<P>
+<LI>
+<A HREF = "pub/ucpledge.html"><I>University of California
+(Non)Confidentiality Policy</I></A>.
+The UC system, unlike every other
+university in this country,
+refuses to offer the maximum
+confidentiality that the law allows for letters of recommendation that
+they solicit.  Members of the various
+computer-science departments in the UC system
+understand that this policy makes letter-writing irrelevant and deprives
+them of an important source of advice.  However, the policy comes from
+so high up that it is impossible for them to do anything about it.  I
+have therefore endeavored to put in place a solution similar to that
+used in response to the equally foolish "Buckley amendment," which gave
+student applicants the right to see their recommendations.  The document
+referred to is a pledge that the person about whom you are writing a
+letter can sign, to assure you that you can write an honest and frank
+letter without fear of later reprisal or embarrassment.  I wish the UC
+departments would themselves solicit this pledge, in order to preserve
+your anonymity as well as your privacy, but apparently they are
+forbidden to do so.
+
+</UL>
+<P>
+
+<HR>
+
+<A NAME = "books"></A>
+<H2>Books --- Past and Future</H2>
+For some sets of notes and materials for supplementing current books,
+click here:
+<A HREF = "ullman-books.html">
+<IMG SRC = "gifs/eng.arms.mini.GIF">
+</A>
+
+<HR>
+
+<A NAME = "bio"></A>
+<H2>Biographical Information</H2>
+<UL>
+<LI> <A HREF = "pub/opb.txt">A brief biography</A>
+<P>
+<LI> <A HREF = "pub/biblio.pdf">A listing of all publications</A>
+</UL>
+
+<HR>
+
+<!-- -->
+<script src="http://tags.stanford.edu/tags.js" type="text/javascript"></script>
+<!-- -->
+
+<ADDRESS>Jeffrey D. Ullman<BR>
+<TT>ullman @ cs.stanford.edu</TT><BR>
+650-494-8016 (home)<BR>
+650-725-2588 (FAX)<BR>
+</ADDRESS>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cosc.canterbury.ac.nz/mukundan/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <!-- InstanceBegin template="/Templates/simple.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link href="/css/main.css" rel="stylesheet" type="text/css" />
+  <link href="http://www.canterbury.ac.nz/brand/styles/main.css" rel="stylesheet" type="text/css" />
+  <link href="/css/site.css" rel="stylesheet" type="text/css" />
+  <!-- INCLUDEd css2.ssi -->
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="http://www.canterbury.ac.nz/brand/styles/main.css" rel="stylesheet" type="text/css" />
+
+<link href="/css/site.css" rel="stylesheet" type="text/css" />
+<!-- valid options are arts, bsec, education, engineering, law, science, service -->
+<link href="http://www.canterbury.ac.nz/brand/engineering/site.css" rel="stylesheet" type="text/css" />
+
+<link href="/css/banner.css" rel="stylesheet" type="text/css" />
+<!-- INCLUDEd css2.ssi ENDS -->
+
+
+  <!-- InstanceBeginEditable name="head" -->
+  <title>R.Â Mukundan - Academic Staff - People - 
+	Computer Science and Software Engineering - University of Canterbury - New Zealand</title>
+  <!-- InstanceEndEditable -->
+
+  <!-- InstanceParam name="onload" type="text" value="" -->
+  <!-- InstanceBeginEditable name="lang" -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <!-- InstanceEndEditable -->
+</head>
+
+<body onload="">
+  <div id="maincontainer">
+
+	<div id="topsection">
+	      <!-- ========== Start /uc_ssi/top.ssi ========== -->
+    <script src="cosc_faq_files/__utm.js" type="text/javascript"><script type="text/javascript"> 
+  _userv=0; 
+  urchinTracker(); 
+</script>
+    <script language="JavaScript1.5">_ujv='1.5';</script>
+    <div id="toplinks">
+      <ul id="top">
+        <li><a href="http://www.canterbury.ac.nz/" title="Welcome to the University of Canterbury">UC Home</a></li>
+        <li><a href="http://www.canterbury.ac.nz/courses/" title="Information on courses and degrees offered at the University of Canterbury">Courses</a></li>
+        <li><a href="http://www.canterbury.ac.nz/deptcentres.shtml" title="List of links to Academic Departments, Service Centres, Research Centres and more">Departments</a></li>
+        <li><a href="http://library.canterbury.ac.nz/" title="The University of Canterbury's Library homepage">Library</a></li>
+        <li><a href="http://www.teachlearn.canterbury.ac.nz/" title="Teaching and Learning at Canterbury">Teaching</a></li>
+        <li><a href="http://www.canterbury.ac.nz/research.shtml" title="Information on the Research Office, Canterprise, the Directory of Expertise, UCResearch and the Research Committee as well as the current research centres at the University of Canterbury">Research</a></li>
+        <li><a href="http://www.canterbury.ac.nz/currentstudents.shtml" title="Resources and information for students">Students</a></li>
+        <li><a href="http://www.canterbury.ac.nz/theuni/contacts/" title="University Contacts, University Officers, Phonebook, email Address ">Contacts</a></li>
+      </ul>
+    </div> <!-- End toplinks -->
+    <div id="siteheader"><img src="cosc_faq_files/logo_black.gif" alt="logo" id="sitelogo" />
+      <h3>University of Canterbury</h3>
+    </div> <!-- End siteheader --> 
+    <!-- ========== END /uc_ssi/top.ssi ========== -->
+
+	      <!-- ========== Start /ssi/search2.ssi ========== -->
+    <form action="http://ucgoogle1.canterbury.ac.nz/search" method="get" id="googleform">
+      <input name="q" id="q" tabindex="1" type="text" />
+      <input name="sb" value="Search" id="sb" tabindex="3" type="submit" />
+      <br />
+      <input name="sitesearch" value="cosc.canterbury.ac.nz" tabindex="2" type="checkbox" />
+      Computer Science and <br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Engineering
+    </form>
+    <!-- ========== End /ssi/search2.ssi ========== -->
+
+	</div>
+	<div id="title">
+	  <div>
+		<h2>Computer Science and Software Engineering </h2>
+	  </div>
+	</div>
+
+	<div id="contentwrapper">
+	  <div id="leftcolumn">
+		      <!-- INCLUDEd nav.ssi -->
+      <h3>Study</h3>
+      <ul>
+        <li><a title="CSSE Courses" href="http://www.cosc.canterbury.ac.nz/open/teaching/">Courses</a></li>
+        <li><a title="CSSE Course Advice" href="http://www.cosc.canterbury.ac.nz/open/students/advice.shtml">Course Advice</a></li>
+        <li><a title="CSSE Grants and Scholarships available" href="http://www.cosc.canterbury.ac.nz/open/students/awards.html">Grants and Scholarships</a></li>
+      </ul>
+      <h4>For</h4>
+      <ul>
+        <li><a href="http://www.cosc.canterbury.ac.nz/open/students/intending/index.html">Prospective Students</a></li>
+        <li><a href="http://www.cosc.canterbury.ac.nz/open/students/undergrad.shtml">Undergraduate Students</a></li>
+        <li><a href="http://www.cosc.canterbury.ac.nz/open/students/postgrad.shtml">Postgraduate Students</a></li>
+        <li><a href="http://www.cosc.canterbury.ac.nz/open/dept/viscom.shtml">Visitors and Community</a></li>
+      </ul>
+      <h4>About</h4>
+      <ul>
+        <li><a title="Welcome to the Department of Computer Science and Software Engineering" href="http://www.cosc.canterbury.ac.nz/open/dept/dept.shtml">Computer Science and Software Engineering </a> </li>
+        <li><a title="CSSE Contacts" href="http://www.cosc.canterbury.ac.nz/open/dept/contact.shtml">Contacts</a> </li>
+        <li><a title="CSSE academic staff, visiting academics, general staff, postgraduates and vacancies" href="http://www.cosc.canterbury.ac.nz/people/">People</a></li>
+        <li><a title="CSSE Research areas" href="http://www.cosc.canterbury.ac.nz/research/">Research</a> </li>
+        <li><a title="CSSE Resources" href="http://www.cosc.canterbury.ac.nz/resources/">Resources</a></li>
+        <li><a title="Details of seminars, open to everyone" href="http://www.cosc.canterbury.ac.nz/open/seminars/">Seminars</a> </li>
+        <li><a title="Details of conferences hosted by the Computer Science and Software Engineering Department" href="http://www.cosc.canterbury.ac.nz/open/conf/">Conferences</a> </li>
+        <li><a title="CSSE Events" href="http://www.cosc.canterbury.ac.nz/events/">Events</a></li>
+        <li><a title="How to get help in CSSE" href="http://www.cosc.canterbury.ac.nz/help/">Help!</a> </li>
+      </ul>
+      <!-- INCLUDEd nav.ssi ENDS -->
+
+	  </div> 
+	  <div id="contentcolumn">
+		<div id="breadcrumbs">
+		  <a href="http://www.canterbury.ac.nz/" accesskey="/"><acronym title="University of Canterbury">UC</acronym> Home</a> &gt;<a href="http://www.canterbury.ac.nz/deptcentres.shtml"> Departments</a> &gt; <a href="http://www.engf.canterbury.ac.nz/">College of Engineering</a> &gt; <a href="/" accesskey="1">Computer Science and Software Engineering</a>&nbsp;
+		</div>
+		<div id="related">
+          <!-- InstanceBeginEditable name="Related Links" -->
+          <!-- InstanceEndEditable -->
+		  <!-- InstanceBeginEditable name="ContactInfo" -->
+ 	      <div id="tag_img">
+			<img src="/Images/tags-dept.jpg" alt="Erskine building" 
+				 width="135" height="135" />
+	      </div>
+          <h4>Contacts</h4>
+<ul>
+	<li><strong>+64 3 364 2362</strong></li>
+	<li><a href="mailto:admin@cosc.canterbury.ac.nz">admin@cosc
+		   .canterbury.ac.nz</a></li>
+	<li>Computer Science and Software Engineering,<br />
+		University of Canterbury,<br />
+		Private Bag 4800,<br />
+		Christchurch 8140,<br />
+		New Zealand.</li>
+</ul>
+
+<ul>
+	<li><a href="/open/dept/contact.shtml">Contacts Page</a></li>
+</ul>
+	
+
+          <!-- InstanceEndEditable -->
+		</div>
+		<div id="content">
+
+<!-- InstanceBeginEditable name="Body" -->
+
+<!-- ================ DO NOT CHANGE ANYTHING ABOVE THIS POINT ============== -->
+<!-- ======================== Begin main content here ====================== -->
+
+<img src="/Images/people/RMukundan.jpg" width="133" height="200" align="right">
+
+<h1>R.&nbsp;Mukundan</h1>
+<p>(Ramakrishnan Mukundan)</p>
+
+<h3>Position</h3>
+<p>Associate Professor</p>
+
+<h3>Qualifications</h3>
+<p><span class="letters">M.Sc., Ph.D.</span></p>
+
+<h3>Room</h3>
+<p> 
+  Erskine Building&nbsp;
+  <a href="/open/dept/building/maps/floor3.html">311</a>
+</p>
+
+<h3>Contact Details</h3>
+<p>
+  Phone: +64 3 364 2987, Ext: 7770 <br /> 
+  Fax: +64 3 364 2569 <br>
+  <a href="mailto:mukundan@canterbury.ac.nz">
+	mukundan@canterbury.ac.nz</a>
+</p>
+
+<h3>Postal Address</h3> 
+<!-- Start INCLUDEd csse_post_addrs -->
+<strong>Department of Computer Science and Software Engineering,</strong><br />
+College of Engineering,<br />
+University of Canterbury,<br />
+Private Bag 4800, <br />
+Christchurch 8140,<br />
+New Zealand.
+<!-- End INCLUDEd csse_post_addrs -->
+
+
+<h3>Undergraduate Courses</h3>
+<p>
+  <a href="/open/teaching/classes/cosc262/">
+	COSC262: Algorithms</a> <br />
+  <a href="/open/teaching/classes/cosc363/">
+	COSC363: Computer Graphics</a> <br />
+  <a href="/open/teaching/classes/cosc366/">
+	COSC366: Summer Project</a>
+</p>
+
+<h3>Graduate Courses</h3>
+<p>
+  <a href="/open/teaching/classes/cosc422/">COSC422: Advanced Computer
+  Graphics</a><br>
+  <a href="/open/teaching/classes/cosc416/">COSC416: Mobile 3D Graphics</a>
+</p>
+
+<h3>Research Interests</h3>
+<ul>
+    <li> <b>Image Processing and Analysis:</b>
+	<ol>
+		<li>Moment based image features: Moment invariants, Moment spaces, Tchebichef moments, Fast computation of moments</li>
+		<li>Image and video compression: Discrete orthognal transforms, DCT</li>
+		<li>Multifractal analysis: Alfa image decomposition, Multifractal spectra, Tissue image classification</li>
+		<li>Parallel computation: OpenCL implementations</li>
+		<li>Medical image analysis: HRCT data processing, contour detection, segmentation, 3D reconstructions</li>
+	</ol>
+  </li>
+  <p>
+  <li> <b>Computer Graphics:</b>
+	<ol>
+		<li>Real-time rendering: GPU implementations, Spherical harmonic lighting</li>
+		<li>Non-photorealistic rendering: Painterly rendering, texture based NPR</li>
+		<li>Crowd simulation: Rendering of large crowds, Behaviour modelling, Acceleration algorithms</li>
+		<li>Facial expression analysis and recognition: Deformation tables, Expression interpolation</li>
+	</ol>
+  </li>
+  <p>
+	<i>Also see</i>: 
+	<a href="http://www.cosc.canterbury.ac.nz/research/RG/cgip/index.html">
+	  Computer Graphics and Image Processing</a> Research Group
+  </p>
+</ul>
+
+<h3>Projects and Publications</h3>
+<ul>
+  <li><b><a href="Publ.htm">List of publications</a></b></li>
+  <li><b>Current Projects:</b>
+     <ol>
+		<li>Multifractal and multi-scale analysis of biomedical images</li>
+		<li>Contour based 3D reconstruction of lung geometry from HRCT images</li>
+		<li>Crowd simulation using 3D Extended Oriented Bounding Boxes (EOBB)</li>
+		<li>Parallel computation of multifractal spectra using OpenCL</li>
+     </ol>
+  </li>  
+</ul>
+
+
+<!-- ======================== End main content here
+====================== -->  <!-- =============== DO NOT CHANGE
+ANYTHING BELOW THIS POINT ============= -->
+
+<!-- InstanceEndEditable -->
+		</div>
+	  </div>  
+	</div>
+	<div id="footer">
+	  <!-- ========== Start /uc_ssi/bottom.ssi ========== -->
+  <ul>
+    <li><a href="http://www.canterbury.ac.nz/help/contact">Feedback</a></li>
+    <li><a href="http://www.canterbury.ac.nz/help">Help and Accessibility</a></li>
+    <li><a href="http://www.canterbury.ac.nz/help/legal.shtml">Copyright and Disclaimer</a> </li>
+    <li>&copy;  University of Canterbury - Christchurch, New Zealand </li>
+  </ul>
+<!-- ========== End /uc_ssi/bottom.ssi ========== -->
+
+	</div>
+  </div>
+</body>
+<!-- InstanceEnd -->
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

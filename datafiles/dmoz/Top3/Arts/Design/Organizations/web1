@@ -1,0 +1,187 @@
+====================<http://www.csd.org.uk/>====================
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Chartered Society of Designers
+</title><link href="styles/csd.css" rel="stylesheet" type="text/css" /><link href="styles/colorbox.css" rel="stylesheet" type="text/css" /><link href="styles/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css" />
+    
+    <script src="js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    
+    <script src="js/jquery.colorbox-min.js" type="text/javascript"></script>
+    
+
+    <script type="text/javascript" language="javascript">
+        $(document).ready(function() {
+            
+            $(".colorbox").colorbox({transition:"none", width:"50%", height:"60%"});
+            $(".coursestudent").colorbox({transition:"none", width:"500px", height:"500px"});
+            $("#termsandcontitions").colorbox({transition:"none", width:"70%", height:"80%"});
+            
+            $('#leftarrow').mouseover(function() {
+                $(this).attr('src', 'images/but_left_f2.jpg');
+                $(this).css('cursor', 'pointer');
+            });
+            $('#leftarrow').mouseout(function() {
+                $(this).attr('src', 'images/but_left.jpg');
+            });
+            $('#toparrow').mouseover(function() {
+                $(this).attr('src', 'images/but_right_f2.jpg');
+                $(this).css('cursor', 'pointer');
+            });
+            $('#toparrow').mouseout(function() {
+                $(this).attr('src', 'images/but_right.jpg');
+            });
+            
+            $('#toparrow').click(function() {
+               window.scrollTo(0, 0);
+            });
+            
+            $('#leftarrow').click(function(){
+                history.back(1);
+            });
+
+           // auto expand selected menu
+           //alert($('#menu'));
+           $('#menu').next('.body').show();
+           $('#submenu').parent('.body').show();
+           
+        });
+    </script>
+    
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="index.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTkyNjI3ODg2Mw9kFgJmD2QWAgIDD2QWAgIDD2QWAgIBDxYCHgRUZXh0BSN0aGUgcHJvZmVzc2lvbmFsIGJvZHkgZm9yIGRlc2lnbmVyc2RkNVixahZRBjmc0UauEz4KANwieq0=" />
+</div>
+
+        <div id="leftnav">
+            <div id="logo"></div>
+            
+            <div class="accordion">
+                
+                
+                
+                <div id='menu109' class='head'><a href='index.aspx?id=109'>home</a></div><div id='menu127' class='head'><a href='index.aspx?id=127'>about</a></div><div class='body' style='display:none;'><a id='submenu42' href='index.aspx?id=42'>history</a><br /><a id='submenu40' href='index.aspx?id=40'>focus groups</a><br /><a id='submenu217' href='index.aspx?id=217'>code of conduct</a><br /></div><div id='menu226' class='head'><a href='index.aspx?id=226'>contact CSD</a></div><div id='menu190' class='head'><a href='index.aspx?id=190'>design atlas</a></div><div id='menu152' class='head'><a href='index.aspx?id=152'>membership</a></div><div class='body' style='display:none;'><a id='submenu88' href='index.aspx?id=88'>why Join</a><br /><a id='submenu85' href='index.aspx?id=85'>design disciplines</a><br /><a id='submenu44' href='index.aspx?id=44'>proof of membership</a><br /><a id='submenu73' href='index.aspx?id=73'>student</a><br /><a id='submenu82' href='index.aspx?id=82'>Assoc.CSD</a><br /><a id='submenu72' href='index.aspx?id=72'>MCSD</a><br /><a id='submenu59' href='index.aspx?id=59'>FCSD</a><br /></div><div id='menu251' class='head'><a href='index.aspx?id=251'>Chartered Designer</a></div><div class='body' style='display:none;'><a id='submenu254' href='index.aspx?id=254'>Consultation</a><br /></div><div id='menu181' class='head'><a href='index.aspx?id=181'>CSD Course Endorsement Programme</a></div><div class='body' style='display:none;'><a id='submenu248' href='index.aspx?id=248'>Criteria</a><br /><a id='submenu249' href='index.aspx?id=249'>Awards</a><br /><a id='submenu184' href='index.aspx?id=184'>Benefits</a><br /><a id='submenu183' href='index.aspx?id=183'>Eligibility</a><br /><a id='submenu185' href='index.aspx?id=185'>Application</a><br /><a id='submenu258' href='index.aspx?id=258'>Courses</a><br /></div><div id='menu83' class='head'><a href='index.aspx?id=83'>training and CPD</a></div><div class='body' style='display:none;'><a id='submenu215' href='index.aspx?id=215'>CSD CPD training modules</a><br /><a id='submenu216' href='index.aspx?id=216'>CPD 2012 - 2013</a><br /></div><div id='menu188' class='head'><a href='index.aspx?id=188'>recruitment space</a></div><div class='body' style='display:none;'><a id='submenu189' href='index.aspx?id=189'>agency listing</a><br /><a id='submenu255' href='index.aspx?id=255'>job vacancies</a><br /></div><div id='menu153' class='head'><a href='index.aspx?id=153'>services</a></div><div class='body' style='display:none;'><a id='submenu79' href='index.aspx?id=79'>advice</a><br /><a id='submenu64' href='index.aspx?id=64'>intellectual property</a><br /><a id='submenu61' href='index.aspx?id=61'>PI cover</a><br /><a id='submenu66' href='index.aspx?id=66'>portfolio gym</a><br /></div><div id='menu154' class='head'><a href='index.aspx?id=154'>awards</a></div><div class='body' style='display:none;'><a id='submenu71' href='index.aspx?id=71'>competitions</a><br /><a id='submenu194' href='index.aspx?id=194'>fellowships</a><br /><a id='submenu68' href='index.aspx?id=68'>Minerva Medal</a><br /><a id='submenu100' href='index.aspx?id=100'>Prince Philip Prize</a><br /></div><div id='menu157' class='head'><a href='index.aspx?id=157'>designchannel</a></div><div id='menu163' class='head'><a href='index.aspx?id=163'>design pool</a></div><div class='body' style='display:none;'><a id='submenu164' href='index.aspx?id=164'>partners</a><br /></div><div id='menu155' class='head'><a href='index.aspx?id=155'>events</a></div><div class='body' style='display:none;'><a id='submenu158' href='index.aspx?id=158'>events diary</a><br /></div><div id='menu191' class='head'><a href='index.aspx?id=191'>library</a></div><div class='body' style='display:none;'><a id='submenu192' href='index.aspx?id=192'>magazine stand</a><br /><a id='submenu193' href='index.aspx?id=193'>design sector</a><br /><a id='submenu198' href='index.aspx?id=198'>economy</a><br /><a id='submenu195' href='index.aspx?id=195'>employment</a><br /><a id='submenu197' href='index.aspx?id=197'>social</a><br /></div><div id='menu213' class='head'><a href='contacts.aspx'>find a designer</a></div><div class='head' id='blahblahdd3'><a href='memberlogin.aspx'>members area</a></div>
+                
+            </div>
+            
+            
+            <div id="arrows">
+                <img id="leftarrow" src="images/but_left.jpg" alt="back" />
+                &nbsp;&nbsp;
+                <img id="toparrow" src="images/but_right.jpg" alt="top" />
+            </div>
+        </div>
+        <div id="rightcontent">
+            <div id="header"></div>
+            <div id="content">
+                
+    <h3>
+        the professional body for designers
+    </h3>
+    <div class='content'><div class='colone'><p><span style="color: #ff0000;"><strong>INTERIOR DESIGN PATHWAY</strong></span></p>
+<p><img src="../uploadedfiles/images/dc_rc.jpg" border="0" alt="President_David_Callcott_FCSD" title="President_David_Callcott_FCSD" width="191" height="250" /></p>
+<p>At its recent AGM, the Society elected and welcomed David Callcott FCSD as its new President. His journey through both his design career and membership of design bodies makes for a compelling read and not only illustrates the development of his career but also that of the Chartered Society of Designers (CSD) and the wider profession. Standing before our Royal Charter, he recalls his early career and those who influenced it.</p>
+<p>Read more about David's interior design pathway<br />from IIBD to BIID to CSD in <strong><a href="../newsletter/february_2014/index.html" target="_blank" title="TheDesigner_Issue_15_Feb_2014">TheDesigner</a></strong></p>
+<p><img src="../uploadedfiles/images/divide.gif" border="0" width="191" height="6" /></p>
+<p><span style="color: #ff0000;"><strong>MEMBERS' OPPORTUNITIES</strong></span></p>
+<p>Members should regularly visit the opportunities pages in the members' area for news about tenders and clients seeking design services.<br /><br /><img src="../uploadedfiles/images/divide.gif" border="0" width="191" height="6" /><br /><strong><span style="color: #ff0000;"><br />KTN MATERIALS</span></strong><strong><span style="color: #ff0000;">&nbsp;E</span></strong><strong><span style="color: #ff0000;">VENTS</span></strong></p>
+<p>Discover more about smart materials and network with fellow designers at upcoming events. For more information visit <strong><a href="https://connect.innovateuk.org/web/materialsktn/events/-/asset_publisher/zYKUssE4xzcL/ConnectEvent/id/10859259">www.innovate</a></strong><strong><a href="https://connect.innovateuk.org/web/materialsktn/events/-/asset_publisher/zYKUssE4xzcL/ConnectEvent/id/10859259">uk.org<br /><br /></a></strong><img src="../uploadedfiles/images/divide.gif" border="0" width="190" height="6" /></p>
+<p><strong style="color: #ff0000;">DE</strong><strong style="color: #ff0000;">SI</strong><strong style="color: #ff0000;">GNERS' PROFILE</strong></p>
+<p>Members of the Society are able to present an online profile of themselves and their work or practice. The profile allows you to display case studies of your work with weblinks, email links and contact details.</p>
+<p>The profile will be displayed in the 'find-a-designer' directory section of this website. This is promoted to members of the public and clients seeking professional design services. Members then receive enquiries from clients and obtain commissions.</p>
+<p>Student e-Members are also able to display their profiles and work in the 'student gallery' providing a showcase for potential employers.</p>
+<p>If you are a CSD member simply login with your username and password and complete your profile. Your directory listing will automatically operate.</p>
+<p>Simple, easy to complete, only takes a few minutes and is essential in promoting your services. Above all, unlike many similar directories for designers, its free.</p>
+<p>If you are not a Member of CSD then&nbsp;<strong><a href="mailto:csd@csd.org.uk" target="_blank" title="contact csd">contact us now</a>.</strong></p>
+<p><img src="../uploadedfiles/images/divide.gif" border="0" width="191" height="6" /></p>
+<p><strong style="color: #ff0000;">CHECK OUT JOBS POSTED</strong></p>
+<p>CSD members are looking to recruit Interior and Graphic designers. Visit&nbsp;<strong><a href="../index.aspx?id=255" target="_self" title="jobs">CSD recruitment pages</a>&nbsp;</strong>to learn more<strong>.</strong></p>
+<p><img src="../uploadedfiles/images/divide.gif" border="0" width="191" height="6" /></p>
+<p><strong style="color: #ff0000;">CREATIVE INDUSTRIES ?</strong></p>
+<p>A report by NESTA questions the DCMS definition and make up of the creative industries. This call for a new alignment could, if accepted, have significant implications for the profession of design.</p>
+<p><img src="../uploadedfiles/images/nesta-creative-industries-mapping-2013cover.jpg" border="0" alt="nesta" title="creative_industries" width="71" height="100" /></p>
+<p><strong><a href="../uploadedfiles/files/nesta_creative_industries_mapping_-_2013.pdf" target="_blank" title="nesta">Download the report</a>.</strong></p>
+<p><strong><a href="../index.aspx?id=193" target="_self" title="csd_library_design">Visit the CSD library pages for other relevant reports</a>.</strong></p>
+<p><img src="../uploadedfiles/images/divide.gif" border="0" width="191" height="6" /></p></div><div class='colone'><p><span style="color: #ff0000;"><strong>BLOG AND SOCIAL MEDIA</strong></span></p>
+<p>CSD now has a number of new channels through which you can connect with us. Explore <strong><a href="http://thecsdblog.wordpress.com/" target="_blank">the CSD blog</a></strong>, <strong><a href="https://www.facebook.com/charteredsocietyofdesigners" target="_blank">Facebook</a></strong> page, <strong><a href="https://twitter.com/csdminerva" target="_blank">Twitter</a></strong>, <strong><a href="http://instagram.com/csdminerva" target="_blank">Instagram</a></strong> and <span style="color: #0000ff;"><strong><a href="http://www.pinterest.com/csdpinsdesign/" target="_blank">Pinterest</a></strong></span>.</p>
+<p><img src="../uploadedfiles/images/divide.gif" border="0" width="190" height="6" /></p>
+<p><strong><span style="color: #ff0000;">ATLAS OF DESIGN PROFESSION</span></strong></p>
+<p>Leah Armstrong maps the design profession 1930 - 2010 running parallel with the history of the Society. Follow Leah as she charts this development over the next three years on her <strong><em><a href="http://designatlas.wordpress.com/" title="Leah's blog"></a></em></strong><span style="color: #999999;"><strong><a href="http://designatlas.wordpress.com/" title="Leah's blog">blog</a><em>.</em></strong></span><strong><em>&nbsp;</em></strong></p>
+<p>If you feel you can contribute to this important exercise <strong><a href="mailto:designatlas@csd.org.uk" target="_blank" title="contact design atlas">contact Leah</a></strong><em><strong>.</strong></em></p>
+<p><img src="../uploadedfiles/images/divide.gif" border="0" width="190" height="6" /></p>
+<p><span style="color: #ff0000;"><strong>DESIGN STUDENTS<br /></strong></span></p>
+<p>Design students from around the world can benefit from CSD Student e-Membership programme&nbsp;<strong><a href="../index.aspx?id=73" target="_blank" title="CSD student  e-membership">read more</a></strong><em><strong>. </strong></em><strong>#CSDSTUDENT</strong></p>
+<p><img src="../uploadedfiles/images/divide.gif" border="0" alt="line" width="190" height="6" /></p>
+<p><strong style="color: #ff0000;">PROTECTING RESOURCES</strong></p>
+<p>The Society believes that it is only with a comprehensive understanding of the materials used or specified by designers that we can help protect the environment.</p>
+<p>Design Mine allows CSD members to access vital information about the materials they use in order that can practice professionally and responsibly. CSD members can visit the <strong><a href="http://www.designpool.org.uk/designmine.htm" target="_blank" title="Design Mine access for CSD members">Design Mine</a></strong>.</p>
+<p><img src="../uploadedfiles/images/divide.gif" border="0" width="190" height="6" /><br /><strong style="color: #ff0000;"></strong></p>
+<p><strong style="color: #ff0000;">DESIGN MUSEUM</strong></p>
+<p>CSD has negotiated a preferential rate for members to visit current exhibitions. For further details go to the members' area <strong><a href="../memberlogin.aspx" target="_self" title="members' area">log in here</a></strong><em><strong>.</strong></em></p>
+<p>For details of all Design Museum exhibitions and their work visit <strong><a href="http://designmuseum.org/" target="_blank" title="design museum">The Design Museum website</a></strong><em><strong>.</strong></em></p>
+<p><img src="../uploadedfiles/images/divide.gif" border="0" width="190" height="6" /></p>
+<p><span style="color: #ff0000;"><strong>CSD SUPPORTS MADE</strong></span></p>
+<p>CSD is a board member of the Materials And Design Exchange which is part of the of the Knowledge Transfer Network for Materials. MADE provides designers from all disciplines with information and knowledge about materials essential for current practice.&nbsp;</p>
+<p>Read and subscribe to the latest<strong> <a href="https://ktn.innovateuk.org/web/design-exchange" target="_blank" title="MADE e-magazine">MADE e-Magazine.<br /></a></strong></p>
+<p><img src="../uploadedfiles/images/divide.gif" border="0" width="190" height="6" /></p>
+<p><span style="color: #ff0000;"><strong>TWO FELLOWS KNIGHTED</strong></span></p>
+<p>Minerva Medal winner Sir Kenneth Grange was knighted for services to design in the 2013 New Year Honours. In addition, Quentin Blake, the first to design the CSD's Christmas card, also received a knighthood in 2013.</p>
+<p><img src="../uploadedfiles/images/divide.gif" border="0" alt="line" width="190" height="6" /></p></div><div class='colone'><p><img src="../uploadedfiles/images/the-big-rethink-banner-300x100.jpg" border="0" alt="The Big Rethink" width="210" height="70" /></p>
+<p><strong style="color: #ff0000;">THE BIG RETHINK</strong></p>
+<p>March 18th 2013, The HAC, London</p>
+<p>THIS TIME IT'S PERSONAL</p>
+<p>Rapidly changing technological innovation is making customers more demanding about how, when and where they are marketed to. This year The Economist Events' Big Rethink event aims to inspire you to make your marketing personal and meet your customers' expectations.</p>
+<p>Attend THE marketing event to better understand the future of marketing and rethink the way you prepare for it. For more information visit <strong><a href="http://www.bigrethink.com">www.bigrethink.com&nbsp;</a></strong></p>
+<div>Visit the CSD Members' Area for your discount code.<br />&nbsp;<img src="../uploadedfiles/images/divide.gif" border="0" width="190" height="6" /></div>
+<p><span style="color: #ff0000;"><strong>GET A HEADSTART IN SOUTH EAST ASIAN MARKETS FROM UKTI</strong></span></p>
+<p>Headstart can prove to be an important tool in helping to introduce SMEs into the Southeast Asian markets.</p>
+<p>The programme offers UK SMEs practical in-market support including facilitated access to local business networks, access to office space in the local British Chamber of Commerce and signposting to longer-term office space in the market.</p>
+<p>Companies receive facilitated access to local business networks and social events; introductions with established local UK companies; the opportunity to meet with the Executive Director of the local Chamber; ongoing access to Chamber staff; access to office space in the local British Chamber of Commerce and signposting to longer-term office space in the market.</p>
+<p>For further information visit<br /><strong><a href="http://www.ukti.gov.uk/headstart" target="_blank" title="headstart">www.ukti.gov.uk/headstart</a></strong></p>
+<p><img src="../uploadedfiles/images/divide.gif" border="0" width="191" height="6" /></p>
+<p><strong style="color: #ff0000;">SATURDAY CLUB APPEAL</strong></p>
+<p>Did you go to Saturday morning classes at your local art school? The Sorrell Foundation would like to hear from you for a research project.</p>
+<p>These classes ran between the 1940s and 1970s and John Sorrell, Frances Sorrell and John Hegarty cite them as their first step on their journey into creative professions.</p>
+<p>They also provided the inspiration for the National Art&amp;Design Saturday Club, the Sorrell Foundation&rsquo;s programme of free art and design classes for 14-16 year olds at local colleges and universities. There are currently 27 clubs across the UK.</p>
+<p>If you went to Saturday art classes &ndash; or know someone who did - please contact <strong><a href="mailto:s.hershberg@thesorrellfoundation.com" target="_blank">Sorrel Hershberg</a>.</strong></p>
+<p><strong>&nbsp;</strong>020 7845 5860.</p>
+<p><strong><a href="http://thesorrellfoundation.com/saturday-club.php" target="_blank" title="sorrell_foundation">thesorrellfoundation.com<br /></a></strong></p>
+<p><img src="../uploadedfiles/images/divide.gif" border="0" width="190" height="6" /></p></div></div><div class='clearfloat'></div>
+    
+
+            </div>
+            <div id="news">
+                
+            </div>
+            <div class="clearfloat"></div>
+            <div id="footer">
+                <div id="black">
+                    <div id="footerleft">
+                        <a href="index.aspx">home</a>
+                        <a target="_blank" href="http://www.linkedin.com/groups?gid=60922&trk=anetsrch_name&goback=.gdr_1266710190961_1">Linkedin</a>
+                        <a target="_blank" href="http://twitter.com/csdminerva">Twitter</a>
+                        <a href="memberlogin.aspx">member access</a>
+                    </div>
+                    <div id="footerright">
+                        <a href="mailto:info@csd.org.uk">Contact</a>
+                        <a href="TandC.aspx" id="termsandcontitions">T&C</a>
+                        <a href="#">Access</a>
+                        <a href="#">Copyright 2009</a>
+                    </div>
+                </div>
+                <div id="white">
+                    Chartered Society of Designers 1 Cedar Court, Royal Oak Yard, Bermondsey Street, London, SE1 3GA Tel: +44 (0)20 7357 8088 
+                </div>
+            </div>
+        </div>
+        
+        <div class="clearfloat"></div>
+    </form>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

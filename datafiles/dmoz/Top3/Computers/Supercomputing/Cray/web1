@@ -1,0 +1,3537 @@
+====================<http://research.microsoft.com/users/gbell/craytalk/>====================
+<html>
+
+<head>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft Internet Assistant for PowerPoint 97">
+<title>A Seymour Cray Perspective</title>
+</head>
+
+<BODY>
+<CENTER>
+<h1>A Seymour Cray Perspective</h1>
+<h4>1/25/98</h4>
+<br><h2> <A HREF="sld001.htm" onClick="stc(this, 1)">Click here to start</A>
+ </h2><br>  
+</center>
+<center>
+ <table width=90%>
+  <tr>
+   <td valign=top align=left width=50%>
+      <h3><u>Table of Contents</u></h3>
+        <P ALIGN=LEFT><A HREF="sld001.htm" onClick="stc(this, 2)">A Seymour Cray Perspective</A></P>
+        <P ALIGN=LEFT><A HREF="sld002.htm" onClick="stc(this, 3)">Abstract</A></P>
+        <P ALIGN=LEFT><A HREF="sld003.htm" onClick="stc(this, 4)">Cray
+1925
+-1996</A></P>
+        <P ALIGN=LEFT><A HREF="sld004.htm" onClick="stc(this, 5)">Circuits and Packaging, 
+Plumbing (bits and atoms) & Parallelism… plus Programming and Problems</A></P>
+        <P ALIGN=LEFT><A HREF="sld005.htm" onClick="stc(this, 6)">Seymour Cray Computers</A></P>
+        <P ALIGN=LEFT><A HREF="sld006.htm" onClick="stc(this, 7)">CDC: The Dawning era of Supercomputers</A></P>
+        <P ALIGN=LEFT><A HREF="sld007.htm" onClick="stc(this, 8)">Cray Research Computers</A></P>
+        <P ALIGN=LEFT><A HREF="sld008.htm" onClick="stc(this, 9)">Cray Computer Corp. Computers</A></P>
+        <P ALIGN=LEFT><A HREF="sld009.htm" onClick="stc(this, 10)">Cray contributions</A></P>
+        <P ALIGN=LEFT><A HREF="sld010.htm" onClick="stc(this, 11)">Cray Contribution</A></P>
+        <P ALIGN=LEFT><A HREF="sld011.htm" onClick="stc(this, 12)">Cray Contributions</A></P>
+        <P ALIGN=LEFT><A HREF="sld012.htm" onClick="stc(this, 13)">Cray attitudes</A></P>
+        <P ALIGN=LEFT><A HREF="sld013.htm" onClick="stc(this, 14)">“Cray” Clock speed (Mhz), 
+no. of processors, peak power (Mflops)</A></P>
+        <P ALIGN=LEFT><A HREF="sld014.htm" onClick="stc(this, 15)">Time line
+of Cray
+designs
+and 
+influence</A></P>
+        <P ALIGN=LEFT><A HREF="sld015.htm" onClick="stc(this, 16)">Univac NTDS for U. S. Navy.  Cray’s first computer</A></P>
+        <P ALIGN=LEFT><A HREF="sld016.htm" onClick="stc(this, 17)">NTDS
+Univac CP 642 
+c1957</A></P>
+        <P ALIGN=LEFT><A HREF="sld017.htm" onClick="stc(this, 18)">NTDS 
+logic
+drawer
+
+2”x2.5”
+cards</A></P>
+        <P ALIGN=LEFT><A HREF="sld018.htm" onClick="stc(this, 19)">Control Data Corporation
+
+Little Character circuit test, 
+CDC 160, 
+CDC 1604</A></P>
+        <P ALIGN=LEFT><A HREF="sld019.htm" onClick="stc(this, 20)">Little Character
+Circuit test for
+CDC 160/1604
+6-bit
+</A></P>
+        <P ALIGN=LEFT><A HREF="sld020.htm" onClick="stc(this, 21)">CDC 1604</A></P>
+        <P ALIGN=LEFT><A HREF="sld021.htm" onClick="stc(this, 22)">CDC 1604 module</A></P>
+        <P ALIGN=LEFT><A HREF="sld022.htm" onClick="stc(this, 23)">CDC 1604 module bay</A></P>
+        <P ALIGN=LEFT><A HREF="sld023.htm" onClick="stc(this, 24)">CDC 1604 with console</A></P>
+        <P ALIGN=LEFT><A HREF="sld024.htm" onClick="stc(this, 25)">CDC 160
+12 bit
+word</A></P>
+        <P ALIGN=LEFT><A HREF="sld025.htm" onClick="stc(this, 26)">The CDC 160 influenced 
+DEC PDP-5 (1963), and 
+PDP-8 (1965) 
+12-bit word minis </A></P>
+        <P ALIGN=LEFT><A HREF="sld026.htm" onClick="stc(this, 27)">CDC 
+1604 
+The classic  Accumulator
+Multiplier-Quotient;
+6 B (index) register design.
+I/O transfers were block transferred via I/O assembly registers</A></P>
+        <P ALIGN=LEFT><A HREF="sld027.htm" onClick="stc(this, 28)">Norris & Mullaney et al</A></P>
+        <P ALIGN=LEFT><A HREF="sld028.htm" onClick="stc(this, 29)">CDC 3600 successor to 1604</A></P>
+        <P ALIGN=LEFT><A HREF="sld029.htm" onClick="stc(this, 30)">CDC 6600 (and 7600)</A></P>
+        <P ALIGN=LEFT><A HREF="sld030.htm" onClick="stc(this, 31)">CDC 6600 Installation</A></P>
+        <P ALIGN=LEFT><A HREF="sld031.htm" onClick="stc(this, 32)">CDC 6600 operator’s console</A></P>
+        <P ALIGN=LEFT><A HREF="sld032.htm" onClick="stc(this, 33)">CDC 6600
+logic gates</A></P>
+        <P ALIGN=LEFT><A HREF="sld033.htm" onClick="stc(this, 34)">CDC 6600 
+cooling in 
+each bay</A></P>
+        <P ALIGN=LEFT><A HREF="sld034.htm" onClick="stc(this, 35)">CDC 6600 Cordwood module</A></P>
+        <P ALIGN=LEFT><A HREF="sld035.htm" onClick="stc(this, 36)">SDS 920 module 4 flip flops, 
+1 Mhz clock c1963</A></P>
+        <P ALIGN=LEFT><A HREF="sld036.htm" onClick="stc(this, 37)">CDC 6600 
+modules 
+in rack</A></P>
+        <P ALIGN=LEFT><A HREF="sld037.htm" onClick="stc(this, 38)">CDC 6600 1Kbit core plane</A></P>
+        <P ALIGN=LEFT><A HREF="sld038.htm" onClick="stc(this, 39)">CDC 1600 & 6600 logic & power densities</A></P>
+        <P ALIGN=LEFT><A HREF="sld039.htm" onClick="stc(this, 40)">CDC 6600 block diagram</A></P>
+        <P ALIGN=LEFT><A HREF="sld040.htm" onClick="stc(this, 41)">CDC 6600 registers</A></P>
+        <P ALIGN=LEFT><A HREF="sld041.htm" onClick="stc(this, 42)">Dave Patterson… who coined the word, RISC</A></P>
+        <P ALIGN=LEFT><A HREF="sld042.htm" onClick="stc(this, 43)">Blaauw -Brooks 6600 comments</A></P>
+        <P ALIGN=LEFT><A HREF="sld043.htm" onClick="stc(this, 44)">John Mashey, MIPS Team (MIPS first commercial RISC outside of IBM)</A></P>
+        <P ALIGN=LEFT><A HREF="sld044.htm" onClick="stc(this, 45)">Thomas Watson,IBM CEO 8/63</A></P>
+        <P ALIGN=LEFT><A HREF="sld045.htm" onClick="stc(this, 46)">Cray’s response:</A></P>
+        <P ALIGN=LEFT><A HREF="sld046.htm" onClick="stc(this, 47)">Effect on IBM: market & technical</A></P>
+        <P ALIGN=LEFT><A HREF="sld047.htm" onClick="stc(this, 48)">CDC 6600</A></P>
+        <P ALIGN=LEFT><A HREF="sld048.htm" onClick="stc(this, 49)">John Cocke</A></P>
+        <P ALIGN=LEFT><A HREF="sld049.htm" onClick="stc(this, 50)">CDC 7600</A></P>
+        <P ALIGN=LEFT><A HREF="sld050.htm" onClick="stc(this, 51)">CDC 7600s at Livermore</A></P>
+        <P ALIGN=LEFT><A HREF="sld051.htm" onClick="stc(this, 52)">Butler Lampson</A></P>
+        <P ALIGN=LEFT><A HREF="sld052.htm" onClick="stc(this, 53)">CDC 7600</A></P>
+        <P ALIGN=LEFT><A HREF="sld053.htm" onClick="stc(this, 54)">CDC 7600 module slice</A></P>
+        <P ALIGN=LEFT><A HREF="sld054.htm" onClick="stc(this, 55)">CDC 7600 12 bit core module</A></P>
+        <P ALIGN=LEFT><A HREF="sld055.htm" onClick="stc(this, 56)">CDC 7600 block diagram</A></P>
+        <P ALIGN=LEFT><A HREF="sld056.htm" onClick="stc(this, 57)">CDC 7600 registers</A></P>
+        <P ALIGN=LEFT><A HREF="sld057.htm" onClick="stc(this, 58)">CDC 8600 
+Prototype</A></P>
+        <P ALIGN=LEFT><A HREF="sld058.htm" onClick="stc(this, 59)">Cray Research… Cray 1</A></P>
+        <P ALIGN=LEFT><A HREF="sld059.htm" onClick="stc(this, 60)">Cray 1 scalar vs vector perf. in clock ticks</A></P>
+        <P ALIGN=LEFT><A HREF="sld060.htm" onClick="stc(this, 61)">CDC 7600 & Cray 1 at Livermore</A></P>
+        <P ALIGN=LEFT><A HREF="sld061.htm" onClick="stc(this, 62)">Cray 1 #6 from LLNL.
+Located at The Computer Museum History Center, Moffett Field</A></P>
+        <P ALIGN=LEFT><A HREF="sld062.htm" onClick="stc(this, 63)">Cray 1 150 Kw. MG set & heat exchanger</A></P>
+        <P ALIGN=LEFT><A HREF="sld063.htm" onClick="stc(this, 64)">Cray 1 processor block diagram… see 6600</A></P>
+        <P ALIGN=LEFT><A HREF="sld064.htm" onClick="stc(this, 65)">Steve Wallach, founder Convex</A></P>
+        <P ALIGN=LEFT><A HREF="sld065.htm" onClick="stc(this, 66)">Cray XMP
+4 
+vector Proc.</A></P>
+        <P ALIGN=LEFT><A HREF="sld066.htm" onClick="stc(this, 67)">Cray, Cray 2 Proto, & Rollwagen</A></P>
+        <P ALIGN=LEFT><A HREF="sld067.htm" onClick="stc(this, 68)">Cray 2</A></P>
+        <P ALIGN=LEFT><A HREF="sld068.htm" onClick="stc(this, 69)">Cray Computer Corporation”
+Cray 3 and Cray 4 GaAs based computers</A></P>
+        <P ALIGN=LEFT><A HREF="sld069.htm" onClick="stc(this, 70)">Cray 3 c1995
+processor
+500 MHz
+32 modules
+1K GaAs 
+  ic’s/module
+8 proc.</A></P>
+        <P ALIGN=LEFT><A HREF="sld070.htm" onClick="stc(this, 71)">Howard Sachs recollection
+working in Colorado Springs 1979 - 1982  </A></P>
+        <P ALIGN=LEFT><A HREF="sld071.htm" onClick="stc(this, 72)">Sachs comments</A></P>
+        <P ALIGN=LEFT><A HREF="sld072.htm" onClick="stc(this, 73)">Sachs on Logic</A></P>
+        <P ALIGN=LEFT><A HREF="sld073.htm" onClick="stc(this, 74)">Sachs</A></P>
+        <P ALIGN=LEFT><A HREF="sld074.htm" onClick="stc(this, 75)">Petaflops by 2010 
+</A></P>
+        <P ALIGN=LEFT><A HREF="sld075.htm" onClick="stc(this, 76)">February 1994 Petaflops Workshop</A></P>
+        <P ALIGN=LEFT><A HREF="sld076.htm" onClick="stc(this, 77)">Cray spoke at Jan. 1994 Petaflops Workshop</A></P>
+        <P ALIGN=LEFT><A HREF="sld077.htm" onClick="stc(this, 78)">SRC Company Computer 
+Cray’s Last Computer c1996-98</A></P>
+        <P ALIGN=LEFT><A HREF="sld078.htm" onClick="stc(this, 79)">Joel Birnbaum, CTO HP</A></P>
+        <P ALIGN=LEFT><A HREF="sld079.htm" onClick="stc(this, 80)">The End</A></P>
+        <P ALIGN=LEFT><A HREF="sld080.htm" onClick="stc(this, 81)">Supercomputing Next Steps</A></P>
+        <P ALIGN=LEFT><A HREF="sld081.htm" onClick="stc(this, 82)">Battle for speed through parallelism and massive parallelism</A></P>
+        <P ALIGN=LEFT><A HREF="sld082.htm" onClick="stc(this, 83)">Parallel processing computer architectures will be in use by 1975. 
+</A></P>
+        <P ALIGN=LEFT><A HREF="sld083.htm" onClick="stc(this, 84)">In Dec. 1995 computers with 1,000 processors will do most of the  scientific processing. 
+</A></P>
+        <P ALIGN=LEFT><A HREF="sld084.htm" onClick="stc(this, 85)">Bell Prize winners 1987-1997
+(transition from ECL to CMOS vector and microprocessors)</A></P>
+        <P ALIGN=LEFT><A HREF="sld085.htm" onClick="stc(this, 86)">PPT Slide</A></P>
+        <P ALIGN=LEFT><A HREF="sld086.htm" onClick="stc(this, 87)">Is vector processor dead?
+Ratio of Vector processor to Microprocessor speed vs time</A></P>
+        <P ALIGN=LEFT><A HREF="sld087.htm" onClick="stc(this, 88)">Is Vector Processor dead in 1997 for climate modeling?</A></P>
+        <P ALIGN=LEFT><A HREF="sld088.htm" onClick="stc(this, 89)">Cray computers vs time</A></P>
+        <P ALIGN=LEFT><A HREF="sld089.htm" onClick="stc(this, 90)">Jim Gray</A></P>
+
+   </td>
+   <td valign=top width=50%>
+	 <strong>Author: </strong>Gordon Bell 
+     <P> <strong>Email: </strong> <A HREF="MAILTO:gbell@microsoft.com" onClick="stc(this, 91)">gbell@microsoft.com</A> </P> 
+	 <P> <strong>Home Page: </strong> <A HREF="http://www.research.microsoft.com/users/gbell" onClick="stc(this, 92)">http://www.research.microsoft.com/users/gbell</A> </P> 
+	
+	
+	
+	
+   </td>
+  </tr>
+ </table>
+</center>
+
+<script type="text/javascript">
+function stc(e,linkIndex){if(document.images){var linkText;if(navigator.appName.toLowerCase()=="microsoft internet explorer"){linkText=e.innerText}else{linkText=e.textContent}if(linkText==""){if(e.firstChild){var firstChild=e.firstChild.nodeName.toUpperCase();if(firstChild=="IMG"){linkText="Image: "+getName(e.firstChild.getAttribute('src'))}}else{var nodeName=e.nodeName.toUpperCase();if(nodeName=="AREA"){linkText="ImageMap: "+e.href}}}if(linkText==""){linkText=e.href}(new Image()).src="/a/i/stg.gif?f="+escape(document.location.href)+"&t="+escape(e.href)+"&i="+linkIndex+"&n="+escape(trimString(linkText))}}function getName(s){if(s.lastIndexOf('/')>=0){return(s.substring(s.lastIndexOf('/')+1,s.length))}else{return(s)}}function trimString(s){return(s.replace(/^\s*/,"").replace(/\s*$/,""))}
+</script>
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cug.org/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="/node/4" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="https://cug.org/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta content="Cray User Group" about="/node/4" property="dc:title" />
+<link rel="shortlink" href="/node/4" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/node/4" />
+  <title>Cray User Group | Cray User Group</title>
+  <style type="text/css" media="all">@import url("https://cug.org/modules/system/system.base.css?n191yt");
+@import url("https://cug.org/modules/system/system.menus.css?n191yt");
+@import url("https://cug.org/modules/system/system.messages.css?n191yt");
+@import url("https://cug.org/modules/system/system.theme.css?n191yt");</style>
+<style type="text/css" media="all">@import url("https://cug.org/modules/book/book.css?n191yt");
+@import url("https://cug.org/modules/comment/comment.css?n191yt");
+@import url("https://cug.org/sites/all/modules/date/date_api/date.css?n191yt");
+@import url("https://cug.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?n191yt");
+@import url("https://cug.org/sites/all/modules/date/date_repeat_field/date_repeat_field.css?n191yt");
+@import url("https://cug.org/modules/field/theme/field.css?n191yt");
+@import url("https://cug.org/modules/node/node.css?n191yt");
+@import url("https://cug.org/modules/poll/poll.css?n191yt");
+@import url("https://cug.org/modules/search/search.css?n191yt");
+@import url("https://cug.org/modules/user/user.css?n191yt");
+@import url("https://cug.org/sites/all/modules/views/css/views.css?n191yt");</style>
+<style type="text/css" media="all">@import url("https://cug.org/sites/all/modules/ctools/css/ctools.css?n191yt");
+@import url("https://cug.org/sites/all/modules/uif/uif.css?n191yt");
+@import url("https://cug.org/modules/openid/openid.css?n191yt");</style>
+<style type="text/css" media="all">@import url("https://cug.org/themes/danland/style.css?n191yt");
+@import url("https://cug.org/themes/danland/danblog/local.css?n191yt");
+@import url("https://cug.org/themes/danland/danblog/danblog.css?n191yt");</style>
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://cug.org/themes/danland/danblog/style.ie6.css?n191yt" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://cug.org/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript" src="https://cug.org/sites/default/files/js/js_CC-zfeuQHcDhFtVRuKW53h30TL7j_105J32Nz8b8R38.js"></script>
+<script type="text/javascript" src="https://cug.org/sites/default/files/js/js_-t8Ik8hAh4I7ah9mZWxllR2DMZyrfueqU8gDt6-XLD0.js"></script>
+<script type="text/javascript" src="https://cug.org/sites/default/files/js/js_SCc8lM4TEl3XUaEQ0VNxQwbL2EaDAoY38DzBQrCgVB4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"danblog","theme_token":"c_8QZX47P-9hUsEQnV8Q0-_4L-0dJPzxu2K8vXp5gak","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"themes\/danland\/scripts\/jquery.cycle.all.js":1,"modules\/openid\/openid.js":1,"themes\/danland\/scripts\/hoverIntent.js":1,"themes\/danland\/scripts\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/uif\/uif.css":1,"modules\/openid\/openid.css":1,"themes\/danland\/style.css":1,"themes\/danland\/danblog\/local.css":1,"themes\/danland\/danblog\/danblog.css":1,"themes\/danland\/danblog\/style.ie6.css":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in two-sidebars page-node page-node- page-node-4 node-type-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div  id="layout-type-2">
+<div id="header">
+<div id="header-wrapper">
+	 
+		<div id="logo-wrapper">
+			<div class="logo">
+				<a href="/" title="Home"><img src="https://cug.org/sites/default/files/cug-logo-color_2.png" alt="Home" /></a>
+			</div>
+		</div><!-- end logo wrapper -->
+			
+	
+	
+			<div id="authorize">
+      		      <ul><li class="first"><a href="/user">Login</a></li><li><a href="/user/register">Register</a></li></ul>
+		</div>
+	
+      </div><!-- end header-wrapper -->
+</div> <!-- /header -->
+<div style="clear:both"></div>
+
+<div id="menu">
+<div id="rounded-menu-left"></div>
+       <div id="superfish">
+          <div class="region region-superfish-menu">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+  <h2 class="block-title">Main menu</h2>
+
+<div class="content">
+  <ul class="menu"><li class="first leaf"><a href="/" class="active">Home</a></li>
+<li class="expanded"><a href="/event-info">Events</a><ul class="menu"><li class="first leaf"><a href="/CUG2014" title="CUG 2014 Home Page">CUG 2014</a></li>
+<li class="leaf"><a href="/CUG2013">CUG 2013</a></li>
+<li class="leaf"><a href="/XTreme2013">XTreme Winter&#039;13</a></li>
+<li class="last leaf"><a href="/hosting-cug" title="Information on how to apply as a host site for a CUG Meeting">Hosting a CUG Meeting</a></li>
+</ul></li>
+<li class="expanded"><a href="/publications">Digital Library</a><ul class="menu"><li class="first leaf"><a href="/conference-proceedings">Conference Proceedings</a></li>
+<li class="leaf"><a href="/PresentationsPubsGuides">Information for Authors</a></li>
+<li class="leaf"><a href="/presenter-guide">Presenter Guide</a></li>
+<li class="last leaf"><a href="/session-chair-guide">Session Chair Guide</a></li>
+</ul></li>
+<li class="expanded"><a href="/membership">Membership</a><ul class="menu"><li class="first leaf"><a href="/members">Member sites</a></li>
+<li class="leaf"><a href="https://cug.org/sites/default/files/CUG-handbook.pdf" title="">Members&#039; Handbook</a></li>
+<li class="leaf"><a href="https://cug.org/sites/default/files/CUG-membership-application.pdf" title="">Membership Application</a></li>
+<li class="last leaf"><a href="/onlinepayment">Online Payment System</a></li>
+</ul></li>
+<li class="last expanded"><a href="/organizational-structure">Organization</a><ul class="menu"><li class="first leaf"><a href="/cugbod">Board of Directors</a></li>
+<li class="leaf"><a href="https://cug.org/sites/default/files/Bylaws 20130507.pdf" title="">CUG Bylaws</a></li>
+<li class="leaf"><a href="/cug-office">CUG Office</a></li>
+<li class="leaf"><a href="/email_lists">E-mail Lists</a></li>
+<li class="leaf"><a href="/working-groups">Program Committee</a></li>
+<li class="leaf"><a href="/SIG-chairs">Special Interest Groups</a></li>
+<li class="leaf"><a href="/ac">Advisory Council</a></li>
+<li class="leaf"><a href="/cuglogo">Download the CUG Logo</a></li>
+<li class="last leaf"><a href="/secretary_handbook" title="Secretary&#039;s Handbook">Secretary&#039;s Handbook</a></li>
+</ul></li>
+</ul></div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+      </div> <!-- end primary -->
+    <div id="rounded-menu-right"></div>
+</div> <!-- end menu -->
+<div style="clear:both"></div>
+
+
+ 
+<div style="clear:both"></div>
+<div id="wrapper">
+
+          <div id="sidebar-left" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user">
+
+  <h2 class="block-title">User login</h2>
+
+<div class="content">
+  <form action="/node/4?destination=node/4" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-openid-identifier">
+  <label for="edit-openid-identifier">Log in using OpenID </label>
+ <input type="text" id="edit-openid-identifier" name="openid_identifier" value="" size="15" maxlength="255" class="form-text" />
+<div class="description"><a href="http://openid.net/">What is OpenID?</a></div>
+</div>
+<div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-S1Mt9uD1n08EEQQW05KY254BpY-FCpa9mkV6mwexFBw" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<input type="hidden" name="openid.return_to" value="https://cug.org/openid/authenticate?destination=node/4" />
+<div class="item-list"><ul class="openid-links"><li class="openid-link first"><a href="#openid-login">Log in using OpenID</a></li>
+<li class="user-link last"><a href="#">Cancel OpenID login</a></li>
+</ul></div><div class="item-list"><ul><li class="first last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form></div> <!-- end block content -->
+</div> <!-- end block -->
+<div id="block-block-10" class="block block-block">
+
+  <h2 class="block-title">CUG 2014</h2>
+
+<div class="content">
+  <p><a href="https://cug.org/CUG2014"><img src="https://cug.org/sites/default/files/CUG-2014-logo__web_0.jpg" alt="CUG 2014 Logo" width="180" /></a></p>
+<p><strong>Important Dates:</strong></p>
+<p><span style="color: #808080;">Paper Notifications: 2/10</span><br /><span style="color: #808080;">Confirm Acceptance: 2/24</span><br /><span style="color: #ff0000;">Early Reg Deadline: 2/28</span><br /><span style="color: #ff0000;">1st Room Block: 2/28<br /><span style="color: #000000;">Last Room Block: 3/31Â </span></span></p>
+</div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+      </div></div> <!-- end sidebar-first -->
+    
+<div id="content">
+			<a id="main-content"></a>
+									      		      			        				<h1 class="title" id="page-title">
+         			 		Cray User Group        				</h1>
+     				       		      		        			<div class="tabs">
+          				        			</div>
+      		      		      				      <div class="content-middle">  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+  <div id="node-4" class="node node-page clearfix" about="/node/4" typeof="foaf:Document">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3><span style="color: #333399;">An Invitation</span></h3>
+<p>As an owner or user of a Cray computer system, you are already part of an elite computing community. It's time to make the most of it. The Cray User Group invites you to become a member of the Cray User Group (CUG), and to discover the benefits of professional relationships with other Cray users around the world.</p>
+<h3><span style="color: #333399;">Who We Are</span></h3>
+<p>The Cray User Group is an independent, international corporation of member organizations that own Cray Inc. computer systems. Founded in 1978, CUG was established to facilitate collaboration and information exchange in the high-performance computing (HPC) community. We assist our members in achieving their business and research objectives by providing opportunities to share and discover ideas, solutions, and developments in the effective use of computational tools.</p>
+<h3><span style="color: #333399;">Meetings of the Minds</span></h3>
+<p>As an employee or user of a CUG site, you will be invited to attend exclusive conferences and workshops all over the world. These events feature insightful presentations by HPC experts, as well as valuable technical sessions, tutorials, and demonstrations. They also facilitate member discussions around current experiences, projected trends, and productive collaboration opportunities with sessions led by special interest group leaders and other members of the Cray User Group. Although CUG operates independently of Cray Inc., you will benefit from Cray expertise at our conferences and workshops. Cray sends technical, management, and executive representatives to these events to share information and learn of our members' needs.</p>
+<h3><span style="color: #333399;">Other Benefits</span></h3>
+<p>In addition to our annual conferences and topical workshops, as a CUG member you will have access to: â€¢ CUG publications, including our newsletter, conference proceedings, and the CUG Handbook â€¢ a CUG Site List, which provides contact information of members who are willing to exchange ideas and experiences on a number of computing issues â€¢ e-mail reflectors, used for reporting technical problems, sharing solutions, and contributing relevant announcements or queries.</p>
+<h3><span style="color: #333399;">Join Us</span></h3>
+<p>If your organization has a Cray computer system, it is eligible to become a member of the Cray User Group. For an annual fee of $750, you and your colleagues can be an active part of our dynamic international community. Join us today and discover how collaboration among Cray users can lead to increased effectiveness, surprising solutions, and exciting innovations. For more information, please <a href="mailto:office@cug.org?subject=CUG Membership Inquiry">Contact Us</a> at your earliest convenience.</p>
+<div class="block">
+<h3><span style="color: #333399;">CUG 2013 Best Paper Award Winner</span></h3>
+</div>
+<p>The CUG 2013 Best Paper Award was awarded to "Trillion Particles, 120,000 cores, and 350 TBs: Lessons Learned from a Hero I/O Run on Hopper" Â Authors: Suren Byna (LBL), Prabhat (LBL), Andrew Uselton (LBL/NERSC), David Knaak (Cray), Yun (Helen) He (LBL/NERSC).</p>
+<div class="block">
+<h3>Â </h3>
+</div>
+</div></div></div>  </div>
+
+  
+  
+</div>
+</div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+</div>
+						
+</div> <!-- end content -->
+
+          <div id="sidebar-right" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-second">
+    <div id="block-block-3" class="block block-block">
+
+
+<div class="content">
+  <p><a href="https://twitter.com/crayusergroup" target="_blank"> <img src="/sites/default/files/pictures/twitter.png" alt="" width="20" height="20" /></a> <a href="http://www.facebook.com/crayusergroup" target="_blank"><img src="/sites/default/files/pictures/facebook.png" alt="" width="20" height="20" /></a> <a href="http://www.linkedin.com/groups?home=&amp;gid=2404624&amp;trk=anet_ug_hm" target="_blank"><img src="/sites/default/files/pictures/linkedin.png" alt="" width="20" height="20" /></a></p>
+</div> <!-- end block content -->
+</div> <!-- end block -->
+<div id="block-block-9" class="block block-block">
+
+  <h2 class="block-title">Latest News</h2>
+
+<div class="content">
+  <p>Early Registration ends Friday, February 28, 2013.</p>
+</div> <!-- end block content -->
+</div> <!-- end block -->
+<div id="block-block-11" class="block block-block">
+
+  <h2 class="block-title">CUG 2014 Sponsors</h2>
+
+<div class="content">
+  <p style="text-align: center;"><img style="vertical-align: top;" src="/sites/default/files/CSCS-logo-100.jpg" alt="CSCS" /></p>
+<hr /><p><a href="http://www.cray.com/" target="_blank"><img class="image_link" style="display: block; margin-left: auto; margin-right: auto;" src="/sites/default/files/pictures/cray-sponsor-logo.png" alt="Cray Inc." longdesc="http://www.cray.com/" width="100" border="0" /></a></p>
+<hr /><p><a href="http://www.intel.com/" target="_blank"><img class="image_link" style="display: block; margin-left: auto; margin-right: auto;" src="/sites/default/files/pictures/intel-logo.jpg" alt="intel" width="100" /></a></p>
+<hr /><p><a href="http://www.datadirectnet.com/" target="_blank"><img class="image_link" style="display: block; margin-left: auto; margin-right: auto;" src="/sites/default/files/pictures/DDN-sponsor-logo.png" alt="DDN" width="100" /></a></p>
+<hr /><p><a href="http://www.pbsworks.com/" target="_blank"><img class="image_link" style="display: block; margin-left: auto; margin-right: auto;" src="/sites/default/files/pictures/altair-sponsor-logo.png" alt="Altair" width="125" /></a></p>
+<p><a href="http://www.xyratex.com/" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="/sites/default/files/pictures/xyratex-logo.jpg" alt="xyratex" width="125" /></a></p>
+<p><sub>Â </sub></p>
+<p><a style="text-decoration: underline;" href="http://www.nvidia.com/page/home.html" target="_blank"><img class="image_link" style="display: block; float: left;" src="/sites/default/files/pictures/nvidia-sponsor-logo.png" alt="NVIDIA" longdesc="http://www.nividia.com/" width="75" /></a> <a style="text-decoration: underline;" href="http://www.pgroup.com/" target="_blank"><img class="image_link" style="display: block; margin-left: NaNpx; margin-right: NaNpx; float: right;" src="/sites/default/files/pictures/PGI-logo.png" alt="PGI" width="75" /></a></p>
+<p>Â </p>
+<p>Â </p>
+<hr /><p><a href="http://www.adaptivecomputing.com/" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="/sites/default/files/pictures/adaptive-computing-logo.jpg" alt="Adaptive Computing" width="100" /></a></p>
+<p><a style="text-decoration: underline;" href="http://www.allinea.com/" target="_blank"><img class="image_link" style="display: block; margin-left: auto; margin-right: auto;" src="/sites/default/files/pictures/allinea-sponsor-logo.png" alt="Allinea" width="100" /></a></p>
+<p><a style="text-decoration: underline;" href="http://www.schedmd.com/" target="_blank"><img class="image_link" style="display: block; margin-left: auto; margin-right: auto;" src="/sites/default/files/schedmd.png" alt="SchedMD" width="100" /></a></p>
+<p><a style="text-decoration: underline;" href="http://www.spectralogic.com/" target="_blank"><img class="image_link" style="display: block; margin-left: auto; margin-right: auto;" src="/sites/default/files/spectralogic.png" alt="SpectraLogic" width="100" /></a></p>
+</div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+      </div></div> <!-- end sidebar-second -->
+    <div style="clear:both"></div>
+</div> <!-- end wrapper -->
+
+
+
+
+ 
+<div style="clear:both"></div>
+<div id="footer-wrapper">
+<div id="footer">
+   <div class="region region-footer">
+    <div id="block-block-5" class="block block-block">
+
+
+<div class="content">
+  <p style="text-align: center;"><span style="font-size: small;">Copyright Â© 2013Â <a href="cug-copyright">Cray User Group, Inc.</a> - All Rights Reserved â‹… <a href="/privacy_policy">Privacy Policy</a> â‹… <a href="mailto:office@cug.org?subject=CUG%20Inquiry">Contact Us</a></span></p>
+</div> <!-- end block content -->
+</div> <!-- end block -->
+<div id="block-block-6" class="block block-block">
+
+
+<div class="content">
+  <p><img style="display: block; vertical-align: middle; margin-left: auto; margin-right: auto;" src="/sites/default/files/pictures/CUG_Logo_Color.jpg" alt="" width="128" /></p>
+</div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+</div>
+</div> <!-- end footer wrapper -->
+
+<div style="clear:both"></div>
+<div id="notice"><p>Theme by <a href="http://www.danetsoft.com">Danetsoft</a> and <a href="http://www.danpros.com">Danang Probo Sayekti</a> inspired by <a href="http://www.maksimer.no">Maksimer</a></p></div>
+</div>  </body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.excray.com/>====================
+<!DOCTYPE html public "-//w3c//dtd html 4.0 transitional//en">
+<HTML>  
+<HEAD>
+  <META NAME="GENERATOR" CONTENT="Adobe PageMill 3.0 Mac">
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <META NAME="keywords" CONTENT="Cray Research, ExCray, HPC, jobs, UNIX, computer software developers, hardware developers, high speed communications, operating system developers, compiler developers, UNICOS, java software developers, scientific computation">
+  <META NAME="subject" CONTENT="ExCray.com, Cray Research Alumni, jobs, HPC, jobs, UNIX, computer software developers, hardware developers, high speed communications, operating system developers, compiler developers, UNICOS, java software developers, scientific computation">
+		<TITLE>ExCray.com - Cray Research Alumni</TITLE>
+	</HEAD>
+<BODY LINK="#0000ff" ALINK="#0000ff" BGCOLOR="#cccccc" VLINK="#009700">
+
+<TABLE WIDTH="550" BORDER="0" CELLSPACING="0" CELLPADDING="0"
+HEIGHT="142">
+  <TR height="113">
+    <TD WIDTH="33%" HEIGHT="113">&nbsp;<I><FONT SIZE="+4">ExCray.com</FONT></I></TD> 
+    <TD valign="bottom" WIDTH="33%" HEIGHT="113">
+					<div align="center">
+						<font size="-2" face="Courier New,Courier,Monaco"><i><b>Version 11.1</b></i></font></div>
+				</TD>
+    <TD WIDTH="34%" HEIGHT="113">
+      <P ALIGN=RIGHT><IMG SRC="images/ExCray_logo_shadow.gif" WIDTH="172"
+      HEIGHT="98" ALIGN="BOTTOM" BORDER="0" NATURALSIZEFLAG="3"></TD> 
+  </TR>
+  <TR>
+    <TD COLSPAN="3">
+					<div align="center">
+						<P><FONT SIZE="-1">&nbsp;||| <A HREF="list/listintro.html">List</A> | <A HREF="/cgi-bin-local/sf_pro.cgi">Forum</A> | <A HREF="personaltouch/clippings.html">Clippings</A>
+      | <A HREF="links/index.html">Links</A> | <A HREF="misc/privacy.html">Privacy</A> |||<br>
+								<br>
+							</FONT>
+					</div>
+				</TD>
+  </TR>
+</TABLE><TABLE BORDER="0" CELLPADDING="8" WIDTH="576" CELLSPACING="2">
+			<TR>
+				<td width="543">
+					<table width="277" border="2" cellspacing="2" cellpadding="5">
+						<tr>
+							<td align="left" width="50%">
+								<div align="center">
+									<table width="240" border="0" cellspacing="0" cellpadding="2">
+										<tr>
+											<td colspan="3">
+												<p><b><font size="+2"><a href="list/listintro.html">ExCray Alumni</a></font></b></p>
+											</td>
+										</tr>
+										<tr>
+											<td width="20"></td>
+											<td colspan="2"><font size="-1"><b>Employees of Cray Research, Inc.<br>
+														(anyone who ever worked for CRI)</b></font></td>
+										</tr>
+										<tr>
+											<td width="20"></td>
+											<td colspan="2"><b><a href="misc/addexcray.html">Add/change me</a></b></td>
+										</tr>
+									</table>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50%">
+								<div align="center">
+									<b><a href="misc/whoandwhat.html">Eligibility notes - What is &quot;ExCray&quot;?</a></b></div>
+							</td>
+						</tr>
+						<tr>
+							<td width="50%">
+								<table width="525" border="0" cellspacing="0" cellpadding="2">
+									<tr height="18">
+										<td colspan="2" height="18"><b><font size="+1"><a href="jobs/index.html"><i>Job Postings</i></a></font></b></td>
+									</tr>
+									<tr>
+										<td width="4%"></td>
+										<td width="96%"><b><font size="-1">No current opportunities</font></b></td>
+									</tr><tr height="18">
+										<td colspan="2" height="18"><b><a href="/cgi-bin-local/sf_pro.cgi">WWW ExCray message Board </a> </b><font color="red"><i>(6/24/2013: Christopher Henfrey sad news )</i></font></td>
+									</tr>
+									<tr>
+										<td width="4%"></td>
+										<td width="96%"><b><font size="-1">The ExCray bulletin board has a new look, and now includes sections for &quot;clippings&quot; and &quot;passings&quot;.  This is a community resource.  Register for and ID and post your ideas and notes here. (The pre-2006 message board is available read-only <a href="wwwboard-pre2006/index.html">here</a>.)</font></b>
+										  <div align="center">
+												
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<td colspan="2"><b><a href="personaltouch/clippings.html">Clippings (old)</a></b></td>
+									</tr>
+									<tr>
+										<td width="4%"></td>
+										<td width="96%"><b><font size="-1">Comments from ExCray people.</font></b></td>
+									</tr>
+									<tr>
+										<td colspan="2"><b><a href="links/index.html">Here are some interesting links</a></b></td>
+									</tr>
+									<tr>
+										<td width="4%"></td>
+										<td width="96%"><font size="-1"><b>Links to other sites associated with Cray people, etc.</b></font></td>
+									</tr>
+									<tr>
+										<td colspan="2"><a href="misc/privacy.html"><b>Privacy</b></a></td>
+									</tr>
+									<tr>
+										<td width="4%"></td>
+										<td width="96%"><b><font size="-1">Who has access to this information? <i>Everyone</i>.&nbsp;</font></b></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+					<div align="left">
+						<br>
+					</div>
+				</td>
+			</TR>
+			<TR>
+				<td width="543">
+					<div align="center">
+						<hr width="85%">
+					</div>
+					<div align="center">
+						<p><b>The Cray Research Alumni thank <u><font color="#ff1119">i</font></u><a href="http://www.icompute.com/">Compute.com</a> for their generous help and support in hosting this site.</b></p>
+					</div>
+					<div align="center">
+						<center>
+							<b>Check them out for WEB hosting, internet service, special scripting needs and, of course, much, much more.</b></center>
+					</div>
+					<div align="center">
+						<a href="http://www.icompute.com/"><IMG SRC="images/ic_logo_gr.gif"
+      BORDER="0" HEIGHT="51" WIDTH="174" NATURALSIZEFLAG="0" ALIGN="BOTTOM"></a>
+						<p></p>
+					</div>
+				</td>
+			</TR>
+		</TABLE>
+
+</BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.ed-thelen.org/comp-hist/CRAY-1-HardRefMan/CRAY-1-HRM.html>====================
+<HTML>
+<HEAD>
+ 
+ 
+<TITLE>CRAY-1 Hardware Reference Manual</TITLE></HEAD>
+<BODY>
+
+The source manual was loaned by <A HREF="http://www.digibarn.com">DigiBarn</A>.
+It is the first 3 chapters of the CRAY RESEARCH CRAY-1 Hardware 
+Refernce Manual 2240004, Revision C - Conversion to HTML was done by
+<A HREF="mailto:ed@ed-thelen.org">Ed Thelen</A>.
+<P>
+A .pdf version of the complete manual (204 pages) is now available from
+<DD><A HREF="http://bitsavers.org/pdf/cray/2240004C-1977-Cray1.pdf">www.bitsavers.org</A> - 5.3 megabytes :-)) Jan 2007
+<P>
+Return to <A HREF="../on-line-docs.html">On-Line-Documents</A>
+<P>
+<HR>
+<P>
+<BLOCKQUOTE>
+<CENTER>
+
+<A HREF="CRAY-1-HRM-0000.jpg"><IMG SRC="CRAY-1-HRM-0000-t.gif"></A>
+<P>
+<HR>
+<P>
+<H1>CRAY-1 
+<BR>COMPUTER SYSTEM<SUP>&#174;</SUP></H1>
+<P >
+<H2>HARDWARE REFERENCE MANUAL 
+<BR>2240004  </H2>
+<P>
+<BR><BR><BR>
+Copyright&#169;1977 by CRAY RESEARCH, INC. This manual or parts thereof may 
+<BR>not be reproduced in any form without permission of CRAY RESEARCH, INC.  
+<P>
+<IMG SRC="CRAY-1-HRM-201.gif">
+</CENTER>
+<P>
+<HR>
+<P>
+<CENTER>
+<IMG SRC="CRAY-1-HRM-201.gif">
+</CENTER>
+<P>
+
+<TABLE WIDTH=80%>
+<TD align=center>RECORD OF REVISION
+	<TD align=center>	PUBLICATION NUMBER
+</TABLE>
+<TABLE WIDTH=80% cellpadding=5>
+<TD WIDTH=20%><U>Revision
+	<TD WIDTH=20%><U>	Print Date	
+		<TD><U>Description
+<TR><TD> &nbsp; <TD>1/76<TD>	Original printing
+<TR><TD>A	<TD>5/76	<TD>Reprint with revision
+<TR><TD>A-01	<TD>9/76<TD>	Corrections to pages 3-20, 3-27, 4-9, 4-10, 4-28, 
+4-36, 4-43, 4-55, and 4-57.
+<TR><TD>B	<TD>10/76<TD>	Reprint with revision. Addition of: 
+Floating point range error detection 
+Vector floating point error
+Error correction
+<TR><TD>B-01	<TD>2/77	<TD>Changes to exchange package (p 3-36); additions 
+to instructions 152 and 153 (p 4-53); corrections 
+to syndrome bit description p 5-5; corrections to 
+instruction summary, appendix D.
+<TR><TD>B-02	<TD>7/77<TD>	Corrections and changes to pages xi, 2-3, 3-19 
+through 3-28.1, 3-31, 3-34, 3-36, 3-38, 4-14 
+through 4-17, 4-54, 4-68, 5-1, 5-3, 5-4, 5-6, 
+6-2, A-4, D-1 through D-4.
+<TR><TD>C	<TD>11/77<TD>	This printing obsoletes revision B. Features 
+added include 8-bank phasing and I/0 master clear 
+procedure. Chart tape reflects only changes 
+introduced with this revision.
+</TABLE>
+<P>
+<HR width=50% >
+<P>
+<FONT size=-1>
+Each time this manual is revised and reprinted, all changes issued against the previous version in the form 
+of change packets are incorporated into the new version and the new version is assigned an alphabetic level. 
+Between reprints, changes may be issued against the current version in the form of change packets. Each 
+change packet is assigned a numeric designator starting with 01 for each new revision level. Every page 
+changed by a reprint or by a change packet has the revision level and change packet number in the lower right-
+hand corner. All changes are noted by a change bar along the margin of the page.
+Requests for copies of CRAY RESEARCH, INC. publications should be directed to:	CRAY RESEARCH, INC. 
+7850 Metro Parkway 
+Suite 213
+	Bloomington, MN	55420
+</FONT>
+<P>
+<HR>
+<P>
+<B>CONTENTS</B>
+<TABLE cellpadding=0>
+<TR><TD>1. <TD> <U>INTRODUCTION   <TD><A HREF="#p1-1">1-1
+<TR><TD> <TD> COMPUTATION SECTION   <TD><A HREF="#p1-4">1-4 
+<TR><TD> <TD> MEMORY SECTION   <TD><A HREF="#p1-5">1-5 
+<TR><TD> <TD> INPUT/OUTPUT SECTION   <TD><A HREF="#p1-5">1-5 
+<TR><TD> <TD> VECTOR PROCESSING  <TD><A HREF="#p1-6">1-6
+<TR><TD>2. <TD> 	<U>PHYSICAL ORGANIZATION   <TD><A HREF="#p2-1">2-1
+<TR><TD> <TD> INTRODUCTION   <TD><A HREF="#p2-1">2-1 
+<TR><TD> <TD> MAINFRAME   <TD><A HREF="#p2-1">2-1
+<TR><TD> <TD> <DD> Modules   <TD><A HREF="#p2-1">2-1 
+<TR><TD> <TD>  <DD>  <DD> Printed circuit board   <TD><A HREF="#p2-4">2-4 
+<TR><TD> <TD>  <DD>  <DD> Module assembly   <TD><A HREF="#p2-5">2-5 
+<TR><TD> <TD>  <DD>  <DD> Integrated circuit packages   <TD><A HREF="#p2-5">2-5 
+<TR><TD> <TD>  <DD>  <DD> IC high-speed logic gate   <TD><A HREF="#p2-5">2-5 
+<TR><TD> <TD>  <DD>  <DD> IC slow-speed logic gate   <TD><A HREF="#p2-5">2-5 
+<TR><TD> <TD>  <DD>  <DD> 16x1 register chip   <TD><A HREF="#p2-5">2-5 
+<TR><TD> <TD>  <DD>  <DD> 10241 memory chip   <TD><A HREF="#p2-6">2-6 
+<TR><TD> <TD>  <DD>  <DD> Resistors   <TD><A HREF="#p2-6">2-6 
+<TR><TD> <TD>  <DD>  <DD> Connector strips   <TD><A HREF="#p2-6">2-6
+<TR><TD> <TD>  <DD> Clock  <TD><A HREF="#p2-7">2-7 
+<TR><TD> <TD>  <DD> Power supplies  <TD><A HREF="#p2-7">2-7 
+<TR><TD> <TD> PRIMARY POWER SYSTEM   <TD><A HREF="#p2-8">2-8 
+<TR><TD> <TD> COOLING   <TD><A HREF="#p2-8">2-8 
+<TR><TD> <TD> MAINTENANCE CONTROL UNIT   <TD><A HREF="#p2-9">2-9 
+<TR><TD> <TD> FRONT-END COMPUTER   <TD><A HREF="#p2-10">2-10 
+<TR><TD> <TD> EXTERNAL INTERFACE   <TD><A HREF="#p2-10">2-10 
+<TR><TD> <TD> MASS STORAGE SUBSYSTEM   <TD><A HREF="#p2-11">2-11
+<TR><TD>3. <TD> 	COMPUTATION SECTION  <TD><A HREF="#p3-1">3-1
+<TR><TD> <TD> INTRODUCTION   <TD><A HREF="#p3-1">3-1 
+<TR><TD> <TD> REGISTER CONVENTIONS   <TD><A HREF="#p3-3">3-3 
+<TR><TD> <TD> OPERATING REGISTERS   <TD><A HREF="#p3-3">3-3 
+<TR><TD> <TD>  <DD> V registers   <TD><A HREF="#p3-4">3-4
+<TR><TD> <TD>  <DD> V register reservations   <TD><A HREF="#p3-5">3-5
+<TR><TD> <TD>  <DD> Vector control registers   <TD><A HREF="#p3-6">3-6 
+<TR><TD> <TD>  <DD>  <DD> VL register   <TD><A HREF="#p3-6">3-6 
+<TR><TD> <TD>  <DD>  <DD> VM register   <TD><A HREF="#p3-6">3-6
+<TR><TD> <TD>  <DD> S registers   <TD><A HREF="#p3-7">3-7 
+<TR><TD> <TD>  <DD> T registers   <TD><A HREF="#p3-8">3-8 
+<TR><TD> <TD>  <DD> A registers   <TD><A HREF="#p3-8">3-8 
+<TR><TD> <TD>  <DD> B registers   <TD><A HREF="#p3-9">3-9 
+<TR><TD>  <TD> FUNCTIONAL UNITS   <TD><A HREF="#p3-10">3-10 
+<TR><TD> <TD>  <DD> Address functional units   <TD><A HREF="#p3-11">3-11 
+<TR><TD> <TD>  <DD>  <DD> Address add unit	  <TD><A HREF="#p3-11">3-11 
+<TR><TD> <TD>  <DD>  <DD> Address multiply unit   <TD><A HREF="#p3-11">3-11
+<TR><TD> <TD>  <DD> Scalar functional units   <TD><A HREF="#p3-12">3-12 
+<TR><TD> <TD>  <DD>  <DD> Scalar add unit   <TD><A HREF="#p3-12">3-12 
+<TR><TD> <TD>  <DD>  <DD> Scalar shift unit   <TD><A HREF="#p3-12">3-12
+<TR><TD> <TD>  <DD>  <DD> Scalar logical unit  <TD><A HREF="#p3-13">3-13 
+<TR><TD> <TD>  <DD>  <DD> Population/leading zero count unit   <TD><A HREF="#p3-13">3-13 
+<TR><TD> <TD>  <DD> Vector functional units   <TD><A HREF="#p3-13">3-13 
+<TR><TD> <TD>  <DD>  <DD> Vector functional,unit reservation   <TD><A HREF="#p3-13">3-13 
+<TR><TD> <TD>  <DD>  <DD> Recursive characteristic of vector functional units   <TD><A HREF="#p3-14">3-14 
+<TR><TD> <TD>  <DD>  <DD> Vector add unit  	<TD><A HREF="#p3-17">3-17 
+<TR><TD> <TD>  <DD>  <DD> Vector shift unit   <TD><A HREF="#p3-17">3-17
+<TR><TD> <TD>  <DD>  <DD> Vector logical unit   <TD><A HREF="#p3-17">3-17 
+<TR><TD> <TD>  <DD> Floating point functional units   <TD><A HREF="#p3-17">3-17 
+<TR><TD> <TD>  <DD>  <DD> Floating point add unit   <TD><A HREF="#p3-18">3-18 
+<TR><TD> <TD>  <DD>  <DD> Floating point multiply unit   <TD><A HREF="#p3-18">3-18 
+<TR><TD> <TD>  <DD>  <DD> Reciprocal approximation unit   <TD><A HREF="#p3-18">3-18 
+<TR><TD> <TD> ARITHMETIC OPERATIONS   <TD><A HREF="#p3-19">3-19
+<TR><TD> <TD>  <DD> Integer arithmetic   <TD><A HREF="#p3-19">3-19 
+<TR><TD> <TD>  <DD> Floating point arithmetic   <TD><A HREF="#p3-20">3-20 
+<TR><TD> <TD>  <DD>  <DD> Normalized floating point   <TD><A HREF="#p3-20">3-20 
+<TR><TD> <TD>  <DD>  <DD> Floating point range errors   <TD><A HREF="#p3-21">3-21 
+<TR><TD> <TD>  <DD>  <DD> Floating point add unit    <TD><A HREF="#p3-21">3-21 
+<TR><TD> <TD>  <DD>  <DD> Floating point multiply unit   <TD><A HREF="#p3-22">3-22 
+<TR><TD> <TD>  <DD>  <DD> Floating point reciprocal approximation unit   
+	<TD><A HREF="#p3-22">3-22 
+<TR><TD> <TD>  <DD> Double precision numbers   <TD><A HREF="#p3-23">3-23 
+<TR><TD> <TD>  <DD> Addition algorithm   <TD><A HREF="#p3-23">3-23 
+<TR><TD> <TD>  <DD> Multiplication algorithm   <TD><A HREF="#p3-24">3-24 
+<TR><TD> <TD>  <DD> Division algorithm  <TD><A HREF="#p3-28">3-28 
+ 
+<TR><TD> <TD> LOGICAL OPERATIONS   <TD><A HREF="#p3-29">3-29 
+<TR><TD> <TD> INSTRUCTION ISSUE AND CONTROL   <TD><A HREF="#p3-30">3-30 
+<TR><TD> <TD>  <DD> P register   <TD><A HREF="#p3-30">3-30 
+<TR><TD> <TD>  <DD> CIP register   <TD><A HREF="#p3-31">3-31 
+<TR><TD> <TD>  <DD> NIP register   <TD><A HREF="#p3-31">3-31 
+<TR><TD> <TD>  <DD> LIP register   <TD><A HREF="#p3-32">3-32
+<TR><TD> <TD>  <DD> Instruction buffers	  <TD><A HREF="#p3-32">3-32 
+<TR><TD> <TD> EXCHANGE MECHANISM   <TD><A HREF="#p3-35">3-35 
+<TR><TD> <TD>  <DD> XA register	  <TD><A HREF="#p3-35">3-35 
+<TR><TD> <TD>  <DD> M register   <TD><A HREF="#p3-35">3-35 
+<TR><TD> <TD>  <DD> F register   <TD><A HREF="#p3-36">3-36 
+<TR><TD> <TD>  <DD> Exchange package   <TD><A HREF="#p3-36">3-36 
+<TR><TD> <TD>  <DD>  <DD> Active exchange package   <TD><A HREF="#p3-39">3-39 
+<TR><TD> <TD>  <DD> Exchange sequence   <TD><A HREF="#p3-39">3-39 
+<TR><TD> <TD>  <DD>  <DD> Initiated by dead start sequence	  <TD><A HREF="#p3-40">3-40 
+<TR><TD> <TD>  <DD>  <DD> Initiated by interrupt flag set     <TD><A HREF="#p3-40">3-40 
+<TR><TD> <TD>  <DD>  <DD> Initiated by program exit   <TD><A HREF="#p3-40">3-40 
+<TR><TD> <TD>  <DD>  <DD> Exchange sequence issue conditions   <TD><A HREF="#p3-41">3-41
+<TR><TD> <TD>  <DD> Exchange package management	  <TD><A HREF="#p3-42 ">3-42 
+<TR><TD> <TD> MEMORY FIELD PROTECTION  <TD><A HREF="#p3-43">3-43 
+<TR><TD> <TD>  <DD> BA register   <TD><A HREF="#p3-44">3-44
+<TR><TD> <TD>  <DD> LA register   <TD><A HREF="#p3-44">3-44 
+<TR><TD> <TD> DEAD START SEQUENCE   <TD><A HREF="#p3-44">3-44
+<TR><TD>4.  <TD><U> INSTRUCTIONS   <TD>4-1 
+<TR><TD> <TD> INSTRUCTION FORMAT   <TD>4-1 
+<TR><TD> <TD>  <DD> Arithmetic, logical format  <TD>4-1 
+<TR><TD> <TD>  <DD> Shift, mask format   <TD>4-2 
+<TR><TD> <TD>  <DD> Immediate constant format   <TD>4-2 
+<TR><TD> <TD>  <DD> Memory transfer format   <TD>4-3 
+<TR><TD> <TD>  <DD> Branch format   <TD>4-4 
+<TR><TD> <TD> SPECIAL REGISTER VALUES   <TD>4-5 
+<TR><TD> <TD> INSTRUCTION ISSUE   <TD>4-5 
+<TR><TD> <TD> INSTRUCTION DESCRIPTIONS   <TD>4-6 
+<TR><TD> <TD>  <DD> 000000	Error exit   <TD>4-7
+<TR><TD> <TD>  <DD> 001i jk	Monitor	functions	 	<TD>4-8
+<TR><TD> <TD>  <DD> 0020xk	Transmi t	(AK)	to VL	 <TD>4-10
+2240004	v	C
+<TR><TD> <TD>  <DD> 0021xx	Set the floating point mode flag in the M register <TD>4-11
+<TR><TD> <TD>  <DD> 0022xx	Clear the floating point mode flag in the M register   <TD>4-11 
+<TR><TD> <TD>  <DD> 003xjx	Transmit (Sj) to vector mask  	<TD>4-12 
+<TR><TD> <TD>  <DD> 004xxx	Normal exit   <TD>4-13
+<TR><TD> <TD>  <DD> 005xjk	Branch to (Bjk)   <TD>4-14
+<TR><TD> <TD>  <DD> 006ijkm	Branch to ijkm   <TD>4-15
+<TR><TD> <TD>  <DD> 007ijkm	Return jump to ijkm; set Boo to (P)   <TD>4-16
+<TR><TD> <TD>  <DD> 010ijkm	Branch to ijkm if (Ao) = 0   <TD>4-17
+<TR><TD> <TD>  <DD> 011ijkm	Branch to ijkm if (Ao)	0   <TD>4-17
+<TR><TD> <TD>  <DD> 012ijkm	Branch to ijkm if (A0) positive   <TD>4-17
+<TR><TD> <TD>  <DD> 013ijkm	Branch to ijkm if (Ao) negative   <TD>4-17
+<TR><TD> <TD>  <DD> 014ijkm	Branch to ijkm if (So) = 0   <TD>4-18
+<TR><TD> <TD>  <DD> 015ijkm	Branch to ijkm if (So)	0   <TD>4-18
+<TR><TD> <TD>  <DD> 016ijkm	Branch to ijkm if (So) positive   <TD>4-18
+<TR><TD> <TD>  <DD> 017ijkm	Branch to ijkm if (So) negative   <TD>4-18
+<TR><TD> <TD>  <DD> 0201jkm	Transmit	j km	to	Ai <TD>4-19
+<TR><TD> <TD>  <DD> 021ijkm	Transmit complement of jkm to Ai	 <TD>4-19
+<TR><TD> <TD>  <DD> 022ijk	Transmit	j k	to	Ai <TD>4-20
+<TR><TD> <TD>  <DD> 023ijx	Transmit	(Sj)	to	Ai	 TD>4-21
+<TR><TD> <TD>  <DD> 024ijk	Transmit (Bjk) to Ai   <TD>4-22
+<TR><TD> <TD>  <DD> 025ijk	Transmit	(Ai)	to	Bjk	 <TD>4-22
+<TR><TD> <TD>  <DD> 026ijx	Population count of (Sj) to Ai   <TD>4-23
+<TR><TD> <TD>  <DD> 027ijx	Leading zero count of (Sj) to Ai   <TD>4-24
+<TR><TD> <TD>  <DD> 030ijk	Integer sum of (Aj) and (Ak) to Ai   <TD>4-25
+<TR><TD> <TD>  <DD> 031ijk	Integer difference (Aj) and (Ak) to Ai	  <TD>4-25
+<TR><TD> <TD>  <DD> 032ijk	Integer product of (Aj) and (Ak) to Ai	  <TD>4-26
+<TR><TD> <TD>  <DD> 033ijk	Transmit I/0 status to Ai   <TD>4-27 
+<TR><TD> <TD>  <DD> 034ijk	Block transfer (Ai) words from memory starting at<BR> 
+	<DD> <DD> address (Ao) to B register starting at register jk <TD>4-29 
+<TR><TD> <TD>  <DD> 035ijk	Block transfer (Ai) words from B registers starting<BR>
+	<DD> <DD> at register jk to memory starting at address (Ao) <TD>4-29 
+<TR><TD> <TD>  <DD> 036ijk	Block transfer (Ai) words from memory starting at<BR> 
+	<DD> <DD> address (Ao) to T registers starting at register jk <TD>4-29 
+<TR><TD> <TD>  <DD> 037ijk	Block transfer (Ai) words from T registers starting<BR>
+	<DD> <DD> at register jk to memory starting at address (Ao) <TD>4-29 
+2240004	vi <DD> 	C
+<TR><TD> <TD>  <DD> 040ijkm	Transmit jkm to Si	  <TD>4-31
+<TR><TD> <TD>  <DD> 041ijkm	Transmit complement of jkm to Si   <TD>4-31
+<TR><TD> <TD>  <DD> 042ijk	Form 64-jk bits of one's mask in Si from right   <TD>4-32
+<TR><TD> <TD>  <DD> 043ijk	Form jk bits of one's mask in Si from left   <TD>4-32
+<TR><TD> <TD>  <DD> 044ijk	Logical product of (Sj) and (Sk) to Si   <TD>4-33
+<TR><TD> <TD>  <DD> 045ijk	Logical product of (Sj) and complement of Sk to Si  <TD>4-33
+<TR><TD> <TD>  <DD> 046ijk	Logical difference of (Sj) and (Sk) to Si   <TD>4-33
+<TR><TD> <TD>  <DD> 047ijk	Logical difference of (Sk) and complement of
+	Sk) to Si  <TD>4-33 
+<TR><TD> <TD>  <DD> 050i j k	Scalar	merge	 	<TD>4-33 
+<TR><TD> <TD>  <DD> 051ijk	Logical sum of (Sj) and (Sk) to Si   <TD>4-33
+<TR><TD> <TD>  <DD> 052ijk	Shift (Si) left jk places to So   <TD>4-36
+<TR><TD> <TD>  <DD> 053ijk	Shift (Si) right 64-jk places to So   <TD>4-36
+<TR><TD> <TD>  <DD> 054ijk	Shift (Si) left jk places to Si   <TD>4-36
+<TR><TD> <TD>  <DD> 055ijk	Shift (Si) right 64-jk places to Si   <TD>4-36
+<TR><TD> <TD>  <DD> 056ijk	Shift (Si) and (Sj) left by (Sk) places to Si   <TD>4-37
+<TR><TD> <TD>  <DD> 057ijk	Shift (Sj) and (Si) right by (Ak) places to Si   <TD>4-37
+<TR><TD> <TD>  <DD> 060ijk	Integer sum of (Sj) and (Sk) to Si  	<TD>4-38
+<TR><TD> <TD>  <DD> 061ijk	Integer difference of (Sj) and (Sk) to Si   <TD>4-38
+<TR><TD> <TD>  <DD> 062ijk	Floating sum of (Sj) and (Sk) to Si  <TD>4-39
+<TR><TD> <TD>  <DD> 063ijk	Floating difference of (Sj) and (Sk) to Si   <TD>4-39
+<TR><TD> <TD>  <DD> 064ijk	Floating product of (Sj) and (Sk) to Si   <TD>4-40
+<TR><TD> <TD>  <DD> 065ijk	Half-precision rounded floating product of (Sj)
+	and (Sk) to Si   <TD>4-40 
+<TR><TD> <TD>  <DD> 066ijk	Rounded floating product of (Sj) and (Sk) to Si   <TD>4-40 
+<TR><TD> <TD>  <DD> 067ijk	Reciprocal iteration; 2-(Sj)*(Sk) to Si   <TD>4-40
+<TR><TD> <TD>  <DD> 070ijx	Floating reciprocal approximation of (Sj) to Si   <TD>4-42
+<TR><TD> <TD>  <DD> 071ijk	Transmit (Ak) or normalized floating point
+	constant to Si   <TD>4-43
+<TR><TD> <TD>  <DD> 072ixx	Transmit (RTC) to Si   <TD>4-45
+<TR><TD> <TD>  <DD> 073ixx	Transmit (VM) to Si   <TD>4-45
+<TR><TD> <TD>  <DD> 074ijk	Transmit (Tjk) to Si   <TD>4-45
+<TR><TD> <TD>  <DD> 075ijk	Transmit (Si) to Tjk   <TD>4-45
+<TR><TD> <TD>  <DD> 076ijk	Transmit (Vj element (Ak)) to Si   <TD>4-46
+<TR><TD> <TD>  <DD> 077ijk	Transmit (SP to Vi element (Ak)   <TD>4-46
+ 2240004	vii	C
+<TR><TD> <TD>  <DD> 10hijkm	Read from ((Ah) + jkm) to Ai  	<TD>4-47
+<TR><TD> <TD>  <DD> 11hijkm	Store (Ai) to (Ah) + jkm  	<TD>4-47
+<TR><TD> <TD>  <DD> 12hijkm	Read from ((Ah) + jkm) to Si  	<TD>4-47
+<TR><TD> <TD>  <DD> 13hijkm	Store (Si) to (Ah) + jkm  	<TD>4-47
+<TR><TD> <TD>  <DD> 140ijk	Logical products of (Sj) and (Vk elements) to
+	Vi elements   <TD>4-49 
+<TR><TD> <TD>  <DD> 141ijk	Logical products of (Vj elements) and (Vk elements
+	to Vi elements  	<TD>4-49
+<TR><TD> <TD>  <DD> 142ijk	Logical sums of (Sj) and (Vk elements) to Vi
+	elements  <TD>4-49 
+<TR><TD> <TD>  <DD> 143ijk	Logical sums of (Vj elements) and (Vk elements) to
+	Vi elements  	<TD>4-49
+<TR><TD> <TD>  <DD> 144ijk	Logical differences of (Sj) and (Vk elements) to
+	Vi elements  	<TD>4-49
+<TR><TD> <TD>  <DD> 145ijk	Logical differences of (Vj elements) and (Vk
+	elements) to Vi elements  	<TD>4-49
+<TR><TD> <TD>  <DD> 146ijk	If VM bit = 1, transmit (Sj) to Vi elements<BR>
+	<DD> <DD> If VM bit	1, transmit (Vk elements) to Vi elements <TD>4-49
+<TR><TD> <TD>  <DD> 147ijk	If VM bit = 1, transmit (Vj elements) to Vi elements<BR>
+	<DD> <DD> If VM bit	1, transmit (Vk elements) to Vi elements <TD>4-49
+<TR><TD> <TD>  <DD> 150ijk	Single shift of (Vj elements) left by (Ak) places
+to Vi elements   <TD>4-53 
+<TR><TD> <TD>  <DD> 151ijk	Single shift of (Vi elements) right by (Ak) places
+to Vi elements   <TD>4-53 
+<TR><TD> <TD>  <DD> 152ijk	Double shifts of (Vj elements) left (Ak) places
+to Vi elements   <TD>4-54 
+<TR><TD> <TD>  <DD> 153ijk	Double shifts of (Vj elements) right (Ak) places
+to Vi elements   <TD>4-54 
+<TR><TD> <TD>  <DD> 154ijk	Integer sums	(Sj) and (Vk elements) to Vi elements 4-59 
+<TR><TD> <TD>  <DD> 155ijk	Integer sums	(Vj elements) and (Vk elements) to
+	Vi elements     <TD>4-59 
+<TR><TD> <TD>  <DD> 156ijk	Integer differences of (Sj) and (Vk elements) to
+	Vi elements   <TD>4-59 
+<TR><TD> <TD>  <DD> 157ijk	Integer differences of (Vj elements) and (Vk
+	elements) to Vi elements  <TD>4-59 
+2240004	viii
+<TR><TD> <TD> APPENDIXES
+<TR><TD> <TD>  <DD> A	TIMING SUMMARY   <TD>A-1
+<TR><TD> <TD>  <DD> B	MODULE TYPES   <TD>B-1
+<TR><TD> <TD>  <DD> C	SOFTWARE CONSIDERATIONS   <TD>C-1
+<TR><TD> <TD>  <DD> D	INSTRUCTION SUMMARY  <TD>D-1 
+<TR><TD> <TD> FIGURES
+<TR><TD> <TD>  <DD> 1-1 Basic computer system   <TD><A HREF="#p1-2">1-2 
+<TR><TD> <TD>  <DD> 2-1 Physical organization of the mainframe   <TD><A HREF="#p2-2">2-2 
+<TR><TD> <TD>  <DD> 2-2 General chassis layout   <TD><A HREF="#p2-3">2-3 
+<TR><TD> <TD>  <DD> 2-3 Clock pulse waveform   <TD><A HREF="#p2-7">2-7 
+<TR><TD> <TD>  <DD> 3-1 Computation section   <TD><A HREF="#p3-2">3-2 
+<TR><TD> <TD>  <DD> 3-2 Integer data formats   <TD><A HREF="#p3-19">3-19 
+<TR><TD> <TD>  <DD> 3-3 Floating point data format   <TD><A HREF="#p3-20">3-20 
+<TR><TD> <TD>  <DD> 3-4 49-bit floating point addition   <TD><A HREF="#p3-23">3-23 
+<TR><TD> <TD>  <DD> 3-5 Floating point multiply pyramid  <TD><A HREF="#p3-25">3-25 
+<TR><TD> <TD>  <DD> 3-6 Relationship of instruction buffers and registers   
+	<TD><A HREF="#p3-30">3-30 
+<TR><TD> <TD>  <DD> 3-7 Instruction buffers   <TD><A HREF="#p3-33">3-33 
+<TR><TD> <TD>  <DD> 3-8 Exchange package   <TD><A HREF="#p3-37">3-37 
+<TR><TD> <TD>  <DD> 4-1 General format for instructions   <TD>4-1
+<TR><TD> <TD>  <DD> 4-2 Format for arithmetic and logical instructions   <TD>4-2 
+<TR><TD> <TD>  <DD> 4-3 Format for shift and mask instructions   <TD>4-2 
+<TR><TD> <TD>  <DD> 4-4 Format for immediate constant instructions  <TD>4-3 
+<TR><TD> <TD>  <DD> 4-5 Format for memory transfer instructions   <TD>4-4 
+<TR><TD> <TD>  <DD> 4-6 Two-parcel format for branch instructions  <TD>4-4 
+<TR><TD> <TD>  <DD> 5-1 Memory organization   <TD>5-2 
+<TR><TD> <TD>  <DD> 5-2 Memory address   <TD>5-3 
+<TR><TD> <TD>  <DD> 6-1 Channel I/0 control   <TD>6-2 
+<TR><TD> <TD> TABLES
+<TR><TD> <TD>  <DD> 1-1 Characteristics of CRAY-1 Computer System   <TD><A HREF="#p1-3">1-3 
+<TR><TD> <TD>  <DD> 2-1 Characteristics of a DD-19 Disk Storage Unit   
+	<TD><A HREF="#p2-11">2-13 
+</TABLE>
+
+<P>
+2240004	xi	C
+<P>
+<HR>
+<P>
+<center>
+<H2>SECTION 1 
+<P>INTRODUCTION
+</H2></CENTER>
+<P>
+<HR>
+<P>
+<TABLE>
+
+<TR><TD><IMG SRC="CRAY-1-HRM-201.gif">
+<TD>TECHNICAL COMMUNICATIONS
+<BR><FONT  size=-1>
+7850 Metro Parkway, Suite 213, Minneapolis, MN 55420 . (612) 854-7472
+</TABLE>
+<P>
+<BR>
+<CENTER>
+PUBLICATION CHANGE NOTICE 
+<P>
+November 4, 1977
+</CENTER>
+<P>
+TITLE:	CRAY-1 Hardware Reference Manual
+<P>
+PUBLICATION NO. 2240004	REV. C
+<P>
+This printing obsoletes version B and applies to CRAY-1 Computer Systems 
+starting with Serial No. 3. Revision A remains relevant for Serial l.
+<P>
+<A NAME="p1-1">
+<HR>
+<P>
+<H2>
+INTRODUCTION	1 
+</H2>
+<P>
+
+The CRAY-1 Computer System is a powerful general-purpose computer capable 
+of extremely high processing rates. These rates are achieved by combining 
+scalar and vector capabilities into a single central processor which is 
+joined to a large, fast, bi-polar memory. Vector processing by performing 
+iterative operations on sets of ordered data provide results at rates 
+greatly exceeding result rates of conventional scalar processing. Scalar 
+operations complement the vector capability by providing solutions to 
+problems not readily adapted to vector techniques.
+<P>
+Figure 1-1 represents the basic organization of a CRAY-1 system. The 
+central processor unit (CPU) is a single integrated processing unit 
+consisting of a computation section, a memory section, and an input/ 
+output section. The memory is expandable from 0.25 million 64-bit words 
+to a maximum of 1.0 million words. The 12 input channels and 12
+output channels in the input/output section connect to a maintenance 
+control unit (MCU), a mass storage subsystem, and a variety of front-end 
+systems or peripheral equipment. The MCU provides for system initializa-
+tion and for monitoring system performance. The mass storage subsystem 
+provides secondary storage and consists of one to eight Cray Research 
+DCU-2 Disk Controllers, each with one to four DD-19 Disk Storage Units. 
+Each DD-19 has a capacity of 2.424 x 109 bits so that a maximum mass 
+storage configuration could hold 9.7 x 109 8-bit characters.
+<P>
+I/0 channels can be connected to independent processors referred to as 
+front-end computers or 1/0 stations or can be connected to peripheral 
+equipment according to the requirements of the individual installation. 
+At least one front-end system is considered standard to collect data 
+and present it to the CRAY-1 for processing and to receive output from 
+the CRAY-1 for distribution to slower devices.
+<P>
+Table 1-1 summarizes the characteristics of the system. The following 
+paragraphs provide an additional introduction to the three sections of 
+the CPU; later sections of this manual describe the features in detail. 
+<P>
+
+2240004	1-1	C
+<A NAME="p1-2">
+
+<P>
+<HR>
+<IMG SRC="CRAY-1-HRM-203.gif">
+<P>
+<A NAME="p1-3">
+
+<HR>
+2240004	1-2	C
+<P>
+
+Table 1-1. Characteristics of the CRAY-1 Computer System
+<TABLE border=1>
+<TD>
+<BLOCKQUOTE>
+COMPUTATION SECTION 
+<UL>
+<LI>64-bit word
+<LI>12.5 nanosecond clock period 
+<LI>2's complement arithmetic 
+<LI>Scalar and vector processing modes 
+<LI>Twelve fully segmented functional units 
+<LI>Eight 24-bit address (A) registers 
+<LI>Sixty-four 24-bit intermediate address (B) registers 
+<LI>Eight 64-bit scalar (S) registers
+<LI> Sixty-four 64-bit intermediate scalar (T) registers
+<LI>Eight 64-element vector (V) registers, 64-bits per element 
+<LI>Four instruction buffers of 64 16-bit parcels each 
+<LI>Integer and floating point arithmetic
+<LI>128 Instruction codes 
+</UL>
+MEMORY SECTION
+<UL>
+<LI>Up to 1,048,576 words of bi-polar memory
+	<BR>(64 data bits and eight error correction bits) 
+<LI>Eight or sixteen banks of 65,536 words each 
+<LI>Four-clock-period bank cycle time
+<LI>One word per clock period transfer rate to B, T, and V registers 
+<LI>One word per two clock periods transfer rate to A and S registers 
+<LI>Four words per clock period transfer rate to instruction buffers 
+<LI>Single error correction - double error detection (SEC-DED) 
+
+</UL>
+INPUT/OUTPUT SECTION
+<UL>
+<LI> Twelve input channels and twelve output channels
+<LI>Channel groups contain either six input or six output channels 
+<LI>Channel groups served equally by memory (scanned every four 
+clock periods)
+<LI>Channel priority resolved within channel groups 
+<LI>Sixteen data bits, three control bits per channel, and 
+4 parity bits
+<LI>Lost data detection
+</BLOCKQUOTE>
+</TABLE
+
+2240004	1-3
+<A NAME="p1-4">
+
+<P>
+<HR>
+<P>
+<U>COMPUTATION SECTION</U>
+<BR>
+The computation section contains instruction buffers, registers and 
+functional units which operate together to execute a program of 
+instructions stored in memory.
+<P>
+Arithmetic operations are either integer or floating point. Integer 
+arithmetic is performed in two's complement mode. Floating point 
+quantities have signed-magnitude representation.
+<P>
+The CRAY-1 executes 128 operation codes as either 16-bit (one parcel) or 
+32-bit (two-parcel) instructions. Operation codes provide for both 
+scalar and vector processing.
+<P>
+Floating point instructions provide for addition, subtraction, multiplication, 
+and reciprocal approximation. The reciprocal approximation 
+instruction allows for the computation of a floating divide operation 
+using a multiple instruction sequence.
+<P>
+Integer or fixed point operations are provided as follows: integer 
+addition, integer subtraction, and integer multiplication. An integer 
+multiply operation produces a 24-bit result; additions and subtractions 
+produce either 24-bit or 64-bit results. No integer divide instruction 
+is provided and the operation is accomplished through a software 
+algorithm using floating point hardware.
+<P>
+The instruction set includes Boolean operations for OR, AND, and exclusive 
+OR and for a mask-controlled merge operation. Shift operations allow the 
+manipulation of either 64-bit or 128-bit operands to produce 64-bit 
+results. With the exception of 24-bit integer arithmetic, all operations 
+are implemented in vector as well as scalar instructions. The integer 
+product is a scalar instruction designed for index calculation. Full 
+indexing capability allows the programmer to index throughout memory in 
+either scalar or vector modes. The index may be positive or negative in 
+either mode. This allows matrix operations in vector mode to be performed 
+on rows or the diagonal as well as conventional column-oriented operations. 
+<P>
+Each functional unit implements an algorithm or a portion of the instruction 
+set. Units are independent and are fully segmented. This means that a new 
+set of operands for unrelated computation may enter a functional unit each 
+clock period.
+<P>
+2240004	1-4	C
+<A NAME="p1-5">
+
+<P>
+<U>MEMORY SECTION</U>
+<BR>
+The memory for the CRAY-1 normally consists of 16 banks of bi-polar 1024-
+bit LSI memory. Three memory size options are available: 262,144 words, 
+524,288 words, or 1,048,576 words. Each word is 72 bits long and consists 
+of 64 data bits and 8 check bits. The banks are independent of each other. 
+<P>
+Sequentially addressed words reside in sequential banks. The memory cycle 
+time is four clock periods (50 nsec). The access time, that is, the time 
+required to fetch an operand from memory to a scalar register is 11 clock 
+periods (132.5 nsec). There is no inherent memory degradation for 16-bank 
+memories of less than one million words.
+<P>
+The maximum transfer rate for B, T, and V registers is one word per 
+clock period. For A and S registers, it is one word per two clock 
+periods. Transfers of instructions to the instruction buffers occur 
+at a rate of 16 parcels (four words) per clock period.
+Thus, the high speed of memory supports the requirements of scientific 
+applications while its low cycle time is well suited to random access 
+applications. The phased memory banks allow high communication rates 
+through the I/0 section and provide low read/store times for vector 
+registers.
+<P>
+<U>INPUT/OUTPUT SECTION</U>
+<BR>
+Input and output communication with the CRAY-1 is over 12 full duplex 
+16-bit channels. Associated with each channel are control lines that 
+indicate the presence of data on the channel (ready), data received 
+(resume), or transfer complete (disconnect).
+<P>
+The channels are divided into four channel groups. A channel group 
+consists of either six input paths or six output paths. The four 
+channel groups are scanned sequentially for I/0 requests at a rate of 
+one channel group per clock period. The channel group will be reinterrogated 
+four clock periods later whether any I/0 request is pending in the channel 
+or not. If more than one channel of the channel group is active, the 
+requests are resolved on a priority basis. The request from the lowest 
+numbered channel is serviced first.
+<P>
+	t See 8-Bank Phasing Option, section 5.
+<P>
+2240004	1-5	C
+<A NAME="p1-6">
+
+<P>
+<U>VECTOR PROCESSING</U>
+<BR>
+All operands processed by the CRAY-1 are held in registers prior to their 
+being processed by the functional units and are received by registers 
+after processing. In general, the sequence of operations is to load one 
+or more vector registers from memory and pass them to functional units. 
+Results from this operation are received by another vector register and 
+may be processed additionally in another operation or returned to memory 
+if the results are to be retained.
+<P>
+The contents of a V register are transferred to or from memory by 
+specifying a first word address in memory, an increment for the memory 
+address, and a length. The transfer proceeds beginning with the first 
+element of the V register and incrementing by one in the V register at 
+a rate of up to one word per clock period depending on memory conflicts. 
+<P>
+A result may be received by a V register and re-entered as an operand to 
+another vector computation in the same clock period. This mechanism 
+allows for "chaining" two or more vector operations together. Chain 
+operation allows the CRAY-1 to produce more than one result per clock 
+period. Chain operation is detected automatically by the CRAY-1 and
+is not explicitly specified by the programmer, although the programmer 
+may reorder certain code segments in order to enable chain operation. 
+<P>
+There may be a conflict between scalar and vector operations only for the 
+floating point operations and storage access. With the exception of these 
+operations, the functional units are always available for scalar operations. 
+A vector operation will occupy the selected functional unit until the 
+vector has been processed.
+<P>
+Parallel vector operations may be processed in two ways:
+<OL>
+<LI> Using different functional units and all different V registers. 
+<LI> Chain mode, using the result stream from one vector register 
+simultaneously as the operand to another operation using a 
+different functional unit.
+</OL>
+<P>
+
+Parallel operations on vectors allow the generation of two or more results 
+per clock period. Most vector operations use two vector registers as 
+<P>
+2240004	1-6	C
+<P>
+operands or one scalar and one vector register as operands. Exceptions are 
+vector shifts, vector reciprocal, and the load or store instructions. 
+<P>
+Since many vectors exceed 64 elements, a long vector is processed as one 
+or more 64-element segments and a possible remainder of less than 64 
+elements. Generally, it is convenient to compute the remainder and process 
+this short segment before processing the remaining number of 64-element 
+segments; however, a programmer may choose to construct the vector loop 
+code in any of a number of ways. The processing of long vectors in FORTRAN 
+is handled by the compiler and is transparent to the programmer.
+<P>
+2240004	1-7
+<P>
+<A NAME="p1-8">
+
+
+
+<P>
+<HR>
+<P>
+<center>
+<H2>SECTION 2 
+<P>PHYSICAL ORGANIZATION
+</H2></CENTER>
+<P>
+<A NAME="p2-1">
+
+<HR>
+<P>
+
+  
+
+
+<H3>PHYSICAL ORGANIZATION	2 </H3>
+<P>
+<U>INTRODUCTION</U>
+<BR>
+The CRAY-1 computer system consists of the following: 
+<DD> - The CPU mainframe
+<DD> - A power cabinet
+<DD> - Two condensing units
+<DD> - Two motor generators and control cabinets 
+<DD> - A maintenance control unit (MCU)
+<DD> - One or more disk systems
+<DD> - An interface to a front-end computer 
+<P>
+<U>MAINFRAME</U>
+The CRAY-1 mainframe, figure 2-1, is composed of 24 logic chassis. The 
+'chassis are arranged two per column in a 270<SUP>o</SUP> arc which is 56.5 inches in 
+diameter. The twelve columns are 77 inches high. At the base of the 
+columns, 19 inches high and extending outward 30 inches, are cabinets 
+for power supplies and cooling distribution systems.
+<P>
+Viewing the cabinet from the top, the chassis of the upper circle are labeled 
+A through L proceeding in a counter-clockwise direction from the opening. 
+The chassis of the lower circle are labeled M through X. The assignment
+of modules to chassis is illustrated in figure 2-2. 
+<P>
+MODULES
+<BR>The CRAY-1 computer system uses only one basic module construction through-
+out the entire machine. The module consists of two 6 x 8 inch printed 
+circuit boards mounted on opposite sides of a heavy copper heat transfer 
+plate. Each printed circuit board has capacity for a maximum of 144 
+integrated circuit (IC) packages and approximately 300 resistor packages. 
+<P>
+2240004	2-1	C
+<A NAME="p2-2">
+<P>
+<IMG SRC="CRAY-1-HRM-204.gif">
+<P>
+<BR>- Dimensions
+<DD>Base - 103 1/2 inches diameter by 19 inches high
+<DD>Columns- 56 1/2 inches diameter by 77 inches high including height of base
+<BR>- 24 chassis
+<BR>- 1662 modules (16 banks); 113 module types
+<BR>- Each module contains up to 288 IC packages per module
+<BR>- Power consumption approximately 115 kw input for maximum memory size 
+<BR>- Freon cooled with Freon/water heat exchange
+<BR>- Three memory options
+<BR>- Weight 10,500 lbs (maximum memory size) 
+<BR>- Three basic chip types
+<DD>5/4 NAND gates 
+<DD>Memory chips 
+<DD>Register chips
+<BR>Figure 2-1. Physical organization of mainframe
+<P>
+<BR>2240004	2-2	C
+<P>
+<A NAME="p2-3">
+<HR>
+<P>
+<IMG SRC="CRAY-1-HRM-205.gif">
+<P>
+2240004	2-3
+<P>
+<A NAME="p2-4">
+<HR>
+<P>
+There are 1662 modules in a standard 16-bank t CRAY-1 memory.	Modules are 
+arranged 72 per chassis as illustrated in figure 2-2. There are 113 
+module types. Usage varies from 1 to 708 modules per type. Module type 
+and usage is summarized in Appendix B. Each module type is identified 
+by two letters. The first indicates the module series (A, D, F, G, H, J, 
+M, R, S, T, V, X, and Z). The second letter identifies types of modules 
+within a series.
+<P>
+The computation and I/0 modules are on the eight chassis forming the center 
+four columns. Each of the eight chassis on either side of the four center 
+columns contains one of the 16 memory banks.
+<P>
+Modules are cooled by transferring heat via the heat transfer plate to 
+cooling bars which in turn transfer the heat to Freon. Power dissipation 
+depends on module density. The maximum module power dissipation by type 
+is approximately 65 watts. The average module dissipation by usage is 
+approximately 49 watts.
+<P>
+Two supply voltages are used for each module: -5.2 volts for IC power; 
+-2.0 volts for line termination.
+<P>
+Each module has 96 pin pairs available for interconnecting to other modules. 
+All interconnections are via twisted pair wire. The average utilization of 
+pins is approximately 60 per cent.
+<P>
+Each module has 144 available test points which can be used for trouble 
+shooting. Test points are driven by circuits which do not drive other loads. 
+<P>
+<U>Printed circuit board</U>
+<BR>
+The printed circuit board used in the CRAY-1 computer system is a 5-layer 
+board. The two outer surfaces of the PC board are used for signal runs; 
+the inner three layers are used for the -5.2 V, -2.0 V, and ground supplies. 
+Signal foil runs are a nominal 0.0075 inch. The spacing of the signal layer 
+to the adjacent voltage is a nominal 0.008 inch. The dimensions used 
+provide signal lines with an impedance of 50 to 60 ohms.
+<P>
+Conventional PC techniques are used in the construction of the PC board. 
+<P>
+
+2240004	2-4	C
+<P>
+<A NAME="p2-5">
+Holes are drilled in the PC board for component mounting, interconnecting 
+signal layers, and supplying signal and voltages to components. All holes 
+are plated. The two signal layers are tin-lead plated before etching.
+The finished PC board is reflowed to eliminate slivers caused by the etching 
+process.
+<P>
+<U>Module assembly</U>
+<BR>
+The individual boards of the module are arranged, flow soldered, and 
+inspected prior to being assembled as a module. Logic testing is done 
+at the module level.
+<P>
+<U>Integrated circuit packages</U>
+<BR>
+All integrated circuit devices used in the CRAY-1 are packaged in a 
+common package type. The package is a 16-pin hermetically sealed flat 
+pack. Gold or tin-lead plated leads are used depending on the vendor. 
+The 16-pin flat pack was chosen for its reliability and compactness. 
+<P>
+<U>IC high-speed logic gate</U>
+<BR>
+With minor exceptions, one type of logic gate is used for the central 
+processing unit. This is an ECL circuit with either four or five inputs 
+and with both normal and inverted outputs available to drive loads. One 
+four-input gate and one five-input gate are packaged in a 16-pin flat 
+pack (5/4 gate). All latches, adders, subtracters, etc., are made of
+this basic gate. The high-speed logic gate has a minimum propagation delay 
+of 0.5 nsec and a maximum propagation delay of 1 nsec. Edge speeds are
+1 nsec or less.
+<P>
+<U>IC slow-speed logic gate</U>
+<BR>
+The slow-speed gate is a MECL 10K version of the high-speed gate and is 
+used in the memory module for address fanout.	The speed is adequate for 
+this application and the lower power requirement is an advantage.
+<P>
+<U>16x1 register chip</U>
+<BR>
+The 16x1 register chip provides very fast temporary storage for scalar 
+and vector functional units. The chips are used for instruction buffers 
+and for B, T, and V registers. The chips have a 6 nsec read/write time, 
+well within the 12.5 nsec clock period.<P>
+
+2240004	2-5	C
+<P>
+<A NAME="p2-6">
+<U>1024x1 memory chip</U>
+<BR>
+The bipolar 1024x1 LSI chip is the basic building block around which the 
+CRAY-1 memory is built. The chip was developed by Fairchild using the 
+isoplanar technology. The memory chip has a maximum 50 nsec read/write 
+cycle time. Address decoding is internal to the package and is compatible 
+with standard ECL logic levels.
+<P>
+<U>Resistors</U>
+<BR>
+Only two resistor types are used throughout the entire CRAY-1 computer 
+system. They are a center-tapped 120-ohm resistor providing two 60-ohm 
+resistors per package; and a 300-ohm resistor tapped to provide -a 120-ohm 
+and 180-ohm resistor. The basic resistor package is a three-lead device 
+in a ceramic substrate. The resistance film is tantalum nitride. The 
+lead frame is thermal pulse bonded. An epoxy covering is used to protect 
+the film from mechanical damage.
+<P>
+All printed circuit boards lines are treated as transmission lines. To 
+provide the proper termination of the transmission lines, each line is 
+parallel-terminated to the -2.0 volt supply. A 60-ohm resistor is used 
+to match the transmission line impedance. To minimize noise on the -2.0 V 
+supply, all used logic gate inputs and outputs are terminated with a 60-
+ohm resistor to -2.0 volts.
+<P>
+The 16x1 register chip and the 1024x1 memory chip provide only a normal signal 
+output (logic gates provide the normal and inverted output signals). To 
+minimize the noise that could be introduced on the -2.0 volt bus by an 
+unbalanced load, these two devices are terminated with a Thevenin equivalent 
+to the -5.2 volt supply. The 300-ohm resistor is used for the Thevenin 
+equivalent termination.
+<P>
+<U>Connector strips</U>
+<BR>
+The module connector strip uses 96 individual sockets molded in plastic. 
+The chassis connector strip uses 96 mating pins molded in plastic. 
+Individual pins and sockets when assembled are mounted on 0.050-inch 
+centers with mounting holes provided in the assembled plastic strip. Each 
+board has 96 holes provided for connecting signals to the module connector
+<P>
+2240004	2-6	C
+<P>
+<A NAME="p2-7">
+strip. The chassis connector strip is assembled with an 18-inch wire 
+crimped to each pin. Wire pairs are twisted after assembly to provide 
+the twisted pair wire transmission lines. The interconnection of 
+twisted pair wires is made in the center of the line using a solder sleeve. 
+<P>
+<U>CLOCK</U>
+<BR>
+All timing within the mainframe cabinet is controlled by a single phase 
+synchronous clock network. This clock has a period of 12.5 nsec. The 
+lines that carry the clock signal from the central clock source to the 
+individual modules of the CPU are all made of uniform length so that 
+the leading edge of a clock signal arrives at all parts of the CPU 
+cabinet at the same time. A three nanosecond pulse (figure 2-3) is 
+formed on each module.
+<P>
+<IMG SRC="CRAY-1-HRM-206.gif">
+<BR>
+
+References to clock periods in this manual are often given in the form 
+CPn where n indicates the number of the clock period during which an 
+event occurs. Clock periods are numbered beginning with CPO. Thus, the 
+third clock period would be referred to as CP2.
+<P>
+<U>POWER SUPPLIES</U>
+<BR>
+Thirty-six power supplies are used for the CRAY-1 computer system. There 
+are twenty -5.2 volt supplies and sixteen -2.0 volt supplies. The supplies 
+are divided into twelve groups of three. Each group supplies one column. 
+The power supply design assumes a constant load. The power supplies do not 
+have internal regulation but depend on the motor-generator to isolate and 
+regulate incoming power. The power supplies use a twelve-phase transformer, 
+<P>
+2240004	2-7	C
+<P>
+<A NAME="p2-8">
+Silicon diodes, balancing coil, and a filter choke to supply low ripple 
+DC voltages. The entire supply is mounted on a Freon-cooled heat sink. 
+Power is distributed via bus bars to the load.
+<P>
+<U>PRIMARY POWER SYSTEM</U>
+<BR>
+The primary power system consists of a 150 KW motor generator, motor-
+generator control cabinet, and power distribution cabinet. The motor 
+generator supplies 208 V, 400 cycle, three-phase power to the power 
+distribution cabinet, which the power distribution cabinet supplies
+via a variac to each power supply. The power distribution cabinet also 
+contains voltage and temperature monitoring equipment to detect power 
+and cooling malfunctions.
+<P>
+<U>COOLING</U>
+<BR>
+Modules in the CRAY-1 computer system are cooled by the exchange of heat 
+from the module heat sink to a cold bar which is Freon cooled. The module 
+heat sink is wedged along both 8-inch edges to a cold bar. Cold bars are 
+arranged in vertical columns, with each column having capacity for 128 
+modules. The cold bar is a cast aluminum bar containing a stainless steel 
+refrigerant tube.
+<P>
+To assure component reliability, the cooling system was designed to 
+provide a maximum case temperature of 130<SUP>o</SUP> F (54<SUP>o</SUP> C). To meet this 
+goal, the following temperature differentials are encountered:
+<DD>
+<TABLE >
+<TR><TD>IC case temperature at center of module	<TD>130<SUP>o</SUP> F (54<SUP>o</SUP> C)
+<TR><TD>IC case temperature at edge of module	<TD>118<SUP>o</SUP> F (48<SUP>o</SUP> C)
+<TR><TD>Cold plate temperature at wedge	<TD>78<SUP>o</SUP> F (25<SUP>o</SUP> C)
+<TR><TD>Cold bar temperature	<TD>70<SUP>o</SUP> F (21<SUP>o</SUP> C)
+<TR><TD>Refrigerant tube temperature	<TD>70<SUP>o</SUP> F (21<SUP>o</SUP> C) 
+</TABLE>
+Two 20-ton compressors are located external to the computer room to 
+complete the cooling system.
+<P>2240004	2-8	C
+<P>
+<A NAME="p2-9">
+<U>MAINTENANCE CONTROL UNIT</U>
+<BR>
+The CRAY-1 computer system is equipped with a 16-bit minicomputer system 
+that serves as a maintenance tool and provides control for the system 
+initialization. After the CRAY-1 operating system has been initialized 
+and is operational, communication with the MCU is via a software protocol. 
+The MCU is connected to a CRAY-1 channel pair with additional control 
+signals for execution of the master clear operation, I/0 master clear 
+operation, dead dump operation, and sample parity error operation.
+<P>
+The maintenance control unit (MCU) includes:
+<OL>
+<LI> A Data General ECLIPSE S-200 minicomputer or 
+	equivalent with 32K words of 16-bit memory
+<LI> An 80-column card reader 
+<LI> A 132-column line printer 
+<LI> An 800 bpi 9-track tape unit 
+<LI> Two display terminals
+<LI> A moving head disk drive
+</OL>
+Included in the MCU system is a software package that enables it to 
+serve as a local batch station during production hours. As a local 
+station, diagnostic routines may be submitted for execution along with 
+other batch jobs. These diagnostics are typically stored on the local 
+disk and are submitted to the CRAY-1 by operator command.
+<P>
+The system initialization procedure is referred to in this manual as 
+the dead start sequence. This sequence is described in detail in 
+Section 3.
+<P>
+Detailed information about the MCU is presented in separate publications. 
+<P>
+2240004	2-9	C
+<P>
+<A NAME="p2-10">
+<U>FRONT-END COMPUTER</U>
+<BR>
+The CRAY-1 computer system may be equipped with one or more front-end 
+computer systems that provide input data to the CRAY-1 computer system 
+and receive output from the CRAY-1 to be distributed to a variety of 
+slow-speed peripheral equipments. A front-end computer system is a self-
+contained system that executes under the control of its own operating 
+system. Peripheral equipment attached to the front-end computer will 
+vary depending on the use to which the system is put.
+<P>
+A front-end computer may service the CRAY-1 in the following ways: 
+<UL>
+<LI> As a local operator station
+<LI>As a local batch entry station
+<LI>As a data concentrator for multiplexing several other stations into a 
+	single CRAY-1 channel
+<LI>As a remote batch entry station
+</UL>
+Detailed information about the front-end system is presented in 
+separate publications.
+<P>
+<U>EXTERNAL INTERFACE</U>
+<BR>
+The CRAY-1 is interfaced to front-end systems through special interface 
+controllers that compensate for differences in channel widths, machine 
+word size, electrical logic levels, and control protocols. The interface 
+is a Cray Research, Inc. product implemented in ECL logic compatible 
+with the host system. One or more interface controllers are contained 
+in a small chassis located near the CRAY-1 mainframe. A primary goal
+of the interface is to maximize the utility of the front-end channel 
+connected to the CRAY-1. Such a channel is generally slower than CRAY-1 
+channels. It is desirable that channel cables be limited to less than 75 
+feet. If site conditions require that the interconnected systems be 
+physically located a considerable distance from each other, the 
+effective transmission rate may be degraded.
+<P>
+2240004	2-10	C
+<P>
+<A NAME="p2-11">
+<U>MASS STORAGE SUBSYSTEM</U>
+<BR>
+Mass storage for the CRAY-1 computer system consists of two or more Cray 
+Research Inc. DCU-2 Disk Controllers and multiple DD-19 Disk Storage 
+Units. The disk controller is a Cray Research, Inc. product and is 
+implemented in flat-pack ECL logic similar to that used in the CRAY-1 
+mainframe. The controller operates synchronously with the mainframe 
+over a 16-bit full-duplex channel. The controller is in a DCC-1 Freon 
+cooled cabinet located near the mainframe. Up to four controllers may be 
+contained in one cabinet. The cabinet requires about five square feet of 
+floor space and is 49 inches high.
+<P>
+Each controller may have from one to four DD-19 disk storage units attached 
+to it. Data passes through the controller to or from one disk storage unit 
+at a time. The controller may be connected to a 16-bit minicomputer station 
+in addition to the CRAY-1. If this additional connection is made, the 
+station and mainframe may share the controller operation on a function-by-
+function basis.
+<P>
+Each of the DD-19 disk storage units has two ports for controllers. A 
+second independent data path may exist to each disk storage unit through 
+another Cray Research controller. Reservation logic is provided to 
+control access to each disk storage unit.
+<P>
+Operational characteristics of the DD-19 Disk Storage Units are summarized 
+in Table 2-1. Further information about the mass storage subsystem is 
+presented in separate publications.
+<P>
+<CENTER>
+	Table 2-1. Characteristics of a DD-19 Disk Storage Unit
+</CENTER>
+<IMG SRC="CRAY-1-HRM-208.gif">
+<P>
+2240004	2-11	C
+<P>
+<A NAME="p2-12">
+<HR>
+<P>
+<P>
+<A NAME="p3-1">
+<P>
+<H2>
+SECTION 3 
+<P>
+COMPUTATION SECTION
+</H2>
+<P>
+<HR>
+<P>
+<CENTER>
+<H3>
+COMPUTATION SECTION 3
+</H3>
+</CENTER>
+<P>
+
+<U>INTRODUCTION</U>
+<BR> 
+The computation section (figure 3-1) consists of an instruction control 
+network, operating registers, and functional units. The instruction 
+control network performs all decisions related to instruction issue and 
+coordinates the activities for the three types of processing, vector, 
+scalar, and address. Associated with each type of processing are 
+registers and functional units that support the processing mode. For 
+vector processing, there are: a set of 64-bit multi-element registers, 
+three functional units dedicated solely to vector applications, and three 
+:floating point functional units supporting both scalar and vector operations. 
+For scalar processing, there are two levels of 64-bit scalar registers and 
+four functional units dedicated solely to scalar processing in addition
+to the three floating point units shared with the vector operations. For 
+address processing, there are two levels of 24-bit registers and two 
+integer arithmetic functional units.
+<P>
+Vector and scalar processing is performed on data as opposed to address 
+processing which operates on internal control information such as addresses 
+and indexes. The flow of data in the computation section is generally from 
+memory to registers and from registers to functional units. The flow of 
+results is from functional units to registers and from registers to memory 
+or back to functional units. Data flows along either the scalar or vector 
+path depending on the mode of processing it is undergoing. An exception is 
+that scalar registers can provide one of the operands required for vector 
+operations performed in the vector functional units.
+<P>
+The flow of address information is from memory or from control registers to 
+address registers. Information in the address registers can then be distribute 
+to various parts of the control network for use in controlling the scalar, 
+vector, and I/0 operations. The address registers can also supply operands
+to two integer functional units. The units generate address and index 
+information and return the result to the address registers. Address 
+information can also be transmitted to memory from the address registers. 
+<P>
+2240004	3-1	C
+<P>
+<A NAME="p3-2">
+<HR>
+<P>
+<IMG SRC="CRAY-1-HRM-209.gif">
+<P>
+2240004	3-2
+<P>
+<A NAME="p3-3">
+<U>REGISTER CONVENTIONS</U>
+
+<BR>
+Frequent use is made in this manual of parenthesized register names. 
+This is shorthand notation for the expression "the contents of register 
+---." For example, "Branch to (P) means "Branch to the address indicated 
+by the contents of the program parcel counter, P."
+<P>
+Extensive use is also made of subscripted designations for the A, B, S, 
+T, and V registers. For example, "Transmit (Tjk) to Si" means "Transmit 
+the contents of the T register specified by the jk designators to the S 
+register specified by the i designator."
+<P>
+In this manual, register bit positions are numbered from left to right 
+starting with bit 0. Bit 63 of an S, V, or T register value represents 
+the least significant bit in the operand. Bit 23 of an A or B register 
+value represents the least significant bit in the operand. When a power 
+of two is meant rather than a bit position, it is referred to as 2n, 
+where n is the power of two.
+<P>
+<U>OPERATING REGISTERS</U>
+<BR>
+Operating registers are a primary programmable resource of the CRAY-1. 
+They enhance the speed of the system by satisfying the heavy demands for 
+data that are made by the functional units. A single functional unit may 
+require one to three operands per clock period and may deliver results at 
+a rate of one per clock period. Moreover, multiple functional units can 
+be in use concurrently. To meet these requirements, the CRAY-1 has five 
+sets of registers; three primary sets and two intermediate sets. The 
+three primary sets of registers are vector, scalar, and address designated 
+in this manual as V, S, and A, respectively. These registers are considered 
+primary because functional units can access them directly. For the scalar 
+and address registers, an intermediate level of registers exists which is 
+not accessible to the functional units. These registers act as buffers
+for the primary registers. Block transfers are possible between these 
+registers and memory so that the number of memory references required for 
+scalar and address operands is greatly reduced. The intermediate registers 
+that support scalar registers are referred to as T registers. The inter-
+mediate registers that support the address registers are referred to as B 
+registers.
+<P>
+
+2240004	3-3	C
+<P>
+<A NAME="p3-4">
+<U>V REGISTERS</U>
+
+<P>
+Eight V registers, each with 64 elements are the major computational 
+registers of the CRAY-1. Each element of a V register has 64 bits. 
+When associated data is grouped into successive elements of a V register, 
+the register quantity may be considered a vector. Examples of vector 
+quantities are rows or columns of a matrix or elements of a table. 
+<P>
+Computational efficiency is achieved by processing each element of a 
+vector identically. Vector instructions provide for the iterative 
+processing of successive vector register elements. A vector operation 
+begins by obtaining operands from the first element of one or more V 
+registers and delivering the result to the first element of a V register. 
+Successive elements are provided each clock period and as each operation 
+is performed, the result is delivered to successive elements of the 
+result V register. The vector operation continues until the number of 
+operations performed by the instruction equals a count specified by the 
+contents of the vector length (VL) register. Vectors having lengths 
+exceeding 64 are handled under program control in groups of 64 and a 
+remainder.
+<P>
+A result may be received by a V register and retransmitted as an operand
+to a subsequent operation in the same clock period. This use of a register 
+as both a result and operand register allows for the "chaining" of two or 
+more vector operations together. In this mode, two or more results may be 
+produced per clock period.
+<P>
+The contents of a V register are transferred to or from memory in a block 
+mode by specifying a first word address in memory, an increment for the 
+memory address, and a vector length. The transfer then proceeds beginning 
+with the first element of the V register at a maximum rate of one word 
+per clock period, depending upon bank conflicts.
+Single-word data transfers are possible between an S register and an element 
+of a V register.
+<P>
+In this manual, the V registers are individually referred to by the letter 
+V and a numeric subscript in the range 0 through 7. Vector instructions 
+<P>
+2240004	3-4
+<P>
+<A NAME="p3-5">
+reference V registers by allowing specification of the subscript as the 
+i, j, or k designator as described in section 4 of this manual. 
+Individual elements of a V register are designated in this manual by 
+decimal numbers in the range 00 through 63.
+<P>
+
+<U>V register reservations</U>
+<BR>
+The term "reservation" describes the register condition when a register
+is in use and therefore not available for use as a result or as an operand 
+register for another operation. During execution of a vector instruction, 
+reservations are placed on the operand V registers and on the result V 
+register. These reservations are placed on the registers themselves, not 
+on individual elements of the V register.
+<P>
+A reservation for a result register is lifted during "chain slot" time. 
+Chain slot time is the clock period that occurs at functional unit time 
+plus two clock periods. During this clock period, the result is 
+available for use as an operand in another vector operation. Chain slot 
+time has no effect on the reservation placed on operand V registers.
+A V register may serve only one vector operation as the source of one or 
+both operands.
+<P>
+No reservation is placed on the VL register during vector processing. If 
+a vector instruction employs an S register, no reservation is placed on 
+the S register. It may be modified in the next instruction after vector 
+issue. The length of each vector operation is maintained apart from the 
+VL register. Vector operations employing different lengths may proceed 
+concurrently.
+<P>
+The A0 and Ak registers in a vector memory reference are treated in a 
+similar fashion. They are available for modification immediately after use. 
+The vector store instruction (177) is blocked from chain slot execution. 
+The vector read instruction (176) is blocked from chain slot execution if 
+the memory increment is a multiple of eight.
+<P>
+2240004	3-5	C
+<P>
+<A NAME="p3-6">
+<U>VECTOR CONTROL REGISTERS</U>
+<BR>
+Two registers are associated with vector registers and provide control 
+information needed in the performance of vector operations.- They are 
+the vector length (VL) register and the vector mask (VM) register. 
+<P>
+<U>VL register	</U>
+<BR>
+The 7-bit vector length register can be set to 0 through 1008 and specifies 
+the length of all vector operations performed by vector instructions and 
+the length of the vectors held by the V registers. It controls the number 
+of operations performed for instructions 140 through 177. The VL register 
+may be set to an A register value through use of the 0020 instruction.
+<P>
+<U>VM register</U></U>
+<BR
+The vector mask register has 64 bits, each of which corresponds to a word 
+element in a vector register. Bit 0 corresponds to element 0, bit 63 to 
+element 63. The mask is used in conjunction with vector merge and test 
+instructions to allow operations to be performed on individual vector 
+elements.
+<P>
+The vector mask register may be set from an S register through the 003 
+instruction or may be created by testing a vector register for condition 
+using the 175 instruction. The mask controls element selection in the 
+vector merge instructions (146 and 147).<P>
+<P>
+
+2240004	3-6	C
+<P>
+<A NAME="p3-7">
+<U>S REGISTERS</U>
+<BR>
+The eight 64-bit S registers are the principal scalar registers for the 
+CPU. These registers serve as the source and destination for operands 
+in the execution of scalar arithmetic and logical instructions. The 
+related functional units perform both integer and floating point arith-
+metic operations.
+<P>
+S registers may furnish one operand in vector instructions. Single-word 
+transmissions of data between an S register and an element of a V register 
+are also possible.
+<P>
+Data can move directly between memory and S registers or can be placed in 
+T registers as an intermediate step. This allows buffering of scalar 
+operands between S registers and memory.
+<P>
+Data can also be transferred between A and S registers.
+Another use of the S registers is for setting or reading the vector mask 
+(VM) register or the real-time clock register.
+<P>
+At most, one S register can be entered with data during each clock period. 
+Issue of an instruction is delayed if it would cause data to arrive at the 
+S registers at the same time as data already being processed which is 
+scheduled to arrive from another source.
+<P>
+When an instruction issues that will deliver new data to an S register, a 
+reservation is set for that register to prevent issue of instructions that 
+read the register until the new data has been delivered.
+<P>
+In this manual, the S registers are individually referred to by the letter 
+S and a numeric subscript in the range 0 through 7. Instructions reference 
+S registers by allowing specification of the subscript as the i, j, or k 
+designator as described in section 4 of this manual. The only register to 
+which an implicit reference is made is the So register. The use of this 
+register is implied in the following branch instructions:
+014 through 017.
+Refer to section 4 for additional information concerning the use of S 
+registers by instructions.
+<P>
+2240004	3-7
+<P>
+<A NAME="p3-8">
+T REGISTERS
+There are sixty-four 64-bit T registers in the computation section. The 
+T registers are used as intermediate storage for the S registers.
+<P>
+
+Data may be transferred between T and S registers and between T registers 
+and memory. The transfer of a value between a T register and an S 
+register requires only one clock period. T registers reference memory 
+through block read and block write instructions. Block transfers occur 
+at a maximum rate of one word per clock period. No reservations are 
+made for T registers and no instructions can issue during block 
+transfers to and from T registers.
+<P>
+In this manual, T registers are referred to by the letter T and a 2-digit 
+octal subscript in the range 00 through 77-. Instructions reference T 
+registers by allowing specification of the octal subscript as the jk 
+designator as described in section 4 of this manual.
+<P>
+<U>A REGISTERS</U>
+<BR>
+The eight 24-bit A registers serve a variety of applications. They are 
+primarily used as address registers for memory references and as index 
+registers but also are used to provide values for shift counts, loop 
+control, and channel I/0 operations. In address applications, they are 
+used to index the base address for scalar memory references and for 
+providing both a base address and an index address for vector memory 
+references.
+<P>
+The address functional units support address and index generation by 
+performing 24-bit integer arithmetic on operands obtained from A registers 
+and delivering the results to A registers.
+<P>
+Data can move directly between memory and A registers or can be placed in 
+B registers as an intermediate step. This allows buffering of the data 
+between A registers and memory.
+<P>
+Data can also be transferred between A and S registers.
+The vector length register is set by transmitting a value to it from an 
+A register.
+<P>
+<P>
+2240004	3-8	C
+<P>
+<A NAME="p3-9">
+At most, one A register can be entered with data during each clock period. 
+Issue of an instruction is delayed if it would cause data to arrive at the 
+A registers at the same time as data already being processed which is 
+scheduled to arrive from another source.
+<P>
+When an instruction issues that will deliver new data to an A register, a 
+reservation is set for that register to prevent issue of instructions that 
+read the register until the new data has been delivered.
+<P>
+In this manual, the A registers are individually referred to by the letter 
+A and a numeric subscript in the range 0 through 7. Instructions reference 
+A registers by allowing specification of the subscript as the h, i, j, or k 
+designator as described in section 4 of this manual. The only register to 
+which an implicit reference is made is the A0 register. The use of this 
+register is implied in the following instructions:
+<P>
+010 through 013 
+<BR>034 through 037 
+<BR>176 and 177
+<BR>
+Refer to section 4 for additional information concerning the use of A 
+registers by instructions.
+<P>
+<U> 	 B REGISTERS</U>
+<BR>
+There are sixty-four 24-bit B registers in the computation section. The B 
+registers are used as intermediate storage for the A registers. Typically, 
+the B registers will contain data to be referenced repeatedly over a 
+sufficiently long span that it would not be desirable to retain the data 
+in either A registers or in memory. Examples of uses are loop counts, 
+variable array base addresses, and dimensions.
+<P>
+The transfer of a value between an A register and a B register requires 
+only one clock period. A block of B registers may be transferred to or 
+from memory at the maximum rate of one 24-bit value per clock period. 
+No reservations are made for B registers and no instructions can issue 
+during block transfers to and from B registers.
+<P>
+2240004	3-9
+<P>
+<A NAME="p3-10">
+In this manual, B registers are individually referred to by the letter B 
+and a 2-digit octal subscript in the range 00 through 77. Instructions 
+reference B registers by allowing specification of the octal subscript as 
+the jk designator as described in section 4 of this manual. The only B 
+register to which an implicit reference is made is the Boo register. On 
+execution of the return jump instruction (007), register Boo is set to 
+the next instruction parcel address (P) and a branch to an address 
+specified by ijkm occurs. Upon receiving control, the called routine will 
+conventionally save (Boo) so that the Boo register will be free for the 
+called routine to initiate return jumps of its own. When a called routine 
+wishes to return to its caller, it restores the saved address and executes 
+a 005 instruction. This instruction, which is a branch to (Bjk), causes 
+the address saved in Bjk to be entered into P as the address of the next 
+instruction parcel to be executed.
+<P>
+<U>FUNCTIONAL UNITS</U>
+<P>
+Instructions other than simple transmits or control operations are 
+performed by hardware organizations known as functional units. Each unit 
+implements an algorithm or a portion of the instruction set. Units are 
+independent; a number of functional units can be in operation at the same 
+time.
+<P>
+A functional unit receives operands from registers and delivers the result 
+to a register when the function has been performed. The units operate 
+essentially in three-address mode with source and destination addressing 
+limited to register designators.
+<P>
+All functional units perform their algorithms in a fixed amount of time; 
+no delays are possible once the operands have been delivered to the unit. 
+The amount of time required from delivery of the operands to the unit to 
+the completion of the calculation is termed the "functional unit time" and 
+is measured in 12.5 nsec clock periods.
+<P>
+The functional units are all fully segmented. This means that a new set 
+of operands for unrelated computation may enter a functional unit each 
+<P>
+2240004	3-10	C
+<P>
+<A NAME="p3-11">
+clock period even though the functional unit time may be more than one 
+clock period. This segmentation is made possible by capturing and holding 
+the information arriving at the unit or moving within the unit at the end 
+of every clock period.
+<P>
+Twelve functional units are identified in this manual and are arbitrarily 
+described in four groups: address, scalar, vector, and floating point. 
+The first three groups each act in conjunction with one of the three 
+primary register types, A, S, and V, to support the address, scalar, and 
+vector modes of processing available in the CRAY-1. The fourth group, 
+floating point, can support either scalar or vector operations and will 
+accept operands from or deliver results to S or V registers accordingly. 
+<P>
+ADDRESS FUNCTIONAL UNITS
+<P>
+The address functional units perform 24-bit integer arithmetic on operands 
+obtained from A registers and deliver the results to an A register. The 
+arithmetic is two's complement.
+<P>
+<U>Address add unit</U>
+<BR>
+The address add unit performs 24-bit integer addition and subtraction. The 
+unit executes instructions 030 and 031. The addition and subtraction are 
+performed in a similar manner. However, the two's complement subtraction 
+for the 031 instruction occurs as follows. The one's complement of the Ak 
+operand is added to the Aj operand. Then a one is added in the low order 
+bit position of the result.
+<P>
+No overflow is detected in the functional unit. 
+<P>
+The functional unit time is two clock periods. 
+<P>
+<U>Address multiply unit</U>
+<BR>
+The address multiply unit executes instruction 032 which forms a 24-bit 
+integer product from two 24-bit operands. No rounding is performed. 
+<P>
+The functional unit does not detect overflow of the product.
+<P>
+The functional unit time is six clock periods.
+<P>
+2240004	3-11	C
+<P>
+<A NAME="p3-12">
+SCALAR FUNCTIONAL UNITS
+<P>
+The scalar functional units perform operations on 64-bit operands obtained 
+from S registers and in most cases deliver the 64-bit results to an S 
+register. The exception is the population/leading zero count unit which 
+delivers its 7-bit result to an A register.
+<P>
+Four functional units are exclusively associated with scalar operations 
+and are described here. Three functional units are used for both scalar 
+and vector operations and are described under the section entitled 
+Floating Point Functional Units.
+<P>
+<U>Scalar add unit</U>
+<BR>
+The scalar add unit performs 64-bit integer addition and subtraction. It 
+executes instructions 060 and 061. The addition and subtraction are per-
+formed in a similar manner. However, the two's complement subtraction
+for the 061 instruction occurs as follows. The one's complement of the Sk 
+operand is added to the Sj operand. Then a one is added in the low order 
+bit position of the result.
+<P>
+No overflow is detected in the unit.
+<P>
+The functional unit time is three clock periods. 
+<P>
+<U>Scalar shift unit</U>
+<BR>
+The scalar shift unit shifts the entire 64-bit contents of an S register 
+or shifts the double 128-bit contents of two concatenated S registers. 
+Shift counts are obtained from an A register or from the jk portion of 
+the instruction. Shifts are end off with zero fill. For a double shift, 
+a circular shift is effected if the shift count does not exceed 64 and 
+the i and j designators are equal and non-zero.
+<P>
+The scalar shift unit executes instructions 052 through 057. Single-
+register shift instructions, 052 through 055, are executed in two clock 
+periods. Double-register shift instructions, 056 and 057, are executed 
+in three clock periods.
+<P>
+2240004	3-12	C
+<P>
+<A NAME="p3-13">
+<U>Scalar logical unit</U>
+<BR>
+The scalar logical unit performs bit-by-bit manipulation of 64-bit 
+quantities obtained from S registers. It executes instructions 042 
+through 051, the mask and Boolean instructions.
+<P>
+The scalar logical unit is an integral part of the modules containing 
+the S registers. Since data does not have to leave the modules for 
+the function to be performed, operations require only one clock period. 
+<P>
+<U>Population/leading zero count unit</U>
+<BR>
+This functional unit executes instructions 026 and 027. Instruction 026, 
+which counts the number of bits having a value of one in the operand, 
+executes in four clock periods. Instruction 027, which counts the number 
+of bits of zero preceding a one bit in the operand, executes in three 
+clock periods. For either instruction, the 64-bit operand is obtained 
+from an S register and the 7-bit result is delivered to an A register. 
+<P>
+VECTOR FUNCTIONAL UNITS
+<BR>
+Most vector functional units perform operations on operands obtained from 
+one or two V registers or from a V register and an S register. The 
+reciprocal unit, which requires only one operand, is an exception. Results 
+from a vector functional unit are delivered to a V register.
+<P>
+Successive operand pairs are transmitted to a functional unit each clock 
+period. The corresponding result emerges from the functional unit n clock 
+periods later where n is the functional unit time and is constant for a 
+given functional unit. The vector length determines the number of operand 
+pairs to be processed by a functional unit.
+<P>
+Three functional units are exclusively associated with vector operations
+and are described in this subsection. Three functional units are associated 
+with both vector operations and scalar operations and are described in the 
+subsection entitled Floating Point Functional Units. When a floating point 
+unit is used for a vector operation, the general description of vector 
+functional units given in this subsection applies.
+<P>
+<U>Vector functional unit reservation</U>
+<BR>
+A functional unit engaged in a vector operation remains busy during each 
+clock period and may not participate in other operations. In this state, 
+<P>
+2240004	3-13	C
+<P>
+<A NAME="p3-14">
+the functional unit is said to be reserved. Other instructions that 
+require the same functional unit will not issue until the previous 
+operation is completed. Only one functional unit of each type is 
+available to the vector instruction hardware. When the vector operation 
+completes, the reservation is dropped and the functional unit is then 
+available for another operation.
+<P>
+<U>Recursive characteristic of vector functional units</U>
+<BR>
+In a vector operation, the result register (designated by i in the 
+instruction) is not normally the same V register as the source of either 
+of the operands (designated by j or k). However, turning the output 
+stream of a vector functional unit back into the input stream by setting
+i to the same register designator as j or k may be desirable under certain 
+circumstances since it provides a facility for reducing 64 elements down 
+to just a few. The number of terms generated by the partial reduction is 
+determined by the number of values that can be in process in a functional 
+unit at one time (i.e., functional unit time + 2CP).
+<P>
+When the i designator is the same as the j or k designator, a recursive 
+characteristic is introduced into the vector processing because of the 
+way in which element counters are handled. At the beginning of an operation 
+for which i is the same as j or k, the element counters for both the operand 
+register and the operand/result register are set to zero. The element 
+counter for the operand/result register is held at zero and does not begin 
+incrementing until the first result arrives from the functional unit at 
+functional unit time + 2 CP. This counter then begins to advance by one 
+each clock period. Note that until f.u. + 2, the initial contents of 
+element zero of the operand/result register are repeatedly sent to the 
+functional unit. The element counter for the other operand register, 
+however, immediately begins advancing by one on each successive clock period 
+<P>
+2240004	3-14	C
+<P>
+<A NAME="p3-15">
+thus sending the contents of elements 0, 1, 2, ... on successive clock 
+periods. Thus, the first f.u. + 2 elements of the operand/result register 
+contain results based on the contents of element 0 of the operand/result 
+register and on successive elements of the other operand register. These 
+f.u. + 2 elements then provide one of the operands used in calculating 
+the results for the next f.u. + 2 elements. The third group of f.u. + 2 
+elements of the operand/result register contains results based on the 
+results delivered to the second group of f.u. + 2 elements, and so on until 
+the final group of f.u. + 2 elements is generated as determined by the 
+vector length.
+<P>
+As an example, consider the summation of a vector of floating point numbers 
+where the initial conditions for the vector operation are the following:
+<UL>
+<LI> All elements of register V1 contain floating point values.
+<LI> Register V2 will provide one set of operands and will receive 
+the results. Element 0 of this register contains a 0 value. 
+<LI> The vector length register (VL) contains 64.
+</UL>
+A floating point add instruction (171212) is then executed using register 
+V1 for one operand and using register V2 as an operand/result register. 
+This instruction uses the floating point add unit which has a functional 
+unit time of 6 CP causing sums to be generated in groups of eight (f.u. +
+2 = 8). The final eight partial sums of the 64 elements of V1 are contained 
+in elements 56 through 63 of V2. Specifically, elements of V2 contain the 
+following sums:
+<P>
+<IMG SRC="CRAY-1-HRM-210.gif">
+
+<P>
+
+2240004	3-15
+<P>
+<A NAME="p3-16">
+<P>
+<IMG SRC="CRAY-1-HRM-211.gif">
+<P>
+
+
+Note that if an integer summation were performed instead of a floating 
+point summation, five partial sums would be generated and placed in 
+elements 59 through 63 since the functional unit time for the integer add 
+unit is 3 CP. Assuming that the same registers are used as for the previous 
+example but that the registers now contain integer values, the last five 
+elements of V2 would contain the following values:
+<P>
+<IMG SRC="CRAY-1-HRM-212.gif">
+<P>
+
+
+This recursive characteristic of vector processing is applicable to any 
+vector operation, arithmetic or logical. The value initially placed in 
+element 0 of the operand/result register will depend on the operation 
+being performed. For example, when using the floating point multiply 
+unit, element 0 of the operand/result register will usually be set to an 
+initial value of 1.0.
+<P>
+2240004	3-16	C
+<P>
+<A NAME="p3-17">
+<U>Vector add unit</U>
+<BR>
+The vector add unit performs 64-bit integer addition and subtraction for 
+a vector operation and delivers the results to elements of a V register. 
+The unit executes instructions 154 through 157. The addition and subtrac-
+tion are performed in a similar manner. However, for the subtraction 
+operations, 156 and 157, the Vk operand is complemented prior to addition 
+and during the addition a one is added into the low order bit position of 
+the result.
+<P>
+No overflow is detected by the unit.
+<P>
+The functional unit time for the vector add unit is three clock periods. 
+<P>
+<U>Vector shift unit</U>
+<BR>
+The vector shift unit shifts the entire 64-bit contents of a V register 
+element or the 128-bit value formed from two consecutive elements of a 
+V register. Shift counts are obtained from an A register. Shifts are 
+end-off with zero fill.
+<P>
+The vector shift unit executes instructions 150 through 153. Functional 
+unit time is four clock periods.
+<P>
+<U>Vector logical unit</U>
+<BR>
+The vector logical unit performs bit-by-bit manipulation of 64-bit 
+quantities for instructions 140 through 147. The unit also performs the 
+logical operations associated with the vector mask instruction, 175. 
+Because the 175 instruction uses the same functional unit as instructions 
+140 through 147, it cannot be chained with these logical operations.
+<P>
+ Functional unit time is two clock periods. 
+<P>
+FLOATING POINT FUNCTIONAL UNITS
+<P>
+The three floating point functional units perform floating point arithmetic 
+for both scalar and vector operations. When executing a scalar instruction, 
+operands are obtained from S registers and the result is delivered to an S 
+register. When executing most vector instructions, operands are obtained 
+from pairs of V registers or from a V register and an S register and the 
+results are delivered to a V register. The reciprocal instruction, which has 
+only one input operand, is an exception.
+<P>
+2240004	3-17	C
+<P>
+<A NAME="p3-18">
+A floating point unit is reserved during execution of a vector instruction. 
+<P>
+Information on floating point out-of-range conditions is contained in the 
+subsection entitled Floating Point Arithmetic.
+<P>
+<U>Floating point add unit</U>
+<BR>
+The floating point add unit performs addition or subtraction of 64-bit 
+operands in floating point format. The unit executes instructions 062, 
+063, and 170 through 173. Functional unit time is six clock periods. 
+<P>
+A result is normalized even if the operands are unnormalized. 
+<P>
+Out-of-range exponents are detected as described under Floating Point Arithmetic.
+<P>
+<U>Floating point multiply unit</U>
+<BR>
+The floating point multiply unit executes instructions 060 through 067 
+and 160 through 167. These instructions provide for full and half 
+precision multiplication of 64-bit operands in floating point format and 
+for computing two minus a floating point product for reciprocal iterations. 
+<P>
+The half-precision product is rounded; the full-precision product is 
+either rounded or unrounded.
+Input operands are assumed to be normalized. The unit delivers a 
+normalized result except that the result is not guaranteed to be 
+normalized if the input operands are not normalized.
+<P>
+Out-of-range exponents are detected as described under Floating Point 
+Arithmetic. However, if both operands have zero exponents, the result 
+is considered as an integer product and is not normalized.
+Functional unit time is seven clock periods. 
+<P>
+<U>Reciprocal approximation unit</U>
+<BR>
+The reciprocal approximation unit finds the approximate reciprocal of a 
+64-bit operand in floating point format. The unit executes instructions 
+070 and 174. Functional unit time is 14 clock periods.
+<P>
+The result is normalized. The input operand is assumed to be normalized; 
+the uppermost bit of the coefficient is not tested but is assumed to be 
+set in the computation.
+<P>
+2240004	3-18
+<P>
+<A NAME="p3-19">
+<U>ARITHMETIC OPERATIONS</U>
+<P>
+Functional units in the CRAY-1 either perform two's complement integer 
+arithmetic or perform floating point arithmetic.
+<P>
+INTEGER ARITHMETIC
+<P>
+All integer arithmetic, whether 24 bits or 64 bits, is two's complement 
+and is so represented in the registers as illustrated in figure 3-2.
+The address add unit and address multiply unit perform 24-bit arithmetic. 
+The scalar add unit and the vector add unit perform 64-bit arithmetic.
+<P>
+<IMG SRC="CRAY-1-HRM-213.gif">
+<P>
+Multiplication of two fractional operands may be accomplished using the 
+floating point multiply instruction. The floating point multiply unit 
+recognizes the conditions where both operands have zero exponents as a 
+special case and returns the upper 48 bits of the product of the 
+coefficients as the coefficient of the result and leaves the exponent 
+field zero.
+<P>
+Division of integers would require that they first be converted to 
+floating point format and then divided using the floating point units. 
+<P>
+2240004	3-19	C
+<P>
+<A NAME="p3-20">
+FLOATING POINT ARITHMETIC
+<P>
+Floating point numbers are represented in a standard format throughout 
+the CPU. This format is a packed representation of a binary coefficient 
+and an exponent or power of two. The coefficient is a 48-bit signed 
+fraction. The sign of the coefficient is separated from the rest of 
+the coefficient as shown in figure 3-3. Since the coefficient is signed 
+magnitude, it is not complemented for negative values.
+<P>
+<IMG SRC="CRAY-1-HRM-214.gif">
+<P>
+A zero value or an underflow result is not biased and is represented as a 
+word of all zeros.
+A negative zero is not generated by any functional unit.
+<P>
+2240004	3-20	C
+<P>
+<A NAME="p3-21">
+<U>Normalized floating point</U>
+<BR>
+A non-zero floating point number in packed format is normalized if the 
+most significant bit of the coefficient is non-zero. This condition 
+implies that the coefficient has been shifted to the left as far as 
+possible and therefore the floating point number has no leading zeros in 
+the coefficient.
+<P>
+When a floating point number has been created by inserting an exponent 
+of 40060<SUB>8</SUB> into a word containing a 48-bit integer, the result should be 
+normalized before being used in a floating point operation. Normalization 
+is accomplished by adding the unnormalized floating point operand to zero. 
+Since S<SUB>o</SUB> provides a 64-bit zero when used in the Sj field of an instruction, 
+a normalize of an operand in Sk can be performed using the following 
+instruction:
+<DD>062iOk
+<P>
+Si contains the normalized result. 
+<P>
+<U>Floating point range errors</U>
+<BR>
+Overflow of the floating point range is indicated by an exponent value of 
+60000<SUB>8</SUB> or greater in packed format. Underflow is indicated by an exponent 
+value of 17777<SUB>8</SUB> or less in packed format. Detection of the overflow 
+condition will initiate an interrupt if the floating point mode flag is 
+set in the mode register and monitor mode is not in effect. The floating 
+point mode flag can be set or cleared by an object program. The object 
+program has the responsibility to clear the f.p. mode flag via a 0022 
+instruction at the beginning of each vector branch sequence and resetting 
+it via a 0021 instruction after the merge.
+<P>
+Detection of floating point error conditions by the floating point units 
+is described in the following paragraphs.
+<P>
+2240004	3-21	C
+<P>
+<A NAME="p3-22">
+<U>Floating point add unit</U> - A floating point add range error condition is 
+generated for scalar operands when the larger incoming exponent is greater 
+than or equal to 600008. The floating point error flag is set and an 
+exponent of 600008 is sent to the result register along with the computed 
+coefficient, as in the following example:
+<P>
+<IMG SRC="CRAY-1-HRM-215.gif">
+<P>
+
+Underflow is also generated when either, but not both, of the incoming 
+exponents is zero. Both exponents equal to zero is treated as an integer 
+multiply and the result is treated normally with no normalization shift of 
+the result allowed.
+<IMG SRC="CRAY-1-HRM-216.gif">
+<P>
+
+2240004	3-22	C
+<P>
+<A NAME="p3-23">
+<U>Double precision numbers</U>
+<BR>
+The CRAY-1 does not provide special hardware for performing double or 
+multiple precision operations. Double precision computations with 95-bit 
+accuracy are available through software routines provided by Cray Research. 
+<P>
+<U>Addition algorithm</U>
+<BR>
+Floating point addition or subtraction is performed in a 49-bit register. 
+Trial subtraction of the exponents occurs to select the operand to be 
+shifted down for aligning the operands. The larger exponent operand 
+carries the sign and the shift is always to the right. Bits shifted
+out of the register are lost; no round-up takes place.
+<P>
+<IMG SRC="CRAY-1-HRM-217.gif">
+<P>
+
+2240004	3-23
+<P>
+<A NAME="p3-24">
+<U>Multiplication algorithm</U>
+<BR>
+The floating point multiply unit in the CRAY-1 computer has an input of 
+48 bits of coefficient into a multiply pyramid (figure 3-5). The pyramid 
+truncates part of the lower bits of the 96-bit product. To adjust for 
+this truncation, a constant is unconditionally added above the truncation.
+
+
+<IMG SRC="CRAY-1-HRM-218.gif">
+<P>
+
+2240004	3-24	C
+<P>
+<A NAME="p3-25">
+<IMG SRC="CRAY-1-HRM-219.gif">
+<P>
+2240004     3-25   C
+<P>
+<A NAME="p3-26">
+Note that reversing the multiplier and multiplicand operands could cause 
+slightly different results, that is, A x B is not necessarily the same as 
+R x A.
+<P>
+<IMG SRC="CRAY-1-HRM-220.gif">
+<P>
+
+A few simplified examples may help to illustrate the CRAY-1 multiplication 
+algorithm. Each of these examples uses only 6-bit arithmetic to aid 
+understanding of this algorithm and its differences from the conventional 
+algorithm. The multiplication is shown in the usual school presentation 
+(intermediate additions are not shown).
+<P>
+<IMG SRC="CRAY-1-HRM-221.gif">
+<P>
+
+2240004	3-26	C
+<P>
+<A NAME="p3-27">
+<IMG SRC="CRAY-1-HRM-222.gif">
+<P>
+
+240004	3-27	C
+<P>
+<A NAME="p3-28">
+<U>Division algorithm</U>
+<BR>
+The CRAY-1 performs floating point division by the method of reciprocal 
+approximation. This facilitates the hardware implementation of a fully-
+segmented functional unit. Operands may enter the reciprocal unit each 
+clock period because of this segmentation.	In vector mode, results are 
+produced at a one clock period rate. These results may be used in other 
+vector operations during chaining because all functional units in the 
+CRAY-1 have the same result rate.
+<P>
+<IMG SRC="CRAY-1-HRM-223.gif">
+<P>
+
+The approximation is based on Newton's method. The reciprocal approxima-
+tion at step 1 is correct to 30 bits. The additional Newton iteration at 
+step 2 increases this accuracy to 47 bits. This iteration is applied as 
+a correction factor with a full-precision multiply operation.
+<P>
+Where 31 bits of accuracy is sufficient, the reciprocal approximation 
+instruction may be used with the half-precision multiply to produce a 
+half-precision quotient.
+<P>
+The 18 low-order bits of the half-precision results are returned as zeros 
+with a round applied to the low-order bit of the 30-bit result
+<P>A scalar quotient is computed in 29 clock periods since operations 2 and 
+3 issue in successive clock periods.
+<P>
+A vector quotient requires effectively three vector times since operations 
+1 and 3 are chained together. This hides one of the multiply operations. 
+A vector time is one clock period for each element in the vector.
+<P>
+For example, two 50-element vectors are divided in about 3 * 50 clock 
+periods. This estimate does not include overhead associated with the 
+functional units.
+<P>
+2240004	3-28	C
+<P>
+<A NAME="p3-29">
+<U>LOGICAL OPERATIONS</U>
+<P>
+The scalar and vector logical units perform bit-by-bit manipulation
+of 64-bit quantities. Operations provide for forming logical products, 
+differences, sums and merges.
+<P>
+<IMG SRC="CRAY-1-HRM-224.gif">
+<P>
+
+<P>
+2240004	3-29	C
+<P>
+<A NAME="p3-30">
+<U>INSTRUCTION ISSUE AND CONTROL</U>
+<P>
+This section describes the instruction buffers and registers involved 
+with instruction issue and control. Figure 3-6 illustrates the general 
+flow of instruction parcels through the registers and buffers.
+<P>
+<IMG SRC="CRAY-1-HRM-225.gif">
+<P>
+
+P REGISTER
+<BR>
+The P register is a 22-bit register which indicates the next parcel 
+of program code to enter the next instruction parcel (NIP) register 
+in a linear program sequence. The upper 20 bits of the P register 
+indicate the word address for the program word in memory. The lower 
+two bits indicate the parcel within the word.	The content of the P 
+register is normally advanced as each parcel successfully enters the 
+NIP register. The value in the P register normally corresponds to the 
+parcel address for the parcel currently moving to the NIP register.
+<P>
+2240004	3-30	C
+<P>
+<A NAME="p3-31">
+The P register is entered with new data on an instruction branch or 
+on an exchange sequence. It is then advanced sequentially until the 
+next branch or exchange sequence. The value in the P register is 
+stored directly into the terminating exchange package during an 
+exchange sequence.
+<P>
+The P register is not master cleared. A noisy value is stored in the 
+terminating exchange package at address zero during the dead start 
+sequence.
+<P>
+CIP REGISTER
+<BR>
+The CIP (current instruction parcel) register is a 16-bit register 
+which holds the instruction waiting to issue. If this instruction 
+is a two-parcel instruction, the CIP register holds the upper half 
+of the instruction and the LIP holds the lower half. Once an 
+instruction enters the CIP register, it must issue. Issue may be 
+delayed until previous operations have been completed but then the 
+current instruction waiting for issue must proceed. Data arrives
+at the CIP register from the NIP register. The indicators which make 
+up the instruction are distributed to all modules which have mode 
+selection requirements when the instruction issues.
+<P>
+The control flags associated with the CIP register are generally 
+master cleared. The register itself is not and a noisy instruction 
+will issue during the master clear sequence.
+<P>
+NIP REGISTER
+<BR>
+The NIP (next instruction parcel) register is a 16-bit register 
+which holds a parcel of program code prior to entering the CIP 
+register. A parcel of program code which has entered the NIP 
+register must be executed. There is no mechanism to discard it.
+<P>
+2240004	3-31	C
+<P>
+<A NAME="p3-32">
+If issue of the instruction in the CIP register is delayed, the data in 
+the NIP register is held over for the next clock period. Data entry 
+to the NIP register is blocked for the second parcel of a two-parcel 
+instruction. The resulting blank is then issued at the CIP register at 
+the proper time as a do nothing instruction. A blank instruction differs 
+from a 000 instruction only in that a true 000 instruction causes an error 
+interrupt.
+<P>
+Data entry in the NIP register is also blocked when the arriving data is 
+not valid. This occurs on crossing buffer boundaries and on branching as 
+well as on interrupt conditions.
+<P>
+The NIP register is not master cleared. A noisy instruction may issue 
+during the master clear interval before the interrupt condition blocks 
+data entry into the NIP register.
+<P>
+LIP REGISTER
+<P>
+The LIP (lower instruction parcel) register is a 16-bit register which 
+holds the lower half of a two-parcel instruction at the time the two-
+parcel instruction issues from the CIP register. This register is 
+almost the same as the NIP register except that it contains valid data 
+at times when the same data has been blocked from entering the NIP register. 
+<P>
+INSTRUCTION BUFFERS
+<P>
+There are four instruction buffers in the CRAY-1, each of which holds 64 
+consecutive 16-bit instruction parcels (figure 3-7). Instruction parcels 
+are held in the buffers prior to being delivered to the NIP or LIP 
+registers.
+<P>
+The beginning instruction parcel in a buffer always has a parcel address
+that is an even multiple of 100<SUB>8</SUB>. This allows the entire range of
+addresses for instructions in a buffer to be defined by the high-order 16 
+bits of the beginning parcel address. For each buffer, there is a 16-bit 
+beginning address register that contains this value.
+<P>
+The beginning address registers are scanned each clock period. If the 
+high-order 18 bits of the P register match one of the beginning addresses, 
+<P>
+2240004	3-32	C
+<P>
+<A NAME="p3-33">
+<IMG SRC="CRAY-1-HRM-227.gif">
+<P>
+
+<P>
+an in-buffer condition exists and the proper instruction parcel is 
+selected from the instruction buffer. An instruction parcel to be 
+executed is normally sent to the NIP. However, the second half of a 
+two-parcel instruction is blocked from entering the NIP and is sent to 
+the LIP, instead, and is available when the upper half issues from the 
+CIP. At the same time, a blank parcel is entered into the NIP.
+<P>
+On an in-buffer condition, if the instruction is in a different buffer 
+than the previous instruction, a change of buffers occurs necessitating a 
+two clock period delay of issue.
+<P>
+An out-of-buffer condition exists when the high-order 18 bits of the P 
+register do not match any instruction buffer beginning address. When 
+this condition occurs, instructions must be loaded into one of the 
+instruction buffers from memory before execution can continue. The 
+<P>
+2240004	3-33	C
+<P>
+<A NAME="p3-34">
+instruction buffer that receives the instructions is determined by a two-
+bit counter. Each occurrence of an out-of-buffer condition causes the 
+counter to be incremented by one so that the buffers are selected in 
+rotation.
+<P>
+Buffers are loaded from memory four words per clock period, an operation 
+that fully occupies memory. The first group of 16 parcels delivered to 
+the buffer always contains the instruction required for execution. For 
+this reason, the branch out of buffer time is a constant 14 clock periods .t 
+The remaining groups arrive at a rate of 16 parcels per clock period and 
+circularly fill the buffer.
+<P>
+An instruction buffer is loaded with one word of instructions from each 
+of the 16 memory bankst The first four instruction parcels residing in 
+an instruction buffer are always from bank 0. Figure 3-7 illustrates 
+the organization of pprcels and words in an instruction buffer.
+<P>
+An exchange sequence voids the instruction buffers by setting their 
+beginning address registers to all ones. This prevents a match with the 
+P register and causes one of the buffers to be loaded.
+<P>
+Both forward and backward branching is possible within the buffers. A 
+branch does not cause reloading of an instruction buffer if the instruc-
+tion being branched to is within one of the buffers. Multiple copies of 
+instruction parcels cannot occur in the instruction buffers. Because 
+instructions are held in instruction buffers prior to issue, no attempt 
+should be made to dynamically modify instruction sequences. As long as 
+the unmodified instruction is in an instruction buffer, the modified 
+instruction in memory will not be loaded into an instruction buffer. 
+<P>
+Although optimization of code segment lengths for instruction buffers is 
+not a prime consideration when programming the CRAY-1, the number and 
+size of the buffers and the capability for both forward and backward 
+branching can be used to good advantage. Large loops containing up to 256 
+consecutive instruction parcels can be maintained in the four buffers or as 
+an alternative, one could have a main program sequence in one or two of the 
+buffers which makes repeated calls to short subroutines maintained in the 
+other buffers. The program and subroutines remain in the buffers undisturbed 
+as long as no out-of-buffer condition causes a buffer to be reloaded.
+<P>
+Refer to 8 Bank Phasing Option, section 5.
+<P>
+2240004	3-34	C
+<P>
+<A NAME="p3-35">
+<U>EXCHANGE MECHANISM</U>
+<P>
+Exchange mechanism refers to the technique employed in the CRAY-1 for 
+switching instruction execution from program to program. This technique 
+involves the use of blocks or program parameters known as exchange packages 
+and a CPU operation referred to as an exchange sequence. Three special 
+registers are instrumental in the exchange mechanism. These are the exchange 
+address (XA) register, the mode (M) register, and the flag (F) register.
+<P>
+XA REGISTER
+<P>
+The XA (exchange address) register specifies the first word address of a 
+16-word exchange package loaded by an exchange operation. The register 
+contains the upper eight bits of a 12-bit field that specifies the address. 
+The lower bits of the field are always zero; an exchange package must begin 
+on a 16-word boundary. The 12-bit limit requires that the absolute address 
+be in the lower 4096 words of memory.
+<P>
+When an execution interval terminates, the exchange sequence exchanges the 
+contents of the registers with the contents of the exchange package at 
+(XA)*16 in memory.
+<P>
+M REGISTER
+<P>
+The P1 (mode) register is a four-bit register that contains part of the 
+exchange package for a currently active program. The four bits are 
+selectively set during an exchange sequence. Bit 37, the floating point 
+error mode flag, can be set or cleared during the execution interval for 
+a program through use of the 0021 and 0022 instructions. The remaining 
+bits are not altered during the execution interval for the exchange 
+package and can be altered only when the exchange package is inactive in 
+storage. Bits are assigned as follows in word two of the exchange package. 
+<DD>
+<TABLE>
+<TR><TD valign=top> Bit&nbsp;36 <TD> Correctable memory error mode flag. When this bit is set, 
+interrupts on correctable errors are enabled.
+<TR><TD valign=top>Bit&nbsp;37 <TD> Floating point error mode flag. When this bit is set, 
+interrupts on floating point errors are enabled.
+<TR><TD valign=top>Bit&nbsp;38 <TD> Uncorrectable memory error mode flag. When this bit is set, 
+interrupts on uncorrectable memory errors are enabled.
+<TR><TD valign=top>Bit&nbsp;39 <TD> Monitor mode flag. When this bit is set, all interrupts 
+other than memory errors are inhibited.
+</TABLE>
+<P>
+2240004	3-35	C
+<P>
+<A NAME="p3-36">
+F REGISTER
+<P>
+The F (flag) register is a nine-bit register that contains part of the 
+exchange package.for the currently active program. This register contains 
+nine flags which are individually identified with the exchange package in 
+figure 3-8. Setting any of these flags causes interruption of the program 
+execution. When one or more flags are set, a request interrupt signal is 
+sent to initiate an exchange sequence. The content of the F register is 
+stored along with the rest of the exchange package and the monitor program 
+can analyze the nine flags for the cause of the interruption. Before the 
+monitor program exchanges back to the package, it may clear the flags in 
+the F register area of the package. If any of the bits is set, another 
+exchange will occur immediately.
+<P>
+Any flag, other than the memory error flag, can be set in the F register 
+only if the currently active exchange package is not in monitor mode. 
+This means that these flags will set only if the highest order bit of the 
+M register is zero. With the exception of the memory error flag, if the 
+program is in monitor mode and the conditions for setting an F register 
+are otherwise present, the flag remains cleared and no exchange sequence 
+is initiated.
+<P>
+EXCHANGE PACKAGE
+<P>
+An exchange package is a 16-word block of data in memory which is associated 
+with a particular computer program. It contains the basic parameters 
+necessary to provide continuity from one execution interval for the program 
+to the next. These parameters consist of the following:
+<DD>Program address register (P) - 22 bits 
+<DD>Base address register (BA) - 18 bits 
+<DD>Limit address register (LA) - 18 bits 
+<DD>Mode register (M) - 4 bits
+<DD>Exchange address register (XA) - 8 bits 
+<DD>Vector length register (VL) - 7 bits 
+<DD>Flag register (F) - 9 bits
+<DD>Current contents of the eight A registers 
+<DD>Current contents of the eight S registers
+<P>
+2240004	3-36	C
+<P>
+<A NAME="p3-37">
+<IMG SRC="CRAY-1-HRM-228.gif">
+<P>
+2240004	3-37	C
+<P>
+<A NAME="p3-38">
+The exchange package contents are arranged in a 16-word block as shown 
+in figure 3-8. Data is swapped from memory to the computer operating 
+registers and back to memory by the exchange sequence. This sequence 
+exchanges the data in a currently active exchange package, which is 
+residing in the operating registers, with an inactive exchange package 
+in memory.	The XA address of the currently active exchange package 
+specifies the address of the inactive exchange package to be used in 
+the swap. The data is exchanged and a new program execution interval 
+is initiated by the exchange sequence.
+<P>
+The B register, T register, and V register contents are not swapped in 
+the exchange sequence. The data in these registers must be stored and 
+replaced as required by specific coding in the monitor program which 
+supervises the object program execution.
+<P>
+<U>Memory error data</U>
+<BR>
+Two bits in the Mode (M) register determine whether or not the exchange 
+package contains data relevant to a memory error if one occurs prior
+to an exchange sequence. These are bit 36, the "Interrupt on correctable 
+memory error bit" and bit 38, the "Interrupt on uncorrectable memory 
+error bit". The error data, consisting of four fields of information, 
+appears in the exchange package if bit 38 is set and an uncorrectable 
+memory error is detected or if bit 36 is set and correctable memory error 
+is encountered.
+<P>
+<U>Error type (E)</U> - The type of error encountered, uncorrectable or 
+correctable, is indicated in bits 0 and 1 of the first word of the 
+exchange package. Bit 0 is set for an uncorrectable memory error; bit 1 
+is set for a correctable memory error.
+<P>
+<U>Syndrome (S)</U> - The eight syndrome bits used in detecting the error are 
+returned in bits 2 through 9 of the first word of the exchange package. 
+Refer to section 5 for additional information.
+<P>
+2240004	3-38	C
+<P>
+<A NAME="p3-39">
+<U>Read mode (R)</U> - This field indicates the read mode in progress when the 
+error occurred and consists of bits 10 and 11 of the first word of the 
+exchange package. These bits assume the following values:
+<DD>00 Scalar 
+<DD>01 I/0 
+<DD>10 Vector 
+<DD>11	Instruction fetch
+<P>
+<U>Read address (RAB)</U> - The RAB field contains the address at which the error 
+occurred. Bits 12 through 15 (B) of the first word of the exchange package 
+contain bits 2<SUP>3</SUP> through 2° of the address and may be considered as the bank 
+address; bits 0 through 15 (RA) of the second word of the exchange package 
+contain bits 2<SUP>19</SUP> through 2<SUP>4</SUP> of the address.
+<P>
+<U>Active exchange package</U>
+<BR>
+An active exchange package is an exchange package which is currently 
+residing in the computer operating registers. The interval of time in 
+which the exchange package is active is called the execution interval for 
+the exchange package and also for the program with which it is associated. 
+The execution interval begins with an exchange sequence in which the 
+subject exchange package moves from memory to the operating registers. 
+The execution interval ends as the exchange package moves back to
+memory in a subsequent exchange sequence. 
+<P>
+EXCHANGE SEQUENCE
+<P>
+The exchange sequence is the vehicle for moving an inactive exchange 
+package from memory into the operating registers and at the same time 
+moving the currently active exchange package from the operating registers 
+back into memory. This swapping operation is done in a fixed sequence 
+when all computational activity associated with the currently active 
+exchange package has stopped. The same 16-word block of memory is used 
+as the source of the inactive exchange package and the destination of the 
+currently active exchange package. The location of this block is 
+specified by the content of the exchange address register and is a part of 
+<P>
+2240004	3-39        C
+<P>
+<A NAME="p3-40">
+the currently active exchange package. The exchange sequence may be 
+initiated in three different ways.
+<DD>1. Dead start sequence 
+<DD>2. Interrupt flag set 
+<DD>3. Program exit
+<P>
+<U>Initiated by dead start sequence</U>
+<BR>
+The dead start sequence forces the exchange address register content to 
+zero and also forces a 000 code in the NIP register. These two actions 
+cause the execution of a program error exit using memory address zero 
+as the location of the exchange package. The inactive exchange package 
+at address zero is then moved into the operating registers and a program 
+is initiated using these parameters. The exchange package stored at 
+address zero is largely noise as a result of the dead start operation 
+and is in effect discarded by the subsequent entry of new data at these 
+storage addresses.
+<P>
+<U>Initiated by interrupt flag set</U>
+<BR>
+An exchange sequence can be initiated by setting any one of the nine 
+interrupt flags in the F register. One or more flags set result in a 
+request interrupt signal which initiates an exchange sequence. 
+<P>
+<U>Initiated by program exit</U>
+<BR>
+There are two program exit instructions that cause the initiation of an 
+exchange sequence. The timing of the instruction execution is the same 
+in either case and the difference is only in which of the two flags in 
+the F register is set. The two instructions are:
+<DD>Program code 000 - Error exit 
+<DD>Program code 004 - Normal exit
+<P>
+The two exits provide a means for a program to request its own termination. 
+A non-monitor (object) program will usually use the normal exit instruction. 
+to exchange back to the monitor program. The error exit allows for 
+termination of an object program that has branched into an unused area of 
+memory or into a data area. The exchange address selected is the same as 
+for a normal exit.
+<P>
+2240004	3-40	C
+<P>
+<A NAME="p3-41">
+There is a flag in the F register for each of these instructions. The 
+appropriate flag is set providing the currently active exchange package 
+is not in monitor mode. The inactive exchange package called in this 
+case is normally one that executes in monitor mode and the flags are 
+sensed for evaluation of the cause of program termination.
+<P>
+The monitor program selects an inactive exchange package for activation 
+by setting the address of the inactive exchange package into the XA 
+register and then executing a normal exit instruction.
+
+<P>
+<U>Exchange sequence issue conditions</U>
+<BR>
+An exchange sequence initiated by other than a 000 or 004 instruction has 
+the following hold issue conditions, execution time, and special cases. 
+The corresponding information for the 000 and 004 instructions is provided 
+with the instruction descriptions in Section 4 of this manual.
+<BR>Hold issue conditions:
+<DD>Instruction buffer data invalid 
+<DD>NIP not blank
+<DD>Wait exchange flag not set 
+<DD>S, V, or A registers busy 
+<P>
+Execution time: 49 CPs
+<P>
+Special cases:
+<DD>Block instruction issue 
+<DD>Block I/0 references 
+<DD>Block fetch
+<P>
+2240004	3-41	C
+<P>
+<A NAME="p3-42">
+EXCHANGE PACKAGE MANAGEMENT
+<P>
+Each 16-word exchange package resides in an area defined during system 
+dead start that must lie within the lower 4096 words of memory. The 
+package at address 0 is that of the monitor program. Other packages 
+provide for object programs and monitor tasks. These packages lie 
+outside of the field lengths for the programs they represent as 
+determined by the base and limit addresses for the programs. Only the 
+monitor program has a field defined so ,that it can access all of memory 
+including the exchange package areas. This allows the monitor program 
+to define or alter all exchange packages other than its own when it is 
+the currently active exchange package.
+<P>
+Proper management of exchange packages dictates that a non-monitor 
+program always exchange back to the monitor program that exchanged to 
+it. This assures that the program information is always swapped back 
+into its proper exchange package.
+<P>
+Consider the case where exchange packages exist for programs A, B, and C. 
+Program A is the monitor program, program B is a user program, and program 
+C is an interrupt processing program.
+<P>
+The monitor program, A, begins an execution interval following dead start. 
+No interrupts can terminate its execution interval since it is in monitor 
+mode. The monitor program voluntarily exits by issuing a 004 exit 
+instruction. Before doing so, however, it sets the contents of the XA 
+register to point to B's exchange package so that B will be the next 
+program to execute and it sets the exit address in B's exchange package 
+to point back to the monitor.
+<P>
+The exchange sequence to B causes the exit address from B's exchange 
+package to be entered in the XA register. At the same time, the exchange 
+address in the XA register goes to B's exchange package area along with all 
+other program parameters for the monitor program. When the exchange is 
+complete, program B begins its execution interval.
+<P>
+2240004	3-42	C
+<P>
+<A NAME="p3-43">
+Suppose further that while 'B is executing, an interrupt flag sets 
+initiating an exchange sequence. Since B cannot alter the XA register, 
+the exit is back to the monitor program.	Program B's parameters swap back 
+into B's exchange package area; the monitor program parameters held in 
+B's package during the execution interval swap back into the operating 
+registers.
+<P>
+The monitor, upon resuming execution, determines that an interrupt has 
+caused the exchange and sets the XA register to call the proper interrupt 
+processor into execution. It does this by setting XA to point to the 
+exchange package for program C. Then, it clears the interrupt and 
+initiates execution of C by executing a 004 exit instruction. Depending 
+on the design of the operating system, the interrupt processor program 
+could execute in monitor mode or in user mode.
+<P>
+<U>MEMORY FIELD PROTECTION</U>
+<BR>
+Each object program at execution time has a designated field of memory 
+holding instructions and data. The field limits are specified by the 
+monitor program when the object program is loaded and initiated. The 
+field may begin at any word address that is a multiple of 16 and may 
+continue to another address that is also a multiple of 16. The field 
+limits are contained in two registers, the base address register (BA) 
+and the limit address register (LA), which are described later in this 
+subsection.
+<P>
+All memory addresses contained in the object program code are relative 
+to the base address which begins the defined field. It is, therefore, 
+not possible for an object program to read or alter any memory location 
+with a lower absolute address than the base address. Each object program 
+reference to memory is also checked against the limit address to determine 
+if the address is within the bounds assigned. A memory reference beyond 
+the assigned field limit is prevented from altering the memory content 
+and for a non-monitor mode program, creates an error condition that 
+terminates program execution. The program or operand range flag is set 
+<P>
+2240004	3-43	C
+<P>
+<A NAME="p3-44">
+to indicate the error correction. The monitor program upon resuming 
+execution determines the cause of the interrupt and takes appropriate 
+action, perhaps terminating the user program.
+<P>
+BA REGISTER
+<P>
+The 18-bit BA register holds the base address of the user field during 
+the execution interval for each exchange package. The contents of this 
+register are interpreted as the upper 18 bits of a 22-bit memory address. 
+The lower four bits of the address are assumed zero. Absolute memory 
+addresses are formed by adding (BA) * 16 to the relative address specified 
+by the CPU instructions. The BA register always indicates a bank 0 
+memory address.
+<P>
+LA REGISTER
+<P>
+The 18-bit LA register holds the limit address of the user field during 
+the execution interval for each exchange package. The contents of LA 
+are interpreted as the upper 18 bits of a 22-bit memory address. The 
+lower four bits of the address are assumed zero. The LA register always 
+indicates a bank 0 memory address.
+<P>
+<IMG SRC="CRAY-1-HRM-229.gif">
+<P>
+DEAD START SEQUENCE
+<P>
+The dead start sequence is that sequence of operations required to start 
+a program running in the CPU after power has been turned off and then 
+turned on again. All registers in the machine, all control latches, 
+and all words in memory are assumed to be noisy after power has been 
+turned on. The sequence of operations required to begin a program is 
+initiated by the maintenance control unit. This unit sequences the 
+following operations:
+<DD>1. Turns on master clear signal. 
+<DD>2. Turns on I/0 clear signal.
+<P>
+2240004	3-44	C
+<P>
+<A NAME="p3-45">
+<DD>3. Turns off I/0 clear signal. 
+<DD>4. Loads memory via MCU channel. 
+<DD>5. Turns off master clear signal.
+<P>
+The master clear signal stops all internal computation and forces the 
+critical control latches to predetermined states. The I/0 signal clears 
+the input channel address registers to zero and sets an active status. 
+The maintenance control unit then loads an initial exchange package and 
+monitor program. The exchange package must be located at address zero 
+in memory. Turning off the master clear signal initiates the exchange 
+sequence to read this package and begin execution of the monitor program. 
+Subsequent actions are dictated by the design of the operating system. 
+<P>
+2240004	3-45	C
+<P>
+<A NAME="p3-46">
+<HR>
+<P>
+</BLOCKQUOTE>
+<P>
+Return to <A HREF="../on-line-docs.html">On-Line-Documents</A>
+<P>
+
+</BODY>
+</HTML>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cray-cyber.org/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta http-equiv="KEYWORDS" content="Cray, Cyber, Cray-Cyber, CDC, 960, cy960, Seymour, Y/MP, EL, Y-MP, NOS, Account, Accounts, Free, CDCNET, jgz, john, zabolitzky, freddy, frederik, meerwaldt, amann, alexander, mann, project, donation, shell, cluster, queue, distributed, computing, supercomputer, supercomputers, vintage, computers, computer">
+	<META HTTP-EQUIV="AUTHOR" CONTENT="John Zabolitzky, Freddy Meerwaldt">
+	<meta name="GENERATOR" content="The VI">
+	<meta name="KEYWORDS" content="Cray, Cyber, Cray-Cyber, CDC, 960, cy960, Seymour, Y/MP, EL, Y-MP, NOS, Account, Accounts, Free, CDCNET, jgz, john, zabolitzky, freddy, frederik, meerwaldt, amann, alexander, mann, project, donation, shell, cluster, queue, distributed, computing, supercomputer, supercomputers, vintage, computers, computer">
+	<meta name="description" content="Free interactive access to old supercomputers such as the Cyber 960 and the Cray Y-MP EL">
+	<meta name="content-language" content="en">
+	<meta name="robots" content="index, follow">
+	<meta name="AUTHOR" content="John Zabolitzky, Freddy Meerwaldt">
+	<META NAME="IDENTIFIER-URL" CONTENT="http://www.cray-cyber.org">
+	<META NAME="COPYRIGHT" CONTENT="Cray-Cyber Team">
+	<META HTTP-EQUIV="Reply-to" CONTENT="frederik@cray-cyber.org">
+	<META NAME="PUBLISHER-EMAIL" CONTENT="frederik@cray-cyber.org">
+	<META NAME="PUBLISHER" CONTENT="Cray-Cyber Team">
+	<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+	<META NAME="REVISIT-AFTER" CONTENT="7 days">
+	<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+	<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+
+	<title>Cray-Cyber - Welcome</title>
+</HEAD>
+<BODY text="#000000" bgcolor="#FFFFFF" link="#0000FF" vlink="#FF0000" alink="#000088">
+
+<!- ##### Begin left navbar ->
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+<TR>
+<TD VALIGN="top" BGCOLOR="darkkhaki">
+<CENTER>
+<IMG SRC="http://static.cray-cyber.org/nophotos/logo_cc_darkkhaki.gif" ALT="Cray-Cyber Logo"></CENTER>
+<P><FONT SIZE="+1" COLOR="#990000"><B>General&nbsp;Links:</B></FONT><BR>
+<SMALL>-&nbsp;<A HREF="/general/start.php">Start Page</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/general/donate.php"><B>Make a donation</B></A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/general/logo.php">Result&nbsp;of&nbsp;the&nbsp;Logo&nbsp;contest&nbsp;</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/general/links.php">Links Page</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/general/contact.php">Contact us</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/general/faq.php">Frequently&nbsp;asked&nbsp;questions</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/general/thanks.php">Thanks<IMG SRC="http://static.cray-cyber.org/nophotos/updated.gif" ALT="Updated!" BORDER=0></A></SMALL><BR>
+</P><P><FONT SIZE="+1" COLOR="#990000"><B>Live Information:</B></FONT><BR>
+<SMALL>-&nbsp;<A HREF="/live/webcams.php">Webcams</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/live/diary.php">Diary</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/live/wiki.php">Knowledge&nbsp;base</A></SMALL><BR>
+</P><P><FONT SIZE="+1" COLOR="#990000"><B>Access:</B></FONT><BR>
+<SMALL>-&nbsp;<A HREF="/access/request.php">Access Request</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/access/terms.php">Terms of usage</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/access/sessions.php">A/Detaching sessions</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/access/files.php">Transfering files</A></SMALL><BR>
+</P><P><FONT SIZE="+1" COLOR="#990000"><B>Information&nbsp;area:</B></FONT><BR>
+<SMALL>-&nbsp;<A HREF="/craycyber/press.php">Press</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/craycyber/history.php">History<IMG SRC="http://static.cray-cyber.org/nophotos/updated.gif" ALT="Updated!" BORDER=0></A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/craycyber/legal.php">Legal Notice</A></SMALL><BR>
+</P><P><FONT SIZE="+1" COLOR="#990000"><B>About the systems:</B></FONT><BR>
+<SMALL>-&nbsp;<A HREF="/systems/yel.php">Cray&nbsp;Y-MP&nbsp;EL&nbsp;(yel)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/cy960.php">Cyber&nbsp;960&nbsp;(cy960)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/cy860.php">Cyber 860 (cy860)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/cy830.php">Cyber 830 (phoenix)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/dtcyber.php">Desktop Cyber (dtcyber)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/cdcnet.php">Control Data Net (cdcnet)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/o2000.php">SGI Origin 2000 (o2000)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/majestix.php">CData&nbsp;4680&nbsp;(majestix)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/e10k.php">Sun Enterprise 10000 (e10k)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/t3e.php">Cray T3E (t3e)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/sx4b.php">NEC SX-4B (sx4b)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/siox.php">NEC UP4800/675 (siox)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/uhu.php">Cray J916 (uhu)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/huh.php">Cray J932 (huh)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/c90.php">Cray C90</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/t3d.php">Cray T3D</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/vpp300.php">Fujitsu VPP300 (vpp)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/dps6000.php">Bull DPS 6000</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/server.php">Login&nbsp;server&nbsp;(server)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/development.php">Successful&nbsp;SW-Ports</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/systems/log.php">System&nbsp;Logbooks</A></SMALL><BR>
+</P><P><FONT SIZE="+1" COLOR="#990000"><B>Documentation:</B></FONT><BR>
+<SMALL>-&nbsp;<A HREF="/documentation/search.php">Search engine</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/documentation/list.html">List of all books</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/documentation/reading.php">Suggested reading</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/documentation/cdcmodels.php">CDC Models</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/documentation/papers.php">Papers &amp; Talks</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="http://static.cray-cyber.org/Documentation">Books&nbsp;available&nbsp;for&nbsp;download<IMG SRC="http://static.cray-cyber.org/nophotos/updated.gif" ALT="Updated!" BORDER=0></A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/documentation/german.php">On German Computers</A></SMALL><BR>
+</P><P><FONT SIZE="+1" COLOR="#990000"><B>Pictures:</B></FONT><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/../live/webcams.php">datArena Hall 109 Overview<IMG SRC="http://static.cray-cyber.org/nophotos/new.gif" ALT="New!" BORDER=0></A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/general1.php">General pictures</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/mallorca_cy8301.php">Deinstallation&nbsp;of&nbsp;CY830s</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/cdcboards1.php">CDC Cyber Boards</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/tours231102.php">Tours&nbsp;day&nbsp;on&nbsp;Nov&nbsp;23rd&nbsp;2002</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/tours2003.php">Tours&nbsp;day&nbsp;on&nbsp;Nov&nbsp;29th&nbsp;2003</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/tours20041.php">Tours&nbsp;day&nbsp;on&nbsp;Nov&nbsp;27th&nbsp;2004</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/j90_1.php">Picking&nbsp;up&nbsp;a&nbsp;Cray&nbsp;J932</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/j90ipp1.php">Acquisition&nbsp;of&nbsp;IPPs&nbsp;Cray&nbsp;J916</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/move1.php">The move</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/renovation1.php">The renovation</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/comprooms.php">Vintage computer rooms</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/dec10.php">Operating&nbsp;a&nbsp;DEC10</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/cc545.php">Screenshots CC545</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/pictures/airco1.php">Air Conditioning</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="http://www.flickr.com/photos/stiefkind/sets/72157609830931613/">Cyber 2000 from Zurich (external)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="http://www.flickr.com/photos/stiefkind/sets/72157622231890941/">Moving to datArena (external, short overview)</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="http://www.ipernity.com/doc/30077/album/150342">Moving to datArena (external, long version)</A></SMALL><BR>
+</P><P><FONT SIZE="+1" COLOR="#990000"><B>Hardware Projects</B></FONT><BR>
+<SMALL>-&nbsp;<A HREF="/hardware/Hardware.php">Cyber Disk Emulator</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/hardware/Hardware.php">MUNIAC Vacuum Tube Computer</A></SMALL><BR>
+</P><P><FONT SIZE="+1" COLOR="#990000"><B>Team Members:</B></FONT><BR>
+<SMALL>-&nbsp;<A HREF="/team/jgz.php">John G. Zabolitzky</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/team/amann.php">Alexander Mann</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/team/frederik.php">Freddy Meerwaldt</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/team/stief.php">Wolfgang Stief</A></SMALL><BR>
+</P><P><FONT SIZE="+1" COLOR="#990000"><B>In memory of:</B></FONT><BR>
+<SMALL>-&nbsp;<A HREF="/memory/scray.php">Seymour Cray</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/memory/cdc.php">Control Data Corp</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/memory/crayres.php">Cray Research</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/memory/ccc.php">Cray Computer Corp</A></SMALL><BR>
+<SMALL>-&nbsp;<A HREF="/memory/era.php">ERA</A></SMALL><BR>
+&nbsp;<BR>
+<CENTER><A HREF="http://www.cray-cyber.org/live/newsfeed.rdf"><IMG SRC="http://static.cray-cyber.org/nophotos/rss.jpg" ALT="RSS Feed" BORDER=0></A><BR>&nbsp;<BR>
+<A HREF="../general/donate.php"><IMG SRC="http://static.cray-cyber.org/nophotos/donate.gif" ALT="Make a donation" BORDER=0></A></CENTER>
+&nbsp;<BR>
+</TD>
+<TD WIDTH="100%" VALIGN="top">
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+<TR>
+<TD>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+<TR>
+<TD>
+<IMG SRC="http://static.cray-cyber.org/nophotos/khaki2white.jpg" ALT="" HEIGHT=50 WIDTH=100>
+</TD>
+<TD>
+</TD></TR></TABLE>
+</TD></TR><TR><TD>
+<!- Create another table with a small field as spacer at the beginning ->
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100%">
+<TR>
+<TD>
+<IMG SRC="http://static.cray-cyber.org/nophotos/space.gif" height="3" width="7" ALT=" "></TD><TD>
+<!- Main Frame ->
+
+<CENTER><U><H1>Welcome to cray-cyber.org</H1></U>
+<BR>
+A division of <A HREF="http://www.computermuseum-muenchen.de">ComputerMuseum-Muenchen</A>
+<BR><BR><BR><BR>
+<TABLE BORDER=2 WIDTH=80% CELLPADDING=10 CELLSPACING=3 BGCOLOR=#E0E0E0><TR><TD>
+<CENTER>
+Our work is dedicated to the memory of Seymour Cray, Control Data
+Corporation, and Cray Research, Inc., and to the history of supercomputing.<BR>
+&nbsp;<BR>
+We serve this task by preserving
+and exhibiting machines and documents connected with the Cray legacy.
+Where possible we keep the machines running and publicly accessible
+free of charge.
+</CENTER>
+</TD></TR></TABLE>
+
+
+
+<P>
+<H3>We are currently moving to another building. Because of that, our systems are down until the move is completed which may take a few months.</H3>
+</P>
+
+<P>
+<B>The <A HREF="../live/diary.php">diary</A> always contains the latest news and
+some recent information of the currently running projects.</B>
+</P>
+<TABLE BORDER=0>
+<TR>
+<TD>
+<TABLE BORDER=0>
+<TR>
+<TD>
+<IMG SRC="http://static.cray-cyber.org/nophotos/lock.gif" ALT="Lock">
+</TD>
+<TD>
+Information for new <U>users</U>
+</TD>
+</TR>
+</TABLE>
+- <A HREF="../access/request.php">Access request</A><BR>
+- <A HREF="../access/index.php">How to access the systems</A><BR>
+<!-- - <A HREF="../access/times.php">Times of operation</A><BR> -->
+- <A HREF="../access/files.php">Transfering files</A>
+</TD>
+<TD>
+<TABLE BORDER=0>
+<TR>
+<TD>
+<IMG SRC="http://static.cray-cyber.org/nophotos/stack_of_books.jpg" ALT="Books">
+</TD>
+<TD>
+General Information (press, interest):
+</TD>
+</TR>
+</TABLE>
+- <A HREF="../craycyber/press.php">Press area</A><BR>
+- <A HREF="../craycyber/history.php">History and general information</A><BR>
+- <A HREF="../pictures/general1.php">Pictures of our computer rooms</A><BR>
+- <A HREF="../live/diary.php">Our diary</A><BR>
+- <A HREF="../memory/scray.php">In memory of Seymour Cray</A>
+</TD>
+</TR>
+<TR><TD>
+<TABLE BORDER=0>
+<TR>
+<TD>
+<IMG SRC="http://static.cray-cyber.org/nophotos/opera_glasses.jpg" ALT="Glasses">
+</TD>
+<TD>
+Information a user should regularly visit:
+</TD>
+</TR>
+</TABLE>
+- <A HREF="../access/features.php">Special things to know</A><BR>
+- <A HREF="../general/faq.php">Cray-Cyber FAQ</A><BR>
+- <A HREF="../documentation/reading.php">Recommended reading</A><BR>
+</TD>
+<TD>
+<TABLE BORDER=0>
+<TR>
+<TD>
+<IMG SRC="http://static.cray-cyber.org/nophotos/news.gif" ALT="News">
+</TD>
+<TD>
+Current news and live information:
+</TD>
+</TR>
+</TABLE>
+- <A HREF="../live/diary.php">Our diary</A><BR>
+- <A HREF="../live/sysinfo.php">System status</A><BR>
+- <A HREF="../live/webcams.php">Webcams</A><BR>
+</TD>
+</TR></TABLE>
+
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<CENTER><B><FONT SIZE="+1">
+All content on www.cray-cyber.org and all subsites of www.cray-cyber.org are Copyright &copy; 2002-2007 by the Cray-Cyber Team
+</FONT></B><BR>
+<SMALL>Cray is a <A HREF="http://www.cray.com/trademarks.html">registered trademark</A> of Cray Inc.</SMALL>
+</CENTER>
+<BR>
+Document last modified on: Sat, 22.February.2014 15:25:13++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.lornet.com/cray.htm>====================
+<!-- 2upczxAXiaA -->
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<!-- {2upczxAXiaA} -->
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<title>Cray Memorial</title>
+
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<h1>Seymour Cray <img src="IMAGES/Cray.jpg" width="240" height="284"></h1>
+
+<p><script language="javascript"><!--
+;today = new Date(); weekday = today.getDay();if (weekday == 6) document.write('Saturday');if (weekday == 0) document.write('Sunday');if (weekday == 1) document.write('Monday');if (weekday == 2) document.write('Tuesday');if (weekday == 3) document.write('Wednesday');if (weekday == 4) document.write('Thursday');if (weekday == 5) document.write('Friday');document.write(', '); month = today.getMonth();if (month == 0) document.write('January');if (month == 1) document.write('Febuary');if (month == 2) document.write('March');if (month == 3) document.write('April');if (month == 4) document.write('May');if (month == 5) document.write('June');if (month == 6) document.write('July');if (month == 7) document.write('August');if (month == 8) document.write('September');if (month == 9) document.write('October');if (month == 10) document.write('November');if (month == 11) document.write('December');date = today.getDate(); year=today.getYear();document.write (' ', date, ', ',year);// --></script></p>
+
+<hr>
+
+<p>The passing of Seymour Cray on October 5, 1996 due to an
+unfortunate auto accident has taken one of the geniuses from the
+computer industry. His brilliance will be missed.</p>
+
+<p>Cray's Jeep Cherokee rolled three times after the driver of
+another vehicle tried to pass him and struck another car, which
+slammed into Cray's vehicle. The other motorists weren't injured.<br>
+<br>
+Daniel Rarick, 33, of Colorado Springs was cited for careless
+driving that caused serious bodily injury, said Colorado State
+Patrol Sgt. Rob Wilson.<br>
+<br>
+Cray, who devoted his life to trying to develop the world's
+fastest supercomputers, is a legendary figure in the industry.<br>
+<br>
+&quot;He is the Thomas Edison of the supercomputing
+industry,&quot; said Larry L. Smarr, director of the National
+Center for Supercomputing Applications at the University of
+Illinois.<br>
+<br>
+&quot;We wouldn't have the kinds of airplanes and cars that we
+have now if it hadn't been for him,&quot; said John Rollwagen,
+chairman of Computer Network Technology Corp. of Plymouth, Minn.<br>
+<br>
+Supercomputers, which calculate billions of scientific problems
+per second, are used for weather forecasting, automobile crash
+simulation, oil exploration and drug research.<br>
+<br>
+In 1957, Cray co-founded Control Data Corp., where he built the
+first computer to use radio transistors instead of vacuum tubes.
+The transistors made the machines more reliable and allowed for
+the miniaturization of components, which enhanced the performance
+of desktop computers.<br>
+<br>
+In the 1960s, he designed the world's first supercomputer at
+Control Data, then left in 1972 and co-founded Cray Research Inc.<br>
+<br>
+There, he built the Cray-1 and Cray-2 supercomputers, which
+helped the defense industry create sophisticated weapons systems
+and the oil industry construct geographic models that predicted
+mineral deposits.<br>
+<br>
+At his third company, Cray Computer Corp., he failed to raise $20
+million for operating costs and filed for bankruptcy in March
+1995. It closed soon afterward. In August, Cray started a new
+company called SRC Computers Inc.<br>
+<br>
+<a href="http://www.msnbc.com/news/33084.asp">SEYMOUR CRAY </a>MSNBC
+site<br>
+<br>
+<br>
+<br>
+?Copyright 1996 The Associated Press</p>
+
+<p>Please leave a note that you have visited this memorial page.</p>
+
+<p>Return to <a href="default.htm">Lorimer Network Research</a></p>
+<p>&nbsp;</p>
+<p><span lang="en-us">Adding notes to this page have been closed, but you are 
+welcome to view what has been said over the years about this great man.</span></p>
+
+<!--webbot bot="Include" tag="BODY" u-include="guestlog.htm" startspan --><strong>[guestlog.htm]</strong><!--webbot bot="Include" i-checksum="11029" endspan -->
+
+<hr>
+
+<h5>John Lorimer, Lorimer Network Research.<br>
+Copyright ?1996 by Lorimer Network Research. All rights
+reserved.<br>
+Revised: 
+<!--webbot bot="TimeStamp" s-type="REGENERATED" s-format="%d %b %Y %H:%M:%S %Z" startspan -->10 Nov 2010 07:38:06 -0700<!--webbot bot="TimeStamp" i-checksum="41263" endspan -->.</h5>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.cgl.ucsf.edu/home/tef/cray/>====================
+<html><head>
+<title>In Honor of Seymour Cray</title>
+</head><body>
+<center><img src="seymour_cray.gif"></center>
+<hr>
+
+<h2>In Honor of Seymour Roger Cray</h2>
+Growing up in Minnesota gave me early access to computers,
+for both Control Data Corporation and Cray Research made
+their homes nearby.  One of the pioneers in the computer
+field was Seymour Cray, responsible for the design of several
+of the world's fastest computers.  This includes the first
+computer I ever programmed, the
+<a href="http://www.cbi.umn.edu/graphics/cdc03b.jpg">CDC 6600</a>,
+at the University of Minnesota Computer Center in 1967.
+Mr. Cray passed away on October 5, 1996, and his loss is mourned
+by many:
+
+<ul>
+  <li><a href="tribute.html">A Tribute to Seymour Cray</a>
+  <li><a href="obit.html">Obit on Seymour Cray</a>
+  <li><a href="http://americanhistory.si.edu/collections/comphist/cray.htm">1995
+	Smithsonian Interview with Seymour Cray</a>
+  <li><a href="http://americanhistory.si.edu/collections/comphist/montic/cray.htm">1996
+	Interview: An Imaginary Tour of a Biological Computer</a>
+  <li><a href="http://www.research.microsoft.com/users/gbell/craytalk/index.htm">A Seymour Cray Perspective</a>
+	by Gordon Bell
+  <li><a href="http://en.wikipedia.org/wiki/Seymour_Cray">Seymour Cray: Wikipedia entry</a>
+  <li><a href="http://people.uwec.edu/AKGUNE/CFMIT/web/cray.html">Virtual Museum Exhibit</a>
+  sponsored by the Chippewa Falls Museum of Industry and Technology.  The
+  Seymour Cray Supercomputer Collection is on exhibit at the (real) museum, 
+  and pictures from the exhibit are
+  <a href="http://www.spikynorman.dsl.pipex.com/CrayWWWStuff/Cfaqmusframeset.html">available here</a>.
+  <li><a href="http://www.spikynorman.dsl.pipex.com/CrayWWWStuff/index.html">Frequently
+  Asked Questions (FAQ) about Cray computers</a>
+  <li><a href="http://www.cray.com/about_cray/history.html">History of Cray, Inc.</a>
+</ul>
+
+<sp>
+The <a href="http://www.cbi.umn.edu">Charles Babbage Institute</a> used to
+have a nice virtual exhibit about Seymour Cray, but unfortunately it's
+been removed and the current museum archivists don't know what happened to
+the files.  About the only thing left is this <a href="http://www.cbi.umn.edu/graphics/cdc02b.jpg">great photo</a>
+of Mr. Cray seated in front of serial #1 of the CDC 1604, taken circa 1961.
+<hr>
+</body></html>
+++++++++++++++++++++<Over>++++++++++++++++++++

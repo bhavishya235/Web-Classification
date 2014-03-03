@@ -1,0 +1,821 @@
+====================<http://www.sociosite.net/>====================
+<HTML>
+<HEAD>
+<TITLE>SocioSite</TITLE>
+
+<META HTTP-EQUIV="Window-target" CONTENT="_top">
+<META Name="description" Content="A multi-purpose guide for social scientists. The Web's reference for researching any subject in society. Editor: dr. Albert Benschop (University of Amsterdam)."> 
+<META Name="keywords" Content="sociology, social science, Dutch, Netherlands, Holland, Amsterdam, activism, age, ageism, AIDS, anthropology, antiquity, art, asian studies, bisexual, bookstores, blogging, blogs, blogosphere, business, children, city, classes, communication, conflict, courses, crime, criminology, culture, customs, data archives, demography, departments, deviance, dictionaries, discrimination, drugs, economic sociology, education, electronic journals, encyclopedia, enterprises, environment, ethnicity, ethics, ethnic, ethnomethodology, Europe, expert centers, exploitation, family, fashion, feminism, feudalism, fun, gay, gender, gerontology, group, health, history, homosexual, housing, human resource management, HRM, hunger, industrial relations, inequality, information, institutions, interaction, Internet, justice, labor, labor market, labor sociology, language, law, law inforcement, lesbian, leasure, love, libraries, management, marriage, marxism, masculinity, methodology, migration, mobility, modernization, network, newsgroups, newsletters, newspapers, mailing lists, organization, parents, peace, planning, police, population, postmodern, poverty, power, professional associations,  property, publishers, queer, recreation, religion, research, right, rural, search engines, seniors, sex, sexual, sexuality, social inequality, social policy, social work, sociologists, statistics, stratification, technology, telecommuting, telework, theory, thesaurus, time, trade unions, universities, urbanization, utopia, war, weblog, women, work, funny science">
+<meta name="Author" LANG="en" content="Albert Benschop (University of Amsterdam)">
+<meta name="Author" LANG="nl" content="Albert Benschop (Universiteit van Amsterdam)">
+<Script language="JavaScript">
+<!-- hide
+if (navigator.userAgent.indexOf("Mac")!=-1) {
+//Macintosh
+document.write("<font size=4>");
+}else {
+//Others
+document.write("<font size=3>");
+}
+// stop hiding -->
+</script>
+</HEAD>
+<BODY BGCOLOR="#ffffcc" link="navy" vlink="navy" alink="$CC0000">
+
+  <style>
+  <!--
+     a{text-decoration:none;}
+  -->
+  </style>
+
+<CENTER>
+
+<table><tr><th>
+<IMG  SRC="images/logo_05.gif" border=0 ALT= "SocioSite Logo">  
+</th>
+<th valign="bottom"><font size="1" face="verdana,arial, helvetica"><center>Social Science Information System<br> University of Amsterdam</font></th>
+</tr></table> 
+
+<TABLE>
+<TR><TD>
+
+<! -- LINKER KOLON ----------------------------------------------------->
+<TABLE cellpadding=1 cellspacing="8">
+<tr BGCOLOR="#336699">
+<th><A HREF="about.php" TARGET="_blank" OnMouseOver="window.status='About the SocioSite Project';return true"><FONT face="Verdana, Arial, Helvetica" SIZE=-2 COLOR="#FFFFFF">About Us</FONT></A></th>
+</tr><tr BGCOLOR="#336699">
+<th><A HREF="credits.php" TARGET="_blank" OnMouseOver="window.status='Credits for the SocioSite - Waardering van de SocioSite';return true"><FONT face="Verdana, Arial, Helvetica" size=-2 COLOR="#FFFFFF">Credits</FONT></A></th>
+</tr><tr BGCOLOR="#336699">
+<th><A HREF="reciprocal.php" TARGET="_blank" OnMouseOver="window.status='Reciprocal Links to SocioSite - Wederzijdse verwijzingen';return true"><FONT face="Verdana, Arial, Helvetica" size=-2 COLOR="#FFFFFF">Reciprocal</FONT></A></th>
+</tr><tr BGCOLOR="#336699">
+<th><A HREF="sitestatistics.php" TARGET="_blank" OnMouseOver="window.status='Hit Statistics for the SocioSite';return true"><FONT face="Verdana, Arial, Helvetica" size=-2 COLOR="#FFFFFF">Site Statistics</FONT></A></th>
+
+</tr><tr BGCOLOR="#336699">
+<th><A HREF="correspondent/" TARGET="_blank" OnMouseOver="window.status='Want to be a correspondent for the SocioSite?';return true"><FONT face="Verdana, Arial, Helvetica" SIZE=-2 COLOR="#FFFFFF">Correspondents</FONT></A></th>
+</tr><tr BGCOLOR="#336699">
+<th><A HREF="banner.php" TARGET="_blank" OnMouseOver="window.status='Put a SocioSite banner on your site';return true"><FONT face="Verdana, Arial, Helvetica" SIZE=-2 COLOR="#FFFFFF">Banner</FONT></A></th>
+</tr><tr BGCOLOR="#336699">
+<th><A HREF="sponsor.php" TARGET="_blank" OnMouseOver="window.status='Sponsoring or Licensing the SocioSite';return true"><FONT face="Verdana, Arial, Helvetica" SIZE=-2 COLOR="#FFFFFF">License</FONT></A></th>
+</tr><tr BGCOLOR="#336699">
+<th><A HREF="#top" onClick="window.open('contact.php','map','width=470,height=500,scrollbars=no,resizable=no,toolbar=no,status=no,menubar=no,alwaysraised=yes,alwaysontop=yes,top=1px,left=200px')" OnMouseOver="window.status='Give your comments - Share your knowledge.';return true"><FONT face="Verdana, Arial, Helvetica"  size=-2 COLOR="#FFFFFF">Contact</FONT></A></th>
+</tr>
+</TABLE>
+
+</TD><TD>
+
+<!------------- MIDDEN KOLOM ------------------------------------------------------------>
+<table BGCOLOR="#006699" cellpadding=2 cellspacing=2 border=1>
+<tr bgcolor="#ffff99">
+<td bgcolor="#ffff99" valign=top><FONT face="Verdana, Arial, Helvetica" SIZE=-1><B>
+<a href="topics/index.php" OnMouseOver="window.status='Sociological subjects on a row';return true">Subject Areas</a><HR>
+<a href="topics/sociologists.php" OnMouseOver="window.status='Sociologists - dead and very much alive';return true">Sociologists</a><HR>  
+<a href="courses.php" OnMouseOver="window.status='Sociological courses on the Internet';return true">Courses</a><HR> 
+<a href="journals.php" OnMouseOver="window.status='Electronic Journals and Magazines for Social Scientists';return true">Journals</a><HR> 
+<a href="libraries.php" OnMouseOver="window.status='Electronic Libraries from all over the world';return true">Libraries</a><HR> 
+<a href="databases.php" OnMouseOver="window.status='Social Science Data Archives';return true">Data Archives</a><HR>
+<a href="generallinks.php" OnMouseOver="window.status='Directories and Guides';return true">Directories</a><HR>
+<a href="language.php" OnMouseOver="window.status='Dictionaries - Thesauri - Encyclopedia - Style & Grammer Guides - Quotations';return true">Language</a>
+
+</B></FONT>
+</td><td bgcolor="#ffff99" valign=top><FONT face="Verdana, Arial, Helvetica" SIZE=-1><B>
+<a href="socdeps/" OnMouseOver="window.status='Sociale Science Departments from all over the world';return true">Departments</A><HR color="#336699"> 
+<a href="universities.php" OnMouseOver="window.status='Universities from all over the world';return true">Universities</A><HR> 
+<a href="research.php" OnMouseOver="window.status='Research Centers *** Onderzoeksinstituten';return true">Research Centers</A><HR> 
+<a href="associations.php" OnMouseOver="window.status='Sociological Associations and their Sections';return true">Associations</A><HR>
+<a href="institutions.php" OnMouseOver="window.status='Institutions and International Organizations';return true">Institutions</A><HR>
+<a href="publishers.php" OnMouseOver="window.status='Publishers';return true">Publishers</A><HR>
+<a href="publishers.php#bookstores" OnMouseOver="window.status='Bookstores';return true">Bookstores</A><HR>
+<a href="weblogs.php" OnMouseOver="window.status='See how sociologists are logging their experiences and insights';return true">Weblogs</A>
+</B></FONT>
+
+</td><td bgcolor="#ffff99" valign=top><FONT face="Verdana, Arial, Helvetica" SIZE=-1><B>
+<a href="newsgroups.php" OnMouseOver="window.status='Newsgroups';return true">NewsGroups</a><HR> 
+<a href="newsgroups.php#newsletters" OnMouseOver="window.status='Newsletters';return true">NewsLetters</a><HR> 
+<a href="mailinglists.php" OnMouseOver="window.status='Mailing lists for social scientists';return true">MailingLists</a><HR> 
+<a href="search/" OnMouseOver="window.status='Search tools taylor-made for sociologists *** Ook Nederlandse versie.';return true">Search Tools</a><HR>
+<a href="whoswhere.php" OnMouseOver="window.status='Find your friends or collegues via the Web';return true">Who's Where?</a><HR> 
+<a href="whatsnew.php" OnMouseOver="window.status='What is new on the Internet?';return true">What's New?</a><HR>
+<a href="newspapers.php" OnMouseOver="window.status='Newspapers and News Services';return true">NewsSources</a><HR>
+<a href="funny.php" OnMouseOver="window.status='What happens when a sociologist dies? And do sociologists laugh while they are alive?';return true">Funny Science</a>
+</B></FONT>
+</td></tr></TABLE>
+
+</td><td>
+<!------------------------- RECHTER KOLOM ----------------------------------------------->
+<TABLE  cellpadding=1 cellspacing=8>
+<tr BGCOLOR="#ffffcc">
+<th>&nbsp;</th>
+</tr><tr BGCOLOR="#336699">
+<th><A HREF="http://www.sociosite.org/index_en.php" OnMouseOver="window.status='Peculiarities of Cyberspace --- Eigenaardigheden van Cyberspace';return true"><FONT face="Verdana, Arial, Helvetica"  size=-2 COLOR="#FFFFFF">WebSociology</FONT></A></th>
+</tr><tr BGCOLOR="#336699">
+<th><A HREF="amsterdam/" OnMouseOver="window.status='Amsterdam by Bite - Everything you always wanted to know, but ...';return true"><FONT face="Verdana, Arial, Helvetica"  size=-2 COLOR="#FFFFFF">Amsterdam</FONT></A></th>
+</tr><tr BGCOLOR="#336699">
+<th><A HREF="#top" onClick="window.open('add.php','map','width=470,height=590,scrollbars=no,resizable=no,toolbar=no,status=no,menubar=no,alwaysraised=yes,alwaysontop=yes,top=1px,left=200px')" OnMouseOver="window.status='Add a new link to the SocioSite. - Share your knowledge.';return true"><FONT face="Verdana, Arial, Helvetica"  size=-2 COLOR="#FFFFFF">Add URL</FONT></A></th>
+
+</tr><tr>
+<th><a href="index_nl.php" OnMouseOver="window.status='Neem de Nederlandse versie';return true"><img src="images/nl_vlag.gif" border="0" ALT="Show Dutch version of this page."></a></th>
+</tr><tr>
+<th><a href="http://www.uva.nl" target="_blank" OnMouseOver="window.status='Go to University of Amsterdam.';return true"><img src="images/uva_kl.gif" border="0" ALT="Go to University of Amsterdam."></a></th>
+</tr>
+</TABLE>
+</td></TR>
+</TABLE>
+
+<TABLE WIDTH=65%>
+<TR>
+<TD COLSPAN=3 ALIGN=center><FONT face="Verdana, Arial, Helvetica" SIZE=-2>&copy; 1996-2014  AByT.  All Rights Reserved</FONT>	
+</TD>
+</TR>
+
+<TR ALIGN=CENTER>
+<td></td>
+<TD>
+<div id="cse" style="width: 60%;">Loading</div>
+<script src="http://www.google.nl/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};
+    var customSearchControl = new google.search.CustomSearchControl(
+      '010930181971275030482:usseuj8cj9q', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.SMALL_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script>
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" /> <style type="text/css">
+  .gsc-control-cse {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    border-color: #ffffcc;
+    background-color: #ffffcc;
+  }
+  input.gsc-input {
+    border-color: #336699;
+  }
+  input.gsc-search-button {
+    border-color: #666666;
+    color: white;
+    background-color: #336699;
+  }
+  .gsc-tabHeader.gsc-tabhInactive {
+    border-color: #E9E9E9;
+    background-color: #E9E9E9;
+  }
+  .gsc-tabHeader.gsc-tabhActive {
+    border-top-color: #FF9900;
+    border-left-color: #E9E9E9;
+    border-right-color: #E9E9E9;
+    background-color: #FFFFFF;
+  }
+  .gsc-tabsArea {
+    border-color: #E9E9E9;
+  }
+  .gsc-webResult.gsc-result,
+  .gsc-results .gsc-imageResult {
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gsc-webResult.gsc-result:hover,
+  .gsc-webResult.gsc-result.gsc-promotion:hover,
+  .gsc-imageResult:hover {
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gs-webResult.gs-result a.gs-title:link,
+  .gs-webResult.gs-result a.gs-title:link b,
+  .gs-imageResult a.gs-title:link,
+  .gs-imageResult a.gs-title:link b {
+    color: #0000CC;
+  }
+  .gs-webResult.gs-result a.gs-title:visited,
+  .gs-webResult.gs-result a.gs-title:visited b,
+  .gs-imageResult a.gs-title:visited,
+  .gs-imageResult a.gs-title:visited b {
+    color: #0000CC;
+  }
+  .gs-webResult.gs-result a.gs-title:hover,
+  .gs-webResult.gs-result a.gs-title:hover b,
+  .gs-imageResult a.gs-title:hover,
+  .gs-imageResult a.gs-title:hover b {
+    color: #0000CC;
+  }
+  .gs-webResult.gs-result a.gs-title:active,
+  .gs-webResult.gs-result a.gs-title:active b,
+  .gs-imageResult a.gs-title:active,
+  .gs-imageResult a.gs-title:active b {
+    color: #0000CC;
+  }
+  .gsc-cursor-page {
+    color: #0000CC;
+  }
+  a.gsc-trailing-more-results:link {
+    color: #0000CC;
+  }
+  .gs-webResult .gs-snippet,
+  .gs-imageResult .gs-snippet,
+  .gs-fileFormatType {
+    color: #000000;
+  }
+  .gs-webResult div.gs-visibleUrl,
+  .gs-imageResult div.gs-visibleUrl {
+    color: #008000;
+  }
+  .gs-webResult div.gs-visibleUrl-short {
+    color: #008000;
+  }
+  .gs-webResult div.gs-visibleUrl-short {
+    display: none;
+  }
+  .gs-webResult div.gs-visibleUrl-long {
+    display: block;
+  }
+  .gs-promotion div.gs-visibleUrl-short {
+    display: none;
+  }
+  .gs-promotion div.gs-visibleUrl-long {
+    display: block;
+  }
+  .gsc-cursor-box {
+    border-color: #FFFFFF;
+  }
+  .gsc-results .gsc-cursor-box .gsc-cursor-page {
+    border-color: #E9E9E9;
+    background-color: #FFFFFF;
+    color: #0000CC;
+  }
+  .gsc-results .gsc-cursor-box .gsc-cursor-current-page {
+    border-color: #FF9900;
+    background-color: #FFFFFF;
+    color: #0000CC;
+  }
+  .gsc-webResult.gsc-result.gsc-promotion {
+    border-color: #336699;
+    background-color: #FFFFFF;
+  }
+  .gs-promotion a.gs-title:link,
+  .gs-promotion a.gs-title:link *,
+  .gs-promotion .gs-snippet a:link {
+    color: #0000CC;
+  }
+  .gs-promotion a.gs-title:visited,
+  .gs-promotion a.gs-title:visited *,
+  .gs-promotion .gs-snippet a:visited {
+    color: #0000CC;
+  }
+  .gs-promotion a.gs-title:hover,
+  .gs-promotion a.gs-title:hover *,
+  .gs-promotion .gs-snippet a:hover {
+    color: #0000CC;
+  }
+  .gs-promotion a.gs-title:active,
+  .gs-promotion a.gs-title:active *,
+  .gs-promotion .gs-snippet a:active {
+    color: #0000CC;
+  }
+  .gs-promotion .gs-snippet,
+  .gs-promotion .gs-title .gs-promotion-title-right,
+  .gs-promotion .gs-title .gs-promotion-title-right *  {
+    color: #000000;
+  }
+  .gs-promotion .gs-visibleUrl,
+  .gs-promotion .gs-visibleUrl-short {
+    color: #008000;
+  }
+</style> 
+</TD></td></td>
+</TR>
+</table>
+<p>
+    
+<center>
+ 
+</CENTER>
+
+<P>
+
+
+
+</body></html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.data-archive.ac.uk/>====================
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if IE 9]><html id="ie9" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><![endif]-->
+<!--[if IE 8]><html id="ie8" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><![endif]-->
+<!--[if IE 7]><html id="ie7" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><![endif]-->
+<!--[if IE 6]><html id="ie6" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><![endif]-->
+<!--[if gt IE 9|lt IE 6|!IE]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--<![endif]-->
+
+<head>
+    <title>UK Data Archive - HOME</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="content-style-type" content="text/css" />
+    <meta name="ResourceType" content="WebResource"/>
+    <meta name="Subject" content="data-archive.ac.uk"/>
+    <meta name="Source" content="UKDA_WEB"/>
+     <meta name="keywords" content="" />
+    <meta name="description" content="UK Data Archive home page. The Archive provides the largest collection of digital data in the social sciences and humanities in the United Kingdom." />
+ 
+    <link rel="shortcut icon" href="/images/design/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" href="/css/all_v3.2.css" />
+    <!--[if gte IE 7 & lte IE 9]>
+    <link type="text/css" rel="stylesheet" href="/css/ie7up_v3.2.css" />
+    <![endif]-->
+    <!--[if IE 6]>
+    <link type="text/css" rel="stylesheet" href="/css/ie6_v3.2.css" />
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="http://www.data-archive.ac.uk/css/cookie.css" />
+    <link type="text/css" rel="stylesheet" href="/css/print_v3.2.css" media="print" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+    <script type="text/javascript">if(typeof jQuery==='undefined'){document.write(unescape('%3Cscript type="text/javascript" src="/scripts/jquery-1.6.1.min.js"%3E%3C/script%3E'));}</script>
+    <script type="text/javascript" src="/scripts/webui_v3.2.js"></script>
+    <script type="text/javascript" src="/scripts/websiteui_v3.2.js"></script>
+    <script type="text/javascript" src="/scripts/common_v3.2.js"></script>
+    <script type="text/javascript">        var CookiePageLink = "conditions/cookies/"</script>
+    <script type="text/javascript" src="/scripts/cookie.js"></script>
+    <link type="text/css" rel="stylesheet" href="/css/cookie.css" />
+
+    <!-- GOOGLE ANALYTICS CODE TO BE INCLUDED HERE -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-6561420-1']);
+        _gaq.push(['_setDomainName', 'data-archive.ac.uk']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') +
+        '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+	</script>
+</head>
+
+<body id="pageid-1067">
+
+    <div id="container" class="nodetypeid-1052">
+        <div id="header">
+            <img id="printlogo" src="/images/design/logos/uk-data-archive_114x114.png" alt="UK Data Archive logo" />
+            <h1><a title="UK Data Archive logo - link to UK Data Archive home page" href="/">UK Data Archive</a></h1>                  
+	    <div id="header-nav"><a href="/help">HELP</a><a href="/contact">CONTACT US</a><a href="/sign-up">SIGN UP</a><span> </span></div>
+            <h2>The UK's largest collection of digital research data in the social sciences and humanities</h2>	   
+	    <ul id="primary-nav"><li class="selected"><a href="/home" class="menu1">HOME</a></li><li><a href="/about" class="menu2">ABOUT US</a></li><li><a href="/create-manage" class="menu3">CREATE &amp; MANAGE DATA</a></li><li><a href="/deposit" class="menu4">DEPOSIT DATA</a></li><li><a href="/curate" class="menu5">HOW WE CURATE DATA</a></li><li><a href="/find" class="menu6">FIND DATA</a></li><li><a href="/news-events" class="menu7">NEWS &amp; EVENTS</a></li></ul>	
+        </div> <!-- /header -->
+        <hr />
+
+        <div id="main">
+	    	
+            <div id="column-left">
+			
+            </div> <!-- /column-left -->
+            <hr />
+
+            <div id="content-wrapper">
+                <div id="content">
+		   			   
+		   
+<noscript>
+  <div class="noscript">
+    <p>
+      <strong>Please enable JavaScript</strong>
+      <br />The UK Data Archive website is intended to be viewed with JavaScript
+					enabled, although every effort has been made to ensure our content is accessible
+					regardless of your JavaScript settings.</p>
+  </div>
+</noscript>
+<div id="features" class="carousel">
+  <div class="carousel-item" title="What's new" style="background-image: url(/media/417362/registry.gif);">
+    <div>
+      <h3>NEW PROJECT:  <span>RESEARCH DATA REGISTRY </span></h3>
+      <p>Archive staff are working with data centres to develop a pilot data registry for UK research institutions<br /><a href="http://www.data-archive.ac.uk/about/projects/data-registry" title="UK Research Data Registry" class="highlight">READ ON</a></p>
+    </div>
+  </div>
+  <div class="carousel-item" title="Data lifecycle" style="background-image: url(/media/15456/home_data_life_cycle.png);">
+    <div>
+      <h3>THE DATA <span>LIFECYCLE</span></h3>
+      <p>We manage the research data lifecycle using innovation and technology to ensure an ongoing process of data creation, curation and use<br /><a href="/create-manage/life-cycle" title="Read more about: Data lifecycle" class="highlight">READ ON</a></p>
+    </div>
+  </div>
+  <div class="carousel-item" title="Find data" style="background-image: url(/media/110264/home_finding.png);">
+    <div>
+      <h3>FIND <span>DATA</span></h3>
+      <p>We provide access to over 5,000 digital data collections for research and teaching covering an extensive range of key economic and social data resources<br /><a href="/find" title="Read more about: Find data" class="highlight">READ ON</a></p>
+    </div>
+  </div>
+  <div class="carousel-item" title="Who are we?" style="background-image: url(/media/110270/home_who_are_we.png);">
+    <div>
+      <h3>WHO <span>ARE WE?</span></h3>
+      <p>We are internationally acknowledged experts in the areas of acquiring, curating and providing access to data. We are a designated Place of Deposit for The National Archives<br /><a href="/about/archive" title="Read more about: Who are we?" class="highlight">READ ON</a></p>
+    </div>
+  </div>
+</div>
+<div id="hp-boxes1">
+  <div class="row1">
+    <div class="left">
+      <h3>DEPOSITING YOUR DATA</h3>
+      <p>Depositing your data with the Archive ensures that they will be professionally curated and accessible<br /><a title="" class="highlight" href="/deposit">DEPOSIT DATA</a></p>
+    </div>
+    <div class="right">
+      <h3>FINDING DATA TO USE</h3>
+      <p>We can help you find data for research and teaching with our catalogue of over 5,000 data collections<br /><a title="" class="highlight" href="/find/archive-catalogue">OUR CATALOGUE</a></p>
+    </div>
+  </div>
+  <div class="row2">
+    <div class="left datainuse">
+      <a href="/curate">
+        <img src="/media/399339/curate90x60.gif" alt="curate" class="right" width="90" height="60" />
+      </a>
+      <h3>HOW WE CURATE DATA</h3>
+      <p>We follow best practices in preparing and curating our data to ensure usability<br /><a title="" class="highlight" href="/curate">DATA CURATION</a></p>
+    </div>
+    <div class="right">
+      <div id="ourservices">
+        <h2>
+          <span>OUR SERVICES</span>
+          <span class="iefix"> </span>
+        </h2>
+        <div class="carousel">
+          <div class="carousel-item" style="background-image:&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;url('/media/2037/relu_90x60.gif'); ">
+            <a title="" href="http://relu.data-archive.ac.uk">RELU-DSS</a>  <br />supporting rural research data management<br /><a class="highlight" title="" href="http://relu.data-archive.ac.uk">VIEW SITE</a>  </div>
+          <div class="carousel-item" style="background-image:&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;url('/media/393621/ukdataservice90x60.gif'); ">
+            <a title="" href="http://ukdataservice.ac.uk">UK Data Service</a>  <br />data promoting evidence-based research<br /><a class="highlight" title="" href="http://ukdataservice.ac.uk">VIEW SITE</a>  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="hp-boxes2">
+  <div class="left">
+    <h3>CITING DATA</h3>
+    <p>Proper citation should be a significant feature of research publications.<br /><a title="Read more on citing data" href="/conditions/citing-data" class="highlight">READ ON</a></p>
+  </div>
+  <div class="right">
+    <h3>PREPARING YOUR DATA</h3>
+    <p>Prepare your data from the start of research so that they can be shared and reused in the future<br /><a title="Starting your research" href="/create-manage/planning-for-sharing" class="highlight">READ ON</a></p>
+  </div>
+</div>
+<div>
+  <img src="/images/design/logos/logos.png" alt="" usemap="#logos" />
+  <map id="logos" name="logos">
+    <area shape="rect" coords="0,0,80,48" href="http://www.nationalarchives.gov.uk/" title="Link to the National Archives" alt="Link to the National Archives" />
+    <area shape="rect" coords="81,0,194,48" href="http://www.essex.ac.uk/" title="Link to the University of Essex" alt="Link to the University of Essex" />
+    <area shape="rect" coords="195,0,239,48" href="http://www.jisc.ac.uk/" title="Link to JISC" alt="Link to JISC" />
+    <area shape="rect" coords="243,0,303,48" href="http://www.esrc.ac.uk/" title="Link to ESRC" alt="Link to ESRC" />
+  </map>
+</div>
+
+                </div> <!-- /content -->
+                <hr />	  
+
+                <div id="column-right">
+                    <form id="site-search" action="/help/site-search">
+                        <fieldset>
+                            <label for="site-search-text">SEARCH OUR SITE</label>
+			    <input id="site-search-text" class="input-text required" type="text" name="search" />
+                            <input id="site-search-submit" class="input-submit" type="submit" value="Go" />
+                         </fieldset>
+                    </form>
+		    
+		
+		    
+		    		
+	            <div id="firsttimehere">
+  <h2>First time here?</h2>
+  <a class="highlight" href="/help/first-time-user">HELPFUL INFORMATION</a>
+  <br /></div>
+<div id="whatwedo-homepage">
+  <h2>
+    <span>A QUICK GUIDE TO THE ARCHIVE</span>
+    <span class="iefix"> </span>
+  </h2>
+  <div class="carousel">
+    <div class="item1">
+      <strong>1 of 10: </strong>We provide continuous access to the UK’s largest collection of digital research data in the social sciences</div>
+    <div class="item2">
+      <strong>2 of 10: </strong>We hold thousands of data collections for social science research and teaching, quantitative and qualitative</div>
+    <div class="item3">
+      <strong>3 of 10: </strong>Each of our data collections has a unique persistent identifier (DOI) that makes it easier to find and cite </div>
+    <div class="item4">
+      <strong>4 of 10: </strong>We hold the only copy of many of the UK's large national surveys charting social research back decades</div>
+    <div class="item5">
+      <strong>5 of 10: </strong>We are an established national archive at the forefront of managing, preserving, sharing and delivering data</div>
+    <div class="item6">
+      <strong>6 of 10: </strong>We are certified to ISO 27001, the information security standard, and helped develop the Data Seal of Approval</div>
+    <div class="item7">
+      <strong>7 of 10: </strong>We are a collaborative organisation supporting emerging and existing creators and users of data</div>
+    <div class="item8">
+      <strong>8 of 10: </strong>We provide best practice guidance and training in managing and sharing research data</div>
+    <div class="item9">
+      <strong>9 of 10: </strong>You won’t be able to find your family records on our site. You should visit a genealogical site instead</div>
+    <div class="item10">
+      <strong>10 of 10: </strong>We don’t provide ready-made statistics, but using Nesstar you can view frequencies from popular surveys</div>
+  </div>
+</div>
+<div id="curatefor">
+  <a class="highlight" href="/deposit/who">WHO GIVES US DATA?</a>
+  <br />Find out what kind of data are available to you</div>
+    		    
+<div id="newseventscurrent">
+    <h2><span>LATEST NEWS &amp; EVENTS</span></h2>
+    <div id="ctl00_ctl00_ctl00_ContentPlaceHolderDefault_Home_12_LatestNews">
+    <div class="item"><a href="http://ukdataservice.ac.uk/news-and-events/newsitem/?id=3730"><img src="http://www.esds.ac.uk/images/3730.gif" width="90" height="60" alt="Image description here" /></a><div><a href="http://ukdataservice.ac.uk/news-and-events/newsitem/?id=3730">Vacancy for Data Ingest Officer</a><p>The UK Data Service is seeking to appoint a Data ...</p></div></div><div class="item"><a href="http://www.data-archive.ac.uk/news-events/news.aspx?id=3729"><img src="http://www.esds.ac.uk/images/3729.gif" width="90" height="60" alt="Image description here" /></a><div><a href="http://www.data-archive.ac.uk/news-events/news.aspx?id=3729">Managing Director for CESSDA</a><p>The Consortium of European Social Science Data ...</p></div></div><div class="item"><a href="http://www.data-archive.ac.uk/news-events/news.aspx?id=3725"><img src="http://www.esds.ac.uk/images/3725.gif" width="90" height="60" alt="Image description here" /></a><div><a href="http://www.data-archive.ac.uk/news-events/news.aspx?id=3725">Smart analytics centre </a><p>The University of Essex - home to the UK Data ...</p></div></div><div class="item"><a href="http://ukdataservice.ac.uk/news-and-events/newsitem/?id=3683"><img src="http://www.esds.ac.uk/images/3683.gif" width="90" height="60" alt="Image description here" /></a><div><a href="http://ukdataservice.ac.uk/news-and-events/newsitem/?id=3683">Community Life Survey</a><p>The Cabinet Office want your views on the proposed ...</p></div></div></div>
+    <p id="newsfeed">
+        <a href="https://twitter.com/UKDataArchive" class="twitter" title="Follow us on Twitter"><span></span>Twitter</a>
+        <a href="http://www.data-archive.ac.uk/sign-up" class="email" title="Join our email list"><span></span>Email</a>
+        <a href="http://www.esds.ac.uk/news/rss.asp" class="rss" title="Subscribe to our newsfeed"><span></span>RSSfeed</a>
+        <a href="/news-events" class="highlight">MORE NEWS</a>
+    </p>
+</div>
+
+		    
+
+		    
+                </div> <!-- /column-right -->
+            </div> <!-- /content-wrapper -->
+        </div> <!-- /main -->
+	<hr />
+
+        <div id="footer">
+	   <div id="footer-nav"><a href="/conditions/">TERMS AND CONDITIONS</a><a href="/conditions/cookies">COOKIES</a><a href="/accessibility">ACCESSIBILITY</a><a href="/site-map">SITE MAP</a></div>
+	   <p>&copy; Copyright 2002-2014 University of Essex. All rights reserved.</p>
+        </div> <!-- /footer -->
+
+    </div> <!-- /container -->
+
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.policy-evaluation.org/>====================
+<html>
+
+<head>
+
+<title>WWW Virtual Library: Evaluation</title>
+
+<!-- Dublin Core tags -->
+
+<META content="WWW Virtual Library: Evaluation" name=DC.Title>
+
+<LINK
+
+href="http://purl.org/metadata/dublin_core_elements#title"
+
+rel=SCHEMA.dc>
+
+<META content="Alfio Cerami" name=DC.Creator>
+
+<LINK
+
+href="http://purl.org/metadata/dublin_core_elements#creator" rel=SCHEMA.dc>
+
+<META content=info@policy-evaluation.org name=DC.Creator.Address>
+
+<LINK
+
+href="http://purl.org/metadata/dublin_core_elements#creator" rel=SCHEMA.dc>
+
+<META content="WWW Virtual Library" name=DC.Publisher>
+
+<LINK
+
+href="http://purl.org/metadata/dublin_core_elements#publisher" rel=SCHEMA.dc>
+
+<META content=Bibliography name=DC.Type>
+
+<LINK
+
+href="http://purl.org/metadata/dublin_core_elements#type" rel=SCHEMA.dc>
+
+<META content=text/html name=DC.Format scheme="IMT">
+
+<LINK
+
+href="http://purl.org/metadata/dublin_core_elements#format" rel=SCHEMA.dc>
+
+<META content=http://www.policy-evaluation.org/index.html
+
+name=DC.Identifier>
+
+<LINK
+
+href="http://purl.org/metadata/dublin_core_elements#identifier" rel=SCHEMA.dc>
+
+<META content=en name=DC.Language scheme="ISO639-1">
+
+<LINK
+
+href="http://purl.org/metadata/dublin_core_elements#language" rel=SCHEMA.dc>
+
+<META content=http://vlib.stanford.edu/Copyright.html name=DC.Rights
+
+scheme="URL">
+
+<LINK href="http://purl.org/metadata/dublin_core_elements#rights"
+
+rel=SCHEMA.dc>
+
+<!-- regular search engine tags -->
+
+<META
+
+content="The World Wide Web Virtual Library: Evaluation. The Social Policy-Evaluation area of the the World-Wide Web Virtual Library. Links to sites of major organisations, libraries, research institutes, database, educational material and discussion groups"
+
+name=description>
+
+<META
+
+content="Social_Science, Social_Sciences, policy_analysis, Policy_analysis, social_science, social_sciences, social science, social sciences, anthropology, sociology, psychology, political_science, e-journals, virtual_library, WWW-VL, World-Wide Web Virtual Library Evaluation, social policy, Social Policy, Policy, policy implementation, implementation of policies, World-Wide Web Virtual Library, evaluation, Evaluation, evaluation of policy, public policy, public management"
+
+name=keywords>
+
+<!-- browser tags -->
+
+<LINK href="http://www.w3.org/vl/"
+
+rel=ToC>
+
+<LINK href="http://www.policy-evaluation.org/" rel=Up>
+
+</head>
+
+<frameset rows="*" cols="166,*" border="0" framespacing="0" bordercolor="#FFFFFF" frameborder="NO"> 
+
+  <frame name="leftFrame" noresize scrolling="NO" src="vlib/pages/left.html">
+
+  <frameset rows="71,*" frameborder="NO" border="0" framespacing="0" cols="*"> 
+
+    <frame name="topFrame" noresize scrolling="NO" src="vlib/pages/top.html">
+
+    <frame name="mainFrame" src="vlib/pages/index.html">
+
+  </frameset>
+
+</frameset>
+
+<noframes> 
+
+<body bgcolor="#FFFFFF" text="#000000">
+
+</body>
+
+</noframes> 
+
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.unesco.org/shs/shsdc/>====================
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- 
+	UNESCO - Denis Pitzalis, Chakir Piro
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2010 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.com/ and http://typo3.org/
+-->
+
+<base href="http://www.unesco.org/new/" />
+
+
+<meta name="generator" content="TYPO3 4.4 CMS" />
+
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_2b4078901f.css?1348599905;pv2445897f9ee1b71e" media="all" />
+
+
+
+<script src="http://wa1.www.unesco.org/new/typo3temp/javascript_04b8fee87d.js?1366015169;pvfc51e45291bd056d" type="text/javascript"></script>
+
+
+<title>Publications | United Nations Educational, Scientific and Cultural Organization</title>
+
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+<link href="fileadmin/unesco/styles/my_layout.css;pv38928ea20b2ac4ec" rel="stylesheet" type="text/css" />
+<link href="fileadmin/unesco/styles/main.css;pv9b578025b45a3d54" rel="stylesheet" type="text/css" />
+<link href="fileadmin/unesco/styles/contentDetail.css;pv876849b5690ce6ca" rel="stylesheet" type="text/css" />
+<link href="fileadmin/unesco/styles/search.css;pv6032527bdd951ea5" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="http://wa1.www.unesco.org/new/fileadmin/unesco/scripts/jquery.js;pv3bf2e48c87ba4cc7"></script>
+<script type="text/javascript" src="http://wa1.www.unesco.org/new/fileadmin/unesco/scripts/main.js;pvbad253e0cdcfa8ef"></script>
+<script type="text/javascript" src="http://wa1.www.unesco.org/new/fileadmin/unesco/scripts/jquery.rating.js;pv91d221436ef2bc48" language="javascript"></script>
+<meta name="verify-v1" content="RDgTL+Gf+HoG6F5KrPgpjREbvtYdIzGWpEIHP6zLwF4=" />            <script type="text/javascript" src="http://wa1.www.unesco.org/new/fileadmin/unesco/scripts/jquery.tools.min.js;pvfa1565c5e963a685"></script>
+            <script type="text/javascript" src="http://wa1.www.unesco.org/new/fileadmin/unesco/scripts/actions.js;pva4204b782ff323d0"></script>
+            <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-6025718-3']);
+            _gaq.push(['_setDomainName', ".unesco.org"]);
+            _gaq.push(['_trackPageLoadTime']);
+            _gaq.push(['_trackPageview' ]);
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+            </script>            <link href="fileadmin/unesco/styles/screen/dkd_fixes.css;pvfb6d7fd102618a45" rel="stylesheet" type="text/css" />            <link href="fileadmin/unesco/styles/blueboxes.css;pv04a3b6bd8a85b757" rel="stylesheet" type="text/css" /><meta http-equiv="content-language" content="en" />
+
+            <style type="text/css">
+                #menu1 li .menuLev2 {
+                    display: none;
+                   }
+                #menu1 .active .menuLev2 {
+                      display: block;
+                }
+            </style>
+</head>
+<body>
+
+<div class="page_margins">
+	<div class="page">
+		<!-- HEADER -->
+		<div id="header">
+			<div id="topnav">
+				<!-- start: skip link navigation -->
+				<div class="skip">    <a class="skip" title="skip link" href="en/social-and-human-sciences/resources/online-materials/publications/#navigation">Skip to the navigation</a><span class="hideme">.</span>          
+    <a class="skip" title="skip link" href="en/social-and-human-sciences/resources/online-materials/publications/#content">Skip to the content</a><span class="hideme">.</span></div>
+<!-- /end search -->
+				<div id="language">
+	<ul>
+	<!--	 -->
+		
+				 
+			
+				<li><a href="fr/social-and-human-sciences/resources/online-materials/publications/">Français</a></li> 
+			
+				 
+			
+				 
+			
+				  <li><a href="ar/social-and-human-sciences/resources/online-materials/publications/">العربية</a></li> 
+			
+				  <li><a href="zh/social-and-human-sciences/resources/online-materials/publications/">中文</a></li> 
+			
+				 
+			
+				 
+			
+		</ul>
+	</div><!-- /end language -->
+				<div id="search"><form action="http://www.unesco.org/new/en/custom-search/" id="cse-search-box">
+    <label for="usearch"></label> 
+    <input type="hidden" name="cx" value="000136296116563084670:h14j45a1zaw" />
+    <input type="hidden" name="cof" value="FORID:9" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="20" class="text" />
+    <input type="hidden" name="hl" value="en" />    <input type="submit" name="sa" class="submit" value="ok" />
+  
+</form><script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script></div><!-- /end search -->
+				<div id="quickLink"><!--###quickLink### begin -->
+					<ul>
+						<li><a href="en/social-and-human-sciences/resources/online-materials/publications/#">Intranet</a></li>
+						<li><a href="en/social-and-human-sciences/resources/online-materials/publications/#">Extranet</a></li>
+						<li class="last"><a href="en/social-and-human-sciences/resources/online-materials/publications/#">Login</a></li>
+					</ul>
+				<!--###quickLink### end --></div><!-- /end quickLink -->
+			</div><!-- /end topnav -->
+			<div id="nav">
+				<!-- skiplink anchor: navigation -->
+				<a id="navigation" name="navigation"></a>
+				<!-- main navigation: horizontal list -->
+				<div class="menu"><ul><li><strong><a href="en/unesco/">UNESCO</a></strong></li><li><strong><a href="en/education/" target="_top">Education</a></strong></li><li><strong><a href="en/natural-sciences/">Natural Sciences</a></strong></li><li class="on"><div class="menu-arrondi-G"><div class="menu-arrondi-D"><strong><a href="en/social-and-human-sciences/">Social and Human Sciences</a></strong><ul class="submenu"><li><span class="first"></span><a href="en/social-and-human-sciences/about-us/"><span>About us</span></a><ul class="sub"><li>Who we are<ul><li><a href="en/social-and-human-sciences/about-us/who-we-are/assistant-director-general/">Assistant Director-General</a></li><li><a href="en/social-and-human-sciences/about-us/who-we-are/whos-who/">Who's Who</a></li></ul></li><li>How we work<ul><li><a href="en/social-and-human-sciences/about-us/how-we-work/mission/">Mission</a></li><li><a href="http://www.unesco.org/en/university-twinning-and-networking/access-by-domain/social-and-human-sciences/">UNESCO Chairs</a></li></ul></li><li>Where we are<ul><li><a href="en/social-and-human-sciences/about-us/where-we-are/contact-us/">Contact us</a></li></ul></li></ul></li><li><span class="first"></span><a href="en/social-and-human-sciences/themes/"><span>Themes</span></a><ul class="sub"><li>Social Transformations<ul><li><a href="en/social-and-human-sciences/themes/most-programme/">MOST Programme</a></li></ul></li><li>Social Inclusion and Youth<ul><li><a href="en/social-and-human-sciences/themes/youth/">Youth</a></li><li><a href="en/social-and-human-sciences/themes/international-migration/">International Migration</a></li><li><a href="en/social-and-human-sciences/themes/fight-against-discrimination/">Fight against Discrimination</a></li><li><a href="en/social-and-human-sciences/themes/democracy/">Democracy</a></li></ul></li><li>Ethics, Science and Society<ul><li><a href="en/social-and-human-sciences/themes/about-ethics-of-science-and-technology/">About Ethics of Science and Technology</a></li><li><a href="en/social-and-human-sciences/themes/bioethics/">Bioethics</a></li><li><a href="en/social-and-human-sciences/themes/global-ethics-observatory/">Global Ethics Observatory</a></li><li><a href="en/social-and-human-sciences/themes/global-environmental-change/">Global Environmental Change </a></li><li><a href="en/social-and-human-sciences/themes/anti-doping/">Anti-Doping</a></li><li><a href="en/social-and-human-sciences/themes/physical-education-and-sport/">Physical Education and Sport</a></li></ul></li><li>Transversal Themes<ul><li><a href="en/social-and-human-sciences/themes/human-rights-based-approach/">Human-Rights Based Approach</a></li><li><a href="en/social-and-human-sciences/themes/philosophy/">Philosophy</a></li></ul></li><li>Global Priorities<ul><li><a href="en/social-and-human-sciences/themes/gender-equality/">Gender Equality</a></li><li><a href="en/africa/priority-africa/">Priority Africa</a></li></ul></li></ul></li><li><span class="first"></span><a href="en/unesco/worldwide/"><span>Worldwide</span></a><ul class="sub"><li>UNESCO Regions<ul><li><a href="en/unesco/worldwide/africa/">Africa</a></li><li><a href="en/unesco/worldwide/arab-states/">Arab States</a></li><li><a href="en/unesco/worldwide/asia-and-the-pacific/">Asia and the Pacific</a></li><li><a href="en/unesco/worldwide/europe-and-north-america/">Europe and North America</a></li><li><a href="en/unesco/worldwide/latin-america-and-the-caribbean/">Latin America and the Caribbean</a></li></ul></li></ul></li><li><span class="first"></span><a href="en/social-and-human-sciences/events/"><span>Events</span></a><ul class="sub"><li>Calendar of Events<ul><li><a href="en/unesco/events/social-and-human-sciences-events/">Programme Events</a></li></ul></li><li>Prizes and Celebrations<ul><li><a href="en/social-and-human-sciences/events/prizes-and-celebrations/unesco-prizes/">UNESCO Prizes</a></li><li><a href="en/unesco/events/prizes-and-celebrations/celebrations/">Celebrations</a></li></ul></li></ul></li><li class="actif"><span class="first"></span><a href="en/social-and-human-sciences/resources/"><span>Resources</span></a><ul class="sub"><li>Periodicals<ul><li><a href="en/social-and-human-sciences/resources/periodicals/diversities/">Diversities</a></li><li><a href="en/social-and-human-sciences/resources/periodicals/issj-social-science/">ISSJ - Social Science</a></li><li><a href="en/social-and-human-sciences/resources/periodicals/women-philosophers-journal/">Women Philosophers' Journal</a></li><li><a href="en/social-and-human-sciences/resources/periodicals/shsviews/">SHSviews</a></li></ul></li><li>Reports<ul><li><a href="en/social-and-human-sciences/resources/reports/world-social-science-report-2010/">World Social Science Report 2010</a></li><li><a href="en/social-and-human-sciences/resources/reports/world-social-science-report-2013/">World Social Science Report 2013</a></li></ul></li><li>Online materials<ul><li><a href="en/social-and-human-sciences/resources/online-materials/publications/">Publications</a></li><li><a href="http://portal.unesco.org/en/ev.php-URL_ID=13652&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=-471.html">Legal Instruments</a></li></ul></li><li>Databases<ul><li><a href="en/social-and-human-sciences/themes/anti-doping/addbase/access/">ADDbase - Anti-doping</a></li><li><a href="en/social-and-human-sciences/themes/global-ethics-observatory/access-geobs/">Global Ethics Observatory</a></li></ul></li></ul></li></ul><div class="clear"></div></div></div></li><li><strong><a href="en/culture/">Culture</a></strong></li><li><strong><a href="en/communication-and-information/">Communication and Information</a></strong></li><li><strong><a href="en/media-services/">Media Services</a></strong></li></ul></div>
+				<h1 id="logo"><a href="en/unesco/"><img src="http://wa1.www.unesco.org/new/fileadmin/unesco/images/logo_en.gif;pva32db540426e0dc2" width="135" height="110" border="0" alt="" title="" /></a></h1>
+				<h2 id="siteName">Social and Human Sciences</h2>
+				<!-- <p><a href="/">unesco.org</a></p> -->
+			</div><!-- /end nav -->
+		</div><!-- /end header -->
+		
+		<!-- CONTENT -->
+		<div id="main">
+		<a name="topPage"></a>
+			<div class="subcolumns">
+				<div id="actions"><ul id="actionsList"><li class="first"></li><li></li><li><a title="decrease font size" class="smallFont" href="en/social-and-human-sciences/resources/online-materials/publications/#">decrease font size</a></li><li><a title="increase font size" class="bigFont" href="en/social-and-human-sciences/resources/online-materials/publications/#">increase font size</a></li><li><a title="Bookmark Page" class="bookmark" href="en/social-and-human-sciences/resources/online-materials/publications/#">$bookmark}</a></li><li><a title="Print page" class="printPage" href="en/social-and-human-sciences/resources/online-materials/publications/#">$print}</a></li><li><a title="Send to a friend" class="send" href="http://www.unesco.org/new/en/tip-a-friend/?tipUrl=http%3A%2F%2Fwww.unesco.org%2Fnew%2Fen%2Fsocial-and-human-sciences%2Fresources%2Fonline-materials%2Fpublications%2F">Send to a friend</a></li></ul><p id="breadcrumbs"><a href="en/unesco/">UNESCO</a>&nbsp;»&nbsp;<a href="en/social-and-human-sciences/">Social and Human Sciences</a>&nbsp;»&nbsp;<a href="en/social-and-human-sciences/resources/">Resources</a><span>&nbsp;»&nbsp;Publications</span></p></div>
+				<div class="clear"></div>
+				<!-- LEFT COLUMN -->
+				<div id="menu3" class="c21l"><div class="subcl"><h2>Periodicals</h2><ul><li><a href="en/social-and-human-sciences/resources/periodicals/diversities/">Diversities</a></li><li><a href="en/social-and-human-sciences/resources/periodicals/issj-social-science/">ISSJ - Social Science</a></li><li><a href="en/social-and-human-sciences/resources/periodicals/women-philosophers-journal/">Women Philosophers' Journal</a></li><li class="last"><a href="en/social-and-human-sciences/resources/periodicals/shsviews/">SHSviews</a></li></ul></div><div class="subcl"><h2>Reports</h2><ul><li><a href="en/social-and-human-sciences/resources/reports/world-social-science-report-2010/" title="Discover the World Social Science Report 2010 on Knowledge Divides, a worldwide status report on the social sciences disciplines.">World Social Science Report 2010</a></li><li class="last"><a href="en/social-and-human-sciences/resources/reports/world-social-science-report-2013/" title="Discover the World Social Science Report 2013 on Changing Global Environments, a worldwide status report on the social sciences disciplines.">World Social Science Report 2013</a></li></ul></div><div class="subcl"><h2>Online materials</h2><ul><li class="active"><a href="en/social-and-human-sciences/resources/online-materials/publications/"><span>Publications</span></a></li><li class="last"><a href="http://portal.unesco.org/en/ev.php-URL_ID=13652&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=-471.html">Legal Instruments</a></li></ul></div><div class="subcl"><h2>Databases</h2><ul><li><a href="en/social-and-human-sciences/themes/anti-doping/addbase/access/">ADDbase - Anti-doping</a></li><li class="last"><a href="en/social-and-human-sciences/themes/global-ethics-observatory/access-geobs/">Global Ethics Observatory</a></li></ul></div></div>
+				
+				<!-- MIDDLE COLUMN -->
+				<div id="content" class="c54l"><div class="subc"><div class="content"><div class="fleche_bord"> </div><h3>Publications in Social and Human Sciences</h3><p style="font-weight: bold;" class="bodytext">This page provides access to information materials related to UNESCO's activities in the area of social and human sciences.</p><ul><li><a href="en/social-and-human-sciences/resources/online-materials/publications/unesdoc-shs/" title="Opens internal link in current window" class="internal-link">Online Catalogue of Documents and Publications</a></li><li><a href="en/social-and-human-sciences/resources/periodicals/diversities/" title="Opens internal link in current window" class="internal-link">Diversities</a> (formerly the International Journal on Multicultural Societies) – E-Journal published mainly in English</li><li><a href="en/social-and-human-sciences/resources/periodicals/issj-social-science/" title="Opens internal link in current window" class="internal-link">International Social Science Journal</a></li><li><a href="../?id=24373" title="Opens internal link in current window" class="internal-link">SHSviews Magazine</a> – Archives of the quarterly magazine which provided information on the work of UNESCO in the field of social and human sciences</li></ul><p class="bodytext"> <b>See also</b>: </p><ul><li><a href="en/unesco/resources/online-materials/publications/unesdoc-database/" title="Opens external link in new window" class="external-link-new-window">UNESCO Online Catalogue of Documents and Publications</a></li> <li><a href="http://unesdoc.unesco.org/ulis/push/cgi/push.pl" target="_blank">UNESDOC@lerts</a> - this free service enables you to receive e-alerts about new UNESCO electronic publications in PDF format. It sends you e-mails according to the areas, themes and types of publications you select when you register.</li> <li><a href="http://publishing.unesco.org/" target="_blank" class="external-link-new-window">UNESCO Publishing</a></li></ul><div class="clear"></div><a href="en/social-and-human-sciences/resources/online-materials/publications/#topPage" class="lnk_topPage">Back to top</a></div></div></div><!-- /end content -->
+				
+				<!-- RIGHT COLUMN -->
+				<div id="sidebar" class="c24r"><div class="subcr"><div class="blockT1 blockC1bis"><h2>UNESCO Resources</h2><div id="ressources"><ul><li class="ressources-photobank"><div><h3><a href="http://photobank.unesco.org/" target="_blank">Photobank</a></h3><p><a href="http://photobank.unesco.org/" target="_blank"> </a></p></div></li><li class="ressources-conventions"><div><h3><a href="http://portal.unesco.org/en/ev.php-URL_ID=13652&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=-471.html" target="_blank">Conventions & recommendations</a></h3><p><a href="http://portal.unesco.org/en/ev.php-URL_ID=13652&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=-471.html" target="_blank"> </a></p></div></li><li class="ressources-statistics"><div><h3><a href="http://www.uis.unesco.org/" target="_blank">Statistics</a></h3><p><a href="http://www.uis.unesco.org/" target="_blank"> </a></p></div></li></ul></div></div></div></div><!-- /end sidebar -->
+			</div><!-- /end subcolumns -->
+		</div><!-- /end main -->
+		
+		<!-- FOOTER -->
+		<div id="footer"><div id="foolter_lnk"><dl><dt><span class="left"></span><span class="right">General Information</span></dt><dd><a href="en/unesco/about-us/" onfocus="blurLink(this);">About us</a></dd><dd><a href="en/general-conference-37th/" onfocus="blurLink(this);">General Conference</a></dd><dd><a href="en/unesco/about-us/who-we-are/governing-bodies/executive-board/" onfocus="blurLink(this);">Executive Board</a></dd><dd><a href="en/unesco/about-us/who-we-are/secretariat/" onfocus="blurLink(this);">Secretariat</a></dd><dd><a href="en/unesco/about-us/who-we-are/goodwill-ambassadors/" onfocus="blurLink(this);">Goodwill Ambassadors</a></dd><dd><a href="en/bfc/all-offices/" onfocus="blurLink(this);">Field Offices</a></dd><dd><a href="http://portal.unesco.org/en/ev.php-URL_ID=34017&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html" onfocus="blurLink(this);">Institutes</a></dd><dd><a href="en/unesco/communities/" onfocus="blurLink(this);">Communities</a></dd><dd><a href="en/unesco/events/" onfocus="blurLink(this);">Events</a></dd><dd class="last"><a href="en/unesco/join-us/" onfocus="blurLink(this);">Join us</a></dl><div class="separation"></div><dl><dt><span class="left"></span><span class="right">Our priorities</span></dt><dd><a href="en/africa/priority-africa/" target="_top" onfocus="blurLink(this);">Africa</a></dd><dd><a href="en/unesco/themes/gender-equality/" onfocus="blurLink(this);">Gender Equality</a></dd><dd><a href="en/education/themes/leading-the-international-agenda/education-for-all/" onfocus="blurLink(this);">Education for All</a></dd><dd><a href="en/education/themes/leading-the-international-agenda/education-for-sustainable-development/" onfocus="blurLink(this);">Sustainable Development</a></dd><dd><a href="en/social-and-human-sciences/themes/about-ethics-of-science-and-technology/" onfocus="blurLink(this);">Ethics</a></dd><dd><a href="en/culture/themes/dialogue/" onfocus="blurLink(this);">Intercultural Dialogue</a></dd><dd class="last"><a href="http://portal.unesco.org/ci/en/ev.php-URL_ID=1645&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html" onfocus="blurLink(this);">Knowledge Societies</a></dl><div class="separation"></div><dl><dt><span class="left"></span><span class="right">Popular topics</span></dt><dd><a href="http://whc.unesco.org/en/35/" onfocus="blurLink(this);">World Heritage</a></dd><dd><a href="http://www.unesco.org/water/" onfocus="blurLink(this);">Water</a></dd><dd><a href="en/quick-theme-selector/intangible-heritage/" onfocus="blurLink(this);">Intangible Heritage</a></dd><dd><a href="http://portal.unesco.org/ci/en/ev.php-URL_ID=1530&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html" onfocus="blurLink(this);">Press Freedom</a></dd><dd><a href="http://portal.unesco.org/en/ev.php-URL_ID=33437&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html" onfocus="blurLink(this);">HIV & AIDS</a></dd><dd><a href="en/natural-sciences/special-themes/global-climate-change/" onfocus="blurLink(this);">Climate Change</a></dd><dd><a href="http://portal.unesco.org/culture/en/ev.php-URL_ID=35097&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html" onfocus="blurLink(this);">Languages</a></dd><dd><a href="http://www.unesco.org/new/en/unesco/themes/pcpd/" onfocus="blurLink(this);">Post-Crisis</a></dd><dd class="last"><a href="en/social-and-human-sciences/themes/youth/" onfocus="blurLink(this);">Youth</a></dl><div class="separation"></div><dl><dt><span class="left"></span><span class="right">Resources</span></dt><dd><a href="http://portal.unesco.org/en/ev.php-URL_ID=12024&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html" onfocus="blurLink(this);">Conventions & Recommendations</a></dd><dd><a href="http://unesdoc.unesco.org/ulis/" onfocus="blurLink(this);">Documents</a></dd><dd><a href="http://www.uis.unesco.org/ev.php?ID=2867_201&amp;ID2=DO_TOPIC" onfocus="blurLink(this);">Statistics</a></dd><dd><a href="http://photobank.unesco.org/exec/index.htm?lang=en" onfocus="blurLink(this);">Photos</a></dd><dd><a href="http://publishing.unesco.org/default.aspx?&amp;change=E" onfocus="blurLink(this);">Bookshop</a></dd><dd><a href="en/media-services/" onfocus="blurLink(this);">Media</a></dd><dd><a href="en/name-and-logo/" onfocus="blurLink(this);">Name and Logo</a></dd><dd class="last"><a href="http://portal.unesco.org/en/files/19096/13324060071Brochure_CR_2012_en.pdf/Brochure%2BCR%2B2012%2Ben.pdf" onfocus="blurLink(this);">Human rights violation</a></dl></div><div id="footerLower"><ul><li class="first"><a href="en/terms-of-use/" onfocus="blurLink(this);">Terms of use</a></li><li><a href="en/unesco/about-us/where-we-are/contact-us/" onfocus="blurLink(this);">Contact us</a></li><li><a href="en/sitemap/" onfocus="blurLink(this);">Sitemap</a></li><li><a href="en/terms-of-use/terms-of-use/copyright/" onfocus="blurLink(this);">© UNESCO</a></li></ul></div></div><!-- /end footer -->
+	</div><!-- /end page_margins -->
+</div><!-- /end page -->
+   <script type="text/javascript" src="http://wa1.www.unesco.org/new/fileadmin/unesco/scripts/jquery.qtip-1.0.0-rc3.min.js;pvdd8a552900d2bcbf"></script>
+
+
+
+
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++

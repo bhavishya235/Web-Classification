@@ -1,0 +1,548 @@
+====================<http://www.faqs.org/faqs/emulators-faq/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Emulators FAQ Index</title>
+<meta name="description" content="Emulators FAQ Index"/>
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="http://www.faqs.org/style/faqs.css" />
+<script type="text/javascript" src="http://www.faqs.org/style/rs.js"></script>
+<script type="text/javascript" src="http://www.faqs.org/utils.js"></script>
+<style type="text/css">
+#hsublogo,#navigation{display:none;}
+.left {float:left;margin-left:20%;height:40px;}
+.right {float:right;margin-right:20%;height:40px;}
+.hr4 { clear: both;}
+</style>
+</head>
+
+<body>
+
+<!-- header -->
+<div id="hbar"></div>
+<div id="body">
+	<div id="page">
+	<div id="header">
+
+		<div id="hsearch">
+		</div>
+		<div id="hlogo"><a href="http://www.faqs.org"><img src="/images/faqs.org.png" alt="faqs.org" /></a></div>
+		<div id="hsublogo">
+			<h1>Emulators FAQ Index</h1>
+		</div>
+	</div>
+
+		<div id="navigation">faqs.org</div>
+		
+	<div id="content">
+
+<!-- /header -->
+
+
+<div id="hwelcome">
+	<img src="http://www.faqs.org/images/library.jpg" alt="faqs.org - Internet FAQ Archives" style="width:150px;height:62px;" />
+	<h1>Emulators FAQ Index</h1>	
+	<g:plusone size='small'></g:plusone>
+	<DIV ALIGN=CENTER><P><!-- FAQ SIDX --><SMALL><STRONG>[<A HREF='/faqs/by-archive-name.html'>By Archive-name</A> | <A HREF='/faqs/by-author/'>By Author</A> | <A HREF='/faqs/by-category.html'>By Category</A> | <A HREF='/faqs/by-newsgroup/'>By Newsgroup</A> | <a href='http://www.city-data.com/forum/'>Forum</a>] <BR> [<A HREF='/faqs/'>Home</A> | <A HREF='/faqs/changed.html'>Latest Updates</A> | <A HREF='/faqs/stats.html'>Archive Stats</A> | <A HREF='/faqs/faqsearch.html'>Search</A> | <A HREF='/faqs/WWW-FAQ-Archive-Tech-Info.html'>Help</A>] </STRONG></SMALL></P></DIV>
+</div>
+
+
+
+<ul id='hnavbar'>
+	<li><a href="/rfcs/">Internet RFC Index</a></li>
+	<li><a href="/faqs/">Usenet FAQ Index</a></li>
+	<li><a href="/contrib/">Other FAQs</a></li>
+	<li><a href="/docs/">Documents</a></li>
+
+	<li><a href="/tools/">Tools</a></li>
+	<li style="margin-top:8px;"><b>Search</b></li>
+	<li><a href="/faqs/faqsearch.html">Search FAQs</a></li>
+    <li><a href="/rfcs/rfcsearch.html">Search RFCs</a></li>
+
+	<li style="margin-top:8px;"><b>IFC Home</b></li>
+	<li><a href="http://www.city-data.com/">Cities</a></li>
+
+	<li><a href="http://www.country-data.com/">Countries</a></li>
+	<li><a href="http://www.hospital-data.com/">Hospitals</a></li>
+	<li><a href="http://www.webhostingratings.com/">Web Hosting Ratings</a></li>
+</ul>
+
+
+<div id='fmaincolumn'>
+
+
+
+<table><tr>
+
+<td valign="top" class="fmtable">
+<hr class="hr1" />
+
+<!-- SEARCH -->
+<DIV ALIGN=CENTER>
+<div>
+<ul style='margin-top:0px; list-style: none;'>
+<h2>Search the FAQ Archives</h2><li>
+<form action='http://www.faqs.org/faqs/faqresults.html' id='cse-search-box'>
+  <div>
+    <input type='hidden' name='cx' value='012585674615115756003:0rnper8ld_o' />
+    <input type='hidden' name='cof' value='FORID:11' />
+    <input type='hidden' name='ie' value='UTF-8' />
+    <input type='hidden' name='hq' value='more:faqs' />
+    <input type='text' name='q' size='31' />
+
+    <input type='submit' name='sa' value='Search FAQs' />
+  </div>
+</form>
+<script type='text/javascript' src='http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en'></script>
+</li>
+</ul>
+</div>
+<TABLE>
+<TR>
+<TD>
+<small>
+<A HREF="http://www.faqs.org/faqs/by-archive-name.html#3">3</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#A">A</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#B">B</A> - <A 
+HREF="http://www.faqs.org/faqs/by-archive-name.html#C">C</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#D">D</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#E">E</A> - <A 
+HREF="http://www.faqs.org/faqs/by-archive-name.html#F">F</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#G">G</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#H">H</A> - <A 
+HREF="http://www.faqs.org/faqs/by-archive-name.html#I">I</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#J">J</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#K">K</A> - <A 
+HREF="http://www.faqs.org/faqs/by-archive-name.html#L">L</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#M">M</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#N">N</A> - <A 
+HREF="http://www.faqs.org/faqs/by-archive-name.html#O">O</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#P">P</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#Q">Q</A> - <A 
+HREF="http://www.faqs.org/faqs/by-archive-name.html#R">R</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#S">S</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#T">T</A> - <A 
+HREF="http://www.faqs.org/faqs/by-archive-name.html#U">U</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#V">V</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#W">W</A> - <A 
+HREF="http://www.faqs.org/faqs/by-archive-name.html#X">X</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#Y">Y</A> - <A HREF="http://www.faqs.org/faqs/by-archive-name.html#Z">Z</A>
+</small>
+</TD>
+</TR>
+</TABLE>
+ <br/><hr class="hr4" /> <!-- /SEARCH -->
+<P>
+<LI><A HREF="/faqs/emulators-faq/part1/"><STRONG>emulators-faq/part1</STRONG></A>
+<BR>Subject: <STRONG>comp.emulators.misc Frequently Asked Questions (FAQ) [1/3]</STRONG>
+<BR>Maintainer: <STRONG>adam.roach@exu.ericsson.se (Adam Roach)</STRONG>
+<BR>FAQ Home Page: <EM><STRONG>http://www.why.net/home/adam/cem/</STRONG></EM>
+<BR>Last Posted: <STRONG>25 Nov 1997 00:00:05 -0600</STRONG>
+<BR>Last-modified: <STRONG>Fri, 25 Apr 1997 19:26:19 GMT</STRONG>
+<BR>Posting-Frequency: <STRONG>semi-monthly (11th and 25th of each month)</STRONG>
+<BR>Version: <STRONG>1.1.1 (1997-Apr-25)</STRONG>
+<P>
+<LI><A HREF="/faqs/emulators-faq/part2/"><STRONG>emulators-faq/part2</STRONG></A>
+<BR>Subject: <STRONG>comp.emulators.misc Frequently Asked Questions (FAQ) [2/3]</STRONG>
+<BR>Maintainer: <STRONG>adam.roach@exu.ericsson.se (Adam Roach)</STRONG>
+<BR>FAQ Home Page: <EM><STRONG>http://www.why.net/home/adam/cem/</STRONG></EM>
+<BR>Last Posted: <STRONG>25 Nov 1997 00:00:10 -0600</STRONG>
+<BR>Last-modified: <STRONG>Fri, 25 Apr 1997 19:26:19 GMT</STRONG>
+<BR>Posting-Frequency: <STRONG>semi-monthly (11th and 25th of each month)</STRONG>
+<P>
+<LI><A HREF="/faqs/emulators-faq/part3/"><STRONG>emulators-faq/part3</STRONG></A>
+<BR>Subject: <STRONG>comp.emulators.misc Frequently Asked Questions (FAQ) [3/3]</STRONG>
+<BR>Maintainer: <STRONG>adam.roach@exu.ericsson.se (Adam Roach)</STRONG>
+<BR>FAQ Home Page: <EM><STRONG>http://www.why.net/home/adam/cem/</STRONG></EM>
+<BR>Last Posted: <STRONG>11 Nov 1997 00:00:29 -0600</STRONG>
+<BR>Last-modified: <STRONG>Fri, 25 Apr 1997 19:26:19 GMT</STRONG>
+<BR>Posting-Frequency: <STRONG>semi-monthly (11th and 25th of each month)</STRONG>
+</UL>
+<P>
+<DIV ALIGN=CENTER>
+<!-- TRAILER.C --><SMALL><STRONG>[ <a href='/faqs/'>Usenet FAQs</a> | <a href='/contrib/'>Web FAQs</a> | <a href='/docs/'>Documents</a> | <a href='/rfcs/'>RFC Index</a> ] </STRONG></SMALL>
+</DIV>
+<BR><SMALL>
+<P ALIGN=CENTER><STRONG>PLEASE NOTE:</STRONG></P>
+<BLOCKQUOTE>
+<P>The official FAQ Home Page is available by selecting the link listed as the 'FAQ Home Page'.
+<P>The maintainers of this archive are <STRONG>NOT</STRONG> the authors or maintainers of the individual FAQs. To correct or contribute to these documents, send email to the specific FAQ maintainers identified in each of the FAQs.
+
+</BLOCKQUOTE>
+<DIV ALIGN=CENTER>
+<ADDRESS>
+<BR><STRONG>Last Update August 08 2012 @ 06:22 AM</STRONG>
+</ADDRESS>
+</DIV>
+</SMALL>
+</DIV>
+<br/>
+<hr class="hr4" />
+</td>
+</table>
+</div>
+<!--MENU_FTR-->
+
+
+		<div style="clear:both;"></div>
+
+<!-- footer -->
+		</div>
+		<div id="footer">
+			Some parts &copy; 2014 Advameg, Inc.&nbsp;&nbsp;|&nbsp;&nbsp;
+
+			<script type="text/javascript"><!--
+			    esa("terms", "Terms of Use");
+			// --></script>
+		</div>
+	</div>
+</div>
+<!-- /footer -->
+
+
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-892232-19");
+    pageTracker._trackPageview();
+</script>
+
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://cef.sourceforge.net/>====================
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<!--  Version: Multiflex-3 Update-2 / Overview             -->
+<!--  Date:    November 29, 2006                           -->
+<!--  Author:  G. Wolfgang                                 -->
+<!--  License: Fully open source without restrictions.     -->
+<!--           Please keep footer credits with a link to   -->
+<!--           G. Wolfgang (www.1-2-3-4.info). Thank you!  -->
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="3600" />
+  <meta name="revisit-after" content="30 days" />
+  <meta name="robots" content="index,follow" />
+  <meta name="author" content="Design: G. Wolfgang www.1-2-3-4.info / Author: Alan Conroy" />
+  <meta name="distribution" content="global" />
+  <meta name="description" content="The Computer Emulation Framework" />
+  <meta name="keywords" content="Emulation, Emulators, Simulation, Simulators" />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout2_setup.css" />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout2_text.css" />
+  <link rel="icon" type="image/x-icon" href="./img/favicon.ico" />
+  <title>Computer Emulation Framework / Overview</title>
+</head>
+
+<!-- Global IE fix to avoid layout crash when single word size wider than column width -->
+<!--[if IE]><style type="text/css"> body {word-wrap: break-word;}</style><![endif]-->
+
+<body>
+  <!-- Main Page Container -->
+  <div class="page-container">
+
+    <!-- A. HEADER -->      
+    <div class="header">
+      
+      <!-- A.1 HEADER MIDDLE -->
+      <div class="header-middle">    
+   
+        <!-- Site message -->
+        <div class="sitemessage">
+          <h1>Computer Emulation Framework</h1>
+        </div>        
+      </div>
+      
+      <!-- A.2 HEADER BOTTOM -->
+      <div class="header-bottom">
+      
+        <!-- Navigation Level 2 (Drop-down menus) -->
+        <div class="nav2">
+	
+          <!-- Navigation item -->
+          <ul>
+            <li><a href="index.html">Overview</a></li>
+          </ul>
+          
+          <!-- Navigation item -->
+          <ul>
+            <li><a href="spec.html">Specification</a></li>
+          </ul>          
+
+          <!-- Navigation item -->
+          <ul>
+            <li><a href="cef32.html">CEF32</a></li>
+          </ul>          
+        </div>
+	  </div>
+
+      <!-- A.3 HEADER BREADCRUMBS -->
+
+      <!-- Breadcrumbs -->
+      <div class="header-breadcrumbs">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- B. MAIN -->
+    <div class="main">
+ 
+      <!-- B.1 MAIN NAVIGATION -->
+      <div class="main-navigation">
+
+        <!-- Navigation Level 3 -->
+        <div class="round-border-topright"></div>
+        <h1 class="first">Site Contents</h1>
+
+        <!-- Navigation with grid style -->
+        <dl class="nav3-grid">
+          <dt><a href="index.html">Home</a></dt>
+          <dt><a href="spec.html">Specification</a></dt>
+          <dt><a href="cef32.html">CEF32</a></dt>
+        </dl>                        
+
+        <!-- Email -->                
+        <h1>Email Sign Up</h1>
+        <h3>Sign up for email alerts</h3>
+        <P>If you wish to be notified of changes in cef or cef32, click <A HREF="mailto:subscribeman@conroyhome.net?Subject=Subscribe%20cef">here</A>, and press the Send button.</P>
+
+        <!-- History -->                
+        <h1>CEF History</h1>
+        <h3>Version 2.5</h3>
+        <p>Released: Apr-2011<br />Added virtual media support.</p>
+        <h3>Version 2.4</h3>
+        <p>Released: Aug-2008<br />Added Initialization method to User Interface components.</p>
+        <h3>Version 2.3</h3>
+        <p>Released: Jun-2008<br />Clock enhancements.<br />Additional master assembler features.</p>
+        <h3>Version 2.2</h3>
+        <p>Released: Feb-2008<br />Multi-threading support.<br />Assembler symbol and cross-reference listing.<br />New directives.</p>
+        <h3>Version 2.1</h3>
+        <p>Released: Apr-2007<br />Easier component connection.<br />Assembling listing support.<br />Big-endian support.<br />New directives.</p>
+        <h3>Version 2.0</h3>
+        <p>Released: Feb-2007<br />Overhaul of specification to avoid future overhauls.</p>
+      </div>
+ 
+      <!-- B.2 MAIN CONTENT -->
+      <div class="main-content">
+        
+        <!-- Pagetitle -->
+        <h1 class="pagetitle">CEF Overview</h1>
+
+        <!-- Content unit - One column -->
+        <div class="column1-unit">
+          <p>The Computer Emulation Framework (CEF) is an application framework specification for the purposes of emulating various computer hardware configurations in software.</p>
+          <p>CEF uses independant components, each of which emulates some hardware, such as a CPU or memory.  These components can be connected together to form complete computer emulators.  The components can be mixed or matched as desired.</p>
+          <p>Uses for CEF include low-level debugging, simulation of unavailable hardware, cross-assembly, and emulation of one computer on another.</p>
+        </div>
+        <hr class="clear-contentunit" />          
+
+
+        <!-- Content unit - One column -->
+        <div class="column1-unit">        
+          <h1>Goals</h1>                            
+          <p>1) to provide a framework which is at a low-enough level to allow accurate emulation and simulation of any hardware that exists to this time, but without being so low level that the speed of emulation makes the resulting application useless.</p>
+          <p>2) to provide a consistent base user interface for emulators.</p>
+          <p>3) to speed development of emulators by providing several general-use components and utilities.</p>
+        </div>          
+        <hr class="clear-contentunit" />          
+
+        <!-- Content unit - One column -->
+        <div class="column1-unit">
+          <h1>CEF32</h1>                            
+          <h3>Reference Implementation for MS Windows</h3>
+          <p>Download <A HREF="cef32.html">CEF32</A>, a complete implementation of the CEF specification for Microsoft Windows, including several components, emulators, and fonts.  This also serves as a reference implementation of the specification.</p>
+        </div>
+        <hr class="clear-contentunit" />                    
+
+        <!-- Content unit - One column -->
+        <div class="column1-unit">
+          <h1>Notes</h1><br>
+          <h3>April, 2011</h3>
+          <ul>
+            <li>Version 2.5 released.</li>
+          </ul><br><br>
+          <h3>August, 2008</h3>
+          <ul>
+            <li>Version 2.4 released.</li>
+          </ul><br><br>
+          <h3>June, 2008</h3>
+          <ul>
+            <li>Version 2.3 released.</li>
+          </ul><br><br>
+          <h3>February, 2008</h3>
+          <ul>
+            <li>Version 2.2 released.</li>
+          </ul><br><br>
+          <h3>April, 2007</h3>
+          <ul>
+            <li>Version 2.1 released.</li>
+            <li>Reworked web site.</li>
+          </ul><br><br>
+          <h3>February, 2007</h3>
+          <ul>
+            <li>Version 2.0 released.</li>
+          </ul>
+        </div>                  
+      </div>
+    </div>
+      
+    <!-- C. FOOTER AREA -->      
+
+    <div class="footer">
+      <p class="credits">Original design by <a href="http://www.1-2-3-4.info" title="Designer Homepage">G. Wolfgang</a> | Adapted by Alan Conroy</a> | <a href="http://validator.w3.org/check?uri=referer" title="Validate XHTML code">W3C XHTML 1.0</a> | <a href="http://jigsaw.w3.org/css-validator/" title="Validate CSS code">W3C CSS 2.0</a></p>
+      <p class="credits">Hosted on <A HREF="http://sourceforge.net/"><IMG SRC="http://sourceforge.net/sflogo.php?group_id=2277" NAME="Graphic1" ALT="SourceForge Logo" ALIGN=BOTTOM WIDTH=94 HEIGHT=47 BORDER=0></A></p>
+    </div>      
+  </div> 
+  
+</body>
+</html>
+
+
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.uruk.org/~erich/emu/>====================
+<HTML>
+
+<HEAD>
+<TITLE>Emulation Software R&D WWW Page</TITLE>
+</HEAD>
+
+<BODY>
+
+<H1>Emulation Software R&D WWW Page</H1>
+<HR>
+
+It has been stated by many people that as time goes on it will become
+increasingly possible to run most any software package on any OS on
+any hardware platform, and that eventually this will be considered
+standard fare.  This WWW page is dedicated to that ideal.<P>
+
+The primary focus of this WWW page is information on implementation and
+research in "interesting" CPU and OS emulators.  By that I mean that
+there is something I find novel or just intriguing about it, and that
+is entirely my subjective opinion.  Many PC, Some Mac, a few UNIX,
+and a few other emulators (in progress or completed) are listed
+specifically, but links are listed which will go either directly or
+one hop away from most of the emulator information and resources I know
+of on the net.<P>
+
+The WINE project is a good example of a nearly "pure" OS emulator, in that
+it runs the executable code natively (using a different mode of operation
+of the 80[345]86 CPU chip), but needs to translate the
+API calls from one OS to another, and handles a different executable
+format.<P>
+
+The Apple PowerMac OS (for the new line of PowerPC Macintosh machines)
+performs 68K emulation with very little OS emulation, so it could
+probably be considered a "pure" CPU emulator.<P>
+
+Last updated:  Fri 9:00 7/4/1997.<P>
+<HR>
+
+<H3>Research/Development/Papers/Info</H3>
+
+Related topics such as byte-codes, CPU-description formats, and CPU
+simulation is touched upon here as well.<P>
+
+<UL>
+<LI> <A HREF=http://www.why.net/home/adam/cem/>comp.emulators.misc FAQ</A>
+-- FAQ for the comp.emulators.misc USENETnewsgroup.  A lot of interesting
+and useful information here, and probably the major hangout for good
+software emulator info on the USENET.<P>
+<LI> <A HREF=http://freeflight.com/fms/comp/>Computer History and
+Emulation Homepage</A> -- A listing of older machines/game consoles,
+history about them, and emulators for running their software/games on newer
+general-purpose computers.  Lots of good information here too.<P>
+<LI> <A HREF=http://www.cs.uq.edu.au/groups/csm/bintrans.html>Retargetable
+Binary Translation</A> -- Some research going on at the University of
+Queensland about binary translation and emulation.  Another project at the
+same place (and done by some of the same people) is the
+<A HREF=http://www.cs.uq.edu.au/groups/csm/dcc.html>DCC Decompiler</A>,
+which is of interest for machine code analysis if nothing else.  Finally,
+the list of references they have is surprisingly similar, but instead
+of fully copying it, I'll simply place a link to their page for
+<A HREF=http://www.cs.uq.edu.au/groups/csm/otherbin.html>Work on
+Binary Translation</A>.<P>
+<LI> <A HREF=http://www.uruk.org/emu/Taos.html>Details on the Tao
+Operating System</A> -- Information on the Taos Operating System
+and how it works.<P>
+<LI> <A HREF=http://www.cs.virginia.edu/~nr/toolkit/>NJ Machine-Code
+Toolkit</A> -- A toolkit for producing assemblers, disassemblers, code
+generators, debuggers, etc. using generic machine descriptions.<P>
+<LI> <A HREF=http://www.ardi.com/MacHack/machack.html>Executor Internals:
+How to Efficiently Run Mac Programs on PCs</A> -- ARDI's paper describing
+their techniques for emulating 680x0 Mac software on Intel x86 CPUs, used
+for their Executor product.<P>
+<LI> Papers/Info from DEC's
+<A HREF=http://www.digital.com/info/misc/amt.html>Alpha Migration Tools</A>
+group:
+<A HREF=http://www.partner.digital.com/www-swdev/pages/Home/TECH/FX32/fx32.html>Technical
+Introduction to Digital FX!32</A>,
+<A HREF=http://www.uruk.org/emu/Binary_Translation_01apr1993DTJ809SC.txt>Alpha-based
+emulation</A> (some info on DEC's binary emulation technology for
+running VAX and MIPS executables on Alpha machines), and
+<A HREF=http://www.uruk.org/emu/gorton.txt>Details on Binary
+Translation with some info on FreePort Express</A>, a posting from
+Richard Gorton, one of the Alpha Migration Tools guys at DEC.<P>
+<LI> <A HREF=http://www.linpro.no/wine/>The WINE project</A> --
+has lots of information for interested parties and would-be
+developers.  All are encouraged to join in, since it is a freeware project.<P>
+<LI> <A HREF=http://www.cs.uoregon.edu/~cogswell/tibbit/index.html>TIBBIT
+Home Page</A> -- The "Timing Insensitive Binary to BInary Translation"
+project home page.<P>
+<LI> <A HREF=http://www.archelon.com/>Archelon's Retargetable Toolset</A> --
+Archelon, Inc. has a retargetable compiler/assembler/linker set which
+(as far as I can tell) only needs a few description files to build the
+back end for a new CPU.<P>
+<LI> <A HREF=http://www-flash.stanford.edu/Embra/>Embra</A> -- A CPU
+simulator which uses dynamic binary translation to achieve good
+performance while maintaining detailed simulation accuracy.<P>
+<LI> <A HREF=http://www.ece.cmu.edu/afs/ece/usr/newburn/www/bin-xlate.html>Binary
+Translation Page</A> -- at CMU, yet another list, part of which is
+interesting because of the papers listed there.<P>
+<LI> <A HREF=http://www.cs.washington.edu/homes/pardo/papers.html>David
+Keppel's (aka "Pardo") "papers" list</A> -- some info related
+to binary emulation.<P>
+</UL>
+
+<HR>
+
+<H3>Implemented systems</H3>
+
+Implemented here means code exists.  The project may be in any state from
+running small examples only (such as WINE) to being very complete
+(such as Apple's PowerMac OS).<P>
+
+<UL>
+<LI> <A HREF=http://www.uruk.org/emu/mac.html>68K Macintosh Emulators</A>
+-- WWW page for 68K Macintosh emulators.<P>
+<LI> <A HREF=http://www.uruk.org/emu/pc.html>80x86 PC Emulators</A>
+-- WWW page for 80x86 PC emulators.<P>
+<LI> <A HREF=http://www.digital.com/info/semiconductor/amt/>Digital's
+Alpha Migration Tools Web Page</A>
+-- Digital's generic link page listing their emulator technology
+products (several are listed).  The
+<A HREF=http://www.digital.com/info/semiconductor/amt/vestmx/>DECMigrate</A>
+page lists VAX and MIPS emulator technology for running VAX and
+MIPS (hardware), VMS and Ultrix (OS and binary format), executables
+on DEC's Alpha machines.  The
+<A HREF=http://www.service.digital.com/freeport-express/>FreePort
+Express</A> page lists a binary translator converting SPARC
+SunOS to Alpha OSF/1 executables.  The
+<A HREF=http://www.service.digital.com/fx32>FX!32</A> page lists
+a <B>VERY</B> high performance translator/emulator for
+running x86 Windows NT executables on Alpha
+machines running Windows NT (also mentioned on the x86 PC page listed
+above).<P>
+<LI> <A HREF=http://www.att.com/ssg/products/flashport.html>FlashPort</A>
+-- A Multiplatform translation/emulation framework.  Produced
+by Lucent Technologies Bell Laboratories.<P>
+<LI> <A HREF=http://www.tao.co.uk/>Tao Systems</A> -- The Tao operating
+system is designed in a manner which is machine architecture independent
+for all but the kernel and hardware drivers, and small enough to run in
+embedded systems.  Very interesting stuff.<P>
+</UL>
+
+<HR>
+
+<A HREF=mailto:erich@uruk.org><I>erich@uruk.org</I></A><P>
+
+Back to my <A HREF=http://www.uruk.org/~erich/>Home Page</A>.<P>
+
+</BODY>
+</HTML>
+
+++++++++++++++++++++<Over>++++++++++++++++++++

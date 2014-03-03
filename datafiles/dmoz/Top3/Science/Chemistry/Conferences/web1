@@ -1,0 +1,3650 @@
+====================<http://www.prepsymposium.org/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="Description" content="Premier intl. conference focusing on the most cutting-edge areas of preparative and process chromatography. Find current solutions to practical chromatographic separations and learn how to optimize chromatography processes for the best economic production." />
+
+<meta name="Keywords" content="affinity chromatography, analytical applications, analytical LC, biochromatography, biomolecule purification, biopharmaceuticals, biopharmaceutical purification, bioprocess chromatography, bioprocess chromatography scale up, bioseparations, cation exchange chromatography, CEX chromatography, chiral chromatography, chiral HPLC, chiral molecules, chiral resolutions, chiral separations, chromatographic bioseparations, chromatographic purification, chromatographic separation processes, chromatographic separations, chromatographic process design, chromatography columns, chromatography processes, chromatography purification process, continuous chromatographic process, continuous chromatography, continuous countercurrent ion exchange, countercurrent chromatography, displacement chromatography, downstream process chromatography, downstream processing, elution chromatography, enantioselective SFC, equilibrium adsorption isotherms, HIC separations, high throughput chromatographic purification, high throughput preparative chromatography, high throughput purification, high throughput screen stationary phases, IEC chromatography, immunoaffinity chromatography, ion exchange adsorption, ion exchange chromatography, ion exchange column, large scale chromatographic process, large scale chromatography, liquid chromatography column, liquid separation, mass directed prep, mass directed SFC, mass transfer biomolecules, mass transfer LC, mass transfer liquid chromatography, membrane chromatography, miceller electrokinetic capillary chromatography, MECC, micropreparative separation, mixed mode chromatography, monoclonal antibody purification, monolithic columns, monolithic HPLC columns, monoliths, multidimensional separation, nonlinear chromatography, normal phase prep, optimization chromatographic separations, optimization prep chromatography, optimization preparative chromatography, peptide chromatography, peptide purification, peptide separation, polypeptide purification, PREP, PREP HPLC, Preparative HPLC, PREP LC, Preparative LC, PREP SFC, Preparative SFC, preparative chiral chromatography, preparative chiral columns, preparative chiral HPLC, preparative chromatographic process, preparative chromatographic purification peptides, preparative chromatography, preparative chromatography biomolecules, prep chromatography pharmaceutical discovery development, preparative chromatography scale up, preparative columns, preparative enantioselective chromatography, preparative ion exchange, preparative liquid chromatography, preparative applications, preparative enantioselective separations, preparative processes, preparative process chromatography, prep purification, preparative purification, preparative purification biomolecules, preparative purification peptides, preparative purification processes, preparative scale, preparative separation, preparative SFC, process chromatography media, process liquid chromatography, process scale chromatography, process scale protein purification, process scale separation, protein chromatography, protein separation, purification monoclonal antibodies, purification proteins, purification technology, reversed phase chromatographic purification, reversed phase gradient chromatography, reversed phase packing material, RP chromatography, RPLC, semi prep chromatography, semi preparative chromatography, separation and purification media, separation and purification peptide, separation and purification protein, separation enantiomers, separation polymers, separation science, separation viruses, SFC, SFC prep, simulated moving bed chromatography, small molecule HPLC separations, small scale prep, small scale purification, small scale separation, small scale separation columns, SMB, stationary phases, supercritical fluid chromatography, supercritical fluids prep HPLC" />
+<title>Preparative and Process Chromatography 2013</title>
+<style type="text/css">
+@import url(prep.css);
+.style4 {
+  font-size: 15px;
+  font-weight: bold;
+}
+.style6 {font-size: 16px; font-weight: bold; }
+.style7 {
+  color: #000000;
+  font-weight: bold;
+}
+.style8 {
+  font-size: 15px;
+  font-weight: bold;
+  color: #000000;
+  font-style: italic;
+}
+</style>
+</head>
+
+<body>
+
+<div id="wrapper">
+
+<!-- top -->
+<div id="top">
+<div id="searchspace"></div>
+<form action="http://www.google.com/search" method="get" style="margin-bottom: 0;">
+<table align="right" cellpadding="0" cellspacing="10px">
+<tr><td>
+<input type="text"   name="q" size="10"
+ maxlength="800" value="" />
+<input type="submit" value="Search" /></td></tr>
+<tr><td>
+  <p class="invisible">
+<input type="checkbox"  name="sitesearch"
+ value="prepsymposium.org" checked /> 
+      Search PREP2010<br />
+  </p></td></tr></table>
+</form>
+</div>
+
+<div id="mainnav">
+<div id="menu">
+  <ul style="margin-bottom: 0">
+      <li><a href="index.html">&nbsp;&nbsp;&nbsp;&nbsp;Home&nbsp;&nbsp;&nbsp;|</a></li>
+      <li><a href="abstract-papers.html">Submit Abstract&nbsp;&nbsp;&nbsp;|</a>
+        <ul>
+          <li><a href="abstract-papers.html">Call for Papers</a></li>
+          <li><a href="abstract-topics.html">Topics</a></li>
+          <li><a href="abstract-dates.html">Key Dates </a></li>
+        </ul>
+      </li>
+      <li><a href="program-format.html">Program&nbsp;&nbsp;&nbsp;|</a>
+        <ul>
+          <li><a href="program-format.html">Program Format</a></li>
+          <li><a href="program-attend.html">Who Should Attend</a></li>
+          <li><a href="program-dates.html">Key Dates</a></li>
+          <li><a href="abstract-papers.html">Submit Abstract</a></li>
+          <li><a href="program-science.html">Scientific Program</a></li>
+          <li><a href="program-lecture.html">Lecture Guidelines</a></li>
+          <li><a href="poster-guidelines.html">Poster Guidelines</a></li>
+        </ul>
+      </li>
+      <li><a href="poster-guidelines.html">Posters&nbsp;&nbsp;&nbsp;|</a>
+        <ul>
+          <li><a href="poster-guidelines.html">Poster Guidelines</a></li>
+          <li><a href="poster-dates.html">Key Dates</a></li>
+          <li><a href="abstract-papers.html">Submit Abstract</a></li>
+          <li><a href="poster-compete.html">Poster Competition </a></li>
+        </ul>
+      </li>
+      <li><a href="workshop-sunday.html">Workshops&nbsp;&nbsp;&nbsp;|</a>
+        <ul>
+          <li><a href="workshop-sunday.html">Sunday Workshops</a></li>
+          <li><a href="workshop-vendor.html">Free Vendor Workshops</a></li>
+          <li><a href="exposition-vendorapp.html">Vendor Workshop Application</a></li>
+        </ul>
+      </li>
+      <li><a href="exposition-exhibit.html">Exposition&nbsp;&nbsp;&nbsp;|</a>
+        <ul>
+<li><a href="exposition-exhibit.html">Exhibitors &amp; Sponsors</a></li>
+    <li><a href="exposition-boothapp.html">Booth Application</a></li>
+    <li><a href="exposition-vendorapp.html">Vendor Workshop Application</a></li>
+    <li><a href="exposition-kit.html">Exhibitor Service Kit </a></li>
+    <li><a href="exposition-hours.html">Exhibit Hours</a></li>
+    <li><a href="exposition-insurance.html">Insurance Waiver</a></li>
+        </ul>
+      </li>
+      <li><a href="committee-science.html">Committees&nbsp;&nbsp;&nbsp;|</a>
+        <ul>
+          <li><a href="committee-science.html">Scientific Advisory Committee</a></li>
+          <li><a href="committee-industrial.html">Industrial Advisory Committee</a></li>
+        </ul>
+      </li>
+      <li><a href="register.html">Registration&nbsp;&nbsp;&nbsp;|</a></li>
+      <li><a href="trip-venue.html">Plan Your Trip</a>
+        <ul>
+          <li><a href="trip-venue.html">Venue</a></li>
+          <li><a href="trip-hotel.html">Hotel</a></li>
+          <li> <a href="trip-directions.html">Travel and Directions</a></li>
+          <li> <a href="trip-day.html">Day Trips</a></li>
+        </ul>
+      </li>
+  </ul>
+</div>
+</div>
+
+<!-- side nav -->
+<table width="950" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td id="leftnav"><h2 class="date">July 20-23, 2014</h2>
+      <h3 class="venue"> The Westin Boston Waterfront<br />
+  Boston, MA, USA</h3>
+<ul id="subnav">
+  <li><a href="abstract-dates.html">KEY DATES</a></li>
+  <li><a href="abstract-papers.html">SUBMIT ABSTRACT</a></li>
+  <li><a href="register.html">REGISTER NOW</a></li>
+  <li><a href="exposition-exhibit.html">BOOTH APPLICATION</a></li>
+</ul>
+<!-- content --></td>
+    <td rowspan="2" id="content"><h1 class="home1" id="h1 home" style="margin-bottom: 0">PREP 2014—27th International Symposium on </h1>
+      <h1 class="home1" style="margin-top: 0; margin-bottom: 0;">Preparative and Process Chromatography</h1>
+      <h1 class="style7" style="margin-top: 0; margin-bottom: 0;">Save the Dates! </h1>
+      <p class="style6" style="margin-top: 0;">July 20-23, 2014 in Boston</p>
+      <p class="home2 style11 style13 style14" style="margin-bottom: 0;">Premier arena for the presentation and discussion of the latest developments in </p>
+      <p class="home2 style11 style13 style14" style="margin-top: 0; margin-bottom: 0;">Preparative Chromatography, Separation Science  and Technology</p>
+      <p class="home2 style11 style13" style="margin-top: 0;"><span class="home2 style11 style13 style14" style="margin-top: 0; margin-bottom: 0;">- Driving the Field of Preparative &amp; Process Chromatography</span> -</p>
+      <p>Join scientists and media manufacturers from around the world who will focus on presenting some of the most cutting-edge areas of preparative and process chromatography; and see how the latest products and technologies are driving the pace of innovation in scientific research. 
+  <span style="font-family:arial;font-size:13px;color:black;">The&nbsp;program will be packed again with  papers on biochromatography, QbD, monoclonal antibodies, VLPs, and other  biopharmaceuticals, chiral molecules, SFC, fine chemicals, SMB, APIs, monoliths  and new stationary phases, and more. 60+ oral presentations, 2-day Poster  Session, 2&frac12;-day Exhibit, and workshops. This is the most recognized  international meeting covering the latest developments in preparative and  process liquid chromatography, separation science and technology.</span> </p>
+<ul>
+  <li>Find current solutions to practical chromatographic separations.</li>
+  <li>Optimize chromatography processes for the best economic production.</li>
+  <li>Discuss current and future challenges and opportunities for manufactures as well as media and equipment suppliers.</li>
+  <li>Get close-up views of the latest products and technologies that are driving the pace of innovation in prep chromatography.</li>
+  <li>Interact with world leading scientists and engineers in all aspects of preparative and process liquid chromatography.    </li>
+  </ul>
+                                                                <p style="margin-bottom: 0;">&nbsp;</p>
+                                                                <p style="margin-top: 0;"><a href="http://www.pfizer.com" target="_blank"><img src="images/Pfizer_001.jpg" width="64" height="37" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.gene.com" target="_blank"><img src="images/Genentech_Logo_001.jpg" width="88" height="66" border="0" /></a>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <a href="http://www.medimmune.com" target="_blank"><img src="images/MedImmunelogo_001.gif" width="147" height="40" border="0" /></a>&nbsp;&nbsp;<a href="http://www.ampacfinechemicals.com/" target="_blank"><img src="AMPAC-Fine_Chemicals2.jpeg" width="125" height="33" border="0" /></a>&nbsp;&nbsp; &nbsp;        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.shire.com" target="_blank"><img src="images/shirelogo_blue_002.gif" width="67" height="18" border="0" /></a> &nbsp;</p>
+                                                                <p>&nbsp;<a href="http://www.amgen.com" target="_blank"><img src="images/AmgenLogo.jpg" width="70" height="16" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.gsk.com" target="_blank"><img src="images/glaxosmithkline-logo_002.jpg" width="126" height="41" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.agilent.com" target="_blank"><img src="images/Agilent-logo_000.jpg" width="190" height="35" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="http://www.ymcamerica.com" target="_blank"><img src="images/YMClogo_006.gif" width="60" height="38" border="0" /></a>&nbsp;&nbsp; </p>
+                                                                <p>&nbsp; <a href="http://bioprocessingjournal.com/" target="_blank"><img src="images/1-MediaLogo-BPJ-green-horiz-MASTER-PNG.jpg" width="113" height="30" border="0" /></a>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="http://www.chromatographyonline.com/" target="_blank"><img src="images/1-MediaLogo-LCGC_NA_web.jpg" width="61" height="40" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.benthamscience.org" target="_blank"><img src="images/Bentham_000.jpg" width="217" height="27" border="0" /></a></p>
+                                                                <p style="margin-bottom: 0;">&nbsp;</p>
+                                                                <p style="text-align:justify; margin-top: 0; margin-bottom: 0;"><span style="font-family:times new roman;font-size:16px;"><strong><em><span style="font-family:arial;color:#BC0000;">Preliminary List of Keynote  Sessions</span></em></strong><strong><em><span style="font-family:arial;font-size:13px;color:#BC0000;"> </span></em></strong></span></p>
+                                <p style="margin-top:0;margin-bottom:0;"><span style="font-family:times new roman;font-size:16px;"><span style="font-family:arial;font-size:12px;">In  addition to general oral and poster sessions, PREP 2014 will feature keynote  sessions addressing critical and emerging areas in preparative chromatography.  The following keynote sessions are planned:</span></span></p>
+                                <p style="text-align:justify;margin-top:0;margin-bottom:0;"><span style="font-family:times new roman;font-size:16px;"><strong><span style="font-family:arial;font-size:12px;color:blue;">Industrial Case Studies in Protein  Chromatography</span></strong></span></p>
+                                <p style="text-align:justify;margin-top:0;margin-bottom:0;"><span style="font-family:times new roman;font-size:16px;"><span style="font-family:arial;font-size:11px;">Organizer: Giorgio  Carta, University of Virginia</span></span></p>
+                                <p style="text-align:justify;margin-top:0;margin-bottom:0;"><span style="font-family:times new roman;font-size:16px;"><strong><span style="font-family:arial;font-size:12px;color:blue;">Continuous Chromatography for  Intermediates and APIs<a name="_GoBack" id="_GoBack"></a></span></strong></span></p>
+                                <p style="text-align:justify;margin-top:0;margin-bottom:0;"><span style="font-family:times new roman;font-size:16px;"><span style="font-family:arial;font-size:11px;">Organizer: Olivier Dapremont,  Ampac Fine Chemicals</span></span></p>
+                                <p style="text-align:justify;margin-top:0;margin-bottom:0;"><span style="font-family:times new roman;font-size:16px;"><strong><span style="font-family:arial;font-size:12px;color:blue;">Continuous Downstream Processing  for Biopharmaceuticals</span></strong></span></p>
+                                <p style="text-align:justify;margin-top:0;margin-bottom:0;"><span style="font-family:times new roman;font-size:16px;"><span style="font-family:arial;font-size:11px;">Organizer: Alois  Jungbauer, BOKU, Vienna</span></span></p>
+                                <p style="text-align:justify;margin-top:0;margin-bottom:0;"><span style="font-family:times new roman;font-size:16px;"><strong><span style="font-family:arial;font-size:12px;color:blue;">Increased Productivity and Reduced  Costs of Small Scale Purifications</span></strong></span></p>
+                                <p style="text-align:justify;margin-top:0;margin-bottom:0;"><span style="font-family:times new roman;font-size:16px;"><span style="font-family:arial;font-size:11px;">Organizer: Larry  Miller, Amgen</span></span></p>
+                                <p style="text-align:justify;margin-top:0;margin-bottom:0;"><span style="font-family:times new roman;font-size:16px;"><strong><span style="font-family:arial;font-size:12px;color:blue;">Process Scale Purification of Peptides and  Oligonucleotides</span></strong></span></p>
+                                <p style="text-align:justify;margin-top:0;margin-bottom:0;"><span style="font-family:times new roman;font-size:16px;"><span style="font-family:arial;font-size:11px;">Organizers: Olivier  Dapremont, Ampac Fine Chemicals, and Tividar Farkas, Phenomenex</span></span></p>
+                                <p style="text-align:justify;margin-top:0;margin-bottom:0;"><span style="font-family:times new roman;font-size:16px;"><strong><span style="font-family:arial;font-size:12px;color:blue;">Preparative Supercritical Fluid  Chromatography</span></strong></span></p>
+                                <p style="text-align:justify; margin-top:0;"><span style="font-family:times new roman;font-size:16px;"><span style="font-family:arial;font-size:11px;">Organizer: Georges  Guiochon, University of Tennessee</span></span></p>
+        <h5 class="style8" style="margin-bottom: 0;">Click below to see the  News About PREP 2014</h5>
+<h5 style="margin-top: 0;"><a href="documents/PREP2014Announcement3-2014-01_JanuaryUpdate.pdf" target="_blank">PREP 2014 January'14 Announcement </a></h5>
+<h5 style="margin-bottom: 0;"><a href="documents/PREP2014Announcement2-2013-12.pdf" target="_blank">PREP 2014 December'13 Announcement </a></h5>
+<h5 style="margin-top: 0;"><a href="documents/Announcement1-JulyPREP2013reportand2014announcement.pdf"><a href="documents/Announcement1-JulyPREP2013reportand2014announcement.pdf">PREP 2014 July'13 Announcement </a></a></h5>
+<h5 style="margin-bottom: 0;">&nbsp;</h5>
+<h5 class="style4" style="margin-top: 0; margin-bottom: 0;">Click below to see the  News About PREP 2013</h5>
+<h5 style="margin-top: 0; margin-bottom: 0;"><a href="documents/PREP2013_Meeting_Report_July14-172013inBoston.pdf">PREP 2013 Meeting Report</a></h5>
+<h5 style="margin-top: 0;"><span style="font-family:Times New Roman;color:rgb(0, 0, 0);"><span style="font-family:arial;"><a href="documents/0-FINALPROGRAMPOSTEDONLINEPREP.pdf">PREP 2013 Click here to see the <strong><em>2013</em></strong> Final Scientific Program</a></span></span></h5>
+<p style="margin-bottom: 0;">&nbsp;</p>
+<h5 class="style4" style="margin-top: 0; margin-bottom: 0;">Click below to see the  News About PREP 2012</h5>
+<h5 style="margin-top: 0; margin-bottom: 0;"><span style="font-family:Times New Roman;color:rgb(0, 0, 0);"><span style="font-family:arial;"><a href="documents/POSTONLINE-PREP2012_Meeting_Report.pdf" target="_blank">PREP 2012 Meeting Report</a></span></span></h5>
+<h5 style="margin-top: 0;"><span style="font-family:Times New Roman;color:rgb(0, 0, 0);"><span style="font-family:arial;"><a href="documents/Finalprogram.pdf" target="_blank">PREP 2012 Click here to see the <strong><em>2012</em></strong> Final Scientific Program</a></span></span></h5>
+<p>&nbsp;</p>
+<h5 class="style4" style="margin-bottom: 0;">Click below to see the  News About PREP 2011</h5>
+<h5 style="margin-top: 0; margin-bottom: 0;"><span style="font-family:Times New Roman;color:rgb(0, 0, 0);"><span style="font-family:arial;"><a href="http://onlinelibrary.wiley.com/doi/10.1002/biot.201100375/pdf" target="_blank">PREP 2011 Meeting Report</a></span></span></h5>
+<h5 style="margin-top: 0;"><span style="font-family:Times New Roman;color:rgb(0, 0, 0);"><span style="font-family:arial;"><a href="documents/FinalProgrampostedonwebsite7-12-2011_001.pdf">PREP 2011 Click here to see the <strong><em>2011</em></strong> Final Scientific Program</a></span></span></h5>
+                                <p>&nbsp;</p>
+<p style="margin-bottom: 0;">&nbsp;</p>
+<p style="margin-top: 0;"><em>International travelers who are seeking to travel to the United States under   the Visa Waiver Program are now subject to enhanced security requirements. All   eligible travelers who wish to travel under the Visa Waiver Program must apply   for authorization. Go to the Electronic System for Travel Authorization Web Site   at <a href="https://esta.cbp.dhs.gov/"><span style="color:black;">https://esta.cbp.dhs.gov/</span></a>. In addition, please   be aware that certain travel documents must contain a &ldquo;biometric identifier&rdquo; in   order to gain entry into the United States. &nbsp; </em></p>
+<p><span style="color:black;"><em>When applying for a visa, the United States   Consulate will require a letter of invitation from PREP 2014. Therefore, we   kindly ask that you email your request for us to send you the official letter of   invitation with the text that the letter should contain. The official letter of   invitation should be requested several months in advance of the meeting, as it   may take up to 6 months to get the visa processed. If you intend to submit an   abstract to the meeting, we encourage you to submit the abstract prior to   requesting the official letter of invitation.</em></span> </p>
+<p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td id="leftnavbottom"><p id="contact"><b>CONTACT<br />
+      </b>PREP Symposium/Exhibit Manager<br />
+      Ms. Janet Cunningham<br />
+      Barr Enterprises<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.linkedin.com/in/BarrEnterprises">www.LinkedIn.com/in/BarrEnterprises</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 301-668-6001<br />
+      <a href="mailto:janetbarr@aol.com?subject=PREP2010"> janetbarr@aol.com</a></p></td>
+  </tr>
+</table>
+<div id="bottom">
+  <p class="footer" style="margin-bottom: 0"> <a href="http://www.PREPsymposium.org">www.PREPsymposium.org</a>&nbsp;&nbsp;&nbsp;<img src="images/yel.gif" width="5" height="5" />&nbsp;&nbsp;&nbsp;&copy;2009-2014 Chromatography, Inc. All rights reserved.</p>
+</div>
+
+<!-- close div wrapper -->
+</div>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.psrc.usm.edu/waterborne/>====================
+<!doctype html>
+
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/Thing" lang="en-US">
+
+  <head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    
+
+    <!--INCLUDE SQS SCRIPTS, META TAGS AND USER CONTENT FROM THE CODE INJECTION TAB-->
+
+    <!-- This is Squarespace. --><!-- austin-maples-3g98 -->
+<base href="">
+<meta charset="utf-8" />
+<title>The Waterborne Symposium</title>
+<link rel="canonical" href="http://www.waterbornesymposium.com/"/>
+<meta property="og:site_name" content="The Waterborne Symposium"/>
+<meta property="og:title" content="Home"/>
+<meta itemprop="name" content="Home"/>
+<meta property="og:url" content="http://www.waterbornesymposium.com/"/>
+<meta itemprop="url" content="http://www.waterbornesymposium.com/"/>
+<meta property="og:type" content="article"/>
+<script type="text/javascript" src="//static.squarespace.com/universal/scripts-compressed/common-2c5d90d7e455b24503ec21b4f62f8f92-min.js"></script><script type="text/javascript" src="//static.squarespace.com/universal/scripts-compressed/commerce-96ec59493e36f816b740ec792a7aebc3-min.js"></script><link rel="stylesheet" type="text/css" href="//static.squarespace.com/universal/styles-compressed/commerce-231867cc190f01cba84d6bf495e641b1-min.css"/><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
+
+<script> Static.SQUARESPACE_CONTEXT = {"appDomain":"squarespace.com","collection":{"title":"Home","id":"524dd68ee4b02348049a76c2","fullUrl":"/"},"demoCollections":[{"collectionId":"507c1fdb84ae362b5e7be354","deleted":true},{"collectionId":"507c1fdb84ae362b5e7be35b","deleted":true},{"collectionId":"509d5052e4b081ffff71146e","deleted":true},{"collectionId":"5111831ee4b0abbcce9d57ba","deleted":true},{"collectionId":"5108629ae4b07f23a8724c5e","deleted":true},{"collectionId":"521e3103e4b0669c1ae134b2","deleted":true}],"isSystemPage":false,"rollups":{"squarespace-audio-player":{"css":"//static.squarespace.com/universal/styles-compressed/audio-player-955971ba06dc1c0d7e4bd4f5b5f9efec-min.css","js":"//static.squarespace.com/universal/scripts-compressed/audio-player-e550dd5875f361c014f37955405bef0e-min.js"},"squarespace-calendar-block-renderer":{"css":"//static.squarespace.com/universal/styles-compressed/calendar-block-renderer-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/calendar-block-renderer-1c51108c502ca9523ad71418ec9e399c-min.js"},"squarespace-comments":{"css":"//static.squarespace.com/universal/styles-compressed/comments-5cab455651ae8223da5bc7863bc995ca-min.css","js":"//static.squarespace.com/universal/scripts-compressed/comments-4edf406e75b85ccd6b4232d7d5398916-min.js"},"squarespace-dialog":{"css":"//static.squarespace.com/universal/styles-compressed/dialog-e7fd326d7328f7b9190552b08eea1ee7-min.css","js":"//static.squarespace.com/universal/scripts-compressed/dialog-bb47de322ad4bfde10876b310dc2cb33-min.js"}},"secureDomain":"https://austin-maples-3g98.squarespace.com","subscribed":false,"templateId":"507c1fdf84ae362b5e7be44e","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","bg-image":"{background-image:url(\"http://static.squarespace.com/static/522f6315e4b088d34dba5881/t/524dd7a3e4b0428bb1c3af49/1380833187372/Edelman_110302-0042-2.jpg\");background-position:top left;background-size:cover;background-attachment:fixed;background-repeat:no-repeat}","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","product-gallery-auto-crop":"true","product-image-auto-crop":"true"},"website":{"id":"522f6315e4b088d34dba5881","identifier":"austin-maples-3g98","contentModifiedOn":1392048467653,"cloneable":false,"siteStatus":{},"language":"en-US","timeZone":"US/Central","machineTimeZoneOffset":-21600000,"timeZoneOffset":-21600000,"timeZoneAbbr":"CST","siteTitle":"The Waterborne Symposium","siteTagLine":"Environmentally Friendly Coating Technologies","siteDescription":"<p><strong><a href=\"/meet-our-students\">Curious about how your registration dollars are used?&nbsp;</a> </strong>&nbsp;</p><p><em><strong>Today&rsquo;s students are tomorrow&rsquo;s industry leaders!</strong></em></p>","location":{"mapZoom":12.0,"mapLat":29.95106579999999,"mapLng":-90.0715323,"markerLat":29.95106579999999,"markerLng":-90.0715323,"addressTitle":"Univserity of Southern Mississippi","addressLine1":"Conference Location: New Orleans Sheraton","addressLine2":"Louisiana | February 24 - 28, 2014 ","addressCountry":""},"shareButtonOptions":{"3":true,"4":true,"2":true,"6":true,"7":true,"1":true,"8":true,"5":true},"authenticUrl":"http://www.waterbornesymposium.com","baseUrl":"http://www.waterbornesymposium.com","primaryDomain":"www.waterbornesymposium.com","socialAccounts":[{"serviceId":4,"userId":"156028779","userName":"WaterborneTRRG","screenname":"Waterborne Symposium","addedOn":1380226285122,"profileUrl":"https://twitter.com/WaterborneTRRG","iconUrl":"http://a0.twimg.com/profile_images/1290621596/waterdropsmall_normal.JPG","collectionId":"524494ede4b0266491c314e0","iconEnabled":true,"serviceName":"twitter"},{"serviceId":14,"userId":"n9XS7GMm-v","userName":"waterbornesymposium","screenname":"The Waterborne Symposium","addedOn":1380226727028,"profileUrl":"http://www.linkedin.com/in/waterbornesymposium","iconUrl":"http://m.c.lnkd.licdn.com/mpr/mprx/0_sMe3tiPwcAe7h5hAsO4Yt8L5zKg826TA4YyYt8NJoPWK1Cnl9xZDphhcR4jx738jUsE0gFo3Hx0n","iconEnabled":true,"serviceName":"linkedin"},{"serviceId":2,"userId":"100001121666596","userName":"Waterborne.Symposium","screenname":"Waterborne Melanie Heusser","addedOn":1380229382859,"profileUrl":"http://www.facebook.com/100001121666596","iconUrl":"http://graph.facebook.com/100001121666596/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"}],"statsMigrated":false,"imageMetadataProcessingEnabled":false},"websiteCloneable":false,"websiteSettings":{"id":"522f6315e4b088d34dba5882","websiteId":"522f6315e4b088d34dba5881","type":"Business","subject":"Non-Profit","country":"US","state":"MS","markdownMode":false,"simpleLikingEnabled":true,"lastAgreedTermsOfService":2,"defaultPostFormat":"%y/%m/%d/%t","commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","homepageTitleFormat":"%s","collectionTitleFormat":"%c \u2014 %s","itemTitleFormat":"%i \u2014 %s","commentsEnabled":true,"contactPhoneNumber":"601-266-4475","contactEmail":"waterborne@usm.edu","allowSquarespacePromotion":true,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"useLightCart":false,"showNoteField":false,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"isLive":false,"stripeConnected":false,"storeState":3},"useEscapeKeyToLogin":true,"configurationMenuItems":[{},{},{},{},{},{},{}],"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1}}; SquarespaceFonts.loadViaContext(); Squarespace.load(); </script>
+
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Playfair+Display:400italic|Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic|Voltaire:400"/>
+<!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/522f6315e4b088d34dba5881/69/507c1fdf84ae362b5e7be44e/524dd1fae4b088674ffde997/2009/1391447809821/site.css?"/><![endif]-->
+<!--[if lt IE 9]><script src="//static.squarespace.com/universal/scripts-thirdparty/html5/html5-shiv.js"></script><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/522f6315e4b088d34dba5881/69/507c1fdf84ae362b5e7be44e/524dd1fae4b088674ffde997/2009/1391447809821/site.css?&noMedia=true"/><![endif]-->
+<!--[if !IE]> --> <link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/522f6315e4b088d34dba5881/69/507c1fdf84ae362b5e7be44e/524dd1fae4b088674ffde997/2009/1391447809821/site.css?"/> <!-- <![endif]-->
+<script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-18035475-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script><!-- End of Squarespace Headers -->
+
+    <script type="text/javascript" src="https://static.squarespace.com/static/ta/507c1fdb84ae362b5e7be351/2009/scripts/combo/?site.js"></script>
+  </head>
+
+  <body id="collection-524dd68ee4b02348049a76c2" class="collection-type-template-page homepage view-list mobile-style-available collection-524dd68ee4b02348049a76c2 collection-layout-default info-page-layout-offset  info-page-content-overlay     tagline-and-contact-info-show-all site-border-none social-icon-style-round   gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing   event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-excerpts event-list-date event-list-time event-list-address event-icalgcal-links      opentable-style-light newsletter-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square button-style-default button-corner-style-square native-currency-code-usd">
+
+    <div id="outerWrapper">
+
+    <div id="bgOverlay">
+      
+    </div>
+    
+      <!--HEADER-->
+
+      <header id="header">
+
+        <!--MAIN NAVIGATION-->
+        
+<!--MOBILE-->
+
+<nav id="mobile-navigation">
+  <span id="mobile-navigation-label"></span>
+  <ul>
+    
+      
+
+            
+              <li class=" active-link"><a href="/">Home</a></li>
+            
+
+            
+
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a>Registration</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/online-registration/">
+                          Online Registration
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/prices/">
+                          Pricing
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a>Symposium</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/symposium/">
+                          Plenary and Opening Speakers
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/symposium-schedule/">
+                          Symposium Schedule
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/symposium-1/">
+                          General Session Speakers and Abstracts
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/symposium-1-2-1/">
+                          Waterborne/Powder Coatings Speaker List
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/symposium-1-2/">
+                          Pigments/Additives Speaker List
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/student-poster-abstracts/">
+                          Student Poster Abstracts
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/automotive-panel-session/">
+                          Automotive Panel Session
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a>Short Courses</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/intoduction-to-coatings-formulation/">
+                          Introduction to Coatings Formulation
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/reformulating-to-waterborne-coatings/">
+                          Reformulating to Waterborne Coatings
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a>Sponsorships</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/sponsorship/">
+                          Sponsorship
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/press-sponsors/">
+                          Press Sponsors
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a>Technology Showcase</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/floorplan/">
+                          Floorplan
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/technology-showcase-pricing/">
+                          Technology Showcase Pricing
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/registration-form/">
+                          Registration Form
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/our-exhibitors/">
+                          Our Exhibitors
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/ts-schedule/">
+                          Trade Show Schedule
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+
+            
+              <li class=""><a href="/meet-our-students/">Meet Our Students</a></li>
+            
+
+            
+
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a>Papers</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/testimonials/">
+                          Dates and Deadlines
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/forms-and-instructions-for-authors/">
+                          Forms and Instructions for Authors
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a>Hotel Reservations</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/hotel/">
+                          Hotel
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a>Travel Information</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/car-and-airline-specials/">
+                          Car and Airline Specials
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/things-to-do-in-new-orleans/">
+                          Things to do in New Orleans
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/weather/">
+                          Weather
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/transportation-to-hotel/">
+                          Transportation / Parking
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+
+            
+              <li class=""><a href="/proceedings-books/">Proceedings Books</a></li>
+            
+
+            
+
+          
+        
+    
+      
+
+            
+              <li class=""><a href="/photo-gallery/">Photo Gallery</a></li>
+            
+
+            
+
+          
+        
+    
+      
+
+            
+              <li class=""><a href="/contact-us/">Contact Us</a></li>
+            
+
+            
+
+          
+        
+    
+  </ul>
+</nav>
+
+        
+<nav id="main-navigation">
+  <ul class="cf">
+    
+      
+
+            
+              <li class=" active-link"><a href="/">Home</a></li>
+            
+
+            
+
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a aria-haspopup="true">Registration</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/online-registration/">
+                          Online Registration
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/prices/">
+                          Pricing
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a aria-haspopup="true">Symposium</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/symposium/">
+                          Plenary and Opening Speakers
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/symposium-schedule/">
+                          Symposium Schedule
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/symposium-1/">
+                          General Session Speakers and Abstracts
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/symposium-1-2-1/">
+                          Waterborne/Powder Coatings Speaker List
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/symposium-1-2/">
+                          Pigments/Additives Speaker List
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/student-poster-abstracts/">
+                          Student Poster Abstracts
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/automotive-panel-session/">
+                          Automotive Panel Session
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a aria-haspopup="true">Short Courses</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/intoduction-to-coatings-formulation/">
+                          Introduction to Coatings Formulation
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/reformulating-to-waterborne-coatings/">
+                          Reformulating to Waterborne Coatings
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a aria-haspopup="true">Sponsorships</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/sponsorship/">
+                          Sponsorship
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/press-sponsors/">
+                          Press Sponsors
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a aria-haspopup="true">Technology Showcase</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/floorplan/">
+                          Floorplan
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/technology-showcase-pricing/">
+                          Technology Showcase Pricing
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/registration-form/">
+                          Registration Form
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/our-exhibitors/">
+                          Our Exhibitors
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/ts-schedule/">
+                          Trade Show Schedule
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+
+            
+              <li class=""><a href="/meet-our-students/">Meet Our Students</a></li>
+            
+
+            
+
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a aria-haspopup="true">Papers</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/testimonials/">
+                          Dates and Deadlines
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/forms-and-instructions-for-authors/">
+                          Forms and Instructions for Authors
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a aria-haspopup="true">Hotel Reservations</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/hotel/">
+                          Hotel
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a aria-haspopup="true">Travel Information</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/car-and-airline-specials/">
+                          Car and Airline Specials
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/things-to-do-in-new-orleans/">
+                          Things to do in New Orleans
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/weather/">
+                          Weather
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/transportation-to-hotel/">
+                          Transportation / Parking
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+
+            
+              <li class=""><a href="/proceedings-books/">Proceedings Books</a></li>
+            
+
+            
+
+          
+        
+    
+      
+
+            
+              <li class=""><a href="/photo-gallery/">Photo Gallery</a></li>
+            
+
+            
+
+          
+        
+    
+      
+
+            
+              <li class=""><a href="/contact-us/">Contact Us</a></li>
+            
+
+            
+
+          
+        
+    
+  </ul>
+</nav>
+
+        
+          
+            <nav class="social">
+              <ul>
+                <li><a href="https://twitter.com/WaterborneTRRG" target="_blank" class="social-twitter"></a></li><li><a href="http://www.linkedin.com/in/waterbornesymposium" target="_blank" class="social-linkedin"></a></li><li><a href="http://www.facebook.com/100001121666596" target="_blank" class="social-facebook"></a></li>
+              </ul>
+            </nav>
+          
+        
+
+      </header>
+
+      <!--SITE TITLE OR LOGO-->
+      <div id="innerWrapper">
+        <div id="title-area" data-content-field="site-title">
+
+        
+          <h1 class="site-title">
+            <a href="/">
+              
+              
+                The Waterborne Symposium
+              
+              
+            </a>
+          </h1>
+        
+          <p class="site-tagline">Environmentally Friendly Coating Technologies</p>
+        
+          
+          <!--SITE contact info-->
+          <div class="contact-info">
+            
+              
+                
+                <p class="site-location">
+                  <a href="//maps.google.com/maps?q=Conference Location: New Orleans Sheraton,Louisiana | February 24 - 28, 2014 "><span>Conference Location: New Orleans Sheraton</span>
+                  <span>Louisiana | February 24 - 28, 2014 </span>
+                  </a>
+                </p>
+                
+              
+            
+            
+              <p class="phone">601-266-4475</p>
+              <p class="email"><a href="mailto:waterborne@usm.edu">waterborne@usm.edu</a></p>
+            
+          </div>
+          
+            <div class="site-desc"><p><strong><a href="/meet-our-students">Curious about how your registration dollars are used?&nbsp;</a> </strong>&nbsp;</p><p><em><strong>Today&rsquo;s students are tomorrow&rsquo;s industry leaders!</strong></em></p></div>
+          
+        </div>
+
+      
+      <!--CONTENT INJECTION POINT-->
+        <section id="content">
+          <div class="main-content-wrapper cf"> 
+            <!-- CATEGORY NAV -->
+            
+            
+            
+            <!-- blank -->
+          </div>
+        </section>
+        
+        <div id="homeBlockField">
+          <div class="sqs-layout sqs-grid-12 columns-12 empty" data-type="block-field" id="homeBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+        </div>
+        
+        <!--FOOTER WITH OPEN BLOCK FIELD-->
+
+        <footer id="footer">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="block-field" data-updated-on="1383682733931" id="footerBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-4ee4f3c086ad6d4db0e6"><div class="sqs-block-content"><p>Copyright Â© 2013| The Waterborne Symposium | <strong><a href="mailto:waterborne@usm.edu">waterborne@usm.edu</a></strong> | <a href="/site-map">Site Map </a>| <a href="/contact-us">Contact Us</a> | <a href="tel:1-601-266-4475">601-266-4475</a> | Fax: 601-266-6265 | <a href="/about-us">About Us</a>&nbsp;| <a href="/privacy-policy">Privacy Policy</a>&nbsp;|&nbsp;<span style="letter-spacing: 0px; line-height: 1.4em;">AA/EOE/ADAI</span></p></div></div></div></div></div>
+        </footer>
+
+    <!--INJECTION POINT FOR TRACKING SCRIPTS AND USER CONTENT FROM THE CODE INJECTION TAB-->
+
+    <script>(function() {var SQUARESPACE_SIZES=[1500,1E3,750,500,300,100],IMAGE_LOADING_CLASS="loading",ImageLoader=new function(){this.load=function(a,b){function c(a,b,c){var d=new Image;d.onload=b;d.onerror=c;d.src=a}a.getDOMNode&&(a=a.getDOMNode());var d=this._getDataFromNode(a,b),e=!(!d.dimensions||!d.dimensions.width||!d.dimensions.height),l=d.load+"";if("false"===l)return!1;var g=d.mode;if(e&&("fit"==g||"fill"==g)){g=a.parentNode;if(!g)return console.error("Not doing anything, parentNode not found."),!1;if(!this.refresh(a,
+b,g))return!1}var n=this._intendToLoad(a,d);if("string"==typeof n&&"viewport"!==l){var m=this.getUrl(n,d),d=a.getAttribute("data-image-resolution");a.getAttribute("src")!==m&&this.isValidResolution(n,d)&&(a.onload=function(){a.className=a.className.replace(IMAGE_LOADING_CLASS," ").trim();a.setAttribute("data-image-resolution",n)},!a.getAttribute("src")&&-1===a.className.indexOf(IMAGE_LOADING_CLASS)&&(a.className+=(a.className?" ":"")+IMAGE_LOADING_CLASS),!a.getAttribute("src")&&e?a.setAttribute("src",
+m):c(m,function(){e?a.setAttribute("src",m):(a.setAttribute("data-image-dimensions",this.width+"x"+this.height),ImageLoader.load(a,b))},function(){a.className=a.className.replace(IMAGE_LOADING_CLASS," ").trim();a.setAttribute("src",m)}));return!0}return n};this.refresh=function(a,b,c){a.getDOMNode&&(a=a.getDOMNode());c&&c.getDOMNode&&(c=c.getDOMNode());c=c||a.parentNode;if(!c)return console.error("Not doing anything, parentNode not found."),!1;var d=this._getDataFromNode(a,b),e=c.offsetWidth,l=c.offsetHeight;
+b=d.mode;if("none"!=b){var g=d.dimensions.width,n=d.dimensions.height,m=g/n,q=e/l;if(d.fixedRatio)"fill"==b&&q>m||"fit"==b&&q<m?(h=100,k=100*(q/m),r=(100-k)*d.focalPoint.y,p=0):(h=100*(m/q),k=100,r=0,p=(100-h)*d.focalPoint.x),a.style.top=r+"%",a.style.left=p+"%",a.style.width=h+"%",a.style.height=k+"%";else{var f;"fill"===b?f=m>q?l/n:e/g:"fit"===b&&(f=m<q?l/n:e/g);!d.stretch&&("fit"==b&&1<f)&&(f=1);var h=Math.ceil(g*f),k=Math.ceil(n*f);if(0===h||0===k)return!1;var p,r;"fill"===b?(p=Math.min(Math.max(e/
+2-h*d.focalPoint.x,e-h),0),r=Math.min(Math.max(l/2-k*d.focalPoint.y,l-k),0)):"fit"===b&&(f=d.fitAlignment,p=f.left?0:f.right?e-h:h<e?(e-h)/2:0,r=f.top?0:f.bottom?l-k:k<l?(l-k)/2:0,"inline"==this._getStyle(a,"display")&&(a.style.fontSize="0px"),this._resetAlt(a,function(){h-=a.offsetHeight-a.clientHeight;k-=a.offsetWidth-a.clientWidth}));a.style.top=Math.ceil(r)+"px";a.style.left=Math.ceil(p)+"px";a.style.width=Math.ceil(h)+"px";a.style.height=Math.ceil(k)+"px"}p=this._getStyle(c,"position");a.style.position=
+"relative"==p?"absolute":"relative";if("fill"==b&&(b=this._getStyle(c,"overflow"),!b||"hidden"!=b))c.style.overflow="hidden";return!0}};this._intendToLoad=function(a,b){function c(c,d){"none"===b.mode&&(a.style.width=null,a.style.height=null);var e=parseFloat(a.getAttribute(c)),f=parseFloat(e);if(!f||isNaN(f))e=g._getStyle(a,c),f=parseFloat(e);if(!f||isNaN(f))e=g._getStyle(a,"max-"+c,"max"+(c.substr(0,1).toUpperCase()+c.substr(1))),f=parseFloat(e);if(0===d||e)switch(g._stringType(e)){case "percentage":d=
+parseInt(e,10)/100*l["offset"+c.substr(0,1).toUpperCase()+c.substr(1)];break;case "number":d=parseInt(e,10)}!f&&(0!==d&&!a.getAttribute("src"))&&(d=0);return d}b=b||this._getDataFromNode(a);if(!b.source)return!1;var d=a.offsetWidth,e=a.offsetHeight,l=a.parentNode,g=this;this._resetAlt(a,function(){d=c("width",d);e=c("height",e)});0===d&&0===e?(d=b.dimensions.width,e=b.dimensions.height):0===d?d=this.getDimensionForValue("width",e,b):0===e&&(e=this.getDimensionForValue("height",d,b));"viewport"===
+b.load&&(a.style.width=Math.floor(d)+"px",a.style.height=Math.floor(e)+"px");return this.getSquarespaceSize(d,e,b)};this._getDataFromNode=function(a,b){b=b||{};var c={focalPoint:{x:0.5,y:0.5},dimensions:{width:null,height:null},mode:"none",fitAlignment:{center:!0},load:"true",stretch:!0,fixedRatio:!1};if(b.focalPoint)c.focalPoint=b.focalPoint;else{var d=a.getAttribute("data-image-focal-point");if(d&&(d=d.split(","))&&2==d.length)c.focalPoint={x:parseFloat(d[0]),y:parseFloat(d[1])}}if(b.dimensions)c.dimensions=
+b.dimensions;else if((d=a.getAttribute("data-image-dimensions"))&&(d=d.split("x"))&&2==d.length)c.dimensions={width:parseInt(d[0],10),height:parseInt(d[1],10)};b.mode?c.mode=b.mode:(d=a.parentNode.className,-1!==d.indexOf("content-fill")?c.mode="fill":-1!==d.indexOf("content-fit")&&(c.mode="fit"));if("fit"===c.mode&&(d=b.fitAlignment||a.getAttribute("data-alignment")||a.parentNode.getAttribute("data-alignment")))c.fitAlignment={top:-1!==d.indexOf("top"),left:-1!==d.indexOf("left"),center:-1!==d.indexOf("center"),
+right:-1!==d.indexOf("right"),bottom:-1!==d.indexOf("bottom")};if(b.load)c.load=b.load;else if(d=a.getAttribute("data-load"))c.load=d;if("undefined"!==typeof b.stretch)c.stretch=b.stretch;else if(d=a.getAttribute("data-image-stretch"))c.stretch="true"===d?!0:!1;c.source=b.source?b.source:a.getAttribute("data-src");if(c.source&&(-1!==c.source.indexOf("squarespace.com")||-1!==c.source.indexOf("squarespace.net"))&&"http:"===c.source.substr(0,5)&&"https"===window.location.protocol.substr(0,5))c.source=
+c.source.replace("http://","https://");if(b.fixedRatio)c.fixedRatio=b.fixedRatio;else if(d=a.getAttribute("data-fixed-ratio"))c.fixedRatio="true"==d;return c};this._stringType=function(a){return"string"===typeof a&&-1!==a.indexOf("%")?"percentage":isNaN(parseInt(a,10))?NaN:"number"};this._getStyle=function(a,b,c){var d;a.currentStyle?d=a.currentStyle[c||b]:window.getComputedStyle&&(d=document.defaultView.getComputedStyle(a,null).getPropertyValue(b));return d};this._isVisible=function(a){a=a.getBoundingClientRect();
+return 0<=a.left&&0<=a.top||0<=a.bottom&&0<=a.right||0<=a.left&&0<=a.bottom||0<=a.right&&0<=a.top};this.getSquarespaceSize=function(a,b,c){a=Math.max(b/(c.dimensions.height/c.dimensions.width),a);"number"==typeof window.devicePixelRatio&&(a*=window.devicePixelRatio);for(b=1;b<SQUARESPACE_SIZES.length&&!(a>SQUARESPACE_SIZES[b]);b++);return SQUARESPACE_SIZES[b-1]+"w"};this.getDimensionForValue=function(a,b,c){var d=c.dimensions.width;c=c.dimensions.height;return"width"==a?d/c*b:"height"==a?c/d*b:NaN};
+this.getUrl=function(a,b){var c=b.source;return a&&("/"==c[0]||-1!=c.indexOf("squarespace.com")||-1!=c.indexOf("squarespace.net"))?(-1===c.indexOf("format="+a)&&(c=c+(-1!==c.indexOf("?")?"&":"?")+"format="+a),window.Static&&(window.Static.IN_BACKEND&&-1===c.indexOf("storage=local"))&&(c+="&storage=local"),c):b.source};this.isValidResolution=function(a,b){a=parseInt(a,10);b=parseInt(b,10);return isNaN(a)||isNaN(b)?!0:a>b};this._resetAlt=function(a,b){var c=a.getAttribute("alt"),d=c&&0<c.length&&!a.getAttribute("src");
+if(d){var e=a.style.display;a.removeAttribute("alt");a.style.display="none";a.offsetHeight+0;a.style.display=e}b.call(this);d&&a.setAttribute("alt",c)}};window.ImageLoader=ImageLoader;var siteCSSHandle,loopHandle,imagesTimer=50;function ancestorHasClass(a,b){return"undefined"!==typeof a.className&&-1!==a.className.indexOf(b)?!0:a.parentNode?ancestorHasClass(a.parentNode,b):!1}
+var hasAttr=function(a,b){return a.hasAttribute?a.hasAttribute(b):!!a.attributes[b]},getAttr=function(a,b){return a.getAttribute?a.getAttribute(b):a.attributes[b]};function init(){var a=document.images;if(0<a.length)for(var b=0,c=a.length;b<c;b++)(hasAttr(a[b],"data-image")||hasAttr(a[b],"data-src"))&&"false"!==getAttr(a[b],"data-load")+""&&ImageLoader.load(a[b])}init();window.YUI&&YUI.add("squarespace-imageloader",function(a){});
+})();</script>
+<script>Squarespace.afterBodyLoad();</script>
+    </div> <!-- end #innerWrapper -->
+    </div> <!-- end #outerWrapper -->
+
+  </body>
+
+</html> ++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.chemistry-conferences.com/>====================
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="navi/main.css">
+<title>Chemistry Conferences</title>
+<base target="_top">
+</head>
+<body>
+<div id="content">
+<h1>Worldwide Chemistry Conferences</h1>
+<p><b><a href="conferences.xml">
+<img border="0" src="navi/rss.gif" width="36" height="14" align="right"></a>Scientific 
+Conferences and Meetings</b></p>
+<table border="0" width="725">
+	<tr>
+		<td width="150">24 - 26 Feb 2015</td>
+		<td>
+         <a href="2015/02/24%20-%2026%20Filtech%202015%20(Cologne%20-%20DE).htm">
+			Filtech 2015</a></td>
+		<td width="150">
+		Cologne (DE)</td>
+	</tr>
+	<tr>
+		<td width="150">23 - 27 Nov 2014</td>
+		<td>
+         <a href="2014/11/23%20-%2027%20Macro%20and%20supramolecular%20architectures%20and%20materials%20(Johannesburg%20-%20ZA).htm">
+			Macro and supramolecular architectures and materials (MAM-14)</a></td>
+		<td width="150">
+		Johannesburg (ZA)</td>
+	</tr>
+	<tr>
+		<td width="150">22 - 23 Sep 2014</td>
+		<td>
+         <span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">
+			<a href="2014/09/22%20-%2023%20A%20Celebration%20of%20Organic%20Chemistry%202014%20(London%20-%20UK).htm">
+			A Celebration of Organic Chemistry 2014</a></span></td>
+		<td width="150">
+		London (UK)</td>
+	</tr>
+	<tr>
+		<td width="150">18 - 22 Aug 2014</td>
+		<td>
+         <a href="2014/08/18%20-%2022%20Conference%20of%20Young%20Scientists%20(Yerevan%20-%20AM).htm">4th International Conference of Young Scientists - Chemistry Today</a></td>
+		<td width="150">
+		Yerevan (AM)</td>
+	</tr>
+	<tr>
+		<td width="150">05 - 06 Jun 2014</td>
+		<td>
+         <a href="2014/06/05%20-%2006%20Symposium%20Francophone%20de%20Synthese%20Totale%20(Montpellier%20-%20FR).htm">Symposium Francophone de Synthèse Totale</a></td>
+		<td width="150">
+		Montpellier (FR)</td>
+	</tr>
+	</table>
+<!--
+<p><b>Training Courses</b></p>
+<table border="0" width="750">
+	<tr>
+		<td width="150">27 - 02 Mar 2011</td>
+		<td>
+		<a href="2011/03/21%20-%2025%20Workshop%20on%20Computational%20Biophysics%20(Atlanta%20-%20US).htm">
+		'Hands-on' Workshop on Computational Biophysics</a></td>
+		<td width="150">Atlanta (US)</td>
+	</tr>
+	</table>
+-->
+<div id="pm" style="border: 2px solid #E0E8FF; padding: 5px; margin-top: 10px; float: right; width: 425px; height: 445px">
+<p style="margin: 10 0 0 5"><b><a href="products.htm">Product of the Month</a></b></p>
+
+<iframe name='I1' src='http://www.organic-chemistry.org/ads/pm/2014/feb/' target='_blank' height='420' width='415' scrolling='no' border='0' frameborder='0'></iframe>
+</div>
+
+<p><b>Main Topics</b></p>
+<p style="float: right; margin-right: 10px"><a href="topics/">All Topics</a></p>
+<a href="topics/organic-chemistry.htm">Organic Chemistry</a><br>
+<a href="topics/inorganic-chemistry.htm">Inorganic Chemistry</a><br>
+<a href="topics/medicinal-chemistry.htm">Medicinal Chemistry</a><br>
+<a href="topics/physical-chemistry.htm">Physical Chemistry</a><br>
+<a href="topics/analytical-chemistry.htm">Analytical Chemistry</a><br>
+<a href="topics/biochemistry.htm">Biochemistry</a><br>
+<a href="topics/biotechnology.htm">Biotechnology</a><br>
+<a href="topics/materials-science.htm">Materials Science</a><br>
+<a href="topics/nanotechnology.htm">Nanotechnology</a></p>
+<p><b>Directory</b></p>
+<p style="float: right; margin-right: 10px"><a href="directory/">More Resources</a></p>
+<p><a href="directory/airlines.htm">Airlines</a><br>
+<a href="directory/books.htm">Books</a><br>
+<a href="directory/meta.htm">Conference Listings</a></p>
+<p><b>Partners</b></p>
+<p><a target="_blank" href="http://www.internetchemistry.com/">
+Interchemistry.com</a><br>
+<a target="_blank" href="http://www.organic-chemistry.org/">Organic Chemistry 
+Portal</a><br>
+<a target="_blank" href="http://www.organische-chemie.ch/">Portal für Organische 
+Chemie</a></p>
+<p><b>Imprint / Contact</b></p>
+<p>
+<body style="font-family: Arial; font-size: 10pt">
+Reto Mueller<br>Oberer Burghaldenweg 22<br>
+4410 Liestal<br>
+Switzerland</body></div>
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-2125070-5";
+</script>
+<div id="logo">
+<a href="/"><img border="0" src="/navi/logo.gif" width="200" height="50" alt="Chemistry Conferences"></a>
+</div>
+<div id="navi" class="menu">
+<ul>
+<li><a href="/calendar.htm">Calendar</a></li>
+<li><a href="/topics/">Scientific Conferences</a></li>
+<li><a href="/courses/">Training Courses</a></li>
+<li><a href="/search.htm">Search Specific Events</a></li>
+<li><a href="/suggestions.htm">Event Submission</a></li>
+<li><a href="/products.htm">Product of the Month
+<script type="text/javascript">
+var date = new Date();
+var month = date.getMonth() + 1;
+pm="<br><img src='http://www.organic-chemistry.org/ads/pm/pm-"+month+".gif' width='150' height='80' vspace='5'>";
+document.writeln (pm);
+</script></a>
+</li>
+<li><a href="/directory/">Directory</a></li>
+<li><a href="/rss.htm"><img src="/navi/rss.gif"></a></li>
+</ul>
+<script type="text/javascript" src="/navi/fb.js"></script>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3791433852221163";
+/* Chemistry Conferences 200x200, Erstellt 08.07.09 */
+google_ad_slot = "7882638477";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+</div>
+<div id="banner">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3791433852221163";
+/* 728x90, Erstellt 18.11.08 */
+google_ad_slot = "3029953168";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="/ads/banner-5.js">
+</script>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2125070-5");
+pageTracker._trackPageview();
+} catch(err) {}</script></body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.zingconferences.com/>====================
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie ie6 lte7 lte8 lte9"><![endif]-->
+<!--[if IE 7 ]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie ie7 lte7 lte8 lte9"><![endif]-->
+<!--[if IE 8 ]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie ie8 lte8 lte9"><![endif]-->
+<!--[if IE 9 ]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie ie9 lte9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]-->
+<head>
+<meta name="google-site-verification" content="_nn5DwTR5RKRt7_dVV9IGdLEWXsVrotKgWv3h1Cf8DU" />
+<meta name="msvalidate.01" content="2D8871B4EA4C37A3EC2EACB90B70DF5F" />
+<!-- Meta -->
+<meta charset="UTF-8" />
+
+<!-- Title -->
+
+
+<!-- CSS -->
+<link rel="stylesheet" type="text/less" href="http://www.zingconferences.com/wp-content/themes/zing/resources/css/style.less" />
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,700italic,400italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Neuton:400,700' rel='stylesheet' type='text/css'>
+
+<!--<link rel="stylesheet" href="http://www.zingconferences.com/wp-content/themes/zing/style.css" />-->
+
+<!-- WP Head -->
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.24 - http://yoast.com/wordpress/seo/ -->
+<title>Zing Conferences | Scientific research conferences</title>
+<meta name="description" content="Zing organise scientific research conferences in fantastic worldwide resorts and provide extensive networking opportunities with world renowned speakers."/>
+<link rel="canonical" href="http://www.zingconferences.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Zing Conferences | Scientific research conferences" />
+<meta property="og:description" content="Zing organise scientific research conferences in fantastic worldwide resorts and provide extensive networking opportunities with world renowned speakers." />
+<meta property="og:url" content="http://www.zingconferences.com/" />
+<meta property="og:site_name" content="Zing Conferences" />
+<meta property="article:published_time" content="2013-03-28T10:50:33+00:00" />
+<meta property="article:modified_time" content="2014-02-21T17:28:01+00:00" />
+<meta name="google-site-verification" content="google-site-verification: googleba02ce2027d68056.html" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width">
+<script src="http://www.zingconferences.com/wp-content/themes/zing/resources/js/libs/modernizr.js"></script>
+<script src="http://www.zingconferences.com/wp-content/themes/zing/resources/js/libs/respond.js"></script>
+<script src="http://www.zingconferences.com/wp-content/themes/zing/resources/js/libs/less-1.3.0.min.js"></script>
+<script src="http://www.zingconferences.com/wp-content/themes/zing/resources/js/libs/css3-mediaqueries.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery || document.write(unescape('%3Cscript src="http://www.zingconferences.com/wp-content/themes/zing/resources/js/libs/jquery.js"%3E%3C/script%3E'))</script>
+<script src="http://www.zingconferences.com/wp-content/themes/zing/resources/js/plugins.js"></script>
+<link rel='stylesheet' id='royalslider-frontend-css-css'  href='http://www.zingconferences.com/wp-content/plugins/royalslider/css/royalslider.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='royalslider-skin-iskin-css'  href='http://www.zingconferences.com/wp-content/plugins/royalslider/css/royalslider-skins/iskin/iskin.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='colorbox-css'  href='http://www.zingconferences.com/wp-content/plugins/simple-colorbox/themes/theme4/colorbox.css?ver=3.8.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='easy_table_style-css'  href='http://www.zingconferences.com/wp-content/plugins/easy-table/themes/default/style.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='acx-si-style-css'  href='http://www.zingconferences.com/wp-content/plugins/floating-social-media-icon/style.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='column-styles-css'  href='http://www.zingconferences.com/wp-content/plugins/ultimate-tinymce/css/column-style.css?ver=3.8.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.zingconferences.com/wp-content/plugins/royalslider/js/jquery.royal-slider.min.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://www.zingconferences.com/wp-content/plugins/royalslider/js/jquery.easing.1.3.min.js?ver=3.8.1'></script>
+<link rel='shortlink' href='http://www.zingconferences.com/?p=4' />
+
+        <style type="text/css" media="screen">
+
+          div.instaemail {
+            margin: 0px 0px 0px -3px;
+          }
+          div.instaemail a, div.instaemail a:link, div.instaemail a:visited {
+            text-decoration: none;
+            font-size: 18px;
+            color: #1c191c;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .instaemail a:hover {
+            cursor: pointer;
+          }
+
+          .instaemail a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+
+          .etp-alignleft {
+            float: left;
+          }
+          .etp-alignright {
+            float: right;
+          }
+          div.etp-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+          .instaemail a span {
+            vertical-align: bottom;
+          }
+
+        </style>
+        <style type="text/css" media="print">
+          .instaemail {
+            display: none;
+          }
+        </style>
+        
+
+
+<!-- Starting Styles For Social Media Icon From Acurax International www.acurax.com -->
+<style type='text/css'>
+#divBottomRight img 
+{
+width: 32px; 
+}
+</style>
+<!-- Ending Styles For Social Media Icon From Acurax International www.acurax.com -->
+
+
+
+<script type="text/javascript">
+(function($){
+    $(window).load(function() {
+        if (this._gat) {
+            tks = this._gat._getTrackers();
+            ga_track = function(p) {
+                for (i=0; i < tks.length; i++) {
+                    var n = tks[i]._getName() !== "" ? tks[i]._getName()+"." : "";
+                    a = [];
+                    for (i2=0; i2 < p.length; i2++) {
+                        var b = i2===0 ? n+p[i2] : p[i2];
+                        a.push(b);
+                    }
+                    _gaq.push(a);
+                }
+            };
+            $('a').filter(function() {
+                return this.href.match(/.*\.(zip|mp3|mpeg|pdf|doc*|ppt*|xls*|jpeg|png|gif|tiff)/);
+            }).click(function(e) {
+                ga_track(['_trackEvent', 'download', 'click', this.href]);
+            });
+            $('a[href^="mailto"]').click(function(e) {
+                ga_track(['_trackSocial', 'email', 'send', this.href]);
+             });
+            var loc = location.host.split('.');
+            while (loc.length > 2) { loc.shift(); }
+            loc = loc.join('.');
+            var localURLs = [
+                              loc,
+                              'http://www.zingconferences.com/'
+                            ];
+            $('a[href^="http"]').filter(function() {
+                for (var i = 0; i < localURLs.length; i++) {
+                    if (this.href.indexOf(localURLs[i]) == -1) return this.href;
+                }
+            }).click(function(e) {
+                ga_track(['_trackEvent', 'outbound', 'click', this.href]);
+            });
+        }
+    });
+})(jQuery);
+</script><script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-43454624-1'], ['_setDomainName', 'www.zingconferences.com'], ['_trackPageview']);
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+<script type="text/javascript" src="http://www.zingconferences.com/wp-admin/admin-ajax.php?viberjs=&i=4"></script>
+<!-- Simple Colorbox Plugin v1.3.1 by Ryan Hellyer ... http://geek.ryanhellyer.net/products/simple-colorbox/ -->
+
+
+<script>
+
+	jQuery(function($){
+
+		jQuery("a[href$='jpg'],a[href$='jpeg'],a[href$='png'],a[href$='bmp'],a[href$='gif'],a[href$='JPG'],a[href$='JPEG'],a[href$='PNG'],a[href$='BMP'],a[href$='GIF']").colorbox({
+
+			maxWidth:'95%',
+
+			maxHeight:'95%',
+
+			opacity:'0.6',
+
+			rel:'group'
+
+		});
+
+	});
+
+</script><!-- <meta name="vfb" version="2.8" /> -->
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+
+</head>
+
+<body class="home page page-id-4 page-template page-template-template-homepage-php custom-background">
+    
+	<header id="masthead" class="container">
+    
+    	<div class="row">
+        
+        	<div id="branding" class="fivecol">
+            
+          		<a href="#"><img src="http://www.zingconferences.com/wp-content/themes/zing/resources/img/zing-conferences-logo.png"></a>
+            
+            </div>
+            <!-- /#branding -->
+            
+            <div id="header-info" class="sevencol last">
+            
+            	<div id="header-contact">
+                
+                	e: <a href="mailto:info@zingconferences.com">info@zingconferences.com</a> | t: +44 1223 750020
+                
+                
+                </div>
+                <!-- /#header-contact -->
+                
+                <div id="header-login" class="right">
+                
+                	<strong>83 Conferences | 5198 Delegates since 2007</strong> 
+
+                
+                </div>
+                <!-- /#header-login -->
+            
+                <nav id="mastnav">
+                
+                    <ul id="menu-main-menu" class="menu"><li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-16"><a href="http://www.zingconferences.com/"><span>Home</span></a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="http://www.zingconferences.com/about-zing/"><span>About</span></a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="http://www.zingconferences.com/conferences/"><span>Conferences</span></a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="http://www.zingconferences.com/gallery/"><span>Gallery</span></a></li>
+<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="http://www.zingconferences.com/faqs/"><span>FAQ&#8217;s</span></a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.zingconferences.com/sponsorship/"><span>Sponsor/Exhibit</span></a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="http://www.zingconferences.com/contact/"><span>Contact</span></a></li>
+</ul>                
+                </nav>   
+                <!-- #mastnav --> 
+            
+            </div> 
+            <!-- /#header-info -->   
+        
+        </div>
+        <!-- /#masthead .row -->
+
+	</header>
+	<!-- #masthead -->
+        
+	<div id="main-stage">
+
+<div id="home-header" class="container">
+
+	<div class="row">
+   
+        <section id="home-slider" class="sixcol">
+    
+            <div id="royalslider-1" class="royalSlider iskin" style="width:100%; height:358px;"><ul class="royalSlidesContainer"><li class="royalSlide" data-src="http://www.zingconferences.com/wp-content/uploads/2014/01/new-asymmetric-slider2.jpg"><a class="royalSlideLink" href="http://www.zingconferences.com/conferences/asymmetric-synthesis/" target="_self"></a></li><li class="royalSlide" data-src="http://www.zingconferences.com/wp-content/uploads/2014/01/new-bionano-slider3.jpg"><a class="royalSlideLink" href="http://www.zingconferences.com/conferences/bionanomaterials/" target="_self"></a></li><li class="royalSlide" data-src="http://www.zingconferences.com/wp-content/uploads/2014/01/spaindaypass1.jpg"></li><li class="royalSlide" data-src="http://www.zingconferences.com/wp-content/uploads/2014/01/Nanocrystals.jpg"><a class="royalSlideLink" href="http://www.zingconferences.com/conferences/nanocrystals/" target="_self"></a></li><li class="royalSlide" data-src="http://www.zingconferences.com/wp-content/uploads/2014/01/Protein-folding.jpg"><a class="royalSlideLink" href="http://www.zingconferences.com/conferences/protein-folding/" target="_self"></a></li><li class="royalSlide" data-src="http://www.zingconferences.com/wp-content/uploads/2014/01/FBDD.jpg"><a class="royalSlideLink" href="http://www.zingconferences.com/conferences/fbdd/" target="_self"></a></li><li class="royalSlide" data-src="http://www.zingconferences.com/wp-content/uploads/2013/12/DNA-Day-Pass.jpg"></li><li class="royalSlide" data-src="http://www.zingconferences.com/wp-content/uploads/2013/08/Slide12.jpg"></li></ul></div><script type="text/javascript">jQuery(document).ready(function() {jQuery("#royalslider-1").royalSlider({"width":"100%","height":358,"skin":"iskin","preloadSkin":true,"lazyLoading":true,"preloadNearbyImages":true,"slideshowEnabled":true,"slideshowDelay":3000,"slideshowPauseOnHover":true,"slideshowAutoStart":true,"keyboardNavEnabled":false,"dragUsingMouse":false,"slideSpacing":0,"startSlideIndex":0,"imageAlignCenter":true,"imageScaleMode":"fill","autoScaleSlider":true,"autoScaleSliderWidth":547,"autoScaleSliderHeight":358,"slideTransitionType":"fade","slideTransitionSpeed":1000,"slideTransitionEasing":"linear","directionNavEnabled":false,"directionNavAutoHide":true,"hideArrowOnLastSlide":true,"controlNavigationType":"bullets","auto-generate-images":false,"auto-generate-thumbs":false,"thumb-width":60,"thumb-height":60,"captionAnimationEnabled":false,"captionShowFadeEffect":true,"captionShowMoveEffect":"none","captionMoveOffset":0,"captionShowSpeed":4500,"captionShowEasing":"easeInOutSine","captionShowDelay":2000,"controlNavEnabled":true,"controlNavThumbs":false});});</script>            
+        </section>
+        
+        <section id="home-intro" class="sixcol last">
+        
+            <p><strong><span style="font-size: 20px;">Zing Conferences enable you to exchange ideas and develop collaborations with colleagues in a focused and relaxed environment.</span></strong></p>
+<p>To help us create this environment, we have;</p>
+<ul>
+<li>World-leading conference chairs</li>
+<li>World-renowned speakers</li>
+<li>Exciting new research &amp; attendees from all corners of the globe</li>
+<li>Ample time for discussion &amp; networking</li>
+<li>Free time to relax with your colleagues</li>
+<li>Helpful &amp; friendly Zing team</li>
+<li>Accommodation, food &amp; drink programs</li>
+<li>High-quality venues</li>
+<li>Great locations</li>
+</ul>
+                
+        </section>
+    
+    </div>
+
+
+</div>
+
+
+<div id="home-pods" class="container">
+
+	<div class="row">
+        
+        <section id="upcoming-conferences" class="fourcol">
+            <h2>Upcoming Conferences</h2>
+            
+            <div id="home-news-container">
+            
+           		<ul>
+                	                                                            <li>
+                    <div class="conference-item cf">
+                    	<div class="conference-img twocol">
+                              <img src="http://www.zingconferences.com/wp-content/uploads/2013/08/NERJA1tinypic.jpg" alt="">
+                        </div>
+						<div class="conference tencol last">
+                            <h3>Asymmetric Synthesis</a></h3>
+                            <p class="date">24/02/14 - 28/02/14</p>
+                           
+                        </div>
+                    </li>
+                                                                                <li>
+                    <div class="conference-item cf">
+                    	<div class="conference-img twocol">
+                              <img src="http://www.zingconferences.com/wp-content/uploads/2013/11/71725bae8b9a0d362d9d3810e9dbea49.jpg" alt="">
+                        </div>
+						<div class="conference tencol last">
+                            <h3>Nanocrystals Conference</a></h3>
+                            <p class="date">13/07/2014 - 16/07/2014</p>
+                           
+                        </div>
+                    </li>
+                                                            <li>
+                    <div class="conference-item cf">
+                    	<div class="conference-img twocol">
+                              <img src="http://www.zingconferences.com/wp-content/uploads/2013/11/71725bae8b9a0d362d9d3810e9dbea49.jpg" alt="">
+                        </div>
+						<div class="conference tencol last">
+                            <h3>Protein Folding Conference</a></h3>
+                            <p class="date">16/07/2014 - 19/07/2014</p>
+                           
+                        </div>
+                    </li>
+                                                            <li>
+                    <div class="conference-item cf">
+                    	<div class="conference-img twocol">
+                              <img src="http://www.zingconferences.com/wp-content/uploads/2013/11/71725bae8b9a0d362d9d3810e9dbea49.jpg" alt="">
+                        </div>
+						<div class="conference tencol last">
+                            <h3>Fragment-Based Drug Discovery Conference</a></h3>
+                            <p class="date">19/07/2014 - 22/07/2014</p>
+                           
+                        </div>
+                    </li>
+                                                            <li>
+                    <div class="conference-item cf">
+                    	<div class="conference-img twocol">
+                              <img src="http://www.zingconferences.com/wp-content/uploads/2013/05/College-fromGarden1.jpg" alt="">
+                        </div>
+						<div class="conference tencol last">
+                            <h3>DNA Polymerases Conference</a></h3>
+                            <p class="date">31/08/2014 - 04/09/2014</p>
+                           
+                        </div>
+                    </li>
+                                                            <li>
+                    <div class="conference-item cf">
+                    	<div class="conference-img twocol">
+                              <img src="http://www.zingconferences.com/wp-content/uploads/2013/09/Orapessa1.jpg" alt="">
+                        </div>
+						<div class="conference tencol last">
+                            <h3>Biology of Human Aging Conference</a></h3>
+                            <p class="date">19/09/2014 - 22/09/2014</p>
+                           
+                        </div>
+                    </li>
+                                		
+            	</ul>
+            </div>
+        
+        </section>
+        
+        
+        <section id="offers" class="fourcol">
+        
+            <div class="inner">
+        
+               	<ul class="rslides">
+                 	                    <li>
+                    <img src="http://www.zingconferences.com/wp-content/uploads/2013/03/Testimonial-Box-22.jpg" alt="">
+                    	<span class="offer-details">
+                            <p style="text-align: center;">Congratulations to the winners of the Poster Prizes at the Zing Ribosomes Conference 2013 - Yasser Hashem, Reut Shalgi, Homa Ghalei and Daniel MacDougall.</p>                        </span>
+                    </li>
+                                         <li>
+                    <img src="http://www.zingconferences.com/wp-content/uploads/2013/03/Testimonial-Box-22.jpg" alt="">
+                    	<span class="offer-details">
+                            <p style="text-align: center;">"I was extremely delighted for being awarded in the Ribosome meeting, and I felt that my small contribution to the ribosome field matters, which is naturally what every scientific undertake aspires to."
+Yasser Hashem</p>                        </span>
+                    </li>
+                                         <li>
+                    <img src="http://www.zingconferences.com/wp-content/uploads/2013/03/Testimonial-Box-22.jpg" alt="">
+                    	<span class="offer-details">
+                            <p style="text-align: center;">"It was an honor to be awarded a poster prize in Ribosome 2013. I thoroughly enjoyed my time at the conference and would like to thank the organizers for the award and the great meeting."
+Homa Ghalei</p>                        </span>
+                    </li>
+                                     </ul> 
+                
+            </div>
+            
+            <div id="testimonials">
+            	<div class="inner">
+					<ul class="tslides">
+                 	                    <li>
+                    <img src="http://www.zingconferences.com/wp-content/uploads/2013/03/Testimonial-Box-22.jpg" alt="">
+                    	<span class="offer-details">
+                            <p style="text-align: center;">"For sure one of the best meetings I have ever been to, awesome! Thanks to Jeff and Christine for making it happen and to the Zing staff for the flawless organization."</p>
+<p class="none" style="text-align: center;">Gilles Van Wezel</p>                        </span>
+                    </li>
+                                         <li>
+                    <img src="http://www.zingconferences.com/wp-content/uploads/2013/03/Testimonial-Box-22.jpg" alt="">
+                    	<span class="offer-details">
+                            <p style="text-align: center;">"Thank you so much for supplying us so wonderful opportunity to stay in Mexico. We all enjoyed the Nanomaterials Conference. Both the science and scenery are impressive."</p>
+<p class="none" style="text-align: center;">Dai-Wen Pang</p>                        </span>
+                    </li>
+                                         <li>
+                    <img src="http://www.zingconferences.com/wp-content/uploads/2013/03/Testimonial-Box-22.jpg" alt="">
+                    	<span class="offer-details">
+                            <p style="text-align: center;">"Many thanks to the Zing Team for the perfect organization of this conference, whose scientific content fitted very well my research interests, and which, in particular, allowed me to gain new insights into different modes of oligomer formation and allosteric behaviour of proteins."</p>
+<p class="none" style="text-align: center;">Manfred Konrad</p>                        </span>
+                    </li>
+                                         <li>
+                    <img src="http://www.zingconferences.com/wp-content/uploads/2013/03/Testimonial-Box-22.jpg" alt="">
+                    	<span class="offer-details">
+                            <p style="text-align: center;">â€œI would say that the attraction of the Zing format is the informality of the meeting. This encourages people to be more open and speculative, both in their presentations and in contributions to the discussions. â€</p>
+<p style="text-align: center;">Robert Hillman</p>                        </span>
+                    </li>
+                                        <li>
+                    <img src="http://www.zingconferences.com/wp-content/uploads/2013/03/Testimonial-Box-22.jpg" alt="">
+                    	<span class="offer-details">
+                            <p style="text-align: center;">"The lectures were of very high standard and very well received. I can only recommend this kind of meeting to any future participant."</p>
+<p style="text-align: center;">Evamarie Hey-Hawkins</p>                        </span>
+                    </li>
+                                    </ul>
+				
+                    
+                </div>
+            
+            </div>
+
+        
+        
+        </section>
+        
+        <section id="become-a-chair" class="fourcol last">
+            
+            <div class="inner">          
+            
+				<h2>The Zing Student Grant</h2>
+<p style="text-align: justify;">We are proud to introduce the Zing Student Grant which offers students the chance to attend a conference free of charge. To enter, simply register for a conference and submit your abstract for consideration. For more information, please follow this link : <a href="http://www.zingconferences.com/1056-2/" target="_blank"><strong>The Zing Student Grant</strong></a>Â <span style="font-size: 12px;">(T&amp;C's apply)</span></p>                
+            
+            </div>
+
+            <div id="mc_embed_signup">
+            <form action="http://zingconferences.us6.list-manage1.com/subscribe/post?u=2543ae73af&amp;id=74187ea125" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+				<label for="mce-EMAIL">Subscribe to our mailing list</label>
+				<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+				<p class="right"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="greenbtn white"></p>
+            </form>
+            </div>
+                    
+        </section>
+    
+    </div>
+    
+</div>
+
+<div id="home-footer" class="container">
+
+	<div class="row">
+        
+        <section id="upcoming-conferences" class="twelvecol">
+        
+        	<hr style="width: 100%;" width="100%" />
+
+<div class="one_sixth"><a href="mailto:jane.hill@zingconferences.com"><img class="alignleft size-thumbnail wp-image-2996" alt="Chairman" src="http://www.zingconferences.com/wp-content/uploads/2013/03/Chairman-150x150.jpg" width="150" height="150" /></a>
+</div>
+
+<div class="one_third">
+
+<strong><a href="mailto:jane.hill@zingconferences.com">Interested In Being A Â Future Chair?</a></strong>
+<p style="text-align: justify;">Would you like to chair one of our future conferences? Or do you have a suggestion for a conference topic? If so, we would love to hear from you.</p>
+<a href="mailto:jane.hill@zingconferences.com"><strong>Propose A Conference</strong></a>
+</div>
+
+<div class="one_sixth"><a title="Submit Your Abstract" href="http://www.zingconferences.com/submit-your-abstract/" target="_blank"><img class="alignleft size-thumbnail wp-image-3088" alt="Abstract Pic" src="http://www.zingconferences.com/wp-content/uploads/2013/03/Abstract-Pic-150x150.jpg" width="150" height="150" /></a><span style="font-size: 10px;">Photo by Gabriel Pollard</span>
+
+</div>
+
+<div class="one_third last">
+<a title="Submit Your Abstract" href="http://www.zingconferences.com/submit-your-abstract/" target="_blank"><strong>Abstract Submission</strong></a>
+<p style="text-align: justify;">If you have previously registered for one of our conferences and now wish to submit your abstract for consideration or send us a revised version, please use the following link - <a title="Submit Your Abstract" href="http://www.zingconferences.com/submit-your-abstract/" target="_blank"><strong>Submit My Abstract</strong>Â </a>
+</div><div class="clearboth"></div></p>
+
+
+<hr style="width: 100%;" width="100%" />
+
+<div class="one_sixth">
+<a title="Conferences" href="http://www.zingconferences.com/conferences/"><img class="size-thumbnail wp-image-2892 alignnone" alt="512px-Tickets" src="http://www.zingconferences.com/wp-content/uploads/2013/03/512px-Tickets-150x150.jpg" width="150" height="150" /></a>
+
+<span style="font-size: 10px;">Photo By Mattia Luigi Nappi Â <a href="http://commons.wikimedia.org/wiki/File%3ATickets.jpg">via Wikimedia Commons</a></span>
+</div>
+<p style="text-align: justify;"><div class="one_third">
+<a title="Conferences" href="http://www.zingconferences.com/conferences/"><strong>Day Passes Are Now Available For Spain 2014 Conferences</strong></a></p>
+Price â‚¬750 - Price includes conference registration and attendance, all coffee and lunch breaks at the venue and the Gala Night Dinner.
+(Accomodation and Evening Meals <strong>NOT</strong> Included)
+
+Please register via the relevant <a title="Conferences" href="http://www.zingconferences.com/conferences/"><strong>conference webpage</strong></a>
+</div>
+
+<div class="one_sixth"><a title="Sponsorship" href="http://www.zingconferences.com/sponsorship/"><img class="alignleft size-thumbnail wp-image-2914" alt="Sponsors Home Page" src="http://www.zingconferences.com/wp-content/uploads/2013/10/Sponsors-Home-Page-150x150.jpg" width="150" height="150" /></a>
+</div>
+
+<div class="one_third last">
+<a title="Sponsorship" href="http://www.zingconferences.com/sponsorship/"><strong>Sponsor A Conference</strong></a>
+<p style="text-align: justify;">We offer a variety of ways to promote your business at our conferences. Choose from one of our generous packages or request a tailor-made package to fit your requirements.</p>
+View our <a title="Sponsorship" href="http://www.zingconferences.com/sponsorship/"><strong>Sponsorship</strong></a> page for further details
+</div><div class="clearboth"></div>
+
+<hr style="width: 100%;" width="100%" />
+
+<h1 style="text-align: center;">Media Partners</h1>
+<p style="text-align: center;"><div class="one_third"><a href="http://www.pharmaphorum.com/" target="_blank"><img class="size-medium wp-image-2937 aligncenter" alt="PharmaPhorum" src="http://www.zingconferences.com/wp-content/uploads/2013/03/pharmaphorum-logo-3135x822-300x78.jpg" width="300" height="78" /></a></div>
+<div class="two_third last"></p>
+<p style="text-align: justify;"><a href="http://www.pharmaphorum.com/" target="_blank">Pharmaphorum</a> drives innovation within the pharmaceutical industry, by bringing healthcare together through a suite of media services that help produce and disseminate thought leadership, combined with an online platform for communicating messages to a global audience.</p>
+<p style="text-align: left;"></div><div class="clearboth"></div>
+<div class="one_third"></p>
+<p style="text-align: center;"><a href="http://www.marketsandmarkets.com/" target="_blank"><img class="size-full wp-image-3245 aligncenter" alt="MarketandMarkets" src="http://www.zingconferences.com/wp-content/uploads/2013/03/MarketandMarkets.jpg" width="195" height="78" /></a>
+<span style="color: #ffffff;">........</span>
+</div>
+<div class="two_third last"></p>
+<p style="text-align: justify;"><a href="http://www.marketsandmarkets.com/" target="_blank">Markets &amp; Markets</a> was founded in 2001 andÂ is a full service market research company and consulting firm that produces 400 high-level, strategically analyzed, full-length reports a year, tracking more than 10 industries.</p>
+<p style="text-align: justify;"></div><div class="clearboth"></div></p>
+<div class="one_third">
+<a href="http://www.nanotechia.org/"><img class="aligncenter size-full wp-image-3877" alt="NIA logonan" src="http://www.zingconferences.com/wp-content/uploads/2013/03/1386704313_3_NIA_logo.jpg" width="123" height="85" /></a></div>
+<div class="two_third last">
+
+Established in 2005 the Nanotechnology Industries Association <a href="http://www.nanotechia.org/" target="_blank">(NIA)</a> is the only global industry-focused trade association for nanotechnologies. With branches across Europe and the head office in Brussels, NIA collaborates with regulators and stakeholders on the national, European and international levels so as to secure a publicly and regulatory supportive environment for the continuing advancement and establishment of nanotechnologies.</div><div class="clearboth"></div>
+
+&nbsp;
+
+<div class="one_third">
+<a href="http://www.sdp-networks.com"><img class="aligncenter size-full wp-image-3912" alt="SDP Networks" src="http://www.zingconferences.com/wp-content/uploads/2013/03/logo-sdp-networks.png" width="151" height="50" /></a></div>
+<div class="two_third last">
+
+One of the worldâ€™s largest online networks, <a title="SDP Networks" href="http://www.sdp-networks.com  " target="_blank">SDP Networks</a> helps businesses discover how to connect with customers, drive traffic, generate more brand awareness and increase sales. We support companies across a broad range of industries &amp; markets.</div><div class="clearboth"></div>
+<p style="text-align: center;"><div class="one_fourth"></p>
+
+<h2><a href="http://www.absave.com/" target="_blank"><img class="aligncenter size-full wp-image-1676" alt="Absave" src=" http://www.zingconferences.com/wp-content/uploads/2013/03/Absave1.jpg" width="239" height="76" /></a></h2>
+<p style="text-align: justify;"><a href="http://www.absave.com/" target="_blank"><b>Absave.com</b></a> is the leading savings website for Antibodies and Immunological Products.Â  Search our extensive database of Antibodies, Kits, Proteins &amp; Peptides, Reagents, etc. to find the best savings.</p>
+</div>
+<div class="one_fourth">
+<h2><a href="http://www.biosave.com/" target="_blank"><img class="aligncenter size-full wp-image-1680" alt="biosave" src=" http://www.zingconferences.com/wp-content/uploads/2013/03/biosave1.jpg" width="243" height="76" /></a></h2>
+<p style="text-align: justify;"><a href="http://www.biosave.com/" target="_blank"><b>Biosave.com</b></a> is the leading savings website for Life Scientists.Â  Search 1,000â€™s of products from leading suppliers to locate the best products at the most competitive prices.</p>
+</div>
+<div class="one_fourth">
+<h2><a href="http://www.labsave.com/" target="_blank"><img class="aligncenter size-full wp-image-1679" alt="labsave" src="http://www.zingconferences.com/wp-content/uploads/2013/03/labsave.jpg" width="255" height="76" /></a></h2>
+<p style="text-align: justify;"><a href="http://www.labsave.com/" target="_blank"><b>Labsave.com</b></a><b> </b>is the leading savings website for Laboratory Equipment.Â  Discover an extensive range of products at the best prices and find the best savings for your lab.</p>
+</div>
+<div class="one_fourth last">
+<h2><a href="http://www.technologynetworks.com/" target="_blank"><img class="aligncenter size-full wp-image-1681" alt="tech networks" src=" http://www.zingconferences.com/wp-content/uploads/2013/03/tech-networks.jpg" width="191" height="74" /></a></h2>
+<p style="text-align: justify;"><a href="http://www.technologynetworks.com/" target="_blank"><b>Technology Networks</b></a> has been established for over 10 years and is now the leading provider of <i>free</i> information services for life science professionals. This includes news, events, posters, videos, webcasts, application notes, new products, a literature search engine and product directories. Â The information is specifically tailored to over 30 individual communities with specific interests, all of which can be accessed through <a href="http://www.technologynetworks.com/" target="_blank">TechnologyNetworks.com</a>.</p>
+</div><div class="clearboth"></div>
+
+<span style="font-size: 16px; line-height: 24px;"><div class="one_third"></div></span>        
+        </section>
+        
+	</div>
+   
+</div>
+
+
+    </div>
+	<!-- #main-stage -->
+	
+	<footer id="mastfooter">
+    	<div class="row">
+       
+        	<div id="copyright" class="fourcol">
+            
+            	<p>&copy; 2014 Zing Conferences Ltd.</p>
+                <hr/>
+                <p>Zing Conferences Ltd is registered in England and Wales<br/>
+                Unit 3, The Bury, Stow-Cum-Quy, Cambridge, CB25 9AQ.<br/>
+                VAT number: 113 677 125 | Company Number: 06133775</p>
+            
+            </div>
+            
+            <div id="spacer" class="fourcol">
+            
+            	<p class="centered"><img src="http://www.zingconferences.com/wp-content/themes/zing/resources/img/ccc.jpg" alt=""> <img src="http://www.zingconferences.com/wp-content/themes/zing/resources/img/7-years.jpg" alt=""></p>
+            
+            </div>
+            
+            <div id="footer-links" class="fourcol last">
+            	<nav id="footernav">
+					<ul id="menu-footer-menu" class="menu"><li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="http://www.zingconferences.com/terms-and-conditions/"><span>Terms and conditions<span class="sep"> |</span></span></a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="http://www.zingconferences.com/privacy-policy/"><span>Privacy Policy<span class="sep"> |</span></span></a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="http://www.zingconferences.com/cookies/"><span>Cookies<span class="sep"> |</span></span></a></li>
+<li id="menu-item-3117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3117"><a href="http://www.zingconferences.com/sustainability-policy/"><span>Sustainability Policy<span class="sep"> |</span></span></a></li>
+</ul>				</nav>
+
+                <hr/>
+               	<p class="right"><a title="Wordpress web design by pixelgeeks" href="http://pixel-geeks.co.uk"><img src="http://www.zingconferences.com/wp-content/themes/zing/resources/img/pixel-geeks-logo.png" alt="Wordpress web design by pixelgeeks"></a></p>
+                
+            
+            </div>
+            
+               
+          
+        </div>
+            
+    </footer>
+    <!-- #mastfooter -->
+
+	<script src="http://www.zingconferences.com/wp-content/themes/zing/resources/js/script.js"></script>
+
+
+
+<!-- Starting Icon Display Code For Social Media Icon From Acurax International www.acurax.com -->
+<div id='divBottomRight' style='text-align:center;'><a href='https://www.facebook.com/ZingConferencesUK' target='_blank' title='Visit Us On Facebook'><img src=http://www.zingconferences.com/wp-content/plugins/floating-social-media-icon/images/themes/1/facebook.png style='border:0px;' alt='Visit Us On Facebook' /></a><a href='http://www.twitter.com/@ZingConferences' target='_blank' title='Visit Us On Twitter'><img src=http://www.zingconferences.com/wp-content/plugins/floating-social-media-icon/images/themes/1/twitter.png style='border:0px;' alt='Visit Us On Twitter' /></a><a href='http://www.linkedin.com/company/2533499?trk=tyah' target='_blank' title='Visit Us On Linkedin'><img src=http://www.zingconferences.com/wp-content/plugins/floating-social-media-icon/images/themes/1/linkedin.png style='border:0px;' alt='Visit Us On Linkedin' /></a><a href='http://google.com/+Zingconferences' target='_blank' title='Visit Us On Google Plus'><img src=http://www.zingconferences.com/wp-content/plugins/floating-social-media-icon/images/themes/1/googleplus.png style='border:0px;' alt='Visit Us On Google Plus' /></a></div>
+<!-- Ending Icon Display Code For Social Media Icon From Acurax International www.acurax.com -->
+
+
+
+
+
+<!-- Starting Javascript For Social Media Icon From Acurax International www.acurax.com -->
+	<script type="text/javascript">
+	var ns = (navigator.appName.indexOf("Netscape") != -1);
+	var d = document;
+	var px = document.layers ? "" : "px";
+	function JSFX_FloatDiv(id, sx, sy)
+	{
+		var el=d.getElementById?d.getElementById(id):d.all?d.all[id]:d.layers[id];
+		window[id + "_obj"] = el;
+		if(d.layers)el.style=el;
+		el.cx = el.sx = sx;el.cy = el.sy = sy;
+		el.sP=function(x,y){this.style.left=x+px;this.style.top=y+px;};
+		el.flt=function()
+		{
+			var pX, pY;
+			pX = (this.sx >= 0) ? 0 : ns ? innerWidth : 
+			document.documentElement && document.documentElement.clientWidth ? 
+			document.documentElement.clientWidth : document.body.clientWidth;
+			pY = ns ? pageYOffset : document.documentElement && document.documentElement.scrollTop ? 
+			document.documentElement.scrollTop : document.body.scrollTop;
+			if(this.sy<0) 
+			pY += ns ? innerHeight : document.documentElement && document.documentElement.clientHeight ? 
+			document.documentElement.clientHeight : document.body.clientHeight;
+			this.cx += (pX + this.sx - this.cx)/8;this.cy += (pY + this.sy - this.cy)/8;
+			this.sP(this.cx, this.cy);
+			setTimeout(this.id + "_obj.flt()", 40);
+		}
+		return el;
+	}
+	 JSFX_FloatDiv("divBottomRight", -170, -55).flt();
+	</script>
+	<!-- Ending Javascript Code For Social Media Icon From Acurax International www.acurax.com -->
+
+
+    
+
+	<script>
+		var _gaq=[['_setAccount',''],['_trackPageview']];
+		(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+		g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+		s.parentNode.insertBefore(g,s)}(document,'script'));
+	</script>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.isotopes-conference.eu/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.isotopes-conference.eu/sites/all/themes/newsflash/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" type="application/rss+xml" title="Isotopes 2013 RSS" href="http://www.isotopes-conference.eu/rss.xml" />
+  <title>Isotopes 2013 | June 16-21, 2013 Sopot, Poland</title>
+  <link type="text/css" rel="stylesheet" href="http://www.isotopes-conference.eu/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.isotopes-conference.eu/sites/default/files/css/css_QzUnW0mBZmmqmxOMAJgeSi6ShBOpLrioIutP47-d8ec.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.isotopes-conference.eu/sites/default/files/css/css_bKmTOJL5tpN3NHxPmxdBB2Rq3NsqlgGWFWJdvm5svt8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.isotopes-conference.eu/sites/default/files/css/css_flYwABIkevZ1hiPKRqqntwu3Qjirk9DRDyZAX63RBzM.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.isotopes-conference.eu/sites/all/themes/newsflash/css/ie.css?mzru2y" media="all" />
+<![endif]-->
+<script type="text/javascript"></script><style type="text/css">
+      #page 
+      {
+        width : 1000px;
+      }
+    </style><style type="text/css">
+      body.sidebar-first #main 
+      {
+        margin-left: -190px;
+      }
+      body.two-sidebars #main 
+      {
+        margin-left: -190px;
+      }
+      body.sidebar-first #squeeze 
+      {
+        margin-left: 190px;
+      }
+      body.two-sidebars #squeeze 
+      {
+        margin-left: 190px;
+      }
+      #sidebar-left 
+      {
+        width: 190px;
+      }
+    </style><style type="text/css">
+      body.sidebar-second #main 
+      {
+        margin-right: -190px;
+      }
+      body.two-sidebars #main 
+      {
+        margin-right: -190px;
+      }
+      body.sidebar-second #squeeze 
+      {
+        margin-right: 190px;
+      }
+      body.two-sidebars #squeeze 
+      {
+        margin-right: 190px;
+      }
+      #sidebar-right 
+      {
+        width: 190px;
+      }
+    </style><style type="text/css">
+        body 
+        {
+          font-family : Verdana, sans-serif, Arial;
+        }
+      </style><!--[if lte IE 6]>
+  <style type="text/css">
+      #primarymenu {
+         float:none;
+      }
+  </style>
+  <![endif]-->  <script type="text/javascript" src="http://www.isotopes-conference.eu/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.isotopes-conference.eu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.isotopes-conference.eu/misc/drupal.js?mzru2y"></script>
+<script type="text/javascript" src="http://www.isotopes-conference.eu/sites/all/modules/spamspan/spamspan.js?mzru2y"></script>
+<script type="text/javascript" src="http://www.isotopes-conference.eu/sites/all/modules/dhtml_menu/dhtml_menu.js?mzru2y"></script>
+<script type="text/javascript" src="http://www.isotopes-conference.eu/sites/all/themes/newsflash/js/pickstyle.js?mzru2y"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"newsflash","theme_token":"1aJQl8Ck7Iq5uj7VcFCHmh7H8gcbNQyyhKpFr5XQb5Q","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"sites\/all\/modules\/dhtml_menu\/dhtml_menu.js":1,"sites\/all\/themes\/newsflash\/js\/pickstyle.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/dhtml_menu\/dhtml_menu.css":1,"sites\/all\/themes\/newsflash\/style.css":1,"sites\/all\/themes\/newsflash\/css\/blue.css":1,"sites\/all\/themes\/newsflash\/css\/nosuckerfish.css":1,"sites\/all\/themes\/newsflash\/print.css":1,"sites\/all\/themes\/newsflash\/css\/ie.css":1}},"dhtmlMenu":{"nav":"open","animation":{"effects":{"height":"height","opacity":"opacity"},"speed":500},"effects":{"siblings":"close-same-tree","children":"none","remember":0},"filter":{"type":"blacklist","list":[]}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <!-- page -->
+<div id="page">
+  <!-- header -->
+  <div id="header" class="clearfix">
+      <div id="logo-title">
+       
+      </div>
+      <div id="name-and-slogan"><!-- name and sloagan -->
+                      <!-- /name and sloagan -->
+      </div>
+                          </div>
+  <!-- /header -->
+      <!-- middle-container -->
+  <div id="middlecontainer">
+        <!-- sidebar-left -->
+      <div id="sidebar-left">
+        <div class="region region-sidebar-first">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+    <h2 class="title">Main menu</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/" class="active">Home</a></li>
+<li class="leaf"><a href="/conference-venue">Conference venue</a></li>
+<li class="leaf"><a href="/conference-program">Conference program</a></li>
+<li class="leaf"><a href="/registration">Registration form</a></li>
+<li class="leaf"><a href="/payment">Payment</a></li>
+<li class="leaf"><a href="/abstract_submission">Abstract submission</a></li>
+<li class="leaf"><a href="/important-dates">Important dates</a></li>
+<li class="leaf"><a href="/past-meetings">Past meetings</a></li>
+<li class="leaf"><a href="/organizers">Organizers</a></li>
+<li class="leaf"><a href="/committees">Committees</a></li>
+<li class="leaf"><a href="/travel-information">Travel information</a></li>
+<li class="leaf"><a href="/social-program">Social program</a></li>
+<li class="last leaf"><a href="/sponsors">Sponsors</a></li>
+</ul>  </div>
+</div>
+  </div>
+      </div>
+    <!-- /sidebar-left -->
+        <!-- main -->
+    <div id="main">
+      <!-- sequeeze -->
+      <div id="squeeze">
+                        <!-- sequeeze-content -->
+        <div id="squeeze-content">
+          <!-- inner-content -->
+          <div id="inner-content">
+                                    <!-- messages -->
+                        <!-- /messages -->
+                                    <!-- tabs -->
+              <div class="tabs">
+                              </div>
+            <!-- /tabs -->
+                                                <!-- content -->
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-7" class="node node-page node-promoted node-teaser clearfix">
+  <div class="node-header">
+                          <h2 class="title">
+          <a href="/home" title="Home">
+            Home          </a>
+        </h2>
+                </div>
+  <div class="content clearfix">
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p style="font-size: 116%; text-align:justify; line-height: 130%">We invite you to celebrate with us the 100<sup>th</sup> anniversary of the discovery of isotopes!</p>
+<p style="font-size: 116%; text-align:justify; line-height: 130%">Kinetic isotope studies are of fundamental importance to elucidate chemical reaction mechanisms. Isotopic fingerprints give proof of falsifications in food science and doping in sports. Changes in pollutant isotope ratios demonstrate the occurrence of remediation in contaminated groundwater. Isotope budgets constrain the transport of compounds on a global scale. Recent instrumental advances allow measurements of isotope effects in unprecedented resolution and precision, and even at low environmental concentrations. Traditionally, related knowledge has been dispersed over different disciplines, with few occasions for stimulating exchange. Together with you, we would like to bring the worlds of organic isotope chemistry and related disciplines closer together. The conference will feature the importance of fundamental mechanistic isotopic studies, and their impact for the investigation of organic compounds in related fields such as biogeochemistry, contaminant hydrology, medical and food sciences.</p>
+<p align="center" class="rtecenter" style="font-size: 116%; line-height: 130%">Join Us in 2013!</p>
+<p class="rtecenter"><a href="http://www.isotopes-conference.eu/images/Isotopes2013_poster_flyer.pdf">Conference Poster (PDF)</a></p>
+<p>	Â </p>
+<div align="center">
+<table border="0" cellspacing="1"><tbody><tr><td>
+					<a href="http://mitr.p.lodz.pl/e_index.php" target="_blank"><img border="0" height="100" src="/images/TUL.png" width="350" /></a></td>
+<td>
+					<a href="http://lies.p.lodz.pl" target="_blank"><img border="0" height="100" src="/images/LIES.png" width="150" /></a></td>
+</tr></tbody></table><table border="0" cellspacing="1"><tbody><tr><td>
+					<a href="http://www.helmholtz.de/en/" target="_blank"><img border="0" height="100" src="/images/HelmholtzAssociation.png" width="230" /></a></td>
+<td>
+					<a href="http://www.helmholtz-muenchen.de/en/index.html" target="_blank"><img border="0" height="100" src="/images/HelmholtzZentrum.png" width="270" /></a></td>
+</tr></tbody></table></div>
+<div>
+	Â </div>
+</div></div></div> 
+  </div>
+      <span class="meta submitted">
+                </span>
+      <div class="links nf-node-links">
+          <ul class="links inline"><li class="node-readmore first last"><a href="/home" rel="tag" title="Home">Read more<span class="element-invisible"> about Home</span></a></li>
+</ul>      </div>
+  </div>
+  </div>
+</div>
+  </div>
+            <!-- /content -->
+                                  </div>
+          <!-- /inner-content -->
+        </div>
+        <!-- /squeeze-content -->
+      </div>
+      <!-- /squeeze -->
+    </div>
+    <!-- /main -->
+      </div>
+  <!-- /middle-container -->
+
+  <div style="clear:both"></div>
+
+          <div id="footer">
+              <div id="footer-region">
+            <div class="region region-footer">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <p>Isotopes 2013: Isotope effects across disciplines - June 16-21 2013, Sopot, Poland</p>
+  </div>
+</div>
+  </div>
+        </div><!-- /footer -->
+       
+       
+          </div>
+   
+</div>
+<!-- /page -->
+  </body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.helsinki.fi/kemia/FRS2009/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+ 	<title>News - Free Radicals Symposium 2009</title>
+ 	<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
+ 	<meta name="keywords" content="free radicals, symposium, savonlinna, conference, 2009, finland, " />
+ 	<link rel="stylesheet" type="text/css" href="styles/frcolours24.css" title="Default" media="screen,projection" />
+ 	<link rel="stylesheet" type="text/css" href="styles/frlayout26.css" title="Default" media="screen,projection" />
+ 	<link rel="stylesheet" type="text/css" href="styles/frprint01.css"  title="Default" media="print" />
+	<script type="text/javascript" src="resources/naisha.js"></script>
+
+ 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+ 	<link rel="icon" href="favicon.ico" type="image/x-icon" />
+
+<!-- link rel="stylesheet" type="text/css" href="styles/frlayout_nav01.css" title="navbuttons" media="screen,projection" / -->
+
+</head>
+
+<body>
+
+<div id="container"><!--START CONTAINER-->
+
+<div id="header" style=""><!--START HEADER-->
+
+	<h1>30<sup>th</sup> International Symposium on Free Radicals</h1>
+	<h2>25<sup>th</sup> - 30<sup>th</sup> of July 2009. Savonlinna, Finland</h2>
+
+	<img src="images/Logo09.jpg" alt="30th International Symposium on Free Radicals. 25th - 30th of July 2009. Savonlinna, Finland" />
+
+</div><!--END HEADER-->
+
+
+<div id="navigation"><!--START NAVIGATION-->
+
+	<ul>
+ 		<li class="here"><a href="index.html" class="here">News</a></li>
+ 		<li><a href="photos.html">Photos</a></li>
+ 		<li><a href="abstracts.html">Abstracts</a></li>
+ 		<li><a href="location.html">Location</a>
+ 			<ul>
+ 				<li>- <a href="transport.html">Transport</a></li>
+ 			</ul>
+ 		</li>
+ 		<li><a href="instructions.html">Instructions</a>
+ 			<ul>
+ 				<li>- <a href="insthelsinki.html">Helsinki</a></li>
+ 				<li>- <a href="instfinnish.html">Language</a></li>
+ 			</ul>
+ 		</li>
+ 		<li><a href="tourism.html">Tourism</a></li>
+ 		<li><a href="science.html">Science</a></li>
+ 		<li><a href="talks.html">Talks and Topics</a></li>
+ 		<li><a href="timetable.html">Timetable</a>
+ 			<ul>
+ 				<li>- <a href="trip.html">Excursion</a></li>
+ 				<li>- <a href="partners.html">Accompanying Persons</a></li>
+ 			</ul>
+ 		</li>
+ 		<li><a href="rego.html">Registration</a>
+ 			<ul>
+ 				<li>- <a href="accom.html">Accommodation</a></li>
+ 			</ul>
+ 		</li>
+ 		<li><a href="committee.html">Committee</a></li>
+ 		<li><a href="history.html">History</a></li>
+ 		<li><a href="related.html">Related Meetings</a></li>
+ 		<li><a href="sponsors.html">Sponsorship</a></li>
+ 		<li><a href="opera.html">Opera Festival</a></li>
+ 		<li><a href="contact.html">Contact</a></li>
+
+ 	<!-- <li><a href="dates.html">Important Dates</a></li> -->
+ 	<!-- <li><a href="presenting.html">Notes for Those Presenting Talks and Posters</a></li> -->
+
+ 	</ul>
+
+ 	<div class="divider">&nbsp;</div>
+
+ 	<ul>
+ 		<li><a href="http://www.visitfinland.com" target="_blank">About Finland</a></li>
+ 	</ul>
+
+
+
+</div><!--END NAVIGATION-->
+
+
+<div id="main"><!--START MAIN-->
+
+<h3>News</h3>
+
+<img src="pictures/sauna_sunset.jpg" alt="Towards the end of the sauna evening" />
+
+ <p style="padding-bottom:3em;">View or upload conference photos on the <a href="photos.html">Photos page</a>.</p>
+
+ <!-- p>After you have checked in to your hotel, the symposium registration desk should be your first port of call when you arrive in Savonlinna. It will be located on the verandah of Wanha Kasino (address: Kylpylaitoksentie 4) on the afternoon and evening of Saturday, July 25. Throughout the rest of the conference, the registration desk will be located near the cloakroom (<em>narikkatila</em>) and will be staffed during meal and coffee breaks.</p -->
+
+ <!-- p><a href="http://www.fmi.fi/weather/local.html?Keywords=&amp;station=2730&amp;Go.x=2&amp;Go.y=13&amp;param=4&amp;map=1&amp;place=Savonlinna" target="_blank">Savonlinna weather forecast</a></p -->
+
+
+  	 	<div class="newsbox">
+  	<img src="images/pinpost_top01.jpg" alt="post-it note pin" />
+  	<!-- h4>Last minute changes</h4 -->
+  		<!-- ul>
+  			<li><span class="date">Tuesday 28, 8.30</span> Anna Krylov has had to cancel her participation at the meeting.	John Stanton will present "Vibronic coupling calculations made quantitative".</li>
+  			<li><span class="date">Wednesday 29, 17.15</span> John Stanton (see above) is replaced by Peter Botschwina who will present "High-level <em>ab initio</em> calculations for (potential) interstellar anions: structures, spectroscopic properties and energetics". Peter Botscwina's poster with the same title will not be presented in Poster Session B.</li>
+  		</ul -->
+
+
+ 	<!-- p>The posters have been assigned to sessions A and B. More information on the <a href="abstracts.html">Abstracts</a> page.</p -->
+ 	<h4>Important Dates in 2009</h4>
+
+  		<ul>
+ 			<!-- li class="greyedout"><span class="date past">January 7</span> Registration and Abstract submission open.</li>
+ 			<li class="greyedout"><span class="date">April 1</span> Normal registration closes. Late registration opens. Deadline for the submission of preliminary titles for the special issue of the Journal of Physical Chemistry (<a href="science.html">more details</a>).</li>
+ 			<li class="greyedout"><span class="date">April 14</span> Late registration closes.</li>
+ 			<li class="greyedout"><span class="date">April 30</span> <a href="opera.html">Opera ticket</a> deadline.</li>
+ 			<li class="greyedout"><span class="date">May 1</span> <a href="abstracts.html">Abstract submission</a> closes.</li -->
+ 			<li><span class="date">July 1</span> Article submission for the <a href="science.html">special issue</a> of the Journal of Physical Chemistry opens.</li>
+ 			<li><span class="date">July 25 - 30</span> Symposium in Savonlinna.</li>
+ 			<li><span class="date">September 30</span> Article submission deadline for the <a href="science.html">special issue</a> of the Journal of Physical Chemistry.</li>
+ 		</ul>
+  	</div>
+
+  	<!-- p>A <strong>new flight</strong>, leaving Savonlinna on the last day of the conference, has been announced. Details on the <a href="transport.html">Transport page</a>.</p -->
+
+  <br class="clear" />
+
+  <div class="newscontent"><!-- START NEWSCONTENTDIV -->
+   	<p><em>Site update July 13, 2009:</em></p>
+  		<ul>
+ 			<li>All <a href="abstracts.html">abstracts</a> are now online.</li>
+ 		</ul>
+ 	<p><em>Site update July 3, 2009:</em></p>
+  		<ul>
+ 			<li>Minor changes to the list of speakers and the timetable.</li>
+ 		</ul>
+   	<p><em>Site update June 15, 2009:</em></p>
+  		<ul>
+ 			<li>The <a href="timetable.html">Timetable</a> has been slightly reorganised.</li>
+ 			<li><a href="abstracts.html">Abstracts</a> for most of the posters are now online.</li>
+ 			<li>Bus transport during the <a href="trip.html">excursion</a> and <a href="transport.html">after the Symposium</a> (to Savonlinna airport) has been organised.</li>
+ 			<li>There are now some <a href="opera.html">notes</a> for those attending the Opera festival.</li>
+ 		</ul>
+   	<p><em>Site update June 4, 2009:</em></p>
+  		<ul>
+ 			<li>More <a href="abstracts.html">abstracts</a> for invited speakers are now online.</li>
+ 			<li>Detailed timetable for the <a href="trip.html">excursion</a> day.</li>
+ 		</ul>
+  		<p><em>Site update May 20, 2009:</em></p>
+  		<ul>
+ 			<li>Abstracts for invited and hot topic presentations are now viewable from the <a href="abstracts.html">Abstracts page</a>.</li>
+ 			<li>The order of presentations has been decided. Check it out on the now-interactive <a href="timetable.html">Timetable page</a>.</li>
+ 			<li>Hot topic presenters have been chosen. They appear on the <a href="talks.html">Talks and Topics page</a>.</li>
+ 		</ul>
+  	<p><em>Site update May 5, 2009:</em></p>
+  		<ul>
+ 			<li>Discounted Opera tickets are no longer available. </li>
+ 			<li>Abstract submission continues after the deadline. <a href="abstracts.html">Submit</a> yours now.</li>
+ 			<li>We have added a set of Instructions pages covering <a href="instructions.html">General topics</a>, <a href="insthelsinki.html">Helsinki</a>, and <a href="instfinnish.html">the Finnish language</a>.</li>
+ 			<li>We have added a <a href="tourism.html">tourism page</a> with a list of links to various places in Finland.</li>
+ 		</ul>
+
+  	<p><em>Site update April 15, 2009:</em></p>
+  		<ul>
+ 			<li>Late registration has closed.</li>
+ 			<li>More than 160 participants and 25 accompanying persons have registered.</li>
+ 		</ul>
+  	<p><em>Site update April 1, 2009:</em></p>
+  		<ul>
+ 			<li><a href="rego.html">Late registration</a> is now open.</li>
+ 			<li>Normal registration is now closed.</li>
+ 			<li>Only very few hotel rooms remain available.</li>
+ 		</ul>
+
+  	<p><em>Site update January 7, 2009: </em><a href="rego.html">Registration</a> is now open.</p>
+ 	<p><em>Site update December 24, 2008:</em></p>
+ 		<ul>
+ 			<li>Registration will open on January 7<sup>th</sup>, 2009.</li>
+ 			<li>The details of the conference banquet have been finalized.</li>
+ 			<li>A special luncheon has been added on the final day to commemorate this being the historic 30<sup>th</sup> meeting.</li>
+ 			<li>We have confirmed that there will be a special issue of the Journal of Physical Chemistry for the Symposium.</li>
+ 		</ul>
+
+
+ 	<p><em>Site update October 22, 2008: </em>We now have a complete list of <a href="talks.html">talks and topics</a>.</p>
+
+ 	<h4>Welcome</h4>
+
+ 	<div class="imagebox">
+ 		<img src="pictures/olavinlinna01.jpg" width="400" height="322" class="art" alt="Olavinlinna castle" />
+ 		<p>Olavinlinna castle with Savonlinna in the background.</p>
+ 	</div>
+
+ 	<p>Welcome to the website for the 30<sup>th</sup> International Symposium on Free Radicals. The conference will be held in Savonlinna, Finland from the 25<sup>th</sup> until the 30<sup>th</sup> of July, 2009.</p>
+
+ 	<p>The dates of the Symposium coincide with the world-renowned Savonlinna Opera Festival. Information on performances and ticket availability is provided on our <a href="opera.html">Opera page</a>.</p>
+
+ 	<p>The conference banquet - with Sir Harold Kroto giving the banquet speech and a dance band providing entertainment - will be held on the 29<sup>th</sup> of July, which coincides with the 370<sup>th</sup> Saint Olaf's Day. Fireworks will be launched over Savonlinna to celebrate.</p>
+
+ 	<p>Because the 2009 Free Radicals Symposium is the 30<sup>th</sup> such meeting, we will host a special luncheon on the final day (the 30<sup>th</sup> of July). J&#252;rgen Troe will give a retrospective address. A solo pianist will provide background music.</p>
+
+ 	<div class="madbox">
+ 		<p>The 30<sup>th</sup> International Symposium on Free Radicals is sponsored by</p>
+ 		<ul>
+ 			<li><a href="http://www.skr.fi/default.asp?docId=12256" target="_blank">The Finnish Cultural Foundation</a></li>
+ 			<li><a href="http://www.scientiarum.fi" target="_blank">The Finnish Society of Sciences and Letters</a></li>
+ 			<li><a href="http://www.savonlinna.fi" target="_blank">The City of Savonlinna</a></li>
+ 			<li><a href="http://www.pubs.acs.org/JPC " target="_blank">The Journal of Physical Chemistry</a></li>
+ 			<li><a href="http://www.tsv.fi" target="_blank">Federation of Finnish Learned Societies</a></li>
+ 			<li><a href="http://www.fortum.com/document.asp?path=14022;14024;14026;14043;14116;14118;34820;34826" target="_blank">Fortum Foundation</a></li>
+ 			<li><a href="http://www.laserglow.com/" target="_blank">Laserglow</a></li>
+ 			<li><a href="http://www.quantel-laser.com/en/" target="_blank">Quantel</a></li>
+ 			<li><a href="http://www.coherent.com/" target="_blank">Coherent</a></li>
+ 			<li><a href="http://www.bfioptilas.se" target="_blank">BFi Optilas</a></li>
+ 			<li><a href="http://www.bruker.com/nordic.html" target="_blank">Bruker</a></li>
+ 			<li><a href="http://www.gasmet.fi/" target="_blank">Gasmet</a></li>
+ 			<li><a href="http://www.rsc.org/Publishing/Journals/CP/index.asp" target="_blank">PCCP</a></li>
+ 			<li><a href="http://www.ipgphotonics.com/" target="_blank">IPG Photonics</a></li>
+ 			<li><a href="http://www.aculight.com/" target="_blank">Lockheed Martin Aculight</a></li>
+ 			<!-- li><a href="http://www.koheras.com/" target="_blank">Koheras</a></li -->
+ 			<li><a href="http://www.nktphotonics.com" target="_blank" title="NKTPhotonics">NKT Photonics</a></li>
+ 			<li><a href="http://www.emilaaltonen.fi/" target="_blank">Emil Aaltonen Foundation</a></li>
+ 			<li><a href="http://www.flagmore.com/" target="_blank">Flagmore</a></li>
+ 			<!-- li><a href="http://www.kemia-lehti.fi/" target="_blank">Kemia Kemi</a></li -->
+
+ 		</ul>
+ 	</div>
+ </div><!-- END NEWSCONTENTDIV -->
+
+
+
+</div><!--END MAIN-->
+
+
+<div id="footer"><!--START FOOTER-->
+
+		<span class="mail">free-radicals<img class="bu" src="images/bu.png" alt="an image of the familiar symbol, email address harvesters" title="the at symbol" />helsinki.fi</span>
+
+</div><!--END FOOTER-->
+
+
+</div><!--END CONTAINER-->
+</body>
+
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.esas2010.pwr.wroc.pl/>====================
+<head>
+<meta http-equiv="content-language" content="en">
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-2">
+
+<title>European Symposium on Atomic Spectrometry ESAS-2010 - </title><meta name="Description" content="Welcome to Conference - Europen Symposium on Atomic Spectrometry - ESAS 2010 in Wroclaw, Poland, 5-8 Semtember 2010 - Wroclaw University of Technology - "><meta name="keywords" content="conference, plasma, ICP, plasma emission, atomic spectrometry, ESAS, AAS, laser, fluorescence, Atomic Spectrometry, Fundamentals and Applications, Development of New Techniques, Atomic Absorption and Atomic Fluorescence Spectrometry, Atomic Emission Spectrometry, Inorganic Mass Spectrometry, Sample Introduction Techniques, Speciation Analysis, Trace and Ultratrace Analysis, Quality of Measurements and Metrology" >
+<link rel="stylesheet" type="text/css" href="style.css" >
+<meta name="Robots" content="index,follow" >
+<link rel="shortcut icon" href="favicon.ico" >
+<meta name="copyright" content="ESAS2010" >
+<meta name="google-site-verification" content="yej3gTchkhM_BksVUb1tz3kdGf5eB-BepS6Q_9UI7EQ" />
+</head>
+<body><div id="header">
+	<div id="logo">
+		<a href="http://www.esas2010.pwr.wroc.pl"><img src="logo.jpg" alt="esas2010"></a><h1>European Symposium on Atomic Spectrometry <br> ESAS 2010 </h1><br>
+		<span>Wroc³aw University of Technology <br> 5-8 September 2010, Wroc³aw, Poland</span>
+	</div>
+</div>
+<div id="wrapper"> <div id="page">
+	<div id="page-bg">
+
+<div id="sidebar1" class="sidebar">
+			<ul>
+				<li>
+					<ul>
+						<li><a href="index.php">Start</a></li>
+						<li><a href="invitation.html">Invitation</a></li>
+						<li><a href="information.html">Information</a></li>
+				
+						<li><a href="venue.html">Venue</a></li>
+						
+						<li><a href="program.html">Conference Program</a></li>
+						<li><a href="sponsors.html">Conference Sponsors</a></li>
+						<li><a href="contributions.html">Conference Contributions</a></li>
+						<li><a href="exh.html">Conference Exhibitors</a></li>
+						
+						
+						
+						<li><a href="circular.html">ESAS 2010 Circular</a></li>
+						
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+				</li>
+			
+			</ul>
+<center><a href="http://www.malamut.pl" target="_blank"><img src="images/analityka.gif"></a></center>
+<br>
+<center></center>
+</div>
+
+		
+<div id="content">
+			<div class="post">
+				
+				<div class="entry">
+					<b>European Symposium on Atomic Spectrometry ESAS 2010</b><br>
+<br>
+Wroclaw University of Technology, Wroclaw, Poland, 
+5 - 8 September 2010<br><br>
+<b><a href="http://www.sciencedirect.com/science/journal/05848547/66/7">Thematic Issue: European Symposium on Atomic Spectrometry (ESAS 2010) in Spectrochimica Acta Part B Atomic Spectrometry Volume 66, Issue 7, Pages 491-566 (July 2011) </a></b></br> 
+
+<br>
+<h3>The ESAS 2010 ended September 8, 2010<br> The Analytical Chemistry Division thanks all participants for coming to Wroclaw.</h3>
+<a href="http://malamut.pl/56,492,esas-2010-viii-europejska-konferencja-spektrometrii-atomowej-wroclaw-5-9-wrzesnia-2010-roku">Photosession of the European Symposium on Atomic Spectrometry</a><br>
+<b>Organized by:</b><br>  
+
+Analytical Chemistry Division, Faculty of Chemistry, Wroc³aw University of Technology<br>
+Faculty of Chemistry, Warsaw University<br><br>
+
+<b>With support by:</b><br> 
+<a href="index.php?esas=support">Commission of Atomic and Molecular Spectrometry of Committee of Analytical Chemistry of Polish Academy of Sciences</a><br>
+<A HREF="http://www.gdch.de/strukturen/fg/ach/aks/dasp.htm">DASp, German Working Group for Applied Spectroscopy</a><br>
+<a href="http://www.spektroskopie.cz/">The Ioannes Marcus Marci Spectroscopic Society</a><br><br>
+<center>
+<img src="images/logo_pwr.gif" alt="Pwr"><img src="images/logo_s.jpg" alt="Warsaw University">
+<img src="images/logo_pl.jpg" alt="Commission of Atomic and Molecular Spectrometry"><img src="images/logo_de.gif" alt="DASp, German Working Group for Applied Spectroscopy"><img src="images/logo_cz.gif" alt="The Ioannes Marcus Marci Spectroscopic Society"></center>
+<br><br><center><a href="../files/program.pdf"><h3>ESAS 2010 PROGRAM - PDF</h3></a></center><br><br>
+
+				
+				</div>
+			</div>
+		</div>
+		<div style="clear: both;">&nbsp;</div>
+
+	</div>
+	</div>
+<div id="footer2">
+<center><a href="http://www.thermo.com/" target="_blank"><img src="images/thermo.jpg"></a><a href="http://www.poll.pl/" target="_blank"><img src="images/poll_lab.jpg"></a><a href="http://www.gbcpolska.pl/" target="_blank"><img src="images/gbc.jpg"></a><a href="http://www.comef.com.pl/" target="_blank"><img src="images/comef.jpg"></a><a href="http://www.shimadzu.com" target="_blank"><img src="images/shimadzu.jpg"></a><a href="http://www.analityk.com" target="_blank"><img src="images/analityk.png"></a><br><a href="http://www.analytik-jena.com" target="_blank"><img src="images/analytikjena.jpg"></a><a href="http://www.anton-paar.com" target="_blank"><img src="images/anton_paar.jpg"></a><a href="http://www.2theta.cz" target="_blank"><img src="images/2theta.jpg"></a>
+</center></div>
+
+<div id="footer">
+
+	<p class="link">www.ESAS2010.pl</p>
+	<p class="link">LAST UPDATE: 01.01.2011 | <a href="http://www.zcha.pwr.wroc.pl">Analytical Chemistry Group</a> | <a href="http://www.plazma.certigo.com.pl">PJ</a></p>
+</div>
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11648426-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://xelafot.ciq.uchile.cl/>====================
+<html>
+
+<head>
+	<title>Facultad de Cs. Qu&iacute;micas y Farmac&eacute;uticas Universidad de Chile</title>
+	<link rel="stylesheet" type="text/css" href="/Template068Blank.css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+.style1 {font-family: Symbol}
+-->
+</style>
+<style type="text/css">
+<!--
+.style2 {font-size: 14px}
+-->
+</style>
+</head>
+
+<body topmargin="0" leftmargin="0">
+
+<div align="center">
+  <table cellpadding="0" cellspacing="0" width="752" class="Top">
+	  <tr>
+		  <td width="752"><img src="imagesBlank/fcqfchile-750x108.jpg" width="750" height="108"></td>
+	  </tr>
+  </table>
+  <table cellpadding="0" cellspacing="0" width="752" class="Middle">
+	  <tr>
+		  <td width="752" height="24" bgcolor="#90ACD6"><div align="center"><span class="titulo_secci&oacute;n">Secretaria de Estudios</span>
+		    <script src="xaramenu.js"></script><script Webstyle4 src="images/menu_.js"></script>
+		  </div></td>
+	  </tr>
+  </table>
+  <table cellpadding="0" cellspacing="0" width="752" class="Middle">
+	  <tr>
+		  <form>
+			  <td bgcolor="#D7D6D4" class="Color1"><img src="imagesBlank/Back3.gif" width="324" height="32"></td>
+			  <td class="Color1">&nbsp;</td>
+			  <td class="Color1">&nbsp;</td>
+			  <td class="Color1">&nbsp;</td>
+			  <td class="Color1">&nbsp;</td>
+			  <td class="Color1">&nbsp;</td>
+		  </form>
+	  </tr>
+  </table>
+  <table cellpadding="0" cellspacing="0" width="752" class="Middle">
+	  <tr height="1">
+	    <td class="ImageBack" valign="top"><img src="/imagesBlank/Backchico.jpg" width="6" height="30"></td>
+	    <td class="ImageBack" valign="top">
+			  <p class="NoBreakBefore"><img src="imagesBlank/Back4.gif" width="232" height="30"></p>
+			  <p class="NoiseErrorDataTD">Men&uacute;</p>
+			  <p class="NoBreakBefore" align="right"><img src="imagesBlank/Photo1editorial.jpg" width="161" height="121"></p>                                                      <ul>
+			    <li><a href="/1_2014">Horarios</a></li>
+			    <li><a href="/view.php?inc=pruebas.php">Pruebas A</a></li>
+			    <li><a href="/view.php?inc=examenes.php">Examenes</a></li>
+			    <li><a href="/view.php?inc=mallasa.html">Mallas Curriculares</a></li>
+			    <li>Alumnos</li>
+			    <li><a href="/encuesta/index.php">Encuesta Acad&eacute;mica</a> </li>
+			    <li><a href="includes/Informe-Prof-Primavera2004.doc" target="_blank">Informe de actividades del profesor</a> </li>
+			    <li><a href="Decreto.jpg" target="_blank">Nuevo Sistema de Evaluaci&oacute;n </a></li>
+			  </ul>			  
+			  <br>
+			  <p class="NoBreakBefore" align="right"><img src="imagesBlank/Photo2editorial.jpg" width="161" height="121"></p>
+		    <p class="Indented28R Font" align="right">&nbsp;		</p>
+	    </td>
+		  <td>
+			  <table cellpadding="0" cellspacing="0" height="100%">
+				  <tr>
+					  <td><img src="imagesBlank/Back5.jpg" width="87" height="119"></td>
+				  </tr>
+				  <tr height="100%">
+					  <td class="VShadowBack"></td>
+				  </tr>
+				  <tr>
+					  <td><img src="imagesBlank/Image.jpg" width="87" height="126"></td>
+				  </tr>
+			  </table>
+		  </td>
+		  <td valign="top" width="100%">
+			  <table cellpadding="0" cellspacing="0" width="100%">
+				  <tr>
+					  <td class="Color2">
+						  <table cellpadding="0" cellspacing="0" width="100%">
+							  <tr>
+							    <td class="Indented40R style1"></td>
+							    <td><span class="titulo_secci&oacute;n">Noticias</span></td>
+							    <td>&nbsp;</td>
+						    </tr>
+							  <tr>
+								  <td></td>
+								  <td>
+									  <table cellpadding="0" cellspacing="0" width="100%">
+										  <tr>
+											  <td>
+												  <table cellpadding="0" cellspacing="0" width="100%">
+													  <tr>
+													    <td width="100%" bgcolor="#D6ECF9"><br>
+													      <table width="100%" border="0" cellspacing="0" cellpadding="4"><tr><td colspan="2" bgcolor="#D7D6D4"><div align="left"><p class="fecha">&nbsp;&nbsp;<p class="titulo_noticia">Mr.</p></div><td><br><br><a href="index.php"><img src="imagesBlank/More.gif"  alt="Noticia Completa"border="0" width="13" height="9"></a></td></td></tr><tr><td align="center" valign="top"></td><td valign="top"><div align="justify"><p class="Indented8L">1&nbsp;...<br></p><br><p class="leer"><a href="/view.php?inc=noticias.php&id=523">[Noticia Completa]</a></p></div></td></tr><tr><td colspan="2"><hr size="1"></td></tr><tr><td colspan="2" bgcolor="#D7D6D4"><div align="left"><p class="fecha">&nbsp;&nbsp;<p class="titulo_noticia">Mr.</p></div><td><br><br><a href="index.php"><img src="imagesBlank/More.gif"  alt="Noticia Completa"border="0" width="13" height="9"></a></td></td></tr><tr><td align="center" valign="top"></td><td valign="top"><div align="justify"><p class="Indented8L">1&nbsp;...<br></p><br><p class="leer"><a href="/view.php?inc=noticias.php&id=522">[Noticia Completa]</a></p></div></td></tr><tr><td colspan="2"><hr size="1"></td></tr><tr><td colspan="2" bgcolor="#D7D6D4"><div align="left"><p class="fecha">&nbsp;&nbsp;<p class="titulo_noticia">Mr.</p></div><td><br><br><a href="index.php"><img src="imagesBlank/More.gif"  alt="Noticia Completa"border="0" width="13" height="9"></a></td></td></tr><tr><td align="center" valign="top"></td><td valign="top"><div align="justify"><p class="Indented8L">1&nbsp;...<br></p><br><p class="leer"><a href="/view.php?inc=noticias.php&id=521">[Noticia Completa]</a></p></div></td></tr><tr><td colspan="2"><hr size="1"></td></tr><tr><td colspan="2" bgcolor="#D7D6D4"><div align="left"><p class="fecha">&nbsp;&nbsp;<p class="titulo_noticia">Mr.</p></div><td><br><br><a href="index.php"><img src="imagesBlank/More.gif"  alt="Noticia Completa"border="0" width="13" height="9"></a></td></td></tr><tr><td align="center" valign="top"></td><td valign="top"><div align="justify"><p class="Indented8L">1&nbsp;...<br></p><br><p class="leer"><a href="/view.php?inc=noticias.php&id=520">[Noticia Completa]</a></p></div></td></tr><tr><td colspan="2"><hr size="1"></td></tr><tr><td colspan="2" bgcolor="#D7D6D4"><div align="left"><p class="fecha">&nbsp;&nbsp;<p class="titulo_noticia">Mr.</p></div><td><br><br><a href="index.php"><img src="imagesBlank/More.gif"  alt="Noticia Completa"border="0" width="13" height="9"></a></td></td></tr><tr><td align="center" valign="top"></td><td valign="top"><div align="justify"><p class="Indented8L">1&nbsp;...<br></p><br><p class="leer"><a href="/view.php?inc=noticias.php&id=519">[Noticia Completa]</a></p></div></td></tr><tr><td colspan="2"><hr size="1"></td></tr><tr><td colspan="2" bgcolor="#D7D6D4"><div align="left"><p class="fecha">&nbsp;&nbsp;<p class="titulo_noticia">Mr.</p></div><td><br><br><a href="index.php"><img src="imagesBlank/More.gif"  alt="Noticia Completa"border="0" width="13" height="9"></a></td></td></tr><tr><td align="center" valign="top"></td><td valign="top"><div align="justify"><p class="Indented8L">1&nbsp;...<br></p><br><p class="leer"><a href="/view.php?inc=noticias.php&id=518">[Noticia Completa]</a></p></div></td></tr><tr><td colspan="2"><hr size="1"></td></tr><tr><td colspan="2" bgcolor="#D7D6D4"><div align="left"><p class="fecha">&nbsp;&nbsp;<p class="titulo_noticia">Mr.</p></div><td><br><br><a href="index.php"><img src="imagesBlank/More.gif"  alt="Noticia Completa"border="0" width="13" height="9"></a></td></td></tr><tr><td align="center" valign="top"></td><td valign="top"><div align="justify"><p class="Indented8L">1&nbsp;...<br></p><br><p class="leer"><a href="/view.php?inc=noticias.php&id=517">[Noticia Completa]</a></p></div></td></tr><tr><td colspan="2"><hr size="1"></td></tr><tr><td colspan="2" bgcolor="#D7D6D4"><div align="left"><p class="fecha">&nbsp;&nbsp;<p class="titulo_noticia">Mr.</p></div><td><br><br><a href="index.php"><img src="imagesBlank/More.gif"  alt="Noticia Completa"border="0" width="13" height="9"></a></td></td></tr><tr><td align="center" valign="top"></td><td valign="top"><div align="justify"><p class="Indented8L">1&nbsp;...<br></p><br><p class="leer"><a href="/view.php?inc=noticias.php&id=516">[Noticia Completa]</a></p></div></td></tr><tr><td colspan="2"><hr size="1"></td></tr><tr><td colspan="2" bgcolor="#D7D6D4"><div align="left"><p class="fecha">&nbsp;&nbsp;<p class="titulo_noticia">Mr.</p></div><td><br><br><a href="index.php"><img src="imagesBlank/More.gif"  alt="Noticia Completa"border="0" width="13" height="9"></a></td></td></tr><tr><td align="center" valign="top"></td><td valign="top"><div align="justify"><p class="Indented8L">1&nbsp;...<br></p><br><p class="leer"><a href="/view.php?inc=noticias.php&id=515">[Noticia Completa]</a></p></div></td></tr><tr><td colspan="2"><hr size="1"></td></tr><tr><td colspan="2" bgcolor="#D7D6D4"><div align="left"><p class="fecha">&nbsp;&nbsp;<p class="titulo_noticia">Mr.</p></div><td><br><br><a href="index.php"><img src="imagesBlank/More.gif"  alt="Noticia Completa"border="0" width="13" height="9"></a></td></td></tr><tr><td align="center" valign="top"></td><td valign="top"><div align="justify"><p class="Indented8L">1&nbsp;...<br></p><br><p class="leer"><a href="/view.php?inc=noticias.php&id=514">[Noticia Completa]</a></p></div></td></tr><tr><td colspan="2"><hr size="1"></td></tr></table>												    </tr>
+												  </table>
+											  </td>
+										  </tr>
+										  <tr>										</tr>
+									  </table>
+								  </td>
+								  <td><img src="_blank.gif" width="18" height="8"></td>
+							  </tr>
+						  </table>
+					  </td>
+				  </tr>
+				  <tr>
+					  <td>
+						  <table cellpadding="0" cellspacing="0">
+							  <tr height="1">
+							    <td bgcolor="#D7D6D4">&nbsp;</td>
+							    <td bgcolor="#D7D6D4" class="titulo_secci&oacute;n">&nbsp; </td>
+							    <td bgcolor="#D7D6D4">&nbsp;</td>
+							    <td bgcolor="#D7D6D4">&nbsp;</td>
+						    </tr>
+							  <tr height="1">
+							    <td bgcolor="#D7D6D4">&nbsp;</td>
+							    <td bgcolor="#D7D6D4" class="titulo_secci&oacute;n">&nbsp;</td>
+							    <td bgcolor="#D7D6D4">&nbsp;</td>
+							    <td bgcolor="#D7D6D4">&nbsp;</td>
+						    </tr>
+							  <tr height="1">
+								  <td class="Color3"><img src="_blank.gif" width="18" height="1"></td>
+							    <td class="Color3">
+									  <p><img src="_blank.gif" width="138" height="1"></p>
+									  <p><img src="imagesBlank/News.gif" width="39" height="12"></p>
+								    <p><br>
+								  </p>
+								  </td>
+								  <td class="Color3">
+									  <table cellpadding="0" cellspacing="0" height="100%">
+										  <tr>
+											  <td><img src="_blank.gif" width="1" height="24"></td>
+										  </tr>
+										  <tr height="100%">
+											  <td class="VSeparatorBack"><img src="_blank.gif" width="95" height="1"></td>
+										  </tr>
+										  <tr>
+											  <td><img src="_blank.gif" width="1" height="24"></td>
+										  </tr>
+									  </table>		
+								  </td>
+								  <td width="100%" class="Color3">
+									  <p><img src="_blank.gif" width="138" height="1"></p>
+									  <p><img src="imagesBlank/News.gif" width="39" height="12"></p>
+									  <p>&nbsp;</p>
+									  <p class="Color3"> <br>
+  </p>
+									  <br>							  </td>
+							  </tr>
+						  </table>
+					  </td>
+				  </tr>
+				  <tr>
+					  <td class="Color4"><img src="_blank.gif" width="1" height="12"></td>
+				  </tr>
+			  </table>	
+		  </td>
+	  </tr>
+  </table>
+  <table cellpadding="0" cellspacing="0" width="752" class="Bottom">
+	  <tr>
+		  <td class="BarBack"><img src="_blank.gif" width="20" height="1"></td>
+		  <td class="BarBack" width="100%"><a href="index.php"><img src="imagesBlank/ButtonContactUs.gif" border="0" width="125" height="25"></a></td>
+		  <td><a href="index.php"><img src="imagesBlank/ButtonLinkHome.gif" border="0" width="69" height="25"></a></td>
+		  <td><a href="index.php"><img src="imagesBlank/ButtonLinkCompany.gif" border="0" width="81" height="25"></a></td>
+		  <td><a href="index.php"><img src="imagesBlank/ButtonLinkProducts.gif" border="0" width="89" height="25"></a></td>
+		  <td><a href="index.php"><img src="imagesBlank/ButtonLinkService.gif" border="0" width="80" height="25"></a></td>
+		  <td><a href="index.php"><img src="imagesBlank/ButtonLinkLogin.gif" border="0" width="68" height="25"></a></td>
+		  <td><img src="imagesBlank/Back6.gif" width="14" height="25"></td>
+	  </tr>
+  </table>
+</div>
+</body>
+
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.chemistry-conferences.com/2010/07/25%20-%2030%20Symposium%20on%20Solubility%20Phenomena%20(Leoben%20-%20AT).htm>====================
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="/navi/main.css">
+<title>25 - 30 July 2010 : 14th International Symposium on Solubility Phenomena & Related Equilibrium Processes / Leoben (AT)</title>
+<base target="_top">
+</head>
+<body>
+<div id="content">
+<h1>14th International Symposium on Solubility Phenomena & Related Equilibrium Processes</h1>
+<p><b>Topics:</b> <a href="../../topics/physical-chemistry.htm">Physical 
+Chemistry</a>, <b>Keywords:</b> 
+see below</p>
+<p><b>Date:</b> /25/26/27/28/29/30/ <a href="index.php">July 2010</a>, Leoben, 
+Austria, Europe</p>
+<p><b>
+<a target="_blank" href="http://issp.unileoben.ac.at/">Web Site</a></b>, <b>
+	Contact:</b> heinz.gamsjaeger [at] mu-leoben.at (Prof. Heinz Gamsjäger)</p>
+<p>&nbsp;&nbsp;</p>
+<p><b>Official Information:</b></p>
+<p>Traditionally the symposium deals with all aspects of solubility: in and between solids, liquids and gases; new experimental methods for investigation of solubility phenomena, new analytical techniques, new experimental data, prediction of solubilities and phase equilibria by thermodynamic and molecular modelling, correlation to molecular structure, thermodynamic data bases, application of solubility data and phase equilibria in industry, for protection of environment and in geochemistry.</p>
+
+</div>
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-2125070-5";
+</script>
+<div id="logo">
+<a href="/"><img border="0" src="/navi/logo.gif" width="200" height="50" alt="Chemistry Conferences"></a>
+</div>
+<div id="navi" class="menu">
+<ul>
+<li><a href="/calendar.htm">Calendar</a></li>
+<li><a href="/topics/">Scientific Conferences</a></li>
+<li><a href="/courses/">Training Courses</a></li>
+<li><a href="/search.htm">Search Specific Events</a></li>
+<li><a href="/suggestions.htm">Event Submission</a></li>
+<li><a href="/products.htm">Product of the Month
+<script type="text/javascript">
+var date = new Date();
+var month = date.getMonth() + 1;
+pm="<br><img src='http://www.organic-chemistry.org/ads/pm/pm-"+month+".gif' width='150' height='80' vspace='5'>";
+document.writeln (pm);
+</script></a>
+</li>
+<li><a href="/directory/">Directory</a></li>
+<li><a href="/rss.htm"><img src="/navi/rss.gif"></a></li>
+</ul>
+<script type="text/javascript" src="/navi/fb.js"></script>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3791433852221163";
+/* Chemistry Conferences 200x200, Erstellt 08.07.09 */
+google_ad_slot = "7882638477";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+</div>
+<div id="banner">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3791433852221163";
+/* 728x90, Erstellt 18.11.08 */
+google_ad_slot = "3029953168";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="/ads/banner-5.js">
+</script>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2125070-5");
+pageTracker._trackPageview();
+} catch(err) {}</script></body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.fechem.uzh.ch/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+"http://www.w3.org/TR/html4/frameset.dtd">
+
+<html>
+  <head>
+    <meta name="generator" content=
+    "Microsoft FrontPage 4.0">
+
+    <title>XVth FECHEM Conference</title>
+
+    <script type="text/javascript" language="javascript">
+      function checkframe() {
+        if (top.location != self.location) 
+        {
+          top.location.replace(self.location);
+        }
+      }
+    </script>
+  </head>
+  <frameset rows="65,*" onload="checkframe()" frameborder="0">
+    <!-- header row -->
+    <frame name="header" src="header.html" frameborder="0"
+    marginwidth="0" marginheight="2" noresize="noresize"
+    scrolling="no">
+
+    <frameset cols="150,*">
+
+      <!-- toc column -->
+
+      <frame name="toc" src="toc.html" frameborder="0" marginwidth="0"
+      marginheight="0" noresize="noresize" scrolling="no">
+
+      <!-- content column -->
+      <frame name="content" src="main.html" frameborder="0"
+      marginheight="0">
+    </frameset>
+  </frameset>
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://solnchem.jp/sscjemlg/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=shift_jis">
+		<title>Joint Conference of JMLG/EMLG Meeting 2007 and 30th Symposium on Solution Chemistry of Japan</title>
+	</head>
+
+	<frameset cols="150,*" border="2">
+		<frame name="left" src="http://www.irisa-lab.bio.kyutech.ac.jp/sscjemlg/menu.html" marginwidth="0">
+		<frame name="right" src="http://www.irisa-lab.bio.kyutech.ac.jp/sscjemlg/top.html" marginwidth="0">
+		<noframes>
+
+			<body bgcolor="#ffffff" link="#000088" vlink="#9900cc" alink="#990000" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" background="../images/header.jpg" height="50">
+					<tr>
+						<td rowspan="2" valign="top" width="210"><a href="../index.html"><img src="../images/title-small.jpg" alt="—n‰t‰»ŠwŒ¤‹†‰ï" height="50" width="191" border="0"></a></td>
+						<td align="right" valign="top"><font size="-1">Japanese page only.</font></td>
+					</tr>
+					<tr>
+						<td><font size="-1">&gt; <a href="../sscj/index.html">—n‰t‰»ŠwƒVƒ“ƒ|ƒWƒEƒ€</a> &gt; ‘æ30‰ñ—n‰t‰»ŠwƒVƒ“ƒ|ƒWƒEƒ€</font></td>
+					</tr>
+				</table>
+				<blockquote>
+					<p><font color="red">‚±‚Ìƒy[ƒW‚ÍƒtƒŒ[ƒ€‚ðŽg—p‚µ‚Ä‚¢‚Ü‚·BˆÈ‰º‚ÍƒtƒŒ[ƒ€”ñ‘Î‰žƒuƒ‰ƒEƒU‚Ì‚½‚ß‚Ì•\Ž¦‚Å‚·B</font></p>
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#eeeeee">
+						<tr>
+							<th align="left">‘æ30‰ñ—n‰t‰»ŠwƒVƒ“ƒ|ƒWƒEƒ€</th>
+						</tr>
+					</table>
+					<p>‘æ30‰ñ—n‰t‰»ŠwƒVƒ“ƒ|ƒWƒEƒ€iJoint Conference of JMLG/EMLG Meeting 2007 and 30th Symposium on Solution Chemistry of Japanj‚ÌƒEƒFƒuƒTƒCƒg‚Í<a href="http://www.irisa-lab.bio.kyutech.ac.jp/sscjemlg/" target="_blank">http://www.irisa-lab.bio.kyutech.ac.jp/sscjemlg/</a>‚Å‚·B</p>
+				</blockquote>
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" background="../images/footer.jpg" height="50">
+					<tr>
+						<td align="center" valign="middle" nowrap><span style="font-size: 11px">§606-8502@‹ž“sŽs¶‹ž‹æ–k”’ì’Ç•ª’¬@‹ž“s‘åŠw‘åŠw‰@—ŠwŒ¤‹†‰È‰»ŠwêU<br>Œõ•¨—‰»ŠwŒ¤‹†Žº“à@—n‰t‰»ŠwŒ¤‹†‰ïŽ––±‹Ç<br>
+						Tel: 075-753-4026, FAX: 075-753-4000, e-mail: jimukyoku&lt;at-mark&gt;solnchem.jp</span></td>
+					</tr>
+				</table>
+				<div align="center">
+					<h6>(c) The Japan Association of Solution Chemistry</h6>
+				</div>
+			</body>
+
+		</noframes>
+	</frameset>
+
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.dcmr.polytechnique.fr/5thUppCon/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="fr"><head>
+
+	
+    <meta http-equiv="Content-Language" content="fr" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="revisit-after" content="5 days" />
+    <meta name="robots" content="index,follow" />
+
+    <title>Laboratoire des MÃ©canismes RÃ©actionnels (DCMR) - UMR 7651
+         - 5th Uppsala Conference on Electron Capture and Transfer Dissociation
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.dcmr.polytechnique.fr/spip/spip.php?page=inc-css-common.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="http://www.dcmr.polytechnique.fr/spip/spip.php?page=inc-css-common.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="http://www.dcmr.polytechnique.fr/spip/spip.php?page=inc-css-print.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://www.dcmr.polytechnique.fr/spip/spip.php?page=inc-css-charte.css" />	
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="spip.php?page=rss" />
+
+    <!--
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    -->
+
+    
+<script src="prive/javascript/jquery.js" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.form.js" type="text/javascript"></script>
+
+<script src="prive/javascript/ajaxCallback.js" type="text/javascript"></script>
+<!-- insert_head -->
+
+  </head>
+
+  <body>
+
+    <div id="principal">
+
+      <div class="accessibility">
+	<ul>
+	  <li><a href="#menu">Aller au menu</a></li>
+	  <li><a href="#recherche">Aller &agrave; la recherche</a></li>
+	  <li><a href="#texte">Aller au contenu</a></li>
+	  <li><a href="#navigation">Aller &agrave; la navigation</a></li>
+        </ul>
+      </div>
+      
+      <div id="top">
+
+	<div id="nom-labo"> 
+	  <h1><a href="http://www.dcmr.polytechnique.fr/spip">Laboratoire des MÃ©canismes RÃ©actionnels (DCMR) - UMR 7651</a></h1>
+	</div>
+
+	<ul id="liens-top">
+	  <li><a href="http://www.cnrs.fr/fr/organisme/presentation.htm" title="Pr&eacute;sentation du CNRS">Le CNRS</a></li>
+	  <li><a href="http://www.cnrs.fr/fr/une/sites-cnrs.htm" title="Les sites du CNRS">Autres sites CNRS</a></li>
+	</ul>
+	
+      </div>
+
+
+      <!-- COLONNE DE GAUCHE -->
+
+      <hr class="accessibility" />
+
+      <div id="colgauche">
+	
+	<!-- Tutelles et partenaires -->
+	
+	<div id="partenaires">
+	  <h2 class="accessibility">Partenaires</h2>
+	  <div class="partenaire">
+	    <img src="plugins/kitcnrs/images/logo-cnrs.gif" alt="CNRS" title="CNRS" />
+	  </div>
+	  <div class="partenaire">
+	    <a href="http://www.polytechnique.fr/"><img src="plugins/kitcnrs/images/Logo-X.png" alt="Logo tutelle" /></a>
+	  </div>
+	</div>
+	
+	<hr class="accessibility" />
+
+	<!-- Menu -->
+
+	<div id="menu">
+	  <h2 class="accessibility">Menu</h2>
+	  <ul class="level1">
+  
+  <li><a href="spip.php?rubrique1" title="">Laboratoire</a>
+  
+  </li>
+  
+  <li><a href="spip.php?rubrique2" title="Description des diffÃ©rentes thÃ©matiques du laboratoire et personnels associÃ©s">Groupes de recherche</a>
+  
+  <ul class="level2">
+    
+    <li><a href="spip.php?rubrique7" title="">ModÃ©lisation, Spectroscopie et Thermochimie</a>
+    
+    </li>
+    
+    <li><a href="spip.php?rubrique8" title="">Chimie - Environnement</a>
+    
+    </li>
+    
+    <li><a href="spip.php?rubrique33" title="">SpectromÃ©trie de masse bio-analytique</a>
+    
+    </li>
+    
+  </ul>
+  
+  </li>
+  
+  <li><a href="spip.php?rubrique4" title="">Production scientifique </a>
+  
+  </li>
+  
+  <li><a href="spip.php?rubrique56" title="">Recrutement</a>
+  
+  <ul class="level2">
+    
+    <li><a href="spip.php?rubrique57" title="">Stages courts</a>
+    
+    </li>
+    
+    <li><a href="spip.php?rubrique58" title="">M2 / ThÃ¨ses</a>
+    
+    </li>
+    
+    <li><a href="spip.php?rubrique63" title="">Post-doctorat</a>
+    
+    </li>
+    
+  </ul>
+  
+  </li>
+  
+  <li><a href="spip.php?rubrique5" title="">SÃ©minaires </a>
+  
+  </li>
+  
+  <li><a href="spip.php?rubrique20" title="">Pages personnelles</a>
+  
+  <ul class="level2">
+    
+    <li><a href="spip.php?rubrique41" title="">StÃ©phane Bouchonnet</a>
+    
+    </li>
+    
+    <li><a href="spip.php?rubrique40" title="">Guy Bouchoux</a>
+    
+    </li>
+    
+    <li><a href="spip.php?rubrique42" title="">Sophie Bourcier</a>
+    
+    </li>
+    
+    <li><a href="spip.php?rubrique36" title="">Carine ClavaguÃ©ra</a>
+    
+    </li>
+    
+    <li><a href="spip.php?rubrique34" title="">Gilles Frison</a>
+    
+    </li>
+    
+    <li><a href="spip.php?rubrique69" title="">ThÃ©rÃ¨se MÃ©rimÃ©e</a>
+    
+    </li>
+    
+    <li><a href="spip.php?rubrique43" title="">Edith Nicol</a>
+    
+    </li>
+    
+    <li><a href="spip.php?rubrique39" title="">Gilles Ohanessian</a>
+    
+    </li>
+    
+    <li><a href="spip.php?rubrique46" title="">Etudiants</a>
+    
+    <ul class="level3">
+	
+        <li><a href="spip.php?rubrique84" title="">Jana Chandramohan</a></li>
+	
+        <li><a href="spip.php?rubrique85" title="">Yannick Lassalle</a></li>
+	
+        <li><a href="spip.php?rubrique86" title="">Julien Pastor</a></li>
+	
+        <li><a href="spip.php?rubrique87" title="">Vanessa Riffet</a></li>
+	
+        <li><a href="spip.php?rubrique71" title="">Jianqing Wu</a></li>
+	
+    </ul>
+    
+    </li>
+    
+    <li><a href="spip.php?rubrique67" title="">Les anciens</a>
+    
+    <ul class="level3">
+	
+        <li><a href="spip.php?rubrique21" title="">Julia Chamot-Rooke</a></li>
+	
+        <li><a href="spip.php?rubrique62" title="">Fabrice Collin</a></li>
+	
+        <li><a href="spip.php?rubrique68" title="">Christian Malosse</a></li>
+	
+        <li><a href="spip.php?rubrique24" title="">Michel Sablier</a></li>
+	
+        <li><a href="spip.php?rubrique38" title="">Guillaume van der Rest</a></li>
+	
+        <li><a href="spip.php?rubrique47" title="">Moussa Diaby</a></li>
+	
+        <li><a href="spip.php?rubrique48" title="">Magalie Duchateau</a></li>
+	
+        <li><a href="spip.php?rubrique70" title="">Joe Gault</a></li>
+	
+        <li><a href="spip.php?rubrique49" title="">Renjie Hui</a></li>
+	
+        <li><a href="spip.php?rubrique60" title="">OphÃ©lie Robine</a></li>
+	
+        <li><a href="spip.php?rubrique37" title="">David Semrouni</a></li>
+	
+        <li><a href="spip.php?rubrique61" title="">Yasmine Souissi</a></li>
+	
+    </ul>
+    
+    </li>
+    
+  </ul>
+  
+  </li>
+  
+</ul>	</div>
+
+	
+	<!-- Annuaire -->
+	<div id="annuaire">
+	  <ul>
+	    <li><a href="spip.php?rubrique6">Annuaire</a></li>
+	  </ul>
+	</div>
+	
+
+	<hr class="accessibility" />
+
+	
+	
+	<!-- Recherche -->
+
+	<div id="recherche">
+	  <h2>Rechercher</h2>
+	  <form action="spip.php" method="get">
+	    <p>Sur ce site</p>
+	    <p><input type="hidden" name="page" value="recherche" />
+	    <input class="box" name="recherche" value="" accesskey="4" />
+	    <input name="submit" src="plugins/kitcnrs/images/charte/ok.gif" title="Rechercher" type="image" /></p>
+	  </form>
+	  <form action="http://www.cnrs.fr/rechercher/english.php" method="post">
+	    <p>Sur le Web du CNRS</p>
+	    <p><input class="box" name="request" value="" />
+	    <input name="submit" src="plugins/kitcnrs/images/charte/ok.gif" title="Rechercher" type="image" /></p>
+	  </form>
+	</div>
+
+	<!-- Menu de langue -->
+
+	<div id="lang">
+	<div class="formulaire_spip formulaire_menu_lang" id="formulaire_menu_lang">
+<form method="post" action="http://www.dcmr.polytechnique.fr/spip/spip.php?action=converser&amp;redirect=spip.php%3Farticle141">
+	<input name="action" value="converser" type="hidden" />
+<input name="redirect" value="spip.php?article141" type="hidden" />
+	<label for="var_lang">Langues du site</label>
+	<select name="var_lang" id="var_lang" onchange="this.parentNode.submit()"><option class='maj-debut' value='en'>English</option>
+<option class='maj-debut' value='fr' selected='selected'>fran&#231;ais</option>
+</select>
+	<noscript><input type="submit" class="submit" value="&gt;&gt;" /></noscript>
+</form>
+</div>	</div>
+	
+      </div>
+
+      <hr class="accessibility" />
+      
+      <!-- COLONNE DE DROITE -->
+
+            <div id="pageseconde">
+
+	<!-- Chemin -->
+	<p id="chemin"><a href="http://www.dcmr.polytechnique.fr/spip">Accueil du site</a> &gt;
+                 
+         
+           <a href="spip.php?rubrique15">ActualitÃ©s et Articles Ã  la une</a> &gt;
+         
+         5th Uppsala Conference on Electron Capture and Transfer Dissociation
+         
+        </p>
+
+       <div id="texte">
+
+
+<!-- Affichage de l'article -->
+
+<div class="groupetitre">
+  
+  <h2 class="">5th Uppsala Conference on Electron Capture and Transfer Dissociation</h2>
+  
+  
+</div>
+
+
+
+<div class=""><p><a href='spip.php?article141#scope' class='spip_in'>Scope of the conference</a> | 
+<a href='spip.php?article141#orga' class='spip_in'>Organizing Committee</a> |
+<a href='spip.php?article141#invited' class='spip_in'>Invited speakers</a>
+<br /><a href='spip.php?article141#program' class='spip_in'>Detailed program</a> |
+<a href='spip.php?article141#loc' class='spip_in'>Location</a> |
+<a href='spip.php?article141#contact' class='spip_in'>Contact information</a> |
+<a href='spip.php?article141#links' class='spip_in'>Links</a></p>
+
+<p><a name="scope"></a>
+<strong>The 2007 conference will take place from December 3rd to 5th 2007 in Paris, France.</strong></p>
+
+<h3 class="spip">Scope of the conference</h3>
+<p>In the line of the previous versions of this conference, the objectives of this meeting are to gather the scientists working in the field of electron capture and electron transfer dissociation for a meeting centered on these emerging techniques. Most aspects of the technique will be covered, from the details of the mechanism which are not yet clear to the increasing number of applications in the field of analysis of biomolecules.</p>
+
+<p>As the conference will take place in France, it should be an opportunity for researchers in Europe for discussion with leading scientists in the area. The conference will allow time for many informal discussions through conference events, as this has proved to be an efficient way of building collaborations.</p>
+
+<p><a name="orga"></a></p>
+
+<h3 class="spip">Organizing Committee</h3>
+<p><strong>Members</strong></p>
+
+<ul class="spip"><li> Dr. Guillaume van der Rest&nbsp;: Laboratoire des MÃ©canismes RÃ©actionnels, Ecole Polytechnique</li><li> Dr. Julia Chamot-Rooke&nbsp;: Laboratoire des MÃ©canismes RÃ©actionnels, Ecole Polytechnique</li><li> Dr. Philippe MaÃ®tre&nbsp;: Laboratoire de Chimie Physique, UniversitÃ© d&#8217;Orsay</li></ul>
+<p><strong>Scientific Board</strong>
+<br />Chairman&nbsp;: Professor Roman Zubarev, Uppsala University, Sweden</p>
+
+<p><a name="invited"></a></p>
+
+<h3 class="spip">Invited speakers</h3>
+<p>The following scientists have agreed to be present at the 5th Uppsala Conference that will take place in Paris, from December 3rd to 5th 2007.</p>
+
+<p><strong>Keynote lecturers</strong>
+<br /><i>Fundamental and mechanisms</i>&nbsp;: <strong>Professor Frank TureÄek</strong>, University of Washington, Seattle, WA, USA.
+<br /><i>Analytical aspects of ECD and ETD</i>&nbsp;: <strong>Professor Donald F. Hunt</strong>, University of Virginia, Charlottesville, VA, USA.
+<br /><i>Methods for probing gas phase structures</i>&nbsp;: <strong>Professor Fred W. McLafferty</strong>, Cornell University, Ithaca, NY, USA.</p>
+
+<p><strong>Guest speakers</strong>
+<br />Professor Roman A. Zubarev, Uppsala University, Uppsala, Sweden.
+<br />Professor Pete B. O&#8217;Connor, Boston University, MA, USA.
+<br />Professor Alan G. Marshall, Florida State University, FL, USA.
+<br />Professor Thomas Rizzo, EPFL, Lausanne, Switzerland.
+<br />Professor Ron M.A. Heeren, FOM-Institute for Atomic and Molecular Physics, Amsterdam, The Netherlands</p>
+
+<p><a name="program"></a></p>
+
+<h3 class="spip">Detailed program</h3>
+<p><strong>Monday December 3 2007</strong></p>
+
+<p>9:00 - 10:30
+<br />- Wellcome of the conference participants, registration and coffee break.
+<br />10:30 - 10:45
+<br />- Opening of the conference (G. van der Rest, J. Chamot-Rooke, P. MaÃ®tre)
+<br />
+<br /><i>Session 1&nbsp;: Fundamental and mechanisms</i></p>
+
+<p>10:45 - 11:45
+<br />- <i>Keynote lecture</i>&nbsp;: <strong>Frank TureÄek</strong> (University of Washington) - Electron Capture and Transfer&nbsp;: Where Does the Electron Go&nbsp;?
+<br />11:45 - 12:15
+<br />- A. Kalli, H. Liu, J. T. Adamson, J. W. Kieltyka, <strong>K. HÃ¥kansson</strong> (University of Michigan) - The Role of Charge Location in Peptide ECD
+<br />12:15 - 13:45
+<br />- Lunch meal
+<br />13:45 - 14:30
+<br />- <strong>P. B. O&#8217;Connor</strong>, C. Lin, J. J. Cournoyer, X. Li (Boston University) - On the role of radical reactions in ECD&nbsp;: New information from double resonance, activated ion ECD experiments.
+<br />14:30 - 15:00
+<br />- <strong>T. Baba</strong>, H. Satake, N. Manri (Hitachi) - Electron Capture Dissociation in a Radio-Frequency Ion Trap
+<br />15:00 - 15:30
+<br />- <strong>K.D. Rand</strong>, M.&nbsp;Zehl, C.M.&nbsp;Adams, O.N. Jensen, R.A. Zubarev, T.J.D. JÃ¸rgensen (University of Southern Denmark and Uppsala University) - ECD and ETD proceeds with a very low degree of intramolecular migration of peptide amide hydrogens
+<br />15:30 - 16:00
+<br />- Coffee break
+<br />16:00 - 16:45
+<br />- <strong>R.M.A. Heeren</strong> (FOM Institute) - Workflow control for data dependent ECD and structural analysis
+<br />16:45 - 17:15
+<br />- Flash presentation for posters (5 minutes each) - Session I
+<br />18:00 - 19:30
+<br />- Wine tasting (Maison des Polytechniciens)</p>
+
+<p><strong>Tuesday December 4 2007</strong></p>
+
+<p><i>Session 2&nbsp;: Analytical aspects of ECD and ETD</i></p>
+
+<p>9:00 - 10:00
+<br />- <i>Keynote lecture</i>&nbsp;: <strong>Donald F. Hunt</strong> (Virginia University) - Analytical Aspects of Electron Transfer Dissociation Mass Spectrometry
+<br />10:00 - 10:30
+<br />- <strong>M.&nbsp;M.&nbsp;Savitski</strong>, M.&nbsp;FÃ¤lth, R. A. Zubarev (Uppsala University) - SwedECD, an annotated database of >10.000 ECD MS/MS spectra of tryptic peptides, application for studying the analytical utility of ions other than c and z in ECD mass spectra
+<br />10:30 - 11:00
+<br />- Coffee break
+<br />11:00 - 11:30
+<br />- S. M.&nbsp;M.&nbsp;Sweet, A. J. Creese, C. G. Zampronio, D. L. Cunningham, F. Khosravi-Mardakheh, A. Langton, J. K. Heath, <strong>H. J. Cooper</strong> (University of Birmingham) - Targeted Electron Capture Dissociation Approaches for Phosphoproteomics and Glycoproteomics
+<br />11:30 - 12:00
+<br />- Flash presentation for posters (5 minutes each) - Session II
+<br />12:00 - 13:30
+<br />- Lunch meal
+<br />13:30 - 14:30
+<br />- Poster session
+<br />14:30 - 15:15
+<br />- <strong>A. G. Marshall</strong>, H. He, Y. O. Tsybin, C. L. Hendrickson, M.&nbsp;R. Emmett (Florida State University and EPFL) - Electron Capture Dissociation. I. Experimental Optimization II. Distinguishing N- vs. C-Terminal Product Peptides. III. Primary Sequence Periodicity for Peptide Cleavages
+<br />15:15 - 15:45
+<br />- <strong>R. Hartmer</strong>, A. Brekenfeld (Bruker Daltonik) - Ion Ion Reactions in Modern 3D Ion Trap&nbsp;: Electron Transfer Dissociation and Proton Transfer Reaction for the Sequence Characterization of Intact Proteins
+<br />15:45 - 16:15
+<br />- Coffee break
+<br />16:15 - 17:00
+<br />- <strong>R. A. Zubarev</strong> (Uppsala University) - Electron Ionization Dissociation - Novel Ion-electron Reaction
+<br />18:30 - 22:00
+<br />- Dinner and cruise on the Seine</p>
+
+<p><strong>Wednesday December 5 2007</strong></p>
+
+<p><i>Session 3&nbsp;: Methods for probing gas phase structures</i></p>
+
+<p>9:00 - 10:00
+<br />- <i>Keynote lecture</i>&nbsp;: <strong>F. W. McLafferty</strong>, G. Infusini, X. Kong, C. Lin, K. Breuker, B. K. Carpenter (Cornell University and University of Innsbruck) - Gaseous Ion Structures Characterized by Electron Capture Dissociation. Dramatic Modifications from Electrospraying Proteins
+<br />10:00 - 10:30
+<br />- <strong>C. Dauly</strong> (Thermo Fischer Scientific, France) - ETD applications for enhanced proteome knowledge
+<br />10:30 - 11:00
+<br />- Coffee break
+<br />11:00 - 11:30
+<br />- <strong>Y. O. Tsybin</strong>, H. Ben Hamidane, L. Grass, O. Yu. Tsybin (EPFL) - Pushing forward ECD product ion abundance distribution analysis
+<br />11:30 - 12:00
+<br />- <strong>J. Chamot-Rooke</strong>, G. van der Rest, G. Frison, F. Turecek, J. Lemaire, T. Besson, P. MaÃ®tre (Ecole Polytechnique, UniversitÃ© Paris-Sud and University of Washington) - Structure of ECD fragments from charge tagged peptides probed by tunable IRMPD&nbsp;: strategy and first results
+<br />12:00 - 13:30
+<br />- Lunch break
+<br />13:30 - 14:00
+<br />- Poster session
+<br />14:00 - 14:45
+<br />- <strong>T. R. Rizzo</strong> (EPFL) - Spectroscopic studies of cold, gas-phase, biomolecular ions&nbsp;: from amino acids to helical peptides
+<br />14:45 - 15:15
+<br />- <strong>J. A. Fayeton</strong>, B. Lucas, M.&nbsp;Barat, M.&nbsp;Perot, C. Jouvet, P. Ã‡arÃ§abal, C. Dedonder-Lardeux, G. GrÃ©goire, S.B. Nielsen (UniversitÃ© Paris-Sud, UniversitÃ© Paris-Nord, Aarhus University) - Role of the carboxyl group in the CÎ±-CÎ² bond breaking in protonated aromatic amino acid.
+<br />15:15 - 15:45
+<br />- <strong>C. F. Correia</strong>, P. O. Balaj, D. Scuderi, P. Maitre, G. Ohanessian (Ecole Polytechnique and UniversitÃ© Paris-Sud) - Structural characterization of phosphorylated peptides&nbsp;: A tunable IRMPD spectroscopy study
+<br />15:45 - 16:00
+<br />- Closing remarks
+<br />16:00 - 17:00
+<br />- Coffee break</p>
+
+<p><a name="loc"></a></p>
+
+<h3 class="spip">Location</h3>
+<p>The conference will take place at the Maison des Polytechniciens, a XVIIth century mansion, located in the center of historical and cultural Paris. Close proximity to major sites, such as the Orsay Museum (only one block away), will allow to include some cultural activities in the conference schedule.</p>
+
+<p><a name="contact"></a></p>
+
+<h3 class="spip">Contact information</h3>
+<p>For all enquiries concerning this event, please contact&nbsp;:</p>
+
+<p>Dr. Guillaume van der Rest
+<br />Laboratoire des MÃ©canismes RÃ©actionnels
+<br />Ecole Polytechnique
+<br />91128 Palaiseau Cedex, France
+<br />Mail&nbsp;: gvdr@dcmr.polytechnique.fr or 5thUppCon@dcmr.polytechnique.fr
+<br />Phone&nbsp;: +33 1 69 33 48 43&nbsp;; Fax&nbsp;: +33 1 69 33 48 03</p>
+
+<p><a name="links"></a></p>
+
+<h3 class="spip">Links</h3>
+<p><a href='http://goodlab.mchem.washington.edu/ECD/' class='spip_out'>3rd Uppcon</a>
+<br /><a href='http://www.chem.cuhk.edu.hk/uppconIV/main.htm' class='spip_out'>4th Uppcon</a></p></div>
+
+ 
+ 
+
+
+
+
+
+
+
+<!-- Fin de l'affichage de l'article -->
+<!-- A lire dans la meme rubrique -->
+
+<div class="autres">
+  <p>Dans la m&ecirc;me rubrique&nbsp;:</p>
+  <ul class="liste-liens">
+     
+    <li><a href="spip.php?article304">Article&nbsp;: Identification and ecotoxicity of degradation products of chloroacetamide herbicides from UV-treatment of water </a></li>
+     
+    <li><a href="spip.php?article305">SÃ©minaire de A. Rijs</a></li>
+     
+    <li><a href="spip.php?article302">SÃ©minaire de S. Fornarini</a></li>
+     
+    <li><a href="spip.php?article301">Soutenance de thÃ¨se Jianqing Wu</a></li>
+     
+    <li><a href="spip.php?article303">Article&nbsp;: Theoretical Insights into the Nature of Divalent Lanthanideâ€“Ligand Interactions</a></li>
+     
+    <li><a href="spip.php?article299">Soutenance de thÃ¨se Ahmad Rifai</a></li>
+     
+    <li><a href="spip.php?article288">Publication d&#8217;une revue pÃ©dagogique en spectromÃ©trie de masse</a></li>
+     
+    <li><a href="spip.php?article277">Article&nbsp;: Globule to Helix Transition in Sodiated Polyalanines</a></li>
+     
+    <li><a href="spip.php?article276">SÃ©minaire de T. Ghislain</a></li>
+     
+    <li><a href="spip.php?article273">Soutenance de thÃ¨se Yasmine Souissi</a></li>
+     
+    <li><a href="spip.php?article272">SÃ©minaire de S. Rodriguez-Mozaz</a></li>
+     
+    <li><a href="spip.php?article271">Soutenance de thÃ¨se de OphÃ©lie Robine</a></li>
+     
+    <li><a href="spip.php?article270">Soutenance de HDR de G. Frison</a></li>
+     
+    <li><a href="spip.php?article269">SÃ©minaire de E. CauÃ«t</a></li>
+     
+    <li><a href="spip.php?article265">Article&nbsp;: Structure of Sodiated Polyglycines</a></li>
+     
+    <li><a href="spip.php?article264">SÃ©minaire des jeunes chimistes de l&#8217;Ecole Polytechnique</a></li>
+     
+    <li><a href="spip.php?article236">Publication au journal Science</a></li>
+     
+    <li><a href="spip.php?article200">Article&nbsp;: Heats of formation and protonation thermochemistry of gaseous benzaldehyde, tropone and quinone methides </a></li>
+     
+    <li><a href="spip.php?article196">Article&nbsp;: Thermodynamic stability versus kinetic lability of ZnS4 core</a></li>
+     
+    <li><a href="spip.php?article266">SÃ©minaire de D. Jacquemin</a></li>
+    
+  </ul>
+</div>
+
+
+
+
+</div><!-- Fin texte -->
+	  <div class="clearer"><hr class="accessibility" /></div>
+	</div>
+	  
+	<!-- IcÃ´nes de navigation -->
+	<div id="navigation">
+	  <h2 class="accessibility">Navigation</h2>
+	  <ul>
+	    <li><a href="http://www.dcmr.polytechnique.fr/spip" title="Accueil du site"><img src="plugins/kitcnrs/images/boite-outils/icones/accueil.gif" alt="Accueil du site" /></a></li>
+	    <li><a href="#" onclick="javascript:window.print()" title="Imprimer"><img src="plugins/kitcnrs/images/boite-outils/icones/imprimer.gif" alt="Imprimer" /></a></li>
+	    <li><a href="spip.php?auteur1" title="Nous contacter"><img src="plugins/kitcnrs/images/boite-outils/icones/contact.gif" alt="Nous contacter" /></a></li>
+	    <li><a href="spip.php?page=plan" title="Plan du site"><img src="plugins/kitcnrs/images/boite-outils/icones/plan.gif" alt="Plan du site" /></a></li>
+	    <li><a href="spip.php?page=credits" title="Cr&eacute;dits"><img src="plugins/kitcnrs/images/boite-outils/icones/credits.gif" alt="Cr&eacute;dits" /></a></li>
+	    <li><a href="spip.php?page=rss" title="Fil RSS du site"><img src="plugins/kitcnrs/images/boite-outils/icones/rss.gif" alt="Fil RSS du site" /></a></li>
+	  </ul>
+	</div>
+      
+    </div><!-- Fin principal -->
+
+  </body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++

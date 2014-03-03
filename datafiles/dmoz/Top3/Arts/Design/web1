@@ -1,0 +1,4518 @@
+====================<http://www.tribu-design.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="/css/default.css" />
+
+<title>Tribu Design - 20th Century Decorative Art and Design</title>
+<meta name="description" content="More than 1000 designers, producers and manufacturers on Tribu-Design : Twentieth Century Furniture, Lighting, Decorative Arts and Industrial Design." />
+<meta name="keywords" content="design industriel,mobilier,furniture,luminaire,lampe,lamp,lighting,industrial design,tribu design,chaise,chair,desk,bureau,design,meuble,arts d&eacute;coratifs,decorative arts" />
+<meta name="author" content="Jean-Jacques Dussol" />
+<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+</head>
+<body>
+<!-- A tous ceux qui désirent découvrir le mobilier, les luminaires et le design industriel de ce siècle, Tribu-Design  propose une base unique de plus de 600 objets, des liens vers les sites qui parlent de design ainsi que de nombreuses rubriques consacrées aux arts décoratifs. -->
+<!-- furniture lighting and industrial design luminaire objet object table chair links chaise bureau desk lamp lampe-->
+
+<div id="header"></div>
+<div id="container"> 
+	<div id="page" style="height:500px;background:  url('utils/push-page.jpg');background-repeat:no-repeat;background-position:center 50px;cursor:pointer" onclick="document.location='en'" title="Tribu-Design">
+<span class="titre">En ligne depuis octobre 1995, Online since october 1995</span>	<div class='langue'><a href='fr'><img src='/utils/flags/fr.gif' alt='Fran&ccedil;ais' border='0' /></a></div>
+	<div class='langue'><a href='en'><img src='/utils/flags/gb.gif' alt='English' border='0' /></a></div>
+		</div>
+		<br style='clear:both' />
+<br style='clear:both' />
+&nbsp;<br />
+&nbsp;<br />
+<div style="text-align:center;width:100%;margin-top:10px">
+	&copy; 2008-2009 Tribu-Design / D&eacute;claration CNIL N&ordm;1098842 <a href="http://www.ceramorph.com">&nbsp;</a>&nbsp;<a href="javascript:safemail()" onmouseover="window.status='';return true;">webmaster&nbsp;Jean-Jacques Dussol&nbsp;<img src="/utils/byjj.gif" border="0" style="vertical-align:middle" alt="ByJJ Jean-Jacques Dussol" /></a>
+</div>
+<script type="text/javascript">
+function safemail(){
+raddr="tribu-design";
+		document.location="mailto:jean_jacques.dussol"+"@"+raddr+".com";
+}
+</script></div>
+<div id='footer'></div>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.designinmotion.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- BEGIN TEMPLATE: FORUMHOME -->
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" id="vbulletin_html">
+<head>
+	<!-- BEGIN TEMPLATE: headinclude -->
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.creativeplanetnetwork.com/forums" />
+<base href="http://www.creativeplanetnetwork.com/forums/" /><!--[if IE]></base><![endif]-->
+<meta name="generator" content="vBulletin 4.2.1" />
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+	<link rel="Shortcut Icon" href="zen_favicon.jpg" type="image/x-icon" />
+
+
+		<meta name="keywords" content="2pop, 2-pop, DV, news, digital video, digital revolution, forum, discussion, boards, best of the boards, cut, camcorder, DIY, movie, Final Cut Pro, DVD Studio Pro, FCP, NLE, non-linear editing, nonlinear editing, video editing, Apple, Mac, compression, compositing, editor, editing, product review, how to, tips, tricks, jobs, jobs board, community, user group, meeting, Firewire, Boris, Panasonic, Sony, Canon, Boris, Cinema Tools, videomaker, film, Betacam, HD, high def, camera, lens, Michael Horton, dslr, RED, phantom, AVCHD, DVCPROHD, XDCAM EX, book store, bookstore, training DVD" />
+		<meta name="description" content="The Digital Filmmaker's Resource Site -- News, Reviews, Jobs and Forums for the DV Pro" />
+
+
+
+
+
+<script type="text/javascript">
+<!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=421"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=421"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=421"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=d080970d5f70e86c60d32cbf983038d5&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "421";
+	var BBURL = "http://www.creativeplanetnetwork.com/forums";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "index";
+	var RELPATH = "";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.creativeplanetnetwork.com/forums/";
+// -->
+</script>
+<script type="text/javascript" src="http://www.creativeplanetnetwork.com/forums/clientscript/vbulletin-core.js?v=421"></script>
+
+
+
+	<link rel="alternate" type="application/rss+xml" title="Creative Planet Network Forums RSS Feed" href="http://www.creativeplanetnetwork.com/forums/external.php?type=RSS2" />
+	
+
+
+
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=3&amp;langid=1&amp;d=1379604433&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css," />
+
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=3&amp;langid=1&amp;d=1379604433&amp;td=ltr&amp;sheet=popupmenu-ie.css,vbulletin-ie.css,vbulletin-chrome-ie.css,vbulletin-formcontrols-ie.css,editor-ie.css" />
+	<![endif]-->
+
+
+<!-- END TEMPLATE: headinclude -->
+	<title>Creative Planet Network Forums</title>
+	<script type="text/javascript" src="clientscript/vbulletin_read_marker.js?v=421"></script>
+	
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=3&amp;langid=1&amp;d=1379604433&amp;td=ltr&amp;sheet=forumbits.css,forumhome.css,options.css" />
+        
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="css.php?styleid=3&amp;langid=1&amp;d=1379604433&amp;td=ltr&amp;sheet=forumbits-ie.css,options-ie.css" /><![endif]-->
+        
+	<!-- BEGIN TEMPLATE: headinclude_bottom -->
+<link rel="stylesheet" type="text/css" href="css.php?styleid=3&amp;langid=1&amp;d=1379604433&amp;td=ltr&amp;sheet=additional.css" />
+
+<!-- END TEMPLATE: headinclude_bottom -->
+</head>
+	<body>
+
+	<!-- BEGIN TEMPLATE: header -->
+<div class="above_body"> <!-- closing tag is in template navbar -->
+<div id="header" class="floatcontainer doc_header">
+	<div><a name="top" href="index.php?s=d080970d5f70e86c60d32cbf983038d5" class="logo-image"><img src="images/zen_logo.png" alt="Creative Planet Network Forums - Powered by vBulletin" /></a></div>
+	<div id="toplinks" class="toplinks">
+		
+			<ul class="nouser">
+			
+				<li><a href="register.php?s=d080970d5f70e86c60d32cbf983038d5" rel="nofollow">Register</a></li>
+			
+				<li><a rel="help" href="faq.php?s=d080970d5f70e86c60d32cbf983038d5">Help</a></li>
+				<li>
+			<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=421"></script>
+			<form id="navbar_loginform" action="login.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+				<fieldset id="logindetails" class="logindetails">
+					<div>
+						<div>
+					<input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" />
+					<input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
+					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;" />
+					<input type="submit" class="loginbutton" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
+						</div>
+					</div>
+				</fieldset>
+				<div id="remember" class="remember">
+					<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /> Remember Me?</label>
+				</div>
+
+				<input type="hidden" name="s" value="d080970d5f70e86c60d32cbf983038d5" />
+				<input type="hidden" name="securitytoken" value="guest" />
+				<input type="hidden" name="do" value="login" />
+				<input type="hidden" name="vb_login_md5password" />
+				<input type="hidden" name="vb_login_md5password_utf" />
+			</form>
+			<script type="text/javascript">
+			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+			</script>
+				</li>
+				
+			</ul>
+		
+	</div>
+	<div class="ad_global_header">
+		<!-- BEGIN TEMPLATE: ad_global_header1 -->
+
+<!-- END TEMPLATE: ad_global_header1 -->
+		<!-- BEGIN TEMPLATE: ad_global_header2 -->
+
+<!-- END TEMPLATE: ad_global_header2 -->
+	</div>
+	<hr />
+</div>
+<!-- END TEMPLATE: header -->
+
+	<!-- BEGIN TEMPLATE: navbar -->
+<div id="navbar" class="navbar">
+	<ul id="navtabs" class="navtabs floatcontainer">
+		
+		<!-- BEGIN TEMPLATE: navbar_tabs -->
+
+	
+		<li  id="vbtab_whatsnew">
+			<a class="navtab" href="activity.php?s=d080970d5f70e86c60d32cbf983038d5">What's New?</a>
+		</li>
+		
+		
+
+	
+		<li class="selected" id="vbtab_forum">
+			<a class="navtab" href="forum.php?s=d080970d5f70e86c60d32cbf983038d5">Forum</a>
+		</li>
+		
+		
+			<ul class="floatcontainer">
+				
+					
+						
+							<li id="vbflink_newposts"><a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=getnew&amp;contenttype=vBForum_Post">New Posts</a></li>
+						
+					
+				
+					
+						
+							<li id="vbflink_faq"><a href="faq.php?s=d080970d5f70e86c60d32cbf983038d5">FAQ</a></li>
+						
+					
+				
+					
+						
+							<li id="vbflink_calendar"><a href="calendar.php?s=d080970d5f70e86c60d32cbf983038d5">Calendar</a></li>
+						
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_actions">
+							<a href="javascript://" class="popupctrl">Forum Actions</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbalink_mfr"><a href="forumdisplay.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=markread&amp;markreadhash=guest">Mark Forums Read</a></li>
+								
+							</ul>
+						</li>
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_qlinks">
+							<a href="javascript://" class="popupctrl">Quick Links</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbqlink_posts"><a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=getdaily&amp;contenttype=vBForum_Post">Today's Posts</a></li>
+								
+									<li id="vbqlink_leaders"><a href="showgroups.php?s=d080970d5f70e86c60d32cbf983038d5">View Site Leaders</a></li>
+								
+							</ul>
+						</li>
+					
+				
+			</ul>
+		
+
+<!-- END TEMPLATE: navbar_tabs -->
+		
+        <li><a href="http://www.creativeplanetnetwork.com/2-pop/homepage" class="navtab">2-POP</a></li>
+		<li><a href="http://www.creativeplanetnetwork.com/digitalcinematographer/homepage" class="navtab">Digital Cinematography</a></li>
+		<li><a href="http://www.creativeplanetnetwork.com/digitalcontentproducer/homepage" class="navtab">DCP</a></li>
+		<li><a href="http://www.creativeplanetnetwork.com/dv/homepage" class="navtab">DV</a></li>
+		<li><a href="http://www.creativeplanetnetwork.com/videography/homepage" class="navtab">Videography</a></li>
+	</ul>
+	
+		<div id="globalsearch" class="globalsearch">
+			<form action="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=process" method="post" id="navbar_search" class="navbar_search">
+				
+				<input type="hidden" name="securitytoken" value="guest" />
+				<input type="hidden" name="do" value="process" />
+				<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+				<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+			</form>
+			<ul class="navbar_advanced_search">
+				<li><a href="search.php?s=d080970d5f70e86c60d32cbf983038d5" accesskey="4">Advanced Search</a></li>
+				
+			</ul>
+		</div>
+	
+</div>
+</div><!-- closing div for above_body -->
+
+<div class="body_wrapper">
+<div id="breadcrumb" class="breadcrumb">
+	<ul class="floatcontainer">
+		<li class="navbithome"><a href="index.php?s=d080970d5f70e86c60d32cbf983038d5" accesskey="1"><img src="images/misc/navbit-home.png" alt="Home" /></a></li>
+		
+		<!-- BEGIN TEMPLATE: navbar_link -->
+
+	<li class="navbit lastnavbit"><span>Forum</span></li>
+
+<!-- END TEMPLATE: navbar_link -->
+	</ul>
+	<hr />
+</div>
+
+<!-- BEGIN TEMPLATE: ad_navbar_below -->
+
+<!-- END TEMPLATE: ad_navbar_below -->
+<!-- BEGIN TEMPLATE: ad_global_below_navbar -->
+<div id="ad_global_below_navbar"><!------ OAS SETUP begin ------>
+<DIV ALIGN=CENTER>
+<script language="JavaScript">
+<!--
+//configuration
+OAS_url = 'http://oasc08011.247realmedia.com/RealMedia/ads/';
+//OAS_sitepage = 'www.broadcastingcable.com/1';lay_homepage&ind_140&author_
+OAS_sitepage = 'www.creativeplanetnetwork.com';
+OAS_listpos = 'Top';
+OAS_query = "forum_CPN";
+
+OAS_target = '_top';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+}
+ //-->
+ </script>	
+<script language="JavaScript1.1">
+<!--
+ OAS_version = 11;
+if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
+ OAS_version = 10;
+if (OAS_version >= 11)
+document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
+</script><script language="JavaScript1.1" src="452884-Cox_FCC_Needs_To_Consider_Retrans_Reforms_for_Viewers_Sake.php_files/1081031902MiddleTopx01x90x30x31x02.js"></script><script language="JavaScript">
+<!--
+ document.write('');
+function OAS_AD(pos) {
+if (OAS_version >= 11)
+ OAS_RICH(pos);
+else
+ OAS_NORMAL(pos);
+}  //-->
+ </script>
+<!------ OAS SETUP end ------>
+<!------ OAS AD 'Top' begint ------>
+<SCRIPT LANGUAGE=JavaScript> 
+<!--
+  OAS_AD('Top');
+//-->
+</SCRIPT>
+</DIV></div>
+
+
+<!-- END TEMPLATE: ad_global_below_navbar -->
+
+
+	<form action="profile.php?do=dismissnotice" method="post" id="notices" class="notices">
+		<input type="hidden" name="do" value="dismissnotice" />
+		<input type="hidden" name="s" value="s=d080970d5f70e86c60d32cbf983038d5&amp;" />
+		<input type="hidden" name="securitytoken" value="guest" />
+		<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
+		<input type="hidden" name="url" value="" />
+		<ol>
+			<!-- BEGIN TEMPLATE: navbar_noticebit -->
+<li class="restore" id="navbar_notice_1">
+	
+	If this is your first visit, be sure to
+		check out the <a href="faq.php?s=d080970d5f70e86c60d32cbf983038d5" target="_blank"><b>FAQ</b></a> by clicking the
+		link above. You may have to <a href="register.php?s=d080970d5f70e86c60d32cbf983038d5" target="_blank"><b>register</b></a>
+		before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+</li>
+<!-- END TEMPLATE: navbar_noticebit -->
+		</ol>
+	</form>
+
+
+<!-- END TEMPLATE: navbar -->
+
+	<div id="pagetitle">
+		<h1>Creative Planet Network Forums</h1>
+		<p id="welcomemessage" class="description">Welcome to the Creative Planet Network Forums.</p>
+	</div>
+
+	
+	<!-- main -->
+        
+	<ol id="forums" class="floatcontainer">
+		<!-- BEGIN TEMPLATE: forumhome_forumbit_level1_nopost -->
+<li class="forumbit_nopost old L1" id="cat135">
+	<div class="forumhead foruminfo L1 collapse">
+		<h2>
+			<span class="forumtitle"><a href="forumdisplay.php?135-Final-Cut-Studio&amp;s=d080970d5f70e86c60d32cbf983038d5">Final Cut Studio</a></span>
+			<span class="forumthreadpost">Threads / Posts&nbsp;</span>
+			<span class="forumlastpost">Last Post</span>
+		
+			<a class="collapse" id="collapse_c_cat135" href="#top"><img src="images/buttons/collapse_40b.png" alt="" /></a>
+		
+		</h2>
+
+		
+	</div>
+	
+	<ol id="c_cat135" class="childforum">
+		<!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum216" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_216" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?216-FCP-X&amp;s=d080970d5f70e86c60d32cbf983038d5">FCP X</a></h2>
+						
+					</div>
+					<p class="forumdescription">Discuss Final Cut Pro X, first announced at the NAB Supermeet Las Vegas, April 2011.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?663-Michael-Horton&amp;s=d080970d5f70e86c60d32cbf983038d5">Michael Horton</a>, </li>
+								
+									<li><a class="username" href="member.php?668-David&amp;s=d080970d5f70e86c60d32cbf983038d5">David</a>, </li>
+								
+									<li><a class="username" href="member.php?664-Ned_Soltz&amp;s=d080970d5f70e86c60d32cbf983038d5">Ned_Soltz</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=216" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 125</li>
+			<li>Posts: 690</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?130991-Media-Manager-in-FCP-10-1-1-(can-t-delete-unused-media)&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Media Manager in FCP 10.1.1 (can't delete unused media)'">Media Manager in FCP 10.1.1...</a>
+	<a href="showthread.php?130991-Media-Manager-in-FCP-10-1-1-(can-t-delete-unused-media)&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=325611#post325611"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?751-TomWolsky&amp;s=d080970d5f70e86c60d32cbf983038d5" title="TomWolsky is offline"><strong>TomWolsky</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?751-TomWolsky&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=751&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=751" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		<li class="left">
+			<a href="http://www.fcpbook.com" class="siteicon_homepage">
+				Visit Homepage
+			</a>
+		</li>
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">01-26-2014, <span class="time">07:57 PM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum147" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_147" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?147-Final-Cut-Pro-7-and-earlier&amp;s=d080970d5f70e86c60d32cbf983038d5">Final Cut Pro 7 and earlier</a></h2>
+						
+					</div>
+					<p class="forumdescription">FCP before FCP X.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?10465-Zwick&amp;s=d080970d5f70e86c60d32cbf983038d5">Zwick</a>, </li>
+								
+									<li><a class="username" href="member.php?8915-debe&amp;s=d080970d5f70e86c60d32cbf983038d5">debe</a>, </li>
+								
+									<li><a class="username" href="member.php?751-TomWolsky&amp;s=d080970d5f70e86c60d32cbf983038d5">TomWolsky</a>, </li>
+								
+									<li><a class="username" href="member.php?668-David&amp;s=d080970d5f70e86c60d32cbf983038d5">David</a>, </li>
+								
+									<li><a class="username" href="member.php?664-Ned_Soltz&amp;s=d080970d5f70e86c60d32cbf983038d5">Ned_Soltz</a>, </li>
+								
+									<li><a class="username" href="member.php?663-Michael-Horton&amp;s=d080970d5f70e86c60d32cbf983038d5">Michael Horton</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=147" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 14,402</li>
+			<li>Posts: 60,097</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?131173-Project-won-t-save&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Project won't save'">Project won't save</a>
+	<a href="showthread.php?131173-Project-won-t-save&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=325809#post325809"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?772-gretta&amp;s=d080970d5f70e86c60d32cbf983038d5" title="gretta is offline"><strong>gretta</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?772-gretta&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=772&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=772" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">02-22-2014, <span class="time">08:06 AM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum196" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_196" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?196-Motion&amp;s=d080970d5f70e86c60d32cbf983038d5">Motion</a></h2>
+						
+					</div>
+					<p class="forumdescription">Realtime motion graphics.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?10465-Zwick&amp;s=d080970d5f70e86c60d32cbf983038d5">Zwick</a>, </li>
+								
+									<li><a class="username" href="member.php?668-David&amp;s=d080970d5f70e86c60d32cbf983038d5">David</a>, </li>
+								
+									<li><a class="username" href="member.php?667-NoahKadner&amp;s=d080970d5f70e86c60d32cbf983038d5">NoahKadner</a>, </li>
+								
+									<li><a class="username" href="member.php?664-Ned_Soltz&amp;s=d080970d5f70e86c60d32cbf983038d5">Ned_Soltz</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=196" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 658</li>
+			<li>Posts: 3,117</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?129853-Freeze-and-Pan-effect&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Freeze and Pan effect'">Freeze and Pan effect</a>
+	<a href="showthread.php?129853-Freeze-and-Pan-effect&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=324347#post324347"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?21667-lrb&amp;s=d080970d5f70e86c60d32cbf983038d5" title="lrb is offline"><strong>lrb</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?21667-lrb&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=21667&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=21667" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">07-15-2013, <span class="time">08:39 AM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum208" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_208" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?208-Compressor&amp;s=d080970d5f70e86c60d32cbf983038d5">Compressor</a></h2>
+						
+					</div>
+					<p class="forumdescription">Compressor and compression techniques for DVD, internet and more.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?10465-Zwick&amp;s=d080970d5f70e86c60d32cbf983038d5">Zwick</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=208" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 248</li>
+			<li>Posts: 1,199</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?130957-MPEG-Streamclip&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'MPEG Streamclip'">MPEG Streamclip</a>
+	<a href="showthread.php?130957-MPEG-Streamclip&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=325575#post325575"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?8357-dogpaw&amp;s=d080970d5f70e86c60d32cbf983038d5" title="dogpaw is offline"><strong>dogpaw</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?8357-dogpaw&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=8357&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=8357" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">01-21-2014, <span class="time">07:48 AM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum171" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_171" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?171-DVD-Studio-Pro&amp;s=d080970d5f70e86c60d32cbf983038d5">DVD Studio Pro</a></h2>
+						
+					</div>
+					<p class="forumdescription">DVD authoring including iDVD and DVD Studio Pro.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?668-David&amp;s=d080970d5f70e86c60d32cbf983038d5">David</a>, </li>
+								
+									<li><a class="username" href="member.php?667-NoahKadner&amp;s=d080970d5f70e86c60d32cbf983038d5">NoahKadner</a>, </li>
+								
+									<li><a class="username" href="member.php?6429-TheDigitalGuy&amp;s=d080970d5f70e86c60d32cbf983038d5">TheDigitalGuy</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=171" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 3,278</li>
+			<li>Posts: 12,820</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?131111-DL-disk-burn-in-DVDSP-just-not-happening-after-trying-it-all&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'DL disk burn in DVDSP - just not happening after trying it all...'">DL disk burn in DVDSP - just...</a>
+	<a href="showthread.php?131111-DL-disk-burn-in-DVDSP-just-not-happening-after-trying-it-all&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=325754#post325754"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?6429-TheDigitalGuy&amp;s=d080970d5f70e86c60d32cbf983038d5" title="TheDigitalGuy is offline"><strong>TheDigitalGuy</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?6429-TheDigitalGuy&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=6429&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=6429" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		<li class="left">
+			<a href="http://www.recipe4dvd.com" class="siteicon_homepage">
+				Visit Homepage
+			</a>
+		</li>
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">02-13-2014, <span class="time">12:37 PM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum149" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_149" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?149-Soundtrack-Pro&amp;s=d080970d5f70e86c60d32cbf983038d5">Soundtrack Pro</a></h2>
+						
+					</div>
+					<p class="forumdescription">Soundtrack Pro, Pro Tools,  Logic and GarageBand.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?672-dan_brockett&amp;s=d080970d5f70e86c60d32cbf983038d5">dan_brockett</a>, </li>
+								
+									<li><a class="username" href="member.php?663-Michael-Horton&amp;s=d080970d5f70e86c60d32cbf983038d5">Michael Horton</a>, </li>
+								
+									<li><a class="username" href="member.php?10465-Zwick&amp;s=d080970d5f70e86c60d32cbf983038d5">Zwick</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=149" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 1,116</li>
+			<li>Posts: 4,358</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?121816-Logic-Studio-X&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Logic Studio X???'">Logic Studio X???</a>
+	<a href="showthread.php?121816-Logic-Studio-X&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=324661#post324661"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?672-dan_brockett&amp;s=d080970d5f70e86c60d32cbf983038d5" title="dan_brockett is offline"><strong>dan_brockett</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?672-dan_brockett&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=672&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=672" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		<li class="left">
+			<a href="http://www.biglittlefilms.com" class="siteicon_homepage">
+				Visit Homepage
+			</a>
+		</li>
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">09-23-2013, <span class="time">05:47 PM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum206" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_206" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?206-Color&amp;s=d080970d5f70e86c60d32cbf983038d5">Color</a></h2>
+						
+					</div>
+					<p class="forumdescription">Apple's color grading and finishing application.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?667-NoahKadner&amp;s=d080970d5f70e86c60d32cbf983038d5">NoahKadner</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=206" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 107</li>
+			<li>Posts: 585</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?128125-Vid-Tutorial-Color-Grading-an-entire-Edit-or-Sequence&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Vid Tutorial: Color Grading an entire Edit or Sequence'">Vid Tutorial: Color Grading...</a>
+	<a href="showthread.php?128125-Vid-Tutorial-Color-Grading-an-entire-Edit-or-Sequence&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=322225#post322225"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?57957-ruanlotter&amp;s=d080970d5f70e86c60d32cbf983038d5" title="ruanlotter is offline"><strong>ruanlotter</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?57957-ruanlotter&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=57957&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=57957" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">10-20-2012, <span class="time">05:40 AM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum166" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_166" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?166-Compositing-Animation-and-Effects&amp;s=d080970d5f70e86c60d32cbf983038d5">Compositing, Animation and Effects</a></h2>
+						
+					</div>
+					
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?664-Ned_Soltz&amp;s=d080970d5f70e86c60d32cbf983038d5">Ned_Soltz</a>, </li>
+								
+									<li><a class="username" href="member.php?663-Michael-Horton&amp;s=d080970d5f70e86c60d32cbf983038d5">Michael Horton</a>, </li>
+								
+									<li><a class="username" href="member.php?10465-Zwick&amp;s=d080970d5f70e86c60d32cbf983038d5">Zwick</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=166" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 913</li>
+			<li>Posts: 2,607</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?131002-VFX-Tutorial-Create-A-Video-Inside-A-Photo&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'VFX Tutorial: Create A Video Inside A Photo'">VFX Tutorial: Create A Video...</a>
+	<a href="showthread.php?131002-VFX-Tutorial-Create-A-Video-Inside-A-Photo&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=325622#post325622"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?57957-ruanlotter&amp;s=d080970d5f70e86c60d32cbf983038d5" title="ruanlotter is offline"><strong>ruanlotter</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?57957-ruanlotter&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=57957&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=57957" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">01-29-2014, <span class="time">09:59 AM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post -->
+	</ol>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level1_nopost --><!-- BEGIN TEMPLATE: forumhome_forumbit_level1_nopost -->
+<li class="forumbit_nopost old L1" id="cat137">
+	<div class="forumhead foruminfo L1 collapse">
+		<h2>
+			<span class="forumtitle"><a href="forumdisplay.php?137-Final-Cut-Pro-Workflow&amp;s=d080970d5f70e86c60d32cbf983038d5">Final Cut Pro - Workflow</a></span>
+			<span class="forumthreadpost">Threads / Posts&nbsp;</span>
+			<span class="forumlastpost">Last Post</span>
+		
+			<a class="collapse" id="collapse_c_cat137" href="#top"><img src="images/buttons/collapse_40b.png" alt="" /></a>
+		
+		</h2>
+
+		
+		<div class="forumrowdata">
+			<p class="subforumdescription">Discuss the following topics as they relate to working with Final Cut Pro.</p>
+			
+		</div>
+		
+	</div>
+	
+	<ol id="c_cat137" class="childforum">
+		<!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum214" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_214" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?214-DSLR-Cameras&amp;s=d080970d5f70e86c60d32cbf983038d5">DSLR Cameras</a></h2>
+						
+					</div>
+					<p class="forumdescription">Canon, Nikon, Panasonic, etc- still cameras that shoot HD video.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?667-NoahKadner&amp;s=d080970d5f70e86c60d32cbf983038d5">NoahKadner</a>, </li>
+								
+									<li><a class="username" href="member.php?672-dan_brockett&amp;s=d080970d5f70e86c60d32cbf983038d5">dan_brockett</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=214" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 69</li>
+			<li>Posts: 165</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?130821-Nikon-D600-Video-settings-and-tips-please-help&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Nikon D600 Video settings and tips - please help'">Nikon D600 Video settings and...</a>
+	<a href="showthread.php?130821-Nikon-D600-Video-settings-and-tips-please-help&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=325432#post325432"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?10465-Zwick&amp;s=d080970d5f70e86c60d32cbf983038d5" title="Zwick is offline"><strong>Zwick</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?10465-Zwick&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=10465&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=10465" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">01-04-2014, <span class="time">02:03 PM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum194" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_194" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?194-HD-Camcorders&amp;s=d080970d5f70e86c60d32cbf983038d5">HD Camcorders</a></h2>
+						
+					</div>
+					<p class="forumdescription">AVCHD, P2, HDV, XDCAM EX, etc all high definition format cameras.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?668-David&amp;s=d080970d5f70e86c60d32cbf983038d5">David</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=194" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 885</li>
+			<li>Posts: 4,465</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?130201-AF-100-Bit-Rate&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'AF 100 Bit Rate'">AF 100 Bit Rate</a>
+	<a href="showthread.php?130201-AF-100-Bit-Rate&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=324747#post324747"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?75957-Peter-Pavlakis&amp;s=d080970d5f70e86c60d32cbf983038d5" title="Peter Pavlakis is offline"><strong>Peter Pavlakis</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?75957-Peter-Pavlakis&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=75957&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=75957" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">10-02-2013, <span class="time">04:35 PM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum202" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_202" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?202-Digital-Cinema-Cameras&amp;s=d080970d5f70e86c60d32cbf983038d5">Digital Cinema Cameras</a></h2>
+						
+					</div>
+					<p class="forumdescription">RED, ARRI, Phantom, etc.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?667-NoahKadner&amp;s=d080970d5f70e86c60d32cbf983038d5">NoahKadner</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=202" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 43</li>
+			<li>Posts: 188</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?129076-Urban-Exploration-filmed-with-Canon-7D&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Urban Exploration - filmed with Canon 7D'">Urban Exploration - filmed...</a>
+	<a href="showthread.php?129076-Urban-Exploration-filmed-with-Canon-7D&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=323458#post323458"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?61732-mindcut&amp;s=d080970d5f70e86c60d32cbf983038d5" title="mindcut is offline"><strong>mindcut</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?61732-mindcut&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=61732&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=61732" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">03-02-2013, <span class="time">02:33 AM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum152" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_152" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?152-DV-Standard-Definition-Cameras&amp;s=d080970d5f70e86c60d32cbf983038d5">DV/Standard Definition Cameras</a></h2>
+						
+					</div>
+					<p class="forumdescription">Any camera not high-definition.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?667-NoahKadner&amp;s=d080970d5f70e86c60d32cbf983038d5">NoahKadner</a>, </li>
+								
+									<li><a class="username" href="member.php?663-Michael-Horton&amp;s=d080970d5f70e86c60d32cbf983038d5">Michael Horton</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=152" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 1,294</li>
+			<li>Posts: 4,655</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?130450-Video-from-4-3-to-16-9-and-vice-versa&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Video from 4:3 to 16:9 and vice versa'">Video from 4:3 to 16:9 and...</a>
+	<a href="showthread.php?130450-Video-from-4-3-to-16-9-and-vice-versa&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=325015#post325015"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?50471-pbaburic&amp;s=d080970d5f70e86c60d32cbf983038d5" title="pbaburic is offline"><strong>pbaburic</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?50471-pbaburic&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=50471&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=50471" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">11-09-2013, <span class="time">11:13 PM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum155" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_155" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?155-Production-Gear&amp;s=d080970d5f70e86c60d32cbf983038d5">Production Gear</a></h2>
+						
+					</div>
+					<p class="forumdescription">Lights, tripods, etc.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?672-dan_brockett&amp;s=d080970d5f70e86c60d32cbf983038d5">dan_brockett</a>, </li>
+								
+									<li><a class="username" href="member.php?663-Michael-Horton&amp;s=d080970d5f70e86c60d32cbf983038d5">Michael Horton</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=155" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 640</li>
+			<li>Posts: 2,223</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?130066-3-axis-camera-stabilizing-systems-–-Overview&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread '3-axis camera stabilizing systems – Overview'">3-axis camera stabilizing...</a>
+	<a href="showthread.php?130066-3-axis-camera-stabilizing-systems-–-Overview&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=324822#post324822"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?672-dan_brockett&amp;s=d080970d5f70e86c60d32cbf983038d5" title="dan_brockett is offline"><strong>dan_brockett</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?672-dan_brockett&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=672&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=672" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		<li class="left">
+			<a href="http://www.biglittlefilms.com" class="siteicon_homepage">
+				Visit Homepage
+			</a>
+		</li>
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">10-11-2013, <span class="time">08:33 AM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum156" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_156" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?156-Audio&amp;s=d080970d5f70e86c60d32cbf983038d5">Audio</a></h2>
+						
+					</div>
+					<p class="forumdescription">Audio gear and software.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?10465-Zwick&amp;s=d080970d5f70e86c60d32cbf983038d5">Zwick</a>, </li>
+								
+									<li><a class="username" href="member.php?672-dan_brockett&amp;s=d080970d5f70e86c60d32cbf983038d5">dan_brockett</a>, </li>
+								
+									<li><a class="username" href="member.php?663-Michael-Horton&amp;s=d080970d5f70e86c60d32cbf983038d5">Michael Horton</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=156" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 716</li>
+			<li>Posts: 3,651</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?129378-Dealing-with-production-sound-from-a-Tascam-DR-680-accidentally-in-stereo-mode&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Dealing with production sound from a Tascam DR-680 accidentally in stereo mode'">Dealing with production sound...</a>
+	<a href="showthread.php?129378-Dealing-with-production-sound-from-a-Tascam-DR-680-accidentally-in-stereo-mode&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=323816#post323816"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?15832-CraigF&amp;s=d080970d5f70e86c60d32cbf983038d5" title="CraigF is offline"><strong>CraigF</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?15832-CraigF&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=15832&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=15832" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">04-18-2013, <span class="time">08:16 PM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum163" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_163" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?163-Editing-Gear&amp;s=d080970d5f70e86c60d32cbf983038d5">Editing Gear</a></h2>
+						
+					</div>
+					<p class="forumdescription">Decks, monitors, hard drives, speakers, Macs, etc.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?668-David&amp;s=d080970d5f70e86c60d32cbf983038d5">David</a>, </li>
+								
+									<li><a class="username" href="member.php?664-Ned_Soltz&amp;s=d080970d5f70e86c60d32cbf983038d5">Ned_Soltz</a>, </li>
+								
+									<li><a class="username" href="member.php?663-Michael-Horton&amp;s=d080970d5f70e86c60d32cbf983038d5">Michael Horton</a>, </li>
+								
+									<li><a class="username" href="member.php?10465-Zwick&amp;s=d080970d5f70e86c60d32cbf983038d5">Zwick</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=163" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 1,205</li>
+			<li>Posts: 4,237</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?129644-new-macbook-pro&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'new macbook pro'">new macbook pro</a>
+	<a href="showthread.php?129644-new-macbook-pro&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=324113#post324113"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?668-David&amp;s=d080970d5f70e86c60d32cbf983038d5" title="David is offline"><strong>David</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?668-David&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=668&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=668" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">06-03-2013, <span class="time">08:40 PM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post -->
+	</ol>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level1_nopost --><!-- BEGIN TEMPLATE: forumhome_forumbit_level1_nopost -->
+<li class="forumbit_nopost old L1" id="cat143">
+	<div class="forumhead foruminfo L1 collapse">
+		<h2>
+			<span class="forumtitle"><a href="forumdisplay.php?143-Everything-Else&amp;s=d080970d5f70e86c60d32cbf983038d5">Everything Else</a></span>
+			<span class="forumthreadpost">Threads / Posts&nbsp;</span>
+			<span class="forumlastpost">Last Post</span>
+		
+			<a class="collapse" id="collapse_c_cat143" href="#top"><img src="images/buttons/collapse_40b.png" alt="" /></a>
+		
+		</h2>
+
+		
+	</div>
+	
+	<ol id="c_cat143" class="childforum">
+		<!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum177" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_177" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?177-2-pop-Café-Open-Discussion&amp;s=d080970d5f70e86c60d32cbf983038d5">2-pop Café - Open Discussion</a></h2>
+						
+					</div>
+					<p class="forumdescription">Free-for-all forum about things that might seem off-topic. NO technical questions.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?668-David&amp;s=d080970d5f70e86c60d32cbf983038d5">David</a>, </li>
+								
+									<li><a class="username" href="member.php?663-Michael-Horton&amp;s=d080970d5f70e86c60d32cbf983038d5">Michael Horton</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=177" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 1,682</li>
+			<li>Posts: 9,284</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?131125-Colchester-Film-Festival-2014-FREE-Film-Submissions&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Colchester Film Festival 2014 - FREE Film Submissions'">Colchester Film Festival 2014...</a>
+	<a href="showthread.php?131125-Colchester-Film-Festival-2014-FREE-Film-Submissions&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=325746#post325746"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?58657-colfilmfest&amp;s=d080970d5f70e86c60d32cbf983038d5" title="colfilmfest is offline"><strong>colfilmfest</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?58657-colfilmfest&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=58657&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=58657" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">02-12-2014, <span class="time">07:47 AM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum180" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_180" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?180-Jobs&amp;s=d080970d5f70e86c60d32cbf983038d5">Jobs</a></h2>
+						
+					</div>
+					<p class="forumdescription">Paid positions and accredited internships.  Posts will appear after approval by moderator. Jobs are read-only.</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=180" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 25,800</li>
+			<li>Posts: 25,828</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?131188-VFX-Producer-Comen-VFX&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'VFX Producer - Comen VFX'">VFX Producer - Comen VFX</a>
+	<a href="showthread.php?131188-VFX-Producer-Comen-VFX&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=325814#post325814"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?37062-ComenVFX-HR&amp;s=d080970d5f70e86c60d32cbf983038d5" title="ComenVFX/HR is offline"><strong>ComenVFX/HR</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?37062-ComenVFX-HR&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=37062&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=37062" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">Yesterday, <span class="time">06:47 PM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum176" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_176" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?176-Trade-Shows-Conventions-and-User-Groups&amp;s=d080970d5f70e86c60d32cbf983038d5">Trade Shows, Conventions and User Groups</a></h2>
+						
+					</div>
+					<p class="forumdescription">NAB, LAFCPUG, IBC.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?663-Michael-Horton&amp;s=d080970d5f70e86c60d32cbf983038d5">Michael Horton</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=176" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 321</li>
+			<li>Posts: 400</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?131185-BMCC-4K-VFX-and-20-Feet-from-Stardom-at-next-lacpug-meet-Feb-26&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'BMCC 4K, VFX and 20 Feet from Stardom at next lacpug meet Feb 26'">BMCC 4K, VFX and 20 Feet from...</a>
+	<a href="showthread.php?131185-BMCC-4K-VFX-and-20-Feet-from-Stardom-at-next-lacpug-meet-Feb-26&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=325811#post325811"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?663-Michael-Horton&amp;s=d080970d5f70e86c60d32cbf983038d5" title="Michael Horton is offline"><strong>Michael Horton</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?663-Michael-Horton&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=663&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=663" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		<li class="left">
+			<a href="http://www.lafcpug.org" class="siteicon_homepage">
+				Visit Homepage
+			</a>
+		</li>
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">02-23-2014, <span class="time">11:12 AM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum173" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_173" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?173-Education-amp-Training&amp;s=d080970d5f70e86c60d32cbf983038d5">Education &amp; Training</a></h2>
+						
+					</div>
+					<p class="forumdescription">For offering and taking classes.</p>
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=173" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 327</li>
+			<li>Posts: 570</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?131077-Online-Creature-Animation-School&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Online Creature Animation School'">Online Creature Animation...</a>
+	<a href="showthread.php?131077-Online-Creature-Animation-School&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=325696#post325696"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?80364-animschool&amp;s=d080970d5f70e86c60d32cbf983038d5" title="animschool is offline"><strong>animschool</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?80364-animschool&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=80364&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=80364" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">02-06-2014, <span class="time">10:42 AM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum178" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_178" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?178-Advertise-Services&amp;s=d080970d5f70e86c60d32cbf983038d5">Advertise Services</a></h2>
+						
+					</div>
+					<p class="forumdescription">Sell your skills and services.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?772-gretta&amp;s=d080970d5f70e86c60d32cbf983038d5">gretta</a>, </li>
+								
+									<li><a class="username" href="member.php?663-Michael-Horton&amp;s=d080970d5f70e86c60d32cbf983038d5">Michael Horton</a>, </li>
+								
+									<li><a class="username" href="member.php?10465-Zwick&amp;s=d080970d5f70e86c60d32cbf983038d5">Zwick</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=178" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 731</li>
+			<li>Posts: 828</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon7.png" class="postimg" alt="Smile" border="0" />
+	
+	<a href="showthread.php?130637-Trailer-Editor-For-Hire-!!!&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Trailer Editor For Hire !!!'">Trailer Editor For Hire !!!</a>
+	<a href="showthread.php?130637-Trailer-Editor-For-Hire-!!!&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=325213#post325213"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?79247-Munawwar&amp;s=d080970d5f70e86c60d32cbf983038d5" title="Munawwar is offline"><strong>Munawwar</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?79247-Munawwar&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=79247&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=79247" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		<li class="left">
+			<a href="http://vimeo.com/user5286787/" class="siteicon_homepage">
+				Visit Homepage
+			</a>
+		</li>
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">12-02-2013, <span class="time">11:57 AM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum179" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_179" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?179-Marketplace-The-Place-to-Sell-your-Gear&amp;s=d080970d5f70e86c60d32cbf983038d5">Marketplace - The Place to Sell your Gear</a></h2>
+						
+					</div>
+					<p class="forumdescription">Buy, sell, trade - private sellers only.</p>
+
+					
+						<div class="moderators">
+							<h4>Moderators:</h4>
+							<ol class="commalist">
+								
+									<li><a class="username" href="member.php?772-gretta&amp;s=d080970d5f70e86c60d32cbf983038d5">gretta</a>, </li>
+								
+									<li><a class="username" href="member.php?663-Michael-Horton&amp;s=d080970d5f70e86c60d32cbf983038d5">Michael Horton</a></li>
+								
+							</ol>
+						</div>
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			<li class="forumactionlink rsslink"><a href="external.php?s=d080970d5f70e86c60d32cbf983038d5&amp;type=RSS2&amp;forumids=179" title="View this forum's RSS feed">View this forum's RSS feed</a></li>
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 1,543</li>
+			<li>Posts: 2,123</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?130239-OConnor-2575C-fluid-head-tripod-with-baby-amp-standard-legs-w-spreaders-amp-more&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'OConnor 2575C fluid head tripod with baby &amp; standard legs w/spreaders &amp; more'">OConnor 2575C fluid head...</a>
+	<a href="showthread.php?130239-OConnor-2575C-fluid-head-tripod-with-baby-amp-standard-legs-w-spreaders-amp-more&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=325578#post325578"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?76411-Scott-Snare&amp;s=d080970d5f70e86c60d32cbf983038d5" title="Scott Snare is offline"><strong>Scott Snare</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?76411-Scott-Snare&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=76411&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=76411" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">01-21-2014, <span class="time">04:56 PM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post -->
+	</ol>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level1_nopost --><!-- BEGIN TEMPLATE: forumhome_forumbit_level1_nopost -->
+<li class="forumbit_nopost old L1" id="cat145">
+	<div class="forumhead foruminfo L1 collapse">
+		<h2>
+			<span class="forumtitle"><a href="forumdisplay.php?145-2-pop-Archives-(Read-Only)&amp;s=d080970d5f70e86c60d32cbf983038d5">2-pop Archives (Read Only)</a></span>
+			<span class="forumthreadpost">Threads / Posts&nbsp;</span>
+			<span class="forumlastpost">Last Post</span>
+		
+			<a class="collapse" id="collapse_c_cat145" href="#top"><img src="images/buttons/collapse_40b.png" alt="" /></a>
+		
+		</h2>
+
+		
+	</div>
+	
+	<ol id="c_cat145" class="childforum">
+		<!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<li id="forum215" class="forumbit_post old L2">
+	<div class="forumrow table">
+		<div class="foruminfo td">
+			<img src="images/statusicon/forum_old-48.png" class="forumicon" id="forum_statusicon_215" alt="" />
+			<div class="forumdata">
+				<div class="datacontainer">
+					<div class="titleline">
+						<h2 class="forumtitle"><a href="forumdisplay.php?215-Full-Archive&amp;s=d080970d5f70e86c60d32cbf983038d5">Full Archive</a></h2>
+						
+					</div>
+					
+
+					
+
+					
+				</div>
+			</div>
+		</div>
+        
+		<h4 class="nocss_label">Forum Actions:</h4>
+        	
+		<ul class="forumactionlinks td">
+			
+		</ul>
+		
+        <h4 class="nocss_label">Forum Statistics:</h4>
+		<ul class="forumstats td">
+			<li>Threads: 10,197</li>
+			<li>Posts: 38,467</li>
+		</ul>
+		<div class="forumlastpost td">
+			<h4 class="lastpostlabel">Last Post:</h4>
+			<div>
+				<!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+	<p class="lastposttitle">
+	<img src="images/icons/icon1.png" class="postimg" alt="" border="0" />
+	
+	<a href="showthread.php?121510-Attn-Filmmakers-SXSW-moves-up-its-Final-Submission-Deadline-date&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;goto=newpost" class="threadtitle" title="Go to first unread post in thread 'Attn: Filmmakers: SXSW moves up its Final Submission Deadline date.'">Attn: Filmmakers: SXSW moves...</a>
+	<a href="showthread.php?121510-Attn-Filmmakers-SXSW-moves-up-its-Final-Submission-Deadline-date&amp;s=d080970d5f70e86c60d32cbf983038d5&amp;p=312873#post312873"><img src="images/buttons/lastpost-right.png" alt="Go to last post" /></a>
+	</p>
+	<div class="lastpostby">
+	
+		by <!-- BEGIN TEMPLATE: memberaction_dropdown -->
+<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="member.php?55102-SXSWfilmfestival&amp;s=d080970d5f70e86c60d32cbf983038d5" title="SXSWfilmfestival is offline"><strong>SXSWfilmfestival</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="member.php?55102-SXSWfilmfestival&amp;s=d080970d5f70e86c60d32cbf983038d5" class="siteicon_profile">
+				View Profile
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=finduser&amp;userid=55102&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				View Forum Posts
+			</a>
+		</li>
+		
+		
+		<li class="left">
+			<a href="private.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=newpm&amp;u=55102" class="siteicon_message" rel="nofollow">
+				Private Message
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+<!-- END TEMPLATE: memberaction_dropdown -->
+	
+	</div>
+	<p class="lastpostdate">06-03-2011, <span class="time">09:19 AM</span></p>
+
+<!-- END TEMPLATE: forumhome_lastpostby -->
+			</div>
+		</div>
+        
+	</div>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level2_post -->
+	</ol>
+	
+</li>
+<!-- END TEMPLATE: forumhome_forumbit_level1_nopost -->
+	</ol>
+        
+	<!-- /main -->
+
+        <div class="navlinks">
+        <a href="forumdisplay.php?s=d080970d5f70e86c60d32cbf983038d5&amp;do=markread&amp;markreadhash=guest" rel="nofollow">Mark Forums Read</a>
+	|
+	<a href="showgroups.php?s=d080970d5f70e86c60d32cbf983038d5" rel="nofollow">
+		
+			View Forum Leaders
+		
+	</a>
+        </div>
+	<!-- BEGIN TEMPLATE: ad_board_after_forums -->
+
+<!-- END TEMPLATE: ad_board_after_forums -->
+	<!-- what's going on box -->
+	<div id="wgo" class="collapse wgo_block block">
+		<h2 class="blockhead">What's Going On?</h2>
+		<div class="blockbody formcontrols floatcontainer">
+			
+			
+			
+			<!-- Start Members Today -->
+			
+			<!-- End Members Today -->
+			
+			
+			
+			
+			
+			<div id="wgo_stats" class="wgo_subblock section">
+				<h3 class="blocksubhead"><img src="images/misc/forum_stats.png" alt="Creative Planet Network Forums Statistics" />Creative Planet Network Forums Statistics</h3>
+				<div>
+					<dl>
+						<dt>Threads</dt>
+							<dd>68,218</dd>
+						<dt>Posts</dt>
+							<dd>191,948</dd>
+						<dt>Members</dt>
+							<dd>32,838</dd>
+						
+							<dt>Active Members</dt>
+							<dd>81</dd>
+						
+					</dl>
+					<p>Welcome to our newest member, <a href="member.php?80474-AtomicCartoons&amp;s=d080970d5f70e86c60d32cbf983038d5">AtomicCartoons</a></p>
+					
+				</div>
+			</div>
+			<div id="wgo_legend" class="wgo_subblock section">
+				<h3 class="blocksubhead"><img src="images/misc/legend.png" alt="Icon Legend" />Icon Legend</h3>
+				<div>
+					<dl id="icon_legends" class="icon_legends">
+						<dt><img src="images/statusicon/forum_new-16.png" alt="Contains unread forum posts" /></dt><dd>Contains unread forum posts</dd>
+						<dt><img src="images/statusicon/forum_old-16.png" alt="Contains no unread forum posts" /></dt><dd>Contains no unread forum posts</dd>
+						
+						<dt><img src="images/statusicon/category-16.png" alt="Forum is a category" /></dt><dd>Forum is a category</dd>
+						<dt><img src="images/statusicon/forum_link-16.png" alt="Forum is a Link" /></dt><dd>Forum is a Link</dd>
+					
+					</dl>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<!-- end what's going on box -->
+
+	<!-- BEGIN TEMPLATE: ad_board_below_whats_going_on -->
+
+<!-- END TEMPLATE: ad_board_below_whats_going_on -->
+	
+	<script type="text/javascript">
+	<!--
+	vbphrase['doubleclick_forum_markread'] = "Double-click this icon to mark this forum and its contents as read";
+	init_forum_readmarker_system();
+	//-->
+	</script>
+	<!-- BEGIN TEMPLATE: footer -->
+
+<div style="clear: left">
+  <!-- BEGIN TEMPLATE: ad_footer_start -->
+
+<!-- END TEMPLATE: ad_footer_start -->
+  <!-- BEGIN TEMPLATE: ad_global_above_footer -->
+<div id="ad_global_above_footer"><!------ OAS SETUP begin ------>
+<DIV ALIGN=CENTER>
+<script language="JavaScript">
+<!--
+//configuration
+OAS_url = 'http://oasc08011.247realmedia.com/RealMedia/ads/';
+//OAS_sitepage = 'www.broadcastingcable.com/1';lay_homepage&ind_140&author_
+OAS_sitepage = 'www.creativeplanetnetwork.com';
+OAS_listpos = 'Bottom';
+OAS_query = "forum_CPN";
+
+OAS_target = '_top';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+}
+ //-->
+ </script>	
+<script language="JavaScript1.1">
+<!--
+ OAS_version = 11;
+if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
+ OAS_version = 10;
+if (OAS_version >= 11)
+document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
+</script><script language="JavaScript1.1" src="452884-Cox_FCC_Needs_To_Consider_Retrans_Reforms_for_Viewers_Sake.php_files/1081031902MiddleTopx01x90x30x31x02.js"></script><script language="JavaScript">
+<!--
+ document.write('');
+function OAS_AD(pos) {
+if (OAS_version >= 11)
+ OAS_RICH(pos);
+else
+ OAS_NORMAL(pos);
+}  //-->
+ </script>
+<!------ OAS SETUP end ------>
+<!------ OAS AD 'Bottom' begint ------>
+<SCRIPT LANGUAGE=JavaScript> 
+<!--
+  OAS_AD('Bottom');
+//-->
+</SCRIPT>
+</DIV></div>
+<!-- END TEMPLATE: ad_global_above_footer -->
+</div>
+
+<div id="footer" class="floatcontainer footer">
+
+	<form action="index.php" method="get" id="footer_select" class="footer_select">
+
+			
+		
+			<select name="styleid" onchange="switch_id(this, 'style')">
+				<optgroup label="Quick Style Chooser">
+					
+				</optgroup>
+			</select>	
+		
+		
+		
+	</form>
+
+	<ul id="footer_links" class="footer_links">
+		<li><a href="sendmessage.php?s=d080970d5f70e86c60d32cbf983038d5" rel="nofollow" accesskey="9">Contact Us</a></li>
+		<li><a href="http://www.creativeplanetnetwork.com">Creative Planet Network</a></li>
+		
+		
+		
+		
+		<li><a href="http://www.newbaymedia.com/privacy-policy/">Privacy Statement</a></li>
+		
+		<li><a href="#top" onclick="document.location.hash='top'; return false;">Top</a></li>
+	</ul>
+	
+	
+	
+	
+	<script type="text/javascript">
+	<!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+	</script>
+        
+</div>
+</div> <!-- closing div for body_wrapper -->
+
+<div class="below_body">
+<div id="footer_time" class="shade footer_time">All times are GMT -7. The time now is <span class="time">12:22 PM</span>.</div>
+
+<div id="footer_copyright" class="shade footer_copyright">
+	<!-- Do not remove this copyright notice -->
+	Powered by <a href="https://www.vbulletin.com" id="vbulletinlink">vBulletin&reg;</a> Version 4.2.1 <br />Copyright &copy; 2014 vBulletin Solutions, Inc. All rights reserved. 
+	<!-- Do not remove this copyright notice -->	
+</div>
+<div id="footer_morecopyright" class="shade footer_morecopyright">
+	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+	<img src="http://www.creativeplanetnetwork.com/forums/cron.php?s=d080970d5f70e86c60d32cbf983038d5&amp;rand=1393356133" alt="" width="1" height="1" border="0" />
+	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+	© 2013 NewBay Media, LLC.  T (212) 378-0400 . All rights reserved | Privacy Policy
+</div>
+<!-- BEGIN TEMPLATE: ad_footer_end -->
+
+<!-- END TEMPLATE: ad_footer_end --> 
+
+</div>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2342357-55']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<!-- END TEMPLATE: footer -->
+</body>
+</html>
+<!-- END TEMPLATE: FORUMHOME -->++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.designaddict.com/>====================
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"> 
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+
+<meta name="verify-v1" content="JK2dtd+YlOHtjeJ16IcHX18W8L06tIiRs0+RZS6IsDE=" >
+<meta name="google-site-verification" content="_tvCDRivUL2J4WxE2dFNdynX31JDcuebfprWtSHtwSs" />
+
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Expires" content="Sat, 28 Feb 1998 10:10:10 GMT">
+
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+<base href="http://www.designaddict.com/"> <meta name="DESCRIPTION" content="THE portal for design lovers - Blog, marketplace, forum, designers' index and much more.">
+<meta name="KEYWORDS" content="vintage, retro, design, Mid-Century, furniture, 20th Century, glassware, fifties, sixties, modern, seventies, eames, panton, colombo, herman miller, knoll, twentieth, blog, press, interior, books, bookshop, decorative, art, italian, american, danish, denmark, community, finnish, post-modern, collecting, collection, mcm, architecture, directory, for sale, exhibition, exhibits, marketplace, links, designer, manufacturers, chair, lamp, producer, forum, scandinavian, sottsass, starck, aalto, hans wegner, castiglioni, alessi, mod, modernism, architects, kartell, artemide, contemporary, deco, lighting, antique, jacobsen, news, articles, shop, shopping, noguchi, calendar, magazine, portal, events">
+<meta NAME="CLASSIFICATION" CONTENT="vintage furniture and contemporary design resource">
+<META NAME="ABSTRACT" CONTENT="vintage furniture and contemporary design resource">
+
+
+
+
+<TITLE>design resource - DesignAddict</TITLE>
+
+
+<link HREF=http://www.designaddict.com/css/style_pc_ie.css REL=StyleSheet>
+
+
+
+<SCRIPT language=javascript>
+<!--
+
+
+if (document.images) {
+index_f1 = new Image(); index_f1.src = "http://www.designaddict.com/img/nav_index_f1.gif";
+index_f2 = new Image(); index_f2.src = "http://www.designaddict.com/img/nav_index_f2.gif";
+ads_f1 = new Image(); ads_f1.src = "http://www.designaddict.com/img/nav_ads_f1.gif";
+ads_f2 = new Image(); ads_f2.src = "http://www.designaddict.com/img/nav_ads_f2.gif";
+radar_f1 = new Image(); radar_f1.src = "http://www.designaddict.com/img/nav_radar_f1.gif";
+radar_f2 = new Image(); radar_f2.src = "http://www.designaddict.com/img/nav_radar_f2.gif";
+links_f1 = new Image(); links_f1.src = "http://www.designaddict.com/img/nav_links_f1.gif";
+links_f2 = new Image(); links_f2.src = "http://www.designaddict.com/img/nav_links_f2.gif";
+shop_f1 = new Image(); shop_f1.src = "http://www.designaddict.com/img/nav_shop_f1.gif";
+shop_f2 = new Image(); shop_f2.src = "http://www.designaddict.com/img/nav_shop_f2.gif";
+forum_f1 = new Image(); forum_f1.src = "http://www.designaddict.com/img/nav_forum_f1.gif";
+forum_f2 = new Image(); forum_f2.src = "http://www.designaddict.com/img/nav_forum_f2.gif";
+calendar_f1 = new Image(); calendar_f1.src = "http://www.designaddict.com/img/nav_calendar_f1.gif";
+calendar_f2 = new Image(); calendar_f2.src = "http://www.designaddict.com/img/nav_calendar_f2.gif";
+blog_f1 = new Image(); blog_f1.src = "http://www.designaddict.com/img/nav_blog_f1.gif";
+blog_f2 = new Image(); blog_f2.src = "http://www.designaddict.com/img/nav_blog_f2.gif";
+news_f1 = new Image(); news_f1.src = "http://www.designaddict.com/img/nav_news_f1.gif";
+news_f2 = new Image(); news_f2.src = "http://www.designaddict.com/img/nav_news_f2.gif";
+search_f1 = new Image(); search_f1.src = "http://www.designaddict.com/img/nav_search_f1.gif";
+search_f2 = new Image(); search_f2.src = "http://www.designaddict.com/img/nav_search_f2.gif";
+
+
+
+patrick_of = new Image(); patrick_of.src = "http://www.designaddict.com/img/square_name1_addict_contact.gif";
+patrick_on = new Image(); patrick_on.src = "http://www.designaddict.com/img/patrick_ok.jpg";
+alix_of = new Image(); alix_of.src = "http://www.designaddict.com/img/square_name2_addict_contact.gif";
+alix_on = new Image(); alix_on.src = "http://www.designaddict.com/img/alix_ok.jpg";
+
+}
+
+
+/* Function that swaps images. */
+function di20(id,newSrc) {
+	document.images[id].src = eval(newSrc+".src");
+}
+
+
+
+
+function popUp(URL) {
+window.open(URL,'','location=yes,scrollbars=yes,status=yes,toolbar=yes,resizable=yes,width=380,height=450,screenX=10,screenY=10,top=10,left=10');
+}
+
+
+function openaddwindow(page) {
+addwin = window.open(page, "addwin", "toolbar=0,location=0,directories=0,status=1,scrollbars=1,menubar=0,resizable=0,height=440,width=420");
+addwin.focus();
+}
+
+var currentpic = "";
+function openjumbowindow(page) {
+	if(page != ''){
+		jumbo = window.open(page, "jumbo", "toolbar=0,location=0,directories=0,status=1,scrollbars=0,menubar=0,resizable=0,height=500,width=500");
+		jumbo.focus();
+	}
+	else if(page == '' && currentpic != ''){
+		//jumbo = window.open('http://www.designaddict.com/' + currentpic, "jumbo", "toolbar=0,location=0,directories=0,status=1,scrollbars=0,menubar=0,resizable=0,height=500,width=500");
+
+		
+		jumbo = window.open(currentpic, "jumbo", "toolbar=0,location=0,directories=0,status=1,scrollbars=0,menubar=0,resizable=0,height=500,width=500");
+		jumbo.focus();
+	}
+
+
+}
+
+function showImage(src,jumbo){
+	document.getElementById("slideshow").src = src;
+	currentpic = jumbo;
+}
+
+function opendistribwindow(page) {
+distrib = window.open(page, "distrib", "toolbar=0,location=0,directories=0,status=1,scrollbars=0,menubar=0,resizable=0,height=715,width=675");
+distrib.focus();
+}
+
+// stop hiding -->
+</script>
+
+
+
+
+	
+	
+	
+	
+	<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+	</script>
+	<script type='text/javascript'>
+	GS_googleAddAdSenseService("ca-pub-5613796053996191");
+	GS_googleEnableAllServices();
+	</script>
+	<script type='text/javascript'>
+	GA_googleAddSlot("ca-pub-5613796053996191", "160x160");
+	</script>
+	<script type='text/javascript'>
+	GA_googleFetchAds();
+	</script>
+
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(
+		  ['_setAccount', 'UA-314954-1'],
+		  ['_trackPageview'],
+		  ['b._setAccount', 'UA-43014869-1'],
+		  ['b._trackPageview']
+		);
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+
+
+	<script>
+		var _prum = [['id', '52dceaf4abe53d3c3f000000'],
+		             ['mark', 'firstbyte', (new Date()).getTime()]];
+		(function() {
+		    var s = document.getElementsByTagName('script')[0]
+		      , p = document.createElement('script');
+		    p.async = 'async';
+		    p.src = '//rum-static.pingdom.net/prum.min.js';
+		    s.parentNode.insertBefore(p, s);
+		})();
+	</script>
+	    
+
+</HEAD>
+
+
+
+<BODY BGCOLOR="FFFFFF" TEXT="666666" LINK="666666" ALINK="FF0000" VLINK="666666" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+
+<table border="0" cellspacing="0" cellpadding="0"><tr><td>
+
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" class="main-topbanner-table">
+<tr>
+	<td><!-- ADDICT 111111111111 --><A HREF="http://www.designaddict.com/index.cfm"><IMG SRC="http://www.designaddict.com/img/head_designlogo_addict.gif" ALT="" WIDTH="275" HEIGHT="85" BORDER="0" name="design"></a></td>
+	<TD><IMG SRC="http://www.designaddict.com/img/px.gif" ALT="" WIDTH="7" HEIGHT="1" BORDER="0"></TD><TD class="td-generic-align-right"><IMG SRC="http://www.designaddict.com/img/px.gif" ALT="" WIDTH="468" HEIGHT="60" BORDER="0"></TD>
+</tr>
+</table>
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" class="main-topnavig-table">
+<tr>
+	<td><A HREF="http://www.designaddict.com/design_radar/index.cfm" onMouseOut="di20('radar','radar_f1');" onMouseOver="di20('radar','radar_f2');"><img src="http://www.designaddict.com/img/nav_radar_f1.gif" width="85" height="16" alt="" border="0" name="radar"></a></td>
+	
+	<td><A HREF="http://www.designaddict.com/design_index/index.cfm" onMouseOut="di20('index','index_f1');" onMouseOver="di20('index','index_f2');"><img src="http://www.designaddict.com/img/nav_index_f1.gif" width="85" height="16" alt="" border="0" name="index"></a></td>
+	
+	<td><A HREF="http://www.designaddict.com/design_links/index.cfm" onMouseOut="di20('links','links_f1');" onMouseOver="di20('links','links_f2');"><img src="http://www.designaddict.com/img/nav_links_f1.gif" width="85" height="16" alt="" border="0" name="links"></a></td>
+
+	<td><A HREF="http://www.designaddict.com/design_addict/blog/index.cfm" onMouseOut="di20('blog','blog_f1');" onMouseOver="di20('blog','blog_f2');"><img src="http://www.designaddict.com/img/nav_blog_f1.gif" width="85" height="16" alt="" border="0" name="blog"></a></td>
+	
+	<td><A HREF="http://www.designaddict.com/design_addict/forums/index.cfm" onMouseOut="di20('forum','forum_f1');" onMouseOver="di20('forum','forum_f2');"><img src="http://www.designaddict.com/img/nav_forum_f1.gif" width="85" height="16" alt="" border="0" name="forum"></a></td>
+
+	<td><A HREF="http://www.designaddict.com/design_addict/design_calendar/index.cfm" onMouseOut="di20('calendar','calendar_f1');" onMouseOver="di20('calendar','calendar_f2');"><img src="http://www.designaddict.com/img/nav_calendar_f1.gif" width="85" height="16" alt="" border="0" name="calendar"></a></td>
+
+	<td><A HREF="http://www.designaddict.com/index.cfm?fuseaction=search" onMouseOut="di20('search','search_f1');" onMouseOver="di20('search','search_f2');"><img src="http://www.designaddict.com/img/nav_search_f1.gif" width="180" height="16" alt="" border="0" name="search"></a></td>
+
+
+</tr>
+</table>
+
+
+
+
+
+<style type="text/css">
+	#main-home-table div.contentBox{
+		margin:10px;
+	}
+	#main-home-table div.contentBox2{
+		margin:3px 10px;
+		font-size:8pt;
+		line-height:10pt;
+	}
+	#main-home-table div.contentBox2 a, #main-home-table div.contentBox2 a:link, #main-home-table div.contentBox2 a:visited, #main-home-table div.contentBox2 a:active,
+	#main-home-table div.contentBox a, #main-home-table div.contentBox a:link, #main-home-table div.contentBox a:visited, #main-home-table div.contentBox a:active {
+		text-decoration:none;
+	}
+	#main-home-table div.contentBox2 a:hover, #main-home-table div.contentBox a:hover{
+		text-decoration:underline;
+	}
+	#main-home-table td.home-boxtype1{
+		background:#D8E0E2;
+	}
+	#main-home-table td.home-boxtype2{
+	
+	}
+	#main-home-table tr td {
+		padding:0;
+	}
+	#main-home-table div.radarIntro{
+		color:#B9C1C3;
+		font-weight:bold;
+		font-size:16pt;
+		text-align:center;
+		margin:0 0 5px 0;
+	}
+	#main-home-table a.radarMore{
+		text-align:right;
+		padding:0px 14px;
+		color:#3F4A53;
+		font-size:10pt;
+		font-weight:bold;
+		display:block;
+		text-decoration:none;
+	}
+	#main-home-table a img {border:none;}
+	#main-home-table ul {
+		list-style-image:url('img/list-item-bullet.gif');
+		padding:0 0 0 20px;
+		margin:5px 0;
+	}
+	#main-home-table ul li {
+		padding:2px 0;
+	}
+	div.hidebox{
+		height:60px;
+		width:160px;
+		overflow:hidden;
+		position:relative;
+		margin-bottom:16px;
+	}
+	div.hidebox img{
+		position:absolute;
+		left:-10px;
+		top:-60px;
+	}
+</style>
+
+
+<TABLE BORDER="0" WIDTH="750" CELLSPACING="10" CELLPADDING="0" ID="main-home-table">
+<tr>
+	<td colspan="2" rowspan="3" class="home-boxtype1">
+		<a href="http://www.designaddict.com/design_index"><img src="http://www.designaddict.com/img/home/home_title_index.gif" height="32" width="180" border="0" /></a>
+		<div class="contentBox" style="height:200px;">
+			<div class="hidebox">
+
+				<img src="img/pictures/radar14265_pic63629_normal.jpg" alt="" />
+
+			</div>
+			<b>Recent updates:</b><br/>
+
+			<ul>
+
+				<li><a href="http://www.designaddict.com/design_index/index.cfm/Orla_Mølgaard-Nielsen">Orla Mølgaard-Nielsen</a></li>
+		
+				<li><a href="http://www.designaddict.com/design_index/index.cfm/Sacha_Lakic">Sacha Lakic</a></li>
+		
+				<li><a href="http://www.designaddict.com/design_index/index.cfm/Roger_Capron">Roger Capron</a></li>
+		
+				<li><a href="http://www.designaddict.com/design_index/index.cfm/Paul_Tuttle">Paul Tuttle</a></li>
+		
+				<li><a href="http://www.designaddict.com/design_index/index.cfm/Charles_Pollock">Charles Pollock</a></li>
+		
+				<li><a href="http://www.designaddict.com/design_index/index.cfm/Jean_Perzel">Jean Perzel</a></li>
+		
+			</ul>
+		</div>
+		<div class="contentBox" style="height:20px;">
+			<a href="http://www.designaddict.com/design_index" class="radarMore" >More ></a>
+		</div>
+	</td>
+
+
+
+
+
+
+
+	<td colspan="2" rowspan="3" class="home-boxtype1">
+		<a href="http://www.designaddict.com/design_addict/blog"><img src="http://www.designaddict.com/img/home/home_title_blog.gif" height="32" width="180" border="0" /></a>
+		<div class="contentBox" style="height:200px;">
+			<div class="hidebox">
+
+				<img src="design_addict/blog/enclosures//aWright_pricetower004734x912.jpg" alt="" />
+
+			</div>
+			<b>Latest posts:</b><br/>
+
+			<ul>
+
+				<li>
+					<a href="design_addict/blog/index.cfm/2014/1/24/Frank-Lloyd-Wright-and-the-City-Density-vs-Dispersal">Frank Lloyd Wright and the City: Density vs. Dispersal</a></li>
+
+				<li>
+					<a href="design_addict/blog/index.cfm/2014/1/17/Luca-Nichetto-Sucabaruca-for-Mjlk">Luca Nichetto 'Sucabaruca' for Mjölk</a></li>
+
+				<li>
+					<a href="design_addict/blog/index.cfm/2013/11/12/Mingei-Are-You-Here">'Mingei: Are You Here?'</a></li>
+
+			</ul>
+		</div>
+		<div class="contentBox" style="height:20px;">
+			<a href="http://www.designaddict.com/design_addict/blog" class="radarMore" >More ></a>
+		</div>
+	</td>
+
+
+
+
+	<td colspan="2" rowspan="3" class="home-boxtype1">
+		<a href="http://www.designaddict.com/design_addict/forums"><img src="http://www.designaddict.com/img/home/home_title_forum.gif" height="32" width="180" border="0" /></a>
+		<div class="contentBox" style="height:200px;">
+			<div class="hidebox">
+
+				<img src="img/pictures/radar14502_pic64231_normal.jpg" alt="" />
+
+			</div>
+			<b>New threads:</b><br/>
+			<ul>
+
+				<li><a href="http://www.designaddict.com/design_addict/forums/index.cfm/fuseaction/thread_show_one/thread_id/17454/">Herman Miller's new fiberglass chair</a></li>
+
+				<li><a href="http://www.designaddict.com/design_addict/forums/index.cfm/fuseaction/thread_show_one/thread_id/19733/">Are there other full size twin pedestal desks like Børge Mogensen's BM66 by Danish designers?</a></li>
+
+				<li><a href="http://www.designaddict.com/design_addict/forums/index.cfm/fuseaction/thread_show_one/thread_id/19681/">What do you think? DKR original rocker runners?</a></li>
+
+			</ul>
+		</div>
+		<div class="contentBox" style="height:20px;">
+			<a href="http://www.designaddict.com/design_addict/forums" class="radarMore" >More ></a>
+		</div>
+	</td>
+
+
+
+
+
+	<td colspan="2" class="home-boxtype1">
+		<a href="http://www.designaddict.com/design_links"><img src="http://www.designaddict.com/img/home/home_title_links.gif" height="32" width="180" border="0" /></a>
+		<div class="contentBox2" style="height:50px;">
+			<a href="http://www.designaddict.com/design_links">The greatest design links directory on the web. Already 6504 links!</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" class="home-boxtype1">
+		<a href="http://www.designaddict.com/design_shop"><img src="http://www.designaddict.com/img/home/home_title_shop.gif" height="32" width="180" border="0" /></a>
+		<div class="contentBox2" style="height:50px;">
+			<a href="http://www.designaddict.com/design_shop">Selection of the best books in design, architecture and others.</a>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" class="home-boxtype1">
+		<a href="http://www.designaddict.com/design_addict/design_calendar"><img src="http://www.designaddict.com/img/home/home_title_calendar.gif" height="32" width="180" border="0" /></a>
+		<div class="contentBox2" style="height:50px;">
+			<a href="http://www.designaddict.com/design_addict/design_calendar">International events: exhibitions, competitions, fairs...</a>
+		</div>
+	</td>
+</tr>
+
+
+
+<tr>
+	<td colspan="4" class="home-boxtype2">
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar"><img src="http://www.designaddict.com/img/home/home_title_big_radar.gif" height="32" width="370" border="0" /></a>
+		<div class="radarIntro">search > find > buy > enjoy</div>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar" class="radarMore">more ></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31655/Rosewood_coffee_table/"><img src="http://www.designaddict.com/img/pictures/radar31655_pic142992_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31644/Early_Sideboard_Hans_Wegner_for_Ry_Møbler_1.959/"><img src="http://www.designaddict.com/img/pictures/radar31644_pic142942_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31639/Nice_Danish_Table_Lamp_from_1960s/"><img src="http://www.designaddict.com/img/pictures/radar31639_pic142912_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31640/Small_Spanish_Sideboard_from_1960s/"><img src="http://www.designaddict.com/img/pictures/radar31640_pic142918_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+</tr>
+<tr>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31682/AUBÖCK_Book_Ends_Sharkfins/"><img src="http://www.designaddict.com/img/pictures/radar31682_pic143101_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31598/Dining_set_from_Kai_Kristensen_and_Skovby_Møbler_Denmark/"><img src="http://www.designaddict.com/img/pictures/radar31598_pic142712_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31710/A_pair_of_crystal_glass_hanging_lamps_Tulipan/"><img src="http://www.designaddict.com/img/pictures/radar31710_pic143229_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31601/1950s_Tricolor_Marquetry_Italian_Minimalistic_Wood_Desk/"><img src="http://www.designaddict.com/img/pictures/radar31601_pic142729_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31678/Cidue_Rectangular_Floating_Coffee_Table_1970/"><img src="http://www.designaddict.com/img/pictures/radar31678_pic143084_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31702/XL_All_Black_Anvia_Suspended_Potence_Type_Lamp/"><img src="http://www.designaddict.com/img/pictures/radar31702_pic143193_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31637/Low_Sideboard_in_Teak_Nils_Jonsson/"><img src="http://www.designaddict.com/img/pictures/radar31637_pic142901_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31620/Pierre_Paulin_Oyster-F557_lounge_chair_Artifort/"><img src="http://www.designaddict.com/img/pictures/radar31620_pic142821_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+</tr>
+<tr>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31616/Floor_lamp/"><img src="http://www.designaddict.com/img/pictures/radar31616_pic142800_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31602/Italian_Stilnovo_Mod._1262_Chrome_and_Enameled_Ring_Pendant_Lamp/"><img src="http://www.designaddict.com/img/pictures/radar31602_pic142735_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31612/Galotti_and_Radice_Italian_Crystal_and_Chrome_Coffee_Table/"><img src="http://www.designaddict.com/img/pictures/radar31612_pic142780_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31669/Elda_chair/"><img src="http://www.designaddict.com/img/pictures/radar31669_pic143054_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31638/Early_Wall_Lamp_Rupprecht_Skrip/"><img src="http://www.designaddict.com/img/pictures/radar31638_pic142906_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31671/Danish_50s_teak_coffee_table/"><img src="http://www.designaddict.com/img/pictures/radar31671_pic143062_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31603/XL_Full_Wenge_Highboard_Storage_Unit/"><img src="http://www.designaddict.com/img/pictures/radar31603_pic142741_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+	<td>
+		<a href="http://www.designaddict.com/design_radar/index.cfm/fuseaction/design_radar_one/radar/31659/Nice_and_big_oval_Knoll_table/"><img src="http://www.designaddict.com/img/pictures/radar31659_pic143002_mini.jpg" height="85" width="85" /></a>
+	</td>
+
+</tr>
+
+</table>
+
+	<div style="position:absolute; top:105px; left:768px; background-color:red;">
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" class="main-topnavig-table" style="margin-top:0;">
+<tr>
+	<td><A HREF="http://www.designaddict.com/index.cfm/fuseaction/about/index.cfm"><img src="http://www.designaddict.com/img/button_aboutus.gif" width="85" height="16" alt="" border="0"></A></td>
+	<td><A HREF="http://www.designaddict.com/index.cfm/fuseaction/sitemap/index.cfm"><img src="http://www.designaddict.com/img/button_sitemap.gif" width="85" height="16" alt="" border="0"></A></td>
+	<td><A HREF="http://www.designaddict.com/index.cfm/fuseaction/disclaimer/index.cfm"><img src="http://www.designaddict.com/img/button_disclaimer.gif" width="85" height="16" alt="" border="0"></A></td>
+	<td><A HREF="http://www.designaddict.com/index.cfm/fuseaction/privacy/index.cfm"><img src="http://www.designaddict.com/img/button_privacy.gif" width="85" height="16" alt="" border="0"></A></td>
+	<td><A HREF="http://www.designaddict.com/index.cfm/fuseaction/advertising/index.cfm"><img src="http://www.designaddict.com/img/button_advertising.gif" width="85" height="16" alt="" border="0"></A></td>
+	<td><A HREF="http://www.designaddict.com/index.cfm/fuseaction/press/index.cfm"><img src="http://www.designaddict.com/img/button_press.gif" width="85" height="16" alt="" border="0"></A></td>
+	<td><A HREF="http://www.designaddict.com/index.cfm/fuseaction/contact/index.cfm"><img src="http://www.designaddict.com/img/button_contactus.gif" width="85" height="16" alt="" border="0"></A></td>
+	<td><A HREF="javascript:openaddwindow('http://www.designaddict.com/index.cfm?fuseaction=newsletter_add')"><img src="http://www.designaddict.com/img/button_newsletter.gif" width="85" height="16" alt="" border="0"></A></td>
+</tr>
+</table>
+
+
+
+</td>
+
+
+
+
+
+
+
+</tr>
+</table>
+
+
+
+
+
+
+<br><br> 
+ 
+
+	<script type="text/javascript">
+	  var vglnk = { api_url: '//api.viglink.com/api',
+	                key: 'dade6ee9552581cb193881a31049ec72' };
+	
+	  (function(d, t) {
+	    var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
+	    s.src = ('https:' == document.location.protocol ? vglnk.api_url :
+	             '//cdn.viglink.com/api') + '/vglnk.js';
+	    var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+	  }(document, 'script'));
+	</script>
+
+
+
+
+
+
+<script type="text/javascript">
+var _sf_async_config={uid:14173,domain:"designaddict.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+</BODY>
+</HTML>
+
+
+
+
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.o2.org/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="refresh" content="3;url=flash/no_flash.html" />
+<title>o2 GLOBAL</title>
+</head>
+<body>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,0,0" width="80" height="80">
+<param name="movie" value="flash/flash_detection.swf?flashContentURL=index.php&altContentURL=flash/no_flash.html&contentVersion=7&contentMajorRevision=0&contentMinorRevision=0&allowFlashAutoInstall=false" />
+<param name="quality" value="low" />
+<embed src="flash/flash_detection.swf?flashContentURL=index.php&altContentURL=flash/no_flash.html&contentVersion=7&contentMajorRevision=0&contentMinorRevision=0&allowFlashAutoInstall=false" quality="low" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="80" height="80" />
+</object>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.areaofdesign.com/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Design Portal | Artists and Designers | Architecture, Art, Branding, Fashion Design, Furniture Design, Graphic Design, Illustration, Interior Design, Packaging, Photography, Print, Interactive Design | Art and Design USA | Area of Design</title>
+<META NAME="Title" CONTENT="Artists and Designers | Architecture, Art, Branding, Fashion Design, Furniture Design, Graphic Design, Illustration, Interior Design, Packaging, Photography, Print, Interactive Design | Art and Design USA | Area of Design">
+<META NAME="Author" CONTENT="Area of Design">
+<META NAME="Subject" CONTENT="Art and Design USA">
+<META NAME="Description" CONTENT="Area of Design showcases established and emerging artists, designers, commercial firms, and non profit groups based in the United States. Features include design resouces, design news, events and exhibitions calendar, featured artists, Spotlight column, American Icons, and a directory.">
+<META NAME="Keywords" CONTENT="design portal, american designers, american artists, american icons, design, art, graphic design, design community, web design, photography, interior design, sculpture, featured artist, design competition, Area of Design, design organization, Drench Award, AOD forum, AOD, design forum, american design companies, design directory, designer, designers">
+<META NAME="Language" CONTENT="English">
+<META NAME="Abstract" CONTENT="AOD">
+<META NAME="Publisher" CONTENT="AOD">
+<META NAME="Revisit-After" CONTENT="30 Days">
+<META NAME="Distribution" CONTENT="Global">
+<META NAME="Robots" CONTENT="Index,Follow">
+<LINK REL="SHORTCUT ICON" HREF="http://www.areaofdesign.com/AOD.ico">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<link href="aod.css" rel="stylesheet" type="text/css">
+</head>
+
+<body bgcolor="58595B" topmargin="0" onLoad="MM_preloadImages('navigation/blog2.jpg','navigation/home1.jpg','navigation/spotlight2.jpg','navigation/featured2.jpg','navigation/americanicon2.jpg','navigation/directory2.jpg','navigation/resources2.jpg','navigation/calendar2.jpg','navigation/news2.jpg','navigation/supporters2.jpg','navigation/about2.jpg','navigation/contact2.jpg','navigation/sitesub2.jpg','navigation/subnews2.jpg','navigation/befeatured2.jpg','navigation/designgreen2.jpg')">
+<div align="center">
+<table width="908" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td><div align="center"></div>
+</td>
+    </tr>
+  </table>
+  <table width="908" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td><img src="navigation/header1.jpg" width="703" height="53"></td>
+      <td><a href="http://areaofdesign.blogspot.com/" target="_blank" onMouseOver="MM_swapImage('blog','','navigation/blog2.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="navigation/blog1.jpg" name="blog" width="84" height="53" border="0"></a></td>
+      <td><img src="navigation/header2.jpg" width="121" height="53"></td>
+    </tr>
+    <tr valign="bottom"> 
+      <td colspan="3"><img src="navigation/header3.jpg" width="908" height="28"></td>
+    </tr>
+    <tr> 
+      <td colspan="3"><table width="908" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="1%" rowspan="2"> <table width="787" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td>
+    		<script type="text/javascript" src="scripts/swfobject.js"></script>
+			<div id="AOD_banner"><br>
+  			<span class="style1">AOD Banner</span></div>
+			<script type="text/javascript">
+   				var so = new SWFObject("AOD_banner.swf", "AOD", "787", "345", "8");
+   				so.addParam("quality", "high");
+   				so.write("AOD_banner");
+			</script>
+                  </td>
+                </tr>
+                <tr> 
+                  <td><table width="787" border="0" cellspacing="0" cellpadding="0">
+                      <tr> 
+                        <td background="navigation/leftline.jpg"><img src="navigation/leftline.jpg" width="1" height="602"></td>
+                        <td width="193" valign="top" bgcolor="#FFFFFF" class="text"> 
+                          <table width="173" border="0" align="center" cellpadding="0" cellspacing="0">
+                            <tr> 
+                              <td height="20">&nbsp;</td>
+                            </tr>
+                            <tr> 
+                              <td><img src="titles/welcome.jpg" width="72" height="11"></td>
+                            </tr>
+                            <tr> 
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr> 
+                              <td class="text">Area of Design showcases established 
+                                and emerging artists, designers, commercial firms, 
+                                and non profit groups.<br> <br>
+                                Our mission is to inspire others by encouraging, 
+                                educating, and nurturing creative talent.</td>
+                            </tr>
+                            <tr> 
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr> 
+                              <td><img src="173pxline.jpg" width="173" height="1"></td>
+                            </tr>
+                            <tr> 
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr> 
+                              <td><img src="titles/announcements.jpg" width="127" height="10"></td>
+                            </tr>
+                            <tr> 
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr> 
+                              <td height="11" class="text"><strong>Follow AOD 
+                                on:<br>
+                                <a href="http://twitter.com/AreaOfDesign" target="_blank"><img src="announcements/twitterlogo.jpg" width="143" height="33" border="0"></a> 
+                                </strong></td>
+                            </tr>
+                            <tr> 
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr> 
+                              <td><img src="173pxline.jpg" width="173" height="1"></td>
+                            </tr>
+                            <tr> 
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr> 
+                              <td class="headers"><img src="titles/spotlight.jpg" width="134" height="11"></td>
+                            </tr>
+                            <tr> 
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr> 
+                              <td><a href="inthespotlight/2011/vestigejewelry.htm"><img src="inthespotlight/2011/vestigejewelry/vestigejewelry.jpg" width="173" height="150" border="0"></a></td>
+                            </tr>
+                            <tr> 
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr> 
+                              <td class="text"><a href="inthespotlight/2011/vestigejewelry.htm" class="text"><strong>Vestige 
+                                Jewelry</strong></a><br>
+                                vintage jewelry</td>
+                            </tr>
+                            <tr> 
+                              <td class="text">&nbsp;</td>
+                            </tr>
+                            <tr> 
+                              <td class="text"><a href="inthespotlight.htm"><img src="inthespotlight/glantz/katieglantz.jpg" width="173" height="150" border="0"></a></td>
+                            </tr>
+                            <tr> 
+                              <td class="text">&nbsp;</td>
+                            </tr>
+                            <tr> 
+                              <td class="text"><a href="inthespotlight/KatieGlantz.htm" class="text"><strong>Katie 
+                                Glantz</strong></a><br>
+                                visual artist</td>
+                            </tr>
+                          </table></td>
+                        <td valign="bottom" background="navigation/colordivider2.jpg"><img src="navigation/colordivider.jpg" width="11" height="333"> 
+                        </td>
+                        <td width="571" valign="top" bgcolor="#FFFFFF"> <table width="551" border="0" align="center" cellpadding="0" cellspacing="0">
+                            <tr> 
+                              <td height="20"><a name="top" id="top"></a></td>
+                            </tr>
+                            <tr> 
+                              <td valign="top"><table width="551" border="0" align="center" cellpadding="0" cellspacing="0">
+                                  <tr> 
+                                    <td><table width="540" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td><img src="titles/spotlight.jpg" width="134" height="11"></td>
+                                          <td class="spotlightdate"><div align="right" class="spotlightdate2"></div></td>
+                                        </tr>
+                                      </table></td>
+                                  </tr>
+                                  <tr> 
+                                    <td valign="top" class="text">&nbsp;</td>
+                                  </tr>
+                                  <tr> 
+                                    <td valign="top" class="text"><table width="551" border="0" align="center" cellpadding="0" cellspacing="0">
+                                        <tr> 
+                                          <td valign="top"><table width="551" border="0" cellspacing="0" cellpadding="0">
+                                              <tr> 
+                                                <td width="1%" valign="top"><img src="inthespotlight/izavel/portrait.png" width="129" height="100"></td>
+                                                <td width="10">&nbsp;</td>
+                                                <td valign="middle" class="text"> 
+                                                  <table width="291" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr> 
+                                                      <td><p class="text"><strong>ISABEL 
+                                                          VARELA<br>
+                                                          fashion designer</strong><br>
+                                                          <br>
+                                                          <a href="http://www.izavelstudio.com/" target="_blank" class="text">www.izavelstudio.com</a><br>
+                                                        </p></td>
+                                                    </tr>
+                                                  </table></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                        <tr> 
+                                          <td height="12" valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td height="12" valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">All images 
+                                            have been used with permission. All 
+                                            images are copyrighted and strictly 
+                                            for educational and viewing purposes.<a name="viewportfolio" id="viewportfolio"></a></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="inthespotlight/izavel/001.png" width="551" height="240"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="inthespotlight/izavel/002.png" width="551" height="240"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="inthespotlight/izavel/003.png" width="551" height="240"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="inthespotlight/izavel/004.png" width="551" height="240"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="inthespotlight/izavel/005.png" width="551" height="240"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="inthespotlight/izavel/006.png" width="551" height="240"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="inthespotlight/izavel/007.png" width="551" height="240"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="inthespotlight/izavel/008.png" width="551" height="240"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="inthespotlight/izavel/009.png" width="551" height="240"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="inthespotlight/izavel/011.png" width="551" height="240"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="inthespotlight/izavel/012.png" width="551" height="240"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="inthespotlight/izavel/010.png" width="551" height="240"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><p><a href="http://www.izavelstudio.com/" target="_blank"><img src="inthespotlight/izavel/logo.png" width="300" height="48" border="0"></a><br>
+                                              <br>
+                                              Dallas-based Isabel Varela is a 
+                                              Southwest Louisiana girl with cultural 
+                                              influences from Panama and Honduras. 
+                                              While pursuing her Bachelor of Science 
+                                              degree in Apparel Design from Louisiana 
+                                              State University, Isabel interned 
+                                              at the prestigious BCBGMAXAZRIA 
+                                              in Los Angeles as an assistant designer. 
+                                              She then went on to complete a master 
+                                              class at the Miami International 
+                                              University and attended a Global 
+                                              Fashion Field Study in China where 
+                                              she was chosen as one of only 20 
+                                              international students to study 
+                                              in Paris, France at the &Eacute;cole 
+                                              Duperr&eacute;, &Eacute;cole Sup&eacute;rieure 
+                                              des Arts Appliqu&eacute;s.<br>
+                                              <br>
+                                              Having achieved a well-rounded mix 
+                                              of formal design education and industry 
+                                              experience, she decided to pursue 
+                                              her childhood dream of starting 
+                                              her own label. In January 2011, 
+                                              she collaborated with Ashlee Brooks 
+                                              Patton to launch contemporary womenswear 
+                                              line Varela + Brooks which was named 
+                                              runner-up at the fifth annual Texas&#8217; 
+                                              Next Top Designer competition and 
+                                              both were finalists to compete in 
+                                              the NBC &#8220;Fashion Star&#8221; 
+                                              reality television series. Isabel 
+                                              has created the wardrobes for several 
+                                              movies and even became a semi-finalist 
+                                              on Project Runway Season 8.<br>
+                                              <br>
+                                              In 2012, Isabel Varela will be focusing 
+                                              on launching her independent label 
+                                              IZAVEL. She was honored the Fairmont 
+                                              Dallas&#8217; inaugural Designer-In-Residence 
+                                              three month tenure where she will 
+                                              educate students and the community 
+                                              about the fashion industry while 
+                                              working at the glass-front design 
+                                              studio and living in the hotel.<br>
+                                              <br>
+                                              IZAVEL creates sleek modern shapes 
+                                              to give an unexpected twist to classic, 
+                                              tailored styles. Handcrafted from 
+                                              start to finish with luxurious fabric, 
+                                              each piece will allow you to convey 
+                                              individuality, confidence and style 
+                                              that is truly one of a kind. Inspired 
+                                              by everything from architecture 
+                                              and music to everyday objects, IZAVEL 
+                                              creates fashion-forward details 
+                                              with stark asymmetric silhouettes 
+                                              which work together to bring a unique 
+                                              twist to each of her designs.yet 
+                                              effective style of work.<br>
+                                              <br>
+                                              <a href="http://www.izavelstudio.com/" target="_blank" class="text">www.izavelstudio.com</a></p></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><img src="551pxline.jpg" width="551" height="1"></td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text">&nbsp;</td>
+                                        </tr>
+                                        <tr> 
+                                          <td valign="top" class="text"><table width="551" border="0" cellpadding="0" cellspacing="0" class="text">
+                                              <tr> 
+                                                <td class="text"><b>Want to be 
+                                                  featured on the AOD site? <a href="befeatured.htm" class="text">Submit 
+                                                  your portfolio here</a>.</b></td>
+                                                <td valign="bottom"><div align="right"><a href="#top"><img src="titles/top.jpg" width="46" height="16" border="0"></a></div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                      </table></td>
+                                  </tr>
+                                </table></td>
+                            </tr>
+                          </table></td>
+                        <td valign="top" background="navigation/navbarboxes2.jpg"> 
+                          <table width="11" border="0" cellspacing="0" cellpadding="0">
+                            <tr> 
+                              <td valign="top" background="navigation/navbarboxes2.jpg"><img src="navigation/navboxes.jpg" width="11" height="345"></td>
+                            </tr>
+                            <tr> 
+                              <td background="navigation/navbarboxes2.jpg">&nbsp;</td>
+                            </tr>
+                          </table></td>
+                      </tr>
+                    </table></td>
+                </tr>
+                <tr> 
+                  <td><img src="navigation/footer1.jpg" width="787" height="21"></td>
+                </tr>
+              </table></td>
+            <td width="121" valign="top" background="navigation/navbox3b.jpg"><table width="121" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td valign="top"> <table width="121" border="0" cellspacing="0" cellpadding="0">
+                      <tr> 
+                        <td><table width="114" border="0" cellspacing="0" cellpadding="0">
+                            <tr> 
+                              <td><a href="index.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('home1','','navigation/home1.jpg',1)"><img src="navigation/home1.jpg" name="home1" width="114" height="15" border="0" id="home1"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar1.jpg" width="114" height="18"></td>
+                            </tr>
+                            <tr> 
+                              <td><a href="inthespotlight.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('spotlight1','','navigation/spotlight2.jpg',1)"><img src="navigation/spotlight1.jpg" name="spotlight1" width="114" height="15" border="0" id="spotlight1"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar2.jpg" width="114" height="3"></td>
+                            </tr>
+                            <tr> 
+                              <td><a href="featuredartist.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('featured1','','navigation/featured2.jpg',1)"><img src="navigation/featured1.jpg" name="featured1" width="114" height="14" border="0" id="featured1"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar3.jpg" width="114" height="3"></td>
+                            </tr>
+                            <tr> 
+                              <td><a href="americanicons.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('americanicon1','','navigation/americanicon2.jpg',1)"><img src="navigation/americanicon1.jpg" name="americanicon1" width="114" height="14" border="0" id="americanicon1"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar4.jpg" width="114" height="3"></td>
+                            </tr>
+                            <tr> 
+                              <td><a href="directory.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('directory1','','navigation/directory2.jpg',1)"><img src="navigation/directory1.jpg" name="directory1" width="114" height="15" border="0" id="directory1"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar5.jpg" width="114" height="2"></td>
+                            </tr>
+                            <tr> 
+                              <td><a href="resources.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('resources1','','navigation/resources2.jpg',1)"><img src="navigation/resources1.jpg" name="resources1" width="114" height="14" border="0" id="resources1"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar6.jpg" width="114" height="3"></td>
+                            </tr>
+                            <tr> 
+                              <td><a href="calendar.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('calendar1','','navigation/calendar2.jpg',1)"><img src="navigation/calendar1.jpg" name="calendar1" width="114" height="14" border="0" id="calendar1"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar7.jpg" width="114" height="3"></td>
+                            </tr>
+                            <tr> 
+                              <td><a href="news.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('news1','','navigation/news2.jpg',1)"><img src="navigation/news1.jpg" name="news1" width="114" height="14" border="0" id="news1"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar8.jpg" width="114" height="19"></td>
+                            </tr>
+                            <tr> 
+                              <td><a href="designgreen.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image117','','navigation/designgreen2.jpg',1)"><img src="navigation/designgreen1.jpg" name="Image117" width="114" height="14" border="0"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar9.jpg" width="114" height="20"></td>
+                            </tr>
+                            <tr> 
+                              <td><a href="supporters.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('supporters1','','navigation/supporters2.jpg',1)"><img src="navigation/supporters1.jpg" name="supporters1" width="114" height="15" border="0" id="supporters1"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar10.jpg" width="114" height="2"></td>
+                            </tr>
+                            <tr> 
+                              <td><a href="aboutaod.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('about1','','navigation/about2.jpg',1)"><img src="navigation/about1.jpg" name="about1" width="114" height="15" border="0" id="about1"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar11.jpg" width="114" height="2"></td>
+                            </tr>
+                            <tr> 
+                              <td><a href="contactus.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact1','','navigation/contact2.jpg',1)"><img src="navigation/contact1.jpg" name="contact1" width="114" height="15" border="0" id="contact1"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar12.jpg" width="114" height="18"></td>
+                            </tr>
+                            <tr> 
+                              <td><a href="sitesubmission.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('sitesub1','','navigation/sitesub2.jpg',1)"><img src="navigation/sitesub1.jpg" name="sitesub1" width="114" height="15" border="0" id="sitesub1"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar13.jpg" width="114" height="2"></td>
+                            </tr>
+                            <tr> 
+                              <td><a href="submitnews.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('submitnews1','','navigation/subnews2.jpg',1)"><img src="navigation/subnews1.jpg" name="submitnews1" width="114" height="15" border="0" id="submitnews1"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar14.jpg" width="114" height="2"></td>
+                            </tr>
+                            <tr> 
+                              <td><a href="befeatured.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('befeatured1','','navigation/befeatured2.jpg',1)"><img src="navigation/befeatured1.jpg" name="befeatured1" width="114" height="15" border="0" id="befeatured1"></a></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/bar15.jpg" width="114" height="27"></td>
+                            </tr>
+                            <tr> 
+                              <td><img src="navigation/navbox2.jpg" width="114" height="10"></td>
+                            </tr>
+                            <tr> 
+                              <td valign="top"> <table width="114" border="0" cellspacing="0" cellpadding="0">
+                                  <tr> 
+                                    <td width="10" height="100%" background="navigation/navbox3a.jpg">&nbsp;</td>
+                                    <td valign="top"> <table width="104" border="0" cellspacing="0" cellpadding="0">
+                                        <tr> 
+                                          <td width="95" class="sponsors">&nbsp;</td>
+                                        </tr>
+                                      </table></td>
+                                  </tr>
+                                </table></td>
+                            </tr>
+                          </table></td>
+                        <td width="1%" valign="top"><img src="navigation/navbox1.jpg" width="7" height="346"></td>
+                      </tr>
+                    </table></td>
+                </tr>
+              </table></td>
+            <td rowspan="2" valign="top">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td valign="bottom" background="navigation/navbox3b.jpg"> <table width="121" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td><img src="navigation/navbox3.jpg" width="10" height="268"></td>
+                </tr>
+              </table></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr> 
+      <td colspan="3"><table width="780" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td class="sponsors"><div align="right">Copyright &copy; 2002-2013 
+                Area of Design. All rights reserved.</div></td>
+          </tr>
+          <tr> 
+            <td height="2" colspan="3" class="sponsors"><p><img src="spacer.gif" width="2" height="2"></p></td>
+          </tr>
+          <tr> 
+            <td class="sponsors"> <div align="right"><a href="AODkit.zip" class="text">AOD 
+                Logo Kit</a> &#8226; <a href="beasponsor.asp" class="text"></a><a href="befeatured.htm" class="text">Be 
+                Featured</a> &#8226; <a href="beasponsor.htm" class="text">Be 
+                a Sponsor</a> &#8226; <a href="sitesubmission.htm" class="text">Site 
+                Submission</a> &#8226; <a href="privacy.htm" class="text"></a><a href="submitnews.htm" class="text">Submit 
+                News</a> &#8226; <a href="privacy.htm" class="text"></a><a href="contactus.htm" class="text">Submit 
+                Resource</a> &#8226; <a href="contactus.htm" class="text">Suggestions</a> 
+                &#8226; <a href="privacy.htm" class="text">Privacy</a> &#8226; 
+                <a href="terms.htm" class="text">Terms</a></div></td>
+          </tr>
+          <tr> 
+            <td class="sponsors"><div align="right"><img src="spacer.gif" width="10" height="10"> 
+              </div></td>
+          </tr>
+        </table></td>
+    </tr>
+  </table>
+  <!-- Start of StatCounter Code -->
+  <script type="text/javascript" language="javascript">
+var sc_project=226450; 
+</script>
+  <script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+  <noscript>
+  <a href="http://www.statcounter.com" target="_blank"><img  src="http://c1.statcounter.com/counter.php?sc_project=226450&amp;java=0" alt="site stats" border="0"></a> 
+  </noscript>
+  <!-- End of StatCounter Code -->
+</div>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.agideas.net/>====================
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if IE 9]> <html class="no-js ie-9" lang="en-US"> <![endif]-->
+<!--[if IE 10]> <html class="no-js ie-10" lang="en-US"> <![endif]-->
+<!--[if gt IE 10]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>agIdeas | design is difference</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://www.agideas.net/xmlrpc.php" />
+	
+	<!--[if lt IE 9]>
+	<script src="http://www.agideas.net/wp-content/themes/agideas/resources/build/ie.min.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="agIdeas &raquo; Feed" href="http://www.agideas.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="agIdeas &raquo; Comments Feed" href="http://www.agideas.net/comments/feed/" />
+<link rel='stylesheet' id='style-css'  href='http://www.agideas.net/wp-content/themes/agideas/resources/build/style.css?ver=1.3.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.agideas.net/wp-content/themes/agideas/resources/build/frontend.min.js?ver=1.0.7'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.agideas.net/xmlrpc.php?rsd" />
+<link rel='next' title='Next Live Event' href='http://www.agideas.net/next-live-event/' />
+<link rel='canonical' href='http://www.agideas.net/' />
+<link rel='shortlink' href='http://www.agideas.net/?p=2' />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17904558-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+	
+
+</head>
+<body class="home page page-id-2 page-template-default">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=130621280282096";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<header id='top' role="banner">
+	<div class="container">
+			<h1 id="site-title">
+				<a href="http://www.agideas.net/home" title="agIdeas" rel="home">agIdeas</a>
+			</h1>
+			
+			<nav id='banner' class='pull-right'>
+				<div class="menu-banner-menu-container"><ul id="menu-banner-menu" class="menu"><li id="menu-item-1384" class="menu-item menu-item-type-custom menu-item-object-custom first menu-item-1384"><a href="/home">Home</a></li>
+<li id="menu-item-986" class="menu-item menu-item-type-post_type menu-item-object-page last menu-item-986"><a href="http://www.agideas.net/about-us/">About Us</a></li>
+</ul></div>			</nav>
+			<form role="search" method="get" class="hidden-xs search-form form-inline" action="http://www.agideas.net/">
+	<span class="screen-reader-text">Search for:</span>
+	<input type="search" class="search-field form-control" value="" name="s" title="Search for:">
+	
+</form>
+		</div>
+	</div>
+</header>
+
+<div id='page' class="container">
+
+	<nav id="access" role="navigation" class="row">
+		<span class="sr-only">Main menu</span>
+		<a class="skip-link sr-only" href="#primary" title="Skip to primary content">Skip to primary content</a>
+		<a class="skip-link sr-only" href="#secondary" title="Skip to secondary content">Skip to secondary content</a>
+		<div class='col-md-12'>
+		<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-991" class="menu-item menu-item-type-post_type menu-item-object-page first menu-item-991"><a href="http://www.agideas.net/next-live-event/">Next Live Event</a></li>
+<li id="menu-item-2282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2282"><a href="/speakers">Past Speakers</a></li>
+<li id="menu-item-1624" class="menu-item menu-item-type-post_type menu-item-object-page last menu-item-1624"><a href="http://www.agideas.net/buy-tickets/">Buy Tickets</a></li>
+</ul></div>		</div>
+				
+	</nav>
+
+
+	<div id='main' class="row">
+
+	<section id="primary" class="col-md-12" role="main">
+				<article id="post-2" class="post-2 page type-page status-publish hentry">
+
+			<div id="carousel" class="carousel slide" data-ride="carousel">
+			<ol class="carousel-indicators">
+				<li data-target="#carousel" data-slide-to="0" class="active"></li>
+						<li data-target="#carousel" data-slide-to="1" class=""></li>
+						<li data-target="#carousel" data-slide-to="2" class=""></li>
+						<li data-target="#carousel" data-slide-to="3" class=""></li>
+						<li data-target="#carousel" data-slide-to="4" class=""></li>
+						<li data-target="#carousel" data-slide-to="5" class=""></li>
+					</ol>
+	
+	<div class="carousel-inner">
+									<div class="item active">
+						<a href='https://www.youtube.com/watch?v=yiCvN8Nv0as' target="_blank">
+			<img width="940" height="480" src="http://www.agideas.net/wp-content/uploads/2013/11/Video_Holding_Carousel_v2_small.jpg" class="attachment-post-carousel" alt="Video_Holding_Carousel_v2_small" />			</a>
+					</div>
+								<div class="item ">
+						<a href='http://artscentremelbourne.com.au/Whats-On/Forum-Talk/Look-Upstairs' target="_blank">
+			<img width="940" height="480" src="http://www.agideas.net/wp-content/uploads/2013/11/LookUpstairs_Carousel1.jpg" class="attachment-post-carousel" alt="LookUpstairs_Carousel1" />			</a>
+					</div>
+								<div class="item ">
+						<a href='/next-live-event/look-upstairs/' >
+			<img width="940" height="480" src="http://www.agideas.net/wp-content/uploads/2013/11/DEFO045_Carousel_Images_940_small_scale_2.jpg" class="attachment-post-carousel" alt="DEFO045_Carousel_Images_940_small_scale_2" />			</a>
+					</div>
+								<div class="item ">
+						<a href='/next-live-event/look-upstairs/' >
+			<img width="940" height="480" src="http://www.agideas.net/wp-content/uploads/2013/11/DEFO045_Carousel_Images_940_small_scale_31-940x480.jpg" class="attachment-post-carousel" alt="DEFO045_Carousel_Images_940_small_scale_3" />			</a>
+					</div>
+								<div class="item ">
+						<a href='/next-live-event/look-upstairs/' >
+			<img width="940" height="480" src="http://www.agideas.net/wp-content/uploads/2013/11/DEFO045_Carousel_Images_940_small_scale_4.jpg" class="attachment-post-carousel" alt="DEFO045_Carousel_Images_940_small_scale_4" />			</a>
+					</div>
+								<div class="item ">
+						<a href='/next-live-event/look-upstairs/' >
+			<img width="940" height="480" src="http://www.agideas.net/wp-content/uploads/2013/11/DEFO045_Carousel_Images_940_small_scale_51-940x480.jpg" class="attachment-post-carousel" alt="DEFO045_Carousel_Images_940_small_scale_5" />			</a>
+					</div>
+									</div>
+
+	<a class="hidden-xs left carousel-control" href="#carousel" data-slide="prev">
+		<i class="arr larr"></i>
+	</a>
+	<a class="hidden-xs right carousel-control" href="#carousel" data-slide="next">
+		<i class="arr rarr"></i>
+	</a>
+</div>
+
+
+			<div class="entry-content">
+				<hr class="top" />
+				<p><span style="line-height: 1.42857;">agIdeas creates world class design events and resources that make connections between those seeking innovation and some of the most original minds on the planet. Â Here you will find opportunities for designers, researchers, businesses, secondary schools, primary schools and everyone in the community who demands a world that looks and works better.</span></p>
+				<hr class="bottom" />
+			</div>
+
+			
+	<div class="row boxes">
+				<div class="col-xs-6 col-sm-3 layout-col-4">
+		<a href='/next-live-event/look-upstairs/' ><img width="220" height="220" src="http://www.agideas.net/wp-content/uploads/2013/11/DEFO045_220px_Icons_Look_Upstairs.jpg" class="attachment-page-box-image" alt="DEFO045_220px_Icons_Look_Upstairs" /></a>			<h3 class="layout-col-4">More than a design conference</h3>
+						<div class="hidden-xs">
+				<p>Look Upstairs brings together the largest gathering of international design leaders ever seen&#8230;Â Â <a href="/next-live-event/look-upstairs/">more</a><a href="/next-live-event/look-upstairs/"><br />
+</a></p>
+			</div>
+					</div>
+				<div class="col-xs-6 col-sm-6 layout-col-4">
+		<a href='/2014-look-upstairs-book/' ><img width="460" height="220" src="http://www.agideas.net/wp-content/uploads/2013/11/Book_double_blockHOME.jpg" class="attachment-page-box-image-42" alt="Book_double_blockHOME" /></a>			<h3 class="layout-col-4">2014 &#039;Look Upstairs&#039; Book</h3>
+						<div class="hidden-xs">
+				<p>Published to celebrate Melbourne International Design Week 2014 and Look Upstairs, this beautifully crafted 400 page full-colour book presents profiles and work samples of the 41 local and international creative leaders who&#8230;Â <a href="/next-live-event/2014-look-upstairs-book/">more</a></p>
+			</div>
+					</div>
+				<div class="col-xs-6 col-sm-3 layout-col-4">
+		<a href='/next-live-event/events/studio-access/' ><img width="220" height="220" src="http://www.agideas.net/wp-content/uploads/2014/02/DEFO045_220px_Icons_studioAccess_Studio_Access.jpg" class="attachment-page-box-image" alt="DEFO045_220px_Icons_studioAccess_Studio_Access" /></a>			<h3 class="layout-col-4">Studio Access</h3>
+						<div class="hidden-xs">
+				<p>Step inside leading Melbourne DesignÂ Studios.Â  Build your networks. Only open to students and new graduates who attend Look Upstairs&#8230; <a href="/next-live-event/events/studio-access/">more</a></p>
+			</div>
+					</div>
+				<div class="col-xs-6 col-sm-3 clear layout-col-4">
+		<a href='/next-live-event/business-advantage/' ><img width="220" height="220" src="http://www.agideas.net/wp-content/uploads/2013/11/DEFO045_220px_Icons_Business_Advantage.jpg" class="attachment-page-box-image" alt="DEFO045_220px_Icons_Business_Advantage" /></a>			<h3 class="layout-col-4">Business Breakfast Seminar</h3>
+						<div class="hidden-xs">
+				<p>Strategies for businesses interested in how design can improve profitability. There&#8217;s a groundswell of&#8230;Â <a href="/next-live-event/business-advantage/">more</a></p>
+			</div>
+					</div>
+				<div class="col-xs-6 col-sm-3 layout-col-4">
+		<a href='/next-live-event/design-futures/' ><img width="220" height="220" src="http://www.agideas.net/wp-content/uploads/2013/11/DEFO045_220px_Icons_Design_Futures.jpg" class="attachment-page-box-image" alt="DEFO045_220px_Icons_Design_Futures" /></a>			<h3 class="layout-col-4">Design Futures</h3>
+						<div class="hidden-xs">
+				<p>An informative and enthralling way for 2,500 secondary school students to discover the different&#8230; <a href="/next-live-event/design-futures/">more</a></p>
+			</div>
+					</div>
+				<div class="col-xs-6 col-sm-3 layout-col-4">
+		<a href='/next-live-event/design-seeds/' ><img width="220" height="220" src="http://www.agideas.net/wp-content/uploads/2013/11/DEFO045_220px_Icons-031.jpg" class="attachment-page-box-image" alt="DEFO045_220px_Icons-03" /></a>			<h3 class="layout-col-4">Primary School Workshop</h3>
+						<div class="hidden-xs">
+				<p>Design Seeds is a workshop aimed at encouraging children to become champions of good design&#8230;Â <a href="/next-live-event/design-seeds/">more</a></p>
+			</div>
+					</div>
+				<div class="col-xs-6 col-sm-3 layout-col-4">
+		<a href='/next-live-event/design-for-business-research/' ><img width="220" height="220" src="http://www.agideas.net/wp-content/uploads/2013/11/DEFO045_220px_Icons-011.jpg" class="attachment-page-box-image" alt="DEFO045_220px_Icons-01" /></a>			<h3 class="layout-col-4">Conference and Publication</h3>
+						<div class="hidden-xs">
+				<p>The Design for Business: Research program is a series of presentationsÂ that examine&#8230; <a href="/next-live-event/design-for-business-research/">more</a></p>
+			</div>
+					</div>
+				<div class="col-xs-6 col-sm-3 clear layout-col-4">
+		<a href='http://newstar.agideas.net/' target="_blank"><img width="220" height="220" src="http://www.agideas.net/wp-content/uploads/2013/11/DEFO045_Newstar_Web_Icon_220x220.jpg" class="attachment-page-box-image" alt="DEFO045_Newstar_Web_Icon_220x220" /></a>			<h3 class="layout-col-4">NewStar Design Awards</h3>
+						<div class="hidden-xs">
+				<p>NewStar Design Awards is a scholarship andÂ exhibition program held as part of agIdeas&#8230; <a href="http://newstar.agideas.net/">more</a></p>
+			</div>
+					</div>
+				<div class="col-xs-6 col-sm-6 layout-col-4">
+		<a href='/next-live-event/events/design-garden/' ><img width="460" height="220" src="http://www.agideas.net/wp-content/uploads/2013/11/Website_Horizontal_Banner_HOME_DesignGarden.jpg" class="attachment-page-box-image-42" alt="Website_Horizontal_Banner_HOME_DesignGarden" /></a>			<h3 class="layout-col-4">Design Garden</h3>
+						<div class="hidden-xs">
+				<p>The Arts Centre Melbourne Plaza (Lawn) will be transformed by Six Degrees Architects withÂ support from Simon Taylor Landart into a free design hub for design enthusiasts and thoseÂ curious&#8230; <a href="/next-live-event/events/design-garden/">more</a></p>
+			</div>
+					</div>
+				<div class="col-xs-6 col-sm-3 layout-col-4">
+		<a href='/speakers/' ><img width="220" height="220" src="http://www.agideas.net/wp-content/uploads/2013/11/DEFO045_220px_Icons_Archive.jpg" class="attachment-page-box-image" alt="DEFO045_220px_Icons_Archive" /></a>			<h3 class="layout-col-4">Past Speaker Archive</h3>
+					</div>
+		</div>
+
+			<footer class="entry-meta">
+							</footer>
+		</article>
+
+	</section>
+
+  </div>
+  
+</div>
+
+  <footer id='bottom' class="navbar navbar-inverse">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-6 col-sm-10 footer-menu">
+				<span class='copyright'>Â© agIdeas</span> | <a href='/contact-us'>Contact Us</a>
+			</div>
+			<div class="col-xs-6 col-sm-2 logos">
+				<a href="https://www.facebook.com/agideas" target="_blank"><i class="fa fa-facebook"></i></a>
+				<a href="http://instagram.com/agideasofficial" target="_blank"><i class="fa fa-instagram"></i></a>
+				<a href="https://twitter.com/agIdeas" target="_blank"><i class="fa fa-twitter"></i></a>
+			</div>
+		</div>
+	</div>
+  </footer>
+<!--[if lte IE 8]><p class="chromeframe">If you can not view this website it is because your browser is outdated. We recommend you <a href="http://browsehappy.com/">upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site. If you still have trouble, please email us at <a href="mailto:contact@agideas.net">contact@agideas.net</a> and we will send you an eBrochure.</p><![endif]-->
+</body>
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++

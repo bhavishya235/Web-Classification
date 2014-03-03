@@ -1,0 +1,3641 @@
+====================<http://www.softelec.com/>====================
+<html>
+<head>
+    <title>Raster-to-Vector Conversion Software (R2V), Vectorization, Scan, Edit, Convert Raster to Vector, CAD/GIS Digitization, Raster Design, Map Conversion, Vectorisation, Digitisation, Indexing, Viewing</title>
+    <meta name="Description" content="Download free demo software for: Raster-to-Vector Conversion,  R2V, Raster Vector Conversion, Raster Design, Raster Editing, Raster CAD, Indexing, Digitizing, Vectorization, Vectorisation">
+    <meta name="Keywords" content="raster, vector, conversion, map, vectorization, vectorisation, scan, vectorize, drawing,CAD, dwg, dxf, r2v, converter, GeoTiff, viewing, indexing, edit, digitizing, scanner, archive, geo, reference, georeference, warp, calibration, tracing, gis">
+    <meta name="robots" content="all">
+    <meta name="robots" content="follow">
+    <meta name="robots" content="index">
+    <meta name="revisit-after" content="7 days">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta name="page-topic" content="Computer/CAD and CAM/Raster to Vector">
+    <meta name="distribution" content="Global">
+    <meta name="language" content="english, en">
+    <meta name="author" content="softelec gmbh">
+    <meta name="publisher" content="softelec gmbh">
+    <link rel="shortcut icon" href="en/images/VP.ICO">
+    <link href="softelec.css" type="text/css" rel="stylesheet">
+
+    <script language="JavaScript" type="text/javascript">
+<!--
+var subList = new Array("welcome",           "home","en/welcome/fs_welcome.htm",
+                        "company",           "about us","en/aboutus/company/fs_company.htm",
+                        "partners",          "about us","en/aboutus/partners/fs_partners.htm",
+                        "impressum",         "about us","en/aboutus/impressum/fs_impressum.htm",
+						"products",          "products","en/products/dispatcher/fs_dispatcher.htm",
+						"vphybridcad",       "products","en/products/raster-to-vector/fs_vphybridcad.htm",
+						"v7features",        "products","en/products/raster-to-vector/fs_features.htm",
+						"vpfeatures",        "products","en/products/raster-to-vector/fs_features.htm",
+						"v7specs",           "products","en/products/raster-to-vector/fs_specs.htm",
+						"vpspecs",           "products","en/products/raster-to-vector/fs_specs.htm",
+						"vpindex",           "products","en/products/indexing/fs_vpindex.htm",
+						"vpview",            "products","en/products/viewer/fs_vpview.htm",
+						"vpmap",             "products","en/products/gis/fs_vpmap.htm",
+						"news",              "info","en/info/news/fs_news.htm",
+						"events",            "info","en/info/events/fs_events.htm",
+						"success",           "info","en/info/success/fs_success.htm",
+						"references",        "info","en/info/reference/fs_reference.htm",
+						"demo",              "demo","en/demo/fs_demo.htm",
+						"demoMap",           "demo","en/demo/fs_demo.htm",
+						"demoView",          "demo","en/demo/fs_demo.htm",
+						"demoIndex",         "demo","en/demo/fs_demo.htm",
+						"downloads",         "downloads","en/downloads/products/fs_products.htm",
+						"updates",           "downloads","en/downloads/updates/fs_updates.htm",
+						"utilities",         "downloads","en/downloads/utilities/fs_utilities.htm",
+						"documentation",     "downloads","en/downloads/docu/fs_docu.htm",
+						"registration",      "support","en/support/registration/fs_registration.htm",
+						"faq",               "support","en/support/faq/fs_faq.htm",
+						"distriarea",        "support","distriarea/fs_distriarea.htm",
+						"hotlines",          "support","en/support/hotlines/fs_hotlines.htm",
+						"netviewer",          "support","en/support/hotlines/fs_hotlines.htm",
+						"contact",           "contact","en/contact/fs_contact.htm",
+						"videos",            "products","en/products/videos/fs_videos.htm",
+						"PowerOCR",           "downloads","en/downloads/products/fs_PowerOCR.htm",
+						"scanguide",            "support","en/support/scanguide/fs_scan.htm",
+						"AutoCAD",            "applications","en/applications/fs_AutoCAD.htm",
+						"formats",            "applications","en/applications/fs_formats.htm",
+						"vectorize",            "applications","en/applications/fs_vectorize.htm",
+						"georeference",            "applications","en/applications/fs_georeference.htm",
+						"cadlike",            "applications","en/applications/fs_cad.htm");  
+
+function Fenster(WinWidth,WinHeight,Link,WindowName) {
+  var putItThere = null; 
+  var chasm = screen.availWidth;
+  var mount = screen.availHeight;
+
+  window.open(Link,WindowName,'toolbar=0,width='+WinWidth+',height='+WinHeight+',left=' + ((chasm - WinWidth - 10) * .5) + ',top=' + ((mount - WinHeight - 30) * .5) +', location=0,directories=0,status=0,menubar=0,scrollbars=no,resizable=0,copyhistory=0');
+}
+
+function loadFrame() { 
+//    Fenster('400','293','images/xmas.jpg')
+//  vor Fenster Befehl setzen zum deaktivieren
+	var start = document.location.href.lastIndexOf("?")+1;
+	var end = document.location.href.indexOf("+",start);
+	var label = "welcome";
+	var params = "";
+	if (start != -1 ) {
+		if ( end != -1 ) {
+			label = document.location.href.substring(start, end);
+			params = "?" + document.location.href.substring(end+1);
+			}
+		else
+			label = document.location.href.substring(start);
+	}
+	for(i=0; i<subList.length; i++){
+		if(subList[i] == label)
+			break;
+	}
+	if(i>=subList.length)
+		i=0;
+	if(i >= 0) {
+		downFrame.location.href = subList[i+2] + params;
+		topFrame.switchBild(subList[i+1]);
+	}
+}
+-->
+    </script>
+
+</head>
+<frameset onload="loadFrame()" rows="110,*" frameborder="NO" border="0" framespacing="0">
+    <frame name="topFrame" scrolling="NO" noresize src="en/jsmenu.htm">
+    <frame name="downFrame" src="en/welcome/fs_welcome.htm">
+</frameset>
+<noscript>
+    <body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr bgcolor="#fbd613" valign="top">
+                <td colspan="4">
+                    &nbsp;</td>
+            </tr>
+            <tr bgcolor="#0060B8">
+                <td colspan="4">
+                    &nbsp;</td>
+            </tr>
+            <tr bgcolor="#FFFFFF">
+                <td valign="top" width="78%" align="center">
+                    <br>
+                    Please enable Scripting in your Browser and <a href="http://www.softelec.com">try again...</a><br>
+                    <br>
+                    <p>
+                        <b>Download free demo software for:<br />
+                        Raster-to-Vector Conversion Software (R2V), Vectorization, Scan, Edit, Convert Raster to Vector, CAD/GIS Digitization, Raster Design, Map Conversion, Vectorisation, Digitisation, Indexing, Viewing</b>
+                        <br>
+                        <br>
+                        <b><a href="http://www.softelec.de">softelec's</a> <a href="en/products/raster-to-vector/vphybridcad.htm">
+                            VPHybridCAD</a> <a href="en/products/raster-to-vector/vphybridcad_productfinderExplanations.htm">
+                                Product Overview</a></b><br>
+                        <br>
+                        Remark: All products run as AutoCAD application, and stand-alone!
+                    </p>
+                    <h2>
+                        <b>Raster vector conversion with <a href="en/products/raster-to-vector/popups/vpstudio_popup.htm">
+                            VPstudio</a></b>
+                    </h2>
+                    <br>
+                    VPstudio is the ultimate top level software product for raster editing, raster design,
+                    hybrid CAD processing, vectorization, vectorisation, and raster to vector conversion
+                    (R2V, Vectorize). Make AutoCAD DWG and DXF, Microstation dgn conversion as easy
+                    as possible. Full B&amp;W, gray-scale, and color support will literally cover any
+                    option you can think of to process, optimize, or convert technical scans or cartographical
+                    raster images. In this repect VPstudio has been setting the world standards for
+                    many years. For black and white raster images only and for vectorization, vectorisation,
+                    and raster to vector conversion (Digitization or Digitisation) VPstudio mono is the
+                    perfect converter.<br>
+                    <br>
+                    <h2>
+                        <b>Scan and edit raster images with <a href="en/products/raster-to-vector/popups/vpraster_popup.htm">
+                            VPraster</a></b></h2>
+                    <br>
+                    Stunning raster object editing tools provide vectorization "on demand", including
+                    raster text, line tracing (line following). For GIS (geographic information systems)
+                    high accuracy vectorisation, and vectorization, geo-transformation (rubbersheeting,
+                    calibration, geo reference), interactive line following, tracing, rasterization,
+                    and color reduction, color separation are among many options of this truly professional
+                    raster image editing tool.<br>
+                    <br>
+                    <h2>
+                        <b>Editing raster images and AutoCAD with <a href="en/products/raster-to-vector/popups/vpraster-edit_popup.htm">
+                            VPraster edit</a></b></h2>
+                    <br>
+                    A budget raster and hybrid editor for fast technical raster image clean-up, despeckling,
+                    corrections, and scaling, including AutoCAD dwg hybrid file format support with
+                    Raster DWG. Basic digitizing tools, like raster snap, are included.<br>
+                    <br>
+                    <br>
+                    <h2>
+                        <b>Raster vector conversion with <a href="en/products/raster-to-vector/popups/vplite_popup.htm">
+                            VPlite</a></b></h2>
+                    <br>
+                    A budget automatic raster to vector conversion (R2V, vectorisation, vectorization),
+                    including full raster clean-up and correction, hybrid editing, and a full set of
+                    vector correction tools, after vectorization. Well suited for A2 scanner with TWAIN
+                    interface limited to raster images from a scanner of A2. Export technical images
+                    or maps in AutoCAD dwg or dxf format.
+                    <p>
+                        &nbsp;</p>
+                    <h2>
+                        clean-up, calibrate, file convert scanned technical drawings and index<b> with <a
+                            href="en/products/indexing/vpindex.htm">VPindex</a></b>
+                    </h2>
+                    <br>
+                    With the help of a wizard, you set-up an un-attended process for clean-up, calibrate,
+                    file convert scanned technical drawings and index (read the title block contents
+                    for indexing) to export this data to your digital archive or electronic document
+                    management (EDM) database.<br>
+                    <h2>
+                        create, georeference, digitize or digitise contour lines, and edit spatial data and attribute information<b> with <a
+                            href="en/products/gis/vpmap.htm">VPmap Series</a></b>
+                    </h2>
+                    bridges the gap between raw mapping material and geographical information systems.
+                    VPmap and VPmap pro provide professional interactive tools to create, georeference,
+                    and edit spatial data and attribute information from scanned maps for transfer into
+                    GIS. Simply convert raster maps into vector based maps, utilize intelligent attribute
+                    definition functions, and add individual attributes. The VPmap Series will be targeted
+                    at GIS applications, mainly to transfer scanned maps into ArcGIS (ESRI), MapInfo,
+                    Autodesk Map etc. Thus, VPmap Series products contain GeoTIFF, Shapefile, and MIF
+                    support for import and export explicitly to and from any common GIS platform <b>Raster
+                        Conversion:</b> VPmap Series imports almost any raster file format. Just scan
+                    your maps, or use satellite images as the first step to build up your geographical
+                    information system (GIS). Both products contain easy, interactive tools to vectorize
+                    and recognize outlines and even reduce the color depth by intelligent color handling.
+                    In addition, VPmap pro offers functions for automatic vectorization and symbol recognition.
+                    <b>Attribute Determination:</b> VPmap Series features sophisticated ways to simply
+                    recognize shape-based geometrical information and convert them to geographical attributes
+                    of entities. In addition you can define or import your own attribute tables and
+                    fill them interactively. <b>Geographical Information Query:</b> VPmap Series enables
+                    quick input of attribute-based queries. Results will be visually displayed in the
+                    image or drawing. <b>Export:</b> VPmap Series offers export possibilities to the
+                    most common GIS systems, like MapInfo, ArcGIS/ArcInfo, or Autodesk Map. Raster information
+                    will be exported as well as entities an their attributs.<br>
+                    <br>
+                </td>
+                <td valign="top" align="right" width="1%">
+                    <br>
+                </td>
+            </tr>
+        </table>
+    </body>
+</noscript>
+
+<noframes>
+    <body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+        <p>
+            Please enable Frames in your Browser!</p>
+        <p>
+            <b>Raster-to-Vector Conversion<br>
+                <br>
+                R2V, CAD, GIS<br>
+                <br>
+            Raster Vector Conversion<br>
+                <br>
+                Vectorize or Vectorise<br>
+                <br>
+                Vectorization or Vectorisation<br>
+                <br>
+            Raster Editor<br>
+                <br>
+                Georeferencing (GeoTIFF)<br>
+                <br>
+            Export to AutoCAD DWG<br>
+                <br>
+            Raster Design<br>
+                <br>
+                Raster Editing<br>
+                <br>
+                Raster CAD<br>
+                <br>
+                Map Digitizing<br>
+                <br>
+            DXF File Format with a one-click vectorization!</b><br>
+            &nbsp;</p>
+        <p>
+            <br>
+            <b><a href="http://www.softelec.de">Softelec's</a> <a href="en/products/raster-to-vector/vphybridcad.htm">
+                VPHybridCAD</a> <a href="en/products/raster-to-vector/vphybridcad_productfinderExplanations.htm">
+                    Product Overview</a></b><br>
+            <br>
+            Remark: All products run as AutoCAD application, and stand-alone!
+        </p>
+        <h2>
+            <b>Raster vector conversion with <a href="en/products/raster-to-vector/popups/vpstudio_popup.htm">
+                VPstudio</a></b></h2>
+        <br>
+        VPstudio is the ultimate top level software product for raster editing, raster design,
+        hybrid CAD processing, vectorization, vectorisation, and raster to vector conversion
+        (R2V, Vectorize). Make AutoCAD dwg and dxf, Microstation dgn conversion as easy
+        as possible. Full B&amp;W, gray-scale, and color support will literally cover any
+        option you can think of to process, optimize, or convert technical scans or cartographical
+        raster images. In this repect VPstudio has been setting the world standards for
+        many years. For black and white raster images only and for vectorization, vectorisation,
+        and raster to vector conversion (Converter, R2V, Vectorize) VPstudio mono is the
+        perfect choice.<br>
+        <br>
+        <h2>
+            <b>Scan and edit raster images with <a href="en/products/raster-to-vector/popups/vpraster_popup.htm">
+                VPraster</a></b></h2>
+        <br>
+        Stunning raster object editing tools provide vectorization "on demand", including
+        raster text, line tracing (line following). For GIS (geographic information systems)
+        high accuracy vectorisation, and vectorization, geo-transformation (rubbersheeting,
+        calibration, geo reference), interactive line following, tracing, rasterization,
+        and color reduction, color separation are among many options of this truly professional
+        raster image editing tool.<br>
+        <br>
+        <h2>
+            <b>Editing raster images and AutoCAD with <a href="en/products/raster-to-vector/popups/vpraster-edit_popup.htm">
+                VPraster edit</a></b></h2>
+        <br>
+        A budget raster and hybrid editor for fast technical raster image clean-up, despeckling,
+        corrections, and scaling, including AutoCAD dwg hybrid file format support with
+        Raster DWG. Basic digitizing tools, like raster snap, are included.<br>
+        <br>
+        <br>
+        <h2>
+            <b>Raster vector conversion with <a href="en/products/raster-to-vector/popups/vplite_popup.htm">
+                VPlite</a></b></h2>
+        <br>
+        A budget automatic raster to vector conversion (R2V, vectorisation, vectorization),
+        including full raster clean-up and correction, hybrid editing, and a full set of
+        vector correction tools, after vectorization. Well suited for A2 scanner with TWAIN
+        interface limited to raster images from a scanner of A2. Export technical images
+        or maps in AutoCAD dwg or dxf format.<p>
+            &nbsp;</p>
+        <h2>
+            clean-up, calibrate, file convert scanned technical drawings and index<b> with <a
+                href="en/products/indexing/vpindex.htm">VPindex</a></b></h2>
+        <br>
+        With the help of a wizard, you set-up an un-attended process for clean-up, calibrate,
+        file convert scanned technical drawings and index (read the title block contents
+        for indexing) to export this data to your digital archive or electronic document
+        management (EDM) database.<br>
+        <h2>
+            create, georeference, and edit spatial data and attribute information<b> with <a
+                href="en/products/gis/vpmap.htm">VPmap Series</a></b></h2>
+        bridges the gap between raw mapping material and geographical information systems.
+        VPmap and VPmap pro provide professional interactive tools to create, georeference,
+        and edit spatial data and attribute information from scanned maps for transfer into
+        GIS. Simply convert raster maps into vector based maps, utilize intelligent attribute
+        definition functions, and add individual attributes. The VPmap Series will be targeted
+        at GIS applications, mainly to transfer scanned maps into ArcGIS (ESRI), MapInfo,
+        Autodesk Map etc. Thus, VPmap Series products contain GeoTIFF, Shapefile, and MIF
+        support for import and export explicitly to and from any common GIS platform <b>Raster
+            Conversion:</b> VPmap Series imports almost any raster file format. Just scan
+        your maps, or use satellite images as the first step to build up your geographical
+        information system (GIS). Both products contain easy, interactive tools to vectorize
+        and recognize outlines and even reduce the color depth by intelligent color handling.
+        In addition, VPmap pro offers functions for automatic vectorization and symbol recognition.
+        <b>Attribute Determination:</b> VPmap Series features sophisticated ways to simply
+        recognize shape-based geometrical information and convert them to geographical attributes
+        of entities. In addition you can define or import your own attribute tables and
+        fill them interactively. <b>Geographical Information Query:</b> VPmap Series enables
+        quick input of attribute-based queries. Results will be visually displayed in the
+        image or drawing. <b>Export:</b> VPmap Series offers export possibilities to the
+        most common GIS systems, like MapInfo, ArcGIS/ArcInfo, or Autodesk Map. Raster information
+        will be exported as well as entities an their attributs.<br>
+        <br>
+        <table cellspacing="0" border="0" width="620" align="left" height="559">
+            <tr>
+                <td valign="top" height="151">
+                    <b><a href="http://www.softelec.com?vphybridcad">VPHybridCAD</a></b>
+                    (5 customized products) combines the benefits of raster to vector conversion (vectorization
+                    or vectorisation) or with intuitive editing and design of both raster and vector
+                    objects. Even colored and gray scale drawings can be processed to achieve pervasive
+                    workflow in:<br>
+                    <br>
+                    <b>scan - cleanup - edit/modify/design - <a href="en/products/raster-to-vector/vphybridcad.htm">
+                        raster to vector conversion (R2V) </a>- vector to raster conversion -<a href="en/products/raster-to-vector/vphybridcad.htm">
+                            vectorize - vectorise</a> - (rasterize) - archive.</b><br>
+                    &nbsp;
+                    <hr noshade size="1">
+                </td>
+            </tr>
+            <tr>
+                <td height="155" valign="top">
+                    <b><a href="http://www.softelec.com?vpmap">VPmap Series</a></b>
+                    bridges the gap between raw mapping material and geographical information systems
+                    (GIS). VPmap and VPmap pro provide professional interactive tools to create, georeference,
+                    and edit spatial data and attribute information from scanned maps for transfer into
+                    GIS. Simply convert raster maps into vector-based maps, utilize intelligent attribute-definition
+                    functions, and add individual attributes. The VPmap Series will be targeted at GIS
+                    applications, mainly to transfer scanned maps into ArcGIS (ESRI), MapInfo, Autodesk
+                    Map etc. Thus, VPmap Series products contain GeoTIFF, ESRI Shapefile SHP, and MIF
+                    support for import and export explicitly to and from any common GIS platform (ESRI,
+                    MapInfo, Bentley, Intergraph, Smallworld, ERmapper, ERDAS, ...)<br>
+                    &nbsp;
+                    <hr noshade size="1">
+                </td>
+            </tr>
+            <tr>
+                <td valign="top" height="154">
+                    <b><a href="http://www.softelec.com?vpindex">VPindex</a></b>
+                    is the first-class solution for bringing any kind of scanned drawings into EDM (Electronic
+                    Document Management) or database systems. The batch mode enables to process even
+                    thousands of documents unattendedly. A comprehensive wizard will guide users through
+                    the following steps: Raster File Image Selection by Directories and Wildcards Definition
+                    of Title Block Templates (with cell names) among these Files Definition of an Individual
+                    "Task List", e.g. Despeckle, Rubbersheet, Callibrate, Rotate, Format Convertion
+                    etc. and Indexing (text regognition) of Title Block Cell Content Possibility to
+                    Choose an Existing Document Management System, where the Index Information will
+                    be Exported to Possibility to Create a CD, where the Index Information will be Exported
+                    to Possibility to Rename the File, Containing Recognized Index Text Possibility
+                    to Quickly Review Recognized Index Data, before Export to Destination The user has
+                    the option to either run an unattended Cleaning / Conversion / Indexing Job, or
+                    to interactivly monitor and review the batch process.
+                    <br>
+                    <br>
+                    Batch processing for cleaning up, title block recognition and export of its contents
+                    to archive database system allow to handle large amounts of drawings over night.<br>
+                    &nbsp;
+                    <hr noshade size="1">
+                </td>
+            </tr>
+            <tr>
+                <td height="152" valign="top">
+                    <b><a href="en/products/viewer/vpview.htm">VPview</a></b><a href="http://www.softelec.com?vpview">
+                    </a>is an affordable solution for viewing, redlining and printing/plotting of 2D
+                    drawings and scanned documents. Also, zooming, view rotation and panning is possible.
+                    Even reviewing the properties of selected objects and CAD entities is possible!
+                    File preview while browsing through directories and fast document loading is combined
+                    with extensive zoom and pan features for quick image handling. Redlining is as easy
+                    as picking a cloud or an arrow and placing it on the desired area. Viewing: Many
+                    supported file formats, like almost any raster file (b/w, gray scale, color), vector,
+                    hybrid file like RasterDWG, DWG, DXF, RVD or others can be previewed and loaded
+                    in a blink. Comfortable and fast zoom and pan functions allow for detailed inspection.
+                    If redlining is activated, all accessible redlining information will be displayed.
+                    Printing/Plotting: VPview features sophisticated print and plot functions for raster,
+                    vector, and hybrid files. The image may be plotted up to its extents or any scaling
+                    factor. The plot preview allows for exact positioning and window selection. File
+                    Comparison: VPview enables quick and visual comparison of different files and drawing
+                    versions. Just load a second file and the difference will be highlighted! Redlining/Reviewing/Mark-ups:
+                    VPview offers easy to use pre-designed redlining objects ready to be placed on the
+                    drawing. The user is automatically requested to add a headline text for free placement
+                    anywhere around the redlining marker for optimal visibility. Additional text - for
+                    more detailed information or instructions - can be entered into a text box which
+                    will be displayed whenever the corresponding redline marker is called up. The redlining
+                    information can be exported separately. Each authorized redlining user is assigned
+                    to his own redlining entities. His activities are recorded by name and date. Distinctive
+                    rights assigned to a user regulate to either view the redlining elements, to create
+                    new redlining comments, or to check or to remove redlining markers and comments
+                    - usually for managers in a control position. This hierarchy is designed to fulfill
+                    workflow demands of structured organizations and those operating on a global scale.<br>
+                    &nbsp;
+                    <hr noshade size="1">
+                </td>
+            </tr>
+        </table>
+    </body>
+</noframes>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.easytrace.com/>====================
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+
+<head>
+  <base href="http://www.easytrace.com/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="digitization, vectorization, map, sheets, digitizer,  tool, video, image, order, technology, relief, vegetation, topographic, service, software" />
+  <meta name="description" content="Digitization service: fast and quality digitization of cartographic data, satellite imagery interpretation, correction of existing data." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Map digitization, service and software.</title>
+  <link href="/rss_en" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/en/atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/ja_norite/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_norite/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.easytrace.com/modules/mod_news_pro_gk4/interface/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.easytrace.com//modules/mod_yt_k2_slideshowiii/assets/blue/style.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_jflanguageselection/tmpl/mod_jflanguageselection.css" type="text/css" />
+  <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+  <script type="text/javascript" src="/components/com_k2/js/k2.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://www.easytrace.com/modules/mod_news_pro_gk4/interface/scripts/engine-mootools-11.js"></script>
+  <script type="text/javascript" src="http://www.easytrace.com//modules/mod_yt_k2_slideshowiii/assets/js/ytc.jquery-1.5.min.js"></script>
+  <script type="text/javascript" src="http://www.easytrace.com//modules/mod_yt_k2_slideshowiii/assets/js/script.slideshowiii.all.js"></script>
+  <script type="text/javascript">
+window.addEvent("domready", function() {
+	SqueezeBox.initialize({});
+	$$("a.modal").each(function(el) {
+		el.addEvent("click", function(e) {
+			new Event(e).stop();
+			SqueezeBox.fromElement(el);
+		});
+	});
+});var K2SitePath = '/';
+  </script>
+
+
+<link rel="stylesheet" href="http://www.easytrace.com/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="http://www.easytrace.com/templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="http://www.easytrace.com/templates/ja_norite/css/addons.css" type="text/css" />
+<link rel="stylesheet" href="http://www.easytrace.com/templates/ja_norite/css/layout.css" type="text/css" />
+<link rel="stylesheet" href="http://www.easytrace.com/templates/ja_norite/css/template.css" type="text/css" />
+<link rel="stylesheet" href="http://www.easytrace.com/templates/ja_norite/css/typo.css" type="text/css" />
+
+<!--[if IE]>
+<link rel="stylesheet" href="http://www.easytrace.com/templates/ja_norite/css/ie.css" type="text/css" />
+<![endif]-->
+
+<!--[if lt IE 7.0]>
+<link rel="stylesheet" href="http://www.easytrace.com/templates/ja_norite/css/ie7minus.css" type="text/css" />
+<style type="text/css">
+.main { width: expression(document.body.clientWidth < 770? "770px" : document.body.clientWidth > 1200? "1200px" : "auto"); }
+</style>
+<![endif]-->
+
+<!--[if IE 7.0]>
+<style type="text/css">
+.clearfix { display: inline-block; } /* IE7xhtml*/
+</style>
+<![endif]-->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-7280885-2']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+<script type="text/javascript">
+var siteurl='http://www.easytrace.com/';
+var tmplurl='http://www.easytrace.com/templates/ja_norite';
+var lang = 'english';
+</script>
+
+<script language="javascript" type="text/javascript" src="http://www.easytrace.com/templates/ja_norite/js/ja.script.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.easytrace.com/templates/ja_norite/js/ja.ddmod.js"></script>
+
+
+<link href="http://www.easytrace.com/templates/ja_norite/css/menu/mega.css" rel="stylesheet" type="text/css" /><script src="http://www.easytrace.com/templates/ja_norite/js/menu/mega.js" language="javascript" type="text/javascript"></script>
+<link href="http://www.easytrace.com/templates/ja_norite/css/colors/light-blue.css" rel="stylesheet" type="text/css" />
+
+
+
+<!--Width of template -->
+<style type="text/css">
+.main {width: 980px;margin: 0 auto;}
+#ja-wrapper {min-width: 981px;}
+</style>
+
+
+<!--Update width for mainnav -->
+<script type="text/javascript">
+//<![CDATA[
+window.addEvent ('domready', function () {
+	if ($E('#ja-mainnav .inner') && $E('#ja-mainnav ul').offsetWidth) {
+		$E('#ja-mainnav .inner').setStyle ('width', $E('#ja-mainnav ul').offsetWidth + 5);
+	}
+});
+//]]>
+</script></head>
+
+<body id="bd" class="fs3 Moz">
+
+<div id="ja-wrapper" class="ja-home">
+	<a name="Top" id="Top"></a>
+
+	<!-- HEADER -->
+	<div id="ja-header" class="wrap">
+<div class="main">
+<div class="inner clearfix">
+
+		<h1 class="logo">
+		<a href="http://www.easytrace.com/" title="Easy Trace Group"><span>Easy Trace Group</span></a>
+	</h1>
+		
+	<!-- MAIN NAVIGATION -->
+	<div id="ja-mainnav" class="clearfix">
+<div class="inner">
+	<div class="ja-megamenu">
+<ul class="megamenu level0"><li class="mega active first haschild"><a href="http://www.easytrace.com/" class="mega active first haschild" id="menu1" title="Home"><span class="menu-title">Home</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="top" ><div class="tl"></div><div class="tr"></div></div>
+<div class="mid">
+<div class="ml"></div>
+<div class="childcontent-inner clearfix" style="width: 170px;"><div class="megacol column1 first" style="width: 170px;"><ul class="megamenu level1"><li class="mega first"><a href="/news_en" class="mega first" id="menu269" title="Новости"><span class="menu-title">Новости</span></a></li></ul></div></div>
+<div class="mr"></div>
+</div><div class="bot" ><div class="bl"></div><div class="br"></div></div>
+</div></div></li><li class="mega haschild"><a href="/program/download_en" class="mega haschild" id="menu156" title="Our product"><span class="menu-title">Our product</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="top" ><div class="tl"></div><div class="tr"></div></div>
+<div class="mid">
+<div class="ml"></div>
+<div class="childcontent-inner clearfix" style="width: 170px;"><div class="megacol column1 first" style="width: 170px;"><ul class="megamenu level1"><li class="mega first"><a href="/program/download_en" class="mega first" id="menu158" title="Download"><span class="menu-title">Download</span></a></li><li class="mega"><a href="/program/et-extreme_en" class="mega" id="menu270" title="ET eXtreme"><span class="menu-title">ET eXtreme</span></a></li><li class="mega"><a href="/new-features_en" class="mega" id="menu160" title="What's new"><span class="menu-title">What's new</span></a></li><li class="mega"><a href="/program/about_en" class="mega" id="menu166" title="What is Easy Trace Pro"><span class="menu-title">What is Easy Trace Pro</span></a></li><li class="mega"><a href="/program/et799_en" class="mega" id="menu161" title="Free version ET 7.99"><span class="menu-title">Free version ET 7.99</span></a></li><li class="mega"><a href="/program/upgrade_en" class="mega" id="menu171" title="Available upgrade"><span class="menu-title">Available upgrade</span></a></li><li class="mega"><a href="/program/87vs79_en" class="mega" id="menu155" title="Advantages of ET 9.2"><span class="menu-title">Advantages of ET 9.2</span></a></li><li class="mega"><a href="/program/extensions_en" class="mega" id="menu181" title="Extensions"><span class="menu-title">Extensions</span></a></li><li class="mega"><a href="/program/faq_en" class="mega" id="menu167" title="FAQ"><span class="menu-title">FAQ</span></a></li><li class="mega"><a href="/program/support_en" class="mega" id="menu172" title="Technical support"><span class="menu-title">Technical support</span></a></li><li class="mega last"><a href="/program/registration_en" class="mega last" id="menu202" title="Registration"><span class="menu-title">Registration</span></a></li></ul></div></div>
+<div class="mr"></div>
+</div><div class="bot" ><div class="bl"></div><div class="br"></div></div>
+</div></div></li><li class="mega haschild"><a href="/video/samples_en" class="mega haschild" id="menu149" title="Video samples"><span class="menu-title">Video samples</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="top" ><div class="tl"></div><div class="tr"></div></div>
+<div class="mid">
+<div class="ml"></div>
+<div class="childcontent-inner clearfix" style="width: 170px;"><div class="megacol column1 first" style="width: 170px;"><ul class="megamenu level1"><li class="mega first"><a href="/video/samples_en" class="mega first" id="menu210" title="Video samples"><span class="menu-title">Video samples</span></a></li><li class="mega last"><a href="/video/tutorial_en" class="mega last" id="menu207" title="Video tutorial"><span class="menu-title">Video tutorial</span></a></li></ul></div></div>
+<div class="mr"></div>
+</div><div class="bot" ><div class="bl"></div><div class="br"></div></div>
+</div></div></li><li class="mega haschild"><a href="/technology_en" class="mega haschild" id="menu159" title="Technology"><span class="menu-title">Technology</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="top" ><div class="tl"></div><div class="tr"></div></div>
+<div class="mid">
+<div class="ml"></div>
+<div class="childcontent-inner clearfix" style="width: 170px;"><div class="megacol column1 first" style="width: 170px;"><ul class="megamenu level1"><li class="mega first"><a href="/digitization_en" class="mega first" id="menu187" title="Digitization"><span class="menu-title">Digitization</span></a></li><li class="mega"><a href="/image-processing_en" class="mega" id="menu188" title="Image processing"><span class="menu-title">Image processing</span></a></li><li class="mega"><a href="/workflow_en" class="mega" id="menu189" title="Workflow"><span class="menu-title">Workflow</span></a></li><li class="mega"><a href="/editing_en" class="mega" id="menu190" title="Editing"><span class="menu-title">Editing</span></a></li><li class="mega"><a href="/topology_en" class="mega" id="menu191" title="Topology"><span class="menu-title">Topology</span></a></li><li class="mega last"><a href="/gis-integration_en" class="mega last" id="menu208" title="GIS Integration"><span class="menu-title">GIS Integration</span></a></li></ul></div></div>
+<div class="mr"></div>
+</div><div class="bot" ><div class="bl"></div><div class="br"></div></div>
+</div></div></li><li class="mega haschild"><a href="/purchase/price_en" class="mega haschild" id="menu162" title="Buy"><span class="menu-title">Buy</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="top" ><div class="tl"></div><div class="tr"></div></div>
+<div class="mid">
+<div class="ml"></div>
+<div class="childcontent-inner clearfix" style="width: 170px;"><div class="megacol column1 first" style="width: 170px;"><ul class="megamenu level1"><li class="mega first"><a href="/purchase/price_en" class="mega first" id="menu163" title="Pricing"><span class="menu-title">Pricing</span></a></li><li class="mega"><a href="/purchase/about-lease_en" class="mega" id="menu164" title="Lease"><span class="menu-title">Lease</span></a></li><li class="mega"><a href="/purchase/resellers_en" class="mega" id="menu165" title="Resellers"><span class="menu-title">Resellers</span></a></li><li class="mega"><a href="/purchase/resellerform_en" class="mega" id="menu206" title="Reseller form"><span class="menu-title">Reseller form</span></a></li><li class="mega last group"><div class="group"><div class="group-title"><a href="/purchase/buyform_en" class="mega last group" id="menu203" title="Order right now"><span class="menu-title">Order right now</span></a></div><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/purchase/buyform_en" class="mega first" id="menu183" title="Order software"><span class="menu-title">Order software</span></a></li><li class="mega"><a href="/purchase/upgradeform_en" class="mega" id="menu197" title="Upgrade order form"><span class="menu-title">Upgrade order form</span></a></li><li class="mega last"><a href="/purchase/leaseform_en" class="mega last" id="menu204" title="Lease order form"><span class="menu-title">Lease order form</span></a></li></ul></div></div></li></ul></div></div>
+<div class="mr"></div>
+</div><div class="bot" ><div class="bl"></div><div class="br"></div></div>
+</div></div></li><li class="mega haschild"><a href="/service_en" class="mega haschild" id="menu131" title="Service"><span class="menu-title">Service</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="top" ><div class="tl"></div><div class="tr"></div></div>
+<div class="mid">
+<div class="ml"></div>
+<div class="childcontent-inner clearfix" style="width: 170px;"><div class="megacol column1 first" style="width: 170px;"><ul class="megamenu level1"><li class="mega first group"><div class="group"><div class="group-title"><a href="/r2v/digitization-service_en" class="mega first group" id="menu133" title="Map digitizing"><span class="menu-title">Map digitizing</span></a></div><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/r2v/digitization-service_en" class="mega first" id="menu137" title="Digitizing service"><span class="menu-title">Digitizing service</span></a></li><li class="mega"><a href="/r2v/samples_en" class="mega" id="menu136" title="Project samples"><span class="menu-title">Project samples</span></a></li><li class="mega last"><a href="/forms/order-digitization_en" class="mega last" id="menu144" title="Order"><span class="menu-title">Order</span></a></li></ul></div></div></li><li class="mega last group"><div class="group"><div class="group-title"><a href="/training/training_en" class="mega last group" id="menu134" title="Training"><span class="menu-title">Training</span></a></div><div class="group-content"><ul class="megamenu level1"><li class="mega first"><a href="/training/training_en" class="mega first" id="menu138" title="About training"><span class="menu-title">About training</span></a></li><li class="mega"><a href="/training/pupils_en" class="mega" id="menu135" title="Our trainees"><span class="menu-title">Our trainees</span></a></li><li class="mega last"><a href="/forms/form-training_en" class="mega last" id="menu142" title="Make a request"><span class="menu-title">Make a request</span></a></li></ul></div></div></li></ul></div></div>
+<div class="mr"></div>
+</div><div class="bot" ><div class="bl"></div><div class="br"></div></div>
+</div></div></li><li class="mega haschild"><a href="/company/company_en" class="mega haschild" id="menu185" title="About us"><span class="menu-title">About us</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="top" ><div class="tl"></div><div class="tr"></div></div>
+<div class="mid">
+<div class="ml"></div>
+<div class="childcontent-inner clearfix" style="width: 170px;"><div class="megacol column1 first" style="width: 170px;"><ul class="megamenu level1"><li class="mega first"><a href="/company/contacts_en" class="mega first" id="menu186" title="Contacts"><span class="menu-title">Contacts</span></a></li><li class="mega"><a href="/articles_en" class="mega" id="menu192" title="Articles"><span class="menu-title">Articles</span></a></li><li class="mega last"><a href="/conference_en" class="mega last" id="menu193" title="Conferences"><span class="menu-title">Conferences</span></a></li></ul></div></div>
+<div class="mr"></div>
+</div><div class="bot" ><div class="bl"></div><div class="br"></div></div>
+</div></div></li><li class="mega last haschild"><a href="http://www.easytrace.com/forum/english/" class="mega last haschild" id="menu180" title="Forum"><span class="menu-title">Forum</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="top" ><div class="tl"></div><div class="tr"></div></div>
+<div class="mid">
+<div class="ml"></div>
+<div class="childcontent-inner clearfix" style="width: 170px;"><div class="megacol column1 first" style="width: 170px;"><ul class="megamenu level1"><li class="mega first"><a href="http://gis-lab.info/forum/viewforum.php?f=39" class="mega first" id="menu272" title="GIS-Lab.info"><span class="menu-title">GIS-Lab.info</span></a></li></ul></div></div>
+<div class="mr"></div>
+</div><div class="bot" ><div class="bl"></div><div class="br"></div></div>
+</div></div></li></ul>
+</div>			<script defer="defer" type="text/javascript">
+			window.onload = function() 
+			{
+				var megamenu = new jaMegaMenuMoo ('ja-mainnav', {
+					'bgopacity': 0, 
+					'delayHide': 1000, 
+					'slide': 1, 
+					'fading': 0,
+					'direction':'down',
+					'action':'mouseover',
+					'tips': false,
+					'duration': 300,
+					'hidestyle': 'fastwhenshow'
+				});	
+			};		
+			</script>
+				
+
+
+</div>
+</div>
+		<div id="ja-search">
+		<div id="jflanguageselection"><ul class="jflanguageselection"><li><a href="http://www.easytrace.com/ru" ><img src="http://www.easytrace.com/components/com_joomfish/images/flags/ru.gif" alt="ru" title="ru" border="0" class="langImg"/><span lang="ru" xml:lang="ru">ru</span></a></li></ul></div><!--JoomFish V2.1.7 (Dafad)-->
+<!-- &copy; 2003-2011 Think Network, released under the GPL. -->
+<!-- More information: at http://www.joomfish.net -->
+
+	</div>
+	
+<ul class="no-display">
+    <li><a href="/#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>
+	<!-- //MAIN NAVIGATION -->
+	
+		
+</div>
+
+
+</div>
+</div>
+	<!-- //HEADER -->
+	
+	<div id="ja-top" class="wrap">
+<div class="main">
+  <div class="inner clearfix">
+  		<div class="ja-moduletable moduletable_yt-slideshowiii  clearfix" id="Mod192">
+						<div class="ja-box-ct clearfix">
+		
+<div style='position:absolute;left:-5000px;'>: Строительство домов под ключ. Быстрая <a href="http://mending-house.ru">строительство домов под ключ недорого</a>. Строительство кирпичных домов под ключ. Технология строительства каркасного дома. Качественное <a href="http://grand-construction.ru">строительство каркасных домов</a>. Строительство домов каркасно щитовых. Ремонт крыши частного дома. Быстрый <a href="http://more-poleznosti.ru">ремонт своими руками частный дом</a>. Частный дом капитальный ремонт. Самоделки для рыбалки видео. Лучшие <a href="http://samodelkami.ru">самоделки для рыбалки своими руками</a>. Самоделки для рыбалки фото.
+ <br>Укладка ламината своими руками. Какова <a href="http://begin-construction.ru">стоимость укладки ламината</a>. Работа укладка ламината. Бизнес идеи для начинающих. Как <a href="http://sdelaisebe.ru">начать бизнес без вложений</a>. Строительный бизнес с чего начать. Фото поделки своими руками. Лучшие <a href="http://samodelnaya.ru">поделки для сада своими руками</a>. Как сделать поделку своими руками. Дизайн гостиной фото. Красивый <a href="http://samodelnii.ru">дизайн гостиной в квартире</a>. Гостиные маленькие дизайн. </div>
+<style>
+    .caption_opacity_fullimage_192{
+        top:10px;
+       opacity:1.0;
+       /* For IE 5-7 */
+    	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+    	/* For IE 8 */
+    	-MS-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+    }
+      
+    .button_img_selected_theme1_192{
+        color:  !important;
+    }
+        
+</style><style>
+.ytc-content .content-box p a{color:#FFFFFF;}	
+</style>
+
+
+<script type="text/javascript">
+
+    $jYtc(document).ready(function($){
+        
+	   $('#featured192').cycle({
+    		fx:     'fade',
+    		timeout: 12000,
+    		speed:  800, 
+    		next:   '#next192', 
+    		prev:   '#prev192',
+    		pause: 1,
+    		divId: 192,
+    		readmoreImg: '<div class="readmore_button"><p>read more </p></div>',
+    		theme: 'blue',
+    		linktarget: '_self',
+    		linkcaption: 1,
+    		autoPlay: 1,
+    		startingSlide: 0,
+            totalItemScroll: 4,
+            startNormalScroll: 0,
+            totalArt: 15,
+            endNormalScroll: 3,
+            width_percentage:'yt_pixel',
+            leftScroll: 208,
+            bottomTheme5: 260,
+            thumbWidth: 944,
+            count_items: 4,
+            show_description_when: 'always',
+            show_buttons_slideiii: 1,
+            content_layout: 'fullimage', 
+            navigation_type: 'type1',
+            navigation_show: 'title',           
+            num_item_per_page:4            
+	   });
+
+    });
+</script>
+<!--Intro Text-->
+<!--End Intro Text-->
+
+<div class="yt_slideshowiii_module_blue" id="yt_slideshowii_module_192" style="width: 960px; height: 290px;">
+             
+    <div class="ytc-content ytc_background_blue_192" style="height: 290px;width:944px">
+            	<div class="ytc-content-slideshow-theme1 ytc-content-slideshow-theme1_192" style="height:270px;">
+            <div id="featured192" style="width:100%;height:260px;">
+                    				<div class="bd_yt_content">
+                                                                            <div class="yt_slideshowiii_main_image" style="width:944px; height:260px;border:0px #E3E3E3 solid;">
+                                                                                    <a href="http://www.easytrace.com/program/about_en" target = "_self" style="padding:0px !important;display:block;background: none;">
+                                                           
+                                <img src="/media/k2/items/cache/c82e68ecc91a6115905b52a4dab0ec5b_XL.jpg" title="Easy Trace Professional" border="none"/>
+                                                        </a>
+    				                                </div>
+                                                                                                                        
+                                                                                <div class="caption_opacity_fullimage caption_opacity_fullimage_192 " id="caption_1920" style="top:10px; display: block;;width:300px;">
+                                <div class="spotlight-left-top">&nbsp;</div>
+                                <div class="spotlight-right-top">&nbsp;</div>
+                                <div class="spotlight-top" style="width:282px;">&nbsp;</div>
+                                    <div class="spotlight-middle" style="width:288px;">
+                                                                                                                    <div class="spotlight-title-item" style="outline: none;color:#FFFFFF">
+                                            Easy Trace Professional                                        </div>
+                                           
+									                                            <div class="spotlight-desc-item"><p>Effective vectorizer? Handy tool?</p>
+<p>No. A true <strong>cartographic vectorizer</strong> designed for real map processing, suitable for vectorizing of <strong>whole towns and regions</strong>, and yet simple and handy in use.</p>
+<p><a href="/program/about_en">See for yourself</a></p></div>
+                                                                                <div class="spotlight-readmore-item" style="outline: none;color:#FFFFFF">
+                                            <a href="http://www.easytrace.com/program/about_en" target = "_self" title="Easy Trace Professional" style=""></a>
+                                        </div>
+                                         
+                                    </div>
+                                <div class="spotlight-bottom" style="width:282px;">&nbsp;</div>
+                                <div class="spotlight-left-bottom">&nbsp;</div>
+                                <div class="spotlight-right-bottom">&nbsp;</div>
+                            </div>
+                                                                            
+                        
+                        
+                        
+                         
+                    </div>
+    			    				<div class="bd_yt_content">
+                                                                            <div class="yt_slideshowiii_main_image" style="width:944px; height:260px;border:0px #E3E3E3 solid;">
+                                                                                    <a href="http://www.easytrace.com/training/training_en" target = "_self" style="padding:0px !important;display:block;background: none;">
+                                                           
+                                <img src="/media/k2/items/cache/bc04f87b1442e82a9d7828879f80552b_XL.jpg" title="Training" border="none"/>
+                                                        </a>
+    				                                </div>
+                                                                                                                        
+                                                                                <div class="caption_opacity_fullimage caption_opacity_fullimage_192 " id="caption_1921" style=";width:300px;">
+                                <div class="spotlight-left-top">&nbsp;</div>
+                                <div class="spotlight-right-top">&nbsp;</div>
+                                <div class="spotlight-top" style="width:282px;">&nbsp;</div>
+                                    <div class="spotlight-middle" style="width:288px;">
+                                                                                                                    <div class="spotlight-title-item" style="outline: none;color:#FFFFFF">
+                                            Training                                        </div>
+                                           
+									                                            <div class="spotlight-desc-item"><p>Besides information on opportunities and methods of Easy Trace Pro software use, at our training courses we share vectorizing technologies for cartographic materials honed over 20 years.</p>
+<p><a href="/training/training_en">Read more..</a></p></div>
+                                                                                <div class="spotlight-readmore-item" style="outline: none;color:#FFFFFF">
+                                            <a href="http://www.easytrace.com/training/training_en" target = "_self" title="Training" style=""></a>
+                                        </div>
+                                         
+                                    </div>
+                                <div class="spotlight-bottom" style="width:282px;">&nbsp;</div>
+                                <div class="spotlight-left-bottom">&nbsp;</div>
+                                <div class="spotlight-right-bottom">&nbsp;</div>
+                            </div>
+                                                                            
+                        
+                        
+                        
+                         
+                    </div>
+    			    				<div class="bd_yt_content">
+                                                                            <div class="yt_slideshowiii_main_image" style="width:944px; height:260px;border:0px #E3E3E3 solid;">
+                                                                                    <a href="/k2/slaydshou/uslugi-po-vektorizatsii_en" target = "_self" style="padding:0px !important;display:block;background: none;">
+                                                           
+                                <img src="/media/k2/items/cache/bc5983b67a44bcede801e2ff363b54e0_XL.jpg" title="R2V service" border="none"/>
+                                                        </a>
+    				                                </div>
+                                                                                                                        
+                                                                                <div class="caption_opacity_fullimage caption_opacity_fullimage_192 " id="caption_1922" style=";width:300px;">
+                                <div class="spotlight-left-top">&nbsp;</div>
+                                <div class="spotlight-right-top">&nbsp;</div>
+                                <div class="spotlight-top" style="width:282px;">&nbsp;</div>
+                                    <div class="spotlight-middle" style="width:288px;">
+                                                                                                                    <div class="spotlight-title-item" style="outline: none;color:#FFFFFF">
+                                            R2V service                                        </div>
+                                           
+									                                            <div class="spotlight-desc-item"><p>Being professionally engaged in vectorizing for 20 years, we offer fast and reliable digitization of your materials. During all the time, we did not get any blame for the quality of performance.</p>
+<p><a href="/r2v/digitization-service_en">Read more..</a></p></div>
+                                                                                <div class="spotlight-readmore-item" style="outline: none;color:#FFFFFF">
+                                            <a href="/k2/slaydshou/uslugi-po-vektorizatsii_en" target = "_self" title="R2V service" style=""></a>
+                                        </div>
+                                         
+                                    </div>
+                                <div class="spotlight-bottom" style="width:282px;">&nbsp;</div>
+                                <div class="spotlight-left-bottom">&nbsp;</div>
+                                <div class="spotlight-right-bottom">&nbsp;</div>
+                            </div>
+                                                                            
+                        
+                        
+                        
+                         
+                    </div>
+    			 
+            </div>			
+    	</div>
+    
+    
+        
+        <div class="content-box-normal-theme1" style="height:15px;top: 35px;display:none">
+            <div class="content-preview-theme1" style="height:5px;">
+                <div id="prev192" class="preview_theme1 buttons-theme-hover_192" style="">&nbsp;</div>
+            </div>
+            <div class="content-next-theme1" style="height:5px;">
+                <div id="next192" class="next_theme1 buttons-theme-hover_192" style="">&nbsp;</div>
+            </div>
+            <div class="yt_top_scroll yt_top_scroll_192" style="padding-left:206px">&nbsp;</div>
+            <div class="content_box_theme1 content_box_theme1_192" style="width:823px;height:0px !important;top:5px !important;" >	
+                <div id="cover_buttons_192" class="cover_item_box" style="width: 708px;display:block;">
+        			<div class="blue">		
+						<div class="buttons_blue content_box_item">				
+							<ul id="image_button_192">
+																	<li id="li_height_item_192" class="button_img_selected_theme1_192" style="" value="0">
+                                        <div class="yt_post_item_theme1 yt_post_item_multi_192 li_height_item_192" style="width: 206px;margin-top: -2px;">
+                                                                                                                            			<div class="yt_meta_img_theme" style="color:#FFFFFF;">
+                                    				<a href="http://www.easytrace.com/program/about_en" target = "_self" title="Easy Trace Professional" style="color:#FFFFFF;">Easy Trace Professional</a>
+                                    			</div>
+                                                                                    </div>
+                                    </li>
+																	<li id="li_height_item_192" class="button_img_theme1_192" style="" value="1">
+                                        <div class="yt_post_item_theme1 yt_post_item_multi_192 li_height_item_192" style="width: 206px;margin-top: -2px;">
+                                                                                                                            			<div class="yt_meta_img_theme" style="color:#FFFFFF;">
+                                    				<a href="http://www.easytrace.com/training/training_en" target = "_self" title="Training" style="color:#FFFFFF;">Training</a>
+                                    			</div>
+                                                                                    </div>
+                                    </li>
+																	<li id="li_height_item_192" class="button_img_theme1_192" style="" value="2">
+                                        <div class="yt_post_item_theme1 yt_post_item_multi_192 li_height_item_192" style="width: 206px;margin-top: -2px;">
+                                                                                                                            			<div class="yt_meta_img_theme" style="color:#FFFFFF;">
+                                    				<a href="/k2/slaydshou/uslugi-po-vektorizatsii_en" target = "_self" title="R2V service" style="color:#FFFFFF;">R2V service</a>
+                                    			</div>
+                                                                                    </div>
+                                    </li>
+								 
+							</ul>
+						</div>	
+        			</div>	
+        		</div>	
+        	</div>
+            
+        </div>
+            
+    	
+    </div>
+    
+    <div style="display:none">
+        	<div id="arrContent_192_0"></div>
+        	<div id="arrContent_192_1"></div>
+        	<div id="arrContent_192_2"></div>
+     
+    </div>
+    
+</div>
+
+
+<!--Start Footer Text-->
+
+<!--End Footer Text-->		</div>
+    </div>
+	
+  </div>
+</div></div>
+
+
+<!-- TOP SPOTLIGHT -->
+<div id="ja-topsl" class="wrap">
+<div class="main clearfix">
+
+		<div class="ja-box column ja-box-full" style="width: 99.9%;">
+			<div class="ja-moduletable moduletable  clearfix" id="Mod124">
+						<div class="ja-box-ct clearfix">
+		
+	<div class="nsp_main nsp_fs100" id="nsp-nsp_124" style="width:100%;">
+		
+					
+			<div class="nsp_arts bottom" style="width:100%;">
+			
+								<div class="nsp_top_interface">
+					<div>
+												
+												<span class="prev">Prev</span>
+						<span class="next">Next</span>
+												
+											</div>
+				</div>
+							
+														<div class="nsp_art" style="width:33.333333333333%;clear:both;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="New version Easy Trace Pro 9.6 ">New version Easy Trace Pro 9.6 </h3><p class="nsp_text tleft fleft">New version Easy Trace Pro 9.6 is available for downloading. 
+
+Read here about alterations and new abilities.</p><a class="readon readon_class  fleft" href="/news/news/easy-trace-pro-9-6_en">Read more</a></div></div>
+														<div class="nsp_art" style="width:33.333333333333%;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="Sales in April">Sales in April</h3><p class="nsp_text tleft fleft">In April  2013, the number of licenses acquireв by ZAO «Ark-on» increased up to 11. The company bought  the first license as a sample to try more than...</p><a class="readon readon_class  fleft" href="/news/news/prodazhi-aprelya_en">Read more</a></div></div>
+														<div class="nsp_art" style="width:33.333333333333%;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="CUDA in Easy Trace">CUDA in Easy Trace</h3><p class="nsp_text tleft fleft">Hardware acceleration based  on the nVidia CUDA technology may be used  in Easy Trace Pro now. Currently, it supports raster operations (Diffusion, Unsharp  Mask, Contrast Enhancement, Resampling,...</p><a class="readon readon_class  fleft" href="/news/news/cuda-v-easy-trace_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;clear:both;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="Training in Saint-Petersburg">Training in Saint-Petersburg</h3><p class="nsp_text tleft fleft">On April 8-10,  2013, of-site training session «Vectorizing of cartographic materials by means  of Easy Trace software package» was organized in Saint-Petersburg for employees  of “Sevzaplesproekt” –...</p><a class="readon readon_class  fleft" href="/news/news/viezdnoe-obuchenie-v-g-sankt-peterburge_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="Easy Trace Pro in 2013 ">Easy Trace Pro in 2013 </h3><p class="nsp_text tleft fleft">State Land   Cadastre Center (Kiev, Ukraine) bought additionally 15 Easy   Trace Pro licenses in January 2013. The Center started with free ET 7.99, then  ...</p><a class="readon readon_class  fleft" href="/k2/news/easy-trace-pro-v-2013-godu_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="About Easy Trace Pro 9.5 sales">About Easy Trace Pro 9.5 sales</h3><p class="nsp_text tleft fleft">Some changes seem to have   started in government institutions after the scandal failure of GLONASS. And, as   our country is vast and maps are traditionally heavy...</p><a class="readon readon_class  fleft" href="/k2/news/easy-trace-pro-9-5-nabiraet-visotu_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;clear:both;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="It is possible to buy, lease, and upgrade Easy Trace Pro through the Plimus system">It is possible to buy, lease, and upgrade Easy Trace Pro through the Plimus system</h3><p class="nsp_text tleft fleft">Since November 2012, it is possible to Buy, Lease, and Upgrade Easy Trace Pro through the Plimus system.</p><a class="readon readon_class  fleft" href="/k2/news/priobretenie-paketov-easy-trace-pro-vipolnenie-upgrade-i-arendi-s-pomoschiu-sistemi-plimus_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="XVIII Conference of Esri ArcGIS Users in Russia and CIS">XVIII Conference of Esri ArcGIS Users in Russia and CIS</h3><p class="nsp_text tleft fleft">The Easy Trace Group company will participate in the  XVIII Conference of Esri ArcGIS Users in Russia and CIS, which will take place on October 17-19, 2012 in the...</p><a class="readon readon_class  fleft" href="/k2/news/xviii-konferentsiya-polzovateley-esri-arcgis-v-rossii-i-stranach-sng_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="New version Easy Trace Pro 9.5 ">New version Easy Trace Pro 9.5 </h3><p class="nsp_text tleft fleft">New version Easy Trace Pro 9.5 is available for downloading. 
+
+Read here about alterations and new abilities.</p><a class="readon readon_class  fleft" href="/k2/news/novaya-versiya-programmi-easy-trace-pro-9-5_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;clear:both;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="Installation of Easy Trace 7.99 PRO FREE under Linux">Installation of Easy Trace 7.99 PRO FREE under Linux</h3><p class="nsp_text tleft fleft">A brief description of Easy Trace 7.99 PRO free version installation under GNU/Linux operating system.</p><a class="readon readon_class  fleft" href="/k2/technology/ustanovka-easytrace-7-99-pro-free-v-linux_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="New release Easy Trace Pro 9.2.2036 ">New release Easy Trace Pro 9.2.2036 </h3><p class="nsp_text tleft fleft">Об изменениях читайте в разделе Новые возможности.</p><a class="readon readon_class  fleft" href="/k2/news/noviy-reliz-et-9-2-2036_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="New release of ET 9.2.1995">New release of ET 9.2.1995</h3><p class="nsp_text tleft fleft">The second release of ET version 9.2 is available for downloading. Its main novelty consists in deep revision of the Search for Lines tracer. There will be further improvements of...</p><a class="readon readon_class  fleft" href="/technology/news/noviy-reliz-et-9-2-1995_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;clear:both;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="Free ET 7.99 new release">Free ET 7.99 new release</h3><p class="nsp_text tleft fleft">ET 7.99 build 1051 update from 24.10.11 available on our site on Download page. Unlike previous release build 1049 several errors were corrected: 
+
+When you open a project prepared in...</p><a class="readon readon_class  fleft" href="/k2/news/noviy-reliz-besplatnoy-et-7-99_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="XVII Conference of Esri users">XVII Conference of Esri users</h3><p class="nsp_text tleft fleft">XII Conference of ESRI users in Russia and CIS will take place on December 18-20, 2011. This year it moves from the traditional  place to the near-Moscow boarding house...</p><a class="readon readon_class  fleft" href="/k2/news/xvii-konferentsiya-polzovateley-esri_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="Easy Trace Pro 9.1 is available for downloading">Easy Trace Pro 9.1 is available for downloading</h3><p class="nsp_text tleft fleft">The package has  gained a lot of new utilities and tools as well as improvements and  alterations. For more details see the New Features page.
+Download the program</p><a class="readon readon_class  fleft" href="/news/easy-trace-pro-9-1-available-for-download_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;clear:both;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="Beta-version of Easy Trace Pro 9.0 is available for downloading ">Beta-version of Easy Trace Pro 9.0 is available for downloading </h3><p class="nsp_text tleft fleft">We are adjusting the  package now for creation of navigational maps under the GLONAS project. That’s why  a lot of new and still “raw” but useful anyway utilities...</p><a class="readon readon_class  fleft" href="/news/easy-trace-pro-9-0-available-for-download_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="New video: demonstration of the spline mode">New video: demonstration of the spline mode</h3><p class="nsp_text tleft fleft">Spline mode is  provided for the Curvilinear Tracer in Easy Trace Pro 9.0.
+Interface of the tool differs markedly from one of similar tools in other applications. It is characterized...</p><a class="readon readon_class  fleft" href="/news/spline-mode-demonstation-video_en">Read more</a></div></div>
+														<div class="nsp_art unvisible" style="width:33.333333333333%;"><div style="padding:2px 4px 2px 4px"><h3 class="nsp_header tleft fnone" title="The new Easy Trace Pro 9.0 version is released">The new Easy Trace Pro 9.0 version is released</h3><p class="nsp_text tleft fleft">The new Easy Trace  PRO 9.0.1856 version is available at our site. Spline mode is provided for the Curvilinear Tracer. It enables  quick and accurate forming of objects...</p><a class="readon readon_class  fleft" href="/news/easy-trace-pro-9-0_en">Read more</a></div></div>
+					
+			</div>
+				
+			</div>
+
+
+
+<script type="text/javascript" defer="defer">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_124"] = {
+	"animation_speed": 350,
+	"animation_interval": 5000,
+	"news_column": 3,
+	"news_rows": 1,
+	"links_columns_amount": 0,
+	"links_amount": 0,
+	"counter_text": '<strong>Page:</strong>'
+};
+//]]>
+</script>			</div>
+    </div>
+	
+	</div>
+	
+	
+	
+
+	
+</div>
+</div>
+<!-- //TOP SPOTLIGHT -->
+	<hr class="main clearfix" />
+	<!-- MAIN CONTAINER -->
+	<div id="ja-container" class="wrap ">
+	<div class="main clearfix">
+
+		<div id="ja-mainbody" style="width:100%">
+			<!-- CONTENT -->
+<div id="ja-main" style="width:100%">
+<div class="inner clearfix">
+	
+	
+
+	
+	<div id="ja-contentwrap" class="">
+				<div id="ja-content" class="column" style="width:100%">
+
+			<div id="ja-current-content" class="column" style="width:100%">
+								
+				
+								
+				<!-- CONTENT BOTTOM SPOTLIGHT 1 -->
+<div id="ja-content-botsl1" class="clearfix">
+
+		<div class="ja-box column ja-box-left" style="width: 33.3%;">
+			<div class="ja-moduletable moduletable icon6  clearfix" id="Mod71">
+						<h3><span>Video samples</span></h3>
+				<div class="ja-box-ct clearfix">
+		We have lots of different technologies of Easy Trace, but they often require a detailed study to understand: "Is this what I want?". In addition, many technologies are much easier to explain with a living example. Choose from more than 20 video clips and 5 detailed video lessons. <a class="readon" href="/video/samples_en"><span>Read more..</span></a>		</div>
+    </div>
+		<div class="ja-moduletable moduletable icon2  clearfix" id="Mod152">
+						<h3><span>ET and privacy</span></h3>
+				<div class="ja-box-ct clearfix">
+		The fact that information has value, forcing large companies to block all possible ways to leak. Very often, it ends with elimination of all external USB-ports. Where in this case, insert the Easy Trace protection key? <a class="readon" href="/program/working-without-usb_en"><span>Read more..</span></a>		</div>
+    </div>
+	
+	</div>
+	
+		<div class="ja-box column ja-box-center" style="width: 33.3%;">
+			<div class="ja-moduletable moduletable icon4  clearfix" id="Mod154">
+						<h3><span>New version ET 9.2</span></h3>
+				<div class="ja-box-ct clearfix">
+		The number of new utilities and tools in this version of the package is relatively small. The main effort has been put on the transfer of the program code to the new version of the compiler. As a consequence - the emergence of a large number of errors and a complete testing package for catching them. In addition, the great work on .. <a href="/new-features-1985_en" class="readon"><span>Read more..</span></a>		</div>
+    </div>
+		<div class="ja-moduletable moduletable icon3  clearfix" id="Mod153">
+						<h3><span>Digitization for GPS</span></h3>
+				<div class="ja-box-ct clearfix">
+		<p>Extremely detailed article describing the technology to load maps in GPS, including affecting the practical application of the vectorizer Easy Trace Pro, and it is freeware version of Easy Trace Pro 7.99. <a class="readon" href="/gis-integration/easytrace-gps_en/">
+<span>Read more..</span></a></p>		</div>
+    </div>
+	
+	</div>
+	
+		<div class="ja-box column ja-box-right" style="width: 33.3%;">
+			<div class="ja-moduletable moduletable_badge badge-top  clearfix" id="Mod22">
+		<span class="badge">&nbsp;</span>
+				<h3><span>Popular materials</span></h3>
+				<div class="ja-box-ct clearfix">
+		<ul class="mostread_badge badge-top">
+	<li class="mostread_badge badge-top">
+		<a href="/purchase/leaseform_en" class="mostread_badge badge-top">
+			Lease order</a>
+	</li>
+	<li class="mostread_badge badge-top">
+		<a href="/program/about_en" class="mostread_badge badge-top">
+			Сartographical digitizer - Easy Trace Pro</a>
+	</li>
+	<li class="mostread_badge badge-top">
+		<a href="/program/download_en" class="mostread_badge badge-top">
+			Download Easy Trace Pro</a>
+	</li>
+	<li class="mostread_badge badge-top">
+		<a href="/video/samples_en" class="mostread_badge badge-top">
+			Video samples</a>
+	</li>
+	<li class="mostread_badge badge-top">
+		<a href="/program/et799_en" class="mostread_badge badge-top">
+			Easy Trace Pro 7.99</a>
+	</li>
+	<li class="mostread_badge badge-top">
+		<a href="/program/registration_en" class="mostread_badge badge-top">
+			User registration</a>
+	</li>
+	<li class="mostread_badge badge-top">
+		<a href="/purchase/upgradeform_en" class="mostread_badge badge-top">
+			Upgrade order</a>
+	</li>
+	<li class="mostread_badge badge-top">
+		<a href="/program/support_en" class="mostread_badge badge-top">
+			Technical support</a>
+	</li>
+	<li class="mostread_badge badge-top">
+		<a href="/purchase/price_en" class="mostread_badge badge-top">
+			Pricing</a>
+	</li>
+	<li class="mostread_badge badge-top">
+		<a href="/program/87vs79_en" class="mostread_badge badge-top">
+			Paid version advantages </a>
+	</li>
+</ul>		</div>
+    </div>
+	
+	</div>
+	
+</div>
+<!-- //CONTENT BOTTOM SPOTLIGHT 1 -->
+
+<!-- CONTENT BOTTOM SPOTLIGHT 2 -->
+<div id="ja-content-botsl2" class="clearfix">
+
+		<div class="ja-box column ja-box-left" style="width: 49.95%;">
+			<div class="ja-moduletable moduletableicon5  clearfix" id="Mod143">
+						<h3><span>New technologies</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+<div id="k2ModuleBox143" class="k2ItemsBlock icon5">
+
+		
+  <ul class="ja-itemlist">
+        <li class="even">
+    
+      <!-- Plugins: BeforeDisplay -->
+            
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+            
+            <a class="ja-title" href="/gis-integration/gis-integration/osobennosti-eksporta-i-importa-v-iz-ingeo_en">Peculiarities of export and import to/from Ingeo </a>
+      	  
+            
+            
+      			      
+      <!-- Plugins: AfterDisplayTitle -->
+            
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+            
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+            <p class="moduleItemIntrotext">
+      
+	            
+      	      	<p>This page is accessible in Russian only.</p>      	      </p>
+            
+      
+      
+      <!-- Plugins: AfterDisplayContent -->
+            
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+            
+      
+			
+						<span class="moduleItemHits">
+				Read 4385 times			</span>
+						
+						<a class="readon" href="/gis-integration/gis-integration/osobennosti-eksporta-i-importa-v-iz-ingeo_en">
+				Read more...			</a>
+			      
+      <!-- Plugins: AfterDisplay -->
+            
+      <!-- K2 Plugins: K2AfterDisplay -->
+            
+      <br class="clr" />
+    </li>
+        <li class="odd">
+    
+      <!-- Plugins: BeforeDisplay -->
+            
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+            
+            <a class="ja-title" href="/digitization/satellite-image-interpretation_en">Space imagery decoding</a>
+      	  
+            
+            
+      			      
+      <!-- Plugins: AfterDisplayTitle -->
+            
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+            
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+            <p class="moduleItemIntrotext">
+      
+	            
+      	      	<p>If the task is more complicated than area calculation at oil spillage or estimation of burnt wood, one may be sure that photo decoding will be mostly done manually.</p>      	      </p>
+            
+      
+      
+      <!-- Plugins: AfterDisplayContent -->
+            
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+            
+      
+			
+						<span class="moduleItemHits">
+				Read 6951 times			</span>
+						
+						<a class="readon" href="/digitization/satellite-image-interpretation_en">
+				Read more...			</a>
+			      
+      <!-- Plugins: AfterDisplay -->
+            
+      <!-- K2 Plugins: K2AfterDisplay -->
+            
+      <br class="clr" />
+    </li>
+        <li class="even">
+    
+      <!-- Plugins: BeforeDisplay -->
+            
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+            
+            <a class="ja-title" href="/gis-integration/easytrace-gps_en">Map digitization for GPS</a>
+      	  
+            
+            
+      			      
+      <!-- Plugins: AfterDisplayTitle -->
+            
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+            
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+            <p class="moduleItemIntrotext">
+      
+	            
+      	      	<p>This page is accessible in Russian only.</p>      	      </p>
+            
+      
+      
+      <!-- Plugins: AfterDisplayContent -->
+            
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+            
+      
+			
+						<span class="moduleItemHits">
+				Read 9856 times			</span>
+						
+						<a class="readon" href="/gis-integration/easytrace-gps_en">
+				Read more...			</a>
+			      
+      <!-- Plugins: AfterDisplay -->
+            
+      <!-- K2 Plugins: K2AfterDisplay -->
+            
+      <br class="clr" />
+    </li>
+        <li class="odd">
+    
+      <!-- Plugins: BeforeDisplay -->
+            
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+            
+            <a class="ja-title" href="/topology/overview_en">Topology in Easy Trace</a>
+      	  
+            
+            
+      			      
+      <!-- Plugins: AfterDisplayTitle -->
+            
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+            
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+            <p class="moduleItemIntrotext">
+      
+	            
+      	      	<p>Easy Trace enables you to create and verify complicated topological model of vector data. We consider any vectorizer without these abilities to be a tool for time waste.</p>      	      </p>
+            
+      
+      
+      <!-- Plugins: AfterDisplayContent -->
+            
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+            
+      
+			
+						<span class="moduleItemHits">
+				Read 5456 times			</span>
+						
+						<a class="readon" href="/topology/overview_en">
+				Read more...			</a>
+			      
+      <!-- Plugins: AfterDisplay -->
+            
+      <!-- K2 Plugins: K2AfterDisplay -->
+            
+      <br class="clr" />
+    </li>
+      </ul>
+  
+		
+		
+</div>		</div>
+    </div>
+	
+	</div>
+	
+		<div class="ja-box column ja-box-right" style="width: 49.95%;">
+			<div class="ja-moduletable moduletable  clearfix" id="Mod144">
+						<h3><span>Most popular articles</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+<div id="k2ModuleBox144" class="k2ItemsBlock ">
+
+		
+  <ul class="ja-itemlist">
+        <li class="even">
+    
+      <!-- Plugins: BeforeDisplay -->
+            
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+            
+            <a class="ja-title" href="/gis-integration/easytrace-gps_en">Map digitization for GPS</a>
+      	  
+            
+            
+      			      
+      <!-- Plugins: AfterDisplayTitle -->
+            
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+            
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+            <p class="moduleItemIntrotext">
+      
+	            
+      	      	<p>This page is accessible in Russian only.</p>      	      </p>
+            
+      
+      
+      <!-- Plugins: AfterDisplayContent -->
+            
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+            
+      
+			
+						<span class="moduleItemHits">
+				Read 9856 times			</span>
+						
+						<a class="readon" href="/gis-integration/easytrace-gps_en">
+				Read more...			</a>
+			      
+      <!-- Plugins: AfterDisplay -->
+            
+      <!-- K2 Plugins: K2AfterDisplay -->
+            
+      <br class="clr" />
+    </li>
+        <li class="odd">
+    
+      <!-- Plugins: BeforeDisplay -->
+            
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+            
+            <a class="ja-title" href="/digitization/relief_en">Relief digitization</a>
+      	  
+            
+            
+      			      
+      <!-- Plugins: AfterDisplayTitle -->
+            
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+            
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+            <p class="moduleItemIntrotext">
+      
+	            
+      	      	<p>Input of relief data (vectorizing of contours, symbols of stones, relief elements, and elevation data input) takes 2 - 2.5 hours per one  sheet of a topographic  1: 50000 map</p>      	      </p>
+            
+      
+      
+      <!-- Plugins: AfterDisplayContent -->
+            
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+            
+      
+			
+						<span class="moduleItemHits">
+				Read 8810 times			</span>
+						
+						<a class="readon" href="/digitization/relief_en">
+				Read more...			</a>
+			      
+      <!-- Plugins: AfterDisplay -->
+            
+      <!-- K2 Plugins: K2AfterDisplay -->
+            
+      <br class="clr" />
+    </li>
+        <li class="even">
+    
+      <!-- Plugins: BeforeDisplay -->
+            
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+            
+            <a class="ja-title" href="/digitization/satellite-image-interpretation_en">Space imagery decoding</a>
+      	  
+            
+            
+      			      
+      <!-- Plugins: AfterDisplayTitle -->
+            
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+            
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+            <p class="moduleItemIntrotext">
+      
+	            
+      	      	<p>If the task is more complicated than area calculation at oil spillage or estimation of burnt wood, one may be sure that photo decoding will be mostly done manually.</p>      	      </p>
+            
+      
+      
+      <!-- Plugins: AfterDisplayContent -->
+            
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+            
+      
+			
+						<span class="moduleItemHits">
+				Read 6951 times			</span>
+						
+						<a class="readon" href="/digitization/satellite-image-interpretation_en">
+				Read more...			</a>
+			      
+      <!-- Plugins: AfterDisplay -->
+            
+      <!-- K2 Plugins: K2AfterDisplay -->
+            
+      <br class="clr" />
+    </li>
+        <li class="odd">
+    
+      <!-- Plugins: BeforeDisplay -->
+            
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+            
+            <a class="ja-title" href="/topology/overview_en">Topology in Easy Trace</a>
+      	  
+            
+            
+      			      
+      <!-- Plugins: AfterDisplayTitle -->
+            
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+            
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+            <p class="moduleItemIntrotext">
+      
+	            
+      	      	<p>Easy Trace enables you to create and verify complicated topological model of vector data. We consider any vectorizer without these abilities to be a tool for time waste.</p>      	      </p>
+            
+      
+      
+      <!-- Plugins: AfterDisplayContent -->
+            
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+            
+      
+			
+						<span class="moduleItemHits">
+				Read 5456 times			</span>
+						
+						<a class="readon" href="/topology/overview_en">
+				Read more...			</a>
+			      
+      <!-- Plugins: AfterDisplay -->
+            
+      <!-- K2 Plugins: K2AfterDisplay -->
+            
+      <br class="clr" />
+    </li>
+      </ul>
+  
+		
+		
+</div>		</div>
+    </div>
+	
+	</div>
+	
+	
+</div>
+<!-- //CONTENT BOTTOM SPOTLIGHT 2 -->
+			</div>
+
+			
+		</div>
+		
+			</div>
+
+	
+</div>
+</div>
+<!-- //CONTENT -->					</div>
+
+			
+	</div>
+	</div>
+	<!-- //MAIN CONTAINER -->
+
+	
+	<!-- FOOTER -->
+	<div id="ja-footer" class="wrap">
+<div class="main clearfix">
+
+<div class="ja-footnav">
+	    
+    <ul class="ja-links">
+		<li class="layout-switcher">&nbsp;</li>
+		<li class="top"><a href="/#Top" title="Back to Top">Top</a></li>
+	</ul>
+</div>
+	
+<div class="inner">
+	<div class="ja-copyright">
+		<small>Copyright &#169; 2014 Easy Trace Group. All Rights Reserved. Designed by <a href="http://www.joomlart.com/" title="Visit Joomlart.com!">JoomlArt.com</a>.</small>
+<small><a href="http://www.joomla.org">Joomla!</a> is Free Software released under the <a href="http://www.gnu.org/licenses/gpl-2.0.html">GNU/GPL License.</a></small>
+	</div>
+	<div id="ja-poweredby">
+		<a id="t3-logo" href="http://t3.joomlart.com" title="Powered By T3 Framework" target="_blank">Powered By T3 Framework</a>
+	</div>
+</div>
+
+</div>
+</div>	<!-- //FOOTER -->
+
+</div>
+
+
+
+
+</body>
+
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.ablesw.com/r2v/index.html>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+  
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+  
+  <meta name="keywords" content="3D imaging, medical imaging, modeling, DICOM, STL, 3D, DOCTOR, CT, MRI, rendering" />
+
+  
+  <meta name="ProgId" content="FrontPage.Editor.Document" /><title>R2V, raster to vector conversion, GIS, mapping, CAD</title>
+  
+
+  
+  
+  <meta name="description" content="R2V, raster to vector conversion, GIS, mapping, CAD" />
+
+  
+  <link href="styles.css" rel="stylesheet" type="text/css" /></head><body>
+<!-- start header -->
+<div id="contmain">
+<div id="header">
+<div id="logo">
+<h1><a href="#">R2V</a></h1>
+<h2><a href="r2v.html">Advanced raster to vector conversion software
+for gis, mapping and cad</a></h2>
+</div>
+<div id="menu">
+<ul>
+  <li><a href="http://www.ablesw.com">Home&nbsp;</a></li>
+  <li><a href="users.html">User List</a><a href="tutor.html">Tutorial</a></li>
+  <li><a href="download.html">Download
+Demo&nbsp; &nbsp;&nbsp;</a></li>
+</ul>
+</div>
+<!-- end header --></div>
+<!-- start page -->
+<div id="page">
+<div id="global_top">
+<div id="global_bottom"><!-- start content -->
+<div id="content">
+<div class="post">
+<h1 class="title"><a href="#">R2V: ADVANCED RASTER TO VECTOR CONVERSION
+SOFTWARE</a></h1>
+<br />
+<br />
+<div class="entry"><font face="Arial, Helvetica">
+</font><p><font face="Arial, Helvetica"><font face="Arial, Helvetica">
+<p><a href="r2v.html">R2V</a> is an advanced raster to vector
+conversion software for automated map digitizing, GIS data capture and
+CAD conversion applications. R2V is currently being used in more than
+60 countries by thousands of users for mapping and GIS data conversion
+applications.&nbsp;</p>
+<p> R2V supports fully automatic vectorization and interactive line
+tracing from scanned maps and drawings. R2V inputs bi-level, grayscale,
+and color images in TIFF, GeoTIFF, GIF, JPEG, RLC, PNG or BMP
+formats.&nbsp; It exports vector data to ArcView Shapefiles, Arc/Info
+Generate, MapInfo MIF/MID, AutoCAD DXF, IGES, STL, VRML, SVG (<a href="http://www.w3.org/TR/SVG11/intro.html"> Scalable Vector Graphics</a>)
+and MapGuide SDL formats.&nbsp;</p>
+<p>R2V provides complete on-screen image and vector editing, labeling,
+and geo-referencing using GeoTIFF or user specified control points,
+image rubber sheeting, color image classification and separation, text
+symbol detection and recognition (OCR), automatic polygon layer
+creation, 3D DEM and Grid creation, and 3D display and image draping.
+R2V is currently being used in more than 60 countries for mapping and
+GIS database creation applications.</p>
+</font></font></p>
+<p>
+</p><p><font face="Arial, Helvetica"><font face="Arial, Helvetica"><i><b>"Thanks to the batch functions
+within R2V, we were able to<br />
+complete the task 6.5 weeks ahead of schedule</b><a href="users.html#Captown">.</a>", Zoltan Szecsei, Cape Town South
+Africa</i></font></font></p>
+</br>
+<img src="r2v3.jpg" width="512" height="384" alt="" title="" border="0" />
+</br>
+</br>
+<h2>Application Cases Using R2V</h2>
+
+<br />
+</font>
+<ul>
+<li>
+NOAA Coastal Service Center: <a href="http://www.csc.noaa.gov/crs/bhm/methods.html">R2V Is Used for
+Mapping Benthis Habitat</a></p>
+</li>
+<li>
+<a href="wheller.html">Marketing
+Geological Information Packages</a></p>
+</li>
+<li>
+<a href="tei.html">Contour
+Modeling Thailand with R2V for Windows</a></p>
+</li>
+<li>
+<a href="wwfi.html">World Wild
+Life Fund Chooses R2V for Automated Map Digitizing</a></p>
+</li>
+<li>
+<a href="poos.html">Digitizing
+Historical Maps</a></p>
+</li>
+<li>
+<a href="cmac.html">R2V
+Automates Mapping for Mine Clearance Mission in Cambodia</a></p>
+</li>
+<li>
+<a href="rasvect.html">Introduction
+to Raster, Vector and Automated Digitizing</a></p>
+</li>
+<li>
+<a href="publist.html">Click
+here</a> to get a list of publications about R2V on GIS World, Earth
+Observation Magazine, GeoInfo System, CADALYST, Photogrammetry
+Engineering &amp; Remote Sensing, and more.</font></i></i></p>
+</li>
+</ul>
+<br />
+<br />
+<a href="http://www.cad-3d-visualisation.com/section.php?xSec=7&amp;xPage=1&amp;language=2"><span style="color: rgb(31, 73, 125);"><img style="width: 24px; height: 15px;" alt="French version" src="french-flag.jpg" />Version Française</span></a><br />
+</br>
+This article has been translated to <a href="http://science.webhostinggeeks.com/r2v-napredni-raster">Serbo-Croatian</a> language by Jovana Milutinovich.
+
+</i></font>
+</div>
+</div>
+</div>
+<!-- end content --><!-- start sidebar two -->
+<div id="sidebar2" class="sidebar">
+<ul>
+<font face="Arial, Helvetica"><i>  </i><li>
+<i>    </i><h2><i><i>applications</i></i></h2>
+<i>    </i><ul>
+<i>      </i><li><i><i><a href="contour.html">Contour Map Digitizing</a></i></i></li>
+<i>      </i><li><i><i><a href="parcel.html">Parcel Map Digitizing</a></i></i></li>
+<i>      </i><li><i><i><a href="soilflood.html">Soil&nbsp;and Flood Map Digitizing</a></i></i></li>
+<i>      </i><li><i><i><a href="satmap.html">Vectorize Aerial Photo &amp;
+Satellite Imagery</a></i></i></li>
+<i>      </i><li><i><i><a href="dem3d.html">3D DEM from Contour Map&nbsp;</a></i></i></li>
+<i>      </i><li><i><i><a href="cad.html">CAD Drawing Conversion&nbsp;</a></i></i></li>
+<i>      </i><li><i><i><a href="imgproc.html">Geo-Referencing &amp; Image
+Processing&nbsp;</a></i></i></li>
+<i>      </i><li><i><i><a href="images.html">Image Gallery</a></i></i></li>
+<i>    </i></ul>
+<i>  </i></li>
+<i>  </i><li>
+<i>    </i><h2><i><i>R2V</i></i></h2>
+<i>    </i><ul>
+<i>      </i><li><i><i><a href="r2v.html">Functions</a></i></i></li>
+<i>      </i><li><i><i><a href="users.html">User List</a></i></i></li>
+<i>      </i><li><i><i><a href="r2vtutor.html">Quick Start
+Video&nbsp;Tutorials&nbsp;</a></i></i></li>
+<i>      </i><li><i><i><a href="contour1.html">Contour Digitizing and 3D DEM
+Tutorial&nbsp;</a></i></i></li>
+<i>      </i><li><i><i><a href="mapmerge.html">Map Section Merge Tutorial</a></i></i></li>
+<i>      </i><li><i><i><a href="r2vfaq.html">Frequently Asked
+Questions</a></i></i></li>
+<i>      </i><li><i><i><a target="_blank" href="R2Vmanual.pdf">User's
+Manual</a></i></i></li>
+<i>      </i><li><i><i><a target="_blank" href="r2vinfo.pdf">Brochure&nbsp;</a></i></i></li>
+<i>      </i><li><i><i><a href="publist.html">R2V Related Publications</a></i></i></li>
+<i>    </i></ul>
+<i>  </i></li>
+<i>  </i><li>
+<i>    </i><h2><i><i>Purchase</i></i></h2>
+<i>    </i><ul>
+<i>      </i><li><i><i><a href="price.html">Prices</a></i></i></li>
+<i>      </i><li><i><i><a href="order.html">Order Online</a></i></i></li>
+<i>      </i><li><i><i><a target="_blank" href="r2vform.pdf">Print
+Order Form</a></i></i></li>
+<i>      </i><li><i><i><a href="dealers.html">Resellers</a></i></i></li>
+<i>    </i></ul>
+<i>  </i></li>
+<i>  </i><li>
+<i>    </i><h2><i><i>Support</i></i></h2>
+<i>    </i><ul>
+<i>      </i><li><i><i><a href="download.html">Download Trial Version</a></i></i></li>
+<i>      </i><li><i><i><a href="support.html">Download Upgrades</a></i></i></li>
+<i>      </i><li><i><i><a href="notes.html">Release
+Notes&nbsp;</a></i></i></li>
+<i>      </i><li><i><i><a target="_blank" href="http://ablesw.com/bbs">Online
+Forums</a></i></i></li>
+<i>      </i><li><i><i><a href="http://www.ablesw.com/able.html">Contact</a></i></i></li>
+<i>    </i></ul>
+<i>  </i></li>
+</font></ul>
+</div>
+<div id="bottom" style="clear: both;">
+</div>
+</div>
+<!-- end sidebar two --><font face="Arial, Helvetica"><i><i> </i></i></font></div>
+<!-- end page --><!-- start footer -->
+</div>
+<div id="footer">
+<p><font face="Arial, Helvetica"><i><i>Copyright © 1994-<script>document.write(new Date().getFullYear())</script>.&nbsp;<a href="http://www.ablesw.com">Able
+Software Corp. All Rights
+Reserved.</a></i></i></font></p>
+</div>
+<!-- end footer -->
+</div>
+
+</body></html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.rastervect.com/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+   <meta name="Author" content="RasterVect Software. Vectorizer RasterVect converts raster to vector.">
+   <meta name="Keywords" content="raster to vector,vectorizing,raster to vector software,vectorizer,vectorize,convert,recognize,cad,autocad, vector,image,dxf,bitmap,bmp,scanner,scan,jpg,tif,gif,png,image to vector,vectorization">
+   <meta name="description" content="CAD, raster to vector conversion tools, vectorizing. Vectorize your scan and convert it to a CAD drawing with RasterVect.">
+   <title>RasterVect Software. Vectorizer RasterVect converts raster to vector. Vectorize your scan.</title>
+</head>
+
+<frameset rows="67,100%,17" cols="*" border="0" framespacing="0">
+    <frame src="t.htm" marginwidth="0" marginheight="0"
+    scrolling="NO" noresize frameborder="0" name="header">
+    <frameset cols="130,99%" border="0" framespacing="0">
+        <frame src="n.htm" marginwidth="0" marginheight="0"
+        scrolling="NO" noresize frameborder="0" name="nav">
+        <frame src="home.htm" noresize frameborder="0"
+        name="content">
+    </frameset>
+    <frame src="f.htm" marginwidth="0" marginheight="0"
+    scrolling="NO" noresize frameborder="0" name="footer">
+    <noframes>
+    <body bgcolor="#FFFFFF">
+    <p>We're sorry. This site makes extensive use of FRAMES. If
+    you are reading this, your browser does not support FRAMES.
+    We do not currently have a &quot;FRAME-LESS&quot; site
+    available. </p>
+<p align="left"><font size="3" face="Arial">RasterVect is a
+useful raster to vector program for those who work with scanned drawings. With
+this raster to vector program you can transform raster drawings into vector
+format. Raster drawing can be imported by scanning original paper
+drawings. The target vector format (DXF) is supported by most CAD
+applications that use vector graphics, such as AutoCAD, Corel
+Draw and many others. 
+</font></p>
+    </body>
+    </noframes>
+</frameset>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://autotrace.sourceforge.net/>====================
+<html>
+	<head>
+		<title>AutoTrace</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta name="GENERATOR" content="Microsoft FrontPage Express 2.0">
+	</head>
+	<body background="background.gif" bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#990066" alink="#dd0000">
+		<div align="center"><center>
+				<table border="0">
+					<TBODY>
+						<tr>
+							<td><img src="logo.jpg" alt="AutoTrace logo" width="320" height="200">
+							</td>
+							<td><font size="7" face="Futura, Arial, Helvetica">AutoTrace</font> <font size="7" face="Times">
+									-</font><font size="4" face="Times"> </font><font size="7" face="Times">converts 
+									bitmap to vector graphics </font>
+							</td>
+						</tr>
+					</TBODY>
+				</table>
+			</center>
+		</div>
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td valign="top"><table border="0" cellpadding="0" cellspacing="5" height="6977">
+						<tr>
+							<td valign="top"><a href="index.html#intro"><font size="2">Introduction</font></a><p><a href="index.html#install"><font size="2">Installation</font></a></p>
+								<p><a href="index.html#features"><font size="2">Features</font></a></p>
+								<p><a href="index.html#screenshots"><font size="2">Screenshots</font></a></p>
+								<p><a href="index.html#doc"><font size="2">Documentation</font></a></p>
+								<p><a href="index.html#download"><font size="2">Download</font></a></p>
+								<p><a href="index.html#bugs"><font size="2">Bugs</font></a></p>
+								<p><a href="index.html#contrib"><font size="2">Contributions</font></a></p>
+								<p><a href="index.html#contributors"><font size="2">Contributors</font></a></p>
+								<p><a href="index.html#history"><font size="2">History</font></a></p>
+								<p><a href="index.html#links"><font size="2">Links</font></a></p>
+								<p><a href="index.html#contact"><font size="2">Contact</font></a></p>
+								<p><a href="http://sourceforge.net"><img src="http://sourceforge.net/sflogo.php?group_id=781&amp;type=1" alt="SourceForgeLogo" border="0"></a>
+									<br>
+								</p>
+							</td>
+							<!-- *** VERTIKALE TRENNLINIE(N) *** -->
+							<td>&nbsp;</td>
+							<td valign="top" width="1" bgcolor="#808080"><img src="pixel.gif" width="1" height="1"></td>
+							<td>&nbsp;</td>
+						</tr>
+					</table>
+				</td>
+				<td valign="top"><table border="0" width="100%">
+						<TBODY>
+							<tr>
+								<td bgcolor="#a0a0a0"><a name="news"><font color="#ffffff" size="4" face="Futura, Arial,&#13;&#10;&#9;&#9;    Helvetica"><b>News</b></font></a></td>
+							</tr>
+						</TBODY>
+					</table>
+					<ul>
+						<li>
+							<b>AutoTrace now also available </b><a href="http://www.roitsystems.com/cgi-bin/autotrace/tracer.pl">
+								<b>online</b></a><b>. </b>
+						[01/28/04]
+						<li>
+							<a href="http://delineate.sourceforge.net"><b>Delineate </b></a><b>0.5 has been 
+								released.</b>
+						[12/28/03]
+						<li>
+							<a href="http://delineate.sourceforge.net"><b>Delineate </b></a><b>0.4 has been 
+								released.</b>
+						[11/05/03]
+						<li>
+							<b>Delineate 0.2 has been released.</b> <a href="http://delineate.sourceforge.net">Delineate</a>
+						is another GUI front end for autotrace written in Java. [9/13/03]
+						<li>
+							<b>First public release of frontline</b>, a Gnome/Gtk+ based GUI front end 
+						for autotrace. With frontline you are able to set trace options via GUI and 
+						preview trace results quickly. [11/12/02]
+						<li>
+							<b>New release 0.31.1 available for download.</b>
+						Fixed compile time error, centerline tracing , dr2d and dxf output [11/09/02]
+						<li>
+							<b>Grrr: </b><strong>There is a program that is comparable to AutoTrace:</strong>
+							ScanFont 3.0. Please help to make AutoTrace better than this program! A demo 
+							for Windows could be downloaded <a href="http://www.pyrus.com/downloads/SF_demo.exe">
+								here</a>. [10/08/99]
+						<li>
+							<b>Call for Help:</b>
+						AutoTrace needs more import/export filters, porting to other platforms, ... Who 
+						wants to help developing these parts? [09/23/99]
+						<li>
+							AutoTrace mailing-list started. Look at <a href="http://groups.yahoo.com/group/autotrace/">
+								Yahoo! Groups</a> for subscription or send an email to <a href="mailto:autotrace-subscribe@yahoogroups.com">
+								<font size="2" face="arial,helvetica">autotrace-subscribe@yahoogroups.com</font></a>
+							and subscribe automatically. [09/21/99]</li>
+					</ul>
+					<table border="0" width="100%">
+						<TBODY>
+							<tr>
+								<td bgcolor="#a0a0a0"><a name="intro"><font color="#ffffff" size="4" face="Futura, Arial,&#13;&#10;&#9;&#9;    Helvetica"><b>Introduction</b></font></a></td>
+							</tr>
+						</TBODY>
+					</table>
+					<p>Welcome to AutoTrace - a program for converting bitmap to vector graphics.<br>
+						The aim of the AutoTrace project is the development of a freely available 
+						application with a functionality similar to CorelTrace or Adobe Streamline. I 
+						hope that it will become better than all commercially available programs. In 
+						some aspects it is already better.
+						<br>
+						AutoTrace is free software. AutoTrace is distributed under the term of GNU GPL.
+					</p>
+					<table border="0" width="100%">
+						<TBODY>
+							<tr>
+								<td bgcolor="#a0a0a0"><a name="install"><font color="#ffffff" size="4" face="Futura, Arial,&#13;&#10;&#9;&#9;    Helvetica"><b>Installation</b></font></a></td>
+							</tr>
+						</TBODY>
+					</table>
+					<p>AutoTrace currently comes in source code and some binaries - you have to compile 
+						the package for other platforms yourself. After downloading the archive, unpack 
+						the distribution and use make to compile it.</p>
+					<table border="0" width="100%">
+						<TBODY>
+							<tr>
+								<td bgcolor="#a0a0a0"><a name="features"><font color="#ffffff" size="4" face="Futura, Arial,&#13;&#10;&#9;&#9;    Helvetica"><b>Features</b></font></a></td>
+							</tr>
+						</TBODY>
+					</table>
+					<p>Here is a short description of currently supported formats:
+					</p>
+					<ul>
+						<li>
+						Inputformats BMP, TGA, PNM, PPM, PGM, PBM and those supported by ImageMagick.
+						<li>
+							Exportformat Postscript, svg, xfig, swf, pstoedit, emf, dxf, cgm, mif, p2e and 
+							sk</li>
+					</ul>
+					<table border="0" width="100%">
+						<TBODY>
+							<tr>
+								<td bgcolor="#a0a0a0"><a name="screenshots"><font color="#ffffff" size="4" face="Futura,&#13;&#10;&#9;&#9;      Arial, Helvetica"><b>Screenshots</b></font></a></td>
+							</tr>
+						</TBODY>
+					</table>
+					<p>Some screenshots are available here:<br>
+						Simple <a href="sample.gif">example</a> and it's <a href="sample.eps">output</a><br>
+						<a href="screenshot.gif">Comparison of tracing a small m with AutoTrace and other 
+							programs</a><br>
+						<a href="scanfont.gif">Comparison of tracing small circles with AutoTrace and 
+							Scanfont</a><br>
+						<a href="scanfont2.gif">Comparison of tracing letters with AutoTrace and Scanfont</a></p>
+					<table border="0" width="100%">
+						<TBODY>
+							<tr>
+								<td bgcolor="#a0a0a0"><a name="doc"><font color="#ffffff" size="4" face="Futura,&#13;&#10;&#9;&#9;      Arial, Helvetica"><b>Documentation</b></font></a></td>
+							</tr>
+						</TBODY>
+					</table>
+					<p>Currently there is no documentation other than the online help.</p>
+					<table border="0" width="100%">
+						<TBODY>
+							<tr>
+								<td bgcolor="#a0a0a0"><a name="download"><font color="#ffffff" size="4" face="Futura,&#13;&#10;&#9;&#9;      Arial, Helvetica"><b>Download</b></font></a></td>
+							</tr>
+						</TBODY>
+					</table>
+					<p><strong> Sourcecode:</strong><br>
+						<a href="http://ftp1.sourceforge.net/autotrace/frontline-0.5.4.tar.gz">frontline-0.5.4.tar.gz</a><br>
+						<a href="http://ftp1.sourceforge.net/autotrace/autotrace-0.31.1.tar.gz">autotrace-0.31.1.tar.gz</a><br>
+						<a href="http://ftp1.sourceforge.net/autotrace/autotrace-0.31.0.tar.gz">autotrace-0.31.0.tar.gz</a><br>
+						<a href="http://ftp1.sourceforge.net/autotrace/autotrace-0.30.tar.gz">autotrace-0.30.tar.gz</a><br>
+						<a href="http://ftp1.sourceforge.net/autotrace/autotrace-0.29.tar.gz">autotrace-0.29.tar.gz</a><br>
+						<a href="http://ftp1.sourceforge.net/autotrace/autotrace-0.28.tar.gz">autotrace-0.28.tar.gz</a><br>
+						<a href="http://ftp1.sourceforge.net/autotrace/autotrace-0.27a.tar.gz">autotrace-0.27a.tar.gz</a><br>
+						<strong>Binaries </strong>(Windows)<strong>:</strong><br>
+						<a href="http://ftp1.sourceforge.net/autotrace/autotrace-0.31.1-w32.zip">Windows on 
+							an Intel i386/486/586 with VC++ 7.0 version 0.31.1</a><br>
+						<a href="http://ftp1.sourceforge.net/autotrace/autotrace-0.30-w32.zip">Windows on 
+							an Intel i386/486/586 with VC++ 6.0 version 0.30</a><br>
+						<a href="http://ftp1.sourceforge.net/autotrace/autotrace-0.29-w32.zip">Windows on 
+							an Intel i386/486/586 with VC++ 6.0 version 0.29</a><br>
+						<a href="http://ftp1.sourceforge.net/autotrace/autotrace-0.28-w32.zip">Windows on 
+							an Intel i386/486/586 with VC++ 6.0 version 0.28</a><br>
+						<a href="http://ftp1.sourceforge.net/autotrace/autotrace-0.27-w32.zip">Windows on 
+							an Intel i386/486/586 with VC++ 6.0 version 0.27</a><br>
+						<strong>Binaries </strong>(GNU/Linux)<strong>:</strong><br>
+						<a href="http://ftp1.sourceforge.net/autotrace/autotrace-0.30-1.i386.rpm">RedHat 
+							Linux 7.2 on an Intel i386/486/586 version 0.30</a><br>
+						<strong>Online:</strong><br>
+						<a href="http://www.roitsystems.com/cgi-bin/autotrace/tracer.pl">AutoTrace 0.31.1</a></p>
+					<table border="0" width="100%">
+						<TBODY>
+							<tr>
+								<td bgcolor="#a0a0a0"><a name="bugs"><font color="#ffffff" size="4" face="Futura,&#13;&#10;&#9;&#9;      Arial, Helvetica"><b>Bugs</b></font></a></td>
+							</tr>
+						</TBODY>
+					</table>
+					<p>?!</p>
+					<table border="0" width="100%">
+						<TBODY>
+							<tr>
+								<td bgcolor="#a0a0a0"><a name="contrib"><font color="#ffffff" size="4" face="Futura,&#13;&#10;&#9;&#9;      Arial, Helvetica"><b>Contributions</b></font></a></td>
+							</tr>
+						</TBODY>
+					</table>
+					<p>I invite you to participate in the AutoTrace project. First, if you plan to 
+						contribute some code, please contact me in order to avoid duplicate work.</p>
+					<ul>
+						<li>
+							Core:
+							<br>
+							- Speed up<br>
+							- Improve tracing quality<br>
+							- Bugs?!<br>
+							- Recognition of Circle and Ellipse pieces.<br>
+							- Addition of code to recognize lines, splines and circles even if there is a 
+							lot of noise<br>
+							- Currently pictures have to fit completely into memory<br>
+							- New algorithm to work best with antialiased pictures<br>
+							- 3D recognition<br>
+							- Better list management, that means the current generation of lists is time 
+							consuming and fragmentates the heap.<br>
+							- Outlines are traced two times that means that it could be faster and if we 
+							trace and fit every outline only once we will not have the problems with 
+							unwanted gaps anymore.<br>
+							- Better thinning algorithm like CAT (Chordal Axis Transformation)<br>
+						<li>
+							Input:<br>
+							- Mirgrate new plug-in interface with using glib(0.32)<br>
+							- Support of image libraries as freeimage, gdk-pixbuf or paintlib(0.32)<br>
+						<li>
+							Output:<br>
+							- Mirgrate new plug-in interface with using glib(0.32)<br>
+							- New export formats like wmf, cdr, cmx, compressed pdf, compressed svg and dxf 
+							with splines...<br>
+						<li>
+							Library and its clients:<br>
+							- Graphical userinterface<br>
+							-- For gnome/gtk, frontline is under developing.<br>
+							(See <a href="http://autotrace.sourceforge.net/frontline">http://autotrace.sourceforge.net/frontline</a>. 
+							It works well with sodipodi, a drawing editor.)<br>
+						-- For KDE/Qt?
+						<li>
+							...</li>
+					</ul>
+					<table border="0" width="100%">
+						<TBODY>
+							<tr>
+								<td bgcolor="#a0a0a0"><a name="contributors"><font color="#ffffff" size="4" face="Futura,&#13;&#10;&#9;&#9;      Arial, Helvetica"><b>Contributors</b></font></a></td>
+							</tr>
+						</TBODY>
+					</table>
+					<p>Thanks to
+					</p>
+					<ul>
+						<li>
+						Bernhard Herzog (Postscript, svg and sk export filter)
+						<li>
+						Ian MacPhedran (xfig export filter)
+						<li>
+						Martin Kroeker (bugfixes)
+						<li>
+						Tobias Polzin (bugfixes)
+						<li>
+						Kevin O'Gorman (Shockwave support)
+						<li>
+						MenTaLguY (png import filter)
+						<li>
+						Peter Cucka (bugfixes)
+						<li>
+						Enrico Persiani (emf export)
+						<li>
+						Johannes Schindelin (Magick import filter)
+						<li>
+						Masatake YAMATO (library, help with cvs)
+						<li>
+						Steffen Politzky (dxf export)
+						<li>
+						David A. Bartold (part of despeckle)
+						<li>
+						Han-Wen Nienhuys (rpm-spec file)
+						<li>
+						R. P. C. Rodgers (man page)
+						<li>
+						Allen Barnett (improved emf export)
+						<li>
+							Andrew Elia (dr2d export filter)
+						</li>
+					</ul>
+					<table border="0" width="100%">
+						<TBODY>
+							<tr>
+								<td bgcolor="#a0a0a0"><a name="history"><font color="#ffffff" size="4" face="Futura,&#13;&#10;&#9;&#9;      Arial, Helvetica"><b>History</b></font></a></td>
+							</tr>
+						</TBODY>
+					</table>
+					<ul>
+						<li>
+							11/09/02<br>
+						version 0.31.1 (Fixed compile time error, centerline tracing, dr2d and dxf 
+						output)
+						<li>
+							10/24/02<br>
+						version 0.31.0 (Fixed some bugs, better centerline tracing, now recognizes 
+						linewidths and fully integrates pstoedit and new dr2d output format)
+						<li>
+							04/03/02<br>
+						version 0.30 (Fixed some bugs in the filtering routine, fixed pdf export, fixed 
+						despeckle, fixed emf export, better error handling mechanism, rpm spec file 
+						template, pkgconfig support, man page)
+						<li>
+							12/23/01<br>
+						version 0.29 (Fixes the lowercase/uppercase problems, fix for swf export, new 
+						MIF and CGM export, code rearrangements)
+						<li>
+							12/08/01<br>
+						version 0.28 (Several bugfixes, Progress bar, Cancel point, Efforts to make 
+						libautotrace.a thread-safe, Clean up library name space (all exported symbols 
+						have "at_" prefix), DXF, EPD and PDF export, Despeckling filter)
+						<li>
+							03/24/01<br>
+						version 0.27a (Fixed a compilation problem)
+						<li>
+							03/23/01<br>
+						version 0.27 (Parts of the code were rearranged, fixed a bug in color 
+						quantization, centerline support, Elastic Reality output, now works with new 
+						versions of ImageMagick, swf output(via libming), dxf output was removed 
+						because it never worked, speed up and simplification of the fitting routine)
+						<li>
+							11/16/00<br>
+						version 0.26 (Fixed a lot of bugs, faster, additional thinning)
+						<li>
+							10/09/00<br>
+						version 0.25 (Better eps and ai export, new emf export, better bmp import, tga 
+						import and usage of ImageMagick Library. Problems with 64 bit fixed.)
+						<li>
+							09/19/00<br>
+						version 0.24a (color support, better ps/ai export, pstoedit export)
+						<li>
+							02/20/00<br>
+						version 0.23 (pbm/pnm bugfix)
+						<li>
+							02/12/00<br>
+						version 0.22 (eps export fixed, rudimentary dxf export)
+						<li>
+							02/07/00<br>
+						version 0.21 (frontline a graphical user interface integrated, totally new 
+						pnm/pbm import filter, eps export now readable with CorelDraw 3/4, autoconf and 
+						automake support)
+						<li>
+							01/28/00<br>
+						frontline is available (a graphical frontend to AutoTrace)
+						<li>
+							01/27/00<br>
+						version 0.201 (Now GPL, no code change)
+						<li>
+							01/22/00<br>
+						version 0.20 (Macromedia Shockwave support added)
+						<li>
+							12/18/99<br>
+						version 0.19 (small fix, some code rearrangement)
+						<li>
+							11/26/99<br>
+						version 0.18 (some fixes in xfig export, in the header files and in the help)
+						<li>
+							11/13/99<br>
+						version 0.174 released (now works also with Visual C++ on Windows, bugfix, 
+						small improvements, code reorganization, xfig export filter)
+						<li>
+							10/10/99<br>
+						version 0.16 released (small improvement with cyclic round objects, bugfix, 
+						compilation problems with HP UX and Solaris solved.)
+						<li>
+							10/03/99<br>
+						version 0.15 released (bugfix, improved speed)
+						<li>
+							10/02/99<br>
+						version 0.14 released (better outline tracing for small objects)
+						<li>
+							09/29/99<br>
+						version 0.13 released (additional output formats)
+						<li>
+							08/08/99<br>
+						version 0.12 released (improved edge detection)
+						<li>
+							08/05/99<br>
+						version 0.11 released (bugfix only)
+						<li>
+							08/01/99<br>
+						version 0.1 released (standalone; completely redone)
+						<li>
+							06/25/98<br>
+							version 0.025 first release (<a href="http://www.gimp.org">GIMP</a> plugin)</li>
+					</ul>
+					<table border="0" width="100%">
+						<TBODY>
+							<tr>
+								<td bgcolor="#a0a0a0"><a name="links"><font color="#ffffff" size="4" face="Futura,&#13;&#10;&#9;&#9;      Arial, Helvetica"><b>Related 
+												links</b></font></a></td>
+							</tr>
+						</TBODY>
+					</table>
+					<p><strong>Useful ideas and helpful code:</strong></p>
+					<ul>
+						<li>
+							You can also use NURBS curves (used in Apple's QuickDraw3D):<br>
+							<a href="http://www.devworld.apple.com/dev/techsupport/develop/issue28/schneider.html">
+								http://www.devworld.apple.com/dev/techsupport/develop/issue28/schneider.html</a>
+						<li>
+							An algorithm to do autotracing using NURBS in the function * nrb_interpolate in 
+							the NURBS package:<br>
+							<a href="ftp://ftp.gwdg.de/pub/grafik/vogl/nurbs.tar.gz">ftp://ftp.gwdg.de/pub/grafik/vogl/nurbs.tar.gz</a>
+						<li>
+							How to fit ellipses, circles or arcs to points:<br>
+							<a href="WSCG98.pdf">WSCG98.pdf</a>
+						<li>
+							A very good work on autotracing:<br>
+							<a href="Interactive_Curve_Design.ps.gz">Phoenix: An Interactive Curve Design 
+								System Based on the Automatic Fitting of Hand-Sketched Curves by Philip J. 
+								Schneider</a>
+						<li>
+							Also worthable to read:<br>
+							<a href="ftp://ftp.enst.fr/pub/rapports/inf/papiers/courbes.ps.gz">Modelling of 
+								Digitized Graphics</a>
+						<li>
+							<a href="http://research.microsoft.com/~hoppe/thesis/thesis.html">Fitting in 3D</a>
+						<li>
+							Useful preprocessing for better edge detection:<br>
+							<a href="http://www.fmrib.ox.ac.uk/~steve/susan/">SUSAN Low Level Image Processing</a>
+						<li>
+							Useful 2D and 3D fitting routines:<br>
+							<a href="ftp://ftp.cis.uab.edu/pub/sloan/Software/">ftp://ftp.cis.uab.edu/pub/sloan/Software/</a>
+						<li>
+							How to do midline tracing without thinning<br>
+						US Patent 04740904
+						<li>
+							<a href="http://GeomWiz.tripod.com/rps.html">http://GeomWiz.tripod.com/rps.html</a>
+						<li>
+							<a href="http://GeomWiz.tripod.com/www.sites.html">http://GeomWiz.tripod.com/www.sites.html</a></li>
+					</ul>
+					<p><strong>Similar Projects:</strong></p>
+					<ul>
+						<li>
+							<a href="http://ourworld.compuserve.com/homepages/kkuhl/homepage.htm">KVEC</a>
+						(no sourcecode available)
+						<li>
+							<a href="http://xmailserver.org/davide.html">Ras2Vec</a>
+						(sourcecode available)
+						<li>
+							<a href="http://homepage.ntlworld.com/heatons/softsoft/wintopo/">WinTopo</a>
+						(sourcecode currently not available)
+						<li>
+							<a href="http://www.geocities.com/SiliconValley/Lab/3685/java/vectorize/vectorize.html">
+								Vectorize</a>
+						(Java applet, no sourcecode)
+						<li>
+							<a href="http://www.cardhouse.com/computer/vector.htm">Tepid Raster To Vector 
+								Algorithm</a>
+						(some code)
+						<li>
+							<a href="http://www.celinea.com/">CR2V</a>
+						(very interesting program with color segmentation)
+						<li>
+							<a href="http://sourceforge.net/projects/g2dlib/">g2dlib</a> (library with some 
+							fitting routines)</li>
+					</ul>
+					<p><strong>Vector drawing applications:</strong></p>
+					<ul>
+						<li>
+							<a href="http://sketch.sourceforge.net">Sketch</a>
+						- yet another drawing application written in Python.
+						<li>
+							<a href="http://epb1.lbl.gov/xfig/">Xfig</a>
+						- a graphical FIG editor.
+						<li>
+							<a href="http://k332.feld.cvut.cz/~lemming/projects/gtkfig.html">GTKFIG</a>
+						- a figure/flow-chart/data-structure diagramming tool.
+						<li>
+							<a href="http://www.levien.com/svg/">GILL</a>
+						- a Gnome Illustration app.
+						<li>
+							<a href="http://sodipodi.sourceforge.net/">Sodipodi</a>
+						- a small Vector based drawing program.
+						<li>
+							<a href="http://www.ntlug.org/~ccox/impress/index.html">ImPress</a>
+						- a WYSIWYG layout program designed especially for Linux.
+						<li>
+							<a href="http://bourbon.cs.umd.edu:8001/tgif/index.html">Tgif</a>
+						- Xlib based interactive 2-D drawing tool.
+						<li>
+							<a href="http://www.lysator.liu.se/~alla/dia/dia.html">Dia</a>
+						- a gtk+ based diagram creation program.
+						<li>
+							<a href="http://www.vectaport.com/ivtools/idraw/">Idraw</a> - part of the 
+							Interviews toolkit or <a href="http://www.vectaport.com/ivtools/">ivtools</a>.
+						<li>
+							<a href="http://gatxan.cimne.upc.es/texpict/">TexPict</a>
+						- Tck/Tk based drawing tool for LaTeX picture environment or eepic.
+						<li>
+							<a href="http://cm.bell-labs.com/who/hobby/MetaPost.html">MetaPost</a>
+						- a powerful graphics language based on Knuth's METAFONT, but with PostScript 
+						output and facilities for including typeset text.
+						<li>
+							<a href="http://www.w3.org/Graphics/SVG/">Scalable Vector Graphics (SVG)</a>
+						- from W3C.
+						<li>
+							<a href="http://www.w3.org/TR/1998/NOTE-VML-19980513">Vector Markup Language (VML)</a>
+						<li>
+							<a href="http://freeengineer.org/Freedraft/index.html">Freedraft</a>
+						- 2D Open Source CAD.
+						<li>
+							<a href="http://www.gnu.org/software/plotutils/plotutils.html"><font size="3">plotutils</font></a><font size="3">
+								- utilities for plotting.</font>
+						<li>
+							<a href="http://members.xoom.com/rpragana/">Slidedraw</a>
+						- a slide presentation drawing program.
+						<li>
+							<a href="http://w3.mecanica.upm.es/metapost/metagraf.php">Metagraf</a>
+						<li>
+							<a href="http://mvcm.sourceforge.net/">mvComicsMaker</a>
+						- interesting vector/bitmap editor for animations.
+						<li>
+							<a href="http://dxflib.sourceforge.net/">dxflib</a>
+						- library for reading and writing dxf files.
+						<li>
+							<a href="http://vec2web.sourceforge.net/">vec2web</a>
+						- converting dxf to png.
+						<li>
+							<a href="http://codeguru.earthweb.com/gdi/jt2draw.html">JTDraw</a>
+						- a simple drawing program for Windows in source code.
+						<li>
+							<a href="http://www.reza.net/rmap/">Rmap</a>
+						- display maps.
+						<li>
+							<a href="http://www.geog.uni-hannover.de/grass/">GRASS</a>
+						- Geographical Information System.
+						<li>
+							<a href="http://www.pstoedit.net/pstoedit">pstoedit</a>
+						- very good convertor of Postscript into different vector graphic formats.
+						<li>
+							<a href="http://jpicedt.sourceforge.net/">jPicEdt</a> - vector drawing program 
+							for LaTeX.
+						</li>
+					</ul>
+					<p><font size="3"><strong>Font editors:</strong></font></p>
+					<ul>
+						<li>
+							<a href="http://jeff.cs.mcgill.ca/~luc/editors.html">Editors</a>
+						- link collection to font editors.
+						<li>
+							<a href="http://gote.sourceforge.net/doc/gote-manual.html">GOTE</a>
+						- vector font editor.
+						<li>
+							<a href="http://pfaedit.sourceforge.net/">pfaedit</a>&nbsp;- postscript 
+						font editor.
+						<li>
+							<a href="http://www.gnu.org/software/fontutils/">Fontutils</a>
+						- font utility.
+						<li>
+							<a href="http://www.cs.uu.nl/~hanwen/mftrace/">mftrace</a>
+						- font conversion program that uses AutoTrace.
+						<li>
+							<a href="http://textrace.sourceforge.net">TeXtrace</a> - font conversion 
+							program that uses AutoTrace.</li>
+					</ul>
+					<p><strong>Other applications using autotrace:</strong></p>
+					<ul>
+						<li>
+							<a href="http://delineate.sourceforge.net">Delineate, Java based GUI frontend</a>
+						<li>
+							Digitizer, a program that can semi-automatically digitize plotted data running 
+							on MacOSX</li>
+					</ul>
+					<p><strong>Other graphic resources:</strong></p>
+					<ul>
+						<li>
+							<a href="http://www.cs.cmu.edu/~cil/v-source.html">Computer Vision Software</a>
+						<li>
+							<a href="http://www.magic-software.com/">Magic Software</a>
+						<li>
+							<a href="http://www.tinaja.com/">The Guru's Lair</a>
+						<li>
+							Newsgroup <a href="http://x31.deja.com/[ST_rn=md]/topics_md.xp?group=comp.graphics.algorithms&amp;search=topic&amp;GRPP=937567708.815726696">
+								comp.graphics.algorithms</a>
+						<li>
+							Interesting page about plotterresources by Luberth:<br>
+							<a href="http://www.geocities.com/SiliconValley/Lab/3685/plotter/plotter.htm">http://www.geocities.com/SiliconValley/Lab/3685/plotter/plotter.htm</a>
+						<li>
+							<a href="http://forum.onecenter.com/luberth-code/">News and resources by Luberth</a></li>
+					</ul>
+					<p><strong>Color Quantization:</strong></p>
+					<ul>
+						<li>
+							Median Cut:<br>
+						Currently implemented in AutoTrace
+						<li>
+						Local K-means
+						<li>
+							Sequential Scalar Quantization<br>
+							<a href="http://dynamo.ecn.purdue.edu/~bouman/software/color_quantization/">http://dynamo.ecn.purdue.edu/~bouman/software/color_quantization/</a><br>
+						Very good.
+						<li>
+							Spatial Quantization of Color Images<br>
+							<a href="http://www-dbv.cs.uni-bonn.de/quant/">http://www-dbv.cs.uni-bonn.de/quant/</a><br>
+						Shurely the best.
+						<li>
+							Qcc Pack<br>
+							<a href="http://sourceforge.net/projects/qccpack/">http://sourceforge.net/projects/QccPack/</a><br>
+						Common quantization routines.
+						<li>
+							Other:<br>
+							<a href="http://www.geocities.com/SiliconValley/Program/8979/color/index.htm">http://www.geocities.com/SiliconValley/Program/8979/color/index.htm</a></li>
+					</ul>
+					<p><strong>Color Image Segmentation</strong></p>
+					<ul>
+						<li>
+							<a href="http://vizlab.rutgers.edu/~comanici/segm_images.html">http://vizlab.rutgers.edu/~comanici/segm_images.html</a>
+						<li>
+							<a href="http://www.caip.rutgers.edu/riul/research/code.html">http://www.caip.rutgers.edu/riul/research/code.html</a>
+						<li>
+							<a href="http://code935.gsfc.nasa.gov/code935/tilton/">http://code935.gsfc.nasa.gov/code935/tilton/</a>
+						<li>
+							<a href="http://www.ph.tn.tudelft.nl/Courses/FIP/frames/fip-Segmenta.html">http://www.ph.tn.tudelft.nl/Courses/FIP/frames/fip-Segmenta.html</a>
+						<li>
+							<a href="http://www.daps.lanl.gov/new/MDIP/chalkmea.html">http://www.daps.lanl.gov/new/MDIP/chalkmea.html</a>
+						<li>
+							<a href="http://www.fmrib.ox.ac.uk/~steve/review/review/review.html">http://www.fmrib.ox.ac.uk/~steve/review/review/review.html</a>
+						<li>
+							<a href="http://marathon.csee.usf.edu/range/seg-comp/results.html">http://marathon.csee.usf.edu/range/seg-comp/results.html</a>
+						<li>
+							<a href="http://www-dbv.informatik.uni-bonn.de/seg/">http://www-dbv.informatik.uni-bonn.de/seg/</a></li>
+					</ul>
+					<p><strong>Imaging Software / Libraries</strong></p>
+					<ul>
+						<li>
+							ImageMagick<br>
+							<a href="http://www.imagemagick.org">http://www.imagemagick.org</a><br>
+						A lot of formats are supported, but it is very slow for loading big images, 
+						currently used in AutoTrace.
+						<li>
+							GIMP<br>
+							<a href="http://www.gimp.org">http://www.gimp.org</a><br>
+						Very good and fast imaging program.
+						<li>
+							FreeImage<br>
+							<a href="http://freeimage.sourceforge.net/">http://freeimage.sourceforge.net/</a><br>
+						The fastest solution for loading images I know. Should be used in future 
+						versions of AutoTrace. Currently only available for Windows. Perhaps someone 
+						helps porting.
+						<li>
+							paintlib<br>
+							<a href="http://www.paintlib.de/paintlib/">http://www.paintlib.de/paintlib/</a><br>
+							A fast library.</li>
+					</ul>
+					<p><strong>Noise Reduction</strong></p>
+					<ul>
+						<li>
+							Despeckle (Median) filter used in Gimp (<a href="www.gimp.org">www.gimp.org</a>)
+						<li>
+							<font size="3">The SUSAN denoise you could find here:<br>
+							</font><a href="http://www.fmrib.ox.ac.uk/~steve/susan/"><font size="3">http://www.fmrib.ox.ac.uk/~steve/susan/</font></a><font size="3"><br>
+								edge and corner detection are part of a patent but not the noise reduction.</font>
+						<li>
+							<font size="3">Denoising using min/max curvature could be found here:<br>
+							</font><a href="http://www.math.berkeley.edu/~sethian/Applets/java_files_denoising/image_denoising.java.main.html">
+								<font size="3">http://www.math.berkeley.edu/~sethian/Applets/java_files_denoising/image_denoising.java.main.html</font></a><font size="3"><br>
+							</font><a href="http://math.lbl.gov/~malladi/"><font size="3">http://math.lbl.gov/~malladi/</font></a><font size="3"><br>
+							</font><a href="http://www.math.berkeley.edu/~sethian/Papers/sethian.minmaxmean.ps.gz">
+								http://www.math.berkeley.edu/~sethian/Papers/sethian.minmaxmean.ps.gz</a><br>
+							<a href="http://www.math.berkeley.edu/~sethian/Papers/sethian.unified.ps.gz">http://www.math.berkeley.edu/~sethian/Papers/sethian.unified.ps.gz</a><br>
+							<a href="http://math.lbl.gov/~malladi/Papers/ieee.ip.ps.Z">http://math.lbl.gov/~malladi/Papers/ieee.ip.ps.Z</a><br>
+							<a href="http://math.lbl.gov/~malladi/Papers/applications.ps.Z">http://math.lbl.gov/~malladi/Papers/applications.ps.Z</a></li>
+					</ul>
+					<p><strong>File formats</strong></p>
+					<ul>
+						<li>
+							<a href="http://www.faqs.org/faqs/graphics/fileformats-faq/">http://www.faqs.org/faqs/graphics/fileformats-faq/</a>
+						<li>
+							<a href="http://www.wotsit.org">http://www.wotsit.org</a>
+						<li>
+							<a href="http://www.halyava.ru/document/ind_form.htm">http://www.halyava.ru/document/ind_form.htm</a>
+						<li>
+							<a href="http://www.w3.org/Graphics/SVG/">http://www.w3.org/Graphics/SVG/</a>
+						<li>
+							<a href="http://sourceforge.net/projects/zodius/">http://sourceforge.net/projects/zodius/</a>
+						<li>
+							<a href="http://sourceforge.net/projects/libswf/">http://sourceforge.net/projects/libswf/</a>
+						<li>
+							<a href="http://www.opaque.net/ming/">http://www.opaque.net/ming/</a>
+						<li>
+							<a href="http://www.macromedia.com/software/flash/open/licensing/">http://www.macromedia.com/software/flash/open/licensing/</a></li>
+					</ul>
+					<table border="0" width="100%">
+						<TBODY>
+							<tr>
+								<td bgcolor="#a0a0a0"><a name="contact"><font color="#ffffff" size="4" face="Futura,&#13;&#10;&#9;&#9;      Arial, Helvetica"><b>Contact</b></font></a></td>
+							</tr>
+						</TBODY>
+					</table>
+					<p>If you are interested in the development of AutoTrace, want to send bug reports 
+						or suggestions, please feel free to contact Martin Weber (<img src="email.gif"
+        align="absbottom" width="115" height="15">). </p>
+				</td>
+			</tr>
+		</table>
+		<hr>
+		<p>Last modified by Martin Weber: 03/22/04</p>
+	</body>
+</html>
+
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.siame.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="fr"><head><!--bitmap converter -->
+
+
+
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>how to convert bitmap to paths</title>
+  
+  <meta name="Keyword" content="converter, vectorize, vectorizer, convert, bitmap, graphics, raster, vector, svg, xaml, vista, svgz, eps, ps, adobe, corel, macromedia, flash, illustrator, coreldraw, webdraw, web agency, path, w3c, draw, gif, bmp, jpg, jpeg, png, shape, tiff, image, edit, designer, graphics, vector eye, illustrator, flash, webdesign, scalable vector graphics, algorithm, mathematics">
+  <meta name="Author" content="Siame and Celinea">
+  <meta name="Description" content="vectoreye is a high quality vectorizer. bitmap images as bmp, tiff, jpg or png images or hand drawing are vectorized or converter to svg, ps eps xaml or flash files to be edited with illustrator, inkscape, coreldraw or macromedia flash products or vector authoring tools.">
+  <link title="Css_vectoreye" rel="stylesheet" href="im/vectoreye.css" type="text/css"></head><body>
+<div id="maxime">..."From Bur&ccedil;in
+G&uuml;ndo&eth;du "VectorEye is
+really perfect software."<br>
+</div>
+<div id="entete"><img title="artwork with vectoreye" style="width: 760px; height: 170px;" alt="conversion : the girl with glasses bitmap to xaml vista" src="im/header_home.jpg"></div>
+<div id="avmenu">
+<ul>
+  <li><a href="index.html">Welcome!</a></li>
+  <li><a href="converter.html">Product Screenshot</a></li>
+  <li><a href="download.html">Download a trial</a></li>
+  <li><a href="gallery.html">Art gallery</a></li>
+  <li><a href="buy.html">Buy</a></li>
+  <li><a href="updates.html">Updates</a></li>
+  <li><a href="tutorial_joker.html">Tutorial</a></li>
+  <li><a href="tech_notes.html">Tech. Notes</a></li>
+  <li><a href="aboutus.html">About us</a></li>
+</ul>
+<a href="fr/index.html">French web site</a><br>
+<br>
+<a href="mailto:vectoreye@gmail.com?subject=VectorEye3%20Question">Contact
+us</a>
+</div>
+<div id="titre">
+VectorEye
+</div>
+<div id="corps_central">
+<h2>The easiest way to convert images to line art</h2>
+<br>
+Faster than a tracing hand, this powerful software is the raster to
+vector converter you need for Illustrator (Adobe), CorelDraw (Corel),
+Flash (Macromedia), Mobile Designer (Beatware), Swish, Inkscape
+(freeware) and any vector-based software.<br>
+<br>
+VectorEye instantly converts scanned black-and-white or color raster
+images (bmp, jpg, tiff, png) into editable vector files (svg, ps, eps)
+and now (release 3)&nbsp;Flash or Xaml for Windows Vista.<br>
+<br>
+<span style="font-weight: bold; color: red;"></span>Just scan any sketch, or select an image, make some bitmap adjustements
+(scale, select zone, enhance, swap
+colors, rotate...) and VectorEye will automatically create multiple
+file corresponding to differents settings. You can analyse, modify till
+the result suits you (quality, weight, number of vectors).<br>
+<br>
+Just save it in the appropriate format for your purpose and drop into
+your favorite vector editor or authoring tool to complete or animate
+your design. You could also use the batch system to launch hundreds of
+vectorization processes.<br>
+<br>
+<span class="gras">Our third release has some great new
+features as a
+new vectorisation
+algorithm for line detection.
+The gui is also new and Vectoreye has now a flash export&nbsp;and
+a&nbsp;xaml export for
+Windows Vista,</span><br>
+<br>
+<br>
+The Siame / Celinea Team (2010)<br>
+</div>
+<div id="col_droite">VectorEye 3 works with<br>
+<br>
+<a href="http://www.adobe.com/">Illustrator</a><br>
+<br>
+<a href="http://www.corel.com/">CorelDraw</a><br>
+<br>
+<a href="http://www.microsoft.com/">Windows Vista</a><br>
+<br>
+<a href="http://www.inkscape.com/">Inkscape</a><br>
+<br>
+<a href="http://www.beatware.com/">Mobile Designer</a><br>
+<br>
+<a href="http://www.toonboom.com/">Toonboom</a><br>
+<br>
+<a href="http://www.adobe.com/">Flash</a><br>
+<br>
+<a href="http://www.swishzone.com/">Swish</a><br>
+<br>
+<a href="http://www.ikivo.com/">Ikivo</a><br>
+<br>
+<a href="http://www.mozilla.org/">Firefox</a><br>
+<br>
+<a href="http://www.openoffice.org/">OpenOffice</a><br>
+<br>
+<a href="http://press.nokia.com/PR/200406/948862_5.html">Nokia
+Mobile Jrs266</a><br>
+<br>
+<br>
+<br>
+Version: 3.0 (2009)<br>
+</div>
+<div id="copyright">Copyright&copy; 2010 (Siame).
+Design by Chalavi
+from <a href="http://andreasviklund.com/">Andreas Viklund</a>.</div>
+</body></html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.magictracer.com/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>MagicTracer&#x2122; [ Raster to Vector Conversion Software ]</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en" />
+<meta name="Author" content="| Elgorithms Design |" />
+<meta name="Copyright" content="copyright 2003-Present Elgorithms" />
+<meta name="Description" content="Need a way to convert pixels images to line drawings? MagicTracer can convert any raster image into vector traced artwork. Simple raster to vector conversion. Simply tracing with Magic." />
+<meta name="Distribution" content="global" />
+<meta name="Keywords" content="raster to vector,raster,vector,raster to cad,cad,tracing,auto-tracing,autotrace,auto trace,raster to vector conversion" />
+<meta name="Robots" content="all" />
+<link href="/rss/index.xml" rel="alternate" type="application/rss+xml" title="MagicTracer | Raster to Vector Conversion News" />
+<link href="favicon.ico" rel="shortcut icon" type="image/ico" />
+<link href="magictracer.css" rel="stylesheet" type="text/css" />
+<link href="magictracer_prn.css" rel="stylesheet" type="text/css" media="print" />
+<!--[if lte IE 6]><link href="ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+</head>
+<body>
+<h1 id="headline"><a href="/">Raster to Vector</a></h1>
+<div id="headline2">MagicTracer Raster to Vector Conversion Software</div>
+<div id="nav-container">
+  <ul id="navlist">
+    <li id="active"><a href="/" accesskey="1" title="AccessKey: 1">Home</a></li>
+    <li><a href="/download/" accesskey="2" title="AccessKey: 2">Download</a></li>
+    <li><a href="/samples/" accesskey="3" title="AccessKey: 3">Samples</a></li>
+    <li><a href="/support/" accesskey="4" title="AccessKey: 4">Support</a></li>
+    <li><a href="/contact/" accesskey="5" title="AccessKey: 5">Contact</a></li>
+    <li><a href="/press/" accesskey="6" title="AccessKey: 6">Press</a></li>
+  </ul>
+</div>
+<h1>What is <span class="warm-tone">Magic</span>Tracer<span class="sprscrt">&#x2122;</span>?</h1>
+<div id="container">
+<div id="content">
+<div id="banner" style="background:#ccc url(./img/mt_main-1c.jpg) top left no-repeat">
+<h2 class="null">Simply Tracing with Magic!</h2>
+<span class="bnr_info">Latest Version 2.0.012<br />View <a href="releases.html">release notes</a>.</span>
+  <ul>
+    <li class="bnr_pic" id="ic1"><a href="/download/">Download MagicTracer<br /><em>Get the Free Trial</em></a></li>
+    <li class="bnr_pic" id="ic2"><a href="/samples/videos.html">Video Demos<br /><em>Demonstrations of Features</em></a></li>
+    <li class="bnr_pic" id="ic3"><a href="//www.elgorithms.com/magictracer/">Purchase a License<br /><em>Buy a MagicTracer License</em></a></li>
+    <li class="bnr_pic" id="ic4"><a href="testimonials.html">Testimonials &#x0026; Reviews<br /><em>Read the Reviews</em></a></li>
+  </ul>
+<div class="clr"></div>
+</div>
+<h2 class="hd">MagicTracer <b>Raster to Vector</b> Converter for Windows</h2>
+<h3 class="hd_sbt">Easily Convert Raster Images to Vector Lines &amp; Curves</h3>
+<p class="quote qt-spc">&#8230;impressed that this program makes the whole process so easy and the output is almost flawless.&#8221;</p>
+<p class="note nt-tst">More <a href="testimonials.html">Testimonials &#x0026; Awards</a></p>
+<br />
+<p class="cap" style="clear:both">MagicTracer is a raster to vector converter for Windows. With over 100 <a href="/features.html">customizable functions</a>, MagicTracer works as your all-purpose tool for raster to vector converting. It even comes complete with a simple interface and real-time previews that allow you to see how a custom setting will affect your project. View the <a href="/samples/videos.html">videos</a> to see some demonstrations.</p>
+<h2 class="hd">For Architecture, Engineering, CNC, Art&#8230;</h2>
+<p>MagicTracer is used for personal and professional projects alike, whether you are a hobbyist or an architectural design company. If you need vector conversion and tracing MagicTracer may be what you need. Raster to vector conversion will assist anyone who does lots of vector image cleanup in becoming more productive.</p>
+<p class="note nt_rul"><img src="data:image/gif;base64,R0lGODlhDAAMALMAAPeua9trLvGaWfi9i+R6NfeXOO+GNPaUN/7y5viYOPqbOfOONikVCPudOv/58////ywAAAAADAAMAAAEVZAFYsxapxwiiajWkSgNYT4PMihjo1XAgKSAe1UDcACOAywVIErFQywoF4XsAQA8BqbDbtBAIAzWSSHheA4egu9khHAIBE8nYWIzmAJwOINwc78DjAgAOw==" width="12" height="12" alt="News Feeds" class="nostyle" /> Syndicated <a href="http://feeds.feedburner.com/MagicTracerVectorTracingNews">News</a> | <a href="/convert-bitmap-vector.html">Vector Converting</a> | Available <a href="/features.html">Features</a> | Raster to Vector <a href="/tutorials/">Tutorials</a></p>
+</div>
+</div>
+<div id="footer">
+<span class="colophone">&#x00a9; 2003-Present <a href="//www.elgorithms.com/">Elgorithms</a>&#x2122; | All rights reserved.</span>
+</div>
+<div id="pdg"></div>
+<div class="wdgt">
+  <a href="//www.elgorithms.com/magictracer/" title="Buy Now for $59.95">Buy | $59.95</a>
+</div>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-141554-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.raster-vector.com/>====================
+<html>
+<head>
+<title>Raster to Vector software</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="raster to vector, r2v, raster, vector">
+<meta name="description" content="Software for raster to vector conversion. Convert scanned drawings to CAD with this tool.">
+<link rel="stylesheet" type="text/css" href="/include/r2v.css">
+<link rel="SHORTCUT ICON" href="http://www.raster-vector.com/favicon.ico">
+</head>
+<body topmargin=0 leftmargin=0>
+<table height="100%"  width="100%" cellSpacing=0 cellPadding=0 border=0>
+	<tr bgcolor="#1851BD">
+		<td align="left" height="5%" bgcolor="#1851BD" width="155"><a href="/"><img src="/images/title.gif" border=0></a></td>
+		<td><h1>Raster to Vector Software</h1></td>
+	</tr>
+	<tr>
+		<td height=1 bgcolor="#ffffff" colspan=2></td>
+	</tr>
+	<tr>
+		<td width="100%" height="100%" colspan=2>
+		<table width="100%" height="100%" cellSpacing=0 cellPadding=0 border=0>
+		<tr>
+			<td width="155" valign="top" bgcolor="#EFEFEF" style="padding:8px;border-right:1px solid #BDBDBD" rowspan=3><strong>Raster to Vector</strong>
+			<img src="/images/spe.gif">
+			<img src="/images/item.gif" align="absmiddle">&nbsp;<a href="/" class="colorBlack">Home</a>
+			<br><img src="/images/item.gif" align="absmiddle">&nbsp;<a href="/download/ras2vec.exe" class="colorBlack">Download</a>
+			<br><img src="/images/item.gif" align="absmiddle">&nbsp;<a href="/buy.php" class="colorBlack">Purchase</a>
+			<br><img src="/images/item.gif" align="absmiddle">&nbsp;<a href="/contact.php" class="colorBlack">Contact us</a>
+			<br><img src="/images/item.gif" align="absmiddle">&nbsp;<a href="/links.php" class="colorBlack">Links</a>
+			</td>
+			<td height="5" width="80%" valign="top" style="padding:5px;" bgcolor="#1851BD" colspan=3><b class="Bolder">Raster to Vector</b></td>
+		</tr>
+			<tr>
+			<td height="100%" valign="top" width="67%">
+				<table width="100%" height="100%" cellSpacing=12 cellPadding=2 border=0>
+					<tr>
+						<td width="70%" class="tdBottomBorder"><font color="#1851BD" size=3><b>Convert raster images to DXF, HPGL, WMF, and EMF vector.</b></font></td>
+					</tr>
+					<tr>
+						<td>
+							<p><img src="/images/icor2v.gif" border=1 align="left" hspace=10>Raster to Vector is a stand-alone program that converts scanned drawings, maps and raster images into accurate vector files (such as DXF, HPGL, WMF, EMF, etc) for editing in any CAD application.  
+</p>						<p align="right">
+								<a href="/download/ras2vec.exe"><img src="/images/down.gif" align="absmiddle" border=0> Download</a>
+								&nbsp;&nbsp;&nbsp;&nbsp;
+								<a href="https://shopper.mycommerce.com/checkout/cart/add/20082-1?ss_short_order=true" target="_blank"><img src="/images/buy.gif" align="absmiddle" border=0> Buy Now - USD $59</a>
+							</p>
+					</td>
+					</tr>
+					<tr>
+						<td class="tdBottomBorder2">
+							<font size="3">Key Features:</font>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<ul>
+								<li><b>Input raster image formats:</b> BMP, JPG, TIF, GIF, PNG, PCX, TGA, RLE, JPE, J2K, JAS, JBG, MNG and more.</li>
+								<li><b>Output vector formats:</b> DXF, HPGL, EMF, WMF and others.</li>
+								<li>Create center lines and outlines.</li>
+								<li>Outline solid raster areas.</li>
+								<li>Color, Gray and black-and-white images vectorization.</li>
+								<li>Scale images in the X and Y directions to make them larger or smaller.</li>
+								<li>Increase or decrease brightness and contrast.</li>
+								<li>Tracing raster lines, arcs, circles, arrow lines, dash lines, polylines, hatches on monochrome, grayscale or color images.</li>
+								<li>Automatic correction: restoring of intersections, aligning, joining fragments, joining fragments to line, arc, circle and polyline.</li>
+								<li>Removing low sized vector objects, correction of recognized texts.</li>
+								<li>Automatically straighten images to a reference line.</li>
+								<li>Remove speckles of color to make colors more uniform.</li>
+								<li>Can adjust tolerance levels.</li>
+								<li>Batch processing.</li>
+								<li>Drag and Drop supported.</li>
+							</ul>
+						</td>
+					</tr>
+					<tr>
+						<td class="tdBottomBorder2">
+							<font size="3">Raster to Vector - Example:</font>
+						</td>
+					</tr>
+					<tr>
+						<td>
+						Getting great results from Raster to Vector is very easy, you don't need any prior experience or specialist knowledge, Raster to Vector has improved the engine performance, fine-tuned the quality. 
+						<table width="100%" border=0 cellspacing=1 cellpadding=5>
+							<tr>
+								<td align=center><b>Input raster image</b></td>
+								<td align=center><b>Output vector (DXF)</b></td>
+							</tr>
+							<tr bgcolor="#EFEFEF">
+								<td>
+								<p align="center"><a href="/images/map.bmp" target=_blank><img src="/images/map1.gif" border=0><br>map.bmp</a></p>
+								</td>
+								<td>
+								<p align="center"><a href="/images/map.dxf" target=_blank><img src="/images/map1.gif" border=0><br>map.dxf</a></p>
+								</td>
+							</tr>
+							<tr bgcolor="#EFEFEF">
+								<td colspan=2>
+									<b>Options:</b><br>
+									&nbsp;&nbsp;&nbsp;Thinning: Center Line<br>
+									&nbsp;&nbsp;&nbsp;Scale of original: 1<br>
+									&nbsp;&nbsp;&nbsp;Color Threshold: 0<br>
+									&nbsp;&nbsp;&nbsp;Tolerance: 15<br>
+								</td>
+							</tr>
+							<tr><td colspan=2 height=10></td></tr>
+							<tr>
+								<td align=center><b>Input raster image</b></td>
+								<td align=center><b>Output vector (DXF)</b></td>
+							</tr>
+							<tr bgcolor="#EFEFEF">
+								<td>
+								<p align="center"><a href="/images/cir.gif" target=_blank><img src="/images/cir1.gif" border=0><br>cir.gif</a></p>
+								</td>
+								<td>
+								<p align="center"><a href="/images/cir.dxf" target=_blank><img src="/images/cir2.gif" border=0><br>cir.dxf</a></p>
+								</td>
+							</tr>
+							<tr bgcolor="#EFEFEF">
+								<td colspan=2>
+									<b>Options:</b><br>
+									&nbsp;&nbsp;&nbsp;Thinning: Outline<br>
+									&nbsp;&nbsp;&nbsp;Scale of original: 1<br>
+									&nbsp;&nbsp;&nbsp;Color Threshold: 100<br>
+									&nbsp;&nbsp;&nbsp;Tolerance: 15<br>
+								</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td class="tdBottomBorder2">
+							<font size="3">Raster to Vector - Links:</font>
+						</td>
+					</tr>					
+					<tr>
+						<td align=left>
+						<img src="/images/item2.gif" align="absmiddle">&nbsp;<a href="/download/ras2vec.exe">Download Raster to Vector</a><br>
+						<img src="/images/item2.gif" align="absmiddle">&nbsp;<a href="/images/ras2vec.gif" target="_blank">Screenshot</a><br>
+						<img src="/images/item2.gif" align="absmiddle">&nbsp;<a href="/buy.php">Purchase</a><br>	
+						</td>
+					</tr>
+				</table>
+			</td>
+			<td width="33%" style="padding:10px" valign=top>
+				<table width="100%" cellSpacing=0 cellPadding=4>
+				<tr>
+					<td height=18 background="/images/bg.gif" class="smallfont">Product Brief</td>
+				</tr>
+				<tr>
+					<td class="borderb">
+						<b>Name:</b> Raster to Vector<br>
+						<b>Version:</b> 9.2<br>
+						<b>Input raster formats:</b><br>
+						&nbsp;&nbsp;&nbsp;JPG, BMP, TIF, GIF, PNG, etc.<br>
+						<B>Output vector formats:</B><br>
+						&nbsp;&nbsp;&nbsp;DXF, HPGL, EMF, WMF, TXT<br>
+						<b>Key Feature:</b><br>
+						&nbsp;&nbsp;&nbsp;High performance and easy to use.
+						<br>
+						<hr size=1 color="#eeeeee">
+						<img src="/images/item2.gif" align="absmiddle">&nbsp;<a href="/download/ras2vec.exe">Download Free Trial Version</a><br>
+						<img src="/images/item2.gif" align="absmiddle">&nbsp;<a href="/images/ras2vec.gif" target="_blank">Screenshot of Raster to Vector</a><br>
+						<img src="/images/item2.gif" align="absmiddle">&nbsp;<a href="/buy.php">Buy Online</a><br>						
+					</td>
+				</tr>
+				<tr><td colspan=2 height=10></td></tr>
+				<tr>
+					<td height=18 background="/images/bg.gif" class="smallfont">User opinion</td>
+				</tr>
+				<tr>
+					<td class="borderb">
+						The program works great! I was amazed at the quality of the conversion from raster image file to DXF.
+						<p align="right">- Paul Arntz</p>
+					</td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td colspan=2>
+						<br>
+			<br>
+			<hr size=1 color="#cccccc" width="96%">
+			<p align="center"><font color="#909090">Copyright 2002 - 2014 <a href="http://www.raster-vector.com">Raster to Vector</a>. All rights reserved.</font></p>
+			<br>
+			</td>
+		</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+</body>
+</html>
+                                                                                              
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.trixsystems.com/raster-to-vector-conversion-software.html>====================
+<HTML>
+<HEAD>
+   <TITLE>Viewer software from Trix Systems.</TITLE>
+<META HTTP-EQUIV="refresh" CONTENT="1; URL=http://www.trixsystems.com/viewredlineandapprovalsoftware.html">
+<META NAME="DISTRIBUTION" CONTENT="GLOBAL">
+   <style type="text/css">
+.auto-style1 {
+	font-size: medium;
+}
+</style>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-995482-1', 'trixsystems.com');
+  ga('send', 'pageview');
+
+</script> </head>
+<BODY BGCOLOR="#FFFFFF" LINK="#FF0000" VLINK="#FF0000">
+<CENTER><font size="2">&nbsp;</font>
+
+<font face="Calibri">
+<a href="index.html">
+<img border="0" src="images/tsB.png" width="128" height="34" alt="Trix Systems"></a></font><p align="center">
+<font face="Calibri" size="2">Viewing, conversion and drawing management 
+software for engineers.<br>
+&nbsp;</font></p>
+
+<P class="auto-style1"><FONT FACE="Calibri">This page has been renamed.</FONT></P>
+<P><FONT FACE="Calibri"><BR class="auto-style1">
+<span class="auto-style1">If you are not automatically redirected to its replacement</span><BR class="auto-style1">
+<span class="auto-style1">within five seconds please click the link below.</span></FONT></P>
+
+<P class="auto-style1"><a HREF="http://www.trixsystems.com/viewredlineandapprovalsoftware.html">
+<FONT FACE="Calibri">http://www.trixsystems.com/viewredlineandapprovalsoftware.html</FONT></a></P>
+<P class="auto-style1"><font face="Calibri">(or call us on 978 256-4445)</font></P></CENTER>
+<!-- OPENTRACKER HTML START -->
+<script defer src="http://server1.opentracker.net/?site=www.trixsystems.com"></script><noscript><a href="http://www.opentracker.net" target="_blank"><img src="http://img.opentracker.net/?cmd=nojs&site=www.trixsystems.com" alt="user tracker" border="0"></a> </noscript>
+<!-- OPENTRACKER HTML END -->
+
+</BODY>
+</HTML>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.arborimage.com/cutgshop.htm>====================
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.73 [en] (Windows NT 5.0; U) [Netscape]">
+   <meta name="Author" content="msr">
+   <meta name="KeyWords" content="raster to vector,Draftsman,cutting shop,Cutting Shop,raster,vector,conversion,raster to vector conversion,image conversion,overlay,CAD,mechanical,architectural,mapping,logo,laser,engraving,engrave,cutting,cut,monument,sign,signmaking,sign making,stroke fonts,single stroke fonts">
+   <title>Raster to Vector and Vector to Raster Conversion - Cutting Shop</title>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#0000FF" vlink="#551A8B" alink="#FF0000">
+<table WIDTH="800" HEIGHT="120" >
+<tr>
+<td><img SRC="ai_banr1.gif" height=100 width=800></td>
+</tr>
+</table>
+
+<table BORDER=0 CELLSPACING=0 CELLPADDING=5 WIDTH="800" >
+<tr>
+<td VALIGN=TOP WIDTH="25%" vspace="0" hspace="0">
+<center><a href="aihome.htm"><img SRC="home2.gif" ALT="Arbor Image Home Page" BORDER=0 height=20 width=80></a>
+<br><a href="products.htm"><img SRC="product2.gif" ALT="Products" BORDER=0 height=20 width=80></a>
+<br><a href="demos.htm"><img SRC="demos2.gif" ALT="Free Demo Software!" BORDER=0 height=20 width=80></a>
+<br><a href="r_to_v.htm"><img SRC="faq2.gif" ALT="Frequently Asked Questions" BORDER=0 height=20 width=80></a>
+<br><a href="proapps.htm"><img SRC="apps2.gif" ALT="Program Applications" BORDER=0 height=20 width=80></a>
+<br><a href="mailto:sales@arborimage.com"><img SRC="email2.gif" ALT="Email Arbor Image Corp." BORDER=0 height=20 width=80></a>
+<br><a href="comments.htm"><img SRC="test2.gif" ALT="Comments from our Users" BORDER=0 height=20 width=80></a>
+<br><a href="prices.htm"><img SRC="prices2.gif" ALT="Software Price List" BORDER=0 height=20 width=80></a>
+<br><a href="support.htm"><img SRC="support2.gif" ALT="Technical Support" BORDER=0 height=20 width=80></a>
+<br><a href="links.htm"><img SRC="links2.gif" ALT="Links" BORDER=0 height=20 width=80></a>
+<br><a href="aboutus.htm"><img SRC="about2.gif" ALT="About Arbor Image Corporation" BORDER=0 height=20 width=80></a>
+<br><img SRC="blank.gif" ALT="Designer: msr" height=20 width=80></center>
+</td>
+
+<td VALIGN=TOP COLSPAN="2">
+
+<h2>
+<font face="Arial,Helvetica"><font size=+1><b><font color="#000080">Draftsman<br>
+<img SRC="cslogo.gif" height=80 width=300></font></b><font color="#000000"><i><font size=+2>version
+<font size=+3>4.5</font></font><br>
+</i></font></font><b><font color="#000000"><font size=-1>Raster to Vector
+Conversion for all Cutting and Engraving Applications</font></font></b></font></h2>
+&nbsp;
+
+<br><b><font face="Arial,Helvetica"><font color="#000000"><font size=+1>- <font color=red size=+1><i>New! - Version 4.5 Now Shipping!</i></font><br>
+Draftsman Cutting Shop v.4.5 - <i>Scan it! Cut it!</i></font></font></font></b><font face="Arial,Helvetica"><font color="#000000"><font size=-1><br>Raster
+
+to Vector Conversion for all Cutting and Engraving applications</font></font></font>
+
+<p>
+<b><br><font face="Arial,Helvetica"><font color="#000000"><font size=+1><a href="CSNewFeaturesV45.htm">NEW
+Features in Version 4.5!</a></font></font></font></b>
+
+<br><b><font face="Arial,Helvetica"><font color="#000000"><font size=+1>
+<a href="CSv4features2.html">NEW
+Features in Version 4!</a></font></font></font></b>
+
+
+<b><font face="Arial,Helvetica"><font color="#000000"><font size=+1>
+<br><a href="cs_new_v3.htm">NEW Featuresin Version 3!</a></font></font></font></b><font color="#000000"><font size=-1></font></font>
+<p><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="why_cs.htm">WhyBuy Cutting Shop?</a></font></font></font></b><font color="#000000"><font size=-1></font></font>
+<p><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="st_f_cs.htm">Cutting
+Shop now supports optional single stroke fonts!</a></font></font></font></b><font color="#000000"><font size=-1></font></font>
+
+<p><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="cutgshp2.htm">NEWand IMPROVED Features (Version 2)</a></font></font></font></b>
+<center><table WIDTH="100%" >
+
+<tr>
+
+<td>
+
+<a href="cs_scr1.jpg"><img SRC="cs_scr1t.jpg" HSPACE=2 VSPACE=2 height=107 width=150></a><a href="cs_scr2.jpg"><img SRC="cs_scr2t.jpg" HSPACE=2 VSPACE=2 BORDER=2 height=107 width=150></a><a href="cs_scr3.jpg"><img SRC="cs_scr3t.jpg" HSPACE=2 VSPACE=2 BORDER=2 height=107 width=150></a>
+
+<br><b><font face="Arial,Helvetica"><font size=-1>SCREENSHOTS - Click to
+
+enlarge (800 x 600)</font></font></b>
+
+</td>
+
+</tr>
+
+</table></center>
+
+<p><b><font face="Arial,Helvetica"><font color="#000000">SCAN and CUT...
+or TYPE and CUT</font></font></b>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><b>Draftsman
+Cutting Shop</b> is the premier 32 bit raster to vector conversion program
+for all cutting applications. The program imports color, gray and black
+and white images.&nbsp; Cutting Shop is simple to install, easy to use
+and extremely fast.&nbsp; Scans of both sketches and silhouettes are quickly
+converted into high quality, ready to cut, vector drawings.</font></font></font>
+<p><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Any
+TrueType font is instantly outlined with long lines and arcs.&nbsp; Whether
+it is a vectorized drawing or an outlined font, complex curves are made
+of a series of end to end arcs and outlines are closed polygons.&nbsp;
+Images converted with Cutting Shop cut smooth and the cutting tool stays
+down until the outline is finished; optimizing your cutting operation.</font></font></font>
+<p><font face="Arial,Helvetica"><font color="#000000"><font size=-1>Cutting
+Shop runs under all 32 bit Windows platforms including Windows NT,
+98, 2000, ME, XP, Vista and 7.</font></font></font>
+<p><font face="Arial,Helvetica"><font size=-1><b>Optional <a href="st_f_cs.htm">Stroke
+Fonts!</a></b> Stroke fonts cut very quickly, their optimum design characteristics
+enable dramatically reduced cutting time, which can save you a lot of time
+and money. The more you inscribe the more time and money you save. If you
+are currently locked out of this market stroke fonts may be exactly what
+you need.</font></font>
+<p><font face="Arial,Helvetica"><font color="#000000"><font size=-1><b>PREPARATION
+- </b>Cutting Shop has many features designed specifically for NC applications
+such as line offset, cuttable fills, automatic and manual tool path sorting,
+show direction of cut and if required, reverse it.&nbsp; Also, Import DXF
+files from low end raster to vector programs and automatically create long
+lines and arcs from the thousands of short vectors that these programs
+can create.&nbsp;</font></font></font><font color="#000000"><font size=-1></font></font>
+<p><font face="Arial,Helvetica"><font color="#000000"><font size=-1><b>EDIT
+- </b>Because Cutting Shop is a hybrid raster/vector program and because
+clean-up is always a concern, Cutting Shop comes with an impressive variety
+of vector and raster editing functions; stretch, scale, move, copy, delete,
+insert and join - about 40 of these tools are available.&nbsp;</font></font></font><font color="#000000"><font size=-1></font></font>
+<p><font face="Arial,Helvetica"><font color="#000000"><font size=-1><b>EXPORT
+- </b>Vectors are exported to DXF, PLT, IGES and other CAD and CAM specific
+formats.&nbsp; Vectors, raster, or the combined raster and vector hybrid
+image can be saved or printed.&nbsp; Vectors can be drawn on the raster
+image and the combined raster/vector drawing can be saved back as a raster
+drawing.</font></font></font><font color="#000000"><font size=-1></font></font>
+<p><font face="Arial,Helvetica"><font color="#000000"><font size=-1><b>SIMPLE
+NESTING OPTION - </b>Simple Nesting quickly fills a sheet of material with
+copies of parts to be cut. (There is an additional charge for this feature.)</font></font></font><font size=-1></font>
+<p><b><font face="Arial,Helvetica"><font size=-1>Raster to Vector Conversion</font></font></b>
+<br><font face="Arial,Helvetica"><font size=-1>� Convert All or Selection
+to Vectors</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Color and Gray Support</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Silhouette Conversion</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Sketch Conversion</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Preset and User Defineable
+Conversion Parameters</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Long Lines and Arcs</font></font><font size=-1></font>
+<p><b><font face="Arial,Helvetica"><font size=-1>Fonts</font></font></b>
+<br><font face="Arial,Helvetica"><font size=-1>� <b>Optional</b> <b><a href="st_f_cs.htm">Stroke
+Fonts!</a></b></font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Silhouette any TrueType
+font</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Type on an arc or series
+or arcs</font></font><font size=-1></font>
+<p><b><font face="Arial,Helvetica"><font size=-1>NC Preparation</font></font></b>
+<br><font face="Arial,Helvetica"><font size=-1>� S-Fill, Hatch Fill</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Bridge Tool</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Automatic Tool Path Optimization</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Manual Tool Path Sort</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Change Direction of Cut</font></font><font size=-1></font>
+<p><b><font face="Arial,Helvetica"><font size=-1>Heads-Up Digitizing</font></font></b>
+<br><font face="Arial,Helvetica"><font size=-1>� Snap to Raster</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Snap to Vector</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Raster Editng</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Vector to Raster Conversion</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Trace with Lines, Circles,
+Arcs, Text and polygons.</font></font><font size=-1></font>
+<p><b><font face="Arial,Helvetica"><font size=-1>Raster Editing</font></font></b>
+<br><font face="Arial,Helvetica"><font size=-1>� Vector to Raster Conversion</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Box and Polygon Erase</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Pixed Editing</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Hole Filling</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Raster Grid</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Despeckle</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Copy</font></font><font size=-1></font>
+<p><b><font face="Arial,Helvetica"><font size=-1>Raster files imported
+&amp; exported:</font></font></b>
+<br><font face="Arial,Helvetica"><font size=-1>� PCX&nbsp;&nbsp; � BMP&nbsp;&nbsp;
+� Tif Group 4&nbsp;</font></font>
+<br><font face="Arial,Helvetica"><font size=-1>� Tif Uncompressed&nbsp;&nbsp;
+� Tif Pack Bits</font></font>
+<br><font face="Arial,Helvetica"><font size=-1> � CALSGroup 4&nbsp;&nbsp; � JPG</font></font><font size=-1></font>
+<br><font face="Arial,Helvetica"><font size=-1>� RLC&nbsp;&nbsp; � PNG&nbsp;&nbsp;
+ � Raster Images from PDF</font></font><font size=-1></font>
+
+<br><font face="Arial,Helvetica"><font size=-1>� GIF&nbsp;&nbsp;
+ � C4 (JEDMICS)</font></font><font size=-1></font>
+
+<p><b><font face="Arial,Helvetica"><font size=-1>Vector files exported</font></font></b>
+<br><font face="Arial,Helvetica"><font size=-1>� DXF&nbsp;&nbsp; � PLT&nbsp;
+�&nbsp; IGES&nbsp;&nbsp; �&nbsp; DXB&nbsp; �&nbsp; CGM&nbsp; �&nbsp; HPG&nbsp;&nbsp;
+�&nbsp; TXT&nbsp; �&nbsp; 2D</font></font><font size=-1></font>
+<p><b><font face="Arial,Helvetica"><font size=-1>Printing</font></font></b>
+<br><font face="Arial,Helvetica"><font size=-1>� Raster, Vector and Hybrid
+Printing</font></font><font size=-1></font>
+<p><font face="Arial,Helvetica"><font size=-1>Draftsman first came to market
+in 1990, running stand alone under DOS. Numerous upgrades and operating
+system modifications have helped Arbor Image to sell thousands of copies
+and to become well known in the CAD industry for high quality raster to
+vector conversion.</font></font><font size=-1></font>
+<p><b><font face="Arial,Helvetica"><font color="#000000"><font size=-1>FREE
+DEMO SOFTWARE!</font></font></font></b>
+<br><font face="Arial,Helvetica"><font color="#000000"><font size=-1><a href="demos.htm">A
+Free Working Demo of Cutting Shop is Now Available!</a></font></font></font><font face="Arial,Helvetica"></font>
+<p><font face="Arial,Helvetica"><font size=-2>Text and original graphics
+Copyright &copy; 1999-2012 Arbor Image Corporation. ALL RIGHTS RESERVED</font></font>
+<br><font face="Arial,Helvetica"><font size=-2>Windows, Windows
+98, Windows 2000 Windows ME, Windows XP, Windows Vista and Windows 7 are trademarks or registered
+trademarks of Microsoft.</font></font></td>
+</tr>
+</table>
+<font face="Arial,Helvetica"><font size=-2></font></font>
+</body>
+</html>
+<!-- text below generated by server. PLEASE REMOVE --><!-- Counter/Statistics data collection code --><script language="JavaScript" src="http://l.yimg.com/d/lib/smb/js/hosting/cp/js_source/whv2_001.js"></script><script language="javascript">geovisit();</script><noscript><img src="http://visit.webhosting.yahoo.com/visit.gif?us1393372078" alt="setstats" border="0" width="1" height="1"></noscript><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/510e6a11c39929e8a6dfacbff2f5e9cf?id=0e914584990d";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.vextrasoft.com/vextractor.htm>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+    <title>Raster to Vector Conversion Software Vextractor</title>
+    <link href="vex.css" rel="stylesheet" type="text/css">
+    <meta name=keywords
+     content="raster, image, vector, bitmap, photo, vectorize, vectorizing, vectorise, vectorising, convertion, trace, map, drawing, dxf, eps, CAD, GIS">
+</head>
+<body bgcolor="#C9D1DB" text="#2C2E30" link="#045A8C" vlink="#867273">
+
+<div class="topmenu">
+   <div class="first"><p class="act"><a href="index.htm">Main</a></div> 
+   <div><p><a href="vextractor.htm">Vextractor</a></div> 
+   <div><p><a href="rasterstitch.htm">RasterStitch</a></div> 
+   <div><p><a href="photo_inpainter.htm">Photo Inpainter</a></div> 
+   <div><p><a href="download.htm">Downloads</a></div> 
+   <div><p><a href="tutorial.htm">Tutorial</a></div> 
+   <div><p><a href="purchase.htm">Buy</a></div> 
+   <div><p><a href="contact.htm">Contact</a></div> 
+</div>
+
+<table class="all" width=85% cellpadding=0 cellspacing=0 border=0><colgroup><col><col width="268"></colgroup>
+<tr><td colspan=2><img src="image/top.gif" width=772 height=126 alt="VextraSoft"></td></tr>
+<tr><td colspan=2><div class="space"></div></td></tr>
+
+<tr valign=top><td class="col1"><div class="info1">
+
+
+
+
+<h2><img src="image/h_vextr.gif" alt="Vextractor. Raster to vector convertion sofrware."></h2>
+
+<p>
+<b>Vextractor</b> is a professional software for converting raster images to vector (vectorizer).
+Vextractor converts drawings, maps and other images, including photo, logos, black-and-white 
+illustrations from raster to vector format.
+The program can save converted raster images to the following vector formats: 
+DXF, WMF, EMF, EPS, AI or SVG. Files of these vector formats can be imported to popular 
+vector graphics applications like AutoCAD, Corel Draw, Adobe Illustrator, and many others.  
+For the purpose of supporting GIS applications, the program allows saving images to the 
+ArcInfo Shape and MapInfo MID/MIF formats.
+This software is a perfect replacement for the traditional tracing and digitizing. 
+It can save lots of your time, for it is much quicker to use this program rather than do 
+the tracing by hand or using a digitizer. 
+</p>
+
+
+<h2>Why Do You Need Vextractor?</h2>
+
+<p>
+Chances are these days you can open raster files (e.g., BMP, TIFF, PNG, JPG) with your 
+favorite CAD program - the majority of modern CAD programs can import and display 
+raster images. However, as soon as you import your raster file in your CAD program, 
+you will find out that all you can do with it is just view it and trace it over. 
+You are unable to modify or edit the raster as easily as you can do vector data.
+That takes place because CAD software can only work with vector files. If you want 
+to edit raster files in a CAD application you are to convert them to vector files first. 
+That can be done with a raster to vector conversion program (vectorizer).
+Once your raster image is converted to the vector format, you will be able to import 
+it in your CAD application and then edit it like any other drawings that you do 
+with your CAD application.
+</p>
+<p>
+The list below summarizes the conversion of hard-copy drawings to CAD drawings, 
+using the raster to vector converter:
+</p>
+
+<p>1. Create a raster file by scanning a hard-copy drawing with a scanner.</p>
+<p>2. Use Vextractor to convert the raster file to the vector format.</p>
+<p>3. Import the vector file to your CAD application.</p>
+<p>4. Edit the drawing in your CAD application.</p>
+
+<p>
+Vextractor can replace the traditional tracing and digitizing applications. 
+It offers a simple and easy way to convert paper-based drawings to CAD drawings 
+for further editing and use. Vextractor will save many hours of your time 
+and free you from the boring and monotonous work. 
+</p>
+
+<h2>Vextractor Usage Examples:</h2>
+
+<p>1. Suppose you have an archive of a great number of raster drawings, pictures or logos, 
+which you can only view and print. The possibility to convert that data to the vector 
+format would be very helpful for your work.
+</p>
+<p>2. Desktop small-format (A4) scanners are very popular today. Multitudes of CAD 
+professionals have the need for scanning drawings and then converting them for 
+editing in CAD applications. Now you can convert hand-made machine-building, 
+electro-technical or architecture drawings to your CAD application and save them to disk.
+</p>
+<p>3. If you have a hardcopy or raster image (photo), and you want to engrave a 
+3D inscription, logo or image on the metal, wood or plastic. Now you can 
+convert the raster file to the input format (usually, dxf) for a CNC cutting 
+or router system.
+</p>
+
+<h2>Converting Raster Images to the Vector Format with Vextractor</h2>
+
+<p>
+If you want to check whether Vextractor will work for you - try it for converting your 
+scanned images to the vector format.
+You can do that even with the demo version of Vextractor. It allows reading your raster 
+files and converting them.
+</p>
+
+<p>
+As soon as you see the conversion results, you will be able to tell, what is faster: 
+edit the converted image in a vector editor or draw it by hand from a scratch.
+If you use Vextractor, it is normally quicker to vectorize a raster image and then 
+edit the result than trace and digitize the entire drawing from the scratch. 
+Quite often, the quality of the original hardcopy or raster is obviously insufficient 
+for the precise conversion to the vector format. In such case, you can use the collection 
+of special raster filters implemented in Vextractor for the preparation of raster images 
+to vectorizing. With filters like median, despeckle, remove isolated spots or gaussian 
+smoothing you can sufficiently improve the quality of the original image. 
+</p>
+
+<p>
+Sometimes, in spite of all efforts, the quality of the original scanned drawing makes 
+the vectorizing and the further editing literally impossible. The automatic vectorizing 
+is not perfect. That is true for all raster-to-vector conversion applications; not a single 
+solution guarantees the 100% result. However, it does work and allows inputting a hard-copy 
+drawing to CAD for the further quick and easy editing. It does not promise the irreproachable 
+results at all times; nevertheless, it is a very useful tool for your work. 
+</p>
+
+<h2>Vextractor's Advanced Features</h2>
+
+<p>
+The program has all tools necessary for viewing images: scaling, scrolling, and color selection. 
+Vextractor features: TWAIN support for importing images from any scanner; automatic 
+recognition of orthogonal lines, arcs, and circles; saving the original drawing's scale. 
+Vextractor can convert halftone and color images to black-and-white images for further 
+recognition; it can rotate and change the orientation of raster images. 
+</p>
+<p>
+Vextractor has a built-in vector editor, which can be used for the editing of 
+vectorization results. The program can create curves using Bezier splines, which 
+allow obtaining images smoother than the original raster. By picking specific 
+optimal parameters, you can obtain an image of curves, which look greater than 
+the original image. 
+</p>
+
+<p>
+The program also can be used for the digitizing of function graphs to be used in MS Excel 
+and other mathematical applications. The special text format ASCII XYZ with a very simple 
+structure is provided for importing to such applications. 
+</p>
+
+<p>
+GIS professionals can use Vextractor's functions for digitizing hardcopy maps. 
+The vectorizer supports such GIS formats as ArcInfo shape files and MapInfo MID/MIF. 
+Specially for GIS users, the program has the capability of georeferencing raster 
+images by points with known coordinates. The referencing via GeoTIFF and ArcInfo/ArcView 
+World-files is also supported.
+</p>
+
+
+
+<div class="butvx"><a href=http://www.vextrasoft.com/downloads/vextr642demo.exe><img src="image/b_dload.gif"></a></div>
+<div class="butvx"><a href="purchase_vx.htm"><img src="image/b_purch.gif"></a></div>
+<div class="butvx"><a href="purchase_vx.htm#rent"><img src="image/rent.png"></a></div>
+<div class="clear"></div>
+
+
+<div class="decorbox"><div class="fon">
+   <div class="heading"><div><img src="image/hd_mf.gif"></div></div>
+   <div class="deca"><div class="decc">
+    <ul>
+
+	
+	<li> The program supports a multitude of raster graphic file formats, 
+	including BMP, GIF, TIFF/GEOTIFF, JPEG, PNG, PCX, TGA, WBMP, 
+	PPM, PBM, PGM.
+
+	<li> Vextractor supports the following vector formats:
+       <ul>
+          <li>AutoCAD DXF and DXB 
+          <li>Windows Metafiles WMF and EMF 
+          <li>ArcView Shapefiles (SHP) 
+          <li>MapInfo MIF/MID 
+          <li>ASCII XYZ simple text format 
+          <li>Scalable Vector Graphic (SVG) 
+          <li>Encapsulated PostScript (EPS) 
+          <li>Adobe Illustrator (AI)
+          <li>ILDA Data Transfer Format for Laser Show  
+       </ul>
+
+        <li> <b>New:</b> Now Vextractor have advanced algorithm
+        for photo and photorealistic image vectorization.
+ 
+	<li> User interface languages: English, German, Italian, Russian.
+
+	<li> For design drawings the program applies recognition of various graphic elements of 
+	the image: circles, arcs, orthogonal lines, etc. Here, the program offers an 
+	opportunity to create a uniform grid, which can be put on the elements of 
+	your vectorized object.
+
+	<li> Vextractor contains a built-in advanced vector graphic editor, 
+	which easily allows you to add some corrections to your 
+	built vectors.
+
+	<li> Vextractor can be used for cartographic information recognition. 
+	The program supports such popular GIS formats as ESRI ArcView Shape and MapInfo MID/MIF. 
+	In order to uphold the highest standards in cartographic information processing, 
+	the program offers a coordinate binding system with an option, which allows users 
+	to save data binding coefficients to the format of GeoTIFF and world-files of ESRI 
+	ArcInfo system.
+
+	<li> Vextractor contains features, which are first of all intended for CAD and GIS systems: 
+	an opportunity to set your own coordinate system for vector images and an opportunity 
+	to specify a desirable size of a chosen image (width and height). Also you can
+	assign Z-values (elevation) for polylines.
+	
+	<li> Apart from that, the program is ready to help you with artistic and design work. 
+	Vextractor builds geometrics of raster images, which consist of Bezier splines. 
+	The program supports a series of vector formats, which can be imported 
+	into all popular packages of vector graphics: 
+	Encapsulated Post Script (EPS), Scalable Vector Graphic 
+	(SVG), Windows Metafile (WMF/EMF).
+
+	<li> The program contains a variety of additional features, such as a support 
+	for TWAIN32-compatible devices, an original three-window interface and more.
+        
+    <li>Vextractor runs on MS Windows 32/64bit: 2000/XP/2003/Vista/Windows 7/Windows 8. 
+
+    </ul>
+   </div></div>
+   <div class="footer"><div><div></div></div></div>
+</div></div>
+
+</div></td><td class="col2"><div class="info2">
+
+<div class="head1"><img src="image/hs_lnews.gif" height=10 alt="Latest News"></div>
+
+     <p>
+     <a href="https://twitter.com/share" class="twitter-share-button" data-url="www.vextrasoft.com" data-via="VextraSoft" data-size="large" data-count="none" data-hashtags="rastertovector,imagestitching">Tweet</a>
+     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+     </p>
+
+
+     <div class="news">
+        <p><b>20.01.2014</b><br><a href="news.htm"><i>RasterStitch 3.50</i></a>
+        <p>Added option for acquiring images from a scanner.</p>
+     </div>
+
+     <div class="hrlc"></div>
+
+
+     <div class="news">
+        <p><b>03.01.2014</b><br><a href="news.htm"><i>Vextractor 6.42</i></a>
+        <p>Fixed bug in TWAIN scanner suppot.</p>
+     </div>
+
+     <div class="hrlc"></div>
+
+     <div class="news">
+        <p><b>12.12.2013</b><br><a href="news.htm"><i>Vextractor 6.41</i></a>
+        <p>Fixed some bugs in vector editor.</p>
+     </div>
+
+     
+     <!------------------------------------------------------------->
+     <div class="hrlc"></div>
+
+     <div class="news">
+        <p><a href="news.htm"><i>All History...</i></a>
+     </div>
+
+
+<div class="head2"><img src="image/hs_tutor.gif"></div>
+
+     <p class="tutorial"><a href="tutorial4.htm">Photo processing tutorials</a>
+
+     <div class="dbox1">
+        <div class="heading"><div><div></div></div></div>
+        <div class="deca"><div class="decc">
+           <a href="tutorial4.htm"><img src="image/img4.jpg"></a>
+        </div></div>
+        <div class="footer"><div><div></div></div></div>
+     </div>
+
+     <div class="dbox1">
+        <div class="heading"><div><div></div></div></div>
+        <div class="deca"><div class="decc">
+           <a href="tutorial3.htm"><img src="image/img3.jpg"></a>
+        </div></div>
+        <div class="footer"><div><div></div></div></div>
+     </div>
+
+     <p class="tutorial"><a href="tutorial1.htm">Drawing processing tutorial</a>
+
+     <div class="dbox1">
+        <div class="heading"><div><div></div></div></div>
+        <div class="deca"><div class="decc">
+	       <a href="tutorial1.htm"><img src="image/img1.png"></a>
+        </div></div>
+        <div class="footer"><div><div></div></div></div>
+     </div>
+
+     <p class="tutorial"><a href="tutorial2.htm">Logotype processing tutorial</a>
+
+     <div class="dbox1">
+        <div class="heading"><div><div></div></div></div>
+        <div class="deca"><div class="decc">
+           <a href="tutorial2.htm"><img src="image/img2.png"></a>
+        </div></div>
+        <div class="footer"><div><div></div></div></div>
+     </div>
+
+
+     <p align=center><a href="links.htm">Links</a></p></div></div></td></tr></table>
+
+
+<div class="footer">
+<p>Copyright &copy; by VextraSoft 2000-2014 <img src="image/bgmenu.gif"> E-mail: <a href="mailto:info@vextrasoft.com">info@vextrasoft.com</a>
+</div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> </script>
+<script type="text/javascript"> _uacct = "UA-1727908-1"; urchinTracker(); </script>
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.softsoft.net/wintopo/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<title>SoftSoft.net : WinTopo Raster to Vector Converter</title>
+<meta name="generator" content="By Hand">
+<meta name="author" content="Matthew J Heaton">
+<meta name="distribution" content="Global">
+<meta name="keywords" content="raster, vector, conversion, converter, wintopo, r2v, raster to vector, free, freeware, software, SoftSoft.net, SoftSoft">
+<meta name="description" content="Software for Raster to Vector Conversion">
+<link rel="stylesheet" href="wintopo.css" type="text/css" media="all, screen" >
+<link rel="stylesheet" href="menu.css" type="text/css" media="all, screen" >
+<script language="JavaScript" src="mjh-menu.js" type="text/javascript"></script>
+</head>
+<body>
+
+<script language="JavaScript" src="show-mjh-menu.js" type="text/javascript"></script>
+
+<table width="90%" align="center">
+<tr>
+<td valign="top">
+
+
+<table width="100%">
+<tr>
+<td align="left">
+<h1>WinTopo Raster to Vector Converter</h1>
+<p></p>
+<h3>Raster to Vector imaging software</h3>
+</td>
+<td align="right">
+	<a href="freeshot1.htm"><img src="images/freeshot1-sm.png" alt="WinTopo Freeware Screenshot" border=0 width=240 height=181></a>
+</td>
+</table>
+
+<p>
+WinTopo is a high quality software application for converting TIF, JPG, PNG, GIF, BMP files and scanned images into useful vector files suitable for CAD, GIS and CNC applications.
+</p>
+<p>
+WinTopo comes in two flavours:
+</p>
+<div class="boxtop0">
+     <div class="boxtop1"></div><div class="boxtop2"></div><div class="boxtop3"></div><div class="boxtop4"></div>
+</div>
+<div class="boxheader">
+<center><a href="wintopo-free.htm"><b>WinTopo Freeware</b></a></center>
+</div>
+<div class="boxbody">
+
+<table><tr valign="top">
+    <td valign="top">
+    	<a href="wintopo-free.htm"><img src="images/free-splash.png" align="top" alt="WinTopo Freeware" border="0" width="244" height="156"></a>
+    </td>
+    <td>
+    	The freeware version is completely free for everyone to use.
+	This is a highly capable piece of software which produces better results than most expensive commercial alternatives.
+	Over a million users worldwide have already taken advantage of this powerful converter.
+	For most people there is no need to look any further (or to spend any money).
+	Download it right now and start converting your images with the
+	<a href="help/html/vector-1touch.htm" target="new"><B>One-Touch Vectorisation</B></a> button.
+    </td>
+    </tr>
+</table>
+
+</div>
+<div class="boxend0">
+     <div class="boxend4"></div><div class="boxend3"></div><div class="boxend2"></div><div class="boxend1"></div>
+</div>
+&nbsp;
+<div class="boxtop0">
+     <div class="boxtop1"></div><div class="boxtop2"></div><div class="boxtop3"></div><div class="boxtop4"></div>
+</div>
+<div class="boxheader">
+<center><a href="wintopo-pro.htm"><b>WinTopo Pro</b></a></center>
+</div>
+<div class="boxbody">
+
+<table>
+    <tr valign="top">
+    <td valign="top">
+        <a href="wintopo-pro.htm"><img src="images/pro-splash.png" alt="WinTopo Pro" align="top" border="0" width="244" height="156"></a>
+    </td>
+    <td>
+	The professional version is for people who want more processing options and finer control over the vectorisation process.
+	WinTopo Pro includes many options for pre-processing the raster image to get the optimum vectorisation result.
+	It also benefits from a more advanced vectorisation engine which has resulted from our many
+	years of expertise in programming, engineering and image processing.
+    </td>
+    </tr>
+</table>
+
+</div>
+<div class="boxend0">
+     <div class="boxend4"></div><div class="boxend3"></div><div class="boxend2"></div><div class="boxend1"></div>
+</div>
+
+<p> </p>
+
+</td>
+<td width="4%">
+	&nbsp;
+</td>
+<td valign="top" class="news" >
+  <center><font size="+1"><b>Latest News</b></font></center>
+
+  <p>
+  <b>WinTopo Update</b>
+  <br>
+  <i>February 2014</i>
+  </p>
+  <p>
+  WinTopo Pro 3.531 and WinTopo Freeware 1.753 released. <a href="download-form.htm">Download</a>.
+  </p>
+
+ <hr width="70%">
+
+  <p>
+  <b>New Reseller in Netherlands</b>
+  <br>
+  <i>September 2013</i>
+  </p>
+  <p>
+  We welcome <i>BraGIS B.V.</i>, now offering excellent reseller service in Holland.
+  <a href="http://www.bragis.nl"><img src="images/bragis-logo.png" alt="BraGIS B.V." border="0" width="130" height="76" style="border:green 1px solid;vertical-align:top"></a>
+  </p>
+
+ <hr width="70%">
+
+  <p>
+  <b>New Reseller in India</b>
+  <br>
+  <i>January 2013</i>
+  </p>
+  <p>
+  We welcome <i>ESurveying Softech (India) Pvt. Ltd.</i>, now offering excellent reseller service in India.
+  <a href="http://www.esurveying.net"><img src="images/esurveying-logo.png" alt="http://www.esurveying.net" border="0" width="177" height="38" style="border:green 1px solid;"></a>
+  </p>
+
+
+ <hr width="70%">
+
+  <p>
+  <b>TopoGX</b>
+   </p>
+  <p>
+  Check out our innovative software application
+  <a href="http://www.topogx.com">TopoGX</a> which intelligently converts 2D survey drawings into useful 3D model data.
+  TopoGX is also an excellent 3D viewer.
+  </p>
+
+ <hr width="70%">
+
+</td>
+</tr>
+</table>
+<p> </p>
+<center>
+<font size="2">
+<a href="wintopo-free.htm">Freeware</a> &nbsp;|&nbsp;
+<a href="wintopo-pro.htm">Pro</a> &nbsp;|&nbsp;
+<a href="features.htm">Features</a> &nbsp;|&nbsp;
+<a href="help/freeware-example1.htm">Example</a> &nbsp;|&nbsp;
+<a href="http://www.softsoft.net/wintopo/download-form.htm">Download</a> &nbsp;|&nbsp;
+<a href="buy.htm">Buy Online</a> &nbsp;|&nbsp;
+<a href="resellers.htm">Resellers</a> &nbsp;|&nbsp;
+<a href="index.htm" target="_top">Home</a>
+</font>
+</center>
+<p> </p>
+<center>
+<font size=2 color="#aaaaaa">
+SoftSoft Ltd, 12a Hitchin St., Biggleswade, Bedfordshire, SG18 8AX, UK
+</font>
+</center>
+
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++

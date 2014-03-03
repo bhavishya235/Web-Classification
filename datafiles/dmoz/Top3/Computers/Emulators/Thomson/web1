@@ -1,0 +1,392 @@
+====================<http://www.bannister.org/software/mo5.htm>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Software: MO5</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="../style.css" type="text/css" media="screen" charset="utf-8" />   
+    <script type="text/javascript" src="/external.js"></script>
+</head>
+<body>
+<div id="header">
+			<div class="wrapper">
+			<h1>Richard Bannister</h1>
+			<h3>Noli umquam docere porcum cantare; perdes tempus et irritabis porcum.</h3>
+			</div> <!-- END WRAPPER -->
+</div> <!-- END HEADER -->
+<div id="navbar">
+	<div class="wrapper">
+			<ul>
+            	<li><a href="../index.htm">About</a></li>
+            	<li><a href="../software/index.htm">Software</a></li>
+            	<li><a href="../coasters/index.htm">Coaster Trips</a></li>
+            	<li><a href="../photo/index.htm">Photo Gallery</a></li>
+            	<li><a href="../email/index.php">Contact</a></li>
+        	</ul>
+			</div> <!-- END WRAPPER -->
+	</div> <!-- END NAVBAR -->
+<div id="mainarea">
+	<div class="wrapper">
+        <div id="content">
+			<div class="story">
+				<div class="headline">
+					<h2>MO5 v2.6.3</h2>Thomson MO5 Emulator
+				</div>
+				<p class="text">MO5 is based on Marcel O Cinq, the original Thomson MO5 emulator for PC. The original developer used Thomson computers as a child, and was highly motivated to get things working exactly as he remembered them. The Mac port would never have happened were it not for some very persistent French people, who convinced this sceptic that a computer <i>en francais</i> would be interesting to me too. They were right.</p>
+				<p class="screenshot"><img src="../images/shots/mo5.jpg" width="330" height="227" alt="MO5 Screenshot" /></p>
+				<h4>Features</h4>
+				<ul>
+					<li>AZERTY keyboard layout.</li>
+					<li>Light Pen Emulation.</li>
+				</ul>
+				<h4>Download</h4>			
+				<p>
+					<a href="/cgi-bin/download.cgi?mo5">MO5 (1MB)</a><br />
+				</p>
+				<p><i>MO5 has been downloaded 12815 times to date.</i></p>
+				<h4>Optional Extras</h4>
+				<p>
+					<a href="/cgi-bin/download.cgi?ee">Emulator Enhancer v2.4.0 (747K)</a><br />
+
+      
+				</p>
+
+			</div> <!-- END STORY -->
+			
+		</div> <!-- END CONTENT -->
+	    <div id="sidebar">
+	    	<h3>Software</h3>
+	    	<p><b>Emulators:</b></p>
+	    	<p><i>Note that the current releases of these projects all require Mac OS X 10.5 or later. Older releases are available from <a href="http://www.mac-emu.net/~bannister/filemirror/">the archive</a> but are strictly unsupported.</i></p>
+	    	<ul>
+	    		<li><a href="arnold.htm">Arnold v1.7.8</a></li>
+	    		<li><a href="ba.htm">Boycott Advance v0.4.0</a></li>
+	    		<li><a href="bsnes.htm">BSNES v0.6.8</a></li>
+	    		<li><a href="ee.htm">Emulator Enhancer v2.3.2</a></li>
+	    		<li><a href="fmsx.htm">fMSX v3.5.1</a></li>
+	    		<li><a href="frodo.htm">Frodo v4.4.0</a></li>
+	    		<li><a href="fuzzbug.htm">Fuzzbug v0.0.1</a></li>
+				<li><a href="generator.htm">Generator v0.4.4</a></li>
+				<li><a href="gplus.htm">Genesis Plus v1.3.1</a></li>
+				<li><a href="handy.htm">Handy v0.9.7</a></li>
+				<li><a href="horizon.htm">Horizon v1.3.9</a></li>
+				<li><a href="jum52.htm">Jum52 v1.1.0</a></li>
+				<li><a href="kigb.htm">KiGB v2.0.5</a></li>
+				<li><a href="mo5.htm">MO5 v2.6.3</a></li>
+				<li><a href="mugrat.htm">Mugrat v0.4.3</a></li>
+				<li><a href="neopocott.htm">Neopocott v0.5.1</a></li>
+				<li><a href="nestopia.htm">Nestopia v1.4.1</a></li>
+				<li><a href="o2em.htm">O2Em v1.1.1</a></li>
+				<li><a href="oric.htm">Oric v1.7.8</a></li>
+				<li><a href="oswan.htm">Oswan v0.8.1</a></li>
+				<li><a href="rainbow.htm">Rainbow v1.5.7</a></li>
+				<li><a href="simcoupe.htm">SimCoupe v0.8.3</a></li>
+				<li><a href="sms.htm">SMS Plus v1.3.3</a></li>
+				<li><a href="teo.htm">TEO v1.8.3</a></li>
+				<li><a href="tgemu.htm">TGEmu v0.3.4</a></li>
+				<li><a href="thom.htm">Thom v1.6.1</a></li>
+				<li><a href="vecx.htm">Vecx v0.1.6</a></li>
+				<li><a href="vibe.htm">ViBE v1.0b12</a></li>				
+	    	</ul>
+	    	<p><b>Video Game Music:</b></p>
+	    	<ul>
+ 	    		<li><a href="ao.htm">Audio Overload v2.0</a></li>
+ 	    		<li><a href="m1.htm">M1 v0.7.9a1</a></li>
+ 	    	</ul>
+ 	    	<p><b>Other:</b></p>
+ 	    	<ul>
+ 	    		<li><a href="bb.htm">Brain Box v0.3</a></li>
+ 	    		<li><a href="cacophony.htm">Cacophony v1.3.1</a></li>
+ 	    	</ul>
+	    </div> <!-- END SIDEBAR -->
+	</div> <!-- END WRAPPER -->
+	</div> <!-- MAIN AREA END -->
+	<div id="footer">
+    	<div class="wrapper">
+    		<ul id="sitemap">
+            	<li><a href="../index.htm">About</a></li>
+            	<li><a href="../software/index.htm">Software</a></li>
+            	<li><a href="../coasters/index.htm">Coaster Trips</a></li>
+            	<li><a href="../photo/index.htm">Photo Gallery</a></li>
+            	<li><a href="../email/index.php">Contact</a></li>
+        	</ul>
+        	<p class="copy">&copy; 1994-2012 Richard F. Bannister. All rights reserved.<br />27 user(s) online, 153574 visitors, since 1994.</p>
+    	</div> <!-- END WRAPPER -->
+	</div> <!-- END FOOTER -->
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://dcmo5.free.fr/>====================
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+ <title>DCMO5</title>
+ <link href="dcmo5.css" rel="stylesheet" type="text/css">
+ <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+ <meta name="description" content="DCMO5">
+ <meta name="author" content="Daniel Coulom">
+ <meta name="keywords" content="emulateur, emulator, thomson, mo5, mo5e, sdl, opengl, anttweakbar">
+ <script type="text/javascript" language="JavaScript">
+  <!--hide
+  function f(x) {win=window.open(x,"pop","width=880,height=660,resizable=yes,scrollbars=yes");setTimeout("win.focus();",250);}
+  //-->
+ </script>
+</head>
+
+<body>
+<center>
+<h1>DCMO5</h1>
+<p>
+<img src="http://perso0.free.fr/cgi-bin/wwwcount.cgi?df=dcmo5.dat&amp;dd=zxnum8&amp;pad=0&amp;ft=0" alt="compteur"> 
+<small>visiteurs depuis le 3 juillet 2000. Derni&egrave;re mise &agrave; jour le 24 juillet 2011</small>
+</p>
+<p>
+<a href="javascript:f('picture/minebig.png')"><img src="picture/mine.png" alt="dcmo5" border="0"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<a href="javascript:f('picture/mo5.jpg')"><img src="picture/mo5small.jpg" alt="mo5" border="0"></a>
+<br>
+DCMO5 est un &eacute;mulateur de MO5 Thomson pour tous les syst&egrave;mes<br>
+DCMO5 is a Thomson MO5 emulator for any operating system<br>
+</p>
+<p>
+<a href="v11/dcmo5v11fr.html"><img border="0" src="picture/fr.png" alt="FR"> Francais</a>&nbsp;&nbsp;&nbsp;
+<a href="v11/dcmo5v11en.html"><img border="0" src="picture/en.png" alt="EN"> English</a><br><br>
+<a href="http://dcmo5.free.fr/classics/"><img border="0" src="mo5classics.png" alt="mo5classics"> MO5classics</a>&nbsp;&nbsp;&nbsp;
+<a href="online/index.html"><img border="0" src="online/dcmo5_online.png" alt="dcmo5_online"></a>&nbsp;&nbsp;&nbsp;
+<a href="http://dcmo6.free.fr/classics/"><img border="0" src="mo6classics.png" alt="mo6classics"> MO6classics</a><br>
+</p>
+
+
+<table align=center>
+<caption><small>Emulateurs du m&ecirc;me auteur</small></caption>
+<tr>
+<td><a href="http://dcmoto.free.fr/"><img class="icon" src="logos/motologo.png" alt="dcmoto"><br>dcmoto</a></td>
+<td><a href="http://dcmo5.free.fr/"><img class="icon" src="logos/mo5logo.png" alt="dcmo5"><br>dcmo5</a></td>
+<td><a href="http://dcto8.free.fr/"><img class="icon" src="logos/to8dlogo.png" alt="dcto8d"><br>dcto8d</a></td>
+<td><a href="http://dcmo6.free.fr/"><img class="icon" src="logos/mo6logo.png" alt="dcmo6"><br>dcmo6</a></td>
+<td><a href="http://dcto9p.free.fr/"><img class="icon" src="logos/to8dlogo.png" alt="dcto9p"><br>dcto9p</a></td>
+<td><a href="http://dcvg5k.free.fr/"><img class="icon" src="logos/radiolalogo.png" alt="dcvg5k"><br>dcvg5k</a></td>
+<td><a href="http://alice32.free.fr/"><img class="icon" src="logos/alicelogo.png" alt="dcalice"><br>dcalice</a></td>
+<td><a href="http://dchector.free.fr/"><img class="icon" src="logos/hectorlogo.png" alt="dchector"><br>dchector</a></td>
+<td><a href="http://dcexel.free.fr/"><img class="icon" src="logos/exellogo.png" alt="dcexel"><br>dcexel</a></td>
+<td><a href="http://dcnano.free.fr/"><img class="icon" src="logos/leanordlogo.png" alt="dcnano"><br>dcnanoreseau</a></td>
+</tr>
+</table>
+
+
+
+</center>
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=2133859; 
+var sc_invisible=1; 
+var sc_security="55dd9982"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="free analytics for godaddy"
+href="http://statcounter.com/godaddy_website_tonight/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/2133859/0/55dd9982/1/"
+alt="free analytics for godaddy" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+<object type="text/html" data="log.php" width=0 height=0></object>
+
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://emul5.thomsonistes.org/>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML WIDTH="100%" HEIGHT="100%">
+  <TITLE>Emul5, the Thomson MO5 emulator</TITLE>
+  <HEAD>
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+
+    <META NAME='Identifier-URL' CONTENT="http://emul5.forler.ch">
+    <META NAME="Robot" CONTENT="INDEX,FOLLOW">
+
+    <META NAME='revisit-after' CONTENT="10">
+
+    <LINK REL="stylesheet" HREF="emul5_styles.css" TYPE="text/css">
+
+  </HEAD>
+
+  <BODY CLASS="main">
+
+  <DIV CLASS="centered">
+    <DIV CLASS="header">
+      <IMG SRC="img/mo5sm.png">
+      <IMG SRC="img/emul5.png"><BR>
+      <A HREF="fr/index.html"><IMG SRC="img/fr_flag.png" ALT="French version" TITLE="French version" CLASS="flag"></A>&nbsp;&nbsp;The Thomson MO5 emulator&nbsp;&nbsp;<IMG SRC="img/uk_flag.png" CLASS="flag" ALT="English version" TITLE="English version"><BR>
+      
+    </DIV>
+
+    <DIV CLASS="menu">
+      <A HREF="index.html" CLASS="menu">Main</A> | 
+      <A HREF="mo5.html" CLASS="menu">The Thomson MO5</A> | 
+      <A HREF="features.html" CLASS="menu">Emulator features</A> | 
+      <A HREF="download.html" CLASS="menu">Download</A> 
+    </DIV>
+
+    <DIV CLASS="content" STYLE="height: 250px">
+      Emul5 is a MO5 emulator I developped during my free time as I was a student. I have not touched it for years now
+      and I consider it a mature product even if it still misses a few things. Anyway, it's kinda obsolete. But it works
+      fine under DOS/Win9x/WINNT/2000/XP and Linux (except for the the sound under NT/2000/XP), so I provide it here for 
+      anybody who would like to use it or to have a look at the source code.
+    </DIV>
+
+    <DIV CLASS="copyright">
+      This site is copyrighted &copy; 1996-2008 by Edouard Forler.<BR>
+      Everything on this site is free but used at your own risk.<BR><BR>
+      <A HREF="http://www.thomsonistes.com/forum2008"><IMG SRC="img/banner.gif" ALT="Advertisement" TITLE="Advertisement" STYLE="border: none"></A>
+    </DIV>
+  </DIV>
+
+  </BODY>
+</HTML>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://www.bannister.org/software/teo.htm>====================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Software: TEO</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="../style.css" type="text/css" media="screen" charset="utf-8" />   
+    <script type="text/javascript" src="/external.js"></script>
+</head>
+<body>
+<div id="header">
+			<div class="wrapper">
+			<h1>Richard Bannister</h1>
+			<h3>Tibi gratias agimus quod nihil fumas.</h3>
+			</div> <!-- END WRAPPER -->
+</div> <!-- END HEADER -->
+<div id="navbar">
+	<div class="wrapper">
+			<ul>
+            	<li><a href="../index.htm">About</a></li>
+            	<li><a href="../software/index.htm">Software</a></li>
+            	<li><a href="../coasters/index.htm">Coaster Trips</a></li>
+            	<li><a href="../photo/index.htm">Photo Gallery</a></li>
+            	<li><a href="../email/index.php">Contact</a></li>
+        	</ul>
+			</div> <!-- END WRAPPER -->
+	</div> <!-- END NAVBAR -->
+<div id="mainarea">
+	<div class="wrapper">
+        <div id="content">
+			<div class="story">
+				<div class="headline">
+					<h2>TEO v1.8.3</h2>Thomson TO8 Emulator
+				</div>
+				<p class="text">Like its partners <a href="./mo5.htm">MO5</a> and <a href="./thom.htm">Thom</a>, TEO features accurate emulation and full sound. Mouse and Light Pen emulation is included, along with support for Disk images, Tape images, Cartridges, and RAM Images.</p>
+				<p class="screenshot"><img src="../images/shots/teo.jpg" width="362" height="259" alt="TEO Screenshot" /></p>
+				<h4>Features</h4>
+				<ul>			
+				</ul>
+				<h4>Download</h4>			
+				<p>
+					<a href="/cgi-bin/download.cgi?to8">TEO (1.1MB)</a><br />
+				</p>
+				<p><i>TEO has been downloaded 14443 times to date.</i></p>
+				<h4>Optional Extras</h4>
+				<p>
+					<a href="/cgi-bin/download.cgi?ee">Emulator Enhancer v2.4.0 (747K)</a><br />
+
+      
+				</p>
+			</div> <!-- END STORY -->
+			
+		</div> <!-- END CONTENT -->
+	    <div id="sidebar">
+	    	<h3>Software</h3>
+	    	<p><b>Emulators:</b></p>
+	    	<p><i>Note that the current releases of these projects all require Mac OS X 10.5 or later. Older releases are available from <a href="http://www.mac-emu.net/~bannister/filemirror/">the archive</a> but are strictly unsupported.</i></p>
+	    	<ul>
+	    		<li><a href="arnold.htm">Arnold v1.7.8</a></li>
+	    		<li><a href="ba.htm">Boycott Advance v0.4.0</a></li>
+	    		<li><a href="bsnes.htm">BSNES v0.6.8</a></li>
+	    		<li><a href="ee.htm">Emulator Enhancer v2.3.2</a></li>
+	    		<li><a href="fmsx.htm">fMSX v3.5.1</a></li>
+	    		<li><a href="frodo.htm">Frodo v4.4.0</a></li>
+	    		<li><a href="fuzzbug.htm">Fuzzbug v0.0.1</a></li>
+				<li><a href="generator.htm">Generator v0.4.4</a></li>
+				<li><a href="gplus.htm">Genesis Plus v1.3.1</a></li>
+				<li><a href="handy.htm">Handy v0.9.7</a></li>
+				<li><a href="horizon.htm">Horizon v1.3.9</a></li>
+				<li><a href="jum52.htm">Jum52 v1.1.0</a></li>
+				<li><a href="kigb.htm">KiGB v2.0.5</a></li>
+				<li><a href="mo5.htm">MO5 v2.6.3</a></li>
+				<li><a href="mugrat.htm">Mugrat v0.4.3</a></li>
+				<li><a href="neopocott.htm">Neopocott v0.5.1</a></li>
+				<li><a href="nestopia.htm">Nestopia v1.4.1</a></li>
+				<li><a href="o2em.htm">O2Em v1.1.1</a></li>
+				<li><a href="oric.htm">Oric v1.7.8</a></li>
+				<li><a href="oswan.htm">Oswan v0.8.1</a></li>
+				<li><a href="rainbow.htm">Rainbow v1.5.7</a></li>
+				<li><a href="simcoupe.htm">SimCoupe v0.8.3</a></li>
+				<li><a href="sms.htm">SMS Plus v1.3.3</a></li>
+				<li><a href="teo.htm">TEO v1.8.3</a></li>
+				<li><a href="tgemu.htm">TGEmu v0.3.4</a></li>
+				<li><a href="thom.htm">Thom v1.6.1</a></li>
+				<li><a href="vecx.htm">Vecx v0.1.6</a></li>
+				<li><a href="vibe.htm">ViBE v1.0b12</a></li>				
+	    	</ul>
+	    	<p><b>Video Game Music:</b></p>
+	    	<ul>
+ 	    		<li><a href="ao.htm">Audio Overload v2.0</a></li>
+ 	    		<li><a href="m1.htm">M1 v0.7.9a1</a></li>
+ 	    	</ul>
+ 	    	<p><b>Other:</b></p>
+ 	    	<ul>
+ 	    		<li><a href="bb.htm">Brain Box v0.3</a></li>
+ 	    		<li><a href="cacophony.htm">Cacophony v1.3.1</a></li>
+ 	    	</ul>
+	    </div> <!-- END SIDEBAR -->
+	</div> <!-- END WRAPPER -->
+	</div> <!-- MAIN AREA END -->
+	<div id="footer">
+    	<div class="wrapper">
+    		<ul id="sitemap">
+            	<li><a href="../index.htm">About</a></li>
+            	<li><a href="../software/index.htm">Software</a></li>
+            	<li><a href="../coasters/index.htm">Coaster Trips</a></li>
+            	<li><a href="../photo/index.htm">Photo Gallery</a></li>
+            	<li><a href="../email/index.php">Contact</a></li>
+        	</ul>
+        	<p class="copy">&copy; 1994-2012 Richard F. Bannister. All rights reserved.<br />27 user(s) online, 153574 visitors, since 1994.</p>
+    	</div> <!-- END WRAPPER -->
+	</div> <!-- END FOOTER -->
+</body>
+</html>++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://dcmo6.free.fr/>====================
+<HTML>
+<HEAD>
+<TITLE>DCMO6 - Thomson MO6 emulator for PC</TITLE>
+<META Name="author" Content="Daniel Coulom">
+<META Name="description" Content="DCMO6 Thomson MO6 emulator for PC">
+<META Name="keywords" Content="emulation, motorola, 6809, ordinateur, computer, informatique, thomson, olivetti, prodest, pc128, mo5, mo5nr, mo6, to7, to8, classic, games, education, software, logiciel, freeware">
+</HEAD>
+<BODY bgcolor="#ffffff" text="#000080" link="#008080" alink="#800000" vlink="#404000">
+<P ALIGN=CENTER>
+<font face="arial, helvetica">
+<big><big><b>DCMO6 -  Thomson MO5NR, Thomson MO6<br>&amp Olivetti Prodest PC128 emulators for PC</b></big></big><br><br>
+
+<big><b>WARNING: DCMO6 is replaced by <a href="http://dcmoto.free.fr">DCMOTO</a>.<br>
+ATTENTION: DCMO6 est remplac&eacute; par <a href="http://dcmoto.free.fr">DCMOTO</a>.</b></big><br><br> 
+
+<small>
+MO5NR & MO6 are microcomputers designed by Thomson company in 1985-86.<br>
+Olivetti Prodest PC128 is the MO6 clone that had been marketed in Italy.<br>
+DCMO6 emulates Motorola 6809 microprocessor and MO6 hardware,<br>
+allowing to run MO5NR, MO6 and PC128 programs on any PC.<br><br>
+<a href="home.html">English home page</a><br><br>
+<IMG src="mo6uc01.jpg"><br>
+
+<script type="text/javascript">
+<!-- img = new Image(); img.src="log.php?referrer=" + document.referrer; //-->
+</script>
+
+</BODY>
+</HTML>++++++++++++++++++++<Over>++++++++++++++++++++

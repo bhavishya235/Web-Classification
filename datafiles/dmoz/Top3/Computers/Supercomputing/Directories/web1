@@ -1,0 +1,291 @@
+====================<http://www.cs.cmu.edu/~scandal/resources.html>====================
+<html>
+<head>
+<title>Supercomputing and Parallel Computing Resources</title>
+<base href="http://www.cs.cmu.edu/~scandal/resources.html">
+<meta name="author" content="Jonathan Hardwick">
+<meta name="description" content="Information on conferences, research groups, vendors, and machines in the field of supercomputing and parallel computing">
+<meta name="keywords" content="supercomputer, parallel computer, high performance">
+</head>
+
+<body>
+<h1 align=center>Supercomputing and Parallel Computing Resources</h1>
+<!-- keywords: supercomputer, parallel computer, high performance -->
+<div align=center>
+[ Index |
+ <a href="conferences.html">Conferences</a> |
+ <a href="research-groups.html">Research Groups</a> |
+ <a href="vendors.html">Vendors</a> |
+ <a href="resources.html">Supercomputers</a> ]
+</div>
+<p>
+<hr>
+<b>Note: I've moved on to <a href="http://www.research.microsoft.com/users/jch">another job</a>, and I can no
+longer afford the time to keep this site updated.  I recommend IEEE's <a
+href="http://computer.org/parascope/">ParaScope</a> as a good alternative.</b>
+<hr>
+
+<h2>My Own Pages</h2>
+From serious journals to frivolous pictures:
+<ul>
+<li><b><a href="conferences.html">Conferences and journals</a></b>
+(calls for papers and programs)
+<li><b><a href="research-groups.html">Research groups</a></b>
+<li><b><a href="vendors.html">Vendors</a></b>
+<li><b><a href="gifs.html">Supercomputers</a></b>
+</ul>
+
+<h2>Other Sites I Recommend</h2>
+If you can't find it from one of these pages, it's not worth finding:
+<ul>
+  <li><a href="http://www.umiacs.umd.edu/~dbader/sites.html">David Bader's
+      List of Parallel Computing Sites</a>
+  <li><a href="http://www.nas.nasa.gov/NAS/Tools/Outside/">NAS Parallel Tools
+      Group Hotlist</a>.
+  <li><a href="http://www.cs.rit.edu/~ncs/parallel.html">Nan's Parallel Computing
+      Page</a>.
+  <li><a href="http://www.lpac.ac.uk/SEL-HPC/Articles/index.html">SEL-HPC article
+      archive</a> (especially 
+      <a href="http://www.lpac.ac.uk/SEL-HPC/Articles/HpcArchive.html">high 
+      performance computing)</a>.
+  <li><a href="http://www.hensa.ac.uk/parallel/index.html">Hensa archive</a> in
+      the UK.
+  <li><a href="http://www.netlib.org/nhse/">National HPCC Software Exchange</a>
+  <li><a href="http://www.yahoo.com/Computers_and_Internet/Supercomputing_and_Parallel_Computing/">Yahoo!</a>
+</ul>
+
+<hr>
+
+<h2>New Links</h2>
+
+<!--
+<i><b> 1997</b></i>
+<ul>
+</ul>
+-->
+
+<i><b>May 14, 1997</b></i>
+<ul>
+  <li>Program: <a href="http://www.cs.sandia.gov/ISUG97/">ISUG'97</a>
+      (Intel Supercomputer Users Group Annual Conference).
+  <li>Program: <a href="http://www.tc.cornell.edu/PPoPP/">PPoPP'97</a>
+      (Symposium on Principles and Practice of Parallel Programming).
+  <li>Program: <a href="http://www.ptools.org/">PTOOLS'97</a>
+      (Parallel Tools Consortium).
+  <li>CFP: <a href="http://www.ece.gatech.edu/conferences/pcrcw97/">PCRCW'97</a>
+      (Workshop on Parallel Computing, Routing, and Communication).
+  <li>Program: <a href="http://www.cs.tu-berlin.de/~coord97/">COORDINATION'97</a>
+      (Conference on Coordination Models and Languages).
+  <li>Journal CFP: <a href="conf/jou-TCS-970801.txt">TCS</a>
+      (Theoretical Computer Science, special issue on distributed algorithms).
+  <li>CFP: <a href="http://www.acl.lanl.gov/iscope/">ISCOPE'97</a>
+      (International Scientific Computing in Object-Oriented Parallel Environments).
+</ul>
+
+<h2>Previous Updates</h2>
+<ul>
+<li><a href="resources/97.html">1997</a>
+<li><a href="resources/96.html">1996</a>
+<li><a href="resources/95.html">1995</a>
+<li><a href="resources/94.html">1994</a>
+</ul>
+<p>
+Please let me know if you find any bad links; the entire tree is
+periodically checked with 
+<a href="http://www.ics.uci.edu/WebSoft/MOMspider/">MOMspider</a>, but the
+Web is a very dynamic place.
+<hr>
+<address>
+<a href="http://www.cs.cmu.edu/~jch/">Jonathan Hardwick</a>.
+ <!-- hhmts start -->Last modified: Tue 13 Jan 2004<!-- hhmts end -->.
+ </address>
+</body>
+</html>
+++++++++++++++++++++<Over>++++++++++++++++++++
+====================<http://userpages.umbc.edu/~jack/supercomputer-resources.html>====================
+<TITLE>SuperComputing Resources on the Internet</TITLE>
+
+<H1>SuperComputing Resources on the Internet</H1>
+<h2>General Information</h2>
+Jonathan Hardwick (jch@cs.cmu.edu), maintains 
+a list of 
+<A HREF="http://www.cs.cmu.edu/Web/Groups/scandal/www/conferences.html">
+Supercomputer conference and journal calls for papers and programs 
+</A>
+with multiple indices is available from Carnegie Mellon University.
+In addiiton, he also has a
+collection of 
+<A HREF="http://www.cs.cmu.edu/Web/Groups/scandal/www/gifs.html">
+supercomputer gifs.</A>along with a list of 
+<A HREF="http://www.cs.cmu.edu/Web/Groups/scandal/www/research-groups.html">supercomputing research groups</A>.
+ <P>
+<A HREF="http://pscinfo.psc.edu/MetaCenter/MetaScience/welcome.html">
+Computation Science highlights, via NSF Supercomputer Centers</A>
+
+<H2>Vendor Information and User Groups</H2>
+<MENU>
+<li><A HREF="http://www.convex.com/">Convex Computer Corporation</A>
+
+<li><A HREF="http://www.craycos.com/">Cray Computer Computer </A>
+<LI> <A HREF="http://www.cray.com/">Cray Research</A>
+<li><A HREF="http://www.lpac.ac.uk/europa/">
+EUROPA - A European working group defining an international standard for
+parallel C++</A>
+<li><A HREF="http://www.ibm.com/">IBM Corporation</A>
+<li><A HREF="http://www.intel.com/">Intel Supercomputers</A>
+<li><A HREF="http://lovelace.nas.nasa.gov/ISUG/isug-home.html">
+Intel Supercomputer Users Group</A>
+<li><A HREF="http://www.sgi.com/">Silicon Graphics Corporation</A>
+<li><A HREF="http://www.think.com:/">Thinking Machines Corporation</A>
+</MENU>
+Jonathon Hardwick maintaints a more complete list of  
+<A HREF="http://www.cs.cmu.edu/Web/Groups/scandal/www/vendors.html">SuperComputer Vendors</A>.
+ <P>
+
+
+<h2>High Performance Computing Centers on the WWW</h2>
+Below is a list of High Performance Computing Centers and their associated
+WWW information. If you have additions please send them to www@umbc.edu.
+Much of the list has come from other lists, I want to credit 
+<A HREF="http://www.ccsf.caltech.edu/~roy/">Roy Williams of Cal Tech</A> and
+<A HREF="http://www.cs.cmu.edu/afs/cs.cmu.edu/user/jch/www/home.html">
+Jonathon Hardwick of CMU</A>
+<menu>
+<LI> <A HREF="http://www.arc.umn.edu/html/ahpcrc.html">
+Army HPC Research Center (AHPCRC)</A>
+<li><A HREF="http://www.mcs.anl.gov/">Argonne National Laboratory</A>
+<li><A HREF="http://sgisrvr.asc.edu/index.html">Alabama Supercomputer 
+Network</A>
+<li><A HREF="http://www.hpcl.cti.gr/">Athens, National Technical University of
+Athens Greece High Performance Computing Center.</A>
+<li><A HREF="http://anusf.anu.edu.au">Australian 
+National University Supercomputer Facility</A>
+
+<LI> Caltech Supercomputing Facilities
+<UL>
+<LI> <A HREF="http://www.ccsf.caltech.edu/">
+Caltech Concurrent Supercomputing Fac</A>
+<li><A HREF="http://www.ccsf.caltech.edu/software.html">
+MIMD parallel Computers - S/W</A>
+<li><A HREF="http://www.ccsf.caltech.edu/networking.html">
+Hi-Performance Networking</A>
+<li><A HREF="http://">Concurrent Super'g Consortium</A>
+</UL>
+<li><A HREF="http://info.cern.ch/">CERN, Center for Particle Physics, Geneva
+Switzerland</A>
+<li><A HREF="http://www.cs.colorado.edu/home/capp/Home.html">Center for Applied Parallel Processing, University of Colorado</A>
+<li>  <a href="http://www.csc.fi/CSC_english.html">Center for Scientific 
+  Computing, Finland</a>
+<li><A HREF="http://softlib.rice.edu/CRPC.html">
+The Center For Research on Parallel Computation (CRPC) at Rice University</A>
+<li><A HREF="ftp://super.super.org/pub/www/src.home.page">
+Center for Computing Sciences (formerly) Super Computer
+Research Center (SRC)</A>
+<li><A HREF="http://www.osc.edu/casc.html">Coalition of Academic SupercomputingCenters (CASC)</A>
+<li><A HREF="http://softlib.cs.rice.edu/CRPC.html">
+Center for Research in Parallel Computation, Rice University</A>
+<li><A HREF="http: //www.tc.cornell.edu/">Cornell Theory Center</A>
+<LI><A HREF="http://www.cscsuper.demon.co.uk/">CSC Supercomputing</A>
+<li><A HREF="http://info.cern.ch/">Ctr Euro pour le Rechhrche Nucliaire</A>
+
+<li><A HREF="http://jupiter.esd.ornl.gov:/doe-labs/doe-labs.html">
+Dept of Energy Labs and Programs</A>
+<li><A HREF="http://www.ege.edu.tr/">Ege University Computer Center</A>
+<li><A HREF="http://www.epfl.ch/">EPFL (Icole Polytechnique Fidirale de Lausanne, Switzerland)</A>
+<li><A HREF="http://www.gmd.de/">German National Research Center for Computer Science</A>
+<li>
+
+<li><A HREF="http://www.llnl.gov/">Lawrence Livermore Nat'l Lab</A>
+<li><A HREF="http://www.cs.yale.edu/HTML/YALE/CS/Linda/linda.html">
+LINDA Research Group, Yale University</A>
+<li><A HREF="http://www.lanl.gov/">Los Alamos Nat'l Lab</A>
+<li><A HREF="http://www.acl.lanl.gov/Home.html">
+Los Alamos Advanced Computing Lab</A>
+<li><A HREF="http://www.mhpcc.edu/mhpcc.html">Maui High Performance Computing Center</A>
+<li><A HREF="http://hypatia.gsfc.nasa.gov/NASA_homepage.html">
+Nat'l Aeronautics and Space Admin</A>
+
+<li><A HREF="http://www.nas.nasa.gov/home.html">
+NASA Numerical Aerodynamic Simulation</A>
+<li><A HREF="http://www.nas.nasa.gov/RNR/Parallel/NPB/">
+NASA - NAS Parallel Benchmarks</A>
+<li>Nat'l Ctr for Atmospheric Res(NCAR)
+<UL>
+<LI><A HREF="http://http.ucar.edu/metapage.html">NCAR MetaPage</A>
+<li><A HREF="http://www.cgd.ucar.edu:/index.html">
+Climate and Global Dynamic</A>
+<li><A HREF="http://www.atd.ucar.edu/welcome.html">
+Atmospheric Technology Div</A>
+</UL>
+<li><A HREF="http://www.ncsa.uiuc.edu/General/NCSAHome.html">NCSA,
+National Center for Supercomputing Applications</A>
+<li><A HREF="http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/NCSAMosaicHome.html">
+Nat'l Ctr for Supercomputer Appl (NCSA)</A>
+<li><A HREF="http://www.ncsa.uiuc.edu/General/MetaCenter/MetaCenterHome.html">
+National MetaCenter for Computational Science and Engineering, NCSA</A>
+<li><A HREF="http://www.tc.cornell.edu/MetaCenter/MetaCenterHome.html">
+National Science Foundation Supercomputer MetaCenter (Cornell)</A>
+<li><A HREF="http://www.noaa.gov/">Nat'l Oceanic and Atmospheric Admin</A>
+<li><A HREF="http://hpcc1.hpcc.noaa.gov/hpcc.html">NOAA HPCC Program</A>
+<A HREF="http://www.ncsc.org/">North Carolina Supercomputing Center </A>
+<li><A HREF="http://www.npac.syr.edu/">
+Northeast Parallel Architectures Center at Syracuse University</A>
+<li><A HREF="http://www.ijs.si/">Nat'l Supercomputing Ctr, Slovenia</A>
+<li><A HREF="http://www.nrl.navy.mil/">Naval Research Laboratory</A>
+
+<li><A HREF="http://jupiter.esd.ornl.gov:/">Oak Ridge National Laboratory</A>
+
+<LI> <A HREF="http://www.osc.edu/lam.html">Ohio SuperComputer Center Local Area Multicomputer (LAM)</A>
+<li><A HREF="http://www.osc.edu/welcome.html">Ohio Supercomputer Center (OSC)</A>
+<li><A HREF="http://riwww.osf.org:8001/ri/ri-info.html">
+Open Software Foundation Research Institute om distributed and scalable 
+systems.</A>
+
+<li><A HREF="http://www.cit.gu.edu.au/research/PCU/">
+Parallel Computing Unit, Griffith Univ., Queensland, Australia</a>
+
+<li><A HREF="http://pcsinfo.psc.edu/">Pittsburgh Supercomputing Ctr. (PSC)</A>
+
+<li><A HREF="http://www.sandia.gov/MPCRL/MPCRL_home_page.html">
+Sandia MPP Research Lab</A>
+<li><A HREF="http://www.esi.com/niit_top.html">NII Testbed at Sandia Labs</A>
+
+
+<li><A HREF="http://www.sdsc.edu/SDSCHome.html">San Diego Supercomputer Ctr</A>
+
+<li><A HREF="http://www.scri.fsu.edu/">
+Supercomputer Computations Res Inst (SCRI) (Florida State Univ)</a>
+<li><A HREF="http://cs1.soton.ac.uk/">Southampton Univ. HPC Centre</A>
+
+<li><A HREF="ftp://super.super.org/pub/www/src.home.page">
+Center for Computing Sciences (formerly) Super Computer
+Research Center (SRC)</A>
+<li><A HREF="http://www.cscs.ch/">Swiss Scientific Computing Center (Manno, Switzerland)</A>
+
+<li><A HREF="http://unix.hensa.ac.uk/parallel/index.html">
+Transputer, Occam and Parallel Computing Archive at HENSA University</A>
+<li><A HREF="http://www.umiacs.umd.edu/">
+UMIACS University of Maryland Institute for Advanced Computer Studies</A>
+<li><A HREF="http://www.acl.lanl.gov/DOE">U.S. Department of Energy, 
+Office of Energy Research</A>
+<li><A HREF="http://www.cs.yale.edu/HTML/YALE/YCPS/FrontDoor.html">
+Yale Center for Parallel Supercomputing</A>
+</menu>
+
+<H2>Software Tools and Resources for ftp</H2>
+<MENU>
+<LI> <A HREF="http://www.infomall.org/apri/">
+APR's FORGE Family of Fortran Parallelization/Analysis Tools</A>
+<li><A HREF="http://www.parasoft.com/">PARASOFT, compilers and software technology.</A>
+<li><A HREF="http://www.pgroup.com/">
+The Portland Group, Supercompilers and Advanced Development
+Tools for the HPC Community.</A>
+<li><A HREF="http://hebe.nectar.cs.cmu.edu:8001/"> PVM allows you to program a heterogeneous network of machines as a single distributed memory parallel machine</A>
+<li><A HREF="http://www.psrv.com/">Pacific-Sierra Research, VAST family of Compilers</A>
+<li><A HREF="http://suif.stanford.edu/">STANFORD SUIF Compiler Group</A>
+<li><A HREF="http://tv.bbn.com/">BBN's Web Page describing their parallel software tools</A>
+</MENU>
+
+
+
+++++++++++++++++++++<Over>++++++++++++++++++++
