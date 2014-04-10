@@ -1,3 +1,4 @@
+#Get the files in directory AllVector1/$i where $i varies from 1 to 72 and for the documents(around 100) present in this directory print their tf in file FeaturesTf$i
 library("tm")
 library("SnowballC")
 #reading dictionary

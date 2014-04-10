@@ -1,1 +1,5 @@
 To merge files with same name recursively in all folders -> find Top3 -name "web1" -print0 | xargs -0 cat >> rr
+sed -i 's/^/[/g' FeaturesTf*
+sed -i 's/\t/,/g' 
+sed -i 's/$/]/g'
+sed -i '1,1d'

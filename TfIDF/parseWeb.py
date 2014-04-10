@@ -1,3 +1,5 @@
+#The files in def path had =x20 and *x20 for seperating two webpages.
+#This extracts the textual prime data from them and stores in writefolder.
 import BeautifulSoup
 import urllib
 import os

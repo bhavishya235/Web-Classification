@@ -1,0 +1,5 @@
+d=read.delim("FeaturesTfIdf0")
+e=t(d)
+f=dist(e,method="euclidean")
+g=hclust(f,method="ward")
+plot(g)
